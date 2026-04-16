@@ -33,15 +33,26 @@ export async function fetchPlaylistVideos(limit?: number): Promise<YouTubeVideo[
     const url = `https://www.youtube.com/feeds/videos.xml?playlist_id=${PLAYLIST_ID}`;
 
     const res = await fetch(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'application/atom+xml, application/xml, text/xml',
+        'Accept-Language': 'pt-BR,pt;q=0.9,en;q=0.8',
+      },
       next: { revalidate: 3600 },
     });
 
     if (!res.ok) {
-      console.error('Failed to fetch YouTube RSS:', res.status);
+      console.error('Failed to fetch YouTube RSS:', res.status, res.statusText);
       return [];
     }
 
     const xml = await res.text();
+
+    if (!xml.includes('<entry>')) {
+      console.error('YouTube RSS returned no entries. Response length:', xml.length);
+      return [];
+    }
+
     const entries = xml.match(/<entry>[\s\S]*?<\/entry>/g) || [];
 
     const videos: YouTubeVideo[] = entries.map((entry) => {

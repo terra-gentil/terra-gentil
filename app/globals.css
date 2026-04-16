@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+@theme {
+  --color-terra-50: #f1f8f1;
+  --color-terra-100: #d8f3dc;
+  --color-terra-200: #b7e4c7;
+  --color-terra-300: #95d5b2;
+  --color-terra-400: #74c69d;
+  --color-terra-500: #52b788;
+  --color-terra-600: #40916c;
+  --color-terra-700: #2d6a4f;
+  --color-terra-800: #1b4332;
+  --color-terra-900: #1a4d2e;
+
+  --color-accent-warm: #d84315;
+  --color-accent-gold: #c48f56;
+
+  --font-sans: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+  --animate-scan-line: scan-line 2s ease-in-out infinite;
+}
+
+@keyframes scan-line {
+  0% {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #1a4d2e;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
+
+html {
+  scroll-behavior: smooth;
+}

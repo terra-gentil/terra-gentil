@@ -12,7 +12,7 @@ const cspParts = [
   "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://*.googletagmanager.com",
   "style-src 'self' 'unsafe-inline'",
   "font-src 'self' data:",
-  "frame-src https://www.youtube.com https://www.youtube-nocookie.com https://terra-gentil.github.io",
+  "frame-src https://www.youtube.com https://www.youtube-nocookie.com https://terra-gentil.github.io https://www.instagram.com",
   "connect-src 'self' https://terra-gentil-game-production.up.railway.app https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com",
   "object-src 'none'",
   "base-uri 'self'",

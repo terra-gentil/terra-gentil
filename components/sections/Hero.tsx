@@ -41,8 +41,9 @@ export default function Hero() {
           <Image
             src="/images/mascot/wave.png"
             alt="Brotinho mascote da Terra Gentil acenando"
-            width={520}
-            height={620}
+            width={992}
+            height={1024}
+            sizes="(max-width: 1000px) 60vw, 32vw"
             priority
           />
         </div>

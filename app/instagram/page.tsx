@@ -1,12 +1,15 @@
 import type { Metadata } from 'next';
 import { INSTAGRAM_HANDLE, INSTAGRAM_URL } from '@/lib/constants';
 import { igFull, type IgPost } from '@/data/instagram';
+import { fetchInstagramMedia, type IgMedia } from '@/lib/instagram';
 import InstagramEmbed from '@/components/ui/InstagramEmbed';
 
 export const metadata: Metadata = {
   title: 'Instagram · Terra Gentil',
   description: 'Feed completo do Terra Gentil no Instagram: bastidor, dicas rápidas, planta do dia, comunidade.',
 };
+
+export const revalidate = 3600;
 
 const TONES: ReadonlyArray<readonly [string, string]> = [
   ['#11201A', '#4A8C4F'],
@@ -23,7 +26,7 @@ const TONES: ReadonlyArray<readonly [string, string]> = [
   ['#2A1810', '#74C69D'],
 ];
 
-function IgIcon({ kind }: { kind: IgPost['kind'] }) {
+function IgIcon({ kind }: { kind: 'reel' | 'photo' | 'carousel' }) {
   if (kind === 'reel') {
     return (
       <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
@@ -43,7 +46,10 @@ function IgIcon({ kind }: { kind: IgPost['kind'] }) {
   return null;
 }
 
-export default function InstagramPage() {
+export default async function InstagramPage() {
+  const live = await fetchInstagramMedia(12);
+  const items: Array<IgMedia | IgPost> = live.length > 0 ? live : igFull;
+
   return (
     <section id="instagram" className="ig" style={{ paddingTop: 140 }}>
       <div className="ig-head">
@@ -64,19 +70,22 @@ export default function InstagramPage() {
         </a>
       </div>
       <div className="ig-grid ig-grid-feed">
-        {igFull.map((p, i) => {
+        {items.map((p, i) => {
           const tone = TONES[i % TONES.length];
-          if (p.shortcode) {
+          if ('shortcode' in p && p.shortcode) {
+            const isLive = 'permalink' in p;
+            const caption = isLive ? (p as IgMedia).caption : (p as IgPost).title;
             return (
               <div
-                key={i}
+                key={isLive ? (p as IgMedia).id : i}
                 className="ig-tile ig-tile-embed"
                 style={{ '--ig-bg': tone[0], '--ig-fg': tone[1] } as React.CSSProperties}
               >
-                <InstagramEmbed shortcode={p.shortcode} caption={p.title} withCaption />
+                <InstagramEmbed shortcode={p.shortcode} caption={caption} withCaption />
               </div>
             );
           }
+          const post = p as IgPost;
           return (
             <a
               key={i}
@@ -89,12 +98,12 @@ export default function InstagramPage() {
               <div className="ig-placeholder">
                 <div className="ig-pattern" />
                 <div className="ig-kind">
-                  <IgIcon kind={p.kind} />
-                  <span>{p.kind}</span>
+                  <IgIcon kind={post.kind} />
+                  <span>{post.kind}</span>
                 </div>
                 <div className="ig-meta">
-                  <div className="ig-tag">#{p.tag}</div>
-                  <div className="ig-title">{p.title}</div>
+                  <div className="ig-tag">#{post.tag}</div>
+                  <div className="ig-title">{post.title}</div>
                 </div>
                 <div className="ig-hover">
                   <span>Ver no Instagram</span>

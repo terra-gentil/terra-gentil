@@ -141,37 +141,77 @@ Onde gerar nova chave: https://aistudio.google.com/apikey
 
 ---
 
-## 🎯 Próximos Passos (por prioridade)
+## 🚀 Deploy em Produção (Vercel + DNS)
 
-### 🔥 Prioridade Alta
+### 1. Importar projeto na Vercel
 
-1. **Testar Doutor das Plantas com foto real**
-   - Subir foto de planta no localhost e validar retorno do Gemini
-   - Ajustar prompt se necessário (em `app/api/diagnose/route.ts`)
+1. Logar em https://vercel.com com a conta GitHub que tem acesso ao repo `terra-gentil/terra-gentil`.
+2. Add New → Project → Import o repo.
+3. Em **Framework Preset**, deve detectar `Next.js` automaticamente. Confirmar.
+4. **Root Directory**: deixar em branco (raiz).
+5. Build Command e Output Directory: defaults do Next (não tocar).
+6. Antes de clicar Deploy, em **Environment Variables**, adicionar:
 
-2. **Deploy na Vercel**
-   ```powershell
-   # Criar repo no GitHub primeiro
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git remote add origin https://github.com/SEU_USUARIO/terra-gentil.git
-   git push -u origin main
+| Nome | Onde pegar | Obrigatória? |
+|------|-----------|:-:|
+| `GEMINI_API_KEY` | https://aistudio.google.com/apikey | sim (sem ela, /api/diagnose retorna 500) |
+| `NEXT_PUBLIC_GA_ID` | Analytics → Admin → Streams → ID de medição (formato `G-XXXXXXXXXX`) | opcional (sem ela, GA não carrega) |
+| `NEXT_PUBLIC_GOOGLE_VERIFICATION` | Search Console → Add property → HTML tag → só o `content=` | opcional (verificação do Search Console) |
+| `NEXT_PUBLIC_GAME_ENABLED` | Setar `true` quando o jogo (G10) estiver pronto | opcional (default: rota /jogo mostra "em breve") |
 
-   # Depois ir em vercel.com > New Project > Import do GitHub
-   # Adicionar variável GEMINI_API_KEY nas settings do projeto
-   ```
+7. Clicar **Deploy**. Primeiro deploy demora ~2 min.
 
-3. **Migração DNS** (trocar WordPress velho pelo novo)
-   - Apontar DNS do terragentil.com.br pra Vercel
-   - Criar redirects 301 das URLs antigas (veja lista em `MIGRATION.md` — a criar)
+### 2. Conectar domínio terragentil.com.br
 
-### 📝 Prioridade Média
+1. Na Vercel, abrir o projeto → **Settings** → **Domains**.
+2. Adicionar `terragentil.com.br` e `www.terragentil.com.br`.
+3. A Vercel vai mostrar registros DNS para configurar (`A` ou `CNAME`).
+4. No painel do registrador (Hostinger, Registro.br, etc), apontar:
+   - `terragentil.com.br` → registro `A` para `76.76.21.21` (Vercel)
+   - `www.terragentil.com.br` → `CNAME` para `cname.vercel-dns.com`
+5. Aguardar propagação DNS (5min a 24h, normalmente em 30min).
+6. HTTPS é provisionado automaticamente pela Vercel via Let's Encrypt.
 
-4. **Mais conteúdo no blog** — escrever 4-6 posts novos
-5. **Mais fotos de transformações** — baixar do Hostinger e adicionar em `data/transformations.ts`
-6. **Google Analytics 4** — adicionar tag no layout.tsx
-7. **Google Search Console** — submeter sitemap
+### 3. Validar pós-deploy
+
+Em ordem de criticidade:
+
+- [ ] Home carrega em https://terragentil.com.br com HTTPS válido
+- [ ] `/sobre`, `/blog`, `/transformacoes`, `/videos`, `/equipamentos` abrem
+- [ ] `/sitemap.xml` lista todas as rotas
+- [ ] `/robots.txt` permite tudo, bloqueia `/api/`
+- [ ] Doutor das Plantas com foto real retorna diagnóstico em <15s
+- [ ] WhatsApp button leva pra `+55 11 92093-8591`
+- [ ] Vídeos da home carregam thumbnail e tocam ao clicar (lite-embed)
+- [ ] Redirects 301 funcionam (testar `https://terragentil.com.br/?p=123`, `/wp-admin/`, `/feed/`)
+- [ ] 404 customizada aparece em URL inexistente (`/jardim-lindo-pdf-nao-existe`)
+- [ ] Headers de segurança via https://securityheaders.com (alvo: A ou A+)
+- [ ] Lighthouse Performance ≥ 90 (mobile)
+- [ ] No GA4 (Realtime), confirmar evento de pageview ao abrir o site
+- [ ] No Search Console, submeter `https://terragentil.com.br/sitemap.xml`
+
+### 4. Cortar o WordPress velho (Hostinger)
+
+Só fazer DEPOIS de validar tudo acima:
+
+1. Backup final do WordPress antigo (XML + uploads.zip já salvos).
+2. No Hostinger, desativar o site atual (modo manutenção ou apontar DNS pra Vercel já cuidou disso).
+3. Cancelar plano Hostinger se aplicável.
+4. Confirmar que o domínio está apontando 100% pra Vercel.
+
+### CI/CD
+
+Push pra `main` dispara deploy automático na Vercel. Cada PR ganha preview URL. O workflow `.github/workflows/ci.yml` roda lint + type-check + test + build em todo push e PR — falha bloqueia o merge se você habilitar branch protection em `main`.
+
+---
+
+## 🎯 Próximos passos (pós-deploy)
+
+### 📝 Prioridade média
+1. **Testar Doutor das Plantas em prod** com 5-10 fotos diferentes pra calibrar prompt
+2. **Mais posts** no blog (4-6 escritos), atualizar `data/posts.ts`
+3. **Mais transformações** com fotos baixadas do `uploads.zip`
+4. **Branch protection** em `main` requerendo CI passar
 
 ### 🎨 Prioridade Baixa (polish)
 

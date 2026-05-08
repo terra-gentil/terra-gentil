@@ -1,0 +1,53 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+# Permissoes minimas. Sem write em conteudo.
+permissions:
+  contents: read
+
+# Cancela runs antigos em commits sequenciais na mesma ref.
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    name: Lint, type-check, test, build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Type check
+        run: npm run type-check
+
+      - name: Tests
+        run: npm test
+
+      - name: Build
+        env:
+          # Build precisa apenas que a env exista; nao chama Gemini.
+          # Se /api/diagnose for SSG-only, isso nem e usado em build time.
+          GEMINI_API_KEY: build-stub
+          NEXT_PUBLIC_GAME_ENABLED: 'false'
+        run: npm run build

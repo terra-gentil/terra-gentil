@@ -28,7 +28,7 @@ O dono do canal (André) é o meu amigo/cliente. O site tem:
 
 - **Windows** (PowerShell é meu terminal)
 - **VS Code** (já está aberto no projeto)
-- Pasta do projeto: `C:\Users\engan\Documents\Terra_Gentil_Site\terra-gentil`
+- Pasta do projeto: `C:\Gitlab_hz\terra-gentil-site\terra-gentil`
 - Node.js 24.14.1 instalado
 - Git instalado
 - `npm run dev` rodando em http://localhost:3000
@@ -143,7 +143,7 @@ Se precisar de alguma outra imagem/conteúdo que não tá no projeto, extrair do
 
 ```powershell
 # Rodar dev
-cd C:\Users\engan\Documents\Terra_Gentil_Site\terra-gentil
+cd C:\Gitlab_hz\terra-gentil-site\terra-gentil
 npm run dev
 
 # Instalar nova dependência
@@ -174,6 +174,12 @@ Add-Type -AssemblyName System.IO.Compression.FileSystem
 - **Tom de voz:** acolhedor, gentileza, natureza, "Seja gentil com a terra"
 
 ---
+
+## 🛡️ Vulnerabilidades aceitas (auditadas)
+
+`npm audit` em 2026-05-08 reporta **2 moderate** vindas de `postcss <8.5.10`, dep transitiva do `next@16.2.4`. CVE GHSA-qx2v-qp2m-jg93 (XSS via Unescaped `</style>` em CSS Stringify).
+
+**Decisão**: aceitar. PostCSS roda em build-time, processa CSS do nosso código + Tailwind (sem input dinâmico do usuário). Pra explorar, atacante precisaria conseguir injetar CSS no source (= compromisso já bem mais grave). `npm audit fix --force` causa downgrade pra `next@9.3.3` (breaking). Reavaliar quando o Next bumpar postcss interno.
 
 ## 🙏 Como começar a conversa comigo
 

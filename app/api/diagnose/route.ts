@@ -1,9 +1,43 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import { NextResponse } from 'next/server';
+import { z } from 'zod';
+import type { DiagnosisResponse } from '@/types/diagnosis';
+import { checkRateLimit } from '@/lib/rate-limit';
+import { log, newRequestId } from '@/lib/logger';
 
 export const runtime = 'nodejs';
 
-const apiKey = process.env.GEMINI_API_KEY;
+const MAX_BASE64_BYTES = 10 * 1024 * 1024;
+const ALLOWED_MIME_TYPES = ['image/jpeg', 'image/png', 'image/webp', 'image/heic', 'image/heif'];
+
+const RATE_LIMIT = { limit: 5, windowMs: 60_000 };
+
+const requestSchema = z.object({
+  image: z.string().min(1, 'image required').max(MAX_BASE64_BYTES, 'image too large (max 10MB)'),
+  mimeType: z
+    .string()
+    .optional()
+    .refine((m) => !m || ALLOWED_MIME_TYPES.includes(m), 'unsupported mimeType'),
+});
+
+// Schema do retorno do Gemini. Espelha o tipo Diagnosis em types/diagnosis.ts.
+// Se o modelo devolver shape diferente, falha o parse e tentamos o proximo modelo.
+const diagnosisOutputSchema = z.object({
+  plantName: z.string().min(1),
+  scientificName: z.string().min(1),
+  welcomeMessage: z.string().min(1),
+  toxicity: z.object({ isToxic: z.boolean(), details: z.string() }),
+  diagnosis: z.object({ problem: z.string(), description: z.string() }),
+  stats: z.object({
+    light: z.string(),
+    watering: z.string(),
+    temperature: z.string(),
+    difficulty: z.string(),
+  }),
+  treatment: z.array(z.object({ period: z.string(), action: z.string() })),
+});
+
+const errorOutputSchema = z.object({ error: z.string() });
 
 const PROMPT = `Você é o Doutor Terra Gentil, especialista empático em plantas.
 
@@ -37,21 +71,49 @@ Analise a imagem da planta e retorne APENAS um JSON válido (sem markdown, sem b
 Se a imagem não for de uma planta, retorne:
 { "error": "A imagem não parece ser de uma planta. Tente novamente." }`;
 
-export async function POST(request: Request) {
+function getClientIp(request: Request): string {
+  const xff = request.headers.get('x-forwarded-for');
+  if (xff) return xff.split(',')[0]!.trim();
+  return request.headers.get('x-real-ip') ?? 'anon';
+}
+
+export async function POST(request: Request): Promise<NextResponse<DiagnosisResponse>> {
+  const requestId = newRequestId();
+  const ip = getClientIp(request);
+
+  const apiKey = process.env.GEMINI_API_KEY;
   if (!apiKey) {
+    log.error('diagnose_no_api_key', { requestId });
+    return NextResponse.json({ error: 'API key não configurada' }, { status: 500 });
+  }
+
+  const rl = checkRateLimit(`diagnose:${ip}`, RATE_LIMIT);
+  if (!rl.success) {
+    log.warn('diagnose_rate_limited', { requestId, ip, resetMs: rl.resetMs });
     return NextResponse.json(
-      { error: 'API key não configurada' },
-      { status: 500 }
+      { error: 'Muitas tentativas. Espere um minuto e tente de novo.' },
+      { status: 429, headers: { 'Retry-After': Math.ceil(rl.resetMs / 1000).toString() } },
     );
   }
 
+  let body: unknown;
   try {
-    const { image, mimeType } = await request.json();
+    body = await request.json();
+  } catch {
+    return NextResponse.json({ error: 'JSON inválido' }, { status: 400 });
+  }
 
-    if (!image) {
-      return NextResponse.json({ error: 'Imagem não enviada' }, { status: 400 });
-    }
+  const parsedBody = requestSchema.safeParse(body);
+  if (!parsedBody.success) {
+    return NextResponse.json(
+      { error: parsedBody.error.issues[0]?.message ?? 'requisição inválida' },
+      { status: 400 },
+    );
+  }
 
+  const { image, mimeType } = parsedBody.data;
+
+  try {
     const genAI = new GoogleGenerativeAI(apiKey);
     const models = ['gemini-2.5-flash', 'gemini-2.5-flash-lite'];
 
@@ -62,42 +124,55 @@ export async function POST(request: Request) {
         const model = genAI.getGenerativeModel({ model: modelName });
         const result = await model.generateContent([
           PROMPT,
-          {
-            inlineData: {
-              data: image,
-              mimeType: mimeType || 'image/jpeg',
-            },
-          },
+          { inlineData: { data: image, mimeType: mimeType ?? 'image/jpeg' } },
         ]);
 
         const response = await result.response;
         let text = response.text().trim();
-
         text = text.replace(/```json\s*/g, '').replace(/```\s*/g, '').trim();
 
-        const parsed = JSON.parse(text);
-
-        if (parsed.error) {
-          return NextResponse.json({ error: parsed.error }, { status: 400 });
+        let candidate: unknown;
+        try {
+          candidate = JSON.parse(text);
+        } catch (parseErr) {
+          lastError = parseErr;
+          log.warn('diagnose_invalid_json', { requestId, modelName });
+          continue;
         }
 
-        return NextResponse.json(parsed);
+        const errParsed = errorOutputSchema.safeParse(candidate);
+        if (errParsed.success) {
+          log.info('diagnose_not_a_plant', { requestId, modelName });
+          return NextResponse.json({ error: errParsed.data.error }, { status: 400 });
+        }
+
+        const okParsed = diagnosisOutputSchema.safeParse(candidate);
+        if (!okParsed.success) {
+          lastError = okParsed.error;
+          log.warn('diagnose_invalid_shape', {
+            requestId,
+            modelName,
+            issues: okParsed.error.issues.length,
+          });
+          continue;
+        }
+
+        log.info('diagnose_ok', { requestId, modelName });
+        return NextResponse.json(okParsed.data);
       } catch (err) {
         lastError = err;
+        log.warn('diagnose_model_error', { requestId, modelName, error: String(err) });
         continue;
       }
     }
 
-    console.error('All models failed:', lastError);
+    log.error('diagnose_all_models_failed', { requestId, error: String(lastError) });
     return NextResponse.json(
       { error: 'Não foi possível analisar a imagem. Tente novamente.' },
-      { status: 500 }
+      { status: 500 },
     );
   } catch (err) {
-    console.error('Diagnose API error:', err);
-    return NextResponse.json(
-      { error: 'Erro no servidor. Tente novamente.' },
-      { status: 500 }
-    );
+    log.error('diagnose_unhandled', { requestId, error: String(err) });
+    return NextResponse.json({ error: 'Erro no servidor. Tente novamente.' }, { status: 500 });
   }
 }

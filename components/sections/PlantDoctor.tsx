@@ -1,32 +1,10 @@
 'use client';
 
-import { useState, useRef } from 'react';
+import Image from 'next/image';
+import { useState, useRef, useEffect } from 'react';
 import { Camera, Leaf, Loader2, AlertCircle, RefreshCw, Droplets, Sun, Thermometer, Activity } from 'lucide-react';
 import { findEbookForPlant } from '@/data/ebooks';
-
-interface Diagnosis {
-  plantName: string;
-  scientificName: string;
-  welcomeMessage: string;
-  toxicity: {
-    isToxic: boolean;
-    details: string;
-  };
-  diagnosis: {
-    problem: string;
-    description: string;
-  };
-  stats: {
-    light: string;
-    watering: string;
-    temperature: string;
-    difficulty: string;
-  };
-  treatment: Array<{
-    period: string;
-    action: string;
-  }>;
-}
+import type { Diagnosis } from '@/types/diagnosis';
 
 const LOADING_MESSAGES = [
   '🔍 Escaneando folhas e caule...',
@@ -44,6 +22,18 @@ export default function PlantDoctor() {
   const [progress, setProgress] = useState(0);
   const [loadingMsg, setLoadingMsg] = useState(LOADING_MESSAGES[0]);
   const fileInputRef = useRef<HTMLInputElement>(null);
+  const progressIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  const abortRef = useRef<AbortController | null>(null);
+
+  // Garante limpeza se o componente desmontar durante upload em andamento.
+  // Sem isso, o setInterval continua rodando (leak) e tenta setState em
+  // componente desmontado, gerando warning e retendo memoria.
+  useEffect(() => {
+    return () => {
+      if (progressIntervalRef.current) clearInterval(progressIntervalRef.current);
+      if (abortRef.current) abortRef.current.abort();
+    };
+  }, []);
 
   const simulateProgress = () => {
     let p = 0;
@@ -73,26 +63,31 @@ export default function PlantDoctor() {
       const base64 = (e.target?.result as string).split(',')[1];
       setImage(e.target?.result as string);
 
-      const progressInterval = simulateProgress();
+      progressIntervalRef.current = simulateProgress();
+      abortRef.current = new AbortController();
 
       try {
         const res = await fetch('/api/diagnose', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ image: base64, mimeType: file.type }),
+          signal: abortRef.current.signal,
         });
 
         if (!res.ok) throw new Error('Erro na análise');
         const data = await res.json();
 
         setProgress(100);
-        clearInterval(progressInterval);
+        if (progressIntervalRef.current) clearInterval(progressIntervalRef.current);
+        progressIntervalRef.current = null;
         setTimeout(() => {
           setDiagnosis(data);
           setLoading(false);
         }, 400);
       } catch (err) {
-        clearInterval(progressInterval);
+        if (progressIntervalRef.current) clearInterval(progressIntervalRef.current);
+        progressIntervalRef.current = null;
+        if (err instanceof DOMException && err.name === 'AbortError') return;
         setLoading(false);
         setError('Falha na análise. Tente novamente com uma foto mais nítida.');
       }
@@ -152,10 +147,13 @@ export default function PlantDoctor() {
             <div className="p-8 text-center">
               <div className="relative w-40 h-40 mx-auto mb-6">
                 {image && (
-                  <img
+                  <Image
                     src={image}
                     alt="Analisando"
-                    className="w-full h-full object-cover rounded-2xl"
+                    fill
+                    sizes="160px"
+                    unoptimized
+                    className="object-cover rounded-2xl"
                   />
                 )}
                 <div className="absolute inset-0 rounded-2xl bg-gradient-to-b from-transparent via-terra-400/30 to-transparent animate-scan-line pointer-events-none" />
@@ -199,11 +197,16 @@ export default function PlantDoctor() {
           {diagnosis && (
             <div className="p-6 md:p-8">
               {image && (
-                <img
-                  src={image}
-                  alt={diagnosis.plantName}
-                  className="w-full max-h-64 object-cover rounded-2xl mb-6"
-                />
+                <div className="relative w-full h-64 mb-6">
+                  <Image
+                    src={image}
+                    alt={diagnosis.plantName}
+                    fill
+                    sizes="(max-width: 768px) 100vw, 800px"
+                    unoptimized
+                    className="object-cover rounded-2xl"
+                  />
+                </div>
               )}
 
               <div className="text-center border-b border-terra-100 pb-4 mb-6">
@@ -274,9 +277,11 @@ export default function PlantDoctor() {
                     🎁 Presente pra você
                   </div>
                   <div className="mb-2">
-                    <img
+                    <Image
                       src={ebook.image}
                       alt={ebook.title}
+                      width={80}
+                      height={80}
                       className="w-20 h-20 mx-auto rounded-lg shadow-lg object-cover"
                     />
                   </div>

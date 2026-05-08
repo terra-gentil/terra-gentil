@@ -47,4 +47,6 @@ body {
 
 html {
   scroll-behavior: smooth;
+  /* Header eh sticky com h-16 (4rem). Anchor scroll fica oculto sem padding-top. */
+  scroll-padding-top: 5rem;
 }

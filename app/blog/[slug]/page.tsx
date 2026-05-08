@@ -1,7 +1,9 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
+import Image from 'next/image';
 import { ArrowLeft } from 'lucide-react';
 import { posts } from '@/data/posts';
+import { SITE_NAME, SITE_URL } from '@/lib/constants';
 import type { Metadata } from 'next';
 
 export function generateStaticParams() {
@@ -18,8 +20,15 @@ export async function generateMetadata({
   if (!post) return { title: 'Post não encontrado' };
 
   return {
-    title: `${post.title} — Terra Gentil`,
+    title: `${post.title} - ${SITE_NAME}`,
     description: post.excerpt,
+    openGraph: {
+      title: post.title,
+      description: post.excerpt,
+      type: 'article',
+      publishedTime: post.date,
+      images: post.image ? [{ url: post.image }] : undefined,
+    },
   };
 }
 
@@ -56,16 +65,50 @@ export default async function PostPage({
         </h1>
 
         {post.image && (
-          <img
+          <Image
             src={post.image}
             alt={post.title}
+            width={1200}
+            height={675}
+            priority
             className="w-full aspect-[16/9] object-cover rounded-2xl mb-10"
           />
         )}
 
+        {/*
+          dangerouslySetInnerHTML aqui e SEGURO porque post.content vem de
+          data/posts.ts (versionado em git, escrito por nos). Se um dia migrar
+          pra CMS ou input do usuario, sanitizar com DOMPurify ou similar antes.
+        */}
         <div
           className="prose prose-terra max-w-none text-terra-800 leading-relaxed space-y-4 [&>p]:mb-4 [&>h3]:text-xl [&>h3]:font-bold [&>h3]:text-terra-800 [&>h3]:mt-8 [&>h3]:mb-3"
           dangerouslySetInnerHTML={{ __html: post.content }}
+        />
+
+        {/* JSON-LD Article schema. Permite Google enriquecer o resultado de busca
+            com data, autor, imagem. Inline porque os dados vem do mesmo render. */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'Article',
+              headline: post.title,
+              description: post.excerpt,
+              datePublished: post.date,
+              image: post.image ? `${SITE_URL}${post.image}` : undefined,
+              author: { '@type': 'Organization', name: SITE_NAME },
+              publisher: {
+                '@type': 'Organization',
+                name: SITE_NAME,
+                logo: { '@type': 'ImageObject', url: `${SITE_URL}/images/logo.png` },
+              },
+              mainEntityOfPage: {
+                '@type': 'WebPage',
+                '@id': `${SITE_URL}/blog/${post.slug}`,
+              },
+            }),
+          }}
         />
       </div>
     </article>

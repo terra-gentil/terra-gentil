@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
+import Image from 'next/image';
 import { ArrowRight } from 'lucide-react';
 import { posts } from '@/data/posts';
 
@@ -31,11 +32,13 @@ export default function BlogPage() {
                 <Link href={`/blog/${post.slug}`} className="block">
                   <div className="md:flex">
                     {post.image && (
-                      <div className="md:w-1/3 h-48 md:h-auto bg-terra-100 overflow-hidden">
-                        <img
+                      <div className="md:w-1/3 h-48 md:h-auto bg-terra-100 overflow-hidden relative">
+                        <Image
                           src={post.image}
                           alt={post.title}
-                          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                          fill
+                          sizes="(max-width: 768px) 100vw, 33vw"
+                          className="object-cover group-hover:scale-105 transition-transform duration-500"
                         />
                       </div>
                     )}

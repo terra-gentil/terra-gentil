@@ -1,3 +1,6 @@
+import { YOUTUBE_PLAYLIST_ID } from '@/lib/constants';
+import { log } from '@/lib/logger';
+
 export interface YouTubeVideo {
   id: string;
   title: string;
@@ -6,7 +9,9 @@ export interface YouTubeVideo {
   thumbnail: string;
 }
 
-const PLAYLIST_ID = 'PLo0P-qaOD_PSJ24_1Z5d9JbwVs2Y3oDS8';
+const FETCH_TIMEOUT_MS = 8000;
+// User-Agent generico (sem fixar versao de browser que envelhece em string).
+const USER_AGENT = 'Mozilla/5.0 (compatible; TerraGentilBot/1.0; +https://terragentil.com.br)';
 
 function decodeEntities(text: string): string {
   return text
@@ -29,51 +34,64 @@ function extractAttribute(xml: string, tag: string, attr: string): string {
 }
 
 export async function fetchPlaylistVideos(limit?: number): Promise<YouTubeVideo[]> {
-  try {
-    const url = `https://www.youtube.com/feeds/videos.xml?playlist_id=${PLAYLIST_ID}`;
+  const url = `https://www.youtube.com/feeds/videos.xml?playlist_id=${YOUTUBE_PLAYLIST_ID}`;
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
 
+  try {
     const res = await fetch(url, {
       headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'application/atom+xml, application/xml, text/xml',
+        'User-Agent': USER_AGENT,
+        Accept: 'application/atom+xml, application/xml, text/xml',
         'Accept-Language': 'pt-BR,pt;q=0.9,en;q=0.8',
       },
       next: { revalidate: 3600 },
+      signal: controller.signal,
     });
 
     if (!res.ok) {
-      console.error('Failed to fetch YouTube RSS:', res.status, res.statusText);
+      log.warn('youtube_rss_http_error', { status: res.status, statusText: res.statusText });
       return [];
     }
 
     const xml = await res.text();
 
     if (!xml.includes('<entry>')) {
-      console.error('YouTube RSS returned no entries. Response length:', xml.length);
+      log.warn('youtube_rss_no_entries', { responseLength: xml.length });
       return [];
     }
 
     const entries = xml.match(/<entry>[\s\S]*?<\/entry>/g) || [];
 
-    const videos: YouTubeVideo[] = entries.map((entry) => {
-      const id = extractTag(entry, 'yt:videoId') || extractTag(entry, 'videoId');
-      const title = extractTag(entry, 'title');
-      const description = extractTag(entry, 'media:description');
-      const publishedAt = extractTag(entry, 'published');
-      const thumbnail = extractAttribute(entry, 'media:thumbnail', 'url') || `https://i.ytimg.com/vi/${id}/maxresdefault.jpg`;
+    const videos: YouTubeVideo[] = entries
+      .map((entry) => {
+        const id = extractTag(entry, 'yt:videoId') || extractTag(entry, 'videoId');
+        const title = extractTag(entry, 'title');
+        const description = extractTag(entry, 'media:description');
+        const publishedAt = extractTag(entry, 'published');
+        const thumbnail =
+          extractAttribute(entry, 'media:thumbnail', 'url') ||
+          `https://i.ytimg.com/vi/${id}/maxresdefault.jpg`;
 
-      return {
-        id,
-        title,
-        description: description.slice(0, 150),
-        publishedAt,
-        thumbnail,
-      };
-    }).filter((v) => v.id);
+        return {
+          id,
+          title,
+          description: description.slice(0, 150),
+          publishedAt,
+          thumbnail,
+        };
+      })
+      .filter((v) => v.id);
 
     return limit ? videos.slice(0, limit) : videos;
   } catch (err) {
-    console.error('Error fetching YouTube playlist:', err);
+    if (err instanceof Error && err.name === 'AbortError') {
+      log.warn('youtube_rss_timeout', { timeoutMs: FETCH_TIMEOUT_MS });
+    } else {
+      log.error('youtube_rss_fetch_error', { error: String(err) });
+    }
     return [];
+  } finally {
+    clearTimeout(timeoutId);
   }
 }

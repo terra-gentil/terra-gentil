@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { whatsappLink } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: 'Equipamentos — Terra Gentil',
@@ -80,7 +81,7 @@ export default function EquipamentosPage() {
               Estamos abertos a parcerias com marcas que queiram ver seus produtos em ação nas transformações Terra Gentil.
             </p>
             <a
-              href="https://wa.me/5511920938591?text=Ol%C3%A1!%20Gostaria%20de%20falar%20sobre%20parceria%20Terra%20Gentil"
+              href={whatsappLink('Olá! Gostaria de falar sobre parceria Terra Gentil')}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-white hover:bg-terra-50 text-terra-800 px-6 py-3 rounded-full font-medium transition-all hover:scale-105"

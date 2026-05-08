@@ -1,5 +1,6 @@
 import Link from 'next/link';
-import { ArrowRight, Play, Leaf } from 'lucide-react';
+import { Play, Leaf } from 'lucide-react';
+import { YOUTUBE_URL } from '@/lib/constants';
 
 export default function Hero() {
   return (
@@ -31,7 +32,7 @@ export default function Hero() {
             </Link>
 
             <a
-              href="https://www.youtube.com/@TerraGentil"
+              href={YOUTUBE_URL}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-white hover:bg-terra-50 text-terra-800 px-6 py-3 rounded-full font-medium border-2 border-terra-200 transition-all"

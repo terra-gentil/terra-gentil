@@ -1,9 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-
-const WHATSAPP_NUMBER = '5511920938591';
-const DEFAULT_MESSAGE = 'Olá! Vi o site Terra Gentil e gostaria de saber mais.';
+import { whatsappLink } from '@/lib/constants';
 
 export default function WhatsAppButton() {
   const [visible, setVisible] = useState(false);
@@ -13,7 +11,7 @@ export default function WhatsAppButton() {
     return () => clearTimeout(timer);
   }, []);
 
-  const href = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(DEFAULT_MESSAGE)}`;
+  const href = whatsappLink();
 
   return (
     <a

@@ -1,51 +1,56 @@
+import Image from 'next/image';
 import Link from 'next/link';
-import { Play, Leaf } from 'lucide-react';
+import Leaves from './Leaves';
 import { YOUTUBE_URL } from '@/lib/constants';
 
 export default function Hero() {
   return (
-    <section className="relative bg-gradient-to-br from-terra-50 via-white to-terra-100 overflow-hidden">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 md:py-28">
-        <div className="max-w-3xl">
-          <div className="inline-flex items-center gap-2 bg-terra-100 text-terra-800 px-3 py-1 rounded-full text-sm font-medium mb-6">
-            <Leaf size={14} />
-            <span>Jardinagem com Gentileza</span>
+    <section id="top" className="hero">
+      <Leaves count={18} />
+      <div className="hero-grid">
+        <div>
+          <div className="hero-pill">
+            <span className="dot" /> AO VIVO NO YOUTUBE · NOVO VÍDEO TODA SEMANA
           </div>
-
-          <h1 className="text-4xl md:text-6xl font-bold text-terra-900 leading-tight mb-6">
-            Transformando quintais esquecidos em{' '}
-            <span className="text-terra-600">espaços vivos</span>
+          <h1>
+            <span className="row">Jardinagem</span>
+            <span className="row">
+              <span className="ital">com</span> gentileza
+            </span>
+            <span className="row stroke">e muita terra</span>
           </h1>
-
-          <p className="text-lg md:text-xl text-terra-700 mb-8 leading-relaxed">
-            Cada transformação é uma história de cuidado, respeito e recomeço.
-            Descubra o poder da gentileza aplicada à natureza.
+          <p className="hero-sub">
+            Cada quintal esquecido vira um espaço vivo. Cada planta sofrida ganha um diagnóstico. André,
+            junto do nosso Brotinho, transforma mato bagunçado em jardim toda semana, e te ensinam o
+            caminho.
           </p>
-
-          <div className="flex flex-col sm:flex-row gap-4">
-            <Link
-              href="#doutor"
-              className="inline-flex items-center justify-center gap-2 bg-terra-700 hover:bg-terra-800 text-white px-6 py-3 rounded-full font-medium transition-all hover:scale-105"
-            >
-              <Leaf size={18} />
-              Diagnosticar minha planta
-            </Link>
-
-            <a
-              href={YOUTUBE_URL}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center justify-center gap-2 bg-white hover:bg-terra-50 text-terra-800 px-6 py-3 rounded-full font-medium border-2 border-terra-200 transition-all"
-            >
-              <Play size={18} />
+          <div className="hero-cta-row">
+            <a href={YOUTUBE_URL} target="_blank" rel="noreferrer" className="btn-yt">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                <path d="M23.498 6.186a2.994 2.994 0 0 0-2.11-2.117C19.804 3.5 12 3.5 12 3.5s-7.804 0-9.388.569A2.994 2.994 0 0 0 .502 6.186C0 7.772 0 12 0 12s0 4.228.502 5.814a2.994 2.994 0 0 0 2.11 2.117c1.584.569 9.388.569 9.388.569s7.804 0 9.388-.569a2.994 2.994 0 0 0 2.11-2.117C24 16.228 24 12 24 12s0-4.228-.502-5.814ZM9.75 15.568V8.432L15.818 12 9.75 15.568Z" />
+              </svg>
               Assistir no YouTube
             </a>
+            <Link href="#doutor" className="btn-ghost">
+              Diagnosticar minha planta →
+            </Link>
           </div>
         </div>
+        <div className="hero-mascot">
+          <div className="glow" />
+          <Image
+            src="/images/mascot/wave.png"
+            alt="Brotinho mascote da Terra Gentil acenando"
+            width={520}
+            height={620}
+            priority
+          />
+        </div>
       </div>
-
-      <div className="absolute -bottom-10 -right-10 w-64 h-64 bg-terra-200 rounded-full opacity-20 blur-3xl"></div>
-      <div className="absolute -top-10 -left-10 w-48 h-48 bg-terra-400 rounded-full opacity-20 blur-3xl"></div>
+      <div className="hero-meta">
+        <span>EST. 2022 · @TERRAGENTIL · BRASIL</span>
+        <span className="scroll">SCROLL</span>
+      </div>
     </section>
   );
 }

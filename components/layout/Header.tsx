@@ -1,77 +1,108 @@
 'use client';
 
 import Link from 'next/link';
-import Image from 'next/image';
+import { usePathname } from 'next/navigation';
 import { useState } from 'react';
-import { Menu, X } from 'lucide-react';
-import { SITE_NAME } from '@/lib/constants';
+import BrandMark from './BrandMark';
+import { YOUTUBE_URL } from '@/lib/constants';
 
 const navLinks = [
-  { href: '/', label: 'Home' },
-  { href: '/sobre', label: 'Sobre' },
-  { href: '/blog', label: 'Blog' },
-  { href: '/transformacoes', label: 'Transformações' },
   { href: '/videos', label: 'Vídeos' },
-  { href: '/equipamentos', label: 'Equipamentos' },
+  { href: '/doutor', label: 'Doutor' },
+  { href: '/app', label: 'App' },
+  { href: '/manifesto', label: 'Manifesto' },
+  { href: '/transformacoes', label: 'Transformações' },
+  { href: '/jogo', label: 'Jogo' },
+  { href: '/guias', label: 'Guias' },
+  { href: '/instagram', label: 'Instagram' },
 ];
 
 export default function Header() {
-  const [isOpen, setIsOpen] = useState(false);
+  const pathname = usePathname();
+  const isHome = pathname === '/';
+  const [open, setOpen] = useState(false);
+
+  const linkHref = (href: string) => (isHome ? `#${href.replace('/', '')}` : href);
 
   return (
-    <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-terra-100">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-16">
-          <Link href="/" className="flex items-center gap-2">
-            <Image
-              src="/images/logo.png"
-              alt={SITE_NAME}
-              width={40}
-              height={40}
-              priority
-              className="w-10 h-10 object-contain"
-            />
-            <span className="font-bold text-xl text-terra-800 tracking-tight">
-              {SITE_NAME}
-            </span>
-          </Link>
-
-          <nav className="hidden md:flex items-center gap-8">
-            {navLinks.map((link) => (
+    <>
+      <nav className="nav" aria-label="Principal">
+        <Link href="/" className="nav-brand">
+          <BrandMark color="#E8A33D" size={26} />
+          <span>
+            TERRA <span style={{ color: '#E8A33D' }}>GENTIL</span>
+          </span>
+        </Link>
+        <div className="nav-links">
+          {navLinks.map((link) => {
+            const target = isHome ? linkHref(link.href) : link.href;
+            const active = !isHome && pathname.startsWith(link.href);
+            return (
               <Link
                 key={link.href}
-                href={link.href}
-                className="text-sm font-medium text-terra-700 hover:text-terra-500 transition-colors"
+                href={target}
+                aria-current={active ? 'page' : undefined}
               >
                 {link.label}
               </Link>
-            ))}
-          </nav>
-
-          <button
-            onClick={() => setIsOpen(!isOpen)}
-            className="md:hidden p-2 text-terra-800"
-            aria-label="Menu"
-          >
-            {isOpen ? <X size={24} /> : <Menu size={24} />}
-          </button>
+            );
+          })}
         </div>
-
-        {isOpen && (
-          <nav className="md:hidden pb-4 flex flex-col gap-3">
-            {navLinks.map((link) => (
+        <a
+          href={YOUTUBE_URL}
+          target="_blank"
+          rel="noreferrer"
+          className="nav-cta"
+        >
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M23.498 6.186a2.994 2.994 0 0 0-2.11-2.117C19.804 3.5 12 3.5 12 3.5s-7.804 0-9.388.569A2.994 2.994 0 0 0 .502 6.186C0 7.772 0 12 0 12s0 4.228.502 5.814a2.994 2.994 0 0 0 2.11 2.117c1.584.569 9.388.569 9.388.569s7.804 0 9.388-.569a2.994 2.994 0 0 0 2.11-2.117C24 16.228 24 12 24 12s0-4.228-.502-5.814ZM9.75 15.568V8.432L15.818 12 9.75 15.568Z" />
+          </svg>
+          Inscrever
+        </a>
+        <button
+          type="button"
+          className="nav-mobile-toggle"
+          aria-label={open ? 'Fechar menu' : 'Abrir menu'}
+          aria-expanded={open}
+          onClick={() => setOpen((v) => !v)}
+        >
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round">
+            {open ? (
+              <>
+                <path d="M6 6l12 12" />
+                <path d="M18 6l-12 12" />
+              </>
+            ) : (
+              <>
+                <path d="M4 7h16" />
+                <path d="M4 12h16" />
+                <path d="M4 17h16" />
+              </>
+            )}
+          </svg>
+        </button>
+      </nav>
+      {open && (
+        <div className="nav-mobile-panel" role="menu">
+          <Link href="/" onClick={() => setOpen(false)} aria-current={isHome ? 'page' : undefined}>
+            Home
+          </Link>
+          {navLinks.map((link) => {
+            const target = isHome ? linkHref(link.href) : link.href;
+            const active = !isHome && pathname.startsWith(link.href);
+            return (
               <Link
                 key={link.href}
-                href={link.href}
-                onClick={() => setIsOpen(false)}
-                className="text-sm font-medium text-terra-700 hover:text-terra-500 py-2"
+                href={target}
+                onClick={() => setOpen(false)}
+                aria-current={active ? 'page' : undefined}
               >
                 {link.label}
               </Link>
-            ))}
-          </nav>
-        )}
-      </div>
-    </header>
+            );
+          })}
+        </div>
+      )}
+    </>
   );
 }

@@ -16,11 +16,18 @@ describe('app/sitemap', () => {
     const sitemap = await loadSitemap(false);
     const entries = sitemap();
     const urls = entries.map((e) => e.url);
+    // redesign
     expect(urls).toContain('https://terragentil.com.br/');
+    expect(urls).toContain('https://terragentil.com.br/videos');
+    expect(urls).toContain('https://terragentil.com.br/doutor');
+    expect(urls).toContain('https://terragentil.com.br/transformacoes');
+    expect(urls).toContain('https://terragentil.com.br/guias');
+    expect(urls).toContain('https://terragentil.com.br/manifesto');
+    expect(urls).toContain('https://terragentil.com.br/app');
+    expect(urls).toContain('https://terragentil.com.br/instagram');
+    // legadas
     expect(urls).toContain('https://terragentil.com.br/sobre');
     expect(urls).toContain('https://terragentil.com.br/blog');
-    expect(urls).toContain('https://terragentil.com.br/transformacoes');
-    expect(urls).toContain('https://terragentil.com.br/videos');
     expect(urls).toContain('https://terragentil.com.br/equipamentos');
     for (const p of posts) {
       expect(urls).toContain(`https://terragentil.com.br/blog/${p.slug}`);

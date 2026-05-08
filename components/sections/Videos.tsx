@@ -1,72 +1,113 @@
 import Image from 'next/image';
+import Link from 'next/link';
 import { fetchPlaylistVideos } from '@/lib/youtube';
-import { Play } from 'lucide-react';
-import { YOUTUBE_URL } from '@/lib/constants';
+
+const PlayIcon = () => (
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+    <path d="M8 5.14v13.72a1 1 0 0 0 1.5.86l11-6.86a1 1 0 0 0 0-1.72l-11-6.86A1 1 0 0 0 8 5.14z" />
+  </svg>
+);
+
+const FALLBACK = [
+  {
+    id: 'CK_0skjKI5A',
+    title: 'Quintal abandonado vira jardim secreto',
+    tag: 'Transformação',
+  },
+  {
+    id: 'q76bMs-NwRk',
+    title: 'Como podar sem matar a planta',
+    tag: 'Tutorial',
+  },
+  {
+    id: 'h91qQnbYnNM',
+    title: 'Adubo caseiro que funciona de verdade',
+    tag: 'Dica rápida',
+  },
+] as const;
 
 export default async function Videos() {
-  const videos = await fetchPlaylistVideos(3);
+  const fetched = await fetchPlaylistVideos(3);
+  const videos = fetched.length >= 3
+    ? fetched.map((v, i) => ({
+        id: v.id,
+        title: v.title,
+        tag: FALLBACK[i]?.tag ?? 'No canal',
+      }))
+    : FALLBACK;
+
+  const [main, ...rest] = videos;
 
   return (
-    <section className="py-20 bg-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="text-center max-w-2xl mx-auto mb-12">
-          <span className="text-sm font-medium text-terra-600 tracking-wide uppercase">
-            No YouTube
-          </span>
-          <h2 className="text-3xl md:text-4xl font-bold text-terra-900 mt-3 mb-4">
-            Últimos vídeos do canal
+    <section id="videos" className="section-pad" style={{ background: 'var(--paper)' }}>
+      <div className="section-head">
+        <div>
+          <div className="section-eyebrow">No canal · Toda semana</div>
+          <h2 className="section-title">
+            Os <span className="ital">últimos</span> vídeos
           </h2>
-          <p className="text-terra-700">
-            Atualizado automaticamente a cada novo vídeo publicado.
-          </p>
         </div>
+        <p className="section-aside">
+          Transformações completas, tutoriais sem enrolação e respostas pra quem mandou foto da planta morrendo no DM.
+        </p>
+      </div>
 
-        {videos.length > 0 ? (
-          <div className="grid md:grid-cols-3 gap-6">
-            {videos.map((video) => (
-              <a
-                key={video.id}
-                href={`https://www.youtube.com/watch?v=${video.id}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="group relative overflow-hidden rounded-2xl bg-terra-100 aspect-video block"
-              >
-                <Image
-                  src={`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`}
-                  alt={video.title}
-                  fill
-                  sizes="(max-width: 768px) 100vw, 33vw"
-                  className="object-cover group-hover:scale-105 transition-transform duration-500"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
-                <div className="absolute inset-0 flex items-center justify-center">
-                  <div className="w-16 h-16 bg-white/90 rounded-full flex items-center justify-center group-hover:scale-110 transition-transform">
-                    <Play size={28} className="text-terra-700 ml-1" fill="currentColor" />
-                  </div>
-                </div>
-                <div className="absolute bottom-0 left-0 right-0 p-4 text-white">
-                  <h3 className="font-semibold text-sm line-clamp-2">{video.title}</h3>
-                </div>
-              </a>
-            ))}
+      <div className="videos-grid">
+        <a
+          href={`https://youtube.com/watch?v=${main.id}`}
+          target="_blank"
+          rel="noreferrer"
+          className="video-card"
+        >
+          <Image
+            className="thumb"
+            src={`https://i.ytimg.com/vi/${main.id}/hqdefault.jpg`}
+            alt={main.title}
+            fill
+            sizes="(max-width: 980px) 100vw, 60vw"
+          />
+          <div className="veil" />
+          <div className="play">
+            <PlayIcon />
           </div>
-        ) : (
-          <div className="text-center py-12 bg-terra-50 rounded-2xl">
-            <p className="text-terra-700">Carregando vídeos do canal...</p>
+          <div className="body">
+            <div className="tag">{main.tag} · em destaque</div>
+            <div className="title">{main.title}</div>
           </div>
-        )}
-
-        <div className="text-center mt-12">
-          <a
-            href={YOUTUBE_URL}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-full font-medium transition-all hover:scale-105"
-          >
-            <Play size={18} fill="currentColor" />
-            Inscreva-se no canal
-          </a>
+        </a>
+        <div className="videos-secondary">
+          {rest.map((v) => (
+            <a
+              key={v.id}
+              href={`https://youtube.com/watch?v=${v.id}`}
+              target="_blank"
+              rel="noreferrer"
+              className="video-card small"
+            >
+              <Image
+                className="thumb"
+                src={`https://i.ytimg.com/vi/${v.id}/hqdefault.jpg`}
+                alt={v.title}
+                fill
+                sizes="(max-width: 980px) 100vw, 40vw"
+              />
+              <div className="veil" />
+              <div className="play">
+                <PlayIcon />
+              </div>
+              <div className="body">
+                <div className="tag">{v.tag}</div>
+                <div className="title">{v.title}</div>
+              </div>
+            </a>
+          ))}
         </div>
+      </div>
+
+      <div className="see-more-row">
+        <Link className="see-more dark" href="/videos">
+          Ver todos os vídeos →
+        </Link>
       </div>
     </section>
   );

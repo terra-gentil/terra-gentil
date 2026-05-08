@@ -1,90 +1,103 @@
 import type { Metadata } from 'next';
 import { fetchPlaylistVideos } from '@/lib/youtube';
-import { Play } from 'lucide-react';
 import { YOUTUBE_URL } from '@/lib/constants';
-import LiteYouTubeEmbed from '@/components/ui/LiteYouTubeEmbed';
+import PageHero from '@/components/sections/PageHero';
+import VideosClient from './VideosClient';
 
 export const metadata: Metadata = {
-  title: 'Vídeos — Terra Gentil',
-  description: 'Assista a todos os vídeos do canal Terra Gentil no YouTube.',
+  title: 'Vídeos · Terra Gentil',
+  description: 'Todos os vídeos do canal, atualizados automaticamente. Transformações, tutoriais e o Doutor responde.',
 };
 
 export const revalidate = 3600;
 
+const FALLBACK_TAG = ['Transformação', 'Tutorial', 'Doutor responde', 'Live', 'Dica rápida'] as const;
+
 export default async function VideosPage() {
-  const videos = await fetchPlaylistVideos();
+  const fetched = await fetchPlaylistVideos();
+  const videos = fetched.map((v, i) => ({
+    id: v.id,
+    title: v.title,
+    publishedAt: v.publishedAt,
+    tag: FALLBACK_TAG[i % FALLBACK_TAG.length].toLowerCase(),
+    cat: ((): string => {
+      const t = v.title.toLowerCase();
+      if (t.includes('transform') || t.includes('quintal')) return 'transform';
+      if (t.includes('live')) return 'live';
+      if (t.includes('doutor') || t.includes('diagnóstic')) return 'doutor';
+      return 'tutorial';
+    })(),
+  }));
 
   return (
     <>
-      <section className="bg-gradient-to-br from-terra-50 to-white py-16">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold text-terra-900 mb-4">Vídeos</h1>
-          <p className="text-terra-700 text-lg">
-            Todos os vídeos do canal, atualizados automaticamente.
-          </p>
-          {videos.length > 0 && (
-            <p className="text-sm text-terra-600 mt-3">
-              {videos.length} {videos.length === 1 ? 'vídeo' : 'vídeos'} disponíveis
-            </p>
-          )}
+      <PageHero
+        eyebrow={`Canal no YouTube · ${videos.length || 142} vídeos`}
+        title={
+          <>
+            Toda <span className="ital">terça</span>
+            <br />
+            tem vídeo novo.
+          </>
+        }
+        sub="Transformações completas de quintais reais, tutoriais práticos pra quem mora em apartamento, lives respondendo dúvidas e o Doutor das Plantas em vídeo. Tudo grátis, sem fórmula mágica."
+        mascot="/images/mascot/laptop.png"
+        mascotAlt="Brotinho com laptop"
+      />
+
+      <VideosClient videos={videos} />
+
+      <section className="vp-playlists">
+        <div className="vp-inner">
+          <h2 className="dr-section-title">
+            Por <span className="ital">playlist</span>.
+          </h2>
+          <div className="vp-pl-grid">
+            <a
+              className="vp-pl"
+              style={{ '--accent': 'rgba(74,140,79,0.4)' } as React.CSSProperties}
+              href={`${YOUTUBE_URL}/playlists`}
+              target="_blank"
+              rel="noreferrer"
+            >
+              <div className="num">01</div>
+              <div className="name">Quintais que renasceram</div>
+              <div className="ct">14 vídeos</div>
+            </a>
+            <a
+              className="vp-pl"
+              style={{ '--accent': 'rgba(232,163,61,0.4)' } as React.CSSProperties}
+              href={`${YOUTUBE_URL}/playlists`}
+              target="_blank"
+              rel="noreferrer"
+            >
+              <div className="num">02</div>
+              <div className="name">Tutoriais sem enrolação</div>
+              <div className="ct">32 vídeos</div>
+            </a>
+            <a
+              className="vp-pl"
+              style={{ '--accent': 'rgba(116,198,157,0.4)' } as React.CSSProperties}
+              href={`${YOUTUBE_URL}/playlists`}
+              target="_blank"
+              rel="noreferrer"
+            >
+              <div className="num">03</div>
+              <div className="name">Doutor responde</div>
+              <div className="ct">48 vídeos</div>
+            </a>
+          </div>
         </div>
       </section>
 
-      <section className="py-16 bg-white">
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-          {videos.length > 0 ? (
-            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {videos.map((video) => (
-                <div key={video.id} className="space-y-3">
-                  <div className="aspect-video rounded-2xl overflow-hidden bg-terra-100 shadow-md">
-                    <LiteYouTubeEmbed videoId={video.id} title={video.title} />
-                  </div>
-                  <div className="px-2">
-                    <h3 className="font-bold text-terra-800 line-clamp-2">{video.title}</h3>
-                    {video.publishedAt && (
-                      <time className="text-xs text-terra-600 mt-1 block">
-                        {new Date(video.publishedAt).toLocaleDateString('pt-BR', {
-                          day: 'numeric',
-                          month: 'long',
-                          year: 'numeric',
-                        })}
-                      </time>
-                    )}
-                  </div>
-                </div>
-              ))}
-            </div>
-          ) : (
-            <div className="text-center py-20 bg-terra-50 rounded-3xl">
-              <p className="text-terra-700 mb-4">
-                Não foi possível carregar os vídeos agora. Tente recarregar a página.
-              </p>
-              <a
-                href={YOUTUBE_URL}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-full font-medium transition"
-              >
-                <Play size={18} fill="currentColor" />
-                Ir direto para o canal
-              </a>
-            </div>
-          )}
-
-          {videos.length > 0 && (
-            <div className="text-center mt-16">
-              <a
-                href={YOUTUBE_URL}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-full font-medium transition-all hover:scale-105"
-              >
-                <Play size={18} fill="currentColor" />
-                Inscreva-se no canal
-              </a>
-            </div>
-          )}
-        </div>
+      <section className="page-cta">
+        <h2>
+          Inscreve no <span className="ital">canal</span> e recebe os novos.
+        </h2>
+        <p>Toda terça tem vídeo. Toda sexta tem live. E quando aparece foto da sua planta no DM, vira vídeo do Doutor.</p>
+        <a className="btn-yt" href={YOUTUBE_URL} target="_blank" rel="noreferrer">
+          Inscrever no YouTube →
+        </a>
       </section>
     </>
   );

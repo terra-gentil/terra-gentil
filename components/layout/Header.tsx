@@ -1,8 +1,10 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useState } from 'react';
 import { Menu, X } from 'lucide-react';
+import { SITE_NAME } from '@/lib/constants';
 
 const navLinks = [
   { href: '/', label: 'Home' },
@@ -21,13 +23,16 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center gap-2">
-            <img
+            <Image
               src="/images/logo.png"
-              alt="Terra Gentil"
+              alt={SITE_NAME}
+              width={40}
+              height={40}
+              priority
               className="w-10 h-10 object-contain"
             />
             <span className="font-bold text-xl text-terra-800 tracking-tight">
-              Terra Gentil
+              {SITE_NAME}
             </span>
           </Link>
 

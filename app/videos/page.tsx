@@ -1,6 +1,8 @@
 import type { Metadata } from 'next';
 import { fetchPlaylistVideos } from '@/lib/youtube';
 import { Play } from 'lucide-react';
+import { YOUTUBE_URL } from '@/lib/constants';
+import LiteYouTubeEmbed from '@/components/ui/LiteYouTubeEmbed';
 
 export const metadata: Metadata = {
   title: 'Vídeos — Terra Gentil',
@@ -35,16 +37,7 @@ export default async function VideosPage() {
               {videos.map((video) => (
                 <div key={video.id} className="space-y-3">
                   <div className="aspect-video rounded-2xl overflow-hidden bg-terra-100 shadow-md">
-                    <iframe
-                      width="100%"
-                      height="100%"
-                      src={`https://www.youtube.com/embed/${video.id}`}
-                      title={video.title}
-                      frameBorder="0"
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                      allowFullScreen
-                      loading="lazy"
-                    />
+                    <LiteYouTubeEmbed videoId={video.id} title={video.title} />
                   </div>
                   <div className="px-2">
                     <h3 className="font-bold text-terra-800 line-clamp-2">{video.title}</h3>
@@ -67,7 +60,7 @@ export default async function VideosPage() {
                 Não foi possível carregar os vídeos agora. Tente recarregar a página.
               </p>
               <a
-                href="https://www.youtube.com/@TerraGentil"
+                href={YOUTUBE_URL}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-full font-medium transition"
@@ -81,7 +74,7 @@ export default async function VideosPage() {
           {videos.length > 0 && (
             <div className="text-center mt-16">
               <a
-                href="https://www.youtube.com/@TerraGentil"
+                href={YOUTUBE_URL}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-full font-medium transition-all hover:scale-105"

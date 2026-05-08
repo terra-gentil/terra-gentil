@@ -1,5 +1,7 @@
+import Image from 'next/image';
 import { fetchPlaylistVideos } from '@/lib/youtube';
 import { Play } from 'lucide-react';
+import { YOUTUBE_URL } from '@/lib/constants';
 
 export default async function Videos() {
   const videos = await fetchPlaylistVideos(3);
@@ -29,10 +31,12 @@ export default async function Videos() {
                 rel="noopener noreferrer"
                 className="group relative overflow-hidden rounded-2xl bg-terra-100 aspect-video block"
               >
-                <img
+                <Image
                   src={`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`}
                   alt={video.title}
-                  className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                  fill
+                  sizes="(max-width: 768px) 100vw, 33vw"
+                  className="object-cover group-hover:scale-105 transition-transform duration-500"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
                 <div className="absolute inset-0 flex items-center justify-center">
@@ -54,7 +58,7 @@ export default async function Videos() {
 
         <div className="text-center mt-12">
           <a
-            href="https://www.youtube.com/@TerraGentil"
+            href={YOUTUBE_URL}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-full font-medium transition-all hover:scale-105"

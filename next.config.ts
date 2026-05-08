@@ -8,12 +8,12 @@ import type { NextConfig } from 'next';
 // - img-src libera os hosts do remotePatterns abaixo.
 const cspParts = [
   "default-src 'self'",
-  "img-src 'self' data: blob: https://i.ytimg.com https://terragentil.com.br",
-  "script-src 'self' 'unsafe-inline' 'unsafe-eval'",
+  "img-src 'self' data: blob: https://i.ytimg.com https://terragentil.com.br https://*.google-analytics.com https://*.googletagmanager.com",
+  "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://*.googletagmanager.com",
   "style-src 'self' 'unsafe-inline'",
   "font-src 'self' data:",
   "frame-src https://www.youtube.com https://www.youtube-nocookie.com https://terra-gentil.github.io",
-  "connect-src 'self' https://terra-gentil-game-production.up.railway.app",
+  "connect-src 'self' https://terra-gentil-game-production.up.railway.app https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com",
   "object-src 'none'",
   "base-uri 'self'",
   "form-action 'self'",

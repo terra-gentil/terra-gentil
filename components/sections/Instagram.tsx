@@ -39,8 +39,8 @@ function IgIcon({ kind }: { kind: 'reel' | 'photo' | 'carousel' }) {
 }
 
 export default async function Instagram() {
-  const live = await fetchInstagramMedia(6);
-  const items: Array<IgMedia | IgPost> = live.length > 0 ? live : igHome;
+  const live = await fetchInstagramMedia(3);
+  const items: Array<IgMedia | IgPost> = live.length > 0 ? live : igHome.slice(0, 3);
 
   return (
     <section id="instagram" className="ig">

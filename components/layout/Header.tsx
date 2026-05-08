@@ -22,8 +22,6 @@ export default function Header() {
   const isHome = pathname === '/';
   const [open, setOpen] = useState(false);
 
-  const linkHref = (href: string) => (isHome ? `#${href.replace('/', '')}` : href);
-
   return (
     <>
       <nav className="nav" aria-label="Principal">
@@ -35,12 +33,11 @@ export default function Header() {
         </Link>
         <div className="nav-links">
           {navLinks.map((link) => {
-            const target = isHome ? linkHref(link.href) : link.href;
-            const active = !isHome && pathname.startsWith(link.href);
+            const active = pathname.startsWith(link.href);
             return (
               <Link
                 key={link.href}
-                href={target}
+                href={link.href}
                 aria-current={active ? 'page' : undefined}
               >
                 {link.label}
@@ -88,12 +85,11 @@ export default function Header() {
             Home
           </Link>
           {navLinks.map((link) => {
-            const target = isHome ? linkHref(link.href) : link.href;
-            const active = !isHome && pathname.startsWith(link.href);
+            const active = pathname.startsWith(link.href);
             return (
               <Link
                 key={link.href}
-                href={target}
+                href={link.href}
                 onClick={() => setOpen(false)}
                 aria-current={active ? 'page' : undefined}
               >

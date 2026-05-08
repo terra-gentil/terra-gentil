@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { ebooks } from '@/data/ebooks';
 
 export default function Ebooks() {
-  const display = ebooks.slice(0, 8);
+  const display = ebooks.slice(0, 4);
 
   return (
     <section id="guias" className="ebooks">

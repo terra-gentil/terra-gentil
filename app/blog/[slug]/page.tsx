@@ -1,9 +1,9 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
-import { ArrowLeft } from 'lucide-react';
+import { ArrowLeft, ArrowUpRight } from 'lucide-react';
 import { posts, type Post } from '@/data/posts';
-import { SITE_NAME, SITE_URL } from '@/lib/constants';
+import { SITE_NAME, SITE_URL, YOUTUBE_URL } from '@/lib/constants';
 import LiteYouTubeEmbed from '@/components/ui/LiteYouTubeEmbed';
 import type { Metadata } from 'next';
 
@@ -35,7 +35,7 @@ export async function generateMetadata({
       : null;
 
   return {
-    title: `${post.title} - ${SITE_NAME}`,
+    title: `${post.title} · ${SITE_NAME}`,
     description: post.excerpt,
     openGraph: {
       title: post.title,
@@ -58,43 +58,47 @@ export default async function PostPage({
   if (!post) notFound();
 
   const heroImage = postImage(post);
+  const formattedDate = new Date(post.date).toLocaleDateString('pt-BR', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  });
 
   return (
-    <article className="py-16 bg-white">
-      <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-        <Link
-          href="/blog"
-          className="inline-flex items-center gap-2 text-terra-600 hover:text-terra-800 mb-8 text-sm"
-        >
+    <article className="bp-article">
+      <div className="bp-inner">
+        <Link href="/blog" className="bp-back">
           <ArrowLeft size={16} />
           Voltar para o blog
         </Link>
 
-        <time dateTime={post.date} className="text-sm text-terra-600">
-          {new Date(post.date).toLocaleDateString('pt-BR', {
-            day: 'numeric',
-            month: 'long',
-            year: 'numeric',
-          })}
-        </time>
-        <h1 className="text-3xl md:text-4xl font-bold text-terra-900 mt-3 mb-8 leading-tight">
-          {post.title}
-        </h1>
+        <div className="bp-eyebrow">
+          <time dateTime={post.date}>{formattedDate}</time>
+          <span aria-hidden="true">·</span>
+          <span>História do canal</span>
+        </div>
+
+        <h1 className="bp-title">{post.title}</h1>
+
+        <p className="bp-excerpt">{post.excerpt}</p>
 
         {post.youtubeId ? (
-          <div className="mb-10">
-            <div className="aspect-[16/9] rounded-2xl overflow-hidden">
+          <figure className="bp-media">
+            <div className="bp-video-frame">
               <LiteYouTubeEmbed videoId={post.youtubeId} title={post.title} />
             </div>
-            <a
-              href={`https://www.youtube.com/watch?v=${post.youtubeId}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 mt-3 text-sm font-medium text-terra-700 hover:text-terra-900"
-            >
-              Abrir no YouTube →
-            </a>
-          </div>
+            <figcaption>
+              <a
+                href={`https://www.youtube.com/watch?v=${post.youtubeId}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bp-video-link"
+              >
+                Abrir no YouTube
+                <ArrowUpRight size={14} />
+              </a>
+            </figcaption>
+          </figure>
         ) : post.image ? (
           <Image
             src={post.image}
@@ -102,7 +106,7 @@ export default async function PostPage({
             width={1200}
             height={675}
             priority
-            className="w-full aspect-[16/9] object-cover rounded-2xl mb-10"
+            className="bp-image"
           />
         ) : null}
 
@@ -112,9 +116,24 @@ export default async function PostPage({
           pra CMS ou input do usuario, sanitizar com DOMPurify ou similar antes.
         */}
         <div
-          className="prose prose-terra max-w-none text-terra-800 leading-relaxed space-y-4 [&>p]:mb-4 [&>h3]:text-xl [&>h3]:font-bold [&>h3]:text-terra-800 [&>h3]:mt-8 [&>h3]:mb-3"
+          className="bp-content"
           dangerouslySetInnerHTML={{ __html: post.content }}
         />
+
+        <div className="bp-footer">
+          <Link href="/blog" className="bp-back">
+            <ArrowLeft size={16} />
+            Outras histórias
+          </Link>
+          <a
+            className="btn-yt"
+            href={post.youtubeId ? `https://www.youtube.com/watch?v=${post.youtubeId}` : YOUTUBE_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {post.youtubeId ? 'Ver no canal →' : 'Ir pro YouTube →'}
+          </a>
+        </div>
 
         {/* JSON-LD Article schema. Permite Google enriquecer o resultado de busca
             com data, autor, imagem. Inline porque os dados vem do mesmo render. */}

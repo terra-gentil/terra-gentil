@@ -20,6 +20,7 @@ const allNavLinks = [
   { href: '/transformacoes', label: 'Transformações' },
   { href: '/jogo', label: 'Jogo', requiresGame: true },
   { href: '/guias', label: 'Ebooks' },
+  { href: '/blog', label: 'Blog' },
   { href: '/instagram', label: 'Instagram' },
 ];
 

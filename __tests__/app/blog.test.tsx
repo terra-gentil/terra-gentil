@@ -4,9 +4,11 @@ import BlogPage, { metadata } from '@/app/blog/page';
 import { posts } from '@/data/posts';
 
 describe('app/blog (listagem)', () => {
-  it('renders the page heading and one card per post', () => {
+  it('renders the page hero and one card per post', () => {
     render(<BlogPage />);
-    expect(screen.getByRole('heading', { level: 1, name: /Blog/i })).toBeInTheDocument();
+    // PageHero renderiza h1 + eyebrow "Blog · N histórias"
+    expect(screen.getByRole('heading', { level: 1 })).toBeInTheDocument();
+    expect(screen.getByText(new RegExp(`Blog · ${posts.length} hist`))).toBeInTheDocument();
     for (const p of posts) {
       expect(screen.getByText(p.title)).toBeInTheDocument();
       expect(screen.getByText(p.excerpt)).toBeInTheDocument();

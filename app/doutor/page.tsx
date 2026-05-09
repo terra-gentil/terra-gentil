@@ -9,7 +9,7 @@ const PlantDoctor = dynamic(() => import('@/components/sections/PlantDoctor'), {
 
 export const metadata: Metadata = {
   title: 'Doutor das Plantas · Terra Gentil',
-  description: 'Diagnóstico de planta por foto, com IA Gemini, em segundos. Identificação, plano de rega, ebook combinado. 100% grátis.',
+  description: 'Diagnóstico de planta por foto, com IA, em segundos. Identificação, plano de rega, ebook combinado. 100% grátis.',
 };
 
 const STEPS = [
@@ -65,7 +65,7 @@ export default function DoutorPage() {
               porquê, com o passo a passo e com o material de estudo se você quiser ir mais fundo.
             </p>
           </div>
-          <PlantDoctor />
+          <PlantDoctor variant="full" />
         </div>
       </section>
 

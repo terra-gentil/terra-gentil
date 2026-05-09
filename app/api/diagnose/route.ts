@@ -1,14 +1,16 @@
-import { GoogleGenerativeAI } from '@google/generative-ai';
 import { NextResponse } from 'next/server';
 import { z } from 'zod';
 import type { DiagnosisResponse } from '@/types/diagnosis';
 import { checkRateLimit } from '@/lib/rate-limit';
 import { log, newRequestId } from '@/lib/logger';
+import { DIAGNOSE_API_URL } from '@/lib/constants';
+import { mapBackendToDiagnosis, parseBackendResponse } from '@/lib/diagnose-mapper';
 
 export const runtime = 'nodejs';
 
 const MAX_BASE64_BYTES = 10 * 1024 * 1024;
 const ALLOWED_MIME_TYPES = ['image/jpeg', 'image/png', 'image/webp', 'image/heic', 'image/heif'];
+const BACKEND_TIMEOUT_MS = 60_000;
 
 const RATE_LIMIT = { limit: 5, windowMs: 60_000 };
 
@@ -20,81 +22,31 @@ const requestSchema = z.object({
     .refine((m) => !m || ALLOWED_MIME_TYPES.includes(m), 'unsupported mimeType'),
 });
 
-// Schema do retorno do Gemini. Espelha o tipo Diagnosis em types/diagnosis.ts.
-// Se o modelo devolver shape diferente, falha o parse e tentamos o proximo modelo.
-const diagnosisOutputSchema = z.object({
-  plantName: z.string().min(1),
-  scientificName: z.string().min(1),
-  welcomeMessage: z.string().min(1),
-  toxicity: z.object({ isToxic: z.boolean(), details: z.string() }),
-  diagnosis: z.object({ problem: z.string(), description: z.string() }),
-  stats: z.object({
-    light: z.string(),
-    watering: z.string(),
-    temperature: z.string(),
-    difficulty: z.string(),
-  }),
-  treatment: z.array(z.object({ period: z.string(), action: z.string() })),
-});
-
-const errorOutputSchema = z.object({ error: z.string() });
-
-const PROMPT = `Você é o Doutor Terra Gentil, especialista empático em plantas.
-
-Analise a imagem da planta e retorne APENAS um JSON válido (sem markdown, sem backticks, sem explicação fora do JSON) com a estrutura EXATA:
-
-{
-  "plantName": "Nome popular da planta em português",
-  "scientificName": "Nome científico em latim",
-  "welcomeMessage": "Mensagem curta e empática (2 frases) como Doutor Terra Gentil recebendo a pessoa",
-  "toxicity": {
-    "isToxic": true ou false,
-    "details": "Explicação curta sobre toxicidade para pets e crianças"
-  },
-  "diagnosis": {
-    "problem": "Nome curto do problema identificado (ou 'Planta saudável')",
-    "description": "Explicação do que está acontecendo em 2-3 frases"
-  },
-  "stats": {
-    "light": "Ex: Meia-sombra",
-    "watering": "Ex: 2x por semana",
-    "temperature": "Ex: 18-25°C",
-    "difficulty": "Ex: Fácil"
-  },
-  "treatment": [
-    { "period": "Hoje", "action": "Primeira ação recomendada" },
-    { "period": "Dia 3", "action": "Segunda ação" },
-    { "period": "1 semana", "action": "Terceira ação" }
-  ]
-}
-
-Se a imagem não for de uma planta, retorne:
-{ "error": "A imagem não parece ser de uma planta. Tente novamente." }`;
-
 function getClientIp(request: Request): string {
-  // x-real-ip e injetado pelo proxy Vercel/Edge e nao e forjavel pelo cliente.
-  // Preferimos ele a x-forwarded-for, que o cliente pode spoofar pra burlar
-  // rate limit (basta mandar header X-Forwarded-For: 1.1.1.1 fake).
   const real = request.headers.get('x-real-ip');
   if (real) return real.trim();
   const xff = request.headers.get('x-forwarded-for');
   if (xff) {
-    // Em Vercel sem x-real-ip, o IP real fica no PRIMEIRO item do XFF (do edge).
-    // Em outros hosts pode ser o ultimo. Conservador: pegamos o primeiro.
     return xff.split(',')[0]!.trim();
   }
   return 'anon';
 }
 
+function decodeBase64(image: string): Buffer {
+  // Aceita "data:image/...;base64,XXX" ou base64 puro.
+  const comma = image.indexOf(',');
+  const pure = comma >= 0 ? image.slice(comma + 1) : image;
+  return Buffer.from(pure, 'base64');
+}
+
+function inferFilename(mimeType: string): string {
+  const ext = mimeType.split('/')[1] ?? 'jpg';
+  return `planta.${ext}`;
+}
+
 export async function POST(request: Request): Promise<NextResponse<DiagnosisResponse>> {
   const requestId = newRequestId();
   const ip = getClientIp(request);
-
-  const apiKey = process.env.GEMINI_API_KEY;
-  if (!apiKey) {
-    log.error('diagnose_no_api_key', { requestId });
-    return NextResponse.json({ error: 'API key não configurada' }, { status: 500 });
-  }
 
   const rl = checkRateLimit(`diagnose:${ip}`, RATE_LIMIT);
   if (!rl.success) {
@@ -109,79 +61,91 @@ export async function POST(request: Request): Promise<NextResponse<DiagnosisResp
   try {
     body = await request.json();
   } catch {
-    return NextResponse.json({ error: 'JSON inválido' }, { status: 400 });
+    return NextResponse.json({ error: 'JSON invalido' }, { status: 400 });
   }
 
   const parsedBody = requestSchema.safeParse(body);
   if (!parsedBody.success) {
     return NextResponse.json(
-      { error: parsedBody.error.issues[0]?.message ?? 'requisição inválida' },
+      { error: parsedBody.error.issues[0]?.message ?? 'requisicao invalida' },
       { status: 400 },
     );
   }
 
   const { image, mimeType } = parsedBody.data;
+  const finalMime = mimeType ?? 'image/jpeg';
+
+  let buffer: Buffer;
+  try {
+    buffer = decodeBase64(image);
+  } catch (err) {
+    log.warn('diagnose_invalid_base64', { requestId, error: String(err) });
+    return NextResponse.json({ error: 'Imagem invalida.' }, { status: 400 });
+  }
+  if (buffer.length === 0) {
+    return NextResponse.json({ error: 'Imagem vazia.' }, { status: 400 });
+  }
+
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), BACKEND_TIMEOUT_MS);
 
   try {
-    const genAI = new GoogleGenerativeAI(apiKey);
-    const models = ['gemini-2.5-flash', 'gemini-2.5-flash-lite'];
+    const formData = new FormData();
+    const blob = new Blob([new Uint8Array(buffer)], { type: finalMime });
+    formData.append('file', blob, inferFilename(finalMime));
 
-    let lastError: unknown = null;
+    const upstream = await fetch(`${DIAGNOSE_API_URL}/v1/diagnostico`, {
+      method: 'POST',
+      body: formData,
+      signal: controller.signal,
+    });
 
-    for (const modelName of models) {
-      try {
-        const model = genAI.getGenerativeModel({ model: modelName });
-        const result = await model.generateContent([
-          PROMPT,
-          { inlineData: { data: image, mimeType: mimeType ?? 'image/jpeg' } },
-        ]);
-
-        const response = await result.response;
-        let text = response.text().trim();
-        text = text.replace(/```json\s*/g, '').replace(/```\s*/g, '').trim();
-
-        let candidate: unknown;
-        try {
-          candidate = JSON.parse(text);
-        } catch (parseErr) {
-          lastError = parseErr;
-          log.warn('diagnose_invalid_json', { requestId, modelName });
-          continue;
-        }
-
-        const errParsed = errorOutputSchema.safeParse(candidate);
-        if (errParsed.success) {
-          log.info('diagnose_not_a_plant', { requestId, modelName });
-          return NextResponse.json({ error: errParsed.data.error }, { status: 400 });
-        }
-
-        const okParsed = diagnosisOutputSchema.safeParse(candidate);
-        if (!okParsed.success) {
-          lastError = okParsed.error;
-          log.warn('diagnose_invalid_shape', {
-            requestId,
-            modelName,
-            issues: okParsed.error.issues.length,
-          });
-          continue;
-        }
-
-        log.info('diagnose_ok', { requestId, modelName });
-        return NextResponse.json(okParsed.data);
-      } catch (err) {
-        lastError = err;
-        log.warn('diagnose_model_error', { requestId, modelName, error: String(err) });
-        continue;
-      }
+    if (!upstream.ok) {
+      const errText = await upstream.text().catch(() => '');
+      log.warn('diagnose_backend_error', {
+        requestId,
+        status: upstream.status,
+        bodyPreview: errText.slice(0, 200),
+      });
+      const message = mapHttpErrorToMessage(upstream.status);
+      return NextResponse.json({ error: message }, { status: upstream.status >= 500 ? 502 : 400 });
     }
 
-    log.error('diagnose_all_models_failed', { requestId, error: String(lastError) });
-    return NextResponse.json(
-      { error: 'Não foi possível analisar a imagem. Tente novamente.' },
-      { status: 500 },
-    );
+    const json = (await upstream.json()) as unknown;
+    const backend = parseBackendResponse(json);
+
+    if (!backend.eh_planta) {
+      log.info('diagnose_not_a_plant', { requestId });
+      const fallback = 'A imagem nao parece ser de uma planta. Tente outra foto, com folhas e caule visiveis.';
+      const message = backend.plano_tratamento || backend.diagnostico_explicacao || fallback;
+      return NextResponse.json({ notPlant: true, message });
+    }
+
+    const diagnosis = mapBackendToDiagnosis(backend);
+    log.info('diagnose_ok', { requestId, plantName: diagnosis.plantName });
+    return NextResponse.json(diagnosis);
   } catch (err) {
+    if (err instanceof Error && err.name === 'AbortError') {
+      log.error('diagnose_timeout', { requestId });
+      return NextResponse.json(
+        { error: 'A analise demorou demais. Tente novamente em alguns segundos.' },
+        { status: 504 },
+      );
+    }
     log.error('diagnose_unhandled', { requestId, error: String(err) });
-    return NextResponse.json({ error: 'Erro no servidor. Tente novamente.' }, { status: 500 });
+    return NextResponse.json(
+      { error: 'Nao foi possivel analisar a imagem. Tente novamente.' },
+      { status: 502 },
+    );
+  } finally {
+    clearTimeout(timer);
   }
+}
+
+function mapHttpErrorToMessage(status: number): string {
+  if (status === 413) return 'Imagem muito grande. Use uma foto de ate 10MB.';
+  if (status === 415) return 'Formato de imagem nao suportado.';
+  if (status === 400) return 'Imagem invalida. Tente outra foto.';
+  if (status >= 500) return 'O Doutor esta indisponivel agora. Tente em alguns segundos.';
+  return 'Nao foi possivel analisar a imagem.';
 }

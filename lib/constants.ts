@@ -23,6 +23,12 @@ export function whatsappLink(message: string = WHATSAPP_DEFAULT_MESSAGE): string
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
 }
 
+// Backend Doutor Gentileza (terra-gentil-app/backend, FastAPI no Railway).
+// Mesma API consumida pelo app mobile. Substitui chamada direta ao Gemini que
+// existia neste repo, centralizando prompt e schema em um lugar so.
+export const DIAGNOSE_API_URL =
+  process.env.DIAGNOSE_API_URL ?? 'https://terra-gentil-app-production.up.railway.app';
+
 // Game subproject (terra-gentil-game). Iframe embed via /jogo enquanto G10 nao fecha.
 export const GAME_URL = 'https://terra-gentil.github.io/terra-gentil-game/';
 export const GAME_REPO_URL = 'https://github.com/terra-gentil/terra-gentil-game';

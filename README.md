@@ -27,7 +27,7 @@ Site institucional do projeto **Terra Gentil** (canal YouTube + jardinagem), rec
 | Linguagem | TypeScript | 5.x |
 | Estilização | Tailwind CSS | 4.x (com `@theme`) |
 | Ícones | lucide-react | 0.x |
-| IA | Google Gemini (Flash) | 2.5 |
+| IA (Doutor) | Backend Terra Gentil (FastAPI Railway, mesmo do app) | - |
 | Deploy | Vercel (planejado) | - |
 | Node | Node.js | 24.14.1+ |
 
@@ -48,7 +48,7 @@ terra-gentil/
 │   ├── transformacoes/page.tsx
 │   ├── videos/page.tsx           # Todos os vídeos da playlist (RSS)
 │   ├── equipamentos/page.tsx
-│   └── api/diagnose/route.ts     # API do Doutor das Plantas (Gemini)
+│   └── api/diagnose/route.ts     # Proxy fino pro backend Terra Gentil (mesmo motor do app)
 ├── components/
 │   ├── layout/
 │   │   ├── Header.tsx            # Nav sticky com logo
@@ -97,15 +97,25 @@ Abrir http://localhost:3000
 
 ## 🔑 Variáveis de Ambiente
 
-Criar arquivo `.env.local` na raiz:
+Não há variáveis obrigatórias para rodar localmente. O endpoint `/api/diagnose`
+faz proxy para o backend público em
+`https://terra-gentil-app-production.up.railway.app` por padrão.
+
+Variáveis opcionais em `.env.local`:
 
 ```
-GEMINI_API_KEY=SUA_CHAVE_AQUI_VER_ENV_LOCAL
+# Sobrescreve o backend (ex: rodar contra um localhost ou staging)
+DIAGNOSE_API_URL=http://localhost:8001
+
+# Newsletter via Resend (so se quiser testar /api/newsletter)
+RESEND_API_KEY=re_xxx
 ```
 
-⚠️ **Importante:** Esse arquivo já está no `.gitignore` do Next.js por padrão. NUNCA commitar.
+⚠️ **Importante:** `.env.local` está no `.gitignore` do Next.js por padrão. NUNCA commitar.
 
-Onde gerar nova chave: https://aistudio.google.com/apikey
+> Versões antigas deste site usavam `GEMINI_API_KEY` direto. Não é mais
+> necessária — o motor de IA mora no backend `terra-gentil-app/backend` (mesmo
+> usado pelo app mobile). Se sobrar uma `.env.local` antiga, pode apagar.
 
 ---
 
@@ -121,7 +131,7 @@ Onde gerar nova chave: https://aistudio.google.com/apikey
 - [x] `/equipamentos` Categorias de equipamentos
 
 ### Funcionalidades
-- [x] **Doutor das Plantas** — Upload de foto → Gemini analisa → retorna JSON estruturado (toxicidade, luz, rega, tratamento) + sugere ebook relacionado
+- [x] **Doutor das Plantas** — Upload de foto → backend Terra Gentil (FastAPI no Railway) analisa via IA → retorna JSON estruturado (toxicidade, luz, rega, tratamento) + sugere ebook relacionado. Em `/doutor` mostra o diagnóstico completo (confiança, problemas detectados, qualidade da foto, plano longo). Mesmo motor do app mobile
 - [x] **YouTube dinâmico** — Busca RSS da playlist `PLo0P-qaOD_PSJ24_1Z5d9JbwVs2Y3oDS8` a cada 1h (revalidate). Novo vídeo publicado → aparece sozinho no site
 - [x] **WhatsApp flutuante** — Botão fixed bottom-right, abre conversa pré-preenchida
 - [x] **Slider antes/depois** — Drag horizontal pra revelar transformação
@@ -154,7 +164,7 @@ Onde gerar nova chave: https://aistudio.google.com/apikey
 
 | Nome | Onde pegar | Obrigatória? |
 |------|-----------|:-:|
-| `GEMINI_API_KEY` | https://aistudio.google.com/apikey | sim (sem ela, /api/diagnose retorna 500) |
+| `DIAGNOSE_API_URL` | URL do backend Terra Gentil (default: `https://terra-gentil-app-production.up.railway.app`) | opcional (sem ela usa o prod) |
 | `NEXT_PUBLIC_GA_ID` | Analytics → Admin → Streams → ID de medição (formato `G-XXXXXXXXXX`) | opcional (sem ela, GA não carrega) |
 | `NEXT_PUBLIC_GOOGLE_VERIFICATION` | Search Console → Add property → HTML tag → só o `content=` | opcional (verificação do Search Console) |
 | `NEXT_PUBLIC_GAME_ENABLED` | Setar `true` quando o jogo (G10) estiver pronto | opcional (default: rota /jogo mostra "em breve") |
@@ -255,8 +265,8 @@ As imagens estão em `public/images/`. Se não existirem, rodar o script `extrai
 
 ## 🔒 Notas de Segurança
 
-1. **Chave Gemini antiga foi rotacionada** — as chaves `VoSE` e `l3jM` que estavam expostas no WordPress antigo foram revogadas. Usar sempre a chave atual via `.env.local`.
-2. **Nunca expor chaves no frontend** — toda chamada à API do Gemini passa pela API Route `/api/diagnose` (backend).
+1. **Chaves Gemini antigas revogadas** — as chaves `VoSE` e `l3jM` que ficaram expostas no WordPress antigo foram revogadas. O site **não usa mais Gemini direto**: chama o backend `terra-gentil-app/backend`, que detém a chave atual em variável de ambiente do Railway. Se houver `GEMINI_API_KEY` numa `.env.local` antiga, pode apagar.
+2. **Nunca expor chaves no frontend** — `/api/diagnose` é só proxy server-side; nenhum segredo trafega pro browser.
 3. **CORS do Hostinger** bloqueou downloads via PowerShell — por isso foi necessário baixar o `uploads.zip` pelo File Manager manualmente.
 
 ---

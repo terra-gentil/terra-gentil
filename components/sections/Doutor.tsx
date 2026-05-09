@@ -1,19 +1,15 @@
 import Link from 'next/link';
 import dynamic from 'next/dynamic';
 
-const PlantDoctor = dynamic(() => import('@/components/sections/PlantDoctor'), {
-  loading: () => (
-    <div className="pd-card" style={{ minHeight: 480 }}>
-      <div className="pd-loading-msg">Carregando o Doutor das Plantas...</div>
-    </div>
-  ),
+const DoctorScanner = dynamic(() => import('@/components/sections/DoctorScanner'), {
+  loading: () => <div className="scan-stage" style={{ aspectRatio: '16 / 9' }} />,
 });
 
 export default function Doutor() {
   return (
     <section id="doutor" className="doctor">
       <div className="doctor-grid">
-        <PlantDoctor />
+        <DoctorScanner />
         <div className="doctor-text">
           <div className="section-eyebrow" style={{ color: 'var(--amber)' }}>
             Inteligência artificial · grátis
@@ -47,6 +43,11 @@ export default function Doutor() {
                 <div className="feat-body">O que fazer hoje, amanhã, na semana que vem.</div>
               </div>
             </div>
+          </div>
+          <div style={{ marginTop: 28 }}>
+            <Link className="btn-amber" href="/doutor">
+              Diagnosticar minha planta →
+            </Link>
           </div>
         </div>
       </div>

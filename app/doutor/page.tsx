@@ -7,6 +7,10 @@ const PlantDoctor = dynamic(() => import('@/components/sections/PlantDoctor'), {
   loading: () => <div className="pd-card" style={{ minHeight: 480 }}><div className="pd-loading-msg">Carregando...</div></div>,
 });
 
+const DoctorScanner = dynamic(() => import('@/components/sections/DoctorScanner'), {
+  loading: () => <div className="scan-stage" style={{ aspectRatio: '16 / 9' }} />,
+});
+
 export const metadata: Metadata = {
   title: 'Doutor das Plantas · Terra Gentil',
   description: 'Diagnóstico de planta por foto, com IA, em segundos. Identificação, plano de rega, ebook combinado. 100% grátis.',
@@ -35,6 +39,16 @@ export default function DoutorPage() {
         mascot="/images/mascot/laptop.png"
         mascotAlt="Brotinho com laptop"
       />
+
+      <section className="dr-scanner">
+        <div className="dr-scanner-inner">
+          <div className="section-eyebrow" style={{ color: 'var(--amber)' }}>Veja a IA em ação · 11 segundos</div>
+          <h2 className="dr-section-title" style={{ marginBottom: 28 }}>
+            O <span className="ital">Doutor</span> em ação.
+          </h2>
+          <DoctorScanner />
+        </div>
+      </section>
 
       <section className="dr-steps">
         <div className="dr-steps-inner">

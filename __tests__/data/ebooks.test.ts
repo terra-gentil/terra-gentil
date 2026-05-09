@@ -29,11 +29,19 @@ describe('findEbookForPlant', () => {
   });
 
   it('every ebook has the required fields', () => {
+    // Codigo Secreto e o item 0 do array (defaultEbook): keywords vazio mas
+    // ainda aparece no catalogo. Os outros 18 tem keywords pra match.
+    expect(ebooks[0]).toEqual(defaultEbook);
+    expect(ebooks[0].keywords).toHaveLength(0);
+
     for (const e of ebooks) {
       expect(e.title).toBeTruthy();
-      expect(e.image).toMatch(/^https?:\/\//);
-      expect(e.pdf).toMatch(/^https?:\/\//);
+      // Aceita path relativo (/ebooks/...) ou URL absoluta (https://...)
+      expect(e.image).toMatch(/^(https?:\/\/|\/ebooks\/)/);
+      expect(e.pdf).toMatch(/^(https?:\/\/|\/ebooks\/)/);
       expect(Array.isArray(e.keywords)).toBe(true);
+    }
+    for (const e of ebooks.slice(1)) {
       expect(e.keywords.length).toBeGreaterThan(0);
     }
   });

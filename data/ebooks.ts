@@ -8,14 +8,16 @@ export interface Ebook {
 // PDFs e capas hospedados localmente em public/ebooks/ apos o WordPress
 // antigo no Hostinger comecar a retornar 403 nos uploads/2025/12.
 // Backup das URLs originais: https://plum-tarsier-720506.hostingersite.com/wp-content/uploads/2025/12/
-export const defaultEbook: Ebook = {
-  keywords: [],
-  title: '📘 O Código Secreto das Plantas',
-  image: '/ebooks/covers/O-Codigo-Secreto-das-Plantas.jpeg',
-  pdf: '/ebooks/1-O-Codigo-Secreto-das-Plantas.pdf',
-};
-
 export const ebooks: Ebook[] = [
+  {
+    // Codigo Secreto e o ebook "default": keywords vazio, nunca bate em
+    // findEbookForPlant, mas aparece no catalogo (/guias e secao da home)
+    // como guia introdutorio.
+    keywords: [],
+    title: '📘 O Código Secreto das Plantas',
+    image: '/ebooks/covers/O-Codigo-Secreto-das-Plantas.jpeg',
+    pdf: '/ebooks/1-O-Codigo-Secreto-das-Plantas.pdf',
+  },
   {
     keywords: ['espada', 'são jorge', 'sansevieria', 'zamioculca', 'zz plant', 'lírio da paz'],
     title: '🛡️ O Esquadrão Imortal: 6 Plantas Indestrutíveis',
@@ -125,6 +127,10 @@ export const ebooks: Ebook[] = [
     pdf: '/ebooks/19-Tomate-em-Vaso.pdf',
   },
 ];
+
+// Fallback do Doutor quando nenhuma keyword bate. Aponta pro mesmo
+// "Codigo Secreto" que e o primeiro item do catalogo.
+export const defaultEbook: Ebook = ebooks[0];
 
 export function findEbookForPlant(plantName: string): Ebook {
   const name = plantName.toLowerCase();

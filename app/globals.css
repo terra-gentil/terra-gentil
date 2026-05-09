@@ -335,7 +335,7 @@ a { color: inherit; text-decoration: none; }
 }
 .t-polaroid .pol-0 {
   right: 8%;
-  bottom: 18%;
+  bottom: 45%;
   transform: rotate(-6deg);
   z-index: 3;
   width: 260px;
@@ -343,14 +343,14 @@ a { color: inherit; text-decoration: none; }
 }
 .t-polaroid .pol-1 {
   right: 32%;
-  bottom: 8%;
+  bottom: 32%;
   transform: rotate(7deg) translateY(20px);
   z-index: 2;
   opacity: 0.9;
 }
 .t-polaroid .pol-2 {
   right: 48%;
-  bottom: 28%;
+  bottom: 56%;
   transform: rotate(-12deg) translateY(40px);
   z-index: 1;
   opacity: 0.75;
@@ -393,8 +393,9 @@ a { color: inherit; text-decoration: none; }
 
 @media (max-width: 1000px) {
   .t-polaroid .pol { width: 160px; }
-  .t-polaroid .pol-0 { width: 180px; right: 4%; bottom: 14%; }
-  .t-polaroid .pol-2 { width: 140px; }
+  .t-polaroid .pol-0 { width: 180px; right: 4%; bottom: 40%; }
+  .t-polaroid .pol-1 { bottom: 28%; }
+  .t-polaroid .pol-2 { width: 140px; bottom: 52%; }
   .t-polaroid .pol-mascot {
     height: 70% !important;
     bottom: -10px;

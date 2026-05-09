@@ -1,12 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
+import { PlayIcon } from '@/components/ui/icons';
 import { fetchPlaylistVideos } from '@/lib/youtube';
-
-const PlayIcon = () => (
-  <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-    <path d="M8 5.14v13.72a1 1 0 0 0 1.5.86l11-6.86a1 1 0 0 0 0-1.72l-11-6.86A1 1 0 0 0 8 5.14z" />
-  </svg>
-);
 
 // Vídeos reais do canal Terra Gentil (UCX3xUnHpQrhSUJUGjqMAN2A) usados como
 // fallback quando o feed RSS do YouTube não responde. Sincronizados com a

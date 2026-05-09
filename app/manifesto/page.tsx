@@ -15,7 +15,7 @@ const MF_ACTS = [
     title: 'Tudo começa com terra e atenção.',
     body:
       'André pega o cortador, o ancinho e a paciência. Antes de plantar nada, ele escuta o quintal. Que sol bate ali? Onde a chuva empoça? Que mato veio sozinho? A gentileza é técnica.',
-    mascot: '/images/mascot/trimmer.png',
+    mascot: '/images/mascot/trimmer.webp',
     hue: '#4A8C4F',
   },
   {
@@ -24,7 +24,7 @@ const MF_ACTS = [
     title: 'Mato vira jardim, suor vira beleza.',
     body:
       'Capina, poda, adubação, replantio. Cada vídeo é uma transformação completa de um quintal real. Sem milagre, sem corte mágico, só cuidado em tempo real, do antes pro depois.',
-    mascot: '/images/mascot/shovel.png',
+    mascot: '/images/mascot/shovel.webp',
     hue: '#E8A33D',
   },
   {
@@ -33,7 +33,7 @@ const MF_ACTS = [
     title: 'Você aprende junto.',
     body:
       '12 ebooks gratuitos, blog com guias, lives no YouTube e o Doutor das Plantas, uma IA que olha a foto da sua planta e devolve diagnóstico, plano de rega e ebook combinado.',
-    mascot: '/images/mascot/laptop.png',
+    mascot: '/images/mascot/laptop.webp',
     hue: '#74C69D',
   },
   {
@@ -42,7 +42,7 @@ const MF_ACTS = [
     title: 'Acabou? Não. Limpamos o resto.',
     body:
       'O sopro final pra deixar tudo no lugar. WhatsApp aberto, Instagram com bastidor, TikTok com dicas curtas. Se a sua planta tá mal, você não tá sozinho. Manda foto.',
-    mascot: '/images/mascot/blower.png',
+    mascot: '/images/mascot/blower.webp',
     hue: '#D8552B',
   },
 ] as const;

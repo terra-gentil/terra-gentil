@@ -38,7 +38,7 @@ export default function AppPage() {
           </div>
           <Image
             className="page-hero-mascot"
-            src="/images/mascot/laptop.png"
+            src="/images/mascot/laptop.webp"
             alt=""
             width={480}
             height={480}

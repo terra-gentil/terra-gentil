@@ -18,7 +18,7 @@ const STEPS: Step[] = [
       </>
     ),
     body: 'André pega o cortador, o ancinho e a paciência. Antes de plantar nada, ele escuta o quintal. Que sol bate ali? Onde a chuva empoça? Que mato veio sozinho? A gentileza é técnica.',
-    mascot: '/images/mascot/trimmer.png',
+    mascot: '/images/mascot/trimmer.webp',
     mascotAlt: 'Brotinho com cortador de grama',
     bg: 'rgba(74,140,79,0.25)',
   },
@@ -30,7 +30,7 @@ const STEPS: Step[] = [
       </>
     ),
     body: 'Capina, poda, adubação, replantio. Cada vídeo é uma transformação completa de um quintal real. Sem milagre, sem corte mágico, só cuidado em tempo real, do antes pro depois.',
-    mascot: '/images/mascot/shovel.png',
+    mascot: '/images/mascot/shovel.webp',
     mascotAlt: 'Brotinho com pá',
     bg: 'rgba(232,163,61,0.22)',
   },
@@ -42,7 +42,7 @@ const STEPS: Step[] = [
       </>
     ),
     body: '12 ebooks gratuitos, blog com guias, lives no YouTube e o Doutor das Plantas, uma IA que olha a foto da sua planta e devolve diagnóstico, plano de rega e ebook combinado.',
-    mascot: '/images/mascot/laptop.png',
+    mascot: '/images/mascot/laptop.webp',
     mascotAlt: 'Brotinho com laptop',
     bg: 'rgba(116,198,157,0.22)',
   },
@@ -54,7 +54,7 @@ const STEPS: Step[] = [
       </>
     ),
     body: 'O sopro final pra deixar tudo no lugar. WhatsApp aberto, Instagram com bastidor, TikTok com dicas curtas. Se a sua planta tá mal, você não tá sozinho. Manda foto.',
-    mascot: '/images/mascot/blower.png',
+    mascot: '/images/mascot/blower.webp',
     mascotAlt: 'Brotinho com soprador',
     bg: 'rgba(216,85,43,0.22)',
   },

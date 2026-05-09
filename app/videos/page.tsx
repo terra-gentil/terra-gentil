@@ -43,7 +43,7 @@ export default async function VideosPage() {
           </>
         }
         sub="Transformações completas de quintais reais, tutoriais práticos pra quem mora em apartamento, lives respondendo dúvidas e o Doutor das Plantas em vídeo. Tudo grátis, sem fórmula mágica."
-        mascot="/images/mascot/laptop.png"
+        mascot="/images/mascot/laptop.webp"
         mascotAlt="Brotinho com laptop"
       />
 

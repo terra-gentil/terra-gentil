@@ -4,6 +4,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import Leaves from './Leaves';
+import { YouTubeIcon } from '@/components/ui/icons';
 import { YOUTUBE_URL } from '@/lib/constants';
 
 const PHOTOS = [
@@ -44,9 +45,7 @@ export default function Hero() {
           </p>
           <div className="hero-cta-row">
             <a href={YOUTUBE_URL} target="_blank" rel="noopener noreferrer" className="btn-yt">
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-                <path d="M23.498 6.186a2.994 2.994 0 0 0-2.11-2.117C19.804 3.5 12 3.5 12 3.5s-7.804 0-9.388.569A2.994 2.994 0 0 0 .502 6.186C0 7.772 0 12 0 12s0 4.228.502 5.814a2.994 2.994 0 0 0 2.11 2.117c1.584.569 9.388.569 9.388.569s7.804 0 9.388-.569a2.994 2.994 0 0 0 2.11-2.117C24 16.228 24 12 24 12s0-4.228-.502-5.814ZM9.75 15.568V8.432L15.818 12 9.75 15.568Z" />
-              </svg>
+              <YouTubeIcon size={18} />
               Assistir no YouTube
             </a>
             <Link href="#doutor" className="btn-ghost">
@@ -78,7 +77,7 @@ export default function Hero() {
           })}
           <Image
             className="pol-mascot"
-            src="/images/mascot/wave.png"
+            src="/images/mascot/wave.webp"
             alt="Brotinho mascote da Terra Gentil acenando"
             width={992}
             height={1024}

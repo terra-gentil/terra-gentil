@@ -36,7 +36,7 @@ export default function DoutorPage() {
           </>
         }
         sub="Manda foto da folha amarela, do caule mole, do bicho estranho. Em segundos, o Doutor das Plantas diz o que tá acontecendo, o que fazer, e ainda manda o ebook e o vídeo do canal sobre o assunto."
-        mascot="/images/mascot/laptop.png"
+        mascot="/images/mascot/laptop.webp"
         mascotAlt="Brotinho com laptop"
       />
 

@@ -88,7 +88,7 @@ export default function Newsletter() {
       </div>
       <Image
         className="news-mascot"
-        src="/images/mascot/wave.png"
+        src="/images/mascot/wave.webp"
         alt=""
         width={400}
         height={400}

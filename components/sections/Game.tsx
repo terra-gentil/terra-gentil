@@ -54,7 +54,7 @@ export default function Game() {
               <div className="game-flower" style={{ left: '70%' }} />
               <Image
                 className="game-mascot-overlay"
-                src="/images/mascot/shovel.png"
+                src="/images/mascot/shovel.webp"
                 alt=""
                 width={100}
                 height={140}

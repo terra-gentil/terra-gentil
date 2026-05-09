@@ -2,6 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import {
   CONTACT_EMAIL,
+  GAME_ENABLED,
   INSTAGRAM_URL,
   SITE_NAME,
   TIKTOK_URL,
@@ -10,16 +11,21 @@ import {
   whatsappLink,
 } from '@/lib/constants';
 
+const allNavLinks = [
+  { href: '/manifesto', label: 'Manifesto' },
+  { href: '/videos', label: 'Vídeos' },
+  { href: '/doutor', label: 'Doutor' },
+  { href: '/app', label: 'App' },
+  { href: '/transformacoes', label: 'Transformações' },
+  { href: '/jogo', label: 'Jogo', requiresGame: true },
+  { href: '/guias', label: 'Ebooks' },
+  { href: '/instagram', label: 'Instagram' },
+];
+
 const navColumns = [
   {
     heading: 'Navegar',
-    links: [
-      { href: '/manifesto', label: 'Manifesto' },
-      { href: '/videos', label: 'Vídeos' },
-      { href: '/doutor', label: 'Doutor' },
-      { href: '/transformacoes', label: 'Transformações' },
-      { href: '/guias', label: 'Ebooks' },
-    ],
+    links: allNavLinks.filter((l) => !l.requiresGame || GAME_ENABLED),
   },
 ];
 

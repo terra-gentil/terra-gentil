@@ -53,7 +53,7 @@ export default async function PostPage({
           Voltar para o blog
         </Link>
 
-        <time className="text-sm text-terra-600">
+        <time dateTime={post.date} className="text-sm text-terra-600">
           {new Date(post.date).toLocaleDateString('pt-BR', {
             day: 'numeric',
             month: 'long',

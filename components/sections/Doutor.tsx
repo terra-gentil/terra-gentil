@@ -9,7 +9,12 @@ export default function Doutor() {
   return (
     <section id="doutor" className="doctor">
       <div className="doctor-grid">
-        <DoctorScanner />
+        <div className="doctor-stage-col">
+          <DoctorScanner />
+          <Link className="see-more light doctor-stage-link" href="/doutor">
+            Como funciona o Doutor →
+          </Link>
+        </div>
         <div className="doctor-text">
           <div className="section-eyebrow" style={{ color: 'var(--amber)' }}>
             Inteligência artificial · grátis
@@ -50,11 +55,6 @@ export default function Doutor() {
             </Link>
           </div>
         </div>
-      </div>
-      <div className="see-more-row">
-        <Link className="see-more light" href="/doutor">
-          Como funciona o Doutor →
-        </Link>
       </div>
     </section>
   );

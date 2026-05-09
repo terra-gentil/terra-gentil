@@ -1,4 +1,4 @@
-# Handoff Terra Gentil - 2026-05-08 (atualizado pos-redesign + vistoria)
+# Handoff Terra Gentil - 2026-05-09 (atualizado pos-newsletter + dominio Resend)
 
 ## Estado atual
 
@@ -70,19 +70,22 @@ Pra ativar auto-atualizacao a cada 1h:
 Passo-a-passo completo no `.env.example`. Setup esta blocado por permissao "Cargo de programador insuficiente" no Meta - precisa virar admin do app na url:
 `https://developers.facebook.com/apps/27059007300453528/roles/roles/`
 
-### 5. Newsletter form (FEITO 2026-05-08, falta config de envvar)
+### 5. Newsletter (FEITO 2026-05-09, end-to-end pronta)
 
-Integrado Resend. `components/sections/Newsletter.tsx` agora chama `POST /api/newsletter` com loading/error/success states + honeypot anti-bot. A rota tem Zod validation, rate limit (3/h por IP), trata duplicata como sucesso, logger estruturado. 11 testes Vitest cobrindo todos os caminhos.
+Integrado Resend. `components/sections/Newsletter.tsx` chama `POST /api/newsletter` com loading/error/success states + honeypot anti-bot. A rota tem Zod validation, rate limit (3/h por IP), trata duplicata como sucesso, logger estruturado. 11 testes Vitest cobrindo todos os caminhos.
 
-**Pendente pra ativar em prod:**
-1. Criar conta em https://resend.com (free 3k/mes)
-2. API Keys -> gerar key com permissao em "Audiences"
-3. Audience -> Create (Resend migrou "audiences" pra "segments") -> abrir e copiar o UUID da URL `?segmentId=<UUID>`
-4. Vercel -> Settings -> Environment Variables (Production):
-   - `RESEND_API_KEY=re_...`
-   - `RESEND_SEGMENT_ID=...`
-5. Redeploy. Sem essas envvars a rota retorna 503 e o form mostra erro.
-6. Pra mandar broadcast: Resend dashboard -> Broadcasts -> selecionar audience.
+**Em prod:**
+- `RESEND_API_KEY` e `RESEND_SEGMENT_ID` setadas em Production na Vercel via `vercel env add`
+- API key full access ativa: `re_UUTtnBnU_...`. Outras 2 (vazada e restricted) pendentes de revogacao manual em https://resend.com/api-keys
+- Segment ID: `946b190e-c436-41ab-b02a-87937ababc35` (chamado "General" no dashboard)
+- Dominio `send.terragentil.com.br` verificado no Resend (sa-east-1). DKIM/SPF/MX ja na Hostinger DNS, sem colidir com email principal
+- 2 contatos de teste no segment (`eng.andrehz+nl-test3` e `+nl-real`), pode limpar via dashboard
+
+**Pra mandar broadcast:**
+1. Resend dashboard -> Broadcasts -> Create
+2. From: qualquer@send.terragentil.com.br (ex: noticias@send.terragentil.com.br)
+3. Audience: General
+4. Editor visual ou HTML/MJML
 
 ### 6. Vistoria 2026-05-08 - itens nao aplicados
 

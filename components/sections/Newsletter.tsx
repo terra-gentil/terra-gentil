@@ -42,7 +42,7 @@ export default function Newsletter() {
     status === 'loading' ? 'Enviando…' : status === 'success' ? '✓ Inscrito' : 'Quero receber';
 
   return (
-    <section className="news">
+    <section className="news" id="newsletter">
       <div className="news-inner">
         <h2>
           Receba o <span className="ital">jardim</span> da semana

@@ -10,7 +10,7 @@ export default function Ebooks() {
         <div>
           <div className="section-eyebrow" style={{ color: 'var(--amber)' }}>De graça</div>
           <h2 className="section-title" style={{ color: 'var(--paper)' }}>
-            12 <span className="ital" style={{ color: 'var(--amber)' }}>guias</span> pra baixar
+            {ebooks.length} <span className="ital" style={{ color: 'var(--amber)' }}>guias</span> pra baixar
           </h2>
         </div>
         <p className="section-aside" style={{ color: 'rgba(244,236,219,0.7)' }}>
@@ -31,7 +31,7 @@ export default function Ebooks() {
       </div>
       <div className="see-more-row">
         <Link className="see-more light" href="/guias">
-          Ver todos os 12 guias →
+          Ver todos os {ebooks.length} guias →
         </Link>
       </div>
     </section>

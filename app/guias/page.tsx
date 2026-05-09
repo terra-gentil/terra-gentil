@@ -6,7 +6,7 @@ import { INSTAGRAM_URL } from '@/lib/constants';
 export const metadata: Metadata = {
   title: 'Guias · Terra Gentil',
   description:
-    '12 ebooks práticos pra resolver os perrengues mais comuns. Suculentas, compostagem, pragas, hortas. Tudo grátis em PDF.',
+    '18 ebooks práticos pra resolver os perrengues mais comuns. Suculentas, compostagem, pragas, hortas. Tudo grátis em PDF.',
 };
 
 const COLORS = ['#74C69D', '#4A8C4F', '#D8552B', '#E8A33D', '#74C69D', '#4A8C4F', '#E8A33D', '#D8552B', '#74C69D', '#E8A33D', '#4A8C4F', '#D8552B'] as const;

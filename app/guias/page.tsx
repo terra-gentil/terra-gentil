@@ -4,7 +4,7 @@ import GuiasClient from './GuiasClient';
 import { INSTAGRAM_URL } from '@/lib/constants';
 
 export const metadata: Metadata = {
-  title: 'Guias · Terra Gentil',
+  title: 'Ebooks · Terra Gentil',
   description:
     '18 ebooks práticos pra resolver os perrengues mais comuns. Suculentas, compostagem, pragas, hortas. Tudo grátis em PDF.',
 };
@@ -62,7 +62,7 @@ export default function GuiasPage() {
           <div>
             <div className="page-hero-eyebrow">Biblioteca · 100% grátis</div>
             <h1 className="page-hero-title">
-              {books.length} guias <span className="ital">práticos</span>.
+              {books.length} ebooks <span className="ital">práticos</span>.
             </h1>
             <p className="page-hero-sub">
               Ebooks de bolso pra resolver os perrengues mais comuns. {totalPages} páginas no total. Tudo em PDF, tudo
@@ -90,7 +90,7 @@ export default function GuiasPage() {
 
       <section className="page-cta">
         <h2>
-          Quer um guia <span className="ital">novo</span>?
+          Quer um ebook <span className="ital">novo</span>?
         </h2>
         <p>Manda no DM do Instagram qual perrengue você quer ver virar ebook. Os mais pedidos viram os próximos.</p>
         <a className="btn-yt" href={INSTAGRAM_URL} target="_blank" rel="noopener noreferrer">

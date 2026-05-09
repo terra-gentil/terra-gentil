@@ -13,7 +13,7 @@ const allLinks = [
   { href: '/manifesto', label: 'Manifesto' },
   { href: '/transformacoes', label: 'Transformações' },
   { href: '/jogo', label: 'Jogo', requiresGame: true },
-  { href: '/guias', label: 'Guias' },
+  { href: '/guias', label: 'Ebooks' },
   { href: '/instagram', label: 'Instagram' },
 ];
 

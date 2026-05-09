@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import Link from 'next/link';
 import { ebooks } from '@/data/ebooks';
 
@@ -10,7 +11,7 @@ export default function Ebooks() {
         <div>
           <div className="section-eyebrow" style={{ color: 'var(--amber)' }}>De graça</div>
           <h2 className="section-title" style={{ color: 'var(--paper)' }}>
-            {ebooks.length} <span className="ital" style={{ color: 'var(--amber)' }}>guias</span> pra baixar
+            {ebooks.length} <span className="ital" style={{ color: 'var(--amber)' }}>ebooks</span> pra baixar
           </h2>
         </div>
         <p className="section-aside" style={{ color: 'rgba(244,236,219,0.7)' }}>
@@ -20,18 +21,25 @@ export default function Ebooks() {
       <div className="ebook-grid">
         {display.map((g, i) => (
           <a key={g.title} href={g.pdf} target="_blank" rel="noopener noreferrer" className="ebook">
-            <div>
+            <Image
+              src={g.image}
+              alt={g.title}
+              fill
+              sizes="(max-width: 980px) 50vw, 25vw"
+              className="ebook-cover"
+            />
+            <div className="ebook-veil" />
+            <div className="ebook-info">
               <div className="num">{String(i + 1).padStart(2, '0')}</div>
+              <div className="ttl">{g.title.replace(/^[^a-zA-Z0-9]+/, '')}</div>
               <div className="pgs">PDF · grátis</div>
             </div>
-            <div className="ttl">{g.title.replace(/^[^a-zA-Z0-9]+/, '')}</div>
-            <div className="icon" aria-hidden="true">🌿</div>
           </a>
         ))}
       </div>
       <div className="see-more-row">
         <Link className="see-more light" href="/guias">
-          Ver todos os {ebooks.length} guias →
+          Ver todos os {ebooks.length} ebooks →
         </Link>
       </div>
     </section>

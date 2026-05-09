@@ -975,19 +975,41 @@ a { color: inherit; text-decoration: none; }
 }
 @media (max-width: 980px) { .ebook-grid { grid-template-columns: repeat(2, 1fr); } }
 .ebook {
-  background: var(--paper);
-  color: var(--ink);
-  border-radius: 18px;
-  padding: 22px; aspect-ratio: 3/4;
-  display: flex; flex-direction: column; justify-content: space-between;
   position: relative; overflow: hidden;
+  border-radius: 18px;
+  aspect-ratio: 3/4;
+  background: var(--ink); color: white;
   transition: transform 0.3s;
+  text-decoration: none;
 }
 .ebook:hover { transform: translateY(-6px); }
-.ebook .num { font-family: var(--font-display, 'Archivo Black'); font-size: 56px; line-height: 1; color: var(--amber); }
-.ebook .ttl { font-family: var(--font-display, 'Archivo Black'); font-size: 16px; line-height: 1.05; text-transform: uppercase; letter-spacing: -0.01em; }
-.ebook .pgs { font-size: 11px; color: var(--ink-soft); letter-spacing: 0.08em; text-transform: uppercase; }
-.ebook .icon { position: absolute; bottom: -10px; right: -10px; opacity: 0.18; font-size: 90px; }
+.ebook .ebook-cover { object-fit: cover; }
+.ebook .ebook-veil {
+  position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(0,0,0,0) 35%, rgba(0,0,0,0.55) 75%, rgba(0,0,0,0.9) 100%);
+  pointer-events: none; z-index: 1;
+}
+.ebook .ebook-info {
+  position: absolute; left: 18px; right: 18px; bottom: 16px;
+  display: flex; flex-direction: column; gap: 6px;
+  z-index: 2;
+}
+.ebook .ebook-info .num {
+  font-family: var(--font-mono, 'JetBrains Mono');
+  font-size: 12px; letter-spacing: 0.16em;
+  color: var(--amber);
+  text-transform: uppercase;
+}
+.ebook .ebook-info .ttl {
+  font-family: var(--font-display, 'Archivo Black');
+  font-size: 16px; line-height: 1.05;
+  text-transform: uppercase; letter-spacing: -0.01em;
+  color: white;
+}
+.ebook .ebook-info .pgs {
+  font-size: 11px; color: rgba(255,255,255,0.75);
+  letter-spacing: 0.1em; text-transform: uppercase;
+}
 
 /* ---------- INSTAGRAM ---------- */
 .ig {
@@ -1609,17 +1631,25 @@ a { color: inherit; text-decoration: none; }
   background: var(--c);
   aspect-ratio: 3/4;
   border-radius: 8px 14px 14px 8px;
-  padding: 28px 22px 20px;
-  color: var(--ink);
-  display: flex; flex-direction: column; justify-content: space-between;
   position: relative; overflow: hidden;
   border-left: 6px solid rgba(0,0,0,0.2);
   box-shadow: 0 14px 28px rgba(0,0,0,0.18);
+  color: white;
 }
-.gu-cover-band { position: absolute; top: 0; right: 0; width: 60px; height: 100%; background: rgba(0,0,0,0.08); }
-.gu-cover-num { font-family: var(--font-mono, 'JetBrains Mono'); font-size: 12px; letter-spacing: 0.15em; opacity: 0.7; }
-.gu-cover-title { font-family: var(--font-display, 'Archivo Black'); font-size: 24px; line-height: 1; text-transform: uppercase; text-wrap: balance; }
-.gu-cover-foot { font-family: var(--font-mono, 'JetBrains Mono'); font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; display: flex; justify-content: space-between; opacity: 0.7; }
+.gu-cover-img { object-fit: cover; }
+.gu-cover-veil {
+  position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(0,0,0,0) 55%, rgba(0,0,0,0.55) 85%, rgba(0,0,0,0.85) 100%);
+  pointer-events: none; z-index: 1;
+}
+.gu-cover-foot {
+  position: absolute; left: 14px; right: 14px; bottom: 12px;
+  font-family: var(--font-mono, 'JetBrains Mono');
+  font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase;
+  display: flex; justify-content: space-between;
+  color: rgba(255,255,255,0.9);
+  z-index: 2;
+}
 .gu-card-meta { display: flex; justify-content: space-between; align-items: center; margin-top: 12px; padding: 0 4px; }
 .gu-card-cat { font-family: var(--font-mono, 'JetBrains Mono'); font-size: 11px; color: var(--c); }
 .gu-card-dl { font-size: 13px; font-weight: 600; }

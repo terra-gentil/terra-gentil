@@ -1,5 +1,6 @@
 'use client';
 
+import Image from 'next/image';
 import { useMemo, useState } from 'react';
 
 interface Book {
@@ -58,11 +59,16 @@ export default function GuiasClient({ books, cats }: { books: Book[]; cats: Read
                 rel="noopener noreferrer"
               >
                 <div className="gu-cover">
-                  <div className="gu-cover-band" />
-                  <div className="gu-cover-num">{b.id}</div>
-                  <div className="gu-cover-title">{b.title}</div>
+                  <Image
+                    src={b.cover}
+                    alt={b.title}
+                    fill
+                    sizes="(max-width: 720px) 50vw, 240px"
+                    className="gu-cover-img"
+                  />
+                  <div className="gu-cover-veil" />
                   <div className="gu-cover-foot">
-                    <span>terra gentil</span>
+                    <span>{b.id}</span>
                     <span>{b.pages} pp</span>
                   </div>
                 </div>

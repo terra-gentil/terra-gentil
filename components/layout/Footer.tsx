@@ -18,7 +18,7 @@ const navColumns = [
       { href: '/videos', label: 'Vídeos' },
       { href: '/doutor', label: 'Doutor' },
       { href: '/transformacoes', label: 'Transformações' },
-      { href: '/guias', label: 'Guias' },
+      { href: '/guias', label: 'Ebooks' },
     ],
   },
 ];

@@ -26,6 +26,7 @@ export default function Header() {
   const pathname = usePathname();
   const isHome = pathname === '/';
   const [open, setOpen] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
 
   // Fecha o menu mobile com Esc ou quando muda de rota.
   useEffect(() => {
@@ -44,9 +45,18 @@ export default function Header() {
     setOpen(false);
   }, [pathname]);
 
+  // Scroll listener pra trocar o estilo do nav ao sair do topo.
+  // passive: true pra nao bloquear scroll no mobile.
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 24);
+    onScroll();
+    window.addEventListener('scroll', onScroll, { passive: true });
+    return () => window.removeEventListener('scroll', onScroll);
+  }, []);
+
   return (
     <>
-      <nav className="nav" aria-label="Principal">
+      <nav className={`nav ${scrolled ? 'nav-scrolled' : ''}`} aria-label="Principal">
         <Link href="/" className="nav-brand">
           <BrandMark color="#E8A33D" size={26} />
           <span>

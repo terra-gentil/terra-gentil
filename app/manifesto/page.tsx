@@ -1,47 +1,47 @@
 import type { Metadata } from 'next';
 import Image from 'next/image';
-import { YOUTUBE_URL } from '@/lib/constants';
+import { whatsappLink, YOUTUBE_URL } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: 'Manifesto · Terra Gentil',
   description:
-    'Quatro atos, um jardim. Tudo começa com terra e atenção. A filosofia que guia a Terra Gentil desde 2022: cuidado, escola e comunidade.',
+    'A Terra Gentil não é um canal de jardinagem. É um canal de histórias humanas contadas por trás de quintais transformados. Tudo de graça, desde 2022.',
 };
 
 const MF_ACTS = [
   {
     num: '01',
     kicker: 'A história',
-    title: 'Tudo começa com terra e atenção.',
+    title: 'Como tudo começou.',
     body:
-      'André pega o cortador, o ancinho e a paciência. Antes de plantar nada, ele escuta o quintal. Que sol bate ali? Onde a chuva empoça? Que mato veio sozinho? A gentileza é técnica.',
+      'Em 2022, André começou a filmar quintais que ninguém mais ia mexer. Casas de idosos, calçadas tomadas pelo mato, terrenos abandonados que viraram problema da rua. Cortou, capinou, plantou — sem cobrar, sem pedir nada em troca. A primeira pessoa que viu o resultado se emocionou. O canal começou ali. Não era pra ser sobre jardinagem. Era pra ser sobre gente.',
     mascot: '/images/mascot/trimmer.webp',
     hue: '#4A8C4F',
   },
   {
     num: '02',
     kicker: 'A transformação',
-    title: 'Mato vira jardim, suor vira beleza.',
+    title: 'O que acontece num vídeo da Terra Gentil.',
     body:
-      'Capina, poda, adubação, replantio. Cada vídeo é uma transformação completa de um quintal real. Sem milagre, sem corte mágico, só cuidado em tempo real, do antes pro depois.',
+      'Um quintal esquecido. Uma pessoa cansada — viúva, idosa, deficiente, doente. André chega, escuta a história, e trabalha. Cada vídeo mostra a transformação inteira, sem corte mágico: o mato alto, o suor, a chuva, o cansaço. E no fim, o jardim entregue, e a reação. Esse é o ponto. A planta é o pretexto. O encontro é o que fica.',
     mascot: '/images/mascot/shovel.webp',
     hue: '#E8A33D',
   },
   {
     num: '03',
     kicker: 'A escola',
-    title: 'Você aprende junto.',
+    title: 'O conhecimento também é gentileza.',
     body:
-      '12 ebooks gratuitos, blog com guias, lives no YouTube e o Doutor das Plantas, uma IA que olha a foto da sua planta e devolve diagnóstico, plano de rega e ebook combinado.',
+      '18 ebooks gratuitos sobre as plantas mais comuns do Brasil. Blog com guias práticos. Lives no YouTube respondendo dúvida de quem mandou foto da planta morrendo no DM. E o Doutor das Plantas, uma IA que olha a foto da sua folha amarela e devolve, em segundos, o que tá acontecendo, o que fazer e qual ebook combina. Tudo grátis, sempre. Plantar não pode ser privilégio.',
     mascot: '/images/mascot/laptop.webp',
     hue: '#74C69D',
   },
   {
     num: '04',
     kicker: 'A comunidade',
-    title: 'Acabou? Não. Limpamos o resto.',
+    title: 'Gentileza gera gentileza.',
     body:
-      'O sopro final pra deixar tudo no lugar. WhatsApp aberto, Instagram com bastidor, TikTok com dicas curtas. Se a sua planta tá mal, você não tá sozinho. Manda foto.',
+      'Não é bordão. É o que a gente vê acontecer: vizinho que traz churrasco no meio da gravação, pedreiro que sugere o jardim de um tio, senhora que chama a Terra Gentil de "marciana" porque não acredita que é de graça. O canal cresce porque a bondade é contagiosa. A gente só precisa começar — o resto vem sozinho.',
     mascot: '/images/mascot/blower.webp',
     hue: '#D8552B',
   },
@@ -49,22 +49,32 @@ const MF_ACTS = [
 
 const MF_PRINCIPLES = [
   {
-    t: 'Toda planta merece um diagnóstico',
-    d: 'Não jogue fora antes de entender. Plantas falam, só precisamos aprender a escutar.',
+    t: 'Gratuidade',
+    d: 'Tudo aqui é de graça. O vídeo, o ebook, o diagnóstico, a transformação. Sempre. Plantar não devia custar.',
   },
   {
-    t: 'Quintal é jardim',
-    d: 'Não importa se é 4m² ou 400m². Espaço esquecido pode virar espaço vivo.',
+    t: 'Os esquecidos primeiro',
+    d: 'Idosos, viúvos, deficientes, gente que não aguenta mais o quintal sozinho. A fila da Terra Gentil respeita quem mais precisa.',
   },
   {
-    t: 'Conhecimento é grátis',
-    d: 'Tudo que ensinamos no canal, no app e nos ebooks: zero pago. Sempre.',
+    t: 'A história importa mais que a planta',
+    d: 'Cada vídeo começa pela conversa. A planta vai pra terra depois que a gente entende quem ela é. Sem essa ordem, vira só jardinagem bonita. Com ela, vira Terra Gentil.',
   },
   {
-    t: 'A comunidade é o sol',
-    d: 'Sem vocês, nada disso cresce. Cada like, comentário e foto plantada conta.',
+    t: 'Gentileza gera gentileza',
+    d: 'Não é o nome bonito do canal. É o efeito real: cada transformação convida a próxima. A bondade circula sozinha, a gente só precisa não atrapalhar.',
   },
 ] as const;
+
+const MF_QUOTES = [
+  { text: 'Você não é marciano?', cite: 'Dona Cristina, antes da transformação' },
+  { text: 'Lindo de morrer.', cite: 'vizinha durante a gravação' },
+  { text: 'Presente de natal.', cite: 'beneficiada após o jardim ficar pronto' },
+  { text: 'Abençoo vocês.', cite: 'mensagem após a entrega' },
+] as const;
+
+const SUGGEST_MESSAGE =
+  'Olá! Conheço um quintal abandonado de alguém que precisa de ajuda. Posso indicar pra Terra Gentil?';
 
 export default function ManifestoPage() {
   return (
@@ -78,8 +88,9 @@ export default function ManifestoPage() {
             um jardim.
           </h1>
           <p className="tp-hero-sub">
-            A Terra Gentil acredita que jardinagem é cuidado, escola e comunidade. Esse é o manifesto que guia tudo: do
-            vídeo ao Doutor.
+            A Terra Gentil não é um canal de jardinagem. É um canal de histórias humanas contadas por trás de quintais
+            transformados. Tudo de graça, desde 2022. Esse é o manifesto que guia o canal, o app, o Doutor das Plantas e
+            cada quintal que ainda vai virar jardim.
           </p>
           <Image
             className="tp-logo-mark tp-logo-mark--below"
@@ -144,14 +155,56 @@ export default function ManifestoPage() {
         </div>
       </section>
 
+      <section className="jg-features" style={{ paddingTop: 0 }}>
+        <div className="jg-inner">
+          <h2 className="dr-section-title">
+            O que <span className="ital">dizem</span>.
+          </h2>
+          <div className="jg-feat-grid">
+            {MF_QUOTES.map((q) => (
+              <figure key={q.text} className="jg-feat" style={{ margin: 0 }}>
+                <blockquote
+                  style={{
+                    margin: 0,
+                    fontFamily: 'var(--font-serif), serif',
+                    fontStyle: 'italic',
+                    fontSize: 'clamp(20px, 2.4vw, 28px)',
+                    lineHeight: 1.25,
+                    color: 'var(--ink, #0B1410)',
+                  }}
+                >
+                  &ldquo;{q.text}&rdquo;
+                </blockquote>
+                <figcaption className="jg-feat-d" style={{ marginTop: 8 }}>
+                  — {q.cite}
+                </figcaption>
+              </figure>
+            ))}
+          </div>
+        </div>
+      </section>
+
       <section className="page-cta">
         <h2>
-          Comece pelo <span className="ital">primeiro</span> ato.
+          Conhece um <span className="ital">quintal</span> que precisa?
         </h2>
-        <p>Inscreva-se no canal e assista uma transformação completa esse fim de semana.</p>
-        <a className="btn-yt" href={YOUTUBE_URL} target="_blank" rel="noopener noreferrer">
-          Ir pro YouTube →
-        </a>
+        <p>
+          A Terra Gentil cresce com indicação. Se você sabe de um espaço esquecido — de alguém idoso, doente, sozinho —
+          conta pra gente. Ou comece assistindo uma transformação completa esse fim de semana.
+        </p>
+        <div className="hero-cta-row" style={{ justifyContent: 'center' }}>
+          <a
+            className="btn-yt"
+            href={whatsappLink(SUGGEST_MESSAGE)}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Sugerir um quintal →
+          </a>
+          <a className="btn-ghost" href={YOUTUBE_URL} target="_blank" rel="noopener noreferrer">
+            Assistir no YouTube
+          </a>
+        </div>
       </section>
     </>
   );

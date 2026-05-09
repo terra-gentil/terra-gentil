@@ -284,6 +284,124 @@ a { color: inherit; text-decoration: none; }
   background: radial-gradient(ellipse, rgba(232,163,61,0.4), transparent 70%);
   filter: blur(40px);
 }
+
+/* ========= TRATAMENTO POLAROIDES (hero foto vs mascote) ========= */
+/* Reseta regras herdadas de .hero-mascot img dentro do modo polaroide */
+.hero-mascot.t-polaroid > img,
+.hero-mascot.t-polaroid figure img {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  filter: none;
+}
+.hero-mascot.t-polaroid {
+  align-items: end;
+}
+.t-polaroid .pol {
+  position: absolute;
+  width: 220px;
+  background: var(--paper);
+  padding: 12px 12px 38px;
+  margin: 0;
+  box-shadow: 0 24px 40px rgba(0,0,0,0.45), 0 4px 8px rgba(0,0,0,0.3);
+  transition: transform 700ms cubic-bezier(.2,.8,.2,1), opacity 700ms ease;
+  pointer-events: none;
+}
+.t-polaroid .pol img {
+  aspect-ratio: 4 / 5;
+}
+.t-polaroid .pol figcaption {
+  position: absolute;
+  left: 12px;
+  right: 12px;
+  bottom: 8px;
+  font-family: var(--font-caveat, 'Caveat', cursive);
+  color: var(--ink);
+  font-size: 22px;
+  font-weight: 700;
+  text-align: center;
+  line-height: 1;
+}
+.t-polaroid .pol-tape {
+  position: absolute;
+  top: -14px;
+  left: 50%;
+  transform: translateX(-50%) rotate(-3deg);
+  width: 70px;
+  height: 22px;
+  background: rgba(232,163,61,0.65);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+}
+.t-polaroid .pol-0 {
+  right: 8%;
+  bottom: 18%;
+  transform: rotate(-6deg);
+  z-index: 3;
+  width: 260px;
+  opacity: 1;
+}
+.t-polaroid .pol-1 {
+  right: 32%;
+  bottom: 8%;
+  transform: rotate(7deg) translateY(20px);
+  z-index: 2;
+  opacity: 0.9;
+}
+.t-polaroid .pol-2 {
+  right: 48%;
+  bottom: 28%;
+  transform: rotate(-12deg) translateY(40px);
+  z-index: 1;
+  opacity: 0.75;
+  width: 190px;
+}
+.t-polaroid .pol-mascot {
+  position: absolute !important;
+  bottom: -20px;
+  left: 0;
+  height: 90% !important;
+  width: auto !important;
+  object-fit: contain !important;
+  filter: drop-shadow(0 30px 60px rgba(0,0,0,0.55)) !important;
+  z-index: 4;
+}
+
+/* slide controls (dots) */
+.slide-ctrl {
+  position: absolute;
+  bottom: 60px;
+  right: 28px;
+  display: flex;
+  gap: 8px;
+  z-index: 4;
+}
+.sc-dot {
+  width: 24px;
+  height: 3px;
+  border-radius: 2px;
+  background: rgba(244,236,219,0.25);
+  cursor: pointer;
+  transition: 0.25s;
+  padding: 0;
+  border: none;
+}
+.sc-dot.on {
+  background: var(--amber);
+  width: 36px;
+}
+
+@media (max-width: 1000px) {
+  .t-polaroid .pol { width: 160px; }
+  .t-polaroid .pol-0 { width: 180px; right: 4%; bottom: 14%; }
+  .t-polaroid .pol-2 { width: 140px; }
+  .t-polaroid .pol-mascot {
+    height: 70% !important;
+    bottom: -10px;
+  }
+  .slide-ctrl { bottom: 80px; right: 20px; }
+}
+
 .hero-meta {
   position: absolute; bottom: 26px; left: 28px; right: 28px;
   z-index: 3;

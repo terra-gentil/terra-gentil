@@ -1,9 +1,27 @@
+'use client';
+
 import Image from 'next/image';
 import Link from 'next/link';
+import { useEffect, useState } from 'react';
 import Leaves from './Leaves';
 import { YOUTUBE_URL } from '@/lib/constants';
 
+const PHOTOS = [
+  { src: '/images/photos/andre-bench.png', label: 'Andre no quintal', focus: '50% 30%' },
+  { src: '/images/photos/andre-ia.png', label: 'Lancamento da IA', focus: '40% 35%' },
+  { src: '/images/photos/canal-girl.png', label: 'Canal Terra Gentil', focus: '50% 28%' },
+] as const;
+
+const ROTATE_INTERVAL_MS = 3500;
+
 export default function Hero() {
+  const [idx, setIdx] = useState(0);
+
+  useEffect(() => {
+    const t = setInterval(() => setIdx((i) => (i + 1) % PHOTOS.length), ROTATE_INTERVAL_MS);
+    return () => clearInterval(t);
+  }, []);
+
   return (
     <section id="top" className="hero">
       <Leaves count={18} />
@@ -36,14 +54,35 @@ export default function Hero() {
             </Link>
           </div>
         </div>
-        <div className="hero-mascot">
+
+        <div className="hero-mascot t-polaroid">
           <div className="glow" />
+          {PHOTOS.map((p, i) => {
+            const offset = i - idx;
+            const pos = ((offset % PHOTOS.length) + PHOTOS.length) % PHOTOS.length;
+            return (
+              <figure key={p.src} className={`pol pol-${pos}`} aria-hidden={pos !== 0}>
+                <span className="pol-tape" aria-hidden="true" />
+                <Image
+                  src={p.src}
+                  alt={p.label}
+                  width={520}
+                  height={650}
+                  sizes="(max-width: 1000px) 60vw, 28vw"
+                  style={{ objectPosition: p.focus }}
+                  priority={i === 0}
+                />
+                <figcaption>{p.label}</figcaption>
+              </figure>
+            );
+          })}
           <Image
+            className="pol-mascot"
             src="/images/mascot/wave.png"
             alt="Brotinho mascote da Terra Gentil acenando"
             width={992}
             height={1024}
-            sizes="(max-width: 1000px) 60vw, 32vw"
+            sizes="(max-width: 1000px) 50vw, 24vw"
             priority
           />
         </div>
@@ -51,6 +90,19 @@ export default function Hero() {
       <div className="hero-meta">
         <span>EST. 2022 · @TERRAGENTIL · BRASIL</span>
         <span className="scroll">SCROLL</span>
+      </div>
+
+      <div className="slide-ctrl" aria-label="Selecionar foto">
+        {PHOTOS.map((p, i) => (
+          <button
+            key={p.src}
+            type="button"
+            className={`sc-dot ${i === idx ? 'on' : ''}`}
+            onClick={() => setIdx(i)}
+            title={p.label}
+            aria-label={`Mostrar foto ${i + 1}: ${p.label}`}
+          />
+        ))}
       </div>
     </section>
   );

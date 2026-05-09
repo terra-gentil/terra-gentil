@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { Archivo_Black, Instrument_Serif, Inter, JetBrains_Mono } from 'next/font/google';
+import { Archivo_Black, Caveat, Instrument_Serif, Inter, JetBrains_Mono } from 'next/font/google';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import WhatsAppButton from '@/components/layout/WhatsAppButton';
@@ -33,6 +33,13 @@ const mono = JetBrains_Mono({
   weight: ['400', '600'],
   subsets: ['latin'],
   variable: '--font-mono',
+  display: 'swap',
+});
+
+const caveat = Caveat({
+  weight: ['500', '700'],
+  subsets: ['latin'],
+  variable: '--font-caveat',
   display: 'swap',
 });
 
@@ -70,7 +77,7 @@ export default function RootLayout({
   return (
     <html
       lang="pt-BR"
-      className={`${display.variable} ${serif.variable} ${sans.variable} ${mono.variable}`}
+      className={`${display.variable} ${serif.variable} ${sans.variable} ${mono.variable} ${caveat.variable}`}
     >
       <head>
         <link rel="preconnect" href="https://i.ytimg.com" crossOrigin="" />

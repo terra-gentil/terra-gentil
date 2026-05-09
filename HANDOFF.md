@@ -1,8 +1,29 @@
-# Handoff Terra Gentil - 2026-05-09 (atualizado pos-newsletter + dominio Resend)
+# Handoff Terra Gentil - 2026-05-09 (atualizado pos-DoctorScanner + ebooks locais)
 
 ## Estado atual
 
 Site LIVE em https://terragentil.com.br substituindo o WordPress velho do Hostinger.
+
+### Sessao 2026-05-09 (DoctorScanner + Hero polaroides + ebooks locais)
+
+Mudancas feitas em ordem cronologica nessa sessao:
+
+1. **Substituicao do motor do Doutor** (commit `0362952`): `/api/diagnose` deixou de chamar Gemini direto e virou proxy fino pro backend Railway (`https://terra-gentil-app-production.up.railway.app/v1/diagnostico`). Mesmo motor do app mobile, prompt centralizado em um repo so. Removeu dep `@google/generative-ai`. `lib/diagnose-mapper.ts` parseia 21 campos backend → schema `Diagnosis` (camelCase). Tipo `Diagnosis` ganhou `extras` com confianca, estado_saude, qualidade da foto, problemas detectados, plano longo, retorno. `PlantDoctor` aceita `variant: 'compact' | 'full'` - full mostra badges + plan rico em `/doutor`.
+2. **Logo abaixo do titulo** (`b5c3717`): em `/manifesto` e `/transformacoes` o logo grande estava competindo com o h1 no topo. Reordenado pra eyebrow → h1 → sub → logo (variante `.tp-logo-mark--below`).
+3. **Hero polaroides** (`05fdcca`): substitui mascote estatico por 3 polaroides do canal (`andre-bench`, `andre-ia`, `canal-girl`) rotacionando a cada 3.5s com mascote `wave.png` como assinatura. Fonte Caveat adicionada via next/font.
+4. **Polaroides mais pra cima** (`76e2139`): pol-0/1/2 subiram de bottom 18/8/28% pra 45/32/56% pra ficarem visiveis acima do mascote (90% altura).
+5. **Botoes hero do mesmo tamanho + z-index mobile** (`cdfa96f`): `.btn-yt` e `.btn-ghost` ganharam `min-width: 240px` (desktop) e `flex: 1` (mobile). Primeiro filho do `.hero-grid` ganhou `position: relative; z-index: 5` pra ficar acima das polaroides absolutas no mobile.
+6. **Videos da home com fallback channel_id** (`0439abc`): RSS da playlist `PLo0P-qaOD_PSJ24_1Z5d9JbwVs2Y3oDS8` esta retornando 404. `lib/youtube.ts` tenta channel_id (`UCX3xUnHpQrhSUJUGjqMAN2A`) como fallback. `Videos.tsx` FALLBACK estatico tinha 3 IDs aleatorios, trocado pelos 3 videos mais fortes do canal real.
+7. **DoctorScanner cinematografico** (`44c67b3`): novo `components/sections/DoctorScanner.tsx` com animacao 11s em 6 fases (Camera, Scanner, Analisando, Diagnostico, Plano, Ebook) usando 8 poses do mascote como atos narrativos. CSS `.scan-stage`, `.hud-*`, `.ss-*` em globals.css. 3 exemplos rotacionando (Tomateiro/Pothos/Manjericao). Plugado: na Home substitui o PlantDoctor estatico, em `/doutor` aparece como hero animado acima do PlantDoctor real (mantem upload).
+8. **Play button centralizado nos cards de video** (`c5b1260`): era `top:24px right:24px`, agora `top:50% left:50% transform:translate(-50%,-50%)`.
+9. **"Como funciona" abaixo do scanner** (`6564b25`): link `see-more` saiu do `see-more-row` no fim da seccao Doutor e foi pra dentro da coluna do scanner (`.doctor-stage-col`), centralizado.
+10. **Otimizacao geral de espaco** (`948c303`): paddings das sections de 120-140px → 88px (`.doctor`, `.about`, `.game`, `.ig`, `.app-promo`, `.manifesto-flow`, `.transform-section`, `.section-pad`, `.ebooks`). `.news` 100→80px. `.section-head margin-bottom` 56→40px. `.see-more-row margin-top` 48→32px. Home ~250px mais curta.
+11. **Dois botoes Tirar foto / Galeria no PlantDoctor** (`567033c`): estado inicial passou de um card unico "Toque para enviar uma foto" pra dois botoes (Tirar foto verde com `capture=environment` + Galeria branco). Refs `cameraInputRef` e `galleryInputRef` separados. Estilo chunky 3D igual app mobile.
+12. **Mascote newsletter sem distorcer** (`d38e0e4`): `.news-mascot` tinha `height: 60%` sem `width: auto` - agora `width: clamp(160px, 18vw, 240px); height: auto`.
+13. **Biblioteca de 18 ebooks completa** (`6f04717`): `data/ebooks.ts` foi de 12 → 18 itens, sincronizado com widget WP antigo. Adicionados Guia de Luz, Hortela, Cebolinha, Jiboia, Alface, Tapete Verde. Titulos completos com subtitulo, keywords ampliadas. `Ebooks.tsx` da home dinamico com `{ebooks.length}`.
+14. **PDFs e capas hospedados localmente** (`d302858`): WP antigo no Hostinger comecou a retornar 403 nos uploads. 19 PDFs (10-15MB cada) e 19 capas migrados pra `public/ebooks/` e `public/ebooks/covers/`. URLs novas: `https://terragentil.com.br/ebooks/{N}-{slug}.pdf` e `/ebooks/covers/{slug}.jpeg`. `data/ebooks.ts` aponta pra paths relativos `/ebooks/...`. Backup acessivel pelo subdominio Hostinger sem o bloqueio: `https://plum-tarsier-720506.hostingersite.com/wp-content/uploads/2025/12/`. **Repo cresceu pra ~180MB** (era 14MB no .git).
+
+### Anteriores
 
 - Next.js 16 + Turbopack + React 19, deploy Vercel via Git (repo `terra-gentil/terra-gentil-site`)
 - DNS migrado pro Vercel mantendo email no Hostinger (MX/SPF/DKIM/DMARC/autoconfig intactos). IPs novos `216.198.79.1` (apex) + CNAME `fe90e179e6733812.vercel-dns-017.com` (www) ja aplicados no Hostinger.
@@ -123,7 +144,10 @@ P3 backlog:
 - `app/app/page.tsx` `app/manifesto/page.tsx` - stub pages
 
 ### Logica e API
-- `app/api/diagnose/route.ts` - rate limit + Zod + Gemini fallback (referencia de qualidade)
+- `app/api/diagnose/route.ts` - proxy fino pro backend Railway (rate limit + Zod, sem Gemini direto)
+- `lib/diagnose-mapper.ts` - parseia schema 21 campos backend → tipo Diagnosis (camelCase)
+- `components/sections/DoctorScanner.tsx` - animacao cinematografica 11s 6 fases com poses do mascote
+- `public/ebooks/` - 19 PDFs + capas hospedados localmente (WP antigo deu 403)
 - `app/sitemap.ts` `app/robots.ts` - 21 rotas, /jogo gated
 - `lib/constants.ts` - WHATSAPP_NUMBER, YOUTUBE_PLAYLIST_ID, GAME_URL, GAME_ENABLED, helpers
 - `lib/instagram.ts` - Graph API fetch + parse permalink + cache
@@ -147,7 +171,8 @@ P3 backlog:
 - Push em repos `terra-gentil/*` exige `gh auth switch -h github.com -u terra-gentil` (memoria salva em `feedback_github_auth.md`, fazer sem perguntar)
 - Vercel deploy automatico no push pra `main`
 - Variaveis de producao na Vercel:
-  - `GEMINI_API_KEY` (Production)
+  - `DIAGNOSE_API_URL` (opcional, default `https://terra-gentil-app-production.up.railway.app`)
+  - `GEMINI_API_KEY` (legada, pode remover - nao usada mais desde commit `0362952`)
   - `NEXT_PUBLIC_GA_ID=G-4BZ68B16BK`
   - `NEXT_PUBLIC_GOOGLE_VERIFICATION=OV3rat2vVU6w17ZQ389kNnw9dPz7Uxp3QVJSCem9iMI`
   - `NEXT_PUBLIC_GAME_ENABLED` (vazio ate liberar /jogo)

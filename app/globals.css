@@ -456,7 +456,7 @@ a { color: inherit; text-decoration: none; }
 }
 
 /* ---------- MANIFESTO ---------- */
-.manifesto-flow { background: var(--paper); padding: 140px 28px; }
+.manifesto-flow { background: var(--paper); padding: 88px 28px; }
 .manifesto-head { max-width: 1480px; margin: 0 auto 60px; }
 .manifesto-grid { max-width: 1480px; margin: 0 auto; display: flex; flex-direction: column; gap: 28px; }
 .manifesto-row {
@@ -540,9 +540,9 @@ a { color: inherit; text-decoration: none; }
 }
 
 /* ---------- SECTION HEAD ---------- */
-.section-pad { padding: 120px 28px; }
+.section-pad { padding: 88px 28px; }
 .section-head {
-  max-width: 1480px; margin: 0 auto 56px;
+  max-width: 1480px; margin: 0 auto 40px;
   display: flex; align-items: end; justify-content: space-between; gap: 40px;
   flex-wrap: wrap;
 }
@@ -618,7 +618,7 @@ a { color: inherit; text-decoration: none; }
 /* ---------- ABOUT ---------- */
 .about {
   position: relative; background: var(--paper-2);
-  padding: 140px 28px;
+  padding: 88px 28px;
   overflow: hidden;
 }
 .about::before {
@@ -682,13 +682,13 @@ a { color: inherit; text-decoration: none; }
 .see-more.dark:hover { background: var(--ink); color: var(--paper); }
 .see-more.light { color: var(--paper); }
 .see-more.light:hover { background: var(--paper); color: var(--ink); }
-.see-more-row { margin-top: 48px; display: flex; justify-content: center; }
+.see-more-row { margin-top: 32px; display: flex; justify-content: center; }
 
 /* ---------- DOUTOR (home) ---------- */
 .doctor {
   background: var(--bg-deep);
   color: var(--paper);
-  padding: 140px 28px;
+  padding: 88px 28px;
   position: relative; overflow: hidden;
 }
 .doctor::before {
@@ -865,7 +865,7 @@ a { color: inherit; text-decoration: none; }
 }
 
 /* ---------- TRANSFORMATIONS (home) ---------- */
-.transform-section { background: var(--paper); padding: 120px 28px 140px; }
+.transform-section { background: var(--paper); padding: 88px 28px; }
 .ba {
   position: relative; max-width: 1480px; margin: 0 auto;
   border-radius: 32px; overflow: hidden;
@@ -925,7 +925,7 @@ a { color: inherit; text-decoration: none; }
 .ebooks {
   background: var(--leaf-deep);
   color: var(--paper);
-  padding: 120px 28px;
+  padding: 88px 28px;
   position: relative;
 }
 .ebook-grid {
@@ -952,7 +952,7 @@ a { color: inherit; text-decoration: none; }
 .ig {
   background: var(--paper);
   color: var(--ink);
-  padding: 140px 28px 120px;
+  padding: 88px 28px;
 }
 .ig-head {
   max-width: 1480px; margin: 0 auto 48px;
@@ -1040,7 +1040,7 @@ a { color: inherit; text-decoration: none; }
 .game {
   background: var(--bg-deep);
   color: var(--paper);
-  padding: 140px 28px;
+  padding: 88px 28px;
   position: relative; overflow: hidden;
 }
 .game::before {
@@ -1170,7 +1170,7 @@ a { color: inherit; text-decoration: none; }
 .app-promo {
   background: var(--paper-2);
   color: var(--ink);
-  padding: 140px 28px 100px;
+  padding: 88px 28px;
   position: relative; overflow: hidden;
 }
 .app-promo-inner {
@@ -1266,7 +1266,7 @@ a { color: inherit; text-decoration: none; }
 .news {
   background: var(--amber);
   color: var(--ink);
-  padding: 100px 28px;
+  padding: 80px 28px;
   position: relative; overflow: hidden;
 }
 .news-inner { max-width: 1100px; margin: 0 auto; text-align: center; position: relative; z-index: 2; }
@@ -1407,7 +1407,7 @@ a { color: inherit; text-decoration: none; }
 .dr-scanner .dr-section-title { color: var(--paper); }
 
 .doctor-stage-col { display: flex; flex-direction: column; gap: 16px; }
-.doctor-stage-link { align-self: flex-start; margin-top: 4px; }
+.doctor-stage-link { align-self: center; margin-top: 4px; }
 .dr-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 24px; }
 .dr-step { background: white; padding: 32px 28px; border-radius: 18px; border: 1px solid rgba(0,0,0,0.06); }
 .dr-step .step-num { font-family: var(--font-mono, 'JetBrains Mono'); font-size: 11px; letter-spacing: 0.15em; color: var(--amber); margin-bottom: 16px; }

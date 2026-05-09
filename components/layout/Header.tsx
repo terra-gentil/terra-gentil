@@ -48,7 +48,7 @@ export default function Header() {
         <a
           href={YOUTUBE_URL}
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer"
           className="nav-cta"
         >
           <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">

@@ -41,14 +41,14 @@ export default function AppPromo() {
             <strong>Supabase</strong>
           </div>
           <div className="app-store-row">
-            <a className="app-store" href={GAME_REPO_URL} target="_blank" rel="noreferrer">
+            <a className="app-store" href={GAME_REPO_URL} target="_blank" rel="noopener noreferrer">
               <div className="app-store-icon" />
               <div>
                 <div className="app-store-small">Em breve na</div>
                 <div className="app-store-big">App Store</div>
               </div>
             </a>
-            <a className="app-store" href={GAME_REPO_URL} target="_blank" rel="noreferrer">
+            <a className="app-store" href={GAME_REPO_URL} target="_blank" rel="noopener noreferrer">
               <div className="app-store-icon android" />
               <div>
                 <div className="app-store-small">Em breve no</div>
@@ -56,7 +56,7 @@ export default function AppPromo() {
               </div>
             </a>
           </div>
-          <a className="app-beta" href={GAME_REPO_URL} target="_blank" rel="noreferrer">
+          <a className="app-beta" href={GAME_REPO_URL} target="_blank" rel="noopener noreferrer">
             Quero ser beta tester →
           </a>
         </div>

@@ -93,7 +93,7 @@ export default function GuiasPage() {
           Quer um guia <span className="ital">novo</span>?
         </h2>
         <p>Manda no DM do Instagram qual perrengue você quer ver virar ebook. Os mais pedidos viram os próximos.</p>
-        <a className="btn-yt" href={INSTAGRAM_URL} target="_blank" rel="noreferrer">
+        <a className="btn-yt" href={INSTAGRAM_URL} target="_blank" rel="noopener noreferrer">
           Pedir no Instagram →
         </a>
       </section>

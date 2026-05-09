@@ -47,11 +47,11 @@ export default function JogoPage() {
               <a
                 className="btn-yt"
                 href={ctaPrimary.href}
-                {...(ctaPrimary.target === '_blank' ? { target: '_blank', rel: 'noreferrer' } : {})}
+                {...(ctaPrimary.target === '_blank' ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
               >
                 {ctaPrimary.label}
               </a>
-              <a className="jg-cta-ghost" href={YOUTUBE_URL} target="_blank" rel="noreferrer">
+              <a className="jg-cta-ghost" href={YOUTUBE_URL} target="_blank" rel="noopener noreferrer">
                 Ver no canal
               </a>
             </div>
@@ -123,7 +123,7 @@ export default function JogoPage() {
           className="btn-yt"
           href={GAME_ENABLED ? GAME_URL : YOUTUBE_URL}
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer"
         >
           {GAME_ENABLED ? 'Jogar agora →' : 'Inscrever pra avisar →'}
         </a>

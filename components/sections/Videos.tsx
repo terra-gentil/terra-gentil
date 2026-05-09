@@ -56,7 +56,7 @@ export default async function Videos() {
         <a
           href={`https://youtube.com/watch?v=${main.id}`}
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer"
           className="video-card"
         >
           <Image
@@ -81,7 +81,7 @@ export default async function Videos() {
               key={v.id}
               href={`https://youtube.com/watch?v=${v.id}`}
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
               className="video-card small"
             >
               <Image

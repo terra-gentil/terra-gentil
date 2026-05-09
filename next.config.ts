@@ -9,7 +9,9 @@ import type { NextConfig } from 'next';
 const cspParts = [
   "default-src 'self'",
   "img-src 'self' data: blob: https://i.ytimg.com https://terragentil.com.br https://*.google-analytics.com https://*.googletagmanager.com https://*.cdninstagram.com https://*.fbcdn.net",
-  "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://*.googletagmanager.com",
+  // 'unsafe-eval' removido na vistoria 2026-05: nao usamos eval/Function. Se Next
+  // adicionar dep que precise (ex: Babel runtime), reabilitar com nota explicita.
+  "script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://*.googletagmanager.com",
   "style-src 'self' 'unsafe-inline'",
   "font-src 'self' data:",
   "frame-src https://www.youtube.com https://www.youtube-nocookie.com https://terra-gentil.github.io https://www.instagram.com",

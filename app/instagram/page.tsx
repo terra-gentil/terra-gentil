@@ -55,11 +55,11 @@ export default async function InstagramPage() {
       <div className="ig-head">
         <div>
           <div className="section-eyebrow">Feed completo</div>
-          <h2 className="section-title">
+          <h1 className="section-title">
             No <span className="ital">Instagram</span>
-          </h2>
+          </h1>
         </div>
-        <a className="ig-handle" href={INSTAGRAM_URL} target="_blank" rel="noreferrer">
+        <a className="ig-handle" href={INSTAGRAM_URL} target="_blank" rel="noopener noreferrer">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
             <rect x="3" y="3" width="18" height="18" rx="5" />
             <circle cx="12" cy="12" r="4" />
@@ -91,7 +91,7 @@ export default async function InstagramPage() {
               key={i}
               href={INSTAGRAM_URL}
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
               className="ig-tile"
               style={{ '--ig-bg': tone[0], '--ig-fg': tone[1] } as React.CSSProperties}
             >

@@ -51,7 +51,7 @@ export default async function Instagram() {
             No <span className="ital">Instagram</span>
           </h2>
         </div>
-        <a className="ig-handle" href={INSTAGRAM_URL} target="_blank" rel="noreferrer">
+        <a className="ig-handle" href={INSTAGRAM_URL} target="_blank" rel="noopener noreferrer">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
             <rect x="3" y="3" width="18" height="18" rx="5" />
             <circle cx="12" cy="12" r="4" />
@@ -85,7 +85,7 @@ export default async function Instagram() {
               key={i}
               href={INSTAGRAM_URL}
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
               className="ig-tile"
               style={{ '--ig-bg': tone[0], '--ig-fg': tone[1] } as React.CSSProperties}
             >

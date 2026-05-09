@@ -52,7 +52,7 @@ export default function StubPage({
             <a
               href={YOUTUBE_URL}
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
               className="stub-cta ghost"
               style={{ borderColor: accent, color: accent }}
             >

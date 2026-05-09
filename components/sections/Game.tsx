@@ -32,10 +32,10 @@ export default function Game() {
             </div>
           </div>
           <div className="game-cta-row">
-            <a className="btn-amber" href={GAME_URL} target="_blank" rel="noreferrer">
+            <a className="btn-amber" href={GAME_URL} target="_blank" rel="noopener noreferrer">
               Jogar agora <span>→</span>
             </a>
-            <a className="btn-ghost-light" href={GAME_URL} target="_blank" rel="noreferrer">
+            <a className="btn-ghost-light" href={GAME_URL} target="_blank" rel="noopener noreferrer">
               Ver no celular
             </a>
           </div>

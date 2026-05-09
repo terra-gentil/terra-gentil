@@ -98,7 +98,7 @@ export default function Footer() {
             <ul>
               {socials.map((s) => (
                 <li key={s.label}>
-                  <a href={s.href} target="_blank" rel="noreferrer">
+                  <a href={s.href} target="_blank" rel="noopener noreferrer">
                     {s.icon}
                     {s.text}
                   </a>

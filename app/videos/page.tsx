@@ -58,7 +58,7 @@ export default async function VideosPage() {
               style={{ '--accent': 'rgba(74,140,79,0.4)' } as React.CSSProperties}
               href={`${YOUTUBE_URL}/playlists`}
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               <div className="num">01</div>
               <div className="name">Quintais que renasceram</div>
@@ -69,7 +69,7 @@ export default async function VideosPage() {
               style={{ '--accent': 'rgba(232,163,61,0.4)' } as React.CSSProperties}
               href={`${YOUTUBE_URL}/playlists`}
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               <div className="num">02</div>
               <div className="name">Tutoriais sem enrolação</div>
@@ -80,7 +80,7 @@ export default async function VideosPage() {
               style={{ '--accent': 'rgba(116,198,157,0.4)' } as React.CSSProperties}
               href={`${YOUTUBE_URL}/playlists`}
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               <div className="num">03</div>
               <div className="name">Doutor responde</div>
@@ -95,7 +95,7 @@ export default async function VideosPage() {
           Inscreve no <span className="ital">canal</span> e recebe os novos.
         </h2>
         <p>Toda terça tem vídeo. Toda sexta tem live. E quando aparece foto da sua planta no DM, vira vídeo do Doutor.</p>
-        <a className="btn-yt" href={YOUTUBE_URL} target="_blank" rel="noreferrer">
+        <a className="btn-yt" href={YOUTUBE_URL} target="_blank" rel="noopener noreferrer">
           Inscrever no YouTube →
         </a>
       </section>

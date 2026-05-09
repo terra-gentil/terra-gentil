@@ -57,7 +57,7 @@ export default function VideosClient({ videos }: { videos: VideoItem[] }) {
                 className="vp-card"
                 href={`https://youtube.com/watch?v=${v.id}`}
                 target="_blank"
-                rel="noreferrer"
+                rel="noopener noreferrer"
               >
                 <div className="vp-thumb">
                   <Image

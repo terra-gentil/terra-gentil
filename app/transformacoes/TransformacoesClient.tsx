@@ -59,7 +59,7 @@ export default function TransformacoesClient({ cases, youtubeUrl }: Props) {
             <div className="tp-cta-text">
               {c.description || 'Quer ver tudo? Esse caso virou um vídeo de 20+ minutos no canal.'}
             </div>
-            <a className="tp-cta-btn" href={youtubeUrl} target="_blank" rel="noreferrer">
+            <a className="tp-cta-btn" href={youtubeUrl} target="_blank" rel="noopener noreferrer">
               Assistir no YouTube →
             </a>
           </div>

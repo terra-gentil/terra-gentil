@@ -8,6 +8,7 @@ export const WHATSAPP_DEFAULT_MESSAGE =
 export const YOUTUBE_HANDLE = '@TerraGentil';
 export const YOUTUBE_URL = 'https://www.youtube.com/@TerraGentil';
 export const YOUTUBE_PLAYLIST_ID = 'PLo0P-qaOD_PSJ24_1Z5d9JbwVs2Y3oDS8';
+export const YOUTUBE_CHANNEL_ID = 'UCX3xUnHpQrhSUJUGjqMAN2A';
 
 export const INSTAGRAM_HANDLE = '@canalterragentil';
 export const INSTAGRAM_URL = 'https://instagram.com/canalterragentil';

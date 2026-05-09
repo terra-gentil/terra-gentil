@@ -8,21 +8,24 @@ const PlayIcon = () => (
   </svg>
 );
 
+// Vídeos reais do canal Terra Gentil (UCX3xUnHpQrhSUJUGjqMAN2A) usados como
+// fallback quando o feed RSS do YouTube não responde. Sincronizados com a
+// listagem do app mobile (mobile/src/components/redesign/VideosScreen.tsx).
 const FALLBACK = [
   {
-    id: 'CK_0skjKI5A',
-    title: 'Quintal abandonado vira jardim secreto',
+    id: 'K1J5I9IcGIw',
+    title: 'Transformei De Graça O Jardim De Um Senhor Deficiente aos 87 anos',
     tag: 'Transformação',
   },
   {
-    id: 'q76bMs-NwRk',
-    title: 'Como podar sem matar a planta',
-    tag: 'Tutorial',
+    id: 'pbQkbLbApw0',
+    title: 'VIZINHOS NÃO AGUENTAVAM MAIS ESSE JARDIM ABANDONADO',
+    tag: 'Transformação',
   },
   {
-    id: 'h91qQnbYnNM',
-    title: 'Adubo caseiro que funciona de verdade',
-    tag: 'Dica rápida',
+    id: 'w-L6Bk8i9zQ',
+    title: 'Transformação Completa do Jardim Abandonado de um Senhor',
+    tag: 'Live',
   },
 ] as const;
 

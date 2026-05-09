@@ -1,4 +1,4 @@
-import { YOUTUBE_PLAYLIST_ID } from '@/lib/constants';
+import { YOUTUBE_CHANNEL_ID, YOUTUBE_PLAYLIST_ID } from '@/lib/constants';
 import { log } from '@/lib/logger';
 
 export interface YouTubeVideo {
@@ -33,8 +33,7 @@ function extractAttribute(xml: string, tag: string, attr: string): string {
   return match ? match[1] : '';
 }
 
-export async function fetchPlaylistVideos(limit?: number): Promise<YouTubeVideo[]> {
-  const url = `https://www.youtube.com/feeds/videos.xml?playlist_id=${YOUTUBE_PLAYLIST_ID}`;
+async function fetchFeedXml(url: string): Promise<YouTubeVideo[]> {
   const controller = new AbortController();
   const timeoutId = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
 
@@ -50,20 +49,20 @@ export async function fetchPlaylistVideos(limit?: number): Promise<YouTubeVideo[
     });
 
     if (!res.ok) {
-      log.warn('youtube_rss_http_error', { status: res.status, statusText: res.statusText });
+      log.warn('youtube_rss_http_error', { url, status: res.status, statusText: res.statusText });
       return [];
     }
 
     const xml = await res.text();
 
     if (!xml.includes('<entry>')) {
-      log.warn('youtube_rss_no_entries', { responseLength: xml.length });
+      log.warn('youtube_rss_no_entries', { url, responseLength: xml.length });
       return [];
     }
 
     const entries = xml.match(/<entry>[\s\S]*?<\/entry>/g) || [];
 
-    const videos: YouTubeVideo[] = entries
+    return entries
       .map((entry) => {
         const id = extractTag(entry, 'yt:videoId') || extractTag(entry, 'videoId');
         const title = extractTag(entry, 'title');
@@ -82,16 +81,28 @@ export async function fetchPlaylistVideos(limit?: number): Promise<YouTubeVideo[
         };
       })
       .filter((v) => v.id);
-
-    return limit ? videos.slice(0, limit) : videos;
   } catch (err) {
     if (err instanceof Error && err.name === 'AbortError') {
-      log.warn('youtube_rss_timeout', { timeoutMs: FETCH_TIMEOUT_MS });
+      log.warn('youtube_rss_timeout', { url, timeoutMs: FETCH_TIMEOUT_MS });
     } else {
-      log.error('youtube_rss_fetch_error', { error: String(err) });
+      log.error('youtube_rss_fetch_error', { url, error: String(err) });
     }
     return [];
   } finally {
     clearTimeout(timeoutId);
   }
+}
+
+export async function fetchPlaylistVideos(limit?: number): Promise<YouTubeVideo[]> {
+  // Tenta playlist primeiro (ordem curada). Se falhar (playlist removida ou
+  // privada, YouTube bloqueando), cai pro feed do canal que sempre existe.
+  const playlistUrl = `https://www.youtube.com/feeds/videos.xml?playlist_id=${YOUTUBE_PLAYLIST_ID}`;
+  let videos = await fetchFeedXml(playlistUrl);
+
+  if (videos.length === 0) {
+    const channelUrl = `https://www.youtube.com/feeds/videos.xml?channel_id=${YOUTUBE_CHANNEL_ID}`;
+    videos = await fetchFeedXml(channelUrl);
+  }
+
+  return limit ? videos.slice(0, limit) : videos;
 }

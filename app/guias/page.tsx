@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { ebooks } from '@/data/ebooks';
 import GuiasClient from './GuiasClient';
+import StatNum from '@/components/ui/StatNum';
 import { INSTAGRAM_URL } from '@/lib/constants';
 
 export const metadata: Metadata = {
@@ -70,11 +71,11 @@ export default function GuiasPage() {
             </p>
             <div className="gu-stat-row">
               <div className="gu-stat">
-                <div className="n">{books.length}</div>
+                <div className="n"><StatNum to={books.length} /></div>
                 <div className="l">ebooks</div>
               </div>
               <div className="gu-stat">
-                <div className="n">{totalPages}</div>
+                <div className="n"><StatNum to={totalPages} /></div>
                 <div className="l">páginas</div>
               </div>
               <div className="gu-stat">

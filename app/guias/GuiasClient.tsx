@@ -73,8 +73,11 @@ export default function GuiasClient({ books, cats }: { books: Book[]; cats: Read
                   </div>
                 </div>
                 <div className="gu-card-meta">
-                  <div className="gu-card-cat">#{b.cat}</div>
-                  <div className="gu-card-dl">Baixar PDF →</div>
+                  <div className="gu-card-title">{b.title}</div>
+                  <div className="gu-card-row">
+                    <div className="gu-card-cat">#{b.cat}</div>
+                    <div className="gu-card-dl">Baixar PDF →</div>
+                  </div>
                 </div>
               </a>
             ))}

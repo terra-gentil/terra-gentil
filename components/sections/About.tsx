@@ -1,50 +1,5 @@
-'use client';
-
 import Link from 'next/link';
-import { useEffect, useRef, useState } from 'react';
-
-function StatNum({ to }: { to: number }) {
-  const [n, setN] = useState(0);
-  const ref = useRef<HTMLSpanElement>(null);
-
-  useEffect(() => {
-    const el = ref.current;
-    if (!el) return;
-
-    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    let raf = 0;
-    const io = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((e) => {
-          if (e.isIntersecting) {
-            if (reduceMotion) {
-              setN(to);
-              io.disconnect();
-              return;
-            }
-            const dur = 1500;
-            const t0 = performance.now();
-            const tick = (t: number) => {
-              const p = Math.min(1, (t - t0) / dur);
-              setN(Math.floor(p * to));
-              if (p < 1) raf = requestAnimationFrame(tick);
-            };
-            raf = requestAnimationFrame(tick);
-            io.disconnect();
-          }
-        });
-      },
-      { threshold: 0.4 },
-    );
-    io.observe(el);
-    return () => {
-      io.disconnect();
-      if (raf) cancelAnimationFrame(raf);
-    };
-  }, [to]);
-
-  return <span ref={ref}>{n.toLocaleString('pt-BR')}</span>;
-}
+import StatNum from '@/components/ui/StatNum';
 
 export default function About() {
   return (

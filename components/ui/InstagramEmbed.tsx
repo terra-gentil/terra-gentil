@@ -22,6 +22,7 @@ export default function InstagramEmbed({
       title={caption ?? `Post do Instagram ${shortcode}`}
       loading="lazy"
       allowFullScreen
+      referrerPolicy="strict-origin-when-cross-origin"
       style={{
         width: '100%',
         height: '100%',

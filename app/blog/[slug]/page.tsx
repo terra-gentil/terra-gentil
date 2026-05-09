@@ -96,7 +96,12 @@ export default async function PostPage({
               headline: post.title,
               description: post.excerpt,
               datePublished: post.date,
-              image: post.image ? `${SITE_URL}${post.image}` : undefined,
+              dateModified: post.date,
+              // image e campo obrigatorio pra Article rich snippet do Google.
+              // Fallback pro logo grande quando o post nao tem foto propria.
+              image: post.image
+                ? new URL(post.image, SITE_URL).href
+                : `${SITE_URL}/images/logo/full.jpg`,
               author: { '@type': 'Organization', name: SITE_NAME },
               publisher: {
                 '@type': 'Organization',

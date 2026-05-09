@@ -2,8 +2,12 @@ import type { MetadataRoute } from 'next';
 import { posts } from '@/data/posts';
 import { GAME_ENABLED, SITE_URL } from '@/lib/constants';
 
+// Data fixa pra rotas estaticas: o crawler nao deve ver "modificado agora" a cada
+// invocacao. Atualizar manualmente quando uma rota tiver mudanca de conteudo real.
+const STATIC_LAST_MOD = new Date('2026-05-08');
+
 export default function sitemap(): MetadataRoute.Sitemap {
-  const now = new Date();
+  const now = STATIC_LAST_MOD;
 
   const staticRoutes: MetadataRoute.Sitemap = [
     { url: `${SITE_URL}/`, lastModified: now, changeFrequency: 'weekly', priority: 1.0 },

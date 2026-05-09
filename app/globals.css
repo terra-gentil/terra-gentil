@@ -117,8 +117,8 @@ a { color: inherit; text-decoration: none; }
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 38px;
-    height: 38px;
+    width: 44px;
+    height: 44px;
     border-radius: 999px;
     background: #F4ECDB;
     color: #0B1410;
@@ -134,12 +134,24 @@ a { color: inherit; text-decoration: none; }
     height: 22px;
   }
 }
+.nav-mobile-overlay {
+  position: fixed; inset: 0; z-index: 98;
+  background: rgba(11,20,16,0.4);
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
+}
 .nav-mobile-panel {
   position: fixed; top: 64px; left: 16px; right: 16px; z-index: 99;
   background: var(--bg-deep); color: var(--paper);
   border-radius: 18px; padding: 16px;
   display: flex; flex-direction: column; gap: 4px;
   box-shadow: 0 24px 60px rgba(0,0,0,0.45);
+  max-height: calc(100vh - 96px);
+  overflow-y: auto;
+}
+@media (min-width: 901px) {
+  .nav-mobile-overlay,
+  .nav-mobile-panel { display: none; }
 }
 .nav-mobile-panel a {
   padding: 12px 14px; border-radius: 12px; font-weight: 600;
@@ -396,7 +408,12 @@ a { color: inherit; text-decoration: none; }
 @media (prefers-reduced-motion: reduce) {
   .manifesto-row-visual img,
   .orn-ring, .orn-ring-2, .orn-leaf, .orn-sprout,
-  .leaf, .marquee-track { animation: none; }
+  .leaf, .marquee-track,
+  .hero-pill .dot,
+  .pd-card .pd-scan,
+  .game-tap,
+  .app-scan-line,
+  .page-hero-mascot { animation: none !important; }
 }
 
 /* ---------- SECTION HEAD ---------- */
@@ -730,6 +747,11 @@ a { color: inherit; text-decoration: none; }
   background: var(--ink-soft);
   box-shadow: 0 40px 80px rgba(31,74,42,0.25);
   user-select: none; touch-action: none;
+  cursor: ew-resize;
+}
+.ba:focus-visible {
+  outline: 3px solid var(--amber);
+  outline-offset: 3px;
 }
 .ba .layer { position: absolute; inset: 0; }
 .ba .layer img { width: 100%; height: 100%; object-fit: cover; }
@@ -840,9 +862,8 @@ a { color: inherit; text-decoration: none; }
   background: var(--paper-2);
   border-radius: 12px;
 }
-@media (max-width: 760px) {
-  .ig-tile.ig-tile-embed { height: 580px; }
-}
+/* Mobile heights ficam consolidados no bloco @media de mobile overrides la embaixo
+   pra evitar conflito de cascata com regras duplicadas. */
 .ig-placeholder {
   position: absolute; inset: 0;
   padding: 18px;
@@ -1047,6 +1068,10 @@ a { color: inherit; text-decoration: none; }
   transition: transform 0.2s;
 }
 .app-store:hover { transform: translateY(-2px); }
+.app-store.app-store-soon {
+  cursor: default; opacity: 0.85;
+}
+.app-store.app-store-soon:hover { transform: none; }
 .app-store-icon { width: 28px; height: 28px; background: var(--paper); border-radius: 8px; }
 .app-store-icon.android { background: var(--leaf-glow); }
 .app-store-small { font-size: 10px; opacity: 0.7; letter-spacing: 0.06em; text-transform: uppercase; }
@@ -1065,6 +1090,12 @@ a { color: inherit; text-decoration: none; }
 }
 .app-phone.phone-back { transform: rotate(-9deg) translate(-90px, 0); }
 .app-phone.phone-front { transform: rotate(7deg) translate(90px, 30px); z-index: 2; }
+/* Faixa 761-980px: app-promo-inner ja virou 1 coluna mas .app-screens mantem
+   posicionamento absoluto. Reduz o translate pra nao estourar lateralmente. */
+@media (min-width: 761px) and (max-width: 980px) {
+  .app-phone.phone-back { transform: rotate(-9deg) translate(-50px, 0); }
+  .app-phone.phone-front { transform: rotate(7deg) translate(50px, 30px); }
+}
 .app-phone-screen { position: absolute; inset: 0; background: var(--paper); padding: 32px 16px 16px; display: flex; flex-direction: column; gap: 12px; }
 .app-phone-notch { position: absolute; top: -7px; left: 50%; transform: translateX(-50%); width: 70px; height: 18px; background: #0a0e0c; border-radius: 0 0 12px 12px; z-index: 2; }
 .app-screen-hd { display: flex; justify-content: space-between; font-family: var(--font-display, 'Archivo Black'); font-size: 14px; padding: 0 4px; }

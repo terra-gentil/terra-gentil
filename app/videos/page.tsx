@@ -32,7 +32,9 @@ export default async function VideosPage() {
   return (
     <>
       <PageHero
-        eyebrow={`Canal no YouTube · ${videos.length || 142} vídeos`}
+        eyebrow={videos.length > 0
+          ? `Canal no YouTube · ${videos.length} vídeos`
+          : 'Canal no YouTube'}
         title={
           <>
             Toda <span className="ital">terça</span>

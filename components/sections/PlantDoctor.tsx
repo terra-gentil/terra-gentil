@@ -71,8 +71,13 @@ export default function PlantDoctor() {
           signal: abortRef.current.signal,
         });
 
-        if (!res.ok) throw new Error('Erro na análise');
         const data = await res.json();
+
+        if (!res.ok) {
+          // Gemini responde 400 com { error: "A imagem nao parece ser de uma planta..." }
+          // Mostrar a mensagem real se vier; senao fallback generico.
+          throw new Error(typeof data?.error === 'string' ? data.error : 'Erro na análise');
+        }
 
         setProgress(100);
         if (progressIntervalRef.current) clearInterval(progressIntervalRef.current);
@@ -86,7 +91,7 @@ export default function PlantDoctor() {
         progressIntervalRef.current = null;
         if (err instanceof DOMException && err.name === 'AbortError') return;
         setLoading(false);
-        setError('Falha na análise. Tente novamente com uma foto mais nítida.');
+        setError(err instanceof Error ? err.message : 'Falha na análise. Tente novamente com uma foto mais nítida.');
       }
     };
     reader.readAsDataURL(file);

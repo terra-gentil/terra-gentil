@@ -24,8 +24,11 @@ export default function LiteYouTubeEmbed({
   className = '',
 }: LiteYouTubeEmbedProps) {
   const [activated, setActivated] = useState(false);
-  const thumbUrl = `https://i.ytimg.com/vi/${videoId}/${thumbnailQuality}.jpg`;
-  const embedUrl = `https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0`;
+  // encodeURIComponent pq videoId pode vir de fonte externa (RSS, API) com caracteres
+  // que quebrariam a URL ou abririam injection de query params.
+  const safeId = encodeURIComponent(videoId);
+  const thumbUrl = `https://i.ytimg.com/vi/${safeId}/${thumbnailQuality}.jpg`;
+  const embedUrl = `https://www.youtube.com/embed/${safeId}?autoplay=1&rel=0`;
 
   if (activated) {
     return (

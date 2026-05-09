@@ -40,9 +40,11 @@ const FETCH_TIMEOUT_MS = 6000;
 const GRAPH_VERSION = 'v22.0';
 const FIELDS = 'id,caption,media_type,media_url,permalink,thumbnail_url,timestamp';
 
-// Permalink: https://www.instagram.com/p/<shortcode>/ ou /reel/<shortcode>/
+// Permalink: https://www.instagram.com/p/<shortcode>/ ou /reel/<shortcode>/.
+// Trailing slash opcional pq a API as vezes devolve sem; precisa parar em ?, # ou /
+// pra nao engolir query string.
 function extractShortcode(permalink: string): string | null {
-  const m = permalink.match(/\/(?:p|reel|tv)\/([^/]+)\//);
+  const m = permalink.match(/\/(?:p|reel|tv)\/([^/?#]+)/);
   return m ? m[1] : null;
 }
 
@@ -82,7 +84,10 @@ export async function fetchInstagramMedia(limit = 12): Promise<IgMedia[]> {
     const json = (await res.json()) as IgMediaResponse;
 
     if (json.error) {
-      log.warn('instagram_api_error', { message: json.error.message, code: json.error.code });
+      // code 190 = OAuthException token invalido/expirado. Loga evento distinto
+      // pra o oncall acordar quando o token de 60d expira sem refresh.
+      const event = json.error.code === 190 ? 'instagram_token_expired' : 'instagram_api_error';
+      log.warn(event, { message: json.error.message, code: json.error.code });
       return [];
     }
 
@@ -106,7 +111,12 @@ export async function fetchInstagramMedia(limit = 12): Promise<IgMedia[]> {
     if (err instanceof Error && err.name === 'AbortError') {
       log.warn('instagram_timeout', { timeoutMs: FETCH_TIMEOUT_MS });
     } else {
-      log.error('instagram_fetch_error', { error: String(err) });
+      // CRITICO: NUNCA logar String(err) ou err.cause direto - undici inclui a URL
+      // completa do request, e nossa URL tem ?access_token=... como query param.
+      // Vazaria o long-lived token no log do Vercel.
+      const msg = err instanceof Error ? err.message : 'unknown';
+      const safe = msg.replace(/access_token=[^&\s]+/g, 'access_token=***');
+      log.error('instagram_fetch_error', { error: safe });
     }
     return [];
   } finally {

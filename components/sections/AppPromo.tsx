@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { GAME_REPO_URL } from '@/lib/constants';
+import { INSTAGRAM_URL } from '@/lib/constants';
 
 const FEATURES = [
   { icon: '📷', t: 'Diagnóstico por foto', d: 'Aponta a câmera, IA Gemini identifica espécie e doença em segundos.' },
@@ -40,24 +40,24 @@ export default function AppPromo() {
             <span>·</span>
             <strong>Supabase</strong>
           </div>
-          <div className="app-store-row">
-            <a className="app-store" href={GAME_REPO_URL} target="_blank" rel="noopener noreferrer">
+          <div className="app-store-row" aria-label="Lojas em breve">
+            <div className="app-store app-store-soon">
               <div className="app-store-icon" />
               <div>
                 <div className="app-store-small">Em breve na</div>
                 <div className="app-store-big">App Store</div>
               </div>
-            </a>
-            <a className="app-store" href={GAME_REPO_URL} target="_blank" rel="noopener noreferrer">
+            </div>
+            <div className="app-store app-store-soon">
               <div className="app-store-icon android" />
               <div>
                 <div className="app-store-small">Em breve no</div>
                 <div className="app-store-big">Google Play</div>
               </div>
-            </a>
+            </div>
           </div>
-          <a className="app-beta" href={GAME_REPO_URL} target="_blank" rel="noopener noreferrer">
-            Quero ser beta tester →
+          <a className="app-beta" href={INSTAGRAM_URL} target="_blank" rel="noopener noreferrer">
+            Quero ser beta tester (DM no Insta) →
           </a>
         </div>
 

@@ -180,4 +180,44 @@ ls .next/static/chunks/ | head
 | 11 | CI/CD | 8/10 | 🟢 |
 | **Media** | | **7.8/10** | 🟢 |
 
-Pode ir pra producao: SIM. Bloqueios: nenhum. Pendencias acima sao de polish e operacao, nao bloqueiam.
+## Auditoria multi-agente 2026-05-08 (6 sprints)
+
+Apos a vistoria, rodei 6 agentes Sonnet em paralelo, um por sprint historica do projeto, procurando bugs nao detectados no review unico. Todos read-only. Achados:
+
+**5 P1 corrigidos nesta passada:**
+- `lib/instagram.ts:109` - **token IG vazava em log** via `String(err)` (URL com access_token=...). Agora mascarado com regex.
+- `lib/instagram.ts:44` - extractShortcode regex exigia trailing slash, descartava posts. Agora `/\/(?:p|reel|tv)\/([^/?#]+)/`.
+- `Header.tsx:36,88` - `pathname.startsWith` sem `/` final dava falso positivo. Agora `pathname === href || pathname.startsWith(href + '/')`.
+- `Header.tsx:83` - `role="menu"` exigia `menuitem`. Trocado por `<nav aria-label="Mobile">`. Adicionado overlay clicavel + Esc + auto-close ao mudar rota.
+- `BeforeAfterSlider` - `:focus-visible` sumiu no redesign. Re-adicionado em `.ba:focus-visible`.
+
+**~12 P2 corrigidos:**
+- `PlantDoctor.tsx` - mensagem real do Gemini (ex: "nao e planta") agora chega ao usuario.
+- `app/api/diagnose/route.ts` - rate limit nao mais bypassable via XFF spoof; usa x-real-ip primeiro.
+- `lib/instagram.ts:84` - erro de token expirado (Meta code 190) ganha evento distinto `instagram_token_expired` no log.
+- `AppPromo.tsx` - links App Store/Google Play **deixaram de apontar pro repo do JOGO**; agora sao divs decorativos. Beta tester aponta pro Insta.
+- `LiteYouTubeEmbed.tsx` - `videoId` sanitizado com encodeURIComponent antes de virar URL.
+- `app/sitemap.ts` - `lastModified` fixo em `STATIC_LAST_MOD` (data literal). Crawler nao ve "modificado agora" a cada hit.
+- `blog/[slug]/page.tsx` - JSON-LD ganha `dateModified` + `image` fallback pro logo (era omitido em posts sem foto).
+- `app/videos/page.tsx` - eyebrow nao mais mente "142 videos" quando RSS falha.
+- `globals.css` - prefers-reduced-motion completo (5 animations infinitas pausadas).
+- `globals.css` - dead 540px do .ig-tile-embed removido (era sobrescrito).
+- `globals.css` - app-phone na faixa 761-980px com translate menor pra nao estourar.
+- `globals.css` - hamburger 38x38 -> 44x44 (WCAG 2.5.5 AAA).
+- `Header.tsx` - link `/jogo` no nav so renderiza se `GAME_ENABLED`.
+- `InstagramEmbed.tsx` - `referrerPolicy="strict-origin-when-cross-origin"`.
+
+**P3 backlog (nao aplicado):**
+- `lib/game.ts` + `__tests__/lib/game.test.ts` = dead code desde redesign. Apagar.
+- `FACEBOOK_URL` e `YOUTUBE_HANDLE` em `lib/constants.ts` = dead exports.
+- Footer com 5 links so. Faltam `App`, `Jogo`, `Instagram`.
+- StubPage `/manifesto` e `/app` rasos pro Google indexar como conteudo real.
+- `<time>` sem `dateTime` attribute em `/blog/[slug]:56`.
+- `GoogleAnalytics.tsx:27` `anonymize_ip` deprecated em GA4 (silenciosamente ignorado).
+- `robots.ts:14` `host` field ignorado pelo Google (legacy do Yandex).
+- `lib/instagram.ts` token na query string vs header `Authorization` (best practice, mas funciona).
+- `app/api/diagnose/route.ts` servidor nao cancela call ao Gemini quando cliente aborta (queima tokens).
+- Cobertura zero pra `BeforeAfterSlider`, `whatsappLink`, `lib/instagram.ts`, e novas paginas.
+- 1 unico CSS global de 1600+ linhas sem split por modulo (so manutencao).
+
+**Pode ir pra producao: SIM.** Bloqueios: nenhum apos esta passada. Itens pendentes acima sao melhoria continua.

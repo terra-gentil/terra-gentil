@@ -72,9 +72,18 @@ Se a imagem não for de uma planta, retorne:
 { "error": "A imagem não parece ser de uma planta. Tente novamente." }`;
 
 function getClientIp(request: Request): string {
+  // x-real-ip e injetado pelo proxy Vercel/Edge e nao e forjavel pelo cliente.
+  // Preferimos ele a x-forwarded-for, que o cliente pode spoofar pra burlar
+  // rate limit (basta mandar header X-Forwarded-For: 1.1.1.1 fake).
+  const real = request.headers.get('x-real-ip');
+  if (real) return real.trim();
   const xff = request.headers.get('x-forwarded-for');
-  if (xff) return xff.split(',')[0]!.trim();
-  return request.headers.get('x-real-ip') ?? 'anon';
+  if (xff) {
+    // Em Vercel sem x-real-ip, o IP real fica no PRIMEIRO item do XFF (do edge).
+    // Em outros hosts pode ser o ultimo. Conservador: pegamos o primeiro.
+    return xff.split(',')[0]!.trim();
+  }
+  return 'anon';
 }
 
 export async function POST(request: Request): Promise<NextResponse<DiagnosisResponse>> {

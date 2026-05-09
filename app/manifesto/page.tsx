@@ -71,14 +71,6 @@ export default function ManifestoPage() {
     <>
       <section className="tp-hero">
         <div className="tp-hero-inner">
-          <Image
-            className="tp-logo-mark"
-            src="/images/logo/full.jpg"
-            alt="Terra Gentil"
-            width={132}
-            height={132}
-            priority
-          />
           <div className="tp-hero-eyebrow">A filosofia · desde 2022</div>
           <h1 className="tp-hero-title">
             Quatro <em>atos,</em>
@@ -89,6 +81,14 @@ export default function ManifestoPage() {
             A Terra Gentil acredita que jardinagem é cuidado, escola e comunidade. Esse é o manifesto que guia tudo: do
             vídeo ao Doutor.
           </p>
+          <Image
+            className="tp-logo-mark tp-logo-mark--below"
+            src="/images/logo/full.jpg"
+            alt="Terra Gentil"
+            width={132}
+            height={132}
+            priority
+          />
         </div>
       </section>
 

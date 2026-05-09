@@ -36,13 +36,6 @@ export default function TransformacoesPage() {
     <>
       <section className="tp-hero">
         <div className="tp-hero-inner">
-          <Image
-            className="tp-logo-mark"
-            src="/images/logo/full.jpg"
-            alt="Terra Gentil"
-            width={132}
-            height={132}
-          />
           <div className="tp-hero-eyebrow">Galeria · {cases.length} transformações</div>
           <h1 className="tp-hero-title">
             Quintais que <em>renasceram</em>.
@@ -50,6 +43,13 @@ export default function TransformacoesPage() {
           <p className="tp-hero-sub">
             Cada antes e depois é um final de semana de trabalho gentil. Arrasta a alça pra ver a virada de cada quintal real.
           </p>
+          <Image
+            className="tp-logo-mark tp-logo-mark--below"
+            src="/images/logo/full.jpg"
+            alt="Terra Gentil"
+            width={132}
+            height={132}
+          />
         </div>
       </section>
 

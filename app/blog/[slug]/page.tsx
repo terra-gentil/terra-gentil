@@ -2,12 +2,19 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
 import { ArrowLeft } from 'lucide-react';
-import { posts } from '@/data/posts';
+import { posts, type Post } from '@/data/posts';
 import { SITE_NAME, SITE_URL } from '@/lib/constants';
+import LiteYouTubeEmbed from '@/components/ui/LiteYouTubeEmbed';
 import type { Metadata } from 'next';
 
 export function generateStaticParams() {
   return posts.map((post) => ({ slug: post.slug }));
+}
+
+function postImage(post: Post): string | null {
+  if (post.image) return post.image;
+  if (post.youtubeId) return `https://i.ytimg.com/vi/${post.youtubeId}/hqdefault.jpg`;
+  return null;
 }
 
 export async function generateMetadata({
@@ -19,6 +26,14 @@ export async function generateMetadata({
   const post = posts.find((p) => p.slug === slug);
   if (!post) return { title: 'Post não encontrado' };
 
+  // Pra og:image preferimos maxresdefault (1280x720, ideal pra Twitter/Facebook).
+  // Quando nao existe, hqdefault (480x360) sempre existe e funciona.
+  const ogImage = post.image
+    ? post.image
+    : post.youtubeId
+      ? `https://i.ytimg.com/vi/${post.youtubeId}/maxresdefault.jpg`
+      : null;
+
   return {
     title: `${post.title} - ${SITE_NAME}`,
     description: post.excerpt,
@@ -27,7 +42,7 @@ export async function generateMetadata({
       description: post.excerpt,
       type: 'article',
       publishedTime: post.date,
-      images: post.image ? [{ url: post.image }] : undefined,
+      images: ogImage ? [{ url: ogImage }] : undefined,
     },
   };
 }
@@ -41,6 +56,8 @@ export default async function PostPage({
   const post = posts.find((p) => p.slug === slug);
 
   if (!post) notFound();
+
+  const heroImage = postImage(post);
 
   return (
     <article className="py-16 bg-white">
@@ -64,7 +81,21 @@ export default async function PostPage({
           {post.title}
         </h1>
 
-        {post.image && (
+        {post.youtubeId ? (
+          <div className="mb-10">
+            <div className="aspect-[16/9] rounded-2xl overflow-hidden">
+              <LiteYouTubeEmbed videoId={post.youtubeId} title={post.title} />
+            </div>
+            <a
+              href={`https://www.youtube.com/watch?v=${post.youtubeId}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 mt-3 text-sm font-medium text-terra-700 hover:text-terra-900"
+            >
+              Abrir no YouTube →
+            </a>
+          </div>
+        ) : post.image ? (
           <Image
             src={post.image}
             alt={post.title}
@@ -73,7 +104,7 @@ export default async function PostPage({
             priority
             className="w-full aspect-[16/9] object-cover rounded-2xl mb-10"
           />
-        )}
+        ) : null}
 
         {/*
           dangerouslySetInnerHTML aqui e SEGURO porque post.content vem de
@@ -98,9 +129,9 @@ export default async function PostPage({
               datePublished: post.date,
               dateModified: post.date,
               // image e campo obrigatorio pra Article rich snippet do Google.
-              // Fallback pro logo grande quando o post nao tem foto propria.
-              image: post.image
-                ? new URL(post.image, SITE_URL).href
+              // Pra posts com video usa thumbnail YouTube; senao logo grande.
+              image: heroImage
+                ? new URL(heroImage, SITE_URL).href
                 : `${SITE_URL}/images/logo/full.jpg`,
               author: { '@type': 'Organization', name: SITE_NAME },
               publisher: {

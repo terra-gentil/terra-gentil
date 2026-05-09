@@ -31,10 +31,13 @@ export default function BlogPage() {
               >
                 <Link href={`/blog/${post.slug}`} className="block">
                   <div className="md:flex">
-                    {post.image && (
+                    {(post.image || post.youtubeId) && (
                       <div className="md:w-1/3 h-48 md:h-auto bg-terra-100 overflow-hidden relative">
                         <Image
-                          src={post.image}
+                          src={
+                            post.image ??
+                            `https://i.ytimg.com/vi/${post.youtubeId}/hqdefault.jpg`
+                          }
                           alt={post.title}
                           fill
                           sizes="(max-width: 768px) 100vw, 33vw"

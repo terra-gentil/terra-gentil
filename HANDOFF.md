@@ -10,7 +10,7 @@ Site LIVE em https://terragentil.com.br substituindo o WordPress velho do Hostin
 - 301 redirects do WordPress (`/?p=N`, `/index.php`, `/feed/`, `/wp-admin/*`, `/wp-login*`, `/xmlrpc.php`, `/author/*`, `/tag/*`, `/category/*`)
 - GA4 `G-4BZ68B16BK` carregando, Search Console verificado
 - Sitemap submetido (21 paginas, 18 estaticas + 3 posts)
-- 63 testes Vitest passando (lib + api + paginas legadas; UI nova ainda sem cobertura)
+- 74 testes Vitest passando (lib + api + paginas legadas; UI nova ainda sem cobertura)
 - CI no GitHub Actions: lint + type-check + test + build
 
 ### Redesign (2026-05-08)
@@ -70,18 +70,23 @@ Pra ativar auto-atualizacao a cada 1h:
 Passo-a-passo completo no `.env.example`. Setup esta blocado por permissao "Cargo de programador insuficiente" no Meta - precisa virar admin do app na url:
 `https://developers.facebook.com/apps/27059007300453528/roles/roles/`
 
-### 5. Newsletter form nao envia (P2 da vistoria)
+### 5. Newsletter form (FEITO 2026-05-08, falta config de envvar)
 
-`components/sections/Newsletter.tsx` tem submit que so faz `setSent(true)`. Usuario acha que se inscreveu mas nada vai pra lugar nenhum. Opcoes:
+Integrado Resend. `components/sections/Newsletter.tsx` agora chama `POST /api/newsletter` com loading/error/success states + honeypot anti-bot. A rota tem Zod validation, rate limit (3/h por IP), trata duplicata como sucesso, logger estruturado. 11 testes Vitest cobrindo todos os caminhos.
 
-- Integrar **Resend** (free 3k/mes), Mailchimp ou Brevo. Estimativa: 1 dia.
-- Trocar texto pra "manda DM no Insta" e remover o input (decisao de UX). Estimativa: 30min.
+**Pendente pra ativar em prod:**
+1. Criar conta em https://resend.com (free 3k/mes)
+2. API Keys -> gerar key com permissao em "Audiences"
+3. Audience -> Create (Resend migrou "audiences" pra "segments") -> abrir e copiar o UUID da URL `?segmentId=<UUID>`
+4. Vercel -> Settings -> Environment Variables (Production):
+   - `RESEND_API_KEY=re_...`
+   - `RESEND_SEGMENT_ID=...`
+5. Redeploy. Sem essas envvars a rota retorna 503 e o form mostra erro.
+6. Pra mandar broadcast: Resend dashboard -> Broadcasts -> selecionar audience.
 
 ### 6. Vistoria 2026-05-08 - itens nao aplicados
 
-Aplicados nesta sprint: P1 #1 (h1 em /instagram), P2 #3 (noopener+noreferrer em todos os target=_blank), P2 #4 (CSP unsafe-eval removido). 
-
-P2 #5 (newsletter) acima.
+Aplicados nesta sprint: P1 #1 (h1 em /instagram), P2 #3 (noopener+noreferrer em todos os target=_blank), P2 #4 (CSP unsafe-eval removido), P2 #5 (newsletter integrada com Resend, ver item 5 acima).
 
 P3 backlog:
 - Mascotes PNG 750-900KB cada (4MB total no repo). Next/image otimiza ao servir mas converter pra WebP no source reduziria 70% o tamanho do repo. Comando: `cwebp -q 85 mascot/wave.png -o mascot/wave.webp`.

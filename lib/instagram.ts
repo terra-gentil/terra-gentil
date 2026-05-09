@@ -63,7 +63,6 @@ export async function fetchInstagramMedia(limit = 12): Promise<IgMedia[]> {
   const url = new URL(`https://graph.instagram.com/${GRAPH_VERSION}/me/media`);
   url.searchParams.set('fields', FIELDS);
   url.searchParams.set('limit', String(limit));
-  url.searchParams.set('access_token', token);
 
   const controller = new AbortController();
   const timeoutId = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
@@ -73,6 +72,9 @@ export async function fetchInstagramMedia(limit = 12): Promise<IgMedia[]> {
       // Cache por 1h. Posts novos aparecem na home no proximo build OU apos
       // revalidate (Next 16 + Vercel respeita).
       next: { revalidate: 3600, tags: ['instagram'] },
+      // Token via header em vez de query string: nao aparece em proxy/CDN logs
+      // que capturam URL, e a chave de cache do Next nao depende do token.
+      headers: { Authorization: `Bearer ${token}` },
       signal: controller.signal,
     });
 
@@ -111,11 +113,13 @@ export async function fetchInstagramMedia(limit = 12): Promise<IgMedia[]> {
     if (err instanceof Error && err.name === 'AbortError') {
       log.warn('instagram_timeout', { timeoutMs: FETCH_TIMEOUT_MS });
     } else {
-      // CRITICO: NUNCA logar String(err) ou err.cause direto - undici inclui a URL
-      // completa do request, e nossa URL tem ?access_token=... como query param.
-      // Vazaria o long-lived token no log do Vercel.
+      // CRITICO: NUNCA logar String(err) ou err.cause direto. Undici pode incluir
+      // a URL e os headers do request no error.cause, e o token vai por header
+      // Authorization: Bearer ... agora. Mascara qualquer forma que possa surgir.
       const msg = err instanceof Error ? err.message : 'unknown';
-      const safe = msg.replace(/access_token=[^&\s]+/g, 'access_token=***');
+      const safe = msg
+        .replace(/Bearer\s+[^\s"',}]+/gi, 'Bearer ***')
+        .replace(/access_token=[^&\s]+/g, 'access_token=***');
       log.error('instagram_fetch_error', { error: safe });
     }
     return [];

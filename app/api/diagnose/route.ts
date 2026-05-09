@@ -86,8 +86,13 @@ export async function POST(request: Request): Promise<NextResponse<DiagnosisResp
     return NextResponse.json({ error: 'Imagem vazia.' }, { status: 400 });
   }
 
-  const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), BACKEND_TIMEOUT_MS);
+  // Forwarda o abort do cliente pra cancelar o upstream se o usuario
+  // fechar a aba/voltar antes da resposta. AbortSignal.any combina com
+  // o timeout pra nao queimar tempo no backend Railway por nada.
+  const signal = AbortSignal.any([
+    request.signal,
+    AbortSignal.timeout(BACKEND_TIMEOUT_MS),
+  ]);
 
   try {
     const formData = new FormData();
@@ -97,7 +102,7 @@ export async function POST(request: Request): Promise<NextResponse<DiagnosisResp
     const upstream = await fetch(`${DIAGNOSE_API_URL}/v1/diagnostico`, {
       method: 'POST',
       body: formData,
-      signal: controller.signal,
+      signal,
     });
 
     if (!upstream.ok) {
@@ -125,7 +130,16 @@ export async function POST(request: Request): Promise<NextResponse<DiagnosisResp
     log.info('diagnose_ok', { requestId, plantName: diagnosis.plantName });
     return NextResponse.json(diagnosis);
   } catch (err) {
-    if (err instanceof Error && err.name === 'AbortError') {
+    const isAbort =
+      (err instanceof Error && err.name === 'AbortError') ||
+      (err instanceof DOMException && err.name === 'TimeoutError');
+    if (isAbort) {
+      // request.signal aborta quando o cliente desconecta. Resposta nao chega
+      // de volta ao cliente — so logar e sair sem queimar mais ciclos.
+      if (request.signal.aborted) {
+        log.info('diagnose_client_aborted', { requestId });
+        return NextResponse.json({ error: 'cancelado' }, { status: 499 });
+      }
       log.error('diagnose_timeout', { requestId });
       return NextResponse.json(
         { error: 'A analise demorou demais. Tente novamente em alguns segundos.' },
@@ -137,8 +151,6 @@ export async function POST(request: Request): Promise<NextResponse<DiagnosisResp
       { error: 'Nao foi possivel analisar a imagem. Tente novamente.' },
       { status: 502 },
     );
-  } finally {
-    clearTimeout(timer);
   }
 }
 

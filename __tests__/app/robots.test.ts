@@ -10,6 +10,6 @@ describe('app/robots', () => {
     expect(rule.allow).toBe('/');
     expect(rule.disallow).toEqual(['/api/']);
     expect(r.sitemap).toBe('https://terragentil.com.br/sitemap.xml');
-    expect(r.host).toBe('https://terragentil.com.br');
+    expect(r.host).toBeUndefined();
   });
 });

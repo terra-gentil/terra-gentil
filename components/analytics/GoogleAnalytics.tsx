@@ -23,7 +23,7 @@ export default function GoogleAnalytics({ gaId }: Props) {
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
-          gtag('config', '${gaId}', { anonymize_ip: true });
+          gtag('config', '${gaId}');
         `}
       </Script>
     </>

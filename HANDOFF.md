@@ -12,6 +12,21 @@ e redeploy. Home e `/instagram` agora mostram posts reais auto-atualizando 1/1h.
 Detalhes completos e a manutencao critica de refresh (antes de 2026-07-14) na
 pendencia #4 abaixo, agora marcada FEITO.
 
+Em seguida, redesign visual da `/instagram` a partir de bundle do Claude Design.
+Novo modulo `components/sections/instagram/`: `patterns.tsx` (13 SVGs botanicos
+como fallback), `data.ts` (tons/KINDS/helpers + mapeamento pra shape unico
+`IgTile`), `InstagramTile.tsx` (client, `<img>` real do CDN com fallback pro
+pattern no onError), `InstagramExperience.tsx` (client, header de perfil estilo
+revista + filtro por tipo + grid mosaico + load more + CTA + marquee). `/instagram`
+virou server component que faz `fetchInstagramMedia(24)` + novo
+`fetchInstagramProfile()` (followers/media/follows + avatar reais, so o que a API
+da, zero metrica fake). Home harmonizada com o mesmo tile. CSS namespaced em `.igx`
+no fim do `globals.css` (evita colisao com `.marquee`/`.ig-*` legados). Sem painel
+de tweaks, accent travado em ambar. Stories (destaques) removido a pedido do Andre.
+`<img>` puro de proposito (URL do CDN IG e assinada/efemera, next/image quebraria;
+CSP ja libera `*.cdninstagram.com`). Em preview/local o token nao existe (so prod),
+entao cai no fallback de patterns: normal.
+
 ### Sessao 2026-05-09 (DoctorScanner + Hero polaroides + ebooks locais)
 
 Mudancas feitas em ordem cronologica nessa sessao:

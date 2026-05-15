@@ -1,101 +1,24 @@
 import type { Metadata } from 'next';
-import { INSTAGRAM_HANDLE, INSTAGRAM_URL } from '@/lib/constants';
-import { igFull, type IgPost } from '@/data/instagram';
-import { fetchInstagramMedia, type IgMedia } from '@/lib/instagram';
-import InstagramEmbed from '@/components/ui/InstagramEmbed';
-import { IgKindIcon, InstagramOutlineIcon } from '@/components/ui/icons';
+import { igFull } from '@/data/instagram';
+import { fetchInstagramMedia, fetchInstagramProfile } from '@/lib/instagram';
+import InstagramExperience from '@/components/sections/instagram/InstagramExperience';
+import { tilesFromMedia, tilesFromFallback } from '@/components/sections/instagram/data';
 
 export const metadata: Metadata = {
   title: 'Instagram · Terra Gentil',
-  description: 'Feed completo do Terra Gentil no Instagram: bastidor, dicas rápidas, planta do dia, comunidade.',
+  description:
+    'Feed do Terra Gentil no Instagram: bastidor, transformações de quintal, dicas rápidas e o Doutor das Plantas. Atualiza sozinho.',
 };
 
 export const revalidate = 3600;
 
-const TONES: ReadonlyArray<readonly [string, string]> = [
-  ['#11201A', '#4A8C4F'],
-  ['#1F2A20', '#74C69D'],
-  ['#2A1810', '#E8A33D'],
-  ['#1A1F2A', '#4A8C4F'],
-  ['#11201A', '#74C69D'],
-  ['#2A1810', '#D8552B'],
-  ['#1F2A20', '#E8A33D'],
-  ['#11201A', '#4A8C4F'],
-  ['#2A1810', '#74C69D'],
-  ['#1A1F2A', '#E8A33D'],
-  ['#11201A', '#D8552B'],
-  ['#2A1810', '#74C69D'],
-];
-
 export default async function InstagramPage() {
-  const live = await fetchInstagramMedia(12);
-  const items: Array<IgMedia | IgPost> = live.length > 0 ? live : igFull;
+  const [live, profile] = await Promise.all([
+    fetchInstagramMedia(24),
+    fetchInstagramProfile(),
+  ]);
 
-  return (
-    <section id="instagram" className="ig" style={{ paddingTop: 140 }}>
-      <div className="ig-head">
-        <div>
-          <div className="section-eyebrow">Feed completo</div>
-          <h1 className="section-title">
-            No <span className="ital">Instagram</span>
-          </h1>
-        </div>
-        <a className="ig-handle" href={INSTAGRAM_URL} target="_blank" rel="noopener noreferrer">
-          <InstagramOutlineIcon size={20} />
-          <span>{INSTAGRAM_HANDLE}</span>
-          <span className="ig-arrow">↗</span>
-        </a>
-      </div>
-      <div className="ig-grid ig-grid-feed">
-        {items.map((p, i) => {
-          const tone = TONES[i % TONES.length];
-          if ('shortcode' in p && p.shortcode) {
-            const isLive = 'permalink' in p;
-            const caption = isLive ? (p as IgMedia).caption : (p as IgPost).title;
-            return (
-              <div
-                key={isLive ? (p as IgMedia).id : i}
-                className="ig-tile ig-tile-embed"
-                style={{ '--ig-bg': tone[0], '--ig-fg': tone[1] } as React.CSSProperties}
-              >
-                <InstagramEmbed shortcode={p.shortcode} caption={caption} withCaption />
-              </div>
-            );
-          }
-          const post = p as IgPost;
-          return (
-            <a
-              key={i}
-              href={INSTAGRAM_URL}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="ig-tile"
-              style={{ '--ig-bg': tone[0], '--ig-fg': tone[1] } as React.CSSProperties}
-            >
-              <div className="ig-placeholder">
-                <div className="ig-pattern" />
-                <div className="ig-kind">
-                  <IgKindIcon kind={post.kind} />
-                  <span>{post.kind}</span>
-                </div>
-                <div className="ig-meta">
-                  <div className="ig-tag">#{post.tag}</div>
-                  <div className="ig-title">{post.title}</div>
-                </div>
-                <div className="ig-hover">
-                  <span>Ver no Instagram</span>
-                  <span>↗</span>
-                </div>
-              </div>
-            </a>
-          );
-        })}
-      </div>
-      <div className="ig-foot">
-        <p>
-          Quer mostrar seu jardim? Marca <strong>{INSTAGRAM_HANDLE}</strong>. Repostamos os melhores toda semana.
-        </p>
-      </div>
-    </section>
-  );
+  const tiles = live.length > 0 ? tilesFromMedia(live) : tilesFromFallback(igFull);
+
+  return <InstagramExperience tiles={tiles} profile={profile} />;
 }

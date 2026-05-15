@@ -4,6 +4,14 @@
 
 Site LIVE em https://terragentil.com.br substituindo o WordPress velho do Hostinger.
 
+### Sessao 2026-05-15 (Instagram feed ao vivo)
+
+Ativado o feed real do Instagram via Graph API (pendencia #4 do backlog). Era so
+setar `INSTAGRAM_ACCESS_TOKEN` na Vercel (long-lived 60d, app `terragentilleitura-IG`)
+e redeploy. Home e `/instagram` agora mostram posts reais auto-atualizando 1/1h.
+Detalhes completos e a manutencao critica de refresh (antes de 2026-07-14) na
+pendencia #4 abaixo, agora marcada FEITO.
+
 ### Sessao 2026-05-09 (DoctorScanner + Hero polaroides + ebooks locais)
 
 Mudancas feitas em ordem cronologica nessa sessao:
@@ -79,17 +87,36 @@ CSP em `next.config.ts` ja libera `frame-src` pra GitHub Pages e `connect-src` p
 
 Game vive em outro repo (`terra-gentil/terra-gentil-game`), pasta local em `C:\Gitlab_hz\terra-gentil-site\terra-gentil-game` (Phaser 3.90 + Vite, deploy GitHub Pages, backend FastAPI no Railway).
 
-### 4. Instagram Graph API token (opcional, recomendado)
+### 4. Instagram Graph API token (FEITO 2026-05-15, feed ao vivo)
 
-Atualmente `/instagram` e a secao Instagram da home renderizam 11 shortcodes hardcoded em `data/instagram.ts`. Funciona mas nao auto-atualiza com posts novos.
+`/instagram` (12 tiles) e a secao Instagram da home (3 tiles) agora puxam os posts
+reais e recentes do `@canalterragentil` via Graph API, auto-atualizando a cada 1h
+(`revalidate: 3600`). Fallback hardcoded em `data/instagram.ts` so entra se a API
+falhar. Zero mudanca de codigo, a integracao em `lib/instagram.ts` ja estava pronta;
+faltava so a env.
 
-Pra ativar auto-atualizacao a cada 1h:
-1. Gerar long-lived user token (60d) em `developers.facebook.com` apos virar admin do app `TerraGentil-IG` (ID `27059007300453528`)
-2. Setar `INSTAGRAM_ACCESS_TOKEN=...` na Vercel
-3. Refresh manual antes de 60 dias: `GET https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=LONG`
+**Detalhes:**
+- App correto: **`terragentilleitura-IG`**, Instagram app ID `2059886428073049`,
+  conta `canalterragentil` (IG user ID `17841474413071263`). NAO e o app antigo
+  `TerraGentil-IG` `27059007300453528` do handoff anterior.
+- Token gerado pelo botao "Gerar token" da tela "API com login empresarial no
+  Instagram" = **long-lived 60 dias** (esse fluxo nao usa o short-lived de 1h do
+  Basic Display antigo).
+- `INSTAGRAM_ACCESS_TOKEN` setado em Production na Vercel (Encrypted/Sensitive).
+- `INSTAGRAM_APP_TOKEN` (app secret) chegou a ser criado por engano e foi removido.
+  O site nunca usa client_secret em runtime, nao recriar.
+- Validado em prod comparando shortcodes do HTML vs lista hardcoded: 7 dos 12 tiles
+  eram shortcodes ineditos, prova de que vem da API e nao do fallback.
 
-Passo-a-passo completo no `.env.example`. Setup esta blocado por permissao "Cargo de programador insuficiente" no Meta - precisa virar admin do app na url:
-`https://developers.facebook.com/apps/27059007300453528/roles/roles/`
+**MANUTENCAO CRITICA - refresh do token antes de 2026-07-14 (~60 dias):**
+Token long-lived expira em ~60 dias a partir de 2026-05-15. Quando expira, a API
+retorna code 190 e o site cai no fallback hardcoded silenciosamente (loga evento
+`instagram_token_expired`). Pra renovar (estende +60d, fazer com token ainda valido):
+```
+GET https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=<TOKEN_ATUAL>
+```
+Pega o `access_token` da resposta e atualiza `INSTAGRAM_ACCESS_TOKEN` na Vercel +
+redeploy. Se o token ja tiver expirado, gerar novo pelo botao "Gerar token".
 
 ### 5. Newsletter (FEITO 2026-05-09, end-to-end pronta)
 

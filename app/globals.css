@@ -2333,7 +2333,7 @@ a { color: inherit; text-decoration: none; }
 .igx-btn-message:hover { background: color-mix(in oklab, var(--ink) 6%, transparent); }
 
 /* FILTERS */
-.igx-tabs-bar { max-width: 1480px; margin: 64px auto 0; padding: 0 32px; position: relative; z-index: 1; }
+.igx-tabs-bar { max-width: 1480px; margin: 0 auto; padding: 0 32px; position: relative; z-index: 1; }
 .igx-tabs {
   display: flex; align-items: center; justify-content: center; gap: 4px;
   padding: 6px; background: color-mix(in oklab, var(--ink) 6%, var(--paper-2));

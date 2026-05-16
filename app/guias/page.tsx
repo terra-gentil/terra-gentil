@@ -87,6 +87,8 @@ export default function GuiasPage() {
         </div>
       </section>
 
+      <div id="conteudo" className="jump-anchor" aria-hidden="true" />
+
       <GuiasClient books={books} cats={CATS} />
 
       <section className="page-cta">

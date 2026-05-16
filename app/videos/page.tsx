@@ -47,6 +47,8 @@ export default async function VideosPage() {
         mascotAlt="Brotinho com laptop"
       />
 
+      <div id="conteudo" className="jump-anchor" aria-hidden="true" />
+
       <VideosClient videos={videos} />
 
       <section className="vp-playlists">

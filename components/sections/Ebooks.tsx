@@ -38,7 +38,7 @@ export default function Ebooks() {
         ))}
       </div>
       <div className="see-more-row">
-        <Link className="see-more light" href="/guias">
+        <Link className="see-more light" href="/guias#conteudo">
           Ver todos os {ebooks.length} ebooks →
         </Link>
       </div>

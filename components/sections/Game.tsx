@@ -71,7 +71,7 @@ export default function Game() {
         </div>
       </div>
       <div className="see-more-row">
-        <Link className="see-more light" href="/jogo">
+        <Link className="see-more light" href="/jogo#conteudo">
           Saiba mais sobre o jogo →
         </Link>
       </div>

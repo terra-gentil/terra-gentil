@@ -103,6 +103,8 @@ export default function ManifestoPage() {
         </div>
       </section>
 
+      <div id="conteudo" className="jump-anchor" aria-hidden="true" />
+
       <section className="manifesto-flow" style={{ paddingTop: 60 }}>
         <div className="manifesto-grid">
           {MF_ACTS.map((a) => (

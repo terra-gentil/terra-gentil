@@ -53,6 +53,8 @@ export default function TransformacoesPage() {
         </div>
       </section>
 
+      <div id="conteudo" className="jump-anchor" aria-hidden="true" />
+
       <TransformacoesClient cases={cases} youtubeUrl={YOUTUBE_URL} />
 
       <section className="tp-rules">

@@ -11,7 +11,7 @@ export default function Doutor() {
       <div className="doctor-grid">
         <div className="doctor-stage-col">
           <DoctorScanner />
-          <Link className="see-more light doctor-stage-link" href="/doutor">
+          <Link className="see-more light doctor-stage-link" href="/doutor#conteudo">
             Como funciona o Doutor →
           </Link>
         </div>
@@ -50,7 +50,7 @@ export default function Doutor() {
             </div>
           </div>
           <div style={{ marginTop: 28 }}>
-            <Link className="btn-amber" href="/doutor">
+            <Link className="btn-amber" href="/doutor#conteudo">
               Diagnosticar minha planta →
             </Link>
           </div>

@@ -103,7 +103,7 @@ export default async function Videos() {
       </div>
 
       <div className="see-more-row">
-        <Link className="see-more dark" href="/videos">
+        <Link className="see-more dark" href="/videos#conteudo">
           Ver todos os vídeos →
         </Link>
       </div>

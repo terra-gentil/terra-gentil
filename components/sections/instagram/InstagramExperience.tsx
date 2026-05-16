@@ -238,7 +238,7 @@ export default function InstagramExperience({
         <Profile profile={profile} />
       </header>
 
-      <section className="igx-tabs-bar" aria-label="Filtros">
+      <section id="conteudo" className="igx-tabs-bar jump-anchor" aria-label="Filtros">
         <div className="igx-tabs" role="tablist" aria-label="Filtrar por tipo">
           {KINDS.map((k) => (
             <button

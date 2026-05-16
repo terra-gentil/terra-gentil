@@ -42,7 +42,7 @@ export default async function Instagram() {
         </p>
       </div>
       <div className="see-more-row">
-        <Link className="see-more dark" href="/instagram">
+        <Link className="see-more dark" href="/instagram#conteudo">
           Ver feed completo →
         </Link>
       </div>

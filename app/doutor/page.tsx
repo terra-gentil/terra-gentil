@@ -40,6 +40,8 @@ export default function DoutorPage() {
         mascotAlt="Brotinho com laptop"
       />
 
+      <div id="conteudo" className="jump-anchor" aria-hidden="true" />
+
       <section className="dr-scanner">
         <div className="dr-scanner-inner">
           <div className="section-eyebrow" style={{ color: 'var(--amber)' }}>Veja a IA em ação · 11 segundos</div>

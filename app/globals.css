@@ -2571,3 +2571,7 @@ a { color: inherit; text-decoration: none; }
   .igx-tile:hover .igx-tile-img,
   .igx-tile:hover .igx-tile-pattern { transform: none; }
 }
+
+/* Alvo de scroll das paginas internas: quando o link da home aponta pra
+   /pagina#conteudo, o navegador para aqui ja descontando o header fixo. */
+.jump-anchor { scroll-margin-top: 88px; }

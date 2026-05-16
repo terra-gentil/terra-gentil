@@ -26,7 +26,7 @@ export default function Transformations() {
         <div>
           <span className="count">{transformations.length}+</span> · transformações no acervo
         </div>
-        <Link href="/transformacoes" style={{ display: 'inline-flex', alignItems: 'center', gap: 8, fontWeight: 600 }}>
+        <Link href="/transformacoes#conteudo" style={{ display: 'inline-flex', alignItems: 'center', gap: 8, fontWeight: 600 }}>
           Ver galeria completa →
         </Link>
       </div>

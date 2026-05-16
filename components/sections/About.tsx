@@ -40,7 +40,7 @@ export default function About() {
         </div>
       </div>
       <div className="see-more-row">
-        <Link className="see-more dark" href="/manifesto">
+        <Link className="see-more dark" href="/manifesto#conteudo">
           Leia o manifesto completo →
         </Link>
       </div>

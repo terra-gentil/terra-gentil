@@ -47,6 +47,8 @@ export default function AppPage() {
         </div>
       </section>
 
+      <div id="conteudo" className="jump-anchor" aria-hidden="true" />
+
       <section className="jg-features">
         <div className="jg-inner">
           <h2 className="dr-section-title">

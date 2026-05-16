@@ -131,7 +131,7 @@ export default function AppPromo() {
       </div>
 
       <div className="see-more-row">
-        <Link className="see-more dark" href="/app">
+        <Link className="see-more dark" href="/app#conteudo">
           Conheça o app completo →
         </Link>
       </div>

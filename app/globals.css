@@ -2577,3 +2577,15 @@ a { color: inherit; text-decoration: none; }
 /* Alvo de scroll das paginas internas: quando o link da home aponta pra
    /pagina#conteudo, o navegador para aqui ja descontando o header fixo. */
 .jump-anchor { scroll-margin-top: 88px; }
+
+/* Animacao do sprite do Gentileza no jogo preview (spritesheet 12 frames 64x90) */
+@keyframes gentileza-walk {
+  from { background-position-x: 0; }
+  to   { background-position-x: -768px; }
+}
+
+/* Fade-up suave pra entrada de elementos no AppPhoneClient */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}

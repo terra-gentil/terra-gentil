@@ -2218,7 +2218,7 @@ a { color: inherit; text-decoration: none; }
   --paper-4: #C9BC9C;
   --ink-soft-2: #455449;
 }
-.igx { background: var(--paper); }
+.igx { background: var(--paper); overflow-x: clip; }
 
 .igx-ital {
   font-family: var(--font-serif, 'Instrument Serif'), Georgia, serif;
@@ -2563,6 +2563,8 @@ a { color: inherit; text-decoration: none; }
   .igx-feed .igx-tile.is-tall { grid-column: span 6; aspect-ratio: 1 / 1; grid-row: span 1; }
   .igx-feed .igx-tile.is-wide { grid-column: span 12; aspect-ratio: 4 / 3; }
   .igx-cta { padding: 48px 18px; }
+  .igx-title { font-size: clamp(38px, 11vw, 60px); }
+  .igx-profile-actions { flex-direction: column; }
 }
 
 @media (prefers-reduced-motion: reduce) {

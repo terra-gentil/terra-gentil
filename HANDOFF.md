@@ -27,6 +27,14 @@ de tweaks, accent travado em ambar. Stories (destaques) removido a pedido do And
 CSP ja libera `*.cdninstagram.com`). Em preview/local o token nao existe (so prod),
 entao cai no fallback de patterns: normal.
 
+Depois do redesign: scroll-to-content (links "ver mais" da home apontam pra
+`/pagina#conteudo`, 8 paginas ganharam ancora + classe `.jump-anchor`), e 3
+fixes de layout mobile na /instagram (overflow-x clip nos blobs, clamp do
+titulo, botoes do perfil em coluna). Rotina de refresh do token agendada pra
+2026-07-10 (claude.ai routine `trig_01Crw16WQ4TepNBozy7wHHuV`). Estado
+detalhado e proximo passo (varredura mobile das demais paginas, PENDENTE) em
+`PROGRESSO.md` na raiz.
+
 ### Sessao 2026-05-09 (DoctorScanner + Hero polaroides + ebooks locais)
 
 Mudancas feitas em ordem cronologica nessa sessao:

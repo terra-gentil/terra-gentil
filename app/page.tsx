@@ -43,6 +43,7 @@ const jsonLd = {
       '@id': `${SITE_URL}/#website`,
       url: SITE_URL,
       name: SITE_NAME,
+      alternateName: ['TerraGentil', 'Canal Terra Gentil'],
       inLanguage: 'pt-BR',
       publisher: { '@id': `${SITE_URL}/#organization` },
     },

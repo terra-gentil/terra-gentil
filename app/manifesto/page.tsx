@@ -1,13 +1,15 @@
 import type { Metadata } from 'next';
+import { pageMetadata } from '@/lib/seo';
+import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
 import Image from 'next/image';
 import { whatsappLink, YOUTUBE_URL } from '@/lib/constants';
 
-export const metadata: Metadata = {
-  alternates: { canonical: '/manifesto' },
-  title: 'Manifesto · Terra Gentil',
+export const metadata: Metadata = pageMetadata({
+  title: 'Manifesto',
   description:
     'A Terra Gentil não é um canal de jardinagem. É um canal de histórias humanas contadas por trás de quintais transformados. Tudo de graça, desde 2022.',
-};
+  path: '/manifesto',
+});
 
 const MF_ACTS = [
   {
@@ -80,6 +82,7 @@ const SUGGEST_MESSAGE =
 export default function ManifestoPage() {
   return (
     <>
+      <BreadcrumbJsonLd crumbs={[{ name: 'Manifesto', path: '/manifesto' }]} />
       <section className="tp-hero">
         <div className="tp-hero-inner">
           <div className="tp-hero-eyebrow">A filosofia · desde 2022</div>
@@ -99,7 +102,7 @@ export default function ManifestoPage() {
             alt="Terra Gentil"
             width={132}
             height={132}
-            priority
+            preload
           />
         </div>
       </section>

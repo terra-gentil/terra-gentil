@@ -1,15 +1,17 @@
 import type { Metadata } from 'next';
+import { pageMetadata } from '@/lib/seo';
+import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
 import { ebooks } from '@/data/ebooks';
 import GuiasClient from './GuiasClient';
 import StatNum from '@/components/ui/StatNum';
 import { INSTAGRAM_URL } from '@/lib/constants';
 
-export const metadata: Metadata = {
-  alternates: { canonical: '/guias' },
-  title: 'Ebooks · Terra Gentil',
+export const metadata: Metadata = pageMetadata({
+  title: 'Ebooks',
   description:
     '18 ebooks práticos pra resolver os perrengues mais comuns. Suculentas, compostagem, pragas, hortas. Tudo grátis em PDF.',
-};
+  path: '/guias',
+});
 
 const COLORS = ['#74C69D', '#4A8C4F', '#D8552B', '#E8A33D', '#74C69D', '#4A8C4F', '#E8A33D', '#D8552B', '#74C69D', '#E8A33D', '#4A8C4F', '#D8552B'] as const;
 
@@ -43,6 +45,7 @@ export default function GuiasPage() {
 
   return (
     <>
+      <BreadcrumbJsonLd crumbs={[{ name: 'Ebooks', path: '/guias' }]} />
       <section className="gu-hero">
         <div className="gu-hero-inner">
           <div className="gu-hero-stack" aria-hidden="true">

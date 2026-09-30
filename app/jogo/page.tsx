@@ -1,15 +1,16 @@
 import type { Metadata } from 'next';
+import { pageMetadata } from '@/lib/seo';
+import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
 import Image from 'next/image';
 import Link from 'next/link';
-import { SITE_NAME } from '@/lib/constants';
 import GamePreviewClient from './GamePreviewClient';
 
-export const metadata: Metadata = {
-  alternates: { canonical: '/jogo' },
-  title: `Jogo · ${SITE_NAME}`,
+export const metadata: Metadata = pageMetadata({
+  title: 'Jogo',
   description:
     'Gentileza: Resgate dos Jardins. Corte a grama, resgaste as flores, salve o jardim. Jogo pixel art gratuito, roda direto no navegador. Sem login, sem anúncio, sem cobrança.',
-};
+  path: '/jogo',
+});
 
 const INK = '#1b1d1c';
 const INKSOFT = '#4b5650';
@@ -78,6 +79,7 @@ function medalColor(pos: number) {
 export default function JogoPage() {
   return (
     <>
+      <BreadcrumbJsonLd crumbs={[{ name: 'Jogo', path: '/jogo' }]} />
       {/* ================================================================ */}
       {/* HERO — fundo claro, título pixel, imagem title_bg               */}
       {/* ================================================================ */}

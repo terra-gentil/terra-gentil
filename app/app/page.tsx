@@ -1,14 +1,16 @@
 import type { Metadata } from 'next';
+import { pageMetadata } from '@/lib/seo';
+import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
 import Image from 'next/image';
 import Link from 'next/link';
 import AppPhoneClient from './AppPhoneClient';
 
-export const metadata: Metadata = {
-  alternates: { canonical: '/app' },
-  title: 'App · Terra Gentil',
+export const metadata: Metadata = pageMetadata({
+  title: 'App',
   description:
     'O app completo do Doutor das Plantas: diagnóstico por IA, plano de rega, biblioteca brasileira e comunidade. Em desenvolvimento, lança em 2026. Tudo grátis, pra sempre.',
-};
+  path: '/app',
+});
 
 // Cores do design system do site (usadas fora do phone frame)
 const INK = '#1b1d1c';
@@ -115,6 +117,7 @@ function StackCard({ icon, title, lines }: { icon: string; title: string; lines:
 export default function AppPage() {
   return (
     <>
+      <BreadcrumbJsonLd crumbs={[{ name: 'App', path: '/app' }]} />
       {/* ================================================================ */}
       {/* HERO — fundo claro, foto do mascote + phone flutuante             */}
       {/* ================================================================ */}

@@ -6,6 +6,7 @@ import { posts, type Post } from '@/data/posts';
 import { SITE_NAME, SITE_URL, YOUTUBE_URL } from '@/lib/constants';
 import LiteYouTubeEmbed from '@/components/ui/LiteYouTubeEmbed';
 import type { Metadata } from 'next';
+import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
 
 export function generateStaticParams() {
   return posts.map((post) => ({ slug: post.slug }));
@@ -34,13 +35,20 @@ export async function generateMetadata({
       ? `https://i.ytimg.com/vi/${post.youtubeId}/maxresdefault.jpg`
       : null;
 
+  // O Google corta titulo acima de ~60 caracteres: nesses casos sai sem o sufixo da marca.
+  const withBrand = `${post.title} · ${SITE_NAME}`;
+  const title = withBrand.length > 60 ? post.title : withBrand;
+
   return {
-    title: `${post.title} · ${SITE_NAME}`,
+    title,
     description: post.excerpt,
     alternates: { canonical: `/blog/${post.slug}` },
     openGraph: {
       title: post.title,
       description: post.excerpt,
+      url: `/blog/${post.slug}`,
+      siteName: SITE_NAME,
+      locale: 'pt_BR',
       type: 'article',
       publishedTime: post.date,
       images: ogImage ? [{ url: ogImage }] : undefined,
@@ -67,6 +75,12 @@ export default async function PostPage({
 
   return (
     <article className="bp-article">
+      <BreadcrumbJsonLd
+        crumbs={[
+          { name: 'Blog', path: '/blog' },
+          { name: post.title, path: `/blog/${post.slug}` },
+        ]}
+      />
       <div className="bp-inner">
         <Link href="/blog" className="bp-back">
           <ArrowLeft size={16} />
@@ -86,7 +100,7 @@ export default async function PostPage({
         {post.youtubeId ? (
           <figure className="bp-media">
             <div className="bp-video-frame">
-              <LiteYouTubeEmbed videoId={post.youtubeId} title={post.title} />
+              <LiteYouTubeEmbed videoId={post.youtubeId} title={post.title} preload />
             </div>
             <figcaption>
               <a
@@ -106,7 +120,7 @@ export default async function PostPage({
             alt={post.title}
             width={1200}
             height={675}
-            priority
+            preload
             className="bp-image"
           />
         ) : null}

@@ -1,4 +1,6 @@
 import type { Metadata } from 'next';
+import { pageMetadata } from '@/lib/seo';
+import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
 import Link from 'next/link';
 import Image from 'next/image';
 import { ArrowRight } from 'lucide-react';
@@ -6,12 +8,12 @@ import { posts, type Post } from '@/data/posts';
 import { YOUTUBE_URL } from '@/lib/constants';
 import PageHero from '@/components/sections/PageHero';
 
-export const metadata: Metadata = {
-  alternates: { canonical: '/blog' },
-  title: 'Blog · Terra Gentil',
+export const metadata: Metadata = pageMetadata({
+  title: 'Blog',
   description:
     'Histórias por trás de cada quintal transformado. As reações, os encontros, os detalhes que não couberam no corte do vídeo.',
-};
+  path: '/blog',
+});
 
 function postImage(post: Post): string | null {
   if (post.image) return post.image;
@@ -22,6 +24,7 @@ function postImage(post: Post): string | null {
 export default function BlogPage() {
   return (
     <>
+      <BreadcrumbJsonLd crumbs={[{ name: 'Blog', path: '/blog' }]} />
       <PageHero
         eyebrow={`Blog · ${posts.length} histórias`}
         title={

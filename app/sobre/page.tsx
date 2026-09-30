@@ -1,14 +1,18 @@
 import type { Metadata } from 'next';
+import { pageMetadata } from '@/lib/seo';
+import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
 
-export const metadata: Metadata = {
-  alternates: { canonical: '/sobre' },
-  title: 'Sobre — Terra Gentil',
-  description: 'Conheça a história do Terra Gentil: um movimento de gentileza que transforma jardins abandonados em espaços de vida.',
-};
+export const metadata: Metadata = pageMetadata({
+  title: 'Sobre',
+  description:
+    'Conheça a história do Terra Gentil: um movimento de gentileza que transforma jardins abandonados em espaços de vida.',
+  path: '/sobre',
+});
 
 export default function SobrePage() {
   return (
     <>
+      <BreadcrumbJsonLd crumbs={[{ name: 'Sobre', path: '/sobre' }]} />
       <section className="bg-gradient-to-br from-terra-50 to-white py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <span className="text-sm font-medium text-terra-600 tracking-wide uppercase">

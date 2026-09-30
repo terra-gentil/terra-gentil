@@ -12,6 +12,13 @@
 7. Bug do antes e depois: arquivos transformacao-1-antes/depois trocados (o "antes" mostrava a calcada limpa).
 8. Search Console: propriedade https://terragentil.com.br/ criada na conta terragentil.oficial@gmail.com; verificacao por arquivo public/google17079c3e8874a86a.html (NAO remover).
 
+### Vistoria e correcoes A+B (30/09, tarde). Relatorio: docs/VISTORIA-SEO-2026-09-30.md
+- Velocidade: gtag com lazyOnload (antes baixava 173 KB junto com a imagem principal); fontes mono e Caveat sem preload; `priority` (deprecado no Next 16) trocado por `preload`; mascote da home com fetchPriority high; miniatura do video do post com preload.
+- Molde lib/seo.ts (pageMetadata): title, description, canonical, og e twitter proprios por pagina, com imagem padrao explicita.
+- BreadcrumbList (components/seo/BreadcrumbJsonLd.tsx) em todas as paginas internas e posts; WebSite com alternateName.
+- Titulos padronizados "Pagina · Terra Gentil"; post com mais de 60 caracteres sai sem o sufixo.
+- NAO feito por decisao do Andre (visual de referencia ate o lancamento): textos vencidos, cidades inventadas, caso 2 da galeria, H1 slogans, alt das imagens, Sobre no menu.
+
 ### Search Console (lido em 30/09, conta terragentil.oficial, acessar por https://search.google.com/u/3/search-console)
 - O site ja estava cadastrado em outra conta (dona do token antigo). Sitemap enviado em 08/05/2026, processado, 27 paginas.
 - 16 meses: 66 cliques, 774 impressoes, CTR 8,5%, posicao 5,5. Consultas quase so de marca ("terra gentil", "resgate gentil").

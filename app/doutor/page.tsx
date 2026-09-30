@@ -1,4 +1,6 @@
 import type { Metadata } from 'next';
+import { pageMetadata } from '@/lib/seo';
+import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
 import dynamic from 'next/dynamic';
 import PageHero from '@/components/sections/PageHero';
 import DoutorFaq from './DoutorFaq';
@@ -11,11 +13,12 @@ const DoctorScanner = dynamic(() => import('@/components/sections/DoctorScanner'
   loading: () => <div className="scan-stage" style={{ aspectRatio: '16 / 9' }} />,
 });
 
-export const metadata: Metadata = {
-  alternates: { canonical: '/doutor' },
-  title: 'Doutor das Plantas · Terra Gentil',
-  description: 'Diagnóstico de planta por foto, com IA, em segundos. Identificação, plano de rega, ebook combinado. 100% grátis.',
-};
+export const metadata: Metadata = pageMetadata({
+  title: 'Doutor das Plantas',
+  description:
+    'Diagnóstico de planta por foto, com IA, em segundos. Identificação, plano de rega, ebook combinado. 100% grátis.',
+  path: '/doutor',
+});
 
 const STEPS = [
   { num: 'PASSO 01', icon: '📷', title: 'Manda a foto', desc: 'Tira uma foto da folha, do caule ou do vaso inteiro. Quanto mais luz natural, melhor. Pode mandar várias.' },
@@ -27,6 +30,7 @@ const STEPS = [
 export default function DoutorPage() {
   return (
     <>
+      <BreadcrumbJsonLd crumbs={[{ name: 'Doutor das Plantas', path: '/doutor' }]} />
       <PageHero
         eyebrow="Diagnóstico por IA · 100% grátis"
         title={

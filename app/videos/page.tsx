@@ -1,14 +1,17 @@
 import type { Metadata } from 'next';
+import { pageMetadata } from '@/lib/seo';
+import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
 import { fetchPlaylistVideos } from '@/lib/youtube';
 import { YOUTUBE_URL } from '@/lib/constants';
 import PageHero from '@/components/sections/PageHero';
 import VideosClient from './VideosClient';
 
-export const metadata: Metadata = {
-  alternates: { canonical: '/videos' },
-  title: 'Vídeos · Terra Gentil',
-  description: 'Todos os vídeos do canal, atualizados automaticamente. Transformações, tutoriais e o Doutor responde.',
-};
+export const metadata: Metadata = pageMetadata({
+  title: 'Vídeos',
+  description:
+    'Todos os vídeos do canal, atualizados automaticamente. Transformações, tutoriais e o Doutor responde.',
+  path: '/videos',
+});
 
 export const revalidate = 3600;
 
@@ -32,6 +35,7 @@ export default async function VideosPage() {
 
   return (
     <>
+      <BreadcrumbJsonLd crumbs={[{ name: 'Vídeos', path: '/videos' }]} />
       <PageHero
         eyebrow={videos.length > 0
           ? `Canal no YouTube · ${videos.length} vídeos`

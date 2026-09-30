@@ -1,11 +1,14 @@
 import type { Metadata } from 'next';
+import { pageMetadata } from '@/lib/seo';
+import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
 import { whatsappLink } from '@/lib/constants';
 
-export const metadata: Metadata = {
-  alternates: { canonical: '/equipamentos' },
-  title: 'Equipamentos — Terra Gentil',
-  description: 'Conheça os equipamentos profissionais usados pelo Terra Gentil nas transformações de jardins.',
-};
+export const metadata: Metadata = pageMetadata({
+  title: 'Equipamentos',
+  description:
+    'Conheça os equipamentos profissionais usados pelo Terra Gentil nas transformações de jardins.',
+  path: '/equipamentos',
+});
 
 const equipmentCategories = [
   {
@@ -37,6 +40,7 @@ const equipmentCategories = [
 export default function EquipamentosPage() {
   return (
     <>
+      <BreadcrumbJsonLd crumbs={[{ name: 'Equipamentos', path: '/equipamentos' }]} />
       <section className="bg-gradient-to-br from-terra-50 to-white py-16">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-terra-900 mb-4">Equipamentos</h1>

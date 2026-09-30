@@ -69,7 +69,7 @@ export default function Hero() {
                   height={650}
                   sizes="(max-width: 1000px) 60vw, 28vw"
                   style={{ objectPosition: p.focus }}
-                  priority={i === 0}
+                  preload={i === 0}
                 />
                 <figcaption>{p.label}</figcaption>
               </figure>
@@ -82,7 +82,8 @@ export default function Hero() {
             width={992}
             height={1024}
             sizes="(max-width: 1000px) 50vw, 24vw"
-            priority
+            preload
+            fetchPriority="high"
           />
         </div>
       </div>

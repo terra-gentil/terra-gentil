@@ -10,6 +10,8 @@ export interface LiteYouTubeEmbedProps {
   /** Tamanho da thumb. hqdefault = 480x360. maxresdefault nao existe pra todo video. */
   thumbnailQuality?: 'hqdefault' | 'mqdefault' | 'sddefault';
   className?: string;
+  /** true quando o video e o primeiro elemento da tela (maior imagem visivel): carrega a thumb antes. */
+  preload?: boolean;
 }
 
 /**
@@ -22,6 +24,7 @@ export default function LiteYouTubeEmbed({
   title,
   thumbnailQuality = 'hqdefault',
   className = '',
+  preload = false,
 }: LiteYouTubeEmbedProps) {
   const [activated, setActivated] = useState(false);
   // encodeURIComponent pq videoId pode vir de fonte externa (RSS, API) com caracteres
@@ -54,6 +57,7 @@ export default function LiteYouTubeEmbed({
         alt={title}
         fill
         sizes="(max-width: 768px) 100vw, 33vw"
+        preload={preload}
         className="object-cover group-hover:scale-105 transition-transform duration-500"
       />
       <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent" />

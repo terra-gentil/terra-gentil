@@ -1,15 +1,17 @@
 import type { Metadata } from 'next';
+import { pageMetadata } from '@/lib/seo';
+import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
 import Image from 'next/image';
 import { transformations } from '@/data/transformations';
 import { YOUTUBE_URL } from '@/lib/constants';
 import TransformacoesClient from './TransformacoesClient';
 
-export const metadata: Metadata = {
-  alternates: { canonical: '/transformacoes' },
-  title: 'Transformações · Terra Gentil',
+export const metadata: Metadata = pageMetadata({
+  title: 'Transformações',
   description:
     'Galeria de quintais reais que renasceram. Arrasta o slider pra ver o antes e o depois de cada caso.',
-};
+  path: '/transformacoes',
+});
 
 const HUES = ['#4A8C4F', '#74C69D', '#E8A33D', '#D8552B', '#74C69D', '#4A8C4F'] as const;
 const CITIES = [
@@ -35,6 +37,7 @@ export default function TransformacoesPage() {
 
   return (
     <>
+      <BreadcrumbJsonLd crumbs={[{ name: 'Transformações', path: '/transformacoes' }]} />
       <section className="tp-hero">
         <div className="tp-hero-inner">
           <div className="tp-hero-eyebrow">Galeria · {cases.length} transformações</div>

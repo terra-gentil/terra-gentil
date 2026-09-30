@@ -33,6 +33,8 @@ const mono = JetBrains_Mono({
   weight: ['400', '600'],
   subsets: ['latin'],
   variable: '--font-mono',
+  // fora do primeiro quadro: nao pre-carregar pra nao disputar banda com o LCP
+  preload: false,
   display: 'swap',
 });
 
@@ -40,6 +42,8 @@ const caveat = Caveat({
   weight: ['500', '700'],
   subsets: ['latin'],
   variable: '--font-caveat',
+  // so nas legendas das polaroides: a troca de fonte nao move layout, entao nao pre-carrega
+  preload: false,
   display: 'swap',
 });
 

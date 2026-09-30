@@ -50,3 +50,10 @@ Resumo: base tecnica boa (Lighthouse SEO 100, boas praticas 100, titulos unicos,
 12. Corrigir textos vencidos (video toda terca, ao vivo) ate o relancamento.
 13. Alt em todas as imagens.
 14. Search Console: acompanhar Paginas e Desempenho a cada 2 semanas; pedir indexacao da home e das paginas novas no lancamento.
+
+## Resultado das correcoes A+B (medido em producao, Lighthouse mobile, 2 rodadas)
+| Pagina | Desempenho antes | Depois | LCP antes | Depois | FCP antes | Depois |
+|---|---|---|---|---|---|---|
+| Home | 66 | 93 a 95 | 7,9 s | 2,8 a 3,1 s | 3,0 s | 1,2 a 1,5 s |
+| Post do blog | 80 | 95 a 98 | 5,4 s | 2,4 a 2,8 s | 1,1 s | 1,1 s |
+SEO 100 e boas praticas 100 mantidos. Acessibilidade 88/90 sobe com o item 13 (alt), deixado para o lancamento.

@@ -12,6 +12,13 @@
 7. Bug do antes e depois: arquivos transformacao-1-antes/depois trocados (o "antes" mostrava a calcada limpa).
 8. Search Console: propriedade https://terragentil.com.br/ criada na conta terragentil.oficial@gmail.com; verificacao por arquivo public/google17079c3e8874a86a.html (NAO remover).
 
+### Search Console (lido em 30/09, conta terragentil.oficial, acessar por https://search.google.com/u/3/search-console)
+- O site ja estava cadastrado em outra conta (dona do token antigo). Sitemap enviado em 08/05/2026, processado, 27 paginas.
+- 16 meses: 66 cliques, 774 impressoes, CTR 8,5%, posicao 5,5. Consultas quase so de marca ("terra gentil", "resgate gentil").
+- Indexadas: 8. Nao indexadas: 26 (15 rastreadas e descartadas, 6 com 404, 5 redirecionamentos).
+- Posts do blog descartados tem 250 a 350 palavras: conteudo fino. Paginas de historia precisam de 800+ palavras.
+- Inspecao de URL: o link direto /inspect da 404 e a busca do topo nao abriu nesta sessao. Pedir indexacao no lancamento.
+
 ### Pendencias
 - Caso 2 de /transformacoes: as duas fotos sao de lugares diferentes (nao e antes e depois). Andre decide.
 - CITIES e duracao em app/transformacoes/page.tsx sao inventadas pelo codigo (Sao Paulo, Recife...). Trocar por dado real ou remover.

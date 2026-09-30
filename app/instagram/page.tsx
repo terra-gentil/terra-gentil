@@ -5,6 +5,7 @@ import InstagramExperience from '@/components/sections/instagram/InstagramExperi
 import { tilesFromMedia, tilesFromFallback } from '@/components/sections/instagram/data';
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/instagram' },
   title: 'Instagram · Terra Gentil',
   description:
     'Feed do Terra Gentil no Instagram: bastidor, transformações de quintal, dicas rápidas e o Doutor das Plantas. Atualiza sozinho.',

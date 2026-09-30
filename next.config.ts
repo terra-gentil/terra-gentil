@@ -56,6 +56,13 @@ const nextConfig: NextConfig = {
   // URLs nao mapeadas aqui caem no app/not-found.tsx amigavel.
   async redirects() {
     return [
+      // www -> dominio sem www (canonico). Sem isso o Google ve duas copias do site.
+      {
+        source: '/:path*',
+        has: [{ type: 'host', value: 'www.terragentil.com.br' }],
+        destination: 'https://terragentil.com.br/:path*',
+        permanent: true,
+      },
       // Posts WP com permalink `?p=ID` -> blog
       { source: '/', has: [{ type: 'query', key: 'p' }], destination: '/blog', permanent: true },
       // Index PHP, feed RSS antigo, comments feed

@@ -5,6 +5,7 @@ import PageHero from '@/components/sections/PageHero';
 import VideosClient from './VideosClient';
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/videos' },
   title: 'Vídeos · Terra Gentil',
   description: 'Todos os vídeos do canal, atualizados automaticamente. Transformações, tutoriais e o Doutor responde.',
 };

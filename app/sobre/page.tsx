@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/sobre' },
   title: 'Sobre — Terra Gentil',
   description: 'Conheça a história do Terra Gentil: um movimento de gentileza que transforma jardins abandonados em espaços de vida.',
 };

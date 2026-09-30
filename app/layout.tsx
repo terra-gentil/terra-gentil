@@ -56,7 +56,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: `${SITE_NAME} · Jardinagem com gentileza`,
     description: 'Transformando quintais esquecidos em espaços vivos.',
-    url: SITE_URL,
+    // sem og:url fixo: com ele toda pagina se apresentava como a home. Cada pagina tem canonical.
     siteName: SITE_NAME,
     locale: 'pt_BR',
     type: 'website',

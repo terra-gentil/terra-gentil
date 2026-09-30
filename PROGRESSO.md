@@ -1,5 +1,26 @@
 # PROGRESSO Terra Gentil
 
+## Sessao 2026-09-30 (SEO, a partir do playbook do setlists-pj-ev)
+
+### O que foi feito
+1. Diagnostico: site Next.js na Vercel, HTML completo no servidor, sitemap (27 URLs), robots, GA4 (G-4BZ68B16BK). Faltava: canonical, og:image padrao, JSON-LD na home, redirect www. Nenhuma das 4 contas do Chrome tinha o site no Search Console.
+2. canonical em todas as paginas (alternates.canonical) e no post do blog.
+3. Redirect 301 www.terragentil.com.br -> terragentil.com.br (next.config.ts, por host).
+4. JSON-LD Organization + WebSite na home (sameAs com as constantes de YouTube, Instagram, TikTok).
+5. app/opengraph-image.jpg e twitter-image.jpg (1200x630, foto do topo do site) com alt.
+6. og:url fixo removido do layout (toda pagina se apresentava como a home).
+7. Bug do antes e depois: arquivos transformacao-1-antes/depois trocados (o "antes" mostrava a calcada limpa).
+8. Search Console: propriedade https://terragentil.com.br/ criada na conta terragentil.oficial@gmail.com; verificacao por arquivo public/google17079c3e8874a86a.html (NAO remover).
+
+### Pendencias
+- Caso 2 de /transformacoes: as duas fotos sao de lugares diferentes (nao e antes e depois). Andre decide.
+- CITIES e duracao em app/transformacoes/page.tsx sao inventadas pelo codigo (Sao Paulo, Recife...). Trocar por dado real ou remover.
+- Hero da home diz "Ao vivo no YouTube, novo video toda semana"; canal parado desde 02/2026.
+- og:title/description das paginas internas herdam os da home (so afeta previa social).
+- Lint ja falhava antes desta sessao: aspas sem escape em app/app/page.tsx e variaveis sem uso em app/jogo/page.tsx.
+- Trocar YOUTUBE_URL/YOUTUBE_CHANNEL_ID para o canal novo quando o @TerraGentil migrar (~12/10).
+- Etapa 3: paginas por historia (/historias/<slug>) junto com o lancamento dos videos novos.
+
 ## Sessao 2026-05-16
 
 ### O que foi feito

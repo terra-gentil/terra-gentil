@@ -7,6 +7,7 @@ import { YOUTUBE_URL } from '@/lib/constants';
 import PageHero from '@/components/sections/PageHero';
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/blog' },
   title: 'Blog · Terra Gentil',
   description:
     'Histórias por trás de cada quintal transformado. As reações, os encontros, os detalhes que não couberam no corte do vídeo.',

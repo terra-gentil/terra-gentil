@@ -12,6 +12,7 @@ const DoctorScanner = dynamic(() => import('@/components/sections/DoctorScanner'
 });
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/doutor' },
   title: 'Doutor das Plantas · Terra Gentil',
   description: 'Diagnóstico de planta por foto, com IA, em segundos. Identificação, plano de rega, ebook combinado. 100% grátis.',
 };

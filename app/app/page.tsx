@@ -4,6 +4,7 @@ import Link from 'next/link';
 import AppPhoneClient from './AppPhoneClient';
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/app' },
   title: 'App · Terra Gentil',
   description:
     'O app completo do Doutor das Plantas: diagnóstico por IA, plano de rega, biblioteca brasileira e comunidade. Em desenvolvimento, lança em 2026. Tudo grátis, pra sempre.',

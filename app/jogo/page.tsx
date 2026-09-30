@@ -5,6 +5,7 @@ import { SITE_NAME } from '@/lib/constants';
 import GamePreviewClient from './GamePreviewClient';
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/jogo' },
   title: `Jogo · ${SITE_NAME}`,
   description:
     'Gentileza: Resgate dos Jardins. Corte a grama, resgaste as flores, salve o jardim. Jogo pixel art gratuito, roda direto no navegador. Sem login, sem anúncio, sem cobrança.',

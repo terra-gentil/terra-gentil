@@ -5,6 +5,7 @@ import { YOUTUBE_URL } from '@/lib/constants';
 import TransformacoesClient from './TransformacoesClient';
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/transformacoes' },
   title: 'Transformações · Terra Gentil',
   description:
     'Galeria de quintais reais que renasceram. Arrasta o slider pra ver o antes e o depois de cada caso.',

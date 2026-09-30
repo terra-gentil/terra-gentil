@@ -3,6 +3,7 @@ import Image from 'next/image';
 import { whatsappLink, YOUTUBE_URL } from '@/lib/constants';
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/manifesto' },
   title: 'Manifesto · Terra Gentil',
   description:
     'A Terra Gentil não é um canal de jardinagem. É um canal de histórias humanas contadas por trás de quintais transformados. Tudo de graça, desde 2022.',

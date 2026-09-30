@@ -5,6 +5,7 @@ import StatNum from '@/components/ui/StatNum';
 import { INSTAGRAM_URL } from '@/lib/constants';
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/guias' },
   title: 'Ebooks · Terra Gentil',
   description:
     '18 ebooks práticos pra resolver os perrengues mais comuns. Suculentas, compostagem, pragas, hortas. Tudo grátis em PDF.',

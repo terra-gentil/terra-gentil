@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { whatsappLink } from '@/lib/constants';
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/equipamentos' },
   title: 'Equipamentos — Terra Gentil',
   description: 'Conheça os equipamentos profissionais usados pelo Terra Gentil nas transformações de jardins.',
 };

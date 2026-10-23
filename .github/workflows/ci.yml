@@ -44,6 +44,9 @@ jobs:
       - name: Tests
         run: npm test
 
+      - name: Testes do insta-terra-gentil
+        run: npm run test:insta
+
       - name: Build
         env:
           # Build precisa apenas que a env exista; nao chama Gemini.

@@ -1,0 +1,100 @@
+{
+  "_sobre": "Uma palavra-chave por ebook. Quem comenta a palavra recebe o PDF no direct. Proposta inicial: o André aprova ou troca.",
+  "palavras": [
+    {
+      "palavra": "CODIGO",
+      "titulo": "O Código Secreto das Plantas",
+      "pdf": "1-O-Codigo-Secreto-das-Plantas.pdf"
+    },
+    {
+      "palavra": "IMORTAL",
+      "titulo": "O Esquadrão Imortal: 6 Plantas Indestrutíveis",
+      "pdf": "2-O-Esquadrao-Imortal.pdf"
+    },
+    {
+      "palavra": "GRATIDAO",
+      "titulo": "Plantas da Gratidão: Proteção para o Lar",
+      "pdf": "3-Plantas-da-Gratidao.pdf"
+    },
+    {
+      "palavra": "ECONOMIA",
+      "titulo": "Jardim Lindo com Pouco Dinheiro",
+      "pdf": "4-Jardim-Lindo-com-Pouco-Dinheiro.pdf"
+    },
+    {
+      "palavra": "VERTICAL",
+      "titulo": "Jardim Vertical: Seu Novo Quintal na Parede",
+      "pdf": "5-O-Seu-Novo-Quintal-e-na-Parede.pdf"
+    },
+    {
+      "palavra": "TERAPIA",
+      "titulo": "Jardim Terapêutico: Plantas que Curam",
+      "pdf": "6-Jardim-Terapeutico.pdf"
+    },
+    {
+      "palavra": "PEQUENO",
+      "titulo": "Jardim Pequeno, Amor Gigante",
+      "pdf": "7-Jardim-Pequeno-Amor-Gigante.pdf"
+    },
+    {
+      "palavra": "HORTA",
+      "titulo": "Horta na Varanda: Tenha Temperos Frescos",
+      "pdf": "8-Horta-na-Varanda.pdf"
+    },
+    {
+      "palavra": "LUZ",
+      "titulo": "Guia de Luz: Sol, Sombra ou Meia-Sombra?",
+      "pdf": "9-Plantas-para-Varanda-Pequena-o-guia-gentil-de-sol-meia-sombra-e-sombra.pdf"
+    },
+    {
+      "palavra": "PET",
+      "titulo": "Pets e Plantas: Guia de Segurança",
+      "pdf": "10-Guia-Gentil-Plantas-Caes-e-Gatos.pdf"
+    },
+    {
+      "palavra": "SUCULENTA",
+      "titulo": "Suculentas: O Guia para Não Matar Afogada",
+      "pdf": "11-Como-Plantar-Suculentas.pdf"
+    },
+    {
+      "palavra": "DESERTO",
+      "titulo": "Rosa do Deserto: Segredos do Caudex",
+      "pdf": "12-Como-Plantar-Rosa-do-Deserto.pdf"
+    },
+    {
+      "palavra": "MORANGO",
+      "titulo": "Morangos do Coração: Colha Doçura",
+      "pdf": "13-Morangos-do-Coracao.pdf"
+    },
+    {
+      "palavra": "HORTELA",
+      "titulo": "Hortelã: O Aroma da Infância",
+      "pdf": "14-O-Cheirinho-que-Mora-na-Memoria.pdf"
+    },
+    {
+      "palavra": "CEBOLINHA",
+      "titulo": "Cebolinha Infinita: Adeus Mercado",
+      "pdf": "15-Como-Plantar-Cebolinha-em-Casa.pdf"
+    },
+    {
+      "palavra": "JIBOIA",
+      "titulo": "Jiboia: A Planta que Perdoa Tudo",
+      "pdf": "16-Jiboia-na-Sala.pdf"
+    },
+    {
+      "palavra": "ALFACE",
+      "titulo": "Alface em Casa: Salada Crocante",
+      "pdf": "17-Alface-em-Casa.pdf"
+    },
+    {
+      "palavra": "GRAMA",
+      "titulo": "Tapete Verde: O Gramado Perfeito",
+      "pdf": "18-O-TAPETE-VERDE-DA-BONDADE.pdf"
+    },
+    {
+      "palavra": "TOMATE",
+      "titulo": "Tomate em Vaso: Colheita Farta",
+      "pdf": "19-Tomate-em-Vaso.pdf"
+    }
+  ]
+}

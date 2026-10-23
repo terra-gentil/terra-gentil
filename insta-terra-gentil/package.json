@@ -1,0 +1,13 @@
+{
+  "name": "insta-terra-gentil",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Máquina de conteúdo do Instagram da Terra Gentil",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}

@@ -72,7 +72,13 @@ const qrs = [
   { src: '/images/qr/site.png', cap: 'Site' },
 ];
 
-export default function Footer() {
+export default function Footer({ temNoticias = false }: { temNoticias?: boolean }) {
+  const links = navColumns[0].links;
+  const i = links.findIndex((l) => l.href === '/blog');
+  const comNoticias = temNoticias
+    ? [...links.slice(0, i + 1), { href: '/noticias', label: 'Notícias' }, ...links.slice(i + 1)]
+    : links;
+  const colunas = [{ ...navColumns[0], links: comNoticias }];
   return (
     <footer className="footer">
       <div className="footer-inner">
@@ -85,7 +91,7 @@ export default function Footer() {
               Jardinagem com gentileza desde 2022. Canal no YouTube, blog, ebooks e o Doutor das Plantas, tudo grátis.
             </div>
           </div>
-          {navColumns.map((col) => (
+          {colunas.map((col) => (
             <div key={col.heading} className="footer-col">
               <h4>{col.heading}</h4>
               <ul>

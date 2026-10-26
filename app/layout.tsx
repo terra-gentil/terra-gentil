@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { Archivo_Black, Caveat, Instrument_Serif, Inter, JetBrains_Mono } from 'next/font/google';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
+import { lerNoticias } from '@/lib/noticias';
 import WhatsAppButton from '@/components/layout/WhatsAppButton';
 import GoogleAnalytics from '@/components/analytics/GoogleAnalytics';
 import { SITE_NAME, SITE_URL } from '@/lib/constants';
@@ -78,6 +79,7 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const temNoticias = lerNoticias().length > 0;
   return (
     <html
       lang="pt-BR"
@@ -92,9 +94,9 @@ export default function RootLayout({
         <a href="#main" className="skip-link">
           Pular para o conteúdo
         </a>
-        <Header />
+        <Header temNoticias={temNoticias} />
         <main id="main">{children}</main>
-        <Footer />
+        <Footer temNoticias={temNoticias} />
         <WhatsAppButton />
         {GA_ID && <GoogleAnalytics gaId={GA_ID} />}
       </body>

@@ -57,7 +57,8 @@ test('o post montado leva a matéria, e matéria ruim barra o post', () => {
   assert.equal(post.materia.slug, exemplo().materia.slug);
   assert.deepEqual(conferirPost(post, { livro, paginas }), []);
   assert.throws(() => montar({ ...exemplo(), materia: materia({ slug: 'Ruim Slug' }) }), /slug/);
-  const { materia: _tira, ...semMateria } = exemplo();
+  const semMateria = exemplo();
+  delete semMateria.materia;
   assert.throws(() => montar(semMateria), /faltam chaves: materia/);
 });
 

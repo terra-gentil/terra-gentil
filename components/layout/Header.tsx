@@ -22,7 +22,14 @@ const allLinks = [
 // Filtra rotas gated antes de renderizar (sem /jogo no nav se NEXT_PUBLIC_GAME_ENABLED nao setado)
 const navLinks = allLinks.filter((l) => !l.requiresGame || GAME_ENABLED);
 
-export default function Header() {
+// Notícias só entra no menu quando já existe alguma (a página vazia não é indexada).
+const comNoticias = (links: typeof navLinks) => {
+  const i = links.findIndex((l) => l.href === '/blog');
+  return [...links.slice(0, i + 1), { href: '/noticias', label: 'Notícias' }, ...links.slice(i + 1)];
+};
+
+export default function Header({ temNoticias = false }: { temNoticias?: boolean }) {
+  const links = temNoticias ? comNoticias(navLinks) : navLinks;
   const pathname = usePathname();
   const isHome = pathname === '/';
   const [open, setOpen] = useState(false);
@@ -64,7 +71,7 @@ export default function Header() {
           </span>
         </Link>
         <div className="nav-links">
-          {navLinks.map((link) => {
+          {links.map((link) => {
             const active = pathname === link.href || pathname.startsWith(link.href + '/');
             return (
               <Link
@@ -125,7 +132,7 @@ export default function Header() {
             <Link href="/" aria-current={isHome ? 'page' : undefined}>
               Início
             </Link>
-            {navLinks.map((link) => {
+            {links.map((link) => {
               const active = pathname === link.href || pathname.startsWith(link.href + '/');
               return (
                 <Link

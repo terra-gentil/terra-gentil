@@ -10,6 +10,7 @@ import About from '@/components/sections/About';
 import Ebooks from '@/components/sections/Ebooks';
 import Instagram from '@/components/sections/Instagram';
 import Newsletter from '@/components/sections/Newsletter';
+import UltimasNoticias from '@/components/sections/UltimasNoticias';
 import type { Metadata } from 'next';
 import {
   CONTACT_EMAIL,
@@ -68,6 +69,7 @@ export default function Home() {
       <Game />
       <About />
       <Ebooks />
+      <UltimasNoticias />
       <Instagram />
       <Newsletter />
     </>

@@ -1,6 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { posts } from '@/data/posts';
 import { GAME_ENABLED, SITE_URL } from '@/lib/constants';
+import { caminhoDaNoticia, lerNoticias } from '@/lib/noticias';
 
 // Data fixa pra rotas estaticas: o crawler nao deve ver "modificado agora" a cada
 // invocacao. Atualizar manualmente quando uma rota tiver mudanca de conteudo real.
@@ -39,5 +40,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  return [...staticRoutes, ...postRoutes];
+  // /noticias só entra quando existe notícia: a página vazia não é indexada.
+  const noticias = lerNoticias();
+  const noticiaRoutes: MetadataRoute.Sitemap = noticias.length
+    ? [
+        {
+          url: `${SITE_URL}/noticias`,
+          lastModified: new Date(`${noticias[0].dia}T12:00:00-03:00`),
+          changeFrequency: 'daily',
+          priority: 0.8,
+        },
+        ...noticias.map((n) => ({
+          url: `${SITE_URL}${caminhoDaNoticia(n.slug)}`,
+          lastModified: new Date(`${n.dia}T12:00:00-03:00`),
+          changeFrequency: 'monthly' as const,
+          priority: 0.7,
+        })),
+      ]
+    : [];
+
+  return [...staticRoutes, ...postRoutes, ...noticiaRoutes];
 }

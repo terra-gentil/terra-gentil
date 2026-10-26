@@ -2205,6 +2205,62 @@ a { color: inherit; text-decoration: none; }
   .bp-footer .btn-yt { width: 100%; justify-content: center; }
 }
 
+/* Notícias (/noticias): reaproveita .bp-* do blog e acrescenta o que o texto longo precisa. */
+.bp-content h2 {
+  font-family: var(--font-display, 'Archivo Black'), sans-serif;
+  font-size: clamp(24px, 3vw, 30px);
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  color: var(--ink);
+  margin: 56px 0 18px;
+}
+.bp-content .bp-lead {
+  font-size: 1.12em;
+  color: var(--ink-soft);
+}
+.bp-capa {
+  margin: 0 0 48px;
+  max-width: 420px;
+}
+.bp-capa img {
+  width: 100%; height: auto;
+  border-radius: 20px;
+  box-shadow: 0 24px 48px rgba(11, 20, 16, 0.18);
+}
+.bp-capa figcaption {
+  margin-top: 12px;
+  font-size: 13px;
+  color: var(--ink-soft);
+}
+.bp-faq dt {
+  font-weight: 700;
+  margin: 28px 0 6px;
+}
+.bp-faq dd { margin: 0; }
+.bp-fontes {
+  margin: 48px 0 0;
+  padding: 24px 28px;
+  border-radius: 16px;
+  background: var(--paper-2);
+  font-size: 15px;
+  line-height: 1.6;
+}
+.bp-fontes h2 { font-size: 18px; margin: 0 0 10px; }
+.bp-fontes ul { margin: 0; padding-left: 20px; }
+.bp-ctas {
+  display: flex; flex-wrap: wrap; gap: 14px;
+  margin-top: 32px;
+}
+.bp-mais {
+  margin-top: 64px;
+  padding-top: 32px;
+  border-top: 1px solid var(--paper-2);
+}
+.bp-mais h2 { font-size: 22px; margin: 0 0 18px; }
+.bp-mais ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
+.bp-mais a { color: var(--ink); font-weight: 600; text-decoration: none; }
+.bp-mais a:hover { color: var(--tomato); }
+
 /* ============================================================
    INSTAGRAM REDESIGN (/instagram + seção da home)
    Namespaced em .igx pra não colidir com .marquee/.ig-* legados.

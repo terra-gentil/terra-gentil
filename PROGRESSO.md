@@ -4,6 +4,8 @@
 
 **Feito hoje:** nome cientifico em `especie` (corrige foto de cobra), desfoque/gradiente/sombra/realce de foto/titulo equilibrado nos moldes, enquadramento variado, retry do Chromium no CI. Publicacao no IG pronta e testada com IG falso: `insta-terra-gentil/publicar/instagram/` (cliente Graph API, carrossel, registro anti-duplicata). Teste de ponta a ponta no GitHub OK com o botao desligado (previa gera pacote na branch `ig-slides`, `postar-instagram.yml` confere e NAO posta).
 
+**Noticias no site (N1 a N5 prontas, 26/10 noite):** o post ganhou o campo `materia` (texto de 600+ palavras com fatos por secao, FAQ), validado em `pauta/materia.mjs` e pedido no prompt da rotina. Site: `/noticias`, `/noticias/[slug]`, `/noticias/feed.xml`, JSON-LD Article/FAQ/Breadcrumb, sitemap, menu, rodape e home (tudo so aparece com ao menos 1 noticia; vazio = noindex). GA4: `NewsTracker` (news_view, news_read_75, cta_ebook_click, cta_instagram_click), doc em `docs/ANALYTICS.md`. Workflow: grava capa e credito em `public/noticias/<slug>/` e o link entra na legenda so se a pagina estiver no ar. **ATENCAO:** a noticia vai ao ar no site SOZINHA quando o post com `materia` e mesclado (o botao IG_PUBLICAR so controla o Instagram). A rotina das 04:00 de 27/10 ja deve gerar a primeira. Falta: N6 (Search Console, com o Andre: `docs/ETAPA-NOTICIAS-SITE.md`), ligar evento-chave e dimensoes no GA4 (`docs/ANALYTICS.md`), conferir a 1a noticia real (texto, fatos, capa).
+
 **Foto:** curadoria pronta (`node insta-terra-gentil/imagem/curar-cli.mjs "Especie"`), automatico de reserva; falta curar as especies que importam.
 
 **BOTAO:** variavel do repo `IG_PUBLICAR` (hoje `desligado`). So `ligado` posta. `gh variable set IG_PUBLICAR --body ligado`.

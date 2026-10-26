@@ -1,5 +1,19 @@
 # PROGRESSO Terra Gentil
 
+## HANDOFF (26/10/2026, noite): colar no inicio da proxima sessao
+
+**Onde paramos:** o pipeline do Instagram do Terra Gentil funciona de ponta a ponta, SEM publicar no Instagram. Teste real feito: a rotina (`trig_01BH4izGfvqgUA9V7hmgMPVR`, 04:00 BRT) escreveu o post de 27/10 (livro CODIGO, serie Socorro, 6 fatos com pagina), empurrou a branch `claude/insta-routine-20261026-1913`, o webhook acionou o TriggerAll (gatilho #014), que disparou o `publish-instagram.yml` (run 40384815084): validou, mesclou na main (commit e0181cf, bot do GitHub) e gerou a previa (artefato `carrossel-2026-10-27`, 8 MB). A Vercel aceitou o commit do bot (risco da etapa de noticias nao se confirmou).
+
+**Decisoes:** sem API paga, texto por rotina agendada do Claude (como no Pearl Jam); fato so com pagina e trecho literal conferido no livro; foto so CC0/CC BY; repo publico, entao o validador do ramo so aceita a conta claude e so `dados/posts` e `dados/rotina-log`; prefixo `claude/insta-routine-` (TriggerAll ajustado, 1c61803).
+
+**Proximo passo exato:** (1) Andre confere a previa (baixar o artefato do run 40384815084) e o texto de `dados/posts/2026-10-27-codigo.json`; o campo `nome` saiu generico ("planta"), ajustar `pauta/routine-prompt.md` para exigir o nome popular da planta se quiser; (2) decidir a foto (lista curada em `dados/fotos.json` ou automatico); (3) etapa de noticias no site com SEO e GA4, comecando pela N1 (campo `materia`), plano em `docs/ETAPA-NOTICIAS-SITE.md`; (4) previa no Telegram e publicacao pela Graph API (nao existe hoje).
+
+**Arquivos chave:** `insta-terra-gentil/pauta/routine-prompt.md` e `pauta/prompts/voz-terra-gentil.md` (prompt da rotina), `pauta/rotina-cli.mjs`, `publicar/rotina/mesclar-cli.mjs`, `.github/workflows/publish-instagram.yml`, `C:/Gitlab_hz/triggerall/backend/src/routes/webhooks.js`.
+
+**Comando:** `cd C:Gitlab_hz	erra-gentil-site	erra-gentil && claude`
+
+---
+
 ## Sessao 2026-10-26 (tarde: pauta por RSS e banco de imagem)
 
 ### O que foi feito

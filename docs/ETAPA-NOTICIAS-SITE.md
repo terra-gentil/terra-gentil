@@ -69,10 +69,7 @@ matéria completa: ..."). Se publicasse antes, o link do post cairia num 404.
 
 ## Riscos a resolver antes ou durante
 
-1. **Vercel pode bloquear o deploy do commit do merge.** O `github-actions[bot]` não é membro do
-   projeto, e o TriggerAll já teve um commit bloqueado pela Vercel por autor. Testar no primeiro merge
-   real. Se bloquear: Deploy Hook da Vercel (segredo `VERCEL_DEPLOY_HOOK`) chamado pelo workflow depois
-   do merge.
+1. **Vercel e o commit do bot: RESOLVIDO em 26/10.** O merge feito pelo `github-actions[bot]` (commit e0181cf) foi deployado normalmente ("Deployment has completed"). Se um dia bloquear, o plano B e um Deploy Hook da Vercel (segredo `VERCEL_DEPLOY_HOOK`) chamado pelo workflow.
 2. **Conteúdo fino.** A barreira de 600 palavras no validador existe por causa disso.
 3. **Rotina mais longa.** Carrossel mais matéria de 800 palavras pode estourar o tempo da rotina. Se
    estourar, separar em duas rotinas (roteiro e matéria) que gravam o mesmo post.

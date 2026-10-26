@@ -1,5 +1,30 @@
 # PROGRESSO Terra Gentil
 
+## Sessao 2026-10-26 (insta-terra-gentil: carrossel a partir de noticias)
+
+### O que foi feito
+1. Merge da branch `claude/terra-gentil-spec-ftbfjs` (Fase 0 do `insta-terra-gentil/`) e pull dos commits de SEO. Handle oficial do Instagram: `@canalterragentil`.
+2. Noticias de jardinagem como fonte de pauta (`pauta/noticias.mjs`, `dados/fontes-noticias.json`, 7 sites do PDF News Pipeline). Notícia só dá tema e link, o texto do post é escrito do zero. Scraper ainda NAO existe.
+3. 7 moldes de carrossel feitos no Claude Design (nunca no Canva), um por dia da semana: manchete (seg), faixas, album, duotom, jornal, galeria, lambe (dom). Canvas: https://claude.ai/artifact/FJXw7ec78smT31KsoGf9sm. Fundo = foto real da planta de banco gratuito com escurecimento. Mascote fora das capas.
+4. Código em `carrossel/`: `rotacao.mjs` (molde do dia, fuso de Brasília), `contrato.mjs` (campos por tipo de slide), `moldes.mjs` + `moldes/<molde>/{capa,problema,passo,final}.dc.html`, `dc/` (conversor do .dc.html em HTML, estrito, com sc-if e sc-for), `render.mjs` (Playwright, PNG 1080x1350). 41 testes em `npm run test:insta`.
+5. Render conferido nos 28 slides (30 s): texto por campos, foto em tela cheia, mascote em círculo, bolinhas do Álbum.
+
+### Estado atual
+- main em dia com o remoto. Moldes, conversor e render prontos e testados. Ainda não há foto de planta de verdade, nem pauta real, nem prévia.
+- Local: `TG_CHROME_CANAL=chrome` usa o Chrome instalado no render. No CI nenhum teste importa o Playwright.
+
+### Proximo passo
+1. `PEXELS_API_KEY` no `.env` (o André cria em pexels.com/api) e `imagem/banco.mjs` + `imagem/escolher.mjs` (busca por espécie, vertical, 1080+ de largura, crédito do autor).
+2. `montar-dia.mjs`: pauta + foto + molde do dia + render dos 8 slides (slides 3, 4 e 7 usam o tipo `problema`, o 6 usa `passo`) + `legenda.mjs`.
+3. Prévia no Telegram (`aprovacao/`), fila e publicação (`publicar/`).
+4. Scraper/RSS das 7 fontes (`pauta/coletar.mjs`, `feed.mjs`, `filtrar.mjs`) e `pauta/ideia.mjs` (Claude escreve os pontos do zero).
+
+### Decisoes e pendencias
+- Italico: nas direcoes F e G a palavra em italico saiu verde e creme, nas outras 5 e ambar como no site. Decidir se padroniza em ambar.
+- O clone `pearljam/setlists-pj-ev` está divergente (841 locais x 4935 remotos, 287 arquivos staged): NÃO foi feito pull. Li tudo de `origin/main`.
+- Canvas antigo https://claude.ai/artifact/MSoufTRqN6oUQbMMdnzfAZ (meus primeiros moldes) pode ser apagado.
+- Grade semanal tem carrossel só em 4 dias, os 7 moldes podem servir também ao reel. Decidir.
+
 ## Sessao 2026-09-30 (SEO, a partir do playbook do setlists-pj-ev)
 
 ### O que foi feito

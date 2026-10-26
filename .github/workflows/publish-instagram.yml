@@ -85,11 +85,15 @@ jobs:
         timeout-minutes: 12
         run: |
           npm ci --no-audit --no-fund
-          # O download do Chromium ja travou 10 min sem erro: 3 tentativas de 4 min cada.
+          # O apt ja travou segurando o lock do dpkg: 3 tentativas, limpando o apt entre elas.
           ok=0
           for i in 1 2 3; do
-            timeout 240 npx playwright-core install --with-deps chromium && ok=1 && break
-            echo "tentativa $i falhou"
+            timeout -k 10 240 npx playwright-core install --with-deps chromium && ok=1 && break
+            echo "tentativa $i falhou: limpando o apt preso"
+            sudo pkill -9 -x apt-get || true
+            sudo pkill -9 -x dpkg || true
+            sudo rm -f /var/lib/dpkg/lock-frontend /var/lib/dpkg/lock /var/lib/apt/lists/lock
+            sudo dpkg --configure -a || true
           done
           [ "$ok" = 1 ]
 

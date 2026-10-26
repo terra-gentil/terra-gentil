@@ -111,6 +111,39 @@ jobs:
             cat "insta-terra-gentil/saida/${{ steps.post.outputs.dia }}/${{ steps.post.outputs.dia }}-legenda.txt"
           } >> "$GITHUB_STEP_SUMMARY"
 
+      # Pacote que o workflow "Postar Instagram" usa: JPEGs numerados, legenda e ficha, numa branch
+      # propria (URL raw.githubusercontent.com). Branch separada: nao redeploya o site na Vercel.
+      - name: Guardar o pacote na branch ig-slides
+        if: steps.post.outputs.tem == 'true'
+        run: |
+          DIA="${{ steps.post.outputs.dia }}"
+          SAIDA="insta-terra-gentil/saida/$DIA"
+          PACOTE="$RUNNER_TEMP/pacote"
+          mkdir -p "$PACOTE"
+          i=1
+          for f in $(ls "$SAIDA"/*.jpg | sort); do
+            cp "$f" "$PACOTE/$(printf '%02d' $i).jpg"; i=$((i+1))
+          done
+          [ "$i" = 9 ] || { echo "esperava 8 JPEGs, achei $((i-1))"; exit 1; }
+          cp "$SAIDA/$DIA-legenda.txt" "$PACOTE/legenda.txt"
+          cp "$SAIDA/$DIA-ficha.json" "$PACOTE/ficha.json"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin ig-slides >/dev/null; then
+            git fetch origin ig-slides
+            git worktree add -B ig-slides "$RUNNER_TEMP/ig" origin/ig-slides
+          else
+            git worktree add --orphan -b ig-slides "$RUNNER_TEMP/ig"
+          fi
+          cd "$RUNNER_TEMP/ig"
+          echo '{"git":{"deploymentEnabled":false}}' > vercel.json
+          rm -rf "$DIA" && mkdir "$DIA" && cp "$PACOTE"/* "$DIA"/
+          # Guarda so os 14 dias mais recentes.
+          ls -d 20*/ 2>/dev/null | sort | head -n -14 | xargs -r rm -rf
+          git add -A
+          git commit -m "pacote do Instagram de $DIA" || echo "sem mudanca"
+          git push origin ig-slides
+
       - name: Guardar a previa (7 dias)
         if: steps.post.outputs.tem == 'true'
         uses: actions/upload-artifact@v4

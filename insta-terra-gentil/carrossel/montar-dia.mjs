@@ -66,7 +66,7 @@ export async function montarDia(post, { dia, saida, renderizar, obterFoto, titul
     const fora = await medirEstouro(pagina);
     if (fora.length) avisos.push({ slide: path.basename(arquivo), textoFora: fora });
   };
-  const pngs = await renderizar(paginas, { aoAbrir });
+  const pngs = await renderizar(paginas, { aoAbrir, jpeg: true });
   const legenda = legendaDe({ ...post, tituloEbook, credito: foto.credito });
   fs.writeFileSync(path.join(saida, `${dia}-legenda.txt`), `${legenda}\n`);
   const { especie } = post;

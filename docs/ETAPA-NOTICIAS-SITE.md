@@ -81,3 +81,25 @@ matéria completa: ..."). Se publicasse antes, o link do post cairia num 404.
 Lighthouse mobile SEO 100, JSON-LD sem erro no Teste de Resultados Aprimorados, as notícias aparecendo
 no sitemap e indexadas no Search Console, e `news_view` visível no GA4 em Tempo real com o slug da
 notícia.
+
+## O que foi feito (26/10/2026) e onde o plano mudou
+
+- N1 a N5 prontas e testadas. N6 (Search Console) é com o André, passos abaixo.
+- **Imagens da página:** o plano previa as 8 imagens do carrossel. Elas ficam na branch `ig-slides`,
+  que guarda só 14 dias, então a página mostra só a **capa**, gravada em `public/noticias/<slug>/`
+  na main (cerca de 190 KB por dia). O texto da matéria cobre o resto do conteúdo dos slides.
+- **og:image:** usa a própria capa (1080x1350), sem a versão 1200x630 prevista.
+- **Link no Instagram:** se a página não estiver no ar na hora de postar, o post sai sem o link em
+  vez de falhar ou de ficar com link quebrado.
+- **Menu, rodapé, home e sitemap** só mostram Notícias quando existe ao menos uma. Sem nenhuma, a
+  página `/noticias` fica com `noindex`.
+- Post antigo (sem `materia`) não vira notícia. O de 27/10 é um desses.
+
+## N6: Search Console (feito pelo André)
+
+1. Em search.google.com/search-console, na propriedade do site, vá em Sitemaps e envie
+   `https://terragentil.com.br/sitemap.xml` (se já estiver enviado, o Google relê sozinho).
+2. Quando as 3 primeiras notícias estiverem no ar, use "Inspeção de URL", cole o endereço de cada
+   uma e peça indexação.
+3. Acompanhe em Desempenho, filtrando as páginas que contêm `/noticias/`.
+4. No GA4, siga `docs/ANALYTICS.md` (evento-chave e dimensões).

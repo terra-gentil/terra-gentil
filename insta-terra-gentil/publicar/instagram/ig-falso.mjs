@@ -4,11 +4,13 @@ const resposta = (corpo, status = 200, tipo = 'application/json') =>
 
 export function criarIgFalso(opcoes = {}) {
   const { statusDoContainer = 'FINISHED', publishQuebra = false, jpeg = true } = opcoes;
+  const { siteNoAr = true } = opcoes;
   const chamadas = [];
   const midias = [];
   let n = 0;
   const http = async (url, opcoes = {}) => {
     const u = new URL(url);
+    if (u.hostname === 'site.test') return new Response('', { status: siteNoAr ? 200 : 404 });
     if (u.hostname === 'raw.test') return resposta({}, 200, jpeg ? 'image/jpeg' : 'image/png');
     const origem = opcoes.body ?? u.searchParams;
     const corpo = Object.fromEntries(origem);

@@ -144,6 +144,29 @@ jobs:
           git commit -m "pacote do Instagram de $DIA" || echo "sem mudanca"
           git push origin ig-slides
 
+      # A capa e o credito da foto vao para o site (public/noticias/<slug>/), junto da pagina da
+      # noticia. So quando o post tem materia. O push na main faz a Vercel publicar a capa; o
+      # workflow "Postar Instagram" so poe o link da noticia na legenda depois de ver a pagina no ar.
+      - name: Capa da noticia no site
+        if: steps.post.outputs.tem == 'true'
+        run: |
+          DIA="${{ steps.post.outputs.dia }}"
+          cd "$GITHUB_WORKSPACE"
+          node insta-terra-gentil/publicar/site/capa-noticia-cli.mjs \
+            --post "insta-terra-gentil/${{ steps.post.outputs.arquivo }}" \
+            --saida "insta-terra-gentil/saida/$DIA"
+          if [ -n "$(git status --porcelain public/noticias)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add public/noticias
+            git commit -m "site: capa da noticia de $DIA"
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push origin HEAD:main && exit 0
+              sleep 5
+            done
+            exit 1
+          fi
+
       - name: Guardar a previa (7 dias)
         if: steps.post.outputs.tem == 'true'
         uses: actions/upload-artifact@v4

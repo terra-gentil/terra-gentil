@@ -7,6 +7,7 @@ import { lerJson } from '../../lib/json.mjs';
 import { conferirCota, publicarCarrossel } from './carrossel.mjs';
 import { publicacaoLigada } from './chave.mjs';
 import { criarApi } from './graph.mjs';
+import { conferirNoticia } from './noticia.mjs';
 import { gravarRegistro, lerRegistro } from './registro.mjs';
 
 // Pasta do dia: 01.jpg a 08.jpg, legenda.txt e ficha.json (feitos pela prévia do workflow).
@@ -32,11 +33,16 @@ export async function conferirUrls(urls, http = fetch) {
 
 export async function publicarDia(opcoes) {
   const { dia, pasta, baseUrl, env, soToken, http = fetch, espera, base } = opcoes;
+  const { noticia: espNoticia = {} } = opcoes;
   if (lerRegistro(dia, base)) return { acao: 'ja-publicado' };
   const { nomes, legenda } = lerPacote(pasta);
   const urls = nomes.map((n) => `${baseUrl}/${dia}/${n}`);
   await conferirUrls(urls, http);
-  if (!publicacaoLigada(env)) return { acao: 'desligado', urls, legenda };
+  if (!publicacaoLigada(env)) {
+    // Desligado: uma olhada só na página da notícia, para o resumo avisar se ela ainda não subiu.
+    const n = await conferirNoticia(legenda, { http, ...espNoticia, tentativas: 1 });
+    return { acao: 'desligado', urls, legenda, noticia: { url: n.url, noAr: n.noAr } };
+  }
   if (!env.IG_USER_ID || !env.IG_ACCESS_TOKEN) {
     throw new Error('[ig] faltam os secrets IG_USER_ID e IG_ACCESS_TOKEN');
   }
@@ -46,7 +52,11 @@ export async function publicarDia(opcoes) {
   const { username } = await api.perfil();
   if (soToken) return { acao: 'token-ok', conta: username };
   await conferirCota(api);
-  const r = await publicarCarrossel(api, { urls, legenda, espera });
+  // A página da notícia precisa estar no ar antes do post; sem ela, o link sai da legenda.
+  const n = await conferirNoticia(legenda, { http, ...espNoticia });
+  const r = await publicarCarrossel(api, { urls, legenda: n.legenda, espera });
   gravarRegistro(dia, { postId: r.id, conta: username, recuperado: r.recuperado }, base);
-  return { acao: r.recuperado ? 'recuperado' : 'publicado', postId: r.id, conta: username };
+  const noticia = { url: n.url, noAr: n.noAr };
+  const acao = r.recuperado ? 'recuperado' : 'publicado';
+  return { acao, postId: r.id, conta: username, noticia };
 }

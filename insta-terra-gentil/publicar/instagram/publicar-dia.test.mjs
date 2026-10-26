@@ -92,3 +92,45 @@ test('container com ERROR derruba a publicação antes de postar', async () => {
   await assert.rejects(roda(cenario(), { env: ligado, http: ig.http }), /ERROR/);
   assert.equal(ig.chamadas.some((x) => x.caminho.endsWith('/media_publish')), false);
 });
+
+const LINK = 'Leia a matéria completa: https://site.test/noticias/x';
+const LEGENDA_COM_LINK = `Folha amarela? Calma.\n\n${LINK}\n\n#terragentil`;
+const SEM_ESPERA = { dormir: async () => {}, tentativas: 2 };
+
+function cenarioComLink() {
+  const c = cenario();
+  fs.writeFileSync(path.join(c.pasta, 'legenda.txt'), LEGENDA_COM_LINK);
+  return c;
+}
+
+const legendaPostada = (ig) => ig.chamadas.find((x) => x.corpo.caption).corpo.caption;
+
+test('notícia no ar: o post sai com o link na legenda', async () => {
+  const ig = criarIgFalso();
+  const r = await roda(cenarioComLink(), { env: ligado, http: ig.http, noticia: SEM_ESPERA });
+  assert.deepEqual(r.noticia, { url: 'https://site.test/noticias/x', noAr: true });
+  assert.match(legendaPostada(ig), /Leia a matéria completa: https:\/\/site\.test/);
+});
+
+test('notícia fora do ar: o post sai sem o link, sem falhar nem deixar link quebrado', async () => {
+  const ig = criarIgFalso({ siteNoAr: false });
+  const r = await roda(cenarioComLink(), { env: ligado, http: ig.http, noticia: SEM_ESPERA });
+  assert.equal(r.acao, 'publicado');
+  assert.equal(r.noticia.noAr, false);
+  assert.doesNotMatch(legendaPostada(ig), /Leia a matéria completa/);
+});
+
+test('desligado olha a página uma vez; so-token e falta de secret não esperam', async () => {
+  const ig = criarIgFalso({ siteNoAr: false });
+  let esperas = 0;
+  const noticia = { dormir: async () => { esperas += 1; }, tentativas: 5 };
+  const r = await roda(cenarioComLink(), { env: {}, http: ig.http, noticia });
+  assert.deepEqual([r.acao, r.noticia.noAr, esperas], ['desligado', false, 0]);
+  await roda(cenarioComLink(), { env: ligado, http: ig.http, noticia, soToken: true });
+  assert.equal(esperas, 0);
+  await assert.rejects(
+    roda(cenarioComLink(), { env: { IG_PUBLICAR: 'ligado' }, http: ig.http, noticia }),
+    /faltam os secrets/,
+  );
+  assert.equal(esperas, 0);
+});

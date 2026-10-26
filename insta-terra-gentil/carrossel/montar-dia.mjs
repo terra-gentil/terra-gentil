@@ -1,7 +1,7 @@
 // Monta o carrossel do dia: molde da rotação + foto da espécie + roteiro de 8 slides + legenda.
 import fs from 'node:fs';
 import path from 'node:path';
-import { RAIZ_SITE } from '../lib/config.mjs';
+import { RAIZ_SITE, SITE_URL } from '../lib/config.mjs';
 import { paraDataUri } from './dc/imagens.mjs';
 import { OBRIGATORIOS } from './contrato.mjs';
 import { ESTRUTURA, problemasDoRoteiro } from './estrutura.mjs';
@@ -68,10 +68,12 @@ export async function montarDia(post, { dia, saida, renderizar, obterFoto, titul
     if (fora.length) avisos.push({ slide: path.basename(arquivo), textoFora: fora });
   };
   const pngs = await renderizar(paginas, { aoAbrir, jpeg: true });
-  const legenda = legendaDe({ ...post, tituloEbook, credito: foto.credito });
+  const urlNoticia = post.materia ? `${SITE_URL}/noticias/${post.materia.slug}` : undefined;
+  const legenda = legendaDe({ ...post, tituloEbook, credito: foto.credito, urlNoticia });
   fs.writeFileSync(path.join(saida, `${dia}-legenda.txt`), `${legenda}\n`);
   const { especie } = post;
-  const ficha = { dia, molde, especie, credito: foto.credito, provedor: foto.provedor, avisos };
+  const { credito, provedor } = foto;
+  const ficha = { dia, molde, especie, credito, provedor, avisos, noticia: urlNoticia };
   fs.writeFileSync(path.join(saida, `${dia}-ficha.json`), `${JSON.stringify(ficha, null, 2)}\n`);
   return { molde, pngs, legenda, avisos, foto };
 }

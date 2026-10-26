@@ -37,6 +37,10 @@ try {
   if (process.env.GITHUB_OUTPUT) fs.appendFileSync(process.env.GITHUB_OUTPUT, `acao=${r.acao}\n`);
   resumo(`## Instagram ${dia}: ${TITULOS[r.acao]}`, r.conta && `Conta: ${r.conta}`);
   if (r.acao === 'desligado') resumo(`Imagens no ar: ${r.urls.length}. Ligar: IG_PUBLICAR=ligado`);
+  if (r.noticia?.url) {
+    const estado = r.noticia.noAr ? 'no ar' : 'FORA DO AR (o post sai sem o link)';
+    resumo(`Notícia: ${r.noticia.url} ${estado}`);
+  }
 } catch (erro) {
   resumo(`## Instagram ${dia}: FALHOU`, erro.message);
   process.exit(1);

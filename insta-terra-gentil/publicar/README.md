@@ -41,3 +41,17 @@ Fluxo dos workflows:
 Secrets necessários para postar: `IG_USER_ID` e `IG_ACCESS_TOKEN` (token do Instagram Login,
 dura 60 dias; falta o workflow mensal de renovação). Permissões: `instagram_business_basic` e
 `instagram_business_content_publish`. Conta profissional.
+
+## Site e Instagram juntos (notícia)
+
+Quando o post tem `materia`, ele vira uma página em `/noticias/<slug>` e o carrossel leva o link na
+legenda ("Leia a matéria completa: ..."). A ordem, no `publish-instagram.yml` e no
+`postar-instagram.yml`:
+
+1. Mescla o post na main: a Vercel publica a página da notícia.
+2. A prévia grava a capa e o crédito da foto em `public/noticias/<slug>/` (commit do bot na main).
+3. Na hora de postar, o `postar-instagram.yml` espera a página responder (até 10 minutos). Se ela
+   não subir, o post sai SEM a linha do link: link quebrado no Instagram é pior que nenhum. O
+   resumo do run diz "FORA DO AR (o post sai sem o link)".
+
+Post antigo, sem `materia`, não tem página nem link, e continua funcionando como antes.

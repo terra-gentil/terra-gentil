@@ -1,0 +1,9 @@
+{
+  "runAt": "2026-10-26T20:10:00Z",
+  "dia": "2026-10-27",
+  "palavra": "CODIGO",
+  "resultado": "gravado",
+  "tentativas": 1,
+  "erros": [],
+  "post": "dados/posts/2026-10-27-codigo.json"
+}

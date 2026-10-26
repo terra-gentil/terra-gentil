@@ -1,5 +1,25 @@
 # PROGRESSO Terra Gentil
 
+## Sessao 2026-10-26 (tarde: pauta por RSS e banco de imagem)
+
+### O que foi feito
+1. Pexels: a emissao de chave nova da API esta PAUSADA ("New API key issuance is currently paused"). Trocamos por Wikimedia Commons (sem chave).
+2. `pauta/feed.mjs`, `coletar.mjs`, `filtrar.mjs`: le o RSS das fontes e filtra (14 dias, sem repetir, so dominio da lista). Guarda so titulo, link, data e categorias, nunca o texto. Testado na rede: 80 itens, 60 apos o filtro. 4 das 7 fontes tem feed (campo `feed` em `dados/fontes-noticias.json`). RHS e Gardenary dao 404; Backyard Gardener esta atras de Cloudflare (nao contornar).
+3. `imagem/commons.mjs`, `escolher.mjs`, `banco.mjs` (+ README): `buscarFoto(especie)` devolve a melhor foto vertical 1080+ com credito. Provedor e uma funcao `(termo) => candidatos`, entao Pixabay/Unsplash entram depois sem mexer no resto.
+4. 61 testes em `npm --prefix insta-terra-gentil test`.
+
+### Estado atual
+- Pauta por RSS e busca de foto funcionam, ainda nao ligadas entre si nem ao `montar-dia.mjs`.
+- Licenca: padrao aceita so CC0, dominio publico e CC BY. CC BY-SA fica FORA (escurecer e por texto na foto e adaptacao, a licenca exigiria publicar o slide em BY-SA). Com 50 resultados sobram 2 a 6 fotos seguras por especie comum (jiboia 6, lirio-da-paz 6, monstera 4, manjericao 2). Com BY-SA seriam 24 a 34.
+- Falta baixar a foto para disco (hoje so devolve a URL de 1600 px).
+
+### Proximo passo
+1. Andre decide: manter so CC0/CC BY (mais seguro, menos fotos) ou aceitar CC BY-SA e publicar o credito com a licenca.
+2. `imagem/baixar.mjs` (baixa a foto escolhida) e filtro de titulo para evitar flor/fruto/diagrama quando a pauta e planta inteira.
+3. `montar-dia.mjs`: pauta + foto + molde do dia + render dos 8 slides + `legenda.mjs`.
+4. `pauta/ideia.mjs` (Claude escreve os pontos do zero), prévia no Telegram (`aprovacao/`), fila e publicacao (`publicar/`).
+5. Opcional: Pixabay ou Unsplash como segundo provedor quando houver chave.
+
 ## Sessao 2026-10-26 (insta-terra-gentil: carrossel a partir de noticias)
 
 ### O que foi feito

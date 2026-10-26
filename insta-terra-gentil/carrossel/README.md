@@ -19,6 +19,15 @@ em `MOLDES` e o arquivo em `moldes/`; o ciclo se ajusta sozinho. Todo molde segu
 contrato de campos (foto, escurecimento, zoom, foco, textos), para o código trocar de molde sem
 quebrar.
 
-Hoje: `rotacao.mjs`. Previstos: `moldes/` (um arquivo por molde), `texto.mjs` (quebra e
-medida), `legenda.mjs`, `render.mjs` (SVG para PNG). Base: `scripts/publish/slide/` do
-setlists-pj-ev.
+## Do molde ao PNG
+
+O molde é o `.dc.html` do Claude Design (HTML com CSS, não SVG). `dc/montar.mjs` converte um
+molde mais os dados do dia em HTML puro: `dc/extrair.mjs` separa as peças, `dc/valores.mjs`
+roda o `renderVals` numa caixa isolada, `dc/gabarito.mjs` aplica `<sc-if>` e `{{campos}}`
+(campo desconhecido derruba a execução) e `dc/imagens.mjs` põe a foto local como data URI.
+`render.mjs` abre o HTML num Chrome sem janela e salva o PNG 1080x1350, vários slides numa
+abertura só. Local: `TG_CHROME_CANAL=chrome` usa o Chrome instalado. No CI: Chromium do
+Playwright (`npx playwright-core install chromium`).
+
+Hoje: `rotacao.mjs`, `dc/`, `render.mjs`. Previstos: `moldes/` (os `.dc.html` aprovados, um
+por direção), `legenda.mjs`, e o `contrato.mjs` que confere se todo molde tem os mesmos campos.

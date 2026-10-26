@@ -59,12 +59,6 @@ jobs:
           cache: npm
           cache-dependency-path: insta-terra-gentil/package-lock.json
 
-      - name: Dependencias e Chromium
-        working-directory: insta-terra-gentil
-        run: |
-          npm ci --no-audit --no-fund
-          npx playwright-core install --with-deps chromium
-
       - name: Achar o post do dia
         id: post
         env:
@@ -83,6 +77,14 @@ jobs:
             echo "dia=$DIA" >> "$GITHUB_OUTPUT"
             echo "arquivo=${ARQUIVO#insta-terra-gentil/}" >> "$GITHUB_OUTPUT"
           fi
+
+      # So instala (uns 3 min de Actions) quando ha post para renderizar.
+      - name: Dependencias e Chromium
+        if: steps.post.outputs.tem == 'true'
+        working-directory: insta-terra-gentil
+        run: |
+          npm ci --no-audit --no-fund
+          npx playwright-core install --with-deps chromium
 
       - name: Renderizar os 8 slides e a legenda
         if: steps.post.outputs.tem == 'true'

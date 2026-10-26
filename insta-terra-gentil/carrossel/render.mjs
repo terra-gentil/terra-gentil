@@ -18,11 +18,11 @@ export async function renderizar(paginas, opcoes = {}) {
   try {
     const pagina = await navegador.newPage({ viewport: { width: LARGURA, height: ALTURA } });
     const saidas = [];
-    for (const { html, saida } of paginas) {
+    for (const { html, saida, fotoLimpa } of paginas) {
       await pagina.setContent(html, { waitUntil: 'networkidle' });
       await pagina.evaluate(() => document.fonts.ready);
       if (opcoes.tratar !== false) {
-        await pagina.evaluate(tratarFoto, { largura: LARGURA, altura: ALTURA });
+        await pagina.evaluate(tratarFoto, { largura: LARGURA, altura: ALTURA, fotoLimpa });
         await pagina.evaluate(sombrearCartoes);
         await pagina.evaluate(ajustarTitulos, { largura: LARGURA, margem: 56, tamanhoMinimo: 64 });
       }

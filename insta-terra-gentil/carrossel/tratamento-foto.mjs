@@ -1,6 +1,6 @@
 // Tratamento da foto de fundo (roda na página): realce por resolução, desfoque e gradiente.
 // Princípio do setlist: foto pequena ganha afiação e grão, e o texto ganha fundo legível.
-export function tratarFoto({ largura, altura }) {
+export function tratarFoto({ largura, altura, fotoLimpa = false }) {
   const NS = 'http://www.w3.org/2000/svg';
   const foto = document.querySelector('img[style*="object-fit"]');
   const base = foto?.parentElement?.matches('[style*="inset: 0"]') ? foto.parentElement : foto;
@@ -38,13 +38,17 @@ export function tratarFoto({ largura, altura }) {
     nova(`background:url("data:image/svg+xml;utf8,${ruido}");mix-blend-mode:soft-light;` +
       `opacity:${nivel === 'media' ? 0.35 : 0.6}`);
   }
-  // Desfoque atrás do texto, mais forte embaixo, onde ficam as faixas.
-  const mascara = 'linear-gradient(to bottom, transparent 12%, #000 45%)';
-  nova(`backdrop-filter:blur(10px);background:rgba(11,20,16,0.3);` +
-    `-webkit-mask-image:${mascara};mask-image:${mascara}`);
-  // Gradiente de topo e base (o g02 do setlist): segura o contador e o rodapé.
-  nova('background:linear-gradient(to bottom, rgba(11,20,16,0.22) 0%, rgba(11,20,16,0) 30%,' +
-    'rgba(11,20,16,0.45) 78%, rgba(11,20,16,0.8) 100%)');
+  // Desfoque e gradiente só valem quando há texto sobre a foto. Nos moldes de foto emoldurada
+  // (galeria, jornal) o texto fica fora dela, então a foto segue limpa (fotoLimpa: true).
+  if (!fotoLimpa) {
+    // Desfoque atrás do texto, mais forte embaixo, onde ficam as faixas.
+    const mascara = 'linear-gradient(to bottom, transparent 12%, #000 45%)';
+    nova(`backdrop-filter:blur(10px);background:rgba(11,20,16,0.3);` +
+      `-webkit-mask-image:${mascara};mask-image:${mascara}`);
+    // Gradiente de topo e base (o g02 do setlist): segura o contador e o rodapé.
+    nova('background:linear-gradient(to bottom, rgba(11,20,16,0.22) 0%, rgba(11,20,16,0) 30%,' +
+      'rgba(11,20,16,0.45) 78%, rgba(11,20,16,0.8) 100%)');
+  }
 
   let ultima = base;
   while (ultima.nextElementSibling?.getAttribute('style')?.includes('inset: 0')) {

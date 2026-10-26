@@ -13,6 +13,9 @@ export const MOLDES = Object.freeze([
   'lambe', // G, domingo
 ]);
 
+// Moldes em que o texto fica fora da foto (foto emoldurada): sem desfoque nem gradiente nela.
+export const FOTO_LIMPA = Object.freeze(new Set(['galeria', 'jornal']));
+
 // 1970-01-01 foi quinta: somando 3, o dia 0 do ciclo cai numa segunda-feira.
 const AJUSTE_SEGUNDA = 3;
 

@@ -8,7 +8,7 @@ import { ESTRUTURA, problemasDoRoteiro } from './estrutura.mjs';
 import { medirEstouro } from './estouro.mjs';
 import { legendaDe } from './legenda.mjs';
 import { montarSlide } from './moldes.mjs';
-import { moldeDoDia } from './rotacao.mjs';
+import { FOTO_LIMPA, moldeDoDia } from './rotacao.mjs';
 import { equilibrarTitulo } from './titulo.mjs';
 
 const IMAGENS = path.join(RAIZ_SITE, 'public', 'images');
@@ -60,6 +60,7 @@ export async function montarDia(post, { dia, saida, renderizar, obterFoto, titul
   const paginas = post.slides.map((slide, i) => ({
     html: montarSlide(molde, ESTRUTURA[i], dadosDoSlide(slide, i, fotoUri, foto.credito)),
     saida: path.join(saida, `${dia}-${molde}-${String(i + 1).padStart(2, '0')}.png`),
+    fotoLimpa: FOTO_LIMPA.has(molde),
   }));
   const avisos = [];
   const aoAbrir = async (pagina, arquivo) => {

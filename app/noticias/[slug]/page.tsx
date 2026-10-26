@@ -1,7 +1,6 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
-import { ArrowLeft } from 'lucide-react';
 import type { Metadata } from 'next';
 import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
 import NewsTracker from '@/components/analytics/NewsTracker';
@@ -97,10 +96,11 @@ export default async function NoticiaPage({ params }: Props) {
       <NewsTracker slug={slug} serie={noticia.serie} livro={ebook?.titulo ?? noticia.palavra} />
       {materia.faq.length > 0 && <JsonLd data={perguntas} />}
       <div className="bp-inner">
-        <Link href="/noticias" className="bp-back">
-          <ArrowLeft size={16} />
-          Todas as notícias
-        </Link>
+        <nav className="bp-trilha" aria-label="Trilha de navegação">
+          <Link href="/">Início</Link>
+          <span aria-hidden="true">›</span>
+          <Link href="/noticias">Notícias</Link>
+        </nav>
 
         <div className="bp-eyebrow">
           <time dateTime={noticia.dia}>{dataLonga(noticia.dia)}</time>

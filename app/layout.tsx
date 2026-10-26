@@ -58,6 +58,8 @@ export const metadata: Metadata = {
     'Cada quintal esquecido vira um espaço vivo. Cada planta sofrida ganha um diagnóstico. Vídeos, ebooks e o Doutor das Plantas, tudo grátis.',
   keywords: ['jardinagem', 'transformação de jardins', 'paisagismo', SITE_NAME, 'doutor das plantas'],
   authors: [{ name: SITE_NAME }],
+  // Deixa o Google mostrar a foto grande no resultado e no Discover (mesmo ajuste do setlist).
+  robots: { index: true, follow: true, 'max-image-preview': 'large' },
   openGraph: {
     title: `${SITE_NAME} · Jardinagem com gentileza`,
     description: 'Transformando quintais esquecidos em espaços vivos.',

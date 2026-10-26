@@ -55,6 +55,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
           lastModified: new Date(`${n.dia}T12:00:00-03:00`),
           changeFrequency: 'monthly' as const,
           priority: 0.7,
+          images: n.capa ? [`${SITE_URL}${n.capa.src}`] : undefined,
         })),
       ]
     : [];

@@ -20,7 +20,6 @@ const PAPER = '#faf7f1';
 const PAPERWARM = '#f3eede';
 const GREEN_DEEPEST = '#1b4332';
 const GREEN_DEEP = '#2d6a4f';
-const GREEN = '#52b788';
 const GREEN_SOFT = '#d8f3dc';
 const AMBER = '#E8A33D';
 const AMBER_DEEP = '#b87211';
@@ -264,7 +263,7 @@ export default function AppPage() {
                 21 campos, escritos em<br /><span className="ital">português gentil</span>.
               </h2>
               <p style={{ fontFamily: 'var(--font-sans, Inter, sans-serif)', fontSize: 'clamp(18px, 1.4vw, 22px)', color: INKSOFT, maxWidth: '56ch', lineHeight: 1.55, marginBottom: 24 }}>
-                Nada de "Pythium spp. afeta tecido radicular". A IA é instruída a falar como um botânico acolhedor, pro público de 40 a 70 anos.
+                Nada de &ldquo;Pythium spp. afeta tecido radicular&rdquo;. A IA é instruída a falar como um botânico acolhedor, pro público de 40 a 70 anos.
               </p>
 
               <div style={{ background: PAPERWARM, border: `1px solid ${DIVIDER}`, borderRadius: 22, padding: 24 }}>
@@ -283,7 +282,7 @@ export default function AppPage() {
                   Sua <span className="ital">Comigo-ninguém-pode</span> está saudável e vibrante.
                 </div>
                 <div style={{ marginTop: 16, fontFamily: 'var(--font-serif, Instrument Serif, Georgia, serif)', fontSize: 19, fontStyle: 'italic', color: GREEN_DEEPEST, borderLeft: `3px solid ${AMBER}`, paddingLeft: 16, lineHeight: 1.45 }}>
-                  "Que alegria ver sua plantinha tão cheia de vida! Suas folhas estão com uma coloração bonita e uniforme. Continue com os cuidados carinhosos."
+                  &ldquo;Que alegria ver sua plantinha tão cheia de vida! Suas folhas estão com uma coloração bonita e uniforme. Continue com os cuidados carinhosos.&rdquo;
                 </div>
               </div>
 
@@ -319,7 +318,7 @@ export default function AppPage() {
             <h2 style={{ fontFamily: 'var(--font-display, Archivo Black, sans-serif)', fontWeight: 400, fontSize: 'clamp(36px, 5vw, 64px)', lineHeight: 1, letterSpacing: '-0.02em', marginBottom: 16, color: INK, textTransform: 'none' }}>
               Não é só <span className="ital">diagnóstico</span>.
             </h2>
-            <p style={{ color: INKSOFT, fontSize: 18 }}>O app inteiro foi construído tela por tela seguindo o design "Pixel Garden". Tudo funciona offline, salva local. Sincronia em nuvem chega na Sprint 7.</p>
+            <p style={{ color: INKSOFT, fontSize: 18 }}>O app inteiro foi construído tela por tela seguindo o design &ldquo;Pixel Garden&rdquo;. Tudo funciona offline, salva local. Sincronia em nuvem chega na Sprint 7.</p>
           </div>
 
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 20 }}>

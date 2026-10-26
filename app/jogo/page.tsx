@@ -1,7 +1,6 @@
 import type { Metadata } from 'next';
 import { pageMetadata } from '@/lib/seo';
 import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
-import Image from 'next/image';
 import Link from 'next/link';
 import GamePreviewClient from './GamePreviewClient';
 
@@ -19,7 +18,6 @@ const PAPER = '#faf7f1';
 const PAPERWARM = '#f3eede';
 const GREEN_DEEPEST = '#1b4332';
 const GREEN_DEEP = '#2d6a4f';
-const GREEN = '#52b788';
 const GREEN_SOFT = '#d8f3dc';
 const AMBER = '#E8A33D';
 const AMBER_DEEP = '#b87211';

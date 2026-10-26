@@ -4,6 +4,8 @@
 
 **Feito hoje:** nome cientifico em `especie` (corrige foto de cobra), desfoque/gradiente/sombra/realce de foto/titulo equilibrado nos moldes, enquadramento variado, retry do Chromium no CI. Publicacao no IG pronta e testada com IG falso: `insta-terra-gentil/publicar/instagram/` (cliente Graph API, carrossel, registro anti-duplicata). Teste de ponta a ponta no GitHub OK com o botao desligado (previa gera pacote na branch `ig-slides`, `postar-instagram.yml` confere e NAO posta).
 
+**Foto:** curadoria pronta (`node insta-terra-gentil/imagem/curar-cli.mjs "Especie"`), automatico de reserva; falta curar as especies que importam.
+
 **BOTAO:** variavel do repo `IG_PUBLICAR` (hoje `desligado`). So `ligado` posta. `gh variable set IG_PUBLICAR --body ligado`.
 
 **Meta (feito 26/10 noite):** app `Terra Gentil Publicador` (ID 1671676171195897, modo desenvolvimento, portfolio Terra Gentil, e-mail canalterragentil@gmail.com). Permissoes `instagram_business_basic` e `instagram_business_content_publish`. @canalterragentil e Testador do Instagram (convite aceito). IG_USER_ID 17841474413071263. Secrets `IG_USER_ID` e `IG_ACCESS_TOKEN` cadastrados e VALIDADOS (run 40413778021, `so_token`, "token e conta conferidos, nada publicado"). Publicacao real ainda NAO testada (decisao: ajustar na hora de postar). Token vale 60 dias (gerado 26/10, vence ~25/12). Cadastrar secret: `gh secret set` com `!` grava VAZIO (sem stdin); usar `powershell -NoProfile -Command "Get-Clipboard" | gh secret set NOME --repo terra-gentil/terra-gentil`.

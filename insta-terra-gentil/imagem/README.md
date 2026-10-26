@@ -33,3 +33,17 @@ prévia do Telegram (`aprovacao/`).
 Filtro de título e categoria (`EVITAR_TITULO`): descarta flor, fruto, herbário, diagrama, desenho, gravura. No Commons a categoria pega ilustração botânica mesmo com título neutro.
 
 Limite conhecido: o banco acerta a espécie, mas não garante foto bonita nem planta inteira. Nos 5 exemplos de 26/10, 2 ficaram boas. Escolha final é humana (prévia) ou lista curada por espécie.
+
+## Curadoria (foto escolhida a mão, com o automático de reserva)
+
+`dados/fotos.json` guarda a foto escolhida pelo André por espécie. Com entrada, o carrossel usa
+ela; sem entrada, o banco automático escolhe. Para curar uma espécie:
+
+```
+node imagem/curar-cli.mjs "Epipremnum aureum"            # lista as 8 melhores, com o link de cada
+node imagem/curar-cli.mjs "Epipremnum aureum" --url <url> # fixa a escolhida em dados/fotos.json
+```
+
+A lista só traz foto segura (JPEG, vertical, 1080 px ou mais, licença livre, crédito). Abra o
+"ver:" de cada uma no navegador, escolha, copie a "url:" e rode o segundo comando. Depois é só
+commitar o `fotos.json`.

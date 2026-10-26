@@ -63,7 +63,15 @@ que é a única aceita pelo validador.
 
 Escreva o JSON bruto de UMA VEZ em `/tmp/bruto.json` com a ferramenta Write, no formato de
 `bruto-exemplo.json`. Cada fato leva `texto` (suas palavras), `pagina` e `trecho` (copiado
-literalmente do livro, 25 caracteres ou mais). Depois:
+literalmente do livro, 25 caracteres ou mais).
+
+Campos `especie` e `nome`: `especie` é o nome popular de UMA planta concreta (ex.: "Jiboia",
+"Espada-de-são-jorge"), é o termo usado para buscar a foto. `nome` é como a planta aparece no
+texto. Nunca use termos genéricos como "planta", "plantas", "plantas de interior" ou "folhagem".
+Se o livro é geral (sinais, rega, luz), escolha a planta mais comum e visível que ilustra o tema
+no próprio livro (ex.: uma jiboia com folha amarela). O `gravar` recusa nome genérico.
+
+Depois:
 
 ```bash
 node insta-terra-gentil/pauta/rotina-cli.mjs gravar /tmp/bruto.json --dia <dia do passo 1>

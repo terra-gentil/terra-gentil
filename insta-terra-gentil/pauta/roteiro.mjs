@@ -7,6 +7,9 @@ import { SERIES } from './series.mjs';
 const textoOk = (valor) => typeof valor === 'string' && valor.trim().length > 0;
 const TRAVESSAO = /[—–]/;
 
+// Termos que não servem de busca de foto nem de nome de planta.
+const GENERICOS = /^(plantas?( de (interior|casa|jardim))?|folhagens?|vegeta(l|is)|flores?)$/i;
+
 // Confere um post pronto (o que está em dados/posts/). Devolve a lista de problemas, vazia se ok.
 // Roda na rotina (antes de gravar) e de novo no merge: o repositório é público e o post vai ao ar.
 export function conferirPost(post, { livro, paginas }) {
@@ -19,6 +22,11 @@ export function conferirPost(post, { livro, paginas }) {
   for (const campo of ['especie', 'nome', 'gancho', 'resumo']) {
     if (!textoOk(post?.[campo])) problemas.push(`falta "${campo}"`);
     if (TRAVESSAO.test(post?.[campo] ?? '')) problemas.push(`travessão em "${campo}"`);
+  }
+  for (const campo of ['especie', 'nome']) {
+    if (GENERICOS.test((post?.[campo] ?? '').trim())) {
+      problemas.push(`"${campo}" genérico: use o nome popular de uma planta concreta`);
+    }
   }
   let fatos = [];
   try {

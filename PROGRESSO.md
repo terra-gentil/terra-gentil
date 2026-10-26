@@ -7,7 +7,9 @@
 2. `pauta/feed.mjs`, `coletar.mjs`, `filtrar.mjs`: le o RSS das fontes e filtra (14 dias, sem repetir, so dominio da lista). Guarda so titulo, link, data e categorias, nunca o texto. Testado na rede: 80 itens, 60 apos o filtro. 4 das 7 fontes tem feed (campo `feed` em `dados/fontes-noticias.json`). RHS e Gardenary dao 404; Backyard Gardener esta atras de Cloudflare (nao contornar).
 3. `imagem/commons.mjs`, `escolher.mjs`, `banco.mjs` (+ README): `buscarFoto(especie)` devolve a melhor foto vertical 1080+ com credito. Provedor e uma funcao `(termo) => candidatos`, entao Pixabay/Unsplash entram depois sem mexer no resto.
 4. Banco reserva: `imagem/openverse.mjs` (Openverse, sem chave, mais iNaturalist e Flickr). `banco.mjs` tenta Commons primeiro e so cai no reserva se nao achar foto segura. Credito agora cita a fonte real. Limites do Openverse anonimo: page_size ate 20, 20/min, 200/dia, latencia de 0,1 a 45 s (prazo de 60 s).
-5. 70 testes em `npm --prefix insta-terra-gentil test`.
+5. `imagem/baixar.mjs` (baixa a foto e grava o credito) e filtro de titulo/categoria contra flor, fruto e ilustracao. Renderizadas 5 capas de exemplo com fotos reais nos moldes: 2 boas (jiboia, espada-de-sao-jorge), 3 fracas (folha seca de monstera, lirio-da-paz so com o espadice, manjericao no mato).
+6. Descoberta: nome de espécie longo (espada-de-sao-jorge) quebra em 3 linhas no molde jornal e empurra o rodape para fora do slide. Tratar no montar-dia.
+7. 75 testes em `npm --prefix insta-terra-gentil test`.
 
 ### Estado atual
 - Pauta por RSS e busca de foto funcionam, ainda nao ligadas entre si nem ao `montar-dia.mjs`.
@@ -17,7 +19,8 @@
 ### Proximo passo
 1. Andre decide: manter so CC0/CC BY (mais seguro, menos fotos) ou aceitar CC BY-SA e publicar o credito com a licenca.
 2. `imagem/baixar.mjs` (baixa a foto escolhida) e filtro de titulo para evitar flor/fruto/diagrama quando a pauta e planta inteira.
-3. `montar-dia.mjs`: pauta + foto + molde do dia + render dos 8 slides + `legenda.mjs`.
+3. Escolha de foto: lista curada por espécie (as 19 dos ebooks) em `dados/fotos.json`, banco automatico so como reserva, ou mostrar 3 candidatas na previa. Decisao do Andre.
+4. `montar-dia.mjs`: pauta + foto + molde do dia + render dos 8 slides + `legenda.mjs`.
 4. `pauta/ideia.mjs` (Claude escreve os pontos do zero), prévia no Telegram (`aprovacao/`), fila e publicacao (`publicar/`).
 5. Opcional: Pixabay ou Unsplash como segundo provedor quando houver chave.
 

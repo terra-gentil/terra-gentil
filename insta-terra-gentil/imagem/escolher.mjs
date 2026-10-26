@@ -6,7 +6,17 @@ function semCredito(licenca) {
   return /^(CC0|Public domain|PD)/i.test(licenca ?? '');
 }
 
-export function serve(foto, { larguraMin = 1080, aceitarCompartilhaIgual = false } = {}) {
+// Título ou categoria que indica detalhe ou desenho, não a planta inteira em foto.
+// Desliga com `evitarTitulo: null`.
+const PALAVRAS = ['flower', 'inflorescence', 'blossom', '\\bbud', 'fruit', 'seed', 'herbarium'];
+const DESENHOS = ['diagram', 'map\\b', 'drawing', 'illustration', 'engraving', 'lithograph'];
+export const EVITAR_TITULO = new RegExp([...PALAVRAS, ...DESENHOS, 'painting'].join('|'), 'i');
+
+export function serve(foto, opcoes = {}) {
+  const { larguraMin = 1080, aceitarCompartilhaIgual = false } = opcoes;
+  const { evitarTitulo = EVITAR_TITULO } = opcoes;
+  const descricao = `${foto.titulo ?? ''} ${foto.categorias ?? ''}`;
+  if (evitarTitulo && evitarTitulo.test(descricao)) return false;
   if (!foto.licenca || foto.mime !== 'image/jpeg') return false;
   if (foto.compartilhaIgual && !aceitarCompartilhaIgual) return false;
   if (!Number.isFinite(foto.largura) || !Number.isFinite(foto.altura)) return false;

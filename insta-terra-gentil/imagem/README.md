@@ -28,4 +28,8 @@ Crédito: `creditoDe(foto)` devolve "Foto: autor / fonte (licença)", com a font
 O banco só garante foto da espécie pelo nome buscado. Conferir a planta certa é do olho humano na
 prévia do Telegram (`aprovacao/`).
 
-Previstos: download da foto para disco, filtro de título (flor, fruto, diagrama).
+- `baixar.mjs`: baixa o JPEG escolhido para uma pasta e grava o `.json` de crédito ao lado. As fotos nunca vão para o git.
+
+Filtro de título e categoria (`EVITAR_TITULO`): descarta flor, fruto, herbário, diagrama, desenho, gravura. No Commons a categoria pega ilustração botânica mesmo com título neutro.
+
+Limite conhecido: o banco acerta a espécie, mas não garante foto bonita nem planta inteira. Nos 5 exemplos de 26/10, 2 ficaram boas. Escolha final é humana (prévia) ou lista curada por espécie.

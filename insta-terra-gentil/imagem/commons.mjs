@@ -35,6 +35,7 @@ export function candidatosDe(resposta) {
         mime: info.mime,
         autor: textoPuro(meta.Artist?.value),
         licenca,
+        categorias: (meta.Categories?.value ?? '').replaceAll('|', ', '),
         compartilhaIgual: /\bSA\b|GFDL/i.test(licenca ?? ''),
         paginaUrl: info.descriptionurl,
       };
@@ -51,7 +52,7 @@ export async function buscarCommons(termo, buscar = fetch, limiteMs = 20000) {
     prop: 'imageinfo',
     iiprop: 'url|size|mime|extmetadata',
     iiurlwidth: String(LARGURA_BAIXADA),
-    iiextmetadatafilter: 'LicenseShortName|Artist',
+    iiextmetadatafilter: 'LicenseShortName|Artist|Categories',
     format: 'json',
     formatversion: '2',
   });

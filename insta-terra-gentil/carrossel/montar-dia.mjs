@@ -15,6 +15,17 @@ const IMAGENS = path.join(RAIZ_SITE, 'public', 'images');
 const poseDoMascote = (i) => path.join(IMAGENS, 'mascot', `pose-${(i % 8) + 1}.jpg`);
 const FOTO_ANDRE = path.join(IMAGENS, 'photos', 'andre-bench.png');
 const ESCURECIMENTO_CAPA = 45;
+// Enquadramento da foto por slide, para os 8 não parecerem o mesmo recorte repetido.
+const ENQUADRAMENTOS = [
+  ['center', 1],
+  ['top', 1.2],
+  ['bottom', 1.25],
+  ['left', 1.3],
+  ['center', 1.15],
+  ['top right', 1.25],
+  ['bottom left', 1.2],
+  ['center', 1.1],
+];
 
 // Só manda o que o contrato do tipo pede: capa não tem mascote, só passo tem foto do André.
 function dadosDoSlide(slide, i, foto, credito) {
@@ -25,6 +36,9 @@ function dadosDoSlide(slide, i, foto, credito) {
   if (campos.includes('fotoAndre')) dados.fotoAndre = paraDataUri(FOTO_ANDRE);
   if (campos.includes('legendaFoto')) dados.legendaFoto ??= credito;
   if (tipo === 'capa') dados.escurecimento ??= ESCURECIMENTO_CAPA;
+  const [foco, zoom] = ENQUADRAMENTOS[i];
+  dados.foco ??= foco;
+  dados.zoom ??= zoom;
   if (tipo === 'passo') {
     const numero = ESTRUTURA.slice(0, i + 1).filter((t) => t === 'passo').length;
     dados.numero ??= String(numero).padStart(2, '0');

@@ -15,6 +15,10 @@ parênteses. O código rejeita o post inteiro se achar um.
 Bom: "Calma, não é culpa sua." "Na dúvida, espere mais um dia."
 Ruim: "Você errou na rega." "Todo mundo sabe que..." "Aqui vai o guia definitivo!"
 
+**Releia cada frase em voz alta antes de gravar.** Ela tem que soar como gente falando, não como
+tradução. Use as construções do dia a dia: "em busca de luz" (não "atrás de claridade"), "precisa de
+água" (não "demanda água"), "aos poucos" (não "gradualmente"). Se a frase tropeçar na leitura, reescreva.
+
 ## Fatos: a regra mais importante
 
 - Use SOMENTE o que está no livro. Cada fato que você usa precisa ter a `pagina` e um `trecho`

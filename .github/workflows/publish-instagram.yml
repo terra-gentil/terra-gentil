@@ -82,9 +82,16 @@ jobs:
       - name: Dependencias e Chromium
         if: steps.post.outputs.tem == 'true'
         working-directory: insta-terra-gentil
+        timeout-minutes: 12
         run: |
           npm ci --no-audit --no-fund
-          npx playwright-core install --with-deps chromium
+          # O download do Chromium ja travou 10 min sem erro: 3 tentativas de 4 min cada.
+          ok=0
+          for i in 1 2 3; do
+            timeout 240 npx playwright-core install --with-deps chromium && ok=1 && break
+            echo "tentativa $i falhou"
+          done
+          [ "$ok" = 1 ]
 
       - name: Renderizar os 8 slides e a legenda
         if: steps.post.outputs.tem == 'true'

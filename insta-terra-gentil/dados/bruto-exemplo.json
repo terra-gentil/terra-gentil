@@ -56,6 +56,83 @@
     5,
     6
   ],
+  "materia": {
+    "slug": "jiboia-como-regar-sem-apodrecer-a-raiz",
+    "titulo": "Jiboia: como regar sem apodrecer a raiz",
+    "descricao": "Regar todo dia só um pouquinho faz mal à jiboia. Veja o jeito certo de regar, o teste do dedo e por que cuidar demais é o maior erro de quem ama planta.",
+    "introducao": "Se a sua jiboia está com folha amarela e mole, respire. Quase sempre o problema não é falta de carinho, é excesso. Quem cuida com amor tende a regar demais, e a planta sofre justamente por isso. Neste texto, a gente conversa sobre o erro de rega mais comum, o jeito simples de acertar e o que fazer na dúvida. Tudo com base no ebook da jiboia do André, sem receita complicada e sem culpa. Quem já perdeu planta sabe como dói, e é por isso que vale ir com calma, um passo de cada vez.",
+    "secoes": [
+      {
+        "titulo": "Por que regar todo dia só um pouquinho faz mal",
+        "paragrafos": [
+          "Parece o cuidado mais gentil do mundo: um golinho de água todo dia, para a planta nunca passar sede. Só que esse hábito é o erro que mais prejudica a jiboia. Molhar só a superfície engana você, porque a terra de cima fica úmida e dá a impressão de que está tudo certo, mas a água não chega até a raiz profunda.",
+          "E tem um segundo problema. Quando a terra nunca seca, a umidade constante acaba apodrecendo o colo da planta, que é a base do caule, perto da terra. É por isso que a jiboia pode amarelar e amolecer mesmo com rega em dia. Ela não está com sede. Ela está se afogando aos poucos."
+        ],
+        "fatosUsados": [
+          0
+        ]
+      },
+      {
+        "titulo": "Como regar do jeito certo",
+        "paragrafos": [
+          "A correção é simples e cabe numa frase: regue bastante, até a água sair pelos furos do vaso, mas faça isso poucas vezes, só quando a terra secar. Em vez de muitos golinhos, uma rega generosa de vez em quando. Assim a água alcança a raiz e a terra tem tempo de respirar entre uma rega e outra.",
+          "Depois de regar, deixe escorrer bem. A dica do André é regar até a água sair pelos furinhos de baixo e esperar o excesso escoar bem antes de devolver a planta ao lugar.",
+          "Se a sua jiboia mora num vaso decorativo sem furo, o cachepot, saiba que ele serve só para esconder o vaso de plástico que tem furo. Na hora de regar, tire o vaso de dentro, regue na pia, deixe escorrer e devolva para o cachepot. Dá um pouquinho de trabalho, mas é o jeito certo de regar."
+        ],
+        "fatosUsados": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "titulo": "O teste do dedo no lugar do calendário",
+        "paragrafos": [
+          "Muita gente rega toda segunda e quinta, por exemplo. O livro pede para esquecer o calendário fixo, porque a planta não sabe que dia é hoje. Quem manda é a terra. Para saber a hora certa, use o dedo: enfie o dedo na terra até a segunda falange.",
+          "Saiu sujo ou úmido? Não regue. Saiu limpo e seco? Aí sim, é hora de regar. É um teste simples e rápido. Faça sempre que bater a dúvida e, com o tempo, você passa a conhecer o ritmo da sua planta."
+        ],
+        "fatosUsados": [
+          4
+        ]
+      },
+      {
+        "titulo": "Borrifar a folha todo dia não ajuda",
+        "paragrafos": [
+          "Outro hábito comum é borrifar água nas folhas todo dia, achando que isso hidrata a planta. O livro chama isso de mito: a planta obtém a água de que precisa pelas raízes. Borrifar sem ventilação ainda pode favorecer fungos.",
+          "O que importa de verdade é regar bem a terra, do jeito que a gente viu acima. Se você gosta do ritual de borrifar, tudo bem, mas não conte com ele para matar a sede da jiboia."
+        ],
+        "fatosUsados": [
+          3
+        ]
+      },
+      {
+        "titulo": "Cuidar demais é o maior erro",
+        "paragrafos": [
+          "Existe uma frase no ebook que resume tudo: o maior erro é querer cuidar demais. Em dúvida se deve fazer alguma coisa, provavelmente não deve. Esperar mais um dia antes de regar costuma ser mais seguro do que regar por ansiedade.",
+          "A boa notícia é que a jiboia aguenta o tranco. Ela tolera um pouco de esquecimento e luz que não é perfeita. Ou seja, você não precisa ser perfeito para ter uma planta bonita. Errar uma vez ou outra faz parte, e a jiboia costuma perdoar."
+        ],
+        "fatosUsados": [
+          6,
+          7
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Quantas vezes por semana devo regar a jiboia?",
+        "resposta": "O livro não dá um número fixo, e de propósito: ele pede para esquecer o calendário. Use o teste do dedo e regue só quando a terra estiver limpa e seca, até a água sair pelos furos."
+      },
+      {
+        "pergunta": "Posso deixar a jiboia dentro do cachepot?",
+        "resposta": "O cachepot só esconde o vaso de plástico que tem furo. Na hora de regar, tire o vaso de dentro, regue na pia, deixe escorrer e devolva."
+      },
+      {
+        "pergunta": "A jiboia morre se eu esquecer de regar?",
+        "resposta": "Ela aguenta o tranco: tolera um pouco de esquecimento. O maior risco é o contrário, querer cuidar demais e regar todo dia só um pouquinho."
+      }
+    ],
+    "conclusao": "Regar a jiboia bem é menos sobre quantidade de carinho e mais sobre o momento certo. Faça o teste do dedo, regue até a água sair pelos furos, deixe escorrer e espere a terra secar de novo. Na dúvida, espere. A planta agradece, e você ganha tranquilidade. Salve este texto para a próxima vez que a dúvida bater e conte para quem também cuida de planta com medo de errar. Gentileza gera gentileza."
+  },
   "slide1_capa": {
     "tarja": "Jardinagem ✺ Rega",
     "linha1": "O erro que mais",

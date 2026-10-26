@@ -3,7 +3,7 @@ import { trechoEstaNaPagina } from './livros.mjs';
 
 // Toxicidade e pet só entram com fonte ASPCA ou Sinitox, e a rotina não consulta essas fontes.
 // Até existir uma fonte verificável, o fato que fala disso é recusado.
-const TOXICIDADE = /t[óo]xic|venen|\bpets?\b|\bc[ãa]es\b|\bc[ãa]o\b|\bgatos?\b/i;
+export const TOXICIDADE = /t[óo]xic|venen|\bpets?\b|\bc[ãa]es\b|\bc[ãa]o\b|\bgatos?\b/i;
 const TRECHO_MINIMO = 25;
 
 // bruto = [{ texto, pagina, trecho }]. Devolve os fatos com a "fonte" montada ("Título, p. 12").

@@ -22,5 +22,6 @@ export const CHAVES_DO_BRUTO = Object.freeze([
   'resumo',
   'fatos',
   'fatosUsados',
+  'materia',
   ...ESTRUTURA.map((_, i) => chaveDoSlide(i)),
 ]);

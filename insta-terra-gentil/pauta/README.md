@@ -45,3 +45,5 @@ nova seja verdadeira: a previa do André continua sendo a última conferência.
 
 Hoje também: `series.mjs`, `noticias.mjs`, `feed.mjs`, `coletar.mjs`, `filtrar.mjs` (notícias por RSS,
 segunda fonte de pauta, ainda não ligada à rotina). Previsto: `fila.mjs`.
+
+- `materia.mjs`: confere a matéria do site (campo `materia` do post): 3 a 5 seções com fatos, FAQ, mínimo de 600 palavras, sem travessão nem toxicidade. Post antigo, sem matéria, segue válido.

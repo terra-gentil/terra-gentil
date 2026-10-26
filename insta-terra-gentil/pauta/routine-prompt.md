@@ -73,6 +73,34 @@ ou "plantas de interior". Se o livro é geral (sinais, rega, luz), escolha a pla
 visível que ilustra o tema no próprio livro. O `gravar` recusa especie fora do formato
 "Gênero espécie" e nome genérico.
 
+Campo `materia` (o texto da página do site, mesmos fatos do carrossel). Vai no mesmo
+`/tmp/bruto.json`, logo depois de `fatosUsados`, neste formato (o `bruto-exemplo.json` traz um
+modelo completo):
+
+```json
+"materia": {
+  "slug": "jiboia-como-regar-sem-apodrecer-a-raiz",
+  "titulo": "até 60 caracteres",
+  "descricao": "de 150 a 160 caracteres, a frase que aparece no Google",
+  "introducao": "um parágrafo que acolhe e diz o que a pessoa vai aprender",
+  "secoes": [
+    { "titulo": "pergunta ou erro", "paragrafos": ["..."], "fatosUsados": [0] }
+  ],
+  "faq": [{ "pergunta": "...", "resposta": "..." }],
+  "conclusao": "fecha com calma e termina em Gentileza gera gentileza"
+}
+```
+
+Regras da matéria (o `gravar` confere as que o código consegue conferir):
+
+- De 3 a 5 seções, de 2 a 3 perguntas no `faq`, no mínimo 600 palavras no total (mire em 800).
+- Cada seção cita em `fatosUsados` os fatos em que se apoia (números da lista `fatos`).
+- `slug`: só minúsculas, números e hífen, sem acento. `titulo` com a espécie ou o tema.
+- Alongue explicando e acolhendo, nunca inventando. Sem dose, prazo, número, causa, produto ou
+  conselho que o livro não traga. Se o livro não dá um número (por exemplo, quantas vezes regar),
+  diga isso na resposta em vez de chutar. Nada de toxicidade nem de pets.
+- Sem travessão, mesma voz do guia: frases curtas, em português do dia a dia.
+
 Depois:
 
 ```bash

@@ -2,6 +2,7 @@
 import { ESTRUTURA, problemasDoRoteiro } from '../carrossel/estrutura.mjs';
 import { CHAVES_DO_BRUTO, FINAL_FIXO, chaveDoSlide } from './esquema.mjs';
 import { validarFatos } from './fatos.mjs';
+import { problemasDaMateria } from './materia.mjs';
 import { SERIES } from './series.mjs';
 
 const textoOk = (valor) => typeof valor === 'string' && valor.trim().length > 0;
@@ -46,6 +47,10 @@ export function conferirPost(post, { livro, paginas }) {
     if (JSON.stringify(fontes) !== JSON.stringify(post.fontes)) problemas.push('"fontes" não bate');
   }
   problemas.push(...problemasDoRoteiro(post?.slides));
+  // Posts antigos não têm matéria; quando ela existe, tem de estar completa.
+  if (post?.materia !== undefined) {
+    problemas.push(...problemasDaMateria(post.materia, fatos.length));
+  }
   const final = post?.slides?.[ESTRUTURA.length - 1] ?? {};
   for (const [campo, esperado] of Object.entries(FINAL_FIXO)) {
     if (final[campo] !== esperado) problemas.push(`fechamento: "${campo}" deve ser "${esperado}"`);
@@ -61,14 +66,14 @@ export function montarPost(bruto, { livro, paginas, dia }) {
     const slide = bruto[chaveDoSlide(i)] ?? {};
     return tipo === 'final' ? { ...slide, ...FINAL_FIXO } : slide;
   });
-  const { palavra, especie, nome, serie, gancho, resumo, fatosUsados } = bruto;
+  const { palavra, especie, nome, serie, gancho, resumo, fatosUsados, materia } = bruto;
   const fatos = Array.isArray(bruto.fatos) ? bruto.fatos : [];
   const comFonte = fatos.map((f) => ({ ...f, fonte: `${livro.titulo}, p. ${f?.pagina}` }));
   const fontes = Array.isArray(fatosUsados)
     ? [...new Set(fatosUsados.map((n) => comFonte[n]?.fonte))]
     : [];
   const post = { dia, palavra, especie, nome, serie, gancho, resumo, slides };
-  Object.assign(post, { fatos: comFonte, fatosUsados, fontes });
+  Object.assign(post, { fatos: comFonte, fatosUsados, fontes, materia });
   const problemas = conferirPost(post, { livro, paginas });
   if (problemas.length) throw new Error(`[roteiro] inválido:\n- ${problemas.join('\n- ')}`);
   return post;

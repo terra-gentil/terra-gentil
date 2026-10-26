@@ -9,6 +9,7 @@ import { medirEstouro } from './estouro.mjs';
 import { legendaDe } from './legenda.mjs';
 import { montarSlide } from './moldes.mjs';
 import { moldeDoDia } from './rotacao.mjs';
+import { equilibrarTitulo } from './titulo.mjs';
 
 const IMAGENS = path.join(RAIZ_SITE, 'public', 'images');
 const poseDoMascote = (i) => path.join(IMAGENS, 'mascot', `pose-${(i % 8) + 1}.jpg`);
@@ -19,7 +20,7 @@ const ESCURECIMENTO_CAPA = 45;
 function dadosDoSlide(slide, i, foto, credito) {
   const tipo = ESTRUTURA[i];
   const campos = OBRIGATORIOS[tipo];
-  const dados = { ...slide, foto, contador: `${i + 1}/${ESTRUTURA.length}` };
+  const dados = { ...equilibrarTitulo(slide), foto, contador: `${i + 1}/${ESTRUTURA.length}` };
   if (campos.includes('mascote')) dados.mascote = paraDataUri(poseDoMascote(i));
   if (campos.includes('fotoAndre')) dados.fotoAndre = paraDataUri(FOTO_ANDRE);
   if (campos.includes('legendaFoto')) dados.legendaFoto ??= credito;

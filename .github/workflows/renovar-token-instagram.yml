@@ -1,0 +1,48 @@
+name: Renovar token Instagram
+
+# O token do Instagram vale 60 dias. Esta rotina o renova duas vezes por mes (cada renovacao
+# da mais 60 dias) e grava o novo valor no secret IG_ACCESS_TOKEN. Nunca imprime o token.
+# Precisa do secret GH_PAT_SEGREDOS: token do GitHub (fine-grained, so este repositorio,
+# permissao "Secrets: Read and write"), porque o GITHUB_TOKEN padrao nao grava secrets.
+# Se falhar, o GitHub avisa por e-mail; o token antigo segue valendo ate vencer.
+on:
+  schedule:
+    - cron: '0 12 1,15 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  renovar:
+    name: Renovar e gravar o secret
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout (main)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Renovar o token
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: |
+          node insta-terra-gentil/publicar/instagram/renovar-cli.mjs \
+            --saida "$RUNNER_TEMP/ig-token-novo"
+
+      - name: Gravar o token novo no secret
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT_SEGREDOS }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "falta o secret GH_PAT_SEGREDOS (token do GitHub com Secrets: write)"; exit 1
+          fi
+          gh secret set IG_ACCESS_TOKEN --repo "$GITHUB_REPOSITORY" < "$RUNNER_TEMP/ig-token-novo"
+          rm -f "$RUNNER_TEMP/ig-token-novo"
+          echo "## Token do Instagram renovado e gravado" >> "$GITHUB_STEP_SUMMARY"

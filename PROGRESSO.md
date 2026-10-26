@@ -8,7 +8,7 @@
 
 **Meta (feito 26/10 noite):** app `Terra Gentil Publicador` (ID 1671676171195897, modo desenvolvimento, portfolio Terra Gentil, e-mail canalterragentil@gmail.com). Permissoes `instagram_business_basic` e `instagram_business_content_publish`. @canalterragentil e Testador do Instagram (convite aceito). IG_USER_ID 17841474413071263. Secrets `IG_USER_ID` e `IG_ACCESS_TOKEN` cadastrados e VALIDADOS (run 40413778021, `so_token`, "token e conta conferidos, nada publicado"). Publicacao real ainda NAO testada (decisao: ajustar na hora de postar). Token vale 60 dias (gerado 26/10, vence ~25/12). Cadastrar secret: `gh secret set` com `!` grava VAZIO (sem stdin); usar `powershell -NoProfile -Command "Get-Clipboard" | gh secret set NOME --repo terra-gentil/terra-gentil`.
 
-**Falta para postar de verdade (Fase B/C):** (3) cadastrar gatilho no TriggerAll para `postar-instagram.yml` no horario de postar; (4) workflow mensal de renovacao do token (precisa PAT em secret); (5) previa e aprovacao no Telegram antes de ligar; (6) CI do site vermelho por lint em app/app/page.tsx e app/jogo/page.tsx (nao relacionado).
+**Falta para postar de verdade (Fase B/C):** (3) cadastrar gatilho no TriggerAll para `postar-instagram.yml` no horario de postar; (4) renovacao do token: workflow `renovar-token-instagram.yml` PRONTO (dias 1 e 15), falta o secret `GH_PAT_SEGREDOS` (PAT fine-grained, Secrets read/write, so este repo), e 1a renovacao manual so depois de 24h do token; (5) previa e aprovacao no Telegram antes de ligar; (6) CI do site vermelho por lint em app/app/page.tsx e app/jogo/page.tsx (nao relacionado).
 
 ---
 

@@ -1,0 +1,12 @@
+{
+  "_sobre": "Sites de jardinagem que servem de fonte de pauta. Só o tema e o link entram na pauta, o texto do post é escrito do zero. Lista inicial vinda do PDF Terra Gentil News Pipeline: o André aprova ou troca.",
+  "fontes": [
+    { "nome": "Gardening Know How", "dominio": "gardeningknowhow.com", "idioma": "en" },
+    { "nome": "Fine Gardening", "dominio": "finegardening.com", "idioma": "en" },
+    { "nome": "RHS Advice", "dominio": "rhs.org.uk", "idioma": "en" },
+    { "nome": "Houseplant Advisor", "dominio": "houseplantadvisor.com", "idioma": "en" },
+    { "nome": "Backyard Gardener", "dominio": "backyardgardener.com", "idioma": "en" },
+    { "nome": "Gardenary", "dominio": "gardenary.com", "idioma": "en" },
+    { "nome": "Epic Gardening", "dominio": "epicgardening.com", "idioma": "en" }
+  ]
+}

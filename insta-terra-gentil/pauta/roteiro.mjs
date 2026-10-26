@@ -7,7 +7,10 @@ import { SERIES } from './series.mjs';
 const textoOk = (valor) => typeof valor === 'string' && valor.trim().length > 0;
 const TRAVESSAO = /[—–]/;
 
-// Termos que não servem de busca de foto nem de nome de planta.
+// Nome científico: gênero com inicial maiúscula e epíteto em minúsculas ("Epipremnum aureum").
+const CIENTIFICO = /^[A-Z][a-z]+ [a-z][a-z-]+( (subsp|var)\. [a-z-]+)?$/;
+
+// Termos que não servem de nome de planta.
 const GENERICOS = /^(plantas?( de (interior|casa|jardim))?|folhagens?|vegeta(l|is)|flores?)$/i;
 
 // Confere um post pronto (o que está em dados/posts/). Devolve a lista de problemas, vazia se ok.
@@ -23,10 +26,11 @@ export function conferirPost(post, { livro, paginas }) {
     if (!textoOk(post?.[campo])) problemas.push(`falta "${campo}"`);
     if (TRAVESSAO.test(post?.[campo] ?? '')) problemas.push(`travessão em "${campo}"`);
   }
-  for (const campo of ['especie', 'nome']) {
-    if (GENERICOS.test((post?.[campo] ?? '').trim())) {
-      problemas.push(`"${campo}" genérico: use o nome popular de uma planta concreta`);
-    }
+  if (textoOk(post?.especie) && !CIENTIFICO.test(post.especie.trim())) {
+    problemas.push('"especie" deve ser o nome científico ("Gênero espécie")');
+  }
+  if (GENERICOS.test((post?.nome ?? '').trim())) {
+    problemas.push('"nome" genérico: use o nome popular de uma planta concreta');
   }
   let fatos = [];
   try {

@@ -6,11 +6,16 @@ function semCredito(licenca) {
   return /^(CC0|Public domain|PD)/i.test(licenca ?? '');
 }
 
-// Título ou categoria que indica detalhe ou desenho, não a planta inteira em foto.
+// Título ou categoria que indica detalhe, desenho ou animal, não a planta inteira em foto.
 // Desliga com `evitarTitulo: null`.
 const PALAVRAS = ['flower', 'inflorescence', 'blossom', '\\bbud', 'fruit', 'seed', 'herbarium'];
+// "snake plant" e "spider plant" são plantas, então só entram termos que nunca nomeiam planta.
+const ANIMAIS = [
+  '\\bsnake\\b(?! plant)', 'constrictor', 'serpent', 'reptil', 'lizard', 'caterpillar',
+];
 const DESENHOS = ['diagram', 'map\\b', 'drawing', 'illustration', 'engraving', 'lithograph'];
-export const EVITAR_TITULO = new RegExp([...PALAVRAS, ...DESENHOS, 'painting'].join('|'), 'i');
+const TODOS = [...PALAVRAS, ...DESENHOS, ...ANIMAIS, 'painting'];
+export const EVITAR_TITULO = new RegExp(TODOS.join('|'), 'i');
 
 export function serve(foto, opcoes = {}) {
   const { larguraMin = 1080, aceitarCompartilhaIgual = false } = opcoes;

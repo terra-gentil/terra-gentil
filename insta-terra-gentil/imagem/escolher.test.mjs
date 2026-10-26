@@ -51,3 +51,12 @@ test('crédito traz autor, fonte e licença', () => {
   assert.equal(creditoDe(foto()), 'Foto: Maria / Wikimedia Commons (CC BY 4.0)');
   assert.equal(creditoDe(foto({ autor: null, licenca: 'CC0' })), 'Foto: Wikimedia Commons (CC0)');
 });
+
+test('recusa foto de animal (jiboia cobra) mas aceita "snake plant"', () => {
+  const cobra = foto({ titulo: 'Boa constrictor on branch.jpg' });
+  const outra = foto({ titulo: 'Snake in a tree.jpg' });
+  const planta = foto({ titulo: 'Snake plant in pot.jpg' });
+  assert.equal(serve(cobra), false);
+  assert.equal(serve(outra), false);
+  assert.equal(serve(planta), true);
+});

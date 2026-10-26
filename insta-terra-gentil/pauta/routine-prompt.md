@@ -65,11 +65,13 @@ Escreva o JSON bruto de UMA VEZ em `/tmp/bruto.json` com a ferramenta Write, no 
 `bruto-exemplo.json`. Cada fato leva `texto` (suas palavras), `pagina` e `trecho` (copiado
 literalmente do livro, 25 caracteres ou mais).
 
-Campos `especie` e `nome`: `especie` é o nome popular de UMA planta concreta (ex.: "Jiboia",
-"Espada-de-são-jorge"), é o termo usado para buscar a foto. `nome` é como a planta aparece no
-texto. Nunca use termos genéricos como "planta", "plantas", "plantas de interior" ou "folhagem".
-Se o livro é geral (sinais, rega, luz), escolha a planta mais comum e visível que ilustra o tema
-no próprio livro (ex.: uma jiboia com folha amarela). O `gravar` recusa nome genérico.
+Campos `especie` e `nome`: `especie` é o NOME CIENTÍFICO da planta, gênero e espécie
+(ex.: "Epipremnum aureum", "Dracaena trifasciata"). É o termo da busca de foto, e o nome popular
+é ambíguo: "jiboia" também é uma cobra. `nome` é o nome popular que aparece no texto, com a
+inicial maiúscula (ex.: "Jiboia", "Espada-de-são-jorge"). Nunca use termos genéricos como "planta"
+ou "plantas de interior". Se o livro é geral (sinais, rega, luz), escolha a planta mais comum e
+visível que ilustra o tema no próprio livro. O `gravar` recusa especie fora do formato
+"Gênero espécie" e nome genérico.
 
 Depois:
 

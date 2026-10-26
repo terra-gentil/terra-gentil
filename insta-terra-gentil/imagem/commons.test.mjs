@@ -2,7 +2,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { buscarCommons, candidatosDe, textoPuro } from './commons.mjs';
-import { buscarFoto } from './banco.mjs';
 
 const pagina = (titulo, info) => ({ title: `File:${titulo}`, imageinfo: [info] });
 const RESPOSTA = {
@@ -54,19 +53,4 @@ test('buscarCommons manda User-Agent e a espécie na busca', async () => {
   await buscarCommons('Monstera deliciosa', buscar);
   assert.match(decodeURIComponent(chamada.url), /Monstera\+deliciosa|Monstera deliciosa/);
   assert.match(chamada.opcoes.headers['user-agent'], /TerraGentil/);
-});
-
-test('buscarFoto escolhe a foto e registra falha de provedor sem quebrar', async () => {
-  const bom = async () => candidatosDe(RESPOSTA);
-  const ruim = async () => {
-    throw new Error('fora do ar');
-  };
-  const r = await buscarFoto('Monstera deliciosa', { provedores: [bom, ruim] });
-  assert.equal(r.escolhida.foto.url, 'https://up/thumb-1600.jpg');
-  assert.equal(r.escolhida.credito, 'Foto: Llez & amigos / Wikimedia Commons (CC BY 3.0)');
-  assert.deepEqual(r.falhas, ['fora do ar']);
-});
-
-test('buscarFoto exige o nome da espécie', async () => {
-  await assert.rejects(() => buscarFoto(''), /falta o nome/);
 });

@@ -27,6 +27,7 @@ export function candidatosDe(resposta) {
       const licenca = meta.LicenseShortName?.value ?? null;
       return {
         provedor: 'commons',
+        fonte: 'Wikimedia Commons',
         titulo: p.title.replace(/^File:/, ''),
         url: info.width > LARGURA_BAIXADA && info.thumburl ? info.thumburl : info.url,
         largura: info.width,

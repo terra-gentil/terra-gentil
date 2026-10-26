@@ -9,6 +9,7 @@ function semCredito(licenca) {
 export function serve(foto, { larguraMin = 1080, aceitarCompartilhaIgual = false } = {}) {
   if (!foto.licenca || foto.mime !== 'image/jpeg') return false;
   if (foto.compartilhaIgual && !aceitarCompartilhaIgual) return false;
+  if (!Number.isFinite(foto.largura) || !Number.isFinite(foto.altura)) return false;
   if (foto.largura < larguraMin || foto.altura <= foto.largura) return false;
   return Boolean(foto.autor) || semCredito(foto.licenca);
 }
@@ -22,7 +23,7 @@ export function nota(foto) {
 
 export function creditoDe(foto) {
   const autor = foto.autor ? `${foto.autor} / ` : '';
-  return `Foto: ${autor}Wikimedia Commons (${foto.licenca})`;
+  return `Foto: ${autor}${foto.fonte ?? 'Wikimedia Commons'} (${foto.licenca})`;
 }
 
 export function escolherFoto(candidatos, opcoes = {}) {

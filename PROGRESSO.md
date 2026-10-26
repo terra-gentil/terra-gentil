@@ -6,7 +6,8 @@
 1. Pexels: a emissao de chave nova da API esta PAUSADA ("New API key issuance is currently paused"). Trocamos por Wikimedia Commons (sem chave).
 2. `pauta/feed.mjs`, `coletar.mjs`, `filtrar.mjs`: le o RSS das fontes e filtra (14 dias, sem repetir, so dominio da lista). Guarda so titulo, link, data e categorias, nunca o texto. Testado na rede: 80 itens, 60 apos o filtro. 4 das 7 fontes tem feed (campo `feed` em `dados/fontes-noticias.json`). RHS e Gardenary dao 404; Backyard Gardener esta atras de Cloudflare (nao contornar).
 3. `imagem/commons.mjs`, `escolher.mjs`, `banco.mjs` (+ README): `buscarFoto(especie)` devolve a melhor foto vertical 1080+ com credito. Provedor e uma funcao `(termo) => candidatos`, entao Pixabay/Unsplash entram depois sem mexer no resto.
-4. 61 testes em `npm --prefix insta-terra-gentil test`.
+4. Banco reserva: `imagem/openverse.mjs` (Openverse, sem chave, mais iNaturalist e Flickr). `banco.mjs` tenta Commons primeiro e so cai no reserva se nao achar foto segura. Credito agora cita a fonte real. Limites do Openverse anonimo: page_size ate 20, 20/min, 200/dia, latencia de 0,1 a 45 s (prazo de 60 s).
+5. 70 testes em `npm --prefix insta-terra-gentil test`.
 
 ### Estado atual
 - Pauta por RSS e busca de foto funcionam, ainda nao ligadas entre si nem ao `montar-dia.mjs`.

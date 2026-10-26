@@ -13,9 +13,7 @@ const FONTES = [
 
 test('junta os itens, marca a fonte e separa falhas e fontes sem feed', async () => {
   const buscar = async (url) =>
-    url === 'https://e/feed'
-      ? { ok: true, text: async () => RSS }
-      : { ok: false, status: 403 };
+    url === 'https://e/feed' ? { ok: true, text: async () => RSS } : { ok: false, status: 403 };
   const r = await coletar(FONTES, buscar);
   assert.equal(r.itens.length, 1);
   assert.equal(r.itens[0].fonte, 'Epic');

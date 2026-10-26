@@ -1,0 +1,115 @@
+{
+  "palavra": "JIBOIA",
+  "especie": "Epipremnum aureum",
+  "nome": "jiboia",
+  "serie": "3 erros",
+  "gancho": "O erro que mais prejudica a jiboia: regar todo dia só um pouquinho.",
+  "resumo": "Três erros de rega e dois gestos simples: o teste do dedo e regar até a água sair pelos furos.",
+  "fatos": [
+    {
+      "texto": "Regar todo dia só um pouquinho é fatal: molha só a superfície, não hidrata a raiz profunda, e a umidade constante apodrece o colo da planta.",
+      "pagina": 12,
+      "trecho": "Molhar só a superfície engana você e não hidrata a raiz profunda. Além disso, a umidade constante apodrece o colo da planta"
+    },
+    {
+      "texto": "Correção: regar bastante, até a água sair pelos furos, mas poucas vezes, só quando a terra secar.",
+      "pagina": 12,
+      "trecho": "Regue bastante, até a água sair pelos furos, mas faça isso poucas vezes"
+    },
+    {
+      "texto": "Vaso decorativo sem furo (cachepot) serve só para esconder o vaso de plástico que tem furo. Para regar, tire o vaso de dentro, regue na pia, deixe escorrer e devolva.",
+      "pagina": 12,
+      "trecho": "Na hora de regar, tire o vaso de plástico de dentro, regue na pia, deixe escorrer e devolva para o cachepot"
+    },
+    {
+      "texto": "Borrifar a folha todo dia é mito: a planta bebe pelas raízes, e borrifar sem ventilação favorece fungos. Regar bem a terra importa mais.",
+      "pagina": 12,
+      "trecho": "isso é um mito. A planta obtém toda a água que precisa pelas raízes"
+    },
+    {
+      "texto": "Esqueça o calendário fixo. Método do dedo: enfie o dedo na terra até a segunda falange. Saiu sujo ou úmido, não regue. Limpo e seco, hora de regar.",
+      "pagina": 9,
+      "trecho": "Use o dedo: Enfie o dedo na terra (até a segunda falange)"
+    },
+    {
+      "texto": "Dica do André: regue até a água sair pelos furinhos de baixo e deixe escorrer bem antes de devolver a planta ao lugar.",
+      "pagina": 9,
+      "trecho": "Regue até a água sair pelos furinhos de baixo. Deixe escorrer bem antes de colocar de volta no lugar"
+    },
+    {
+      "texto": "O maior erro é querer cuidar demais. Em dúvida se deve fazer algo, provavelmente não deve.",
+      "pagina": 11,
+      "trecho": "O maior erro é querer cuidar demais"
+    },
+    {
+      "texto": "A jiboia aguenta o tranco: tolera um pouco de esquecimento e luz que não é perfeita.",
+      "pagina": 3,
+      "trecho": "a Jiboia aguenta o tranco"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "slide1_capa": {
+    "tarja": "Jardinagem ✺ Rega",
+    "linha1": "O erro que mais",
+    "linha2": "mata a jiboia",
+    "linha3": "é regar",
+    "destaque": "todo dia"
+  },
+  "slide2_problema": {
+    "tarja": "Erro 1",
+    "linha1": "Regar todo dia",
+    "linha2": "só um",
+    "destaque": "pouquinho",
+    "texto": "Molhar só a superfície engana. A raiz não bebe e a umidade constante apodrece o colo da planta.",
+    "nota": "Calma, não é culpa sua."
+  },
+  "slide3_problema": {
+    "tarja": "Erro 2",
+    "linha1": "Regar pelo",
+    "linha2": "calendário e não",
+    "destaque": "pelo dedo",
+    "texto": "O tempo muda e a umidade muda. Esqueça o \"toda quarta\" e deixe a terra dizer a hora.",
+    "nota": "Quase todo mundo começa assim."
+  },
+  "slide4_problema": {
+    "tarja": "Erro 3",
+    "linha1": "Vaso bonito",
+    "linha2": "sem",
+    "destaque": "furo",
+    "texto": "O cachepot serve só para esconder o vaso de plástico. Regue na pia, deixe escorrer e devolva.",
+    "nota": "Um gesto pequeno resolve."
+  },
+  "slide5_passo": {
+    "linha1": "Enfie o dedo",
+    "linha2": "na terra até a",
+    "destaque": "segunda falange",
+    "texto": "Saiu sujo ou úmido? Não regue. Saiu limpo e seco? Hora de regar.",
+    "dica": "Na dúvida se deve fazer algo, provavelmente não deve. Menos é mais."
+  },
+  "slide6_passo": {
+    "linha1": "Hora de regar?",
+    "linha2": "Regue até sair",
+    "destaque": "por baixo",
+    "texto": "Molhe bastante, até a água sair pelos furinhos, e só repita quando a terra secar de novo.",
+    "dica": "Deixe escorrer bem antes de devolver a planta ao lugar."
+  },
+  "slide7_problema": {
+    "tarja": "Mito",
+    "linha1": "Borrifar a folha",
+    "linha2": "todo dia",
+    "destaque": "ajuda?",
+    "texto": "Não. A planta bebe pelas raízes, e borrifar sem ventilação ainda favorece fungos.",
+    "nota": "Regar bem a terra vale mais."
+  },
+  "slide8_final": {
+    "texto": "Cuide com calma e ela devolve em folhas verdes. Salve este post para a próxima rega."
+  }
+}

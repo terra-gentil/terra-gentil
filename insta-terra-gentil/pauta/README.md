@@ -18,23 +18,30 @@ Os `pontos` ficam vazios até serem escritos do zero. Link só vale se o domíni
 Saída: `{ origem: "noticia", serie, especie, gancho, pontos: [], palavra: null, fontes, status }`.
 Buscar as notícias na rede (scraper) ainda não existe.
 
-## Roteiro: o Claude escreve o post
+## Roteiro: uma rotina agendada do Claude escreve o post
 
-`ideia.mjs` recebe uma pauta com `fatos` (texto + fonte, ex.: "Jiboia: A Planta que Perdoa Tudo,
-p. 12") e devolve o post: gancho, resumo, 8 slides, `fatosUsados` e `fontes`. Exemplo de
-entrada em `dados/pauta-exemplo.json`, de saída em `dados/post-exemplo.json`.
+Não há chamada de API. Uma rotina do Claude (claude.ai/code/routines, mesmo desenho do site do
+Pearl Jam) roda de madrugada, lê um ebook e escreve o roteiro de véspera. O prompt dela mora aqui:
+`routine-prompt.md` (editar o arquivo já vale, a rotina só tem um prompt curto mandando segui-lo) e
+`prompts/voz-terra-gentil.md` (voz do André e regras). Um teste impede os dois de divergirem do código.
 
-- `esquema.mjs`: JSON Schema da resposta (um objeto por slide). O fechamento da marca é fixo.
-- `prompt.mjs`: a voz do André, as regras de fato e `validarFatos` (mínimo 3 fatos com fonte;
-  toxicidade e pet só com ASPCA ou Sinitox).
-- `ideia.mjs`: chama a API (SDK oficial, `claude-opus-5-5`, saída estruturada, fallback de recusa
-  ligado) e valida o roteiro com `problemasDoRoteiro` (travessão, campo vazio, tamanho).
-- `ideia-cli.mjs`: `node pauta/ideia-cli.mjs <pauta.json> [saida.json]`. Precisa de
-  `ANTHROPIC_API_KEY` (ou `ant auth login`); sem credencial a parte fica desligada.
+Fluxo: `rotina-cli proximo` (livro do rodízio e dia) -> `ler <PALAVRA>` (livro com marcador de
+página) -> a rotina escreve `/tmp/bruto.json` (formato de `dados/bruto-exemplo.json`) ->
+`gravar` confere e grava em `dados/posts/<dia>-<palavra>.json` -> branch `claude/insta-routine-*`.
 
-O texto sai do zero a partir dos fatos, nunca copiado. O André confere tudo na prévia antes de
-publicar: o código barra o óbvio, mas não prova que uma frase é verdadeira.
+| Arquivo | O que faz |
+|---|---|
+| `livros.mjs` | PDF vira texto por página (`dados/livros/`); confere se um trecho existe na página |
+| `fatos.mjs` | Cada fato leva página e trecho literal do livro; toxicidade e pet são recusados |
+| `esquema.mjs` | Formato do bruto: um objeto por slide; fechamento da marca fixo |
+| `roteiro.mjs` | `montarPost` e `conferirPost` (travessão, tamanhos, série, fechamento, fontes) |
+| `proxima.mjs` | Rodízio justo dos 19 livros; o dia padrão é amanhã (Brasília) |
+| `gravar-post.mjs` | Grava um post por dia; `conferirTodos` refaz a checagem de tudo |
+| `rotina-cli.mjs` | `proximo`, `ler`, `gravar`, `conferir`, `livros` |
 
-Hoje: `series.mjs`, `noticias.mjs`, `feed.mjs`, `coletar.mjs`, `filtrar.mjs`, `esquema.mjs`,
-`prompt.mjs`, `ideia.mjs`. Previstos: `extrair.mjs` (fatos por espécie), `fila.mjs` (grava a
-pauta em `dados/pautas.json`).
+Por que o trecho literal: o repositório é público e o post vai ao ar sozinho. O código confere que
+cada fato existe mesmo na página citada, então fato inventado não passa. Ele não prova que uma frase
+nova seja verdadeira: a previa do André continua sendo a última conferência.
+
+Hoje também: `series.mjs`, `noticias.mjs`, `feed.mjs`, `coletar.mjs`, `filtrar.mjs` (notícias por RSS,
+segunda fonte de pauta, ainda não ligada à rotina). Previsto: `fila.mjs`.

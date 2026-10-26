@@ -1,5 +1,15 @@
 # PROGRESSO Terra Gentil
 
+## ESTADO (26/10/2026, fim da noite): publicacao no Instagram montada, DESLIGADA
+
+**Feito hoje:** nome cientifico em `especie` (corrige foto de cobra), desfoque/gradiente/sombra/realce de foto/titulo equilibrado nos moldes, enquadramento variado, retry do Chromium no CI. Publicacao no IG pronta e testada com IG falso: `insta-terra-gentil/publicar/instagram/` (cliente Graph API, carrossel, registro anti-duplicata). Teste de ponta a ponta no GitHub OK com o botao desligado (previa gera pacote na branch `ig-slides`, `postar-instagram.yml` confere e NAO posta).
+
+**BOTAO:** variavel do repo `IG_PUBLICAR` (hoje `desligado`). So `ligado` posta. `gh variable set IG_PUBLICAR --body ligado`.
+
+**Falta para postar de verdade (Fase B/C):** (1) criar app na Meta e gerar token do @canalterragentil, cadastrar secrets `IG_USER_ID` e `IG_ACCESS_TOKEN`; (2) rodar `postar-instagram.yml` com `so_token=true` e botao ligado so para validar; (3) cadastrar gatilho no TriggerAll para `postar-instagram.yml` no horario de postar; (4) workflow mensal de renovacao do token (precisa PAT em secret); (5) previa e aprovacao no Telegram antes de ligar; (6) CI do site vermelho por lint em app/app/page.tsx e app/jogo/page.tsx (nao relacionado).
+
+---
+
 ## HANDOFF (26/10/2026, noite): colar no inicio da proxima sessao
 
 **Onde paramos:** o pipeline do Instagram do Terra Gentil funciona de ponta a ponta, SEM publicar no Instagram. Teste real feito: a rotina (`trig_01BH4izGfvqgUA9V7hmgMPVR`, 04:00 BRT) escreveu o post de 27/10 (livro CODIGO, serie Socorro, 6 fatos com pagina), empurrou a branch `claude/insta-routine-20261026-1913`, o webhook acionou o TriggerAll (gatilho #014), que disparou o `publish-instagram.yml` (run 40384815084): validou, mesclou na main (commit e0181cf, bot do GitHub) e gerou a previa (artefato `carrossel-2026-10-27`, 8 MB). A Vercel aceitou o commit do bot (risco da etapa de noticias nao se confirmou).

@@ -2,7 +2,9 @@
 // Só mexe quando há linha órfã ("E", "do") ou linha terminando em palavra solta (de, um, ou).
 import { LIMITES_TEXTO } from './estrutura.mjs';
 
-const SOLTAS = new Set(['e', 'o', 'a', 'os', 'as', 'um', 'uma', 'de', 'do', 'da', 'no', 'na', 'ou']);
+const SOLTAS = new Set([
+  'e', 'o', 'a', 'os', 'as', 'um', 'uma', 'de', 'do', 'da', 'no', 'na', 'ou',
+]);
 const CAMPOS = ['linha1', 'linha2', 'linha3'];
 
 function distribuir(palavras, n) {

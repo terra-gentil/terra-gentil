@@ -1,0 +1,107 @@
+name: Publish Instagram
+
+# Quem dispara e o TriggerAll (cron e webhook de push da routine do Claude), nao um schedule aqui.
+# Renomear este arquivo quebra o gatilho: o TriggerAll procura o workflow por este nome.
+on:
+  workflow_dispatch:
+    inputs:
+      dia:
+        description: 'Dia do post (AAAA-MM-DD). Vazio = amanha em Brasilia'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+# Um por vez: o merge empurra na main e dois ao mesmo tempo se atropelariam.
+concurrency:
+  group: insta-rotina
+  cancel-in-progress: false
+
+jobs:
+  mesclar:
+    name: Validar e mesclar as branches da rotina
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # So aceita commit da conta claude e so arquivos de post e log (repo publico).
+      # Refaz a conferencia dos fatos contra o livro antes de empurrar na main.
+      - name: Mesclar
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: node insta-terra-gentil/publicar/rotina/mesclar-cli.mjs
+
+  previa:
+    name: Renderizar a previa do dia
+    needs: mesclar
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout (main ja com o merge)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: insta-terra-gentil/package-lock.json
+
+      - name: Dependencias e Chromium
+        working-directory: insta-terra-gentil
+        run: |
+          npm ci --no-audit --no-fund
+          npx playwright-core install --with-deps chromium
+
+      - name: Achar o post do dia
+        id: post
+        env:
+          DIA_ENTRADA: ${{ inputs.dia }}
+        run: |
+          DIA="${DIA_ENTRADA:-$(TZ=America/Sao_Paulo date -d tomorrow +%F)}"
+          if ! echo "$DIA" | grep -Eq '^[0-9]{4}-[0-9]{2}-[0-9]{2}$'; then
+            echo "dia invalido: $DIA"; exit 1
+          fi
+          ARQUIVO="$(ls insta-terra-gentil/dados/posts/${DIA}-*.json 2>/dev/null | head -1 || true)"
+          if [ -z "$ARQUIVO" ]; then
+            echo "::notice::Sem post para $DIA, nada a renderizar."
+            echo "tem=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "tem=true" >> "$GITHUB_OUTPUT"
+            echo "dia=$DIA" >> "$GITHUB_OUTPUT"
+            echo "arquivo=${ARQUIVO#insta-terra-gentil/}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Renderizar os 8 slides e a legenda
+        if: steps.post.outputs.tem == 'true'
+        working-directory: insta-terra-gentil
+        run: node carrossel/cli.mjs "${{ steps.post.outputs.arquivo }}" "${{ steps.post.outputs.dia }}"
+
+      - name: Legenda no resumo do run
+        if: steps.post.outputs.tem == 'true'
+        run: |
+          {
+            echo "## Legenda de ${{ steps.post.outputs.dia }}"
+            echo
+            cat "insta-terra-gentil/saida/${{ steps.post.outputs.dia }}/${{ steps.post.outputs.dia }}-legenda.txt"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Guardar a previa (7 dias)
+        if: steps.post.outputs.tem == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: carrossel-${{ steps.post.outputs.dia }}
+          path: insta-terra-gentil/saida/${{ steps.post.outputs.dia }}/
+          retention-days: 7

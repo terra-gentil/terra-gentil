@@ -17,51 +17,27 @@
 12. `dados/bruto-exemplo.json` (formato do que a rotina escreve, 7 fatos reais do ebook da jiboia com pagina e trecho) e `dados/post-exemplo.json`.
 13. 110 testes em `npm --prefix insta-terra-gentil test`, incluindo um que impede o prompt da rotina e o guia de voz de divergirem do codigo (limites, series, prefixo de branch, pastas).
 
-### Como o TriggerAll funciona (lido em C:Gitlab_hz	riggerall, 26/10)
+### Como o TriggerAll funciona (lido em C:/Gitlab_hz/triggerall, 26/10)
 - Gatilho = `{ name, type: "github_workflow", config: { owner, repo, workflow_id, ref, token_env, inputs }, schedule (cron UTC), on_success_trigger_id }`, cadastrado no painel (login com senha). Ele mesmo dispara o workflow no horario, por isso os workflows nao tem `schedule` no YAML.
 - `POST /webhooks/github` (assinado com HMAC, segredo `GITHUB_WEBHOOK_SECRET` no Railway): em `push` na ref `refs/heads/claude/news-routine-*` dispara na hora o gatilho cujo `config.repo` = nome do repo e `config.workflow_id` = `publish-instagram.yml`. Isso esta FIXO no codigo (webhooks.js).
 - Ao fim de um workflow (`workflow_run` completed) registra o resultado e encadeia `on_success_trigger_id`. Dedup de 3 min.
 - Para o Terra Gentil funcionar: (a) o prefixo `claude/insta-routine-` precisa ser aceito (3 linhas em webhooks.js, hoje so `claude/news-routine-`); (b) webhook do GitHub no repo terra-gentil/terra-gentil apontando para o Railway, com o mesmo segredo; (c) um gatilho com `repo: "terra-gentil"` e `workflow_id: "publish-instagram.yml"`; (d) o PAT do Railway (`token_env`) precisa de acesso a Actions do repo da org terra-gentil (hoje e conta andrehz4).
 
-### Estado atual
-- Funcionam e estao testadas: pauta por RSS, busca/download de foto, `montar-dia` (roteiro de 8 slides vira PNGs + legenda), e agora o lado do repo da rotina (CLI, conferencia dos fatos, validador do ramo).
-- NAO existe ainda: o workflow `publish-instagram.yml` (merge validado + render + previa + publicacao), a rotina criada no claude.ai, o webhook e o gatilho no TriggerAll.
-- Licenca de foto: padrao aceita so CC0, dominio publico e CC BY. CC BY-SA fica FORA. Com 50 resultados sobram 2 a 6 fotos seguras por especie comum.
+### Estado atual (fim de 26/10)
+- Funcionam e estao testadas: pauta por RSS, busca/download de foto, `montar-dia`, e o lado do repo da rotina (CLI, conferencia dos fatos contra o livro, validador do ramo, orquestracao do merge).
+- Merge da rotina testado de ponta a ponta com git de verdade num remoto local (so o `gh` simulado): ramo bom entra e a branch e apagada; commit de outra conta, diff que mexe em codigo e post adulterado sao RECUSADOS e a main fica intacta.
+- `.github/workflows/publish-instagram.yml` criado (so `workflow_dispatch`): job 1 valida e mescla, job 2 renderiza o post do dia e guarda os 8 PNGs e a legenda como artefato. YAML validado, mas NAO executado no GitHub ainda. Publicacao no Instagram ainda nao existe.
+- TriggerAll (repo terra-gentil/triggerall): `webhooks.js` agora aceita `claude/insta-routine-*` alem de `claude/news-routine-*`, 2 testes novos, 9/9 passando, push feito (1c61803). Railway deve redeployar sozinho.
+- Licenca de foto: padrao aceita so CC0, dominio publico e CC BY. CC BY-SA fica FORA.
 
 ### Proximo passo
-1. Andre decide o prefixo da branch: (A) ajustar o TriggerAll para aceitar `claude/insta-routine-` (recomendado) ou (B) usar `claude/news-routine-` sem mexer no TriggerAll.
-2. Workflow `.github/workflows/publish-instagram.yml`, so `workflow_dispatch`: passo 1 valida e mescla o ramo (`validar.mjs` + `conferir`), passo 2 renderiza o post do dia (foto + `montar-dia`), passo 3 manda a previa no Telegram. Publicacao no Instagram depois.
-3. Andre: webhook no repo, gatilho no TriggerAll, PAT com acesso ao repo da org, e criar a rotina no claude.ai com o prompt curto (horario a combinar, sugestao 04:00 BRT).
+1. Andre (acessos que eu nao tenho): (a) webhook no repo terra-gentil/terra-gentil (Settings, Webhooks) apontando para `https://triggerall-production.up.railway.app/api/webhooks/github`, evento push, mesmo segredo do `GITHUB_WEBHOOK_SECRET` do Railway; (b) gatilho no painel do TriggerAll com owner `terra-gentil`, repo `terra-gentil`, workflow `publish-instagram.yml`, ref `main`; (c) PAT no Railway (`token_env`) com permissao de Actions no repo da org terra-gentil.
+2. Criar a rotina no claude.ai (04:00 BRT) com o prompt curto mandando seguir `insta-terra-gentil/pauta/routine-prompt.md`.
+3. ETAPA NOVA, pedida pelo Andre: noticias no site com SEO e GA4, no mesmo momento do Instagram. Plano completo em `docs/ETAPA-NOTICIAS-SITE.md` (N1 a N6). Risco principal: Vercel pode bloquear o deploy do commit do bot.
 4. Andre decide a foto: lista curada por especie em `dados/fotos.json` (vazio hoje) ou automatico com conferencia na previa.
-5. Noticias do RSS como segunda fonte de pauta (a rotina le `_pending` como no Pearl Jam).
-6. Opcional: Pixabay ou Unsplash como segundo provedor quando houver chave.
-ntil
-
-## Sessao 2026-10-26 (tarde: pauta por RSS e banco de imagem)
-
-### O que foi feito
-1. Pexels: a emissao de chave nova da API esta PAUSADA ("New API key issuance is currently paused"). Trocamos por Wikimedia Commons (sem chave).
-2. `pauta/feed.mjs`, `coletar.mjs`, `filtrar.mjs`: le o RSS das fontes e filtra (14 dias, sem repetir, so dominio da lista). Guarda so titulo, link, data e categorias, nunca o texto. Testado na rede: 80 itens, 60 apos o filtro. 4 das 7 fontes tem feed (campo `feed` em `dados/fontes-noticias.json`). RHS e Gardenary dao 404; Backyard Gardener esta atras de Cloudflare (nao contornar).
-3. `imagem/commons.mjs`, `escolher.mjs`, `banco.mjs` (+ README): `buscarFoto(especie)` devolve a melhor foto vertical 1080+ com credito. Provedor e uma funcao `(termo) => candidatos`, entao Pixabay/Unsplash entram depois sem mexer no resto.
-4. Banco reserva: `imagem/openverse.mjs` (Openverse, sem chave, mais iNaturalist e Flickr). `banco.mjs` tenta Commons primeiro e so cai no reserva se nao achar foto segura. Credito agora cita a fonte real. Limites do Openverse anonimo: page_size ate 20, 20/min, 200/dia, latencia de 0,1 a 45 s (prazo de 60 s).
-5. `imagem/baixar.mjs` (baixa a foto e grava o credito) e filtro de titulo/categoria contra flor, fruto e ilustracao. Renderizadas 5 capas de exemplo com fotos reais nos moldes: 2 boas (jiboia, espada-de-sao-jorge), 3 fracas (folha seca de monstera, lirio-da-paz so com o espadice, manjericao no mato).
-6. Descoberta: nome de espécie longo (espada-de-sao-jorge) quebra em 3 linhas no molde jornal e empurra o rodape para fora do slide. Tratar no montar-dia.
-7. `carrossel/montar-dia.mjs` + `cli.mjs`, `estrutura.mjs`, `foto-do-dia.mjs`, `legenda.mjs`, `estouro.mjs`: de um roteiro de 8 slides sai o carrossel inteiro (PNG 1080x1350, legenda, ficha) em 10 s. Rodado de verdade com foto da rede: `node carrossel/cli.mjs dados/post-exemplo.json 2026-10-26`. A checagem de estouro pegou o rodape cortado do molde jornal com "espada-de-sao-jorge". Estrutura assumida: capa, problema x3, passo x2, problema, final (constante em `estrutura.mjs`).
-8. `pauta/ideia.mjs` (+ `esquema.mjs`, `prompt.mjs`, `ideia-cli.mjs`): o Claude escreve o roteiro de 8 slides, o gancho e o resumo a partir de FATOS com fonte. SDK oficial `@anthropic-ai/sdk`, modelo `claude-opus-5-5`, saida estruturada em JSON Schema, fallback automatico de recusa (`fallbacks: "default"`, beta server-side-fallback-2026-07-01) ligado por padrao. Regras no codigo: so os fatos numerados, toxicidade/pet so com fonte ASPCA ou Sinitox, travessao proibido, limite de caracteres por campo (`LIMITES_TEXTO`), fechamento "Gentileza gera gentileza" fixo no codigo, `fatosUsados` rastreia a fonte. Sem chave, a CLI desliga com mensagem. NAO rodado com o modelo de verdade: falta `ANTHROPIC_API_KEY` (testado com cliente simulado).
-9. `dados/pauta-exemplo.json`: 8 fatos REAIS do ebook da jiboia, com pagina (extraidos com pdftotext). `dados/post-exemplo.json` reescrito so com esses fatos (o antigo tinha conselho que nao estava no livro). Renderizado nos moldes manchete, jornal e lambe sem estouro.
-10. 95 testes em `npm --prefix insta-terra-gentil test`.
-
-### Estado atual
-- Pauta por RSS e busca de foto funcionam, ainda nao ligadas entre si nem ao `montar-dia.mjs`.
-- Licenca: padrao aceita so CC0, dominio publico e CC BY. CC BY-SA fica FORA (escurecer e por texto na foto e adaptacao, a licenca exigiria publicar o slide em BY-SA). Com 50 resultados sobram 2 a 6 fotos seguras por especie comum (jiboia 6, lirio-da-paz 6, monstera 4, manjericao 2). Com BY-SA seriam 24 a 34.
-- Falta baixar a foto para disco (hoje so devolve a URL de 1600 px).
-
-### Proximo passo
-1. Andre decide: manter so CC0/CC BY (mais seguro, menos fotos) ou aceitar CC BY-SA e publicar o credito com a licenca.
-2. Escolha de foto: lista curada por especie (as 19 dos ebooks) em `dados/fotos.json` (hoje vazio, o `montar-dia` ja le), banco automatico so como reserva, ou 3 candidatas na previa. Decisao do Andre.
-3. `pauta/ideia.mjs`: Claude escreve o roteiro de 8 slides do zero (formato de `dados/post-exemplo.json`) a partir da pauta, so com fato que tenha fonte.
-4. Previa no Telegram (`aprovacao/`), fila e publicacao (`publicar/`).
-6. Opcional: Pixabay ou Unsplash como segundo provedor quando houver chave.
+5. Previa no Telegram e publicacao na Graph API (depois do workflow rodar de verdade).
+6. Noticias do RSS como segunda fonte de pauta (a rotina le `_pending` como no Pearl Jam).
+7. Opcional: Pixabay ou Unsplash como segundo provedor quando houver chave.
 
 ## Sessao 2026-10-26 (insta-terra-gentil: carrossel a partir de noticias)
 

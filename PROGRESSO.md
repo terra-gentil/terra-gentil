@@ -10,7 +10,9 @@
 5. `imagem/baixar.mjs` (baixa a foto e grava o credito) e filtro de titulo/categoria contra flor, fruto e ilustracao. Renderizadas 5 capas de exemplo com fotos reais nos moldes: 2 boas (jiboia, espada-de-sao-jorge), 3 fracas (folha seca de monstera, lirio-da-paz so com o espadice, manjericao no mato).
 6. Descoberta: nome de espécie longo (espada-de-sao-jorge) quebra em 3 linhas no molde jornal e empurra o rodape para fora do slide. Tratar no montar-dia.
 7. `carrossel/montar-dia.mjs` + `cli.mjs`, `estrutura.mjs`, `foto-do-dia.mjs`, `legenda.mjs`, `estouro.mjs`: de um roteiro de 8 slides sai o carrossel inteiro (PNG 1080x1350, legenda, ficha) em 10 s. Rodado de verdade com foto da rede: `node carrossel/cli.mjs dados/post-exemplo.json 2026-10-26`. A checagem de estouro pegou o rodape cortado do molde jornal com "espada-de-sao-jorge". Estrutura assumida: capa, problema x3, passo x2, problema, final (constante em `estrutura.mjs`).
-8. 86 testes em `npm --prefix insta-terra-gentil test`.
+8. `pauta/ideia.mjs` (+ `esquema.mjs`, `prompt.mjs`, `ideia-cli.mjs`): o Claude escreve o roteiro de 8 slides, o gancho e o resumo a partir de FATOS com fonte. SDK oficial `@anthropic-ai/sdk`, modelo `claude-opus-5-5`, saida estruturada em JSON Schema, fallback automatico de recusa (`fallbacks: "default"`, beta server-side-fallback-2026-07-01) ligado por padrao. Regras no codigo: so os fatos numerados, toxicidade/pet so com fonte ASPCA ou Sinitox, travessao proibido, limite de caracteres por campo (`LIMITES_TEXTO`), fechamento "Gentileza gera gentileza" fixo no codigo, `fatosUsados` rastreia a fonte. Sem chave, a CLI desliga com mensagem. NAO rodado com o modelo de verdade: falta `ANTHROPIC_API_KEY` (testado com cliente simulado).
+9. `dados/pauta-exemplo.json`: 8 fatos REAIS do ebook da jiboia, com pagina (extraidos com pdftotext). `dados/post-exemplo.json` reescrito so com esses fatos (o antigo tinha conselho que nao estava no livro). Renderizado nos moldes manchete, jornal e lambe sem estouro.
+10. 95 testes em `npm --prefix insta-terra-gentil test`.
 
 ### Estado atual
 - Pauta por RSS e busca de foto funcionam, ainda nao ligadas entre si nem ao `montar-dia.mjs`.
@@ -22,7 +24,7 @@
 2. Escolha de foto: lista curada por especie (as 19 dos ebooks) em `dados/fotos.json` (hoje vazio, o `montar-dia` ja le), banco automatico so como reserva, ou 3 candidatas na previa. Decisao do Andre.
 3. `pauta/ideia.mjs`: Claude escreve o roteiro de 8 slides do zero (formato de `dados/post-exemplo.json`) a partir da pauta, so com fato que tenha fonte.
 4. Previa no Telegram (`aprovacao/`), fila e publicacao (`publicar/`).
-5. Opcional: Pixabay ou Unsplash como segundo provedor quando houver chave.
+6. Opcional: Pixabay ou Unsplash como segundo provedor quando houver chave.
 
 ## Sessao 2026-10-26 (insta-terra-gentil: carrossel a partir de noticias)
 

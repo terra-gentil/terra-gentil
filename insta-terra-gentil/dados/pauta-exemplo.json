@@ -1,0 +1,42 @@
+{
+  "_sobre": "Pauta de EXEMPLO para o ideia.mjs. Os fatos saíram do ebook 'Jiboia: A Planta que Perdoa Tudo' (public/ebooks/16-Jiboia-na-Sala.pdf), com a página de cada um. Formato que o futuro pauta/extrair.mjs vai produzir.",
+  "serie": "3 erros",
+  "especie": "Epipremnum aureum",
+  "nome": "jiboia",
+  "gancho": "Os erros de rega que mais prejudicam a jiboia",
+  "palavra": "JIBOIA",
+  "fatos": [
+    {
+      "texto": "Regar todo dia só um pouquinho é fatal: molhar só a superfície engana e não hidrata a raiz profunda, e a umidade constante apodrece o colo da planta.",
+      "fonte": "Jiboia: A Planta que Perdoa Tudo, p. 12"
+    },
+    {
+      "texto": "Correção: regar bastante, até a água sair pelos furos, mas poucas vezes, só quando a terra secar.",
+      "fonte": "Jiboia: A Planta que Perdoa Tudo, p. 12"
+    },
+    {
+      "texto": "Vaso decorativo sem furo (cachepot) serve só para esconder o vaso de plástico que tem furo. Na hora de regar, tire o vaso de plástico de dentro, regue na pia, deixe escorrer e devolva.",
+      "fonte": "Jiboia: A Planta que Perdoa Tudo, p. 12"
+    },
+    {
+      "texto": "Borrifar água nas folhas todo dia é um mito: a planta obtém a água pelas raízes, e borrifar diariamente em lugar sem ventilação favorece fungos. Regar bem a terra é sempre mais importante.",
+      "fonte": "Jiboia: A Planta que Perdoa Tudo, p. 12"
+    },
+    {
+      "texto": "Esqueça o calendário fixo de rega, o tempo e a umidade mudam. Método do dedo: enfie o dedo na terra até a segunda falange. Saiu sujo ou úmido, não regue. Saiu limpo e seco, hora de regar.",
+      "fonte": "Jiboia: A Planta que Perdoa Tudo, p. 9"
+    },
+    {
+      "texto": "Dica do André: regue até a água sair pelos furinhos de baixo e deixe escorrer bem antes de colocar a planta de volta no lugar.",
+      "fonte": "Jiboia: A Planta que Perdoa Tudo, p. 9"
+    },
+    {
+      "texto": "O maior erro é querer cuidar demais. Se está em dúvida se deve fazer algo, provavelmente não deve. Menos é mais no cuidado com plantas.",
+      "fonte": "Jiboia: A Planta que Perdoa Tudo, p. 11"
+    },
+    {
+      "texto": "A jiboia aguenta o tranco: tolera um pouco de esquecimento e ambientes sem a luz perfeita de capa de revista.",
+      "fonte": "Jiboia: A Planta que Perdoa Tudo, p. 3"
+    }
+  ]
+}

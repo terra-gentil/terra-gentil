@@ -1,62 +1,70 @@
 {
-  "_sobre": "EXEMPLO para testar o montar-dia. Texto de teste, sem fonte, NÃO publicar. O roteiro real vem de pauta/ideia.mjs.",
+  "_sobre": "EXEMPLO para testar o montar-dia. Escrito à mão a partir dos fatos de dados/pauta-exemplo.json (ebook da jiboia, com página). Mostra o formato que pauta/ideia.mjs devolve. Antes de publicar de verdade, passar pela prévia do André.",
   "especie": "Epipremnum aureum",
-  "gancho": "Jiboia com folha amarela? Quase sempre o problema é água demais.",
-  "resumo": "Três gestos simples para regar na hora certa: sentir a terra, esvaziar o pires e molhar devagar.",
+  "nome": "jiboia",
+  "serie": "3 erros",
+  "gancho": "O erro que mais prejudica a jiboia: regar todo dia só um pouquinho.",
+  "resumo": "Três erros de rega e dois gestos simples: o teste do dedo e regar até a água sair pelos furos.",
   "palavra": "JIBOIA",
+  "fatosUsados": [0, 1, 2, 3, 4, 5, 6],
+  "fontes": [
+    "Jiboia: A Planta que Perdoa Tudo, p. 12",
+    "Jiboia: A Planta que Perdoa Tudo, p. 9",
+    "Jiboia: A Planta que Perdoa Tudo, p. 11"
+  ],
   "slides": [
     {
       "tarja": "Jardinagem ✺ Rega",
-      "linha1": "Jiboia com",
-      "linha2": "folha amarela?",
-      "linha3": "quase sempre é",
-      "destaque": "água demais"
+      "linha1": "O erro que mais",
+      "linha2": "mata a jiboia",
+      "linha3": "é regar",
+      "destaque": "todo dia"
     },
     {
-      "tarja": "O problema",
-      "linha1": "Você rega",
-      "linha2": "todo dia e ela",
-      "destaque": "piora?",
-      "texto": "A jiboia guarda água nas raízes. Quando o vaso fica sempre molhado, as raízes não respiram e as folhas amarelam.",
+      "tarja": "Erro 1",
+      "linha1": "Regar todo dia",
+      "linha2": "só um",
+      "destaque": "pouquinho",
+      "texto": "Molhar só a superfície engana. A raiz não bebe e a umidade constante apodrece o colo da planta.",
       "nota": "Calma, não é culpa sua."
     },
     {
-      "tarja": "Erro comum",
+      "tarja": "Erro 2",
       "linha1": "Regar pelo",
-      "linha2": "calendário, não pelo",
-      "destaque": "toque",
-      "texto": "Cada casa tem a sua luz e o seu calor. O dia de regar muda. Quem manda é a terra, não o calendário.",
+      "linha2": "calendário e não",
+      "destaque": "pelo dedo",
+      "texto": "O tempo muda e a umidade muda. Esqueça o \"toda quarta\" e deixe a terra dizer a hora.",
       "nota": "Quase todo mundo começa assim."
     },
     {
-      "tarja": "Outro erro",
-      "linha1": "Água parada",
-      "linha2": "no",
-      "destaque": "pires",
-      "texto": "O pires cheio deixa o fundo do vaso encharcado. Esvazie depois de meia hora.",
+      "tarja": "Erro 3",
+      "linha1": "Vaso bonito",
+      "linha2": "sem",
+      "destaque": "furo",
+      "texto": "O cachepot serve só para esconder o vaso de plástico. Regue na pia, deixe escorrer e devolva.",
       "nota": "Um gesto pequeno resolve."
     },
     {
       "linha1": "Enfie o dedo",
-      "linha2": "na terra até",
-      "destaque": "dois dedos",
-      "texto": "Se a terra estiver úmida e escura aí embaixo, ainda não precisa regar.",
-      "dica": "Na dúvida, espere mais um dia. A jiboia perdoa a sede melhor que o excesso."
+      "linha2": "na terra até a",
+      "destaque": "segunda falange",
+      "texto": "Saiu sujo ou úmido? Não regue. Saiu limpo e seco? Hora de regar.",
+      "dica": "Na dúvida se deve fazer algo, provavelmente não deve. Menos é mais."
     },
     {
-      "linha1": "Seca? Regue",
-      "linha2": "devagar até sair",
-      "destaque": "pelo fundo",
-      "texto": "Molhe toda a terra e espere escorrer. Depois devolva a planta ao lugar dela.",
-      "dica": "Água em temperatura ambiente, sem gelo e sem pressa."
+      "linha1": "Hora de regar?",
+      "linha2": "Regue até sair",
+      "destaque": "por baixo",
+      "texto": "Molhe bastante, até a água sair pelos furinhos, e só repita quando a terra secar de novo.",
+      "dica": "Deixe escorrer bem antes de devolver a planta ao lugar."
     },
     {
-      "tarja": "Fique de olho",
-      "linha1": "Folha mole e",
-      "linha2": "amarela?",
-      "destaque": "é sinal",
-      "texto": "Excesso deixa a folha amarela e mole. Falta deixa a folha murcha e seca nas pontas. Olhar a terra ensina qual é.",
-      "nota": "A planta sempre avisa."
+      "tarja": "Mito",
+      "linha1": "Borrifar a folha",
+      "linha2": "todo dia",
+      "destaque": "ajuda?",
+      "texto": "Não. A planta bebe pelas raízes, e borrifar sem ventilação ainda favorece fungos.",
+      "nota": "Regar bem a terra vale mais."
     },
     {
       "tarja": "Para levar",

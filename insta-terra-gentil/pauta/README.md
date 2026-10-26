@@ -18,5 +18,23 @@ Os `pontos` ficam vazios até serem escritos do zero. Link só vale se o domíni
 Saída: `{ origem: "noticia", serie, especie, gancho, pontos: [], palavra: null, fontes, status }`.
 Buscar as notícias na rede (scraper) ainda não existe.
 
-Hoje: `series.mjs` (nomes das séries), `noticias.mjs`. Previstos: `extrair.mjs` (fatos por
-espécie), `fila.mjs` (grava a pauta em `dados/pautas.json`).
+## Roteiro: o Claude escreve o post
+
+`ideia.mjs` recebe uma pauta com `fatos` (texto + fonte, ex.: "Jiboia: A Planta que Perdoa Tudo,
+p. 12") e devolve o post: gancho, resumo, 8 slides, `fatosUsados` e `fontes`. Exemplo de
+entrada em `dados/pauta-exemplo.json`, de saída em `dados/post-exemplo.json`.
+
+- `esquema.mjs`: JSON Schema da resposta (um objeto por slide). O fechamento da marca é fixo.
+- `prompt.mjs`: a voz do André, as regras de fato e `validarFatos` (mínimo 3 fatos com fonte;
+  toxicidade e pet só com ASPCA ou Sinitox).
+- `ideia.mjs`: chama a API (SDK oficial, `claude-opus-5-5`, saída estruturada, fallback de recusa
+  ligado) e valida o roteiro com `problemasDoRoteiro` (travessão, campo vazio, tamanho).
+- `ideia-cli.mjs`: `node pauta/ideia-cli.mjs <pauta.json> [saida.json]`. Precisa de
+  `ANTHROPIC_API_KEY` (ou `ant auth login`); sem credencial a parte fica desligada.
+
+O texto sai do zero a partir dos fatos, nunca copiado. O André confere tudo na prévia antes de
+publicar: o código barra o óbvio, mas não prova que uma frase é verdadeira.
+
+Hoje: `series.mjs`, `noticias.mjs`, `feed.mjs`, `coletar.mjs`, `filtrar.mjs`, `esquema.mjs`,
+`prompt.mjs`, `ideia.mjs`. Previstos: `extrair.mjs` (fatos por espécie), `fila.mjs` (grava a
+pauta em `dados/pautas.json`).

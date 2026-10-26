@@ -21,6 +21,19 @@ export const TEXTOS_OBRIGATORIOS = Object.freeze({
   final: ['tarja', 'linha1', 'linha2', 'destaque', 'texto'],
 });
 
+// Tamanho máximo por campo, em caracteres. Passou disso o texto estoura o slide nos moldes
+// (a checagem de estouro no render é a palavra final; isto barra o óbvio antes de gastar render).
+export const LIMITES_TEXTO = Object.freeze({
+  tarja: 28,
+  linha1: 22,
+  linha2: 22,
+  linha3: 22,
+  destaque: 16,
+  texto: 200,
+  nota: 90,
+  dica: 120,
+});
+
 const TRAVESSAO = /[—–]/;
 
 // Lista de problemas do roteiro (vazia = pode montar). Travessão é proibido em texto de post.
@@ -38,8 +51,13 @@ export function problemasDoRoteiro(slides) {
       }
     }
     for (const [campo, valor] of Object.entries(slide ?? {})) {
-      if (typeof valor === 'string' && TRAVESSAO.test(valor)) {
-        problemas.push(`slide ${i + 1}: travessão em "${campo}"`);
+      if (typeof valor !== 'string') continue;
+      if (TRAVESSAO.test(valor)) problemas.push(`slide ${i + 1}: travessão em "${campo}"`);
+      const maximo = LIMITES_TEXTO[campo];
+      if (maximo && valor.length > maximo) {
+        problemas.push(
+          `slide ${i + 1}: "${campo}" com ${valor.length} caracteres (máximo ${maximo})`,
+        );
       }
     }
   });

@@ -1,0 +1,123 @@
+{
+  "dia": "2026-10-27",
+  "palavra": "CODIGO",
+  "especie": "Epipremnum aureum",
+  "nome": "Jiboia",
+  "serie": "Socorro",
+  "gancho": "Folha amarela e mole? Sua planta não está morrendo, está pedindo socorro.",
+  "resumo": "Três sinais das folhas e do caule, o que cada um quer dizer e o que fazer primeiro: parar de regar e deixar escorrer.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Sinais",
+      "linha1": "Folha amarela",
+      "linha2": "e mole? A jiboia",
+      "linha3": "pede",
+      "destaque": "socorro"
+    },
+    {
+      "tarja": "Sinal 1",
+      "linha1": "Folha amarela",
+      "linha2": "e mole: ela está",
+      "destaque": "se afogando",
+      "texto": "É água demais. Pare de regar agora e olhe a drenagem do vaso.",
+      "nota": "Calma, dá para reverter."
+    },
+    {
+      "tarja": "Sinal 2",
+      "linha1": "Folha marrom",
+      "linha2": "e crocante: é",
+      "destaque": "sede",
+      "texto": "Aqui falta água. Ajuda a rega de imersão ou deixar o ar mais úmido.",
+      "nota": "Cada sinal tem um jeito."
+    },
+    {
+      "tarja": "Sinal 3",
+      "linha1": "Caule longo",
+      "linha2": "e fino: falta",
+      "destaque": "luz",
+      "texto": "A planta está esticando atrás de claridade. Mude de lugar aos poucos, para perto da janela.",
+      "nota": "Sem pressa, sem susto."
+    },
+    {
+      "linha1": "Folha amarela?",
+      "linha2": "Pare de",
+      "destaque": "regar",
+      "texto": "Suspenda a rega agora e confira se a água do vaso consegue sair pelos furos.",
+      "dica": "Não entre em pânico, entre em ação."
+    },
+    {
+      "linha1": "Depois da rega,",
+      "linha2": "deixe",
+      "destaque": "escorrer",
+      "texto": "Espere o excesso de água sair por completo antes de devolver a planta ao lugar.",
+      "dica": "Prato cheio? Jogue a água fora."
+    },
+    {
+      "tarja": "Cuidado",
+      "linha1": "Folha murcha",
+      "linha2": "é sempre",
+      "destaque": "sede?",
+      "texto": "Nem sempre. Com a raiz apodrecida por excesso de água, a planta parece desidratada.",
+      "nota": "Olhe a terra antes de regar."
+    },
+    {
+      "texto": "A folha só está conversando com você. Salve este post para a próxima vez que ela falar.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "Folha amarela e mole quer dizer excesso de água. A cura é parar de regar na hora e verificar a drenagem.",
+      "pagina": 26,
+      "trecho": "Tradução: 'Socorro! Estou me afogando!' Cura: Pare de regar imediatamente",
+      "fonte": "O Código Secreto das Plantas, p. 26"
+    },
+    {
+      "texto": "Folha marrom e crocante quer dizer sede. Ajuda a rega de imersão ou mais umidade no ar.",
+      "pagina": 26,
+      "trecho": "Tradução: 'Estou desidratada!' Cura: Rega de imersão ou aumente a umidade do ar.",
+      "fonte": "O Código Secreto das Plantas, p. 26"
+    },
+    {
+      "texto": "Caule longo e fino quer dizer falta de luz. Mova a planta aos poucos para perto da janela.",
+      "pagina": 26,
+      "trecho": "Tradução: 'Onde está a luz?' Cura: Mova gradualmente para perto da janela.",
+      "fonte": "O Código Secreto das Plantas, p. 26"
+    },
+    {
+      "texto": "Raiz apodrecida não bebe água, e por isso a planta encharcada pode parecer com sede, com folhas murchas.",
+      "pagina": 10,
+      "trecho": "Uma raiz podre não consegue absorver água, o que ironicamente faz a planta parecer desidratada (folhas murchas).",
+      "fonte": "O Código Secreto das Plantas, p. 10"
+    },
+    {
+      "texto": "Depois de regar, deixe o excesso de água escorrer por completo.",
+      "pagina": 15,
+      "trecho": "Deixe o excesso de água escorrer completamente.",
+      "fonte": "O Código Secreto das Plantas, p. 15"
+    },
+    {
+      "texto": "A folha que muda de cor é uma mensagem urgente da planta. Não entre em pânico, entre em ação.",
+      "pagina": 25,
+      "trecho": "Não entre em pânico; entre em ação.",
+      "fonte": "O Código Secreto das Plantas, p. 25"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "fontes": [
+    "O Código Secreto das Plantas, p. 26",
+    "O Código Secreto das Plantas, p. 10",
+    "O Código Secreto das Plantas, p. 15",
+    "O Código Secreto das Plantas, p. 25"
+  ]
+}

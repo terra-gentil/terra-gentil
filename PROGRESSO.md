@@ -28,11 +28,12 @@
 - Merge da rotina testado de ponta a ponta com git de verdade num remoto local (so o `gh` simulado): ramo bom entra e a branch e apagada; commit de outra conta, diff que mexe em codigo e post adulterado sao RECUSADOS e a main fica intacta.
 - `.github/workflows/publish-instagram.yml` criado (so `workflow_dispatch`): job 1 valida e mescla, job 2 renderiza o post do dia e guarda os 8 PNGs e a legenda como artefato. YAML validado, mas NAO executado no GitHub ainda. Publicacao no Instagram ainda nao existe.
 - TriggerAll (repo terra-gentil/triggerall): `webhooks.js` agora aceita `claude/insta-routine-*` alem de `claude/news-routine-*`, 2 testes novos, 9/9 passando, push feito (1c61803). Railway deve redeployar sozinho.
+- ROTINA CRIADA no claude.ai: `trig_01BH4izGfvqgUA9V7hmgMPVR` (https://claude.ai/code/routines/trig_01BH4izGfvqgUA9V7hmgMPVR), todo dia 07:00 UTC = 04:00 BRT, claude-sonnet-5-5, so o repo terra-gentil/terra-gentil, SEM conectores (o servidor anexou Gmail, Drive e Docs sozinho; removi). Primeira execucao: 27/10 as 04:08 BRT. Ela empurra uma branch `claude/insta-routine-*`; enquanto o webhook e o gatilho do TriggerAll nao existirem, a branch fica esperando (o workflow pode ser disparado a mao: `gh workflow run publish-instagram.yml`).
 - Licenca de foto: padrao aceita so CC0, dominio publico e CC BY. CC BY-SA fica FORA.
 
 ### Proximo passo
 1. Andre (acessos que eu nao tenho): (a) webhook no repo terra-gentil/terra-gentil (Settings, Webhooks) apontando para `https://triggerall-production.up.railway.app/api/webhooks/github`, evento push, mesmo segredo do `GITHUB_WEBHOOK_SECRET` do Railway; (b) gatilho no painel do TriggerAll com owner `terra-gentil`, repo `terra-gentil`, workflow `publish-instagram.yml`, ref `main`; (c) PAT no Railway (`token_env`) com permissao de Actions no repo da org terra-gentil.
-2. Criar a rotina no claude.ai (04:00 BRT) com o prompt curto mandando seguir `insta-terra-gentil/pauta/routine-prompt.md`.
+2. (feito) Rotina criada. Opcional: rodar agora para testar tudo de ponta a ponta (rotina, branch, workflow, merge) sem esperar as 04:00.
 3. ETAPA NOVA, pedida pelo Andre: noticias no site com SEO e GA4, no mesmo momento do Instagram. Plano completo em `docs/ETAPA-NOTICIAS-SITE.md` (N1 a N6). Risco principal: Vercel pode bloquear o deploy do commit do bot.
 4. Andre decide a foto: lista curada por especie em `dados/fotos.json` (vazio hoje) ou automatico com conferencia na previa.
 5. Previa no Telegram e publicacao na Graph API (depois do workflow rodar de verdade).

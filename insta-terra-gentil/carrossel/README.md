@@ -44,3 +44,19 @@ conversor não conhece, ele derruba a execução com o nome do campo, nunca sai 
 
 Hoje: `rotacao.mjs`, `contrato.mjs`, `moldes.mjs`, `dc/`, `render.mjs`. Previstos:
 `legenda.mjs` e o `montar-dia.mjs` que liga pauta, foto, molde do dia e render.
+
+## Montar o dia
+
+`node carrossel/cli.mjs <post.json> [AAAA-MM-DD]` gera em `saida/<dia>/` os 8 PNGs, a
+`<dia>-legenda.txt` e a `<dia>-ficha.json` (molde, foto, crédito, avisos). Exemplo de roteiro em
+`dados/post-exemplo.json` (texto de teste, não publicar).
+
+- `estrutura.mjs`: ordem dos 8 slides (capa, problema x3, passo x2, problema, final) e validação do
+  roteiro: campos obrigatórios por tipo e travessão proibido. Passo ganha "Passo N" e "0N" sozinho.
+- `foto-do-dia.mjs`: foto curada da espécie (`dados/fotos.json`) ou, sem ela, o banco gratuito.
+- `legenda.mjs`: gancho, resumo, chamada da palavra-chave do ebook, Doutor, crédito e hashtags.
+  Máximo de 2200 caracteres, sem travessão.
+- `montar-dia.mjs`: junta tudo. Molde pela rotação, foto em data URI, mascote (pose por slide) e
+  foto do André só onde o contrato pede, contador N/8. Dependências injetáveis (teste sem rede).
+- `estouro.mjs`: depois de renderizar, mede no Chrome os textos que passam da borda do slide
+  (rodapé cortado, por exemplo) e devolve em `avisos`. Não derruba a montagem, o Telegram mostra.

@@ -9,7 +9,8 @@
 4. Banco reserva: `imagem/openverse.mjs` (Openverse, sem chave, mais iNaturalist e Flickr). `banco.mjs` tenta Commons primeiro e so cai no reserva se nao achar foto segura. Credito agora cita a fonte real. Limites do Openverse anonimo: page_size ate 20, 20/min, 200/dia, latencia de 0,1 a 45 s (prazo de 60 s).
 5. `imagem/baixar.mjs` (baixa a foto e grava o credito) e filtro de titulo/categoria contra flor, fruto e ilustracao. Renderizadas 5 capas de exemplo com fotos reais nos moldes: 2 boas (jiboia, espada-de-sao-jorge), 3 fracas (folha seca de monstera, lirio-da-paz so com o espadice, manjericao no mato).
 6. Descoberta: nome de espécie longo (espada-de-sao-jorge) quebra em 3 linhas no molde jornal e empurra o rodape para fora do slide. Tratar no montar-dia.
-7. 75 testes em `npm --prefix insta-terra-gentil test`.
+7. `carrossel/montar-dia.mjs` + `cli.mjs`, `estrutura.mjs`, `foto-do-dia.mjs`, `legenda.mjs`, `estouro.mjs`: de um roteiro de 8 slides sai o carrossel inteiro (PNG 1080x1350, legenda, ficha) em 10 s. Rodado de verdade com foto da rede: `node carrossel/cli.mjs dados/post-exemplo.json 2026-10-26`. A checagem de estouro pegou o rodape cortado do molde jornal com "espada-de-sao-jorge". Estrutura assumida: capa, problema x3, passo x2, problema, final (constante em `estrutura.mjs`).
+8. 86 testes em `npm --prefix insta-terra-gentil test`.
 
 ### Estado atual
 - Pauta por RSS e busca de foto funcionam, ainda nao ligadas entre si nem ao `montar-dia.mjs`.
@@ -18,10 +19,9 @@
 
 ### Proximo passo
 1. Andre decide: manter so CC0/CC BY (mais seguro, menos fotos) ou aceitar CC BY-SA e publicar o credito com a licenca.
-2. `imagem/baixar.mjs` (baixa a foto escolhida) e filtro de titulo para evitar flor/fruto/diagrama quando a pauta e planta inteira.
-3. Escolha de foto: lista curada por espécie (as 19 dos ebooks) em `dados/fotos.json`, banco automatico so como reserva, ou mostrar 3 candidatas na previa. Decisao do Andre.
-4. `montar-dia.mjs`: pauta + foto + molde do dia + render dos 8 slides + `legenda.mjs`.
-4. `pauta/ideia.mjs` (Claude escreve os pontos do zero), prévia no Telegram (`aprovacao/`), fila e publicacao (`publicar/`).
+2. Escolha de foto: lista curada por especie (as 19 dos ebooks) em `dados/fotos.json` (hoje vazio, o `montar-dia` ja le), banco automatico so como reserva, ou 3 candidatas na previa. Decisao do Andre.
+3. `pauta/ideia.mjs`: Claude escreve o roteiro de 8 slides do zero (formato de `dados/post-exemplo.json`) a partir da pauta, so com fato que tenha fonte.
+4. Previa no Telegram (`aprovacao/`), fila e publicacao (`publicar/`).
 5. Opcional: Pixabay ou Unsplash como segundo provedor quando houver chave.
 
 ## Sessao 2026-10-26 (insta-terra-gentil: carrossel a partir de noticias)

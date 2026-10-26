@@ -7,7 +7,9 @@ export const ALTURA = 1350;
 
 // Recebe vários slides de uma vez e abre o navegador uma só vez (a parte mais lenta).
 // Local: TG_CHROME_CANAL=chrome usa o Chrome instalado. No CI: o Chromium do Playwright.
-export async function renderizar(paginas, { canal = process.env.TG_CHROME_CANAL } = {}) {
+// aoAbrir(pagina, saida) roda com a página pronta, antes do PNG (usado para medir estouro).
+export async function renderizar(paginas, opcoes = {}) {
+  const { canal = process.env.TG_CHROME_CANAL, aoAbrir } = opcoes;
   const { chromium } = await import('playwright-core');
   const navegador = await chromium.launch({ channel: canal || undefined });
   try {
@@ -16,6 +18,7 @@ export async function renderizar(paginas, { canal = process.env.TG_CHROME_CANAL 
     for (const { html, saida } of paginas) {
       await pagina.setContent(html, { waitUntil: 'networkidle' });
       await pagina.evaluate(() => document.fonts.ready);
+      if (aoAbrir) await aoAbrir(pagina, saida);
       fs.mkdirSync(path.dirname(saida), { recursive: true });
       const recorte = { x: 0, y: 0, width: LARGURA, height: ALTURA };
       await pagina.screenshot({ path: saida, clip: recorte });

@@ -1,0 +1,69 @@
+{
+  "_sobre": "EXEMPLO para testar o montar-dia. Texto de teste, sem fonte, NÃO publicar. O roteiro real vem de pauta/ideia.mjs.",
+  "especie": "Epipremnum aureum",
+  "gancho": "Jiboia com folha amarela? Quase sempre o problema é água demais.",
+  "resumo": "Três gestos simples para regar na hora certa: sentir a terra, esvaziar o pires e molhar devagar.",
+  "palavra": "JIBOIA",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Rega",
+      "linha1": "Jiboia com",
+      "linha2": "folha amarela?",
+      "linha3": "quase sempre é",
+      "destaque": "água demais"
+    },
+    {
+      "tarja": "O problema",
+      "linha1": "Você rega",
+      "linha2": "todo dia e ela",
+      "destaque": "piora?",
+      "texto": "A jiboia guarda água nas raízes. Quando o vaso fica sempre molhado, as raízes não respiram e as folhas amarelam.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Erro comum",
+      "linha1": "Regar pelo",
+      "linha2": "calendário, não pelo",
+      "destaque": "toque",
+      "texto": "Cada casa tem a sua luz e o seu calor. O dia de regar muda. Quem manda é a terra, não o calendário.",
+      "nota": "Quase todo mundo começa assim."
+    },
+    {
+      "tarja": "Outro erro",
+      "linha1": "Água parada",
+      "linha2": "no",
+      "destaque": "pires",
+      "texto": "O pires cheio deixa o fundo do vaso encharcado. Esvazie depois de meia hora.",
+      "nota": "Um gesto pequeno resolve."
+    },
+    {
+      "linha1": "Enfie o dedo",
+      "linha2": "na terra até",
+      "destaque": "dois dedos",
+      "texto": "Se a terra estiver úmida e escura aí embaixo, ainda não precisa regar.",
+      "dica": "Na dúvida, espere mais um dia. A jiboia perdoa a sede melhor que o excesso."
+    },
+    {
+      "linha1": "Seca? Regue",
+      "linha2": "devagar até sair",
+      "destaque": "pelo fundo",
+      "texto": "Molhe toda a terra e espere escorrer. Depois devolva a planta ao lugar dela.",
+      "dica": "Água em temperatura ambiente, sem gelo e sem pressa."
+    },
+    {
+      "tarja": "Fique de olho",
+      "linha1": "Folha mole e",
+      "linha2": "amarela?",
+      "destaque": "é sinal",
+      "texto": "Excesso deixa a folha amarela e mole. Falta deixa a folha murcha e seca nas pontas. Olhar a terra ensina qual é.",
+      "nota": "A planta sempre avisa."
+    },
+    {
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "linha2": "gentileza",
+      "destaque": "gera",
+      "texto": "Cuide com calma e ela devolve em folhas verdes. Salve este post para a próxima rega."
+    }
+  ]
+}

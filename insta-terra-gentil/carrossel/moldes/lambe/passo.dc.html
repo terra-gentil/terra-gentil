@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>G5 Passo 1: Lambe-lambe</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bowlby+One&amp;family=EB+Garamond:ital,wght@1,600..800&amp;family=Nunito+Sans:opsz,wght@6..12,600..900&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+a{color:#F4ECDB}a:hover{color:#E8A33D}
+</style>
+</helmet>
+<div style="width: 1080px; height: 1350px; position: relative; overflow: hidden; background: #1A2E22; color: #F4ECDB; font-family: 'Nunito Sans', sans-serif">
+  <div style="position: absolute; inset: 0; overflow: hidden">
+    <sc-if value="{{temFoto}}" hint-placeholder-val="{{false}}">
+      <img src="{{foto}}" alt="" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: {{foco}}; transform: {{zoomTf}}; transform-origin: {{foco}}; filter: saturate(1.25) contrast(1.08)">
+    </sc-if>
+    <sc-if value="{{semFoto}}" hint-placeholder-val="{{true}}">
+      <div style="position: absolute; inset: 0; background: {{sim}}; transform: {{zoomTf}}; transform-origin: {{foco}}; filter: saturate(1.25) contrast(1.08)"></div>
+    </sc-if>
+  </div>
+  <div style="position: absolute; inset: 0; background: {{veu}}"></div>
+  <div style="position: absolute; inset: 0; background: radial-gradient(ellipse at 50% 40%, rgba(11,20,16,0) 40%, rgba(11,20,16,0.7) 100%), linear-gradient(to top, rgba(11,20,16,0.55) 0%, rgba(11,20,16,0) 45%)"></div>
+
+  <sc-if value="{{semFoto}}" hint-placeholder-val="{{true}}">
+    <div style="position: absolute; top: 590px; left: 64px; border: 3px dashed #F4ECDB; border-radius: 14px; padding: 12px 20px; font-size: 22px; font-weight: 800; background: rgba(11,20,16,0.6)">Foto: {{legendaFoto}}</div>
+  </sc-if>
+
+  <div style="position: absolute; top: 200px; right: 60px; width: 560px; transform: rotate(2deg)">
+    <div style="position: relative; background: #F4ECDB; color: #0B1410; border: 5px solid #0B1410; border-radius: 40px; box-shadow: 7px 7px 0 #0B1410; padding: 30px 34px 32px 34px">
+      <div style="font-family: 'Bowlby One', sans-serif; font-size: 34px; line-height: 1; text-transform: uppercase; padding-left: 70px">Dica do André</div>
+      <p style="margin: 16px 0 0; font-size: 32px; line-height: 1.34; font-weight: 800">{{dica}}</p>
+      <div aria-hidden="true" style="position: absolute; left: 70px; bottom: -26px; width: 44px; height: 44px; background: #F4ECDB; border-right: 5px solid #0B1410; border-bottom: 5px solid #0B1410; transform: rotate(45deg)"></div>
+    </div>
+    <div style="position: absolute; top: -34px; left: -30px; width: 100px; height: 100px; border-radius: 50%; border: 5px solid #0B1410; box-sizing: border-box; background: #E8A33D; box-shadow: 4px 4px 0 #0B1410; overflow: hidden; display: flex; align-items: center; justify-content: center">
+      <sc-if value="{{temAndre}}" hint-placeholder-val="{{false}}">
+        <img src="{{fotoAndre}}" alt="André" style="width: 100%; height: 100%; object-fit: cover">
+      </sc-if>
+      <sc-if value="{{semAndre}}" hint-placeholder-val="{{true}}">
+        <svg width="46" height="46" viewBox="0 0 24 24" fill="none" stroke="#0B1410" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-label="Foto do André" role="img"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4.5 3.5-7 8-7s8 2.5 8 7"/></svg>
+      </sc-if>
+    </div>
+  </div>
+
+  <sc-if value="{{mostrarMascote}}" hint-placeholder-val="{{true}}">
+    <div style="position: absolute; top: 420px; left: 290px; width: 130px; height: 130px; border-radius: 50%; box-sizing: border-box; border: 5px solid #0B1410; background: #F4ECDB; box-shadow: 5px 5px 0 #0B1410; overflow: hidden; transform: rotate(-10deg); display: flex; align-items: center; justify-content: center">
+      <sc-if value="{{temMascote}}" hint-placeholder-val="{{false}}">
+        <img src="{{mascote}}" alt="Mascote Doutor Gentileza" style="width: 100%; height: 100%; object-fit: cover">
+      </sc-if>
+      <sc-if value="{{semMascote}}" hint-placeholder-val="{{true}}">
+        <div style="display: flex; flex-direction: column; align-items: center; gap: 2px; color: #1F4A2A">
+          <svg width="44" height="44" viewBox="0 0 24 24" fill="none" stroke="#1F4A2A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21v-9"/><path d="M12 12C12 8 9 5 4 5c0 4 3 7 8 7z"/><path d="M12 10c0-3 2.5-6 8-6 0 4-3 6-8 6z"/><path d="M7 21h10"/></svg>
+          <span style="font-size: 18px; font-weight: 900">mascote</span>
+        </div>
+      </sc-if>
+    </div>
+  </sc-if>
+
+  <div style="position: relative; height: 100%; box-sizing: border-box; padding: 56px 60px 52px; display: flex; flex-direction: column">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start">
+      <div style="background: #4A8C4F; color: #0B1410; border: 4px solid #0B1410; border-radius: 999px; box-shadow: 5px 5px 0 #0B1410; padding: 10px 26px; font-size: 26px; font-weight: 900; letter-spacing: 0.06em; text-transform: uppercase; transform: rotate(-3deg)">{{tarja}}</div>
+      <div style="width: 96px; height: 96px; border-radius: 50%; background: #F4ECDB; color: #0B1410; border: 4px solid #0B1410; box-sizing: border-box; box-shadow: 5px 5px 0 #0B1410; display: flex; align-items: center; justify-content: center; font-family: 'Bowlby One', sans-serif; font-size: 28px; transform: rotate(8deg)">{{contador}}</div>
+    </div>
+
+    <h2 style="margin: auto 0 0; font-family: 'Bowlby One', sans-serif; font-weight: 400; font-size: 100px; line-height: 1.02; text-transform: uppercase; text-shadow: 6px 6px 0 #0B1410; color: #E8A33D">
+      <span style="display: block; transform: rotate(-2deg); transform-origin: left">{{linha1}}</span>
+      <span style="display: block; color: transparent; -webkit-text-stroke: 3px #E8A33D; transform: rotate(1deg); transform-origin: left">{{linha2}}</span>
+      <span style="display: inline-block; position: relative; font-family: 'EB Garamond', serif; font-style: italic; font-weight: 800; text-transform: none; font-size: 140px; line-height: 0.95; color: #F4ECDB; transform: rotate(-3deg); transform-origin: left">{{destaque}}<svg style="position: absolute; left: 0; bottom: -16px; width: 100%; height: 30px" viewBox="0 0 300 30" preserveAspectRatio="none" fill="none" stroke="#E8A33D" stroke-width="6" stroke-linecap="round" aria-hidden="true"><path d="M4 18C60 6 120 26 180 12S270 8 296 16"/></svg></span>
+    </h2>
+    <p style="margin: 44px 0 0; align-self: flex-start; max-width: 900px; box-sizing: border-box; background: #F4ECDB; color: #0B1410; border: 4px solid #0B1410; box-shadow: 6px 6px 0 #0B1410; padding: 20px 26px; font-size: 38px; line-height: 1.4; font-weight: 700; transform: rotate(-1deg)">{{texto}}</p>
+
+    <div style="margin-top: 36px; display: flex; justify-content: space-between; align-items: center">
+      <div style="background: #0B1410; color: #F4ECDB; border-radius: 999px; padding: 12px 24px; font-size: 26px; font-weight: 900">@canalterragentil</div>
+      <div style="display: flex; align-items: center; gap: 10px; font-size: 26px; font-weight: 900; text-transform: uppercase; letter-spacing: 0.08em; text-shadow: 3px 3px 0 #0B1410">
+        <span>Deslize</span>
+        <svg width="110" height="56" viewBox="0 0 110 56" fill="none" stroke="#F4ECDB" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 40C30 10 60 50 96 22"/><path d="M80 14l18 6-6 18"/></svg>
+      </div>
+    </div>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"tarja":{"editor":"text","default":"Passo 1","section":"Texto"},"linha1":{"editor":"text","default":"Corte logo","section":"Texto"},"linha2":{"editor":"text","default":"abaixo da","section":"Texto"},"destaque":{"editor":"text","default":"flor seca","section":"Texto"},"texto":{"editor":"text","default":"Ache o primeiro par de gemas gordinhas abaixo da flor. Corte uns 2 cm acima delas.","section":"Texto"},"dica":{"editor":"text","default":"Tesoura limpa e afiada faz corte reto. A planta cicatriza mais rápido.","section":"Texto"},"contador":{"editor":"text","default":"5/8","section":"Texto"},"legendaFoto":{"editor":"text","default":"mãos com tesoura junto à flor seca","section":"Texto"},"foto":{"editor":"text","default":"","section":"Foto"},"fotoAndre":{"editor":"text","default":"","section":"Foto"},"escurecimento":{"editor":"range","min":0,"max":90,"step":5,"default":15,"unit":"%","section":"Foto"},"zoom":{"editor":"range","min":1,"max":2.5,"step":0.05,"default":1.3,"section":"Foto"},"foco":{"editor":"enum","options":["center","top","bottom","left","right","top left","top right","bottom left","bottom right"],"default":"left","section":"Foto"},"simularFotoClara":{"editor":"boolean","default":false,"section":"Foto"},"mostrarMascote":{"editor":"boolean","default":true,"section":"Mascote"},"mascote":{"editor":"text","default":"","section":"Mascote"},"$preview":{"width":1080,"height":1350}}'>
+class Component extends DCLogic {
+  renderVals() {
+    const p = this.props;
+    const f = (p.foto ?? '').trim();
+    const a = (p.fotoAndre ?? '').trim();
+    const m = (p.mascote ?? '').trim();
+    const k = Math.max(0, Math.min(90, p.escurecimento ?? 15)) / 100;
+    const z = p.zoom ?? 1.3;
+    const foco = p.foco ?? 'left';
+    const D = 'radial-gradient(circle at 32% 34%, #7C9BDB 0 7%, rgba(124,155,219,0) 21%), radial-gradient(circle at 52% 26%, #9586D6 0 6%, rgba(149,134,214,0) 19%), radial-gradient(circle at 68% 46%, #6A8FD2 0 8%, rgba(106,143,210,0) 23%), radial-gradient(circle at 42% 56%, #A8BEEA 0 5%, rgba(168,190,234,0) 18%), radial-gradient(circle at 24% 58%, #8A9FE0 0 5%, rgba(138,159,224,0) 17%), radial-gradient(ellipse at 15% 85%, #3E6E3E 0 12%, rgba(62,110,62,0) 34%), radial-gradient(ellipse at 85% 80%, #2F5D33 0 14%, rgba(47,93,51,0) 36%), linear-gradient(165deg, #2E4F3A 0%, #182A20 100%)';
+    const L = 'radial-gradient(circle at 32% 34%, #C9D6F5 0 7%, rgba(201,214,245,0) 21%), radial-gradient(circle at 52% 26%, #D8D0F3 0 6%, rgba(216,208,243,0) 19%), radial-gradient(circle at 68% 46%, #BFD0F1 0 8%, rgba(191,208,241,0) 23%), radial-gradient(circle at 42% 56%, #E6ECFA 0 5%, rgba(230,236,250,0) 18%), radial-gradient(circle at 24% 58%, #CBD5F3 0 5%, rgba(203,213,243,0) 17%), radial-gradient(ellipse at 15% 85%, #9CC08F 0 12%, rgba(156,192,143,0) 34%), radial-gradient(ellipse at 85% 80%, #8DB57F 0 14%, rgba(141,181,127,0) 36%), linear-gradient(165deg, #F3F4EC 0%, #CFDDC4 100%)';
+    const T = {"tarja":"Passo 1","linha1":"Corte logo","linha2":"abaixo da","destaque":"flor seca","texto":"Ache o primeiro par de gemas gordinhas abaixo da flor. Corte uns 2 cm acima delas.","dica":"Tesoura limpa e afiada faz corte reto. A planta cicatriza mais rápido.","contador":"5/8","legendaFoto":"mãos com tesoura junto à flor seca"};
+    const tx = {};
+    Object.keys(T).forEach(function (c) { tx[c] = p[c] ?? T[c]; });
+    return Object.assign(tx, {foto: f, temFoto: !!f, semFoto: !f, fotoAndre: a, temAndre: !!a, semAndre: !a, mascote: m, temMascote: !!m, semMascote: !m, mostrarMascote: p.mostrarMascote ?? true, veu: 'rgba(11,20,16,' + k + ')', zoomTf: 'scale(' + z + ')', foco: foco, sim: p.simularFotoClara ? L : D });
+  }
+}
+</script>
+</body>
+</html>

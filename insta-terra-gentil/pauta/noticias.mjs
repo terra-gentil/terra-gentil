@@ -15,7 +15,7 @@ export function dominioDe(url) {
   let endereco;
   try {
     endereco = new URL(url);
-  } catch (erro) {
+  } catch {
     throw new Error(`[noticias] link inválido: ${url}`);
   }
   if (!['http:', 'https:'].includes(endereco.protocol)) {

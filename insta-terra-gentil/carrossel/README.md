@@ -29,5 +29,18 @@ roda o `renderVals` numa caixa isolada, `dc/gabarito.mjs` aplica `<sc-if>` e `{{
 abertura só. Local: `TG_CHROME_CANAL=chrome` usa o Chrome instalado. No CI: Chromium do
 Playwright (`npx playwright-core install chromium`).
 
-Hoje: `rotacao.mjs`, `dc/`, `render.mjs`. Previstos: `moldes/` (os `.dc.html` aprovados, um
-por direção), `legenda.mjs`, e o `contrato.mjs` que confere se todo molde tem os mesmos campos.
+## Moldes e contrato
+
+`moldes/<molde>/{capa,problema,passo,final}.dc.html`: 7 moldes x 4 tipos de slide, copiados do
+canvas do Claude Design já com os textos como campos. Os slides 3, 4 e 7 usam o tipo
+`problema` e o 6 usa `passo`. `contrato.mjs` lista, por tipo, os campos obrigatórios e os
+opcionais; `moldes.test.mjs` reprova molde que falte campo, tenha campo de fora, não converta
+ou que não bata com a lista de `rotacao.mjs`. Para o código do dia basta
+`montarSlide('manchete', 'capa', { linha1: '...', foto })` e depois `renderizar`.
+
+Novo molde: criar a pasta com os 4 `.dc.html` no mesmo contrato e acrescentar o nome em
+`MOLDES`. O teste diz o que faltar. Se o desenho da IA usar um construto novo que o
+conversor não conhece, ele derruba a execução com o nome do campo, nunca sai slide torto.
+
+Hoje: `rotacao.mjs`, `contrato.mjs`, `moldes.mjs`, `dc/`, `render.mjs`. Previstos:
+`legenda.mjs` e o `montar-dia.mjs` que liga pauta, foto, molde do dia e render.

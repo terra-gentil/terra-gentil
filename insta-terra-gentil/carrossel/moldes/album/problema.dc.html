@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>C2 O problema: Álbum</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&amp;family=Fraunces:ital,opsz,wght@1,9..144,400..600&amp;family=Caveat:wght@500..700&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+a{color:#F4ECDB}a:hover{color:#E8A33D}
+</style>
+</helmet>
+<div style="width: 1080px; height: 1350px; position: relative; overflow: hidden; background: #1A2E22; color: #F4ECDB; font-family: 'Bricolage Grotesque', sans-serif">
+  <div style="position: absolute; inset: 0; overflow: hidden">
+    <sc-if value="{{temFoto}}" hint-placeholder-val="{{false}}">
+      <img src="{{foto}}" alt="" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; transform: scale(1.15); filter: blur(16px)">
+    </sc-if>
+    <sc-if value="{{semFoto}}" hint-placeholder-val="{{true}}">
+      <div style="position: absolute; inset: 0; background: {{sim}}; transform: scale(1.15); filter: blur(16px)"></div>
+    </sc-if>
+  </div>
+  <div style="position: absolute; inset: 0; background: {{veu}}"></div>
+  <div style="position: absolute; inset: 0; background: linear-gradient(to top, rgba(16,48,26,0.6) 0%, rgba(16,48,26,0) 50%)"></div>
+
+  <div style="position: absolute; top: 150px; right: 70px; width: 400px; transform: rotate(4deg)">
+    <div aria-hidden="true" style="position: absolute; top: -20px; left: 125px; width: 150px; height: 42px; background: rgba(74,140,79,0.92); transform: rotate(-6deg); z-index: 1"></div>
+    <div style="background: #FBF8F1; padding: 20px 20px 18px; box-shadow: 0 24px 50px rgba(0,0,0,0.45)">
+      <div style="width: 360px; height: 300px; overflow: hidden; position: relative; background: #2E4F3A">
+        <sc-if value="{{temFoto}}" hint-placeholder-val="{{false}}">
+          <img src="{{foto}}" alt="Detalhe da planta" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: {{foco}}; transform: {{zoomTf}}; transform-origin: {{foco}}">
+        </sc-if>
+        <sc-if value="{{semFoto}}" hint-placeholder-val="{{true}}">
+          <div style="position: absolute; inset: 0; background: {{sim}}; transform: {{zoomTf}}; transform-origin: {{foco}}"></div>
+        </sc-if>
+      </div>
+      <div style="margin-top: 10px; font-family: 'Caveat', cursive; font-size: 42px; font-weight: 700; color: #1F2A22; line-height: 1; text-align: center">terra gentil</div>
+    </div>
+  </div>
+
+  <sc-if value="{{semFoto}}" hint-placeholder-val="{{true}}">
+    <div style="position: absolute; top: 160px; left: 64px; width: 470px; box-sizing: border-box; display: flex; align-items: center; gap: 12px; background: rgba(16,48,26,0.7); border: 2px dashed rgba(244,236,219,0.6); border-radius: 12px; padding: 12px 20px; font-size: 22px; font-weight: 600">
+      <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="10" r="2"/><path d="M21 16l-5-5-9 8"/></svg>
+      <span>Foto: {{legendaFoto}}</span>
+    </div>
+  </sc-if>
+
+  <sc-if value="{{mostrarMascote}}" hint-placeholder-val="{{false}}">
+    <div style="position: absolute; top: 470px; right: 430px; width: 120px; height: 120px; border-radius: 50%; background: #F4ECDB; border: 4px solid #E8A33D; box-sizing: border-box; overflow: hidden; display: flex; align-items: center; justify-content: center; box-shadow: 0 12px 28px rgba(0,0,0,0.35); transform: rotate(-6deg)">
+      <sc-if value="{{temMascote}}" hint-placeholder-val="{{false}}">
+        <img src="{{mascote}}" alt="Mascote Doutor Gentileza" style="width: 100%; height: 100%; object-fit: cover">
+      </sc-if>
+      <sc-if value="{{semMascote}}" hint-placeholder-val="{{true}}">
+        <div style="display: flex; flex-direction: column; align-items: center; gap: 2px; color: #1F4A2A">
+          <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#4A8C4F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21v-9"/><path d="M12 12C12 8 9 5 4 5c0 4 3 7 8 7z"/><path d="M12 10c0-3 2.5-6 8-6 0 4-3 6-8 6z"/><path d="M7 21h10"/></svg>
+          <span style="font-size: 17px; font-weight: 800">mascote</span>
+        </div>
+      </sc-if>
+    </div>
+  </sc-if>
+
+  <div style="position: relative; height: 100%; box-sizing: border-box; padding: 52px 64px 52px; display: flex; flex-direction: column">
+    <div style="display: flex; justify-content: space-between; align-items: center">
+      <div style="display: flex; align-items: center; gap: 10px; font-size: 28px; font-weight: 800; letter-spacing: -0.01em">
+        <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#E8A33D" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 19C5 10 10 5 20 4c0 10-5 15-14 15z"/><path d="M5 19l8-8"/></svg>
+        <span>terra gentil</span>
+      </div>
+      <div style="font-size: 28px; font-weight: 800">{{contador}}</div>
+    </div>
+
+    <div style="margin-top: auto; align-self: flex-start; background: #4A8C4F; color: #0B1410; padding: 10px 26px; font-size: 26px; font-weight: 800; letter-spacing: 0.1em; text-transform: uppercase; transform: rotate(-2deg)">{{tarja}}</div>
+    <h2 style="margin: 28px 0 0; font-weight: 800; font-size: 104px; line-height: 0.94; letter-spacing: -0.03em; text-transform: uppercase; font-variation-settings: 'opsz' 96; text-shadow: 0 2px 24px rgba(0,0,0,0.4)">
+      <span style="display: block">{{linha1}}</span>
+      <span style="display: block; color: transparent; -webkit-text-stroke: 2.5px #F4ECDB; text-shadow: none">{{linha2}}</span>
+      <span style="display: block; font-family: 'Fraunces', serif; font-style: italic; font-weight: 500; text-transform: none; font-size: 140px; line-height: 1; letter-spacing: -0.02em; color: #E8A33D">{{destaque}}</span>
+    </h2>
+    <p style="margin: 28px 0 0; font-size: 40px; line-height: 1.42; font-weight: 500; max-width: 920px; text-shadow: 0 1px 14px rgba(0,0,0,0.5)">{{texto}}</p>
+    <div style="margin-top: 16px; font-family: 'Caveat', cursive; font-size: 58px; font-weight: 700; color: #E8A33D; text-shadow: 0 1px 14px rgba(0,0,0,0.5)">{{nota}}</div>
+
+    <div style="margin-top: 32px; width: 100%; display: flex; justify-content: space-between; align-items: center">
+      <div style="font-size: 28px; font-weight: 800">@canalterragentil</div>
+      <div style="display: flex; gap: 8px; align-items: center" aria-hidden="true">
+        <sc-for list="{{pontos}}" as="pt" hint-placeholder-count="8">
+          <span style="height: 10px; border-radius: 5px; width: {{pt.w}}; background: {{pt.cor}}"></span>
+        </sc-for>
+      </div>
+      <div style="display: flex; align-items: center; gap: 12px; background: #E8A33D; color: #0B1410; border-radius: 999px; padding: 12px 18px 12px 26px; font-size: 26px; font-weight: 800">
+        <span>Deslize</span>
+        <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+      </div>
+    </div>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"tarja":{"editor":"text","default":"O problema","section":"Texto"},"linha1":{"editor":"text","default":"Podou e","section":"Texto"},"linha2":{"editor":"text","default":"ela não","section":"Texto"},"destaque":{"editor":"text","default":"floresceu?","section":"Texto"},"texto":{"editor":"text","default":"A hortênsia forma os botões do ano que vem nos galhos de agora. Cortou na hora errada, levou as flores junto.","section":"Texto"},"nota":{"editor":"text","default":"Calma, não é culpa sua.","section":"Texto"},"contador":{"editor":"text","default":"2/8","section":"Texto"},"legendaFoto":{"editor":"text","default":"a mesma imagem, desfocada no fundo e recortada na polaroid","section":"Texto"},"foto":{"editor":"text","default":"","section":"Foto"},"escurecimento":{"editor":"range","min":0,"max":90,"step":5,"default":55,"unit":"%","section":"Foto"},"zoom":{"editor":"range","min":1,"max":2.5,"step":0.05,"default":1.8,"section":"Foto"},"foco":{"editor":"enum","options":["center","top","bottom","left","right","top left","top right","bottom left","bottom right"],"default":"bottom right","section":"Foto"},"simularFotoClara":{"editor":"boolean","default":false,"section":"Foto"},"mostrarMascote":{"editor":"boolean","default":false,"section":"Mascote"},"mascote":{"editor":"text","default":"","section":"Mascote"},"$preview":{"width":1080,"height":1350}}'>
+class Component extends DCLogic {
+  renderVals() {
+    const p = this.props;
+    const f = (p.foto ?? '').trim();
+    const m = (p.mascote ?? '').trim();
+    const k = Math.max(0, Math.min(90, p.escurecimento ?? 55)) / 100;
+    const z = p.zoom ?? 1.8;
+    const foco = p.foco ?? 'bottom right';
+    const D = 'radial-gradient(circle at 32% 34%, #7C9BDB 0 7%, rgba(124,155,219,0) 21%), radial-gradient(circle at 52% 26%, #9586D6 0 6%, rgba(149,134,214,0) 19%), radial-gradient(circle at 68% 46%, #6A8FD2 0 8%, rgba(106,143,210,0) 23%), radial-gradient(circle at 42% 56%, #A8BEEA 0 5%, rgba(168,190,234,0) 18%), radial-gradient(circle at 24% 58%, #8A9FE0 0 5%, rgba(138,159,224,0) 17%), radial-gradient(ellipse at 15% 85%, #3E6E3E 0 12%, rgba(62,110,62,0) 34%), radial-gradient(ellipse at 85% 80%, #2F5D33 0 14%, rgba(47,93,51,0) 36%), linear-gradient(165deg, #2E4F3A 0%, #182A20 100%)';
+    const L = 'radial-gradient(circle at 32% 34%, #C9D6F5 0 7%, rgba(201,214,245,0) 21%), radial-gradient(circle at 52% 26%, #D8D0F3 0 6%, rgba(216,208,243,0) 19%), radial-gradient(circle at 68% 46%, #BFD0F1 0 8%, rgba(191,208,241,0) 23%), radial-gradient(circle at 42% 56%, #E6ECFA 0 5%, rgba(230,236,250,0) 18%), radial-gradient(circle at 24% 58%, #CBD5F3 0 5%, rgba(203,213,243,0) 17%), radial-gradient(ellipse at 15% 85%, #9CC08F 0 12%, rgba(156,192,143,0) 34%), radial-gradient(ellipse at 85% 80%, #8DB57F 0 14%, rgba(141,181,127,0) 36%), linear-gradient(165deg, #F3F4EC 0%, #CFDDC4 100%)';
+    const T = {"tarja":"O problema","linha1":"Podou e","linha2":"ela não","destaque":"floresceu?","texto":"A hortênsia forma os botões do ano que vem nos galhos de agora. Cortou na hora errada, levou as flores junto.","nota":"Calma, não é culpa sua.","contador":"2/8","legendaFoto":"a mesma imagem, desfocada no fundo e recortada na polaroid"};
+    const tx = {};
+    Object.keys(T).forEach(function (c) { tx[c] = p[c] ?? T[c]; });
+    const pc = String(tx.contador).split('/');
+    const atual = parseInt(pc[0], 10) || 1;
+    const total = parseInt(pc[1], 10) || 8;
+    tx.pontos = Array.from({ length: total }, function (_, i) { return i + 1 === atual ? { w: '34px', cor: '#E8A33D' } : { w: '10px', cor: 'rgba(244,236,219,0.55)' }; });
+    return Object.assign(tx, {mascote: m, temMascote: !!m, semMascote: !m, mostrarMascote: p.mostrarMascote ?? false, foto: f, temFoto: !!f, semFoto: !f, veu: 'rgba(16,48,26,' + k + ')', zoomTf: 'scale(' + z + ')', foco: foco, sim: p.simularFotoClara ? L : D });
+  }
+}
+</script>
+</body>
+</html>

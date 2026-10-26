@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { ArrowLeft } from 'lucide-react';
 import type { Metadata } from 'next';
 import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
+import NewsTracker from '@/components/analytics/NewsTracker';
 import JsonLd from '@/components/seo/JsonLd';
 import { INSTAGRAM_HANDLE, INSTAGRAM_URL, SITE_NAME, SITE_URL } from '@/lib/constants';
 import {
@@ -93,6 +94,7 @@ export default async function NoticiaPage({ params }: Props) {
         ]}
       />
       <JsonLd data={artigo} />
+      <NewsTracker slug={slug} serie={noticia.serie} livro={ebook?.titulo ?? noticia.palavra} />
       {materia.faq.length > 0 && <JsonLd data={perguntas} />}
       <div className="bp-inner">
         <Link href="/noticias" className="bp-back">

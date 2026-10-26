@@ -3,11 +3,18 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { MOLDES, diaBrasilia, moldeDoDia } from './rotacao.mjs';
 
-test('três dias seguidos usam três moldes diferentes e o ciclo se repete', () => {
-  const dias = ['2026-10-26', '2026-10-27', '2026-10-28', '2026-10-29'];
-  const usados = dias.map((d) => moldeDoDia(d));
-  assert.equal(new Set(usados.slice(0, 3)).size, 3);
-  assert.equal(usados[3], usados[0]);
+test('cada dia da semana tem o seu molde, de segunda a domingo', () => {
+  const semana = ['2026-10-26', '2026-10-27', '2026-10-28', '2026-10-29', '2026-10-30'];
+  semana.push('2026-10-31', '2026-11-01');
+  assert.deepEqual(
+    semana.map((d) => moldeDoDia(d)),
+    [...MOLDES],
+  );
+});
+
+test('a semana seguinte repete a mesma ordem', () => {
+  assert.equal(moldeDoDia('2026-11-02'), moldeDoDia('2026-10-26'));
+  assert.equal(moldeDoDia('2027-01-04'), MOLDES[0]);
 });
 
 test('nunca repete o molde de ontem, inclusive na virada de mês e de ano', () => {
@@ -20,9 +27,15 @@ test('nunca repete o molde de ontem, inclusive na virada de mês e de ano', () =
   }
 });
 
-test('o mesmo dia sempre dá o mesmo molde, e o molde é um dos aprovados', () => {
-  assert.equal(moldeDoDia('2026-10-26'), moldeDoDia('2026-10-26'));
-  assert.ok(MOLDES.includes(moldeDoDia('2026-10-26')));
+test('escala: com 3 ou 10 moldes o ciclo fecha e nenhum dia repete o anterior', () => {
+  for (const n of [3, 10]) {
+    const moldes = Array.from({ length: n }, (_, i) => `m${i}`);
+    const dia = (i) => `2026-11-${String(1 + i).padStart(2, '0')}`;
+    const dias = Array.from({ length: n + 1 }, (_, i) => dia(i));
+    const usados = dias.map((d) => moldeDoDia(d, moldes));
+    assert.equal(new Set(usados.slice(0, n)).size, n);
+    assert.equal(usados[n], usados[0]);
+  }
 });
 
 test('o dia vira no fuso de Brasília: 22h de Brasília ainda é o dia 26', () => {

@@ -12,9 +12,12 @@ Arte: verde e âmbar, Archivo Black e Inter, o Brotinho, foto real da espécie c
 ## Moldes e rotação
 
 Os moldes saem do Claude Design (canvas "Terra Gentil Carrosséis Livre"), sempre lá e nunca no
-Canva. São 3, `creme`, `noite` e `canteiro`, e `rotacao.mjs` escolhe um por dia no fuso de
-Brasília, em ciclo, sem repetir o de ontem: `moldeDoDia('2026-10-26')`. Os nomes em `MOLDES`
-precisam bater com os arquivos de `moldes/` quando eles existirem.
+Canva. São 7, um por dia da semana: `manchete` (seg), `faixas` (ter), `album` (qua), `duotom`
+(qui), `jornal` (sex), `galeria` (sáb) e `lambe` (dom). `rotacao.mjs` escolhe o do dia no fuso
+de Brasília, sem repetir o de ontem: `moldeDoDia('2026-10-26')`. Molde novo = acrescentar o nome
+em `MOLDES` e o arquivo em `moldes/`; o ciclo se ajusta sozinho. Todo molde segue o mesmo
+contrato de campos (foto, escurecimento, zoom, foco, textos), para o código trocar de molde sem
+quebrar.
 
 Hoje: `rotacao.mjs`. Previstos: `moldes/` (um arquivo por molde), `texto.mjs` (quebra e
 medida), `legenda.mjs`, `render.mjs` (SVG para PNG). Base: `scripts/publish/slide/` do

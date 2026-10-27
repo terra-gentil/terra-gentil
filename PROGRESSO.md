@@ -1,16 +1,32 @@
-# PROGRESSO Terra Gentil
+﻿# PROGRESSO Terra Gentil
 
-## CAPAS COM O ANDRE (27/10/2026, manha): banco pronto no codigo, falta gerar as imagens
+## HANDOFF (27/10/2026, tarde): capas com o Andre, orquidea testada, falta o lote
 
-**Feito (commit b3759af):** `insta-terra-gentil/capas/`. O slide 1 do carrossel usa a capa do Andre com a planta quando a especie tem capa no banco (`capas/banco/<slug>/`); os slides 2 a 8 seguem com a foto real da planta. Rodizio pela contagem de `dados/posts` (sem estado novo). 16 especies em `dados/capas.json`, 3 cenarios (A segurando, B cuidando, C no ambiente), prompt de foto realista fixo (`capas/prompts.mjs`). CLIs: `node capas/fila-cli.mjs orquidea` (gera `saida/fila-capas.json`) e `node capas/importar-cli.mjs <Downloads>` (1080x1350 no banco). 169 testes verdes.
+**Onde paramos:** codigo e ferramenta prontos, teste da orquidea feito e vistoriado. NADA de imagem no banco ainda (`capas/banco/` vazio, de proposito: o banco recebe so o 2K aprovado). Gerar imagem nao gasta credito no plano Pro (saldo 1.050 antes e depois, conferido no historico do Google One).
 
-**Referencias do rosto:** `insta-terra-gentil/capas/referencias/` (FORA do git, repo publico): chroma-1, 2, 3 (Google Fotos, sessao do chroma de 31/08/2025), bone-logo e rua-1, 2 (video de 06/08/2025). Usar 4: chroma-3, chroma-1, bone-logo, rua-1.
+**Codigo (commit a1657e6, 171 testes verdes):** `insta-terra-gentil/capas/`. Slide 1 do carrossel usa a capa do banco quando a especie tem; rodizio pela contagem de `dados/posts`. `dados/capas.json`: 36 especies x 5 cenarios (A segurando, B cuidando, C ambiente, D ensinando, E regando) + 10 coringas x 3 = 210 imagens. Camiseta OFICIAL Terra Gentil (cinza escuro, logo laranja no peito, decisao do Andre): para a logo nao sair "TIRRA", o prompt traz o texto entre aspas, planos medios e manda copiar de uma foto de referencia so da logo, `capas/referencias/andre-camiseta-logo.jpg` (recorte da chroma-3, fora do git). O Agente do Flow confirmou que isso melhora muito; se ainda errar, corrigir por edicao de imagem ("Fix the spelling on the logo to read TERRA GENTIL"). CLIs: `node capas/fila-cli.mjs <slug>` (gera `saida/fila-capas.json`) e `node capas/importar-cli.mjs <pasta>` (corta para 1080x1350 e poe no banco; nome do arquivo = `<slug>-<A..E>-<n>.jpg`).
 
-**Ferramenta "Capas TG" no Flow: CRIADA (27/10, fim da manha)**, em 5 rodadas curtas (pedido longo falha). Tem Elenco (salvar/carregar), fila JSON, geracao 1 por vez com confirmacao de creditos, nova tentativa, Parar, conferencia pelo Gemini (rosto, logo, maos, planta, topo livre, texto) e Resultado JSON. Gera em 3:4 (Flow nao tem 4:5); o importador corta. Detalhes em `capas/FERRAMENTA-FLOW.md`. Sobrou um rascunho vazio "Miniaplicativo sem titulo" das tentativas que falharam (so o Andre exclui).
+**Ferramenta "Capas TG" no Flow (conta eng.andrehz, projeto 57852232):** Elenco, fila JSON, geracao 1 por vez, conferencia rigida pelo Gemini com ate 2 refacoes automaticas, salva a imagem no painel com o id no nome (`orquidea-B-1`). Cabeca/topo ocupado agora so INFORMA (tag "TOPO OCUPADO"), nao reprova; `bone_correto` so reprova logo visivel e errada. Sempre editar em rodadas curtas ("Keep everything as it is..."), campo achado por `find`, enviar com a seta se Enter nao enviar.
 
-**Terminal:** `warning.confirmCloseAllTabs: true` no settings do Windows Terminal (so pede confirmacao com 2+ abas; aba unica nao tem opcao). Para retomar sessao fechada: `claude -c`.
+**Ferramenta, ajustes de hoje:** a conferencia da camiseta agora e `camiseta_logo_correta` (verdadeira se a logo nao aparece ou le TERRA GENTIL; falsa so se visivel e errada), e as miniaturas abrem um visualizador grande (setas, Esc, tentativas), tambem durante a geracao.
 
-**Proximo passo:** (1) ferramenta criada (feito); (2) Andre sobe as 4 referencias no Elenco (o Claude nao sobe rosto real); (3) teste com 1 especie (orquidea, 3 capas), Andre aprova a qualidade e o custo em creditos; (4) lote das 16; (5) importar e commitar `capas/banco/`. Meta depois: cerca de 145 imagens (15 principais x 5, 20 x 3, 10 coringas). Chromium do Playwright falta neste PC para renderizar local (`npx playwright install chromium-headless-shell`).
+**Vistoria da orquidea (4 imagens vistas em 1K, ainda com camiseta LISA, antes da troca):** B-1, D-1, E-1 aprovadas (rosto fiel, folhas saudaveis, logo do bone ok). C-1: aprovada com ressalva (linha "GENTIL" do bone cortada pela aba). A-1 nova ainda NAO vista. Como a camiseta mudou para a oficial, REFAZER a orquidea inteira no proximo teste. O painel mostra cada imagem duas vezes (a ferramenta salva em duplicado): baixar so uma de cada nome.
+
+**Fotos 2K:** o SDK da ferramenta NAO baixa 2K. So no painel "Todas as midias": menu da imagem > "Fazer o download" > 2K (aprimorada); 4K exige upgrade. A ferramenta baixa 1K (896x1200). Plano: gerar tudo, vistoriar, baixar no 2K pelo painel, renomear para `<id>.jpg`, importar, commitar.
+
+**Atalhos aprendidos:** copiar o JSON da fila com `Set-Clipboard` e colar com ctrl+v no campo (digitar 6 KB e lento). Elenco perde-se ao recarregar: "Do Projeto" + ctrl+clique nas 5 fotos `andre-*` (chroma-3, chroma-1, rua-1, rua-2, bone-logo), ou "Carregar elenco" com `capas/referencias/elenco-capas.json` (fora do git). Ler `Minhas criacoes` do Flow nao e preciso.
+
+**Pedidos do Andre ainda abertos:** (1) FEITO: miniatura abre a imagem grande; (2) gerar sozinho, sem pedir confirmacao a cada geracao (memoria `feedback-gerar-sozinho`); (3) lotes de 5 em 5 (uma especie por lote), vistoria minha antes de baixar.
+
+**Proximo passo exato:** (a) subir `capas/referencias/andre-camiseta-logo.jpg` no Elenco da ferramenta (sem rosto; limite de 6 fotos, hoje 5: ou trocar a rua-2 por ela) e gerar o teste novo da orquidea com os 5 cenarios (`node capas/fila-cli.mjs orquidea`, colar via clipboard); (b) vistoriar as 5 (eu olho cada uma antes de baixar; atencao a grafia TERRA GENTIL na camiseta e no bone), baixar no 2K pelo painel, importar, commitar `capas/banco/orquidea/`; (c) lotes das 15 principais restantes (`node capas/fila-cli.mjs jiboia` etc.), depois secundarias e coringas; (d) folha de prova por grupo para o Andre; (e) ligar coringas ao post (hoje `capaDoDia` busca por `post.especie`; coringa usa chave `coringa-regar` etc., falta o mapa tema para coringa); (f) opcional: o molde escolher titulo em cima/embaixo conforme a tag TOPO OCUPADO.
+
+**Pendencias antigas ainda validas:** rascunho vazio "Miniaplicativo sem titulo" no Flow (so o Andre exclui); Chromium do Playwright falta neste PC (`npx playwright install chromium-headless-shell`) para render local; N6 do Search Console; IG_PUBLICAR segue `desligado`; testar `renovar-token-instagram.yml` a mao.
+
+**Terminal:** `warning.confirmCloseAllTabs: true` ligado (so vale com 2+ abas). Retomar sessao fechada: `claude -c`.
+
+**Comando:** `cd C:\Gitlab_hz\terra-gentil-site\terra-gentil && claude`
+
+---
 
 ## AJUSTE (27/10/2026, manha): capa e titulo do carrossel
 
@@ -326,3 +342,4 @@ Comando pra continuar:
 `cd C:\Gitlab_hz\terra-gentil-site\terra-gentil && claude`
 Depois: "le o PROGRESSO.md e continua a varredura mobile das paginas
 restantes".
+

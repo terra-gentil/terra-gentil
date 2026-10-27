@@ -18,20 +18,19 @@ test('todo prompt leva a planta, o estilo fixo, o quadro e a lista do que evitar
   assert.match(promptDaCapa(plantas.Phalaenopsis, 'C'), /greenhouse orchid nursery/);
 });
 
-test('camiseta é lisa: sem logo nem texto, só o boné tem a marca', () => {
+test('camiseta oficial: logo entre aspas, copiada da foto de referência só da logo', () => {
   const p = promptDaCapa(plantas.Phalaenopsis, 'A');
-  assert.match(p, /plain .+ t-shirt with no print, no logo and no text/);
-  assert.match(ESTILO, /cap with the orange logo that reads exactly "TERRA GENTIL"/);
-  assert.doesNotMatch(ESTILO, /t-shirt/);
-  assert.doesNotMatch(p, /microphone is|lavalier microphone,/);
+  assert.match(p, /cap with the orange logo that reads exactly "TERRA GENTIL"/);
+  assert.match(p, /official Terra Gentil dark grey t-shirt/);
+  assert.match(p, /"TERRA" and "GENTIL"/);
+  assert.match(p, /andre-camiseta-logo/);
+  assert.doesNotMatch(p, /plain .+ t-shirt|no logo and no text/);
 });
 
-test('a cor da camiseta vem da lista da espécie e varia entre os cenários', () => {
-  const orquidea = plantas.Phalaenopsis;
-  const corDe = (c) => /plain (.+) t-shirt/.exec(promptDaCapa(orquidea, c))[1];
-  const cores = ['A', 'B', 'C', 'D', 'E'].map(corDe);
-  for (const cor of cores) assert.ok(orquidea.cores.includes(cor));
-  assert.ok(new Set(cores).size > 1);
+test('plano médio ou fechado em todos os cenários, para a logo ter pixels', () => {
+  for (const c of ['A', 'B', 'C', 'D', 'E']) {
+    assert.doesNotMatch(promptDaCapa(plantas.Phalaenopsis, c), /^Wide shot/);
+  }
 });
 
 test('cenário desconhecido para', () => {

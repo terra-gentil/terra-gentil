@@ -1,4 +1,14 @@
-﻿# PROGRESSO Terra Gentil
+# PROGRESSO Terra Gentil
+
+## AJUSTE (27/10/2026, noite): capas da orquidea com camiseta padrao
+
+**Decisoes do Andre:** logo da camiseta PEQUENA, so no peito esquerdo (area do coracao), camiseta de corte normal, nao oversized. O topo livre para titulo foi REMOVIDO do prompt (`QUADRO` em `capas/prompts.mjs`: quadro 3:4, pessoa preenchendo, sem espaco vazio; o Flow nao aceita 4:5).
+
+**Feito:** referencia de camiseta nova gerada no Flow (logo pequena a esquerda, foto #1 do Elenco, nome "Man wearing charcoal t-shirt"), pois o upload local nao funciona pela automacao. Lote da orquidea A a E gerado com ela (A com aviso de rosto, B a E prontas). O lote usou ainda o prompt antigo de topo livre na geracao, mas saiu com a pessoa preenchendo o quadro.
+
+**Falta:** Andre aprovar a qualidade; baixar 2K pelo painel (usar `media_id` na URL de edicao), renomear `<id>.jpg`, `node capas/importar-cli.mjs <pasta>`, trocar os 3 arquivos antigos de `capas/banco/orquidea/` (camiseta lisa) e commitar. Atencao: a pagina da ferramenta recarrega sozinha durante a geracao e perde Elenco e fila (as imagens ficam salvas no projeto).
+
+---
 
 ## HANDOFF (27/10/2026, tarde): capas com o Andre, orquidea testada, falta o lote
 

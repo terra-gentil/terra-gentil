@@ -10,20 +10,22 @@ export const ESTILO = [
   'Real skin texture with visible pores, slight imperfections, no retouching, no beauty filter.',
   'The man is exactly the person in the reference photos: same face, eyes, beard and smile.',
   'He wears the same dark grey cap with the orange logo that reads exactly "TERRA GENTIL".',
-  'He wears the official Terra Gentil dark grey t-shirt with the small orange logo on the chest,',
-  'a wheat flower icon above the two lines of text "TERRA" and "GENTIL" in clean capital letters,',
-  'copied exactly from the close-up t-shirt logo reference photo (andre-camiseta-logo).',
+  'He wears the official Terra Gentil dark grey t-shirt, a regular-fit tee, not oversized,',
+  'with one small standard-size orange logo (8 cm wide) only on the left chest, at the heart,',
+  'a wheat flower icon beside the two lines of text "TERRA" and "GENTIL" in clean capital letters,',
+  'copied exactly from the t-shirt logo reference photo (andre-camiseta-logo), only its design,',
+  'never its size: on the shirt the logo stays small and the rest of the chest is plain.',
 ].join(' ');
 
 // Capa do carrossel: cabeça no meio, espaço vazio acima dela para o título.
 export const QUADRO = [
-  'Vertical 4:5 frame, camera slightly wide: his head sits in the middle of the frame,',
-  'never in the top third. Above his head there is calm, softly out-of-focus background',
-  'with no objects, free for a headline.',
+  'Vertical 3:4 frame, natural photographic composition: he fills the frame, head in the upper',
+  'third with only a small natural headroom, no large empty area above him.',
 ].join(' ');
 
 export const EVITAR =
-  'Avoid: any other text, misspelled or distorted logo on the cap or t-shirt, microphone or ' +
+  'Avoid: any other text, misspelled or distorted logo on the cap or t-shirt, a big or centered ' +
+  'logo, an oversized t-shirt, microphone or ' +
   'clip on the clothes, extra fingers, distorted hands, plastic skin, oversaturated colors, ' +
   'other people, holes, bites, pests or damage on the leaves.';
 

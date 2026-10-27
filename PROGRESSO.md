@@ -1,5 +1,15 @@
 # PROGRESSO Terra Gentil
 
+## CAPAS COM O ANDRE (27/10/2026, manha): banco pronto no codigo, falta gerar as imagens
+
+**Feito (commit b3759af):** `insta-terra-gentil/capas/`. O slide 1 do carrossel usa a capa do Andre com a planta quando a especie tem capa no banco (`capas/banco/<slug>/`); os slides 2 a 8 seguem com a foto real da planta. Rodizio pela contagem de `dados/posts` (sem estado novo). 16 especies em `dados/capas.json`, 3 cenarios (A segurando, B cuidando, C no ambiente), prompt de foto realista fixo (`capas/prompts.mjs`). CLIs: `node capas/fila-cli.mjs orquidea` (gera `saida/fila-capas.json`) e `node capas/importar-cli.mjs <Downloads>` (1080x1350 no banco). 169 testes verdes.
+
+**Referencias do rosto:** `insta-terra-gentil/capas/referencias/` (FORA do git, repo publico): chroma-1, 2, 3 (Google Fotos, sessao do chroma de 31/08/2025), bone-logo e rua-1, 2 (video de 06/08/2025). Usar 4: chroma-3, chroma-1, bone-logo, rua-1.
+
+**Ferramenta "Capas TG" no Flow (mesmo molde da Fila MR):** pedido em `capas/FERRAMENTA-FLOW.md`. Tentativa de 27/10 manha: o Criador de ferramentas deu "Algo deu errado" 3 vezes (pedido longo e curto); ficou um rascunho vazio "Miniaplicativo sem titulo" no projeto 57852232. Tentar de novo mais tarde.
+
+**Proximo passo:** (1) criar a ferramenta no Flow; (2) Andre sobe as 4 referencias no Elenco (o Claude nao sobe rosto real); (3) teste com 1 especie (orquidea, 3 capas), Andre aprova a qualidade e o custo em creditos; (4) lote das 16; (5) importar e commitar `capas/banco/`. Meta depois: cerca de 145 imagens (15 principais x 5, 20 x 3, 10 coringas). Chromium do Playwright falta neste PC para renderizar local (`npx playwright install chromium-headless-shell`).
+
 ## AJUSTE (27/10/2026, manha): capa e titulo do carrossel
 
 **Conferido no ar:** a rotina das 04:00 gerou o post de 28/10 (IMORTAL), mesclou, e a noticia `/noticias/espada-de-sao-jorge-como-regar-sem-afogar` esta no ar (200, index, JSON-LD, sitemap, feed). Instagram segue desligado. A noticia sai com data de amanha porque a rotina escreve o dia seguinte e o site publica ao mesclar.

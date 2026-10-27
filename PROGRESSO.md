@@ -1,5 +1,35 @@
 # PROGRESSO Terra Gentil
 
+## ANDAMENTO DO LOTE DE CAPAS (28/10/2026, madrugada)
+
+**Regra de fila:** a caixa "Colar fila JSON" da ferramenta guarda uma fila antiga ao reabrir; sempre clicar no campo, ctrl+a, ctrl+v, e conferir a lista antes de gerar. Elenco (6 fotos, na ordem): camiseta "Man wearing charcoal t-shirt", chroma-3, chroma-1, rua-1, rua-2, bone-logo (desmarcar a `orquidea-E-1`, que vem pre-selecionada).
+
+| id | media_id / tentativa final | estado |
+|---|---|---|
+| orquidea-A-1 | `cb7bd578-876a-4835-86b3-42bbac351c2e`, tentativa 1 | APROVADA e 2K BAIXADO (`Documents\Terra Gentil\capas-2k\orquidea\orquidea-A-1.jpg`, 1792x2400). Falta rodar `importar-cli.mjs` e commitar |
+| jiboia-A-1 | `614e5cc4-1c7d-43e9-ab37-9af1171e4fd4`, tent. 2 | APROVADA, falta baixar 2K |
+| jiboia-B-1 | `46aaa9c6-3847-4c9a-a2ce-9edf306537c9`, tent. 2 | APROVADA, falta baixar 2K |
+| jiboia-C-1 | `dcd6c5b3-e714-4528-bf51-14f2d3d01789`, tent. 2 | APROVADA, falta baixar 2K |
+| jiboia-D-1 | `ed4c5257-4961-4262-b02d-fc53c603fa0b`, tent. 2 | APROVADA, falta baixar 2K |
+| jiboia-E-1 | tent. 3 `880f1198-ae2e-40f8-81e3-7824d9c820be` | REPROVADA (grafia do bone errada), refeita na fila grande |
+
+**Regra do Andre (28/10): falhas e reprovadas NAO sao refeitas na hora.** Anotar aqui e, so no fim de tudo, montar rodadas apenas com o que nao deu certo. Pendentes de refazer: jiboia-E-1 (boné/microfone, 3 tent.), lirio-da-paz-A-1 (rosto, 3 tent.).
+
+**LIMITE DE USO ATINGIDO (28/10):** o Flow respondeu "Voce chegou ao limite de uso. Tente de novo mais tarde." ao chegar na babosa. Antes disso: 64 tentativas de geracao na fila grande (30 itens concluidos: 20 prontas + 10 em aviso; 36 falharam por limite) + 12 na orquidea A e jiboia A a E = cerca de 76 geracoes desde o inicio desta sessao, alem das da orquidea de ontem. O Flow NAO informa o teto exato; e limite de taxa, nao de creditos (creditos_gastos 0). Resultado salvo em `Documents\Terra Gentil\capas-2k\resultado-fila1-limite.json`.
+**Pendentes (refazer so no fim):** falharam por limite: rosa-do-deserto-E, babosa A-E, anturio A-E, manjericao A-E, tomate A-E, morango A-E, alface A-E, cebolinha A-E. Em aviso (3 tent.): jiboia-E, espada-de-sao-jorge-C, costela-de-adao-B, lirio-da-paz-A, D, E, suculenta-C, E, rosa-do-deserto-B, C (vistoriar antes de decidir se refaz).
+
+**VISTORIA DA FILA GRANDE (28/10, imagem por imagem no visualizador):**
+- APROVADAS (20): espada-de-sao-jorge A B D E; costela-de-adao A C D E; zamioculca A B C D E; lirio-da-paz B C; suculenta A B D; rosa-do-deserto A D.
+- REPROVADAS, refazer no fim (11): jiboia-E (microfone), espada-C (microfone), costela-B (rosto), lirio A (rosto), D e E (microfone), suculenta-C (rosto), E (microfone, cabeca cortada), rosa-B (rosto e microfone), C (microfone), E (camiseta e rosto).
+- Mais as 36 que falharam por limite (lista acima).
+
+**NO BANCO (28/10, 2K importado e commitado):** orquidea A B C D E; espada-de-sao-jorge A B D E; costela-de-adao A C D E; zamioculca A B C D E; lirio-da-paz B C; suculenta A B D; rosa-do-deserto A D (25 capas). Origem 2K em `Documents\Terra Gentil\capas-2k\<slug>\<id>.jpg` (fora do git).
+**FALTA BAIXAR O 2K (aprovadas, sem arquivo):** jiboia A B C D. As 1K de referencia ja estao em scratchpad `ref1k/jiboia-*-1.jpg` (se o scratchpad sumir, baixar de novo por `/edit/<media_id>`: A `614e5cc4-1c7d-43e9-ab37-9af1171e4fd4`, B `46aaa9c6-3847-4c9a-a2ce-9edf306537c9`, C `dcd6c5b3-e714-4528-bf51-14f2d3d01789`, D `ed4c5257-4961-4262-b02d-fc53c603fa0b`). Busca na galeria: "Epipremnum aureum".
+**PARADO EM (28/10):** a extensao do Chrome desconectou ("Browser extension is not connected") e o grupo de abas foi perdido, inclusive a aba da ferramenta Capas TG. Reabrir o Chrome, conferir a extensao, abrir `https://flow.google.com/project/57852232-f318-4573-9547-901651781160/tools` e a ferramenta Capas TG. O limite de uso do Flow ainda nao foi testado de novo desde a babosa.
+**Metodo do 2K (funciona):** (1) botao "Baixar prontas" da ferramenta baixa as 1K `<id>.jpg` (referencia); (2) na galeria, buscar pelo nome cientifico (ex. "Monstera deliciosa"), clicar direito na gemea descritiva, Fazer o download, 2K; (3) `python -I place2k.py` (em scratchpad) casa cada 2K com a 1K por correlacao (1,0 = certo) e move para a pasta da especie. Esperar 1 s entre os cliques do menu e 10 s pelo download; a barra "O que voce quer criar?" cobre a linha de baixo da galeria, entao rolar para a gemea ficar no alto.
+
+**Fila grande (28/10):** jiboia-E + espada-de-sao-jorge, costela-de-adao, zamioculca, lirio-da-paz, suculenta, rosa-do-deserto, babosa, anturio, manjericao, tomate, morango, alface, cebolinha (66 capas). Ao trocar de fila a ferramenta perde os ids acima, entao o painel "Todas as midias" (busca pelo slug) e a fonte para achar a gemea descritiva.
+
 ## HANDOFF (27/10/2026, noite): orquidea no banco, falta a A e o metodo "gerar tudo, baixar depois"
 
 **Estado:** `capas/banco/orquidea/` tem B, C, D, E (2K importado, 1080x1350, logo pequena no peito esquerdo) e `capas/banco/indice.json` com tags. A-1 NAO esta no banco (a antiga tinha logo grande e foi removida; a nova saiu com aviso de rosto, terminou na tentativa 3, fica a decidir). 2K originais guardados em `C:\Users\engan\Documents\Terra Gentil\capas-2k\<slug>\<id>.jpg` (fora do git). Prompt atual: logo pequena no peito esquerdo, camiseta de corte normal, quadro 3:4 sem topo livre.

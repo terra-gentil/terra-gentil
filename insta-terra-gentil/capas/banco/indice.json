@@ -2,6 +2,215 @@
   "_sobre": "Gerado por capas/importar-cli.mjs. Tags por foto para o carrossel.",
   "capas": [
     {
+      "id": "costela-de-adao-A-1",
+      "arquivo": "costela-de-adao/costela-de-adao-A-1.jpg",
+      "slug": "costela-de-adao",
+      "especie": "Monstera deliciosa",
+      "nome": "costela-de-adão",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "costela-de-adao",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "costela-de-adao-A-1.jpg"
+    },
+    {
+      "id": "costela-de-adao-C-1",
+      "arquivo": "costela-de-adao/costela-de-adao-C-1.jpg",
+      "slug": "costela-de-adao",
+      "especie": "Monstera deliciosa",
+      "nome": "costela-de-adão",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "costela-de-adao",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "costela-de-adao-C-1.jpg"
+    },
+    {
+      "id": "costela-de-adao-D-1",
+      "arquivo": "costela-de-adao/costela-de-adao-D-1.jpg",
+      "slug": "costela-de-adao",
+      "especie": "Monstera deliciosa",
+      "nome": "costela-de-adão",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "costela-de-adao",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "costela-de-adao-D-1.jpg"
+    },
+    {
+      "id": "costela-de-adao-E-1",
+      "arquivo": "costela-de-adao/costela-de-adao-E-1.jpg",
+      "slug": "costela-de-adao",
+      "especie": "Monstera deliciosa",
+      "nome": "costela-de-adão",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "costela-de-adao",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "costela-de-adao-E-1.jpg"
+    },
+    {
+      "id": "espada-de-sao-jorge-A-1",
+      "arquivo": "espada-de-sao-jorge/espada-de-sao-jorge-A-1.jpg",
+      "slug": "espada-de-sao-jorge",
+      "especie": "Dracaena trifasciata",
+      "nome": "espada-de-são-jorge",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "espada-de-sao-jorge",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "espada-de-sao-jorge-A-1.jpg"
+    },
+    {
+      "id": "espada-de-sao-jorge-B-1",
+      "arquivo": "espada-de-sao-jorge/espada-de-sao-jorge-B-1.jpg",
+      "slug": "espada-de-sao-jorge",
+      "especie": "Dracaena trifasciata",
+      "nome": "espada-de-são-jorge",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "espada-de-sao-jorge",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "espada-de-sao-jorge-B-1.jpg"
+    },
+    {
+      "id": "espada-de-sao-jorge-D-1",
+      "arquivo": "espada-de-sao-jorge/espada-de-sao-jorge-D-1.jpg",
+      "slug": "espada-de-sao-jorge",
+      "especie": "Dracaena trifasciata",
+      "nome": "espada-de-são-jorge",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "espada-de-sao-jorge",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "espada-de-sao-jorge-D-1.jpg"
+    },
+    {
+      "id": "espada-de-sao-jorge-E-1",
+      "arquivo": "espada-de-sao-jorge/espada-de-sao-jorge-E-1.jpg",
+      "slug": "espada-de-sao-jorge",
+      "especie": "Dracaena trifasciata",
+      "nome": "espada-de-são-jorge",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "espada-de-sao-jorge",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "espada-de-sao-jorge-E-1.jpg"
+    },
+    {
+      "id": "lirio-da-paz-B-1",
+      "arquivo": "lirio-da-paz/lirio-da-paz-B-1.jpg",
+      "slug": "lirio-da-paz",
+      "especie": "Spathiphyllum wallisii",
+      "nome": "lírio-da-paz",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "lirio-da-paz",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lirio-da-paz-B-1.jpg"
+    },
+    {
+      "id": "lirio-da-paz-C-1",
+      "arquivo": "lirio-da-paz/lirio-da-paz-C-1.jpg",
+      "slug": "lirio-da-paz",
+      "especie": "Spathiphyllum wallisii",
+      "nome": "lírio-da-paz",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "lirio-da-paz",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lirio-da-paz-C-1.jpg"
+    },
+    {
+      "id": "orquidea-A-1",
+      "arquivo": "orquidea/orquidea-A-1.jpg",
+      "slug": "orquidea",
+      "especie": "Phalaenopsis",
+      "nome": "orquídea",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "orquidea",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "orquidea-A-1.jpg"
+    },
+    {
       "id": "orquidea-B-1",
       "arquivo": "orquidea/orquidea-B-1.jpg",
       "slug": "orquidea",
@@ -76,6 +285,196 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "orquidea-E-1.jpg"
+    },
+    {
+      "id": "rosa-do-deserto-A-1",
+      "arquivo": "rosa-do-deserto/rosa-do-deserto-A-1.jpg",
+      "slug": "rosa-do-deserto",
+      "especie": "Adenium obesum",
+      "nome": "rosa-do-deserto",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "rosa-do-deserto",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "rosa-do-deserto-A-1.jpg"
+    },
+    {
+      "id": "rosa-do-deserto-D-1",
+      "arquivo": "rosa-do-deserto/rosa-do-deserto-D-1.jpg",
+      "slug": "rosa-do-deserto",
+      "especie": "Adenium obesum",
+      "nome": "rosa-do-deserto",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "rosa-do-deserto",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "rosa-do-deserto-D-1.jpg"
+    },
+    {
+      "id": "suculenta-A-1",
+      "arquivo": "suculenta/suculenta-A-1.jpg",
+      "slug": "suculenta",
+      "especie": "Echeveria",
+      "nome": "suculenta",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "suculenta",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "suculenta-A-1.jpg"
+    },
+    {
+      "id": "suculenta-B-1",
+      "arquivo": "suculenta/suculenta-B-1.jpg",
+      "slug": "suculenta",
+      "especie": "Echeveria",
+      "nome": "suculenta",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "suculenta",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "suculenta-B-1.jpg"
+    },
+    {
+      "id": "suculenta-D-1",
+      "arquivo": "suculenta/suculenta-D-1.jpg",
+      "slug": "suculenta",
+      "especie": "Echeveria",
+      "nome": "suculenta",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "suculenta",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "suculenta-D-1.jpg"
+    },
+    {
+      "id": "zamioculca-A-1",
+      "arquivo": "zamioculca/zamioculca-A-1.jpg",
+      "slug": "zamioculca",
+      "especie": "Zamioculcas zamiifolia",
+      "nome": "zamioculca",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "zamioculca",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "zamioculca-A-1.jpg"
+    },
+    {
+      "id": "zamioculca-B-1",
+      "arquivo": "zamioculca/zamioculca-B-1.jpg",
+      "slug": "zamioculca",
+      "especie": "Zamioculcas zamiifolia",
+      "nome": "zamioculca",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "zamioculca",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "zamioculca-B-1.jpg"
+    },
+    {
+      "id": "zamioculca-C-1",
+      "arquivo": "zamioculca/zamioculca-C-1.jpg",
+      "slug": "zamioculca",
+      "especie": "Zamioculcas zamiifolia",
+      "nome": "zamioculca",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "zamioculca",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "zamioculca-C-1.jpg"
+    },
+    {
+      "id": "zamioculca-D-1",
+      "arquivo": "zamioculca/zamioculca-D-1.jpg",
+      "slug": "zamioculca",
+      "especie": "Zamioculcas zamiifolia",
+      "nome": "zamioculca",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "zamioculca",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "zamioculca-D-1.jpg"
+    },
+    {
+      "id": "zamioculca-E-1",
+      "arquivo": "zamioculca/zamioculca-E-1.jpg",
+      "slug": "zamioculca",
+      "especie": "Zamioculcas zamiifolia",
+      "nome": "zamioculca",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "zamioculca",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "zamioculca-E-1.jpg"
     }
   ]
 }

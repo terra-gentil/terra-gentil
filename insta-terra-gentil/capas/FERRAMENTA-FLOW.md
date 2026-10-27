@@ -4,7 +4,17 @@ Mesmo molde da "Fila MR" do marca registrada: criada no Flow em Ferramentas > Cr
 pedido abaixo no "Criador de ferramentas" (em inglês, o Flow escreve o código sozinho). Gasta os
 créditos da assinatura, nunca API paga.
 
-## Pedido para colar no Criador de ferramentas
+## Estado
+
+CRIADA em 27/10/2026 (conta eng.andrehz, Ferramentas > Minhas criações > "Capas TG", fixada na
+barra). Lição: o Criador dá "Algo deu errado" com pedido longo (falhou 4 vezes com o texto
+abaixo inteiro). Funciona em rodadas curtas, uma por vez, cada uma começando com "Keep
+everything as it is". Foram 5: base, erro e Parar, elenco e Resultado, conferência do Gemini,
+aria-labels e `#estado-capas`. Clicar no campo do Criador pelo nome ("O que você quer criar?"),
+nunca por coordenada: o clique por coordenada perde o texto. O Nano Banana Pro no Flow não tem
+4:5: a ferramenta gera em 3:4 e o `importar-cli.mjs` corta para 1080x1350.
+
+## Pedido completo (referência do que a ferramenta faz)
 
 ```
 Build a tool called "Capas TG": a batch generator of photorealistic Instagram carousel covers for a

@@ -6,9 +6,11 @@
 
 **Referencias do rosto:** `insta-terra-gentil/capas/referencias/` (FORA do git, repo publico): chroma-1, 2, 3 (Google Fotos, sessao do chroma de 31/08/2025), bone-logo e rua-1, 2 (video de 06/08/2025). Usar 4: chroma-3, chroma-1, bone-logo, rua-1.
 
-**Ferramenta "Capas TG" no Flow (mesmo molde da Fila MR):** pedido em `capas/FERRAMENTA-FLOW.md`. Tentativa de 27/10 manha: o Criador de ferramentas deu "Algo deu errado" 3 vezes (pedido longo e curto); ficou um rascunho vazio "Miniaplicativo sem titulo" no projeto 57852232. Tentar de novo mais tarde.
+**Ferramenta "Capas TG" no Flow: CRIADA (27/10, fim da manha)**, em 5 rodadas curtas (pedido longo falha). Tem Elenco (salvar/carregar), fila JSON, geracao 1 por vez com confirmacao de creditos, nova tentativa, Parar, conferencia pelo Gemini (rosto, logo, maos, planta, topo livre, texto) e Resultado JSON. Gera em 3:4 (Flow nao tem 4:5); o importador corta. Detalhes em `capas/FERRAMENTA-FLOW.md`. Sobrou um rascunho vazio "Miniaplicativo sem titulo" das tentativas que falharam (so o Andre exclui).
 
-**Proximo passo:** (1) criar a ferramenta no Flow; (2) Andre sobe as 4 referencias no Elenco (o Claude nao sobe rosto real); (3) teste com 1 especie (orquidea, 3 capas), Andre aprova a qualidade e o custo em creditos; (4) lote das 16; (5) importar e commitar `capas/banco/`. Meta depois: cerca de 145 imagens (15 principais x 5, 20 x 3, 10 coringas). Chromium do Playwright falta neste PC para renderizar local (`npx playwright install chromium-headless-shell`).
+**Terminal:** `warning.confirmCloseAllTabs: true` no settings do Windows Terminal (so pede confirmacao com 2+ abas; aba unica nao tem opcao). Para retomar sessao fechada: `claude -c`.
+
+**Proximo passo:** (1) ferramenta criada (feito); (2) Andre sobe as 4 referencias no Elenco (o Claude nao sobe rosto real); (3) teste com 1 especie (orquidea, 3 capas), Andre aprova a qualidade e o custo em creditos; (4) lote das 16; (5) importar e commitar `capas/banco/`. Meta depois: cerca de 145 imagens (15 principais x 5, 20 x 3, 10 coringas). Chromium do Playwright falta neste PC para renderizar local (`npx playwright install chromium-headless-shell`).
 
 ## AJUSTE (27/10/2026, manha): capa e titulo do carrossel
 

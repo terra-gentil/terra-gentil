@@ -1,5 +1,13 @@
 # PROGRESSO Terra Gentil
 
+## HANDOFF CAPAS (28/10/2026, tarde): conta nova da Pamela funcionando
+
+**Estado:** a conta antiga bateu o limite de uso do Flow. Mudamos para a conta da Pamela (PRO), projeto `https://flow.google.com/u/5/project/9a9b36e1-8266-4dd7-8245-c86cc2a40829`, ferramenta Capas TG recriada: `.../tool/7f91a921-cdd1-44aa-92c5-f796332fe542` (Ritmo, conferencia desligada, 1 tentativa). Elenco com 6 fotos (`andre-chroma-3`, `chroma-1`, `rua-2`, `rua-1`, `bone-logo`, `camiseta-logo`) ja na galeria desse projeto (use "Do Projeto"). TESTE OK: jiboia-E-1 gerada na 1a tentativa, vistoriada e boa (media_id `74da5e3d-4089-487a-b1e4-c49d48994f42`), falta baixar o 2K dela. O limite dessa conta ainda nao foi testado em volume: usar o contador "Geracoes nesta sessao" e anotar onde bater.
+
+**Como subir fotos sem o seletor nativo (funciona):** servidor local temporario com CORS (`scratchpad/cors_server.py`, porta 8765, servindo `capas/referencias`) e, na pagina da galeria, `fetch` dos arquivos + `DataTransfer` + `drop` no `elementFromPoint(680,300)`; o Flow pede o aviso "Direitos de uso" (Concordo, com autorizacao do Andre). Depois parar o servidor.
+
+**Proximo passo:** (1) baixar o 2K da jiboia-E (busca "Epipremnum aureum" na galeria dessa conta); (2) gerar em lotes de 6 pela ferramenta (fila via `fila-cli.mjs` + clipboard) os pendentes: babosa, anturio, manjericao, tomate, morango, alface, cebolinha (A a E) e as reprovadas listadas abaixo, depois as demais especies e coringas; (3) baixar "Baixar prontas" (1K), eu vistorio uma a uma, e baixo o 2K so das boas; (4) importar com `importar-cli.mjs` e commitar. As jiboia A a D ainda estao sem 2K na conta antiga (Epipremnum aureum) e so baixam la.
+
 ## ANDAMENTO DO LOTE DE CAPAS (28/10/2026, madrugada)
 
 **Regra de fila:** a caixa "Colar fila JSON" da ferramenta guarda uma fila antiga ao reabrir; sempre clicar no campo, ctrl+a, ctrl+v, e conferir a lista antes de gerar. Elenco (6 fotos, na ordem): camiseta "Man wearing charcoal t-shirt", chroma-3, chroma-1, rua-1, rua-2, bone-logo (desmarcar a `orquidea-E-1`, que vem pre-selecionada).

@@ -1,0 +1,221 @@
+{
+  "dia": "2026-10-28",
+  "palavra": "IMORTAL",
+  "especie": "Dracaena trifasciata",
+  "nome": "Espada-de-são-jorge",
+  "serie": "3 erros",
+  "gancho": "O único jeito fácil de matar a espada-de-são-jorge é afogando.",
+  "resumo": "Três erros de rega com a espada-de-são-jorge e dois gestos simples: o teste do dedo e parar de regar quando a folha amarela.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Rega",
+      "linha1": "O que mata a",
+      "linha2": "espada-de-são-jorge",
+      "linha3": "é a água em",
+      "destaque": "excesso"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Regar por",
+      "linha2": "excesso de",
+      "destaque": "carinho",
+      "texto": "O único jeito fácil de matar a espada é afogando. Na dúvida, não regue.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Regar pelo",
+      "linha2": "calendário e não",
+      "destaque": "pelo dedo",
+      "texto": "Regar a cada 3 dias é receita para o desastre. Deixe a terra dizer a hora.",
+      "nota": "Quase todo mundo começa assim."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Regar igual",
+      "linha2": "no frio e no",
+      "destaque": "calor",
+      "texto": "No frio a planta desacelera. A espada pode ficar meses sem água.",
+      "nota": "Menos água também é cuidado."
+    },
+    {
+      "linha1": "Enfie o dedo",
+      "linha2": "na terra até a",
+      "destaque": "segunda falange",
+      "texto": "Saiu sujo e úmido? Espere. Saiu limpo e seco? Aí sim, é hora de regar.",
+      "dica": "É uns 3 a 5 centímetros de fundura. Faça o teste sempre que bater a dúvida."
+    },
+    {
+      "linha1": "Folha amarela?",
+      "linha2": "Pare de regar",
+      "destaque": "por semanas",
+      "texto": "Amarelou? Ela está dizendo que está se afogando. Deixe a terra descansar.",
+      "dica": "Sem pressa e sem culpa. Ela perdoa o esquecimento."
+    },
+    {
+      "tarja": "Mito",
+      "linha1": "Planta forte",
+      "linha2": "precisa de",
+      "destaque": "mimo?",
+      "texto": "Não. Ela guarda água nas folhas e pode passar semanas sem rega.",
+      "nota": "Esquecer um dia não faz mal."
+    },
+    {
+      "texto": "Cuide com calma e ela devolve em folhas verdes. Salve este post para a próxima rega.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "O jeito fácil de matar a espada-de-são-jorge é afogando. Regar demais é o perigo, não a falta de água.",
+      "pagina": 6,
+      "trecho": "O único jeito fácil de matá-la é afogando",
+      "fonte": "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 6"
+    },
+    {
+      "texto": "Na dúvida, não regue. Ela prefere a seca ao excesso de água.",
+      "pagina": 6,
+      "trecho": "Na dúvida, não regue Ela prefere a seca ao excesso de amor líquido",
+      "fonte": "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 6"
+    },
+    {
+      "texto": "Ela guarda água nas folhas e perdoa o esquecimento. Pode passar semanas sem rega.",
+      "pagina": 7,
+      "trecho": "Ela armazena água em suas folhas, o que significa que pode passar semanas sem rega.",
+      "fonte": "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 7"
+    },
+    {
+      "texto": "Regar a cada 3 dias, por calendário, é receita para o desastre. O livro pede para esquecer o calendário.",
+      "pagina": 14,
+      "trecho": "é a receita para o desastre com qualquer membro do seu esquadrão",
+      "fonte": "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 14"
+    },
+    {
+      "texto": "Teste do dedo: enfie o dedo na terra até a segunda falange, uns 3 a 5 cm de fundura.",
+      "pagina": 14,
+      "trecho": "Até a segunda falange (cerca de 3 a 5 cm de profundidade)",
+      "fonte": "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 14"
+    },
+    {
+      "texto": "Dedo sujo e úmido? Espere. A terra ainda tem umidade suficiente.",
+      "pagina": 14,
+      "trecho": "Espere. O solo ainda tem umidade suficiente para todos os membros",
+      "fonte": "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 14"
+    },
+    {
+      "texto": "No frio o metabolismo desacelera. Reduza bastante a rega: a espada pode ficar meses sem água.",
+      "pagina": 15,
+      "trecho": "Reduza significativamente a frequência das regas. Espada e Zamioculca podem ficar meses sem água!",
+      "fonte": "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 15"
+    },
+    {
+      "texto": "Folha amarela na espada quer dizer que ela está se afogando. A cura é parar de regar por semanas.",
+      "pagina": 17,
+      "trecho": "Cure parando de regar completamente por semanas.",
+      "fonte": "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 17"
+    },
+    {
+      "texto": "Ela tolera sombra e luz indireta, mas cresce com mais vigor com luz indireta brilhante.",
+      "pagina": 7,
+      "trecho": "embora prefira luz indireta brilhante para crescer vigorosamente.",
+      "fonte": "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 7"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "fontes": [
+    "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 6",
+    "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 7",
+    "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 14",
+    "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 15",
+    "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 17"
+  ],
+  "materia": {
+    "slug": "espada-de-sao-jorge-como-regar-sem-afogar",
+    "titulo": "Espada-de-são-jorge: como regar sem afogar",
+    "descricao": "A espada-de-são-jorge aguenta esquecimento, mas não aguenta água demais. Veja os erros de rega mais comuns e o teste do dedo que ajuda a acertar a hora.",
+    "introducao": "Se você já pensou que a espada-de-são-jorge era impossível de matar e mesmo assim viu as folhas amarelarem, respire. Isso acontece com muita gente, e quase sempre o motivo é um só: água demais. Quem cuida com carinho tende a regar mais do que a planta pede. Neste texto, a gente conversa sobre os erros de rega mais comuns, sobre um teste simples para saber a hora certa e sobre o que fazer quando as folhas amarelam. Tudo com base no ebook O Esquadrão Imortal, do André, sem receita complicada e sem culpa. Vamos com calma, um passo de cada vez.",
+    "secoes": [
+      {
+        "titulo": "Por que regar demais é o maior perigo",
+        "paragrafos": [
+          "O ebook chama a espada-de-são-jorge de a indestrutível, e ela merece o nome. Só que existe uma exceção, e o livro é bem direto: o único jeito fácil de matá-la é afogando. Ou seja, o perigo não é a sede. É o excesso de rega, aquele cuidado cheio de boa vontade que acaba fazendo mal.",
+          "O livro resume o jeito dela de ser em uma frase gentil: na dúvida, não regue. Ela prefere a seca ao excesso de água. Se você está lendo isto com medo de ter errado, fique tranquilo. A planta é resistente, e entender isso já é metade do caminho."
+        ],
+        "fatosUsados": [
+          0,
+          1
+        ]
+      },
+      {
+        "titulo": "Ela perdoa o esquecimento",
+        "paragrafos": [
+          "Uma das melhores qualidades da espada é guardar água nas próprias folhas. Por causa disso, ela é muito tolerante ao esquecimento, e o ebook diz que ela pode passar semanas sem rega. Para quem viaja ou tem uma rotina corrida, isso é um alívio.",
+          "Então, se bateu aquela dúvida entre regar hoje ou esperar, lembre que esperar costuma ser o lado mais seguro. Esquecer uma rega não é o fim do mundo para essa planta. Regar sem parar, esse sim, é o problema."
+        ],
+        "fatosUsados": [
+          2
+        ]
+      },
+      {
+        "titulo": "Esqueça o calendário e use o dedo",
+        "paragrafos": [
+          "Regar a cada 3 dias parece organizado, mas o livro avisa que essa regra é receita para o desastre. A planta não sabe que dia é hoje, e a terra seca num ritmo diferente em cada casa. Por isso o ebook pede para esquecer o calendário.",
+          "No lugar dele, use o teste do dedo. Enfie o dedo na terra até a segunda falange, que dá uns 3 a 5 centímetros de fundura. Se o dedo sair limpo e seco, a planta está com sede. Se sair sujo e úmido, espere, porque a terra ainda tem umidade suficiente. É um gesto simples e rápido, e você pode repetir sempre que a dúvida aparecer."
+        ],
+        "fatosUsados": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "titulo": "No frio, regue bem menos",
+        "paragrafos": [
+          "Nos dias frios o metabolismo da planta desacelera. O livro pede para reduzir significativamente a frequência das regas nessa época. E dá um número que tranquiliza: a espada e a zamioculca podem ficar meses sem água.",
+          "O ebook não diz uma quantidade exata de regas para o inverno, e de propósito. A ideia é observar a planta, fazer o teste do dedo e regar só quando for preciso. Na época fria, isso quer dizer regar muito pouco."
+        ],
+        "fatosUsados": [
+          6
+        ]
+      },
+      {
+        "titulo": "Folha amarela: o que fazer",
+        "paragrafos": [
+          "Quando a folha da espada amarela, o ebook traduz o recado da planta como um pedido de socorro: estou me afogando. A cura que o livro indica é parar de regar completamente por semanas. Sem pressa e sem culpa, deixe a terra descansar.",
+          "Sobre a luz, ela é bem flexível. Tolera sombra e luz indireta, mas cresce com mais vigor com luz indireta brilhante. Mas o ponto principal continua sendo a água: menos é mais."
+        ],
+        "fatosUsados": [
+          7,
+          8
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "De quantos em quantos dias devo regar a espada-de-são-jorge?",
+        "resposta": "O livro não dá um número fixo, e pede para esquecer o calendário. Use o teste do dedo: se ele sair limpo e seco, é hora de regar. Se sair sujo e úmido, espere."
+      },
+      {
+        "pergunta": "A espada-de-são-jorge morre se eu esquecer de regar?",
+        "resposta": "Dificilmente. Ela guarda água nas folhas e, segundo o ebook, pode passar semanas sem rega. O maior risco é o contrário, regar demais."
+      },
+      {
+        "pergunta": "As folhas da minha espada ficaram amarelas. E agora?",
+        "resposta": "O ebook diz que folha amarela é sinal de que ela está se afogando. A cura indicada é parar de regar completamente por semanas, sem culpa e com paciência."
+      }
+    ],
+    "conclusao": "Regar a espada-de-são-jorge bem é mais sobre esperar do que sobre fazer. Esqueça o calendário, enfie o dedo na terra até a segunda falange e só regue quando ele sair limpo e seco. No frio, regue ainda menos. Na dúvida, não regue, porque ela prefere a seca ao excesso. Salve este texto para a próxima vez que a dúvida bater e conte para quem também cuida de planta com medo de errar. Gentileza gera gentileza."
+  }
+}

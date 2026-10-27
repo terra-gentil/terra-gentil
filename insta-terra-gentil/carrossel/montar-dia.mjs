@@ -50,7 +50,9 @@ function dadosDoSlide(slide, i, foto, credito) {
 }
 
 // post = { especie, gancho, resumo?, palavra?, slides[8] }. dependências injetáveis para teste.
-export async function montarDia(post, { dia, saida, renderizar, obterFoto, tituloEbook }) {
+// obterCapa (opcional) devolve a capa do André com a planta (capas/banco.mjs) ou null.
+export async function montarDia(post, opcoes) {
+  const { dia, saida, renderizar, obterFoto, obterCapa, tituloEbook } = opcoes;
   const problemas = problemasDoRoteiro(post.slides);
   if (problemas.length) {
     throw new Error(`[montar-dia] roteiro inválido:\n- ${problemas.join('\n- ')}`);
@@ -59,8 +61,11 @@ export async function montarDia(post, { dia, saida, renderizar, obterFoto, titul
   const molde = moldeDoDia(dia);
   const foto = await obterFoto(post.especie);
   const fotoUri = paraDataUri(foto.caminho);
+  const capa = obterCapa ? await obterCapa(post.especie, dia) : null;
+  const capaUri = capa ? paraDataUri(capa.caminho) : fotoUri;
+  const fotoDe = (i) => (ESTRUTURA[i] === 'capa' ? capaUri : fotoUri);
   const paginas = post.slides.map((slide, i) => ({
-    html: montarSlide(molde, ESTRUTURA[i], dadosDoSlide(slide, i, fotoUri, foto.credito)),
+    html: montarSlide(molde, ESTRUTURA[i], dadosDoSlide(slide, i, fotoDe(i), foto.credito)),
     saida: path.join(saida, `${dia}-${molde}-${String(i + 1).padStart(2, '0')}.png`),
     fotoLimpa: FOTO_LIMPA.has(molde),
     capa: ESTRUTURA[i] === 'capa',
@@ -77,6 +82,7 @@ export async function montarDia(post, { dia, saida, renderizar, obterFoto, titul
   const { especie } = post;
   const { credito, provedor } = foto;
   const ficha = { dia, molde, especie, credito, provedor, avisos, noticia: urlNoticia };
+  ficha.capa = capa ? path.basename(capa.caminho) : null;
   fs.writeFileSync(path.join(saida, `${dia}-ficha.json`), `${JSON.stringify(ficha, null, 2)}\n`);
-  return { molde, pngs, legenda, avisos, foto };
+  return { molde, pngs, legenda, avisos, foto, capa };
 }

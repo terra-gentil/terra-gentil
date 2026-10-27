@@ -1,0 +1,21 @@
+{
+  "_sobre": "Capas do carrossel com o André e a planta (banco em capas/banco/<slug>/). Chave = nome científico, o mesmo do campo especie do post. ambiente = cenário C. Espécie fora desta lista usa a foto do banco gratuito.",
+  "especies": {
+    "Phalaenopsis": { "nome": "orquídea", "slug": "orquidea", "ingles": "Phalaenopsis moth orchid in bloom", "ambiente": "a humid greenhouse orchid nursery with rows of orchids on wooden benches" },
+    "Epipremnum aureum": { "nome": "jiboia", "slug": "jiboia", "ingles": "golden pothos (Epipremnum aureum) with long trailing vines", "ambiente": "a bright Brazilian living room with the pothos trailing from a high shelf" },
+    "Dracaena trifasciata": { "nome": "espada-de-são-jorge", "slug": "espada-de-sao-jorge", "ingles": "snake plant (Dracaena trifasciata) with upright striped leaves", "ambiente": "a sunny house entrance with several snake plants in clay pots" },
+    "Monstera deliciosa": { "nome": "costela-de-adão", "slug": "costela-de-adao", "ingles": "Monstera deliciosa with large split leaves", "ambiente": "a shaded tropical backyard garden with big Monstera plants" },
+    "Zamioculcas zamiifolia": { "nome": "zamioculca", "slug": "zamioculca", "ingles": "ZZ plant (Zamioculcas zamiifolia) with glossy dark green leaves", "ambiente": "a simple home office corner with a ZZ plant next to a window" },
+    "Spathiphyllum wallisii": { "nome": "lírio-da-paz", "slug": "lirio-da-paz", "ingles": "peace lily (Spathiphyllum) with white spathes", "ambiente": "a calm living room corner with soft indirect light and peace lilies" },
+    "Echeveria": { "nome": "suculenta", "slug": "suculenta", "ingles": "Echeveria succulent rosettes in small pots", "ambiente": "a sunny balcony shelf full of small succulent pots" },
+    "Adenium obesum": { "nome": "rosa-do-deserto", "slug": "rosa-do-deserto", "ingles": "desert rose (Adenium obesum) with a thick caudex and pink flowers", "ambiente": "a sunny backyard with desert roses in wide shallow pots" },
+    "Aloe vera": { "nome": "babosa", "slug": "babosa", "ingles": "Aloe vera with thick spiky leaves", "ambiente": "a sunny Brazilian backyard with aloe vera growing in the ground" },
+    "Anthurium andraeanum": { "nome": "antúrio", "slug": "anturio", "ingles": "Anthurium andraeanum with glossy red spathes", "ambiente": "a shaded veranda with anthuriums in pots" },
+    "Ocimum basilicum": { "nome": "manjericão", "slug": "manjericao", "ingles": "sweet basil (Ocimum basilicum) bush", "ambiente": "a small home herb garden on a sunny kitchen balcony" },
+    "Solanum lycopersicum": { "nome": "tomate", "slug": "tomate", "ingles": "tomato plant in a pot with ripe and green tomatoes", "ambiente": "a backyard vegetable garden with staked tomato plants" },
+    "Fragaria × ananassa": { "nome": "morango", "slug": "morango", "ingles": "strawberry plant with ripe red strawberries", "ambiente": "a home garden with strawberries growing in a raised bed" },
+    "Lactuca sativa": { "nome": "alface", "slug": "alface", "ingles": "fresh lettuce heads", "ambiente": "a home vegetable bed with rows of lettuce" },
+    "Allium fistulosum": { "nome": "cebolinha", "slug": "cebolinha", "ingles": "green onion (Allium fistulosum) clump", "ambiente": "a kitchen window herb box with green onions" },
+    "Zoysia japonica": { "nome": "grama-esmeralda", "slug": "grama", "ingles": "freshly cut Zoysia emerald grass lawn", "ambiente": "a Brazilian house front yard with a neatly cut lawn" }
+  }
+}

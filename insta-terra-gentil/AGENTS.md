@@ -39,6 +39,7 @@ Passou do limite? Fatie por responsabilidade em arquivos menores. Nunca suba o t
 | `dm/` | Palavra-chave do comentário e mensagem do direct | 2 |
 | `pauta/` | Gerador de pauta a partir dos ebooks e livros | 1 e 5 |
 | `carrossel/` | Slides do carrossel (arte, texto, legenda) | 1 |
+| `capas/` | Banco de capas do André com a planta (Google Flow) | 1 |
 | `publicar/` | Fila e cliente da Graph API do Instagram | 1 |
 | `aprovacao/` | Prévia e ok no Telegram | 1 |
 | `acervo/` | Trechos de b-roll no R2, com etiquetas | 3 |

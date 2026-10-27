@@ -1,4 +1,6 @@
 node_modules/
 saida/
 fotos/
+# fotos reais do rosto do André: referência só para a ferramenta do Flow, repo é público
+capas/referencias/
 .env

@@ -51,6 +51,24 @@ test('passo sem nota não vaza a legenda de exemplo do molde álbum', async () =
   fs.rmSync(a.pasta, { recursive: true });
 });
 
+test('capa do banco vai só no slide 1; sem capa, o slide 1 usa a foto da planta', async () => {
+  const a = ambiente();
+  const capa = path.join(a.pasta, 'orquidea-A-1.jpg');
+  fs.writeFileSync(capa, Buffer.from('capa-do-andre'));
+  const marca = Buffer.from('capa-do-andre').toString('base64');
+  const obterCapa = async () => ({ caminho: capa, credito: 'Foto: Terra Gentil' });
+  const r = await montarDia(post(), { ...a, obterCapa, dia: '2026-10-26' });
+  assert.match(a.pedidos[0].html, new RegExp(marca));
+  assert.doesNotMatch(a.pedidos[1].html, new RegExp(marca));
+  assert.equal(path.basename(r.capa.caminho), 'orquidea-A-1.jpg');
+  assert.equal(lerJson(path.join(a.saida, '2026-10-26-ficha.json')).capa, 'orquidea-A-1.jpg');
+  const b = ambiente();
+  await montarDia(post(), { ...b, obterCapa: async () => null, dia: '2026-10-26' });
+  assert.equal(lerJson(path.join(b.saida, '2026-10-26-ficha.json')).capa, null);
+  fs.rmSync(a.pasta, { recursive: true });
+  fs.rmSync(b.pasta, { recursive: true });
+});
+
 test('outro dia, outro molde', async () => {
   const a = ambiente();
   const r = await montarDia(post(), { ...a, dia: '2026-10-27' });

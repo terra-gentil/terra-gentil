@@ -1,5 +1,19 @@
 # PROGRESSO Terra Gentil
 
+## HANDOFF (27/10/2026, noite): orquidea no banco, falta a A e o metodo "gerar tudo, baixar depois"
+
+**Estado:** `capas/banco/orquidea/` tem B, C, D, E (2K importado, 1080x1350, logo pequena no peito esquerdo) e `capas/banco/indice.json` com tags. A-1 NAO esta no banco (a antiga tinha logo grande e foi removida; a nova saiu com aviso de rosto, terminou na tentativa 3, fica a decidir). 2K originais guardados em `C:\Users\engan\Documents\Terra Gentil\capas-2k\<slug>\<id>.jpg` (fora do git). Prompt atual: logo pequena no peito esquerdo, camiseta de corte normal, quadro 3:4 sem topo livre.
+
+**Como baixar o 2K certo (descoberto hoje):** cada imagem aparece 2x no painel "Todas as midias". A copia salva pela ferramenta tem o nome do id (`orquidea-E-1`) e SO baixa 1K. A copia gemea ao lado, com nome descritivo ("Man watering orchid in..."), tem o icone "reutilizar comando" ao passar o mouse e o menu "Fazer o download" abre submenu 1K / 2K aprimorada / 4K. Baixe o 2K da gemea descritiva (arquivo vem como `Man_..._2K_<data>.jpg`, 1792x2400) e renomeie para `<id>.jpg`. Cada TENTATIVA vira um par; a tentativa final e a mais NOVA (topo do painel). Para conferir qual par e qual id, passe o mouse na copia com nome do id.
+
+**Decisao do Andre (27/10):** gerar TODAS as imagens primeiro (lotes por especie, sem baixar) e baixar depois, para ganhar tempo. Para nao se perder: apos cada lote, anotar aqui o id e a tentativa final de cada capa (a aba "Resultado" da ferramenta mostra `media_id` e estado; "Baixar resultado" salva o JSON), e usar a busca do painel por `orquidea-` (slug) para ver so as copias nomeadas e achar a gemea. Se der clear, retomar por aqui.
+
+**Proximo passo exato:** (1) decidir a A da orquidea (gerar de novo ou aceitar a atual); (2) gerar os lotes das 15 principais (`node insta-terra-gentil/capas/fila-cli.mjs jiboia` etc., colar via clipboard; Elenco = camiseta nova "Man wearing charcoal t-shirt" + andre-bone-logo, chroma-1, chroma-3, rua-1, rua-2); (3) depois baixar os 2K pela regra acima e importar com `node insta-terra-gentil/capas/importar-cli.mjs "C:\Users\engan\Documents\Terra Gentil\capas-2k\<slug>"`; (4) commitar. Cuidado: a pagina da ferramenta recarrega sozinha as vezes e perde Elenco e fila.
+
+**Comando:** `cd C:\Gitlab_hz\terra-gentil-site\terra-gentil && claude`
+
+---
+
 ## AJUSTE (27/10/2026, noite): capas da orquidea com camiseta padrao
 
 **Decisoes do Andre:** logo da camiseta PEQUENA, so no peito esquerdo (area do coracao), camiseta de corte normal, nao oversized. O topo livre para titulo foi REMOVIDO do prompt (`QUADRO` em `capas/prompts.mjs`: quadro 3:4, pessoa preenchendo, sem espaco vazio; o Flow nao aceita 4:5).

@@ -1,0 +1,81 @@
+{
+  "_sobre": "Gerado por capas/importar-cli.mjs. Tags por foto para o carrossel.",
+  "capas": [
+    {
+      "id": "orquidea-B-1",
+      "arquivo": "orquidea/orquidea-B-1.jpg",
+      "slug": "orquidea",
+      "especie": "Phalaenopsis",
+      "nome": "orquídea",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "orquidea",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "orquidea-B-1.jpg"
+    },
+    {
+      "id": "orquidea-C-1",
+      "arquivo": "orquidea/orquidea-C-1.jpg",
+      "slug": "orquidea",
+      "especie": "Phalaenopsis",
+      "nome": "orquídea",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "orquidea",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "orquidea-C-1.jpg"
+    },
+    {
+      "id": "orquidea-D-1",
+      "arquivo": "orquidea/orquidea-D-1.jpg",
+      "slug": "orquidea",
+      "especie": "Phalaenopsis",
+      "nome": "orquídea",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "orquidea",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "orquidea-D-1.jpg"
+    },
+    {
+      "id": "orquidea-E-1",
+      "arquivo": "orquidea/orquidea-E-1.jpg",
+      "slug": "orquidea",
+      "especie": "Phalaenopsis",
+      "nome": "orquídea",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "orquidea",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "orquidea-E-1.jpg"
+    }
+  ]
+}

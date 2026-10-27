@@ -14,7 +14,7 @@ import { equilibrarTitulo } from './titulo.mjs';
 const IMAGENS = path.join(RAIZ_SITE, 'public', 'images');
 const poseDoMascote = (i) => path.join(IMAGENS, 'mascot', `pose-${(i % 8) + 1}.jpg`);
 const FOTO_ANDRE = path.join(IMAGENS, 'photos', 'andre-bench.png');
-const ESCURECIMENTO_CAPA = 45;
+const ESCURECIMENTO_CAPA = 30;
 // Enquadramento da foto por slide, para os 8 não parecerem o mesmo recorte repetido.
 const ENQUADRAMENTOS = [
   ['center', 1],
@@ -43,6 +43,8 @@ function dadosDoSlide(slide, i, foto, credito) {
     const numero = ESTRUTURA.slice(0, i + 1).filter((t) => t === 'passo').length;
     dados.numero ??= String(numero).padStart(2, '0');
     dados.tarja ??= `Passo ${numero}`;
+    // O álbum usa `nota` como legenda da polaroid: sem isto vaza o texto de exemplo do molde.
+    dados.nota ??= 'terra gentil';
   }
   return dados;
 }
@@ -61,6 +63,7 @@ export async function montarDia(post, { dia, saida, renderizar, obterFoto, titul
     html: montarSlide(molde, ESTRUTURA[i], dadosDoSlide(slide, i, fotoUri, foto.credito)),
     saida: path.join(saida, `${dia}-${molde}-${String(i + 1).padStart(2, '0')}.png`),
     fotoLimpa: FOTO_LIMPA.has(molde),
+    capa: ESTRUTURA[i] === 'capa',
   }));
   const avisos = [];
   const aoAbrir = async (pagina, arquivo) => {

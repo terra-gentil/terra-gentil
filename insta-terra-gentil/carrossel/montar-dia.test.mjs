@@ -44,6 +44,13 @@ test('monta 8 slides com o molde do dia, contador, crédito e arquivos de apoio'
   fs.rmSync(a.pasta, { recursive: true });
 });
 
+test('passo sem nota não vaza a legenda de exemplo do molde álbum', async () => {
+  const a = ambiente();
+  await montarDia(post(), { ...a, dia: '2026-10-28' });
+  assert.doesNotMatch(a.pedidos[4].html, /acima da gema/);
+  fs.rmSync(a.pasta, { recursive: true });
+});
+
 test('outro dia, outro molde', async () => {
   const a = ambiente();
   const r = await montarDia(post(), { ...a, dia: '2026-10-27' });

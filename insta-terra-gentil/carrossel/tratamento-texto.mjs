@@ -31,3 +31,41 @@ export function ajustarTitulos({ largura, margem, tamanhoMinimo }) {
   }
   return ajustados;
 }
+
+// Fator único de encolhimento das linhas do título: 1 se a mais larga cabe, senão proporcional,
+// nunca abaixo do mínimo (aí o aviso de estouro avisa). Pura, para testar sem navegador.
+export function fatorDeEncolhimento(larguras, disponivel, minimo = 0.55) {
+  const maior = Math.max(...larguras, 0);
+  if (!maior || maior <= disponivel) return 1;
+  return Math.max(minimo, disponivel / maior);
+}
+
+// Roda na página, então cada função traz a própria seleção: as linhas do h1 são os filhos em
+// bloco com texto. Trava cada uma numa linha só (sem quebrar em "espada-de-são-jorge") e mede
+// a largura real do texto. Devolve as larguras de cada h1, na ordem da página.
+export function medirLinhasTitulo() {
+  return [...document.body.querySelectorAll('h1')].map((h1) =>
+    [...h1.children]
+      .filter((el) => el.textContent.trim() && getComputedStyle(el).display === 'block')
+      .map((el) => {
+        el.style.whiteSpace = 'nowrap';
+        const faixa = document.createRange();
+        faixa.selectNodeContents(el);
+        return faixa.getBoundingClientRect().width;
+      }),
+  );
+}
+
+// Aplica o fator de cada h1 (vindo de fatorDeEncolhimento) em todas as linhas dele.
+export function encolherLinhasTitulo(fatores) {
+  [...document.body.querySelectorAll('h1')].forEach((h1, i) => {
+    if (fatores[i] >= 1) return;
+    for (const el of h1.children) {
+      if (!el.textContent.trim() || getComputedStyle(el).display !== 'block') continue;
+      const estilo = getComputedStyle(el);
+      // Mantém a altura da linha original: sem isso o acento de uma linha bate na de cima.
+      if (estilo.lineHeight !== 'normal') el.style.lineHeight = estilo.lineHeight;
+      el.style.fontSize = `${parseFloat(estilo.fontSize) * fatores[i]}px`;
+    }
+  });
+}

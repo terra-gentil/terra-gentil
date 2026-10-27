@@ -2,10 +2,17 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { tratarFoto } from './tratamento-foto.mjs';
-import { ajustarTitulos, sombrearCartoes } from './tratamento-texto.mjs';
+import {
+  ajustarTitulos,
+  encolherLinhasTitulo,
+  fatorDeEncolhimento,
+  medirLinhasTitulo,
+  sombrearCartoes,
+} from './tratamento-texto.mjs';
 
 export const LARGURA = 1080;
 export const ALTURA = 1350;
+const MARGEM = 64;
 
 // Recebe vários slides de uma vez e abre o navegador uma só vez (a parte mais lenta).
 // Local: TG_CHROME_CANAL=chrome usa o Chrome instalado. No CI: o Chromium do Playwright.
@@ -18,13 +25,16 @@ export async function renderizar(paginas, opcoes = {}) {
   try {
     const pagina = await navegador.newPage({ viewport: { width: LARGURA, height: ALTURA } });
     const saidas = [];
-    for (const { html, saida, fotoLimpa } of paginas) {
+    for (const { html, saida, fotoLimpa, capa } of paginas) {
       await pagina.setContent(html, { waitUntil: 'networkidle' });
       await pagina.evaluate(() => document.fonts.ready);
       if (opcoes.tratar !== false) {
-        await pagina.evaluate(tratarFoto, { largura: LARGURA, altura: ALTURA, fotoLimpa });
+        await pagina.evaluate(tratarFoto, { largura: LARGURA, altura: ALTURA, fotoLimpa, capa });
         await pagina.evaluate(sombrearCartoes);
         await pagina.evaluate(ajustarTitulos, { largura: LARGURA, margem: 56, tamanhoMinimo: 64 });
+        const larguras = await pagina.evaluate(medirLinhasTitulo);
+        const fatores = larguras.map((l) => fatorDeEncolhimento(l, LARGURA - 2 * MARGEM));
+        await pagina.evaluate(encolherLinhasTitulo, fatores);
       }
       if (aoAbrir) await aoAbrir(pagina, saida);
       fs.mkdirSync(path.dirname(saida), { recursive: true });

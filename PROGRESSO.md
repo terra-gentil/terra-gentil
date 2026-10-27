@@ -1,5 +1,13 @@
 # PROGRESSO Terra Gentil
 
+## AJUSTE (27/10/2026, manha): capa e titulo do carrossel
+
+**Conferido no ar:** a rotina das 04:00 gerou o post de 28/10 (IMORTAL), mesclou, e a noticia `/noticias/espada-de-sao-jorge-como-regar-sem-afogar` esta no ar (200, index, JSON-LD, sitemap, feed). Instagram segue desligado. A noticia sai com data de amanha porque a rotina escreve o dia seguinte e o site publica ao mesclar.
+
+**Corrigido:** (1) titulo longo ("espada-de-sao-jorge") nao quebra mais no hifen: `tratamento-texto.mjs` trava cada linha do h1 e encolhe todas pelo mesmo fator (`fatorDeEncolhimento`, com teste), mantendo a altura da linha; testado nos 7 moldes, sem aviso de estouro. (2) capa com desfoque e veu leves (`tratarFoto` com `capa`, ESCURECIMENTO_CAPA 30, veu do album) para a planta aparecer. (3) foto curada da espada-de-sao-jorge em `dados/fotos.json` (CC0, folhas nitidas, no lugar do mato com galhos); capa do site trocada. (4) legenda de exemplo "2 cm acima da gema" vazava no passo do molde album: agora "terra gentil".
+
+**Risco aberto:** a foto automatica escolhe so por proporcao e licenca, nao por qualidade. Como a noticia vai ao site sozinha, curar a foto de cada especie ANTES da rotina escrever o post dela (`node insta-terra-gentil/imagem/curar-cli.mjs "Especie"`).
+
 ## ESTADO (26/10/2026, fim da noite): publicacao no Instagram montada, DESLIGADA
 
 **Feito hoje:** nome cientifico em `especie` (corrige foto de cobra), desfoque/gradiente/sombra/realce de foto/titulo equilibrado nos moldes, enquadramento variado, retry do Chromium no CI. Publicacao no IG pronta e testada com IG falso: `insta-terra-gentil/publicar/instagram/` (cliente Graph API, carrossel, registro anti-duplicata). Teste de ponta a ponta no GitHub OK com o botao desligado (previa gera pacote na branch `ig-slides`, `postar-instagram.yml` confere e NAO posta).

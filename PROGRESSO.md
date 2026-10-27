@@ -6,6 +6,8 @@
 
 **Feito:** referencia de camiseta nova gerada no Flow (logo pequena a esquerda, foto #1 do Elenco, nome "Man wearing charcoal t-shirt"), pois o upload local nao funciona pela automacao. Lote da orquidea A a E gerado com ela (A com aviso de rosto, B a E prontas). O lote usou ainda o prompt antigo de topo livre na geracao, mas saiu com a pessoa preenchendo o quadro.
 
+**Banco organizado com tags (27/10, noite):** `capas/banco/<slug>/` por especie + `capas/banco/indice.json` (id, arquivo, especie, cenario A a E, tags). `capas/indice.mjs` tem `porTags(indice, ['orquidea','regando'])` e `lerIndice` para o carrossel; `importar-cli.mjs` agora aceita A a E e nomes do download do Flow (`orquidea-E-1_20261027....jpg`) e atualiza o indice. **2K:** o menu da imagem (galeria e pagina da imagem) so baixa 896x1200 (1K) para as capas geradas pela ferramenta; a opcao 2K nao apareceu. O import escala 1,2x para 1080x1350. Decisao pendente: importar o 1K ou achar o 2K.
+
 **Falta:** Andre aprovar a qualidade; baixar 2K pelo painel (usar `media_id` na URL de edicao), renomear `<id>.jpg`, `node capas/importar-cli.mjs <pasta>`, trocar os 3 arquivos antigos de `capas/banco/orquidea/` (camiseta lisa) e commitar. Atencao: a pagina da ferramenta recarrega sozinha durante a geracao e perde Elenco e fila (as imagens ficam salvas no projeto).
 
 ---

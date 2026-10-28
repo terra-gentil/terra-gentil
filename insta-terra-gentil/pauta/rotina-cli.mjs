@@ -1,9 +1,10 @@
-// Comandos da rotina do Claude: proximo, ler, gravar, conferir e livros (extrai os PDFs).
+// Comandos da rotina do Claude: proximo, noticias, ler, gravar, conferir e livros (extrai os PDFs).
 import path from 'node:path';
 import { RAIZ } from '../lib/config.mjs';
 import { lerJson } from '../lib/json.mjs';
 import { carregarPalavras } from '../dm/palavras.mjs';
 import { conferirTodos, gravarPost, lerPosts } from './gravar-post.mjs';
+import { lerPauta, listarNoticias } from './lista-noticias.mjs';
 import { arquivoDoLivro, extrairTodos, lerLivro } from './livros.mjs';
 import { diaDoPost, proximoLivro } from './proxima.mjs';
 
@@ -42,6 +43,9 @@ try {
     const jaTem = posts.some((p) => p.dia === dia);
     const paginas = lerLivro(livro).length;
     console.log(JSON.stringify({ ...livro, dia, jaTem, livro: arquivo, paginas }));
+  } else if (comando === 'noticias') {
+    const max = valor('max') ? Number(valor('max')) : undefined;
+    console.log(JSON.stringify(listarNoticias(lerPauta(), { max }), null, 2));
   } else if (comando === 'gravar') {
     const arquivoBruto = resto.find((r) => !r.startsWith('--') && r !== valor('dia'));
     if (!arquivoBruto) falhar('uso: rotina-cli gravar <bruto.json> [--dia AAAA-MM-DD] [--forcar]');
@@ -57,7 +61,7 @@ try {
   } else if (comando === 'livros') {
     console.table(extrairTodos(palavras, { forcar: opcao('forcar') }));
   } else {
-    falhar('uso: rotina-cli <proximo|ler|gravar|conferir|livros> (veja pauta/README.md)');
+    falhar('uso: rotina-cli <proximo|noticias|ler|gravar|conferir|livros> (veja pauta/README.md)');
   }
 } catch (erro) {
   falhar(erro.message);

@@ -3,7 +3,9 @@
 ## COLETA DE NOTICIAS (28/10/2026, noite): C1 e C2 prontas
 Decisao do Andre: **opcao 1, a noticia so da o tema e o link; fatos 100% dos ebooks** (pagina + trecho literal). Plano C1 a C6 no chat; C3 a C6 faltam.
 **Feito:** `pauta/pauta-noticias.mjs` (estado: itens 14 dias, `usados` lembrados por 30 dias, `marcarUsado`), `pauta/coletar-cli.mjs` (coleta e grava `dados/pauta-noticias.json` so se mudou; `usar <url>` tira da pauta; erro se TODAS as fontes falharem), `.github/workflows/coletar-pauta.yml` (workflow_dispatch, grupo de concorrencia `insta-rotina`, commit do bot com `[skip ci]`). Rodado local na rede: 80 coletados, 59 na pauta. 189 testes ok.
-**Falta:** cadastrar gatilho no TriggerAll (cron antes das 04:00 BRT, ex. 03:30 = 06:30 UTC) para `coletar-pauta.yml`; C3 `rotina-cli noticias`; C4 prompt da rotina; C5 campo `fonteNoticia`; C6 rodada real. Andre vai separar PDFs de novos temas (pragas, rega/substrato, propagacao, aromaticas, orquideas/flor, sombra/interior, babosa e anturio, estacoes) para `public/ebooks/`; depois rodar `rotina-cli livros`.
+**C3 feita:** `rotina-cli noticias [--max N]` (`pauta/lista-noticias.mjs`) lista a pauta (titulo, link, fonte, data, 6 categorias); pauta ausente ou sem coleta ha 3+ dias devolve `velha: true`, sem erro. Testado em clone limpo sem node_modules. 193 testes ok.
+**Pedido novo do Andre:** alem dos nossos ebooks, quer as 'biblias' de cuidado de plantas como base para curiosidades futuras. Cuidado: repo PUBLICO, nao commitar texto de livro de terceiros com direito autoral (ver conversa).
+**Falta (C4 em diante):** cadastrar gatilho no TriggerAll (cron antes das 04:00 BRT, ex. 03:30 = 06:30 UTC) para `coletar-pauta.yml`; C3 `rotina-cli noticias`; C4 prompt da rotina; C5 campo `fonteNoticia`; C6 rodada real. Andre vai separar PDFs de novos temas (pragas, rega/substrato, propagacao, aromaticas, orquideas/flor, sombra/interior, babosa e anturio, estacoes) para `public/ebooks/`; depois rodar `rotina-cli livros`.
 
 ## TESTE DO LIMITE DO FLOW (28/10/2026, 14:47 a 14:55): AINDA LIMITADO
 

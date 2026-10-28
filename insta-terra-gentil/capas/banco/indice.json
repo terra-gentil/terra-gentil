@@ -2,6 +2,291 @@
   "_sobre": "Gerado por capas/importar-cli.mjs. Tags por foto para o carrossel.",
   "capas": [
     {
+      "id": "alface-A-1",
+      "arquivo": "alface/alface-A-1.jpg",
+      "slug": "alface",
+      "especie": "Lactuca sativa",
+      "nome": "alface",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "alface",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "alface-A-1.jpg"
+    },
+    {
+      "id": "alface-B-1",
+      "arquivo": "alface/alface-B-1.jpg",
+      "slug": "alface",
+      "especie": "Lactuca sativa",
+      "nome": "alface",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "alface",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "alface-B-1.jpg"
+    },
+    {
+      "id": "alface-C-1",
+      "arquivo": "alface/alface-C-1.jpg",
+      "slug": "alface",
+      "especie": "Lactuca sativa",
+      "nome": "alface",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "alface",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "alface-C-1.jpg"
+    },
+    {
+      "id": "alface-D-1",
+      "arquivo": "alface/alface-D-1.jpg",
+      "slug": "alface",
+      "especie": "Lactuca sativa",
+      "nome": "alface",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "alface",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "alface-D-1.jpg"
+    },
+    {
+      "id": "alface-E-1",
+      "arquivo": "alface/alface-E-1.jpg",
+      "slug": "alface",
+      "especie": "Lactuca sativa",
+      "nome": "alface",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "alface",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "alface-E-1.jpg"
+    },
+    {
+      "id": "anturio-A-1",
+      "arquivo": "anturio/anturio-A-1.jpg",
+      "slug": "anturio",
+      "especie": "Anthurium andraeanum",
+      "nome": "antúrio",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "anturio",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "anturio-A-1.jpg"
+    },
+    {
+      "id": "anturio-B-1",
+      "arquivo": "anturio/anturio-B-1.jpg",
+      "slug": "anturio",
+      "especie": "Anthurium andraeanum",
+      "nome": "antúrio",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "anturio",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "anturio-B-1.jpg"
+    },
+    {
+      "id": "anturio-C-1",
+      "arquivo": "anturio/anturio-C-1.jpg",
+      "slug": "anturio",
+      "especie": "Anthurium andraeanum",
+      "nome": "antúrio",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "anturio",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "anturio-C-1.jpg"
+    },
+    {
+      "id": "anturio-D-1",
+      "arquivo": "anturio/anturio-D-1.jpg",
+      "slug": "anturio",
+      "especie": "Anthurium andraeanum",
+      "nome": "antúrio",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "anturio",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "anturio-D-1.jpg"
+    },
+    {
+      "id": "anturio-E-1",
+      "arquivo": "anturio/anturio-E-1.jpg",
+      "slug": "anturio",
+      "especie": "Anthurium andraeanum",
+      "nome": "antúrio",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "anturio",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "anturio-E-1.jpg"
+    },
+    {
+      "id": "babosa-A-1",
+      "arquivo": "babosa/babosa-A-1.jpg",
+      "slug": "babosa",
+      "especie": "Aloe vera",
+      "nome": "babosa",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "babosa",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "babosa-A-1.jpg"
+    },
+    {
+      "id": "babosa-B-1",
+      "arquivo": "babosa/babosa-B-1.jpg",
+      "slug": "babosa",
+      "especie": "Aloe vera",
+      "nome": "babosa",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "babosa",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "babosa-B-1.jpg"
+    },
+    {
+      "id": "babosa-C-1",
+      "arquivo": "babosa/babosa-C-1.jpg",
+      "slug": "babosa",
+      "especie": "Aloe vera",
+      "nome": "babosa",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "babosa",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "babosa-C-1.jpg"
+    },
+    {
+      "id": "babosa-D-1",
+      "arquivo": "babosa/babosa-D-1.jpg",
+      "slug": "babosa",
+      "especie": "Aloe vera",
+      "nome": "babosa",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "babosa",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "babosa-D-1.jpg"
+    },
+    {
+      "id": "babosa-E-1",
+      "arquivo": "babosa/babosa-E-1.jpg",
+      "slug": "babosa",
+      "especie": "Aloe vera",
+      "nome": "babosa",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "babosa",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "babosa-E-1.jpg"
+    },
+    {
       "id": "costela-de-adao-A-1",
       "arquivo": "costela-de-adao/costela-de-adao-A-1.jpg",
       "slug": "costela-de-adao",
@@ -154,6 +439,82 @@
       "origem": "espada-de-sao-jorge-E-1.jpg"
     },
     {
+      "id": "grama-A-1",
+      "arquivo": "grama/grama-A-1.jpg",
+      "slug": "grama",
+      "especie": "Zoysia japonica",
+      "nome": "grama-esmeralda",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "grama",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "grama-A-1.jpg"
+    },
+    {
+      "id": "grama-C-1",
+      "arquivo": "grama/grama-C-1.jpg",
+      "slug": "grama",
+      "especie": "Zoysia japonica",
+      "nome": "grama-esmeralda",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "grama",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "grama-C-1.jpg"
+    },
+    {
+      "id": "grama-D-1",
+      "arquivo": "grama/grama-D-1.jpg",
+      "slug": "grama",
+      "especie": "Zoysia japonica",
+      "nome": "grama-esmeralda",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "grama",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "grama-D-1.jpg"
+    },
+    {
+      "id": "grama-E-1",
+      "arquivo": "grama/grama-E-1.jpg",
+      "slug": "grama",
+      "especie": "Zoysia japonica",
+      "nome": "grama-esmeralda",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "grama",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "grama-E-1.jpg"
+    },
+    {
       "id": "lirio-da-paz-B-1",
       "arquivo": "lirio-da-paz/lirio-da-paz-B-1.jpg",
       "slug": "lirio-da-paz",
@@ -190,6 +551,196 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "lirio-da-paz-C-1.jpg"
+    },
+    {
+      "id": "manjericao-A-1",
+      "arquivo": "manjericao/manjericao-A-1.jpg",
+      "slug": "manjericao",
+      "especie": "Ocimum basilicum",
+      "nome": "manjericão",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "manjericao",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "manjericao-A-1.jpg"
+    },
+    {
+      "id": "manjericao-B-1",
+      "arquivo": "manjericao/manjericao-B-1.jpg",
+      "slug": "manjericao",
+      "especie": "Ocimum basilicum",
+      "nome": "manjericão",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "manjericao",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "manjericao-B-1.jpg"
+    },
+    {
+      "id": "manjericao-C-1",
+      "arquivo": "manjericao/manjericao-C-1.jpg",
+      "slug": "manjericao",
+      "especie": "Ocimum basilicum",
+      "nome": "manjericão",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "manjericao",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "manjericao-C-1.jpg"
+    },
+    {
+      "id": "manjericao-D-1",
+      "arquivo": "manjericao/manjericao-D-1.jpg",
+      "slug": "manjericao",
+      "especie": "Ocimum basilicum",
+      "nome": "manjericão",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "manjericao",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "manjericao-D-1.jpg"
+    },
+    {
+      "id": "manjericao-E-1",
+      "arquivo": "manjericao/manjericao-E-1.jpg",
+      "slug": "manjericao",
+      "especie": "Ocimum basilicum",
+      "nome": "manjericão",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "manjericao",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "manjericao-E-1.jpg"
+    },
+    {
+      "id": "morango-A-1",
+      "arquivo": "morango/morango-A-1.jpg",
+      "slug": "morango",
+      "especie": "Fragaria × ananassa",
+      "nome": "morango",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "morango",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "morango-A-1.jpg"
+    },
+    {
+      "id": "morango-B-1",
+      "arquivo": "morango/morango-B-1.jpg",
+      "slug": "morango",
+      "especie": "Fragaria × ananassa",
+      "nome": "morango",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "morango",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "morango-B-1.jpg"
+    },
+    {
+      "id": "morango-C-1",
+      "arquivo": "morango/morango-C-1.jpg",
+      "slug": "morango",
+      "especie": "Fragaria × ananassa",
+      "nome": "morango",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "morango",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "morango-C-1.jpg"
+    },
+    {
+      "id": "morango-D-1",
+      "arquivo": "morango/morango-D-1.jpg",
+      "slug": "morango",
+      "especie": "Fragaria × ananassa",
+      "nome": "morango",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "morango",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "morango-D-1.jpg"
+    },
+    {
+      "id": "morango-E-1",
+      "arquivo": "morango/morango-E-1.jpg",
+      "slug": "morango",
+      "especie": "Fragaria × ananassa",
+      "nome": "morango",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "morango",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "morango-E-1.jpg"
     },
     {
       "id": "orquidea-A-1",
@@ -380,6 +931,101 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "suculenta-D-1.jpg"
+    },
+    {
+      "id": "tomate-A-1",
+      "arquivo": "tomate/tomate-A-1.jpg",
+      "slug": "tomate",
+      "especie": "Solanum lycopersicum",
+      "nome": "tomate",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "tomate",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "tomate-A-1.jpg"
+    },
+    {
+      "id": "tomate-B-1",
+      "arquivo": "tomate/tomate-B-1.jpg",
+      "slug": "tomate",
+      "especie": "Solanum lycopersicum",
+      "nome": "tomate",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "tomate",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "tomate-B-1.jpg"
+    },
+    {
+      "id": "tomate-C-1",
+      "arquivo": "tomate/tomate-C-1.jpg",
+      "slug": "tomate",
+      "especie": "Solanum lycopersicum",
+      "nome": "tomate",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "tomate",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "tomate-C-1.jpg"
+    },
+    {
+      "id": "tomate-D-1",
+      "arquivo": "tomate/tomate-D-1.jpg",
+      "slug": "tomate",
+      "especie": "Solanum lycopersicum",
+      "nome": "tomate",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "tomate",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "tomate-D-1.jpg"
+    },
+    {
+      "id": "tomate-E-1",
+      "arquivo": "tomate/tomate-E-1.jpg",
+      "slug": "tomate",
+      "especie": "Solanum lycopersicum",
+      "nome": "tomate",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "tomate",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "tomate-E-1.jpg"
     },
     {
       "id": "zamioculca-A-1",

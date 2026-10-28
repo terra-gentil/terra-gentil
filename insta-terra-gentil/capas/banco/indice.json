@@ -2,6 +2,101 @@
   "_sobre": "Gerado por capas/importar-cli.mjs. Tags por foto para o carrossel.",
   "capas": [
     {
+      "id": "alecrim-A-1",
+      "arquivo": "alecrim/alecrim-A-1.jpg",
+      "slug": "alecrim",
+      "especie": "Salvia rosmarinus",
+      "nome": "alecrim",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "alecrim",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "alecrim-A-1.jpg"
+    },
+    {
+      "id": "alecrim-B-1",
+      "arquivo": "alecrim/alecrim-B-1.jpg",
+      "slug": "alecrim",
+      "especie": "Salvia rosmarinus",
+      "nome": "alecrim",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "alecrim",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "alecrim-B-1.jpg"
+    },
+    {
+      "id": "alecrim-C-1",
+      "arquivo": "alecrim/alecrim-C-1.jpg",
+      "slug": "alecrim",
+      "especie": "Salvia rosmarinus",
+      "nome": "alecrim",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "alecrim",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "alecrim-C-1.jpg"
+    },
+    {
+      "id": "alecrim-D-1",
+      "arquivo": "alecrim/alecrim-D-1.jpg",
+      "slug": "alecrim",
+      "especie": "Salvia rosmarinus",
+      "nome": "alecrim",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "alecrim",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "alecrim-D-1.jpg"
+    },
+    {
+      "id": "alecrim-E-1",
+      "arquivo": "alecrim/alecrim-E-1.jpg",
+      "slug": "alecrim",
+      "especie": "Salvia rosmarinus",
+      "nome": "alecrim",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "alecrim",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "alecrim-E-1.jpg"
+    },
+    {
       "id": "alface-A-1",
       "arquivo": "alface/alface-A-1.jpg",
       "slug": "alface",
@@ -287,6 +382,215 @@
       "origem": "babosa-E-1.jpg"
     },
     {
+      "id": "begonia-A-1",
+      "arquivo": "begonia/begonia-A-1.jpg",
+      "slug": "begonia",
+      "especie": "Begonia",
+      "nome": "begônia",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "begonia",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "begonia-A-1.jpg"
+    },
+    {
+      "id": "begonia-B-1",
+      "arquivo": "begonia/begonia-B-1.jpg",
+      "slug": "begonia",
+      "especie": "Begonia",
+      "nome": "begônia",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "begonia",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "begonia-B-1.jpg"
+    },
+    {
+      "id": "begonia-C-1",
+      "arquivo": "begonia/begonia-C-1.jpg",
+      "slug": "begonia",
+      "especie": "Begonia",
+      "nome": "begônia",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "begonia",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "begonia-C-1.jpg"
+    },
+    {
+      "id": "begonia-D-1",
+      "arquivo": "begonia/begonia-D-1.jpg",
+      "slug": "begonia",
+      "especie": "Begonia",
+      "nome": "begônia",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "begonia",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "begonia-D-1.jpg"
+    },
+    {
+      "id": "begonia-E-1",
+      "arquivo": "begonia/begonia-E-1.jpg",
+      "slug": "begonia",
+      "especie": "Begonia",
+      "nome": "begônia",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "begonia",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "begonia-E-1.jpg"
+    },
+    {
+      "id": "cacto-B-1",
+      "arquivo": "cacto/cacto-B-1.jpg",
+      "slug": "cacto",
+      "especie": "Cactaceae",
+      "nome": "cacto",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "cacto",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "cacto-B-1.jpg"
+    },
+    {
+      "id": "cebolinha-A-1",
+      "arquivo": "cebolinha/cebolinha-A-1.jpg",
+      "slug": "cebolinha",
+      "especie": "Allium fistulosum",
+      "nome": "cebolinha",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "cebolinha",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "cebolinha-A-1.jpg"
+    },
+    {
+      "id": "cebolinha-B-1",
+      "arquivo": "cebolinha/cebolinha-B-1.jpg",
+      "slug": "cebolinha",
+      "especie": "Allium fistulosum",
+      "nome": "cebolinha",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "cebolinha",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "cebolinha-B-1.jpg"
+    },
+    {
+      "id": "cebolinha-C-1",
+      "arquivo": "cebolinha/cebolinha-C-1.jpg",
+      "slug": "cebolinha",
+      "especie": "Allium fistulosum",
+      "nome": "cebolinha",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "cebolinha",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "cebolinha-C-1.jpg"
+    },
+    {
+      "id": "cebolinha-D-1",
+      "arquivo": "cebolinha/cebolinha-D-1.jpg",
+      "slug": "cebolinha",
+      "especie": "Allium fistulosum",
+      "nome": "cebolinha",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "cebolinha",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "cebolinha-D-1.jpg"
+    },
+    {
+      "id": "cebolinha-E-1",
+      "arquivo": "cebolinha/cebolinha-E-1.jpg",
+      "slug": "cebolinha",
+      "especie": "Allium fistulosum",
+      "nome": "cebolinha",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "cebolinha",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "cebolinha-E-1.jpg"
+    },
+    {
       "id": "costela-de-adao-A-1",
       "arquivo": "costela-de-adao/costela-de-adao-A-1.jpg",
       "slug": "costela-de-adao",
@@ -515,6 +819,215 @@
       "origem": "grama-E-1.jpg"
     },
     {
+      "id": "hibisco-A-1",
+      "arquivo": "hibisco/hibisco-A-1.jpg",
+      "slug": "hibisco",
+      "especie": "Hibiscus rosa-sinensis",
+      "nome": "hibisco",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "hibisco",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "hibisco-A-1.jpg"
+    },
+    {
+      "id": "hibisco-B-1",
+      "arquivo": "hibisco/hibisco-B-1.jpg",
+      "slug": "hibisco",
+      "especie": "Hibiscus rosa-sinensis",
+      "nome": "hibisco",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "hibisco",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "hibisco-B-1.jpg"
+    },
+    {
+      "id": "hibisco-D-1",
+      "arquivo": "hibisco/hibisco-D-1.jpg",
+      "slug": "hibisco",
+      "especie": "Hibiscus rosa-sinensis",
+      "nome": "hibisco",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "hibisco",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "hibisco-D-1.jpg"
+    },
+    {
+      "id": "hibisco-E-1",
+      "arquivo": "hibisco/hibisco-E-1.jpg",
+      "slug": "hibisco",
+      "especie": "Hibiscus rosa-sinensis",
+      "nome": "hibisco",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "hibisco",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "hibisco-E-1.jpg"
+    },
+    {
+      "id": "hortela-A-1",
+      "arquivo": "hortela/hortela-A-1.jpg",
+      "slug": "hortela",
+      "especie": "Mentha spicata",
+      "nome": "hortelã",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "hortela",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "hortela-A-1.jpg"
+    },
+    {
+      "id": "hortela-B-1",
+      "arquivo": "hortela/hortela-B-1.jpg",
+      "slug": "hortela",
+      "especie": "Mentha spicata",
+      "nome": "hortelã",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "hortela",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "hortela-B-1.jpg"
+    },
+    {
+      "id": "hortela-C-1",
+      "arquivo": "hortela/hortela-C-1.jpg",
+      "slug": "hortela",
+      "especie": "Mentha spicata",
+      "nome": "hortelã",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "hortela",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "hortela-C-1.jpg"
+    },
+    {
+      "id": "hortela-D-1",
+      "arquivo": "hortela/hortela-D-1.jpg",
+      "slug": "hortela",
+      "especie": "Mentha spicata",
+      "nome": "hortelã",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "hortela",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "hortela-D-1.jpg"
+    },
+    {
+      "id": "lavanda-A-1",
+      "arquivo": "lavanda/lavanda-A-1.jpg",
+      "slug": "lavanda",
+      "especie": "Lavandula angustifolia",
+      "nome": "lavanda",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "lavanda",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lavanda-A-1.jpg"
+    },
+    {
+      "id": "lavanda-B-1",
+      "arquivo": "lavanda/lavanda-B-1.jpg",
+      "slug": "lavanda",
+      "especie": "Lavandula angustifolia",
+      "nome": "lavanda",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "lavanda",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lavanda-B-1.jpg"
+    },
+    {
+      "id": "lavanda-C-1",
+      "arquivo": "lavanda/lavanda-C-1.jpg",
+      "slug": "lavanda",
+      "especie": "Lavandula angustifolia",
+      "nome": "lavanda",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "lavanda",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lavanda-C-1.jpg"
+    },
+    {
       "id": "lirio-da-paz-B-1",
       "arquivo": "lirio-da-paz/lirio-da-paz-B-1.jpg",
       "slug": "lirio-da-paz",
@@ -646,6 +1159,44 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "manjericao-E-1.jpg"
+    },
+    {
+      "id": "maranta-B-1",
+      "arquivo": "maranta/maranta-B-1.jpg",
+      "slug": "maranta",
+      "especie": "Maranta leuconeura",
+      "nome": "maranta",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "maranta",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "maranta-B-1.jpg"
+    },
+    {
+      "id": "maranta-D-1",
+      "arquivo": "maranta/maranta-D-1.jpg",
+      "slug": "maranta",
+      "especie": "Maranta leuconeura",
+      "nome": "maranta",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "maranta",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "maranta-D-1.jpg"
     },
     {
       "id": "morango-A-1",
@@ -838,6 +1389,177 @@
       "origem": "orquidea-E-1.jpg"
     },
     {
+      "id": "peperomia-A-1",
+      "arquivo": "peperomia/peperomia-A-1.jpg",
+      "slug": "peperomia",
+      "especie": "Peperomia obtusifolia",
+      "nome": "peperômia",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "peperomia",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "peperomia-A-1.jpg"
+    },
+    {
+      "id": "peperomia-B-1",
+      "arquivo": "peperomia/peperomia-B-1.jpg",
+      "slug": "peperomia",
+      "especie": "Peperomia obtusifolia",
+      "nome": "peperômia",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "peperomia",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "peperomia-B-1.jpg"
+    },
+    {
+      "id": "peperomia-C-1",
+      "arquivo": "peperomia/peperomia-C-1.jpg",
+      "slug": "peperomia",
+      "especie": "Peperomia obtusifolia",
+      "nome": "peperômia",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "peperomia",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "peperomia-C-1.jpg"
+    },
+    {
+      "id": "peperomia-D-1",
+      "arquivo": "peperomia/peperomia-D-1.jpg",
+      "slug": "peperomia",
+      "especie": "Peperomia obtusifolia",
+      "nome": "peperômia",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "peperomia",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "peperomia-D-1.jpg"
+    },
+    {
+      "id": "peperomia-E-1",
+      "arquivo": "peperomia/peperomia-E-1.jpg",
+      "slug": "peperomia",
+      "especie": "Peperomia obtusifolia",
+      "nome": "peperômia",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "peperomia",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "peperomia-E-1.jpg"
+    },
+    {
+      "id": "pimenta-A-1",
+      "arquivo": "pimenta/pimenta-A-1.jpg",
+      "slug": "pimenta",
+      "especie": "Capsicum annuum",
+      "nome": "pimenta",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "pimenta",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "pimenta-A-1.jpg"
+    },
+    {
+      "id": "pimenta-B-1",
+      "arquivo": "pimenta/pimenta-B-1.jpg",
+      "slug": "pimenta",
+      "especie": "Capsicum annuum",
+      "nome": "pimenta",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "pimenta",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "pimenta-B-1.jpg"
+    },
+    {
+      "id": "pimenta-C-1",
+      "arquivo": "pimenta/pimenta-C-1.jpg",
+      "slug": "pimenta",
+      "especie": "Capsicum annuum",
+      "nome": "pimenta",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "pimenta",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "pimenta-C-1.jpg"
+    },
+    {
+      "id": "pimenta-D-1",
+      "arquivo": "pimenta/pimenta-D-1.jpg",
+      "slug": "pimenta",
+      "especie": "Capsicum annuum",
+      "nome": "pimenta",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "pimenta",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "pimenta-D-1.jpg"
+    },
+    {
       "id": "rosa-do-deserto-A-1",
       "arquivo": "rosa-do-deserto/rosa-do-deserto-A-1.jpg",
       "slug": "rosa-do-deserto",
@@ -874,6 +1596,63 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "rosa-do-deserto-D-1.jpg"
+    },
+    {
+      "id": "samambaia-A-1",
+      "arquivo": "samambaia/samambaia-A-1.jpg",
+      "slug": "samambaia",
+      "especie": "Nephrolepis exaltata",
+      "nome": "samambaia",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "samambaia",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "samambaia-A-1.jpg"
+    },
+    {
+      "id": "samambaia-C-1",
+      "arquivo": "samambaia/samambaia-C-1.jpg",
+      "slug": "samambaia",
+      "especie": "Nephrolepis exaltata",
+      "nome": "samambaia",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "samambaia",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "samambaia-C-1.jpg"
+    },
+    {
+      "id": "samambaia-E-1",
+      "arquivo": "samambaia/samambaia-E-1.jpg",
+      "slug": "samambaia",
+      "especie": "Nephrolepis exaltata",
+      "nome": "samambaia",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "samambaia",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "samambaia-E-1.jpg"
     },
     {
       "id": "suculenta-A-1",

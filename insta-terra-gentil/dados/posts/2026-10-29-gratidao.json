@@ -1,0 +1,211 @@
+{
+  "dia": "2026-10-29",
+  "palavra": "GRATIDAO",
+  "especie": "Dracaena trifasciata",
+  "nome": "Espada-de-são-jorge",
+  "serie": "Socorro",
+  "gancho": "Folha amarela e mole? A planta está pedindo menos cuidado, não mais.",
+  "resumo": "Como ler os sinais da folha: amarela e mole é excesso de cuidado, marrom e seca pede água, caule comprido pede luz.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Sinais",
+      "linha1": "Folha amarela",
+      "linha2": "e mole? A planta",
+      "linha3": "está pedindo",
+      "destaque": "menos amor"
+    },
+    {
+      "tarja": "Sinal 1",
+      "linha1": "Folha amarela",
+      "linha2": "e mole é",
+      "destaque": "excesso",
+      "texto": "A planta está pedindo menos amor sufocante. O livro chama isso de excesso de cuidado.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Sinal 2",
+      "linha1": "Água demais",
+      "linha2": "apodrece a",
+      "destaque": "raiz",
+      "texto": "Assim como o excesso de proteção, o excesso de água faz mal. A raiz precisa respirar.",
+      "nota": "Quase todo mundo começa assim."
+    },
+    {
+      "tarja": "Sinal 3",
+      "linha1": "Folha marrom",
+      "linha2": "e seca pede",
+      "destaque": "água",
+      "texto": "É o contrário do amarelo mole: aqui a planta precisa de água ou de umidade no ar.",
+      "nota": "Cada sinal conta uma história."
+    },
+    {
+      "linha1": "Primeiro,",
+      "linha2": "só",
+      "destaque": "observe",
+      "texto": "Veja qual sinal sua planta mostra: amarela e mole, marrom e seca, ou caule comprido.",
+      "dica": "Sem pressa. Olhar com atenção já é cuidar."
+    },
+    {
+      "linha1": "Regue só",
+      "linha2": "quando ela",
+      "destaque": "pedir",
+      "texto": "O livro ensina a regar apenas quando a planta pedir, e a regar com amor.",
+      "dica": "Caule comprido? Aproxime a planta da janela."
+    },
+    {
+      "tarja": "Sinal 4",
+      "linha1": "Errei",
+      "linha2": "e agora?",
+      "destaque": "Segue",
+      "texto": "Errar faz parte da jornada. Todo jardineiro experiente já perdeu planta.",
+      "nota": "A folha amarela é uma lição."
+    },
+    {
+      "texto": "Olhe a folha com curiosidade, não com culpa. Salve este post para a próxima vez que ela mudar de cor.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "Folha amarela e mole é sinal de excesso de cuidado: a planta pede menos amor sufocante.",
+      "pagina": 23,
+      "trecho": "Preciso de menos amor sufocante!",
+      "fonte": "Plantas da Gratidão: Proteção para o Lar, p. 23"
+    },
+    {
+      "texto": "Folha marrom e seca pede água ou mais umidade no ar.",
+      "pagina": 23,
+      "trecho": "Precisa de água ou umidade do ar",
+      "fonte": "Plantas da Gratidão: Proteção para o Lar, p. 23"
+    },
+    {
+      "texto": "Caule comprido, esticado em busca de luz, pede que a planta chegue mais perto da janela.",
+      "pagina": 23,
+      "trecho": "Precisa se aproximar da janela",
+      "fonte": "Plantas da Gratidão: Proteção para o Lar, p. 23"
+    },
+    {
+      "texto": "Água demais apodrece a raiz, como o excesso de proteção.",
+      "pagina": 6,
+      "trecho": "Água demais apodrece a raiz, como excesso de proteção",
+      "fonte": "Plantas da Gratidão: Proteção para o Lar, p. 6"
+    },
+    {
+      "texto": "Olhar para a planta é um jeito de aprender a olhar para a gente mesmo.",
+      "pagina": 21,
+      "trecho": "Olhar para a planta é treinar o olhar para si mesmo",
+      "fonte": "Plantas da Gratidão: Proteção para o Lar, p. 21"
+    },
+    {
+      "texto": "Depois de aprender a ler os sinais, a folha amarela deixa de dar culpa e passa a dar curiosidade.",
+      "pagina": 26,
+      "trecho": "quando você olhar para uma folha amarela, não vai sentir culpa",
+      "fonte": "Plantas da Gratidão: Proteção para o Lar, p. 26"
+    },
+    {
+      "texto": "Regue só quando a planta pedir, e com carinho.",
+      "pagina": 22,
+      "trecho": "Regue apenas quando a planta pedir",
+      "fonte": "Plantas da Gratidão: Proteção para o Lar, p. 22"
+    },
+    {
+      "texto": "Errar faz parte da jornada. Todo jardineiro experiente já perdeu planta.",
+      "pagina": 26,
+      "trecho": "errar faz parte da jornada",
+      "fonte": "Plantas da Gratidão: Proteção para o Lar, p. 26"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    5,
+    6,
+    7
+  ],
+  "fontes": [
+    "Plantas da Gratidão: Proteção para o Lar, p. 23",
+    "Plantas da Gratidão: Proteção para o Lar, p. 6",
+    "Plantas da Gratidão: Proteção para o Lar, p. 26",
+    "Plantas da Gratidão: Proteção para o Lar, p. 22"
+  ],
+  "materia": {
+    "slug": "folha-amarela-e-mole-o-que-a-planta-esta-dizendo",
+    "titulo": "Folha amarela e mole: o que a planta diz",
+    "descricao": "Folha amarela e mole, marrom e seca ou caule esticado? Aprenda a ler os sinais da sua planta e a agir com calma, sem culpa e sem exagero no cuidado com ela.",
+    "introducao": "Se a sua planta apareceu com a folha amarela, respire. Isso não quer dizer que você é um mau jardineiro. Quer dizer que a planta está tentando conversar com você, do jeito dela, que é lento e visual. Neste texto, a gente aprende a traduzir três sinais que aparecem muito: folha amarela e mole, folha marrom e seca, e caule comprido. Tudo com base no ebook Plantas da Gratidão, do André, sem receita complicada e sem bronca. Quem já perdeu planta sabe como isso machuca, e por isso vale ir devagar, um sinal de cada vez.",
+    "secoes": [
+      {
+        "titulo": "Folha amarela e mole: o que significa?",
+        "paragrafos": [
+          "O livro traduz esse sinal de um jeito bem direto: a planta está pedindo menos amor sufocante. Ou seja, o problema costuma ser excesso de cuidado, não falta dele. É uma notícia estranha, porque quase sempre a gente cuida demais justamente por carinho.",
+          "Se você se reconheceu aqui, calma. Quase todo mundo começa assim. O primeiro passo não é correr atrás de um remédio. É parar um pouco e olhar para a planta com atenção, sem culpa."
+        ],
+        "fatosUsados": [
+          0
+        ]
+      },
+      {
+        "titulo": "Por que o excesso faz mal à raiz",
+        "paragrafos": [
+          "O ebook diz que água demais apodrece a raiz, assim como o excesso de proteção faz mal a quem a gente ama. A ideia é a mesma: quando a gente não deixa a planta respirar, ela sofre.",
+          "Por isso, diante de uma folha amarela e mole, a pergunta gentil não é o que posso dar a mais. É o que posso deixar de fazer por enquanto. Menos costuma ser mais."
+        ],
+        "fatosUsados": [
+          3
+        ]
+      },
+      {
+        "titulo": "E a folha marrom e seca?",
+        "paragrafos": [
+          "Esse é o sinal contrário. Pelo livro, a folha marrom e seca está dizendo que precisa de água ou de umidade no ar. Repare que o amarelo mole e o marrom seco contam histórias diferentes, e por isso não dá para tratar os dois do mesmo jeito.",
+          "Antes de agir, observe com calma qual dos dois sinais a sua planta está mostrando. O livro também lembra de regar apenas quando a planta pedir, e de regar com amor."
+        ],
+        "fatosUsados": [
+          1,
+          6
+        ]
+      },
+      {
+        "titulo": "Caule comprido e esticado",
+        "paragrafos": [
+          "Quando o caule fica longo, como quem procura alguma coisa, a leitura do livro é que a planta está atrás de luz. A sugestão é simples: aproximar a planta da janela.",
+          "O ebook não traz medida de distância nem horas de luz para esse caso, então a melhor dica é ir aos poucos e observar como a planta responde."
+        ],
+        "fatosUsados": [
+          2
+        ]
+      },
+      {
+        "titulo": "Sem culpa: errar faz parte",
+        "paragrafos": [
+          "O André conta que já perdeu plantas, e que todo jardineiro experiente também perdeu. Errar faz parte da jornada. A diferença é o que fica depois do erro.",
+          "Quando você aprende a ler os sinais, a folha amarela deixa de dar culpa. Ela passa a ser uma pista, e até uma lição. Esse é o convite do livro: olhar com curiosidade e gratidão, em vez de se cobrar."
+        ],
+        "fatosUsados": [
+          5,
+          7
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Folha amarela e mole significa que estou regando demais?",
+        "resposta": "Segundo o livro, é sinal de excesso de cuidado. O ebook não dá um número de regas por semana. Ele pede para regar apenas quando a planta pedir."
+      },
+      {
+        "pergunta": "Folha marrom e seca é a mesma coisa que amarela?",
+        "resposta": "Não. O livro traduz a folha marrom e seca como pedido de água ou de umidade do ar, o contrário do excesso de cuidado."
+      },
+      {
+        "pergunta": "Quanto tempo a planta leva para melhorar?",
+        "resposta": "O livro não traz prazo, então não dá para prometer um número de dias. O que ele ensina é observar a planta com calma e ajustar aos poucos."
+      }
+    ],
+    "conclusao": "Ler os sinais da planta é um exercício de paciência. Folha amarela e mole pede menos cuidado. Folha marrom e seca pede água ou umidade. Caule comprido pede luz. Na dúvida, observe antes de agir, e lembre que errar faz parte da jornada. Salve este texto para a próxima vez que uma folha mudar de cor e conte para quem também tem medo de errar com as plantas. Gentileza gera gentileza."
+  }
+}

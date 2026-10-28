@@ -40,11 +40,34 @@ node insta-terra-gentil/pauta/rotina-cli.mjs ler <PALAVRA>
 Leia também `insta-terra-gentil/dados/bruto-exemplo.json`: é o FORMATO exato do que você escreve
 (não copie o conteúdo, é de outro livro e outro tema).
 
+Por fim, veja a pauta de notícias que o GitHub coletou hoje dos portais de jardinagem:
+
+```bash
+node insta-terra-gentil/pauta/rotina-cli.mjs noticias --max 15
+```
+
+Sai um JSON com `atualizadoEm`, `total`, `velha` e `itens` (título, link, fonte, data e categorias
+de cada notícia). É só o tema e o link: você NÃO tem o texto das matérias e não deve tentar
+baixá-lo (o sandbox não tem rede). Se `velha` for `true` ou `itens` vier vazio, ignore a pauta e
+siga só com o livro.
+
 ## 3. Escolha o tema
 
 Escolha UM assunto prático do livro que dê um carrossel de 8 slides com 3 a 8 fatos. Prefira o que
 ajuda quem tem medo de matar a planta: o erro mais comum, o passo simples que resolve. Escolha a
 `serie` da lista do guia de voz. Não use "Pode ter com pet?": toxicidade está fora por enquanto.
+
+**A notícia é só um gancho de tema, nunca fonte de fato.** Se algum item da pauta tratar de uma
+planta ou de um problema que o livro do dia TAMBÉM cobre (por exemplo, a notícia fala de rega
+em excesso e o livro tem uma página sobre isso), use-o para decidir qual assunto do livro
+escolher. Regras:
+
+- Escolha no máximo UM item, e só se o assunto estiver de fato no livro. Se nenhum servir, ignore
+  a pauta: o livro sozinho basta, e isso é o normal.
+- Todo fato continua vindo do livro, com `pagina` e `trecho` literal. Nada da notícia entra como
+  fato, número, prazo ou conselho, e você não traduz, copia nem parafraseia o título dela.
+- Não cite a notícia, o portal nem o link no texto do post.
+- Guarde o link do item escolhido para o log do passo 6 (ou `null`, se não usou nenhum).
 
 ## 4. Crie a branch ANTES de mexer em arquivos
 
@@ -124,11 +147,13 @@ Escreva `/tmp/log.json` com a ferramenta Write:
   "resultado": "gravado",
   "tentativas": 1,
   "erros": [],
-  "post": "dados/posts/<dia>-<palavra em minúsculas>.json"
+  "post": "dados/posts/<dia>-<palavra em minúsculas>.json",
+  "noticia": "<link do item da pauta usado como gancho, ou null>"
 }
 ```
 
-Em caso de falha: `"resultado": "falhou"`, `"post": null` e os erros que o `gravar` devolveu.
+Em caso de falha: `"resultado": "falhou"`, `"post": null`, `"noticia": null` e os erros que o
+`gravar` devolveu.
 
 ## 7. Confira, commite e empurre
 

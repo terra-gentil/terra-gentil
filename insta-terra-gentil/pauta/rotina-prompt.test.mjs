@@ -37,11 +37,17 @@ test('o prompt usa o prefixo de branch e as pastas que o validador aceita', () =
 
 test('os comandos do prompt existem na CLI e o exemplo cobre todas as chaves do bruto', () => {
   const cli = ler('pauta', 'rotina-cli.mjs');
-  for (const comando of ['proximo', 'ler', 'gravar', 'conferir']) {
+  for (const comando of ['proximo', 'noticias', 'ler', 'gravar', 'conferir']) {
     assert.ok(rotina.includes(`rotina-cli.mjs ${comando}`), comando);
     assert.ok(cli.includes(`comando === '${comando}'`), comando);
   }
   const exemplo = JSON.parse(ler('dados', 'bruto-exemplo.json'));
   assert.deepEqual(Object.keys(exemplo), [...CHAVES_DO_BRUTO]);
   assert.ok(fs.existsSync(path.join(naRaiz('dados'), 'posts', '.gitkeep')));
+});
+
+test('o prompt trata a notícia só como gancho de tema e pede o link no log', () => {
+  assert.ok(rotina.includes('gancho de tema, nunca fonte de fato'));
+  assert.ok(rotina.includes('"noticia"'));
+  assert.ok(rotina.includes('noticias --max 15'));
 });

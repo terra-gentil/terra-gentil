@@ -1,5 +1,13 @@
 # PROGRESSO Terra Gentil
 
+## ATUALIZACAO (27/10/2026, noite): banco com 114 capas 2K, limite diario descoberto
+
+- Limite da conta da Pamela: **99 geracoes no dia** (1 teste + lote de 45 + 53 do lote de 135). Parou na lavanda-D com "Limite diario provavelmente atingido". Teto pratico: cerca de 100 imagens por conta por dia. Reset ainda nao confirmado (hipotese: meia-noite do Pacifico, cerca de 4h BRT). Tentativa agendada para 28/10 02:03 (cron de sessao); se falhar, repetir 2h depois e anotar o horario do reset.
+- Lote de 53 vistoriado: 43 aprovadas, 10 reprovadas (logo do peito TIRRA em cacto D E, hibisco C, maranta A E, pimenta E, samambaia B D; grama B logo ilegivel; hortela E rosto e bone diferentes). Refazer so no fim.
+- 2K baixado pela galeria com script na pagina (clique direito, Fazer o download, 2K), busca por palavra em ingles da legenda (lettuce, aloe, basil, rosemary, cactus...). Casamento por correlacao com `place2k.py`. Importado: **114 capas no banco** (indice.json, 1080x1350, 16 testes ok). Commits 0360056, 78d848a, 0aa17c1.
+- Faltam: 4 jiboia A a D (2K so na conta antiga), 10 reprovadas, 82 nao geradas (lavanda D E, salsinha, violeta, bromelia, jabuticabeira, limoeiro, girassol, roseira, buganvilia, comigo-ninguem-pode, bambu-da-sorte, 10 coringas x3). Lista em `insta-terra-gentil/saida/faltam.json`.
+- Mantido: PC sem dormir (processo PowerShell), aba da ferramenta Capas TG aberta na conta da Pamela (nao recarregar: a fila e as prontas ficam na pagina).
+
 ## HANDOFF FINAL (28/10/2026, noite): 135 capas gerando na conta da Pamela
 
 **Decisoes do Andre:** (1) NAO editar as fotos de referencia (editar piora); (2) o clip de microfone aparecendo no peito esta OK, nao reprova capa; (3) manter as fotos chroma no Elenco. Logo as 6 que eu tinha reprovado so pelo clip (alface C D, anturio C, lirio D, morango D, tomate D) estao APROVADAS, e as 7 sem 1K (alface A, babosa A, manjericao B C D E, rosa-do-deserto E) tambem estao aprovadas apos vistoria (alface-A sem logo do bone visivel por cabeca baixa, vale como ok).

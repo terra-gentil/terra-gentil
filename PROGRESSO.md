@@ -9,6 +9,7 @@
 - Mantido: PC sem dormir (processo PowerShell), aba da ferramenta Capas TG aberta na conta da Pamela (nao recarregar: a fila e as prontas ficam na pagina).
 - **Tentativa das 02:03 (28/10): limite NAO zerou.** Desmarquei as 53 prontas (selecao em 82 pendentes), confirmei, e voltou "Limite diario provavelmente atingido" na hora (contador seguiu em 53). Reset nao e antes de 2h BRT. Proxima tentativa agendada para 28/10 04:08 (cron 3414e7f8); a selecao de 82 fica na aba.
 - **Tentativa das 04:08 (28/10): limite continua.** Mesmo erro, contador em 53. Reset NAO e meia-noite do Pacifico; pode ser janela movel de 24h (primeiras geracoes foram na tarde de 27/10). Proxima tentativa 28/10 06:13 (cron).
+- **Tentativa das 09:32 (28/10): limite continua.** A sessao nova do Claude nao enxerga a aba antiga (outro grupo de abas do Chrome), entao abri a ferramenta numa aba nova, montei o Elenco (6 fotos: chroma-3, chroma-1, rua-1, rua-2, bone-logo, camiseta-logo) e carreguei so a lavanda-D-1 como teste. Resposta imediata: "Limite do Flow, nova tentativa em 09:51"; parei o teste. A fila de 82 da aba antiga segue intacta. Se a janela for movel de 24h, o primeiro teste que deve passar e depois das 14:42 de 28/10 (horario da primeira geracao de 27/10). Dica: ao colar a fila, usar so ctrl+v (o "ctrl+a" mandado junto digitou um "a" no inicio e invalidou o JSON).
 
 ## HANDOFF FINAL (28/10/2026, noite): 135 capas gerando na conta da Pamela
 

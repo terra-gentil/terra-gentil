@@ -1,5 +1,11 @@
 # PROGRESSO Terra Gentil
 
+## PARA PEGAR EM OUTRA MAQUINA (28/10/2026, noite)
+**Tudo do codigo esta no git** (`github.com/terra-gentil/terra-gentil`, main, publico). Antes de clonar: `gh auth switch -u terra-gentil`. Depois `npm install` na raiz e em `insta-terra-gentil/`.
+**NAO viaja pelo git (copiar a mao ou refazer):** `.env.local` (segredos), `insta-terra-gentil/capas/referencias/` (6 fotos do Elenco), `insta-terra-gentil/fotos/`, `insta-terra-gentil/saida/` (filas e previas, regeneraveis com `fila-cli.mjs`), e fora do repo `Documents\Terra Gentil\` (modelos de rosto em `modelos-rosto/`, 2K em `capas-2k/`). Rosto automatico precisa de `pip install opencv-python-headless` e dos modelos. Render local: `TG_CHROME_CANAL=chrome` usa o Chrome instalado (o Chromium do Playwright 1248 nao esta instalado neste PC).
+**GERACAO NO FLOW SO NESTA MAQUINA:** a fila das 81 capas roda na aba do Chrome deste PC (ferramenta Capas TG, conta da Pamela). Ate 28/10 ~22:50 estavam 44 prontas, 0 avisos. Nao fechar a aba nem o Chrome. Quando terminar: Baixar prontas, vistoria uma a uma, 2K pela galeria, `importar-cli.mjs` (entra pendente), `verificar_rosto.py --gravar`, aprovar. Depois trocar de conta e refazer as 13 reprovadas.
+**Previa do carrossel com noticia (feita hoje, nada publicado):** post de teste ECONOMIA 2026-11-15 gerado com `TG_CHROME_CANAL=chrome node carrossel/cli.mjs`, molde lambe. Corrigido o slide 6 (titulo curto, figurinha nao encosta). O post de teste foi apagado de `dados/posts/`.
+
 ## COLETA DE NOTICIAS (28/10/2026, noite): C1 e C2 prontas
 Decisao do Andre: **opcao 1, a noticia so da o tema e o link; fatos 100% dos ebooks** (pagina + trecho literal). Plano C1 a C6 no chat; C3 a C6 faltam.
 **Feito:** `pauta/pauta-noticias.mjs` (estado: itens 14 dias, `usados` lembrados por 30 dias, `marcarUsado`), `pauta/coletar-cli.mjs` (coleta e grava `dados/pauta-noticias.json` so se mudou; `usar <url>` tira da pauta; erro se TODAS as fontes falharem), `.github/workflows/coletar-pauta.yml` (workflow_dispatch, grupo de concorrencia `insta-rotina`, commit do bot com `[skip ci]`). Rodado local na rede: 80 coletados, 59 na pauta. 189 testes ok.

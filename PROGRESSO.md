@@ -1,5 +1,10 @@
 # PROGRESSO Terra Gentil
 
+## COLETA DE NOTICIAS (28/10/2026, noite): C1 e C2 prontas
+Decisao do Andre: **opcao 1, a noticia so da o tema e o link; fatos 100% dos ebooks** (pagina + trecho literal). Plano C1 a C6 no chat; C3 a C6 faltam.
+**Feito:** `pauta/pauta-noticias.mjs` (estado: itens 14 dias, `usados` lembrados por 30 dias, `marcarUsado`), `pauta/coletar-cli.mjs` (coleta e grava `dados/pauta-noticias.json` so se mudou; `usar <url>` tira da pauta; erro se TODAS as fontes falharem), `.github/workflows/coletar-pauta.yml` (workflow_dispatch, grupo de concorrencia `insta-rotina`, commit do bot com `[skip ci]`). Rodado local na rede: 80 coletados, 59 na pauta. 189 testes ok.
+**Falta:** cadastrar gatilho no TriggerAll (cron antes das 04:00 BRT, ex. 03:30 = 06:30 UTC) para `coletar-pauta.yml`; C3 `rotina-cli noticias`; C4 prompt da rotina; C5 campo `fonteNoticia`; C6 rodada real. Andre vai separar PDFs de novos temas (pragas, rega/substrato, propagacao, aromaticas, orquideas/flor, sombra/interior, babosa e anturio, estacoes) para `public/ebooks/`; depois rodar `rotina-cli livros`.
+
 ## TESTE DO LIMITE DO FLOW (28/10/2026, 14:47 a 14:55): AINDA LIMITADO
 
 Aba nova (tabId 865802864, grupo desta sessao), ferramenta Capas TG da conta da Pamela. Elenco remontado com as 6 fotos (camiseta-logo, chroma-1, chroma-3, rua-1, rua-2, bone-logo; o seletor "Do Projeto" aceita 1 foto por vez, esperar 2 s apos abrir). Fila de teste so com lavanda-D-1 (arquivo no scratchpad, colada so com ctrl+v, sem alterar `saida/fila-capas.json`, que segue com as 5 lavandas). Gerar, Confirmar e Iniciar: resposta imediata **"Limite do Flow, nova tentativa em 09:49"**, status "esperando limite", contador de geracoes em 0. Cliquei em Parar. Tentativa depois das 14:42 (primeira geracao de 27/10) tambem falhou, entao a hipotese de janela movel de 24h nao se confirmou. O "09:49" do aviso parece ser o relogio da propria ferramenta (mesmo padrao do "09:51" de hoje cedo), nao um horario confiavel de reset.

@@ -67,7 +67,9 @@ escolher. Regras:
 - Todo fato continua vindo do livro, com `pagina` e `trecho` literal. Nada da notícia entra como
   fato, número, prazo ou conselho, e você não traduz, copia nem parafraseia o título dela.
 - Não cite a notícia, o portal nem o link no texto do post.
-- Guarde o link do item escolhido para o log do passo 6 (ou `null`, se não usou nenhum).
+- O link do item escolhido vai no campo `noticia` do `/tmp/bruto.json` (exatamente como está na
+  pauta) e também no log do passo 6. Se não usou nenhum, `noticia` é `null`. O `gravar` recusa
+  link que não esteja na pauta de hoje.
 
 ## 4. Crie a branch ANTES de mexer em arquivos
 
@@ -87,6 +89,9 @@ que é a única aceita pelo validador.
 Escreva o JSON bruto de UMA VEZ em `/tmp/bruto.json` com a ferramenta Write, no formato de
 `bruto-exemplo.json`. Cada fato leva `texto` (suas palavras), `pagina` e `trecho` (copiado
 literalmente do livro, 25 caracteres ou mais).
+
+Campo `noticia`: o link do item da pauta usado como gancho, ou `null` (veja o passo 3). Fica logo
+depois de `materia`, antes dos slides.
 
 Campos `especie` e `nome`: `especie` é o NOME CIENTÍFICO da planta, gênero e espécie
 (ex.: "Epipremnum aureum", "Dracaena trifasciata"). É o termo da busca de foto, e o nome popular

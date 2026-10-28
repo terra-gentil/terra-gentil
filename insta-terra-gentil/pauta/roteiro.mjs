@@ -2,6 +2,7 @@
 import { ESTRUTURA, problemasDoRoteiro } from '../carrossel/estrutura.mjs';
 import { CHAVES_DO_BRUTO, FINAL_FIXO, chaveDoSlide } from './esquema.mjs';
 import { validarFatos } from './fatos.mjs';
+import { problemasDaFonteNoticia, resolverNoticia } from './fonte-noticia.mjs';
 import { problemasDaMateria } from './materia.mjs';
 import { SERIES } from './series.mjs';
 
@@ -51,6 +52,7 @@ export function conferirPost(post, { livro, paginas }) {
   if (post?.materia !== undefined) {
     problemas.push(...problemasDaMateria(post.materia, fatos.length));
   }
+  problemas.push(...problemasDaFonteNoticia(post?.fonteNoticia));
   const final = post?.slides?.[ESTRUTURA.length - 1] ?? {};
   for (const [campo, esperado] of Object.entries(FINAL_FIXO)) {
     if (final[campo] !== esperado) problemas.push(`fechamento: "${campo}" deve ser "${esperado}"`);
@@ -59,7 +61,7 @@ export function conferirPost(post, { livro, paginas }) {
 }
 
 // bruto = o que a rotina escreveu. livro = { palavra, titulo } do dados/palavras.json.
-export function montarPost(bruto, { livro, paginas, dia }) {
+export function montarPost(bruto, { livro, paginas, dia, pauta = null }) {
   const faltando = CHAVES_DO_BRUTO.filter((chave) => !(chave in (bruto ?? {})));
   if (faltando.length) throw new Error(`[roteiro] faltam chaves: ${faltando.join(', ')}`);
   const slides = ESTRUTURA.map((tipo, i) => {
@@ -74,6 +76,7 @@ export function montarPost(bruto, { livro, paginas, dia }) {
     : [];
   const post = { dia, palavra, especie, nome, serie, gancho, resumo, slides };
   Object.assign(post, { fatos: comFonte, fatosUsados, fontes, materia });
+  post.fonteNoticia = resolverNoticia(bruto.noticia, pauta);
   const problemas = conferirPost(post, { livro, paginas });
   if (problemas.length) throw new Error(`[roteiro] inválido:\n- ${problemas.join('\n- ')}`);
   return post;

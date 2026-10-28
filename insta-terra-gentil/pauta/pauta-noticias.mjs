@@ -48,5 +48,13 @@ export function marcarUsado(estado, url, agora = new Date()) {
   };
 }
 
+// Marca como usadas as notícias que viraram gancho de post. Link que já saiu da pauta é ignorado.
+export function marcarUsadosDosPosts(estado, posts, agora = new Date()) {
+  return posts.reduce((atual, post) => {
+    const url = post.fonteNoticia?.url;
+    return url && atual.itens.some((i) => i.url === url) ? marcarUsado(atual, url, agora) : atual;
+  }, estado);
+}
+
 // Compara só o que importa: atualizadoEm e falhas mudam todo dia e não justificam commit.
 export const conteudoDaPauta = (e) => JSON.stringify({ itens: e.itens, usados: e.usados });

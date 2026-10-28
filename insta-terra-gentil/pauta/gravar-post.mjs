@@ -5,6 +5,7 @@ import { DADOS } from '../lib/config.mjs';
 import { lerJson } from '../lib/json.mjs';
 import { buscarPorPalavra } from '../dm/palavras.mjs';
 import { PASTA_LIVROS, lerLivro } from './livros.mjs';
+import { lerPauta } from './lista-noticias.mjs';
 import { conferirPost, montarPost } from './roteiro.mjs';
 
 export const PASTA_POSTS = path.join(DADOS, 'posts');
@@ -23,7 +24,8 @@ export function gravarPost(bruto, opcoes) {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(dia)) throw new Error(`[gravar] dia inválido: ${dia}`);
   const livro = buscarPorPalavra(palavras, bruto?.palavra ?? '');
   if (!livro) throw new Error(`[gravar] palavra desconhecida: ${bruto?.palavra}`);
-  const post = montarPost(bruto, { livro, paginas: lerLivro(livro, pastaLivros), dia });
+  const paginas = lerLivro(livro, pastaLivros);
+  const post = montarPost(bruto, { livro, paginas, dia, pauta: opcoes.pauta ?? lerPauta() });
   const mesmoDia = lerPosts(pastaPosts).find((p) => p.dia === dia);
   if (mesmoDia && !forcar)
     throw new Error(`[gravar] já existe post para ${dia} (${mesmoDia.palavra})`);

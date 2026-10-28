@@ -8,6 +8,8 @@ const REPO = process.env.GITHUB_REPOSITORY;
 const run = (programa, ...args) => execFileSync(programa, args, { encoding: 'utf8' }).trim();
 const git = (...args) => run('git', ...args);
 const CONFERIR = 'insta-terra-gentil/pauta/rotina-cli.mjs';
+const COLETAR = 'insta-terra-gentil/pauta/coletar-cli.mjs';
+const PAUTA = 'insta-terra-gentil/dados/pauta-noticias.json';
 
 function listarRamos() {
   const saida = git('ls-remote', '--heads', 'origin', `refs/heads/${PREFIXO_RAMO}*`);
@@ -41,6 +43,12 @@ async function aplicar(ramo) {
   } catch (erro) {
     git('reset', '--hard', 'origin/main');
     throw new Error(`conferência dos posts falhou: ${erro.stderr ?? erro.message}`.trim());
+  }
+  // A notícia usada como gancho sai da pauta no mesmo push, para não ser escolhida de novo.
+  run('node', COLETAR, 'usar-posts');
+  git('add', PAUTA);
+  if (git('status', '--porcelain', '--', PAUTA)) {
+    git('commit', '-m', 'Pauta de noticias: marca a noticia usada no post');
   }
   git('push', 'origin', 'HEAD:main');
   git('push', 'origin', '--delete', ramo);

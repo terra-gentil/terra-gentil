@@ -6,6 +6,7 @@ import {
   marcarUsado,
   estadoVazio,
   conteudoDaPauta,
+  marcarUsadosDosPosts,
 } from './pauta-noticias.mjs';
 
 const FONTES = [{ nome: 'Epic', dominio: 'epicgardening.com' }];
@@ -63,4 +64,15 @@ test('coleta que falha mantém a pauta anterior; falhas e hora não contam como 
   const depois = atualizarPauta(antes, falha, FONTES, amanha);
   assert.equal(depois.itens.length, 1);
   assert.equal(conteudoDaPauta(depois), conteudoDaPauta(antes));
+});
+
+test('post com fonteNoticia baixa o item da pauta; link que já saiu é ignorado', () => {
+  const a = item('a', '2026-10-27T00:00:00Z');
+  const b = item('b', '2026-10-27T00:00:00Z');
+  const pauta = atualizarPauta(estadoVazio(), coleta([a, b]), FONTES, AGORA);
+  const saiu = { fonteNoticia: { url: 'https://x.com/y/' } };
+  const posts = [{ fonteNoticia: { url: a.url } }, saiu, {}];
+  const depois = marcarUsadosDosPosts(pauta, posts, AGORA);
+  assert.deepEqual(depois.itens.map((i) => i.url), [b.url]);
+  assert.deepEqual(depois.usados.map((u) => u.url), [a.url]);
 });

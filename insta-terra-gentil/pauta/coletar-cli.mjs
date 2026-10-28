@@ -5,10 +5,12 @@ import path from 'node:path';
 import { DADOS } from '../lib/config.mjs';
 import { lerJson } from '../lib/json.mjs';
 import { carregarFontes } from './noticias.mjs';
+import { lerPosts } from './gravar-post.mjs';
 import { coletar } from './coletar.mjs';
 import {
   atualizarPauta,
   marcarUsado,
+  marcarUsadosDosPosts,
   estadoVazio,
   conteudoDaPauta,
 } from './pauta-noticias.mjs';
@@ -47,9 +49,17 @@ function usar(url) {
   console.log(`[pauta] link marcado como usado: ${url}`);
 }
 
+// Passo do merge: o post gravado pela rotina diz qual notícia foi o gancho, e o código a baixa.
+function usarDosPosts() {
+  const antes = lerEstado();
+  gravarSeMudou(antes, marcarUsadosDosPosts(antes, lerPosts()));
+  console.log('[pauta] notícias dos posts marcadas como usadas');
+}
+
 try {
   const [comando, url] = process.argv.slice(2);
   if (comando === 'usar') usar(url);
+  else if (comando === 'usar-posts') usarDosPosts();
   else await rodarColeta();
 } catch (erro) {
   console.error(erro.message);

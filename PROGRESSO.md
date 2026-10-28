@@ -1,5 +1,10 @@
 # PROGRESSO Terra Gentil
 
+## TESTE DO LIMITE DO FLOW (28/10/2026, 14:47 a 14:55): AINDA LIMITADO
+
+Aba nova (tabId 865802864, grupo desta sessao), ferramenta Capas TG da conta da Pamela. Elenco remontado com as 6 fotos (camiseta-logo, chroma-1, chroma-3, rua-1, rua-2, bone-logo; o seletor "Do Projeto" aceita 1 foto por vez, esperar 2 s apos abrir). Fila de teste so com lavanda-D-1 (arquivo no scratchpad, colada so com ctrl+v, sem alterar `saida/fila-capas.json`, que segue com as 5 lavandas). Gerar, Confirmar e Iniciar: resposta imediata **"Limite do Flow, nova tentativa em 09:49"**, status "esperando limite", contador de geracoes em 0. Cliquei em Parar. Tentativa depois das 14:42 (primeira geracao de 27/10) tambem falhou, entao a hipotese de janela movel de 24h nao se confirmou. O "09:49" do aviso parece ser o relogio da propria ferramenta (mesmo padrao do "09:51" de hoje cedo), nao um horario confiavel de reset.
+**Proximo passo:** nova tentativa mais tarde (sugestao: 17:00 e depois 22:00 BRT) anotando o horario; se continuar, considerar outra conta ou esperar o dia seguinte. Nada gerado, nada gasto.
+
 ## REVISAO DO BANCO (28/10/2026, 114 capas, uma a uma em tamanho grande) - ACHOU CAPA COM ROSTO DE OUTRA PESSOA
 
 Andre achou a `espada-de-sao-jorge-B-1` (rosto e logo errados) saindo no carrossel duotom e mandou revisar tudo. Folhas de 4 em 540x675 comparadas com as fotos de referencia. **Meu criterio de vistoria anterior (folhas de 5 em 1K) deixou passar rosto diferente e logo errada; a conferencia do Gemini (`camiseta_logo_correta`) estava desligada.**

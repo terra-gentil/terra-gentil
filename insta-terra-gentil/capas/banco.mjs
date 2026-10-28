@@ -52,7 +52,8 @@ export function capaDoDia(especie, dia, { catalogo, pastaBanco, posts, revisao, 
   const aprovadas = capasDaEspecie(entrada.slug, pastaBanco)
     .filter((c) => {
       const hash = hashDoArquivo(c);
-      return vale(revisao, idDe(c), hash) && rostoConfere(rosto, idDe(c), hash);
+      const rostoOk = rostoConfere(rosto, idDe(c), hash) || Boolean(revisao[idDe(c)]?.excecaoRosto);
+      return vale(revisao, idDe(c), hash) && rostoOk;
     });
   const caminho = escolherCapa(aprovadas, vezesAntes(especie, posts, dia));
   return caminho ? { caminho, credito: 'Foto: Terra Gentil' } : null;

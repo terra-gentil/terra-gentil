@@ -9,6 +9,8 @@ import { lerRosto, rostoConfere } from './rosto.mjs';
 import { STATUS, gravarRevisao, hashDoArquivo, lerRevisao, marcar } from './revisao.mjs';
 
 const args = process.argv.slice(2);
+const excecao = args.includes('--excecao-rosto');
+if (excecao) args.splice(args.indexOf('--excecao-rosto'), 1);
 const posMotivo = args.indexOf('--motivo');
 const motivo = posMotivo >= 0 ? args.splice(posMotivo, 2)[1] : undefined;
 const [status, ...ids] = args;
@@ -29,11 +31,12 @@ for (const id of ids) {
   if (!entrada) throw new Error(`[revisar] ${id} não está no índice do banco`);
   const caminho = path.join(pastaBanco, ...entrada.arquivo.split('/'));
   const hash = hashDoArquivo(caminho);
-  if (status === 'aprovada' && !rostoConfere(rosto, id, hash)) {
+  if (status === 'aprovada' && !excecao && !rostoConfere(rosto, id, hash)) {
     const como = 'rode capas/rosto/verificar_rosto.py --gravar';
     throw new Error(`[revisar] ${id}: rosto não confere com o André (${como})`);
   }
   const extra = { data, ...(motivo && { motivo }) };
+  if (excecao) extra.excecaoRosto = `André, ${data}`;
   capas = marcar(capas, id, status, hash, extra);
   if (status === 'reprovada') {
     const destino = path.join(pastaReprovadas, entrada.slug, path.basename(caminho));

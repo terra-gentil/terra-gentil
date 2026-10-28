@@ -56,10 +56,11 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "alface-E-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "c94c95494966f4377a76b74a3fbc8c1fdd76ff1b7f25971d5d33587a7e2c08c8",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André aprovou, rosto de perfil abaixo do limiar",
+      "excecaoRosto": "André, 2026-10-28"
     },
     "anturio-A-1": {
       "status": "aprovada",
@@ -86,10 +87,10 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "anturio-E-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "cc0b474c9402096c43c863e808ab088a1916e555711d7908af385bdbeedb2846",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André conferiu e aprovou em 28/10"
     },
     "babosa-A-1": {
       "status": "reprovada",
@@ -116,10 +117,10 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "babosa-E-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "46c59ee58f40a39c78a05eab1c6f821989d22d26f46fd7531be302efa901c917",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André conferiu e aprovou em 28/10"
     },
     "begonia-A-1": {
       "status": "aprovada",
@@ -194,10 +195,10 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "cebolinha-E-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "cedfe48e695d97c400d1e68918066e2683e15ad8b70bb1c1076be00b9ee07593",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André conferiu e aprovou em 28/10"
     },
     "costela-de-adao-A-1": {
       "status": "reprovada",
@@ -206,10 +207,10 @@
       "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
     },
     "costela-de-adao-B-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "2b1f44bc7733b30aac016eb10c7cfbc5d61211ed961e3365608d2cb98752d71c",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André conferiu e aprovou em 28/10"
     },
     "costela-de-adao-C-1": {
       "status": "aprovada",
@@ -224,10 +225,10 @@
       "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
     },
     "costela-de-adao-E-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "d44fa362952bd7ad2ffe1722612a415f023707ce8b24f21b183d8d5a2a9dbb04",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André conferiu e aprovou em 28/10"
     },
     "espada-de-sao-jorge-A-1": {
       "status": "aprovada",
@@ -254,10 +255,10 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "espada-de-sao-jorge-E-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "46264ce23d51443897d581401231a71e25daf7223cdf63562146715c36b69e15",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André conferiu e aprovou em 28/10"
     },
     "grama-A-1": {
       "status": "aprovada",
@@ -332,10 +333,10 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "jiboia-E-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "b97984eff4b1efe628748bf40fa07db11fa23cc7c13d1aca6d1eee1163f7a943",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André conferiu e aprovou em 28/10"
     },
     "lavanda-A-1": {
       "status": "aprovada",
@@ -380,10 +381,10 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "lirio-da-paz-E-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "9b796eec4738588862de4c24b41b50e2df88d7c93feff9c0cac0dcae78a4e6ab",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André conferiu e aprovou em 28/10"
     },
     "manjericao-A-1": {
       "status": "aprovada",
@@ -410,10 +411,10 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "manjericao-E-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "8823280ddc50985eb5fd736c11e2956cbc18d59ca9d8b383774e19342add10dd",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André conferiu e aprovou em 28/10"
     },
     "maranta-B-1": {
       "status": "aprovada",
@@ -428,10 +429,10 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "maranta-D-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "ccfe1bfa87128c9e266c55ed71638e647e0f4125c381a99907cb506237ffde97",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André conferiu e aprovou em 28/10"
     },
     "morango-A-1": {
       "status": "reprovada",
@@ -440,10 +441,10 @@
       "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
     },
     "morango-B-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "7f4990b31341a24c2489e73904648751b276a00224ea169c2e2472cdf531b60e",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André conferiu e aprovou em 28/10"
     },
     "morango-C-1": {
       "status": "aprovada",
@@ -500,16 +501,17 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "peperomia-B-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "136e42249e903bba1648b651e019d419610412a9f79501284ba0eceee5640328",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André aprovou, rosto de perfil abaixo do limiar",
+      "excecaoRosto": "André, 2026-10-28"
     },
     "peperomia-C-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "baacdb1ebd1f7f8471356409b4c7c3d19014e5e88e24dfd34e764908d95cac49",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André conferiu e aprovou em 28/10"
     },
     "peperomia-D-1": {
       "status": "aprovada",
@@ -518,10 +520,10 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "peperomia-E-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "321ae6b4f6a4f02b4d9d4173079796402e277165c3cb6b62b1e0c3a81a5455d3",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André conferiu e aprovou em 28/10"
     },
     "pimenta-A-1": {
       "status": "aprovada",
@@ -572,10 +574,10 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "rosa-do-deserto-E-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "97c1f16bd6b8d6f8ccd8cb6d78d99a6c3db8d0baf70f0974a03db9a5130f06ee",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André conferiu e aprovou em 28/10"
     },
     "samambaia-A-1": {
       "status": "aprovada",
@@ -590,10 +592,10 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "samambaia-E-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "8ffc133efce6b087b3e7857e10d241dfddb02d3b86a5599489a09881d02b94d4",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André conferiu e aprovou em 28/10"
     },
     "suculenta-A-1": {
       "status": "reprovada",
@@ -608,10 +610,10 @@
       "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
     },
     "suculenta-C-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "d465bee61b088c6340b4b5f809cc0fde168328b9110f55d72b39cd376e430191",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André conferiu e aprovou em 28/10"
     },
     "suculenta-D-1": {
       "status": "reprovada",
@@ -620,10 +622,10 @@
       "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
     },
     "suculenta-E-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "55d2eaeb05d822bac85d4e4fb6b60aa5e5c2c4aa3eaa741035e2825a4c2d30c8",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André conferiu e aprovou em 28/10"
     },
     "tomate-A-1": {
       "status": "reprovada",
@@ -680,10 +682,11 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "zamioculca-E-1": {
-      "status": "duvida",
+      "status": "aprovada",
       "sha256": "7df94eb43d4580bae6573fc33721945e0a38cf8237eeb5cc8f66752607bbd2b7",
       "data": "2026-10-28",
-      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+      "motivo": "André aprovou, rosto de perfil abaixo do limiar",
+      "excecaoRosto": "André, 2026-10-28"
     }
   }
 }

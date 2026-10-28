@@ -18,12 +18,15 @@ export function rostoConfere(rosto, id, hash) {
   return Boolean(r) && r.sha256 === hash && typeof r.nota === 'number' && r.nota >= LIMITE_ROSTO;
 }
 
-// Toda capa aprovada precisa de nota de rosto válida e do mesmo arquivo da revisão.
+// Toda capa aprovada precisa de nota de rosto válida e do mesmo arquivo da revisão,
+// ou de uma exceção do André (excecaoRosto na revisão, ligada ao mesmo hash).
 export function problemasDeRosto(revisao, rosto) {
   const problemas = [];
   for (const [id, r] of Object.entries(revisao)) {
-    if (r.status !== 'aprovada') continue;
-    if (!rostoConfere(rosto, id, r.sha256)) problemas.push(`${id}: rosto não confere com o André`);
+    if (r.status !== 'aprovada' || r.excecaoRosto) continue;
+    if (!rostoConfere(rosto, id, r.sha256)) {
+      problemas.push(`${id}: rosto não confere com o André`);
+    }
   }
   return problemas;
 }

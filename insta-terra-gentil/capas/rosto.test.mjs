@@ -28,6 +28,11 @@ test('aprovada sem nota de rosto válida é problema; as outras não são confer
   assert.deepEqual(problemasDeRosto(revisao, rosto), ['b: rosto não confere com o André']);
 });
 
+test('exceção do André libera capa de perfil com nota baixa', () => {
+  const revisao = { p: { status: 'aprovada', sha256: 'h', excecaoRosto: 'André, 2026-10-28' } };
+  assert.deepEqual(problemasDeRosto(revisao, { p: { nota: 0.05, sha256: 'h' } }), []);
+});
+
 // Portão: ninguém fica "aprovada" no banco sem passar na comparação de rosto.
 test('banco real: toda capa aprovada tem rosto que confere com o André', () => {
   const pasta = naRaiz('capas', 'banco');

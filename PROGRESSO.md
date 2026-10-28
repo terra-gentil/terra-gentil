@@ -14,7 +14,7 @@ Andre achou a `espada-de-sao-jorge-B-1` (rosto e logo errados) saindo no carross
 
 **FEITO (28/10): CAMADA 2, ROSTO AUTOMATICO.** `capas/rosto/verificar_rosto.py` (OpenCV YuNet + SFace, modelos em `Documents/Terra Gentil/modelos-rosto/`, fora do git; `pip install opencv-python-headless`) compara cada capa com as 6 fotos de referencia do Andre e grava `capas/banco/rosto.json` (nota e sha256). Limiar 0,363 (oficial do SFace). Calibracao: as 12 reprovadas por rosto tiraram 0,04 a 0,22; as 81 aprovadas, 0,41 ou mais. `capaDoDia` exige revisao E rosto, `revisar-cli.mjs aprovada` recusa capa abaixo do limiar, e `capas/rosto.test.mjs` barra o banco real. Fluxo para capa nova: `importar-cli` (entra pendente) -> `python -I capas/rosto/verificar_rosto.py --gravar` -> vistoria humana da logo -> `revisar-cli.mjs aprovada <id>`. 183 testes ok.
 
-**AINDA SEM AUTOMACAO:** a LOGO (grafia TERRA GENTIL, icone, maiuscula) e defeitos de imagem (faixa branca) so a vistoria humana pega. Nota baixa nao e prova de rosto errado em perfil (SFace e fraco de lado): as 20 em duvida ficam sem uso ate o Andre decidir.
+**AINDA SEM AUTOMACAO:** a LOGO (grafia TERRA GENTIL, icone, maiuscula) e defeitos de imagem (faixa branca) so a vistoria humana pega. Nota baixa nao e prova de rosto errado em perfil (SFace e fraco de lado). **As 20 em duvida foram APROVADAS pelo Andre (28/10)**; 3 de perfil abaixo do limiar (zamioculca-E-1, alface-E-1, peperomia-B-1) entraram com `excecaoRosto` (`revisar-cli.mjs aprovada <id> --excecao-rosto`). Banco: 101 capas aprovadas, 13 reprovadas em `capas/reprovadas/`.
 
 **Cuidado (Windows):** scripts Python que reescrevem `.mjs` gravam CRLF e quebram o teste de limites (conta o `\r`); usar `newline='\n'` ou `sed -i 's/\r$//'`.
 

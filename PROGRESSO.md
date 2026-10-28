@@ -7,6 +7,7 @@
 - 2K baixado pela galeria com script na pagina (clique direito, Fazer o download, 2K), busca por palavra em ingles da legenda (lettuce, aloe, basil, rosemary, cactus...). Casamento por correlacao com `place2k.py`. Importado: **114 capas no banco** (indice.json, 1080x1350, 16 testes ok). Commits 0360056, 78d848a, 0aa17c1.
 - Faltam: 4 jiboia A a D (2K so na conta antiga), 10 reprovadas, 82 nao geradas (lavanda D E, salsinha, violeta, bromelia, jabuticabeira, limoeiro, girassol, roseira, buganvilia, comigo-ninguem-pode, bambu-da-sorte, 10 coringas x3). Lista em `insta-terra-gentil/saida/faltam.json`.
 - Mantido: PC sem dormir (processo PowerShell), aba da ferramenta Capas TG aberta na conta da Pamela (nao recarregar: a fila e as prontas ficam na pagina).
+- **Tentativa das 02:03 (28/10): limite NAO zerou.** Desmarquei as 53 prontas (selecao em 82 pendentes), confirmei, e voltou "Limite diario provavelmente atingido" na hora (contador seguiu em 53). Reset nao e antes de 2h BRT. Proxima tentativa agendada para 28/10 04:08 (cron 3414e7f8); a selecao de 82 fica na aba.
 
 ## HANDOFF FINAL (28/10/2026, noite): 135 capas gerando na conta da Pamela
 

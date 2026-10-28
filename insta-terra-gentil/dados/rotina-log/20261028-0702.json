@@ -1,0 +1,9 @@
+{
+  "runAt": "2026-10-28T07:03:30Z",
+  "dia": "2026-10-29",
+  "palavra": "GRATIDAO",
+  "resultado": "gravado",
+  "tentativas": 3,
+  "erros": ["descrição da matéria fora de 150 a 160 (2 vezes), corrigido"],
+  "post": "dados/posts/2026-10-29-gratidao.json"
+}

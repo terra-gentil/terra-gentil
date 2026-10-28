@@ -477,6 +477,25 @@
       "origem": "begonia-E-1.jpg"
     },
     {
+      "id": "cacto-A-1",
+      "arquivo": "cacto/cacto-A-1.jpg",
+      "slug": "cacto",
+      "especie": "Cactaceae",
+      "nome": "cacto",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "cacto",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "cacto-A-1.jpg"
+    },
+    {
       "id": "cacto-B-1",
       "arquivo": "cacto/cacto-B-1.jpg",
       "slug": "cacto",
@@ -494,6 +513,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "cacto-B-1.jpg"
+    },
+    {
+      "id": "cacto-C-1",
+      "arquivo": "cacto/cacto-C-1.jpg",
+      "slug": "cacto",
+      "especie": "Cactaceae",
+      "nome": "cacto",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "cacto",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "cacto-C-1.jpg"
     },
     {
       "id": "cebolinha-A-1",
@@ -610,6 +648,25 @@
       "origem": "costela-de-adao-A-1.jpg"
     },
     {
+      "id": "costela-de-adao-B-1",
+      "arquivo": "costela-de-adao/costela-de-adao-B-1.jpg",
+      "slug": "costela-de-adao",
+      "especie": "Monstera deliciosa",
+      "nome": "costela-de-adão",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "costela-de-adao",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "costela-de-adao-B-1.jpg"
+    },
+    {
       "id": "costela-de-adao-C-1",
       "arquivo": "costela-de-adao/costela-de-adao-C-1.jpg",
       "slug": "costela-de-adao",
@@ -703,6 +760,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "espada-de-sao-jorge-B-1.jpg"
+    },
+    {
+      "id": "espada-de-sao-jorge-C-1",
+      "arquivo": "espada-de-sao-jorge/espada-de-sao-jorge-C-1.jpg",
+      "slug": "espada-de-sao-jorge",
+      "especie": "Dracaena trifasciata",
+      "nome": "espada-de-são-jorge",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "espada-de-sao-jorge",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "espada-de-sao-jorge-C-1.jpg"
     },
     {
       "id": "espada-de-sao-jorge-D-1",
@@ -971,6 +1047,25 @@
       "origem": "hortela-D-1.jpg"
     },
     {
+      "id": "jiboia-E-1",
+      "arquivo": "jiboia/jiboia-E-1.jpg",
+      "slug": "jiboia",
+      "especie": "Epipremnum aureum",
+      "nome": "jiboia",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "jiboia",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "jiboia-E-1.jpg"
+    },
+    {
       "id": "lavanda-A-1",
       "arquivo": "lavanda/lavanda-A-1.jpg",
       "slug": "lavanda",
@@ -1028,6 +1123,25 @@
       "origem": "lavanda-C-1.jpg"
     },
     {
+      "id": "lirio-da-paz-A-1",
+      "arquivo": "lirio-da-paz/lirio-da-paz-A-1.jpg",
+      "slug": "lirio-da-paz",
+      "especie": "Spathiphyllum wallisii",
+      "nome": "lírio-da-paz",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "lirio-da-paz",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lirio-da-paz-A-1.jpg"
+    },
+    {
       "id": "lirio-da-paz-B-1",
       "arquivo": "lirio-da-paz/lirio-da-paz-B-1.jpg",
       "slug": "lirio-da-paz",
@@ -1064,6 +1178,44 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "lirio-da-paz-C-1.jpg"
+    },
+    {
+      "id": "lirio-da-paz-D-1",
+      "arquivo": "lirio-da-paz/lirio-da-paz-D-1.jpg",
+      "slug": "lirio-da-paz",
+      "especie": "Spathiphyllum wallisii",
+      "nome": "lírio-da-paz",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "lirio-da-paz",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lirio-da-paz-D-1.jpg"
+    },
+    {
+      "id": "lirio-da-paz-E-1",
+      "arquivo": "lirio-da-paz/lirio-da-paz-E-1.jpg",
+      "slug": "lirio-da-paz",
+      "especie": "Spathiphyllum wallisii",
+      "nome": "lírio-da-paz",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "lirio-da-paz",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lirio-da-paz-E-1.jpg"
     },
     {
       "id": "manjericao-A-1",
@@ -1178,6 +1330,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "maranta-B-1.jpg"
+    },
+    {
+      "id": "maranta-C-1",
+      "arquivo": "maranta/maranta-C-1.jpg",
+      "slug": "maranta",
+      "especie": "Maranta leuconeura",
+      "nome": "maranta",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "maranta",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "maranta-C-1.jpg"
     },
     {
       "id": "maranta-D-1",
@@ -1579,6 +1750,44 @@
       "origem": "rosa-do-deserto-A-1.jpg"
     },
     {
+      "id": "rosa-do-deserto-B-1",
+      "arquivo": "rosa-do-deserto/rosa-do-deserto-B-1.jpg",
+      "slug": "rosa-do-deserto",
+      "especie": "Adenium obesum",
+      "nome": "rosa-do-deserto",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "rosa-do-deserto",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "rosa-do-deserto-B-1.jpg"
+    },
+    {
+      "id": "rosa-do-deserto-C-1",
+      "arquivo": "rosa-do-deserto/rosa-do-deserto-C-1.jpg",
+      "slug": "rosa-do-deserto",
+      "especie": "Adenium obesum",
+      "nome": "rosa-do-deserto",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "rosa-do-deserto",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "rosa-do-deserto-C-1.jpg"
+    },
+    {
       "id": "rosa-do-deserto-D-1",
       "arquivo": "rosa-do-deserto/rosa-do-deserto-D-1.jpg",
       "slug": "rosa-do-deserto",
@@ -1596,6 +1805,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "rosa-do-deserto-D-1.jpg"
+    },
+    {
+      "id": "rosa-do-deserto-E-1",
+      "arquivo": "rosa-do-deserto/rosa-do-deserto-E-1.jpg",
+      "slug": "rosa-do-deserto",
+      "especie": "Adenium obesum",
+      "nome": "rosa-do-deserto",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "rosa-do-deserto",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "rosa-do-deserto-E-1.jpg"
     },
     {
       "id": "samambaia-A-1",
@@ -1693,6 +1921,25 @@
       "origem": "suculenta-B-1.jpg"
     },
     {
+      "id": "suculenta-C-1",
+      "arquivo": "suculenta/suculenta-C-1.jpg",
+      "slug": "suculenta",
+      "especie": "Echeveria",
+      "nome": "suculenta",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "suculenta",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "suculenta-C-1.jpg"
+    },
+    {
       "id": "suculenta-D-1",
       "arquivo": "suculenta/suculenta-D-1.jpg",
       "slug": "suculenta",
@@ -1710,6 +1957,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "suculenta-D-1.jpg"
+    },
+    {
+      "id": "suculenta-E-1",
+      "arquivo": "suculenta/suculenta-E-1.jpg",
+      "slug": "suculenta",
+      "especie": "Echeveria",
+      "nome": "suculenta",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "suculenta",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "suculenta-E-1.jpg"
     },
     {
       "id": "tomate-A-1",

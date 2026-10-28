@@ -287,25 +287,6 @@
       "origem": "anturio-E-1.jpg"
     },
     {
-      "id": "babosa-A-1",
-      "arquivo": "babosa/babosa-A-1.jpg",
-      "slug": "babosa",
-      "especie": "Aloe vera",
-      "nome": "babosa",
-      "cenario": "A",
-      "cenarioNome": "segurando",
-      "tags": [
-        "babosa",
-        "segurando",
-        "andre",
-        "camiseta-oficial",
-        "capa-slide-1"
-      ],
-      "largura": 1080,
-      "altura": 1350,
-      "origem": "babosa-A-1.jpg"
-    },
-    {
       "id": "babosa-B-1",
       "arquivo": "babosa/babosa-B-1.jpg",
       "slug": "babosa",
@@ -629,25 +610,6 @@
       "origem": "cebolinha-E-1.jpg"
     },
     {
-      "id": "costela-de-adao-A-1",
-      "arquivo": "costela-de-adao/costela-de-adao-A-1.jpg",
-      "slug": "costela-de-adao",
-      "especie": "Monstera deliciosa",
-      "nome": "costela-de-adão",
-      "cenario": "A",
-      "cenarioNome": "segurando",
-      "tags": [
-        "costela-de-adao",
-        "segurando",
-        "andre",
-        "camiseta-oficial",
-        "capa-slide-1"
-      ],
-      "largura": 1080,
-      "altura": 1350,
-      "origem": "costela-de-adao-A-1.jpg"
-    },
-    {
       "id": "costela-de-adao-B-1",
       "arquivo": "costela-de-adao/costela-de-adao-B-1.jpg",
       "slug": "costela-de-adao",
@@ -686,25 +648,6 @@
       "origem": "costela-de-adao-C-1.jpg"
     },
     {
-      "id": "costela-de-adao-D-1",
-      "arquivo": "costela-de-adao/costela-de-adao-D-1.jpg",
-      "slug": "costela-de-adao",
-      "especie": "Monstera deliciosa",
-      "nome": "costela-de-adão",
-      "cenario": "D",
-      "cenarioNome": "ensinando",
-      "tags": [
-        "costela-de-adao",
-        "ensinando",
-        "andre",
-        "camiseta-oficial",
-        "capa-slide-1"
-      ],
-      "largura": 1080,
-      "altura": 1350,
-      "origem": "costela-de-adao-D-1.jpg"
-    },
-    {
       "id": "costela-de-adao-E-1",
       "arquivo": "costela-de-adao/costela-de-adao-E-1.jpg",
       "slug": "costela-de-adao",
@@ -741,25 +684,6 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "espada-de-sao-jorge-A-1.jpg"
-    },
-    {
-      "id": "espada-de-sao-jorge-B-1",
-      "arquivo": "espada-de-sao-jorge/espada-de-sao-jorge-B-1.jpg",
-      "slug": "espada-de-sao-jorge",
-      "especie": "Dracaena trifasciata",
-      "nome": "espada-de-são-jorge",
-      "cenario": "B",
-      "cenarioNome": "cuidando",
-      "tags": [
-        "espada-de-sao-jorge",
-        "cuidando",
-        "andre",
-        "camiseta-oficial",
-        "capa-slide-1"
-      ],
-      "largura": 1080,
-      "altura": 1350,
-      "origem": "espada-de-sao-jorge-B-1.jpg"
     },
     {
       "id": "espada-de-sao-jorge-C-1",
@@ -990,25 +914,6 @@
       "origem": "hortela-A-1.jpg"
     },
     {
-      "id": "hortela-B-1",
-      "arquivo": "hortela/hortela-B-1.jpg",
-      "slug": "hortela",
-      "especie": "Mentha spicata",
-      "nome": "hortelã",
-      "cenario": "B",
-      "cenarioNome": "cuidando",
-      "tags": [
-        "hortela",
-        "cuidando",
-        "andre",
-        "camiseta-oficial",
-        "capa-slide-1"
-      ],
-      "largura": 1080,
-      "altura": 1350,
-      "origem": "hortela-B-1.jpg"
-    },
-    {
       "id": "hortela-C-1",
       "arquivo": "hortela/hortela-C-1.jpg",
       "slug": "hortela",
@@ -1140,25 +1045,6 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "lirio-da-paz-A-1.jpg"
-    },
-    {
-      "id": "lirio-da-paz-B-1",
-      "arquivo": "lirio-da-paz/lirio-da-paz-B-1.jpg",
-      "slug": "lirio-da-paz",
-      "especie": "Spathiphyllum wallisii",
-      "nome": "lírio-da-paz",
-      "cenario": "B",
-      "cenarioNome": "cuidando",
-      "tags": [
-        "lirio-da-paz",
-        "cuidando",
-        "andre",
-        "camiseta-oficial",
-        "capa-slide-1"
-      ],
-      "largura": 1080,
-      "altura": 1350,
-      "origem": "lirio-da-paz-B-1.jpg"
     },
     {
       "id": "lirio-da-paz-C-1",
@@ -1370,25 +1256,6 @@
       "origem": "maranta-D-1.jpg"
     },
     {
-      "id": "morango-A-1",
-      "arquivo": "morango/morango-A-1.jpg",
-      "slug": "morango",
-      "especie": "Fragaria × ananassa",
-      "nome": "morango",
-      "cenario": "A",
-      "cenarioNome": "segurando",
-      "tags": [
-        "morango",
-        "segurando",
-        "andre",
-        "camiseta-oficial",
-        "capa-slide-1"
-      ],
-      "largura": 1080,
-      "altura": 1350,
-      "origem": "morango-A-1.jpg"
-    },
-    {
       "id": "morango-B-1",
       "arquivo": "morango/morango-B-1.jpg",
       "slug": "morango",
@@ -1482,25 +1349,6 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "orquidea-A-1.jpg"
-    },
-    {
-      "id": "orquidea-B-1",
-      "arquivo": "orquidea/orquidea-B-1.jpg",
-      "slug": "orquidea",
-      "especie": "Phalaenopsis",
-      "nome": "orquídea",
-      "cenario": "B",
-      "cenarioNome": "cuidando",
-      "tags": [
-        "orquidea",
-        "cuidando",
-        "andre",
-        "camiseta-oficial",
-        "capa-slide-1"
-      ],
-      "largura": 1080,
-      "altura": 1350,
-      "origem": "orquidea-B-1.jpg"
     },
     {
       "id": "orquidea-C-1",
@@ -1731,25 +1579,6 @@
       "origem": "pimenta-D-1.jpg"
     },
     {
-      "id": "rosa-do-deserto-A-1",
-      "arquivo": "rosa-do-deserto/rosa-do-deserto-A-1.jpg",
-      "slug": "rosa-do-deserto",
-      "especie": "Adenium obesum",
-      "nome": "rosa-do-deserto",
-      "cenario": "A",
-      "cenarioNome": "segurando",
-      "tags": [
-        "rosa-do-deserto",
-        "segurando",
-        "andre",
-        "camiseta-oficial",
-        "capa-slide-1"
-      ],
-      "largura": 1080,
-      "altura": 1350,
-      "origem": "rosa-do-deserto-A-1.jpg"
-    },
-    {
       "id": "rosa-do-deserto-B-1",
       "arquivo": "rosa-do-deserto/rosa-do-deserto-B-1.jpg",
       "slug": "rosa-do-deserto",
@@ -1883,44 +1712,6 @@
       "origem": "samambaia-E-1.jpg"
     },
     {
-      "id": "suculenta-A-1",
-      "arquivo": "suculenta/suculenta-A-1.jpg",
-      "slug": "suculenta",
-      "especie": "Echeveria",
-      "nome": "suculenta",
-      "cenario": "A",
-      "cenarioNome": "segurando",
-      "tags": [
-        "suculenta",
-        "segurando",
-        "andre",
-        "camiseta-oficial",
-        "capa-slide-1"
-      ],
-      "largura": 1080,
-      "altura": 1350,
-      "origem": "suculenta-A-1.jpg"
-    },
-    {
-      "id": "suculenta-B-1",
-      "arquivo": "suculenta/suculenta-B-1.jpg",
-      "slug": "suculenta",
-      "especie": "Echeveria",
-      "nome": "suculenta",
-      "cenario": "B",
-      "cenarioNome": "cuidando",
-      "tags": [
-        "suculenta",
-        "cuidando",
-        "andre",
-        "camiseta-oficial",
-        "capa-slide-1"
-      ],
-      "largura": 1080,
-      "altura": 1350,
-      "origem": "suculenta-B-1.jpg"
-    },
-    {
       "id": "suculenta-C-1",
       "arquivo": "suculenta/suculenta-C-1.jpg",
       "slug": "suculenta",
@@ -1940,25 +1731,6 @@
       "origem": "suculenta-C-1.jpg"
     },
     {
-      "id": "suculenta-D-1",
-      "arquivo": "suculenta/suculenta-D-1.jpg",
-      "slug": "suculenta",
-      "especie": "Echeveria",
-      "nome": "suculenta",
-      "cenario": "D",
-      "cenarioNome": "ensinando",
-      "tags": [
-        "suculenta",
-        "ensinando",
-        "andre",
-        "camiseta-oficial",
-        "capa-slide-1"
-      ],
-      "largura": 1080,
-      "altura": 1350,
-      "origem": "suculenta-D-1.jpg"
-    },
-    {
       "id": "suculenta-E-1",
       "arquivo": "suculenta/suculenta-E-1.jpg",
       "slug": "suculenta",
@@ -1976,25 +1748,6 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "suculenta-E-1.jpg"
-    },
-    {
-      "id": "tomate-A-1",
-      "arquivo": "tomate/tomate-A-1.jpg",
-      "slug": "tomate",
-      "especie": "Solanum lycopersicum",
-      "nome": "tomate",
-      "cenario": "A",
-      "cenarioNome": "segurando",
-      "tags": [
-        "tomate",
-        "segurando",
-        "andre",
-        "camiseta-oficial",
-        "capa-slide-1"
-      ],
-      "largura": 1080,
-      "altura": 1350,
-      "origem": "tomate-A-1.jpg"
     },
     {
       "id": "tomate-B-1",

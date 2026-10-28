@@ -7,6 +7,7 @@ import path from 'node:path';
 import { naRaiz } from '../lib/config.mjs';
 import { lerJson } from '../lib/json.mjs';
 import * as indice from './indice.mjs';
+import { gravarRevisao, hashDoArquivo, lerRevisao, marcar } from './revisao.mjs';
 
 const origem = process.argv[2];
 if (!origem || !fs.existsSync(origem)) {
@@ -36,5 +37,12 @@ for (const nome of fs.readdirSync(origem)) {
 
 if (novas.length) {
   indice.gravarIndice(pastaBanco, indice.mesclarIndice(indice.lerIndice(pastaBanco), novas));
+  // Capa nova entra como pendente: só vale depois de revisada (capas/revisar-cli.mjs aprovada).
+  let capas = lerRevisao(pastaBanco);
+  for (const { id, arquivo } of novas) {
+    const hash = hashDoArquivo(path.join(pastaBanco, ...arquivo.split('/')));
+    capas = marcar(capas, id, 'pendente', hash);
+  }
+  gravarRevisao(pastaBanco, capas);
 }
 console.log(novas.length ? `${novas.length} capa(s) no banco` : 'nenhum arquivo de capa na pasta');

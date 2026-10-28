@@ -1,5 +1,23 @@
 # PROGRESSO Terra Gentil
 
+## REVISAO DO BANCO (28/10/2026, 114 capas, uma a uma em tamanho grande) - ACHOU CAPA COM ROSTO DE OUTRA PESSOA
+
+Andre achou a `espada-de-sao-jorge-B-1` (rosto e logo errados) saindo no carrossel duotom e mandou revisar tudo. Folhas de 4 em 540x675 comparadas com as fotos de referencia. **Meu criterio de vistoria anterior (folhas de 5 em 1K) deixou passar rosto diferente e logo errada; a conferencia do Gemini (`camiseta_logo_correta`) estava desligada.**
+
+**REPROVADAS (13), nao usar:** rosto de outro homem e/ou barba cheia ou logo errada: babosa-A-1 (barba cheia), costela-de-adao-A-1 e D-1 (outro homem, logo errada), espada-de-sao-jorge-B-1 (rosto e logo), hortela-B-1 (barba cheia), lirio-da-paz-B-1 (barba cheia), morango-A-1 (outro homem, logo sem icone), rosa-do-deserto-A-1 (barba cheia, logo errada), suculenta-A-1 (barba cheia), suculenta-B-1 e D-1 (outro homem, logo errada), tomate-A-1 (outro homem, icone diferente). Defeito de imagem: orquidea-B-1 (faixa branca vazia no topo).
+
+**GRAFIA SUSPEITA (conferir no 2K, parecem "TIRRA"/"TARRA"):** lirio-da-paz-E-1 (bone), manjericao-E-1 (camiseta), maranta-D-1, rosa-do-deserto-E-1.
+
+**DUVIDA de rosto (cenario E regando, de perfil; quase sempre mais marcado/diferente):** alface-E-1, anturio-E-1, babosa-E-1, cebolinha-E-1, costela-de-adao-B-1 e E-1, espada-de-sao-jorge-E-1, jiboia-E-1, morango-B-1, peperomia-B-1 C-1 E-1, samambaia-E-1, suculenta-C-1 E-1, zamioculca-E-1. Andre decide.
+
+**FEITO (28/10): PORTAO DE APROVACAO.** `capas/banco/revisao.json` guarda o veredito (aprovada, reprovada, duvida, pendente) e o sha256 de cada capa. `capaDoDia` so entrega capa APROVADA E INTACTA (sem a revisao ele dispara erro). `capas/revisao.test.mjs` tem um teste sobre o banco real: falha se alguma capa nao tem veredito, mudou depois da revisao ou esta reprovada dentro do banco. `importar-cli.mjs` agora grava capa nova como PENDENTE (nao entra em uso ate alguem rodar `node capas/revisar-cli.mjs aprovada <id>`). `revisar-cli.mjs reprovada <id>` move para `capas/reprovadas/` e tira do indice. As 13 reprovadas ja foram movidas; as 20 em duvida ficam no banco SEM USO ate o Andre decidir (aprovada ou reprovada). 180 testes ok.
+
+**FALTA (camada 2, automatica):** checagem de rosto por comparacao com as fotos do Elenco (embedding) e da logo, para nao depender de olho humano. Precisa baixar modelos (OpenCV SFace + YuNet, licenca livre) e `opencv-python-headless`; esperando o OK do Andre. Calibrar com as 13 reprovadas (devem falhar) e as ~80 aprovadas (devem passar). Folhas de revisao em scratchpad `rev/f01..f29.jpg`.
+
+**Cuidado (Windows):** scripts Python que reescrevem `.mjs` gravam CRLF e quebram o teste de limites (conta o `\r`); usar `newline='\n'` ou `sed -i 's/\r$//'`.
+
+**Carrossel (28/10):** capa com o Andre agora desce o titulo para o rodape e tira desfoque e veu (`carrossel/titulo-embaixo.mjs`, `render.mjs`, `montar-dia.mjs`, `tratamento-foto.mjs`; 176 testes ok). Falta: contorno vazado do titulo com riscos por dentro das letras, logo da camiseta parcialmente coberta pelo titulo, ver as capas novas dos outros 6 moldes.
+
 ## ATUALIZACAO (27/10/2026, noite): banco com 114 capas 2K, limite diario descoberto
 
 - Limite da conta da Pamela: **99 geracoes no dia** (1 teste + lote de 45 + 53 do lote de 135). Parou na lavanda-D com "Limite diario provavelmente atingido". Teto pratico: cerca de 100 imagens por conta por dia. Reset ainda nao confirmado (hipotese: meia-noite do Pacifico, cerca de 4h BRT). Tentativa agendada para 28/10 02:03 (cron de sessao); se falhar, repetir 2h depois e anotar o horario do reset.

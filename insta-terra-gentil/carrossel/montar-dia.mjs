@@ -15,6 +15,7 @@ const IMAGENS = path.join(RAIZ_SITE, 'public', 'images');
 const poseDoMascote = (i) => path.join(IMAGENS, 'mascot', `pose-${(i % 8) + 1}.jpg`);
 const FOTO_ANDRE = path.join(IMAGENS, 'photos', 'andre-bench.png');
 const ESCURECIMENTO_CAPA = 30;
+const ESCURECIMENTO_CAPA_ANDRE = 8; // foto do André: véu mínimo para a logo aparecer
 // Enquadramento da foto por slide, para os 8 não parecerem o mesmo recorte repetido.
 const ENQUADRAMENTOS = [
   ['center', 1],
@@ -28,14 +29,16 @@ const ENQUADRAMENTOS = [
 ];
 
 // Só manda o que o contrato do tipo pede: capa não tem mascote, só passo tem foto do André.
-function dadosDoSlide(slide, i, foto, credito) {
+function dadosDoSlide(slide, i, foto, credito, pessoa) {
   const tipo = ESTRUTURA[i];
   const campos = OBRIGATORIOS[tipo];
   const dados = { ...equilibrarTitulo(slide), foto, contador: `${i + 1}/${ESTRUTURA.length}` };
   if (campos.includes('mascote')) dados.mascote = paraDataUri(poseDoMascote(i));
   if (campos.includes('fotoAndre')) dados.fotoAndre = paraDataUri(FOTO_ANDRE);
   if (campos.includes('legendaFoto')) dados.legendaFoto ??= credito;
-  if (tipo === 'capa') dados.escurecimento ??= ESCURECIMENTO_CAPA;
+  if (tipo === 'capa') {
+    dados.escurecimento ??= pessoa ? ESCURECIMENTO_CAPA_ANDRE : ESCURECIMENTO_CAPA;
+  }
   const [foco, zoom] = ENQUADRAMENTOS[i];
   dados.foco ??= foco;
   dados.zoom ??= zoom;
@@ -65,10 +68,15 @@ export async function montarDia(post, opcoes) {
   const capaUri = capa ? paraDataUri(capa.caminho) : fotoUri;
   const fotoDe = (i) => (ESTRUTURA[i] === 'capa' ? capaUri : fotoUri);
   const paginas = post.slides.map((slide, i) => ({
-    html: montarSlide(molde, ESTRUTURA[i], dadosDoSlide(slide, i, fotoDe(i), foto.credito)),
+    html: montarSlide(
+      molde,
+      ESTRUTURA[i],
+      dadosDoSlide(slide, i, fotoDe(i), foto.credito, !!capa),
+    ),
     saida: path.join(saida, `${dia}-${molde}-${String(i + 1).padStart(2, '0')}.png`),
     fotoLimpa: FOTO_LIMPA.has(molde),
     capa: ESTRUTURA[i] === 'capa',
+    pessoa: ESTRUTURA[i] === 'capa' && !!capa,
   }));
   const avisos = [];
   const aoAbrir = async (pagina, arquivo) => {

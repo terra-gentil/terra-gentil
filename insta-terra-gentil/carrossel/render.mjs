@@ -2,6 +2,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { tratarFoto } from './tratamento-foto.mjs';
+import { descerTitulo } from './titulo-embaixo.mjs';
 import {
   ajustarTitulos,
   encolherLinhasTitulo,
@@ -25,11 +26,13 @@ export async function renderizar(paginas, opcoes = {}) {
   try {
     const pagina = await navegador.newPage({ viewport: { width: LARGURA, height: ALTURA } });
     const saidas = [];
-    for (const { html, saida, fotoLimpa, capa } of paginas) {
+    for (const { html, saida, fotoLimpa, capa, pessoa } of paginas) {
       await pagina.setContent(html, { waitUntil: 'networkidle' });
       await pagina.evaluate(() => document.fonts.ready);
       if (opcoes.tratar !== false) {
-        await pagina.evaluate(tratarFoto, { largura: LARGURA, altura: ALTURA, fotoLimpa, capa });
+        const dadosFoto = { largura: LARGURA, altura: ALTURA, fotoLimpa, capa, pessoa };
+        await pagina.evaluate(tratarFoto, dadosFoto);
+        if (pessoa) await pagina.evaluate(descerTitulo);
         await pagina.evaluate(sombrearCartoes);
         await pagina.evaluate(ajustarTitulos, { largura: LARGURA, margem: 56, tamanhoMinimo: 64 });
         const larguras = await pagina.evaluate(medirLinhasTitulo);

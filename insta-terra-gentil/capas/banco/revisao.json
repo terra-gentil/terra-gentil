@@ -1,0 +1,689 @@
+{
+  "_sobre": "Veredito de cada capa do banco. Só \"aprovada\" com o mesmo sha256 é usada.",
+  "capas": {
+    "alecrim-A-1": {
+      "status": "aprovada",
+      "sha256": "f92d7a366592fe87ff8da56e83324e237eeed9ac7862f6deb8b539dd37201084",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "alecrim-B-1": {
+      "status": "aprovada",
+      "sha256": "edd3cea35f5ee79d9b9a4aae4a82bdfc8c45b889622f87aa29ff7bb8bbcb609f",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "alecrim-C-1": {
+      "status": "aprovada",
+      "sha256": "d57f18cc707f8ae385e839a54dbae6c6f446f22c64e90c40bf440ee70988d247",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "alecrim-D-1": {
+      "status": "aprovada",
+      "sha256": "7d7852d185a80341dbf7ea713b8f73f840b33775c0d00a900f5282e82504bc9b",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "alecrim-E-1": {
+      "status": "aprovada",
+      "sha256": "270093b4d42cc30b0a2d77b6b63ad006110a75f68a8cd952f40ddccf8eb7b3a4",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "alface-A-1": {
+      "status": "aprovada",
+      "sha256": "aec906b50542083473bc224e3782c0830b97ba529cc682d2119333fa3558205c",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "alface-B-1": {
+      "status": "aprovada",
+      "sha256": "03e7ac31d755c89df0f620bb4b52231a285c129007570b0ee47c1e38909db4e4",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "alface-C-1": {
+      "status": "aprovada",
+      "sha256": "44e99ef63bcb43797679d3cb5532b8c58beabf9d5d98689481fff5f6c0778924",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "alface-D-1": {
+      "status": "aprovada",
+      "sha256": "d01117e52faa5de289260b3295f012757a2e3910aa07ba35870a4773d20171ca",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "alface-E-1": {
+      "status": "duvida",
+      "sha256": "c94c95494966f4377a76b74a3fbc8c1fdd76ff1b7f25971d5d33587a7e2c08c8",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "anturio-A-1": {
+      "status": "aprovada",
+      "sha256": "0adb5a958c83a750a34338a78ca90aaadcc6cac5d6dcf40a6ccf97ce2f84801c",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "anturio-B-1": {
+      "status": "aprovada",
+      "sha256": "3cdbf051167e7b4b446eee3245f7b2af7776ca80670eb27a93777a6f2548fbca",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "anturio-C-1": {
+      "status": "aprovada",
+      "sha256": "94aa1d962f4748b21dba34111f4846e07de0c8155493772fcae7ba746dbba087",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "anturio-D-1": {
+      "status": "aprovada",
+      "sha256": "a2a89961ed8b1869fa0e8b992d651bac75994ffb1830f78051699f2b5c4ca645",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "anturio-E-1": {
+      "status": "duvida",
+      "sha256": "cc0b474c9402096c43c863e808ab088a1916e555711d7908af385bdbeedb2846",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "babosa-A-1": {
+      "status": "reprovada",
+      "sha256": "b18e66675392f256bc7fd088cefd9086e06fb6ac7272459d4fc6e53252114d65",
+      "data": "2026-10-28",
+      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+    },
+    "babosa-B-1": {
+      "status": "aprovada",
+      "sha256": "d6211a8f0fb8294487ef83c0bc85a213695cebbe41c9cace44657fe5be37fc37",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "babosa-C-1": {
+      "status": "aprovada",
+      "sha256": "847699672d3e572fb8b7b895623606c52aff3bd3aabe2e505943a53e4675729a",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "babosa-D-1": {
+      "status": "aprovada",
+      "sha256": "34acc2fb73152fcdb7f7b4750184300bc8cdc9bcd53c6547bedffcba73c6be47",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "babosa-E-1": {
+      "status": "duvida",
+      "sha256": "46c59ee58f40a39c78a05eab1c6f821989d22d26f46fd7531be302efa901c917",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "begonia-A-1": {
+      "status": "aprovada",
+      "sha256": "562cef8ce4d412457adadcd731062604ddfcdf375c4f16822e7820d73ff70ef0",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "begonia-B-1": {
+      "status": "aprovada",
+      "sha256": "f32214d947ab86ffddc6fc9e374e6e76c53e73aa12809f1edddc89a9adce860d",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "begonia-C-1": {
+      "status": "aprovada",
+      "sha256": "c9e7a7dbaf59ae6f2584bad3d99ec76387d920daba0e1784fde0415f8647b745",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "begonia-D-1": {
+      "status": "aprovada",
+      "sha256": "3a3b129d2a7122942e2507ae7934e15b70fa4ddfc146f4083749beac2c4ee37b",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "begonia-E-1": {
+      "status": "aprovada",
+      "sha256": "b614124556f5711a8c33c758e7744d488ce0f56a3509f63b47f82432e5f6e1b6",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "cacto-A-1": {
+      "status": "aprovada",
+      "sha256": "40833fcb8849d11ed292edb3fd57434b544ac21a23b3f699278e53ae516eee7c",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "cacto-B-1": {
+      "status": "aprovada",
+      "sha256": "42e11e2a77e1a1eb9fc10d91dc1e9b1ac91011d91baa345ee074c474d66a6dfe",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "cacto-C-1": {
+      "status": "aprovada",
+      "sha256": "224224ab83acd6831a6490d8b1e841b6c778c8239d2e8c0487250c620524657c",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "cebolinha-A-1": {
+      "status": "aprovada",
+      "sha256": "c110de2c8d1ef290bba889b2a701e1610f20101750c2e776a9543d8dca0b655e",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "cebolinha-B-1": {
+      "status": "aprovada",
+      "sha256": "905ce29271797d4e0a8500892c3a76d6e4afc87c7f9e1eed4ed1be6cfb72b3fe",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "cebolinha-C-1": {
+      "status": "aprovada",
+      "sha256": "4b29df60f61e7976424cd2a2d4074dff81f06aa612ad614a10337484e48b0553",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "cebolinha-D-1": {
+      "status": "aprovada",
+      "sha256": "a11111ad52bd2fbe59e6d8916a8d6449dcf22dfbe3775c531cf6a76b151b34c1",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "cebolinha-E-1": {
+      "status": "duvida",
+      "sha256": "cedfe48e695d97c400d1e68918066e2683e15ad8b70bb1c1076be00b9ee07593",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "costela-de-adao-A-1": {
+      "status": "reprovada",
+      "sha256": "d3b5527f8e48ea582cecf325e2199557ea809c3bf158729e45b89d04be72e593",
+      "data": "2026-10-28",
+      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+    },
+    "costela-de-adao-B-1": {
+      "status": "duvida",
+      "sha256": "2b1f44bc7733b30aac016eb10c7cfbc5d61211ed961e3365608d2cb98752d71c",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "costela-de-adao-C-1": {
+      "status": "aprovada",
+      "sha256": "22ef066e4c1c132aa0d56fddab2ad5e2d7f11a4d98af615f7cf540828bb1ce3f",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "costela-de-adao-D-1": {
+      "status": "reprovada",
+      "sha256": "2847a94d0f8970b8eb7fd1da5102df15823eaa2bc25b799668987ba66f946784",
+      "data": "2026-10-28",
+      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+    },
+    "costela-de-adao-E-1": {
+      "status": "duvida",
+      "sha256": "d44fa362952bd7ad2ffe1722612a415f023707ce8b24f21b183d8d5a2a9dbb04",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "espada-de-sao-jorge-A-1": {
+      "status": "aprovada",
+      "sha256": "7b05deecdd80d5201fc5372fef7349ae3f50954b6f7ec09116f72f24fb38250e",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "espada-de-sao-jorge-B-1": {
+      "status": "reprovada",
+      "sha256": "0069612421cc85ad727ab79006d4a2368e7801af8dc6f4f84ac923c4c6880eaf",
+      "data": "2026-10-28",
+      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+    },
+    "espada-de-sao-jorge-C-1": {
+      "status": "aprovada",
+      "sha256": "7bd2e9156a8a7b6fa3f78d2d9ea725fe33de5e516d77fad4a979dc5e338a9e87",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "espada-de-sao-jorge-D-1": {
+      "status": "aprovada",
+      "sha256": "a456333df515bacef45c4ecc874f654a0f11061c24b3da2e3718b8a27a673fef",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "espada-de-sao-jorge-E-1": {
+      "status": "duvida",
+      "sha256": "46264ce23d51443897d581401231a71e25daf7223cdf63562146715c36b69e15",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "grama-A-1": {
+      "status": "aprovada",
+      "sha256": "b438f1ed4b60e28b76d88a766081ba03963962f9d966db1f2d7595bc35d10017",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "grama-C-1": {
+      "status": "aprovada",
+      "sha256": "8af53b81673414badca7ced8e0c29f8c5a06b5b942b020a07fe52bf05a47f76b",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "grama-D-1": {
+      "status": "aprovada",
+      "sha256": "020d98080c2b3567c2b82b7eb0c6ab498722538a153cbb42d6fbb441dd10335b",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "grama-E-1": {
+      "status": "aprovada",
+      "sha256": "d689af2f5f88f8041716c370c578dfa69aea183a4110c1482e503a4fc889c2f4",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "hibisco-A-1": {
+      "status": "aprovada",
+      "sha256": "91c5a877c70e1df433f0863cacafa681ad32e623c4d4fab17ea31cf9e92f3a69",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "hibisco-B-1": {
+      "status": "aprovada",
+      "sha256": "710c04b16ade014e1d2bfe6cbb65ec6271785fe063434c31719ddb9c9b053c80",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "hibisco-D-1": {
+      "status": "aprovada",
+      "sha256": "1749ac27ff2e01a1e562eed3a05046a84c8245052b0458d9e86a533e9339a1ed",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "hibisco-E-1": {
+      "status": "aprovada",
+      "sha256": "3dad1856d9f04056c2483dd6f53e5e7b3e25a0fcb1ad3072120b9b9381582a88",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "hortela-A-1": {
+      "status": "aprovada",
+      "sha256": "b90cad320059fbd1b2bbbb0e8a15bc0733cec9306cc25b9fb24ae8efdf5f4eff",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "hortela-B-1": {
+      "status": "reprovada",
+      "sha256": "510e4fe6c0a0d8ae7035688c67a412dfdf76e7c72d9f86146f207a01c98961c5",
+      "data": "2026-10-28",
+      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+    },
+    "hortela-C-1": {
+      "status": "aprovada",
+      "sha256": "640bb3e9e332a8c60b28cfee85372d56bd4676547e8a58ccd12c83f7a2a62ba0",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "hortela-D-1": {
+      "status": "aprovada",
+      "sha256": "76a7d8410c25cf52c2ce9328900a8ccf4797440a49b5f579f3722860ba82dea5",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "jiboia-E-1": {
+      "status": "duvida",
+      "sha256": "b97984eff4b1efe628748bf40fa07db11fa23cc7c13d1aca6d1eee1163f7a943",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "lavanda-A-1": {
+      "status": "aprovada",
+      "sha256": "bfdcfc8e1f7e9382313f8f43af33c46253fe0353da0549b709184b9b0a06edde",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "lavanda-B-1": {
+      "status": "aprovada",
+      "sha256": "174e6572d778be0e87b0a9f07610f2023b56276bcd935a91bb3f6247c3bd4730",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "lavanda-C-1": {
+      "status": "aprovada",
+      "sha256": "5d47a58d6d9094c1e8fae76b103618dec0af745e9c5fb2bf1e2e5d6cc4575cc3",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "lirio-da-paz-A-1": {
+      "status": "aprovada",
+      "sha256": "bb9f6e755df0544b34174ecf055bae2cbce2b3fd60e769bf243a1a4b3a80181b",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "lirio-da-paz-B-1": {
+      "status": "reprovada",
+      "sha256": "bafa39fffffda6a21368c31b7e6b602bf4e0f1427eab12fef63a4fbc1d8ea03d",
+      "data": "2026-10-28",
+      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+    },
+    "lirio-da-paz-C-1": {
+      "status": "aprovada",
+      "sha256": "8de5904d422747db6dae2d1ba25c2ae5503d530e15814ba8addd94508ffce3ac",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "lirio-da-paz-D-1": {
+      "status": "aprovada",
+      "sha256": "7595f1f06ca22470b73990daae188dfcf02887aa5530a1816dbd8b1ccea7178b",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "lirio-da-paz-E-1": {
+      "status": "duvida",
+      "sha256": "9b796eec4738588862de4c24b41b50e2df88d7c93feff9c0cac0dcae78a4e6ab",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "manjericao-A-1": {
+      "status": "aprovada",
+      "sha256": "4c7881cedd7bbff71a3c59e3000a4466c56571c911db45b73ce0a18489009d6b",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "manjericao-B-1": {
+      "status": "aprovada",
+      "sha256": "747f5196a76fe6796f53b95ffc869c890e4fae587dc470f0381396849c7c0ca9",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "manjericao-C-1": {
+      "status": "aprovada",
+      "sha256": "0b1cc8580bf0ec33539e10294829a575d523958cfe6cf16eddedd03ebe415b9d",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "manjericao-D-1": {
+      "status": "aprovada",
+      "sha256": "2003f519e8f77ff11a41675f5bcc85296e5ab2d160058c90562e1160b1b5ccf4",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "manjericao-E-1": {
+      "status": "duvida",
+      "sha256": "8823280ddc50985eb5fd736c11e2956cbc18d59ca9d8b383774e19342add10dd",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "maranta-B-1": {
+      "status": "aprovada",
+      "sha256": "bfd41c8a4b5c770a9baafdc361eaa8d352685b842500fd1d7a8c16344cd50bb5",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "maranta-C-1": {
+      "status": "aprovada",
+      "sha256": "979c55f3ad3c7a36bb60a88c2a11a09b5d7cc50d4e8800c3a1f70c5c3e9d981e",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "maranta-D-1": {
+      "status": "duvida",
+      "sha256": "ccfe1bfa87128c9e266c55ed71638e647e0f4125c381a99907cb506237ffde97",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "morango-A-1": {
+      "status": "reprovada",
+      "sha256": "bdde7352d52019765dd96b94e9eaae7241d7a1cfa5623ab8d341fe6449dcdfa8",
+      "data": "2026-10-28",
+      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+    },
+    "morango-B-1": {
+      "status": "duvida",
+      "sha256": "7f4990b31341a24c2489e73904648751b276a00224ea169c2e2472cdf531b60e",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "morango-C-1": {
+      "status": "aprovada",
+      "sha256": "1f462719fc60bd17ff6917782883522082d80fad3bf17b497b086a48b06acf8c",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "morango-D-1": {
+      "status": "aprovada",
+      "sha256": "d472839cb290f42b25beaa1e9c5e83d3caed7738563ef5da9250f0e07f0e785e",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "morango-E-1": {
+      "status": "aprovada",
+      "sha256": "d613aa4d847d8922d0a9c91170237014ab9057e1007fceeb3c642e54189f8733",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "orquidea-A-1": {
+      "status": "aprovada",
+      "sha256": "eeb96326c1c81aa77814c9c7cb53a6121a8025bdbbe43c464af8827fe9adf473",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "orquidea-B-1": {
+      "status": "reprovada",
+      "sha256": "ee4c27b451443ca626a3353762de26e45cc92ebc92fd44626f3ee25085eba779",
+      "data": "2026-10-28",
+      "motivo": "faixa branca vazia no topo da imagem (rosto ok)"
+    },
+    "orquidea-C-1": {
+      "status": "aprovada",
+      "sha256": "21ea5425b621532ced8368a1dbee54c0b768206d9202527bd03b58dfb0ae94b0",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "orquidea-D-1": {
+      "status": "aprovada",
+      "sha256": "568f385536c3360372b0083695bf888c9e6a53bc8d4cf863034959227f208a84",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "orquidea-E-1": {
+      "status": "aprovada",
+      "sha256": "3b2244e5578f4f37b1dc7ddf44450b3df852d9f45a6e561bade5af8164365ac8",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "peperomia-A-1": {
+      "status": "aprovada",
+      "sha256": "4ada5adffd10a23c3bf8d61db9e674d87e479226a460fc294a3a73dd27db998d",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "peperomia-B-1": {
+      "status": "duvida",
+      "sha256": "136e42249e903bba1648b651e019d419610412a9f79501284ba0eceee5640328",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "peperomia-C-1": {
+      "status": "duvida",
+      "sha256": "baacdb1ebd1f7f8471356409b4c7c3d19014e5e88e24dfd34e764908d95cac49",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "peperomia-D-1": {
+      "status": "aprovada",
+      "sha256": "c23da5e835cebb7bb5fd3004479b2520a9d7bda7e75621b26882a5d7cea14c55",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "peperomia-E-1": {
+      "status": "duvida",
+      "sha256": "321ae6b4f6a4f02b4d9d4173079796402e277165c3cb6b62b1e0c3a81a5455d3",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "pimenta-A-1": {
+      "status": "aprovada",
+      "sha256": "6f2322662246c5daed3f4c6e03f1809cb80dba66c133f52933485f901dffa718",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "pimenta-B-1": {
+      "status": "aprovada",
+      "sha256": "ee13aec219d7ad3545559c748808169a110ced6cbff60fe74426cf72722be80a",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "pimenta-C-1": {
+      "status": "aprovada",
+      "sha256": "3a9c2a5f90fd7cdefe610999cfd1aa04fec68985a20a511a1b39aa80a4f55cef",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "pimenta-D-1": {
+      "status": "aprovada",
+      "sha256": "50bfe4f1783b7e1d8bcc933ed9c3c5fdb94eacc7808f1d0fcd9f127a60f3c906",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "rosa-do-deserto-A-1": {
+      "status": "reprovada",
+      "sha256": "8f885cd83c653f8e379046d29b097bfbc08ee913d0236888defb701f0794a0d9",
+      "data": "2026-10-28",
+      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+    },
+    "rosa-do-deserto-B-1": {
+      "status": "aprovada",
+      "sha256": "e24c6c87faa5c0f0b4856006f564a9a109919a5cd91cdd90ccef6e5577b5e007",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "rosa-do-deserto-C-1": {
+      "status": "aprovada",
+      "sha256": "34a8f3f75eedde7fdd01a69e1500d136c643a149f107091e6dcdee39e50efd31",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "rosa-do-deserto-D-1": {
+      "status": "aprovada",
+      "sha256": "1d1a4e81558b96b8a8ff45b5ac2f674c1f93a3779dad2e144719ca41e083f8ff",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "rosa-do-deserto-E-1": {
+      "status": "duvida",
+      "sha256": "97c1f16bd6b8d6f8ccd8cb6d78d99a6c3db8d0baf70f0974a03db9a5130f06ee",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "samambaia-A-1": {
+      "status": "aprovada",
+      "sha256": "4fd56935cef71f94a976046d5dcf0adf3f0a0ba77e119d46bc0ee1d4b5071dd8",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "samambaia-C-1": {
+      "status": "aprovada",
+      "sha256": "270f99bba6ab5c31aab4992b9bd3735c10a476c66da9705d7d588f175dc45e2a",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "samambaia-E-1": {
+      "status": "duvida",
+      "sha256": "8ffc133efce6b087b3e7857e10d241dfddb02d3b86a5599489a09881d02b94d4",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "suculenta-A-1": {
+      "status": "reprovada",
+      "sha256": "87af6d9f138662864cb12debddd02bac3c8cb1f09b1183d7212c5b3382456a2c",
+      "data": "2026-10-28",
+      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+    },
+    "suculenta-B-1": {
+      "status": "reprovada",
+      "sha256": "77b6cff30ce4a72263a2fb3e32a67d452cf36f0c460a8d987210e75c7817367f",
+      "data": "2026-10-28",
+      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+    },
+    "suculenta-C-1": {
+      "status": "duvida",
+      "sha256": "d465bee61b088c6340b4b5f809cc0fde168328b9110f55d72b39cd376e430191",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "suculenta-D-1": {
+      "status": "reprovada",
+      "sha256": "f43de4d925b17605776f9d685bf3f19224baaee11c745f2a21a691dabb4e2114",
+      "data": "2026-10-28",
+      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+    },
+    "suculenta-E-1": {
+      "status": "duvida",
+      "sha256": "55d2eaeb05d822bac85d4e4fb6b60aa5e5c2c4aa3eaa741035e2825a4c2d30c8",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "tomate-A-1": {
+      "status": "reprovada",
+      "sha256": "6f8af41b87183e843289bd3cb0db35cdf938ee38590d9eb2e8f07348f32d0f0f",
+      "data": "2026-10-28",
+      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+    },
+    "tomate-B-1": {
+      "status": "aprovada",
+      "sha256": "0a47114023720bf5116a975a5fe3a662e905887aea18e4f611e31a01199b53eb",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "tomate-C-1": {
+      "status": "aprovada",
+      "sha256": "9c20f66a80be9c46a3633c6be01cbecb46f10c1293c2934a7febf22df0f81f19",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "tomate-D-1": {
+      "status": "aprovada",
+      "sha256": "d177ca7018547129d869fd397a0526d118b5b447c853efc0012e0b6cdc08be92",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "tomate-E-1": {
+      "status": "aprovada",
+      "sha256": "065e4c3a9a4146f0c1efbf85993f55f01aaf3daf4d8eee6eb8c6fab9a0600476",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "zamioculca-A-1": {
+      "status": "aprovada",
+      "sha256": "79bc3f5c5163b94995aef9cf4197c43f5abdbc637d00ebfebe8d77d8fb88540e",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "zamioculca-B-1": {
+      "status": "aprovada",
+      "sha256": "e9f3c1ebb1c7da143b388fd5b9a637f7c69d90f238ead932e669ed2e0d87fef8",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "zamioculca-C-1": {
+      "status": "aprovada",
+      "sha256": "9268766904b5ce9e2608322576c2b67c7895c5ba45ec2cb74ec81d0b5e8ac321",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "zamioculca-D-1": {
+      "status": "aprovada",
+      "sha256": "4f1aee4f357e1305ef5683ca75f75b87854061c1a04f3d8fecd6195cc93c6d4e",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "zamioculca-E-1": {
+      "status": "duvida",
+      "sha256": "7df94eb43d4580bae6573fc33721945e0a38cf8237eeb5cc8f66752607bbd2b7",
+      "data": "2026-10-28",
+      "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    }
+  }
+}

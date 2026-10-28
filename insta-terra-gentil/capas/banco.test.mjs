@@ -4,6 +4,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
+import { hashDoArquivo, marcar } from './revisao.mjs';
 import { capaDoDia, capasDaEspecie, escolherCapa, lerPosts, vezesAntes } from './banco.mjs';
 
 function banco() {
@@ -44,12 +45,31 @@ test('capaDoDia troca a capa a cada post e cai em null sem catálogo ou sem banc
   const pastaBanco = banco();
   const catalogo = { Phalaenopsis: { slug: 'orquidea' }, 'Aloe vera': { slug: 'babosa' } };
   const posts = [{ dia: '2026-10-01', especie: 'Phalaenopsis' }];
-  const opcoes = { catalogo, pastaBanco, posts };
+  let revisao = {};
+  for (const n of ['A', 'B', 'C']) {
+    const caminho = path.join(pastaBanco, 'orquidea', `orquidea-${n}-1.jpg`);
+    revisao = marcar(revisao, `orquidea-${n}-1`, 'aprovada', hashDoArquivo(caminho));
+  }
+  const opcoes = { catalogo, pastaBanco, posts, revisao };
   const nome = (dia) => path.basename(capaDoDia('Phalaenopsis', dia, opcoes).caminho);
   assert.equal(nome('2026-10-01'), 'orquidea-A-1.jpg');
   assert.equal(nome('2026-11-01'), 'orquidea-B-1.jpg');
   assert.equal(capaDoDia('Aloe vera', '2026-11-01', opcoes), null);
   assert.equal(capaDoDia('Ficus', '2026-11-01', opcoes), null);
+  fs.rmSync(pastaBanco, { recursive: true });
+});
+
+test('capaDoDia nunca entrega capa reprovada, em dúvida, alterada ou sem revisão', () => {
+  const pastaBanco = banco();
+  const catalogo = { Phalaenopsis: { slug: 'orquidea' } };
+  const hash = (n) => hashDoArquivo(path.join(pastaBanco, 'orquidea', `orquidea-${n}-1.jpg`));
+  let revisao = marcar({}, 'orquidea-A-1', 'reprovada', hash('A'));
+  revisao = marcar(revisao, 'orquidea-B-1', 'duvida', hash('B'));
+  revisao = marcar(revisao, 'orquidea-C-1', 'aprovada', 'hash-de-outro-arquivo');
+  const opcoes = { catalogo, pastaBanco, posts: [], revisao };
+  assert.equal(capaDoDia('Phalaenopsis', '2026-11-01', opcoes), null);
+  const semRevisao = { catalogo, pastaBanco, posts: [] };
+  assert.throws(() => capaDoDia('Phalaenopsis', '2026-11-01', semRevisao));
   fs.rmSync(pastaBanco, { recursive: true });
 });
 

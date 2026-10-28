@@ -2,6 +2,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { lerJson } from '../lib/json.mjs';
+import { hashDoArquivo, vale } from './revisao.mjs';
 
 const IMAGEM = /\.(jpe?g|png|webp)$/i;
 
@@ -37,11 +38,16 @@ export function lerPosts(pasta) {
     .map((nome) => ({ dia: nome.slice(0, 10), especie: lerJson(path.join(pasta, nome)).especie }));
 }
 
-// catalogo = dados/capas.json .especies. Devolve { caminho, credito } ou null (sem capa).
-export function capaDoDia(especie, dia, { catalogo, pastaBanco, posts }) {
+// catalogo = dados/capas.json .especies. revisao = capas/banco/revisao.json (lerRevisao).
+// Só entra capa aprovada e intacta; sem a revisão nada é entregue.
+// Devolve { caminho, credito } ou null.
+export function capaDoDia(especie, dia, { catalogo, pastaBanco, posts, revisao }) {
+  if (!revisao) throw new Error('[capas] sem a revisão do banco, nenhuma capa pode ser usada');
   const entrada = catalogo[especie];
   if (!entrada) return null;
-  const capas = capasDaEspecie(entrada.slug, pastaBanco);
-  const caminho = escolherCapa(capas, vezesAntes(especie, posts, dia));
+  const idDe = (c) => path.basename(c, path.extname(c));
+  const aprovadas = capasDaEspecie(entrada.slug, pastaBanco)
+    .filter((c) => vale(revisao, idDe(c), hashDoArquivo(c)));
+  const caminho = escolherCapa(aprovadas, vezesAntes(especie, posts, dia));
   return caminho ? { caminho, credito: 'Foto: Terra Gentil' } : null;
 }

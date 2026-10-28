@@ -1,6 +1,6 @@
 // Tratamento da foto de fundo (roda na página): realce por resolução, desfoque e gradiente.
 // Princípio do setlist: foto pequena ganha afiação e grão, e o texto ganha fundo legível.
-export function tratarFoto({ largura, altura, fotoLimpa = false, capa = false }) {
+export function tratarFoto({ largura, altura, fotoLimpa = false, capa = false, pessoa = false }) {
   const NS = 'http://www.w3.org/2000/svg';
   const foto = document.querySelector('img[style*="object-fit"]');
   const base = foto?.parentElement?.matches('[style*="inset: 0"]') ? foto.parentElement : foto;
@@ -44,7 +44,8 @@ export function tratarFoto({ largura, altura, fotoLimpa = false, capa = false })
     // Desfoque atrás do texto, mais forte embaixo, onde ficam as faixas.
     const mascara = 'linear-gradient(to bottom, transparent 12%, #000 45%)';
     // Na capa a planta é a protagonista: desfoque e véu leves, só o bastante para o texto ler.
-    const [desfoque, veu] = capa ? [3, 0.12] : [10, 0.3];
+    // Capa com o André: sem desfoque nem véu, para a logo da camiseta e do boné ficarem nítidas.
+    const [desfoque, veu] = pessoa ? [0, 0] : capa ? [3, 0.12] : [10, 0.3];
     nova(`backdrop-filter:blur(${desfoque}px);background:rgba(11,20,16,${veu});` +
       `-webkit-mask-image:${mascara};mask-image:${mascara}`);
     // Gradiente de topo e base (o g02 do setlist): segura o contador e o rodapé.

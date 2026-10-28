@@ -8,6 +8,7 @@
 - Faltam: 4 jiboia A a D (2K so na conta antiga), 10 reprovadas, 82 nao geradas (lavanda D E, salsinha, violeta, bromelia, jabuticabeira, limoeiro, girassol, roseira, buganvilia, comigo-ninguem-pode, bambu-da-sorte, 10 coringas x3). Lista em `insta-terra-gentil/saida/faltam.json`.
 - Mantido: PC sem dormir (processo PowerShell), aba da ferramenta Capas TG aberta na conta da Pamela (nao recarregar: a fila e as prontas ficam na pagina).
 - **Tentativa das 02:03 (28/10): limite NAO zerou.** Desmarquei as 53 prontas (selecao em 82 pendentes), confirmei, e voltou "Limite diario provavelmente atingido" na hora (contador seguiu em 53). Reset nao e antes de 2h BRT. Proxima tentativa agendada para 28/10 04:08 (cron 3414e7f8); a selecao de 82 fica na aba.
+- **Tentativa das 04:08 (28/10): limite continua.** Mesmo erro, contador em 53. Reset NAO e meia-noite do Pacifico; pode ser janela movel de 24h (primeiras geracoes foram na tarde de 27/10). Proxima tentativa 28/10 06:13 (cron).
 
 ## HANDOFF FINAL (28/10/2026, noite): 135 capas gerando na conta da Pamela
 

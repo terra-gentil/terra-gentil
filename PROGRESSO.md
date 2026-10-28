@@ -1,5 +1,10 @@
 # PROGRESSO Terra Gentil
 
+## LOTE DAS 82 CAPAS GERADO E BAIXADO (28/10/2026, noite): FALTA VISTORIAR
+Flow terminou: **82 de 82 prontas, 0 avisos, sem erro de limite** (lavanda-D-1 mais as 81 da fila). Baixadas em 1K (896x1200) e guardadas em `Documents\Terra Gentil\lote82-1k\` (82 JPG nomeados pelo id da capa). Folhas de vistoria de 4 capas (540x675, com o id escrito) em `lote82-1kolhasolha_01..21.jpg`.
+**Proximo passo exato:** (1) vistoriar as 21 folhas capa por capa contra as 6 fotos de referencia (rosto igual ao do Andre, barba curta, logo TERRA GENTIL certa na camiseta e no bone, icone, sem faixa branca; clip de microfone no peito e OK); anotar reprovadas; (2) baixar o 2K das aprovadas pela galeria (busca pelo nome cientifico, clique direito, Fazer o download, 2K) e casar com `place2k.py`; (3) `node capas/importar-cli.mjs` por especie (entra pendente), `python -I capas/rosto/verificar_rosto.py --gravar`, aprovar com `revisar-cli.mjs aprovada <id>`; (4) trocar de conta e refazer as 13 reprovadas mais as que reprovarem nesta vistoria. A aba do Flow (Capas TG, conta da Pamela) segue aberta neste PC, nao fechar ate baixar o 2K.
+**Limite do Flow:** confirmado janela de 24h desde o primeiro uso (liberou ~19:35 de 28/10). Cerca de 99 geracoes por conta por janela.
+
 ## PARA PEGAR EM OUTRA MAQUINA (28/10/2026, noite)
 **Tudo do codigo esta no git** (`github.com/terra-gentil/terra-gentil`, main, publico). Antes de clonar: `gh auth switch -u terra-gentil`. Depois `npm install` na raiz e em `insta-terra-gentil/`.
 **NAO viaja pelo git (copiar a mao ou refazer):** `.env.local` (segredos), `insta-terra-gentil/capas/referencias/` (6 fotos do Elenco), `insta-terra-gentil/fotos/`, `insta-terra-gentil/saida/` (filas e previas, regeneraveis com `fila-cli.mjs`), e fora do repo `Documents\Terra Gentil\` (modelos de rosto em `modelos-rosto/`, 2K em `capas-2k/`). Rosto automatico precisa de `pip install opencv-python-headless` e dos modelos. Render local: `TG_CHROME_CANAL=chrome` usa o Chrome instalado (o Chromium do Playwright 1248 nao esta instalado neste PC).

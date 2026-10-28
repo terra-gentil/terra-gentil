@@ -5,6 +5,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { naRaiz } from '../lib/config.mjs';
 import * as indice from './indice.mjs';
+import { lerRosto, rostoConfere } from './rosto.mjs';
 import { STATUS, gravarRevisao, hashDoArquivo, lerRevisao, marcar } from './revisao.mjs';
 
 const args = process.argv.slice(2);
@@ -20,14 +21,20 @@ const pastaBanco = naRaiz('capas', 'banco');
 const pastaReprovadas = naRaiz('capas', 'reprovadas');
 let lista = indice.lerIndice(pastaBanco);
 let capas = lerRevisao(pastaBanco);
+const rosto = lerRosto(pastaBanco);
 const data = new Date().toISOString().slice(0, 10);
 
 for (const id of ids) {
   const entrada = lista.find((c) => c.id === id);
   if (!entrada) throw new Error(`[revisar] ${id} não está no índice do banco`);
   const caminho = path.join(pastaBanco, ...entrada.arquivo.split('/'));
+  const hash = hashDoArquivo(caminho);
+  if (status === 'aprovada' && !rostoConfere(rosto, id, hash)) {
+    const como = 'rode capas/rosto/verificar_rosto.py --gravar';
+    throw new Error(`[revisar] ${id}: rosto não confere com o André (${como})`);
+  }
   const extra = { data, ...(motivo && { motivo }) };
-  capas = marcar(capas, id, status, hashDoArquivo(caminho), extra);
+  capas = marcar(capas, id, status, hash, extra);
   if (status === 'reprovada') {
     const destino = path.join(pastaReprovadas, entrada.slug, path.basename(caminho));
     fs.mkdirSync(path.dirname(destino), { recursive: true });

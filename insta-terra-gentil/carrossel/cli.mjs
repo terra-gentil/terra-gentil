@@ -5,6 +5,7 @@ import { lerJson } from '../lib/json.mjs';
 import { buscarPorPalavra, carregarPalavras } from '../dm/palavras.mjs';
 import { capaDoDia, lerPosts } from '../capas/banco.mjs';
 import { lerRevisao } from '../capas/revisao.mjs';
+import { lerRosto } from '../capas/rosto.mjs';
 import { fotoDoDia } from './foto-do-dia.mjs';
 import { montarDia } from './montar-dia.mjs';
 import { renderizar } from './render.mjs';
@@ -23,7 +24,8 @@ const ebook = post.palavra ? buscarPorPalavra(carregarPalavras(), post.palavra) 
 const { especies: catalogo } = lerJson(path.join(DADOS, 'capas.json'));
 const posts = lerPosts(path.join(DADOS, 'posts'));
 const pastaBanco = naRaiz('capas', 'banco');
-const banco = { catalogo, pastaBanco, posts, revisao: lerRevisao(pastaBanco) };
+const banco = { catalogo, pastaBanco, posts, revisao: lerRevisao(pastaBanco),
+  rosto: lerRosto(pastaBanco) };
 
 const resultado = await montarDia(post, {
   dia,

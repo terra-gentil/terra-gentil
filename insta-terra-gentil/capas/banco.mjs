@@ -3,6 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { lerJson } from '../lib/json.mjs';
 import { hashDoArquivo, vale } from './revisao.mjs';
+import { rostoConfere } from './rosto.mjs';
 
 const IMAGEM = /\.(jpe?g|png|webp)$/i;
 
@@ -39,15 +40,20 @@ export function lerPosts(pasta) {
 }
 
 // catalogo = dados/capas.json .especies. revisao = capas/banco/revisao.json (lerRevisao).
-// Só entra capa aprovada e intacta; sem a revisão nada é entregue.
+// Só entra capa aprovada, intacta e com rosto do André; sem revisão e rosto, nada.
 // Devolve { caminho, credito } ou null.
-export function capaDoDia(especie, dia, { catalogo, pastaBanco, posts, revisao }) {
-  if (!revisao) throw new Error('[capas] sem a revisão do banco, nenhuma capa pode ser usada');
+export function capaDoDia(especie, dia, { catalogo, pastaBanco, posts, revisao, rosto }) {
+  if (!revisao || !rosto) {
+    throw new Error('[capas] sem revisão e nota de rosto, nenhuma capa é usada');
+  }
   const entrada = catalogo[especie];
   if (!entrada) return null;
   const idDe = (c) => path.basename(c, path.extname(c));
   const aprovadas = capasDaEspecie(entrada.slug, pastaBanco)
-    .filter((c) => vale(revisao, idDe(c), hashDoArquivo(c)));
+    .filter((c) => {
+      const hash = hashDoArquivo(c);
+      return vale(revisao, idDe(c), hash) && rostoConfere(rosto, idDe(c), hash);
+    });
   const caminho = escolherCapa(aprovadas, vezesAntes(especie, posts, dia));
   return caminho ? { caminho, credito: 'Foto: Terra Gentil' } : null;
 }

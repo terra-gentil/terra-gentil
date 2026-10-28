@@ -1,0 +1,611 @@
+{
+  "_sobre": "Nota de rosto (cosseno SFace, media das 3 melhores referencias).",
+  "capas": {
+    "alecrim-A-1": {
+      "nota": 0.6957,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "f92d7a366592fe87ff8da56e83324e237eeed9ac7862f6deb8b539dd37201084"
+    },
+    "alecrim-B-1": {
+      "nota": 0.5806,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "edd3cea35f5ee79d9b9a4aae4a82bdfc8c45b889622f87aa29ff7bb8bbcb609f"
+    },
+    "alecrim-C-1": {
+      "nota": 0.689,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "d57f18cc707f8ae385e839a54dbae6c6f446f22c64e90c40bf440ee70988d247"
+    },
+    "alecrim-D-1": {
+      "nota": 0.7111,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "7d7852d185a80341dbf7ea713b8f73f840b33775c0d00a900f5282e82504bc9b"
+    },
+    "alecrim-E-1": {
+      "nota": 0.5854,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "270093b4d42cc30b0a2d77b6b63ad006110a75f68a8cd952f40ddccf8eb7b3a4"
+    },
+    "alface-A-1": {
+      "nota": 0.5697,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "aec906b50542083473bc224e3782c0830b97ba529cc682d2119333fa3558205c"
+    },
+    "alface-B-1": {
+      "nota": 0.6111,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "03e7ac31d755c89df0f620bb4b52231a285c129007570b0ee47c1e38909db4e4"
+    },
+    "alface-C-1": {
+      "nota": 0.7409,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "44e99ef63bcb43797679d3cb5532b8c58beabf9d5d98689481fff5f6c0778924"
+    },
+    "alface-D-1": {
+      "nota": 0.7186,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "d01117e52faa5de289260b3295f012757a2e3910aa07ba35870a4773d20171ca"
+    },
+    "alface-E-1": {
+      "nota": 0.3237,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "c94c95494966f4377a76b74a3fbc8c1fdd76ff1b7f25971d5d33587a7e2c08c8"
+    },
+    "anturio-A-1": {
+      "nota": 0.7077,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "0adb5a958c83a750a34338a78ca90aaadcc6cac5d6dcf40a6ccf97ce2f84801c"
+    },
+    "anturio-B-1": {
+      "nota": 0.6589,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "3cdbf051167e7b4b446eee3245f7b2af7776ca80670eb27a93777a6f2548fbca"
+    },
+    "anturio-C-1": {
+      "nota": 0.7246,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "94aa1d962f4748b21dba34111f4846e07de0c8155493772fcae7ba746dbba087"
+    },
+    "anturio-D-1": {
+      "nota": 0.7231,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "a2a89961ed8b1869fa0e8b992d651bac75994ffb1830f78051699f2b5c4ca645"
+    },
+    "anturio-E-1": {
+      "nota": 0.5811,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "cc0b474c9402096c43c863e808ab088a1916e555711d7908af385bdbeedb2846"
+    },
+    "babosa-B-1": {
+      "nota": 0.6423,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "d6211a8f0fb8294487ef83c0bc85a213695cebbe41c9cace44657fe5be37fc37"
+    },
+    "babosa-C-1": {
+      "nota": 0.7205,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "847699672d3e572fb8b7b895623606c52aff3bd3aabe2e505943a53e4675729a"
+    },
+    "babosa-D-1": {
+      "nota": 0.7443,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "34acc2fb73152fcdb7f7b4750184300bc8cdc9bcd53c6547bedffcba73c6be47"
+    },
+    "babosa-E-1": {
+      "nota": 0.5546,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "46c59ee58f40a39c78a05eab1c6f821989d22d26f46fd7531be302efa901c917"
+    },
+    "begonia-A-1": {
+      "nota": 0.6774,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "562cef8ce4d412457adadcd731062604ddfcdf375c4f16822e7820d73ff70ef0"
+    },
+    "begonia-B-1": {
+      "nota": 0.6174,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "f32214d947ab86ffddc6fc9e374e6e76c53e73aa12809f1edddc89a9adce860d"
+    },
+    "begonia-C-1": {
+      "nota": 0.724,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "c9e7a7dbaf59ae6f2584bad3d99ec76387d920daba0e1784fde0415f8647b745"
+    },
+    "begonia-D-1": {
+      "nota": 0.6967,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "3a3b129d2a7122942e2507ae7934e15b70fa4ddfc146f4083749beac2c4ee37b"
+    },
+    "begonia-E-1": {
+      "nota": 0.4304,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b614124556f5711a8c33c758e7744d488ce0f56a3509f63b47f82432e5f6e1b6"
+    },
+    "cacto-A-1": {
+      "nota": 0.734,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "40833fcb8849d11ed292edb3fd57434b544ac21a23b3f699278e53ae516eee7c"
+    },
+    "cacto-B-1": {
+      "nota": 0.5823,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "42e11e2a77e1a1eb9fc10d91dc1e9b1ac91011d91baa345ee074c474d66a6dfe"
+    },
+    "cacto-C-1": {
+      "nota": 0.6914,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "224224ab83acd6831a6490d8b1e841b6c778c8239d2e8c0487250c620524657c"
+    },
+    "cebolinha-A-1": {
+      "nota": 0.6642,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "c110de2c8d1ef290bba889b2a701e1610f20101750c2e776a9543d8dca0b655e"
+    },
+    "cebolinha-B-1": {
+      "nota": 0.6824,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "905ce29271797d4e0a8500892c3a76d6e4afc87c7f9e1eed4ed1be6cfb72b3fe"
+    },
+    "cebolinha-C-1": {
+      "nota": 0.7366,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "4b29df60f61e7976424cd2a2d4074dff81f06aa612ad614a10337484e48b0553"
+    },
+    "cebolinha-D-1": {
+      "nota": 0.7412,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "a11111ad52bd2fbe59e6d8916a8d6449dcf22dfbe3775c531cf6a76b151b34c1"
+    },
+    "cebolinha-E-1": {
+      "nota": 0.4666,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "cedfe48e695d97c400d1e68918066e2683e15ad8b70bb1c1076be00b9ee07593"
+    },
+    "costela-de-adao-B-1": {
+      "nota": 0.6142,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "2b1f44bc7733b30aac016eb10c7cfbc5d61211ed961e3365608d2cb98752d71c"
+    },
+    "costela-de-adao-C-1": {
+      "nota": 0.7126,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "22ef066e4c1c132aa0d56fddab2ad5e2d7f11a4d98af615f7cf540828bb1ce3f"
+    },
+    "costela-de-adao-E-1": {
+      "nota": 0.5372,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "d44fa362952bd7ad2ffe1722612a415f023707ce8b24f21b183d8d5a2a9dbb04"
+    },
+    "espada-de-sao-jorge-A-1": {
+      "nota": 0.6672,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "7b05deecdd80d5201fc5372fef7349ae3f50954b6f7ec09116f72f24fb38250e"
+    },
+    "espada-de-sao-jorge-C-1": {
+      "nota": 0.76,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "7bd2e9156a8a7b6fa3f78d2d9ea725fe33de5e516d77fad4a979dc5e338a9e87"
+    },
+    "espada-de-sao-jorge-D-1": {
+      "nota": 0.7026,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "a456333df515bacef45c4ecc874f654a0f11061c24b3da2e3718b8a27a673fef"
+    },
+    "espada-de-sao-jorge-E-1": {
+      "nota": 0.4221,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "46264ce23d51443897d581401231a71e25daf7223cdf63562146715c36b69e15"
+    },
+    "grama-A-1": {
+      "nota": 0.6402,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b438f1ed4b60e28b76d88a766081ba03963962f9d966db1f2d7595bc35d10017"
+    },
+    "grama-C-1": {
+      "nota": 0.7959,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "8af53b81673414badca7ced8e0c29f8c5a06b5b942b020a07fe52bf05a47f76b"
+    },
+    "grama-D-1": {
+      "nota": 0.7756,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "020d98080c2b3567c2b82b7eb0c6ab498722538a153cbb42d6fbb441dd10335b"
+    },
+    "grama-E-1": {
+      "nota": 0.4125,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "d689af2f5f88f8041716c370c578dfa69aea183a4110c1482e503a4fc889c2f4"
+    },
+    "hibisco-A-1": {
+      "nota": 0.6363,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "91c5a877c70e1df433f0863cacafa681ad32e623c4d4fab17ea31cf9e92f3a69"
+    },
+    "hibisco-B-1": {
+      "nota": 0.5917,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "710c04b16ade014e1d2bfe6cbb65ec6271785fe063434c31719ddb9c9b053c80"
+    },
+    "hibisco-D-1": {
+      "nota": 0.7389,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "1749ac27ff2e01a1e562eed3a05046a84c8245052b0458d9e86a533e9339a1ed"
+    },
+    "hibisco-E-1": {
+      "nota": 0.5859,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "3dad1856d9f04056c2483dd6f53e5e7b3e25a0fcb1ad3072120b9b9381582a88"
+    },
+    "hortela-A-1": {
+      "nota": 0.6521,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b90cad320059fbd1b2bbbb0e8a15bc0733cec9306cc25b9fb24ae8efdf5f4eff"
+    },
+    "hortela-C-1": {
+      "nota": 0.7348,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "640bb3e9e332a8c60b28cfee85372d56bd4676547e8a58ccd12c83f7a2a62ba0"
+    },
+    "hortela-D-1": {
+      "nota": 0.7492,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "76a7d8410c25cf52c2ce9328900a8ccf4797440a49b5f579f3722860ba82dea5"
+    },
+    "jiboia-E-1": {
+      "nota": 0.4645,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b97984eff4b1efe628748bf40fa07db11fa23cc7c13d1aca6d1eee1163f7a943"
+    },
+    "lavanda-A-1": {
+      "nota": 0.7057,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "bfdcfc8e1f7e9382313f8f43af33c46253fe0353da0549b709184b9b0a06edde"
+    },
+    "lavanda-B-1": {
+      "nota": 0.5291,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "174e6572d778be0e87b0a9f07610f2023b56276bcd935a91bb3f6247c3bd4730"
+    },
+    "lavanda-C-1": {
+      "nota": 0.7449,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "5d47a58d6d9094c1e8fae76b103618dec0af745e9c5fb2bf1e2e5d6cc4575cc3"
+    },
+    "lirio-da-paz-A-1": {
+      "nota": 0.68,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "bb9f6e755df0544b34174ecf055bae2cbce2b3fd60e769bf243a1a4b3a80181b"
+    },
+    "lirio-da-paz-C-1": {
+      "nota": 0.741,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "8de5904d422747db6dae2d1ba25c2ae5503d530e15814ba8addd94508ffce3ac"
+    },
+    "lirio-da-paz-D-1": {
+      "nota": 0.7538,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "7595f1f06ca22470b73990daae188dfcf02887aa5530a1816dbd8b1ccea7178b"
+    },
+    "lirio-da-paz-E-1": {
+      "nota": 0.5803,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "9b796eec4738588862de4c24b41b50e2df88d7c93feff9c0cac0dcae78a4e6ab"
+    },
+    "manjericao-A-1": {
+      "nota": 0.6353,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "4c7881cedd7bbff71a3c59e3000a4466c56571c911db45b73ce0a18489009d6b"
+    },
+    "manjericao-B-1": {
+      "nota": 0.5845,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "747f5196a76fe6796f53b95ffc869c890e4fae587dc470f0381396849c7c0ca9"
+    },
+    "manjericao-C-1": {
+      "nota": 0.6683,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "0b1cc8580bf0ec33539e10294829a575d523958cfe6cf16eddedd03ebe415b9d"
+    },
+    "manjericao-D-1": {
+      "nota": 0.698,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "2003f519e8f77ff11a41675f5bcc85296e5ab2d160058c90562e1160b1b5ccf4"
+    },
+    "manjericao-E-1": {
+      "nota": 0.5706,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "8823280ddc50985eb5fd736c11e2956cbc18d59ca9d8b383774e19342add10dd"
+    },
+    "maranta-B-1": {
+      "nota": 0.5804,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "bfd41c8a4b5c770a9baafdc361eaa8d352685b842500fd1d7a8c16344cd50bb5"
+    },
+    "maranta-C-1": {
+      "nota": 0.7172,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "979c55f3ad3c7a36bb60a88c2a11a09b5d7cc50d4e8800c3a1f70c5c3e9d981e"
+    },
+    "maranta-D-1": {
+      "nota": 0.6962,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "ccfe1bfa87128c9e266c55ed71638e647e0f4125c381a99907cb506237ffde97"
+    },
+    "morango-B-1": {
+      "nota": 0.6279,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "7f4990b31341a24c2489e73904648751b276a00224ea169c2e2472cdf531b60e"
+    },
+    "morango-C-1": {
+      "nota": 0.6933,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "1f462719fc60bd17ff6917782883522082d80fad3bf17b497b086a48b06acf8c"
+    },
+    "morango-D-1": {
+      "nota": 0.7026,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "d472839cb290f42b25beaa1e9c5e83d3caed7738563ef5da9250f0e07f0e785e"
+    },
+    "morango-E-1": {
+      "nota": 0.5375,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "d613aa4d847d8922d0a9c91170237014ab9057e1007fceeb3c642e54189f8733"
+    },
+    "orquidea-A-1": {
+      "nota": 0.6843,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "eeb96326c1c81aa77814c9c7cb53a6121a8025bdbbe43c464af8827fe9adf473"
+    },
+    "orquidea-C-1": {
+      "nota": 0.7507,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "21ea5425b621532ced8368a1dbee54c0b768206d9202527bd03b58dfb0ae94b0"
+    },
+    "orquidea-D-1": {
+      "nota": 0.7593,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "568f385536c3360372b0083695bf888c9e6a53bc8d4cf863034959227f208a84"
+    },
+    "orquidea-E-1": {
+      "nota": 0.6029,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "3b2244e5578f4f37b1dc7ddf44450b3df852d9f45a6e561bade5af8164365ac8"
+    },
+    "peperomia-A-1": {
+      "nota": 0.6445,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "4ada5adffd10a23c3bf8d61db9e674d87e479226a460fc294a3a73dd27db998d"
+    },
+    "peperomia-B-1": {
+      "nota": 0.3281,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "136e42249e903bba1648b651e019d419610412a9f79501284ba0eceee5640328"
+    },
+    "peperomia-C-1": {
+      "nota": 0.7538,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "baacdb1ebd1f7f8471356409b4c7c3d19014e5e88e24dfd34e764908d95cac49"
+    },
+    "peperomia-D-1": {
+      "nota": 0.7327,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "c23da5e835cebb7bb5fd3004479b2520a9d7bda7e75621b26882a5d7cea14c55"
+    },
+    "peperomia-E-1": {
+      "nota": 0.5299,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "321ae6b4f6a4f02b4d9d4173079796402e277165c3cb6b62b1e0c3a81a5455d3"
+    },
+    "pimenta-A-1": {
+      "nota": 0.66,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "6f2322662246c5daed3f4c6e03f1809cb80dba66c133f52933485f901dffa718"
+    },
+    "pimenta-B-1": {
+      "nota": 0.6186,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "ee13aec219d7ad3545559c748808169a110ced6cbff60fe74426cf72722be80a"
+    },
+    "pimenta-C-1": {
+      "nota": 0.7495,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "3a9c2a5f90fd7cdefe610999cfd1aa04fec68985a20a511a1b39aa80a4f55cef"
+    },
+    "pimenta-D-1": {
+      "nota": 0.7277,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "50bfe4f1783b7e1d8bcc933ed9c3c5fdb94eacc7808f1d0fcd9f127a60f3c906"
+    },
+    "rosa-do-deserto-B-1": {
+      "nota": 0.481,
+      "rostos": 3,
+      "onde": "banco",
+      "sha256": "e24c6c87faa5c0f0b4856006f564a9a109919a5cd91cdd90ccef6e5577b5e007"
+    },
+    "rosa-do-deserto-C-1": {
+      "nota": 0.7334,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "34a8f3f75eedde7fdd01a69e1500d136c643a149f107091e6dcdee39e50efd31"
+    },
+    "rosa-do-deserto-D-1": {
+      "nota": 0.6948,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "1d1a4e81558b96b8a8ff45b5ac2f674c1f93a3779dad2e144719ca41e083f8ff"
+    },
+    "rosa-do-deserto-E-1": {
+      "nota": 0.5521,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "97c1f16bd6b8d6f8ccd8cb6d78d99a6c3db8d0baf70f0974a03db9a5130f06ee"
+    },
+    "samambaia-A-1": {
+      "nota": 0.6365,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "4fd56935cef71f94a976046d5dcf0adf3f0a0ba77e119d46bc0ee1d4b5071dd8"
+    },
+    "samambaia-C-1": {
+      "nota": 0.727,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "270f99bba6ab5c31aab4992b9bd3735c10a476c66da9705d7d588f175dc45e2a"
+    },
+    "samambaia-E-1": {
+      "nota": 0.4514,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "8ffc133efce6b087b3e7857e10d241dfddb02d3b86a5599489a09881d02b94d4"
+    },
+    "suculenta-C-1": {
+      "nota": 0.7097,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "d465bee61b088c6340b4b5f809cc0fde168328b9110f55d72b39cd376e430191"
+    },
+    "suculenta-E-1": {
+      "nota": 0.4627,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "55d2eaeb05d822bac85d4e4fb6b60aa5e5c2c4aa3eaa741035e2825a4c2d30c8"
+    },
+    "tomate-B-1": {
+      "nota": 0.5521,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "0a47114023720bf5116a975a5fe3a662e905887aea18e4f611e31a01199b53eb"
+    },
+    "tomate-C-1": {
+      "nota": 0.6947,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "9c20f66a80be9c46a3633c6be01cbecb46f10c1293c2934a7febf22df0f81f19"
+    },
+    "tomate-D-1": {
+      "nota": 0.7272,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "d177ca7018547129d869fd397a0526d118b5b447c853efc0012e0b6cdc08be92"
+    },
+    "tomate-E-1": {
+      "nota": 0.5024,
+      "rostos": 3,
+      "onde": "banco",
+      "sha256": "065e4c3a9a4146f0c1efbf85993f55f01aaf3daf4d8eee6eb8c6fab9a0600476"
+    },
+    "zamioculca-A-1": {
+      "nota": 0.7049,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "79bc3f5c5163b94995aef9cf4197c43f5abdbc637d00ebfebe8d77d8fb88540e"
+    },
+    "zamioculca-B-1": {
+      "nota": 0.625,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "e9f3c1ebb1c7da143b388fd5b9a637f7c69d90f238ead932e669ed2e0d87fef8"
+    },
+    "zamioculca-C-1": {
+      "nota": 0.7585,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "9268766904b5ce9e2608322576c2b67c7895c5ba45ec2cb74ec81d0b5e8ac321"
+    },
+    "zamioculca-D-1": {
+      "nota": 0.6805,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "4f1aee4f357e1305ef5683ca75f75b87854061c1a04f3d8fecd6195cc93c6d4e"
+    },
+    "zamioculca-E-1": {
+      "nota": 0.0556,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "7df94eb43d4580bae6573fc33721945e0a38cf8237eeb5cc8f66752607bbd2b7"
+    }
+  }
+}

@@ -589,6 +589,12 @@
       "onde": "banco",
       "sha256": "9c13d92f67213d9a245b50e8d446674a6b70461678c67cbf4a21c72a563ecd63"
     },
+    "jiboia-B-1": {
+      "nota": 0.6431,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b9af8238b85b5f0671740497a85c5e4d517fb25d2b7b16a01bb4e6bd8bcaf9a5"
+    },
     "jiboia-E-1": {
       "nota": 0.4645,
       "rostos": 1,
@@ -654,6 +660,12 @@
       "rostos": 1,
       "onde": "banco",
       "sha256": "bb9f6e755df0544b34174ecf055bae2cbce2b3fd60e769bf243a1a4b3a80181b"
+    },
+    "lirio-da-paz-B-1": {
+      "nota": 0.6005,
+      "rostos": 3,
+      "onde": "banco",
+      "sha256": "5a2554d157f103eac85e824abfb375122208704fa511d87c58e6abf44f045e33"
     },
     "lirio-da-paz-C-1": {
       "nota": 0.741,
@@ -823,6 +835,12 @@
       "onde": "banco",
       "sha256": "50bfe4f1783b7e1d8bcc933ed9c3c5fdb94eacc7808f1d0fcd9f127a60f3c906"
     },
+    "pimenta-E-1": {
+      "nota": 0.5351,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "ee4d228b2d6ae9b7ce181e342bbc81ef84727fcb5544177ff6f4a87d8853ffd3"
+    },
     "rosa-do-deserto-B-1": {
       "nota": 0.481,
       "rostos": 3,
@@ -918,6 +936,12 @@
       "rostos": 1,
       "onde": "banco",
       "sha256": "270f99bba6ab5c31aab4992b9bd3735c10a476c66da9705d7d588f175dc45e2a"
+    },
+    "samambaia-D-1": {
+      "nota": 0.7257,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "1e5a160131d7f75547c315132907fd2d91023532433889056ed4aea3ca9813b7"
     },
     "samambaia-E-1": {
       "nota": 0.4514,

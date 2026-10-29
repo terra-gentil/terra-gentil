@@ -1864,6 +1864,25 @@
       "origem": "jabuticabeira-D-1.jpg"
     },
     {
+      "id": "jiboia-B-1",
+      "arquivo": "jiboia/jiboia-B-1.jpg",
+      "slug": "jiboia",
+      "especie": "Epipremnum aureum",
+      "nome": "jiboia",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "jiboia",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "jiboia-B-1.jpg"
+    },
+    {
       "id": "jiboia-E-1",
       "arquivo": "jiboia/jiboia-E-1.jpg",
       "slug": "jiboia",
@@ -2071,6 +2090,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "lirio-da-paz-A-1.jpg"
+    },
+    {
+      "id": "lirio-da-paz-B-1",
+      "arquivo": "lirio-da-paz/lirio-da-paz-B-1.jpg",
+      "slug": "lirio-da-paz",
+      "especie": "Spathiphyllum wallisii",
+      "nome": "lírio-da-paz",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "lirio-da-paz",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lirio-da-paz-B-1.jpg"
     },
     {
       "id": "lirio-da-paz-C-1",
@@ -2605,6 +2643,25 @@
       "origem": "pimenta-D-1.jpg"
     },
     {
+      "id": "pimenta-E-1",
+      "arquivo": "pimenta/pimenta-E-1.jpg",
+      "slug": "pimenta",
+      "especie": "Capsicum annuum",
+      "nome": "pimenta",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "pimenta",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "pimenta-E-1.jpg"
+    },
+    {
       "id": "rosa-do-deserto-B-1",
       "arquivo": "rosa-do-deserto/rosa-do-deserto-B-1.jpg",
       "slug": "rosa-do-deserto",
@@ -2907,6 +2964,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "samambaia-C-1.jpg"
+    },
+    {
+      "id": "samambaia-D-1",
+      "arquivo": "samambaia/samambaia-D-1.jpg",
+      "slug": "samambaia",
+      "especie": "Nephrolepis exaltata",
+      "nome": "samambaia",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "samambaia",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "samambaia-D-1.jpg"
     },
     {
       "id": "samambaia-E-1",

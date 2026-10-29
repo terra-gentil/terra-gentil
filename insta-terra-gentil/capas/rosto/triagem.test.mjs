@@ -44,3 +44,13 @@ test('triagem usa o mesmo limiar do portão do banco, sem número solto no Pytho
   const py = fs.readFileSync(naRaiz('capas', 'rosto', 'notas_pasta.py'), 'utf8');
   assert.equal(/0\.3\d\d/.test(py), false, 'o limiar fica só em rosto.mjs');
 });
+
+// A nota do banco é por id; capa reprovada com o mesmo id da nova sobrescreve a nota (29/10/2026).
+test('nenhuma reprovada antiga repete o id de uma capa do banco', () => {
+  const ids = (pasta) => fs.readdirSync(pasta, { recursive: true })
+    .filter((f) => String(f).endsWith('.jpg'))
+    .map((f) => String(f).split(/[\/]/).pop().replace('.jpg', ''));
+  const banco = new Set(ids(naRaiz('capas', 'banco')));
+  const repetidas = ids(naRaiz('capas', 'reprovadas')).filter((id) => banco.has(id));
+  assert.deepEqual(repetidas, []);
+});

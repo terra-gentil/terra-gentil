@@ -573,6 +573,11 @@
       "sha256": "9c13d92f67213d9a245b50e8d446674a6b70461678c67cbf4a21c72a563ecd63",
       "data": "2026-10-29"
     },
+    "jiboia-B-1": {
+      "status": "aprovada",
+      "sha256": "b9af8238b85b5f0671740497a85c5e4d517fb25d2b7b16a01bb4e6bd8bcaf9a5",
+      "data": "2026-10-29"
+    },
     "jiboia-E-1": {
       "status": "aprovada",
       "sha256": "b97984eff4b1efe628748bf40fa07db11fa23cc7c13d1aca6d1eee1163f7a943",
@@ -634,10 +639,9 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "lirio-da-paz-B-1": {
-      "status": "reprovada",
-      "sha256": "bafa39fffffda6a21368c31b7e6b602bf4e0f1427eab12fef63a4fbc1d8ea03d",
-      "data": "2026-10-28",
-      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+      "status": "aprovada",
+      "sha256": "5a2554d157f103eac85e824abfb375122208704fa511d87c58e6abf44f045e33",
+      "data": "2026-10-29"
     },
     "lirio-da-paz-C-1": {
       "status": "aprovada",
@@ -820,6 +824,11 @@
       "data": "2026-10-28",
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
+    "pimenta-E-1": {
+      "status": "aprovada",
+      "sha256": "ee4d228b2d6ae9b7ce181e342bbc81ef84727fcb5544177ff6f4a87d8853ffd3",
+      "data": "2026-10-29"
+    },
     "rosa-do-deserto-A-1": {
       "status": "reprovada",
       "sha256": "8f885cd83c653f8e379046d29b097bfbc08ee913d0236888defb701f0794a0d9",
@@ -911,6 +920,11 @@
       "sha256": "270f99bba6ab5c31aab4992b9bd3735c10a476c66da9705d7d588f175dc45e2a",
       "data": "2026-10-28",
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "samambaia-D-1": {
+      "status": "aprovada",
+      "sha256": "1e5a160131d7f75547c315132907fd2d91023532433889056ed4aea3ca9813b7",
+      "data": "2026-10-29"
     },
     "samambaia-E-1": {
       "status": "aprovada",

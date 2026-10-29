@@ -2,6 +2,101 @@
   "_sobre": "Gerado por capas/importar-cli.mjs. Tags por foto para o carrossel.",
   "capas": [
     {
+      "id": "agave-A-1",
+      "arquivo": "agave/agave-A-1.jpg",
+      "slug": "agave",
+      "especie": "Agave attenuata",
+      "nome": "agave",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "agave",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "agave-A-1.jpg"
+    },
+    {
+      "id": "agave-B-1",
+      "arquivo": "agave/agave-B-1.jpg",
+      "slug": "agave",
+      "especie": "Agave attenuata",
+      "nome": "agave",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "agave",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "agave-B-1.jpg"
+    },
+    {
+      "id": "agave-C-1",
+      "arquivo": "agave/agave-C-1.jpg",
+      "slug": "agave",
+      "especie": "Agave attenuata",
+      "nome": "agave",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "agave",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "agave-C-1.jpg"
+    },
+    {
+      "id": "agave-D-1",
+      "arquivo": "agave/agave-D-1.jpg",
+      "slug": "agave",
+      "especie": "Agave attenuata",
+      "nome": "agave",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "agave",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "agave-D-1.jpg"
+    },
+    {
+      "id": "agave-E-1",
+      "arquivo": "agave/agave-E-1.jpg",
+      "slug": "agave",
+      "especie": "Agave attenuata",
+      "nome": "agave",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "agave",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "agave-E-1.jpg"
+    },
+    {
       "id": "alecrim-A-1",
       "arquivo": "alecrim/alecrim-A-1.jpg",
       "slug": "alecrim",
@@ -857,6 +952,101 @@
       "origem": "cacto-E-1.jpg"
     },
     {
+      "id": "catleia-A-1",
+      "arquivo": "catleia/catleia-A-1.jpg",
+      "slug": "catleia",
+      "especie": "Cattleya labiata",
+      "nome": "catleia",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "catleia",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "catleia-A-1.jpg"
+    },
+    {
+      "id": "catleia-B-1",
+      "arquivo": "catleia/catleia-B-1.jpg",
+      "slug": "catleia",
+      "especie": "Cattleya labiata",
+      "nome": "catleia",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "catleia",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "catleia-B-1.jpg"
+    },
+    {
+      "id": "catleia-C-1",
+      "arquivo": "catleia/catleia-C-1.jpg",
+      "slug": "catleia",
+      "especie": "Cattleya labiata",
+      "nome": "catleia",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "catleia",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "catleia-C-1.jpg"
+    },
+    {
+      "id": "catleia-D-1",
+      "arquivo": "catleia/catleia-D-1.jpg",
+      "slug": "catleia",
+      "especie": "Cattleya labiata",
+      "nome": "catleia",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "catleia",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "catleia-D-1.jpg"
+    },
+    {
+      "id": "catleia-E-1",
+      "arquivo": "catleia/catleia-E-1.jpg",
+      "slug": "catleia",
+      "especie": "Cattleya labiata",
+      "nome": "catleia",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "catleia",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "catleia-E-1.jpg"
+    },
+    {
       "id": "cebolinha-A-1",
       "arquivo": "cebolinha/cebolinha-A-1.jpg",
       "slug": "cebolinha",
@@ -950,6 +1140,196 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "cebolinha-E-1.jpg"
+    },
+    {
+      "id": "chuva-de-ouro-A-1",
+      "arquivo": "chuva-de-ouro/chuva-de-ouro-A-1.jpg",
+      "slug": "chuva-de-ouro",
+      "especie": "Oncidium varicosum",
+      "nome": "chuva-de-ouro",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "chuva-de-ouro",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "chuva-de-ouro-A-1.jpg"
+    },
+    {
+      "id": "chuva-de-ouro-B-1",
+      "arquivo": "chuva-de-ouro/chuva-de-ouro-B-1.jpg",
+      "slug": "chuva-de-ouro",
+      "especie": "Oncidium varicosum",
+      "nome": "chuva-de-ouro",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "chuva-de-ouro",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "chuva-de-ouro-B-1.jpg"
+    },
+    {
+      "id": "chuva-de-ouro-C-1",
+      "arquivo": "chuva-de-ouro/chuva-de-ouro-C-1.jpg",
+      "slug": "chuva-de-ouro",
+      "especie": "Oncidium varicosum",
+      "nome": "chuva-de-ouro",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "chuva-de-ouro",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "chuva-de-ouro-C-1.jpg"
+    },
+    {
+      "id": "chuva-de-ouro-D-1",
+      "arquivo": "chuva-de-ouro/chuva-de-ouro-D-1.jpg",
+      "slug": "chuva-de-ouro",
+      "especie": "Oncidium varicosum",
+      "nome": "chuva-de-ouro",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "chuva-de-ouro",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "chuva-de-ouro-D-1.jpg"
+    },
+    {
+      "id": "chuva-de-ouro-E-1",
+      "arquivo": "chuva-de-ouro/chuva-de-ouro-E-1.jpg",
+      "slug": "chuva-de-ouro",
+      "especie": "Oncidium varicosum",
+      "nome": "chuva-de-ouro",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "chuva-de-ouro",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "chuva-de-ouro-E-1.jpg"
+    },
+    {
+      "id": "colar-de-perolas-A-1",
+      "arquivo": "colar-de-perolas/colar-de-perolas-A-1.jpg",
+      "slug": "colar-de-perolas",
+      "especie": "Curio rowleyanus",
+      "nome": "colar-de-pérolas",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "colar-de-perolas",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "colar-de-perolas-A-1.jpg"
+    },
+    {
+      "id": "colar-de-perolas-B-1",
+      "arquivo": "colar-de-perolas/colar-de-perolas-B-1.jpg",
+      "slug": "colar-de-perolas",
+      "especie": "Curio rowleyanus",
+      "nome": "colar-de-pérolas",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "colar-de-perolas",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "colar-de-perolas-B-1.jpg"
+    },
+    {
+      "id": "colar-de-perolas-C-1",
+      "arquivo": "colar-de-perolas/colar-de-perolas-C-1.jpg",
+      "slug": "colar-de-perolas",
+      "especie": "Curio rowleyanus",
+      "nome": "colar-de-pérolas",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "colar-de-perolas",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "colar-de-perolas-C-1.jpg"
+    },
+    {
+      "id": "colar-de-perolas-D-1",
+      "arquivo": "colar-de-perolas/colar-de-perolas-D-1.jpg",
+      "slug": "colar-de-perolas",
+      "especie": "Curio rowleyanus",
+      "nome": "colar-de-pérolas",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "colar-de-perolas",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "colar-de-perolas-D-1.jpg"
+    },
+    {
+      "id": "colar-de-perolas-E-1",
+      "arquivo": "colar-de-perolas/colar-de-perolas-E-1.jpg",
+      "slug": "colar-de-perolas",
+      "especie": "Curio rowleyanus",
+      "nome": "colar-de-pérolas",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "colar-de-perolas",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "colar-de-perolas-E-1.jpg"
     },
     {
       "id": "comigo-ninguem-pode-A-1",
@@ -1712,6 +2092,101 @@
       "origem": "costela-de-adao-E-1.jpg"
     },
     {
+      "id": "dendrobium-A-1",
+      "arquivo": "dendrobium/dendrobium-A-1.jpg",
+      "slug": "dendrobium",
+      "especie": "Dendrobium nobile",
+      "nome": "dendróbio",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "dendrobium",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "dendrobium-A-1.jpg"
+    },
+    {
+      "id": "dendrobium-B-1",
+      "arquivo": "dendrobium/dendrobium-B-1.jpg",
+      "slug": "dendrobium",
+      "especie": "Dendrobium nobile",
+      "nome": "dendróbio",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "dendrobium",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "dendrobium-B-1.jpg"
+    },
+    {
+      "id": "dendrobium-C-1",
+      "arquivo": "dendrobium/dendrobium-C-1.jpg",
+      "slug": "dendrobium",
+      "especie": "Dendrobium nobile",
+      "nome": "dendróbio",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "dendrobium",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "dendrobium-C-1.jpg"
+    },
+    {
+      "id": "dendrobium-D-1",
+      "arquivo": "dendrobium/dendrobium-D-1.jpg",
+      "slug": "dendrobium",
+      "especie": "Dendrobium nobile",
+      "nome": "dendróbio",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "dendrobium",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "dendrobium-D-1.jpg"
+    },
+    {
+      "id": "dendrobium-E-1",
+      "arquivo": "dendrobium/dendrobium-E-1.jpg",
+      "slug": "dendrobium",
+      "especie": "Dendrobium nobile",
+      "nome": "dendróbio",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "dendrobium",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "dendrobium-E-1.jpg"
+    },
+    {
       "id": "espada-de-sao-jorge-A-1",
       "arquivo": "espada-de-sao-jorge/espada-de-sao-jorge-A-1.jpg",
       "slug": "espada-de-sao-jorge",
@@ -1995,6 +2470,82 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "grama-E-1.jpg"
+    },
+    {
+      "id": "haworthia-A-1",
+      "arquivo": "haworthia/haworthia-A-1.jpg",
+      "slug": "haworthia",
+      "especie": "Haworthiopsis attenuata",
+      "nome": "haworthia-zebra",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "haworthia",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "haworthia-A-1.jpg"
+    },
+    {
+      "id": "haworthia-C-1",
+      "arquivo": "haworthia/haworthia-C-1.jpg",
+      "slug": "haworthia",
+      "especie": "Haworthiopsis attenuata",
+      "nome": "haworthia-zebra",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "haworthia",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "haworthia-C-1.jpg"
+    },
+    {
+      "id": "haworthia-D-1",
+      "arquivo": "haworthia/haworthia-D-1.jpg",
+      "slug": "haworthia",
+      "especie": "Haworthiopsis attenuata",
+      "nome": "haworthia-zebra",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "haworthia",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "haworthia-D-1.jpg"
+    },
+    {
+      "id": "haworthia-E-1",
+      "arquivo": "haworthia/haworthia-E-1.jpg",
+      "slug": "haworthia",
+      "especie": "Haworthiopsis attenuata",
+      "nome": "haworthia-zebra",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "haworthia",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "haworthia-E-1.jpg"
     },
     {
       "id": "hibisco-A-1",
@@ -2282,6 +2833,101 @@
       "origem": "jabuticabeira-E-1.jpg"
     },
     {
+      "id": "jade-A-1",
+      "arquivo": "jade/jade-A-1.jpg",
+      "slug": "jade",
+      "especie": "Crassula ovata",
+      "nome": "planta-jade",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "jade",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "jade-A-1.jpg"
+    },
+    {
+      "id": "jade-B-1",
+      "arquivo": "jade/jade-B-1.jpg",
+      "slug": "jade",
+      "especie": "Crassula ovata",
+      "nome": "planta-jade",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "jade",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "jade-B-1.jpg"
+    },
+    {
+      "id": "jade-C-1",
+      "arquivo": "jade/jade-C-1.jpg",
+      "slug": "jade",
+      "especie": "Crassula ovata",
+      "nome": "planta-jade",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "jade",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "jade-C-1.jpg"
+    },
+    {
+      "id": "jade-D-1",
+      "arquivo": "jade/jade-D-1.jpg",
+      "slug": "jade",
+      "especie": "Crassula ovata",
+      "nome": "planta-jade",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "jade",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "jade-D-1.jpg"
+    },
+    {
+      "id": "jade-E-1",
+      "arquivo": "jade/jade-E-1.jpg",
+      "slug": "jade",
+      "especie": "Crassula ovata",
+      "nome": "planta-jade",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "jade",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "jade-E-1.jpg"
+    },
+    {
       "id": "jiboia-A-1",
       "arquivo": "jiboia/jiboia-A-1.jpg",
       "slug": "jiboia",
@@ -2375,6 +3021,101 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "jiboia-E-1.jpg"
+    },
+    {
+      "id": "kalanchoe-A-1",
+      "arquivo": "kalanchoe/kalanchoe-A-1.jpg",
+      "slug": "kalanchoe",
+      "especie": "Kalanchoe blossfeldiana",
+      "nome": "kalanchoe",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "kalanchoe",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "kalanchoe-A-1.jpg"
+    },
+    {
+      "id": "kalanchoe-B-1",
+      "arquivo": "kalanchoe/kalanchoe-B-1.jpg",
+      "slug": "kalanchoe",
+      "especie": "Kalanchoe blossfeldiana",
+      "nome": "kalanchoe",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "kalanchoe",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "kalanchoe-B-1.jpg"
+    },
+    {
+      "id": "kalanchoe-C-1",
+      "arquivo": "kalanchoe/kalanchoe-C-1.jpg",
+      "slug": "kalanchoe",
+      "especie": "Kalanchoe blossfeldiana",
+      "nome": "kalanchoe",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "kalanchoe",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "kalanchoe-C-1.jpg"
+    },
+    {
+      "id": "kalanchoe-D-1",
+      "arquivo": "kalanchoe/kalanchoe-D-1.jpg",
+      "slug": "kalanchoe",
+      "especie": "Kalanchoe blossfeldiana",
+      "nome": "kalanchoe",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "kalanchoe",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "kalanchoe-D-1.jpg"
+    },
+    {
+      "id": "kalanchoe-E-1",
+      "arquivo": "kalanchoe/kalanchoe-E-1.jpg",
+      "slug": "kalanchoe",
+      "especie": "Kalanchoe blossfeldiana",
+      "nome": "kalanchoe",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "kalanchoe",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "kalanchoe-E-1.jpg"
     },
     {
       "id": "lavanda-A-1",
@@ -2567,6 +3308,82 @@
       "origem": "limoeiro-E-1.jpg"
     },
     {
+      "id": "lirio-A-1",
+      "arquivo": "lirio/lirio-A-1.jpg",
+      "slug": "lirio",
+      "especie": "Lilium longiflorum",
+      "nome": "lírio",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "lirio",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lirio-A-1.jpg"
+    },
+    {
+      "id": "lirio-B-1",
+      "arquivo": "lirio/lirio-B-1.jpg",
+      "slug": "lirio",
+      "especie": "Lilium longiflorum",
+      "nome": "lírio",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "lirio",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lirio-B-1.jpg"
+    },
+    {
+      "id": "lirio-C-1",
+      "arquivo": "lirio/lirio-C-1.jpg",
+      "slug": "lirio",
+      "especie": "Lilium longiflorum",
+      "nome": "lírio",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "lirio",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lirio-C-1.jpg"
+    },
+    {
+      "id": "lirio-D-1",
+      "arquivo": "lirio/lirio-D-1.jpg",
+      "slug": "lirio",
+      "especie": "Lilium longiflorum",
+      "nome": "lírio",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "lirio",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lirio-D-1.jpg"
+    },
+    {
       "id": "lirio-da-paz-A-1",
       "arquivo": "lirio-da-paz/lirio-da-paz-A-1.jpg",
       "slug": "lirio-da-paz",
@@ -2660,6 +3477,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "lirio-da-paz-E-1.jpg"
+    },
+    {
+      "id": "lirio-E-1",
+      "arquivo": "lirio/lirio-E-1.jpg",
+      "slug": "lirio",
+      "especie": "Lilium longiflorum",
+      "nome": "lírio",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "lirio",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lirio-E-1.jpg"
     },
     {
       "id": "manjericao-A-1",
@@ -3612,6 +4448,101 @@
       "origem": "samambaia-E-1.jpg"
     },
     {
+      "id": "sapatinho-A-1",
+      "arquivo": "sapatinho/sapatinho-A-1.jpg",
+      "slug": "sapatinho",
+      "especie": "Paphiopedilum insigne",
+      "nome": "sapatinho",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "sapatinho",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "sapatinho-A-1.jpg"
+    },
+    {
+      "id": "sapatinho-B-1",
+      "arquivo": "sapatinho/sapatinho-B-1.jpg",
+      "slug": "sapatinho",
+      "especie": "Paphiopedilum insigne",
+      "nome": "sapatinho",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "sapatinho",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "sapatinho-B-1.jpg"
+    },
+    {
+      "id": "sapatinho-C-1",
+      "arquivo": "sapatinho/sapatinho-C-1.jpg",
+      "slug": "sapatinho",
+      "especie": "Paphiopedilum insigne",
+      "nome": "sapatinho",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "sapatinho",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "sapatinho-C-1.jpg"
+    },
+    {
+      "id": "sapatinho-D-1",
+      "arquivo": "sapatinho/sapatinho-D-1.jpg",
+      "slug": "sapatinho",
+      "especie": "Paphiopedilum insigne",
+      "nome": "sapatinho",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "sapatinho",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "sapatinho-D-1.jpg"
+    },
+    {
+      "id": "sapatinho-E-1",
+      "arquivo": "sapatinho/sapatinho-E-1.jpg",
+      "slug": "sapatinho",
+      "especie": "Paphiopedilum insigne",
+      "nome": "sapatinho",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "sapatinho",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "sapatinho-E-1.jpg"
+    },
+    {
       "id": "suculenta-A-1",
       "arquivo": "suculenta/suculenta-A-1.jpg",
       "slug": "suculenta",
@@ -3800,6 +4731,101 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "tomate-E-1.jpg"
+    },
+    {
+      "id": "vanda-A-1",
+      "arquivo": "vanda/vanda-A-1.jpg",
+      "slug": "vanda",
+      "especie": "Vanda coerulea",
+      "nome": "vanda",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "vanda",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "vanda-A-1.jpg"
+    },
+    {
+      "id": "vanda-B-1",
+      "arquivo": "vanda/vanda-B-1.jpg",
+      "slug": "vanda",
+      "especie": "Vanda coerulea",
+      "nome": "vanda",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "vanda",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "vanda-B-1.jpg"
+    },
+    {
+      "id": "vanda-C-1",
+      "arquivo": "vanda/vanda-C-1.jpg",
+      "slug": "vanda",
+      "especie": "Vanda coerulea",
+      "nome": "vanda",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "vanda",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "vanda-C-1.jpg"
+    },
+    {
+      "id": "vanda-D-1",
+      "arquivo": "vanda/vanda-D-1.jpg",
+      "slug": "vanda",
+      "especie": "Vanda coerulea",
+      "nome": "vanda",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "vanda",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "vanda-D-1.jpg"
+    },
+    {
+      "id": "vanda-E-1",
+      "arquivo": "vanda/vanda-E-1.jpg",
+      "slug": "vanda",
+      "especie": "Vanda coerulea",
+      "nome": "vanda",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "vanda",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "vanda-E-1.jpg"
     },
     {
       "id": "violeta-A-1",

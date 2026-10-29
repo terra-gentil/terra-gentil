@@ -1,6 +1,31 @@
 {
   "_sobre": "Veredito de cada capa do banco. Só \"aprovada\" com o mesmo sha256 é usada.",
   "capas": {
+    "agave-A-1": {
+      "status": "aprovada",
+      "sha256": "ef9ab9cbf2287ef8d36708e71bbcb9faa98deef16186160f83c35f4f4a0e55e8",
+      "data": "2026-10-29"
+    },
+    "agave-B-1": {
+      "status": "aprovada",
+      "sha256": "6dbe5693c353765e17bcd07fd0ce88b4fe454185e153188f6f035591bb3036f3",
+      "data": "2026-10-29"
+    },
+    "agave-C-1": {
+      "status": "aprovada",
+      "sha256": "cc412a531b6bf86e4801e15e63d150fcfea17c5d699a467607180b75a9b04fcf",
+      "data": "2026-10-29"
+    },
+    "agave-D-1": {
+      "status": "aprovada",
+      "sha256": "8c5729d1a11576dda12cebed65e1084b8efd1e1004614e7b8d0237d7659ce837",
+      "data": "2026-10-29"
+    },
+    "agave-E-1": {
+      "status": "aprovada",
+      "sha256": "2804799ff1255240904ca69cdac432751a2db6e6bf90f764058f92a49a6c4856",
+      "data": "2026-10-29"
+    },
     "alecrim-A-1": {
       "status": "aprovada",
       "sha256": "f92d7a366592fe87ff8da56e83324e237eeed9ac7862f6deb8b539dd37201084",
@@ -254,6 +279,31 @@
       "sha256": "a608d4ddd571ebaf402ba814df12129de07ca6c2f91629f064dc16fdf4bc210e",
       "data": "2026-10-29"
     },
+    "catleia-A-1": {
+      "status": "aprovada",
+      "sha256": "67efd4d3cc062e1bbb7cf8fa79ac021e795572246d3d2655068ae1ef2802a4a9",
+      "data": "2026-10-29"
+    },
+    "catleia-B-1": {
+      "status": "aprovada",
+      "sha256": "fedb4f23c13515c55ba5b9482924080a2ae09baba0d792a9e1cb9282f5f651a8",
+      "data": "2026-10-29"
+    },
+    "catleia-C-1": {
+      "status": "aprovada",
+      "sha256": "18e1e76e90f0f2a22db0e9a90dbce3dc5c025e9a01ac167daa4748ae34c2fc34",
+      "data": "2026-10-29"
+    },
+    "catleia-D-1": {
+      "status": "aprovada",
+      "sha256": "932d3ba0b4d24d350d402131fb093a06f8a84debcb2f699807d23322b8571a76",
+      "data": "2026-10-29"
+    },
+    "catleia-E-1": {
+      "status": "aprovada",
+      "sha256": "6b8415de1136147e67339c22f1e43a33d5c9d3bc2e0ec257ad489b77e960f916",
+      "data": "2026-10-29"
+    },
     "cebolinha-A-1": {
       "status": "aprovada",
       "sha256": "c110de2c8d1ef290bba889b2a701e1610f20101750c2e776a9543d8dca0b655e",
@@ -283,6 +333,56 @@
       "sha256": "cedfe48e695d97c400d1e68918066e2683e15ad8b70bb1c1076be00b9ee07593",
       "data": "2026-10-28",
       "motivo": "André conferiu e aprovou em 28/10"
+    },
+    "chuva-de-ouro-A-1": {
+      "status": "aprovada",
+      "sha256": "40af898421a54073e819b34635cee96b923dd59e0deb445caadf71359b5b8103",
+      "data": "2026-10-29"
+    },
+    "chuva-de-ouro-B-1": {
+      "status": "aprovada",
+      "sha256": "ffc5330ed94f4cdedf2e7489446282b4a24e46abe82b1da596f2d34311c4ed27",
+      "data": "2026-10-29"
+    },
+    "chuva-de-ouro-C-1": {
+      "status": "aprovada",
+      "sha256": "53e0f1618b01e9339269e40c652c51f931f1de9f5c3c27caf8589b5c7d730470",
+      "data": "2026-10-29"
+    },
+    "chuva-de-ouro-D-1": {
+      "status": "aprovada",
+      "sha256": "63ea0e49675a551b1caaaf03d807c687dbb71d9f665b2c89460edd30f72997c9",
+      "data": "2026-10-29"
+    },
+    "chuva-de-ouro-E-1": {
+      "status": "aprovada",
+      "sha256": "8b2241760b0bc8dde01ba94dc3b700b24057fdd769b12818f5638a5bf23427ed",
+      "data": "2026-10-29"
+    },
+    "colar-de-perolas-A-1": {
+      "status": "aprovada",
+      "sha256": "f66f341a444718af6a38b1241063e4c8e28b41534567ea902d63133cc28c7406",
+      "data": "2026-10-29"
+    },
+    "colar-de-perolas-B-1": {
+      "status": "aprovada",
+      "sha256": "4cdd964a794fe463d2cd85165c80879f96de4fc282d1cf04ab53839c4059ad45",
+      "data": "2026-10-29"
+    },
+    "colar-de-perolas-C-1": {
+      "status": "aprovada",
+      "sha256": "643b94b64ff7b634022bdc3a392a4a98766fef3adf4f8f263f367a1bd14f0b1b",
+      "data": "2026-10-29"
+    },
+    "colar-de-perolas-D-1": {
+      "status": "aprovada",
+      "sha256": "c06398413997a24f14dbe5bcd14423dfeb9741fb9a432e135945c076a131f95b",
+      "data": "2026-10-29"
+    },
+    "colar-de-perolas-E-1": {
+      "status": "aprovada",
+      "sha256": "719d29d08a10896f8d716ef0641738997dd0ceb4747ca5500d5050e0418c2391",
+      "data": "2026-10-29"
     },
     "comigo-ninguem-pode-A-1": {
       "status": "aprovada",
@@ -487,6 +587,31 @@
       "data": "2026-10-28",
       "motivo": "André conferiu e aprovou em 28/10"
     },
+    "dendrobium-A-1": {
+      "status": "aprovada",
+      "sha256": "0a3951a4727b3a577573fc2f5671d21ec6c82d6ed24b62fd44d6ba80bef5c7d3",
+      "data": "2026-10-29"
+    },
+    "dendrobium-B-1": {
+      "status": "aprovada",
+      "sha256": "83f6f05295f031949ebaf093d9bb296d6e9ed3525b870f512f01ae542709bbf8",
+      "data": "2026-10-29"
+    },
+    "dendrobium-C-1": {
+      "status": "aprovada",
+      "sha256": "f9c6ef7dbb8892c4933aa61dc47e364e1259c022473002b983af03244fe42246",
+      "data": "2026-10-29"
+    },
+    "dendrobium-D-1": {
+      "status": "aprovada",
+      "sha256": "a9be8a7268b0d8a077512c2df024f7d808f3c62f40881281e383c606be37d914",
+      "data": "2026-10-29"
+    },
+    "dendrobium-E-1": {
+      "status": "aprovada",
+      "sha256": "7dff8d03fbb4dce52602bcc8ba22224aba613cb8e5d0185e63e01c51355687a4",
+      "data": "2026-10-29"
+    },
     "espada-de-sao-jorge-A-1": {
       "status": "aprovada",
       "sha256": "7b05deecdd80d5201fc5372fef7349ae3f50954b6f7ec09116f72f24fb38250e",
@@ -571,6 +696,26 @@
       "data": "2026-10-28",
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
+    "haworthia-A-1": {
+      "status": "aprovada",
+      "sha256": "30cd5ae09dd6f69b768dd8b2df2f5c7ad83250e9455a7e21016ee6d11706a764",
+      "data": "2026-10-29"
+    },
+    "haworthia-C-1": {
+      "status": "aprovada",
+      "sha256": "6cd50b5e034ad701dda74642a7058d592eaba19dbd004cdf71189e19d6f2aa14",
+      "data": "2026-10-29"
+    },
+    "haworthia-D-1": {
+      "status": "aprovada",
+      "sha256": "9a2bbb4543d9882db4927da1215137989c0b6b095f0addfa10604cf72f1a9468",
+      "data": "2026-10-29"
+    },
+    "haworthia-E-1": {
+      "status": "aprovada",
+      "sha256": "1953f519af29d6fc0505b1486d6df0c37415143de69ff9d24619a5dd916e8256",
+      "data": "2026-10-29"
+    },
     "hibisco-A-1": {
       "status": "aprovada",
       "sha256": "91c5a877c70e1df433f0863cacafa681ad32e623c4d4fab17ea31cf9e92f3a69",
@@ -653,6 +798,31 @@
       "sha256": "168503ce47586be732ec971859c77157e93661600e41b5e7decdd07038981db5",
       "data": "2026-10-29"
     },
+    "jade-A-1": {
+      "status": "aprovada",
+      "sha256": "6bbd87f68fe9b7b3927905f7588193473c33c5419cd9a5a80e41fb8e03001e22",
+      "data": "2026-10-29"
+    },
+    "jade-B-1": {
+      "status": "aprovada",
+      "sha256": "bd51372dcfab440ef8421e2ad212db2130e65260925d9783e5976b76c61fe6c6",
+      "data": "2026-10-29"
+    },
+    "jade-C-1": {
+      "status": "aprovada",
+      "sha256": "afa7424f7718bc806a12ec89ec2a4b53e41e7539a3c6f325d3b05ae8c28ab6dc",
+      "data": "2026-10-29"
+    },
+    "jade-D-1": {
+      "status": "aprovada",
+      "sha256": "a6acd78cdfbe61033a03165cbdf9c6dbe519fd401a34630664f280f4376ddf82",
+      "data": "2026-10-29"
+    },
+    "jade-E-1": {
+      "status": "aprovada",
+      "sha256": "f4536f062bfd21c53a8e482f5c645974432aee800e80a0a66b79088e2d06efd3",
+      "data": "2026-10-29"
+    },
     "jiboia-A-1": {
       "status": "aprovada",
       "sha256": "bb5732039048621f421394d30f93e405ab90a918b0e1a0c9cc83ba74062c4fbb",
@@ -678,6 +848,31 @@
       "sha256": "b97984eff4b1efe628748bf40fa07db11fa23cc7c13d1aca6d1eee1163f7a943",
       "data": "2026-10-28",
       "motivo": "André conferiu e aprovou em 28/10"
+    },
+    "kalanchoe-A-1": {
+      "status": "aprovada",
+      "sha256": "25e10e6ce828dea504106043035e452d38a098e02cc52d72740913ae3cafee36",
+      "data": "2026-10-29"
+    },
+    "kalanchoe-B-1": {
+      "status": "aprovada",
+      "sha256": "6db1f92843b440acf17ad15f0ca6634740287946e72883a50c6b68ffbf35c1c3",
+      "data": "2026-10-29"
+    },
+    "kalanchoe-C-1": {
+      "status": "aprovada",
+      "sha256": "5d5b253e22a301f716f93de08065d8ca2aec14d1ac1ee3dea0d9997d6a6ceb01",
+      "data": "2026-10-29"
+    },
+    "kalanchoe-D-1": {
+      "status": "aprovada",
+      "sha256": "0da4d9095ee5648c0c28f89adac783cc0c8c0b266cc03afb648bb31515393953",
+      "data": "2026-10-29"
+    },
+    "kalanchoe-E-1": {
+      "status": "aprovada",
+      "sha256": "d127ea6f3bb5c8e8cd13883bcd27f0b28fdf3cf6d05e2b61c3675577612b0848",
+      "data": "2026-10-29"
     },
     "lavanda-A-1": {
       "status": "aprovada",
@@ -732,6 +927,26 @@
       "sha256": "c770bf633ffd498c404b814df54ea495318d191f01793c17e5840e7301a9dc87",
       "data": "2026-10-29"
     },
+    "lirio-A-1": {
+      "status": "aprovada",
+      "sha256": "cbca24ae0b6fb273b88de91510fd096ac9ad62a9c91c17a74787882aacda803f",
+      "data": "2026-10-29"
+    },
+    "lirio-B-1": {
+      "status": "aprovada",
+      "sha256": "7135b9e696df083d5647bed9c2ef4a54e64c5bdbb164df91c7ac1ea4f815c740",
+      "data": "2026-10-29"
+    },
+    "lirio-C-1": {
+      "status": "aprovada",
+      "sha256": "21406b94c122059e6e23930b1a1504f594ac237fe7e86d08b72430f7a5f97792",
+      "data": "2026-10-29"
+    },
+    "lirio-D-1": {
+      "status": "aprovada",
+      "sha256": "d3cdc5e130d2036b350032a58cdd6a6739fbd765bd4f719f8b83aa2dcb434062",
+      "data": "2026-10-29"
+    },
     "lirio-da-paz-A-1": {
       "status": "aprovada",
       "sha256": "bb9f6e755df0544b34174ecf055bae2cbce2b3fd60e769bf243a1a4b3a80181b",
@@ -760,6 +975,11 @@
       "sha256": "9b796eec4738588862de4c24b41b50e2df88d7c93feff9c0cac0dcae78a4e6ab",
       "data": "2026-10-28",
       "motivo": "André conferiu e aprovou em 28/10"
+    },
+    "lirio-E-1": {
+      "status": "aprovada",
+      "sha256": "9e95461f658f9f5aca2aed59f9f4671a0aad8d44e5a81212cd7f0c8e3d870165",
+      "data": "2026-10-29"
     },
     "manjericao-A-1": {
       "status": "aprovada",
@@ -1044,6 +1264,31 @@
       "data": "2026-10-28",
       "motivo": "André conferiu e aprovou em 28/10"
     },
+    "sapatinho-A-1": {
+      "status": "aprovada",
+      "sha256": "c1415f29f7b2c4658984a7d2d1052b8e4d4b45503e40fd6ee4ce1e4ee51f9e78",
+      "data": "2026-10-29"
+    },
+    "sapatinho-B-1": {
+      "status": "aprovada",
+      "sha256": "8b035e3c4065fd4f2954490eaea4f48c5a5dfdd519dc241e9f13787ca7cc6f08",
+      "data": "2026-10-29"
+    },
+    "sapatinho-C-1": {
+      "status": "aprovada",
+      "sha256": "f73ccdcf0228d2f7c46479bdb1553f8d90988e4979c10f402d8444d03d57b92e",
+      "data": "2026-10-29"
+    },
+    "sapatinho-D-1": {
+      "status": "aprovada",
+      "sha256": "28aa30024797e816c6f4942e90a4ba78ee25bc40fae906b0df95a1d7d0b17e4c",
+      "data": "2026-10-29"
+    },
+    "sapatinho-E-1": {
+      "status": "aprovada",
+      "sha256": "a7d63495bdb059e0b18ab8e417ad396b4f71baa1df866633b660cddac88f5f8e",
+      "data": "2026-10-29"
+    },
     "suculenta-A-1": {
       "status": "aprovada",
       "sha256": "79a23b63f7f10144293d03c0141df9a4add9654f71f6e2d4b55d11ca80c99a80",
@@ -1099,6 +1344,31 @@
       "sha256": "065e4c3a9a4146f0c1efbf85993f55f01aaf3daf4d8eee6eb8c6fab9a0600476",
       "data": "2026-10-28",
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "vanda-A-1": {
+      "status": "aprovada",
+      "sha256": "73e4cba6f79a56d4b24b7b567e9f61f298cec136e0151ae61ecb8710607639a9",
+      "data": "2026-10-29"
+    },
+    "vanda-B-1": {
+      "status": "aprovada",
+      "sha256": "c0a96bf25171aa48a09054fa53d77e3c1cac5974b49b9c92f89e8dbe94e0ce41",
+      "data": "2026-10-29"
+    },
+    "vanda-C-1": {
+      "status": "aprovada",
+      "sha256": "00b91e7d4433f306dd2ace7e12cca67780c0035a406013cf41e89f403e20602f",
+      "data": "2026-10-29"
+    },
+    "vanda-D-1": {
+      "status": "aprovada",
+      "sha256": "78e9e2b9d1840f63c0898d32fda29d66c9af44d399683603fa054d6ac034dfa0",
+      "data": "2026-10-29"
+    },
+    "vanda-E-1": {
+      "status": "aprovada",
+      "sha256": "deff7332fdcfc18dcb66db01dce3f0b63fb7cc1c0ad8091d9a63239de50485bc",
+      "data": "2026-10-29"
     },
     "violeta-A-1": {
       "status": "aprovada",

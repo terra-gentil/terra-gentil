@@ -1,0 +1,244 @@
+{
+  "dia": "2026-10-30",
+  "palavra": "ECONOMIA",
+  "especie": "Epipremnum aureum",
+  "nome": "Jiboia",
+  "serie": "3 erros",
+  "gancho": "O que mais mata planta e joga dinheiro fora é o excesso de água, e o dedo resolve.",
+  "resumo": "Três erros que custam caro (água demais, regar pelo calendário, comprar de novo) e três gestos simples: teste do dedo, rega até sair pelos furos e a água do cozimento.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Rega",
+      "linha1": "O que mais mata",
+      "linha2": "sua planta é",
+      "linha3": "o excesso de",
+      "destaque": "água"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Regar demais",
+      "linha2": "afoga a",
+      "destaque": "raiz",
+      "texto": "A raiz precisa de oxigênio tanto quanto de água. Vaso encharcado vira pântano e a planta apodrece.",
+      "nota": "Foi excesso de amor, não falta de jeito."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Regar pelo",
+      "linha2": "calendário e não",
+      "destaque": "pela terra",
+      "texto": "A planta não sabe que dia é hoje. Ela reage à temperatura e à umidade do ar. Esqueça o toda segunda e quarta.",
+      "nota": "Quase todo mundo começou assim."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Comprar outra",
+      "linha2": "toda vez",
+      "destaque": "sai caro",
+      "texto": "Cuidar é bem mais barato do que comprar de novo. Dedo verde é só observação e constância.",
+      "nota": "Você não é uma assassina."
+    },
+    {
+      "linha1": "Enfie o dedo",
+      "linha2": "na terra, uns",
+      "destaque": "3 a 5 cm",
+      "texto": "Saiu sujo e úmido? Não regue, espere um ou dois dias. Saiu limpo e seco? Pode regar.",
+      "dica": "É mais ou menos a altura de duas falanges do dedo."
+    },
+    {
+      "linha1": "Regue devagar",
+      "linha2": "até a água sair",
+      "destaque": "por baixo",
+      "texto": "Molhe toda a superfície da terra até a água escorrer pelos furos do vaso. Deixe escorrer bem.",
+      "dica": "Se der, leve a planta até a pia, o tanque ou o box."
+    },
+    {
+      "tarja": "Dica",
+      "linha1": "Água do cozimento",
+      "linha2": "de legumes e",
+      "destaque": "ovos",
+      "texto": "Depois de esfriar por completo, ela rega suas plantas. Só vale sem sal e sem óleo: o sal mata a planta.",
+      "nota": "Economia que sai da panela."
+    },
+    {
+      "texto": "Cuide com calma e a planta agradece. Salve este post para a próxima vez que a dúvida bater.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "Regar demais afoga a raiz, porque a raiz precisa de oxigênio tanto quanto de água.",
+      "pagina": 8,
+      "trecho": "Regar demais afoga a raiz. As raízes precisam de oxigênio tanto quanto de água",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 8"
+    },
+    {
+      "texto": "Regra fixa de dias da semana não funciona: a planta não sabe que dia é hoje e reage à temperatura e à umidade do ar.",
+      "pagina": 8,
+      "trecho": "Esqueça o calendário! A planta não sabe que dia é hoje",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 8"
+    },
+    {
+      "texto": "No teste do dedo, o dedo indicador entra de 3 a 5 cm na terra, mais ou menos duas falanges.",
+      "pagina": 9,
+      "trecho": "Coloque o dedo indicador cerca de 3 a 5 cm para dentro da terra",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 9"
+    },
+    {
+      "texto": "Se o dedo sai sujo e úmido, com terra grudada, não regue: a planta ainda tem reserva de água. Espere um ou dois dias.",
+      "pagina": 9,
+      "trecho": "NÃO REGUE! A planta ainda tem reserva de água. Espere um ou dois dias",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 9"
+    },
+    {
+      "texto": "Se o dedo sai limpo e seco, com a terra seca ou arenosa, a planta está com sede e pode ser regada.",
+      "pagina": 9,
+      "trecho": "Saiu limpo e seco? Você sentiu a terra arenosa ou seca?",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 9"
+    },
+    {
+      "texto": "Para regar bem, molhe devagar toda a superfície da terra, até a água sair pelos furos de baixo do vaso.",
+      "pagina": 9,
+      "trecho": "Regue devagar toda a superfície da terra até a água começar a sair pelos furos de baixo do vaso",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 9"
+    },
+    {
+      "texto": "Se for possível, leve a planta para a pia, o tanque ou o box na hora de regar, e deixe escorrer bem.",
+      "pagina": 9,
+      "trecho": "leve a planta para uma pia, tanque ou box (se possível)",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 9"
+    },
+    {
+      "texto": "A água do cozimento de legumes ou ovos, depois de esfriar por completo, serve para regar as plantas. Tem que ser sem sal e sem óleo.",
+      "pagina": 9,
+      "trecho": "Espere esfriar completamente e use para regar suas plantas",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 9"
+    },
+    {
+      "texto": "A jiboia avisa quando está com muita sede: as folhas murcham e enrolam levemente. Depois da rega, em poucas horas ela firma de novo.",
+      "pagina": 10,
+      "trecho": "Quando está com muita sede, as folhas murcham e enrolam levemente",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 10"
+    },
+    {
+      "texto": "Cuidar da planta custa bem menos do que comprar outra de novo.",
+      "pagina": 4,
+      "trecho": "Cuidar é infinitamente mais barato do que comprar de novo",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 4"
+    },
+    {
+      "texto": "O dedo verde não é dom: é observação e constância, e quem parece ter o toque mágico só aprendeu a ler os sinais da planta.",
+      "pagina": 4,
+      "trecho": "nada mais é do que observação e constância",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 4"
+    },
+    {
+      "texto": "Na água do cozimento, o sal é inimigo: o sal mata a planta.",
+      "pagina": 9,
+      "trecho": "Zero Sal, o sal mata a planta",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 9"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    11
+  ],
+  "fontes": [
+    "Jardim Lindo com Pouco Dinheiro, p. 8",
+    "Jardim Lindo com Pouco Dinheiro, p. 9",
+    "Jardim Lindo com Pouco Dinheiro, p. 4"
+  ],
+  "materia": {
+    "slug": "jiboia-regar-sem-gastar-teste-do-dedo",
+    "titulo": "Jiboia: como regar sem gastar à toa",
+    "descricao": "Planta morrendo e dinheiro indo embora? Veja por que água demais é o maior perigo e como o teste do dedo ajuda a regar a jiboia na hora certa, sem gastar nada.",
+    "introducao": "Se você já levou uma planta linda para casa e duas semanas depois ela estava seca, respire. Isso acontece com muita gente, e quase nunca é falta de jeito. Muitas vezes é excesso de cuidado. Neste texto, a gente conversa sobre o erro de rega que mais custa caro, um teste que não gasta nada e alguns jeitos de economizar no dia a dia. Tudo com base no ebook do André sobre jardim lindo com pouco dinheiro. Sem receita complicada e sem culpa. Vamos com calma, um passo de cada vez.",
+    "secoes": [
+      {
+        "titulo": "Por que água demais faz tanto mal",
+        "paragrafos": [
+          "Parece contraditório, mas regar demais pode ser pior do que esquecer de regar. Segundo o livro, regar demais afoga a raiz. Pense assim: a raiz precisa de oxigênio tanto quanto precisa de água. Quando o vaso fica encharcado o tempo todo, esse ar some.",
+          "O livro diz que o vaso encharcado vira um pântano, a raiz apodrece e a planta morre. Por isso o André chama esse erro de excesso de amor. Você não fez nada por maldade. Fez por carinho, e agora já sabe um jeito melhor de cuidar."
+        ],
+        "fatosUsados": [
+          0
+        ]
+      },
+      {
+        "titulo": "Regar pelo calendário não funciona",
+        "paragrafos": [
+          "Muita gente segue uma regra de dias fixos, como regar toda segunda, quarta e sexta. O livro pede para esquecer o calendário, porque a planta não sabe que dia é hoje. Ela reage à temperatura e à umidade do ar.",
+          "Isso quer dizer que a mesma planta pode precisar de mais água numa semana e de menos na outra. Quem manda é a terra, e não o dia da semana. O livro não dá um número de regas por semana, e de propósito. O que ele ensina é um teste simples, que a gente vê a seguir."
+        ],
+        "fatosUsados": [
+          1
+        ]
+      },
+      {
+        "titulo": "O teste do dedo, passo a passo",
+        "paragrafos": [
+          "Antes de abrir a torneira, enfie o dedo indicador na terra. O livro fala em cerca de 3 a 5 cm, mais ou menos duas falanges do dedo. Não precisa ter nojo. É o teste mais confiável do mundo, nas palavras do André.",
+          "Saiu sujo e úmido, com terra grudada no dedo? Não regue. A planta ainda tem reserva de água. Espere um ou dois dias e teste de novo. Saiu limpo e seco, com a terra seca ou arenosa? Aí a planta está com sede e pode ser regada.",
+          "A jiboia também ajuda a gente. Quando está com muita sede, as folhas murcham e enrolam levemente. Mesmo assim, o dedo é o primeiro sinal, antes de a folha reclamar."
+        ],
+        "fatosUsados": [
+          2,
+          3,
+          4,
+          8
+        ]
+      },
+      {
+        "titulo": "Como regar do jeito certo",
+        "paragrafos": [
+          "Na hora de regar, vá devagar. Molhe toda a superfície da terra, até a água começar a sair pelos furos de baixo do vaso. Assim a água chega à raiz e não só ao centro do vaso.",
+          "Se for possível, leve a planta até a pia, o tanque ou o box. Fica mais fácil deixar a água escorrer bem. Se não der, sem problema: faça o que estiver ao seu alcance e vá com paciência."
+        ],
+        "fatosUsados": [
+          5,
+          6
+        ]
+      },
+      {
+        "titulo": "Cuidar custa menos do que comprar de novo",
+        "paragrafos": [
+          "O livro lembra que cuidar é bem mais barato do que comprar de novo. Quando você entende a planta, deixa de gastar dinheiro todo mês repondo as que morreram. E o tal dedo verde não é dom de ninguém: é observação e constância.",
+          "Uma ajuda a mais vem da cozinha. A água em que você cozinhou legumes ou ovos, sem sal e sem óleo, pode regar as plantas depois de esfriar completamente. O cuidado com o sal é sério, porque o sal mata a planta. Se tiver dúvida, use água limpa mesmo."
+        ],
+        "fatosUsados": [
+          7,
+          9,
+          10,
+          11
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Quantas vezes por semana devo regar a jiboia?",
+        "resposta": "O livro não dá um número fixo de regas por semana. Ele pede para esquecer o calendário e usar o teste do dedo. Se o dedo sai limpo e seco, é hora de regar. Se sai sujo e úmido, espere um ou dois dias."
+      },
+      {
+        "pergunta": "Posso usar a água do cozimento para regar?",
+        "resposta": "Pode, segundo o livro, desde que seja de legumes ou ovos cozidos sem sal e sem óleo, e que tenha esfriado por completo. O sal mata a planta."
+      },
+      {
+        "pergunta": "Como sei que a jiboia está com sede?",
+        "resposta": "O livro conta que, com muita sede, as folhas da jiboia murcham e enrolam levemente. O melhor é não esperar chegar a esse ponto e fazer o teste do dedo antes."
+      }
+    ],
+    "conclusao": "Regar bem é menos sobre quantidade de carinho e mais sobre a hora certa. Faça o teste do dedo, espere quando a terra estiver úmida e regue devagar até a água sair pelos furos quando estiver seca. Errar faz parte, e cada planta que você salva é dinheiro que fica no seu bolso. Salve este texto para a próxima dúvida e conte para quem também tem medo de errar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

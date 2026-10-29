@@ -4,97 +4,116 @@
     {
       "palavra": "CODIGO",
       "titulo": "O Código Secreto das Plantas",
-      "pdf": "1-O-Codigo-Secreto-das-Plantas.pdf"
+      "pdf": "1-O-Codigo-Secreto-das-Plantas.pdf",
+      "capa": "O-Codigo-Secreto-das-Plantas.jpeg"
     },
     {
       "palavra": "IMORTAL",
       "titulo": "O Esquadrão Imortal: 6 Plantas Indestrutíveis",
-      "pdf": "2-O-Esquadrao-Imortal.pdf"
+      "pdf": "2-O-Esquadrao-Imortal.pdf",
+      "capa": "esquadraoimortal.jpeg"
     },
     {
       "palavra": "GRATIDAO",
       "titulo": "Plantas da Gratidão: Proteção para o Lar",
-      "pdf": "3-Plantas-da-Gratidao.pdf"
+      "pdf": "3-Plantas-da-Gratidao.pdf",
+      "capa": "plantasdegratidao.jpeg"
     },
     {
       "palavra": "ECONOMIA",
       "titulo": "Jardim Lindo com Pouco Dinheiro",
-      "pdf": "4-Jardim-Lindo-com-Pouco-Dinheiro.pdf"
+      "pdf": "4-Jardim-Lindo-com-Pouco-Dinheiro.pdf",
+      "capa": "jardimbonitoebarato.jpeg"
     },
     {
       "palavra": "VERTICAL",
       "titulo": "Jardim Vertical: Seu Novo Quintal na Parede",
-      "pdf": "5-O-Seu-Novo-Quintal-e-na-Parede.pdf"
+      "pdf": "5-O-Seu-Novo-Quintal-e-na-Parede.pdf",
+      "capa": "jardimvertical.jpeg"
     },
     {
       "palavra": "TERAPIA",
       "titulo": "Jardim Terapêutico: Plantas que Curam",
-      "pdf": "6-Jardim-Terapeutico.pdf"
+      "pdf": "6-Jardim-Terapeutico.pdf",
+      "capa": "jardimterapeutico.jpeg"
     },
     {
       "palavra": "PEQUENO",
       "titulo": "Jardim Pequeno, Amor Gigante",
-      "pdf": "7-Jardim-Pequeno-Amor-Gigante.pdf"
+      "pdf": "7-Jardim-Pequeno-Amor-Gigante.pdf",
+      "capa": "pequenojardimgiganteamor.jpeg"
     },
     {
       "palavra": "HORTA",
       "titulo": "Horta na Varanda: Tenha Temperos Frescos",
-      "pdf": "8-Horta-na-Varanda.pdf"
+      "pdf": "8-Horta-na-Varanda.pdf",
+      "capa": "hortanavaranda.jpeg"
     },
     {
       "palavra": "LUZ",
       "titulo": "Guia de Luz: Sol, Sombra ou Meia-Sombra?",
-      "pdf": "9-Plantas-para-Varanda-Pequena-o-guia-gentil-de-sol-meia-sombra-e-sombra.pdf"
+      "pdf": "9-Plantas-para-Varanda-Pequena-o-guia-gentil-de-sol-meia-sombra-e-sombra.pdf",
+      "capa": "guiadeluzesombra.jpeg"
     },
     {
       "palavra": "PET",
       "titulo": "Pets e Plantas: Guia de Segurança",
-      "pdf": "10-Guia-Gentil-Plantas-Caes-e-Gatos.pdf"
+      "pdf": "10-Guia-Gentil-Plantas-Caes-e-Gatos.pdf",
+      "capa": "plantascaesegatos.jpeg"
     },
     {
       "palavra": "SUCULENTA",
       "titulo": "Suculentas: O Guia para Não Matar Afogada",
-      "pdf": "11-Como-Plantar-Suculentas.pdf"
+      "pdf": "11-Como-Plantar-Suculentas.pdf",
+      "capa": "comoplantarsuculentas.jpeg"
     },
     {
       "palavra": "DESERTO",
       "titulo": "Rosa do Deserto: Segredos do Caudex",
-      "pdf": "12-Como-Plantar-Rosa-do-Deserto.pdf"
+      "pdf": "12-Como-Plantar-Rosa-do-Deserto.pdf",
+      "capa": "comoplantarroadodeserto-2.jpeg"
     },
     {
       "palavra": "MORANGO",
       "titulo": "Morangos do Coração: Colha Doçura",
-      "pdf": "13-Morangos-do-Coracao.pdf"
+      "pdf": "13-Morangos-do-Coracao.pdf",
+      "capa": "comoplantarmorangos.jpeg"
     },
     {
       "palavra": "HORTELA",
       "titulo": "Hortelã: O Aroma da Infância",
-      "pdf": "14-O-Cheirinho-que-Mora-na-Memoria.pdf"
+      "pdf": "14-O-Cheirinho-que-Mora-na-Memoria.pdf",
+      "capa": "aromadamemoria.jpeg"
     },
     {
       "palavra": "CEBOLINHA",
       "titulo": "Cebolinha Infinita: Adeus Mercado",
-      "pdf": "15-Como-Plantar-Cebolinha-em-Casa.pdf"
+      "pdf": "15-Como-Plantar-Cebolinha-em-Casa.pdf",
+      "capa": "complantarcebolinha.jpeg"
     },
     {
       "palavra": "JIBOIA",
       "titulo": "Jiboia: A Planta que Perdoa Tudo",
-      "pdf": "16-Jiboia-na-Sala.pdf"
+      "pdf": "16-Jiboia-na-Sala.pdf",
+      "capa": "jibioianasala.jpeg"
     },
     {
       "palavra": "ALFACE",
       "titulo": "Alface em Casa: Salada Crocante",
-      "pdf": "17-Alface-em-Casa.pdf"
+      "pdf": "17-Alface-em-Casa.pdf",
+      "capa": "comoplantaralface.jpeg"
     },
     {
       "palavra": "GRAMA",
       "titulo": "Tapete Verde: O Gramado Perfeito",
-      "pdf": "18-O-TAPETE-VERDE-DA-BONDADE.pdf"
+      "pdf": "18-O-TAPETE-VERDE-DA-BONDADE.pdf",
+      "capa": "comocantargrama.jpeg"
     },
     {
       "palavra": "TOMATE",
       "titulo": "Tomate em Vaso: Colheita Farta",
-      "pdf": "19-Tomate-em-Vaso.pdf"
+      "pdf": "19-Tomate-em-Vaso.pdf",
+      "capa": "comoplantartomate.jpeg"
     }
   ]
 }

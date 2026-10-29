@@ -6,6 +6,7 @@ import { paraDataUri } from './dc/imagens.mjs';
 import { OBRIGATORIOS } from './contrato.mjs';
 import { ESTRUTURA, problemasDoRoteiro } from './estrutura.mjs';
 import { medirEstouro } from './estouro.mjs';
+import { ctaDoFinal } from './cta.mjs';
 import { legendaDe } from './legenda.mjs';
 import { montarSlide } from './moldes.mjs';
 import { FOTO_LIMPA, moldeDoDia } from './rotacao.mjs';
@@ -75,8 +76,14 @@ export async function montarDia(post, opcoes) {
     if (ESTRUTURA[i] === 'capa') return capaUri;
     return i === SLIDE_DENTRO && dentroUri ? dentroUri : fotoUri;
   };
+  const cta = ctaDoFinal(post.palavra, tituloEbook);
+  const comCta = (slide, i) => (ESTRUTURA[i] === 'final' ? { ...slide, ...cta } : slide);
   const paginas = post.slides.map((slide, i) => ({
-    html: montarSlide(molde, ESTRUTURA[i], dadosDoSlide(slide, i, fotoDe(i), foto.credito, !!capa)),
+    html: montarSlide(
+      molde,
+      ESTRUTURA[i],
+      dadosDoSlide(comCta(slide, i), i, fotoDe(i), foto.credito, !!capa),
+    ),
     saida: path.join(saida, `${dia}-${molde}-${String(i + 1).padStart(2, '0')}.png`),
     fotoLimpa: FOTO_LIMPA.has(molde),
     capa: ESTRUTURA[i] === 'capa',

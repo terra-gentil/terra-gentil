@@ -65,5 +65,8 @@ with read-only textarea (aria-label "Resultado JSON") always updated with {"capa
    `capas/referencias/` no Elenco e clica "Baixar elenco" (guardar o JSON junto das referências).
 3. "Carregar fila" com o JSON, "Gerar selecionadas", conferir o custo e confirmar.
 4. Linha com aviso: olhar a imagem. Só entra no banco o que o André aprovar.
-5. "Baixar todas prontas" e importar: `node capas/importar-cli.mjs C:\Users\engan\Downloads`.
+5. "Baixar todas prontas", **triar o rosto antes de o André ver**:
+   `node capas/rosto/triar-cli.mjs <pasta>` move para `<pasta>/_rosto-reprovado` as capas com
+   rosto diferente do dele (nota abaixo de `LIMITE_ROSTO`, ou sem rosto). Só o que sobra vai
+   para a revisão do André. Depois importar: `node capas/importar-cli.mjs <pasta>`.
 6. Commitar `capas/banco/`. O carrossel passa a usar a capa sozinho (rodízio por espécie).

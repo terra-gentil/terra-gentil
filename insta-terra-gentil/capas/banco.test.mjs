@@ -85,6 +85,6 @@ test('lerPosts pega dia do nome e ignora arquivos fora do padrão', () => {
   const pasta = fs.mkdtempSync(path.join(os.tmpdir(), 'tg-posts-'));
   fs.writeFileSync(path.join(pasta, '2026-10-28-imortal.json'), '{"especie":"Aloe vera"}');
   fs.writeFileSync(path.join(pasta, '.gitkeep'), '');
-  assert.deepEqual(lerPosts(pasta), [{ dia: '2026-10-28', especie: 'Aloe vera' }]);
+  assert.deepEqual(lerPosts(pasta), [{ dia: '2026-10-28', especie: 'Aloe vera', tema: null }]);
   fs.rmSync(pasta, { recursive: true });
 });

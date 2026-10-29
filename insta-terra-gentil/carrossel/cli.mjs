@@ -24,15 +24,20 @@ const ebook = post.palavra ? buscarPorPalavra(carregarPalavras(), post.palavra) 
 const { especies: catalogo } = lerJson(path.join(DADOS, 'capas.json'));
 const posts = lerPosts(path.join(DADOS, 'posts'));
 const pastaBanco = naRaiz('capas', 'banco');
-const banco = { catalogo, pastaBanco, posts, revisao: lerRevisao(pastaBanco),
-  rosto: lerRosto(pastaBanco) };
+const banco = {
+  catalogo,
+  pastaBanco,
+  posts,
+  revisao: lerRevisao(pastaBanco),
+  rosto: lerRosto(pastaBanco),
+};
 
 const resultado = await montarDia(post, {
   dia,
   saida: naRaiz('saida', dia),
   renderizar,
   obterFoto: (especie) => fotoDoDia(especie, { curadas, pasta: pastaFotos }),
-  obterCapa: (especie, d) => capaDoDia(especie, d, banco),
+  obterCapa: (p, d) => capaDoDia(p, d, banco),
   tituloEbook: ebook?.titulo,
 });
 

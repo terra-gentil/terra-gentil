@@ -108,6 +108,13 @@ ou "plantas de interior". Se o livro é geral (sinais, rega, luz), escolha a pla
 visível que ilustra o tema no próprio livro. O `gravar` recusa especie fora do formato
 "Gênero espécie" e nome genérico.
 
+Campo `tema` (opcional, logo depois de `nome`): quando o post é de um assunto e não de cuidar de
+uma planta, escreva um destes: regar, adubar, podar, praga, trocar-vaso, compostagem, ferramentas,
+horta, jardim-vertical, gramado, mato, solo, pet, luz, muda. A capa sai do André nesse tema (ex.:
+praga no tomate = capa de praga). Post de uma planta só leva `tema: null`. Fato da bíblia com
+`esp` praga, mato, solo, regar, adubar, podar, compostagem, horta ou trocar-vaso já indica o tema
+(grama = gramado).
+
 Campo `materia` (o texto da página do site, mesmos fatos do carrossel). Vai no mesmo
 `/tmp/bruto.json`, logo depois de `fatosUsados`, neste formato (o `bruto-exemplo.json` traz um
 modelo completo):

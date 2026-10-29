@@ -53,7 +53,7 @@ function dadosDoSlide(slide, i, foto, credito, pessoa) {
 }
 
 // post = { especie, gancho, resumo?, palavra?, slides[8] }. dependências injetáveis para teste.
-// obterCapa (opcional) devolve a capa do André com a planta (capas/banco.mjs) ou null.
+// obterCapa (opcional) devolve a capa do André com a planta ou o tema (capas/banco.mjs) ou null.
 export async function montarDia(post, opcoes) {
   const { dia, saida, renderizar, obterFoto, obterCapa, tituloEbook } = opcoes;
   const problemas = problemasDoRoteiro(post.slides);
@@ -64,15 +64,11 @@ export async function montarDia(post, opcoes) {
   const molde = moldeDoDia(dia);
   const foto = await obterFoto(post.especie);
   const fotoUri = paraDataUri(foto.caminho);
-  const capa = obterCapa ? await obterCapa(post.especie, dia) : null;
+  const capa = obterCapa ? await obterCapa(post, dia) : null;
   const capaUri = capa ? paraDataUri(capa.caminho) : fotoUri;
   const fotoDe = (i) => (ESTRUTURA[i] === 'capa' ? capaUri : fotoUri);
   const paginas = post.slides.map((slide, i) => ({
-    html: montarSlide(
-      molde,
-      ESTRUTURA[i],
-      dadosDoSlide(slide, i, fotoDe(i), foto.credito, !!capa),
-    ),
+    html: montarSlide(molde, ESTRUTURA[i], dadosDoSlide(slide, i, fotoDe(i), foto.credito, !!capa)),
     saida: path.join(saida, `${dia}-${molde}-${String(i + 1).padStart(2, '0')}.png`),
     fotoLimpa: FOTO_LIMPA.has(molde),
     capa: ESTRUTURA[i] === 'capa',

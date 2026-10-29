@@ -1,4 +1,5 @@
 // Monta e confere o post: fatos contra o livro, formato, tamanhos, travessão e fechamento da marca.
+import { TEMAS } from '../capas/catalogo.mjs';
 import { ESTRUTURA, problemasDoRoteiro } from '../carrossel/estrutura.mjs';
 import { CHAVES_DO_BRUTO, FINAL_FIXO, chaveDoSlide } from './esquema.mjs';
 import { fonteDoFato } from './biblia.mjs';
@@ -31,6 +32,9 @@ export function conferirPost(post, { livro, paginas, biblia = null }) {
   }
   if (textoOk(post?.especie) && !CIENTIFICO.test(post.especie.trim())) {
     problemas.push('"especie" deve ser o nome científico ("Gênero espécie")');
+  }
+  if (post?.tema != null && !TEMAS.includes(post.tema)) {
+    problemas.push(`tema desconhecido: ${post.tema} (use ${TEMAS.join(', ')} ou null)`);
   }
   if (GENERICOS.test((post?.nome ?? '').trim())) {
     problemas.push('"nome" genérico: use o nome popular de uma planta concreta');
@@ -72,12 +76,13 @@ export function montarPost(bruto, { livro, paginas, dia, pauta = null, biblia = 
     return tipo === 'final' ? { ...slide, ...FINAL_FIXO } : slide;
   });
   const { palavra, especie, nome, serie, gancho, resumo, fatosUsados, materia } = bruto;
+  const tema = bruto.tema ?? null;
   const fatos = Array.isArray(bruto.fatos) ? bruto.fatos : [];
   const comFonte = fatos.map((f) => ({ ...f, fonte: fonteDoFato(f, livro.titulo, biblia) }));
   const fontes = Array.isArray(fatosUsados)
     ? [...new Set(fatosUsados.map((n) => comFonte[n]?.fonte))]
     : [];
-  const post = { dia, palavra, especie, nome, serie, gancho, resumo, slides };
+  const post = { dia, palavra, especie, nome, tema, serie, gancho, resumo, slides };
   Object.assign(post, { fatos: comFonte, fatosUsados, fontes, materia });
   post.fonteNoticia = resolverNoticia(bruto.noticia, pauta);
   const problemas = conferirPost(post, { livro, paginas, biblia });

@@ -81,3 +81,13 @@ test('post montado com fato da bíblia: fontes batem e a conferência passa', ()
   const post = montarPost(b, { livro, paginas, dia: '2026-10-29', biblia });
   assert.ok(post.fontes.includes('Squire, p. 40'));
 });
+
+test('tema do post: vazio ou um dos temas com coringa', () => {
+  const b = bruto();
+  b.tema = 'praga';
+  assert.equal(montarPost(b, { livro, paginas, dia: '2026-10-29' }).tema, 'praga');
+  b.tema = 'fofoca';
+  assert.throws(() => montarPost(b, { livro, paginas, dia: '2026-10-29' }), /tema desconhecido/);
+  delete b.tema;
+  assert.equal(montarPost(b, { livro, paginas, dia: '2026-10-29' }).tema, null);
+});

@@ -1,21 +1,19 @@
 # Capas que faltam para os carrosséis das bíblias (29/10/2026)
 
 Resumo: o estoque das bíblias (dados/biblia.json, 1.502 fatos) rende cerca de 290 carrosséis.
-Cruzado com o banco (170 capas aprovadas, 46 entradas), faltam cerca de 66 capas e há 2 travas no
-código que deixam 56 capas aprovadas sem uso. Novas entradas já estão em dados/capas.json: gerar
+Cruzado com o banco (170 capas aprovadas), faltam cerca de 66 capas. As 2 travas que deixavam 56
+capas aprovadas sem uso foram consertadas em 29/10. Novas entradas já estão em dados/capas.json: gerar
 a fila com `node capas/fila-cli.mjs <slug>` e rodar na ferramenta "Capas TG" do Flow.
 
-## Travas no código (capaDoDia procura só catalogo[post.especie])
-1. Chave que não é "Gênero espécie" nunca casa, porque o post exige o nome científico completo:
-   Phalaenopsis, Echeveria, Cactaceae, Begonia, Guzmania, Rosa e "Fragaria × ananassa" (o ×
-   falha na regra). São orquídea, suculenta, cacto, begônia, bromélia, roseira e morango: 26 capas
-   aprovadas paradas, e orquídea e suculenta são os 2 maiores temas do estoque.
-   Conserto proposto: procurar também pelo gênero (1a palavra) e por uma lista de gêneros da
-   família no cacto.
-2. Coringa nunca é escolhido: o post sempre tem uma espécie. As 30 capas de coringa (praga,
-   regar, adubar...) estão paradas. Conserto proposto: campo `tema` no post (praga, mato, solo,
-   pet, luz, muda, regar, adubar, podar, trocar-vaso, compostagem, horta, gramado) e a capa sai
-   do coringa do tema quando houver.
+## Travas no código: CONSERTADAS em 29/10
+1. Espécie pelo gênero (capas/catalogo.mjs): chave de uma palavra (Phalaenopsis, Echeveria,
+   Begonia, Guzmania, Rosa) ou lista "generos" na entrada (cacto, morango, bromélias, orquídeas
+   novas, lírio, haworthia). Só quando é seguro: "Solanum tuberosum" não pega o tomate e gênero
+   em duas entradas (Dracaena) não escolhe. Provado no banco real: orquídea, suculenta, cacto,
+   begônia, bromélia, roseira e morango voltaram a sair (26 capas).
+2. Campo `tema` no post (regar, praga, mato, solo, pet...): a capa do coringa vem antes da planta;
+   sem capa do tema, cai na planta. As 30 capas de coringa voltaram a sair.
+3. Rodízio por capa: posts de espécies do mesmo gênero e do mesmo tema somam juntos.
 
 ## O que gerar, por prioridade (carrosséis do estoque > capas)
 | # | Slug | Tema no estoque | Carrosséis | Tem | Gerar |
@@ -49,5 +47,3 @@ Conta: 1 capa para cada 4 carrosséis do tema, mínimo 3 por planta nova. Com 84
 - coringa-praga: a capa mostra o André olhando a folha, sem bicho na imagem (EVITAR proíbe
   praga e folha comida, e IA desenha praga errado).
 - coringa-pet: cão e gato entram na cena; "other people" continua proibido.
-- Antes de gerar orquídea e suculenta, consertar a trava 1, senão as capas novas também ficam
-  paradas.

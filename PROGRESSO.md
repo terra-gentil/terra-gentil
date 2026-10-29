@@ -1,5 +1,6 @@
 # PROGRESSO Terra Gentil
 
+**CORRECAO 2 (28/10 noite):** o Andre tambem aprovou bambu-da-sorte-A-1 e bambu-da-sorte-C-1 (bone liso sem logo e aceito). Total: **64 aprovadas, 5 em duvida, 13 reprovadas** (bambu-D, buganvilia-E, coringa-gramado-C, coringa-horta-B, coringa-jardim-vertical A e B, coringa-regar-C, girassol-B e D, jabuticabeira A B E, lavanda-E).
 **CORRECAO (28/10 noite):** o Andre abriu roseira-C-1 e roseira-D-1 e estao BOAS (conferido em tamanho cheio: logo e grafia certos; eu tinha reprovado pela miniatura). Total agora: **62 aprovadas, 5 em duvida, 15 reprovadas**. Licao: reprovar por logo/grafia so depois de ver em tamanho cheio (896x1200), nunca pela folha de 540px. Reconferidas em tamanho cheio e mantidas reprovadas, mas limitrofes: bambu-da-sorte-D-1 (bone e camiseta so com texto, sem icone), bambu-da-sorte-A-1 (rosto otimo, mas bone liso sem logo), buganvilia-E-1 (bone sem icone e rosto de homem mais velho).
 
 ## VISTORIA DO LOTE DAS 82 FEITA (28/10/2026, noite): 60 aprovadas, 5 em duvida, 17 reprovadas

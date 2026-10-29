@@ -32,6 +32,10 @@ test('toda capa aprovada sai de verdade no capaDoDia, pelo post de exemplo', () 
   for (const l of cobertura(especies, opcoes).filter((x) => x.aprovadas)) {
     const capa = capaDoDia(l.alcanca, '2026-11-01', opcoes);
     assert.ok(capa?.caminho.includes(`${path.sep}${l.slug}${path.sep}`), `${l.chave} não sai`);
+    if (l.aprovadas > 1) {
+      assert.ok(capa.dentro, `${l.chave} tem ${l.aprovadas} fotos e saiu sem foto de dentro`);
+      assert.notEqual(capa.dentro, capa.caminho, `${l.chave}: foto de dentro igual à capa`);
+    }
   }
 });
 

@@ -16,6 +16,8 @@ const poseDoMascote = (i) => path.join(IMAGENS, 'mascot', `pose-${(i % 8) + 1}.j
 const FOTO_ANDRE = path.join(IMAGENS, 'photos', 'andre-bench.png');
 const ESCURECIMENTO_CAPA = 30;
 const ESCURECIMENTO_CAPA_ANDRE = 8; // foto do André: véu mínimo para a logo aparecer
+// Slide da segunda foto do André (o "Passo 1", onde ele mostra como faz).
+export const SLIDE_DENTRO = ESTRUTURA.indexOf('passo');
 // Enquadramento da foto por slide, para os 8 não parecerem o mesmo recorte repetido.
 const ENQUADRAMENTOS = [
   ['center', 1],
@@ -66,13 +68,19 @@ export async function montarDia(post, opcoes) {
   const fotoUri = paraDataUri(foto.caminho);
   const capa = obterCapa ? await obterCapa(post, dia) : null;
   const capaUri = capa ? paraDataUri(capa.caminho) : fotoUri;
-  const fotoDe = (i) => (ESTRUTURA[i] === 'capa' ? capaUri : fotoUri);
+  const dentroUri = capa?.dentro ? paraDataUri(capa.dentro) : null;
+  const comAndre = (i) =>
+    (ESTRUTURA[i] === 'capa' && !!capa) || (i === SLIDE_DENTRO && !!dentroUri);
+  const fotoDe = (i) => {
+    if (ESTRUTURA[i] === 'capa') return capaUri;
+    return i === SLIDE_DENTRO && dentroUri ? dentroUri : fotoUri;
+  };
   const paginas = post.slides.map((slide, i) => ({
     html: montarSlide(molde, ESTRUTURA[i], dadosDoSlide(slide, i, fotoDe(i), foto.credito, !!capa)),
     saida: path.join(saida, `${dia}-${molde}-${String(i + 1).padStart(2, '0')}.png`),
     fotoLimpa: FOTO_LIMPA.has(molde),
     capa: ESTRUTURA[i] === 'capa',
-    pessoa: ESTRUTURA[i] === 'capa' && !!capa,
+    pessoa: comAndre(i),
   }));
   const avisos = [];
   const aoAbrir = async (pagina, arquivo) => {
@@ -87,6 +95,7 @@ export async function montarDia(post, opcoes) {
   const { credito, provedor } = foto;
   const ficha = { dia, molde, especie, credito, provedor, avisos, noticia: urlNoticia };
   ficha.capa = capa ? path.basename(capa.caminho) : null;
+  ficha.dentro = capa?.dentro ? path.basename(capa.dentro) : null;
   fs.writeFileSync(path.join(saida, `${dia}-ficha.json`), `${JSON.stringify(ficha, null, 2)}\n`);
   return { molde, pngs, legenda, avisos, foto, capa };
 }

@@ -11,7 +11,14 @@ function rostoBom(pasta, ids) {
   const hash = (id) => hashDoArquivo(path.join(pasta, 'orquidea', `${id}.jpg`));
   return Object.fromEntries(ids.map((id) => [id, { nota: 0.9, sha256: hash(id) }]));
 }
-import { capaDoDia, capasDaEspecie, escolherCapa, lerPosts, vezesAntes } from './banco.mjs';
+import {
+  capaDoDia,
+  capasDaEspecie,
+  escolherCapa,
+  fotosDaVez,
+  lerPosts,
+  vezesAntes,
+} from './banco.mjs';
 
 function banco() {
   const pasta = fs.mkdtempSync(path.join(os.tmpdir(), 'tg-capas-'));
@@ -87,4 +94,17 @@ test('lerPosts pega dia do nome e ignora arquivos fora do padrão', () => {
   fs.writeFileSync(path.join(pasta, '.gitkeep'), '');
   assert.deepEqual(lerPosts(pasta), [{ dia: '2026-10-28', especie: 'Aloe vera', tema: null }]);
   fs.rmSync(pasta, { recursive: true });
+});
+
+test('capa e foto de dentro: a de dentro vira a capa do próximo, a capa só volta no fim', () => {
+  const seq = (fotos, k) => fotosDaVez(fotos, k);
+  assert.deepEqual(seq(['A', 'B'], 0), { capa: 'A', dentro: 'B' });
+  assert.deepEqual(seq(['A', 'B'], 1), { capa: 'B', dentro: 'A' });
+  assert.deepEqual(seq(['A', 'B', 'C'], 2), { capa: 'C', dentro: 'A' });
+  assert.deepEqual(seq(['A'], 3), { capa: 'A', dentro: null });
+  assert.equal(seq([], 0), null);
+  const fotos = ['A', 'B', 'C', 'D'];
+  const capas = [0, 1, 2, 3].map((k) => seq(fotos, k).capa);
+  assert.deepEqual(capas, fotos);
+  for (let k = 0; k < 8; k++) assert.notEqual(seq(fotos, k).capa, seq(fotos, k).dentro);
 });

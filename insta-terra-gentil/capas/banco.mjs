@@ -59,19 +59,30 @@ export function aprovadasDo(slug, { pastaBanco, revisao, rosto }) {
   });
 }
 
+// Capa e foto de dentro (slide 5) do k-ésimo post da capa: capa = foto k, dentro = foto k+1.
+// A capa só volta depois de passar por todas; a de dentro vira a capa do próximo (regra do André,
+// 29/10). Com uma foto só, não há foto de dentro.
+export function fotosDaVez(aprovadas, vezes) {
+  const n = aprovadas.length;
+  if (!n) return null;
+  return { capa: aprovadas[vezes % n], dentro: n > 1 ? aprovadas[(vezes + 1) % n] : null };
+}
+
 // post = { especie, tema } (ou só a espécie). catalogo = dados/capas.json .especies.
 // revisao = capas/banco/revisao.json (lerRevisao). Só entra capa aprovada, intacta e com rosto do
-// André; sem revisão e rosto, nada. Tema com capa vence a planta. Devolve { caminho, credito }.
+// André; sem revisão e rosto, nada. Tema com capa vence a planta.
+// Devolve { caminho, dentro, credito } (dentro = foto do slide 5 ou null) ou null.
 export function capaDoDia(post, dia, opcoes) {
   const { catalogo, posts, revisao, rosto } = opcoes;
   if (!revisao || !rosto) {
     throw new Error('[capas] sem revisão e nota de rosto, nenhuma capa é usada');
   }
   for (const entrada of entradasDoPost(post, catalogo)) {
-    const aprovadas = aprovadasDo(entrada.slug, opcoes);
-    if (!aprovadas.length) continue;
-    const caminho = escolherCapa(aprovadas, vezesDoSlug(entrada.slug, posts, dia, catalogo));
-    return { caminho, credito: 'Foto: Terra Gentil' };
+    const vez = fotosDaVez(
+      aprovadasDo(entrada.slug, opcoes),
+      vezesDoSlug(entrada.slug, posts, dia, catalogo),
+    );
+    if (vez) return { caminho: vez.capa, dentro: vez.dentro, credito: 'Foto: Terra Gentil' };
   }
   return null;
 }

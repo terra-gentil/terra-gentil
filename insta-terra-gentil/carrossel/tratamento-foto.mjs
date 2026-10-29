@@ -45,7 +45,9 @@ export function tratarFoto({ largura, altura, fotoLimpa = false, capa = false, p
     const mascara = 'linear-gradient(to bottom, transparent 12%, #000 45%)';
     // Na capa a planta é a protagonista: desfoque e véu leves, só o bastante para o texto ler.
     // Capa com o André: sem desfoque nem véu, para a logo da camiseta e do boné ficarem nítidas.
-    const [desfoque, veu] = pessoa ? [0, 0] : capa ? [3, 0.12] : [10, 0.3];
+    // André dentro do carrossel: sem desfoque (rosto nítido), véu leve embaixo para o texto ler.
+    const andre = capa ? [0, 0] : [0, 0.22];
+    const [desfoque, veu] = pessoa ? andre : capa ? [3, 0.12] : [10, 0.3];
     nova(`backdrop-filter:blur(${desfoque}px);background:rgba(11,20,16,${veu});` +
       `-webkit-mask-image:${mascara};mask-image:${mascara}`);
     // Gradiente de topo e base (o g02 do setlist): segura o contador e o rodapé.

@@ -32,7 +32,7 @@ export async function renderizar(paginas, opcoes = {}) {
       if (opcoes.tratar !== false) {
         const dadosFoto = { largura: LARGURA, altura: ALTURA, fotoLimpa, capa, pessoa };
         await pagina.evaluate(tratarFoto, dadosFoto);
-        if (pessoa) await pagina.evaluate(descerTitulo);
+        if (pessoa && capa) await pagina.evaluate(descerTitulo);
         await pagina.evaluate(sombrearCartoes);
         await pagina.evaluate(ajustarTitulos, { largura: LARGURA, margem: 56, tamanhoMinimo: 64 });
         const larguras = await pagina.evaluate(medirLinhasTitulo);

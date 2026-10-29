@@ -363,6 +363,82 @@
       "origem": "babosa-E-1.jpg"
     },
     {
+      "id": "bambu-da-sorte-A-1",
+      "arquivo": "bambu-da-sorte/bambu-da-sorte-A-1.jpg",
+      "slug": "bambu-da-sorte",
+      "especie": "Dracaena sanderiana",
+      "nome": "bambu-da-sorte",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "bambu-da-sorte",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "bambu-da-sorte-A-1.jpg"
+    },
+    {
+      "id": "bambu-da-sorte-B-1",
+      "arquivo": "bambu-da-sorte/bambu-da-sorte-B-1.jpg",
+      "slug": "bambu-da-sorte",
+      "especie": "Dracaena sanderiana",
+      "nome": "bambu-da-sorte",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "bambu-da-sorte",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "bambu-da-sorte-B-1.jpg"
+    },
+    {
+      "id": "bambu-da-sorte-C-1",
+      "arquivo": "bambu-da-sorte/bambu-da-sorte-C-1.jpg",
+      "slug": "bambu-da-sorte",
+      "especie": "Dracaena sanderiana",
+      "nome": "bambu-da-sorte",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "bambu-da-sorte",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "bambu-da-sorte-C-1.jpg"
+    },
+    {
+      "id": "bambu-da-sorte-E-1",
+      "arquivo": "bambu-da-sorte/bambu-da-sorte-E-1.jpg",
+      "slug": "bambu-da-sorte",
+      "especie": "Dracaena sanderiana",
+      "nome": "bambu-da-sorte",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "bambu-da-sorte",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "bambu-da-sorte-E-1.jpg"
+    },
+    {
       "id": "begonia-A-1",
       "arquivo": "begonia/begonia-A-1.jpg",
       "slug": "begonia",
@@ -456,6 +532,177 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "begonia-E-1.jpg"
+    },
+    {
+      "id": "bromelia-A-1",
+      "arquivo": "bromelia/bromelia-A-1.jpg",
+      "slug": "bromelia",
+      "especie": "Guzmania",
+      "nome": "bromélia",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "bromelia",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "bromelia-A-1.jpg"
+    },
+    {
+      "id": "bromelia-B-1",
+      "arquivo": "bromelia/bromelia-B-1.jpg",
+      "slug": "bromelia",
+      "especie": "Guzmania",
+      "nome": "bromélia",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "bromelia",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "bromelia-B-1.jpg"
+    },
+    {
+      "id": "bromelia-C-1",
+      "arquivo": "bromelia/bromelia-C-1.jpg",
+      "slug": "bromelia",
+      "especie": "Guzmania",
+      "nome": "bromélia",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "bromelia",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "bromelia-C-1.jpg"
+    },
+    {
+      "id": "bromelia-D-1",
+      "arquivo": "bromelia/bromelia-D-1.jpg",
+      "slug": "bromelia",
+      "especie": "Guzmania",
+      "nome": "bromélia",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "bromelia",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "bromelia-D-1.jpg"
+    },
+    {
+      "id": "bromelia-E-1",
+      "arquivo": "bromelia/bromelia-E-1.jpg",
+      "slug": "bromelia",
+      "especie": "Guzmania",
+      "nome": "bromélia",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "bromelia",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "bromelia-E-1.jpg"
+    },
+    {
+      "id": "buganvilia-A-1",
+      "arquivo": "buganvilia/buganvilia-A-1.jpg",
+      "slug": "buganvilia",
+      "especie": "Bougainvillea glabra",
+      "nome": "buganvília",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "buganvilia",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "buganvilia-A-1.jpg"
+    },
+    {
+      "id": "buganvilia-B-1",
+      "arquivo": "buganvilia/buganvilia-B-1.jpg",
+      "slug": "buganvilia",
+      "especie": "Bougainvillea glabra",
+      "nome": "buganvília",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "buganvilia",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "buganvilia-B-1.jpg"
+    },
+    {
+      "id": "buganvilia-C-1",
+      "arquivo": "buganvilia/buganvilia-C-1.jpg",
+      "slug": "buganvilia",
+      "especie": "Bougainvillea glabra",
+      "nome": "buganvília",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "buganvilia",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "buganvilia-C-1.jpg"
+    },
+    {
+      "id": "buganvilia-D-1",
+      "arquivo": "buganvilia/buganvilia-D-1.jpg",
+      "slug": "buganvilia",
+      "especie": "Bougainvillea glabra",
+      "nome": "buganvília",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "buganvilia",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "buganvilia-D-1.jpg"
     },
     {
       "id": "cacto-A-1",
@@ -610,6 +857,576 @@
       "origem": "cebolinha-E-1.jpg"
     },
     {
+      "id": "comigo-ninguem-pode-A-1",
+      "arquivo": "comigo-ninguem-pode/comigo-ninguem-pode-A-1.jpg",
+      "slug": "comigo-ninguem-pode",
+      "especie": "Dieffenbachia seguine",
+      "nome": "comigo-ninguém-pode",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "comigo-ninguem-pode",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "comigo-ninguem-pode-A-1.jpg"
+    },
+    {
+      "id": "comigo-ninguem-pode-B-1",
+      "arquivo": "comigo-ninguem-pode/comigo-ninguem-pode-B-1.jpg",
+      "slug": "comigo-ninguem-pode",
+      "especie": "Dieffenbachia seguine",
+      "nome": "comigo-ninguém-pode",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "comigo-ninguem-pode",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "comigo-ninguem-pode-B-1.jpg"
+    },
+    {
+      "id": "comigo-ninguem-pode-C-1",
+      "arquivo": "comigo-ninguem-pode/comigo-ninguem-pode-C-1.jpg",
+      "slug": "comigo-ninguem-pode",
+      "especie": "Dieffenbachia seguine",
+      "nome": "comigo-ninguém-pode",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "comigo-ninguem-pode",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "comigo-ninguem-pode-C-1.jpg"
+    },
+    {
+      "id": "comigo-ninguem-pode-D-1",
+      "arquivo": "comigo-ninguem-pode/comigo-ninguem-pode-D-1.jpg",
+      "slug": "comigo-ninguem-pode",
+      "especie": "Dieffenbachia seguine",
+      "nome": "comigo-ninguém-pode",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "comigo-ninguem-pode",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "comigo-ninguem-pode-D-1.jpg"
+    },
+    {
+      "id": "comigo-ninguem-pode-E-1",
+      "arquivo": "comigo-ninguem-pode/comigo-ninguem-pode-E-1.jpg",
+      "slug": "comigo-ninguem-pode",
+      "especie": "Dieffenbachia seguine",
+      "nome": "comigo-ninguém-pode",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "comigo-ninguem-pode",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "comigo-ninguem-pode-E-1.jpg"
+    },
+    {
+      "id": "coringa-adubar-A-1",
+      "arquivo": "coringa-adubar/coringa-adubar-A-1.jpg",
+      "slug": "coringa-adubar",
+      "especie": "coringa-adubar",
+      "nome": "adubar",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "coringa-adubar",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-adubar-A-1.jpg"
+    },
+    {
+      "id": "coringa-adubar-B-1",
+      "arquivo": "coringa-adubar/coringa-adubar-B-1.jpg",
+      "slug": "coringa-adubar",
+      "especie": "coringa-adubar",
+      "nome": "adubar",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "coringa-adubar",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-adubar-B-1.jpg"
+    },
+    {
+      "id": "coringa-adubar-C-1",
+      "arquivo": "coringa-adubar/coringa-adubar-C-1.jpg",
+      "slug": "coringa-adubar",
+      "especie": "coringa-adubar",
+      "nome": "adubar",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "coringa-adubar",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-adubar-C-1.jpg"
+    },
+    {
+      "id": "coringa-compostagem-A-1",
+      "arquivo": "coringa-compostagem/coringa-compostagem-A-1.jpg",
+      "slug": "coringa-compostagem",
+      "especie": "coringa-compostagem",
+      "nome": "compostagem",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "coringa-compostagem",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-compostagem-A-1.jpg"
+    },
+    {
+      "id": "coringa-compostagem-B-1",
+      "arquivo": "coringa-compostagem/coringa-compostagem-B-1.jpg",
+      "slug": "coringa-compostagem",
+      "especie": "coringa-compostagem",
+      "nome": "compostagem",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "coringa-compostagem",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-compostagem-B-1.jpg"
+    },
+    {
+      "id": "coringa-compostagem-C-1",
+      "arquivo": "coringa-compostagem/coringa-compostagem-C-1.jpg",
+      "slug": "coringa-compostagem",
+      "especie": "coringa-compostagem",
+      "nome": "compostagem",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "coringa-compostagem",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-compostagem-C-1.jpg"
+    },
+    {
+      "id": "coringa-ferramentas-A-1",
+      "arquivo": "coringa-ferramentas/coringa-ferramentas-A-1.jpg",
+      "slug": "coringa-ferramentas",
+      "especie": "coringa-ferramentas",
+      "nome": "ferramentas",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "coringa-ferramentas",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-ferramentas-A-1.jpg"
+    },
+    {
+      "id": "coringa-ferramentas-B-1",
+      "arquivo": "coringa-ferramentas/coringa-ferramentas-B-1.jpg",
+      "slug": "coringa-ferramentas",
+      "especie": "coringa-ferramentas",
+      "nome": "ferramentas",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "coringa-ferramentas",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-ferramentas-B-1.jpg"
+    },
+    {
+      "id": "coringa-ferramentas-C-1",
+      "arquivo": "coringa-ferramentas/coringa-ferramentas-C-1.jpg",
+      "slug": "coringa-ferramentas",
+      "especie": "coringa-ferramentas",
+      "nome": "ferramentas",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "coringa-ferramentas",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-ferramentas-C-1.jpg"
+    },
+    {
+      "id": "coringa-gramado-A-1",
+      "arquivo": "coringa-gramado/coringa-gramado-A-1.jpg",
+      "slug": "coringa-gramado",
+      "especie": "coringa-gramado",
+      "nome": "gramado",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "coringa-gramado",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-gramado-A-1.jpg"
+    },
+    {
+      "id": "coringa-gramado-B-1",
+      "arquivo": "coringa-gramado/coringa-gramado-B-1.jpg",
+      "slug": "coringa-gramado",
+      "especie": "coringa-gramado",
+      "nome": "gramado",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "coringa-gramado",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-gramado-B-1.jpg"
+    },
+    {
+      "id": "coringa-horta-A-1",
+      "arquivo": "coringa-horta/coringa-horta-A-1.jpg",
+      "slug": "coringa-horta",
+      "especie": "coringa-horta",
+      "nome": "horta",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "coringa-horta",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-horta-A-1.jpg"
+    },
+    {
+      "id": "coringa-horta-C-1",
+      "arquivo": "coringa-horta/coringa-horta-C-1.jpg",
+      "slug": "coringa-horta",
+      "especie": "coringa-horta",
+      "nome": "horta",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "coringa-horta",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-horta-C-1.jpg"
+    },
+    {
+      "id": "coringa-jardim-vertical-C-1",
+      "arquivo": "coringa-jardim-vertical/coringa-jardim-vertical-C-1.jpg",
+      "slug": "coringa-jardim-vertical",
+      "especie": "coringa-jardim-vertical",
+      "nome": "jardim vertical",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "coringa-jardim-vertical",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-jardim-vertical-C-1.jpg"
+    },
+    {
+      "id": "coringa-podar-A-1",
+      "arquivo": "coringa-podar/coringa-podar-A-1.jpg",
+      "slug": "coringa-podar",
+      "especie": "coringa-podar",
+      "nome": "podar",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "coringa-podar",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-podar-A-1.jpg"
+    },
+    {
+      "id": "coringa-podar-B-1",
+      "arquivo": "coringa-podar/coringa-podar-B-1.jpg",
+      "slug": "coringa-podar",
+      "especie": "coringa-podar",
+      "nome": "podar",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "coringa-podar",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-podar-B-1.jpg"
+    },
+    {
+      "id": "coringa-podar-C-1",
+      "arquivo": "coringa-podar/coringa-podar-C-1.jpg",
+      "slug": "coringa-podar",
+      "especie": "coringa-podar",
+      "nome": "podar",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "coringa-podar",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-podar-C-1.jpg"
+    },
+    {
+      "id": "coringa-praga-A-1",
+      "arquivo": "coringa-praga/coringa-praga-A-1.jpg",
+      "slug": "coringa-praga",
+      "especie": "coringa-praga",
+      "nome": "praga na folha",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "coringa-praga",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-praga-A-1.jpg"
+    },
+    {
+      "id": "coringa-praga-B-1",
+      "arquivo": "coringa-praga/coringa-praga-B-1.jpg",
+      "slug": "coringa-praga",
+      "especie": "coringa-praga",
+      "nome": "praga na folha",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "coringa-praga",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-praga-B-1.jpg"
+    },
+    {
+      "id": "coringa-praga-C-1",
+      "arquivo": "coringa-praga/coringa-praga-C-1.jpg",
+      "slug": "coringa-praga",
+      "especie": "coringa-praga",
+      "nome": "praga na folha",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "coringa-praga",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-praga-C-1.jpg"
+    },
+    {
+      "id": "coringa-regar-A-1",
+      "arquivo": "coringa-regar/coringa-regar-A-1.jpg",
+      "slug": "coringa-regar",
+      "especie": "coringa-regar",
+      "nome": "regar",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "coringa-regar",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-regar-A-1.jpg"
+    },
+    {
+      "id": "coringa-regar-B-1",
+      "arquivo": "coringa-regar/coringa-regar-B-1.jpg",
+      "slug": "coringa-regar",
+      "especie": "coringa-regar",
+      "nome": "regar",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "coringa-regar",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-regar-B-1.jpg"
+    },
+    {
+      "id": "coringa-trocar-vaso-A-1",
+      "arquivo": "coringa-trocar-vaso/coringa-trocar-vaso-A-1.jpg",
+      "slug": "coringa-trocar-vaso",
+      "especie": "coringa-trocar-vaso",
+      "nome": "trocar de vaso",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "coringa-trocar-vaso",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-trocar-vaso-A-1.jpg"
+    },
+    {
+      "id": "coringa-trocar-vaso-B-1",
+      "arquivo": "coringa-trocar-vaso/coringa-trocar-vaso-B-1.jpg",
+      "slug": "coringa-trocar-vaso",
+      "especie": "coringa-trocar-vaso",
+      "nome": "trocar de vaso",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "coringa-trocar-vaso",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-trocar-vaso-B-1.jpg"
+    },
+    {
+      "id": "coringa-trocar-vaso-C-1",
+      "arquivo": "coringa-trocar-vaso/coringa-trocar-vaso-C-1.jpg",
+      "slug": "coringa-trocar-vaso",
+      "especie": "coringa-trocar-vaso",
+      "nome": "trocar de vaso",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "coringa-trocar-vaso",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-trocar-vaso-C-1.jpg"
+    },
+    {
       "id": "costela-de-adao-B-1",
       "arquivo": "costela-de-adao/costela-de-adao-B-1.jpg",
       "slug": "costela-de-adao",
@@ -741,6 +1558,63 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "espada-de-sao-jorge-E-1.jpg"
+    },
+    {
+      "id": "girassol-A-1",
+      "arquivo": "girassol/girassol-A-1.jpg",
+      "slug": "girassol",
+      "especie": "Helianthus annuus",
+      "nome": "girassol",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "girassol",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "girassol-A-1.jpg"
+    },
+    {
+      "id": "girassol-C-1",
+      "arquivo": "girassol/girassol-C-1.jpg",
+      "slug": "girassol",
+      "especie": "Helianthus annuus",
+      "nome": "girassol",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "girassol",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "girassol-C-1.jpg"
+    },
+    {
+      "id": "girassol-E-1",
+      "arquivo": "girassol/girassol-E-1.jpg",
+      "slug": "girassol",
+      "especie": "Helianthus annuus",
+      "nome": "girassol",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "girassol",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "girassol-E-1.jpg"
     },
     {
       "id": "grama-A-1",
@@ -952,6 +1826,44 @@
       "origem": "hortela-D-1.jpg"
     },
     {
+      "id": "jabuticabeira-C-1",
+      "arquivo": "jabuticabeira/jabuticabeira-C-1.jpg",
+      "slug": "jabuticabeira",
+      "especie": "Plinia cauliflora",
+      "nome": "jabuticabeira",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "jabuticabeira",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "jabuticabeira-C-1.jpg"
+    },
+    {
+      "id": "jabuticabeira-D-1",
+      "arquivo": "jabuticabeira/jabuticabeira-D-1.jpg",
+      "slug": "jabuticabeira",
+      "especie": "Plinia cauliflora",
+      "nome": "jabuticabeira",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "jabuticabeira",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "jabuticabeira-D-1.jpg"
+    },
+    {
       "id": "jiboia-E-1",
       "arquivo": "jiboia/jiboia-E-1.jpg",
       "slug": "jiboia",
@@ -1026,6 +1938,120 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "lavanda-C-1.jpg"
+    },
+    {
+      "id": "lavanda-D-1",
+      "arquivo": "lavanda/lavanda-D-1.jpg",
+      "slug": "lavanda",
+      "especie": "Lavandula angustifolia",
+      "nome": "lavanda",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "lavanda",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lavanda-D-1.jpg"
+    },
+    {
+      "id": "limoeiro-A-1",
+      "arquivo": "limoeiro/limoeiro-A-1.jpg",
+      "slug": "limoeiro",
+      "especie": "Citrus limon",
+      "nome": "limoeiro",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "limoeiro",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "limoeiro-A-1.jpg"
+    },
+    {
+      "id": "limoeiro-B-1",
+      "arquivo": "limoeiro/limoeiro-B-1.jpg",
+      "slug": "limoeiro",
+      "especie": "Citrus limon",
+      "nome": "limoeiro",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "limoeiro",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "limoeiro-B-1.jpg"
+    },
+    {
+      "id": "limoeiro-C-1",
+      "arquivo": "limoeiro/limoeiro-C-1.jpg",
+      "slug": "limoeiro",
+      "especie": "Citrus limon",
+      "nome": "limoeiro",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "limoeiro",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "limoeiro-C-1.jpg"
+    },
+    {
+      "id": "limoeiro-D-1",
+      "arquivo": "limoeiro/limoeiro-D-1.jpg",
+      "slug": "limoeiro",
+      "especie": "Citrus limon",
+      "nome": "limoeiro",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "limoeiro",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "limoeiro-D-1.jpg"
+    },
+    {
+      "id": "limoeiro-E-1",
+      "arquivo": "limoeiro/limoeiro-E-1.jpg",
+      "slug": "limoeiro",
+      "especie": "Citrus limon",
+      "nome": "limoeiro",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "limoeiro",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "limoeiro-E-1.jpg"
     },
     {
       "id": "lirio-da-paz-A-1",
@@ -1655,6 +2681,196 @@
       "origem": "rosa-do-deserto-E-1.jpg"
     },
     {
+      "id": "roseira-A-1",
+      "arquivo": "roseira/roseira-A-1.jpg",
+      "slug": "roseira",
+      "especie": "Rosa",
+      "nome": "roseira",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "roseira",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "roseira-A-1.jpg"
+    },
+    {
+      "id": "roseira-B-1",
+      "arquivo": "roseira/roseira-B-1.jpg",
+      "slug": "roseira",
+      "especie": "Rosa",
+      "nome": "roseira",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "roseira",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "roseira-B-1.jpg"
+    },
+    {
+      "id": "roseira-C-1",
+      "arquivo": "roseira/roseira-C-1.jpg",
+      "slug": "roseira",
+      "especie": "Rosa",
+      "nome": "roseira",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "roseira",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "roseira-C-1.jpg"
+    },
+    {
+      "id": "roseira-D-1",
+      "arquivo": "roseira/roseira-D-1.jpg",
+      "slug": "roseira",
+      "especie": "Rosa",
+      "nome": "roseira",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "roseira",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "roseira-D-1.jpg"
+    },
+    {
+      "id": "roseira-E-1",
+      "arquivo": "roseira/roseira-E-1.jpg",
+      "slug": "roseira",
+      "especie": "Rosa",
+      "nome": "roseira",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "roseira",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "roseira-E-1.jpg"
+    },
+    {
+      "id": "salsinha-A-1",
+      "arquivo": "salsinha/salsinha-A-1.jpg",
+      "slug": "salsinha",
+      "especie": "Petroselinum crispum",
+      "nome": "salsinha",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "salsinha",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "salsinha-A-1.jpg"
+    },
+    {
+      "id": "salsinha-B-1",
+      "arquivo": "salsinha/salsinha-B-1.jpg",
+      "slug": "salsinha",
+      "especie": "Petroselinum crispum",
+      "nome": "salsinha",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "salsinha",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "salsinha-B-1.jpg"
+    },
+    {
+      "id": "salsinha-C-1",
+      "arquivo": "salsinha/salsinha-C-1.jpg",
+      "slug": "salsinha",
+      "especie": "Petroselinum crispum",
+      "nome": "salsinha",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "salsinha",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "salsinha-C-1.jpg"
+    },
+    {
+      "id": "salsinha-D-1",
+      "arquivo": "salsinha/salsinha-D-1.jpg",
+      "slug": "salsinha",
+      "especie": "Petroselinum crispum",
+      "nome": "salsinha",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "salsinha",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "salsinha-D-1.jpg"
+    },
+    {
+      "id": "salsinha-E-1",
+      "arquivo": "salsinha/salsinha-E-1.jpg",
+      "slug": "salsinha",
+      "especie": "Petroselinum crispum",
+      "nome": "salsinha",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "salsinha",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "salsinha-E-1.jpg"
+    },
+    {
       "id": "samambaia-A-1",
       "arquivo": "samambaia/samambaia-A-1.jpg",
       "slug": "samambaia",
@@ -1824,6 +3040,101 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "tomate-E-1.jpg"
+    },
+    {
+      "id": "violeta-A-1",
+      "arquivo": "violeta/violeta-A-1.jpg",
+      "slug": "violeta",
+      "especie": "Saintpaulia ionantha",
+      "nome": "violeta",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "violeta",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "violeta-A-1.jpg"
+    },
+    {
+      "id": "violeta-B-1",
+      "arquivo": "violeta/violeta-B-1.jpg",
+      "slug": "violeta",
+      "especie": "Saintpaulia ionantha",
+      "nome": "violeta",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "violeta",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "violeta-B-1.jpg"
+    },
+    {
+      "id": "violeta-C-1",
+      "arquivo": "violeta/violeta-C-1.jpg",
+      "slug": "violeta",
+      "especie": "Saintpaulia ionantha",
+      "nome": "violeta",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "violeta",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "violeta-C-1.jpg"
+    },
+    {
+      "id": "violeta-D-1",
+      "arquivo": "violeta/violeta-D-1.jpg",
+      "slug": "violeta",
+      "especie": "Saintpaulia ionantha",
+      "nome": "violeta",
+      "cenario": "D",
+      "cenarioNome": "ensinando",
+      "tags": [
+        "violeta",
+        "ensinando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "violeta-D-1.jpg"
+    },
+    {
+      "id": "violeta-E-1",
+      "arquivo": "violeta/violeta-E-1.jpg",
+      "slug": "violeta",
+      "especie": "Saintpaulia ionantha",
+      "nome": "violeta",
+      "cenario": "E",
+      "cenarioNome": "regando",
+      "tags": [
+        "violeta",
+        "regando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "violeta-E-1.jpg"
     },
     {
       "id": "zamioculca-A-1",

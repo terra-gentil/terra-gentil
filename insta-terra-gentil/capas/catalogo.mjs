@@ -1,5 +1,9 @@
 // Acha no catálogo de capas a entrada do post: tema (coringa), espécie exata ou pelo gênero.
 
+// Nome científico do post: gênero com inicial maiúscula e epíteto em minúsculas ("Epipremnum
+// aureum"). A regra mora aqui porque decide também qual capa o post alcança.
+export const CIENTIFICO = /^[A-Z][a-z]+ [a-z][a-z-]+( (subsp|var)\. [a-z-]+)?$/;
+
 // Temas do post com capa de coringa (dados/capas.json, slug "coringa-<tema>").
 export const TEMAS = Object.freeze([
   'regar',

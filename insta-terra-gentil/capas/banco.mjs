@@ -50,7 +50,7 @@ export function lerPosts(pasta) {
     });
 }
 
-function aprovadasDo(slug, { pastaBanco, revisao, rosto }) {
+export function aprovadasDo(slug, { pastaBanco, revisao, rosto }) {
   const idDe = (c) => path.basename(c, path.extname(c));
   return capasDaEspecie(slug, pastaBanco).filter((c) => {
     const hash = hashDoArquivo(c);

@@ -25,6 +25,8 @@ Sem estado novo: a conta vem dos posts já commitados. Falta capa: ver `PEDIDO-B
 |---|---|
 | `prompts.mjs` | Monta o prompt de cada capa e a fila (puro) |
 | `catalogo.mjs` | Acha a entrada do post: tema, espécie exata ou gênero |
+| `cobertura.mjs` | Aprovadas por entrada e o post que alcança cada uma; o teste barra capa parada |
+| `cobertura-cli.mjs` | Lista a cobertura do banco (`node capas/cobertura-cli.mjs`) |
 | `banco.mjs` | Lista as capas, conta posts anteriores, escolhe a da vez |
 | `fila-cli.mjs` | Gera `saida/fila-capas.json` para a ferramenta do Flow |
 | `importar-cli.mjs` | Leva os downloads do Flow para o banco em 1080x1350 |

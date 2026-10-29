@@ -1,5 +1,8 @@
 # PROGRESSO Terra Gentil
 
+## PENDENTE DE GERAR (29/10/2026, 11h): 16 capas, limite do Flow batido na conta eng.andrehz
+Bateu o limite de ~99 geracoes em 24 h na eng.andrehz (primeira geracao 07:46, deve voltar ~07:46 de 30/10). Faltam 15 coringas das biblias (coringa-mato, solo, pet, luz, muda, A a C cada) + haworthia-B-1 (rosto barrado). As outras 54 das 55 novas estao em `Documents\Terra Gentil\capas-novas-55\` aguardando a revisao do Andre. **Combinado: as 20h de 29/10 verificar a conta da Pamela** (projeto `9a9b36e1-8266-4dd7-8245-c86cc2a40829`, ferramenta `7f91a921-cdd1-44aa-92c5-f796332fe542`, u/5): ela deve ter ~17 geracoes sobrando ate 19:35 (janela abriu 19:35 de 28/10 e o lote de 82 gastou ~82; estimativa). A ferramenta nao guarda o Elenco: subir as 4 fotos de novo. Fila pronta em `insta-terra-gentil/saida/fila-70.json` (filtrar os 16).
+
 ## PROXIMO PASSO DA JORNADA: CAPAS MAIS NATURAIS (decidido pelo Andre em 29/10/2026)
 Depois de fechar todas as capas (banco em 210 aprovadas; 70 novas das bíblias gerando na conta eng.andrehz), testar e aplicar correções de cor, luz, nitidez e grão para a imagem parecer menos IA, **capa por capa e com testes**, conferindo o que críticos de IA (Gemini cego, vidIQ) acham antes e depois. A base está em `insta-terra-gentil/capas/TRATAMENTO-ANTI-IA.md` (trazida de `andrehz4/youtube-terragentil`, pasta `inteligencia-thumbnail`; lá era recorte de rosto, aqui é cena inteira). Nada aplicado ainda.
 

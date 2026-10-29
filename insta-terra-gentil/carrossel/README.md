@@ -54,6 +54,8 @@ Hoje: `rotacao.mjs`, `contrato.mjs`, `moldes.mjs`, `dc/`, `render.mjs`. Previsto
 - `estrutura.mjs`: ordem dos 8 slides (capa, problema x3, passo x2, problema, final) e validação do
   roteiro: campos obrigatórios por tipo e travessão proibido. Passo ganha "Passo N" e "0N" sozinho.
 - `foto-do-dia.mjs`: foto curada da espécie (`dados/fotos.json`) ou, sem ela, o banco gratuito.
+- `cta.mjs`: chamada do slide 8 (comente a PALAVRA, siga, app grátis). Com ebook, o slide 8 troca o
+  mascote pela capa do ebook (`capaEbook`, de `dados/palavras.json`), cartão de foto 9:16 no canto.
 - `legenda.mjs`: gancho, resumo, chamada da palavra-chave do ebook, Doutor, crédito e hashtags.
   Máximo de 2200 caracteres, sem travessão.
 - `montar-dia.mjs`: junta tudo. Molde pela rotação, foto em data URI, mascote (pose por slide) e

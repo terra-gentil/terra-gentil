@@ -1,6 +1,6 @@
 // Linha de comando: node carrossel/cli.mjs <post.json> [AAAA-MM-DD]. Monta o carrossel em saida/.
 import path from 'node:path';
-import { naRaiz, DADOS } from '../lib/config.mjs';
+import { naRaiz, DADOS, RAIZ_SITE } from '../lib/config.mjs';
 import { lerJson } from '../lib/json.mjs';
 import { buscarPorPalavra, carregarPalavras } from '../dm/palavras.mjs';
 import { capaDoDia, lerPosts } from '../capas/banco.mjs';
@@ -39,6 +39,7 @@ const resultado = await montarDia(post, {
   obterFoto: (especie) => fotoDoDia(especie, { curadas, pasta: pastaFotos }),
   obterCapa: (p, d) => capaDoDia(p, d, banco),
   tituloEbook: ebook?.titulo,
+  capaEbook: ebook?.capa && path.join(RAIZ_SITE, 'public', 'ebooks', 'covers', ebook.capa),
 });
 
 const { molde, foto, capa } = resultado;

@@ -19,7 +19,7 @@ export const OPCIONAIS = Object.freeze({
   capa: [],
   problema: [],
   passo: ['numero', 'nota', 'legendaFoto'],
-  final: [],
+  final: ['capaEbook'],
 });
 
 // Problemas de um molde frente ao contrato (lista vazia = molde dentro do padrão).

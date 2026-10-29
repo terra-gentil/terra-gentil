@@ -58,7 +58,7 @@ function dadosDoSlide(slide, i, foto, credito, pessoa) {
 // post = { especie, gancho, resumo?, palavra?, slides[8] }. dependências injetáveis para teste.
 // obterCapa (opcional) devolve a capa do André com a planta ou o tema (capas/banco.mjs) ou null.
 export async function montarDia(post, opcoes) {
-  const { dia, saida, renderizar, obterFoto, obterCapa, tituloEbook } = opcoes;
+  const { dia, saida, renderizar, obterFoto, obterCapa, tituloEbook, capaEbook } = opcoes;
   const problemas = problemasDoRoteiro(post.slides);
   if (problemas.length) {
     throw new Error(`[montar-dia] roteiro inválido:\n- ${problemas.join('\n- ')}`);
@@ -76,7 +76,11 @@ export async function montarDia(post, opcoes) {
     if (ESTRUTURA[i] === 'capa') return capaUri;
     return i === SLIDE_DENTRO && dentroUri ? dentroUri : fotoUri;
   };
+  // Com ebook, o último slide mostra a capa dele no lugar do mascote.
   const cta = ctaDoFinal(post.palavra, tituloEbook);
+  if (post.palavra && capaEbook) {
+    Object.assign(cta, { capaEbook: paraDataUri(capaEbook), mostrarMascote: false });
+  }
   const comCta = (slide, i) => (ESTRUTURA[i] === 'final' ? { ...slide, ...cta } : slide);
   const paginas = post.slides.map((slide, i) => ({
     html: montarSlide(

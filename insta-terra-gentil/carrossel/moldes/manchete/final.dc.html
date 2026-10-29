@@ -43,6 +43,11 @@ a{color:#F4ECDB}a:hover{color:#E8A33D}
       </div>
     </div>
   </sc-if>
+  <sc-if value="{{temCapaEbook}}" hint-placeholder-val="{{false}}">
+    <div style="position: absolute; top: 110px; right: 56px; width: 220px; transform: rotate(7deg); aspect-ratio: 9 / 16; z-index: 2">
+      <img src="{{capaEbook}}" alt="Capa do ebook" style="display: block; width: 100%; height: 100%; object-fit: cover; box-sizing: border-box; border: 6px solid #F4ECDB; border-radius: 12px; box-shadow: 0 26px 50px rgba(0,0,0,0.55)">
+    </div>
+  </sc-if>
 
   <div style="position: relative; height: 100%; box-sizing: border-box; padding: 56px 64px 52px; display: flex; flex-direction: column">
     <div style="display: flex; justify-content: space-between; align-items: center">
@@ -88,7 +93,7 @@ a{color:#F4ECDB}a:hover{color:#E8A33D}
   </div>
 </div>
 </x-dc>
-<script type="text/x-dc" data-dc-script data-props='{"tarja":{"editor":"text","default":"Para levar","section":"Texto"},"linha1":{"editor":"text","default":"Gentileza","section":"Texto"},"destaque":{"editor":"text","default":"gera","section":"Texto"},"linha2":{"editor":"text","default":"gentileza","section":"Texto"},"texto":{"editor":"text","default":"Cuide com calma e ela devolve em flores. Guarde este guia para a próxima poda.","section":"Texto"},"ctaSalvar":{"editor":"text","default":"Salve este post","section":"Texto"},"ctaSeguir":{"editor":"text","default":"Siga @canalterragentil","section":"Texto"},"ctaSite":{"editor":"text","default":"Visite terragentil.com.br","section":"Texto"},"voltar":{"editor":"text","default":"Rever do início","section":"Texto"},"contador":{"editor":"text","default":"8/8","section":"Texto"},"foto":{"editor":"text","default":"","section":"Foto"},"escurecimento":{"editor":"range","min":0,"max":90,"step":5,"default":60,"unit":"%","section":"Foto"},"zoom":{"editor":"range","min":1,"max":2.5,"step":0.05,"default":1.8,"section":"Foto"},"foco":{"editor":"enum","options":["center","top","bottom","left","right","top left","top right","bottom left","bottom right"],"default":"bottom left","section":"Foto"},"simularFotoClara":{"editor":"boolean","default":false,"section":"Foto"},"mostrarMascote":{"editor":"boolean","default":true,"section":"Mascote"},"mascote":{"editor":"text","default":"","section":"Mascote"},"$preview":{"width":1080,"height":1350}}'>
+<script type="text/x-dc" data-dc-script data-props='{"tarja":{"editor":"text","default":"Para levar","section":"Texto"},"linha1":{"editor":"text","default":"Gentileza","section":"Texto"},"destaque":{"editor":"text","default":"gera","section":"Texto"},"linha2":{"editor":"text","default":"gentileza","section":"Texto"},"texto":{"editor":"text","default":"Cuide com calma e ela devolve em flores. Guarde este guia para a próxima poda.","section":"Texto"},"ctaSalvar":{"editor":"text","default":"Salve este post","section":"Texto"},"ctaSeguir":{"editor":"text","default":"Siga @canalterragentil","section":"Texto"},"ctaSite":{"editor":"text","default":"Visite terragentil.com.br","section":"Texto"},"voltar":{"editor":"text","default":"Rever do início","section":"Texto"},"contador":{"editor":"text","default":"8/8","section":"Texto"},"foto":{"editor":"text","default":"","section":"Foto"},"escurecimento":{"editor":"range","min":0,"max":90,"step":5,"default":60,"unit":"%","section":"Foto"},"zoom":{"editor":"range","min":1,"max":2.5,"step":0.05,"default":1.8,"section":"Foto"},"foco":{"editor":"enum","options":["center","top","bottom","left","right","top left","top right","bottom left","bottom right"],"default":"bottom left","section":"Foto"},"simularFotoClara":{"editor":"boolean","default":false,"section":"Foto"},"mostrarMascote":{"editor":"boolean","default":true,"section":"Mascote"},"mascote":{"editor":"text","default":"","section":"Mascote"},"capaEbook":{"editor":"text","default":"","section":"Mascote"},"$preview":{"width":1080,"height":1350}}'>
 class Component extends DCLogic {
   renderVals() {
     const p = this.props;
@@ -102,7 +107,7 @@ class Component extends DCLogic {
     const T = {"tarja":"Para levar","linha1":"Gentileza","destaque":"gera","linha2":"gentileza","texto":"Cuide com calma e ela devolve em flores. Guarde este guia para a próxima poda.","ctaSalvar":"Salve este post","ctaSeguir":"Siga @canalterragentil","ctaSite":"Visite terragentil.com.br","voltar":"Rever do início","contador":"8/8"};
     const tx = {};
     Object.keys(T).forEach(function (c) { tx[c] = p[c] ?? T[c]; });
-    return Object.assign(tx, {foto: f, temFoto: !!f, semFoto: !f, mascote: m, temMascote: !!m, semMascote: !m, mostrarMascote: p.mostrarMascote ?? true, veu: 'rgba(11,20,16,' + k + ')', zoomTf: 'scale(' + z + ')', foco: foco, sim: p.simularFotoClara ? L : D });
+    return Object.assign(tx, {foto: f, temFoto: !!f, semFoto: !f, mascote: m, temMascote: !!m, semMascote: !m, mostrarMascote: p.mostrarMascote ?? true, capaEbook: (p.capaEbook ?? '').trim(), temCapaEbook: !!(p.capaEbook ?? '').trim(), veu: 'rgba(11,20,16,' + k + ')', zoomTf: 'scale(' + z + ')', foco: foco, sim: p.simularFotoClara ? L : D });
   }
 }
 </script>

@@ -4,6 +4,7 @@ import path from 'node:path';
 import { DADOS } from '../lib/config.mjs';
 import { lerJson } from '../lib/json.mjs';
 import { buscarPorPalavra } from '../dm/palavras.mjs';
+import { bibliaDoPost } from './biblia.mjs';
 import { PASTA_LIVROS, lerLivro } from './livros.mjs';
 import { lerPauta } from './lista-noticias.mjs';
 import { conferirPost, montarPost } from './roteiro.mjs';
@@ -25,7 +26,9 @@ export function gravarPost(bruto, opcoes) {
   const livro = buscarPorPalavra(palavras, bruto?.palavra ?? '');
   if (!livro) throw new Error(`[gravar] palavra desconhecida: ${bruto?.palavra}`);
   const paginas = lerLivro(livro, pastaLivros);
-  const post = montarPost(bruto, { livro, paginas, dia, pauta: opcoes.pauta ?? lerPauta() });
+  const biblia = opcoes.biblia ?? bibliaDoPost(bruto?.fatos);
+  const pauta = opcoes.pauta ?? lerPauta();
+  const post = montarPost(bruto, { livro, paginas, dia, pauta, biblia });
   const mesmoDia = lerPosts(pastaPosts).find((p) => p.dia === dia);
   if (mesmoDia && !forcar)
     throw new Error(`[gravar] já existe post para ${dia} (${mesmoDia.palavra})`);
@@ -43,7 +46,8 @@ export function conferirTodos({ palavras, pastaLivros = PASTA_LIVROS, pastaPosts
     const post = lerJson(path.join(pastaPosts, nome));
     const livro = buscarPorPalavra(palavras, post.palavra ?? '');
     if (!livro) return { nome, problemas: [`palavra desconhecida: ${post.palavra}`] };
-    const problemas = conferirPost(post, { livro, paginas: lerLivro(livro, pastaLivros) });
+    const paginas = lerLivro(livro, pastaLivros);
+    const problemas = conferirPost(post, { livro, paginas, biblia: bibliaDoPost(post.fatos) });
     const esperado = `${post.dia}-${livro.palavra.toLowerCase()}.json`;
     if (nome !== esperado) problemas.push(`nome do arquivo deveria ser ${esperado}`);
     return { nome, problemas };

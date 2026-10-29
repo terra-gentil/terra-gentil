@@ -47,8 +47,9 @@ function problemasDasSecoes(secoes, qtdFatos) {
   return problemas;
 }
 
-// Devolve a lista de problemas (vazia se ok). qtdFatos = quantos fatos o post tem.
-export function problemasDaMateria(m, qtdFatos) {
+// Devolve a lista de problemas (vazia se ok). qtdFatos = quantos fatos o post tem. podePet = o
+// post usa fato com fonte de pet (UFG, ASPCA, Ancara, Cats Protection), então pode falar disso.
+export function problemasDaMateria(m, qtdFatos, podePet = false) {
   if (!m || typeof m !== 'object') return ['falta "materia"'];
   const problemas = [];
   if (!SLUG.test(m.slug ?? '') || m.slug.length > 80) problemas.push('materia: "slug" inválido');
@@ -69,7 +70,9 @@ export function problemasDaMateria(m, qtdFatos) {
   }
   const todos = textosDaMateria(m);
   if (todos.some((t) => TRAVESSAO.test(t))) problemas.push('materia: travessão no texto');
-  if (todos.some((t) => TOXICIDADE.test(t))) problemas.push('materia: fala de toxicidade ou pet');
+  if (!podePet && todos.some((t) => TOXICIDADE.test(t))) {
+    problemas.push('materia: fala de toxicidade ou pet sem fato com fonte de pet');
+  }
   const palavras = palavrasDaMateria(m);
   if (palavras < MATERIA.palavrasMin) {
     problemas.push(`materia: ${palavras} palavras, o mínimo é ${MATERIA.palavrasMin}`);

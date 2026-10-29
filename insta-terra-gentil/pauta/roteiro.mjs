@@ -1,7 +1,8 @@
 // Monta e confere o post: fatos contra o livro, formato, tamanhos, travessão e fechamento da marca.
 import { ESTRUTURA, problemasDoRoteiro } from '../carrossel/estrutura.mjs';
 import { CHAVES_DO_BRUTO, FINAL_FIXO, chaveDoSlide } from './esquema.mjs';
-import { validarFatos } from './fatos.mjs';
+import { fonteDoFato } from './biblia.mjs';
+import { temFontePet, validarFatos } from './fatos.mjs';
 import { problemasDaFonteNoticia, resolverNoticia } from './fonte-noticia.mjs';
 import { problemasDaMateria } from './materia.mjs';
 import { SERIES } from './series.mjs';
@@ -17,7 +18,7 @@ const GENERICOS = /^(plantas?( de (interior|casa|jardim))?|folhagens?|vegeta(l|i
 
 // Confere um post pronto (o que está em dados/posts/). Devolve a lista de problemas, vazia se ok.
 // Roda na rotina (antes de gravar) e de novo no merge: o repositório é público e o post vai ao ar.
-export function conferirPost(post, { livro, paginas }) {
+export function conferirPost(post, { livro, paginas, biblia = null }) {
   const problemas = [];
   if (!/^\d{4}-\d{2}-\d{2}$/.test(post?.dia ?? '')) problemas.push('dia inválido');
   if (post?.palavra !== livro.palavra) {
@@ -36,7 +37,7 @@ export function conferirPost(post, { livro, paginas }) {
   }
   let fatos = [];
   try {
-    fatos = validarFatos(post?.fatos, { paginas, titulo: livro.titulo });
+    fatos = validarFatos(post?.fatos, { paginas, titulo: livro.titulo, biblia });
   } catch (erro) {
     problemas.push(erro.message);
   }
@@ -50,7 +51,8 @@ export function conferirPost(post, { livro, paginas }) {
   problemas.push(...problemasDoRoteiro(post?.slides));
   // Posts antigos não têm matéria; quando ela existe, tem de estar completa.
   if (post?.materia !== undefined) {
-    problemas.push(...problemasDaMateria(post.materia, fatos.length));
+    const podePet = temFontePet(fatos, post?.fatosUsados);
+    problemas.push(...problemasDaMateria(post.materia, fatos.length, podePet));
   }
   problemas.push(...problemasDaFonteNoticia(post?.fonteNoticia));
   const final = post?.slides?.[ESTRUTURA.length - 1] ?? {};
@@ -61,7 +63,8 @@ export function conferirPost(post, { livro, paginas }) {
 }
 
 // bruto = o que a rotina escreveu. livro = { palavra, titulo } do dados/palavras.json.
-export function montarPost(bruto, { livro, paginas, dia, pauta = null }) {
+// biblia = catálogo das bíblias (só quando algum fato vem dela, ver bibliaDoPost).
+export function montarPost(bruto, { livro, paginas, dia, pauta = null, biblia = null }) {
   const faltando = CHAVES_DO_BRUTO.filter((chave) => !(chave in (bruto ?? {})));
   if (faltando.length) throw new Error(`[roteiro] faltam chaves: ${faltando.join(', ')}`);
   const slides = ESTRUTURA.map((tipo, i) => {
@@ -70,14 +73,14 @@ export function montarPost(bruto, { livro, paginas, dia, pauta = null }) {
   });
   const { palavra, especie, nome, serie, gancho, resumo, fatosUsados, materia } = bruto;
   const fatos = Array.isArray(bruto.fatos) ? bruto.fatos : [];
-  const comFonte = fatos.map((f) => ({ ...f, fonte: `${livro.titulo}, p. ${f?.pagina}` }));
+  const comFonte = fatos.map((f) => ({ ...f, fonte: fonteDoFato(f, livro.titulo, biblia) }));
   const fontes = Array.isArray(fatosUsados)
     ? [...new Set(fatosUsados.map((n) => comFonte[n]?.fonte))]
     : [];
   const post = { dia, palavra, especie, nome, serie, gancho, resumo, slides };
   Object.assign(post, { fatos: comFonte, fatosUsados, fontes, materia });
   post.fonteNoticia = resolverNoticia(bruto.noticia, pauta);
-  const problemas = conferirPost(post, { livro, paginas });
+  const problemas = conferirPost(post, { livro, paginas, biblia });
   if (problemas.length) throw new Error(`[roteiro] inválido:\n- ${problemas.join('\n- ')}`);
   return post;
 }

@@ -90,6 +90,13 @@ Escreva o JSON bruto de UMA VEZ em `/tmp/bruto.json` com a ferramenta Write, no 
 `bruto-exemplo.json`. Cada fato leva `texto` (suas palavras), `pagina` e `trecho` (copiado
 literalmente do livro, 25 caracteres ou mais).
 
+Fatos das bíblias (opcional, até a metade dos fatos): `dados/biblia.json` tem fatos de livros de
+referência já conferidos, em nossas palavras, com `esp` (suculenta, cacto, orquidea, horta...) e
+`serie`. Use só os da mesma planta ou tema do post. O fato leva `biblia` (o id, ex. "q3-10") e
+`texto` copiado IGUAL do catálogo, sem `pagina` nem `trecho`; a fonte sai do catálogo.
+Toxicidade e pet só entram por fato da bíblia com `fontePet` (UFG, ASPCA, Ancara, Cats
+Protection); fato do ebook que fale disso continua recusado.
+
 Campo `noticia`: o link do item da pauta usado como gancho, ou `null` (veja o passo 3). Fica logo
 depois de `materia`, antes dos slides.
 

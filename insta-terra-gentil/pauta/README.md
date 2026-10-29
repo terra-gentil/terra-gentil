@@ -34,6 +34,7 @@ página) -> a rotina escreve `/tmp/bruto.json` (formato de `dados/bruto-exemplo.
 | `livros.mjs` | PDF vira texto por página (`dados/livros/`); confere se um trecho existe na página |
 | `fatos.mjs` | Cada fato leva página e trecho literal do livro; toxicidade e pet são recusados |
 | `esquema.mjs` | Formato do bruto: um objeto por slide; fechamento da marca fixo |
+| `biblia.mjs` | Fato das bíblias contra o catálogo `dados/biblia.json` (texto igual, fonte de pet) |
 | `roteiro.mjs` | `montarPost` e `conferirPost` (travessão, tamanhos, série, fechamento, fontes) |
 | `proxima.mjs` | Rodízio justo dos 19 livros; o dia padrão é amanhã (Brasília) |
 | `gravar-post.mjs` | Grava um post por dia; `conferirTodos` refaz a checagem de tudo |

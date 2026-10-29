@@ -1769,6 +1769,215 @@
       "origem": "coringa-jardim-vertical-C-1.jpg"
     },
     {
+      "id": "coringa-luz-A-1",
+      "arquivo": "coringa-luz/coringa-luz-A-1.jpg",
+      "slug": "coringa-luz",
+      "especie": "coringa-luz",
+      "nome": "luz",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "coringa-luz",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-luz-A-1.jpg"
+    },
+    {
+      "id": "coringa-luz-B-1",
+      "arquivo": "coringa-luz/coringa-luz-B-1.jpg",
+      "slug": "coringa-luz",
+      "especie": "coringa-luz",
+      "nome": "luz",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "coringa-luz",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-luz-B-1.jpg"
+    },
+    {
+      "id": "coringa-luz-C-1",
+      "arquivo": "coringa-luz/coringa-luz-C-1.jpg",
+      "slug": "coringa-luz",
+      "especie": "coringa-luz",
+      "nome": "luz",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "coringa-luz",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-luz-C-1.jpg"
+    },
+    {
+      "id": "coringa-mato-B-1",
+      "arquivo": "coringa-mato/coringa-mato-B-1.jpg",
+      "slug": "coringa-mato",
+      "especie": "coringa-mato",
+      "nome": "mato e terreno",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "coringa-mato",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-mato-B-1.jpg"
+    },
+    {
+      "id": "coringa-mato-C-1",
+      "arquivo": "coringa-mato/coringa-mato-C-1.jpg",
+      "slug": "coringa-mato",
+      "especie": "coringa-mato",
+      "nome": "mato e terreno",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "coringa-mato",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-mato-C-1.jpg"
+    },
+    {
+      "id": "coringa-muda-A-1",
+      "arquivo": "coringa-muda/coringa-muda-A-1.jpg",
+      "slug": "coringa-muda",
+      "especie": "coringa-muda",
+      "nome": "muda e semente",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "coringa-muda",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-muda-A-1.jpg"
+    },
+    {
+      "id": "coringa-muda-B-1",
+      "arquivo": "coringa-muda/coringa-muda-B-1.jpg",
+      "slug": "coringa-muda",
+      "especie": "coringa-muda",
+      "nome": "muda e semente",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "coringa-muda",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-muda-B-1.jpg"
+    },
+    {
+      "id": "coringa-muda-C-1",
+      "arquivo": "coringa-muda/coringa-muda-C-1.jpg",
+      "slug": "coringa-muda",
+      "especie": "coringa-muda",
+      "nome": "muda e semente",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "coringa-muda",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-muda-C-1.jpg"
+    },
+    {
+      "id": "coringa-pet-A-1",
+      "arquivo": "coringa-pet/coringa-pet-A-1.jpg",
+      "slug": "coringa-pet",
+      "especie": "coringa-pet",
+      "nome": "planta e pet",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "coringa-pet",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-pet-A-1.jpg"
+    },
+    {
+      "id": "coringa-pet-B-1",
+      "arquivo": "coringa-pet/coringa-pet-B-1.jpg",
+      "slug": "coringa-pet",
+      "especie": "coringa-pet",
+      "nome": "planta e pet",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "coringa-pet",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-pet-B-1.jpg"
+    },
+    {
+      "id": "coringa-pet-C-1",
+      "arquivo": "coringa-pet/coringa-pet-C-1.jpg",
+      "slug": "coringa-pet",
+      "especie": "coringa-pet",
+      "nome": "planta e pet",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "coringa-pet",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-pet-C-1.jpg"
+    },
+    {
       "id": "coringa-podar-A-1",
       "arquivo": "coringa-podar/coringa-podar-A-1.jpg",
       "slug": "coringa-podar",
@@ -1938,6 +2147,44 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "coringa-regar-C-1.jpg"
+    },
+    {
+      "id": "coringa-solo-A-1",
+      "arquivo": "coringa-solo/coringa-solo-A-1.jpg",
+      "slug": "coringa-solo",
+      "especie": "coringa-solo",
+      "nome": "solo",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "coringa-solo",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-solo-A-1.jpg"
+    },
+    {
+      "id": "coringa-solo-B-1",
+      "arquivo": "coringa-solo/coringa-solo-B-1.jpg",
+      "slug": "coringa-solo",
+      "especie": "coringa-solo",
+      "nome": "solo",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "coringa-solo",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-solo-B-1.jpg"
     },
     {
       "id": "coringa-trocar-vaso-A-1",
@@ -2489,6 +2736,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "haworthia-A-1.jpg"
+    },
+    {
+      "id": "haworthia-B-1",
+      "arquivo": "haworthia/haworthia-B-1.jpg",
+      "slug": "haworthia",
+      "especie": "Haworthiopsis attenuata",
+      "nome": "haworthia-zebra",
+      "cenario": "B",
+      "cenarioNome": "cuidando",
+      "tags": [
+        "haworthia",
+        "cuidando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "haworthia-B-1.jpg"
     },
     {
       "id": "haworthia-C-1",

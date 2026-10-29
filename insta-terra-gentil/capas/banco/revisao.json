@@ -499,6 +499,61 @@
       "sha256": "a8637a72d1984a0c17099322e39cb1049d20d92bc89d1ea5b61c1643c71e5f22",
       "data": "2026-10-29"
     },
+    "coringa-luz-A-1": {
+      "status": "aprovada",
+      "sha256": "103969e798a20830d8262dc807d043d9a363ac20fd9f4dea68c23f84713b56d8",
+      "data": "2026-10-29"
+    },
+    "coringa-luz-B-1": {
+      "status": "aprovada",
+      "sha256": "4f3f168f1344b88ba77c63c7acec90deccdcfe14ce8705ab360aca52929702d3",
+      "data": "2026-10-29"
+    },
+    "coringa-luz-C-1": {
+      "status": "aprovada",
+      "sha256": "e8ed8dafcf62bbbcc601b3784e8c42d1e4966f560b38dc6eb43fe5725e757d85",
+      "data": "2026-10-29"
+    },
+    "coringa-mato-B-1": {
+      "status": "aprovada",
+      "sha256": "4e0fef9fcbd4e2fd2f52d3d7a0fa28a572f5500b2f777c3d9c6f482aa71f97fa",
+      "data": "2026-10-29"
+    },
+    "coringa-mato-C-1": {
+      "status": "aprovada",
+      "sha256": "5e0d036f31a79e15e358481c45485bee41b3a71b4c9df885abd47e3ab3321b50",
+      "data": "2026-10-29"
+    },
+    "coringa-muda-A-1": {
+      "status": "aprovada",
+      "sha256": "94cb11dce2b70e8243d55e490c06b292dcd97417d00ee1ceed05695a8cf9a805",
+      "data": "2026-10-29"
+    },
+    "coringa-muda-B-1": {
+      "status": "aprovada",
+      "sha256": "c57ab7e82a15f676a3dbf4739d865399ba9a936a67a1e1164be198d0c34a07f4",
+      "data": "2026-10-29"
+    },
+    "coringa-muda-C-1": {
+      "status": "aprovada",
+      "sha256": "9d5852f65cc49fc0a5b22aff846215bcd734b15379cdca1d9c0607fa13d989aa",
+      "data": "2026-10-29"
+    },
+    "coringa-pet-A-1": {
+      "status": "aprovada",
+      "sha256": "a1968056260179df14a910e1a3273388344809a635e2f733267413aac43ad6cc",
+      "data": "2026-10-29"
+    },
+    "coringa-pet-B-1": {
+      "status": "aprovada",
+      "sha256": "6c773a840808ad6f296cf48b4827cd02559bbbd63ffc65e3a841ee39107fec63",
+      "data": "2026-10-29"
+    },
+    "coringa-pet-C-1": {
+      "status": "aprovada",
+      "sha256": "1054020beae47b875af7faa02c9906b90ad394594c641df971c49a7e96a81f2d",
+      "data": "2026-10-29"
+    },
     "coringa-podar-A-1": {
       "status": "aprovada",
       "sha256": "72361733a0e582b9ad9aed68d7428a295b0e54f5e2fd0d93df657ff733b50d91",
@@ -542,6 +597,16 @@
     "coringa-regar-C-1": {
       "status": "aprovada",
       "sha256": "92ddced6cf20acb77b0ac29e4b46c979958cb6f7aeda79dd7af582955bfefd51",
+      "data": "2026-10-29"
+    },
+    "coringa-solo-A-1": {
+      "status": "aprovada",
+      "sha256": "60568352df804cee691c573a75ef7b2a75abe151a889eae468c30b6603b9b7af",
+      "data": "2026-10-29"
+    },
+    "coringa-solo-B-1": {
+      "status": "aprovada",
+      "sha256": "82e93f51e1cea71ae0d4537a5d677c5d709831cb79fd74e165098c5d03ab9321",
       "data": "2026-10-29"
     },
     "coringa-trocar-vaso-A-1": {
@@ -699,6 +764,11 @@
     "haworthia-A-1": {
       "status": "aprovada",
       "sha256": "30cd5ae09dd6f69b768dd8b2df2f5c7ad83250e9455a7e21016ee6d11706a764",
+      "data": "2026-10-29"
+    },
+    "haworthia-B-1": {
+      "status": "aprovada",
+      "sha256": "d1028ec4abb976d685b824ebaf3e118cde03e7b0e33139fe6a105c31f807d73f",
       "data": "2026-10-29"
     },
     "haworthia-C-1": {

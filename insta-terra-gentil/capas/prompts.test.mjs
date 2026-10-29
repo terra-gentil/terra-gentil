@@ -49,9 +49,9 @@ test('fila: 5 cenários por espécie, 3 por coringa, ids <slug>-<cenário>-<n> �
   assert.deepEqual(duas.map((f) => f.id), ids);
 });
 
-test('catálogo: 36 espécies e 10 coringas, slug único e sem acento', () => {
-  assert.equal(Object.keys(plantas).length, 36);
-  assert.equal(Object.keys(coringas).length, 10);
+test('catálogo: 47 espécies e 15 coringas, slug único e sem acento', () => {
+  assert.equal(Object.keys(plantas).length, 47);
+  assert.equal(Object.keys(coringas).length, 15);
   const slugs = Object.values(especies).map((e) => e.slug);
   assert.equal(new Set(slugs).size, slugs.length);
   for (const e of Object.values(plantas)) {

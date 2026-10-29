@@ -2,6 +2,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
+import path from 'node:path';
 import { naRaiz } from '../../lib/config.mjs';
 import { LIMITE_ROSTO } from '../rosto.mjs';
 import { triarPorNota } from './triagem.mjs';
@@ -49,7 +50,7 @@ test('triagem usa o mesmo limiar do portão do banco, sem número solto no Pytho
 test('nenhuma reprovada antiga repete o id de uma capa do banco', () => {
   const ids = (pasta) => fs.readdirSync(pasta, { recursive: true })
     .filter((f) => String(f).endsWith('.jpg'))
-    .map((f) => String(f).split(/[\/]/).pop().replace('.jpg', ''));
+    .map((f) => path.basename(String(f), '.jpg'));
   const banco = new Set(ids(naRaiz('capas', 'banco')));
   const repetidas = ids(naRaiz('capas', 'reprovadas')).filter((id) => banco.has(id));
   assert.deepEqual(repetidas, []);

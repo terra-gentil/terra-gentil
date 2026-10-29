@@ -93,10 +93,9 @@
       "motivo": "André conferiu e aprovou em 28/10"
     },
     "babosa-A-1": {
-      "status": "reprovada",
-      "sha256": "b18e66675392f256bc7fd088cefd9086e06fb6ac7272459d4fc6e53252114d65",
-      "data": "2026-10-28",
-      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+      "status": "aprovada",
+      "sha256": "9b6bda3a8bc2777c56ccbaad90944eda4314c5b24e3f59570b1cde04569dd268",
+      "data": "2026-10-29"
     },
     "babosa-B-1": {
       "status": "aprovada",
@@ -135,6 +134,11 @@
     "bambu-da-sorte-C-1": {
       "status": "aprovada",
       "sha256": "95dca6d625a2b28e81f7207fcdab82ce0f1644dcd0abb0a7417fc43a4c813c2d",
+      "data": "2026-10-29"
+    },
+    "bambu-da-sorte-D-1": {
+      "status": "aprovada",
+      "sha256": "ef925ce940b1c0baebbfc5e9927cb9538b8904a14d1867375399ac7f0cd97b72",
       "data": "2026-10-29"
     },
     "bambu-da-sorte-E-1": {
@@ -217,6 +221,11 @@
       "sha256": "fb37960ca9a8085cf78e7868342c618db331d5200a13bfd7c4c6f2f76a83318b",
       "data": "2026-10-29"
     },
+    "buganvilia-E-1": {
+      "status": "aprovada",
+      "sha256": "b2c62a5972b60bf977afff187d7e58cc891562699b695e5c85356231168afeb7",
+      "data": "2026-10-29"
+    },
     "cacto-A-1": {
       "status": "aprovada",
       "sha256": "40833fcb8849d11ed292edb3fd57434b544ac21a23b3f699278e53ae516eee7c",
@@ -234,6 +243,16 @@
       "sha256": "224224ab83acd6831a6490d8b1e841b6c778c8239d2e8c0487250c620524657c",
       "data": "2026-10-28",
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "cacto-D-1": {
+      "status": "aprovada",
+      "sha256": "9e8b7bfa69f0f0c3c45649ff5317784448e763adcc7b5c858a0f0c4edd8e753e",
+      "data": "2026-10-29"
+    },
+    "cacto-E-1": {
+      "status": "aprovada",
+      "sha256": "a608d4ddd571ebaf402ba814df12129de07ca6c2f91629f064dc16fdf4bc210e",
+      "data": "2026-10-29"
     },
     "cebolinha-A-1": {
       "status": "aprovada",
@@ -345,14 +364,34 @@
       "sha256": "b59baf56773d1fdf3804fc375f45faa83e3bc7107631ff71d901d4aed8361519",
       "data": "2026-10-29"
     },
+    "coringa-gramado-C-1": {
+      "status": "aprovada",
+      "sha256": "c0dfe515de5f664852d1287f1504578cb5d00e3550a0372ba168736198086e89",
+      "data": "2026-10-29"
+    },
     "coringa-horta-A-1": {
       "status": "aprovada",
       "sha256": "ac2190f312a55929c1bbc1ab653ca30cbbac14188a4cb13b7d437f09e955567b",
       "data": "2026-10-29"
     },
+    "coringa-horta-B-1": {
+      "status": "aprovada",
+      "sha256": "20aaa5657bafec0fffee131d5a6f3679628d9a3e17d4ef71463b5eaf9c96b3e7",
+      "data": "2026-10-29"
+    },
     "coringa-horta-C-1": {
       "status": "aprovada",
       "sha256": "7ffcbfa380f8299332b5565a46e19d9c5c1946754beae54a30a0c34ba078a468",
+      "data": "2026-10-29"
+    },
+    "coringa-jardim-vertical-A-1": {
+      "status": "aprovada",
+      "sha256": "1656c3cf03383e4d74f45895a1eec0e76cad28b45fc8d37b53e8e6c52fedd0d9",
+      "data": "2026-10-29"
+    },
+    "coringa-jardim-vertical-B-1": {
+      "status": "aprovada",
+      "sha256": "a20ef879fe2f3c15b290baf2a233a71ccb1bdd11bebc16c9075c3d9c1fce095f",
       "data": "2026-10-29"
     },
     "coringa-jardim-vertical-C-1": {
@@ -400,6 +439,11 @@
       "sha256": "57af1c7775e74c3b2e86e20eeb6e29a93f680b875a8a7d1311952a665f952ee2",
       "data": "2026-10-29"
     },
+    "coringa-regar-C-1": {
+      "status": "aprovada",
+      "sha256": "92ddced6cf20acb77b0ac29e4b46c979958cb6f7aeda79dd7af582955bfefd51",
+      "data": "2026-10-29"
+    },
     "coringa-trocar-vaso-A-1": {
       "status": "aprovada",
       "sha256": "13bd1b0c2742c49adaf2bc443dd617d1230b19028285f1b7a1bf9ceeb9d1558f",
@@ -416,10 +460,9 @@
       "data": "2026-10-29"
     },
     "costela-de-adao-A-1": {
-      "status": "reprovada",
-      "sha256": "d3b5527f8e48ea582cecf325e2199557ea809c3bf158729e45b89d04be72e593",
-      "data": "2026-10-28",
-      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+      "status": "aprovada",
+      "sha256": "c5522981006c24b4b1887ee74975390009c91f2687d3944178b3a5409b4dfad8",
+      "data": "2026-10-29"
     },
     "costela-de-adao-B-1": {
       "status": "aprovada",
@@ -434,10 +477,9 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "costela-de-adao-D-1": {
-      "status": "reprovada",
-      "sha256": "2847a94d0f8970b8eb7fd1da5102df15823eaa2bc25b799668987ba66f946784",
-      "data": "2026-10-28",
-      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+      "status": "aprovada",
+      "sha256": "bd1c5d37a6ee4b3e09e26646916d875bd83f2c28d2716c85eaace1f249547b9f",
+      "data": "2026-10-29"
     },
     "costela-de-adao-E-1": {
       "status": "aprovada",
@@ -452,10 +494,9 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "espada-de-sao-jorge-B-1": {
-      "status": "reprovada",
-      "sha256": "0069612421cc85ad727ab79006d4a2368e7801af8dc6f4f84ac923c4c6880eaf",
-      "data": "2026-10-28",
-      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+      "status": "aprovada",
+      "sha256": "5c7109528217a5fb776751b43e7e7cec54245c4d596625087261fec838ae9155",
+      "data": "2026-10-29"
     },
     "espada-de-sao-jorge-C-1": {
       "status": "aprovada",
@@ -480,9 +521,19 @@
       "sha256": "d81842d6dea28460b639710c7bc117117936dcdfdef2245b68b4fc0dae445ceb",
       "data": "2026-10-29"
     },
+    "girassol-B-1": {
+      "status": "aprovada",
+      "sha256": "274ff1e179d340fac5dcc366abe0d137d0fa71e2856055963cbfd16908157546",
+      "data": "2026-10-29"
+    },
     "girassol-C-1": {
       "status": "aprovada",
       "sha256": "16fd001888be13a43bb3d747f0d7dd7721847048e68c0c8e2ea201f672d937cd",
+      "data": "2026-10-29"
+    },
+    "girassol-D-1": {
+      "status": "aprovada",
+      "sha256": "fd047112ddbcb64b49d76ef142b56e17d1d043e0b47a6174b0dcd7a62df90ff3",
       "data": "2026-10-29"
     },
     "girassol-E-1": {
@@ -496,6 +547,11 @@
       "sha256": "b438f1ed4b60e28b76d88a766081ba03963962f9d966db1f2d7595bc35d10017",
       "data": "2026-10-28",
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "grama-B-1": {
+      "status": "aprovada",
+      "sha256": "7fb20ab634cad833a10b85fa05217f682704f0390ca5c8799cac2e4493a8cb99",
+      "data": "2026-10-29"
     },
     "grama-C-1": {
       "status": "aprovada",
@@ -527,6 +583,11 @@
       "data": "2026-10-28",
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
+    "hibisco-C-1": {
+      "status": "aprovada",
+      "sha256": "1b05c7065a7c1630a9d9e885b310e8eaf61b0a7173c85762ba23495de13f5080",
+      "data": "2026-10-29"
+    },
     "hibisco-D-1": {
       "status": "aprovada",
       "sha256": "1749ac27ff2e01a1e562eed3a05046a84c8245052b0458d9e86a533e9339a1ed",
@@ -546,10 +607,9 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "hortela-B-1": {
-      "status": "reprovada",
-      "sha256": "510e4fe6c0a0d8ae7035688c67a412dfdf76e7c72d9f86146f207a01c98961c5",
-      "data": "2026-10-28",
-      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+      "status": "aprovada",
+      "sha256": "be48f80f1daf82af28818b1e1ea48a4119317c9cf7a66c20726ecaf2c28ce08e",
+      "data": "2026-10-29"
     },
     "hortela-C-1": {
       "status": "aprovada",
@@ -563,6 +623,21 @@
       "data": "2026-10-28",
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
+    "hortela-E-1": {
+      "status": "aprovada",
+      "sha256": "88563d367d1c59073548cf401ac1b7ca9738d294ec4a4fa9ebbdbf7cea33580b",
+      "data": "2026-10-29"
+    },
+    "jabuticabeira-A-1": {
+      "status": "aprovada",
+      "sha256": "858b13c4e923be085afc324d6b8985efefeed9816295995a4fbd5011e4855fd2",
+      "data": "2026-10-29"
+    },
+    "jabuticabeira-B-1": {
+      "status": "aprovada",
+      "sha256": "3dbf934ff7aea278806630e54b61fdb125bf3f8a87d342c87e34cc014b065909",
+      "data": "2026-10-29"
+    },
     "jabuticabeira-C-1": {
       "status": "aprovada",
       "sha256": "dca8e0fa4800ec57e5ca5452d86a67110190c9c05301147b504f2ff404f19a12",
@@ -573,9 +648,29 @@
       "sha256": "9c13d92f67213d9a245b50e8d446674a6b70461678c67cbf4a21c72a563ecd63",
       "data": "2026-10-29"
     },
+    "jabuticabeira-E-1": {
+      "status": "aprovada",
+      "sha256": "168503ce47586be732ec971859c77157e93661600e41b5e7decdd07038981db5",
+      "data": "2026-10-29"
+    },
+    "jiboia-A-1": {
+      "status": "aprovada",
+      "sha256": "bb5732039048621f421394d30f93e405ab90a918b0e1a0c9cc83ba74062c4fbb",
+      "data": "2026-10-29"
+    },
     "jiboia-B-1": {
       "status": "aprovada",
       "sha256": "b9af8238b85b5f0671740497a85c5e4d517fb25d2b7b16a01bb4e6bd8bcaf9a5",
+      "data": "2026-10-29"
+    },
+    "jiboia-C-1": {
+      "status": "aprovada",
+      "sha256": "1cab70cb3a53aa825f58f0fc91876a2038917b64aead1c1ea0d2826066c792ac",
+      "data": "2026-10-29"
+    },
+    "jiboia-D-1": {
+      "status": "aprovada",
+      "sha256": "887cdbc76c21aa947cf0b60b9283d63ad4f95f37fa9122a6ee038d02b6197524",
       "data": "2026-10-29"
     },
     "jiboia-E-1": {
@@ -605,6 +700,11 @@
     "lavanda-D-1": {
       "status": "aprovada",
       "sha256": "c5330213d7e71e53fe4b6d487a85fe78edad6f34f1c9e2345a39f7d077e34b97",
+      "data": "2026-10-29"
+    },
+    "lavanda-E-1": {
+      "status": "aprovada",
+      "sha256": "b8403b9d59306886f4d6340a157b33e574159dcaa7a6a51ee9fba613a41e128e",
       "data": "2026-10-29"
     },
     "limoeiro-A-1": {
@@ -691,6 +791,11 @@
       "data": "2026-10-28",
       "motivo": "André conferiu e aprovou em 28/10"
     },
+    "maranta-A-1": {
+      "status": "aprovada",
+      "sha256": "9326d302b8d8b3ea95cc072afc23450654c0b36a69c7f90f609e14c30894df3b",
+      "data": "2026-10-29"
+    },
     "maranta-B-1": {
       "status": "aprovada",
       "sha256": "bfd41c8a4b5c770a9baafdc361eaa8d352685b842500fd1d7a8c16344cd50bb5",
@@ -709,11 +814,15 @@
       "data": "2026-10-28",
       "motivo": "André conferiu e aprovou em 28/10"
     },
+    "maranta-E-1": {
+      "status": "aprovada",
+      "sha256": "3b5247d9ae6d2c35b22efcc23d7d7a4aed527e40927a95fe2c64a0551faf85f8",
+      "data": "2026-10-29"
+    },
     "morango-A-1": {
-      "status": "reprovada",
-      "sha256": "bdde7352d52019765dd96b94e9eaae7241d7a1cfa5623ab8d341fe6449dcdfa8",
-      "data": "2026-10-28",
-      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+      "status": "aprovada",
+      "sha256": "40c83fa80d0d4ca533562f2d4f47e4c4e183bf2b486e2f25ae285a3598ad2102",
+      "data": "2026-10-29"
     },
     "morango-B-1": {
       "status": "aprovada",
@@ -746,10 +855,9 @@
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
     "orquidea-B-1": {
-      "status": "reprovada",
-      "sha256": "ee4c27b451443ca626a3353762de26e45cc92ebc92fd44626f3ee25085eba779",
-      "data": "2026-10-28",
-      "motivo": "faixa branca vazia no topo da imagem (rosto ok)"
+      "status": "aprovada",
+      "sha256": "97594efa12b85765b417cc20375337d6e6879cd1e3731d8f193a95a68ef937f8",
+      "data": "2026-10-29"
     },
     "orquidea-C-1": {
       "status": "aprovada",
@@ -830,10 +938,9 @@
       "data": "2026-10-29"
     },
     "rosa-do-deserto-A-1": {
-      "status": "reprovada",
-      "sha256": "8f885cd83c653f8e379046d29b097bfbc08ee913d0236888defb701f0794a0d9",
-      "data": "2026-10-28",
-      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+      "status": "aprovada",
+      "sha256": "2be922ebc205234be501e678b34dfccdc1961bd7b2348b08cdaaa64b65ea1340",
+      "data": "2026-10-29"
     },
     "rosa-do-deserto-B-1": {
       "status": "aprovada",
@@ -915,6 +1022,11 @@
       "data": "2026-10-28",
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
+    "samambaia-B-1": {
+      "status": "aprovada",
+      "sha256": "090f966573cfc554769faa2727d19e5d233edc7671f1f771308b18a471313729",
+      "data": "2026-10-29"
+    },
     "samambaia-C-1": {
       "status": "aprovada",
       "sha256": "270f99bba6ab5c31aab4992b9bd3735c10a476c66da9705d7d588f175dc45e2a",
@@ -933,16 +1045,14 @@
       "motivo": "André conferiu e aprovou em 28/10"
     },
     "suculenta-A-1": {
-      "status": "reprovada",
-      "sha256": "87af6d9f138662864cb12debddd02bac3c8cb1f09b1183d7212c5b3382456a2c",
-      "data": "2026-10-28",
-      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+      "status": "aprovada",
+      "sha256": "79a23b63f7f10144293d03c0141df9a4add9654f71f6e2d4b55d11ca80c99a80",
+      "data": "2026-10-29"
     },
     "suculenta-B-1": {
-      "status": "reprovada",
-      "sha256": "77b6cff30ce4a72263a2fb3e32a67d452cf36f0c460a8d987210e75c7817367f",
-      "data": "2026-10-28",
-      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+      "status": "aprovada",
+      "sha256": "116fd4bdae9bb9c3295d0752b00ea4f08bf68a1d31847b6dcc6c51d4551b5f8a",
+      "data": "2026-10-29"
     },
     "suculenta-C-1": {
       "status": "aprovada",
@@ -951,10 +1061,9 @@
       "motivo": "André conferiu e aprovou em 28/10"
     },
     "suculenta-D-1": {
-      "status": "reprovada",
-      "sha256": "f43de4d925b17605776f9d685bf3f19224baaee11c745f2a21a691dabb4e2114",
-      "data": "2026-10-28",
-      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+      "status": "aprovada",
+      "sha256": "2267ec3bc28c3b24daea7f294d57bb3fb9f31432db497398bf5c19666a41bb8a",
+      "data": "2026-10-29"
     },
     "suculenta-E-1": {
       "status": "aprovada",
@@ -963,10 +1072,9 @@
       "motivo": "André conferiu e aprovou em 28/10"
     },
     "tomate-A-1": {
-      "status": "reprovada",
-      "sha256": "6f8af41b87183e843289bd3cb0db35cdf938ee38590d9eb2e8f07348f32d0f0f",
-      "data": "2026-10-28",
-      "motivo": "rosto de outro homem, barba cheia ou logo errada (vistoria 28/10)"
+      "status": "aprovada",
+      "sha256": "08c4c19f02349d6e45a165f928c1a43c05de3c05ca095b21c4db2b6a120d16ee",
+      "data": "2026-10-29"
     },
     "tomate-B-1": {
       "status": "aprovada",

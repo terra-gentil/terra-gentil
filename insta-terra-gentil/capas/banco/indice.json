@@ -97,6 +97,44 @@
       "origem": "agave-E-1.jpg"
     },
     {
+      "id": "agave-F-1",
+      "arquivo": "agave/agave-F-1.jpg",
+      "slug": "agave",
+      "especie": "Agave attenuata",
+      "nome": "agave",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "agave",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "agave-F-1.jpg"
+    },
+    {
+      "id": "agave-G-1",
+      "arquivo": "agave/agave-G-1.jpg",
+      "slug": "agave",
+      "especie": "Agave attenuata",
+      "nome": "agave",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "agave",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "agave-G-1.jpg"
+    },
+    {
       "id": "alecrim-A-1",
       "arquivo": "alecrim/alecrim-A-1.jpg",
       "slug": "alecrim",
@@ -1503,6 +1541,44 @@
       "origem": "catleia-E-1.jpg"
     },
     {
+      "id": "catleia-F-1",
+      "arquivo": "catleia/catleia-F-1.jpg",
+      "slug": "catleia",
+      "especie": "Cattleya labiata",
+      "nome": "catleia",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "catleia",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "catleia-F-1.jpg"
+    },
+    {
+      "id": "catleia-H-1",
+      "arquivo": "catleia/catleia-H-1.jpg",
+      "slug": "catleia",
+      "especie": "Cattleya labiata",
+      "nome": "catleia",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "catleia",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "catleia-H-1.jpg"
+    },
+    {
       "id": "cebolinha-A-1",
       "arquivo": "cebolinha/cebolinha-A-1.jpg",
       "slug": "cebolinha",
@@ -1731,6 +1807,44 @@
       "origem": "chuva-de-ouro-E-1.jpg"
     },
     {
+      "id": "chuva-de-ouro-G-1",
+      "arquivo": "chuva-de-ouro/chuva-de-ouro-G-1.jpg",
+      "slug": "chuva-de-ouro",
+      "especie": "Oncidium varicosum",
+      "nome": "chuva-de-ouro",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "chuva-de-ouro",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "chuva-de-ouro-G-1.jpg"
+    },
+    {
+      "id": "chuva-de-ouro-H-1",
+      "arquivo": "chuva-de-ouro/chuva-de-ouro-H-1.jpg",
+      "slug": "chuva-de-ouro",
+      "especie": "Oncidium varicosum",
+      "nome": "chuva-de-ouro",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "chuva-de-ouro",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "chuva-de-ouro-H-1.jpg"
+    },
+    {
       "id": "colar-de-perolas-A-1",
       "arquivo": "colar-de-perolas/colar-de-perolas-A-1.jpg",
       "slug": "colar-de-perolas",
@@ -1824,6 +1938,44 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "colar-de-perolas-E-1.jpg"
+    },
+    {
+      "id": "colar-de-perolas-F-1",
+      "arquivo": "colar-de-perolas/colar-de-perolas-F-1.jpg",
+      "slug": "colar-de-perolas",
+      "especie": "Curio rowleyanus",
+      "nome": "colar-de-pérolas",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "colar-de-perolas",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "colar-de-perolas-F-1.jpg"
+    },
+    {
+      "id": "colar-de-perolas-G-1",
+      "arquivo": "colar-de-perolas/colar-de-perolas-G-1.jpg",
+      "slug": "colar-de-perolas",
+      "especie": "Curio rowleyanus",
+      "nome": "colar-de-pérolas",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "colar-de-perolas",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "colar-de-perolas-G-1.jpg"
     },
     {
       "id": "comigo-ninguem-pode-A-1",
@@ -2339,6 +2491,44 @@
       "origem": "coringa-gramado-C-1.jpg"
     },
     {
+      "id": "coringa-gramado-F-1",
+      "arquivo": "coringa-gramado/coringa-gramado-F-1.jpg",
+      "slug": "coringa-gramado",
+      "especie": "coringa-gramado",
+      "nome": "gramado",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "coringa-gramado",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-gramado-F-1.jpg"
+    },
+    {
+      "id": "coringa-gramado-H-1",
+      "arquivo": "coringa-gramado/coringa-gramado-H-1.jpg",
+      "slug": "coringa-gramado",
+      "especie": "coringa-gramado",
+      "nome": "gramado",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "coringa-gramado",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-gramado-H-1.jpg"
+    },
+    {
       "id": "coringa-horta-A-1",
       "arquivo": "coringa-horta/coringa-horta-A-1.jpg",
       "slug": "coringa-horta",
@@ -2508,6 +2698,63 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "coringa-jardim-vertical-C-1.jpg"
+    },
+    {
+      "id": "coringa-jardim-vertical-F-1",
+      "arquivo": "coringa-jardim-vertical/coringa-jardim-vertical-F-1.jpg",
+      "slug": "coringa-jardim-vertical",
+      "especie": "coringa-jardim-vertical",
+      "nome": "jardim vertical",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "coringa-jardim-vertical",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-jardim-vertical-F-1.jpg"
+    },
+    {
+      "id": "coringa-jardim-vertical-G-1",
+      "arquivo": "coringa-jardim-vertical/coringa-jardim-vertical-G-1.jpg",
+      "slug": "coringa-jardim-vertical",
+      "especie": "coringa-jardim-vertical",
+      "nome": "jardim vertical",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "coringa-jardim-vertical",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-jardim-vertical-G-1.jpg"
+    },
+    {
+      "id": "coringa-jardim-vertical-H-1",
+      "arquivo": "coringa-jardim-vertical/coringa-jardim-vertical-H-1.jpg",
+      "slug": "coringa-jardim-vertical",
+      "especie": "coringa-jardim-vertical",
+      "nome": "jardim vertical",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "coringa-jardim-vertical",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-jardim-vertical-H-1.jpg"
     },
     {
       "id": "coringa-luz-A-1",
@@ -3422,6 +3669,63 @@
       "origem": "dendrobium-E-1.jpg"
     },
     {
+      "id": "dendrobium-F-1",
+      "arquivo": "dendrobium/dendrobium-F-1.jpg",
+      "slug": "dendrobium",
+      "especie": "Dendrobium nobile",
+      "nome": "dendróbio",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "dendrobium",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "dendrobium-F-1.jpg"
+    },
+    {
+      "id": "dendrobium-G-1",
+      "arquivo": "dendrobium/dendrobium-G-1.jpg",
+      "slug": "dendrobium",
+      "especie": "Dendrobium nobile",
+      "nome": "dendróbio",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "dendrobium",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "dendrobium-G-1.jpg"
+    },
+    {
+      "id": "dendrobium-H-1",
+      "arquivo": "dendrobium/dendrobium-H-1.jpg",
+      "slug": "dendrobium",
+      "especie": "Dendrobium nobile",
+      "nome": "dendróbio",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "dendrobium",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "dendrobium-H-1.jpg"
+    },
+    {
       "id": "espada-de-sao-jorge-A-1",
       "arquivo": "espada-de-sao-jorge/espada-de-sao-jorge-A-1.jpg",
       "slug": "espada-de-sao-jorge",
@@ -3952,6 +4256,44 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "haworthia-E-1.jpg"
+    },
+    {
+      "id": "haworthia-F-1",
+      "arquivo": "haworthia/haworthia-F-1.jpg",
+      "slug": "haworthia",
+      "especie": "Haworthiopsis attenuata",
+      "nome": "haworthia-zebra",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "haworthia",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "haworthia-F-1.jpg"
+    },
+    {
+      "id": "haworthia-H-1",
+      "arquivo": "haworthia/haworthia-H-1.jpg",
+      "slug": "haworthia",
+      "especie": "Haworthiopsis attenuata",
+      "nome": "haworthia-zebra",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "haworthia",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "haworthia-H-1.jpg"
     },
     {
       "id": "hibisco-A-1",
@@ -4505,6 +4847,63 @@
       "origem": "jade-E-1.jpg"
     },
     {
+      "id": "jade-F-1",
+      "arquivo": "jade/jade-F-1.jpg",
+      "slug": "jade",
+      "especie": "Crassula ovata",
+      "nome": "planta-jade",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "jade",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "jade-F-1.jpg"
+    },
+    {
+      "id": "jade-G-1",
+      "arquivo": "jade/jade-G-1.jpg",
+      "slug": "jade",
+      "especie": "Crassula ovata",
+      "nome": "planta-jade",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "jade",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "jade-G-1.jpg"
+    },
+    {
+      "id": "jade-H-1",
+      "arquivo": "jade/jade-H-1.jpg",
+      "slug": "jade",
+      "especie": "Crassula ovata",
+      "nome": "planta-jade",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "jade",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "jade-H-1.jpg"
+    },
+    {
       "id": "jiboia-A-1",
       "arquivo": "jiboia/jiboia-A-1.jpg",
       "slug": "jiboia",
@@ -4750,6 +5149,63 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "kalanchoe-E-1.jpg"
+    },
+    {
+      "id": "kalanchoe-F-1",
+      "arquivo": "kalanchoe/kalanchoe-F-1.jpg",
+      "slug": "kalanchoe",
+      "especie": "Kalanchoe blossfeldiana",
+      "nome": "kalanchoe",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "kalanchoe",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "kalanchoe-F-1.jpg"
+    },
+    {
+      "id": "kalanchoe-G-1",
+      "arquivo": "kalanchoe/kalanchoe-G-1.jpg",
+      "slug": "kalanchoe",
+      "especie": "Kalanchoe blossfeldiana",
+      "nome": "kalanchoe",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "kalanchoe",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "kalanchoe-G-1.jpg"
+    },
+    {
+      "id": "kalanchoe-H-1",
+      "arquivo": "kalanchoe/kalanchoe-H-1.jpg",
+      "slug": "kalanchoe",
+      "especie": "Kalanchoe blossfeldiana",
+      "nome": "kalanchoe",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "kalanchoe",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "kalanchoe-H-1.jpg"
     },
     {
       "id": "lavanda-A-1",
@@ -6880,6 +7336,63 @@
       "origem": "sapatinho-E-1.jpg"
     },
     {
+      "id": "sapatinho-F-1",
+      "arquivo": "sapatinho/sapatinho-F-1.jpg",
+      "slug": "sapatinho",
+      "especie": "Paphiopedilum insigne",
+      "nome": "sapatinho",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "sapatinho",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "sapatinho-F-1.jpg"
+    },
+    {
+      "id": "sapatinho-G-1",
+      "arquivo": "sapatinho/sapatinho-G-1.jpg",
+      "slug": "sapatinho",
+      "especie": "Paphiopedilum insigne",
+      "nome": "sapatinho",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "sapatinho",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "sapatinho-G-1.jpg"
+    },
+    {
+      "id": "sapatinho-H-1",
+      "arquivo": "sapatinho/sapatinho-H-1.jpg",
+      "slug": "sapatinho",
+      "especie": "Paphiopedilum insigne",
+      "nome": "sapatinho",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "sapatinho",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "sapatinho-H-1.jpg"
+    },
+    {
       "id": "suculenta-A-1",
       "arquivo": "suculenta/suculenta-A-1.jpg",
       "slug": "suculenta",
@@ -7277,6 +7790,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "vanda-E-1.jpg"
+    },
+    {
+      "id": "vanda-F-1",
+      "arquivo": "vanda/vanda-F-1.jpg",
+      "slug": "vanda",
+      "especie": "Vanda coerulea",
+      "nome": "vanda",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "vanda",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "vanda-F-1.jpg"
     },
     {
       "id": "violeta-A-1",

@@ -722,6 +722,10 @@
       "sha256": "e8ed8dafcf62bbbcc601b3784e8c42d1e4966f560b38dc6eb43fe5725e757d85",
       "data": "2026-10-29"
     },
+    "coringa-luz-H-1": {
+      "status": "pendente",
+      "sha256": "08e352640874c20a3c9083084dd0a9c4e479268e60edf6e2b21fcceb7ad8b4fd"
+    },
     "coringa-mato-A-1": {
       "status": "aprovada",
       "sha256": "631813923e87c7d29e3e317b35e66fc9741688c689a8a3aeff072c2f8b1a6ba3",
@@ -736,6 +740,18 @@
       "status": "aprovada",
       "sha256": "5e0d036f31a79e15e358481c45485bee41b3a71b4c9df885abd47e3ab3321b50",
       "data": "2026-10-29"
+    },
+    "coringa-mato-F-1": {
+      "status": "pendente",
+      "sha256": "24a960421a98be0ad61903c75b7df3d1e85e626ead8be5c449d41010aeaaa737"
+    },
+    "coringa-mato-G-1": {
+      "status": "pendente",
+      "sha256": "50a0b2497790e132f354b55605775f4ae636ba1608d719db9eba62f9851b1aed"
+    },
+    "coringa-mato-H-1": {
+      "status": "pendente",
+      "sha256": "bcb2ba150e960543a0058c927daa9c443ecf18a4be54ab844d9df9c19cc290e8"
     },
     "coringa-muda-A-1": {
       "status": "aprovada",
@@ -752,6 +768,14 @@
       "sha256": "9d5852f65cc49fc0a5b22aff846215bcd734b15379cdca1d9c0607fa13d989aa",
       "data": "2026-10-29"
     },
+    "coringa-muda-F-1": {
+      "status": "pendente",
+      "sha256": "57d49f3dc8be9bda80cfd9a6809242d33abae433c2504a1784a348f6bfa831af"
+    },
+    "coringa-muda-H-1": {
+      "status": "pendente",
+      "sha256": "f814f71933c75c7e1618180c120f850962230861197337f2912dbacbbfebff22"
+    },
     "coringa-pet-A-1": {
       "status": "aprovada",
       "sha256": "a1968056260179df14a910e1a3273388344809a635e2f733267413aac43ad6cc",
@@ -766,6 +790,18 @@
       "status": "aprovada",
       "sha256": "1054020beae47b875af7faa02c9906b90ad394594c641df971c49a7e96a81f2d",
       "data": "2026-10-29"
+    },
+    "coringa-pet-F-1": {
+      "status": "pendente",
+      "sha256": "97f6c2c457f6def2a0e4eb2bd5910ebb8f7a14f3ee47be72fc12a3ee0d3cebe9"
+    },
+    "coringa-pet-G-1": {
+      "status": "pendente",
+      "sha256": "e4986d11f694fcfefa616c17f672e3d377a0c463c26a7c42979ef490db629c02"
+    },
+    "coringa-pet-H-1": {
+      "status": "pendente",
+      "sha256": "0341d4e36046111d622bf2accc41a3bd2330890cab352fbad2f4290c42d468d8"
     },
     "coringa-podar-A-1": {
       "status": "aprovada",
@@ -854,6 +890,18 @@
       "status": "aprovada",
       "sha256": "f3205167b569d7fb7d56969bcbc36dd275f86cda81879d95033accb7b9acc1fa",
       "data": "2026-10-30"
+    },
+    "coringa-solo-F-1": {
+      "status": "pendente",
+      "sha256": "08a589ba1f84794cfcca408f39c6b9a76499b6e10d2ab5951434c05fbd51b3a6"
+    },
+    "coringa-solo-G-1": {
+      "status": "pendente",
+      "sha256": "ea0ed7936da5b2bc7adbd84f0a1d776da6d3c80ddaba1be24a02b6c5c088239b"
+    },
+    "coringa-solo-H-1": {
+      "status": "pendente",
+      "sha256": "de2b4ade4a0c0e1631db6e953454905fb7bbc66e55b8a7d120d051e672aebeae"
     },
     "coringa-trocar-vaso-A-1": {
       "status": "aprovada",
@@ -1482,6 +1530,18 @@
       "status": "aprovada",
       "sha256": "9e95461f658f9f5aca2aed59f9f4671a0aad8d44e5a81212cd7f0c8e3d870165",
       "data": "2026-10-29"
+    },
+    "lirio-F-1": {
+      "status": "pendente",
+      "sha256": "3e031586f499f481730b50ca496e1f8c30cad7ba5907d1dbb86f207a3686f99f"
+    },
+    "lirio-G-1": {
+      "status": "pendente",
+      "sha256": "a20662a539598174d89464dae049ebfe2e582c740f53812ae556b78c9408074e"
+    },
+    "lirio-H-1": {
+      "status": "pendente",
+      "sha256": "4f2cb364aee6a6eadca8dbb142f42b47720fe6e7502784dff92d3571190287dc"
     },
     "manjericao-A-1": {
       "status": "aprovada",

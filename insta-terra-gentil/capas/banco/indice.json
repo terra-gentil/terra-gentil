@@ -2814,6 +2814,25 @@
       "origem": "coringa-luz-C-1.jpg"
     },
     {
+      "id": "coringa-luz-H-1",
+      "arquivo": "coringa-luz/coringa-luz-H-1.jpg",
+      "slug": "coringa-luz",
+      "especie": "coringa-luz",
+      "nome": "luz",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "coringa-luz",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-luz-H-1.jpg"
+    },
+    {
       "id": "coringa-mato-A-1",
       "arquivo": "coringa-mato/coringa-mato-A-1.jpg",
       "slug": "coringa-mato",
@@ -2869,6 +2888,63 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "coringa-mato-C-1.jpg"
+    },
+    {
+      "id": "coringa-mato-F-1",
+      "arquivo": "coringa-mato/coringa-mato-F-1.jpg",
+      "slug": "coringa-mato",
+      "especie": "coringa-mato",
+      "nome": "mato e terreno",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "coringa-mato",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-mato-F-1.jpg"
+    },
+    {
+      "id": "coringa-mato-G-1",
+      "arquivo": "coringa-mato/coringa-mato-G-1.jpg",
+      "slug": "coringa-mato",
+      "especie": "coringa-mato",
+      "nome": "mato e terreno",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "coringa-mato",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-mato-G-1.jpg"
+    },
+    {
+      "id": "coringa-mato-H-1",
+      "arquivo": "coringa-mato/coringa-mato-H-1.jpg",
+      "slug": "coringa-mato",
+      "especie": "coringa-mato",
+      "nome": "mato e terreno",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "coringa-mato",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-mato-H-1.jpg"
     },
     {
       "id": "coringa-muda-A-1",
@@ -2928,6 +3004,44 @@
       "origem": "coringa-muda-C-1.jpg"
     },
     {
+      "id": "coringa-muda-F-1",
+      "arquivo": "coringa-muda/coringa-muda-F-1.jpg",
+      "slug": "coringa-muda",
+      "especie": "coringa-muda",
+      "nome": "muda e semente",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "coringa-muda",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-muda-F-1.jpg"
+    },
+    {
+      "id": "coringa-muda-H-1",
+      "arquivo": "coringa-muda/coringa-muda-H-1.jpg",
+      "slug": "coringa-muda",
+      "especie": "coringa-muda",
+      "nome": "muda e semente",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "coringa-muda",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-muda-H-1.jpg"
+    },
+    {
       "id": "coringa-pet-A-1",
       "arquivo": "coringa-pet/coringa-pet-A-1.jpg",
       "slug": "coringa-pet",
@@ -2983,6 +3097,63 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "coringa-pet-C-1.jpg"
+    },
+    {
+      "id": "coringa-pet-F-1",
+      "arquivo": "coringa-pet/coringa-pet-F-1.jpg",
+      "slug": "coringa-pet",
+      "especie": "coringa-pet",
+      "nome": "planta e pet",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "coringa-pet",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-pet-F-1.jpg"
+    },
+    {
+      "id": "coringa-pet-G-1",
+      "arquivo": "coringa-pet/coringa-pet-G-1.jpg",
+      "slug": "coringa-pet",
+      "especie": "coringa-pet",
+      "nome": "planta e pet",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "coringa-pet",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-pet-G-1.jpg"
+    },
+    {
+      "id": "coringa-pet-H-1",
+      "arquivo": "coringa-pet/coringa-pet-H-1.jpg",
+      "slug": "coringa-pet",
+      "especie": "coringa-pet",
+      "nome": "planta e pet",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "coringa-pet",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-pet-H-1.jpg"
     },
     {
       "id": "coringa-podar-A-1",
@@ -3344,6 +3515,63 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "coringa-solo-C-1.jpg"
+    },
+    {
+      "id": "coringa-solo-F-1",
+      "arquivo": "coringa-solo/coringa-solo-F-1.jpg",
+      "slug": "coringa-solo",
+      "especie": "coringa-solo",
+      "nome": "solo",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "coringa-solo",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-solo-F-1.jpg"
+    },
+    {
+      "id": "coringa-solo-G-1",
+      "arquivo": "coringa-solo/coringa-solo-G-1.jpg",
+      "slug": "coringa-solo",
+      "especie": "coringa-solo",
+      "nome": "solo",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "coringa-solo",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-solo-G-1.jpg"
+    },
+    {
+      "id": "coringa-solo-H-1",
+      "arquivo": "coringa-solo/coringa-solo-H-1.jpg",
+      "slug": "coringa-solo",
+      "especie": "coringa-solo",
+      "nome": "solo",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "coringa-solo",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-solo-H-1.jpg"
     },
     {
       "id": "coringa-trocar-vaso-A-1",
@@ -5738,6 +5966,63 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "lirio-E-1.jpg"
+    },
+    {
+      "id": "lirio-F-1",
+      "arquivo": "lirio/lirio-F-1.jpg",
+      "slug": "lirio",
+      "especie": "Lilium longiflorum",
+      "nome": "lírio",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "lirio",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lirio-F-1.jpg"
+    },
+    {
+      "id": "lirio-G-1",
+      "arquivo": "lirio/lirio-G-1.jpg",
+      "slug": "lirio",
+      "especie": "Lilium longiflorum",
+      "nome": "lírio",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "lirio",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lirio-G-1.jpg"
+    },
+    {
+      "id": "lirio-H-1",
+      "arquivo": "lirio/lirio-H-1.jpg",
+      "slug": "lirio",
+      "especie": "Lilium longiflorum",
+      "nome": "lírio",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "lirio",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lirio-H-1.jpg"
     },
     {
       "id": "manjericao-A-1",

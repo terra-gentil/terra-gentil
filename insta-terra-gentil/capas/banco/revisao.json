@@ -194,6 +194,10 @@
       "status": "pendente",
       "sha256": "846b5a276cdbe47f506a82844f5ae725d1f060b7d6706c723c34f66918f507fa"
     },
+    "babosa-G-1": {
+      "status": "pendente",
+      "sha256": "6007cefa8a8e70e6be6c0beca691e41609f1fe4c0c1d07e82674a64f7542506e"
+    },
     "babosa-H-1": {
       "status": "pendente",
       "sha256": "fe473173360cf439f030e67903066df270b32b4ba50b5ff68032287e9738ecbc"
@@ -571,6 +575,10 @@
       "status": "aprovada",
       "sha256": "591b831adf179a41573b07940831cbd52b309df86d4d6b08ca2e9865fc33fd14",
       "data": "2026-10-29"
+    },
+    "coringa-adubar-F-1": {
+      "status": "pendente",
+      "sha256": "0bcbd8c6bb6f42052eeb7fafa97585dfaa1bb40c4f0cbaa3dd53af557f048c8d"
     },
     "coringa-adubar-G-1": {
       "status": "pendente",
@@ -1119,6 +1127,10 @@
       "status": "pendente",
       "sha256": "cc174c82a473e15841358db51d0443e705f6b26466c28dbd0ea5e46196f21f70"
     },
+    "grama-G-1": {
+      "status": "pendente",
+      "sha256": "b9f24b26f7a9f9469ca69712dc091efaececaace8b6a49f9b64ecabfbfc5b823"
+    },
     "grama-H-1": {
       "status": "pendente",
       "sha256": "0552f1f08716752510a0ff6ebfbe4f3d247a3d601b6e785dcdde2a90068727db"
@@ -1458,6 +1470,10 @@
       "status": "pendente",
       "sha256": "1ca1f098a12193052523b2a6e670e30ae65544f847fbf9e66ed6bbf0fa60e731"
     },
+    "limoeiro-G-1": {
+      "status": "pendente",
+      "sha256": "6c6e40e4035170a2a86651e6efe00cc652a58d05291b8aeb25f5b38a2de00f73"
+    },
     "limoeiro-H-1": {
       "status": "pendente",
       "sha256": "6f9fbd5d75c377a866e4b41422c43ec2ac13940a874cf28eb6f6e8d88228c1ff"
@@ -1576,6 +1592,10 @@
     "manjericao-F-1": {
       "status": "pendente",
       "sha256": "6b96ebf71ab3433df1374f4715f827a872aae1d1e441c8f6d4ea2a601adcb090"
+    },
+    "manjericao-G-1": {
+      "status": "pendente",
+      "sha256": "42dcb53368179f8bae16c4dae797646acb9d5b68d5b008a155279bee94f79696"
     },
     "manjericao-H-1": {
       "status": "pendente",
@@ -2126,6 +2146,10 @@
     "violeta-F-1": {
       "status": "pendente",
       "sha256": "9dbbf54c51a87109cd99e75c5c60deb346e34f8cc1bb923b158babf11d49a2d2"
+    },
+    "violeta-G-1": {
+      "status": "pendente",
+      "sha256": "afb175ba3a55e9585748eb2ba32106da8b03ea6101128f19630cdf877f5e59f8"
     },
     "violeta-H-1": {
       "status": "pendente",

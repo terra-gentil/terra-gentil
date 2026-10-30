@@ -705,6 +705,25 @@
       "origem": "babosa-F-1.jpg"
     },
     {
+      "id": "babosa-G-1",
+      "arquivo": "babosa/babosa-G-1.jpg",
+      "slug": "babosa",
+      "especie": "Aloe vera",
+      "nome": "babosa",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "babosa",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "babosa-G-1.jpg"
+    },
+    {
       "id": "babosa-H-1",
       "arquivo": "babosa/babosa-H-1.jpg",
       "slug": "babosa",
@@ -2185,6 +2204,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "coringa-adubar-C-1.jpg"
+    },
+    {
+      "id": "coringa-adubar-F-1",
+      "arquivo": "coringa-adubar/coringa-adubar-F-1.jpg",
+      "slug": "coringa-adubar",
+      "especie": "coringa-adubar",
+      "nome": "adubar",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "coringa-adubar",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-adubar-F-1.jpg"
     },
     {
       "id": "coringa-adubar-G-1",
@@ -4372,6 +4410,25 @@
       "origem": "grama-F-1.jpg"
     },
     {
+      "id": "grama-G-1",
+      "arquivo": "grama/grama-G-1.jpg",
+      "slug": "grama",
+      "especie": "Zoysia japonica",
+      "nome": "grama-esmeralda",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "grama",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "grama-G-1.jpg"
+    },
+    {
       "id": "grama-H-1",
       "arquivo": "grama/grama-H-1.jpg",
       "slug": "grama",
@@ -5702,6 +5759,25 @@
       "origem": "limoeiro-F-1.jpg"
     },
     {
+      "id": "limoeiro-G-1",
+      "arquivo": "limoeiro/limoeiro-G-1.jpg",
+      "slug": "limoeiro",
+      "especie": "Citrus limon",
+      "nome": "limoeiro",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "limoeiro",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "limoeiro-G-1.jpg"
+    },
+    {
       "id": "limoeiro-H-1",
       "arquivo": "limoeiro/limoeiro-H-1.jpg",
       "slug": "limoeiro",
@@ -6137,6 +6213,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "manjericao-F-1.jpg"
+    },
+    {
+      "id": "manjericao-G-1",
+      "arquivo": "manjericao/manjericao-G-1.jpg",
+      "slug": "manjericao",
+      "especie": "Ocimum basilicum",
+      "nome": "manjericão",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "manjericao",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "manjericao-G-1.jpg"
     },
     {
       "id": "manjericao-H-1",
@@ -8208,6 +8303,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "violeta-F-1.jpg"
+    },
+    {
+      "id": "violeta-G-1",
+      "arquivo": "violeta/violeta-G-1.jpg",
+      "slug": "violeta",
+      "especie": "Saintpaulia ionantha",
+      "nome": "violeta",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "violeta",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "violeta-G-1.jpg"
     },
     {
       "id": "violeta-H-1",

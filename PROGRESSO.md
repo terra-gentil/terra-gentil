@@ -1,5 +1,8 @@
 # PROGRESSO Terra Gentil
-## ESTEIRA DO 2K (decisao do Andre 30/10/2026): aprovou, tem que pegar o 2K
+## 2K DA RODADA 2: BLOQUEADO (30/10/2026, tarde)
+Na galeria, o menu de download com 1K/2K/4K so apareceu para a capa antiga jade (rodada 1). Para as capas da rodada 2 (plantas e coringas, conta eng.andrehz) o botao Baixar midia baixa direto o 1K, sem menu (o clique por JS tambem). A galeria da Pamela mostrou o aviso: creditos do Google Flow estao acabando (nao renovam mensalmente), entao o limite pode ser de creditos e nao so de janela de 24 h. Nao ha 2K da rodada 2. Hipoteses a testar: o 2K aparece conforme o modelo da midia (Nano Banana Pro x 2.1) ou o tamanho original; ou aprimorar pela ferramenta Upscale do Flow. Os titulos das midias na galeria sao os ids das capas (navegacao por Proxima midia funciona).
+
+## ESTEIRA DO 2K (decisao do Andre 30/10/2026): aprovou, tem que pegar o 2K
 Teste feito na galeria da eng.andrehz (`https://flow.google.com/project/db0dc6c0-4e26-452d-9c3d-bbfa4ac6f70d`): buscar pelo nome em ingles da planta (ex.: jade plant), abrir a imagem, icone de download no topo, escolher 2K (Aprimorado). Baixa `<legenda>_<id>_2K.jpg` em 1792x2400 e **funciona mesmo com o limite de geracao estourado**. Problema: a busca mistura as capas da rodada 1 e da rodada 2 da mesma planta, e o `place2k.py <pasta 1K>` so casa com as 1K da pasta passada (correlacao >= 0.90): o teste da jade caiu em rodada 1 (nao casou, corr 0,23). Proximo: automatizar por JS na galeria (mesma origem, o driver da rodada 1 servia), baixar so as imagens de hoje de cada especie e casar com `capas-rodada2-importadas`; depois `importar-cli.mjs` por cima mantendo a aprovacao. Pamela gerou lotes 1 a 9 (81 capas), eng.andrehz o resto (83): baixar cada grupo na conta certa. Ainda nenhuma capa da rodada 2 em 2K.
 
 ## REVISAO DA RODADA 2 FECHADA (30/10/2026): banco com 445 aprovadas e 2 reprovadas

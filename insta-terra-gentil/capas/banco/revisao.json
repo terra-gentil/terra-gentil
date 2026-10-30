@@ -56,6 +56,18 @@
       "data": "2026-10-28",
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
+    "alecrim-F-1": {
+      "status": "pendente",
+      "sha256": "f26015d6c809205beb58c5bca3c78175c5297ed4d55318c11815eb03dc8e334f"
+    },
+    "alecrim-G-1": {
+      "status": "pendente",
+      "sha256": "cacc2461b0cdc4a69e9ff63fe1b6b996a9973c79bdb77a6726b6d2bebd1bd338"
+    },
+    "alecrim-H-1": {
+      "status": "pendente",
+      "sha256": "793cef1978fc84c7bf7d9638a660c5781ada4fb5c9934f74f3307f17d88a844a"
+    },
     "alface-A-1": {
       "status": "aprovada",
       "sha256": "aec906b50542083473bc224e3782c0830b97ba529cc682d2119333fa3558205c",
@@ -87,6 +99,18 @@
       "motivo": "André aprovou, rosto de perfil abaixo do limiar",
       "excecaoRosto": "André, 2026-10-28"
     },
+    "alface-F-1": {
+      "status": "pendente",
+      "sha256": "e8108d5fbe4e91c68eb43a1e1668655e1b3f31f5c2eebf09dbdbf37300923114"
+    },
+    "alface-G-1": {
+      "status": "pendente",
+      "sha256": "9ba3dafef69b33302558095b39f678595c0bcde34523baf048cc6030d0c5fde3"
+    },
+    "alface-H-1": {
+      "status": "pendente",
+      "sha256": "dea6ef4e9ac4ae929bde151d409d7b96a9d662c004b8915d9ab5ea71949fabaa"
+    },
     "anturio-A-1": {
       "status": "aprovada",
       "sha256": "0adb5a958c83a750a34338a78ca90aaadcc6cac5d6dcf40a6ccf97ce2f84801c",
@@ -117,6 +141,18 @@
       "data": "2026-10-28",
       "motivo": "André conferiu e aprovou em 28/10"
     },
+    "anturio-F-1": {
+      "status": "pendente",
+      "sha256": "447bf4e82383ae493fccb9f99642d1348e459050d0d662f0156b0137d2b2b765"
+    },
+    "anturio-G-1": {
+      "status": "pendente",
+      "sha256": "6130788d7b37adbf76e9eae87c9f74f73d235057eacc21087f76459c99fdc43b"
+    },
+    "anturio-H-1": {
+      "status": "pendente",
+      "sha256": "f2609c4debb04422bdceb06d2f72ccb7b879d06f015fc0d1e24a25ffa67ec499"
+    },
     "babosa-A-1": {
       "status": "aprovada",
       "sha256": "9b6bda3a8bc2777c56ccbaad90944eda4314c5b24e3f59570b1cde04569dd268",
@@ -145,6 +181,14 @@
       "sha256": "46c59ee58f40a39c78a05eab1c6f821989d22d26f46fd7531be302efa901c917",
       "data": "2026-10-28",
       "motivo": "André conferiu e aprovou em 28/10"
+    },
+    "babosa-F-1": {
+      "status": "pendente",
+      "sha256": "846b5a276cdbe47f506a82844f5ae725d1f060b7d6706c723c34f66918f507fa"
+    },
+    "babosa-H-1": {
+      "status": "pendente",
+      "sha256": "fe473173360cf439f030e67903066df270b32b4ba50b5ff68032287e9738ecbc"
     },
     "bambu-da-sorte-A-1": {
       "status": "aprovada",
@@ -279,6 +323,18 @@
       "sha256": "a608d4ddd571ebaf402ba814df12129de07ca6c2f91629f064dc16fdf4bc210e",
       "data": "2026-10-29"
     },
+    "cacto-F-1": {
+      "status": "pendente",
+      "sha256": "3e5e73acc15a173ed14eda3d5d1fa09b7eec63ddd6435441293c1280c9d0ac13"
+    },
+    "cacto-G-1": {
+      "status": "pendente",
+      "sha256": "fb90bf8aad3622c523b32d489879932f9b9b26ff87d8d98f50c8b720a512873b"
+    },
+    "cacto-H-1": {
+      "status": "pendente",
+      "sha256": "b9f8813afeb2a029bd2f9297ded913b8d4e7168843e41983eb8a03ea473c53cb"
+    },
     "catleia-A-1": {
       "status": "aprovada",
       "sha256": "67efd4d3cc062e1bbb7cf8fa79ac021e795572246d3d2655068ae1ef2802a4a9",
@@ -333,6 +389,14 @@
       "sha256": "cedfe48e695d97c400d1e68918066e2683e15ad8b70bb1c1076be00b9ee07593",
       "data": "2026-10-28",
       "motivo": "André conferiu e aprovou em 28/10"
+    },
+    "cebolinha-F-1": {
+      "status": "pendente",
+      "sha256": "f648acb4c92fdf5f3b3412486538c9a3fa6b694b28149296c1b2c77484e5a794"
+    },
+    "cebolinha-H-1": {
+      "status": "pendente",
+      "sha256": "a39de0d6f4a6bdae2ff8e87251753412d438f8e93e2726675b1200a08d5a80f9"
     },
     "chuva-de-ouro-A-1": {
       "status": "aprovada",
@@ -803,6 +867,14 @@
       "data": "2026-10-28",
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
+    "grama-F-1": {
+      "status": "pendente",
+      "sha256": "cc174c82a473e15841358db51d0443e705f6b26466c28dbd0ea5e46196f21f70"
+    },
+    "grama-H-1": {
+      "status": "pendente",
+      "sha256": "0552f1f08716752510a0ff6ebfbe4f3d247a3d601b6e785dcdde2a90068727db"
+    },
     "haworthia-A-1": {
       "status": "aprovada",
       "sha256": "30cd5ae09dd6f69b768dd8b2df2f5c7ad83250e9455a7e21016ee6d11706a764",
@@ -884,6 +956,18 @@
       "status": "aprovada",
       "sha256": "88563d367d1c59073548cf401ac1b7ca9738d294ec4a4fa9ebbdbf7cea33580b",
       "data": "2026-10-29"
+    },
+    "hortela-F-1": {
+      "status": "pendente",
+      "sha256": "26563618d638149244048842eb96f2e02d0e005f174d07bc83b7e77300bda2a2"
+    },
+    "hortela-G-1": {
+      "status": "pendente",
+      "sha256": "b6ebca1b6c3fc4ec17ee2853ac7b3c669d25c77a021bbc6559e8466d71d4ca64"
+    },
+    "hortela-H-1": {
+      "status": "pendente",
+      "sha256": "ce652648391a58bbb2298ca7d2dc929e0491a92d68469da2192c3f452690ad14"
     },
     "jabuticabeira-A-1": {
       "status": "aprovada",
@@ -1103,6 +1187,21 @@
       "data": "2026-10-28",
       "motivo": "André conferiu e aprovou em 28/10"
     },
+    "lirio-da-paz-F-1": {
+      "status": "aprovada",
+      "sha256": "6a8cfb621c8dbcb18e3803c209849e421f24e665f494e4203d0b0361bece0bfd",
+      "data": "2026-10-30"
+    },
+    "lirio-da-paz-G-1": {
+      "status": "aprovada",
+      "sha256": "cdc6eed2fe7ed3ea8ea771ea9e720ff6f60ff5a2f51c801fa098e9a2d413365e",
+      "data": "2026-10-30"
+    },
+    "lirio-da-paz-H-1": {
+      "status": "aprovada",
+      "sha256": "850bbf58123c4f9dd519c8213bc1518caec49a66cccaae9773c3752631c10831",
+      "data": "2026-10-30"
+    },
     "lirio-E-1": {
       "status": "aprovada",
       "sha256": "9e95461f658f9f5aca2aed59f9f4671a0aad8d44e5a81212cd7f0c8e3d870165",
@@ -1137,6 +1236,14 @@
       "sha256": "8823280ddc50985eb5fd736c11e2956cbc18d59ca9d8b383774e19342add10dd",
       "data": "2026-10-28",
       "motivo": "André conferiu e aprovou em 28/10"
+    },
+    "manjericao-F-1": {
+      "status": "pendente",
+      "sha256": "6b96ebf71ab3433df1374f4715f827a872aae1d1e441c8f6d4ea2a601adcb090"
+    },
+    "manjericao-H-1": {
+      "status": "pendente",
+      "sha256": "52362592135bccc18de0c582aabf7d3f1996efe46b26427388655c13003f4412"
     },
     "maranta-A-1": {
       "status": "aprovada",
@@ -1194,6 +1301,18 @@
       "sha256": "d613aa4d847d8922d0a9c91170237014ab9057e1007fceeb3c642e54189f8733",
       "data": "2026-10-28",
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "morango-F-1": {
+      "status": "pendente",
+      "sha256": "4f099e26eedfab0158876285d004f57543ef14d9077e1b78c6caeb910aa5bed8"
+    },
+    "morango-G-1": {
+      "status": "pendente",
+      "sha256": "00ae792fbd273c24ae5945c1c9e822575d2d9ab795def25e2236a0fa1d36851d"
+    },
+    "morango-H-1": {
+      "status": "pendente",
+      "sha256": "4ea810be2171d3676b0b21fcaa4177b648cba2b44f11c3bc17bcdfbedb4455cf"
     },
     "orquidea-A-1": {
       "status": "aprovada",
@@ -1328,6 +1447,21 @@
       "data": "2026-10-28",
       "motivo": "André conferiu e aprovou em 28/10"
     },
+    "rosa-do-deserto-F-1": {
+      "status": "aprovada",
+      "sha256": "04b9e61a7432cc011483cbefc1821ef0380ef73d6611663989e6b4d9378edd03",
+      "data": "2026-10-30"
+    },
+    "rosa-do-deserto-G-1": {
+      "status": "aprovada",
+      "sha256": "67395ae109d8ae0fd0e7ad31b8ee48889c5e0a583ec6179efeb4664e61fe6f5b",
+      "data": "2026-10-30"
+    },
+    "rosa-do-deserto-H-1": {
+      "status": "aprovada",
+      "sha256": "d14fe615fb7fdb7a76eaf1104df0fa6ac88479f9b6f784d3a52f5bd4b3f98aaf",
+      "data": "2026-10-30"
+    },
     "roseira-A-1": {
       "status": "aprovada",
       "sha256": "fb112e178d4617c28a30c4d324a25e0987e1c94fbbdd305f8dabdfc44ea58564",
@@ -1406,6 +1540,18 @@
       "data": "2026-10-28",
       "motivo": "André conferiu e aprovou em 28/10"
     },
+    "samambaia-F-1": {
+      "status": "pendente",
+      "sha256": "028705d6aaa6606e9219335de3c2b3b8f7b08559352bbf339f792082cf146562"
+    },
+    "samambaia-G-1": {
+      "status": "pendente",
+      "sha256": "1da5eedf3230b60790ce1a30d98167abab386f664823ae820986d2a18d56fc13"
+    },
+    "samambaia-H-1": {
+      "status": "pendente",
+      "sha256": "54eafdd3cb68d82a91cb5995f91aae5da38645e62a629ffc60592026a1bfebba"
+    },
     "sapatinho-A-1": {
       "status": "aprovada",
       "sha256": "c1415f29f7b2c4658984a7d2d1052b8e4d4b45503e40fd6ee4ce1e4ee51f9e78",
@@ -1458,6 +1604,21 @@
       "data": "2026-10-28",
       "motivo": "André conferiu e aprovou em 28/10"
     },
+    "suculenta-F-1": {
+      "status": "aprovada",
+      "sha256": "3a5fd319075ef8889d1e679b5fcc631ff75a861f6a06995607422b6b1640f0f5",
+      "data": "2026-10-30"
+    },
+    "suculenta-G-1": {
+      "status": "aprovada",
+      "sha256": "805733bfd610fabc8c76e2aa83bca8ab4d0c92ca850d0905d0e6075edf126332",
+      "data": "2026-10-30"
+    },
+    "suculenta-H-1": {
+      "status": "aprovada",
+      "sha256": "2a4cc32cdfe8604e217b51074b452a402a5e0719c96a854fe18a9ff2821973d7",
+      "data": "2026-10-30"
+    },
     "tomate-A-1": {
       "status": "aprovada",
       "sha256": "08c4c19f02349d6e45a165f928c1a43c05de3c05ca095b21c4db2b6a120d16ee",
@@ -1486,6 +1647,18 @@
       "sha256": "065e4c3a9a4146f0c1efbf85993f55f01aaf3daf4d8eee6eb8c6fab9a0600476",
       "data": "2026-10-28",
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
+    },
+    "tomate-F-1": {
+      "status": "pendente",
+      "sha256": "0bd1f89d4421bf64dd896eee69e4b474b2bec68eade8205ea76c9bfa0faf22a9"
+    },
+    "tomate-G-1": {
+      "status": "pendente",
+      "sha256": "02e7d02574cc574d58cde1b8c2302a64213cd40da6c4778f9f867c7cc95e47f5"
+    },
+    "tomate-H-1": {
+      "status": "pendente",
+      "sha256": "d6ab6f61410139d395ebade90ad9afa9892cf6976ee982c9d4d064bec59ff804"
     },
     "vanda-A-1": {
       "status": "aprovada",

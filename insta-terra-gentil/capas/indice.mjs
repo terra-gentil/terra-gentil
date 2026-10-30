@@ -1,4 +1,4 @@
-// Índice do banco de capas: tags por foto (espécie, cenário, estilo) para o carrossel buscar fácil.
+// Índice do banco de capas: tags por foto (espécie, cenário, estilo) para o carrossel buscar.
 import fs from 'node:fs';
 import path from 'node:path';
 
@@ -8,11 +8,14 @@ export const CENARIOS_NOME = {
   C: 'ambiente',
   D: 'ensinando',
   E: 'regando',
+  F: 'retrato',
+  G: 'mexendo na terra',
+  H: 'luz da tarde',
 };
 
 // Nome do arquivo (do Flow ou já no banco) -> { slug, cenario, n } ou null.
 // Aceita "orquidea-B-1.jpg" e "orquidea-B-1_20261027112439.jpg" (sufixo de data do download).
-const NOME = /^([a-z0-9-]+)-([A-E])-(\d+)(?:_\d+)?\.(jpe?g|png|webp)$/i;
+const NOME = /^([a-z0-9-]+)-([A-H])-(\d+)(?:_\d+)?\.(jpe?g|png|webp)$/i;
 
 export function lerNomeDaCapa(arquivo) {
   const m = NOME.exec(arquivo);

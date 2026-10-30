@@ -1,15 +1,20 @@
 // Linha de comando: gera a fila de capas para a ferramenta "Capas TG" do Flow.
-// uso: node capas/fila-cli.mjs [slug ...] [--por-cenario N]   (sem slug = todas as espécies)
+// uso: node capas/fila-cli.mjs [slug ...] [--por-cenario N] [--rodada 2]   (sem slug = todas)
 import fs from 'node:fs';
 import path from 'node:path';
 import { DADOS, naRaiz } from '../lib/config.mjs';
 import { lerJson } from '../lib/json.mjs';
+import { RODADA_2 } from './cenarios2.mjs';
 import { filaDeCapas } from './prompts.mjs';
 
 const args = process.argv.slice(2);
 const i = args.indexOf('--por-cenario');
 const porCenario = i >= 0 ? Number(args[i + 1]) : 1;
-const slugs = args.filter((a, j) => !a.startsWith('--') && (i < 0 || j !== i + 1));
+const r = args.indexOf('--rodada');
+const cenarios = r >= 0 && args[r + 1] === '2' ? RODADA_2 : undefined;
+const slugs = args.filter(
+  (a, j) => !a.startsWith('--') && (i < 0 || j !== i + 1) && (r < 0 || j !== r + 1),
+);
 
 const { especies } = lerJson(path.join(DADOS, 'capas.json'));
 const escolhidas = Object.fromEntries(
@@ -20,7 +25,7 @@ if (!Object.keys(escolhidas).length) {
   process.exit(1);
 }
 
-const fila = { capas: filaDeCapas(escolhidas, { porCenario }) };
+const fila = { capas: filaDeCapas(escolhidas, { porCenario, cenarios }) };
 const saida = naRaiz('saida', 'fila-capas.json');
 fs.mkdirSync(path.dirname(saida), { recursive: true });
 fs.writeFileSync(saida, `${JSON.stringify(fila, null, 2)}\n`);

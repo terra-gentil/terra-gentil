@@ -5,14 +5,15 @@ import { entradaDoIndice, lerNomeDaCapa, mesclarIndice, porTags } from './indice
 
 const catalogo = { Phalaenopsis: { nome: 'orquídea', slug: 'orquidea' } };
 
-test('lê o nome do banco e o nome baixado do Flow, A a E', () => {
+test('lê o nome do banco e o nome baixado do Flow, A a H', () => {
   assert.deepEqual(lerNomeDaCapa('orquidea-B-1.jpg'), { slug: 'orquidea', cenario: 'B', n: 1 });
   assert.deepEqual(lerNomeDaCapa('orquidea-E-2_20261027112439.jpg'), {
     slug: 'orquidea',
     cenario: 'E',
     n: 2,
   });
-  assert.equal(lerNomeDaCapa('orquidea-F-1.jpg'), null);
+  assert.equal(lerNomeDaCapa('orquidea-H-1.jpg').cenario, 'H');
+  assert.equal(lerNomeDaCapa('orquidea-I-1.jpg'), null);
   assert.equal(lerNomeDaCapa('foto.jpg'), null);
 });
 

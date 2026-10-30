@@ -1051,6 +1051,24 @@
       "onde": "banco",
       "sha256": "b97984eff4b1efe628748bf40fa07db11fa23cc7c13d1aca6d1eee1163f7a943"
     },
+    "jiboia-F-1": {
+      "nota": 0.737,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b850d445711d93a4ff91c77a4dcf1b9c7372312bbc496f54f66e1c8d34a72c2d"
+    },
+    "jiboia-G-1": {
+      "nota": 0.5478,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "de1cac2100dece84de804d24beae6ff18ece971dc249390e82ab75bf25f2b8a8"
+    },
+    "jiboia-H-1": {
+      "nota": 0.5508,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "f5d722c45c2dd72b37414deabaac8a049c214df13a7071126ac4b6cd44dc02d7"
+    },
     "kalanchoe-A-1": {
       "nota": 0.6286,
       "rostos": 1,

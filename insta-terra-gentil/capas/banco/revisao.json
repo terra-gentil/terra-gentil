@@ -929,6 +929,21 @@
       "data": "2026-10-28",
       "motivo": "André conferiu e aprovou em 28/10"
     },
+    "jiboia-F-1": {
+      "status": "aprovada",
+      "sha256": "b850d445711d93a4ff91c77a4dcf1b9c7372312bbc496f54f66e1c8d34a72c2d",
+      "data": "2026-10-30"
+    },
+    "jiboia-G-1": {
+      "status": "aprovada",
+      "sha256": "de1cac2100dece84de804d24beae6ff18ece971dc249390e82ab75bf25f2b8a8",
+      "data": "2026-10-30"
+    },
+    "jiboia-H-1": {
+      "status": "aprovada",
+      "sha256": "f5d722c45c2dd72b37414deabaac8a049c214df13a7071126ac4b6cd44dc02d7",
+      "data": "2026-10-30"
+    },
     "kalanchoe-A-1": {
       "status": "aprovada",
       "sha256": "25e10e6ce828dea504106043035e452d38a098e02cc52d72740913ae3cafee36",

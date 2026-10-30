@@ -1,5 +1,8 @@
 # PROGRESSO Terra Gentil
 
+## SEGUNDA RODADA DE CAPAS (iniciada 30/10/2026, 01h): cenários F a H, banco com 283 aprovadas
+Andre quer mais variedade: as mesmas 62 espécies (47 plantas + 15 coringas) com 3 cenários novos cada: F retrato (close do rosto, planta desfocada), G mexendo na terra (lado, 3/4), H luz da tarde (contra-plongée). Código: `capas/cenarios2.mjs` (RODADA_1, RODADA_2, prompts), `node capas/fila-cli.mjs [slug] --rodada 2` gera a fila, `indice.mjs` aceita A a H. Teste na jiboia aprovado pelo Andre (F, G e H importadas; a primeira G tinha 2 homens e foi refeita; EVITAR já cobre 'other people'). Faltam as outras 61 espécies x 3 = 183 capas: gerar em lotes na Pamela e na eng.andrehz (limite ~99 por 24 h cada), triar rosto, Andre revisa, importar. Próximo passo: gerar a fila das 61 e começar pelos lotes.
+
 ## CAPAS FECHADAS: banco com 280 aprovadas (atualizado 30/10/2026, 00h30)
 As 16 capas coringa/haworthia das bíblias estão no banco. A Pamela liberou o limite depois das 20h e gerou as 2 que faltavam (coringa-mato-A-1, versão nova sem texto embaralhado na logo, e coringa-solo-C-1); rosto conferido, o Andre aprovou e elas foram importadas. Nada pendente de gerar, salvo se o Andre pedir para regerar alguma. Lições: a ferramenta da Pamela (versão antiga) recusa ids que já rodaram na sessão (usar sufixo `x` e renomear ao baixar); "Carregar fila" só pega depois de Limpar + colar; "Baixar prontas" trava em ~10 downloads; o limite da Pamela voltou na 18ª geração e liberou sozinho horas depois. Próximo passo: tratamento anti-IA (seção abaixo).
 

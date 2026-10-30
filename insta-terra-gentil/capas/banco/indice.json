@@ -3327,6 +3327,63 @@
       "origem": "jiboia-E-1.jpg"
     },
     {
+      "id": "jiboia-F-1",
+      "arquivo": "jiboia/jiboia-F-1.jpg",
+      "slug": "jiboia",
+      "especie": "Epipremnum aureum",
+      "nome": "jiboia",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "jiboia",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "jiboia-F-1.jpg"
+    },
+    {
+      "id": "jiboia-G-1",
+      "arquivo": "jiboia/jiboia-G-1.jpg",
+      "slug": "jiboia",
+      "especie": "Epipremnum aureum",
+      "nome": "jiboia",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "jiboia",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "jiboia-G-1.jpg"
+    },
+    {
+      "id": "jiboia-H-1",
+      "arquivo": "jiboia/jiboia-H-1.jpg",
+      "slug": "jiboia",
+      "especie": "Epipremnum aureum",
+      "nome": "jiboia",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "jiboia",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "jiboia-H-1.jpg"
+    },
+    {
       "id": "kalanchoe-A-1",
       "arquivo": "kalanchoe/kalanchoe-A-1.jpg",
       "slug": "kalanchoe",

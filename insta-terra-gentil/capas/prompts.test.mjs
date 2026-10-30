@@ -4,6 +4,7 @@ import assert from 'node:assert/strict';
 import path from 'node:path';
 import { DADOS } from '../lib/config.mjs';
 import { lerJson } from '../lib/json.mjs';
+import { RODADA_2 } from './cenarios2.mjs';
 import { ESTILO, EVITAR, QUADRO, filaDeCapas, promptDaCapa } from './prompts.mjs';
 
 const { especies } = lerJson(path.join(DADOS, 'capas.json'));
@@ -59,4 +60,19 @@ test('catálogo: 47 espécies e 15 coringas, slug único e sem acento', () => {
     assert.ok(e.ingles && e.ambiente && e.nome);
   }
   for (const e of Object.values(coringas)) assert.ok(e.cena && e.ambiente && e.nome);
+});
+
+test('2a rodada: cenários F a H com estilo fixo, plano médio ou fechado, ids sem repetir', () => {
+  for (const c of RODADA_2) {
+    for (const e of [plantas.Phalaenopsis, coringas['coringa-regar']]) {
+      const p = promptDaCapa(e, c);
+      for (const parte of [ESTILO, QUADRO, EVITAR]) assert.ok(p.includes(parte));
+      assert.doesNotMatch(p, /^Wide shot/);
+    }
+  }
+  const fila = filaDeCapas(especies, { cenarios: RODADA_2 });
+  assert.equal(fila.length, Object.keys(especies).length * 3);
+  assert.equal(new Set(fila.map((f) => f.id)).size, fila.length);
+  const rodada1 = filaDeCapas(especies).map((f) => f.id);
+  assert.deepEqual(fila.filter((f) => rodada1.includes(f.id)), []);
 });

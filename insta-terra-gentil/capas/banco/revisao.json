@@ -245,6 +245,18 @@
       "data": "2026-10-28",
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
+    "begonia-F-1": {
+      "status": "pendente",
+      "sha256": "1aa66c065e3150027456cf52f0d19e701d0ed86a9f68e0310ecfef7a6551fafd"
+    },
+    "begonia-G-1": {
+      "status": "pendente",
+      "sha256": "68081a455f4e396be9e59e3ef2c580ddf1b2a1b3c32149ad6d0aa56b8b7ef362"
+    },
+    "begonia-H-1": {
+      "status": "pendente",
+      "sha256": "b374b4206f77bc191a1af44cc1aa4955cbc5d05f497d080aef8c2713d94f95cc"
+    },
     "bromelia-A-1": {
       "status": "aprovada",
       "sha256": "0869fadab81be34797c4b0d00c583d2c972d0c42f59f63e5144eb43c6c5d146e",
@@ -269,6 +281,18 @@
       "status": "aprovada",
       "sha256": "92c81d0e17bb00331336ed86da2ca79b5a769e93a75743918b424cd6a8394e2e",
       "data": "2026-10-29"
+    },
+    "bromelia-F-1": {
+      "status": "pendente",
+      "sha256": "413b0e18aa33e9da63422612613d07aaa3c11e48c7b7e127e55df157bccd5a79"
+    },
+    "bromelia-G-1": {
+      "status": "pendente",
+      "sha256": "4e7288978393aea820f383fa41471f8fb6fb6e61e319b8f9c617c9a6d6d99924"
+    },
+    "bromelia-H-1": {
+      "status": "pendente",
+      "sha256": "125c18510e1c8b62e3634c69123ed5a3e61b78de7fe2b059f6aaab69a480e507"
     },
     "buganvilia-A-1": {
       "status": "aprovada",
@@ -929,6 +953,18 @@
       "data": "2026-10-28",
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
+    "hibisco-F-1": {
+      "status": "pendente",
+      "sha256": "a4fbb6c483b898e0c2ca3ce9078018f7a6aaff2c63ad17c7d2f8d0d10a3fb419"
+    },
+    "hibisco-G-1": {
+      "status": "pendente",
+      "sha256": "945ee3dc078cdaa1fc97a9fed8b2d495f144d06db2281c845464fff677220386"
+    },
+    "hibisco-H-1": {
+      "status": "pendente",
+      "sha256": "d0d495296b6111ac56310aa6d031c12aef54077b805328dd3b858c32640e5102"
+    },
     "hortela-A-1": {
       "status": "aprovada",
       "sha256": "b90cad320059fbd1b2bbbb0e8a15bc0733cec9306cc25b9fb24ae8efdf5f4eff",
@@ -1113,6 +1149,18 @@
       "sha256": "b8403b9d59306886f4d6340a157b33e574159dcaa7a6a51ee9fba613a41e128e",
       "data": "2026-10-29"
     },
+    "lavanda-F-1": {
+      "status": "pendente",
+      "sha256": "608d68b4ac3ec7eecb632cab3d037d8aac651c5592931a9c402d19c43512e3b4"
+    },
+    "lavanda-G-1": {
+      "status": "pendente",
+      "sha256": "8d34d3b7422f21629b8cd9509dd64daa179d2b2db95208907e66a403e5ed2c97"
+    },
+    "lavanda-H-1": {
+      "status": "pendente",
+      "sha256": "17087de62a39f2417df5b5f272d2869bec331457479412242c0025fe1ecf1444"
+    },
     "limoeiro-A-1": {
       "status": "aprovada",
       "sha256": "7428424ac7184b0bcc521a3528eb4ac1c6497f76add363a1d55ed2f30bc6fc44",
@@ -1273,6 +1321,18 @@
       "sha256": "3b5247d9ae6d2c35b22efcc23d7d7a4aed527e40927a95fe2c64a0551faf85f8",
       "data": "2026-10-29"
     },
+    "maranta-F-1": {
+      "status": "pendente",
+      "sha256": "15472ced173001185057e607439503246198799e9f3b5f61d2e905d74095c9fa"
+    },
+    "maranta-G-1": {
+      "status": "pendente",
+      "sha256": "cb8f93c920ff22c44b19f6da7ed74c80a155ffc3b28d4cc10f64411e2ed6e9bb"
+    },
+    "maranta-H-1": {
+      "status": "pendente",
+      "sha256": "d4310b4b1b236999fa21f387e197b52c42fe4973393629effb927a404bdb9518"
+    },
     "morango-A-1": {
       "status": "aprovada",
       "sha256": "40c83fa80d0d4ca533562f2d4f47e4c4e183bf2b486e2f25ae285a3598ad2102",
@@ -1389,6 +1449,18 @@
       "data": "2026-10-28",
       "motivo": "André conferiu e aprovou em 28/10"
     },
+    "peperomia-F-1": {
+      "status": "pendente",
+      "sha256": "bd343eef32cdfcd74c66fa3f20665f66239327aa957f5b5c8995e3a9dc7bea97"
+    },
+    "peperomia-G-1": {
+      "status": "pendente",
+      "sha256": "599ab59f05127b8db9f0c3cdf2e95a856d591a8be3b79ab37e89628486733690"
+    },
+    "peperomia-H-1": {
+      "status": "pendente",
+      "sha256": "860e8ee2d1dd49d05a7b7ae54c8ce420c608037ebf515bc5bdfc98a0af0f8334"
+    },
     "pimenta-A-1": {
       "status": "aprovada",
       "sha256": "6f2322662246c5daed3f4c6e03f1809cb80dba66c133f52933485f901dffa718",
@@ -1417,6 +1489,18 @@
       "status": "aprovada",
       "sha256": "ee4d228b2d6ae9b7ce181e342bbc81ef84727fcb5544177ff6f4a87d8853ffd3",
       "data": "2026-10-29"
+    },
+    "pimenta-F-1": {
+      "status": "pendente",
+      "sha256": "51416ea3c6dfc643f5438651666e05832fabd440819da73338dc2f4385dded89"
+    },
+    "pimenta-G-1": {
+      "status": "pendente",
+      "sha256": "0d8ae11af4dc33d391ebf4105330a2502709bb77304801020de758cab9a810f8"
+    },
+    "pimenta-H-1": {
+      "status": "pendente",
+      "sha256": "1d6c165a6427ff16b3d1f822079ae0cd160d562b50be3f0553a1dd9f92ab770f"
     },
     "rosa-do-deserto-A-1": {
       "status": "aprovada",
@@ -1511,6 +1595,18 @@
       "status": "aprovada",
       "sha256": "53276e8e67e28642c301781259f51d3394f15a965d7ceb4134a0c2c9f4c3e374",
       "data": "2026-10-29"
+    },
+    "salsinha-F-1": {
+      "status": "pendente",
+      "sha256": "9964ce804d8c8525f2968c2edf3168be8370bb8ce92d8553568762aa50563fb4"
+    },
+    "salsinha-G-1": {
+      "status": "pendente",
+      "sha256": "2af61e21edb6b81ac3fc8792619952b8d590e4b23df816af567e74d5c1c7349f"
+    },
+    "salsinha-H-1": {
+      "status": "pendente",
+      "sha256": "1fbc77eb838e0e9d5064f781dfe706706b3d9095f1a1e89bd4cd52ebd17e0856"
     },
     "samambaia-A-1": {
       "status": "aprovada",
@@ -1710,6 +1806,14 @@
       "sha256": "30e1f69570f025e961687eea15cce3210acdabb2e29dc323389d29dcd664df48",
       "data": "2026-10-29",
       "excecaoRosto": "André, 2026-10-29"
+    },
+    "violeta-F-1": {
+      "status": "pendente",
+      "sha256": "9dbbf54c51a87109cd99e75c5c60deb346e34f8cc1bb923b158babf11d49a2d2"
+    },
+    "violeta-H-1": {
+      "status": "pendente",
+      "sha256": "aa02ac3b131d3836f945fe7619a204b06121435cf065f17c8189b02524f3e212"
     },
     "zamioculca-A-1": {
       "status": "aprovada",

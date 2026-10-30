@@ -876,6 +876,63 @@
       "origem": "begonia-E-1.jpg"
     },
     {
+      "id": "begonia-F-1",
+      "arquivo": "begonia/begonia-F-1.jpg",
+      "slug": "begonia",
+      "especie": "Begonia",
+      "nome": "begônia",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "begonia",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "begonia-F-1.jpg"
+    },
+    {
+      "id": "begonia-G-1",
+      "arquivo": "begonia/begonia-G-1.jpg",
+      "slug": "begonia",
+      "especie": "Begonia",
+      "nome": "begônia",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "begonia",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "begonia-G-1.jpg"
+    },
+    {
+      "id": "begonia-H-1",
+      "arquivo": "begonia/begonia-H-1.jpg",
+      "slug": "begonia",
+      "especie": "Begonia",
+      "nome": "begônia",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "begonia",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "begonia-H-1.jpg"
+    },
+    {
       "id": "bromelia-A-1",
       "arquivo": "bromelia/bromelia-A-1.jpg",
       "slug": "bromelia",
@@ -969,6 +1026,63 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "bromelia-E-1.jpg"
+    },
+    {
+      "id": "bromelia-F-1",
+      "arquivo": "bromelia/bromelia-F-1.jpg",
+      "slug": "bromelia",
+      "especie": "Guzmania",
+      "nome": "bromélia",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "bromelia",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "bromelia-F-1.jpg"
+    },
+    {
+      "id": "bromelia-G-1",
+      "arquivo": "bromelia/bromelia-G-1.jpg",
+      "slug": "bromelia",
+      "especie": "Guzmania",
+      "nome": "bromélia",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "bromelia",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "bromelia-G-1.jpg"
+    },
+    {
+      "id": "bromelia-H-1",
+      "arquivo": "bromelia/bromelia-H-1.jpg",
+      "slug": "bromelia",
+      "especie": "Guzmania",
+      "nome": "bromélia",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "bromelia",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "bromelia-H-1.jpg"
     },
     {
       "id": "buganvilia-A-1",
@@ -3403,6 +3517,63 @@
       "origem": "hibisco-E-1.jpg"
     },
     {
+      "id": "hibisco-F-1",
+      "arquivo": "hibisco/hibisco-F-1.jpg",
+      "slug": "hibisco",
+      "especie": "Hibiscus rosa-sinensis",
+      "nome": "hibisco",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "hibisco",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "hibisco-F-1.jpg"
+    },
+    {
+      "id": "hibisco-G-1",
+      "arquivo": "hibisco/hibisco-G-1.jpg",
+      "slug": "hibisco",
+      "especie": "Hibiscus rosa-sinensis",
+      "nome": "hibisco",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "hibisco",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "hibisco-G-1.jpg"
+    },
+    {
+      "id": "hibisco-H-1",
+      "arquivo": "hibisco/hibisco-H-1.jpg",
+      "slug": "hibisco",
+      "especie": "Hibiscus rosa-sinensis",
+      "nome": "hibisco",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "hibisco",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "hibisco-H-1.jpg"
+    },
+    {
       "id": "hortela-A-1",
       "arquivo": "hortela/hortela-A-1.jpg",
       "slug": "hortela",
@@ -4087,6 +4258,63 @@
       "origem": "lavanda-E-1.jpg"
     },
     {
+      "id": "lavanda-F-1",
+      "arquivo": "lavanda/lavanda-F-1.jpg",
+      "slug": "lavanda",
+      "especie": "Lavandula angustifolia",
+      "nome": "lavanda",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "lavanda",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lavanda-F-1.jpg"
+    },
+    {
+      "id": "lavanda-G-1",
+      "arquivo": "lavanda/lavanda-G-1.jpg",
+      "slug": "lavanda",
+      "especie": "Lavandula angustifolia",
+      "nome": "lavanda",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "lavanda",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lavanda-G-1.jpg"
+    },
+    {
+      "id": "lavanda-H-1",
+      "arquivo": "lavanda/lavanda-H-1.jpg",
+      "slug": "lavanda",
+      "especie": "Lavandula angustifolia",
+      "nome": "lavanda",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "lavanda",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "lavanda-H-1.jpg"
+    },
+    {
       "id": "limoeiro-A-1",
       "arquivo": "limoeiro/limoeiro-A-1.jpg",
       "slug": "limoeiro",
@@ -4657,6 +4885,63 @@
       "origem": "maranta-E-1.jpg"
     },
     {
+      "id": "maranta-F-1",
+      "arquivo": "maranta/maranta-F-1.jpg",
+      "slug": "maranta",
+      "especie": "Maranta leuconeura",
+      "nome": "maranta",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "maranta",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "maranta-F-1.jpg"
+    },
+    {
+      "id": "maranta-G-1",
+      "arquivo": "maranta/maranta-G-1.jpg",
+      "slug": "maranta",
+      "especie": "Maranta leuconeura",
+      "nome": "maranta",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "maranta",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "maranta-G-1.jpg"
+    },
+    {
+      "id": "maranta-H-1",
+      "arquivo": "maranta/maranta-H-1.jpg",
+      "slug": "maranta",
+      "especie": "Maranta leuconeura",
+      "nome": "maranta",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "maranta",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "maranta-H-1.jpg"
+    },
+    {
       "id": "morango-A-1",
       "arquivo": "morango/morango-A-1.jpg",
       "slug": "morango",
@@ -5056,6 +5341,63 @@
       "origem": "peperomia-E-1.jpg"
     },
     {
+      "id": "peperomia-F-1",
+      "arquivo": "peperomia/peperomia-F-1.jpg",
+      "slug": "peperomia",
+      "especie": "Peperomia obtusifolia",
+      "nome": "peperômia",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "peperomia",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "peperomia-F-1.jpg"
+    },
+    {
+      "id": "peperomia-G-1",
+      "arquivo": "peperomia/peperomia-G-1.jpg",
+      "slug": "peperomia",
+      "especie": "Peperomia obtusifolia",
+      "nome": "peperômia",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "peperomia",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "peperomia-G-1.jpg"
+    },
+    {
+      "id": "peperomia-H-1",
+      "arquivo": "peperomia/peperomia-H-1.jpg",
+      "slug": "peperomia",
+      "especie": "Peperomia obtusifolia",
+      "nome": "peperômia",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "peperomia",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "peperomia-H-1.jpg"
+    },
+    {
       "id": "pimenta-A-1",
       "arquivo": "pimenta/pimenta-A-1.jpg",
       "slug": "pimenta",
@@ -5149,6 +5491,63 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "pimenta-E-1.jpg"
+    },
+    {
+      "id": "pimenta-F-1",
+      "arquivo": "pimenta/pimenta-F-1.jpg",
+      "slug": "pimenta",
+      "especie": "Capsicum annuum",
+      "nome": "pimenta",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "pimenta",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "pimenta-F-1.jpg"
+    },
+    {
+      "id": "pimenta-G-1",
+      "arquivo": "pimenta/pimenta-G-1.jpg",
+      "slug": "pimenta",
+      "especie": "Capsicum annuum",
+      "nome": "pimenta",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "pimenta",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "pimenta-G-1.jpg"
+    },
+    {
+      "id": "pimenta-H-1",
+      "arquivo": "pimenta/pimenta-H-1.jpg",
+      "slug": "pimenta",
+      "especie": "Capsicum annuum",
+      "nome": "pimenta",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "pimenta",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "pimenta-H-1.jpg"
     },
     {
       "id": "rosa-do-deserto-A-1",
@@ -5491,6 +5890,63 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "salsinha-E-1.jpg"
+    },
+    {
+      "id": "salsinha-F-1",
+      "arquivo": "salsinha/salsinha-F-1.jpg",
+      "slug": "salsinha",
+      "especie": "Petroselinum crispum",
+      "nome": "salsinha",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "salsinha",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "salsinha-F-1.jpg"
+    },
+    {
+      "id": "salsinha-G-1",
+      "arquivo": "salsinha/salsinha-G-1.jpg",
+      "slug": "salsinha",
+      "especie": "Petroselinum crispum",
+      "nome": "salsinha",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "salsinha",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "salsinha-G-1.jpg"
+    },
+    {
+      "id": "salsinha-H-1",
+      "arquivo": "salsinha/salsinha-H-1.jpg",
+      "slug": "salsinha",
+      "especie": "Petroselinum crispum",
+      "nome": "salsinha",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "salsinha",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "salsinha-H-1.jpg"
     },
     {
       "id": "samambaia-A-1",
@@ -6232,6 +6688,44 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "violeta-E-1.jpg"
+    },
+    {
+      "id": "violeta-F-1",
+      "arquivo": "violeta/violeta-F-1.jpg",
+      "slug": "violeta",
+      "especie": "Saintpaulia ionantha",
+      "nome": "violeta",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "violeta",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "violeta-F-1.jpg"
+    },
+    {
+      "id": "violeta-H-1",
+      "arquivo": "violeta/violeta-H-1.jpg",
+      "slug": "violeta",
+      "especie": "Saintpaulia ionantha",
+      "nome": "violeta",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "violeta",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "violeta-H-1.jpg"
     },
     {
       "id": "zamioculca-A-1",

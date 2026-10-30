@@ -1,5 +1,8 @@
 # PROGRESSO Terra Gentil
-## REVISAO DA RODADA 2 FECHADA (30/10/2026): banco com 445 aprovadas e 2 reprovadas
+## ESTEIRA DO 2K (decisao do Andre 30/10/2026): aprovou, tem que pegar o 2K
+Teste feito na galeria da eng.andrehz (`https://flow.google.com/project/db0dc6c0-4e26-452d-9c3d-bbfa4ac6f70d`): buscar pelo nome em ingles da planta (ex.: jade plant), abrir a imagem, icone de download no topo, escolher 2K (Aprimorado). Baixa `<legenda>_<id>_2K.jpg` em 1792x2400 e **funciona mesmo com o limite de geracao estourado**. Problema: a busca mistura as capas da rodada 1 e da rodada 2 da mesma planta, e o `place2k.py <pasta 1K>` so casa com as 1K da pasta passada (correlacao >= 0.90): o teste da jade caiu em rodada 1 (nao casou, corr 0,23). Proximo: automatizar por JS na galeria (mesma origem, o driver da rodada 1 servia), baixar so as imagens de hoje de cada especie e casar com `capas-rodada2-importadas`; depois `importar-cli.mjs` por cima mantendo a aprovacao. Pamela gerou lotes 1 a 9 (81 capas), eng.andrehz o resto (83): baixar cada grupo na conta certa. Ainda nenhuma capa da rodada 2 em 2K.
+
+## REVISAO DA RODADA 2 FECHADA (30/10/2026): banco com 445 aprovadas e 2 reprovadas
 O Andre revisou no Explorer e aprovou o resto. Reprovadas por print: coringa-mato-F-1 e tomate-G-1 (dois homens). Aprovadas por excecao de rosto: bromelia-G, cacto-G, lavanda-G, manjericao-G. Regra do print salva na memoria (print = ler a area de transferencia). Uma capa do adubo organico parece ter 3 maos, o Andre acha que um zoom pequeno esconde; nao tratada. Faltam refazer: as 2 reprovadas mais 19 barradas por rosto (ver abaixo), quando o limite do Flow liberar.
 
 ## REFACAO DAS 25 BARRADAS PARADA POR LIMITE (30/10/2026): as duas contas bateram o limite do Flow

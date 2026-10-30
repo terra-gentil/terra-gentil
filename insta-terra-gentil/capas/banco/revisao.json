@@ -2083,8 +2083,10 @@
       "sha256": "0bd1f89d4421bf64dd896eee69e4b474b2bec68eade8205ea76c9bfa0faf22a9"
     },
     "tomate-G-1": {
-      "status": "pendente",
-      "sha256": "02e7d02574cc574d58cde1b8c2302a64213cd40da6c4778f9f867c7cc95e47f5"
+      "status": "reprovada",
+      "sha256": "02e7d02574cc574d58cde1b8c2302a64213cd40da6c4778f9f867c7cc95e47f5",
+      "data": "2026-10-30",
+      "motivo": "Andre: fora, dois homens (print 30/10)"
     },
     "tomate-H-1": {
       "status": "pendente",

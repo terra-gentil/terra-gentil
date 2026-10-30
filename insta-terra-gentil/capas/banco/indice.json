@@ -8020,25 +8020,6 @@
       "origem": "tomate-F-1.jpg"
     },
     {
-      "id": "tomate-G-1",
-      "arquivo": "tomate/tomate-G-1.jpg",
-      "slug": "tomate",
-      "especie": "Solanum lycopersicum",
-      "nome": "tomate",
-      "cenario": "G",
-      "cenarioNome": "mexendo na terra",
-      "tags": [
-        "tomate",
-        "mexendo na terra",
-        "andre",
-        "camiseta-oficial",
-        "capa-slide-1"
-      ],
-      "largura": 1080,
-      "altura": 1350,
-      "origem": "tomate-G-1.jpg"
-    },
-    {
       "id": "tomate-H-1",
       "arquivo": "tomate/tomate-H-1.jpg",
       "slug": "tomate",

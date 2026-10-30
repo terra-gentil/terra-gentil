@@ -1339,6 +1339,24 @@
       "onde": "banco",
       "sha256": "3b2244e5578f4f37b1dc7ddf44450b3df852d9f45a6e561bade5af8164365ac8"
     },
+    "orquidea-F-1": {
+      "nota": 0.7587,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "65840119c1dbfdb6e8c3ca33cfcb78cecb928b006368a13cdff6c7f20ccf844b"
+    },
+    "orquidea-G-1": {
+      "nota": 0.4752,
+      "rostos": 3,
+      "onde": "banco",
+      "sha256": "5b1c9603c01da9dc295cdb543eb7baa25998508d498516ae906842dcdc5f2be7"
+    },
+    "orquidea-H-1": {
+      "nota": 0.3631,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "b12a06ac10b319f0d708515a0f7cef23949afcdda3d9cef5df1e1408576239ea"
+    },
     "peperomia-A-1": {
       "nota": 0.6445,
       "rostos": 1,

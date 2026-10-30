@@ -4239,6 +4239,63 @@
       "origem": "orquidea-E-1.jpg"
     },
     {
+      "id": "orquidea-F-1",
+      "arquivo": "orquidea/orquidea-F-1.jpg",
+      "slug": "orquidea",
+      "especie": "Phalaenopsis",
+      "nome": "orquídea",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "orquidea",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "orquidea-F-1.jpg"
+    },
+    {
+      "id": "orquidea-G-1",
+      "arquivo": "orquidea/orquidea-G-1.jpg",
+      "slug": "orquidea",
+      "especie": "Phalaenopsis",
+      "nome": "orquídea",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "orquidea",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "orquidea-G-1.jpg"
+    },
+    {
+      "id": "orquidea-H-1",
+      "arquivo": "orquidea/orquidea-H-1.jpg",
+      "slug": "orquidea",
+      "especie": "Phalaenopsis",
+      "nome": "orquídea",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "orquidea",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "orquidea-H-1.jpg"
+    },
+    {
       "id": "peperomia-A-1",
       "arquivo": "peperomia/peperomia-A-1.jpg",
       "slug": "peperomia",

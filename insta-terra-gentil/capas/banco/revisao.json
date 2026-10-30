@@ -1192,6 +1192,21 @@
       "data": "2026-10-28",
       "por": "claude, vistoria 28/10 (rosto e logo, folhas grandes)"
     },
+    "orquidea-F-1": {
+      "status": "aprovada",
+      "sha256": "65840119c1dbfdb6e8c3ca33cfcb78cecb928b006368a13cdff6c7f20ccf844b",
+      "data": "2026-10-30"
+    },
+    "orquidea-G-1": {
+      "status": "aprovada",
+      "sha256": "5b1c9603c01da9dc295cdb543eb7baa25998508d498516ae906842dcdc5f2be7",
+      "data": "2026-10-30"
+    },
+    "orquidea-H-1": {
+      "status": "aprovada",
+      "sha256": "b12a06ac10b319f0d708515a0f7cef23949afcdda3d9cef5df1e1408576239ea",
+      "data": "2026-10-30"
+    },
     "peperomia-A-1": {
       "status": "aprovada",
       "sha256": "4ada5adffd10a23c3bf8d61db9e674d87e479226a460fc294a3a73dd27db998d",

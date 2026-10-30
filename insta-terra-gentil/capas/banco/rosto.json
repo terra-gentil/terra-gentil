@@ -751,6 +751,24 @@
       "onde": "banco",
       "sha256": "d44fa362952bd7ad2ffe1722612a415f023707ce8b24f21b183d8d5a2a9dbb04"
     },
+    "costela-de-adao-F-1": {
+      "nota": 0.7713,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "aa6cbf5a6a2d9b856b8123de11fcfa34adc6bebe75a5f07129833d784b1faf48"
+    },
+    "costela-de-adao-G-1": {
+      "nota": 0.4038,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "8ea9e6d0af2e068870bf143781af1d9449e90aa6d6984b532d712dbf512bc12a"
+    },
+    "costela-de-adao-H-1": {
+      "nota": 0.6582,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "c99777bd4d496ea585b6f793a379a25012b785d22cd0b4123b2681d3018fce4f"
+    },
     "dendrobium-A-1": {
       "nota": 0.6356,
       "rostos": 1,
@@ -810,6 +828,24 @@
       "rostos": 2,
       "onde": "banco",
       "sha256": "46264ce23d51443897d581401231a71e25daf7223cdf63562146715c36b69e15"
+    },
+    "espada-de-sao-jorge-F-1": {
+      "nota": 0.7614,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "441f2251ace65d62325ef906e7e7f20d158a03ed7fe9aab1c5965afab12a3c22"
+    },
+    "espada-de-sao-jorge-G-1": {
+      "nota": 0.3588,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "46545339c72d6f7474a677a46d51f41409d2246aa0567b2917586780eadab776"
+    },
+    "espada-de-sao-jorge-H-1": {
+      "nota": 0.636,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "f51ea02459ea9d033e473ccbf3bd58bb2ca18aa0ca737d195da9967d1e04a096"
     },
     "girassol-A-1": {
       "nota": 0.6256,
@@ -1716,6 +1752,24 @@
       "rostos": 2,
       "onde": "banco",
       "sha256": "7df94eb43d4580bae6573fc33721945e0a38cf8237eeb5cc8f66752607bbd2b7"
+    },
+    "zamioculca-F-1": {
+      "nota": 0.7206,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "0986be696f9a419ef367c4b00ae3086e7b304dcfd2a9e835a469a7e5b3a7ab00"
+    },
+    "zamioculca-G-1": {
+      "nota": 0.3139,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "9d95503af678f3ed75624ea95cc6dc664802462e7cde0e9aa0f68ee9e81dee23"
+    },
+    "zamioculca-H-1": {
+      "nota": 0.5666,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "1c782fb3a61b817e2f7f918f8ce44e8bbf75f1f599a3be0387cc47ffe78ae366"
     }
   }
 }

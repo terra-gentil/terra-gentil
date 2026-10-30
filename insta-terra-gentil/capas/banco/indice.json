@@ -2377,6 +2377,63 @@
       "origem": "costela-de-adao-E-1.jpg"
     },
     {
+      "id": "costela-de-adao-F-1",
+      "arquivo": "costela-de-adao/costela-de-adao-F-1.jpg",
+      "slug": "costela-de-adao",
+      "especie": "Monstera deliciosa",
+      "nome": "costela-de-adão",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "costela-de-adao",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "costela-de-adao-F-1.jpg"
+    },
+    {
+      "id": "costela-de-adao-G-1",
+      "arquivo": "costela-de-adao/costela-de-adao-G-1.jpg",
+      "slug": "costela-de-adao",
+      "especie": "Monstera deliciosa",
+      "nome": "costela-de-adão",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "costela-de-adao",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "costela-de-adao-G-1.jpg"
+    },
+    {
+      "id": "costela-de-adao-H-1",
+      "arquivo": "costela-de-adao/costela-de-adao-H-1.jpg",
+      "slug": "costela-de-adao",
+      "especie": "Monstera deliciosa",
+      "nome": "costela-de-adão",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "costela-de-adao",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "costela-de-adao-H-1.jpg"
+    },
+    {
       "id": "dendrobium-A-1",
       "arquivo": "dendrobium/dendrobium-A-1.jpg",
       "slug": "dendrobium",
@@ -2565,6 +2622,63 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "espada-de-sao-jorge-E-1.jpg"
+    },
+    {
+      "id": "espada-de-sao-jorge-F-1",
+      "arquivo": "espada-de-sao-jorge/espada-de-sao-jorge-F-1.jpg",
+      "slug": "espada-de-sao-jorge",
+      "especie": "Dracaena trifasciata",
+      "nome": "espada-de-são-jorge",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "espada-de-sao-jorge",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "espada-de-sao-jorge-F-1.jpg"
+    },
+    {
+      "id": "espada-de-sao-jorge-G-1",
+      "arquivo": "espada-de-sao-jorge/espada-de-sao-jorge-G-1.jpg",
+      "slug": "espada-de-sao-jorge",
+      "especie": "Dracaena trifasciata",
+      "nome": "espada-de-são-jorge",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "espada-de-sao-jorge",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "espada-de-sao-jorge-G-1.jpg"
+    },
+    {
+      "id": "espada-de-sao-jorge-H-1",
+      "arquivo": "espada-de-sao-jorge/espada-de-sao-jorge-H-1.jpg",
+      "slug": "espada-de-sao-jorge",
+      "especie": "Dracaena trifasciata",
+      "nome": "espada-de-são-jorge",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "espada-de-sao-jorge",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "espada-de-sao-jorge-H-1.jpg"
     },
     {
       "id": "girassol-A-1",
@@ -5434,6 +5548,63 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "zamioculca-E-1.jpg"
+    },
+    {
+      "id": "zamioculca-F-1",
+      "arquivo": "zamioculca/zamioculca-F-1.jpg",
+      "slug": "zamioculca",
+      "especie": "Zamioculcas zamiifolia",
+      "nome": "zamioculca",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "zamioculca",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "zamioculca-F-1.jpg"
+    },
+    {
+      "id": "zamioculca-G-1",
+      "arquivo": "zamioculca/zamioculca-G-1.jpg",
+      "slug": "zamioculca",
+      "especie": "Zamioculcas zamiifolia",
+      "nome": "zamioculca",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "zamioculca",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "zamioculca-G-1.jpg"
+    },
+    {
+      "id": "zamioculca-H-1",
+      "arquivo": "zamioculca/zamioculca-H-1.jpg",
+      "slug": "zamioculca",
+      "especie": "Zamioculcas zamiifolia",
+      "nome": "zamioculca",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "zamioculca",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "zamioculca-H-1.jpg"
     }
   ]
 }

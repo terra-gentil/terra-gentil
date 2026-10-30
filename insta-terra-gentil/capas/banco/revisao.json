@@ -1037,17 +1037,18 @@
     },
     "costela-de-adao-F-1": {
       "status": "aprovada",
-      "sha256": "aa6cbf5a6a2d9b856b8123de11fcfa34adc6bebe75a5f07129833d784b1faf48",
+      "sha256": "825403cfe996829679bee1426a48f9ae6ff3a5aae671433c6bf4386b1026b944",
       "data": "2026-10-30"
     },
     "costela-de-adao-G-1": {
       "status": "aprovada",
-      "sha256": "8ea9e6d0af2e068870bf143781af1d9449e90aa6d6984b532d712dbf512bc12a",
-      "data": "2026-10-30"
+      "sha256": "24a2b3aa60f152cea0f9a1560725b1df1dc97d4d081947277df8c83f858376d2",
+      "data": "2026-10-30",
+      "excecaoRosto": "André, 2026-10-30"
     },
     "costela-de-adao-H-1": {
       "status": "aprovada",
-      "sha256": "c99777bd4d496ea585b6f793a379a25012b785d22cd0b4123b2681d3018fce4f",
+      "sha256": "fbd1f84f97a5e1e358debee0c1f5e5e0cdfeb946c49a12fd742384a8b08023da",
       "data": "2026-10-30"
     },
     "dendrobium-A-1": {
@@ -1121,19 +1122,17 @@
     },
     "espada-de-sao-jorge-F-1": {
       "status": "aprovada",
-      "sha256": "441f2251ace65d62325ef906e7e7f20d158a03ed7fe9aab1c5965afab12a3c22",
+      "sha256": "28b76d15450368c7bb404314ddefae2fb7081b75d3a08f156030797684d64eb4",
       "data": "2026-10-30"
     },
     "espada-de-sao-jorge-G-1": {
       "status": "aprovada",
-      "sha256": "46545339c72d6f7474a677a46d51f41409d2246aa0567b2917586780eadab776",
-      "data": "2026-10-30",
-      "motivo": "rosto de lado, aprovado pelo Andre",
-      "excecaoRosto": "André, 2026-10-30"
+      "sha256": "8d10b3fc925b8c0e1ef88dded86627dc723051628df763da68963000d863ef19",
+      "data": "2026-10-30"
     },
     "espada-de-sao-jorge-H-1": {
       "status": "aprovada",
-      "sha256": "f51ea02459ea9d033e473ccbf3bd58bb2ca18aa0ca737d195da9967d1e04a096",
+      "sha256": "77aef0e1e7f8842cce99347d58bd8d4ab9c263b8421e683cb25f31e9b5a2b64e",
       "data": "2026-10-30"
     },
     "girassol-A-1": {
@@ -1647,12 +1646,12 @@
     },
     "lirio-da-paz-G-1": {
       "status": "aprovada",
-      "sha256": "cdc6eed2fe7ed3ea8ea771ea9e720ff6f60ff5a2f51c801fa098e9a2d413365e",
+      "sha256": "36d4264f641df70549b5e24c946e51f9f1950fe9e4643b9ae8c160d38473661a",
       "data": "2026-10-30"
     },
     "lirio-da-paz-H-1": {
       "status": "aprovada",
-      "sha256": "850bbf58123c4f9dd519c8213bc1518caec49a66cccaae9773c3752631c10831",
+      "sha256": "5e62ff31760e9d163a4287bd99b9681424f845bb9bf4ee8795d9084642fd8444",
       "data": "2026-10-30"
     },
     "lirio-E-1": {
@@ -1840,17 +1839,17 @@
     },
     "orquidea-F-1": {
       "status": "aprovada",
-      "sha256": "65840119c1dbfdb6e8c3ca33cfcb78cecb928b006368a13cdff6c7f20ccf844b",
+      "sha256": "61eeff80671fbed032722fda7f8fad0b119926e5a220bcdca0fae81379c66336",
       "data": "2026-10-30"
     },
     "orquidea-G-1": {
       "status": "aprovada",
-      "sha256": "5b1c9603c01da9dc295cdb543eb7baa25998508d498516ae906842dcdc5f2be7",
+      "sha256": "733babe34c1e56de0141e255fce2a8dbae751c431487918bc45fa7ad6302ccdc",
       "data": "2026-10-30"
     },
     "orquidea-H-1": {
       "status": "aprovada",
-      "sha256": "b12a06ac10b319f0d708515a0f7cef23949afcdda3d9cef5df1e1408576239ea",
+      "sha256": "dbfa4b79f9d5f841c05fcd9f94d63a054472e5cc45f4c31bf5711e384557f188",
       "data": "2026-10-30"
     },
     "peperomia-A-1": {
@@ -1974,7 +1973,7 @@
     },
     "rosa-do-deserto-F-1": {
       "status": "aprovada",
-      "sha256": "04b9e61a7432cc011483cbefc1821ef0380ef73d6611663989e6b4d9378edd03",
+      "sha256": "ad5d66b2fcd47d4d8971d9a54b3fd3f3e7b58052f1013c5ee84142c343926c96",
       "data": "2026-10-30"
     },
     "rosa-do-deserto-G-1": {
@@ -2183,17 +2182,17 @@
     },
     "suculenta-F-1": {
       "status": "aprovada",
-      "sha256": "3a5fd319075ef8889d1e679b5fcc631ff75a861f6a06995607422b6b1640f0f5",
+      "sha256": "9b9a328ef42c1760ca3ecf0bee3e2e92f9ccc224e6a80d7ac5aebd066edb0254",
       "data": "2026-10-30"
     },
     "suculenta-G-1": {
       "status": "aprovada",
-      "sha256": "805733bfd610fabc8c76e2aa83bca8ab4d0c92ca850d0905d0e6075edf126332",
+      "sha256": "aa80a2b2d96047722bf4f665255c84b4a31a74597e781ce1ce47ae614200d9e7",
       "data": "2026-10-30"
     },
     "suculenta-H-1": {
       "status": "aprovada",
-      "sha256": "2a4cc32cdfe8604e217b51074b452a402a5e0719c96a854fe18a9ff2821973d7",
+      "sha256": "a627412d82f6180bba8672950c3f08642cacc56c80c749996be9987694423eba",
       "data": "2026-10-30"
     },
     "tomate-A-1": {
@@ -2345,19 +2344,17 @@
     },
     "zamioculca-F-1": {
       "status": "aprovada",
-      "sha256": "0986be696f9a419ef367c4b00ae3086e7b304dcfd2a9e835a469a7e5b3a7ab00",
+      "sha256": "a136545aeeb60fd7dccb4f537ca031cae60c2511eeab03c0260904b677159860",
       "data": "2026-10-30"
     },
     "zamioculca-G-1": {
       "status": "aprovada",
-      "sha256": "9d95503af678f3ed75624ea95cc6dc664802462e7cde0e9aa0f68ee9e81dee23",
-      "data": "2026-10-30",
-      "motivo": "rosto de lado, aprovado pelo Andre",
-      "excecaoRosto": "André, 2026-10-30"
+      "sha256": "292eda2b19ce6baa85a54d95add0f599ceaead7dfc73d695bf5ccf93dfaaddf7",
+      "data": "2026-10-30"
     },
     "zamioculca-H-1": {
       "status": "aprovada",
-      "sha256": "1c782fb3a61b817e2f7f918f8ce44e8bbf75f1f599a3be0387cc47ffe78ae366",
+      "sha256": "1d6521d75e793d18d13f3f8356379eff69b7c2c5019c3c723c4839ea515be759",
       "data": "2026-10-30"
     }
   }

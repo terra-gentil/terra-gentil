@@ -1,5 +1,8 @@
 # PROGRESSO Terra Gentil
-## REFACAO DAS 25 BARRADAS PARADA POR LIMITE (30/10/2026): as duas contas bateram o limite do Flow
+## REVISAO DA RODADA 2 FECHADA (30/10/2026): banco com 445 aprovadas e 2 reprovadas
+O Andre revisou no Explorer e aprovou o resto. Reprovadas por print: coringa-mato-F-1 e tomate-G-1 (dois homens). Aprovadas por excecao de rosto: bromelia-G, cacto-G, lavanda-G, manjericao-G. Regra do print salva na memoria (print = ler a area de transferencia). Uma capa do adubo organico parece ter 3 maos, o Andre acha que um zoom pequeno esconde; nao tratada. Faltam refazer: as 2 reprovadas mais 19 barradas por rosto (ver abaixo), quando o limite do Flow liberar.
+
+## REFACAO DAS 25 BARRADAS PARADA POR LIMITE (30/10/2026): as duas contas bateram o limite do Flow
 Das 25 barradas por rosto, o lote 1 de refacao (9 capas) foi gerado e importado: entraram 6 no banco e 3 foram barradas de novo (bambu-da-sorte-G, buganvilia-G, cebolinha-G). O lote 2 (coringa-podar F e G, coringa-trocar-vaso G e H, coringa-ferramentas-G, coringa-gramado-G, catleia-G, vanda G e H) estava na fila da eng.andrehz com 1 de 9 pronta quando bateu o limite; a ferramenta tenta de novo sozinha a cada 10 min. Lote 3 (7 capas) nao comecou. Retomar quando o limite liberar (Pamela e eng.andrehz, janela de 24 h): baixar prontas, rodar depois.mjs e refazer.mjs 2 do scratchpad. Alternativa: aceitar por excecao as G de rosto de lado que o Andre aprovar.
 
 ## RODADA 2: PRIMEIRA PASSADA COMPLETA (30/10/2026): banco com 441 capas

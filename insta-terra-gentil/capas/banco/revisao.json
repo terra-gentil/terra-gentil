@@ -750,8 +750,10 @@
       "data": "2026-10-29"
     },
     "coringa-mato-F-1": {
-      "status": "pendente",
-      "sha256": "24a960421a98be0ad61903c75b7df3d1e85e626ead8be5c449d41010aeaaa737"
+      "status": "reprovada",
+      "sha256": "24a960421a98be0ad61903c75b7df3d1e85e626ead8be5c449d41010aeaaa737",
+      "data": "2026-10-30",
+      "motivo": "Andre: fora (print 30/10)"
     },
     "coringa-mato-G-1": {
       "status": "pendente",

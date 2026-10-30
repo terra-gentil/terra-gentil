@@ -2928,25 +2928,6 @@
       "origem": "coringa-mato-C-1.jpg"
     },
     {
-      "id": "coringa-mato-F-1",
-      "arquivo": "coringa-mato/coringa-mato-F-1.jpg",
-      "slug": "coringa-mato",
-      "especie": "coringa-mato",
-      "nome": "mato e terreno",
-      "cenario": "F",
-      "cenarioNome": "retrato",
-      "tags": [
-        "coringa-mato",
-        "retrato",
-        "andre",
-        "camiseta-oficial",
-        "capa-slide-1"
-      ],
-      "largura": 1080,
-      "altura": 1350,
-      "origem": "coringa-mato-F-1.jpg"
-    },
-    {
       "id": "coringa-mato-G-1",
       "arquivo": "coringa-mato/coringa-mato-G-1.jpg",
       "slug": "coringa-mato",

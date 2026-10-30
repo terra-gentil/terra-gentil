@@ -514,6 +514,11 @@
       "sha256": "e8ed8dafcf62bbbcc601b3784e8c42d1e4966f560b38dc6eb43fe5725e757d85",
       "data": "2026-10-29"
     },
+    "coringa-mato-A-1": {
+      "status": "aprovada",
+      "sha256": "631813923e87c7d29e3e317b35e66fc9741688c689a8a3aeff072c2f8b1a6ba3",
+      "data": "2026-10-30"
+    },
     "coringa-mato-B-1": {
       "status": "aprovada",
       "sha256": "4e0fef9fcbd4e2fd2f52d3d7a0fa28a572f5500b2f777c3d9c6f482aa71f97fa",
@@ -608,6 +613,11 @@
       "status": "aprovada",
       "sha256": "82e93f51e1cea71ae0d4537a5d677c5d709831cb79fd74e165098c5d03ab9321",
       "data": "2026-10-29"
+    },
+    "coringa-solo-C-1": {
+      "status": "aprovada",
+      "sha256": "f3205167b569d7fb7d56969bcbc36dd275f86cda81879d95033accb7b9acc1fa",
+      "data": "2026-10-30"
     },
     "coringa-trocar-vaso-A-1": {
       "status": "aprovada",

@@ -1826,6 +1826,25 @@
       "origem": "coringa-luz-C-1.jpg"
     },
     {
+      "id": "coringa-mato-A-1",
+      "arquivo": "coringa-mato/coringa-mato-A-1.jpg",
+      "slug": "coringa-mato",
+      "especie": "coringa-mato",
+      "nome": "mato e terreno",
+      "cenario": "A",
+      "cenarioNome": "segurando",
+      "tags": [
+        "coringa-mato",
+        "segurando",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-mato-A-1.jpg"
+    },
+    {
       "id": "coringa-mato-B-1",
       "arquivo": "coringa-mato/coringa-mato-B-1.jpg",
       "slug": "coringa-mato",
@@ -2185,6 +2204,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "coringa-solo-B-1.jpg"
+    },
+    {
+      "id": "coringa-solo-C-1",
+      "arquivo": "coringa-solo/coringa-solo-C-1.jpg",
+      "slug": "coringa-solo",
+      "especie": "coringa-solo",
+      "nome": "solo",
+      "cenario": "C",
+      "cenarioNome": "ambiente",
+      "tags": [
+        "coringa-solo",
+        "ambiente",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-solo-C-1.jpg"
     },
     {
       "id": "coringa-trocar-vaso-A-1",

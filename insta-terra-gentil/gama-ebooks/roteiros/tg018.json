@@ -1,0 +1,555 @@
+{
+  "livro": "TG 018",
+  "titulo": "Vaso de Orquídea",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "018",
+        "COLEÇÃO TERRA GENTIL",
+        "ORQUÍDEA",
+        "Vaso de Orquídea",
+        "Vaso, casca e tronco sem erro.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-trocar-vaso-A-1.jpg",
+          "alt": "André trocando uma orquídea de vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "k9-333",
+        "c4-57"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Muita gente deixa a orquídea no celofane ou no cachepô sem furo.",
+        "Ela precisa de raiz respirando e água escorrendo.",
+        "Aqui eu te mostro o vaso, a casca e a hora de trocar.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Tire o celofane e veja se o vaso tem furo.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: vaso com furo",
+        "→",
+        "TG 018 VASO DE ORQUÍDEA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-F-1.jpg",
+          "alt": "André com uma orquídea em vaso de barro"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "c4-111",
+        "c4-102",
+        "c4-57"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Vaso com furo.",
+        "Boa drenagem ou morte: a regra de ouro do substrato de orquídea.",
+        "O VASO MENOR VENCE",
+        "Melhor vaso pequeno regado duas vezes por semana que vaso grande.",
+        "Nada de pratinho com água embaixo.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 018 VASO DE ORQUÍDEA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do vaso de barro",
+        "06",
+        "CAPÍTULO 1",
+        "O vaso certo",
+        "08",
+        "CAPÍTULO 2",
+        "Trocar de vaso",
+        "12",
+        "CAPÍTULO 3",
+        "No tronco",
+        "15",
+        "CAPÍTULO 4",
+        "De perto, sem confusão",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Musgo marrom no vaso? Vá para a página 11.",
+        "Na próxima: o vaso de barro",
+        "→",
+        "TG 018 VASO DE ORQUÍDEA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "c4-96",
+        "c4-100",
+        "c4-97",
+        "g16-26"
+      ],
+      "textos": [
+        "FICHA DO VASO",
+        "Vaso de barro",
+        "O que respira",
+        "AR",
+        "Passa pela parede até a raiz",
+        "ÁGUA",
+        "Puxa o sal para fora",
+        "PESO",
+        "Segura planta alta sem tombar",
+        "DURA",
+        "40 anos ou mais",
+        "ESMALTADO?",
+        "Não respira: é como plástico",
+        "PET",
+        "SEGURA",
+        "Orquídea não é tóxica para gato",
+        "Na próxima: o vaso certo",
+        "→",
+        "TG 018 VASO DE ORQUÍDEA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "O vaso certo",
+        "01",
+        "Barro, plástico ou placa",
+        "02",
+        "Trocar, passo a passo",
+        "03",
+        "Musgo marrom",
+        "Na próxima: barro, plástico ou placa",
+        "→",
+        "TG 018 VASO DE ORQUÍDEA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-trocar-vaso-C-1.jpg",
+          "alt": "André com vasos de barro"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "c4-96",
+        "c4-93",
+        "c4-48",
+        "c4-97",
+        "c4-59",
+        "c4-165",
+        "c4-118"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O VASO",
+        "Barro, plástico ou placa?",
+        "ONDE",
+        "SECA",
+        "CUIDADO",
+        "Barro",
+        "Rápido",
+        "Sal na borda",
+        "Plástico",
+        "Devagar",
+        "Água no fundo",
+        "Esmaltado",
+        "Devagar",
+        "Igual plástico",
+        "Placa",
+        "Muito rápido",
+        "Rega todo dia",
+        "No plástico a água empoça embaixo: a superfície engana.",
+        "DICA DO ANDRÉ",
+        "Truque do lápis: 15 minutos no vaso e saiu escuro e molhado? Não regue.",
+        "Na próxima: trocar de vaso",
+        "→",
+        "TG 018 VASO DE ORQUÍDEA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Trocar de vaso",
+        "01",
+        "Trocar, passo a passo",
+        "02",
+        "Qual casca",
+        "03",
+        "Musgo marrom",
+        "Na próxima: trocar",
+        "→",
+        "TG 018 VASO DE ORQUÍDEA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-trocar-vaso-H-1.jpg",
+          "alt": "André tirando uma orquídea do vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "k9-337",
+        "c4-91",
+        "c4-106",
+        "c4-122"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Trocar de vaso? Faça assim.",
+        "QUANDO",
+        "Com raiz nova surgindo",
+        "TEMPO",
+        "20 minutos",
+        "PRECISA",
+        "Vaso justo e casca nova",
+        "1",
+        "ESPERE A FLOR CAIR",
+        "Florida, ela pode abortar.",
+        "2",
+        "RAIZ NOVA, NÃO LONGA",
+        "Raiz comprida quebra fácil.",
+        "3",
+        "PRESILHA NA BORDA",
+        "Segura até a raiz firmar.",
+        "DICA DO ANDRÉ",
+        "Esfagno? Molhe num balde e torça antes. Seco, ele incha e fica socado.",
+        "Na próxima: qual casca",
+        "→",
+        "TG 018 VASO DE ORQUÍDEA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "vas-gesto-1.jpg",
+          "alt": "Dedo mostrando a ponta verde de uma raiz nova"
+        },
+        {
+          "src": "vas-gesto-2.jpg",
+          "alt": "Mãos assentando a orquídea num vaso justo com casca nova"
+        },
+        {
+          "src": "vas-gesto-3.jpg",
+          "alt": "Presilha de arame prendendo a planta na borda do vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "k9-339",
+        "k9-334",
+        "c4-124"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · A CASCA",
+        "Qual casca?",
+        "Seca rápido: carvão, brita, argila expandida.",
+        "Meio-termo: casca de pínus e chips de coco.",
+        "Bem úmido: esfagno e fibra de coco em pó.",
+        "Só carvão seca demais: use pouco, no meio da mistura.",
+        "O susto: fibra de coco parece seca em cima e está encharcada no meio.",
+        "Na próxima: musgo marrom",
+        "→",
+        "TG 018 VASO DE ORQUÍDEA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "c4-107",
+        "c4-117"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Musgo marrom no vaso?",
+        "1",
+        "O QUE PARECE",
+        "Sujeira, nada demais.",
+        "O QUE PODE SER",
+        "Sal acumulado ou substrato velho.",
+        "COMO RESOLVER",
+        "Musgo verde vivo, tudo bem. Marrom: lave o vaso com muita água ou troque a casca.",
+        "Na próxima: no tronco",
+        "→",
+        "TG 018 VASO DE ORQUÍDEA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "vas-sintoma-1.jpg",
+          "alt": "Vaso de orquídea com musgo marrom por cima"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "No tronco",
+        "01",
+        "Antes de amarrar",
+        "02",
+        "Não é parasita",
+        "03",
+        "Quatro jeitos",
+        "Na próxima: antes de amarrar",
+        "→",
+        "TG 018 VASO DE ORQUÍDEA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-G-1.jpg",
+          "alt": "André com uma orquídea amarrada num tronco"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "c4-160",
+        "c4-166",
+        "c4-167",
+        "c4-61",
+        "c4-60",
+        "c4-165"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · NO TRONCO",
+        "Antes de amarrar",
+        "QUANDO",
+        "Com raiz nova surgindo",
+        "DE NOVO EM",
+        "A placa dura anos",
+        "VOCÊ VAI PRECISAR",
+        "Placa de cortiça",
+        ", fendas em pé",
+        "Linha de pesca",
+        " transparente",
+        "Musgo",
+        " para a almofada",
+        "Balde",
+        " para mergulhar",
+        "Paciência",
+        "Chuva",
+        " que lava o sal",
+        "Tempo",
+        " para regar todo dia",
+        "Na próxima: não é parasita",
+        "→",
+        "TG 018 VASO DE ORQUÍDEA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "k9-340",
+        "c4-163",
+        "c4-165"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · NO TRONCO",
+        "ATENÇÃO",
+        "Orquídea de árvore não é parasita.",
+        "Ela não suga nada: só usa o tronco como apoio, com sombra e vento.",
+        "Raiz de vaso não vira raiz de tronco: ela faz raiz nova.",
+        "FAÇA ASSIM",
+        "Comece com uma ou duas placas.",
+        "A raiz seca rápido e pede atenção todo dia.",
+        "Na próxima: quatro jeitos",
+        "→",
+        "TG 018 VASO DE ORQUÍDEA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "c4-96",
+        "c4-48",
+        "c4-156",
+        "c4-59",
+        "c4-102"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro jeitos",
+        "1",
+        "Vaso de barro",
+        "Respira e dura anos.",
+        "2",
+        "Vaso de plástico",
+        "Segura mais água.",
+        "3",
+        "Placa de cortiça",
+        "Raiz quase não apodrece.",
+        "4",
+        "Tronco de árvore",
+        "Difícil de afogar.",
+        "CHAVE",
+        "Furo sempre",
+        "Vaso justo",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 018 VASO DE ORQUÍDEA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "vas-var-barro.jpg",
+          "alt": "Orquídea em vaso de barro"
+        },
+        {
+          "src": "vas-var-plastico.jpg",
+          "alt": "Orquídea em vaso de plástico"
+        },
+        {
+          "src": "vas-var-placa.jpg",
+          "alt": "Orquídea amarrada numa placa de cortiça"
+        },
+        {
+          "src": "vas-var-tronco.jpg",
+          "alt": "Orquídea presa num tronco de árvore"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "c4-93",
+        "c4-185",
+        "c4-109",
+        "c4-129",
+        "c4-25"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "PONTA DE RAIZ MARROM",
+        "Sal no barro. Lave bem o vaso.",
+        "MOSQUITINHO PRETO",
+        "A larva come casca e raiz.",
+        "LIMO VERDE EM CIMA",
+        "Deixe a superfície secar.",
+        "PLANTA TOMBANDO",
+        "Cascalho de aquário dá peso.",
+        "DICA DO ANDRÉ",
+        "Pratinho embaixo de cada vaso atrapalha o ar. Prefira uma bandeja só.",
+        "Na próxima: um número que impressiona",
+        "→",
+        "TG 018 VASO DE ORQUÍDEA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "c4-100",
+        "c4-217"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "40",
+        "ANOS",
+        "tem o vaso de barro mais antigo do autor, ainda em uso.",
+        "O de plástico, no sol, pode durar só um ou dois anos.",
+        "E MAIS UMA",
+        "Uma cápsula de orquídea solta milhares de sementes finas como poeira.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 018 VASO DE ORQUÍDEA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "k9-333",
+        "c4-57",
+        "c4-101",
+        "k9-337",
+        "c4-91",
+        "c4-122",
+        "c4-118",
+        "c4-107"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Tire o celofane",
+        "Vaso com furo, sem pratinho",
+        "Vaso justo, nunca grande",
+        "Espere a flor cair",
+        "Troque com raiz nova surgindo",
+        "Molhe o esfagno antes",
+        "Teste do lápis antes de regar",
+        "Musgo marrom? Lave o vaso",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 018 VASO DE ORQUÍDEA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua orquídea firmar no vaso novo, me conta. E dá uma muda para alguém. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "018",
+        "VOCÊ TEM",
+        "019",
+        "020",
+        "021",
+        "022",
+        "023",
+        "São 18 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 019 AGAVES E KALANCHOES",
+        "Comente KALANCHOE no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 018 VASO DE ORQUÍDEA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-A-1.jpg",
+          "alt": "Retrato do André com uma orquídea"
+        }
+      ]
+    }
+  ]
+}

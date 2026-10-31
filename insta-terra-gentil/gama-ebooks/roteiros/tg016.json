@@ -1,0 +1,553 @@
+{
+  "livro": "TG 016",
+  "titulo": "Cattleya e Dendrobium",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "016",
+        "COLEÇÃO TERRA GENTIL",
+        "ORQUÍDEA",
+        "Cattleya e Dendrobium",
+        "As orquídeas que andam.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-G-1.jpg",
+          "alt": "André com uma Cattleya florida"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "c4-246",
+        "k9-341"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Muita gente acha que orquídea saindo do vaso está morrendo.",
+        "Não está. A Cattleya anda, broto após broto.",
+        "Aqui eu te mostro a luz, a rega e como replantar sem medo.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache a janela mais clara da casa.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: luz forte",
+        "→",
+        "TG 016 CATTLEYA E DENDROBIUM",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-E-1.jpg",
+          "alt": "André com uma touceira de orquídea"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "c4-245",
+        "c4-247",
+        "c4-248"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Dê luz forte.",
+        "Cattleya pede bem mais luz que a Phalaenopsis. Sem janela clara, não floresce.",
+        "O BULBO QUE PARECE MORTO",
+        "Não corte o bulbo velho sem folha: é a caixa-d'água dela.",
+        "Regue e deixe a casca secar quase toda antes da próxima.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 016 CATTLEYA E DENDROBIUM",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da Cattleya",
+        "06",
+        "CAPÍTULO 1",
+        "A orquídea que anda",
+        "08",
+        "CAPÍTULO 2",
+        "Replantar sem medo",
+        "12",
+        "CAPÍTULO 3",
+        "O Dendrobium",
+        "15",
+        "CAPÍTULO 4",
+        "De perto, sem confusão",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Bulbo velho sem folha? Vá para a página 11.",
+        "Na próxima: conheça a Cattleya",
+        "→",
+        "TG 016 CATTLEYA E DENDROBIUM",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "c4-245",
+        "c4-248",
+        "c4-99",
+        "c4-116",
+        "c4-246",
+        "g16-26"
+      ],
+      "textos": [
+        "FICHA DA PLANTA",
+        "Cattleya",
+        "A orquídea clássica",
+        "LUZ",
+        "Forte, a janela mais clara",
+        "ÁGUA",
+        "Deixe secar entre as regas",
+        "VASO",
+        "Barro, com casca média",
+        "ESQUECEU?",
+        "O bulbo guarda água e perdoa",
+        "DIFICULDADE",
+        "Média",
+        "PET",
+        "SEGURA",
+        "Orquídea não é tóxica para gato",
+        "Na próxima: a orquídea que anda",
+        "→",
+        "TG 016 CATTLEYA E DENDROBIUM",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "A orquídea que anda",
+        "01",
+        "Cada uma do seu jeito",
+        "02",
+        "Replantar, passo a passo",
+        "03",
+        "Bulbo velho",
+        "Na próxima: cada uma do seu jeito",
+        "→",
+        "TG 016 CATTLEYA E DENDROBIUM",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-C-1.jpg",
+          "alt": "André com orquídeas na luz da janela"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "c4-245",
+        "c4-23",
+        "c4-99",
+        "c4-248",
+        "k9-355",
+        "c4-3",
+        "c4-246"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · A LUZ",
+        "Cada uma do seu jeito",
+        "ORQUÍDEA",
+        "LUZ",
+        "ÁGUA",
+        "Cattleya",
+        "Forte",
+        "Deixe secar",
+        "Dendrobium",
+        "Forte",
+        "Deixe secar",
+        "Chuva-de-ouro",
+        "Sol da manhã",
+        "Pouca",
+        "Phalaenopsis",
+        "Pouca",
+        "Mais",
+        "Esquece de regar? Fique com a Cattleya: o bulbo guarda água.",
+        "DICA DO ANDRÉ",
+        "Vaso de barro para a Cattleya e o Dendrobium, que gostam de secar.",
+        "Na próxima: replantar sem medo",
+        "→",
+        "TG 016 CATTLEYA E DENDROBIUM",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Replantar sem medo",
+        "01",
+        "Replantar, passo a passo",
+        "02",
+        "Dividir a touceira",
+        "03",
+        "Bulbo velho",
+        "Na próxima: replantar",
+        "→",
+        "TG 016 CATTLEYA E DENDROBIUM",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-trocar-vaso-B-1.jpg",
+          "alt": "André replantando uma orquídea"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "k9-362",
+        "c4-141",
+        "k9-341",
+        "c4-132",
+        "c4-116"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Replantar? Faça assim.",
+        "QUANDO",
+        "Quando o broto novo nascer",
+        "TEMPO",
+        "20 minutos",
+        "PRECISA",
+        "Vaso de barro e casca média",
+        "1",
+        "TRÁS NA BORDA",
+        "A parte velha encosta no vaso.",
+        "2",
+        "ESPAÇO NA FRENTE",
+        "O broto novo anda para lá.",
+        "3",
+        "RIZOMA POR CIMA",
+        "Sem enterrar o caule rasteiro.",
+        "DICA DO ANDRÉ",
+        "Segure pela raiz e pelo rizoma, nunca pelas folhas, que machucam fácil.",
+        "Na próxima: dividir a touceira",
+        "→",
+        "TG 016 CATTLEYA E DENDROBIUM",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cat-gesto-1.jpg",
+          "alt": "Mão encostando a parte velha da Cattleya na borda do vaso"
+        },
+        {
+          "src": "cat-gesto-2.jpg",
+          "alt": "Dedo mostrando o espaço livre na frente do broto novo"
+        },
+        {
+          "src": "cat-gesto-3.jpg",
+          "alt": "Mãos ajeitando a casca sem cobrir o rizoma"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "c4-139",
+        "c4-133",
+        "c4-128",
+        "c4-137",
+        "c4-142"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · DIVIDIR",
+        "Dividir a touceira",
+        "Cada pedaço: dois bulbos maduros e um broto novo.",
+        "Pedaço pequeno demais demora a se recuperar.",
+        "Pó de carvão no corte do rizoma serve de curativo.",
+        "Raiz morta? Corte rente, com ferramenta limpa.",
+        "O susto: depois de replantar, bulbo murchando é sede. Fique de olho.",
+        "Na próxima: bulbo velho",
+        "→",
+        "TG 016 CATTLEYA E DENDROBIUM",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "c4-247",
+        "c4-170"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Bulbo velho sem folha?",
+        "1",
+        "O QUE PARECE",
+        "Parte morta: dá vontade de cortar.",
+        "O QUE PODE SER",
+        "A caixa-d'água e a despensa da planta.",
+        "COMO RESOLVER",
+        "Deixe. Quanto mais bulbo de trás, melhor. Só tire o que estiver podre.",
+        "Na próxima: o Dendrobium",
+        "→",
+        "TG 016 CATTLEYA E DENDROBIUM",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cat-sintoma-1.jpg",
+          "alt": "Cattleya com bulbos velhos sem folha atrás"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "O Dendrobium",
+        "01",
+        "Orquídea nova em casa",
+        "02",
+        "A cana verde",
+        "03",
+        "Quatro de touceira",
+        "Na próxima: orquídea nova em casa",
+        "→",
+        "TG 016 CATTLEYA E DENDROBIUM",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-D-1.jpg",
+          "alt": "André com um Dendrobium florido"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "c4-169",
+        "c4-16"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · EM CASA",
+        "Orquídea nova em casa",
+        "QUANDO",
+        "No dia em que ela chegar",
+        "DE NOVO EM",
+        "A cada orquídea nova",
+        "VOCÊ VAI PRECISAR",
+        "Bainha seca",
+        ": puxe atrás de cochonilha",
+        "Rizoma",
+        " firme, sem podre",
+        "Folha",
+        " sem mancha",
+        "Pseudobulbo",
+        " cheio e firme",
+        "Paciência",
+        "Raiz",
+        " fora do vaso, se der",
+        "Broto novo",
+        " do tamanho do de trás",
+        "Na próxima: a cana verde",
+        "→",
+        "TG 016 CATTLEYA E DENDROBIUM",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "c4-18",
+        "c4-253"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · O DENDROBIUM",
+        "ATENÇÃO",
+        "Não corte a cana verde.",
+        "O Dendrobium perde as folhas das canas velhas, e é natural.",
+        "A cana verde está viva e faz fotossíntese.",
+        "FAÇA ASSIM",
+        "Cana comprida pende: amarre no tutor enquanto ela cresce.",
+        "A folha madura fica no ângulo em que cresceu.",
+        "Na próxima: quatro de touceira",
+        "→",
+        "TG 016 CATTLEYA E DENDROBIUM",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "c4-242",
+        "c4-18",
+        "k9-355",
+        "c4-245"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro de touceira",
+        "1",
+        "Cattleya de uma folha",
+        "Flor grande, muitas perfumadas.",
+        "2",
+        "Cattleya de duas folhas",
+        "Flores menores, em maior número.",
+        "3",
+        "Dendrobium",
+        "Cana verde: não corte.",
+        "4",
+        "Chuva-de-ouro",
+        "Pouca água, sol da manhã.",
+        "CHAVE",
+        "Luz forte",
+        "Deixe secar",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 016 CATTLEYA E DENDROBIUM",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cat-var-umafolha.jpg",
+          "alt": "Cattleya de uma folha com flor grande"
+        },
+        {
+          "src": "cat-var-duasfolhas.jpg",
+          "alt": "Cattleya de duas folhas com várias flores"
+        },
+        {
+          "src": "cat-var-dendrobium.jpg",
+          "alt": "Dendrobium com flores ao longo da cana"
+        },
+        {
+          "src": "cat-var-chuvadeouro.jpg",
+          "alt": "Chuva-de-ouro com cacho amarelo"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "c4-245",
+        "c4-16",
+        "c4-192",
+        "k9-341",
+        "c4-170"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "SEM FLOR",
+        "Folha escura demais: falta luz forte.",
+        "BROTO MENOR QUE O DE TRÁS",
+        "A planta sofreu. Dê tempo.",
+        "AMARELA, COM ANEL ROXO",
+        "Fungo no rizoma. Corte a parte doente.",
+        "SAINDO DO VASO",
+        "Não é falta de espaço: ela anda.",
+        "DICA DO ANDRÉ",
+        "Folha morta, flor murcha e vaso largado viram criadouro de praga.",
+        "Na próxima: um número que impressiona",
+        "→",
+        "TG 016 CATTLEYA E DENDROBIUM",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "c4-162",
+        "k9-354"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "60",
+        "CM",
+        "tinha a bola que uma Cattleya fez abraçando um tronco de carvalho.",
+        "O autor só amarrou a planta. Com o tempo, ela cobriu o tronco inteiro.",
+        "E MAIS UMA",
+        "O Brasil é o berçário do Oncidium: a chuva-de-ouro é daqui.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 016 CATTLEYA E DENDROBIUM",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "c4-245",
+        "c4-248",
+        "c4-247",
+        "c4-18",
+        "c4-141",
+        "c4-132",
+        "c4-139"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Leve para a luz mais forte",
+        "Deixe secar entre as regas",
+        "Não corte bulbo velho",
+        "Não corte cana verde",
+        "Trás encostada na borda",
+        "Rizoma por cima da casca",
+        "Segure pela raiz, não pela folha",
+        "Dois bulbos e um broto por pedaço",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 016 CATTLEYA E DENDROBIUM",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua Cattleya florir na janela, me conta. E dá um pedaço da touceira para alguém. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "016",
+        "VOCÊ TEM",
+        "017",
+        "018",
+        "019",
+        "020",
+        "021",
+        "São 16 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 017 ORQUÍDEA DOENTE",
+        "Comente CURAR no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 016 CATTLEYA E DENDROBIUM",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-F-1.jpg",
+          "alt": "Retrato do André com uma orquídea"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "livro": "TG 015",
+  "titulo": "Florir de Novo",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "015",
+        "COLEÇÃO TERRA GENTIL",
+        "ORQUÍDEA",
+        "Florir de Novo",
+        "Sua orquídea vai dar flor de novo.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-A-1.jpg",
+          "alt": "André com uma Phalaenopsis florida"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "k9-338",
+        "c4-227"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Muita gente joga a orquídea fora quando a flor cai.",
+        "Não precisa. Bem cuidada, ela floresce todo ano.",
+        "Aqui eu te mostro a luz, a haste e a rega para ela voltar.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Não corte a haste verde da sua orquídea.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: dê mais luz",
+        "→",
+        "TG 015 FLORIR DE NOVO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-B-1.jpg",
+          "alt": "André olhando a haste de uma orquídea"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "c4-32",
+        "c4-230",
+        "k9-351",
+        "k9-338"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Dê mais luz.",
+        "Orquídea saudável que não floresce: a causa número um é pouca luz.",
+        "A HASTE QUE VOLTA",
+        "Só corte a haste quando ela secar marrom até a base.",
+        "Bem cuidada, ela floresce pelo menos uma vez por ano.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 015 FLORIR DE NOVO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da Phalaenopsis",
+        "06",
+        "CAPÍTULO 1",
+        "A luz da flor",
+        "08",
+        "CAPÍTULO 2",
+        "Haste e rega",
+        "12",
+        "CAPÍTULO 3",
+        "Murchou, e agora?",
+        "15",
+        "CAPÍTULO 4",
+        "De perto, sem confusão",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Sem flor há meses? Vá para a página 11.",
+        "Na próxima: conheça a Phalaenopsis",
+        "→",
+        "TG 015 FLORIR DE NOVO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "c4-31",
+        "c4-237",
+        "k9-350",
+        "k9-349",
+        "p14-09"
+      ],
+      "textos": [
+        "FICHA DA PLANTA",
+        "Phalaenopsis",
+        "A que volta a florir",
+        "LUZ",
+        "Claridade; sol só da manhã",
+        "ÁGUA",
+        "Quando a raiz ficar prateada",
+        "SUBSTRATO",
+        "Casca, coco e carvão",
+        "FLOR",
+        "Dura até 4 meses",
+        "DIFICULDADE",
+        "Fácil",
+        "PET",
+        "SEGURA",
+        "Não tóxica para cão e gato",
+        "Na próxima: a luz da flor",
+        "→",
+        "TG 015 FLORIR DE NOVO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "A luz da flor",
+        "01",
+        "Quanta luz ela quer",
+        "02",
+        "A haste, passo a passo",
+        "03",
+        "Sem flor",
+        "Na próxima: quanta luz ela quer",
+        "→",
+        "TG 015 FLORIR DE NOVO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-B-1.jpg",
+          "alt": "André com orquídeas perto da janela"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "c4-3",
+        "c4-31",
+        "c4-23",
+        "c4-233"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · A LUZ",
+        "Quanta luz ela quer?",
+        "ORQUÍDEA",
+        "LUZ",
+        "ÁGUA",
+        "Phalaenopsis",
+        "Pouca",
+        "Mais",
+        "Sapatinho",
+        "Pouca",
+        "Mais",
+        "Cattleya",
+        "Forte",
+        "Menos",
+        "Dendrobium",
+        "Forte",
+        "Menos",
+        "Teste da janela: onde a violeta floresce, a Phalaenopsis vai bem.",
+        "DICA DO ANDRÉ",
+        "Folha verde-escura com um tom vinho por baixo: a luz está certa.",
+        "Na próxima: haste e rega",
+        "→",
+        "TG 015 FLORIR DE NOVO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Haste e rega",
+        "01",
+        "A haste, passo a passo",
+        "02",
+        "Regar pela raiz",
+        "03",
+        "Sem flor",
+        "Na próxima: a haste",
+        "→",
+        "TG 015 FLORIR DE NOVO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-C-1.jpg",
+          "alt": "André regando uma orquídea"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "c4-230",
+        "k9-351",
+        "c4-32",
+        "c4-85"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "A flor caiu? Faça assim.",
+        "QUANDO",
+        "Quando a última flor cair",
+        "TEMPO",
+        "5 minutos",
+        "PRECISA",
+        "Tesoura limpa e paciência",
+        "1",
+        "OLHE A HASTE",
+        "Verde? Deixe: pode brotar de lado.",
+        "2",
+        "SECOU MARROM?",
+        "Corte rente, com tesoura limpa.",
+        "3",
+        "MAIS LUZ",
+        "Leve para perto da janela.",
+        "DICA DO ANDRÉ",
+        "Haste nova apareceu? Pule o adubo umas semanas, senão o botão cai.",
+        "Na próxima: regar pela raiz",
+        "→",
+        "TG 015 FLORIR DE NOVO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "flo-gesto-1.jpg",
+          "alt": "Dedo mostrando a haste verde de uma Phalaenopsis"
+        },
+        {
+          "src": "flo-gesto-2.jpg",
+          "alt": "Tesoura cortando uma haste seca e marrom"
+        },
+        {
+          "src": "flo-gesto-3.jpg",
+          "alt": "Mãos levando o vaso de orquídea para perto da janela"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "c4-237",
+        "c4-235",
+        "k9-348",
+        "c4-47",
+        "c4-44"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · REGAR",
+        "Regar pela raiz",
+        "Regue quando a raiz lá dentro do vaso ficar prateada.",
+        "Verde ou vermelha molhada é bom. Bege ou marrom, morta.",
+        "Água parada no miolo das folhas mata a planta.",
+        "Vaso de barro escuro e frio ao toque ainda tem água.",
+        "O susto: ar seco de casa? Com a rega certa, ela floresce assim mesmo.",
+        "Na próxima: sem flor",
+        "→",
+        "TG 015 FLORIR DE NOVO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "c4-32",
+        "k9-057",
+        "k9-350"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Saudável e sem flor?",
+        "1",
+        "O QUE PARECE",
+        "Falta de adubo ou de canela.",
+        "O QUE PODE SER",
+        "Pouca luz: ela cresce, mas não junta energia.",
+        "COMO RESOLVER",
+        "Mais claridade, com sol da manhã. Canela não faz florir: flor vem de luz e adubo.",
+        "Na próxima: murchou, e agora",
+        "→",
+        "TG 015 FLORIR DE NOVO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "flo-sintoma-1.jpg",
+          "alt": "Phalaenopsis de folhas verdes, sem nenhuma haste"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Murchou, e agora?",
+        "01",
+        "O resgate",
+        "02",
+        "O keiki",
+        "03",
+        "Quatro de casa",
+        "Na próxima: o resgate",
+        "→",
+        "TG 015 FLORIR DE NOVO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-trocar-vaso-A-1.jpg",
+          "alt": "André trocando uma orquídea de vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "c4-236",
+        "c4-235",
+        "c4-62"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · O RESGATE",
+        "O resgate",
+        "QUANDO",
+        "Folha murcha e raiz bege",
+        "DE NOVO EM",
+        "Só se murchar de novo",
+        "VOCÊ VAI PRECISAR",
+        "Bacia",
+        " com água, 30 minutos",
+        "Tesoura limpa",
+        " para a raiz marrom",
+        "Esfagno",
+        " bem úmido",
+        "Vaso novo",
+        " para a raiz viva",
+        "Paciência",
+        "Saco plástico",
+        " se a casa for seca",
+        "Olho",
+        " na cor da raiz",
+        "Na próxima: o keiki",
+        "→",
+        "TG 015 FLORIR DE NOVO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "c4-231",
+        "c4-144",
+        "c4-19"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · O KEIKI",
+        "ATENÇÃO",
+        "Keiki nem sempre é boa notícia.",
+        "Planta nas últimas também solta mudinha para deixar herdeiro.",
+        "Olhe a raiz, a ponta e a folha da mãe.",
+        "FAÇA ASSIM",
+        "Separe o keiki com três folhas e umas raízes.",
+        "Antes disso, deixe ele na haste.",
+        "Na próxima: quatro de casa",
+        "→",
+        "TG 015 FLORIR DE NOVO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "c4-3",
+        "k9-356",
+        "k9-347",
+        "k9-346",
+        "c4-31"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro de casa",
+        "1",
+        "Phalaenopsis",
+        "Pouca luz, rega farta.",
+        "2",
+        "Denphal",
+        "Aguenta meia-sombra.",
+        "3",
+        "Sapatinho",
+        "Flor no inverno.",
+        "4",
+        "Orquídea-bambu",
+        "Flor o ano todo, no sol.",
+        "CHAVE",
+        "Luz da manhã",
+        "Raiz prateada",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 015 FLORIR DE NOVO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "flo-var-phalaenopsis.jpg",
+          "alt": "Phalaenopsis branca florida"
+        },
+        {
+          "src": "flo-var-denphal.jpg",
+          "alt": "Denphal com flores roxas"
+        },
+        {
+          "src": "flo-var-sapatinho.jpg",
+          "alt": "Orquídea-sapatinho em vaso"
+        },
+        {
+          "src": "flo-var-bambu.jpg",
+          "alt": "Orquídea-bambu num muro"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "c4-7",
+        "c4-85",
+        "c4-196",
+        "c4-194",
+        "c4-186",
+        "c4-189"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "BOTÃO CAIU",
+        "Mudança de casa ou adubo na haste.",
+        "PONTINHO MARROM",
+        "Flor molhada no frio. Regue a raiz.",
+        "MANCHA COM BORDA ÚMIDA",
+        "Bactéria. Corte a parte doente.",
+        "PRATEADO NA FOLHA",
+        "É ácaro. Olhe embaixo da folha.",
+        "DICA DO ANDRÉ",
+        "Não regue em dia frio ou nublado: fungo adora folha molhada.",
+        "Na próxima: um número que impressiona",
+        "→",
+        "TG 015 FLORIR DE NOVO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "k9-349",
+        "c4-226",
+        "k9-352"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "4",
+        "MESES",
+        "é quanto a flor da Phalaenopsis pode durar, às vezes mais.",
+        "Ela segue florida muito depois de qualquer buquê ter ido para o lixo.",
+        "E MAIS UMA",
+        "Orquídea azul de vaso é branca tingida: a próxima flor volta branca.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 015 FLORIR DE NOVO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "c4-230",
+        "c4-32",
+        "k9-350",
+        "c4-237",
+        "k9-348",
+        "c4-85",
+        "k9-057",
+        "c4-235"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Não corte a haste verde",
+        "Leve para mais claridade",
+        "Sol só da manhã",
+        "Regue com a raiz prateada",
+        "Nada de água no miolo",
+        "Pule o adubo na haste nova",
+        "Esqueça a canela",
+        "Murchou? Olhe a raiz",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 015 FLORIR DE NOVO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua orquídea florir de novo, me conta. E dá um keiki para alguém. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "015",
+        "VOCÊ TEM",
+        "016",
+        "017",
+        "018",
+        "019",
+        "020",
+        "São 15 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 016 CATTLEYA E DENDROBIUM",
+        "Comente CATTLEYA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 015 FLORIR DE NOVO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-H-1.jpg",
+          "alt": "Retrato do André com uma orquídea florida"
+        }
+      ]
+    }
+  ]
+}

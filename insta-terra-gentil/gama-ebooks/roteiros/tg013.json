@@ -1,0 +1,554 @@
+{
+  "livro": "TG 013",
+  "titulo": "Tomate no Vaso",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "013",
+        "COLEÇÃO TERRA GENTIL",
+        "COZINHA VERDE",
+        "Tomate no Vaso",
+        "Tomate de verdade na varanda.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "tomate-A-1.jpg",
+          "alt": "André com um pé de tomate"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "s2-162",
+        "s2-179"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Muita gente acha que tomate só dá em roça.",
+        "Não precisa. Num vaso grande, com sol, ele dá.",
+        "Aqui eu te mostro a muda, a poda e a hora de colher.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache o canto com mais horas de sol da casa.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: plante fundo",
+        "→",
+        "TG 013 TOMATE NO VASO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tomate-B-1.jpg",
+          "alt": "André com um vaso de tomate"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "s2-165",
+        "s2-172",
+        "s2-175",
+        "s2-162"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Plante fundo.",
+        "Enterre o caule e deixe só 10 cm de muda para fora: ele solta raiz.",
+        "O BROTO QUE ROUBA FRUTO",
+        "Tire o ladrão, o broto entre o caule e a folha, toda semana.",
+        "Tomate quer o lugar com mais sol da casa.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 013 TOMATE NO VASO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do tomate",
+        "06",
+        "CAPÍTULO 1",
+        "Escolher o tomate",
+        "08",
+        "CAPÍTULO 2",
+        "Plantar e podar",
+        "12",
+        "CAPÍTULO 3",
+        "Cuidar até colher",
+        "15",
+        "CAPÍTULO 4",
+        "De perto, sem susto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Fundo preto no tomate? Vá para a página 11.",
+        "Na próxima: conheça o tomate",
+        "→",
+        "TG 013 TOMATE NO VASO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "s2-179",
+        "s2-162",
+        "s2-89",
+        "s2-161",
+        "g16-36"
+      ],
+      "textos": [
+        "FICHA DA PLANTA",
+        "Tomate de moita",
+        "O melhor tomate para vaso",
+        "LUZ",
+        "Sol direto, o máximo da casa",
+        "ÁGUA",
+        "Igual: sem secar, sem encharcar",
+        "TERRA",
+        "Adubada, sem exagero de esterco",
+        "VASO",
+        "Grande, sem faltar água",
+        "DIFICULDADE",
+        "Média",
+        "PET",
+        "CUIDADO",
+        "Pé de tomate: risco raro para gato",
+        "Na próxima: escolher o tomate",
+        "→",
+        "TG 013 TOMATE NO VASO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Escolher o tomate",
+        "01",
+        "Moita ou trepadeira",
+        "02",
+        "Plantar fundo",
+        "03",
+        "Fundo preto",
+        "Na próxima: moita ou trepadeira",
+        "→",
+        "TG 013 TOMATE NO VASO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tomate-C-1.jpg",
+          "alt": "André olhando os tomates no pé"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "s2-179",
+        "s2-167",
+        "s2-168",
+        "s2-180"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · A ESCOLHA",
+        "Moita ou trepadeira?",
+        "ESCOLHA",
+        "COMO É",
+        "NO VASO",
+        "Determinado",
+        "Para e vira moita",
+        "Ótimo",
+        "Indeterminado",
+        "Sobe sem parar",
+        "Com tutor",
+        "Muda nova",
+        "Vaso de 10 cm",
+        "Compre",
+        "Muda esticada",
+        "Já com flor",
+        "Sofre mais",
+        "Vire o vaso da muda: raiz saindo pelo furo é planta estressada.",
+        "DICA DO ANDRÉ",
+        "Na dúvida da variedade, pergunte ao vizinho que planta tomate.",
+        "Na próxima: plantar e podar",
+        "→",
+        "TG 013 TOMATE NO VASO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Plantar e podar",
+        "01",
+        "Plantar fundo, passo a passo",
+        "02",
+        "O ladrão que rouba fruto",
+        "03",
+        "Fundo preto",
+        "Na próxima: plantar fundo",
+        "→",
+        "TG 013 TOMATE NO VASO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tomate-D-1.jpg",
+          "alt": "André plantando uma muda de tomate"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "s2-165",
+        "s2-172",
+        "s2-173",
+        "s2-169"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Plantar? Faça assim.",
+        "QUANDO",
+        "Muda nova, ainda sem flor",
+        "TEMPO",
+        "15 minutos",
+        "PRECISA",
+        "Vaso grande e terra adubada",
+        "1",
+        "CAVE FUNDO",
+        "Enterre o caule: ele solta raiz.",
+        "2",
+        "SÓ 10 CM PARA FORA",
+        "Raiz funda aguenta seca e calor.",
+        "3",
+        "PALHA NO PÉ",
+        "Segura a umidade e evita doença.",
+        "DICA DO ANDRÉ",
+        "Antes de plantar, deixe a muda na rua um pouco mais a cada dia, por duas semanas.",
+        "Na próxima: o ladrão que rouba fruto",
+        "→",
+        "TG 013 TOMATE NO VASO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tom-gesto-1.jpg",
+          "alt": "Mão cavando um buraco fundo no vaso"
+        },
+        {
+          "src": "tom-gesto-2.jpg",
+          "alt": "Muda de tomate deitada no buraco, com o caule enterrado"
+        },
+        {
+          "src": "tom-gesto-3.jpg",
+          "alt": "Mãos espalhando palha seca no pé do tomateiro"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "s2-175",
+        "s2-179",
+        "s2-178",
+        "s2-146",
+        "s2-87"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · PODAR",
+        "O ladrão que rouba fruto",
+        "O ladrão é o broto que nasce entre o caule e a folha.",
+        "Tire toda semana: senão vira outro caule e rouba força do fruto.",
+        "Tomate de trepadeira pede tutor. Amarre com meia-calça velha.",
+        "Pé enorme, verde-escuro e sem fruto? Foi adubo demais.",
+        "O susto: lagarta verde com chifre no rabo come o pé em um ou dois dias.",
+        "Na próxima: fundo preto",
+        "→",
+        "TG 013 TOMATE NO VASO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "s2-89",
+        "s2-90"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Fundo preto no tomate?",
+        "1",
+        "O QUE PARECE",
+        "Bicho ou fungo.",
+        "O QUE PODE SER",
+        "Falta de cálcio e terra que seca e encharca.",
+        "COMO RESOLVER",
+        "Palha na terra para a umidade ficar igual, adubo sem exagero e calcário se a terra for ácida.",
+        "Na próxima: cuidar até colher",
+        "→",
+        "TG 013 TOMATE NO VASO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tom-sintoma-1.jpg",
+          "alt": "Tomate com o fundo preto e afundado"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Cuidar até colher",
+        "01",
+        "Antes de plantar",
+        "02",
+        "O vírus da mão",
+        "03",
+        "Quatro tomates",
+        "Na próxima: antes de plantar",
+        "→",
+        "TG 013 TOMATE NO VASO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tomate-E-1.jpg",
+          "alt": "André colhendo tomate maduro"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "s2-167",
+        "s2-58",
+        "s2-162",
+        "s2-173",
+        "s2-178",
+        "s2-175"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CUIDAR",
+        "Antes de plantar",
+        "QUANDO",
+        "Muda nova, sem flor",
+        "DE NOVO EM",
+        "Troque a terra todo ano",
+        "VOCÊ VAI PRECISAR",
+        "Muda nova",
+        ", em vaso de 10 cm",
+        "Vaso grande",
+        " com terra adubada",
+        "Palha",
+        " para forrar a terra",
+        "Meia-calça velha",
+        " para amarrar",
+        "Paciência",
+        "Sol",
+        " o máximo da casa",
+        "Mão",
+        " para tirar o ladrão",
+        "Na próxima: o vírus da mão",
+        "→",
+        "TG 013 TOMATE NO VASO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "s2-100",
+        "s2-58"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CUIDAR",
+        "ATENÇÃO",
+        "O vírus pega carona na mão.",
+        "O mosaico passa de planta em planta pelo toque.",
+        "Quem fuma deve lavar as mãos antes de mexer no tomateiro.",
+        "FAÇA ASSIM",
+        "Não plante tomate na mesma terra dois anos seguidos.",
+        "O fungo da murcha fica mais de um ano na terra.",
+        "Na próxima: quatro tomates",
+        "→",
+        "TG 013 TOMATE NO VASO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "s2-179",
+        "s2-176",
+        "s2-177",
+        "s2-162"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro tomates",
+        "1",
+        "Tomate de moita",
+        "Para de crescer e cabe no vaso.",
+        "2",
+        "Tomate de trepadeira",
+        "Dá mais, mas pede tutor.",
+        "3",
+        "Tomate maduro",
+        "A casca cede um pouco ao dedo.",
+        "4",
+        "Tomate de vez",
+        "Ombro amarelando? Termina em casa.",
+        "CHAVE",
+        "Sol direto",
+        "Rega igual",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 013 TOMATE NO VASO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tom-var-moita.jpg",
+          "alt": "Tomateiro de moita num vaso"
+        },
+        {
+          "src": "tom-var-trepadeira.jpg",
+          "alt": "Tomateiro subindo num tutor"
+        },
+        {
+          "src": "tom-var-maduro.jpg",
+          "alt": "Tomate vermelho no pé"
+        },
+        {
+          "src": "tom-var-verde.jpg",
+          "alt": "Tomate verde com o ombro amarelando"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "s2-91",
+        "s2-148",
+        "s2-136",
+        "s2-92",
+        "s2-88"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "TOMATE RACHADO",
+        "Terra seca que molhou de repente.",
+        "FOLHA ROXA",
+        "Sinal fácil de falta de fósforo.",
+        "PAROU DE CRESCER",
+        "Pode ser terra ácida demais.",
+        "MUDA TOMBOU",
+        "É fungo. Jogue fora e use terra limpa.",
+        "DICA DO ANDRÉ",
+        "Lagarta coberta de bolinhas brancas? Deixe: uma vespinha está cuidando dela.",
+        "Na próxima: um número que impressiona",
+        "→",
+        "TG 013 TOMATE NO VASO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "a8-635",
+        "s2-170"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "35",
+        "ANOS",
+        "é quanto o nematoide do tomate aguenta desidratado na terra.",
+        "Por isso tomate sempre no mesmo lugar cansa a terra. Mude o pé de lugar.",
+        "E MAIS UMA",
+        "O tomate é sul-americano: nasceu onde o calor dura bastante.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 013 TOMATE NO VASO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "s2-179",
+        "s2-167",
+        "s2-172",
+        "s2-173",
+        "s2-91",
+        "s2-175",
+        "s2-176",
+        "s2-100"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Escolha tomate de moita",
+        "Compre muda nova, sem flor",
+        "Plante fundo, 10 cm para fora",
+        "Forre a terra com palha",
+        "Regue igual, sem deixar secar",
+        "Tire o ladrão toda semana",
+        "Colha quando a casca ceder",
+        "Lave a mão antes de mexer",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 013 TOMATE NO VASO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se o seu primeiro tomate sair do vaso, me conta. E dá uma muda para alguém. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "013",
+        "VOCÊ TEM",
+        "014",
+        "015",
+        "016",
+        "017",
+        "018",
+        "São 13 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 014 TEMPEROS DA JANELA",
+        "Comente TEMPERO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 013 TOMATE NO VASO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tomate-H-1.jpg",
+          "alt": "Retrato do André com tomates colhidos"
+        }
+      ]
+    }
+  ]
+}

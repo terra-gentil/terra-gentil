@@ -1,0 +1,554 @@
+{
+  "livro": "TG 017",
+  "titulo": "Orquídea Doente",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "017",
+        "COLEÇÃO TERRA GENTIL",
+        "ORQUÍDEA",
+        "Orquídea Doente",
+        "Descubra o que ela tem.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-praga-B-1.jpg",
+          "alt": "André examinando uma folha de perto"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "c4-171",
+        "c4-45"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Muita gente joga a orquídea fora na primeira mancha.",
+        "Calma. Praga é mais fácil de tratar que doença.",
+        "Aqui eu te mostro como ler a folha, a raiz e o vaso.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Olhe embaixo das folhas da sua orquídea.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: limpe a tesoura",
+        "→",
+        "TG 017 ORQUÍDEA DOENTE",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-C-1.jpg",
+          "alt": "André com uma orquídea nas mãos"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "c4-148",
+        "c4-45",
+        "c4-171"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Limpe a tesoura.",
+        "Vírus de orquídea não tem cura, e passa pela tesoura suja.",
+        "O REMÉDIO DE GRAÇA",
+        "Ar circulando é a melhor defesa contra fungo e bactéria.",
+        "Praga é mais fácil de tratar que doença.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 017 ORQUÍDEA DOENTE",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A orquídea saudável",
+        "06",
+        "CAPÍTULO 1",
+        "Praga",
+        "08",
+        "CAPÍTULO 2",
+        "Tratar sem veneno",
+        "12",
+        "CAPÍTULO 3",
+        "O vírus",
+        "15",
+        "CAPÍTULO 4",
+        "De perto, sem confusão",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Raiz podre? Vá para a página 11.",
+        "Na próxima: a orquídea saudável",
+        "→",
+        "TG 017 ORQUÍDEA DOENTE",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "c4-33",
+        "c4-115",
+        "c4-45",
+        "c4-76",
+        "g16-26"
+      ],
+      "textos": [
+        "FICHA DA PLANTA",
+        "Orquídea saudável",
+        "Como ela fica quando está bem",
+        "LUZ",
+        "Folha firme, verde-média",
+        "RAIZ",
+        "Firme, nunca uma papa",
+        "SUBSTRATO",
+        "Casca grossa e arejada",
+        "AR",
+        "Circulando, sempre",
+        "ADUBO",
+        "Pouco: adubo é sal",
+        "PET",
+        "SEGURA",
+        "Orquídea não é tóxica para gato",
+        "Na próxima: praga",
+        "→",
+        "TG 017 ORQUÍDEA DOENTE",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Praga",
+        "01",
+        "Quem é quem",
+        "02",
+        "Cochonilha, passo a passo",
+        "03",
+        "Raiz podre",
+        "Na próxima: quem é quem",
+        "→",
+        "TG 017 ORQUÍDEA DOENTE",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-praga-C-1.jpg",
+          "alt": "André procurando praga numa planta"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "c4-173",
+        "c4-182",
+        "c4-176",
+        "c4-186",
+        "c4-184",
+        "c4-174"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · PRAGA",
+        "Quem é quem?",
+        "SINAL",
+        "QUEM É",
+        "O QUE FAZER",
+        "Grudento, com fuligem",
+        "Pulgão ou cochonilha",
+        "Ache a praga",
+        "Algodãozinho",
+        "Cochonilha",
+        "Pincel e álcool",
+        "Colônia verde",
+        "Pulgão",
+        "Jato de água",
+        "Prateado na folha",
+        "Ácaro",
+        "Olhe embaixo",
+        "Botão que seca sem abrir e pontinho preto na flor: sinal de tripes.",
+        "DICA DO ANDRÉ",
+        "Pulgão quase nunca começa na orquídea: vem das ervas ou do mato da janela.",
+        "Na próxima: tratar sem veneno",
+        "→",
+        "TG 017 ORQUÍDEA DOENTE",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Tratar sem veneno",
+        "01",
+        "Cochonilha, passo a passo",
+        "02",
+        "Podre: preta ou mole",
+        "03",
+        "Raiz podre",
+        "Na próxima: cochonilha",
+        "→",
+        "TG 017 ORQUÍDEA DOENTE",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-praga-F-1.jpg",
+          "alt": "André limpando uma folha"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "c4-178",
+        "c4-182",
+        "c4-180",
+        "c4-176"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Cochonilha? Faça assim.",
+        "QUANDO",
+        "Ao ver o algodãozinho",
+        "TEMPO",
+        "10 minutos",
+        "PRECISA",
+        "Pincel e álcool",
+        "1",
+        "PUXE A BAINHA SECA",
+        "Ela se esconde embaixo.",
+        "2",
+        "PINCEL COM ÁLCOOL",
+        "A farinhenta fica rosa e sai.",
+        "3",
+        "TESTE DA UNHA",
+        "Seca como poeira? Já morreu.",
+        "DICA DO ANDRÉ",
+        "Pulgão sai com jato forte de água: a boca dele quebra e ele não come mais.",
+        "Na próxima: podre: preta ou mole",
+        "→",
+        "TG 017 ORQUÍDEA DOENTE",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "doe-gesto-1.jpg",
+          "alt": "Dedos puxando a bainha seca da base da orquídea"
+        },
+        {
+          "src": "doe-gesto-2.jpg",
+          "alt": "Pincel com álcool passando na cochonilha"
+        },
+        {
+          "src": "doe-gesto-3.jpg",
+          "alt": "Unha soltando a casca de uma cochonilha morta"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "c4-190",
+        "c4-46",
+        "c4-94"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · PODRIDÃO",
+        "Podre: preta ou mole?",
+        "Podridão preta avança devagar.",
+        "A mole é aquosa, surge de um dia para o outro e corre.",
+        "Pegou cedo? Corte a parte doente e passe pó de carvão.",
+        "Ar circulando não deixa a água parar na folha.",
+        "O susto: casca de pinus cor de chocolate já está apodrecendo. Replante.",
+        "Na próxima: raiz podre",
+        "→",
+        "TG 017 ORQUÍDEA DOENTE",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "c4-191",
+        "c4-95",
+        "c4-101"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Raiz podre?",
+        "1",
+        "O QUE PARECE",
+        "Água demais, só isso.",
+        "O QUE PODE SER",
+        "Fungo de substrato velho e sem ar.",
+        "COMO RESOLVER",
+        "Troque a casca velha, tire a raiz morta e use vaso justo, sem sobra.",
+        "Na próxima: o vírus",
+        "→",
+        "TG 017 ORQUÍDEA DOENTE",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "doe-sintoma-1.jpg",
+          "alt": "Raiz de orquídea marrom e mole fora do vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "O vírus",
+        "01",
+        "Antes de podar",
+        "02",
+        "Sinal de vírus",
+        "03",
+        "Quatro sinais",
+        "Na próxima: antes de podar",
+        "→",
+        "TG 017 ORQUÍDEA DOENTE",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-podar-B-1.jpg",
+          "alt": "André com uma tesoura de poda"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "c4-148",
+        "c4-150",
+        "c4-153",
+        "c4-190",
+        "c4-149",
+        "c4-175"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · O VÍRUS",
+        "Antes de podar",
+        "QUANDO",
+        "Antes de cada corte",
+        "DE NOVO EM",
+        "Entre uma planta e outra",
+        "VOCÊ VAI PRECISAR",
+        "Tesoura",
+        " limpa a cada planta",
+        "Fogo forte",
+        ": isqueiro não basta",
+        "Luva descartável",
+        " na divisão",
+        "Pó de carvão",
+        " para o corte",
+        "Paciência",
+        "Muda de laboratório",
+        ", que vem sem vírus",
+        "Olho",
+        " no pulgão e no tripes",
+        "Na próxima: sinal de vírus",
+        "→",
+        "TG 017 ORQUÍDEA DOENTE",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "c4-200",
+        "c4-171",
+        "c4-199",
+        "c4-148"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · O VÍRUS",
+        "ATENÇÃO",
+        "Vírus de orquídea não tem cura.",
+        "O sinal: estrias amareladas ao longo das nervuras, vindas de dentro.",
+        "Isole a planta: às vezes é melhor descartar que arriscar as outras.",
+        "FAÇA ASSIM",
+        "Tesoura limpa e praga controlada.",
+        "O vírus só passa de seiva para seiva.",
+        "Na próxima: quatro sinais",
+        "→",
+        "TG 017 ORQUÍDEA DOENTE",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "c4-33",
+        "c4-76",
+        "c4-200"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro sinais",
+        "1",
+        "Folha queimada",
+        "Sol demais: mais sombra.",
+        "2",
+        "Folha mole e escura",
+        "Falta luz.",
+        "3",
+        "Raiz queimada",
+        "Adubo demais: é sal.",
+        "4",
+        "Estrias amarelas",
+        "Vírus: isole a planta.",
+        "CHAVE",
+        "Ar circulando",
+        "Tesoura limpa",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 017 ORQUÍDEA DOENTE",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "doe-var-queimada.jpg",
+          "alt": "Folha de orquídea amarelada pelo sol"
+        },
+        {
+          "src": "doe-var-escura.jpg",
+          "alt": "Folha de orquídea mole e verde-escura"
+        },
+        {
+          "src": "doe-var-raiz.jpg",
+          "alt": "Ponta de raiz queimada por adubo"
+        },
+        {
+          "src": "doe-var-virus.jpg",
+          "alt": "Folha com estrias amarelas nas nervuras"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "c4-173",
+        "c4-77",
+        "c4-184",
+        "c4-188",
+        "c4-135"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "FOLHA GRUDENTA",
+        "Melado de pulgão ou cochonilha.",
+        "FOLHA MOLE E TORTA",
+        "Adubo demais deixa a planta fraca.",
+        "BOTÃO SECOU FECHADO",
+        "Pode ser tripes.",
+        "PONTA DE RAIZ COMIDA",
+        "Lesma. Ela se esconde no caco do fundo.",
+        "DICA DO ANDRÉ",
+        "Casca grudada na raiz: deixe. Arrancar abre porta para doença.",
+        "Na próxima: um número que impressiona",
+        "→",
+        "TG 017 ORQUÍDEA DOENTE",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "c4-181",
+        "c4-198"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "14",
+        "ANOS",
+        "levou o autor para se livrar de uma cochonilha que veio numa palmeira.",
+        "Ela passou para as outras plantas e para as orquídeas. Isole a planta nova.",
+        "E MAIS UMA",
+        "Já se acharam 26 vírus de orquídea, e com certeza há mais.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 017 ORQUÍDEA DOENTE",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "c4-178",
+        "c4-182",
+        "c4-176",
+        "c4-148",
+        "c4-45",
+        "c4-94",
+        "c4-171"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Olhe embaixo das folhas",
+        "Puxe as bainhas secas",
+        "Pincel com álcool na cochonilha",
+        "Jato de água no pulgão",
+        "Tesoura limpa a cada planta",
+        "Deixe o ar circular",
+        "Troque a casca que virou papa",
+        "Isole a planta doente",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 017 ORQUÍDEA DOENTE",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua orquídea sarar, me conta. E ensina o truque do pincel para alguém. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "017",
+        "VOCÊ TEM",
+        "018",
+        "019",
+        "020",
+        "021",
+        "022",
+        "São 17 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 018 VASO DE ORQUÍDEA",
+        "Comente VASO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 017 ORQUÍDEA DOENTE",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-praga-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

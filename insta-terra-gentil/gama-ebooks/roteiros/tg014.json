@@ -1,0 +1,556 @@
+{
+  "livro": "TG 014",
+  "titulo": "Temperos da Janela",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "014",
+        "COLEÇÃO TERRA GENTIL",
+        "COZINHA VERDE",
+        "Temperos da Janela",
+        "Tempero fresco perto da panela.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "manjericao-A-1.jpg",
+          "alt": "André com um vaso de manjericão"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "s2-04",
+        "k9-300"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Muita gente compra tempero que murcha na geladeira.",
+        "Não precisa. Seis ervas cabem numa janela com sol.",
+        "Aqui eu te mostro onde pôr cada uma e como colher sem acabar.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache a janela com mais sol da cozinha.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: compre muda",
+        "→",
+        "TG 014 TEMPEROS DA JANELA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "salsinha-A-1.jpg",
+          "alt": "André com um maço de salsinha"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "s2-36",
+        "s2-09",
+        "k9-300",
+        "s2-05"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Compre muda, não semente.",
+        "Alecrim de semente nasce pouco e devagar; cebolinha leva um ano.",
+        "A ERVA QUE TOMA TUDO",
+        "Hortelã vai num vaso só dela: em meses, toma o vaso das outras.",
+        "Beliscar o manjericão já é a primeira colheita.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 014 TEMPEROS DA JANELA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do manjericão",
+        "06",
+        "CAPÍTULO 1",
+        "Cada erva no seu canto",
+        "08",
+        "CAPÍTULO 2",
+        "Plantar e colher",
+        "12",
+        "CAPÍTULO 3",
+        "A pimenta",
+        "15",
+        "CAPÍTULO 4",
+        "De perto, sem confusão",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Manjericão amargo? Vá para a página 11.",
+        "Na próxima: conheça o manjericão",
+        "→",
+        "TG 014 TEMPEROS DA JANELA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "s2-04",
+        "k9-303",
+        "p14-13",
+        "g16-42"
+      ],
+      "textos": [
+        "FICHA DA PLANTA",
+        "Manjericão",
+        "O rei da janela",
+        "LUZ",
+        "Sol pleno e calor",
+        "ÁGUA",
+        "Raiz rasa: não deixe a terra secar",
+        "TERRA",
+        "Quase não pede adubo",
+        "VARIEDADES",
+        "Cerca de 60, de anis a cravo",
+        "DIFICULDADE",
+        "Fácil",
+        "PET",
+        "SEGURO",
+        "Não tóxico para cão e gato",
+        "Na próxima: cada erva no seu canto",
+        "→",
+        "TG 014 TEMPEROS DA JANELA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Cada erva no seu canto",
+        "01",
+        "Quem gosta de quê",
+        "02",
+        "Colher sem acabar",
+        "03",
+        "Manjericão amargo",
+        "Na próxima: quem gosta de quê",
+        "→",
+        "TG 014 TEMPEROS DA JANELA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "alecrim-A-1.jpg",
+          "alt": "André com vasos de ervas na janela"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "s2-04",
+        "s2-37",
+        "s2-23",
+        "s2-41",
+        "k9-300",
+        "k9-299"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O CANTO",
+        "Quem gosta de quê?",
+        "ERVA",
+        "LUZ",
+        "ÁGUA",
+        "Manjericão",
+        "Sol pleno",
+        "Sem secar",
+        "Alecrim",
+        "Sol",
+        "Só com terra seca",
+        "Hortelã",
+        "Meia-sombra",
+        "Mais úmida",
+        "Tomilho",
+        "Sol",
+        "Pouca",
+        "Hortelã é filha única: no mesmo vaso de outra erva, só ela sobra.",
+        "DICA DO ANDRÉ",
+        "Alecrim em metade areia e metade substrato não apodrece a raiz.",
+        "Na próxima: plantar e colher",
+        "→",
+        "TG 014 TEMPEROS DA JANELA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Plantar e colher",
+        "01",
+        "Plantar ervas, passo a passo",
+        "02",
+        "Colher sem acabar",
+        "03",
+        "Manjericão amargo",
+        "Na próxima: plantar ervas",
+        "→",
+        "TG 014 TEMPEROS DA JANELA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cebolinha-B-1.jpg",
+          "alt": "André cortando cebolinha"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "k9-299",
+        "k9-300",
+        "s2-05",
+        "s2-36"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Plantar ervas? Faça assim.",
+        "QUANDO",
+        "Com muda, que pega fácil",
+        "TEMPO",
+        "15 minutos",
+        "PRECISA",
+        "Vaso com furo e areia",
+        "1",
+        "AREIA NO ALECRIM",
+        "Metade areia, metade substrato.",
+        "2",
+        "HORTELÃ SOZINHA",
+        "Ela toma o vaso das outras.",
+        "3",
+        "BELISQUE AS PONTAS",
+        "O manjericão enche e rende.",
+        "DICA DO ANDRÉ",
+        "Alecrim de semente nasce pouco. Compre muda ou plante um galho verde.",
+        "Na próxima: colher sem acabar",
+        "→",
+        "TG 014 TEMPEROS DA JANELA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tem-gesto-1.jpg",
+          "alt": "Mãos misturando areia e substrato num vaso"
+        },
+        {
+          "src": "tem-gesto-2.jpg",
+          "alt": "Muda de hortelã plantada sozinha num vaso"
+        },
+        {
+          "src": "tem-gesto-3.jpg",
+          "alt": "Dedos beliscando a ponta de um manjericão"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "s2-05",
+        "s2-31",
+        "s2-11",
+        "s2-16",
+        "s2-28"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · COLHER",
+        "Colher sem acabar",
+        "Manjericão: belisque as pontas. Já é a primeira colheita.",
+        "Salsinha: pelas folhas de fora, com o talo junto.",
+        "Cebolinha: tesoura, folha por folha ou um corte na touceira.",
+        "Coentro: colha só o que vai usar. Guardado, perde o sabor.",
+        "O susto: a salsinha leva até cinco semanas para nascer. Não é semente ruim.",
+        "Na próxima: manjericão amargo",
+        "→",
+        "TG 014 TEMPEROS DA JANELA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "k9-067",
+        "k9-304",
+        "k9-364"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Manjericão amargo?",
+        "1",
+        "O QUE PARECE",
+        "Falta de adubo.",
+        "O QUE PODE SER",
+        "Começo de flor: a planta põe tudo nela.",
+        "COMO RESOLVER",
+        "Colha antes de florir e belisque as pontas. Deixe só um pé florir para as abelhas.",
+        "Na próxima: a pimenta",
+        "→",
+        "TG 014 TEMPEROS DA JANELA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tem-sintoma-1.jpg",
+          "alt": "Manjericão com as pontas florindo"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "A pimenta",
+        "01",
+        "Antes de plantar",
+        "02",
+        "Colher sem quebrar",
+        "03",
+        "Quatro da janela",
+        "Na próxima: antes de plantar",
+        "→",
+        "TG 014 TEMPEROS DA JANELA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "pimenta-A-1.jpg",
+          "alt": "André com um vaso de pimenta"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "s2-181",
+        "s2-182",
+        "s2-185",
+        "s2-186",
+        "s2-183",
+        "s2-189"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · A PIMENTA",
+        "Antes de plantar",
+        "QUANDO",
+        "No calor",
+        "DE NOVO EM",
+        "Terra nova a cada plantio",
+        "VOCÊ VAI PRECISAR",
+        "Vaso médio",
+        " com terra nova",
+        "Companhia",
+        " de outras pimentas",
+        "Tesoura",
+        " para colher",
+        "Esterco",
+        " pouco, sem exagero",
+        "Paciência",
+        "Sol",
+        " boa parte do dia",
+        "Luva",
+        " contra a capsaicina",
+        "Na próxima: colher sem quebrar",
+        "→",
+        "TG 014 TEMPEROS DA JANELA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "s2-186",
+        "s2-188"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · A PIMENTA",
+        "ATENÇÃO",
+        "O galho da pimenta quebra fácil.",
+        "Puxar ou torcer o fruto quebra o galho, que é frágil.",
+        "Colha sempre com tesoura ou faca.",
+        "FAÇA ASSIM",
+        "Colha verde e a planta segue dando fruto.",
+        "Esperou ficar vermelha? Sai mais doce, mas menos.",
+        "Na próxima: quatro da janela",
+        "→",
+        "TG 014 TEMPEROS DA JANELA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "s2-04",
+        "s2-37",
+        "s2-10",
+        "s2-23",
+        "k9-300"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro da janela",
+        "1",
+        "Manjericão",
+        "Sol pleno e terra úmida.",
+        "2",
+        "Alecrim",
+        "Sol e terra seca.",
+        "3",
+        "Cebolinha",
+        "Corta e volta todo ano.",
+        "4",
+        "Hortelã",
+        "Meia-sombra, vaso só dela.",
+        "CHAVE",
+        "Vaso com furo",
+        "Colha sempre",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 014 TEMPEROS DA JANELA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tem-var-manjericao.jpg",
+          "alt": "Manjericão num vaso"
+        },
+        {
+          "src": "tem-var-alecrim.jpg",
+          "alt": "Alecrim num vaso de barro"
+        },
+        {
+          "src": "tem-var-cebolinha.jpg",
+          "alt": "Touceira de cebolinha"
+        },
+        {
+          "src": "tem-var-hortela.jpg",
+          "alt": "Hortelã num vaso só dela"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "s2-37",
+        "k9-307",
+        "s2-183",
+        "s2-25",
+        "s2-32"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "ALECRIM MORREU",
+        "Foi água demais. Espere a terra secar.",
+        "CEBOLINHA PODRE",
+        "Bulbo encharcado. Ponha areia na terra.",
+        "PIMENTA SEM FRUTO",
+        "Esterco demais. Pegue leve.",
+        "ORÉGANO SEM GOSTO",
+        "Foi mimado. Menos adubo e água.",
+        "DICA DO ANDRÉ",
+        "Salsinha seca perde o sabor. Congele e jogue no fim da sopa.",
+        "Na próxima: um número que impressiona",
+        "→",
+        "TG 014 TEMPEROS DA JANELA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "k9-303",
+        "s2-35"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "60",
+        "VARIEDADES",
+        "de manjericão existem, algumas com cheiro de anis ou de cravo.",
+        "Todas querem a mesma coisa: sol forte e terra úmida.",
+        "E MAIS UMA",
+        "Alecrim, em latim, quer dizer \"orvalho do mar\".",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 014 TEMPEROS DA JANELA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "s2-36",
+        "k9-300",
+        "k9-299",
+        "s2-05",
+        "k9-304",
+        "s2-186",
+        "s2-32"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Ache a janela com mais sol",
+        "Compre muda, não semente",
+        "Hortelã num vaso só dela",
+        "Areia no vaso do alecrim",
+        "Belisque o manjericão",
+        "Colha antes da flor",
+        "Pimenta só com tesoura",
+        "Congele a salsinha que sobrar",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 014 TEMPEROS DA JANELA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se o seu primeiro tempero sair da janela, me conta. E dá uma muda para alguém. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "014",
+        "VOCÊ TEM",
+        "015",
+        "016",
+        "017",
+        "018",
+        "019",
+        "São 14 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 015 FLORIR DE NOVO",
+        "Comente FLORIR no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 014 TEMPEROS DA JANELA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "manjericao-H-1.jpg",
+          "alt": "Retrato do André com ervas colhidas"
+        }
+      ]
+    }
+  ]
+}

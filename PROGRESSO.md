@@ -1,4 +1,16 @@
 # PROGRESSO Terra Gentil
+## FABRICA: LEVA 2 COM 7 LIVROS PRONTOS, TG 012 A TG 018 (31/10/2026, noite)
+Feitos sem parar, todos com 19 paginas, sem estouro, `validar.mjs` ok, previas em `Documents\Terra Gentil\ebooks\TGNNN-previa.pdf` com fotos PROVISORIAS do banco:
+| Livro | Titulo | Palavra (sugestao) |
+|---|---|---|
+| 013 | Tomate no Vaso | TOMATE |
+| 014 | Temperos da Janela (manjericao, alecrim, salsinha, cebolinha, hortela, pimenta) | TEMPERO |
+| 015 | Florir de Novo (Phalaenopsis) | FLORIR |
+| 016 | Cattleya e Dendrobium | CATTLEYA |
+| 017 | Orquidea Doente | CURAR |
+| 018 | Vaso de Orquidea (vaso, casca, placa e tronco; "Muda e Vaso" virou so "Vaso") | VASO |
+Fichas adaptadas: TG 017 e a "orquidea saudavel", TG 018 e "Ficha do vaso" de barro. Fotos provisorias de orquidea repetem entre 015 e 018 (o banco so tem 8). Script novo no scratchpad `sobra.mjs` (lista fatos de um f-ESP.txt ainda nao usados em roteiro); copiar para a fabrica se for usar.
+**Proximo:** TG 019 Agaves e Kalanchoes e 020 Suculenta Pendente (f-suculenta.txt), depois 021 a 027 (plano abaixo). No fim da leva, padronizar "N livros na colecao" em todos. Filas de fotos do Flow do 012 a 018 ainda nao feitas (`filas.mjs`).
 ## FABRICA: SEGUNDA LEVA DE 18 LIVROS INICIADA, TG 012 PRONTO (31/10/2026, noite)
 Pedido do Andre: fazer os ~18 livros que a biblia atual ainda permite (1.140 fatos sobrando) e listar biblias para as folhagens. Lista em `insta-terra-gentil/gama-ebooks/BIBLIAS-PROCURAR.md` (Andre procura no acervo; prioridade: Hessayon House Plant Expert, Lorenzi Plantas Ornamentais no Brasil).
 **Feito:** TG 012 Horta em Vaso (alface, rucula, rabanete, morango; palavra sugerida COLHER, o fechamento ainda diz TOMATE para o 013). Previa em `ebooks\TG012-previa.pdf`, fotos provisorias. Fechamento da leva 2 diz "12 livros": ao terminar a leva, padronizar o numero total em todos.

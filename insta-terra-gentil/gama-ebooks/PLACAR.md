@@ -40,4 +40,11 @@ Nota final = média ponderada (0 a 10). Diferença = nossa nota menos a do Gamma
 
 | Data | Livro | Gamma | Nosso | Diferença | Maior falta |
 |---|---|---|---|---|---|
-| | | | | | |
+| 31/10/2026 | TG 001 Orquídeas (falta o voto do André) | 3,6 (Claude 3,8, Gemini 3,4) | 9,2 (Claude 8,6, Gemini 9,7) | +5,6 | Nosso: caixas de foto vazias (p11, p15), PDF pesado |
+
+Notas da rodada 1: sorteio A=nosso, B=Gamma (chave em `Documents\Terra Gentil\ebooks\placar-r1-chave.txt`).
+O Gamma fez 19 cards, não 20: cortou a Fontes em "ASPCA, lista de" e não fez o fechamento; exportou
+em página quase quadrada (900x771), corpo ilegível no celular. Exportado como está, por decisão do André.
+Para o Gemini o nosso foi comprimido (pypdf, JPEG 75) de 10 MB para 2,3 MB, sem perda visível; o
+Gemini atribuiu por engano as caixas vazias ao B. Os dois críticos pedem: preencher p11 e p15 com
+foto, PDF mais leve (perto de 2 MB) e foto do sintoma de vírus na p14.

@@ -1,10 +1,11 @@
-﻿# PROGRESSO Terra Gentil
-## GAMA-EBOOKS: OS 15 TIPOS DE PAGINA DESENHADOS (31/10/2026, tarde)
+# PROGRESSO Terra Gentil
+## GAMA-EBOOKS: TG 001 ORQUIDEAS COMPLETO NO CANVAS, 20 PAGINAS (31/10/2026, tarde)
 Canvas https://claude.ai/artifact/UNPcwn2C8oAeQERCNG8Vyc ganhou a 2a fileira com 9 paginas do TG 001 Orquideas: sumario (p4), tabela de luz (p7), capitulo de texto "Raiz seca ou raiz afogada?" (p10), erro comum "Folha mole e enrugada?" (p11), voce vai precisar/trocar de vaso (p13), alerta da tesoura e virus (p14), galeria de 4 orquideas (p15), checklist "Comece essa semana" (p18), fechamento com grade da colecao (p20). Todo fato vem do Cullina com pagina (dados/biblia.json, ids c4-*). Fontes em gama-ebooks/canvas/. Mapa do livro de 20 paginas: cap 1 luz (p6), cap 2 rega (p8), cap 3 vaso (p12), cap 4 qual e a sua (p15).
-Linha de fonte tirada de todas as paginas (pedido do Andre; fontes seguem na biblia.json).
+O Andre apontou que o rodape dizia "x DE 20" e so havia 15: feitas as p6 (abertura cap 1), p12 (abertura cap 3, fotos orquidea-D-1 e A-1 do banco), p16 (sinais de que ela esta feliz), p17 (voce sabia, 35 mil especies) e p19 (fontes, unica pagina com as fontes); canvas reordenado 1 a 20 em duas fileiras. Linha de fonte tirada de todas as paginas (pedido do Andre; fontes seguem na biblia.json).
 **FOTOS PARA O FLOW (pedido do Andre 31/10):** 8 fotos (3 gestos do passo a passo, 1 sintoma, 4 variedades) listadas com prompt em `insta-terra-gentil/gama-ebooks/FOTOS-FLOW.md`. Gerar quando o limite do Flow voltar, sem pedir ok; Andre aprova no fim; conferir a especie.
 **Lacunas marcadas no canvas (nao inventar):** fotos acima; palavra-chave PRAGAS do fechamento e sugestao (confirmar com o dm/); faltam os 2 videos reais com QR no fechamento; painel do "voce vai precisar" ficou QUANDO e DE NOVO EM (o livro nao da o TEMPO da troca de vaso).
-**Proximo:** Andre aprova as 15 paginas; depois motor HTML para PDF (gama-ebooks) e 1a rodada do PLACAR (Orquideas: Gamma x nosso).
+**FERRAMENTA FOTOS EBOOK TG:** pedido do Andre, uma por conta do Flow; desenho em 5 rodadas em `gama-ebooks/FERRAMENTA-FOTOS.md`, fila das 8 fotos em `gama-ebooks/fotos/fila-tg001.json`. Ainda nao criada.
+**Proximo:** Andre aprova as 20 paginas; depois motor HTML para PDF (gama-ebooks) e 1a rodada do PLACAR (Orquideas: Gamma x nosso).
 
 ## GAMA-EBOOKS: FABRICA DE EBOOKS INICIADA (31/10/2026)
 Meta do Andre: de 19 para 100 e depois 200 ebooks, melhores que os do Gamma. Pasta `insta-terra-gentil/gama-ebooks/`: README (plano por fases), PLACAR (comparativo cego contra o Gamma, so publica se empatar ou ganhar; cancela o Gamma depois de 3 vitorias), FORMULA-GAMMA (como os livros de 2025 foram feitos: Remix do modelo "00 - Jardim Terapeutico" com o texto inteiro separado por `---`; o que o Agent do Gamma 2026 faz), AUDITORIA (19 livros: nenhum passa de 7, ilegiveis no celular), REFERENCIAS (pesquisa e Guinness medido nos PDFs), REF-RHS (RHS/DK medido) e BRIEF-DESIGN (brief unico: Guinness na capa e nas aberturas, RHS no miolo, Kinfolk no clima; 9:16 1080x1920, corpo 54 px, 14 tipos de pagina).

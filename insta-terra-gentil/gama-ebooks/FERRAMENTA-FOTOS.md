@@ -1,0 +1,60 @@
+# Ferramenta "Fotos Ebook TG" no Google Flow
+
+Gera as fotos do miolo dos ebooks (gesto do passo a passo, sintoma, variedades). Irmã da
+"Capas TG" (`capas/FERRAMENTA-FLOW.md`), com as lições dela já aplicadas. Uma ferramenta por conta
+(Pamela e eng.andrehz): o 2K só baixa na conta que gerou. Criar não gasta crédito; gerar gasta.
+
+## O que muda em relação à Capas TG
+
+| Capas TG | Fotos Ebook TG | Por quê |
+|---|---|---|
+| Prompt inteiro por capa | `estilo` no topo + `cena` curta por foto | Colar a fila custava ~10 mil tokens a cada 3 capas |
+| Elenco em todas | `elenco: true/false` por foto | Planta sozinha não leva o André |
+| Elenco some ao recarregar | Elenco guardado (mediaIds no armazenamento local) | Subir 6 fotos a cada abertura |
+| Sempre 3:4 | `proporcao` por foto (9:16, 3:4, 1:1) | Página inteira x miniatura da galeria |
+| Gemini confere rosto e logo | Confere espécie, mãos e texto; rosto só com elenco | Foto de ebook não tem logo |
+
+## Formato da fila
+
+```json
+{"livro": "TG 001",
+ "estilo": "documentary photo, natural window light, ...",
+ "fotos": [{"id": "orq-gesto-1", "especie": "Phalaenopsis", "proporcao": "9:16",
+            "elenco": true, "cena": "Close-up of ..."}]}
+```
+
+Prompt enviado = `cena` + ". " + `estilo`, exatamente, sem reescrever. Filas em `gama-ebooks/fotos/`.
+
+## Pedido ao Criador, em 5 rodadas (uma por vez; da 2a em diante começa com "Keep everything as it is")
+
+**Rodada 1, base**
+```
+Build a tool called "Fotos Ebook TG": a batch generator of photorealistic photos for the inner pages of gardening ebooks. UI in Brazilian Portuguese, dark theme, dense layout. Input: file input (aria-label "Enviar fila JSON") and textarea (aria-label "Colar fila JSON") with button "Carregar fila". Format: {"livro": "TG 001", "estilo": "...", "fotos": [{"id": "orq-gesto-1", "especie": "Phalaenopsis", "proporcao": "9:16", "elenco": true, "cena": "..."}]}. The prompt for each photo is exactly cena + ". " + estilo, never rewritten, translated or shortened; show it collapsible in the row. One row per photo: checkbox (aria-label "Selecionar <id>"), id, especie, proporcao, elenco yes/no, state. Show "Total N" after loading. Image model always Nano Banana Pro, the row's aspect ratio (or the closest available, show which), highest resolution, ONE image per photo. Button "Gerar selecionadas" shows inside the page (no browser dialog) the list and estimated credits with "Confirmar geracao" and "Cancelar", then runs ONE photo at a time with a 3 second pause. States: pendente, gerando, conferindo, pronta, aviso, falhou. Button "Parar". Save each result with the id as media name.
+```
+
+**Rodada 2, erros**
+```
+Keep everything as it is. On a generation error show the message in the row, wait 20 s with a visible countdown and retry ONCE; on quota or unsafe errors do not retry and mark "falhou" with the reason. If the error is a quota limit, stop the queue and show "Limite do Flow" at the top. "Parar" also cancels a pending retry. Add per row "Gerar de novo <id>" with the same in-page confirmation.
+```
+
+**Rodada 3, elenco**
+```
+Keep everything as it is. Add a panel "Elenco" with ONE person, "Andre": 1 to 6 reference images, from the project (Flow.media.selectMultiple, aria-label "Imagens do projeto Andre") or local files (aria-label "Enviar imagem Andre", Flow.upload). Remember the Elenco media ids in local storage so they are still there when the tool is opened again; button "Limpar elenco". Send the Elenco images as reference images ONLY for photos with "elenco": true; photos with "elenco": false get no reference image.
+```
+
+**Rodada 4, conferência**
+```
+Keep everything as it is. After each image, call Flow.generate.text with the image (plus one Elenco image when elenco is true) and ask Gemini for JSON only: {"planta_certa": bool, "maos_ok": bool, "texto_na_imagem": bool, "rosto_igual": bool or null, "resumo": "short sentence"}. "planta_certa" means it really looks like the species in "especie". rosto_igual is null when elenco is false. Any false (or texto_na_imagem true) marks the row "aviso" with badges PLANTA!, MAOS!, TEXTO!, ROSTO!. Show a thumbnail in the row.
+```
+
+**Rodada 5, saída e automação**
+```
+Keep everything as it is. Per ready row "Baixar <id>" (download once per click, filename "<id>.jpg", in the highest resolution Flow offers, 2K if available). Button "Baixar todas prontas" downloads them one by one. Section "Resultado" with read-only textarea (aria-label "Resultado JSON") always updated with {"livro", "fotos": [{"id", "estado", "media_id", "conferencia", "erro"}], "creditos_gastos"} and button "Baixar resultado". Add a hidden <div id="estado-fotos" data-status="..." data-prontas="N" data-falhas="N" data-gerando="id"> kept up to date, and stable Portuguese aria-labels on every control.
+```
+
+## Estado
+
+| Conta | Ferramenta | Elenco |
+|---|---|---|
+| eng.andrehz | a criar | a subir |
+| Pamela | a criar | a subir |

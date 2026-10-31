@@ -1,9 +1,9 @@
-# PROGRESSO Terra Gentil
+﻿# PROGRESSO Terra Gentil
 ## GAMA-EBOOKS: FABRICA DE EBOOKS INICIADA (31/10/2026)
 Meta do Andre: de 19 para 100 e depois 200 ebooks, melhores que os do Gamma. Pasta `insta-terra-gentil/gama-ebooks/`: README (plano por fases), PLACAR (comparativo cego contra o Gamma, so publica se empatar ou ganhar; cancela o Gamma depois de 3 vitorias), FORMULA-GAMMA (como os livros de 2025 foram feitos: Remix do modelo "00 - Jardim Terapeutico" com o texto inteiro separado por `---`; o que o Agent do Gamma 2026 faz), AUDITORIA (19 livros: nenhum passa de 7, ilegiveis no celular), REFERENCIAS (pesquisa e Guinness medido nos PDFs), REF-RHS (RHS/DK medido) e BRIEF-DESIGN (brief unico: Guinness na capa e nas aberturas, RHS no miolo, Kinfolk no clima; 9:16 1080x1920, corpo 54 px, 14 tipos de pagina).
 **URGENTE, decisao do Andre pendente:** livro 10 (Pets) diz que hortela e oregano sao seguros para pets (a ASPCA lista como toxicos); livro 18 tem depoimentos inventados (p19). Os dois estao no direct hoje: tirar do ar ou corrigir.
 **Pendente:** arquivo da logo com o laranja certo (o #E8761E e provisorio). Gamma: 12.000 creditos; copia renovada pelo Agent em gamma.app/docs/77h85743t91bwt0 (original intacto).
-**Claude Design FEITO (1a leva, 31/10):** canvas https://claude.ai/artifact/UNPcwn2C8oAeQERCNG8Vyc com 6 paginas do TG 001 Orquideas (capa com cor da serie ajustavel, carta, resultado rapido, abertura de capitulo, ficha com 6 icones e selo pet, passo a passo), fatos reais da biblia com fonte, fotos orquidea F/G/H do banco. Fontes do canvas no scratchpad (canvas-ebook/project). Faltam 8 tipos: sumario, capitulo de texto, voce vai precisar, erro comum, tabela, alerta, galeria, checklist, fechamento. Andre aprova o visual antes.
+**Claude Design FEITO (1a leva, 31/10):** canvas https://claude.ai/artifact/UNPcwn2C8oAeQERCNG8Vyc com 6 paginas do TG 001 Orquideas (capa com cor da serie ajustavel, carta, resultado rapido, abertura de capitulo, ficha com 6 icones e selo pet, passo a passo), fatos reais da biblia com fonte, fotos orquidea F/G/H do banco. Fontes do canvas no scratchpad (canvas-ebook/project). Faltam 8 tipos: sumario, capitulo de texto, voce vai precisar, erro comum, tabela, alerta, galeria, checklist, fechamento. Andre aprovou juntar com a versao do agente do Claude Design web (claude.ai/design/p/d445c6e4-ec4b-42ec-8902-704b79df21f4): FUSAO FEITA nas 6 paginas (selo redondo TG 001, missao na carta, rodape "Na proxima: ..." e "x DE 20", painel QUANDO/TEMPO/PRECISA). Fontes do canvas salvas em gama-ebooks/canvas/. Falta: foto por passo (como no dele) e os 8 tipos restantes.
 **Proximo passo (antigo):** levar BRIEF-DESIGN.md ao Claude Design (web) para o sistema visual e os 14 tipos de pagina com o texto do Orquideas sem Medo; Andre aprova; depois primeira rodada do PLACAR (Orquideas no Gamma e no nosso molde). Livros novos: Orquideas, Pragas sem Veneno, Terra Viva, Cactos e Babosa, Regar e Trocar de Vaso, O Mato que Ensina.
 **Limpeza do HD (30/10):** 52,7 para 120 GB livres; backup em `G:\Meu Drive\Backup PC 2026-10-30\`. `C:\Gitlab_hz\pearljam\setlists-pj-ev` tem 650 commits sem push.
 
@@ -550,4 +550,5 @@ Comando pra continuar:
 `cd C:\Gitlab_hz\terra-gentil-site\terra-gentil && claude`
 Depois: "le o PROGRESSO.md e continua a varredura mobile das paginas
 restantes".
+
 

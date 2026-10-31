@@ -36,6 +36,10 @@
       "sha256": "0bd896ab82012bc3932b178ba13d5d09a20c3f590c248a2e0ac1c0a9c812551a",
       "data": "2026-10-31"
     },
+    "agave-H-1": {
+      "status": "pendente",
+      "sha256": "44108b641a154295b6b8690350c29e0911c816e6e78ec97e0b239c7e0fb98714"
+    },
     "alecrim-A-1": {
       "status": "aprovada",
       "sha256": "2138a522a710fab7ece183d1d561491626d54f367bdd607cb3e5bfdf02c4faab",
@@ -228,6 +232,10 @@
       "sha256": "5fbe1272af896c48a0ee61bd5431653837ad28a0a7db348264d883b92041d2e6",
       "data": "2026-10-31"
     },
+    "bambu-da-sorte-G-1": {
+      "status": "pendente",
+      "sha256": "bf9a197c7e7d98df8b65357b1ce68d2d1e99dd70fe322bab5cbb7d5e41970896"
+    },
     "bambu-da-sorte-H-1": {
       "status": "aprovada",
       "sha256": "373416db4aafddb1efd3fa94432501caab34e554bd849e27ba1fe7aeea0d5203",
@@ -345,6 +353,10 @@
       "sha256": "e48fdf639afcd562b7df96523699971f29212f089fde6ecb8b91a50a70caabd8",
       "data": "2026-10-31"
     },
+    "buganvilia-G-1": {
+      "status": "pendente",
+      "sha256": "367a6f4101e6b796f7801b95231b7ab2b549e60e0a2f6b2a77c68bbe3654ebe7"
+    },
     "buganvilia-H-1": {
       "status": "aprovada",
       "sha256": "319a85473f5b161fa611a74636ef1db08185b6278bc1e59f242390bae64cf609",
@@ -422,6 +434,10 @@
       "sha256": "7d3caf50c18fc74b2e324729b3763752dca723cc7324c997bb72906d6220f0ad",
       "data": "2026-10-31"
     },
+    "catleia-G-1": {
+      "status": "pendente",
+      "sha256": "c3ebc19838b056a5506e9b6ffb9a7a127405f8b19e162acd20dda3c63ef7bf55"
+    },
     "catleia-H-1": {
       "status": "aprovada",
       "sha256": "6b65c68b9fab5270c5114ab4910d971ef7f6edb0239bc7a5bb2e10486f28bb5e",
@@ -457,6 +473,10 @@
       "sha256": "a3e5aeec78cb4b2b58fb01315c135d381cf9ce1ed80dcc1fa6fb56c5bb67c5c9",
       "data": "2026-10-31"
     },
+    "cebolinha-G-1": {
+      "status": "pendente",
+      "sha256": "046c5b6984736759e240692d15a1df800538d14628c9d4913ee0a6bcb430707b"
+    },
     "cebolinha-H-1": {
       "status": "aprovada",
       "sha256": "ad48d036e57b9b73a1b04b8e3e3723074362619e1653a878c715992c195691b3",
@@ -486,6 +506,10 @@
       "status": "aprovada",
       "sha256": "91c1c84d39b7a8d3fb4db98b924f9a2add8a1d0b7ae39e2f2c96023ea1cc40e7",
       "data": "2026-10-31"
+    },
+    "chuva-de-ouro-F-1": {
+      "status": "pendente",
+      "sha256": "8b12f1406ed4a5617585f25d554a71493133d2a88c34561595f70e13616146f0"
     },
     "chuva-de-ouro-G-1": {
       "status": "aprovada",
@@ -531,6 +555,10 @@
       "status": "aprovada",
       "sha256": "c790c284783f6c1168cb6c6ae4136e9d75f519154e449bd8cac6dc27a6fe0c34",
       "data": "2026-10-31"
+    },
+    "colar-de-perolas-H-1": {
+      "status": "pendente",
+      "sha256": "d5bde62930d21bc56266e5742978e4be3d72fa08d4f5a48adc7b36cfd12378df"
     },
     "comigo-ninguem-pode-A-1": {
       "status": "aprovada",
@@ -654,6 +682,10 @@
       "sha256": "c98b080cb34934b0ac8c97a7b848c03d40fc417a8072927999eea25e166f6d79",
       "data": "2026-10-31"
     },
+    "coringa-ferramentas-G-1": {
+      "status": "pendente",
+      "sha256": "feb5449930f45b013d1e5741d4114bf76344550811f60de25f83d8b3297b7c0f"
+    },
     "coringa-ferramentas-H-1": {
       "status": "aprovada",
       "sha256": "4eb6bd3e782e98297b1211d9717a505063d7de3b06d8226de0db8f411169af24",
@@ -678,6 +710,10 @@
       "status": "aprovada",
       "sha256": "b4b03bace129952762aeecf69da8eb8a853c79a95e75fe10b3c60eb3e381faa7",
       "data": "2026-10-31"
+    },
+    "coringa-gramado-G-1": {
+      "status": "pendente",
+      "sha256": "ad5a4593fff5f694ea25cde57f45a8c24e51dbdcd8544d7a08d209dcb4839b8c"
     },
     "coringa-gramado-H-1": {
       "status": "aprovada",
@@ -759,6 +795,14 @@
       "sha256": "dbd5fd002fc3ab612cff762999fa8feeba2109342a4e6ed90d83d4ec0fa1cb4c",
       "data": "2026-10-31"
     },
+    "coringa-luz-F-1": {
+      "status": "pendente",
+      "sha256": "1d1a14717b9de8688cdc1e4ecb3aa338b69f8ac3320928c62b43fcd6d921f102"
+    },
+    "coringa-luz-G-1": {
+      "status": "pendente",
+      "sha256": "ea6e62fab5c3dd16758a56bb4eb80ca2e77264111ad8d3c95f89987028ada92b"
+    },
     "coringa-luz-H-1": {
       "status": "aprovada",
       "sha256": "39c35845f030dab4030b93542c5f5f094f2799550be5b8101296f66adc40681b",
@@ -780,10 +824,8 @@
       "data": "2026-10-31"
     },
     "coringa-mato-F-1": {
-      "status": "reprovada",
-      "sha256": "24a960421a98be0ad61903c75b7df3d1e85e626ead8be5c449d41010aeaaa737",
-      "data": "2026-10-30",
-      "motivo": "Andre: fora (print 30/10)"
+      "status": "pendente",
+      "sha256": "87e2e09d47851f1ccf3e8e44b57497d79bf11c0b1dbc119c593b8bd727946e15"
     },
     "coringa-mato-G-1": {
       "status": "aprovada",
@@ -865,6 +907,14 @@
       "status": "aprovada",
       "sha256": "6add9594c079b7559e8eb48a55b1d6ad1f1077ed9ae12cdaa8d3c6fc2159ef1c",
       "data": "2026-10-31"
+    },
+    "coringa-podar-F-1": {
+      "status": "pendente",
+      "sha256": "56f8c2856a402cd1603a8d1e1ae42e18f22830f50148d00b51c85c71d6f30cf3"
+    },
+    "coringa-podar-G-1": {
+      "status": "pendente",
+      "sha256": "0e2290f3316b7c81f2dd05f18172a026c36bcaef33c355939b7881f8fc767630"
     },
     "coringa-podar-H-1": {
       "status": "aprovada",
@@ -980,6 +1030,10 @@
       "status": "aprovada",
       "sha256": "d8b21e89f57a04c7bf203a024100579f44e404418b3bc14c091297c456dee954",
       "data": "2026-10-31"
+    },
+    "coringa-trocar-vaso-H-1": {
+      "status": "pendente",
+      "sha256": "12e41d0c53592c6953fa8a5a9a4e3b7edc7f1359f67182cc451576c43fc275de"
     },
     "costela-de-adao-A-1": {
       "status": "aprovada",
@@ -2148,10 +2202,8 @@
       "data": "2026-10-31"
     },
     "tomate-G-1": {
-      "status": "reprovada",
-      "sha256": "02e7d02574cc574d58cde1b8c2302a64213cd40da6c4778f9f867c7cc95e47f5",
-      "data": "2026-10-30",
-      "motivo": "Andre: fora, dois homens (print 30/10)"
+      "status": "pendente",
+      "sha256": "0bf48a9c3ac4cc7d4725f5ff176ef43e5b690d3329f89fe021db100051c8aa74"
     },
     "tomate-H-1": {
       "status": "aprovada",
@@ -2187,6 +2239,14 @@
       "status": "aprovada",
       "sha256": "bd21e5d67e5c96a610954708e220de475f64b7f3d81c72d64c18fdb4c5cedff9",
       "data": "2026-10-31"
+    },
+    "vanda-G-1": {
+      "status": "pendente",
+      "sha256": "e1c3c265aff119ad886ee14a692527c35e032112a84fe7e955398e0ec9c78ce6"
+    },
+    "vanda-H-1": {
+      "status": "pendente",
+      "sha256": "d98528f895f7bd5747da44b00be83fb58d4392648f5b1cedc18101f9b54795b4"
     },
     "violeta-A-1": {
       "status": "aprovada",

@@ -56,7 +56,7 @@ Keep everything as it is. Per ready row "Baixar <id>" (download once per click, 
 
 | Conta | Ferramenta | Elenco |
 |---|---|---|
-| eng.andrehz | CRIADA 31/10, `/project/db0dc6c0-4e26-452d-9c3d-bbfa4ac6f70d/tool/7fab2c63-e6ed-49c5-b319-30466abdbdd8`, fixada na barra; fila de 8 testada (Total 8) | a subir |
+| eng.andrehz | CRIADA 31/10, `/project/db0dc6c0-4e26-452d-9c3d-bbfa4ac6f70d/tool/7fab2c63-e6ed-49c5-b319-30466abdbdd8`, fixada na barra; fila de 8 testada (Total 8); painel Mascote e campo `mascote` (rodadas 6 e 7, 31/10 tarde) | Gentileza subido no projeto como `image.png`; Elenco (4 fotos) e Mascote escolhidos pela "Imagem do projeto" (ctrl+clique marca varias), mas **somem ao recarregar a pagina** nesta conta: montar de novo antes de cada geracao |
 | Pamela (u/5) | CRIADA 31/10, `/u/5/project/9a9b36e1-8266-4dd7-8245-c86cc2a40829/tool/d39226f8-3f50-4ca3-8fc3-29158da6a89e`, fixada; icones trocados por SVG na rodada 5; fila de 8 testada; painel Mascote e campo `mascote` (rodadas 6 e 7, 31/10) | 4 fotos do Andre (andre-rua-1/2, bone, camiseta) + Mascote: Gentileza acenando, salvos |
 
 Licoes da criacao (31/10): na tela de Criar ferramenta da Pamela o clique pela ref perdeu o texto, o clique por coordenada no campo funcionou (o contrario da conta eng.andrehz); enviar pela seta. Na caixa da fila, ctrl+a e ctrl+v na mesma chamada viram a letra 'a': mandar ctrl+a, Delete e ctrl+v em chamadas separadas. A fila vai pelo clipboard (Set-Clipboard).
@@ -68,7 +68,13 @@ Rodadas 6 e 7 na Pamela (pedido unico longo deu "Algo deu errado"; em duas curta
 "Mascote: Gentileza" abaixo do Elenco e campo `"mascote": true` na fila. A foto marcada recebe a
 imagem do Gentileza como referencia e o sufixo: boneco de plastico impresso em 3D, pequeno, desfocado,
 numa prateleira ou janela; a planta segue como assunto. Teste: orq-gesto-1 saiu com o boneco discreto
-na prateleira do fundo. Falta repetir as rodadas 6 e 7 na conta eng.andrehz.
+na prateleira do fundo. Rodadas 6 e 7 repetidas na conta eng.andrehz (31/10 tarde), com estes textos:
+```
+Keep everything as it is. Add a panel "Mascote: Gentileza" right below the Elenco panel: ONE reference image of the mascot, from the project (Flow.media.selectMultiple, aria-label "Imagens do projeto Mascote") or a local file (aria-label "Enviar imagem Mascote", Flow.upload). Show its thumbnail, remember its media id in local storage so it is still there when the tool is opened again, and add a button "Limpar mascote".
+```
+```
+Keep everything as it is. Add an optional field "mascote": true per photo in the queue and show it in the row (mascote yes/no). For photos with "mascote": true, also send the Mascote image as a reference image and append to the prompt: ". A small 3D-printed plastic figurine of the mascot from the reference image appears as a tiny, slightly out-of-focus detail on a shelf or windowsill in the background; the plant stays the main subject." Photos without mascote stay exactly as before.
+```
 **Subir imagem sem janela do Windows:** copiar a imagem para a area de transferencia
 (`[System.Windows.Forms.Clipboard]::SetImage` em `powershell -STA`) e dar ctrl+v na caixa
 "O que voce quer criar?" da pagina do projeto: ela entra na galeria (Imagens/Envios). Depois tirar o

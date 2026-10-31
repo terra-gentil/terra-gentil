@@ -135,6 +135,25 @@
       "origem": "agave-G-1.jpg"
     },
     {
+      "id": "agave-H-1",
+      "arquivo": "agave/agave-H-1.jpg",
+      "slug": "agave",
+      "especie": "Agave attenuata",
+      "nome": "agave",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "agave",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "agave-H-1.jpg"
+    },
+    {
       "id": "alecrim-A-1",
       "arquivo": "alecrim/alecrim-A-1.jpg",
       "slug": "alecrim",
@@ -857,6 +876,25 @@
       "origem": "bambu-da-sorte-F-1.jpg"
     },
     {
+      "id": "bambu-da-sorte-G-1",
+      "arquivo": "bambu-da-sorte/bambu-da-sorte-G-1.jpg",
+      "slug": "bambu-da-sorte",
+      "especie": "Dracaena sanderiana",
+      "nome": "bambu-da-sorte",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "bambu-da-sorte",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "bambu-da-sorte-G-1.jpg"
+    },
+    {
       "id": "bambu-da-sorte-H-1",
       "arquivo": "bambu-da-sorte/bambu-da-sorte-H-1.jpg",
       "slug": "bambu-da-sorte",
@@ -1294,6 +1332,25 @@
       "origem": "buganvilia-F-1.jpg"
     },
     {
+      "id": "buganvilia-G-1",
+      "arquivo": "buganvilia/buganvilia-G-1.jpg",
+      "slug": "buganvilia",
+      "especie": "Bougainvillea glabra",
+      "nome": "buganvília",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "buganvilia",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "buganvilia-G-1.jpg"
+    },
+    {
       "id": "buganvilia-H-1",
       "arquivo": "buganvilia/buganvilia-H-1.jpg",
       "slug": "buganvilia",
@@ -1579,6 +1636,25 @@
       "origem": "catleia-F-1.jpg"
     },
     {
+      "id": "catleia-G-1",
+      "arquivo": "catleia/catleia-G-1.jpg",
+      "slug": "catleia",
+      "especie": "Cattleya labiata",
+      "nome": "catleia",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "catleia",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "catleia-G-1.jpg"
+    },
+    {
       "id": "catleia-H-1",
       "arquivo": "catleia/catleia-H-1.jpg",
       "slug": "catleia",
@@ -1712,6 +1788,25 @@
       "origem": "cebolinha-F-1.jpg"
     },
     {
+      "id": "cebolinha-G-1",
+      "arquivo": "cebolinha/cebolinha-G-1.jpg",
+      "slug": "cebolinha",
+      "especie": "Allium fistulosum",
+      "nome": "cebolinha",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "cebolinha",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "cebolinha-G-1.jpg"
+    },
+    {
       "id": "cebolinha-H-1",
       "arquivo": "cebolinha/cebolinha-H-1.jpg",
       "slug": "cebolinha",
@@ -1824,6 +1919,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "chuva-de-ouro-E-1.jpg"
+    },
+    {
+      "id": "chuva-de-ouro-F-1",
+      "arquivo": "chuva-de-ouro/chuva-de-ouro-F-1.jpg",
+      "slug": "chuva-de-ouro",
+      "especie": "Oncidium varicosum",
+      "nome": "chuva-de-ouro",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "chuva-de-ouro",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "chuva-de-ouro-F-1.jpg"
     },
     {
       "id": "chuva-de-ouro-G-1",
@@ -1995,6 +2109,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "colar-de-perolas-G-1.jpg"
+    },
+    {
+      "id": "colar-de-perolas-H-1",
+      "arquivo": "colar-de-perolas/colar-de-perolas-H-1.jpg",
+      "slug": "colar-de-perolas",
+      "especie": "Curio rowleyanus",
+      "nome": "colar-de-pérolas",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "colar-de-perolas",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "colar-de-perolas-H-1.jpg"
     },
     {
       "id": "comigo-ninguem-pode-A-1",
@@ -2453,6 +2586,25 @@
       "origem": "coringa-ferramentas-F-1.jpg"
     },
     {
+      "id": "coringa-ferramentas-G-1",
+      "arquivo": "coringa-ferramentas/coringa-ferramentas-G-1.jpg",
+      "slug": "coringa-ferramentas",
+      "especie": "coringa-ferramentas",
+      "nome": "ferramentas",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "coringa-ferramentas",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-ferramentas-G-1.jpg"
+    },
+    {
       "id": "coringa-ferramentas-H-1",
       "arquivo": "coringa-ferramentas/coringa-ferramentas-H-1.jpg",
       "slug": "coringa-ferramentas",
@@ -2546,6 +2698,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "coringa-gramado-F-1.jpg"
+    },
+    {
+      "id": "coringa-gramado-G-1",
+      "arquivo": "coringa-gramado/coringa-gramado-G-1.jpg",
+      "slug": "coringa-gramado",
+      "especie": "coringa-gramado",
+      "nome": "gramado",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "coringa-gramado",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-gramado-G-1.jpg"
     },
     {
       "id": "coringa-gramado-H-1",
@@ -2852,6 +3023,44 @@
       "origem": "coringa-luz-C-1.jpg"
     },
     {
+      "id": "coringa-luz-F-1",
+      "arquivo": "coringa-luz/coringa-luz-F-1.jpg",
+      "slug": "coringa-luz",
+      "especie": "coringa-luz",
+      "nome": "luz",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "coringa-luz",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-luz-F-1.jpg"
+    },
+    {
+      "id": "coringa-luz-G-1",
+      "arquivo": "coringa-luz/coringa-luz-G-1.jpg",
+      "slug": "coringa-luz",
+      "especie": "coringa-luz",
+      "nome": "luz",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "coringa-luz",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-luz-G-1.jpg"
+    },
+    {
       "id": "coringa-luz-H-1",
       "arquivo": "coringa-luz/coringa-luz-H-1.jpg",
       "slug": "coringa-luz",
@@ -2926,6 +3135,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "coringa-mato-C-1.jpg"
+    },
+    {
+      "id": "coringa-mato-F-1",
+      "arquivo": "coringa-mato/coringa-mato-F-1.jpg",
+      "slug": "coringa-mato",
+      "especie": "coringa-mato",
+      "nome": "mato e terreno",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "coringa-mato",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-mato-F-1.jpg"
     },
     {
       "id": "coringa-mato-G-1",
@@ -3230,6 +3458,44 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "coringa-podar-C-1.jpg"
+    },
+    {
+      "id": "coringa-podar-F-1",
+      "arquivo": "coringa-podar/coringa-podar-F-1.jpg",
+      "slug": "coringa-podar",
+      "especie": "coringa-podar",
+      "nome": "podar",
+      "cenario": "F",
+      "cenarioNome": "retrato",
+      "tags": [
+        "coringa-podar",
+        "retrato",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-podar-F-1.jpg"
+    },
+    {
+      "id": "coringa-podar-G-1",
+      "arquivo": "coringa-podar/coringa-podar-G-1.jpg",
+      "slug": "coringa-podar",
+      "especie": "coringa-podar",
+      "nome": "podar",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "coringa-podar",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-podar-G-1.jpg"
     },
     {
       "id": "coringa-podar-H-1",
@@ -3667,6 +3933,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "coringa-trocar-vaso-F-1.jpg"
+    },
+    {
+      "id": "coringa-trocar-vaso-H-1",
+      "arquivo": "coringa-trocar-vaso/coringa-trocar-vaso-H-1.jpg",
+      "slug": "coringa-trocar-vaso",
+      "especie": "coringa-trocar-vaso",
+      "nome": "trocar de vaso",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "coringa-trocar-vaso",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-trocar-vaso-H-1.jpg"
     },
     {
       "id": "costela-de-adao-A-1",
@@ -8020,6 +8305,25 @@
       "origem": "tomate-F-1.jpg"
     },
     {
+      "id": "tomate-G-1",
+      "arquivo": "tomate/tomate-G-1.jpg",
+      "slug": "tomate",
+      "especie": "Solanum lycopersicum",
+      "nome": "tomate",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "tomate",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "tomate-G-1.jpg"
+    },
+    {
       "id": "tomate-H-1",
       "arquivo": "tomate/tomate-H-1.jpg",
       "slug": "tomate",
@@ -8151,6 +8455,44 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "vanda-F-1.jpg"
+    },
+    {
+      "id": "vanda-G-1",
+      "arquivo": "vanda/vanda-G-1.jpg",
+      "slug": "vanda",
+      "especie": "Vanda coerulea",
+      "nome": "vanda",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "vanda",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "vanda-G-1.jpg"
+    },
+    {
+      "id": "vanda-H-1",
+      "arquivo": "vanda/vanda-H-1.jpg",
+      "slug": "vanda",
+      "especie": "Vanda coerulea",
+      "nome": "vanda",
+      "cenario": "H",
+      "cenarioNome": "luz da tarde",
+      "tags": [
+        "vanda",
+        "luz da tarde",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "vanda-H-1.jpg"
     },
     {
       "id": "violeta-A-1",

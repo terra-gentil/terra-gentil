@@ -1,0 +1,557 @@
+{
+  "livro": "TG 002",
+  "titulo": "Pragas sem Veneno",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "002",
+        "COLEÇÃO TERRA GENTIL",
+        "CUIDADO",
+        "Pragas sem Veneno",
+        "Bicho fora, sem passar veneno.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-praga-A-1.jpg",
+          "alt": "André olhando uma folha com praga"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "s2-43",
+        "s2-44"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Muita gente me conta que viu um bicho na planta e correu comprar veneno.",
+        "Calma. A praga é um aviso: ela prefere a planta que já está fraca.",
+        "Aqui eu te mostro como descobrir quem é o bicho e tirar sem veneno.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Olhe embaixo das folhas de uma planta.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o primeiro remédio é água",
+        "→",
+        "TG 002 PRAGAS SEM VENENO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-praga-B-1.jpg",
+          "alt": "André cuidando de uma planta com praga"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "s2-79",
+        "k9-098",
+        "s2-80",
+        "k9-104"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Achou pulgão? Comece com um jato d'água.",
+        "Vire o vaso e dê um jato d'água embaixo das folhas. Tire todos, senão eles voltam.",
+        "O TESTE DO PAPEL BRANCO",
+        "Folha pálida, cheia de pontinhos? Bata a folha sobre um papel branco. Se os pontinhos andarem, é ácaro.",
+        "Antes de qualquer remédio, confira se o bicho está mesmo fazendo estrago.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 002 PRAGAS SEM VENENO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do pulgão",
+        "06",
+        "CAPÍTULO 1",
+        "Quem é o bicho?",
+        "08",
+        "CAPÍTULO 2",
+        "Tirar sem veneno",
+        "12",
+        "CAPÍTULO 3",
+        "Os aliados do jardim",
+        "15",
+        "CAPÍTULO 4",
+        "De perto, sem confusão",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Formiga na planta? Vá para a página 11.",
+        "Na próxima: conheça o pulgão",
+        "→",
+        "TG 002 PRAGAS SEM VENENO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "q3-50",
+        "s2-77",
+        "s2-78",
+        "k9-098"
+      ],
+      "textos": [
+        "FICHA DO BICHO",
+        "Pulgão",
+        "A praga número um da planta de casa",
+        "ONDE",
+        "No broto e embaixo da folha nova",
+        "COMO É",
+        "Forma de pera, quase sempre verde",
+        "SINAL",
+        "Folha nova deformada e melado doce",
+        "QUANDO",
+        "No calor ele se multiplica muito rápido",
+        "DIFICULDADE",
+        "Fácil, se pegar no começo",
+        "VENENO",
+        "ZERO",
+        "Água, mão e joaninha resolvem",
+        "Na próxima: quem é o bicho?",
+        "→",
+        "TG 002 PRAGAS SEM VENENO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Quem é o bicho?",
+        "01",
+        "Os quatro mais comuns",
+        "02",
+        "Praga ou doença?",
+        "03",
+        "Por que ela apareceu",
+        "Na próxima: quem está na sua planta",
+        "→",
+        "TG 002 PRAGAS SEM VENENO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-praga-C-1.jpg",
+          "alt": "André examinando as folhas de perto"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "s2-77",
+        "k9-090",
+        "q3-54",
+        "s2-85",
+        "k9-106",
+        "q3-33"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · QUEM É?",
+        "Quem está na sua planta?",
+        "BICHO",
+        "COMO É",
+        "ONDE",
+        "Pulgão",
+        "Verde",
+        "Broto novo",
+        "Cochonilha",
+        "Branca",
+        "Caule",
+        "Ácaro",
+        "Pontinho",
+        "Verso da folha",
+        "Mosca-branca",
+        "Branca",
+        "Voa ao mexer",
+        "Praga é bicho, com perninha. Doença é fungo, bactéria ou vírus. O remédio de um não serve para o outro.",
+        "DICA DO ANDRÉ",
+        "Ácaro gosta de ar seco. Borrifar água com frequência ajuda a afastar.",
+        "Na próxima: tirar sem veneno",
+        "→",
+        "TG 002 PRAGAS SEM VENENO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Tirar sem veneno",
+        "01",
+        "Pulgão no broto: o passo a passo",
+        "02",
+        "Por que não usar veneno",
+        "03",
+        "Formiga subindo na planta",
+        "Na próxima: pulgão no broto",
+        "→",
+        "TG 002 PRAGAS SEM VENENO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-regar-A-1.jpg",
+          "alt": "André regando as plantas da horta"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "s2-77",
+        "s2-79",
+        "s2-67"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Pulgão no broto? Faça assim.",
+        "QUANDO",
+        "Achou pulgão",
+        "TEMPO",
+        "10 minutos",
+        "PRECISA",
+        "Água e um pote",
+        "1",
+        "OLHE EMBAIXO",
+        "Procure no broto e no verso da folha nova.",
+        "2",
+        "JATO D'ÁGUA",
+        "Vaso virado, jato embaixo das folhas.",
+        "3",
+        "CATE O RESTO",
+        "No pote com água e um pouco de detergente.",
+        "DICA DO ANDRÉ",
+        "De manhã cedo é a melhor hora de catar bicho. Tire todos, senão eles voltam.",
+        "Na próxima: por que não usar veneno",
+        "→",
+        "TG 002 PRAGAS SEM VENENO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "pra-gesto-1.jpg",
+          "alt": "Mão virando a folha e mostrando pulgões no verso"
+        },
+        {
+          "src": "pra-gesto-2.jpg",
+          "alt": "Jato d'água embaixo das folhas de um vaso inclinado"
+        },
+        {
+          "src": "pra-gesto-3.jpg",
+          "alt": "Mão jogando bichinhos num pote com água"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "s2-76",
+        "s2-71",
+        "f11-04",
+        "a8-228",
+        "s2-48"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · SEM VENENO",
+        "Por que não usar veneno?",
+        "O veneno da praga mata também a joaninha, a abelha e a minhoca.",
+        "Veneno natural ainda é veneno: piretro e rotenona são tão ruins quanto os de fábrica.",
+        "E o pulgão aprende: quem sobrevive ao inseticida tem filhotes resistentes.",
+        "Praga é aviso. Pergunte o que deixou ela se espalhar, não só como matar.",
+        "O susto: folha furada não é tragédia. No tomateiro adulto, incomoda mais o dono que a planta.",
+        "Na próxima: formiga subindo na planta",
+        "→",
+        "TG 002 PRAGAS SEM VENENO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "k9-091",
+        "q3-50",
+        "s2-79"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Formiga subindo na planta?",
+        "1",
+        "O QUE PARECE",
+        "A formiga está comendo a planta.",
+        "O QUE PODE SER",
+        "Pulgão ou cochonilha, que a formiga cria.",
+        "COMO RESOLVER",
+        "Formiga comum não come a planta. Olhe no broto e embaixo das folhas: pulgão sai com jato d'água, cochonilha catando à mão.",
+        "Na próxima: os aliados do jardim",
+        "→",
+        "TG 002 PRAGAS SEM VENENO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "pra-sintoma-1.jpg",
+          "alt": "Formigas andando entre pulgões num broto"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Os aliados do jardim",
+        "01",
+        "Monte o seu time",
+        "02",
+        "Não mate a larva da joaninha",
+        "03",
+        "O sapo, campeão da horta",
+        "Na próxima: monte o seu time",
+        "→",
+        "TG 002 PRAGAS SEM VENENO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-A-1.jpg",
+          "alt": "André na horta"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "s2-61",
+        "k9-319",
+        "k9-318",
+        "k9-317",
+        "s2-64",
+        "k9-316"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · OS ALIADOS",
+        "Monte o seu time",
+        "QUANDO",
+        "Antes de a praga aparecer",
+        "DE NOVO EM",
+        "Quando o tagetes morrer",
+        "VOCÊ VAI PRECISAR",
+        "Telha ou vaso de barro",
+        ", de boca para baixo: a casa do sapo",
+        "Pedras",
+        " para calçar a telha",
+        "Cravo-de-defunto",
+        " (tagetes): o pulgão odeia o cheiro",
+        "Capuchinha",
+        " como isca para as borboletas",
+        "Boldinho contra formiga",
+        "Flores",
+        " para atrair joaninha",
+        "Sementes",
+        ": tagetes e capuchinha vivem pouco",
+        "Na próxima: não mate a larva da joaninha",
+        "→",
+        "TG 002 PRAGAS SEM VENENO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "s2-63",
+        "s2-62",
+        "s2-64",
+        "s2-66"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · OS ALIADOS",
+        "ATENÇÃO",
+        "Não mate a larva da joaninha.",
+        "Bicho preto com pintas laranja, cara de jacaré pequeno: é a larva da joaninha. Ela come de 50 a 60 pulgões por dia.",
+        "Joaninha comprada aos milhares limpa o pulgão e vai embora.",
+        "FAÇA ASSIM",
+        "Atraia as joaninhas com flores e deixe elas morarem no jardim.",
+        "Louva-a-deus não é tão aliado: come pouco e pega abelha tanto quanto praga.",
+        "Na próxima: os quatro mais comuns",
+        "→",
+        "TG 002 PRAGAS SEM VENENO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "s2-79",
+        "k9-090",
+        "q3-33",
+        "k9-096",
+        "n10-80"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Os quatro mais comuns",
+        "1",
+        "Pulgão",
+        "Jato d'água e joaninha por perto.",
+        "2",
+        "Cochonilha",
+        "Branca de algodão ou casquinha.",
+        "3",
+        "Ácaro",
+        "Gosta de ar seco. Borrife água com frequência.",
+        "4",
+        "Mosca-branca",
+        "Armadilha amarela com cola pega.",
+        "CHAVE",
+        "Suga a seiva",
+        "Solta melado",
+        "Na próxima: praga ou doença?",
+        "→",
+        "TG 002 PRAGAS SEM VENENO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "pra-var-pulgao.jpg",
+          "alt": "Pulgões verdes num broto"
+        },
+        {
+          "src": "pra-var-cochonilha.jpg",
+          "alt": "Cochonilha branca farinhenta num caule"
+        },
+        {
+          "src": "pra-var-acaro.jpg",
+          "alt": "Teia fina de ácaro no verso de uma folha"
+        },
+        {
+          "src": "pra-var-mosca-branca.jpg",
+          "alt": "Moscas-brancas no verso de uma folha"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "n10-89",
+        "k9-109",
+        "k9-106"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Praga ou doença?",
+        "PÓ BRANCO",
+        "Em manchas redondas: é oídio, um fungo.",
+        "PÓ COR DE FERRUGEM",
+        "Amarelo a avermelhado: é ferrugem.",
+        "MANCHA ESCURA",
+        "Redonda e crescendo: é antracnose.",
+        "PODRIDÃO MOLE",
+        "Com mau cheiro: é bactéria.",
+        "DICA DO ANDRÉ",
+        "Praga tem perninha, doença não. Remédio de uma não serve para a outra.",
+        "Na próxima: um número que impressiona",
+        "→",
+        "TG 002 PRAGAS SEM VENENO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "s2-60",
+        "s2-61",
+        "n10-84"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "ATÉ",
+        "15 MIL",
+        "pragas comidas por um sapo em um ano.",
+        "Ele caça lesma e lagarta à noite. Uma telha virada num canto sossegado da horta já vira a casa dele.",
+        "E MAIS UMA",
+        "A saúva não come a folha que corta: usa como canteiro para o fungo que é a comida dela.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 002 PRAGAS SEM VENENO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "s2-68",
+        "k9-108",
+        "s2-47",
+        "s2-46",
+        "k9-098",
+        "s2-67",
+        "k9-319",
+        "s2-63"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Olhe embaixo das folhas uma vez por semana",
+        "Planta nova chegou? Deixe separada até resolver",
+        "Regue antes de murchar: planta com sede chama praga",
+        "Não mexa na horta com as folhas molhadas",
+        "Pulgão? Jato d'água primeiro",
+        "Cate bicho de manhã, num pote com água e detergente",
+        "Plante tagetes perto da horta",
+        "Deixe a larva da joaninha trabalhar",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 002 PRAGAS SEM VENENO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua planta ficar livre do bicho sem veneno, me conta. E quando um vizinho reclamar de pulgão, passa este livro adiante. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "001",
+        "VOCÊ TEM",
+        "002",
+        "003",
+        "004",
+        "005",
+        "006",
+        "São 6 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 003 TERRA VIVA",
+        "Comente TERRA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 002 PRAGAS SEM VENENO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-praga-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

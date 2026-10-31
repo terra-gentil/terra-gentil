@@ -1,0 +1,562 @@
+{
+  "livro": "TG 003",
+  "titulo": "Terra Viva",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "003",
+        "COLEÇÃO TERRA GENTIL",
+        "CUIDADO",
+        "Terra Viva",
+        "Solo, adubo e composteira.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-A-1.jpg",
+          "alt": "André segurando um punhado de terra"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "a8-031",
+        "a8-403"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Muita gente me conta que a planta não cresce, mesmo com adubo.",
+        "Quase sempre o problema está embaixo: terra dura e sem vida.",
+        "Aqui eu te mostro como deixar a terra viva com resto de cozinha.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Cubra a terra de um vaso com folha seca.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o primeiro passo é cobrir",
+        "→",
+        "TG 003 TERRA VIVA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-compostagem-A-1.jpg",
+          "alt": "André cuidando da composteira"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "a8-007",
+        "a8-259",
+        "a8-250",
+        "a8-604"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Cubra a terra.",
+        "Palha ou folha seca por cima protege a raiz do sol e deixa a chuva entrar.",
+        "O TESTE DA ÁGUA",
+        "Ponha um torrão de terra num prato com água. Terra boa fica inteira; terra fraca se desmancha.",
+        "Chão pelado no sol forte pode chegar a 70 °C.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 003 TERRA VIVA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da terra viva",
+        "06",
+        "CAPÍTULO 1",
+        "O que é terra viva",
+        "08",
+        "CAPÍTULO 2",
+        "Adubo na medida",
+        "12",
+        "CAPÍTULO 3",
+        "Composteira em casa",
+        "15",
+        "CAPÍTULO 4",
+        "Chão coberto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Folha amarela com adubo? Vá para a página 11.",
+        "Na próxima: a ficha da terra",
+        "→",
+        "TG 003 TERRA VIVA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "a8-245",
+        "a8-252",
+        "a8-002",
+        "a8-231"
+      ],
+      "textos": [
+        "FICHA DA TERRA",
+        "Terra viva",
+        "Fofa, escura e cheia de vida",
+        "GRUMO",
+        "Bolinhas que não desmancham na água",
+        "ÁGUA",
+        "Entra rápido e não empoça",
+        "AR",
+        "Raiz sem ar cresce devagar",
+        "VIDA",
+        "Milhões de micróbios numa colherinha",
+        "DIFICULDADE",
+        "Fácil: cubra e tenha paciência",
+        "CUSTO",
+        "ZERO",
+        "Resto de cozinha e folha seca",
+        "Na próxima: o que é terra viva",
+        "→",
+        "TG 003 TERRA VIVA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "O que é terra viva",
+        "01",
+        "Três testes sem gastar nada",
+        "02",
+        "Terra dura não é terra pobre",
+        "03",
+        "O sinal da areia branca",
+        "Na próxima: os testes da terra",
+        "→",
+        "TG 003 TERRA VIVA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-B-1.jpg",
+          "alt": "André mexendo na terra do canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "a8-248",
+        "a8-249",
+        "a8-250",
+        "a8-252",
+        "a8-602",
+        "a8-603"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · TERRA VIVA",
+        "Sua terra está viva?",
+        "TESTE",
+        "COMO",
+        "TERRA BOA",
+        "Dedos",
+        "Esfarele",
+        "Vira flocos",
+        "Pá",
+        "Deixe cair",
+        "Desfaz em pedaços",
+        "Prato",
+        "Torrão na água",
+        "Fica inteiro",
+        "Rega",
+        "Olhe a água",
+        "Entra, não empoça",
+        "Terra que não produz quase sempre está dura, não pobre: a raiz precisa descer.",
+        "DICA DO ANDRÉ",
+        "Areia branca solta por cima da terra é sinal de que a estrutura se desfez.",
+        "Na próxima: adubo na medida",
+        "→",
+        "TG 003 TERRA VIVA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Adubo na medida",
+        "01",
+        "Adubar o vaso: o passo a passo",
+        "02",
+        "NPK sem mistério",
+        "03",
+        "Folha amarela com adubo",
+        "Na próxima: adubar o vaso",
+        "→",
+        "TG 003 TERRA VIVA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-adubar-A-1.jpg",
+          "alt": "André adubando as plantas"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "q3-36",
+        "k9-034",
+        "q3-37",
+        "q3-38",
+        "a8-425"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Vai adubar o vaso? Faça assim.",
+        "QUANDO",
+        "Manhã ou tardinha",
+        "TEMPO",
+        "5 minutos",
+        "PRECISA",
+        "Adubo e regador",
+        "1",
+        "REGUE ANTES",
+        "Terra seca não absorve e a raiz queima.",
+        "2",
+        "ADUBO FRACO",
+        "Fraco é mais seguro que forte.",
+        "3",
+        "ESPALHE TUDO",
+        "Adubo líquido chega à terra toda.",
+        "DICA DO ANDRÉ",
+        "Adubo moderado é o que mais rende, como a chuva mansa que dá a melhor colheita.",
+        "Na próxima: NPK sem mistério",
+        "→",
+        "TG 003 TERRA VIVA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ter-gesto-1.jpg",
+          "alt": "Mão regando a terra do vaso antes de adubar"
+        },
+        {
+          "src": "ter-gesto-2.jpg",
+          "alt": "Mão pondo pouco adubo líquido no regador"
+        },
+        {
+          "src": "ter-gesto-3.jpg",
+          "alt": "Regador molhando a terra toda do vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "k9-037",
+        "k9-038",
+        "s2-132",
+        "a8-437"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · O ADUBO",
+        "NPK sem mistério",
+        "N é nitrogênio, P é fósforo e K é potássio. É o que falta em quase toda terra.",
+        "Nitrogênio deixa a planta grande e verde. Fósforo dá força à raiz, à flor e ao fruto.",
+        "Potássio deixa a planta firme e mais resistente.",
+        "Nutriente é engrenagem de relógio: falta a peça menor e tudo para.",
+        "O susto: adubo demais faz tanto mal quanto de menos.",
+        "Na próxima: folha amarela com adubo",
+        "→",
+        "TG 003 TERRA VIVA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "a8-031",
+        "a8-403",
+        "a8-238",
+        "a8-649"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Folha amarela, mesmo com adubo?",
+        "1",
+        "O QUE PARECE",
+        "Falta adubo.",
+        "O QUE PODE SER",
+        "Terra sem ar, dura ou encharcada.",
+        "COMO RESOLVER",
+        "Não ponha mais adubo. Veja se a terra está socada ou encharcada. Quem afofa e mantém fofa é raiz e cobertura.",
+        "Na próxima: composteira em casa",
+        "→",
+        "TG 003 TERRA VIVA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ter-sintoma-1.jpg",
+          "alt": "Vaso com folhas amareladas e terra dura e rachada"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Composteira em casa",
+        "01",
+        "Monte a sua",
+        "02",
+        "O que nunca vai nela",
+        "03",
+        "Cheiro ruim tem conserto",
+        "Na próxima: monte a sua",
+        "→",
+        "TG 003 TERRA VIVA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-compostagem-B-1.jpg",
+          "alt": "André com o composto pronto nas mãos"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "s2-121",
+        "k9-328",
+        "k9-324",
+        "s2-106",
+        "s2-109",
+        "k9-326",
+        "k9-327"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · COMPOSTEIRA",
+        "Monte a sua",
+        "QUANDO",
+        "Hoje, com o resto da cozinha",
+        "FICA PRONTO EM",
+        "3 a 6 meses",
+        "VOCÊ VAI PRECISAR",
+        "Duas caixas",
+        ": uma enche, a outra descansa",
+        "Resto de fruta e legume",
+        ", sem carne nem queijo",
+        "Folha seca ou serragem",
+        ": 2 partes para 1 de úmido",
+        "Borra de café",
+        " e casca de ovo amassada",
+        "Tampa",
+        "Terra do jardim",
+        " como ativador",
+        "Canto fresco",
+        ", na sombra e longe da chuva",
+        "Na próxima: o que nunca vai nela",
+        "→",
+        "TG 003 TERRA VIVA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "s2-113",
+        "s2-111",
+        "s2-114",
+        "k9-328",
+        "s2-116"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · COMPOSTEIRA",
+        "ATENÇÃO",
+        "Cocô de pet não vai na composteira.",
+        "Cocô de cachorro e gato pode ter doença e parasita que passa para gente. Planta doente também fica de fora.",
+        "Grama de gramado com herbicida leva o veneno para a horta.",
+        "FAÇA ASSIM",
+        "Só resto de fruta, verdura e legume, mais folha seca.",
+        "Cinza de carvão é tóxica para a planta: nunca use.",
+        "Na próxima: chão coberto",
+        "→",
+        "TG 003 TERRA VIVA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "a8-624",
+        "a8-621",
+        "a8-259",
+        "a8-623"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · CHÃO COBERTO",
+        "Quatro coberturas",
+        "1",
+        "Capim seco",
+        "A terra embaixo ficou 4 °C mais fresca.",
+        "2",
+        "Folha seca",
+        "De graça, no quintal.",
+        "3",
+        "Palha",
+        "De arroz ou de milho.",
+        "4",
+        "Casca de café",
+        "Ou de amendoim, ou bagaço de cana.",
+        "CHAVE",
+        "Protege do sol",
+        "Segura a chuva",
+        "Na próxima: sinais de terra viva",
+        "→",
+        "TG 003 TERRA VIVA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ter-var-capim.jpg",
+          "alt": "Canteiro coberto com capim seco"
+        },
+        {
+          "src": "ter-var-folha.jpg",
+          "alt": "Vaso com a terra coberta de folhas secas"
+        },
+        {
+          "src": "ter-var-palha.jpg",
+          "alt": "Canteiro coberto com palha"
+        },
+        {
+          "src": "ter-var-casca-cafe.jpg",
+          "alt": "Terra coberta com casca de café"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "a8-220",
+        "a8-248",
+        "a8-252",
+        "a8-609",
+        "a8-639"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · CHÃO COBERTO",
+        "Sinais de terra viva",
+        "MINHOCA",
+        "Aparece sozinha em terra coberta.",
+        "TORRÃO",
+        "Desmancha em flocos com pouca pressão.",
+        "ÁGUA",
+        "Some na terra, não empoça.",
+        "RAIZ",
+        "Desce reta, sem entortar.",
+        "DICA DO ANDRÉ",
+        "Pisar sempre no mesmo chão compacta. Faça um caminho e pise só nele.",
+        "Na próxima: um número que impressiona",
+        "→",
+        "TG 003 TERRA VIVA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "a8-231",
+        "a8-219",
+        "a8-259"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "ATÉ",
+        "200 MI",
+        "de micróbios numa colherinha de terra.",
+        "São de 100 a 200 milhões. E a minhoca passa a camada de cima da terra pela barriga a cada três anos.",
+        "E MAIS UMA",
+        "Com 5 cm de palha no chão, entram 100 mm de chuva em 5 minutos, sem enxurrada.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 003 TERRA VIVA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "q3-36",
+        "k9-034",
+        "q3-37",
+        "a8-007",
+        "k9-328",
+        "k9-324",
+        "s2-113",
+        "a8-639"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Regue antes de adubar",
+        "Adube de manhã cedo ou à tardinha",
+        "Prefira adubo fraco a forte",
+        "Cubra o chão com palha ou folha seca",
+        "Resto de fruta e legume vai para a composteira",
+        "Para cada parte úmida, duas de seco",
+        "Nunca cocô de pet na composteira",
+        "Pise sempre no mesmo caminho",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 003 TERRA VIVA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua terra ganhar minhoca, me conta. E quando sobrar composto, divide com o vizinho. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "001",
+        "VOCÊ TEM",
+        "002",
+        "003",
+        "004",
+        "005",
+        "006",
+        "São 6 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 004 CACTOS E BABOSA",
+        "Comente CACTO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 003 TERRA VIVA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

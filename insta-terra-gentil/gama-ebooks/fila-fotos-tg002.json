@@ -1,0 +1,70 @@
+{
+  "livro": "TG 002",
+  "estilo": "Documentary macro photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus on the insects and leaves, no text, no logos",
+  "fotos": [
+    {
+      "id": "pra-gesto-1",
+      "especie": "aphids",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand turning over a young leaf of a potted pepper plant to show a cluster of small green pear-shaped aphids on the underside",
+      "mascote": true
+    },
+    {
+      "id": "pra-gesto-2",
+      "especie": "aphids",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands tilting a potted plant sideways over a garden sink while a gentle jet of water from a hose hits the underside of the leaves",
+      "mascote": false
+    },
+    {
+      "id": "pra-gesto-3",
+      "especie": "aphids",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's fingers dropping small insects picked from a plant into a clear glass jar of soapy water, early morning light",
+      "mascote": false
+    },
+    {
+      "id": "pra-sintoma-1",
+      "especie": "ants and aphids",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Macro of black garden ants walking among a colony of green aphids on a tender plant shoot, a shiny sticky honeydew on the leaves",
+      "mascote": false
+    },
+    {
+      "id": "pra-var-pulgao",
+      "especie": "green aphids",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Macro of a colony of green aphids on a rose bud and the curled young leaves below it",
+      "mascote": false
+    },
+    {
+      "id": "pra-var-cochonilha",
+      "especie": "mealybugs",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Macro of white waxy cottony mealybugs clustered on a plant stem where a leaf joins the stem",
+      "mascote": false
+    },
+    {
+      "id": "pra-var-acaro",
+      "especie": "spider mites",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Macro of the underside of a pale speckled leaf covered with very fine spider mite webbing and tiny moving dots",
+      "mascote": false
+    },
+    {
+      "id": "pra-var-mosca-branca",
+      "especie": "whiteflies",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Macro of tiny white whiteflies resting on the underside of a green leaf, a few of them flying up",
+      "mascote": false
+    }
+  ]
+}

@@ -36,7 +36,7 @@ def reconhecedor():
 
 
 def embedding(rec, caminho):
-    """Vetor do maior rosto da imagem (ou None). Gira a imagem se o rosto nao aparece."""
+    """Vetor do rosto de maior confianca da imagem (ou None). Gira a imagem se o rosto nao aparece."""
     img = cv2.imread(caminho)
     if img is None:
         return None
@@ -46,8 +46,10 @@ def embedding(rec, caminho):
         det = detector(larg, alt)
         _, rostos = det.detect(base)
         if rostos is not None and len(rostos):
-            maior = max(rostos, key=lambda r: r[2] * r[3])
-            return rec.feature(rec.alignCrop(base, maior)), len(rostos)
+            # Rosto de maior confianca, nao o maior: o grao do tratamento anti-IA cria rosto falso
+            # grande com confianca baixa (0,6 a 0,73 contra 0,85 a 0,94 do rosto real, 30/10/2026).
+            melhor = max(rostos, key=lambda r: r[14])
+            return rec.feature(rec.alignCrop(base, melhor)), len(rostos)
     return None
 
 

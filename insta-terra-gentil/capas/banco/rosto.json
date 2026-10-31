@@ -2,2674 +2,2674 @@
   "_sobre": "Nota de rosto (cosseno SFace, media das 3 melhores referencias).",
   "capas": {
     "agave-A-1": {
-      "nota": 0.6563,
+      "nota": 0.6695,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "ef9ab9cbf2287ef8d36708e71bbcb9faa98deef16186160f83c35f4f4a0e55e8"
+      "sha256": "9b931209394aef76f4f3a36b4ddfbc666fc1ced2b66e0d224fb7d1f9be7cef0b"
     },
     "agave-B-1": {
-      "nota": 0.594,
-      "rostos": 1,
+      "nota": 0.5705,
+      "rostos": 2,
       "onde": "banco",
-      "sha256": "6dbe5693c353765e17bcd07fd0ce88b4fe454185e153188f6f035591bb3036f3"
+      "sha256": "abf54ac3938fee7a015938c693841c4f4bb547628d2e3d97953f531043e6e7c1"
     },
     "agave-C-1": {
-      "nota": 0.7395,
+      "nota": 0.7358,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "cc412a531b6bf86e4801e15e63d150fcfea17c5d699a467607180b75a9b04fcf"
+      "sha256": "543277e18ab408d8943620ecd00bb00005de2e935f45b86448797986d96baf59"
     },
     "agave-D-1": {
-      "nota": 0.6837,
+      "nota": 0.6824,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "8c5729d1a11576dda12cebed65e1084b8efd1e1004614e7b8d0237d7659ce837"
+      "sha256": "c7526b4c24f12544233261616138ab7a3b2fdc670ed68f4266a06e09b81b91fe"
     },
     "agave-E-1": {
-      "nota": 0.5729,
-      "rostos": 2,
+      "nota": 0.5184,
+      "rostos": 1,
       "onde": "banco",
-      "sha256": "2804799ff1255240904ca69cdac432751a2db6e6bf90f764058f92a49a6c4856"
+      "sha256": "7f54034bb2c7eefdb9de40085eae0e8f7d0b23ca41a4f080d871b4d6d30c444a"
     },
     "agave-F-1": {
-      "nota": 0.7639,
+      "nota": 0.7286,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "bee36b60092c439e0f4d09e4aea6c9b9953938a552faaf256d917d80729d0ec8"
+      "sha256": "7e2522e74f26d722a8a02ab7cad3fe1d2b14167c49673fbda25fbc92f1c5cc0a"
     },
     "agave-G-1": {
-      "nota": 0.5921,
+      "nota": 0.5454,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "256dd0038d642152f4dc7351a2830d25b307b83b15764dd210dae4f336f36d21"
+      "sha256": "0bd896ab82012bc3932b178ba13d5d09a20c3f590c248a2e0ac1c0a9c812551a"
     },
     "alecrim-A-1": {
-      "nota": 0.6957,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "f92d7a366592fe87ff8da56e83324e237eeed9ac7862f6deb8b539dd37201084"
-    },
-    "alecrim-B-1": {
-      "nota": 0.5806,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "edd3cea35f5ee79d9b9a4aae4a82bdfc8c45b889622f87aa29ff7bb8bbcb609f"
-    },
-    "alecrim-C-1": {
-      "nota": 0.689,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "d57f18cc707f8ae385e839a54dbae6c6f446f22c64e90c40bf440ee70988d247"
-    },
-    "alecrim-D-1": {
-      "nota": 0.7111,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "7d7852d185a80341dbf7ea713b8f73f840b33775c0d00a900f5282e82504bc9b"
-    },
-    "alecrim-E-1": {
-      "nota": 0.5854,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "270093b4d42cc30b0a2d77b6b63ad006110a75f68a8cd952f40ddccf8eb7b3a4"
-    },
-    "alecrim-F-1": {
-      "nota": 0.717,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "ea74f8edafdc0ada25ce58ddde418638e79475341e43a485f8bbe8a6f2c39c28"
-    },
-    "alecrim-G-1": {
-      "nota": 0.5705,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "0725f238afafb8b32b6a6c9c782ba81b7635415ddc72ca41afa924f85b5f8291"
-    },
-    "alecrim-H-1": {
-      "nota": 0.6159,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "ca1e4361ad417390f4ce44747a4ac9eaec6d32616a32b66252a5a23b9e63226f"
-    },
-    "alface-A-1": {
-      "nota": 0.5697,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "aec906b50542083473bc224e3782c0830b97ba529cc682d2119333fa3558205c"
-    },
-    "alface-B-1": {
-      "nota": 0.6111,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "03e7ac31d755c89df0f620bb4b52231a285c129007570b0ee47c1e38909db4e4"
-    },
-    "alface-C-1": {
-      "nota": 0.7409,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "44e99ef63bcb43797679d3cb5532b8c58beabf9d5d98689481fff5f6c0778924"
-    },
-    "alface-D-1": {
-      "nota": 0.7186,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "d01117e52faa5de289260b3295f012757a2e3910aa07ba35870a4773d20171ca"
-    },
-    "alface-E-1": {
-      "nota": 0.3237,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "c94c95494966f4377a76b74a3fbc8c1fdd76ff1b7f25971d5d33587a7e2c08c8"
-    },
-    "alface-F-1": {
-      "nota": 0.7374,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "30a05899be89e441e52c7f174d1afef6b64b1eaeeb886f0872ba0c3d53595736"
-    },
-    "alface-G-1": {
-      "nota": 0.4431,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "3d0cf764e6036d6f0c53f639aa25e2da3dff8efed277a7e121f53a2b9583692a"
-    },
-    "alface-H-1": {
-      "nota": 0.5297,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "0b7073f67fb94209c8198bda176053eee4ca0ef9646c779798e8dff34f81f849"
-    },
-    "anturio-A-1": {
-      "nota": 0.7077,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "0adb5a958c83a750a34338a78ca90aaadcc6cac5d6dcf40a6ccf97ce2f84801c"
-    },
-    "anturio-B-1": {
-      "nota": 0.6589,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "3cdbf051167e7b4b446eee3245f7b2af7776ca80670eb27a93777a6f2548fbca"
-    },
-    "anturio-C-1": {
-      "nota": 0.7246,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "94aa1d962f4748b21dba34111f4846e07de0c8155493772fcae7ba746dbba087"
-    },
-    "anturio-D-1": {
-      "nota": 0.7231,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "a2a89961ed8b1869fa0e8b992d651bac75994ffb1830f78051699f2b5c4ca645"
-    },
-    "anturio-E-1": {
-      "nota": 0.5811,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "cc0b474c9402096c43c863e808ab088a1916e555711d7908af385bdbeedb2846"
-    },
-    "anturio-F-1": {
-      "nota": 0.7008,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "c64c59291eb4dcd66e0416c1231953798ae397fa09d59e59107eff9bc6ecefa1"
-    },
-    "anturio-G-1": {
-      "nota": 0.4877,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "746668906a3c4822f0854acb19f3316111ed9da7194a8aa880a5fcb09458bcdd"
-    },
-    "anturio-H-1": {
-      "nota": 0.5507,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "8b2e27db2387c591a034ace5ea3dd898e0bdf804f7c81815e62dc7d75440d95d"
-    },
-    "babosa-A-1": {
-      "nota": 0.6898,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "9b6bda3a8bc2777c56ccbaad90944eda4314c5b24e3f59570b1cde04569dd268"
-    },
-    "babosa-B-1": {
-      "nota": 0.6423,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "d6211a8f0fb8294487ef83c0bc85a213695cebbe41c9cace44657fe5be37fc37"
-    },
-    "babosa-C-1": {
-      "nota": 0.7205,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "847699672d3e572fb8b7b895623606c52aff3bd3aabe2e505943a53e4675729a"
-    },
-    "babosa-D-1": {
-      "nota": 0.7443,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "34acc2fb73152fcdb7f7b4750184300bc8cdc9bcd53c6547bedffcba73c6be47"
-    },
-    "babosa-E-1": {
-      "nota": 0.5546,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "46c59ee58f40a39c78a05eab1c6f821989d22d26f46fd7531be302efa901c917"
-    },
-    "babosa-F-1": {
-      "nota": 0.7204,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "2bf469995910d1bb5cee9f83a3ac6dbe803216efdb7a04df6cfbb082e1ec7701"
-    },
-    "babosa-G-1": {
-      "nota": 0.4627,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "4e298b5c261158b7bdd99964e6401ffe5583624e9276555fddb00be28cf86134"
-    },
-    "babosa-H-1": {
-      "nota": 0.6321,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "90cd46415a4a9fa3ea2dc16e5084a13e0c415f21c4724ae1587220f2d614026e"
-    },
-    "bambu-da-sorte-A-1": {
-      "nota": 0.6411,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "11a1200581ec5ba28662929cef25d5dce764a9d45c38998ae7317403484d6a23"
-    },
-    "bambu-da-sorte-B-1": {
-      "nota": 0.7331,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "c947b2d7e6bd7524c9b502b5cf9a6483bab85f808bc83b9aac6da23740206776"
-    },
-    "bambu-da-sorte-C-1": {
-      "nota": 0.7111,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "95dca6d625a2b28e81f7207fcdab82ce0f1644dcd0abb0a7417fc43a4c813c2d"
-    },
-    "bambu-da-sorte-D-1": {
-      "nota": 0.7346,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "ef925ce940b1c0baebbfc5e9927cb9538b8904a14d1867375399ac7f0cd97b72"
-    },
-    "bambu-da-sorte-E-1": {
-      "nota": 0.4051,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "3129f121558e8e4e03eee535f27b5156b93fa86c4269bf6457486151310ace24"
-    },
-    "bambu-da-sorte-F-1": {
-      "nota": 0.7215,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "89f3e80d43191a715389357d5a87500b0e4887dc1f2b39d299c4b62116e9aa40"
-    },
-    "bambu-da-sorte-H-1": {
-      "nota": 0.5652,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "e8efacddd89f8d7a4cff7b319e859f49b0aa9856349b71bf0a629d5fec4c9d34"
-    },
-    "begonia-A-1": {
-      "nota": 0.6774,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "562cef8ce4d412457adadcd731062604ddfcdf375c4f16822e7820d73ff70ef0"
-    },
-    "begonia-B-1": {
-      "nota": 0.6174,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "f32214d947ab86ffddc6fc9e374e6e76c53e73aa12809f1edddc89a9adce860d"
-    },
-    "begonia-C-1": {
-      "nota": 0.724,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "c9e7a7dbaf59ae6f2584bad3d99ec76387d920daba0e1784fde0415f8647b745"
-    },
-    "begonia-D-1": {
-      "nota": 0.6967,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "3a3b129d2a7122942e2507ae7934e15b70fa4ddfc146f4083749beac2c4ee37b"
-    },
-    "begonia-E-1": {
-      "nota": 0.4304,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "b614124556f5711a8c33c758e7744d488ce0f56a3509f63b47f82432e5f6e1b6"
-    },
-    "begonia-F-1": {
-      "nota": 0.7657,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "db3aae22c62866b813c5dec1953e4e109cba314357c67c5e4e997b0c678ead87"
-    },
-    "begonia-G-1": {
-      "nota": 0.4026,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "869c025bb4dac8a90c3d4ac9f67dd5076ce0a8495473006167fa06d8b3be7eea"
-    },
-    "begonia-H-1": {
-      "nota": 0.5493,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "12b7ac3e6ff2848ac9e0e2caabee80890ffbe28f76aa94c825a250aa528e3670"
-    },
-    "bromelia-A-1": {
-      "nota": 0.6342,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "0869fadab81be34797c4b0d00c583d2c972d0c42f59f63e5144eb43c6c5d146e"
-    },
-    "bromelia-B-1": {
-      "nota": 0.5414,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "278671d1b9b9b75a86fe58b69d4c03127ae25b896832635f66473ca76bcbd8aa"
-    },
-    "bromelia-C-1": {
-      "nota": 0.7544,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "1a6525e2fb68676b05d17e76e4c0641db03dc0243a31c1160db71618b62c9306"
-    },
-    "bromelia-D-1": {
-      "nota": 0.7346,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "ac6d419d9ca7142b73a4283804c767ab0374584d2eed11bc40e595c03a45e32e"
-    },
-    "bromelia-E-1": {
-      "nota": 0.5038,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "92c81d0e17bb00331336ed86da2ca79b5a769e93a75743918b424cd6a8394e2e"
-    },
-    "bromelia-F-1": {
-      "nota": 0.7697,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "c2496df2442b0a14c1d3d159c83112956e07c2d7537fbe8f2366ed5e6b69cbc7"
-    },
-    "bromelia-G-1": {
-      "nota": 0.3361,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "1335ee88e45caae57cf0d0b38d433431ef83b6426dd1de0686e36a334baaa1b1"
-    },
-    "bromelia-H-1": {
-      "nota": 0.6736,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "d7b601e524e0194f979f377c2d8e84de4262f057abd7ac30b82d2ab516be7547"
-    },
-    "buganvilia-A-1": {
-      "nota": 0.6305,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "094f02cf3b9a4ce28c171f596fdc6be8d547fed44070996762210375c862e9a5"
-    },
-    "buganvilia-B-1": {
-      "nota": 0.573,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "2f8a7f74cfe5ff61cc8ae759bdcc4e09b89faa890be04a4f906a02c79200d435"
-    },
-    "buganvilia-C-1": {
-      "nota": 0.756,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "8f40d4394b43fc50aedb5e1c23055e3795534c8938ca5054e9227946c27d0f4d"
-    },
-    "buganvilia-D-1": {
-      "nota": 0.741,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "fb37960ca9a8085cf78e7868342c618db331d5200a13bfd7c4c6f2f76a83318b"
-    },
-    "buganvilia-E-1": {
-      "nota": 0.591,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "b2c62a5972b60bf977afff187d7e58cc891562699b695e5c85356231168afeb7"
-    },
-    "buganvilia-F-1": {
-      "nota": 0.7582,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "ee60e00f11e99c3d1c50de8faedc4d143486509643781d052a57fbc90a6c47ec"
-    },
-    "buganvilia-H-1": {
-      "nota": 0.7136,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "e378a86c710acb0fee5c2dc9e355455b48b2defa434bd481cb24e295fa1f787e"
-    },
-    "cacto-A-1": {
-      "nota": 0.734,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "40833fcb8849d11ed292edb3fd57434b544ac21a23b3f699278e53ae516eee7c"
-    },
-    "cacto-B-1": {
-      "nota": 0.5823,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "42e11e2a77e1a1eb9fc10d91dc1e9b1ac91011d91baa345ee074c474d66a6dfe"
-    },
-    "cacto-C-1": {
-      "nota": 0.6914,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "224224ab83acd6831a6490d8b1e841b6c778c8239d2e8c0487250c620524657c"
-    },
-    "cacto-D-1": {
-      "nota": 0.7255,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "9e8b7bfa69f0f0c3c45649ff5317784448e763adcc7b5c858a0f0c4edd8e753e"
-    },
-    "cacto-E-1": {
-      "nota": 0.5172,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "a608d4ddd571ebaf402ba814df12129de07ca6c2f91629f064dc16fdf4bc210e"
-    },
-    "cacto-F-1": {
-      "nota": 0.7479,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "fed335d7901a637714a0ae9a1f2195f82bd4865dd9061c99ff0e64dce1abba47"
-    },
-    "cacto-G-1": {
-      "nota": 0.3682,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "202f52df0f7d6fda167bdbb98336e59a0a241942f163c7c067431b3b84cf049a"
-    },
-    "cacto-H-1": {
-      "nota": 0.7349,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "3257972fe1f97747ece1e6a53fd7080d158c5b6bab5ba1b0c0c95ce49a4fae73"
-    },
-    "catleia-A-1": {
-      "nota": 0.7105,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "67efd4d3cc062e1bbb7cf8fa79ac021e795572246d3d2655068ae1ef2802a4a9"
-    },
-    "catleia-B-1": {
-      "nota": 0.6368,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "fedb4f23c13515c55ba5b9482924080a2ae09baba0d792a9e1cb9282f5f651a8"
-    },
-    "catleia-C-1": {
-      "nota": 0.7321,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "18e1e76e90f0f2a22db0e9a90dbce3dc5c025e9a01ac167daa4748ae34c2fc34"
-    },
-    "catleia-D-1": {
-      "nota": 0.703,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "932d3ba0b4d24d350d402131fb093a06f8a84debcb2f699807d23322b8571a76"
-    },
-    "catleia-E-1": {
-      "nota": 0.4948,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "6b8415de1136147e67339c22f1e43a33d5c9d3bc2e0ec257ad489b77e960f916"
-    },
-    "catleia-F-1": {
-      "nota": 0.7628,
-      "rostos": 3,
-      "onde": "banco",
-      "sha256": "e38c249e81bd304af5e52851ce464fc1de2d0d38bbb2765dbbbae1df2b8da895"
-    },
-    "catleia-H-1": {
-      "nota": 0.4931,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "af7983fdee0190b2e92ce4a11359092ae99b1f063af850d472fb9dce56284d11"
-    },
-    "cebolinha-A-1": {
-      "nota": 0.6642,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "c110de2c8d1ef290bba889b2a701e1610f20101750c2e776a9543d8dca0b655e"
-    },
-    "cebolinha-B-1": {
-      "nota": 0.6824,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "905ce29271797d4e0a8500892c3a76d6e4afc87c7f9e1eed4ed1be6cfb72b3fe"
-    },
-    "cebolinha-C-1": {
-      "nota": 0.7366,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "4b29df60f61e7976424cd2a2d4074dff81f06aa612ad614a10337484e48b0553"
-    },
-    "cebolinha-D-1": {
-      "nota": 0.7412,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "a11111ad52bd2fbe59e6d8916a8d6449dcf22dfbe3775c531cf6a76b151b34c1"
-    },
-    "cebolinha-E-1": {
-      "nota": 0.4666,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "cedfe48e695d97c400d1e68918066e2683e15ad8b70bb1c1076be00b9ee07593"
-    },
-    "cebolinha-F-1": {
-      "nota": 0.7396,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "8f576593b57a5d7dfd57c0364aa6fe128e87e975cbc8f0998a584c2bf5456056"
-    },
-    "cebolinha-H-1": {
-      "nota": 0.4693,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "a6823914a582bac2eb0a1e3fc58a61b752a266e081e8eb3a1429316ded0fdea0"
-    },
-    "chuva-de-ouro-A-1": {
-      "nota": 0.6208,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "40af898421a54073e819b34635cee96b923dd59e0deb445caadf71359b5b8103"
-    },
-    "chuva-de-ouro-B-1": {
-      "nota": 0.5818,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "ffc5330ed94f4cdedf2e7489446282b4a24e46abe82b1da596f2d34311c4ed27"
-    },
-    "chuva-de-ouro-C-1": {
-      "nota": 0.7715,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "53e0f1618b01e9339269e40c652c51f931f1de9f5c3c27caf8589b5c7d730470"
-    },
-    "chuva-de-ouro-D-1": {
-      "nota": 0.6855,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "63ea0e49675a551b1caaaf03d807c687dbb71d9f665b2c89460edd30f72997c9"
-    },
-    "chuva-de-ouro-E-1": {
-      "nota": 0.5551,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "8b2241760b0bc8dde01ba94dc3b700b24057fdd769b12818f5638a5bf23427ed"
-    },
-    "chuva-de-ouro-G-1": {
-      "nota": 0.5705,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "aa4eebb1eb63a7345990078fd5533f6f9ab0fcaf662771005e999139db4bf6d0"
-    },
-    "chuva-de-ouro-H-1": {
-      "nota": 0.5923,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "710ab24253e89a31ed0e3460084a599e3c94fafa0bbb8e8ca6fc960079b6a031"
-    },
-    "colar-de-perolas-A-1": {
-      "nota": 0.6261,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "f66f341a444718af6a38b1241063e4c8e28b41534567ea902d63133cc28c7406"
-    },
-    "colar-de-perolas-B-1": {
-      "nota": 0.4934,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "4cdd964a794fe463d2cd85165c80879f96de4fc282d1cf04ab53839c4059ad45"
-    },
-    "colar-de-perolas-C-1": {
-      "nota": 0.6523,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "643b94b64ff7b634022bdc3a392a4a98766fef3adf4f8f263f367a1bd14f0b1b"
-    },
-    "colar-de-perolas-D-1": {
-      "nota": 0.7037,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "c06398413997a24f14dbe5bcd14423dfeb9741fb9a432e135945c076a131f95b"
-    },
-    "colar-de-perolas-E-1": {
-      "nota": 0.5695,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "719d29d08a10896f8d716ef0641738997dd0ceb4747ca5500d5050e0418c2391"
-    },
-    "colar-de-perolas-F-1": {
-      "nota": 0.7082,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "4e38311f3051711c3011c7549028a143226da2abfe48c6b09ab426e17e9a77cd"
-    },
-    "colar-de-perolas-G-1": {
-      "nota": 0.5732,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "d29aa4c665d2355d9315deef6417b6a2e9a7172f3f0b5b91aa87d9af5be81205"
-    },
-    "comigo-ninguem-pode-A-1": {
-      "nota": 0.7006,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "8240b22ea8c03a28aac02ed335e86b72ddc2539c1a763c4d70e26af9d98f7d57"
-    },
-    "comigo-ninguem-pode-B-1": {
-      "nota": 0.5746,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "ad0cc3c6120c4bcdd23ebaecbebf87b252691bf34a7954bd9fab35dee3933491"
-    },
-    "comigo-ninguem-pode-C-1": {
-      "nota": 0.7651,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "cc95732edcbfa9445257dd191d8ca47cb85bae91247225411d0c6af7d6947092"
-    },
-    "comigo-ninguem-pode-D-1": {
-      "nota": 0.6983,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "f2c49edb8c193141e8e1eff0a1ef7665b29e9977451026dafe4f627d6454b019"
-    },
-    "comigo-ninguem-pode-E-1": {
-      "nota": 0.4152,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "82d8fdb9cee19f7f7359e749b917a696e2afea1eaf986875749a95706a069d12"
-    },
-    "comigo-ninguem-pode-F-1": {
-      "nota": 0.773,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "b25adc7784b1beef00629020314c50e3079ff186cebbaa93d463997b51996ce8"
-    },
-    "comigo-ninguem-pode-G-1": {
-      "nota": 0.372,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "3e80a3a531341ecf28531341c896a008fc6af1afb39d7318d3dbf17124abbde4"
-    },
-    "comigo-ninguem-pode-H-1": {
-      "nota": 0.5539,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "a81af983e3071fe4cd604bd327d97c4efd9538ebf410b4f92d07e168009d35fc"
-    },
-    "coringa-adubar-A-1": {
-      "nota": 0.5966,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "1d3ef3877b8195f2cafef53ad24911fd0fa674e0566c70f2b323f7eba1f31a55"
-    },
-    "coringa-adubar-B-1": {
-      "nota": 0.6484,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "066eaf9a95ffa2d4da1c4d8307a55cc7ef2ef18dc3ce3431b20c2c2297ad759b"
-    },
-    "coringa-adubar-C-1": {
-      "nota": 0.7087,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "591b831adf179a41573b07940831cbd52b309df86d4d6b08ca2e9865fc33fd14"
-    },
-    "coringa-adubar-F-1": {
-      "nota": 0.7357,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "64f8f5a28c4d5a2e50a2eb168a009d2fc30e1fdb480b7108bb26b53bc02701a5"
-    },
-    "coringa-adubar-G-1": {
-      "nota": 0.5491,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "96daed81af2720e544c3dc46fdce07a0a91b811d8729aa69ac37fb415c430358"
-    },
-    "coringa-adubar-H-1": {
-      "nota": 0.6168,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "f78976989f8c8e90455647ceaf1a818d5a8444bd20d85e91e55c8c57c3399018"
-    },
-    "coringa-compostagem-A-1": {
-      "nota": 0.7198,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "e54843686cfd3497cfa0ee04e1210bd9431705d75002ccabfac0aeef498d5688"
-    },
-    "coringa-compostagem-B-1": {
-      "nota": 0.7232,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "acd8deb50fb845e7d89bb7f6414d3d108f9970f0859cea18f62da3ed67ec3c79"
-    },
-    "coringa-compostagem-C-1": {
-      "nota": 0.6739,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "fe7457e97b616341ca057b252dc4477fe034d946d40460601185a7ab497dc357"
-    },
-    "coringa-compostagem-F-1": {
-      "nota": 0.7284,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "9af15846836c5ce048c1b9b19b0d3a862608857747f566b82354c48567ab8d38"
-    },
-    "coringa-compostagem-G-1": {
-      "nota": 0.6517,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "5935e0d27ff6d4140e035bffd23e3b42c3b0fc5dfe84d3d29ecc564d1b996ab5"
-    },
-    "coringa-compostagem-H-1": {
-      "nota": 0.6246,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "778206efd54b0e2d76aecea4e410841872161c48f147329a831bd06f0ed38ef8"
-    },
-    "coringa-ferramentas-A-1": {
-      "nota": 0.6963,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "649a7ec26bde517641b0326d94ec82f47951c3995680ac67d965a84901bd470a"
-    },
-    "coringa-ferramentas-B-1": {
-      "nota": 0.7025,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "05b9556f0979a3930a82821a0ec7d0d7264c80641dfbdf0b2a43f0e5d9330283"
-    },
-    "coringa-ferramentas-C-1": {
-      "nota": 0.7358,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "f7ada2ac2a1a5e54ea923f09b91baea0a91f1acb6f0c6d58048dc20de931ee51"
-    },
-    "coringa-ferramentas-F-1": {
-      "nota": 0.733,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "d79cf287d79121f57a55f65448d6bde5422e8a793a8659b1f0c69837739ae388"
-    },
-    "coringa-ferramentas-H-1": {
-      "nota": 0.6528,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "9efb778bdfebe73b8cd7a3ffc15b30480f9f0f87b974a5a98c6aa5cd848dbbc3"
-    },
-    "coringa-gramado-A-1": {
-      "nota": 0.5698,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "d49c8123d1708fd407512fb796fd7e370b4309f6d19a711c4078a6083c5ee3fb"
-    },
-    "coringa-gramado-B-1": {
-      "nota": 0.6845,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "b59baf56773d1fdf3804fc375f45faa83e3bc7107631ff71d901d4aed8361519"
-    },
-    "coringa-gramado-C-1": {
-      "nota": 0.7097,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "c0dfe515de5f664852d1287f1504578cb5d00e3550a0372ba168736198086e89"
-    },
-    "coringa-gramado-F-1": {
-      "nota": 0.6654,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "3d17c09b1070f22daaac95c6f371ffffb9929b4010fdca5fe631f23f346ec109"
-    },
-    "coringa-gramado-H-1": {
-      "nota": 0.6749,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "6938278a83ce2522c494293d6d0f2cac5d0ef70fe15aa7d513310464a08f92c0"
-    },
-    "coringa-horta-A-1": {
-      "nota": 0.7423,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "ac2190f312a55929c1bbc1ab653ca30cbbac14188a4cb13b7d437f09e955567b"
-    },
-    "coringa-horta-B-1": {
-      "nota": 0.6316,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "20aaa5657bafec0fffee131d5a6f3679628d9a3e17d4ef71463b5eaf9c96b3e7"
-    },
-    "coringa-horta-C-1": {
-      "nota": 0.7432,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "7ffcbfa380f8299332b5565a46e19d9c5c1946754beae54a30a0c34ba078a468"
-    },
-    "coringa-horta-F-1": {
-      "nota": 0.7342,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "fe8d034cf094235ec9971792c5e108e3ca8e3c34b712555cfbde70d6eb53952f"
-    },
-    "coringa-horta-G-1": {
-      "nota": 0.6911,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "09add05b37345d517cb7bfce15a79dcfc67467a10fd9fbdc59f5cbdadc39e927"
-    },
-    "coringa-horta-H-1": {
-      "nota": 0.6305,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "cddbb7bb555d8ef8399a63e7d6386a3c5aaf3b22789d9ace4d3cf097d0a87e47"
-    },
-    "coringa-jardim-vertical-A-1": {
-      "nota": 0.6278,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "1656c3cf03383e4d74f45895a1eec0e76cad28b45fc8d37b53e8e6c52fedd0d9"
-    },
-    "coringa-jardim-vertical-B-1": {
-      "nota": 0.6735,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "a20ef879fe2f3c15b290baf2a233a71ccb1bdd11bebc16c9075c3d9c1fce095f"
-    },
-    "coringa-jardim-vertical-C-1": {
-      "nota": 0.718,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "a8637a72d1984a0c17099322e39cb1049d20d92bc89d1ea5b61c1643c71e5f22"
-    },
-    "coringa-jardim-vertical-F-1": {
-      "nota": 0.6849,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "8e1b076e3e7b424f580c6ad62ca4e3440e89e03e0db5a683209371abbffde681"
-    },
-    "coringa-jardim-vertical-G-1": {
-      "nota": 0.687,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "73b6d57c85a06f6167932a5882e899f29c5f86eb1b621d8b89871c3a7ef4b66a"
-    },
-    "coringa-jardim-vertical-H-1": {
-      "nota": 0.6893,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "806d36e4b9c85300a37e24784066dc0d2e42835689ae52211b131c268b0590e6"
-    },
-    "coringa-luz-A-1": {
-      "nota": 0.56,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "103969e798a20830d8262dc807d043d9a363ac20fd9f4dea68c23f84713b56d8"
-    },
-    "coringa-luz-B-1": {
-      "nota": 0.4318,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "4f3f168f1344b88ba77c63c7acec90deccdcfe14ce8705ab360aca52929702d3"
-    },
-    "coringa-luz-C-1": {
-      "nota": 0.6621,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "e8ed8dafcf62bbbcc601b3784e8c42d1e4966f560b38dc6eb43fe5725e757d85"
-    },
-    "coringa-luz-H-1": {
-      "nota": 0.5352,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "7e6384a71f86c01b7ac9c4e33c6a191c82134454dab7412b880a2b34d3deab62"
-    },
-    "coringa-mato-A-1": {
-      "nota": 0.4388,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "631813923e87c7d29e3e317b35e66fc9741688c689a8a3aeff072c2f8b1a6ba3"
-    },
-    "coringa-mato-B-1": {
-      "nota": 0.5519,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "4e0fef9fcbd4e2fd2f52d3d7a0fa28a572f5500b2f777c3d9c6f482aa71f97fa"
-    },
-    "coringa-mato-C-1": {
-      "nota": 0.5496,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "5e0d036f31a79e15e358481c45485bee41b3a71b4c9df885abd47e3ab3321b50"
-    },
-    "coringa-mato-G-1": {
-      "nota": 0.4668,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "7ef16500da7bfa318a998b22b6e7e8e7e7d1d37e3a54884788221fdb31948061"
-    },
-    "coringa-mato-H-1": {
-      "nota": 0.5201,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "0e99fcb4ac9ce75c29f62a93c10a178c94a440a55271b077dbf3c6d8a73b4f64"
-    },
-    "coringa-muda-A-1": {
-      "nota": 0.5844,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "94cb11dce2b70e8243d55e490c06b292dcd97417d00ee1ceed05695a8cf9a805"
-    },
-    "coringa-muda-B-1": {
-      "nota": 0.6222,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "c57ab7e82a15f676a3dbf4739d865399ba9a936a67a1e1164be198d0c34a07f4"
-    },
-    "coringa-muda-C-1": {
-      "nota": 0.6268,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "9d5852f65cc49fc0a5b22aff846215bcd734b15379cdca1d9c0607fa13d989aa"
-    },
-    "coringa-muda-F-1": {
-      "nota": 0.6336,
-      "rostos": 3,
-      "onde": "banco",
-      "sha256": "b1ae44a04f1557dd589e5f5f517aba3ab048d657f56ab763249a94c286565247"
-    },
-    "coringa-muda-H-1": {
-      "nota": 0.5502,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "e6da14058a6c1208889e01fcac874f296f8f030cc0d943a7c81323aa792f0c78"
-    },
-    "coringa-pet-A-1": {
-      "nota": 0.4762,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "a1968056260179df14a910e1a3273388344809a635e2f733267413aac43ad6cc"
-    },
-    "coringa-pet-B-1": {
-      "nota": 0.577,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "6c773a840808ad6f296cf48b4827cd02559bbbd63ffc65e3a841ee39107fec63"
-    },
-    "coringa-pet-C-1": {
-      "nota": 0.6127,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "1054020beae47b875af7faa02c9906b90ad394594c641df971c49a7e96a81f2d"
-    },
-    "coringa-pet-F-1": {
-      "nota": 0.6479,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "8549f0c9a6c15af9c1f0cd3c1c12aabe9e23ccb875868da14bdc46cb9189f6d0"
-    },
-    "coringa-pet-G-1": {
-      "nota": 0.6776,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "3c3db5b79b71992fef3900913ad6927c1f9bb8fd29d6ea933c2b951c9aa8821f"
-    },
-    "coringa-pet-H-1": {
-      "nota": 0.0815,
-      "rostos": 3,
-      "onde": "banco",
-      "sha256": "cefe7b41a05ad43bc70630eb65b90c7e46adbb65dccfee0f671e69cb920dcd97"
-    },
-    "coringa-podar-A-1": {
-      "nota": 0.6169,
-      "rostos": 3,
-      "onde": "banco",
-      "sha256": "72361733a0e582b9ad9aed68d7428a295b0e54f5e2fd0d93df657ff733b50d91"
-    },
-    "coringa-podar-B-1": {
-      "nota": 0.7213,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "d1a071d2f8057c2eedacc8b01808da5a41e4d7c3e2e407aa85ee86e557b10b43"
-    },
-    "coringa-podar-C-1": {
-      "nota": 0.7564,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "6b3663a07d34919abd7e78617b60a4c7e167dbf63fb28609f334bdbef7e88d80"
-    },
-    "coringa-podar-H-1": {
-      "nota": 0.6016,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "de39c2ebdc7090ec65bede5b835d46182c36b320d34f505ca14c8e599390ca76"
-    },
-    "coringa-praga-A-1": {
-      "nota": 0.7044,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "772a679ca2cb54d14690e4c9844a7a07f4655c1b1f6f7d32863fc162cd9db10a"
-    },
-    "coringa-praga-B-1": {
-      "nota": 0.5919,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "260ba0b109111f5b99903e0755a1e55b96e0aac358d9776d4f541517add32fd9"
-    },
-    "coringa-praga-C-1": {
-      "nota": 0.7483,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "0bb5cf5a0f2e55dc29e63705a3917cb6051cbf758c1281b040a521c98c4ad6a6"
-    },
-    "coringa-praga-F-1": {
-      "nota": 0.6838,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "083deaf260e0dac3120ea5244c747be2d69f6010b63c1320c7dcc89a6d0eb7f7"
-    },
-    "coringa-praga-G-1": {
-      "nota": 0.5694,
-      "rostos": 3,
-      "onde": "banco",
-      "sha256": "a8caf94ceab503c3ab27b95d1192abb9b7ea9fbd03e8fd20a1009cee5bc4b6aa"
-    },
-    "coringa-praga-H-1": {
-      "nota": 0.6195,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "355767f6f7a12d5a7a35a4ede1082f76420dc07950471f5393b4089cdce90b0e"
-    },
-    "coringa-regar-A-1": {
-      "nota": 0.6849,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "1f2d2faeca9c110d8d64469f9ecbff692e314c5275911d552b762c9d5a06a9c3"
-    },
-    "coringa-regar-B-1": {
-      "nota": 0.5734,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "57af1c7775e74c3b2e86e20eeb6e29a93f680b875a8a7d1311952a665f952ee2"
-    },
-    "coringa-regar-C-1": {
-      "nota": 0.721,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "92ddced6cf20acb77b0ac29e4b46c979958cb6f7aeda79dd7af582955bfefd51"
-    },
-    "coringa-regar-F-1": {
-      "nota": 0.6874,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "659c4de1971009a9747873a8bb76a77f64445c24e2e01f985997c547145e046a"
-    },
-    "coringa-regar-G-1": {
-      "nota": 0.6085,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "4d6f93beabbb3e2072c2be33f9436caf114ff5737bfc8cc12d32557d91eaf92d"
-    },
-    "coringa-regar-H-1": {
-      "nota": 0.6483,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "245243f3e8bf8b0956737705e29fba0ae3a611f4e1723b0629d74f9bfc7ae702"
-    },
-    "coringa-solo-A-1": {
-      "nota": 0.7492,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "60568352df804cee691c573a75ef7b2a75abe151a889eae468c30b6603b9b7af"
-    },
-    "coringa-solo-B-1": {
-      "nota": 0.6571,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "82e93f51e1cea71ae0d4537a5d677c5d709831cb79fd74e165098c5d03ab9321"
-    },
-    "coringa-solo-C-1": {
-      "nota": 0.7136,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "f3205167b569d7fb7d56969bcbc36dd275f86cda81879d95033accb7b9acc1fa"
-    },
-    "coringa-solo-F-1": {
-      "nota": 0.7241,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "a999f61b40f640b64b4fd2c75206cb77201c91ab44df2ab7f3b1379ba023847e"
-    },
-    "coringa-solo-G-1": {
-      "nota": 0.6785,
-      "rostos": 4,
-      "onde": "banco",
-      "sha256": "9bc2b2cdb59f4de849622f060e152013723aad44686ab7936cc9ccfebcc82b29"
-    },
-    "coringa-solo-H-1": {
-      "nota": 0.6944,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "a96db20e9f2952ba26fab604fef4ab43695fdc7cdb2ee14268684e8c1587aa97"
-    },
-    "coringa-trocar-vaso-A-1": {
-      "nota": 0.7143,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "13bd1b0c2742c49adaf2bc443dd617d1230b19028285f1b7a1bf9ceeb9d1558f"
-    },
-    "coringa-trocar-vaso-B-1": {
-      "nota": 0.7509,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "72fad03826c9c9efc59209cff4a2ea2231d2d97f401e1141a40b7c4e98f0a7c3"
-    },
-    "coringa-trocar-vaso-C-1": {
-      "nota": 0.7254,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "9d1151ea22efbf22f5e22a59c48bba01e609e1f8a15424ece0c641401219a2d8"
-    },
-    "coringa-trocar-vaso-F-1": {
-      "nota": 0.6358,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "f564ecba1239611506870b2f34b49342ddddff32621abab8ad5b7106d442152e"
-    },
-    "costela-de-adao-A-1": {
-      "nota": 0.6637,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "c5522981006c24b4b1887ee74975390009c91f2687d3944178b3a5409b4dfad8"
-    },
-    "costela-de-adao-B-1": {
-      "nota": 0.6142,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "2b1f44bc7733b30aac016eb10c7cfbc5d61211ed961e3365608d2cb98752d71c"
-    },
-    "costela-de-adao-C-1": {
-      "nota": 0.7126,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "22ef066e4c1c132aa0d56fddab2ad5e2d7f11a4d98af615f7cf540828bb1ce3f"
-    },
-    "costela-de-adao-D-1": {
-      "nota": 0.7108,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "bd1c5d37a6ee4b3e09e26646916d875bd83f2c28d2716c85eaace1f249547b9f"
-    },
-    "costela-de-adao-E-1": {
-      "nota": 0.5372,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "d44fa362952bd7ad2ffe1722612a415f023707ce8b24f21b183d8d5a2a9dbb04"
-    },
-    "costela-de-adao-F-1": {
-      "nota": 0.7609,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "825403cfe996829679bee1426a48f9ae6ff3a5aae671433c6bf4386b1026b944"
-    },
-    "costela-de-adao-G-1": {
-      "nota": 0.3151,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "24a2b3aa60f152cea0f9a1560725b1df1dc97d4d081947277df8c83f858376d2"
-    },
-    "costela-de-adao-H-1": {
-      "nota": 0.6504,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "fbd1f84f97a5e1e358debee0c1f5e5e0cdfeb946c49a12fd742384a8b08023da"
-    },
-    "dendrobium-A-1": {
-      "nota": 0.6356,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "0a3951a4727b3a577573fc2f5671d21ec6c82d6ed24b62fd44d6ba80bef5c7d3"
-    },
-    "dendrobium-B-1": {
-      "nota": 0.736,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "83f6f05295f031949ebaf093d9bb296d6e9ed3525b870f512f01ae542709bbf8"
-    },
-    "dendrobium-C-1": {
-      "nota": 0.7141,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "f9c6ef7dbb8892c4933aa61dc47e364e1259c022473002b983af03244fe42246"
-    },
-    "dendrobium-D-1": {
-      "nota": 0.6907,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "a9be8a7268b0d8a077512c2df024f7d808f3c62f40881281e383c606be37d914"
-    },
-    "dendrobium-E-1": {
-      "nota": 0.5475,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "7dff8d03fbb4dce52602bcc8ba22224aba613cb8e5d0185e63e01c51355687a4"
-    },
-    "dendrobium-F-1": {
-      "nota": 0.7619,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "eeb0e1fce89686203922e621871970a5bae127c8357d50b51ed65ecbe7ffefcd"
-    },
-    "dendrobium-G-1": {
-      "nota": 0.528,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "0d895a093ca76d14403660fa714fb29355c5f5fbd3f2428f3b6eb537259defdb"
-    },
-    "dendrobium-H-1": {
-      "nota": 0.6898,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "0fac82528d8abc03829808146ea8c5adf8727c5f496bce10ea976655b0e0960c"
-    },
-    "espada-de-sao-jorge-A-1": {
-      "nota": 0.6672,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "7b05deecdd80d5201fc5372fef7349ae3f50954b6f7ec09116f72f24fb38250e"
-    },
-    "espada-de-sao-jorge-B-1": {
-      "nota": 0.5221,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "5c7109528217a5fb776751b43e7e7cec54245c4d596625087261fec838ae9155"
-    },
-    "espada-de-sao-jorge-C-1": {
-      "nota": 0.76,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "7bd2e9156a8a7b6fa3f78d2d9ea725fe33de5e516d77fad4a979dc5e338a9e87"
-    },
-    "espada-de-sao-jorge-D-1": {
-      "nota": 0.7026,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "a456333df515bacef45c4ecc874f654a0f11061c24b3da2e3718b8a27a673fef"
-    },
-    "espada-de-sao-jorge-E-1": {
-      "nota": 0.4221,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "46264ce23d51443897d581401231a71e25daf7223cdf63562146715c36b69e15"
-    },
-    "espada-de-sao-jorge-F-1": {
-      "nota": 0.7757,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "28b76d15450368c7bb404314ddefae2fb7081b75d3a08f156030797684d64eb4"
-    },
-    "espada-de-sao-jorge-G-1": {
-      "nota": 0.374,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "8d10b3fc925b8c0e1ef88dded86627dc723051628df763da68963000d863ef19"
-    },
-    "espada-de-sao-jorge-H-1": {
-      "nota": 0.6302,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "77aef0e1e7f8842cce99347d58bd8d4ab9c263b8421e683cb25f31e9b5a2b64e"
-    },
-    "girassol-A-1": {
-      "nota": 0.6256,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "d81842d6dea28460b639710c7bc117117936dcdfdef2245b68b4fc0dae445ceb"
-    },
-    "girassol-B-1": {
-      "nota": 0.5426,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "274ff1e179d340fac5dcc366abe0d137d0fa71e2856055963cbfd16908157546"
-    },
-    "girassol-C-1": {
-      "nota": 0.7678,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "16fd001888be13a43bb3d747f0d7dd7721847048e68c0c8e2ea201f672d937cd"
-    },
-    "girassol-D-1": {
-      "nota": 0.7313,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "fd047112ddbcb64b49d76ef142b56e17d1d043e0b47a6174b0dcd7a62df90ff3"
-    },
-    "girassol-E-1": {
-      "nota": 0.3221,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "a6b32cebc5390a94d97c0adc2cd2533233ad0d4b39455b4066e59ee0cb9781b1"
-    },
-    "girassol-F-1": {
-      "nota": 0.7346,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "62cc722e6038bc1fbb2a50f0481b51b9c4098d9812a0b0a657dce9f383d5b9e7"
-    },
-    "girassol-G-1": {
-      "nota": 0.5435,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "3db83b1fad0219005f5565a81b6b566da530d5fe7f22d4fa44ee79c468eac0f1"
-    },
-    "girassol-H-1": {
-      "nota": 0.6519,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "96de1998e8491165b6e6936a70d60130825dd22ad95fdd628815653210da3aaa"
-    },
-    "grama-A-1": {
-      "nota": 0.6402,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "b438f1ed4b60e28b76d88a766081ba03963962f9d966db1f2d7595bc35d10017"
-    },
-    "grama-B-1": {
-      "nota": 0.5098,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "7fb20ab634cad833a10b85fa05217f682704f0390ca5c8799cac2e4493a8cb99"
-    },
-    "grama-C-1": {
-      "nota": 0.7959,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "8af53b81673414badca7ced8e0c29f8c5a06b5b942b020a07fe52bf05a47f76b"
-    },
-    "grama-D-1": {
-      "nota": 0.7756,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "020d98080c2b3567c2b82b7eb0c6ab498722538a153cbb42d6fbb441dd10335b"
-    },
-    "grama-E-1": {
-      "nota": 0.4125,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "d689af2f5f88f8041716c370c578dfa69aea183a4110c1482e503a4fc889c2f4"
-    },
-    "grama-F-1": {
-      "nota": 0.7789,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "faff04d9451aefc8abbe6c8ecfedb850cc0f19906d89730d71d600b6bf6c6bbd"
-    },
-    "grama-G-1": {
-      "nota": 0.4615,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "5d52490f75215496852354e0eb5fb6b591beafc44c5591e8219b467a2e067ab4"
-    },
-    "grama-H-1": {
-      "nota": 0.2081,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "774387e5a84ccb4a28996a8ded35beb3c0c1c01503d2d870f065effd8d64c9fb"
-    },
-    "haworthia-A-1": {
-      "nota": 0.633,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "30cd5ae09dd6f69b768dd8b2df2f5c7ad83250e9455a7e21016ee6d11706a764"
-    },
-    "haworthia-B-1": {
-      "nota": 0.5793,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "d1028ec4abb976d685b824ebaf3e118cde03e7b0e33139fe6a105c31f807d73f"
-    },
-    "haworthia-C-1": {
-      "nota": 0.7046,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "6cd50b5e034ad701dda74642a7058d592eaba19dbd004cdf71189e19d6f2aa14"
-    },
-    "haworthia-D-1": {
-      "nota": 0.7404,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "9a2bbb4543d9882db4927da1215137989c0b6b095f0addfa10604cf72f1a9468"
-    },
-    "haworthia-E-1": {
-      "nota": 0.5449,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "1953f519af29d6fc0505b1486d6df0c37415143de69ff9d24619a5dd916e8256"
-    },
-    "haworthia-F-1": {
-      "nota": 0.7327,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "ea2898bf42c235e1cefb7f4f9b27dab507c1e46dbbf236f33feeceaa460461d6"
-    },
-    "haworthia-H-1": {
-      "nota": 0.5559,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "a8f009e4d8cc04992c006c5de568840cb767c3879f71a26c6e4200a76871b41b"
-    },
-    "hibisco-A-1": {
-      "nota": 0.6363,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "91c5a877c70e1df433f0863cacafa681ad32e623c4d4fab17ea31cf9e92f3a69"
-    },
-    "hibisco-B-1": {
-      "nota": 0.5917,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "710c04b16ade014e1d2bfe6cbb65ec6271785fe063434c31719ddb9c9b053c80"
-    },
-    "hibisco-C-1": {
-      "nota": 0.7208,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "1b05c7065a7c1630a9d9e885b310e8eaf61b0a7173c85762ba23495de13f5080"
-    },
-    "hibisco-D-1": {
-      "nota": 0.7389,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "1749ac27ff2e01a1e562eed3a05046a84c8245052b0458d9e86a533e9339a1ed"
-    },
-    "hibisco-E-1": {
-      "nota": 0.5859,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "3dad1856d9f04056c2483dd6f53e5e7b3e25a0fcb1ad3072120b9b9381582a88"
-    },
-    "hibisco-F-1": {
-      "nota": 0.7566,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "7b78c9eed68765b886a7b2bd5bffc22f5816c9edf2ab97225d052a0801dd900d"
-    },
-    "hibisco-G-1": {
-      "nota": 0.5843,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "09855da0383dfaaa2a0c1b97f4cba43570f7db24bd447c611dbd6f282e1f8e97"
-    },
-    "hibisco-H-1": {
-      "nota": 0.5758,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "2a7785fc125bd744b7ba2a31f2b66d46b2e98e3b0aafdc83cfbdfe83cd0c23eb"
-    },
-    "hortela-A-1": {
-      "nota": 0.6521,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "b90cad320059fbd1b2bbbb0e8a15bc0733cec9306cc25b9fb24ae8efdf5f4eff"
-    },
-    "hortela-B-1": {
-      "nota": 0.5523,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "be48f80f1daf82af28818b1e1ea48a4119317c9cf7a66c20726ecaf2c28ce08e"
-    },
-    "hortela-C-1": {
-      "nota": 0.7348,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "640bb3e9e332a8c60b28cfee85372d56bd4676547e8a58ccd12c83f7a2a62ba0"
-    },
-    "hortela-D-1": {
-      "nota": 0.7492,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "76a7d8410c25cf52c2ce9328900a8ccf4797440a49b5f579f3722860ba82dea5"
-    },
-    "hortela-E-1": {
-      "nota": 0.6299,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "88563d367d1c59073548cf401ac1b7ca9738d294ec4a4fa9ebbdbf7cea33580b"
-    },
-    "hortela-F-1": {
-      "nota": 0.7352,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "488e5e5d4bb4affe589e124d8a5b3a4d3c43fe23a04183d30cae3a450e2d1915"
-    },
-    "hortela-G-1": {
-      "nota": 0.5748,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "5daec08daa6a6d19b02c5938e02d5f48e983b057ee4ecef40138d1fd8dcc35be"
-    },
-    "hortela-H-1": {
-      "nota": 0.6615,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "6df026a1bfa73ed2c46d61be533c2be643e5d1651b09f8b304b053eb48cebe77"
-    },
-    "jabuticabeira-A-1": {
-      "nota": 0.621,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "858b13c4e923be085afc324d6b8985efefeed9816295995a4fbd5011e4855fd2"
-    },
-    "jabuticabeira-B-1": {
-      "nota": 0.5274,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "3dbf934ff7aea278806630e54b61fdb125bf3f8a87d342c87e34cc014b065909"
-    },
-    "jabuticabeira-C-1": {
-      "nota": 0.7296,
-      "rostos": 4,
-      "onde": "banco",
-      "sha256": "dca8e0fa4800ec57e5ca5452d86a67110190c9c05301147b504f2ff404f19a12"
-    },
-    "jabuticabeira-D-1": {
-      "nota": 0.7728,
-      "rostos": 3,
-      "onde": "banco",
-      "sha256": "9c13d92f67213d9a245b50e8d446674a6b70461678c67cbf4a21c72a563ecd63"
-    },
-    "jabuticabeira-E-1": {
-      "nota": 0.4953,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "168503ce47586be732ec971859c77157e93661600e41b5e7decdd07038981db5"
-    },
-    "jabuticabeira-F-1": {
-      "nota": 0.7446,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "b776a3e5aea3ce2c950798965b3029b49724c78c9bd3f944b2a4d4ca2fecd356"
-    },
-    "jabuticabeira-G-1": {
-      "nota": 0.4796,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "56531bb4e9cb5ba987ce9c20a4ca26dd5c29c3106c15b5951654d95ad7230537"
-    },
-    "jabuticabeira-H-1": {
-      "nota": 0.4202,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "ee02f1c41f48ba8edfeb7e18b4f872073fc701962329286d1d299c330aad858d"
-    },
-    "jade-A-1": {
-      "nota": 0.7255,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "6bbd87f68fe9b7b3927905f7588193473c33c5419cd9a5a80e41fb8e03001e22"
-    },
-    "jade-B-1": {
-      "nota": 0.5476,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "bd51372dcfab440ef8421e2ad212db2130e65260925d9783e5976b76c61fe6c6"
-    },
-    "jade-C-1": {
-      "nota": 0.7564,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "afa7424f7718bc806a12ec89ec2a4b53e41e7539a3c6f325d3b05ae8c28ab6dc"
-    },
-    "jade-D-1": {
-      "nota": 0.7202,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "a6acd78cdfbe61033a03165cbdf9c6dbe519fd401a34630664f280f4376ddf82"
-    },
-    "jade-E-1": {
-      "nota": 0.5265,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "f4536f062bfd21c53a8e482f5c645974432aee800e80a0a66b79088e2d06efd3"
-    },
-    "jade-F-1": {
-      "nota": 0.7686,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "14974ec9a3b79bafecdf6e2c63c096e2a6d5e4a0e189e9d53edc74a2400684dc"
-    },
-    "jade-G-1": {
-      "nota": 0.4246,
-      "rostos": 3,
-      "onde": "banco",
-      "sha256": "f3120d62074af4a9ec7aad6887a809f5fbd714aec3a1a201e4ba4e206d9c9cf1"
-    },
-    "jade-H-1": {
-      "nota": 0.5693,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "f1fad66bff10e638e8949c4fa45554f24ee0bdab5a99ad912093c382be6171d5"
-    },
-    "jiboia-A-1": {
-      "nota": 0.593,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "bb5732039048621f421394d30f93e405ab90a918b0e1a0c9cc83ba74062c4fbb"
-    },
-    "jiboia-B-1": {
-      "nota": 0.6431,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "b9af8238b85b5f0671740497a85c5e4d517fb25d2b7b16a01bb4e6bd8bcaf9a5"
-    },
-    "jiboia-C-1": {
-      "nota": 0.7137,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "1cab70cb3a53aa825f58f0fc91876a2038917b64aead1c1ea0d2826066c792ac"
-    },
-    "jiboia-D-1": {
-      "nota": 0.6192,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "887cdbc76c21aa947cf0b60b9283d63ad4f95f37fa9122a6ee038d02b6197524"
-    },
-    "jiboia-E-1": {
-      "nota": 0.4645,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "b97984eff4b1efe628748bf40fa07db11fa23cc7c13d1aca6d1eee1163f7a943"
-    },
-    "jiboia-F-1": {
-      "nota": 0.737,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "b850d445711d93a4ff91c77a4dcf1b9c7372312bbc496f54f66e1c8d34a72c2d"
-    },
-    "jiboia-G-1": {
-      "nota": 0.5478,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "de1cac2100dece84de804d24beae6ff18ece971dc249390e82ab75bf25f2b8a8"
-    },
-    "jiboia-H-1": {
-      "nota": 0.5508,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "f5d722c45c2dd72b37414deabaac8a049c214df13a7071126ac4b6cd44dc02d7"
-    },
-    "kalanchoe-A-1": {
-      "nota": 0.6286,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "25e10e6ce828dea504106043035e452d38a098e02cc52d72740913ae3cafee36"
-    },
-    "kalanchoe-B-1": {
-      "nota": 0.672,
-      "rostos": 4,
-      "onde": "banco",
-      "sha256": "6db1f92843b440acf17ad15f0ca6634740287946e72883a50c6b68ffbf35c1c3"
-    },
-    "kalanchoe-C-1": {
-      "nota": 0.7052,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "5d5b253e22a301f716f93de08065d8ca2aec14d1ac1ee3dea0d9997d6a6ceb01"
-    },
-    "kalanchoe-D-1": {
-      "nota": 0.6881,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "0da4d9095ee5648c0c28f89adac783cc0c8c0b266cc03afb648bb31515393953"
-    },
-    "kalanchoe-E-1": {
-      "nota": 0.471,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "d127ea6f3bb5c8e8cd13883bcd27f0b28fdf3cf6d05e2b61c3675577612b0848"
-    },
-    "kalanchoe-F-1": {
-      "nota": 0.7131,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "f615c008c4145d507427e9df794e192d19427a2c47f1d5abe517b1219dd07e65"
-    },
-    "kalanchoe-G-1": {
-      "nota": 0.3571,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "b276482fd3d8e90628bf31998894480eff5c24db572353f9b6f74f3fe3efada8"
-    },
-    "kalanchoe-H-1": {
-      "nota": 0.5596,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "93613c0305f772084ba78b7482a32380919b5d2203abd5d8ddaef6a4612dfa81"
-    },
-    "lavanda-A-1": {
-      "nota": 0.7057,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "bfdcfc8e1f7e9382313f8f43af33c46253fe0353da0549b709184b9b0a06edde"
-    },
-    "lavanda-B-1": {
-      "nota": 0.5291,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "174e6572d778be0e87b0a9f07610f2023b56276bcd935a91bb3f6247c3bd4730"
-    },
-    "lavanda-C-1": {
-      "nota": 0.7449,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "5d47a58d6d9094c1e8fae76b103618dec0af745e9c5fb2bf1e2e5d6cc4575cc3"
-    },
-    "lavanda-D-1": {
-      "nota": 0.7251,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "c5330213d7e71e53fe4b6d487a85fe78edad6f34f1c9e2345a39f7d077e34b97"
-    },
-    "lavanda-E-1": {
-      "nota": 0.6254,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "b8403b9d59306886f4d6340a157b33e574159dcaa7a6a51ee9fba613a41e128e"
-    },
-    "lavanda-F-1": {
-      "nota": 0.754,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "d25557c50329e611b497d4d5f11e7da32ebb7f880176e2aed915b96ac0b80745"
-    },
-    "lavanda-G-1": {
-      "nota": 0.3212,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "383953c666a616b82e1d07b50f1a81c37807d293ff88c7eb687974dd758763d4"
-    },
-    "lavanda-H-1": {
-      "nota": 0.5925,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "a5a1927295c18738590b5baf5d2e95abcc1cb3d0ab91e44102c85f7f6fad75f3"
-    },
-    "limoeiro-A-1": {
       "nota": 0.6613,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "7428424ac7184b0bcc521a3528eb4ac1c6497f76add363a1d55ed2f30bc6fc44"
+      "sha256": "2138a522a710fab7ece183d1d561491626d54f367bdd607cb3e5bfdf02c4faab"
     },
-    "limoeiro-B-1": {
-      "nota": 0.5724,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "a3effbcda1ffdab7f5bafe129674602b37790a1bbdde6b9ec1491c172a9c0162"
-    },
-    "limoeiro-C-1": {
-      "nota": 0.7154,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "f9efedf84b32f60a82ace44f9cae695404c820460ad35a48e5839050d2542a07"
-    },
-    "limoeiro-D-1": {
-      "nota": 0.7028,
-      "rostos": 3,
-      "onde": "banco",
-      "sha256": "74dc84f0865b6926b5f293bd0585300b3c59fc11721379d7cd59678ee26704fb"
-    },
-    "limoeiro-E-1": {
-      "nota": 0.4614,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "c770bf633ffd498c404b814df54ea495318d191f01793c17e5840e7301a9dc87"
-    },
-    "limoeiro-F-1": {
-      "nota": 0.7389,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "22408bb7906a482f3a0bd9b9c0efec3f978f8ff3d85095e92bd07da6fb812b59"
-    },
-    "limoeiro-G-1": {
-      "nota": 0.5592,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "a8a212a838642d3934013911bd2648b6f2cff84855d919e0835e2e6c5018e336"
-    },
-    "limoeiro-H-1": {
-      "nota": 0.4865,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "6d76a944dd02205ad1cb3681f51d29adb68b18989daa883104c57afa0d0cb1be"
-    },
-    "lirio-A-1": {
-      "nota": 0.7191,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "cbca24ae0b6fb273b88de91510fd096ac9ad62a9c91c17a74787882aacda803f"
-    },
-    "lirio-B-1": {
-      "nota": 0.5385,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "7135b9e696df083d5647bed9c2ef4a54e64c5bdbb164df91c7ac1ea4f815c740"
-    },
-    "lirio-C-1": {
-      "nota": 0.75,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "21406b94c122059e6e23930b1a1504f594ac237fe7e86d08b72430f7a5f97792"
-    },
-    "lirio-D-1": {
-      "nota": 0.7238,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "d3cdc5e130d2036b350032a58cdd6a6739fbd765bd4f719f8b83aa2dcb434062"
-    },
-    "lirio-da-paz-A-1": {
-      "nota": 0.68,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "bb9f6e755df0544b34174ecf055bae2cbce2b3fd60e769bf243a1a4b3a80181b"
-    },
-    "lirio-da-paz-B-1": {
-      "nota": 0.6005,
-      "rostos": 3,
-      "onde": "banco",
-      "sha256": "5a2554d157f103eac85e824abfb375122208704fa511d87c58e6abf44f045e33"
-    },
-    "lirio-da-paz-C-1": {
-      "nota": 0.741,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "8de5904d422747db6dae2d1ba25c2ae5503d530e15814ba8addd94508ffce3ac"
-    },
-    "lirio-da-paz-D-1": {
-      "nota": 0.7538,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "7595f1f06ca22470b73990daae188dfcf02887aa5530a1816dbd8b1ccea7178b"
-    },
-    "lirio-da-paz-E-1": {
-      "nota": 0.5803,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "9b796eec4738588862de4c24b41b50e2df88d7c93feff9c0cac0dcae78a4e6ab"
-    },
-    "lirio-da-paz-F-1": {
-      "nota": 0.7542,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "10a725d0a3a949dbf3de3b2f92a5bc7b645329acc7400ac54a97081b588a8c4b"
-    },
-    "lirio-da-paz-G-1": {
-      "nota": 0.4935,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "36d4264f641df70549b5e24c946e51f9f1950fe9e4643b9ae8c160d38473661a"
-    },
-    "lirio-da-paz-H-1": {
-      "nota": 0.5832,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "5e62ff31760e9d163a4287bd99b9681424f845bb9bf4ee8795d9084642fd8444"
-    },
-    "lirio-E-1": {
-      "nota": 0.4572,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "9e95461f658f9f5aca2aed59f9f4671a0aad8d44e5a81212cd7f0c8e3d870165"
-    },
-    "lirio-F-1": {
-      "nota": 0.7257,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "1f0d6e25804f17954e7654922900b813138ee2e22d102e0bfc64d2165db7e451"
-    },
-    "lirio-G-1": {
-      "nota": 0.4205,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "6595b588c1e795b7a9e96c89e24bd0f096e9626a6d3c7a9d1c69d3f5f9be3e0e"
-    },
-    "lirio-H-1": {
-      "nota": 0.7101,
+    "alecrim-B-1": {
+      "nota": 0.5652,
       "rostos": 2,
       "onde": "banco",
-      "sha256": "b47b8afba8739d74afe5c986ae4903bd044571353d476479e63206095a4e5a55"
+      "sha256": "4201cd1ac460c05902f2f316a9474d31a3826db8bb246d7ffc6524475ae36769"
     },
-    "manjericao-A-1": {
-      "nota": 0.6353,
+    "alecrim-C-1": {
+      "nota": 0.6526,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "4c7881cedd7bbff71a3c59e3000a4466c56571c911db45b73ce0a18489009d6b"
+      "sha256": "f4f2adb13101f022eec00e1fa38b7f3fa8b7bf9dfbb87844effb9eba7f46279e"
     },
-    "manjericao-B-1": {
-      "nota": 0.5845,
+    "alecrim-D-1": {
+      "nota": 0.6949,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "747f5196a76fe6796f53b95ffc869c890e4fae587dc470f0381396849c7c0ca9"
+      "sha256": "9f7e779fdf6fcd8bf3936c7846bb1e0049838f81b4442f060d50843e600e45cf"
     },
-    "manjericao-C-1": {
-      "nota": 0.6683,
+    "alecrim-E-1": {
+      "nota": 0.5619,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "0b1cc8580bf0ec33539e10294829a575d523958cfe6cf16eddedd03ebe415b9d"
+      "sha256": "19eebef481c6bb3dc49b585ffb2c77f6b22db1c0fc64d33da1f665a8f0f16189"
     },
-    "manjericao-D-1": {
-      "nota": 0.698,
+    "alecrim-F-1": {
+      "nota": 0.7124,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "2003f519e8f77ff11a41675f5bcc85296e5ab2d160058c90562e1160b1b5ccf4"
+      "sha256": "83f157f27644c1f0b4a91bfff7b080f777bd3cbb98ad5fb2eb280d9dfc1264e6"
     },
-    "manjericao-E-1": {
-      "nota": 0.5706,
+    "alecrim-G-1": {
+      "nota": 0.5089,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "8823280ddc50985eb5fd736c11e2956cbc18d59ca9d8b383774e19342add10dd"
+      "sha256": "7ec86c028189f1e4a2d986ddd9c3c63f2b55a73b01ca33a88474179d142e340b"
     },
-    "manjericao-F-1": {
-      "nota": 0.7479,
+    "alecrim-H-1": {
+      "nota": 0.6091,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "1e0b7e0d9c1410f90dea5efe3113d59d1ef4514fa39dc0bc1b806ab5f62ec5d2"
+      "sha256": "6d115d650a4293a602c43eadcea23c093df5228ede48e84cd2be1f32996d896e"
     },
-    "manjericao-G-1": {
-      "nota": 0.4211,
+    "alface-A-1": {
+      "nota": 0.535,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "cb0fcdbf01da64e83ffd96b5106214ce9cd03a41d6ed6377b76a8698653d10f8"
+      "sha256": "12864a836c5267d8f68da5168e594794c06d0e96b00bae1f9ee8f94c8f59daf4"
     },
-    "manjericao-H-1": {
-      "nota": 0.4859,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "dd779f2b874c509ce05f32a619392450eb27c0a4ab9cfa0ec5bbefaa942acf5d"
-    },
-    "maranta-A-1": {
-      "nota": 0.6034,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "9326d302b8d8b3ea95cc072afc23450654c0b36a69c7f90f609e14c30894df3b"
-    },
-    "maranta-B-1": {
-      "nota": 0.5804,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "bfd41c8a4b5c770a9baafdc361eaa8d352685b842500fd1d7a8c16344cd50bb5"
-    },
-    "maranta-C-1": {
-      "nota": 0.7172,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "979c55f3ad3c7a36bb60a88c2a11a09b5d7cc50d4e8800c3a1f70c5c3e9d981e"
-    },
-    "maranta-D-1": {
-      "nota": 0.6962,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "ccfe1bfa87128c9e266c55ed71638e647e0f4125c381a99907cb506237ffde97"
-    },
-    "maranta-E-1": {
-      "nota": 0.4443,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "3b5247d9ae6d2c35b22efcc23d7d7a4aed527e40927a95fe2c64a0551faf85f8"
-    },
-    "maranta-F-1": {
-      "nota": 0.7251,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "d48b3e593fad15b20af33d23bae625aaf4fb37421ed00f8290477e6e79485709"
-    },
-    "maranta-G-1": {
-      "nota": 0.4473,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "070646ac1eeef81c2220b29e2890a7f8af1675777ae4327d8bf378c841897258"
-    },
-    "maranta-H-1": {
-      "nota": 0.7472,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "a0cc757dcf2822d050cd39a4b8f94b6972cfde3c7ac94cc270639f62596eae96"
-    },
-    "morango-A-1": {
-      "nota": 0.6702,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "40c83fa80d0d4ca533562f2d4f47e4c4e183bf2b486e2f25ae285a3598ad2102"
-    },
-    "morango-B-1": {
-      "nota": 0.6279,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "7f4990b31341a24c2489e73904648751b276a00224ea169c2e2472cdf531b60e"
-    },
-    "morango-C-1": {
-      "nota": 0.6933,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "1f462719fc60bd17ff6917782883522082d80fad3bf17b497b086a48b06acf8c"
-    },
-    "morango-D-1": {
-      "nota": 0.7026,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "d472839cb290f42b25beaa1e9c5e83d3caed7738563ef5da9250f0e07f0e785e"
-    },
-    "morango-E-1": {
-      "nota": 0.5375,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "d613aa4d847d8922d0a9c91170237014ab9057e1007fceeb3c642e54189f8733"
-    },
-    "morango-F-1": {
-      "nota": 0.7277,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "3764c47b641c6faf0ce39db96017442a30878d9a226d86d183f27b64d551c8e8"
-    },
-    "morango-G-1": {
-      "nota": 0.6003,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "b47d555445f4167630bc1c1b5c1ba4af1f12a88377df92862bcdebfb308f9041"
-    },
-    "morango-H-1": {
-      "nota": 0.5345,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "e1426d865f5e2bc2551b92b4603d1df24c93e8d3f68acf39781ddebfc9d149aa"
-    },
-    "orquidea-A-1": {
-      "nota": 0.6843,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "eeb96326c1c81aa77814c9c7cb53a6121a8025bdbbe43c464af8827fe9adf473"
-    },
-    "orquidea-B-1": {
-      "nota": 0.6231,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "97594efa12b85765b417cc20375337d6e6879cd1e3731d8f193a95a68ef937f8"
-    },
-    "orquidea-C-1": {
-      "nota": 0.7507,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "21ea5425b621532ced8368a1dbee54c0b768206d9202527bd03b58dfb0ae94b0"
-    },
-    "orquidea-D-1": {
-      "nota": 0.7593,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "568f385536c3360372b0083695bf888c9e6a53bc8d4cf863034959227f208a84"
-    },
-    "orquidea-E-1": {
-      "nota": 0.6029,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "3b2244e5578f4f37b1dc7ddf44450b3df852d9f45a6e561bade5af8164365ac8"
-    },
-    "orquidea-F-1": {
-      "nota": 0.7618,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "61eeff80671fbed032722fda7f8fad0b119926e5a220bcdca0fae81379c66336"
-    },
-    "orquidea-G-1": {
-      "nota": 0.4457,
-      "rostos": 3,
-      "onde": "banco",
-      "sha256": "733babe34c1e56de0141e255fce2a8dbae751c431487918bc45fa7ad6302ccdc"
-    },
-    "orquidea-H-1": {
-      "nota": 0.4887,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "dbfa4b79f9d5f841c05fcd9f94d63a054472e5cc45f4c31bf5711e384557f188"
-    },
-    "peperomia-A-1": {
-      "nota": 0.6445,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "4ada5adffd10a23c3bf8d61db9e674d87e479226a460fc294a3a73dd27db998d"
-    },
-    "peperomia-B-1": {
-      "nota": 0.3281,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "136e42249e903bba1648b651e019d419610412a9f79501284ba0eceee5640328"
-    },
-    "peperomia-C-1": {
-      "nota": 0.7538,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "baacdb1ebd1f7f8471356409b4c7c3d19014e5e88e24dfd34e764908d95cac49"
-    },
-    "peperomia-D-1": {
-      "nota": 0.7327,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "c23da5e835cebb7bb5fd3004479b2520a9d7bda7e75621b26882a5d7cea14c55"
-    },
-    "peperomia-E-1": {
-      "nota": 0.5299,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "321ae6b4f6a4f02b4d9d4173079796402e277165c3cb6b62b1e0c3a81a5455d3"
-    },
-    "peperomia-F-1": {
-      "nota": 0.7344,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "1b55261b50d973012c45305552114d5ad47df87c474918a4a23c3256c07b739c"
-    },
-    "peperomia-G-1": {
-      "nota": 0.5786,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "ae2ab6c3cfa0f635c8319ebbfedb898a649057765fb452a8f037523eeea430b7"
-    },
-    "peperomia-H-1": {
-      "nota": 0.6217,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "a4fd197ee9c5170372b649888f5340d0b236be7c2b1ecfecd3c5fc551f9f905c"
-    },
-    "pimenta-A-1": {
-      "nota": 0.66,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "6f2322662246c5daed3f4c6e03f1809cb80dba66c133f52933485f901dffa718"
-    },
-    "pimenta-B-1": {
-      "nota": 0.6186,
+    "alface-B-1": {
+      "nota": 0.5884,
       "rostos": 2,
       "onde": "banco",
-      "sha256": "ee13aec219d7ad3545559c748808169a110ced6cbff60fe74426cf72722be80a"
+      "sha256": "24a886834ef42728fdebcd34e62402c098527b6454023e4bad17c5cc15693018"
     },
-    "pimenta-C-1": {
-      "nota": 0.7495,
+    "alface-C-1": {
+      "nota": 0.74,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "3a9c2a5f90fd7cdefe610999cfd1aa04fec68985a20a511a1b39aa80a4f55cef"
+      "sha256": "f06c9ee1c0ab4b589b405a0290e6a2ea2a51473e9f5fb71d46e74992cebac7ca"
     },
-    "pimenta-D-1": {
-      "nota": 0.7277,
+    "alface-D-1": {
+      "nota": 0.7121,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "a66518a1f97e6b4e0ced0f8d483bf1334e45a2a20811b7cd8a9704560834a5a2"
+    },
+    "alface-E-1": {
+      "nota": 0.3108,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "50bfe4f1783b7e1d8bcc933ed9c3c5fdb94eacc7808f1d0fcd9f127a60f3c906"
+      "sha256": "750715dc442b2bfd1a7a5a883a53fb6a0aee7c61f891a9a88057ffe4bc4cd010"
     },
-    "pimenta-E-1": {
-      "nota": 0.5351,
+    "alface-F-1": {
+      "nota": 0.7252,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "ee4d228b2d6ae9b7ce181e342bbc81ef84727fcb5544177ff6f4a87d8853ffd3"
+      "sha256": "fd1b01ac6457b4f73000466a8228bfa972df89a789047f0f363fb1725bdcf43d"
     },
-    "pimenta-F-1": {
-      "nota": 0.7584,
+    "alface-G-1": {
+      "nota": 0.4258,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "e480249aa72b9fecba08d9825695d055236ccd61a5e18ba38c0dbba771454a5e"
+    },
+    "alface-H-1": {
+      "nota": 0.5064,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "8d6f55221d8558c1995299c3801ed8c969673b92575f2db0e61b1e307bed1989"
+      "sha256": "25f67d202238582676ad95583ee2d31ffde6e2e366409462ef62d3c91251986d"
     },
-    "pimenta-G-1": {
-      "nota": 0.5087,
+    "anturio-A-1": {
+      "nota": 0.6828,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "155cf278abe404ab669521795a5b78e1570d27e1ec1144b0e4a926d8a396bdc7"
+      "sha256": "e068260d22f82de7e46a1c38ef45515cb1d59964d9271a63fa2c8d26e18faa11"
     },
-    "pimenta-H-1": {
-      "nota": 0.6715,
+    "anturio-B-1": {
+      "nota": 0.5915,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "5e477fb75076d220dc760f4f281707ee0bad1e9fc72d742e5520c0bdfaa6b9e9"
+      "sha256": "1d806d05a0f56d2c595789554ae9d2dcf4b94da88e22ad20afe5d38033d509bd"
     },
-    "rosa-do-deserto-A-1": {
-      "nota": 0.6242,
+    "anturio-C-1": {
+      "nota": 0.7118,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "cd5a55a3406843be5a62064641f803ca35321352e5453ee4319857c43e35e67a"
+    },
+    "anturio-D-1": {
+      "nota": 0.6809,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "2be922ebc205234be501e678b34dfccdc1961bd7b2348b08cdaaa64b65ea1340"
+      "sha256": "309b6b3df085d7a35426d591be72790e9a375069e775043aedc2e1dc26d2726b"
     },
-    "rosa-do-deserto-B-1": {
-      "nota": 0.481,
-      "rostos": 3,
-      "onde": "banco",
-      "sha256": "e24c6c87faa5c0f0b4856006f564a9a109919a5cd91cdd90ccef6e5577b5e007"
-    },
-    "rosa-do-deserto-C-1": {
-      "nota": 0.7334,
+    "anturio-E-1": {
+      "nota": 0.5717,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "34a8f3f75eedde7fdd01a69e1500d136c643a149f107091e6dcdee39e50efd31"
+      "sha256": "7369a4fdca9159668937b9cf9a28919a16d597f91bee276611bec9f114017ee3"
     },
-    "rosa-do-deserto-D-1": {
-      "nota": 0.6948,
+    "anturio-F-1": {
+      "nota": 0.7213,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "1d1a4e81558b96b8a8ff45b5ac2f674c1f93a3779dad2e144719ca41e083f8ff"
+      "sha256": "9b38b11d224d77c92ece89f0861f0c92b14b6bc925119e12880c65f7f9bbe823"
     },
-    "rosa-do-deserto-E-1": {
-      "nota": 0.5521,
+    "anturio-G-1": {
+      "nota": 0.4352,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "f543868517d9c250a9be35a516850cebffdee24fec0c50d5081c7aad3b3d70b3"
+    },
+    "anturio-H-1": {
+      "nota": 0.5178,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "97c1f16bd6b8d6f8ccd8cb6d78d99a6c3db8d0baf70f0974a03db9a5130f06ee"
+      "sha256": "76104294b5d9744d5efba4c5cc47481ca10c324f84cb3e72e67da3e4b576699d"
     },
-    "rosa-do-deserto-F-1": {
-      "nota": 0.7437,
+    "babosa-A-1": {
+      "nota": 0.6648,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "ad5d66b2fcd47d4d8971d9a54b3fd3f3e7b58052f1013c5ee84142c343926c96"
+      "sha256": "92fce64fa90685b2e7b3419635cf5f0d3a03d14ae957239a79592083f5c9c769"
     },
-    "rosa-do-deserto-G-1": {
+    "babosa-B-1": {
+      "nota": 0.6041,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "dc113f788cd0e8b420dbcbf94f5582521d9b3ec9e74ce7cc1943445a8b189f08"
+    },
+    "babosa-C-1": {
+      "nota": 0.6964,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "43b4c17797490659211ffff72de1cc9c7beb5e5a364588487d20d4f0f7cc8e5f"
+    },
+    "babosa-D-1": {
+      "nota": 0.7232,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "abd6368c798ccdef85837eb6b212284c52501d66a868c18201dade7696c1f8b2"
+    },
+    "babosa-E-1": {
       "nota": 0.5622,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "9b98fdea2fddb3fd6535496badbee7d833c11ec342ee93c35188512fc26c0bc7"
+      "sha256": "7ba6e47f239f9c058b4ca31d802004af26539efda067aaa90c71e788ae79194b"
     },
-    "rosa-do-deserto-H-1": {
-      "nota": 0.6057,
+    "babosa-F-1": {
+      "nota": 0.7165,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "25b4e3f53d39d18d318020ff46436f707bc24744e75ee174ad8bcfc22afbe3a8"
+      "sha256": "96a5f928e0f19ce6b06d84dc8472446bfe17c917b5ec65aa4f4b17c485e2bc01"
     },
-    "roseira-A-1": {
-      "nota": 0.6471,
+    "babosa-G-1": {
+      "nota": 0.4349,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "fb112e178d4617c28a30c4d324a25e0987e1c94fbbdd305f8dabdfc44ea58564"
+      "sha256": "6fa3480e68b827d48a513f9a2527312e24f7349e81e137fb5cb35f42d072963f"
     },
-    "roseira-B-1": {
-      "nota": 0.5963,
+    "babosa-H-1": {
+      "nota": 0.6094,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "a155345355ad598dd44cda9252dec6351179fe3e95f75985ed2f789c7549a265"
+      "sha256": "b1dacb6229a3456f48bd5213290aa4bf5a456c851358ef0ea19571c117ec551d"
     },
-    "roseira-C-1": {
-      "nota": 0.7004,
+    "bambu-da-sorte-A-1": {
+      "nota": 0.6047,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "01305bb2a3823876fb551b46d03eae5d4cb65cf7e088246591c2a61658fc790d"
+      "sha256": "c6c06b8e2d5bae6acb0365c65a764f06382fd721e339bb97b29e3904c9bd0e49"
     },
-    "roseira-D-1": {
-      "nota": 0.6722,
-      "rostos": 2,
-      "onde": "banco",
-      "sha256": "83dba85ec56d53452967f95eb6d5c41bd2efa005cdaac9476e82dddf157de462"
-    },
-    "roseira-E-1": {
-      "nota": 0.5346,
+    "bambu-da-sorte-B-1": {
+      "nota": 0.7088,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "7807f9fa96aa3321f0f0e065c5b3fe0e6fc4b271819fca82095d4e398662dcf8"
+      "sha256": "a4daf580a7d83c39dbe08c3b87173436580496ec1e6db3fe33076c988984818d"
     },
-    "roseira-F-1": {
-      "nota": 0.7385,
+    "bambu-da-sorte-C-1": {
+      "nota": 0.7323,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "2117be2d4b619dc6f1587966daf8761da435fb096ae0f8f7a1f63fdbbccbf710"
+      "sha256": "61e8d2ebe2773eeaec5c7a53d3a0d544779225218de3d99f27bbad168cab246f"
     },
-    "roseira-G-1": {
-      "nota": 0.4873,
+    "bambu-da-sorte-D-1": {
+      "nota": 0.7032,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "caef52b9e50bf74bc5ea92d1f87e5c5c89c8e82bb4cb2c442f6300b99f0868ea"
+      "sha256": "1a4298d52528525a88a4ea5e3b6b655c31e88970d0430efad9967867fd9dd99f"
     },
-    "roseira-H-1": {
-      "nota": 0.6768,
+    "bambu-da-sorte-E-1": {
+      "nota": 0.4355,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "83b09dfb7e9eee52440601d05f66edb36dfc02fc9cb12ad20555d77da1d1339a"
+      "sha256": "a3e3d03b4c541c833fa1c64bf8667a04e71fc795d6558ab9c040073bec09e0da"
     },
-    "salsinha-A-1": {
-      "nota": 0.6006,
+    "bambu-da-sorte-F-1": {
+      "nota": 0.7009,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "0555fb7fad27a6852f79737124b50e72cd6148ace5ca012b64757ff883bb9c4f"
+      "sha256": "5fbe1272af896c48a0ee61bd5431653837ad28a0a7db348264d883b92041d2e6"
     },
-    "salsinha-B-1": {
-      "nota": 0.5699,
+    "bambu-da-sorte-H-1": {
+      "nota": 0.5438,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "a8e17388a11934db36b462fea58bfb2253f626d938724c6af05e7a0fb5eaf99f"
+      "sha256": "373416db4aafddb1efd3fa94432501caab34e554bd849e27ba1fe7aeea0d5203"
     },
-    "salsinha-C-1": {
-      "nota": 0.7324,
+    "begonia-A-1": {
+      "nota": 0.6514,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "68794dc636d7df4f8b9a0279d48f78f02901bb1825ca53cf1fafb91cd52008ec"
+      "sha256": "50abe96f3d5819d4ae47c565528e821afb50b59e8c3eca548c0963383d7b56b7"
     },
-    "salsinha-D-1": {
-      "nota": 0.6737,
+    "begonia-B-1": {
+      "nota": 0.6108,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "93e59f13266f9c8f4ec3a74cc09fd0a85bbf8834916599a08f6c46e8cba2090e"
+      "sha256": "e8007f3dda9b2c7d56092ea29ff6e764ea7a009c213c65da1a6d261d0a81736c"
     },
-    "salsinha-E-1": {
-      "nota": 0.5913,
+    "begonia-C-1": {
+      "nota": 0.7053,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "53276e8e67e28642c301781259f51d3394f15a965d7ceb4134a0c2c9f4c3e374"
+      "sha256": "89106842a6268e8e6d9784a30e08a5667b942f8473a3fe6b221a2596dce4d0c4"
     },
-    "salsinha-F-1": {
-      "nota": 0.6957,
+    "begonia-D-1": {
+      "nota": 0.6736,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "a227f26ea0ac475bc47d34ed8a6534ae1be3bf8e690a16ee31cd199ed76e8092"
+      "sha256": "941306a0d60b28b282fb8aadcf5b8bcfaa5906ffcf73db2a1ba245dbfe7ad98b"
     },
-    "salsinha-G-1": {
-      "nota": 0.3599,
+    "begonia-E-1": {
+      "nota": 0.3829,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "e5c1197ab15ec82ecd5f5e9915fb5aa6043293ff429661d50051b5c293051196"
+      "sha256": "cd1efcebb05b272e7e1fa1251a9659f6fbe555cb9762c1c1ee6532fe9877126d"
     },
-    "salsinha-H-1": {
-      "nota": 0.5821,
+    "begonia-F-1": {
+      "nota": 0.7568,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "0ab4aa22897ecea58e2d1dc9c5b7aa799bdcd1c529ec385d03d6ea21119b59f6"
+      "sha256": "9b68d40a1940e966924a2e494a5072fc450dfe1a63ef7f66e99cc3d52facdc76"
     },
-    "samambaia-A-1": {
-      "nota": 0.6365,
+    "begonia-G-1": {
+      "nota": 0.5302,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "4fd56935cef71f94a976046d5dcf0adf3f0a0ba77e119d46bc0ee1d4b5071dd8"
+      "sha256": "f9d001b5aab1eeeeb162ef5ecb657a94ff67b5f7da97227be5b073a3ce5f610c"
     },
-    "samambaia-B-1": {
+    "begonia-H-1": {
+      "nota": 0.5661,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "390ac0c5fc63b674b22df76eb2b25c16586f230f3cb53e2c80029cfc89680bf4"
+    },
+    "bromelia-A-1": {
+      "nota": 0.6151,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "725475060506d58c2bd16311e2d7009546c653a112b6365c8acae14556090fa0"
+    },
+    "bromelia-B-1": {
+      "nota": 0.524,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "26742edd9bef843330485873a7b5ecbf4e64287ce77212cb56a59262b7d5ab68"
+    },
+    "bromelia-C-1": {
+      "nota": 0.7175,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "dcb05dceb41d6e241293d4c5e332dd331809039140e9f63bf93306cbb96ad883"
+    },
+    "bromelia-D-1": {
+      "nota": 0.6969,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "0bf8023270078e713edb858301942ba4140ec1baf242cf2db151bc0abd18dcb8"
+    },
+    "bromelia-E-1": {
+      "nota": 0.5151,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "06981b76857d045ed2f11877fe5e4d94b66d029b12ddd53f8ea8c8166badc553"
+    },
+    "bromelia-F-1": {
+      "nota": 0.7294,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "5b69264d3b9d902eab4c1ec26f7ad92f08c468d08256f6db3d0e5db9e8d01e35"
+    },
+    "bromelia-G-1": {
+      "nota": 0.2855,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "7ae3f0696ecd05d49acd0002958f55b6a868f7a45d9889a6a53f2ca44fcf402d"
+    },
+    "bromelia-H-1": {
+      "nota": 0.6529,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "ea915fe7fef36b8b3839f0051bdff73baf51a2af40b9ae8a5a483674e7948f2c"
+    },
+    "buganvilia-A-1": {
       "nota": 0.5883,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "090f966573cfc554769faa2727d19e5d233edc7671f1f771308b18a471313729"
+      "sha256": "8a7a3cd7da8d3c7867ec6579347c9988b06173fd6f3b188d1f36cf192159e2c6"
     },
-    "samambaia-C-1": {
-      "nota": 0.727,
+    "buganvilia-B-1": {
+      "nota": 0.5694,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "270f99bba6ab5c31aab4992b9bd3735c10a476c66da9705d7d588f175dc45e2a"
+      "sha256": "917b5b8beae0323b30dfebaccaf65ad531ad2ed4fcfe7495dfeb55f89a10e669"
     },
-    "samambaia-D-1": {
-      "nota": 0.7257,
+    "buganvilia-C-1": {
+      "nota": 0.7228,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "1e5a160131d7f75547c315132907fd2d91023532433889056ed4aea3ca9813b7"
+      "sha256": "397aa133e035e7283603cdd36506076fe3b5da85861a29d2e526c7f56f37a9a0"
     },
-    "samambaia-E-1": {
-      "nota": 0.4514,
+    "buganvilia-D-1": {
+      "nota": 0.7233,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "8ffc133efce6b087b3e7857e10d241dfddb02d3b86a5599489a09881d02b94d4"
+      "sha256": "687ecc6bf81b426e305d90897cbe0af89b8cc371bc4bac79dd184cabafe4410b"
     },
-    "samambaia-F-1": {
-      "nota": 0.7506,
+    "buganvilia-E-1": {
+      "nota": 0.5571,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "ed2a212ec8e96c9a8c24c667d4faec8daf3de773e7fc7f3bf1dcae2fe80ee07b"
+      "sha256": "f0f771874392499798c9814c38aec5bf94add088f1cb48c02907c9c25a7d7e34"
     },
-    "samambaia-G-1": {
-      "nota": 0.3383,
+    "buganvilia-F-1": {
+      "nota": 0.7532,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "e48fdf639afcd562b7df96523699971f29212f089fde6ecb8b91a50a70caabd8"
+    },
+    "buganvilia-H-1": {
+      "nota": 0.714,
       "rostos": 2,
       "onde": "banco",
-      "sha256": "1d413631c53ecda5aba3c4d6cc72885e3c6a10c3e975310431dd66f0c2ed1bf6"
+      "sha256": "319a85473f5b161fa611a74636ef1db08185b6278bc1e59f242390bae64cf609"
     },
-    "samambaia-H-1": {
-      "nota": 0.6805,
+    "cacto-A-1": {
+      "nota": 0.724,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "c615ea069a85b08e8d157d4970e6ce059fecc0b988c4a46d5187466d6683902a"
+      "sha256": "1317f26cc256d9c3cb883a6f607bc41a64070af18ad411b937e3804f7011a68a"
     },
-    "sapatinho-A-1": {
-      "nota": 0.658,
+    "cacto-B-1": {
+      "nota": 0.549,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "c1415f29f7b2c4658984a7d2d1052b8e4d4b45503e40fd6ee4ce1e4ee51f9e78"
+      "sha256": "3796a1dd3453d906b3048a7efac9b31266d4a1e42b9f7912ca7728bab050aa74"
     },
-    "sapatinho-B-1": {
-      "nota": 0.6218,
+    "cacto-C-1": {
+      "nota": 0.6672,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "8b035e3c4065fd4f2954490eaea4f48c5a5dfdd519dc241e9f13787ca7cc6f08"
+      "sha256": "0709aed14f8db493d1d80a242e5f031d5980e31635974e76f7656c45467cf88e"
     },
-    "sapatinho-C-1": {
-      "nota": 0.76,
+    "cacto-D-1": {
+      "nota": 0.7041,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "f73ccdcf0228d2f7c46479bdb1553f8d90988e4979c10f402d8444d03d57b92e"
+      "sha256": "fe81741a07e531d02d30d76cad7b481f4f033a9b5c0d106c98e204f96c2dcaeb"
     },
-    "sapatinho-D-1": {
-      "nota": 0.7209,
+    "cacto-E-1": {
+      "nota": 0.5351,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "28aa30024797e816c6f4942e90a4ba78ee25bc40fae906b0df95a1d7d0b17e4c"
+      "sha256": "c22b51098b5b7e414f71c0e8de8bc2a6fbfe551957f7cf4895f69110c2eebc6a"
     },
-    "sapatinho-E-1": {
-      "nota": 0.4992,
+    "cacto-F-1": {
+      "nota": 0.7339,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "a7d63495bdb059e0b18ab8e417ad396b4f71baa1df866633b660cddac88f5f8e"
+      "sha256": "2f0045679d2cacdf04900797eb6bd441dfeac56e6a12773016b36c2f9a2729e4"
     },
-    "sapatinho-F-1": {
-      "nota": 0.7647,
+    "cacto-G-1": {
+      "nota": 0.2999,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "a7e16e0db44f4028c993b545b041747c0c29fff2b4b72da9360d6861419cecd9"
+      "sha256": "c788f143e45fe86f973311acbecc2ab2cf5670ba81f4cf005fd792ad59b66686"
     },
-    "sapatinho-G-1": {
-      "nota": 0.5382,
+    "cacto-H-1": {
+      "nota": 0.6841,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "4e92d7889c459b5b025cd9c00f53dc14258e5c6f4495658194368b82915266ae"
+    },
+    "catleia-A-1": {
+      "nota": 0.6942,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "21adf19e21f382fb73175284dd438968833cd2e2b6ddd951af62caa015d71ccf"
+    },
+    "catleia-B-1": {
+      "nota": 0.619,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "2d5b9f0d6edc3b6495adcb0aefb3a1649aa5b95b4f6b73a6e4f06b42ed588055"
+    },
+    "catleia-C-1": {
+      "nota": 0.7219,
       "rostos": 2,
       "onde": "banco",
-      "sha256": "34e0f2ba55b6f24c1fdc8855225af7b0422b1ffa8a733aa30b211ebc893f20e5"
+      "sha256": "007a1e1c1c9e2417b3ee60525f9bc3edc3cb571e1fc0f3f8815843237d147cea"
     },
-    "sapatinho-H-1": {
-      "nota": 0.5214,
+    "catleia-D-1": {
+      "nota": 0.6932,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "773d904944c6d603e12e14cbff442d665eece6e0a9637611010e05e603a3d367"
+      "sha256": "c7b416c734c698b1b70e10aa03769bd80d38ed38ea51e32ac3e5b7e6763f770d"
     },
-    "suculenta-A-1": {
-      "nota": 0.6427,
+    "catleia-E-1": {
+      "nota": 0.483,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "79a23b63f7f10144293d03c0141df9a4add9654f71f6e2d4b55d11ca80c99a80"
+      "sha256": "b053e2057d96e28987360b74cf7964118ef4482ca61baa556872bb965ffeaea4"
     },
-    "suculenta-B-1": {
-      "nota": 0.5266,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "116fd4bdae9bb9c3295d0752b00ea4f08bf68a1d31847b6dcc6c51d4551b5f8a"
-    },
-    "suculenta-C-1": {
-      "nota": 0.7097,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "d465bee61b088c6340b4b5f809cc0fde168328b9110f55d72b39cd376e430191"
-    },
-    "suculenta-D-1": {
-      "nota": 0.7214,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "2267ec3bc28c3b24daea7f294d57bb3fb9f31432db497398bf5c19666a41bb8a"
-    },
-    "suculenta-E-1": {
-      "nota": 0.4627,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "55d2eaeb05d822bac85d4e4fb6b60aa5e5c2c4aa3eaa741035e2825a4c2d30c8"
-    },
-    "suculenta-F-1": {
-      "nota": 0.7526,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "9b9a328ef42c1760ca3ecf0bee3e2e92f9ccc224e6a80d7ac5aebd066edb0254"
-    },
-    "suculenta-G-1": {
-      "nota": 0.5921,
+    "catleia-F-1": {
+      "nota": 0.7552,
       "rostos": 3,
       "onde": "banco",
-      "sha256": "aa80a2b2d96047722bf4f665255c84b4a31a74597e781ce1ce47ae614200d9e7"
+      "sha256": "7d3caf50c18fc74b2e324729b3763752dca723cc7324c997bb72906d6220f0ad"
     },
-    "suculenta-H-1": {
-      "nota": 0.5596,
+    "catleia-H-1": {
+      "nota": 0.4366,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "a627412d82f6180bba8672950c3f08642cacc56c80c749996be9987694423eba"
+      "sha256": "6b65c68b9fab5270c5114ab4910d971ef7f6edb0239bc7a5bb2e10486f28bb5e"
     },
-    "tomate-A-1": {
-      "nota": 0.6603,
+    "cebolinha-A-1": {
+      "nota": 0.6256,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "08c4c19f02349d6e45a165f928c1a43c05de3c05ca095b21c4db2b6a120d16ee"
+      "sha256": "08dc38da9331dce74d8e2b19b657982754d0744e6f23a19f430f12783ca1945d"
     },
-    "tomate-B-1": {
-      "nota": 0.5521,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "0a47114023720bf5116a975a5fe3a662e905887aea18e4f611e31a01199b53eb"
-    },
-    "tomate-C-1": {
-      "nota": 0.6947,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "9c20f66a80be9c46a3633c6be01cbecb46f10c1293c2934a7febf22df0f81f19"
-    },
-    "tomate-D-1": {
-      "nota": 0.7272,
+    "cebolinha-B-1": {
+      "nota": 0.6645,
       "rostos": 2,
       "onde": "banco",
-      "sha256": "d177ca7018547129d869fd397a0526d118b5b447c853efc0012e0b6cdc08be92"
+      "sha256": "c2e1f7dc2aa21d303322e90efe9ef0d5e5c0f0ded4cdf0dc6b65f5402d030682"
     },
-    "tomate-E-1": {
-      "nota": 0.5024,
+    "cebolinha-C-1": {
+      "nota": 0.7199,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "2a66905f283263eb8e4d224ce9fb00a23b451fbdb2350f8ea42ffbd17c499e54"
+    },
+    "cebolinha-D-1": {
+      "nota": 0.7509,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "f6724145de869bf646b4f26c0379e2632f0e59ff2d9e9eb38a9a5d08f71df78e"
+    },
+    "cebolinha-E-1": {
+      "nota": 0.4536,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "bc6ee57532195ec92bb65419f9deda72166a8471fb925e399737f1b6aa010985"
+    },
+    "cebolinha-F-1": {
+      "nota": 0.7383,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "a3e5aeec78cb4b2b58fb01315c135d381cf9ce1ed80dcc1fa6fb56c5bb67c5c9"
+    },
+    "cebolinha-H-1": {
+      "nota": 0.4405,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "ad48d036e57b9b73a1b04b8e3e3723074362619e1653a878c715992c195691b3"
+    },
+    "chuva-de-ouro-A-1": {
+      "nota": 0.6275,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "c608fc7204c1cf6d299afd10d1c8e94fc0f6bda38111b8ab0ecd4de5b0d82d4e"
+    },
+    "chuva-de-ouro-B-1": {
+      "nota": 0.5678,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "11b6b70d2f369477b63b087dd0d69a3a90ca851743ef99806d46d6b0ae680678"
+    },
+    "chuva-de-ouro-C-1": {
+      "nota": 0.7662,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "21f575b15045d3fe3d05ddf1fd06b7f993f273922950306c6a72896acfbdd40f"
+    },
+    "chuva-de-ouro-D-1": {
+      "nota": 0.6913,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "2286bb1d83466990c8b5822157728cb4a66222f79acc7663da8edbba2016888f"
+    },
+    "chuva-de-ouro-E-1": {
+      "nota": 0.5354,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "91c1c84d39b7a8d3fb4db98b924f9a2add8a1d0b7ae39e2f2c96023ea1cc40e7"
+    },
+    "chuva-de-ouro-G-1": {
+      "nota": 0.5351,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "c8ba6c153799d27798235c7767fa64e273f4e63afe9ff3f7bec9268ee1f1865c"
+    },
+    "chuva-de-ouro-H-1": {
+      "nota": 0.5722,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "85ce5afd1c2cee222fd0ae6ec27351f0187b631f2304aeb009d92e6906cc8ac9"
+    },
+    "colar-de-perolas-A-1": {
+      "nota": 0.6053,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "ba1a6a02b8b0e256f941573e829f684c019244f8c2987586025c800331ee6cfc"
+    },
+    "colar-de-perolas-B-1": {
+      "nota": 0.4456,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "43f246dffb2711b049e9e265691e5acc3829ee8662b506d2830f201f3ec977bd"
+    },
+    "colar-de-perolas-C-1": {
+      "nota": 0.6476,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "0a26a198ef9d0258dbef74144ec50fb69e2c502f9b7c99b4d42023cc5df7f31f"
+    },
+    "colar-de-perolas-D-1": {
+      "nota": 0.7108,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "7a8eb723e899dc23a279484b4a44d0365f859290c253a3755c9e05d4c2ad3624"
+    },
+    "colar-de-perolas-E-1": {
+      "nota": 0.575,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "5516ba7032e839070116c19c07492c04083968f83483fee15210204a7f42f089"
+    },
+    "colar-de-perolas-F-1": {
+      "nota": 0.6991,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "751846c59b11c585c7615d4825bdffc1c9108ba283f189baef41266b40074d5b"
+    },
+    "colar-de-perolas-G-1": {
+      "nota": 0.5393,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "c790c284783f6c1168cb6c6ae4136e9d75f519154e449bd8cac6dc27a6fe0c34"
+    },
+    "comigo-ninguem-pode-A-1": {
+      "nota": 0.6792,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "d3e2a35036c4dfaf901826bbf1fd7ba7def54c0d64178710a350610db3584329"
+    },
+    "comigo-ninguem-pode-B-1": {
+      "nota": 0.5975,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "494d9e18f18e0754d6d74202e56a2ee30224545d68767d411eddaa015e842858"
+    },
+    "comigo-ninguem-pode-C-1": {
+      "nota": 0.7541,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "97e5e08d612b12864daa4cd54ad761c137c7b339b51949cf619b29a68d80e2ed"
+    },
+    "comigo-ninguem-pode-D-1": {
+      "nota": 0.704,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "bf23f646ed2fc737e4124c69db8d80801832b3ab504d0d64b047bec22b539533"
+    },
+    "comigo-ninguem-pode-E-1": {
+      "nota": 0.4055,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "c22d4c9d491ba1024c85fdf77addc11a256ae5b07487764abd366a8bc2cdada3"
+    },
+    "comigo-ninguem-pode-F-1": {
+      "nota": 0.7287,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "dda60d0bba4573013e687ea12efa2274b5db9ff5936e882d491ffd3a17e89dfa"
+    },
+    "comigo-ninguem-pode-G-1": {
+      "nota": 0.3572,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "c0e3c242fd6c30a04cbbe44995b6b3d648d10c2e2c311987c6c93837fdd667bb"
+    },
+    "comigo-ninguem-pode-H-1": {
+      "nota": 0.4955,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "fe54121c59e08415c312e56b243796a6b8191fb95718da7711f39b2f6b4692a9"
+    },
+    "coringa-adubar-A-1": {
+      "nota": 0.5902,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "15efab8355087f629ea908c760219bc6f139103d07beac9707edec063e173442"
+    },
+    "coringa-adubar-B-1": {
+      "nota": 0.6601,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "59892b1bc936d4673d17cabacaaf889eb3291bfc656b8650611d44756d068440"
+    },
+    "coringa-adubar-C-1": {
+      "nota": 0.7239,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "8d248959ae1aa2a60c6b784877ff807fd21ceaf4192c221cedea11ee39542b90"
+    },
+    "coringa-adubar-F-1": {
+      "nota": 0.7498,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "468a8a7ca9c6aa722fb26673f6367027e28d240619837c9beaf8eec76c47bd5b"
+    },
+    "coringa-adubar-G-1": {
+      "nota": 0.5514,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "a6ee073630b17b64a9edc439484cd8af6b0daf9771579956c92ea354ac903b0c"
+    },
+    "coringa-adubar-H-1": {
+      "nota": 0.6254,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "7037c75f539dbcba073f78eedde239c977de7b5d1af8f1dbfbdcbf274454852f"
+    },
+    "coringa-compostagem-A-1": {
+      "nota": 0.7045,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "0bc8af19c09a558003f0c647680a8df3de50a9df470382086efc1030597dfec0"
+    },
+    "coringa-compostagem-B-1": {
+      "nota": 0.6677,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "248055423241aef8695b2420b120a93e2870d1930f71f787f9421981bc38ab77"
+    },
+    "coringa-compostagem-C-1": {
+      "nota": 0.6807,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "0f300558053bba53351143ba694ccdf7bd9c7e0095f2a1b2b1d1e33814f32b53"
+    },
+    "coringa-compostagem-F-1": {
+      "nota": 0.6925,
       "rostos": 3,
       "onde": "banco",
-      "sha256": "065e4c3a9a4146f0c1efbf85993f55f01aaf3daf4d8eee6eb8c6fab9a0600476"
+      "sha256": "4111945e2a85e5c9e1274b6506095a5331b648e0377610bbb57cf93f6ad03a64"
     },
-    "tomate-F-1": {
-      "nota": 0.7533,
+    "coringa-compostagem-G-1": {
+      "nota": 0.6518,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "bd12ebc09ddef270202715e79d240b07af349f01debeba09fd2df3bc028dabb1"
+      "sha256": "a5ea2ab614bab03fdd622c3243114f0ec214b3a1d8d7809b6d1e1f4f4e86e804"
     },
-    "tomate-H-1": {
-      "nota": 0.5961,
+    "coringa-compostagem-H-1": {
+      "nota": 0.6068,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "ecc2c39cc59aae06f5bcfef0cc6b6c83bc894fb70aeeb9a238ab1ed619dcd566"
+      "sha256": "ec31602e09c69aed6bb913497fb4cbf2e1cad3712e7017a9e8b747dad04e3e4a"
     },
-    "vanda-A-1": {
-      "nota": 0.5677,
+    "coringa-ferramentas-A-1": {
+      "nota": 0.6727,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "1d91a3344589f28c854606bbaa13a1176ec5f3ade6eedd9601eff117abe0088c"
+    },
+    "coringa-ferramentas-B-1": {
+      "nota": 0.7091,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "33c13ef239bd9ac33423ad268d8c3c468c6cd3252955e6f6f792f1bce8142d12"
+    },
+    "coringa-ferramentas-C-1": {
+      "nota": 0.7213,
       "rostos": 2,
       "onde": "banco",
-      "sha256": "73e4cba6f79a56d4b24b7b567e9f61f298cec136e0151ae61ecb8710607639a9"
+      "sha256": "143a8d2441077bb211bf5af12e7d899fdc1ce7b78bea26bb7de1aa967b2e2053"
     },
-    "vanda-B-1": {
-      "nota": 0.7245,
+    "coringa-ferramentas-F-1": {
+      "nota": 0.7171,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "c0a96bf25171aa48a09054fa53d77e3c1cac5974b49b9c92f89e8dbe94e0ce41"
+      "sha256": "c98b080cb34934b0ac8c97a7b848c03d40fc417a8072927999eea25e166f6d79"
     },
-    "vanda-C-1": {
-      "nota": 0.7168,
+    "coringa-ferramentas-H-1": {
+      "nota": 0.6526,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "00b91e7d4433f306dd2ace7e12cca67780c0035a406013cf41e89f403e20602f"
+      "sha256": "4eb6bd3e782e98297b1211d9717a505063d7de3b06d8226de0db8f411169af24"
     },
-    "vanda-D-1": {
-      "nota": 0.6772,
+    "coringa-gramado-A-1": {
+      "nota": 0.5948,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "f866e610a1a720d91fcd66f3e82dc05a210da9ffdff95399dd6d18957991e35a"
+    },
+    "coringa-gramado-B-1": {
+      "nota": 0.6763,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "25362dd77406cd85b8ae50ff31e2945a14cf7f9b8381121454fa810d79f4da7b"
+    },
+    "coringa-gramado-C-1": {
+      "nota": 0.735,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "7d1a5663221b21b7d5413d30666fb935d7f2c2c23692c9661bbd2539453c2202"
+    },
+    "coringa-gramado-F-1": {
+      "nota": 0.6708,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b4b03bace129952762aeecf69da8eb8a853c79a95e75fe10b3c60eb3e381faa7"
+    },
+    "coringa-gramado-H-1": {
+      "nota": 0.6609,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "ed184d5433c4e95404a9c104906d6a373bd27781f2187736359691b31abd08af"
+    },
+    "coringa-horta-A-1": {
+      "nota": 0.732,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "45f3dbe4d5d7b301511f0df85e5059fca1acb1e140808fad466fc44e34b7b563"
+    },
+    "coringa-horta-B-1": {
+      "nota": 0.6311,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "fc5752a8c65468a2f33ba156b5a773b031007ef76f018cbf773b9dc24dcc161d"
+    },
+    "coringa-horta-C-1": {
+      "nota": 0.7108,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "97830ee81cb7740c6c149c478ec5fbd6bd3f01278c74b0a1db8c116946f04428"
+    },
+    "coringa-horta-F-1": {
+      "nota": 0.6862,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "c2c6a7959030575f774b678c01458edc6a1848bceeb435d589e45a5bfb1647cb"
+    },
+    "coringa-horta-G-1": {
+      "nota": 0.6943,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "f18dbea56a73ed3142ddb2583df14938d7c726b83e8f2d7006d8fc7e81a45597"
+    },
+    "coringa-horta-H-1": {
+      "nota": 0.6326,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "c337ae2f93a3363ce6fbfadfcfe0733023c718830b5551d7db2949ac295be1a9"
+    },
+    "coringa-jardim-vertical-A-1": {
+      "nota": 0.5948,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "94325905dc2aacf72ee128e467addf9d13182f0d2d4f01d52b897155ee03662e"
+    },
+    "coringa-jardim-vertical-B-1": {
+      "nota": 0.6598,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "a2900be72e203600891b5b4decbb58233754b40fe1cb7bc514067f9c9964dca2"
+    },
+    "coringa-jardim-vertical-C-1": {
+      "nota": 0.7228,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "856b078464e2dc6fa2cbd5f12efffaee6ef058603b2c2049020899d70bc61c3c"
+    },
+    "coringa-jardim-vertical-F-1": {
+      "nota": 0.6531,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "ca6a18f1a31f40057ec7c96df3c0cfa7294a980f1434c431cfd47b1130b999a9"
+    },
+    "coringa-jardim-vertical-G-1": {
+      "nota": 0.6843,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "14a36743eb14d5ab242bfe295e85c79c423ee24ed36aea84cca03f94624eb5aa"
+    },
+    "coringa-jardim-vertical-H-1": {
+      "nota": 0.6597,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "e4e247e604821137a46ecf0999fb58c2fa5c68f2ec6f7214a7de26fbed984fff"
+    },
+    "coringa-luz-A-1": {
+      "nota": 0.5516,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "da65d868dcc4536080fb7bcf016c7646d0dab37349230c7c9066817f95bab95c"
+    },
+    "coringa-luz-B-1": {
+      "nota": 0.4117,
       "rostos": 2,
       "onde": "banco",
-      "sha256": "78e9e2b9d1840f63c0898d32fda29d66c9af44d399683603fa054d6ac034dfa0"
+      "sha256": "629c30d6ed7934427607598e2fb445662c8a5ccc0acc151bb1278fbfad434017"
     },
-    "vanda-E-1": {
-      "nota": 0.5155,
+    "coringa-luz-C-1": {
+      "nota": 0.63,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "deff7332fdcfc18dcb66db01dce3f0b63fb7cc1c0ad8091d9a63239de50485bc"
+      "sha256": "dbd5fd002fc3ab612cff762999fa8feeba2109342a4e6ed90d83d4ec0fa1cb4c"
     },
-    "vanda-F-1": {
-      "nota": 0.7431,
+    "coringa-luz-H-1": {
+      "nota": 0.533,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "39c35845f030dab4030b93542c5f5f094f2799550be5b8101296f66adc40681b"
+    },
+    "coringa-mato-A-1": {
+      "nota": 0.3979,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "a50697d06b0f5e2a35d6a5112e20491de816b58685fa2b6965591ad9d329c448"
+    },
+    "coringa-mato-B-1": {
+      "nota": 0.5139,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "55377ad8b90fb55113a7828155a794de10c2e90e939dabe69b90f1d04b7f85f7"
+    },
+    "coringa-mato-C-1": {
+      "nota": 0.594,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "d4bd2d274a0abbaf085b1e88e0bfa374adf50ab6fd4be300d233222523b3566a"
+    },
+    "coringa-mato-G-1": {
+      "nota": 0.4455,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "a2756986c6c48f4f6e04364c66589ea1c4f898cc45becfbd2a24a2e5a08d4661"
+    },
+    "coringa-mato-H-1": {
+      "nota": 0.5128,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "dc1bf46729fa8a309f0d69b3b7ac6a8d8f998aa58415a56344a39ca2d12f429e"
+    },
+    "coringa-muda-A-1": {
+      "nota": 0.6222,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "75e8e6914a642332e4f5821bbf45fdb72e307849c908b6ee83a4cab1b23034f0"
+    },
+    "coringa-muda-B-1": {
+      "nota": 0.6333,
       "rostos": 2,
       "onde": "banco",
-      "sha256": "d542d899c9f4e5575dbf5035c2ddff44f9550aaee06b834666e8f1c886a401b2"
+      "sha256": "0f49c8d185f31b17233e3a867e0cd180e617806b1c9307db7c6eb1df4a031c19"
     },
-    "violeta-A-1": {
-      "nota": 0.6143,
+    "coringa-muda-C-1": {
+      "nota": 0.6439,
+      "rostos": 3,
+      "onde": "banco",
+      "sha256": "c12d05814367514776a2dbeb874f51f4f54e082de87b7952e9efff8a1fea0480"
+    },
+    "coringa-muda-F-1": {
+      "nota": 0.6113,
+      "rostos": 3,
+      "onde": "banco",
+      "sha256": "604eb9abefec92b99f43408dd19f26090fc16f5a44eeb45190e2185811775df5"
+    },
+    "coringa-muda-H-1": {
+      "nota": 0.5141,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "d4f6702a5c0358cf1edf7a54a0194c94016e672e3172d7f89040c737e9e068a4"
+      "sha256": "fc79dd4a345262e22b70cc9a5e7a534cf30a46441ed8bba1a98e83457d629e21"
     },
-    "violeta-B-1": {
-      "nota": 0.5957,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "2e651cb7f6b4a7801d7da1e581b5d07ae9ecb4d3c3d02990af36a5f18e25e74c"
-    },
-    "violeta-C-1": {
-      "nota": 0.7225,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "1ad679f76b13283cccfea4d799e4a1632475ea8d8ae9ed2bef1a46a79d30f3d4"
-    },
-    "violeta-D-1": {
-      "nota": 0.7278,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "1ee28564806e04fa4e12eb89d3255cea4bc2927c5a56b126a5f559eb976b4e2e"
-    },
-    "violeta-E-1": {
-      "nota": 0.305,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "30e1f69570f025e961687eea15cce3210acdabb2e29dc323389d29dcd664df48"
-    },
-    "violeta-F-1": {
-      "nota": 0.7153,
-      "rostos": 1,
-      "onde": "banco",
-      "sha256": "95af2ef54bc77fcd4f62d91179757c4a7a75375cd522f9dcf1e3388c53473d78"
-    },
-    "violeta-G-1": {
-      "nota": 0.4289,
+    "coringa-pet-A-1": {
+      "nota": 0.5423,
       "rostos": 2,
       "onde": "banco",
-      "sha256": "f1bcdd96d74669a59a7dad56b3817d3ddb59a6699b46477f0c7694e9414165dd"
+      "sha256": "5f8425a0c068ddfcaffd55db1c78bf9eb31184ea81ccda7d20ba782e6b852d3b"
     },
-    "violeta-H-1": {
-      "nota": 0.4403,
+    "coringa-pet-B-1": {
+      "nota": 0.5827,
+      "rostos": 3,
+      "onde": "banco",
+      "sha256": "0f7dc3225188ac0114ad3f7573636562e55c79374613a5f1287912f77ae817bf"
+    },
+    "coringa-pet-C-1": {
+      "nota": 0.6022,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "f8b4195af95c8c914cf2cc5bc5e41940deb43973b15eef715a4c39954e196eb7"
+      "sha256": "0e184f6dd8e4921f185cacdaddb7c96738be547598b4cccb4a5238eae900f41d"
     },
-    "zamioculca-A-1": {
-      "nota": 0.7049,
+    "coringa-pet-F-1": {
+      "nota": 0.6169,
+      "rostos": 3,
+      "onde": "banco",
+      "sha256": "38e67542ea44ccdd2ab202992f6c05c5fb3600b42318bda2865c110a9129a0b0"
+    },
+    "coringa-pet-G-1": {
+      "nota": 0.6585,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "dbfc2a0581dab501760c226fcf708c15966d5c26da6962ded7cba4cb4d9b5655"
+    },
+    "coringa-pet-H-1": {
+      "nota": 0.4608,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "79bc3f5c5163b94995aef9cf4197c43f5abdbc637d00ebfebe8d77d8fb88540e"
+      "sha256": "b249652bac221f83db3e7bbf41fab0c71ef3571575758ab7b558565eb8fb5868"
     },
-    "zamioculca-B-1": {
-      "nota": 0.625,
+    "coringa-podar-A-1": {
+      "nota": 0.6096,
+      "rostos": 3,
+      "onde": "banco",
+      "sha256": "224d56f17abb1b081651221fb446c13aec8fc871751b3336e3d90c94c0cedd68"
+    },
+    "coringa-podar-B-1": {
+      "nota": 0.7065,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "e9f3c1ebb1c7da143b388fd5b9a637f7c69d90f238ead932e669ed2e0d87fef8"
+      "sha256": "fe85716b2a16b3f6e68f002fcdebd372385b9d89fe0bbef8af890b9ca516a85b"
     },
-    "zamioculca-C-1": {
+    "coringa-podar-C-1": {
+      "nota": 0.7662,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "6add9594c079b7559e8eb48a55b1d6ad1f1077ed9ae12cdaa8d3c6fc2159ef1c"
+    },
+    "coringa-podar-H-1": {
+      "nota": 0.5814,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "e8091e104f8c99b3a9be872c3fa04f06cefcc3871fdaac6701bb6c8df54a38fa"
+    },
+    "coringa-praga-A-1": {
+      "nota": 0.6598,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "11a66d678d528019080eeff068a6aa2882705b35a30e1443964bc5d42690dd52"
+    },
+    "coringa-praga-B-1": {
+      "nota": 0.5628,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "c42e55a6925717750625a5c17500f51a9ad485f8744c1b84b1a38653dc8801ab"
+    },
+    "coringa-praga-C-1": {
+      "nota": 0.7055,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "436dffb320e64ee5780610412a2639a6828ef88dd46d4b448d2048149c60c792"
+    },
+    "coringa-praga-F-1": {
+      "nota": 0.6733,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "fbf7164d8674400d8bdf27fbb618a672ea7846ba2757e91eb9ed9f09f84042eb"
+    },
+    "coringa-praga-G-1": {
+      "nota": 0.5749,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "3b92a96001057d00cbb2eb8b5eab265a40377c5a3455b515bfd729fbbe795454"
+    },
+    "coringa-praga-H-1": {
+      "nota": 0.6144,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "0a0e0dc9892116d2704f8c9b400cf74eaa9005d7366b58fb4ac14fed761f6714"
+    },
+    "coringa-regar-A-1": {
+      "nota": 0.6812,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "21d5ff37cdff52b373714958a9235d4db0a90d81302c8b2c4626ccbcba44c0bc"
+    },
+    "coringa-regar-B-1": {
+      "nota": 0.5918,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "0f8298fa8b0fa80afac75a33b41acc789e2dcc991c93f2ae9bf6c42ef6f19b1c"
+    },
+    "coringa-regar-C-1": {
+      "nota": 0.7186,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "c83bcb9cec98a50b7a68f99a875694661997119ec6cc56757a9c9d97e6b3b25d"
+    },
+    "coringa-regar-F-1": {
+      "nota": 0.6657,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "2cc4c71eeb8ec69f716e31a60d16fa355d572957f026c0c53659cd7542910206"
+    },
+    "coringa-regar-G-1": {
+      "nota": 0.5843,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "c02bf316eb6ffe30f609a46904125eb07fb24b910ac059f3d51a1cb8d01765ec"
+    },
+    "coringa-regar-H-1": {
+      "nota": 0.6244,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "ed5b8122bc982386f55bc8486ef58d1058b3619e598fe924a7fa235a1de9a41f"
+    },
+    "coringa-solo-A-1": {
+      "nota": 0.707,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "4a94524fe0e89071730151b53623134a6f6479208cbdbd6210a39d399811402b"
+    },
+    "coringa-solo-B-1": {
+      "nota": 0.6246,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "45d14ff6253aebb8c96b03bf99a66a842fafebfee5fede05692104523ff89ddb"
+    },
+    "coringa-solo-C-1": {
+      "nota": 0.7247,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "2e56f9c3bb037154b7ac0bc5d2086c57b7397a849e97d58117a9d554773b6f1e"
+    },
+    "coringa-solo-F-1": {
+      "nota": 0.6963,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "452022b0a8dd5d4b1b008a14827cb4c618d0e6c94e26444ca262c4722b3611c2"
+    },
+    "coringa-solo-G-1": {
+      "nota": 0.6397,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "80d2fa766754ffad561bbb32c691b1713ef4614101b0147e82762c5c733bb490"
+    },
+    "coringa-solo-H-1": {
+      "nota": 0.669,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "0f9d6d1389e21f4d66b295fe71e17ea3ba02c4c0f0031c22cc4bd012dc1e4661"
+    },
+    "coringa-trocar-vaso-A-1": {
+      "nota": 0.6991,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b5bc85e1ec16efac5d9deb31084accc6dbd524b684dca27ca04950dbf23f7278"
+    },
+    "coringa-trocar-vaso-B-1": {
+      "nota": 0.7437,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "8b7c1bae1cadb12f91b8cbb15ab0952744aece200beaffd594c67b7e64163bb7"
+    },
+    "coringa-trocar-vaso-C-1": {
+      "nota": 0.7208,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "1b5a611e5fa26bfb99176d0b7b91dee88e47025e12e89435c368c22594ec4f6b"
+    },
+    "coringa-trocar-vaso-F-1": {
+      "nota": 0.5818,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "d8b21e89f57a04c7bf203a024100579f44e404418b3bc14c091297c456dee954"
+    },
+    "costela-de-adao-A-1": {
+      "nota": 0.6353,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "c9feccb8ec5ab6bcaf4b2ac5a636b479104bdfd7bbf0f8f77187be611679f77e"
+    },
+    "costela-de-adao-B-1": {
+      "nota": 0.5729,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "a99a9fb55bc709edd1c4d6c6905df4326c320af145079194a81817701a67ffce"
+    },
+    "costela-de-adao-C-1": {
+      "nota": 0.7234,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "e3fe386c4e43c54079a7f026fffec9127ff2044acedfd76675716a4fe295fb1c"
+    },
+    "costela-de-adao-D-1": {
+      "nota": 0.6795,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "5ef61ac6bf07ed2e80842f2f88b769d30f27717288f6993cfcfe33951d81d334"
+    },
+    "costela-de-adao-E-1": {
+      "nota": 0.4879,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "b4eb901269b13fa88a7237fc1611665a37e7ead883877084e417bf79841e2201"
+    },
+    "costela-de-adao-F-1": {
+      "nota": 0.7183,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "f9a0d633545458808ed986111f081384edb7b1c5e00e5a1c722db15ffcfdfbe2"
+    },
+    "costela-de-adao-G-1": {
+      "nota": 0.2646,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "f1ae32a6390bc7ea57249235f7f9bbe676b75397c1fc1d1cf38b2a93a465378f"
+    },
+    "costela-de-adao-H-1": {
+      "nota": 0.6299,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "3a495a72b411a6011a2727264e5067426878b17052afa6171d7a1efa397eaecd"
+    },
+    "dendrobium-A-1": {
+      "nota": 0.6119,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "af4e637659441b7ca57aba0f4908c6b1c5feddee3db799635309717fbe6b7535"
+    },
+    "dendrobium-B-1": {
+      "nota": 0.7342,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "2013f3a9462e142f9becdae5f84a2a956c1549bfb9cfc8e041453778da3bab75"
+    },
+    "dendrobium-C-1": {
+      "nota": 0.6728,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "35ef169f214b763847907a8b2b07b6fe220b008fd6d64d7d2f2d62824e183da5"
+    },
+    "dendrobium-D-1": {
+      "nota": 0.7072,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "73bcfb8f51b9b3479fc06210ce9b59345d0c92f7feeba595be5267c95e5fcd4f"
+    },
+    "dendrobium-E-1": {
+      "nota": 0.5655,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "fcfb883154903ce80029666644e7ff9ac11d5ee0328670b908a937a5862af512"
+    },
+    "dendrobium-F-1": {
+      "nota": 0.7669,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "4b934bcdf9e017507a51bca1a86070abe3cff6e37ad4e852d38167bdef0bbbf6"
+    },
+    "dendrobium-G-1": {
+      "nota": 0.4852,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "5b9a1d09aed97029b270947de4421be01b32c02154592cc40b313454b6abf47e"
+    },
+    "dendrobium-H-1": {
+      "nota": 0.6699,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "94ae67e2a2b2a002d1fca9c9acdeb2c835700fd104ce48f41ecbaf4051aebb09"
+    },
+    "espada-de-sao-jorge-A-1": {
+      "nota": 0.6359,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "a9f1c272ec1ab14c15c0ed7d7cce35849435664b51420771301f11bd1c627f0a"
+    },
+    "espada-de-sao-jorge-B-1": {
+      "nota": 0.5048,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "9affe59366d3548afc647e1ee3d0786af91aea55f5b0ec148b53d298e8a816bc"
+    },
+    "espada-de-sao-jorge-C-1": {
+      "nota": 0.7271,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "c498f687e6a67cb730192cbcdb57bf18f1bd737af585f165739a3bc40ca362ce"
+    },
+    "espada-de-sao-jorge-D-1": {
+      "nota": 0.7317,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "fbd957217a321df2499666b4f9f1070fcfc0939dc57851ef310f2ce64e530259"
+    },
+    "espada-de-sao-jorge-E-1": {
+      "nota": 0.4126,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "b94000c59871641800a574bb4408c15ddfb561556fd177c4586b1608ec559f5b"
+    },
+    "espada-de-sao-jorge-F-1": {
+      "nota": 0.7584,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "c2b2a192b5c6a58fd10c9322e166ccea277db154e6eae6e04d826a4e1349d62b"
+    },
+    "espada-de-sao-jorge-G-1": {
+      "nota": 0.3138,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "c36628aa960b356e99944c3ab30689d4d394a373239147b65614ca1867aab164"
+    },
+    "espada-de-sao-jorge-H-1": {
+      "nota": 0.5899,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "8415a61bd7cac8194baf0433d180d19d23e15394032ee04dba8aa1776ee69aaf"
+    },
+    "girassol-A-1": {
+      "nota": 0.6059,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "22a60e36078cba09af9a1c41b9e89ffad6fec454a2ecfb977f6d1e4ce44d14b5"
+    },
+    "girassol-B-1": {
+      "nota": 0.532,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "970a0dd2ba7c86cbce16b4fece61c6913dfcad012b4fdac2c0bbab7e7959b95d"
+    },
+    "girassol-C-1": {
+      "nota": 0.7497,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "5bb65e4c476369c126c76ffff5e86ece44fa229df5e7e243b5b7ac0dd97f25cd"
+    },
+    "girassol-D-1": {
+      "nota": 0.7158,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "4b725a9791fb889db2ba612e8df98caa87cf2edc015529dea107a003a27e1478"
+    },
+    "girassol-E-1": {
+      "nota": 0.3682,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "52f8ef0eb58dbc6cb46cb2f39d2f4ca4fffba11b855de89eff2ef6ac7442a8b0"
+    },
+    "girassol-F-1": {
+      "nota": 0.7262,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "6cbcdc02c037f730058e38e59d3ca8ef3478ad12346d62a390e5a4a539eef164"
+    },
+    "girassol-G-1": {
+      "nota": 0.5433,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "a60dd09792c2c5722cb53d8eca85b0ed54f982a7043bc2175398d63198cfdd37"
+    },
+    "girassol-H-1": {
+      "nota": 0.6239,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "45864afd21a0867cebb44d41bd246b900d96b85cacd8d3d8bf9022b94a3a222d"
+    },
+    "grama-A-1": {
+      "nota": 0.6248,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "9a8b76d7adb811043edbb57f68db13ddd3be41f6d3e94468472083bc7a105049"
+    },
+    "grama-B-1": {
+      "nota": 0.443,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "9faa763967f0542895c5e26d9e8ce548a92b2fb4e8f8dbd96eb53221463bbc29"
+    },
+    "grama-C-1": {
+      "nota": 0.7584,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "54bd3478655d4d71a5560b904efa1030b9122bea51121d7815ff64f4971c8c94"
+    },
+    "grama-D-1": {
+      "nota": 0.7641,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "43b8e87f2b13ef3a5a00c4c67bfabe37e65c8202e8552a000758552db6642db8"
+    },
+    "grama-E-1": {
+      "nota": 0.3875,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "a738187b2abad5a5227700a2e161c5c6e3142556988d3901a7ba06f9a51fcd5e"
+    },
+    "grama-F-1": {
+      "nota": 0.7704,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "57b45826f00999578178ae86b8d070bf0b683ae76ab8df2573ad2b5cc404fff8"
+    },
+    "grama-G-1": {
+      "nota": 0.2651,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "f25e988b9dc77c27aefa16c9cccf4acc27addaf0d23826f6b9074933ed46f3f4"
+    },
+    "grama-H-1": {
+      "nota": 0.5835,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "62434faf7b5a25f804df95dd8ff914aa1a70f2705deea42b3656a34a10b9b5d3"
+    },
+    "haworthia-A-1": {
+      "nota": 0.5938,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "4a155e4fa6120ca227ad13eee11d6ce454e60047f9e419a7852d8f5ba265a2d1"
+    },
+    "haworthia-B-1": {
+      "nota": 0.5724,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "995e23ec0335656c3465310fa3923c98a43b1b0289a8760229dae62e20cb2e1e"
+    },
+    "haworthia-C-1": {
+      "nota": 0.7149,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "c0f533d448a45dd2e8b3b1f48af9bb28d182ef06911da25a4a20067e4ef307fb"
+    },
+    "haworthia-D-1": {
+      "nota": 0.7048,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "69e5bad00497734141ea3214e04845dd9140e357488f33506f8eb6bc029f345d"
+    },
+    "haworthia-E-1": {
+      "nota": 0.5418,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "bb78d59b5ee714bc986ac75223d03737d6459f86d81095876f9e835607f73dcd"
+    },
+    "haworthia-F-1": {
+      "nota": 0.6992,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b84fa01909e5a723588cf0722f7e30b97e2c1f289a6088edccd7ac84032f9d1c"
+    },
+    "haworthia-H-1": {
+      "nota": 0.5285,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "6f4a875044b0dbf2a963e2fb9f7093b273792c5e5d04d09a23e856ac814e5bb6"
+    },
+    "hibisco-A-1": {
+      "nota": 0.6325,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "6311a19a8694c446a50453d0dff095ca1f05c920ab5b9cf2f21eaf014a9bda9a"
+    },
+    "hibisco-B-1": {
+      "nota": 0.6283,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "c557a7f43c3af149e1f79f6160a44aeede0b13db1c634d5b81cb89ab46d9da7b"
+    },
+    "hibisco-C-1": {
+      "nota": 0.7105,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "14d80500e77ad4b94a8dd02df706bd8aef4d1b236aadee938ff06f711b2de810"
+    },
+    "hibisco-D-1": {
+      "nota": 0.7155,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "5494ea6e3b05c3021cdc7d8901a74467e14e7fd853624278fbab2cba062b73f7"
+    },
+    "hibisco-E-1": {
+      "nota": 0.5727,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "1b2711768b9f7517a5d9c31adfaf1b1d9522b40139a626a674435db9c304353b"
+    },
+    "hibisco-F-1": {
+      "nota": 0.7547,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b58480abe9817aea5400474f12f1256f3a53cf9154c3ea6baf9139944202aef2"
+    },
+    "hibisco-G-1": {
+      "nota": 0.5685,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "7de22d317174e42d8402da70daf900c04a11a5d880e2395b0bf856a92cf9aa16"
+    },
+    "hibisco-H-1": {
+      "nota": 0.5331,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "385608c858bbf94f81410e5fa9d1a6e52fa356d6d297473d30736563e5ea323b"
+    },
+    "hortela-A-1": {
+      "nota": 0.6519,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "3bc05cea720d9abd81f78256c32897c25a747121ceb1beb9b004ad18768e3de2"
+    },
+    "hortela-B-1": {
+      "nota": 0.5406,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "9f0982bcfe68413624670cea5d7bc73bdbbfbe57965fcf6d5b111bdfe96796d1"
+    },
+    "hortela-C-1": {
+      "nota": 0.7109,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "3cb9d84dbafbfc9e3640cf249ee576b36b6f1d9c62b4a9683eaddebb1cdcc6cd"
+    },
+    "hortela-D-1": {
+      "nota": 0.7331,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "7fc8faaa0736658ea40c7c59988681d2e50c24c722f05ad8021a03cf7ce015ae"
+    },
+    "hortela-E-1": {
+      "nota": 0.5711,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "eee96d5a3669728530e59c97d27ae1eb66d16e79c65fddb023bd2e6b528d4b1f"
+    },
+    "hortela-F-1": {
+      "nota": 0.6971,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "27a1368af71b3cf38cf59a899ada7cee16c0f1478ca9506916eaf390d9904580"
+    },
+    "hortela-G-1": {
+      "nota": 0.4978,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "bdcb84dc9cac29aef990e0cd2f093d02738441e27c5b3d6908258974b2eb63a8"
+    },
+    "hortela-H-1": {
+      "nota": 0.6049,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "98bfb437a80e75132c911afc75a5054e9ef6739b50f67d61410476f2bedca4b5"
+    },
+    "jabuticabeira-A-1": {
+      "nota": 0.5849,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "0e464146d82d35842b4290db10722cb6645c63606c10d370666a0abe49135ec2"
+    },
+    "jabuticabeira-B-1": {
+      "nota": 0.5787,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "a11e7ed9057bdcf78ab89180ce30d171e98c873c5867e26c4f468f556e4d3465"
+    },
+    "jabuticabeira-C-1": {
+      "nota": 0.7251,
+      "rostos": 7,
+      "onde": "banco",
+      "sha256": "9879533bdd6821e8a87978e6047c87762974b9496939e0b186e8a7190738ba98"
+    },
+    "jabuticabeira-D-1": {
+      "nota": 0.7327,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "cc8da73c896d4f6d636b0f71019d910c52a78b07bc5d9f53e28396da7fd42ca2"
+    },
+    "jabuticabeira-E-1": {
+      "nota": 0.4552,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "43fd2338c4338e529378a6edaeb24a53a09d8436fed65df43ab1f6b3f069b6b3"
+    },
+    "jabuticabeira-F-1": {
+      "nota": 0.7273,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "6a6addb28dae10b274bc69b2eef3395d9af85814436fd061370644fd1f670228"
+    },
+    "jabuticabeira-G-1": {
+      "nota": 0.5035,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "62039e552fc4eb1fd67d6e0d44287e0283d3b174b08defe2259d404b878ec4a8"
+    },
+    "jabuticabeira-H-1": {
+      "nota": 0.4274,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "38011243bbdb3a24f97721dbcc31642e7f24fec041e9a862b201693da4880a5a"
+    },
+    "jade-A-1": {
+      "nota": 0.6705,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "ce87a35c78c1055f15e362786c2c2bc4b08189825e01d14fabde1784809f821b"
+    },
+    "jade-B-1": {
+      "nota": 0.5749,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "5dd012f67b00043f87f1bc5ec5f01ced8e09016150bc7e3287c9fe3afcf6ced1"
+    },
+    "jade-C-1": {
+      "nota": 0.7379,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "5e37e40f16f8d146fb28534f3879b6face6764e0e99dd6f86f067bb343391018"
+    },
+    "jade-D-1": {
+      "nota": 0.7038,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "220efa6d1ef09c0af21bb4b284778542bed69497df8f5b480ff9f281b0279f20"
+    },
+    "jade-E-1": {
+      "nota": 0.5322,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "07f58c066af1b2d4b6084277417ef31834b113878365e4013ee6932d216a1d20"
+    },
+    "jade-F-1": {
+      "nota": 0.7378,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "aed94699633eb7d0b32fbadcba6260e90ce9d37616882e0cab97c12ab1ac39e1"
+    },
+    "jade-G-1": {
+      "nota": 0.3815,
+      "rostos": 3,
+      "onde": "banco",
+      "sha256": "b0e18145b5b5cc0c187d6e1df3ffc5dcfc34a1b1d7a093f4f136f3944b22b358"
+    },
+    "jade-H-1": {
+      "nota": 0.5478,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "a0eef6207a2cc8a31f23e41ba58705c97a1028fc7194deb05e8c4e672e4938ae"
+    },
+    "jiboia-A-1": {
+      "nota": 0.5925,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "10de03a57fbfe2718ff85f7400735526ecd837e96356758d42612bfa1c60642b"
+    },
+    "jiboia-B-1": {
+      "nota": 0.648,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "d98e4b0a50236c9d6b2de383dfa3f6c74ec76fbc51927f781b5e0459c1bd22e1"
+    },
+    "jiboia-C-1": {
+      "nota": 0.7082,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "95282b205e8f2891ff45c92c767c4498a5925c9d9eba12a00a459447e10cb814"
+    },
+    "jiboia-D-1": {
+      "nota": 0.6142,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "fcd1178410d47b9f32b4a62cc85d68ec40ab7e4957fb8fc34f5396b063a95296"
+    },
+    "jiboia-E-1": {
+      "nota": 0.3926,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "d07ee8a91240a5f42d5a842c71c2dc6f08489da9ca484aa175b95085ef4b5b53"
+    },
+    "jiboia-F-1": {
       "nota": 0.7585,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "9268766904b5ce9e2608322576c2b67c7895c5ba45ec2cb74ec81d0b5e8ac321"
+      "sha256": "21218299161f443eb9f47797c2414b433c290ee12144f6bb6b32c8a6514174a3"
     },
-    "zamioculca-D-1": {
-      "nota": 0.6805,
+    "jiboia-G-1": {
+      "nota": 0.4202,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "4f1aee4f357e1305ef5683ca75f75b87854061c1a04f3d8fecd6195cc93c6d4e"
+      "sha256": "59a939d1d4bceb04ce3fe8635b867496b4f51bd2555c4b3ed10b947bfdb2bfe8"
     },
-    "zamioculca-E-1": {
-      "nota": 0.0556,
+    "jiboia-H-1": {
+      "nota": 0.5476,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "0039335ae2dbd0e2f789e2aeebe4c42b9b11c9d7b94c13bafedf71dafcae0fa4"
+    },
+    "kalanchoe-A-1": {
+      "nota": 0.6445,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "12142d1b95879e37c38b3ff69de85d1349f31bca6ac5b345e13bfe3b11f738c0"
+    },
+    "kalanchoe-B-1": {
+      "nota": 0.6524,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "022feff34e9a39f02bc59db4c68210906a99ad674d9b3508a29b8d1b19c8d1d7"
+    },
+    "kalanchoe-C-1": {
+      "nota": 0.6896,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "11be8ef9c5790e4295501f6154cbb07b99ec25a292d0af3eb3eb9cf36e2d62cc"
+    },
+    "kalanchoe-D-1": {
+      "nota": 0.6986,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "2629b5c98a85b3f0bcf50c45b79a9fab008eb12b9757ac2b149da305ce866076"
+    },
+    "kalanchoe-E-1": {
+      "nota": 0.4148,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "f4db7a23f2a0e0b2736b79dc62fb91a98bdac57426ff0512dc6f573263693c67"
+    },
+    "kalanchoe-F-1": {
+      "nota": 0.6977,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "8e2a7ed845d34063bdb320cb78d60d1daa9d23c5c461c633847b30113e5ce797"
+    },
+    "kalanchoe-G-1": {
+      "nota": 0.3291,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "64d4331f408ff3f0f2d72fdceedbf135b0f2d229232d078e5b010e19642e4c40"
+    },
+    "kalanchoe-H-1": {
+      "nota": 0.5081,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "143f2f8c6fbcea57ee257cb0abffae00a004dfe7ccf95f149995ff8f9d20099a"
+    },
+    "lavanda-A-1": {
+      "nota": 0.7149,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b4d50494a3d3facfcd823a7d1080c323963a569c06d83f8d5c6bb842a17d4408"
+    },
+    "lavanda-B-1": {
+      "nota": 0.4691,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "5b9c80afb5fb472e869d885a331925ad2fe46f0a540a05aafba8c0a80a3d4046"
+    },
+    "lavanda-C-1": {
+      "nota": 0.7477,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "7f44c50001c29564c507f4e40afbecb1f4eee7ed2d4a0cc7706ebf12a2058cee"
+    },
+    "lavanda-D-1": {
+      "nota": 0.7254,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "9ddb9465c10ece94860fc86e29e0c3571382bb54bc62445831fe2e3e97cd1bf9"
+    },
+    "lavanda-E-1": {
+      "nota": 0.6076,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "4d4955bbbedd9cb2e3b72d5234d9617d719b4bd12a17a1b81cc98b65873ed25a"
+    },
+    "lavanda-F-1": {
+      "nota": 0.7388,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "57d48703ddaf6bc570cd66c6929e7c0bbc66b598285ec5a617feae463b796c0e"
+    },
+    "lavanda-G-1": {
+      "nota": 0.3464,
       "rostos": 2,
       "onde": "banco",
-      "sha256": "7df94eb43d4580bae6573fc33721945e0a38cf8237eeb5cc8f66752607bbd2b7"
+      "sha256": "c7a97c6238121c08beed504e73bed8400a4ed9b6dd61b767a47d4812999cf2ba"
+    },
+    "lavanda-H-1": {
+      "nota": 0.5825,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "0bb646b9d04fb1bd020032dcfcaaf91c87764fc09cf32802f721755648cabeeb"
+    },
+    "limoeiro-A-1": {
+      "nota": 0.6545,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "4594c65f1b71d13c0468b907194dec358bc59f84d8a778b553f2bc8017c78f41"
+    },
+    "limoeiro-B-1": {
+      "nota": 0.5536,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b8456e7d37ed62f72173df3a17d37d41c0b3a885137cff937512a89224951317"
+    },
+    "limoeiro-C-1": {
+      "nota": 0.6894,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "0400185cbf803ade5cc0de555d4b684310db310176b78a44e23032e9bfcf799a"
+    },
+    "limoeiro-D-1": {
+      "nota": 0.7061,
+      "rostos": 3,
+      "onde": "banco",
+      "sha256": "82d39de0dd1bb54a08fd2ba757421c9de7597d0b6fed745b65b2e0d17fd67355"
+    },
+    "limoeiro-E-1": {
+      "nota": 0.4748,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "52c022cde23a087e69c820d6f1e26ebd18b24ad2d51fe9e6171ba04f5efa238f"
+    },
+    "limoeiro-F-1": {
+      "nota": 0.7113,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "fd5308ff4684e74171d6d3f77afa78e2b884d8f9f367010d4980dcde9980c5ea"
+    },
+    "limoeiro-G-1": {
+      "nota": 0.548,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "e3ba3f2d8769698b6a3cde37754942b3371f5daea75704569b01f472c7422969"
+    },
+    "limoeiro-H-1": {
+      "nota": 0.4589,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "e4e3841e4627f2a54652f468498358e76346e91a659dced59e6ed62bede45834"
+    },
+    "lirio-A-1": {
+      "nota": 0.7081,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "d179cec95f26ceacb9140ae69c4944b7dc130891d3bce0cd1fcf590c5152ca7b"
+    },
+    "lirio-B-1": {
+      "nota": 0.5745,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "249517a06930aa0483db5a9d7610f26eab753023d363fb7d8e73fdff93aca908"
+    },
+    "lirio-C-1": {
+      "nota": 0.7404,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "013573117e314edcdd602c393267999e8b59946c5999b4802032264a7c03365e"
+    },
+    "lirio-D-1": {
+      "nota": 0.696,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "6b60b195c82c97844f79ffd512c0f814f14004ffcc6dc1a0ecce8d5d66794db3"
+    },
+    "lirio-da-paz-A-1": {
+      "nota": 0.6674,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "6134e978b471d8462045e1be2c0571bb890e27c7766d3ff72c8219542eb8642f"
+    },
+    "lirio-da-paz-B-1": {
+      "nota": 0.6112,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b2381e56aaf4bacc7c5951dd27e203a6a66cff3b4c82e4aeb8e3c7ef169c056e"
+    },
+    "lirio-da-paz-C-1": {
+      "nota": 0.7304,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "e1fb43eb68bf21faa5b6b0d14a166686b665be9299a223d43ae04a0c624f5934"
+    },
+    "lirio-da-paz-D-1": {
+      "nota": 0.7325,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "bf5bfa792d66555a920b5501339e09c7ae2cd3d7e2686ef3125d33e9b41e76ea"
+    },
+    "lirio-da-paz-E-1": {
+      "nota": 0.5282,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "4d153048cf0c4b10f7df95e9a7325cc77fcab732b0cf41293a5beda007b71c4a"
+    },
+    "lirio-da-paz-F-1": {
+      "nota": 0.7212,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "0ccadf75752d18abafb860085c6f79d8a5bf02df69cd4a00a10bcad19e54d610"
+    },
+    "lirio-da-paz-G-1": {
+      "nota": 0.471,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "764e994530999bdd88a1422fc0e987b37cecb83f5e304864561a01514c2a0547"
+    },
+    "lirio-da-paz-H-1": {
+      "nota": 0.5803,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "60662c7d466abe637f83c1b9816d09adc00e929ae2dc215968869fbc1e073e47"
+    },
+    "lirio-E-1": {
+      "nota": 0.4734,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "f61d6b3a90bc6c728ae41c8b78d82321c12b88b76a0203971cce70314e6127fb"
+    },
+    "lirio-F-1": {
+      "nota": 0.7265,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "1f71ae96898c679b6f1aba90876f7b3903c15db6638e8335016bef44bc9d88e7"
+    },
+    "lirio-G-1": {
+      "nota": 0.42,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "056bab0b9c7aebd6d69bd562222276cdd4f65d334f51e459e570f3c87b576939"
+    },
+    "lirio-H-1": {
+      "nota": 0.6825,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "99ff2b0575ddab24419903d12fc9acd24c399d309126bb951bbd66966f398ac1"
+    },
+    "manjericao-A-1": {
+      "nota": 0.6351,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "673ddc084adebd26e26f65caa398d13888af0724c57c286fc92284e966170335"
+    },
+    "manjericao-B-1": {
+      "nota": 0.5996,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b28755e51a667541d2af4d37cff6e87d6a9d2da6d3e73618a9677592836fd118"
+    },
+    "manjericao-C-1": {
+      "nota": 0.682,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "5db6a4432c8c90927abe8e49ec7810723110c6eb76b01771879b2de146909463"
+    },
+    "manjericao-D-1": {
+      "nota": 0.6993,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "096c25979f5c46e2a2683efbcf27e7a0f5392d7b638c94a335fb87998842fd76"
+    },
+    "manjericao-E-1": {
+      "nota": 0.5335,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "6647b5838bd3e6e8d86a3d4774a22c6a44cdae0c746a758bb0011534bfbe4293"
+    },
+    "manjericao-F-1": {
+      "nota": 0.7419,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "dc08a0cfb2f789c5f591bc4c21256ea4d4f4af609b0db229fdfee6a5f3d5ec08"
+    },
+    "manjericao-G-1": {
+      "nota": 0.3907,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "fa5e3670b9e82f01ce737505b5e08b89e5a29296f4b76dda002871c8ad381ad6"
+    },
+    "manjericao-H-1": {
+      "nota": 0.4174,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "0bdacf5d9557822a20fe3c004c8e892a5fcc550cf38abb91ab6d25d91dc5762a"
+    },
+    "maranta-A-1": {
+      "nota": 0.5612,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "f807485f61f7eb8909c517dd5e4722c317ea59ab57bba701db7c13a87981b8f9"
+    },
+    "maranta-B-1": {
+      "nota": 0.5833,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "15ed02394b18642e0e9e378aac3575483aca5be60ed9eabde2b670cad4daa64e"
+    },
+    "maranta-C-1": {
+      "nota": 0.6926,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "f75f1123d42ac952a95aa823d9870107d2b73a60628923856e42a9a03c185b11"
+    },
+    "maranta-D-1": {
+      "nota": 0.7099,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "d9bfc6fc41a24ed778f9559c98036fb72330dd7a987733b8923faf780aba67e1"
+    },
+    "maranta-E-1": {
+      "nota": 0.3921,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "15cc3a572b4accaaaac5b4d9b32f061b151fb022bf779db38dd6b472c69eb58f"
+    },
+    "maranta-F-1": {
+      "nota": 0.6924,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "97de3580e50becbe86fc7e464f431f36a456220215050808b4cefc28a4e68b31"
+    },
+    "maranta-G-1": {
+      "nota": 0.414,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "a8e2ac63e68dd1d27a1f2758d948d4baac79ac5e42e2f0c096edece6018078fc"
+    },
+    "maranta-H-1": {
+      "nota": 0.7288,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "e356173e06dad058c2d5b740f2b1b9078667eaf2491a80cb7c213cf8225c4dde"
+    },
+    "morango-A-1": {
+      "nota": 0.6214,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "d821d10a265cd1bb94dd907fd2cd2bf6277a8598fc0c33570c8320fce529cfe1"
+    },
+    "morango-B-1": {
+      "nota": 0.5708,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "85098b17651b801724754f1870ca4a49eaa7c4c67b51213ac7f10f0475c57e80"
+    },
+    "morango-C-1": {
+      "nota": 0.7011,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "6bbc4e5daee4650c8bb27b3752db7e53b64e4f7c71b1be15b87f83b2a21f9491"
+    },
+    "morango-D-1": {
+      "nota": 0.6974,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "169dc21505cb7a6051f6fdc449a624a2ee0bdc0098171c92c182b57f6cd51778"
+    },
+    "morango-E-1": {
+      "nota": 0.5653,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "40ce9996ae5bc41c11493af041cc5ba88edae434f6d6ef8a8a2e355a6dd03af1"
+    },
+    "morango-F-1": {
+      "nota": 0.695,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "610a5756b022ad8b40bcd64e9db9c3251becbc6f2b8c46df234e9c86eca2ca2b"
+    },
+    "morango-G-1": {
+      "nota": 0.5929,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "be2aa44a0eee21e3431fb788442ac8adf7e625ee42f9e821d6217a558c0f050b"
+    },
+    "morango-H-1": {
+      "nota": 0.516,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "8b0a86363f09e8c70d2684040275a22941840330eedae524fff37e610bbf6c54"
+    },
+    "orquidea-A-1": {
+      "nota": 0.6555,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "2eeda5e553dd23e19f6ed7517d240fa6f7f5f9fa1f7d0f7995f62d3f962b36d4"
+    },
+    "orquidea-B-1": {
+      "nota": 0.5975,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "d6088790461a2e77d137309465cec4c07e34a8f53b44f773cc05a437537fddea"
+    },
+    "orquidea-C-1": {
+      "nota": 0.7133,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "c7462c1d7b5aea52af293b2fe81a8896aac19a737781452d12608d6b7845462c"
+    },
+    "orquidea-D-1": {
+      "nota": 0.7764,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "ae0e9eaa82689b5cbaf0c95cc78e11b53fe691934dd5f9fe555085330093e563"
+    },
+    "orquidea-E-1": {
+      "nota": 0.6135,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "e257230e2cc35c142f95eb62cb59e6baab3c4cc54c463608b2bcd43b0b416c27"
+    },
+    "orquidea-F-1": {
+      "nota": 0.7307,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "4739ea1d3d30a31875bf042f59110a68df670ac4896719406fddc8650aede50d"
+    },
+    "orquidea-G-1": {
+      "nota": 0.3541,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "401f06f6e49d5ac014ad65831ff950522b4ae899b62a4d2cec179bac0ae03d62"
+    },
+    "orquidea-H-1": {
+      "nota": 0.3153,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "95c0384da87039a410cf6c7499cf16dfe37c149656752c7911c7d9e8ed53937d"
+    },
+    "peperomia-A-1": {
+      "nota": 0.6497,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "97381366ab9d95361c42f622e0ac0c171c10f5e09fe0724791377a079c238efa"
+    },
+    "peperomia-B-1": {
+      "nota": 0.2265,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "cfe3058354f8520efe95dea5d925007a78129bf94934f1bc7ca046d403cc2a8b"
+    },
+    "peperomia-C-1": {
+      "nota": 0.7502,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "d9827581efb11b2d452797e2015919a1cedea7f6516fb4e19ef66dcc71f29cea"
+    },
+    "peperomia-D-1": {
+      "nota": 0.7284,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "ac02c2f6c9e4d89aa4b12b9c6e8f96a3387e9e5025085e4b96249b978c3ed290"
+    },
+    "peperomia-E-1": {
+      "nota": 0.5129,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "4cd6144be6c99ab874f6fc6c08bd7d6a058afd9517097b26783a23e227ee90a5"
+    },
+    "peperomia-F-1": {
+      "nota": 0.7377,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "88948101d99356252debe95ebc96380c31ea3603f024a481142cdc8656aa63b9"
+    },
+    "peperomia-G-1": {
+      "nota": 0.5156,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "84e06945eb8369df85e3f489a367ad2bcbcf0fce9e672fa19a790ae2a0cddd80"
+    },
+    "peperomia-H-1": {
+      "nota": 0.5872,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "29eda96c922ba234052ea319cdd6fff8bcfd7d87217feab3481125ac2c57990f"
+    },
+    "pimenta-A-1": {
+      "nota": 0.6595,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "539cdf3e7409bbbeb58303c829c18bed191cdfcc49a1da7264a0037401383559"
+    },
+    "pimenta-B-1": {
+      "nota": 0.6388,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "793f71e01e8e32b9b1221ea73c96d8363ed6cb0641989c71314d24cb6272fe09"
+    },
+    "pimenta-C-1": {
+      "nota": 0.7299,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b1d52346b56cb1da56d7a0198855d1adff6f026a8db311f30e03bee6074bfcb8"
+    },
+    "pimenta-D-1": {
+      "nota": 0.7008,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "956bff4a9ba50edd698d0d8437e40d87fe8453db3f9f9fad720a0a0f856157f5"
+    },
+    "pimenta-E-1": {
+      "nota": 0.5306,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "3cbd60cb6d1ff2a6a756da7c41e3c1ccd32adf44206b026549e63671c437f285"
+    },
+    "pimenta-F-1": {
+      "nota": 0.7334,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "aa3c62bd2a25f593e06ba8fdc2620a2bfeb5ab508293462a277082761e62d687"
+    },
+    "pimenta-G-1": {
+      "nota": 0.4856,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "fae9284c896f120386b55e5a4880fb589ea00c0a69f3af47302edc882a8db0ee"
+    },
+    "pimenta-H-1": {
+      "nota": 0.6391,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "f948c068981c028807062debf884aba209d530f131a39d6999a85a81f9c66f0b"
+    },
+    "rosa-do-deserto-A-1": {
+      "nota": 0.6237,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "21f059fcb780452f4a174a5c4927ad65e4db17a3fbc9a9900a796c1cfef48981"
+    },
+    "rosa-do-deserto-B-1": {
+      "nota": 0.5066,
+      "rostos": 3,
+      "onde": "banco",
+      "sha256": "6b8a1c783da843e5f7ea8aae4ae405d186e8b45ca151ceba00de135ce666ae64"
+    },
+    "rosa-do-deserto-C-1": {
+      "nota": 0.7025,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "1baa0382a11c58c3f9c32dcf8b2b3f138b3a2bffa9b2d681219cbca4ebbede79"
+    },
+    "rosa-do-deserto-D-1": {
+      "nota": 0.6739,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "288a0961528f9c373134d3acac0deb08d688e73bca73c61b31aa434b8a880e30"
+    },
+    "rosa-do-deserto-E-1": {
+      "nota": 0.5639,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b8ac5159d0904a063ede6039b97c78347e2802e4c41b15af3b2dc67551ee090e"
+    },
+    "rosa-do-deserto-F-1": {
+      "nota": 0.7436,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "0ebdb4d45a60cbfc27cd1230c5517eb401f689a04e67b7dac04aca7cf08750a8"
+    },
+    "rosa-do-deserto-G-1": {
+      "nota": 0.4037,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "ff25676352651ea7228cdbfc531b98cc42deaebcd2483b1b3ba818d447cf740a"
+    },
+    "rosa-do-deserto-H-1": {
+      "nota": 0.5575,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "d504553bb385272ad9b1a62e94f00d4d6945cccb680dae097d3b112ed112aa27"
+    },
+    "roseira-A-1": {
+      "nota": 0.6132,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "3a97e5f5c1bd3542dfd21862f315533112fb3b5e75597644e7417c378972d833"
+    },
+    "roseira-B-1": {
+      "nota": 0.581,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "97fe65dc81c05f124ab46a7bb95cfbded868d7d0b85ab13d55d480965319eaf7"
+    },
+    "roseira-C-1": {
+      "nota": 0.6892,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "a1ab0d50aa0ca0e8bd85210adade101cd1fac8eccb2075c256eb13c66f6974fb"
+    },
+    "roseira-D-1": {
+      "nota": 0.6725,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "16955c741d9b157fc98b615f01373f34cd31a06aa3dd5fa3acbc99fef42789aa"
+    },
+    "roseira-E-1": {
+      "nota": 0.4963,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b64e09d17754c0a9e41cdcbdee0c8295d42145a9a7c9f52ae4675e68b9ee012f"
+    },
+    "roseira-F-1": {
+      "nota": 0.723,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "f3336f3bc4f2b1f982a689eb6226e974016ffad5b4229df0c6ff83e6cefcc809"
+    },
+    "roseira-G-1": {
+      "nota": 0.4915,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "82cdfeee06bac24fdb44c4486ea705f1e2a5d3104e92bc335c82893d931591ca"
+    },
+    "roseira-H-1": {
+      "nota": 0.6739,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "9668bcd3a6ffff899795fd7e05de3775f1cda98a75f0aee7569979a20c98ff41"
+    },
+    "salsinha-A-1": {
+      "nota": 0.5668,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "9d47d6aaf22f6eccea4707de6830b17581df8b8567be794a9af8ad5059d74645"
+    },
+    "salsinha-B-1": {
+      "nota": 0.5709,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "57d1c123c6618832936601c92d2b1fd4edb4c6b4ae340dcf9a1fe32102569ad3"
+    },
+    "salsinha-C-1": {
+      "nota": 0.717,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "31f4baa016ba012c74f82358dfa40709b766d1fbc7c9617c935b93f57ccb7cb2"
+    },
+    "salsinha-D-1": {
+      "nota": 0.6688,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b9822cc2c9d0391cb731bab562da80025b68fa1732c9a4e2a00e4b63395359b9"
+    },
+    "salsinha-E-1": {
+      "nota": 0.6137,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "11b52ae1e47b18ee45e4af9e001d8dc9cc3df782a3ca222b6006b3a62c532930"
+    },
+    "salsinha-F-1": {
+      "nota": 0.7268,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "a76069c1b26f63e224aed07128bc3cd6c65e80efa728643aeb907dd33d21d908"
+    },
+    "salsinha-G-1": {
+      "nota": 0.3529,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "9cb313462b8200aaceb31cc40f1fbe791be52f9a58816432c36ded34a503ffbb"
+    },
+    "salsinha-H-1": {
+      "nota": 0.5287,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "ec5ee2fc4d832361e7be9b7b5dae7256b19dd0208123fb884151478a44abede1"
+    },
+    "samambaia-A-1": {
+      "nota": 0.6056,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b86cc3cd49642b364d05a5a55f813bfe6c433c8a7bda2d714669a59a05b337c0"
+    },
+    "samambaia-B-1": {
+      "nota": 0.5539,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "01e4ccd2202822ff9c3edf9b383ab947a6dea9033e9ec40a33ba486a31213fe4"
+    },
+    "samambaia-C-1": {
+      "nota": 0.7345,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "fb5cf8a8ff826f9dc4d0cb4e71dc752868e3529ea3dbeb7d37a2c1c6294fb7ae"
+    },
+    "samambaia-D-1": {
+      "nota": 0.7184,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "610d9e9126eb9750d5a646702ff6bc09b7b6b758293b8ecae78eae7febde5d14"
+    },
+    "samambaia-E-1": {
+      "nota": 0.4668,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b13a170431dd8f82a5908dc52f79b911ea7384cc957b100eb97bc46b2cd8e720"
+    },
+    "samambaia-F-1": {
+      "nota": 0.7401,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "bc58e3de2ff1ea52dd07b7980f961175fcdaa0adca15c7a8df37c171db2b4bcb"
+    },
+    "samambaia-G-1": {
+      "nota": 0.3697,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "cb5393a653e7842f05c76cce8f1eb8516ce835bbc18ea587d71ec1dc11a0e723"
+    },
+    "samambaia-H-1": {
+      "nota": 0.6657,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "133182165841f52b6e5535f323e00b8446ebacf62a0cab937ed8c7321c021876"
+    },
+    "sapatinho-A-1": {
+      "nota": 0.6204,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "5dd61016d15b575d8a2a6fc0922fb5f791abfffccdb96e28b95164b00cf985c0"
+    },
+    "sapatinho-B-1": {
+      "nota": 0.6042,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "1e4a4f2c05e9947e4bd939201f91c8caebe2a0e8b31296fb65e8b773b02a6e78"
+    },
+    "sapatinho-C-1": {
+      "nota": 0.7622,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "e0c57ac1688df832d8c54ba2c684529ed5057da87d8c757f1be3498c101d1229"
+    },
+    "sapatinho-D-1": {
+      "nota": 0.7228,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "837651b75c2acb2204ccad7e4e30c13448f183aeb93444f8d9903be5e2daad2e"
+    },
+    "sapatinho-E-1": {
+      "nota": 0.4862,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "cd109daacf1daa6989ae964531451f8bc624c0c65ec359e4cee19f03ab284d9c"
+    },
+    "sapatinho-F-1": {
+      "nota": 0.7306,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "84de29f98ecc393cc6d1f03fcf3dd6c7a095d96d7ffc79635869500c70d3cbb3"
+    },
+    "sapatinho-G-1": {
+      "nota": 0.4701,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "60ced45c30f947c9a7e50e6ec29f84f686467c93afd15f88c629bc223dc99579"
+    },
+    "sapatinho-H-1": {
+      "nota": 0.5405,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "03e6a8f375d9324a52a0c5f9db258466639dae4f54e16885fc155ba59c922c05"
+    },
+    "suculenta-A-1": {
+      "nota": 0.6523,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "42a7c20156f5ca522bbb86ad9a56f49c1ae528d3bad6814360bf7f555c96f8e8"
+    },
+    "suculenta-B-1": {
+      "nota": 0.4909,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "da99382ea3cf31ca65107d74e1aefe465af0eff1a14545b913e6c6b89282be7b"
+    },
+    "suculenta-C-1": {
+      "nota": 0.698,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "343ac48fda86660bacf08cec1657375627dacab945b3fbe62beb08aea2e96700"
+    },
+    "suculenta-D-1": {
+      "nota": 0.6584,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "9b27297c6ce8f3ce1852a167c29db2c5a88674e2c22a2c395040edf54ef35f52"
+    },
+    "suculenta-E-1": {
+      "nota": 0.4473,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "78025554a99200fdb4d0624263a125e550e043268bc21953c9f0b1543488e2e7"
+    },
+    "suculenta-F-1": {
+      "nota": 0.7363,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "ea23d57c5e8f9fc7546696821e3e9a1f227fcb6ba793113301babab31a7b64bc"
+    },
+    "suculenta-G-1": {
+      "nota": 0.4172,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "f1bfe7ae3e228a64e8f2483700d601f4d1717eb8f809e0192cb0b49d9405b963"
+    },
+    "suculenta-H-1": {
+      "nota": 0.5434,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "ba18246f7501d3dfe014b739f23d2fa27e4d372a60cfa329566061ddf23edba8"
+    },
+    "tomate-A-1": {
+      "nota": 0.6479,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "ab5bb04a505178d7dcf58b9425b272a19e7666edcc2767a0b95f79e8894149c8"
+    },
+    "tomate-B-1": {
+      "nota": 0.5611,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "7ae1e818ef1f3db83df2ff81662c57e100ac28e4ef3a5e2226feb75aab084b75"
+    },
+    "tomate-C-1": {
+      "nota": 0.6508,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "91877de535604d788988130b9eaa65d32a6603afe5b0232b88dc4fce14f0cce8"
+    },
+    "tomate-D-1": {
+      "nota": 0.7438,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "59244e3beadcd648b1939461fe9f876d76d9b74e46b5b98bb4b9d9bbb621f4f7"
+    },
+    "tomate-E-1": {
+      "nota": 0.494,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "f9520c37f9ac3a01404e542ce0ddc7512abf8338aebf8551a8cc770a9aedac8d"
+    },
+    "tomate-F-1": {
+      "nota": 0.7368,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "3e78fa26ba1dbf24c64be8c96f2d21fca931d881b30f6de2449656c58db41296"
+    },
+    "tomate-H-1": {
+      "nota": 0.6009,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "64e6c5c4ebc4d92d9bf2e15d531b9a82baf73bd7b0e82b2f6adb4180d1d074c8"
+    },
+    "vanda-A-1": {
+      "nota": 0.5988,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "d2c20e6e9475fde0b6b841fc578d1eec2627a391ae1d0477432b98db0a32a375"
+    },
+    "vanda-B-1": {
+      "nota": 0.7313,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "95748c15db989a51afff4a0e2003251a92a8ca662cf440afe5a5491da532187c"
+    },
+    "vanda-C-1": {
+      "nota": 0.7129,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "190abad60b5d43178cc50cf7089c755afa97082a6562909cb816207ecdc52f19"
+    },
+    "vanda-D-1": {
+      "nota": 0.6526,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "e05ade58ba0a8bc365635b0db702c3a1b1faa3ec96e41157e1e56a5bf72c8d3c"
+    },
+    "vanda-E-1": {
+      "nota": 0.4828,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "8047d070b38f35acb319a26d7572e9a3cdf78ddbdd940fc93f895175d5e5206a"
+    },
+    "vanda-F-1": {
+      "nota": 0.7047,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "bd21e5d67e5c96a610954708e220de475f64b7f3d81c72d64c18fdb4c5cedff9"
+    },
+    "violeta-A-1": {
+      "nota": 0.5671,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "f9972ca47e2776fefc0ec89f9d3c8e69c2402e83dcdbc113994b81e5e619d748"
+    },
+    "violeta-B-1": {
+      "nota": 0.5856,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "6915e2e61a90f81e244afcf36c0e155ff3cddb53f41639907b1a71727a2c3092"
+    },
+    "violeta-C-1": {
+      "nota": 0.7236,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "962a2646f13dd8f216563529297e604b87ba16b87803d9a7a37f53e9eb4135ae"
+    },
+    "violeta-D-1": {
+      "nota": 0.7008,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "eb4c8688a2a318eeb1cf3c31f8e531e96545935d6447b14a93c50f711fb6bb4d"
+    },
+    "violeta-E-1": {
+      "nota": 0.3336,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "b35fc3fa536b0dcacd1ce7afdbfefa2ac15e5c0f8f500417b4b29c8ca1799a1c"
+    },
+    "violeta-F-1": {
+      "nota": 0.6739,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "1a2e566da2896e9c3ae01a1ad8d23367c6d037fd7dd2046230a7d14c17db540f"
+    },
+    "violeta-G-1": {
+      "nota": 0.3944,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "ff531041a1f244db219b675eb2f2b26b8f540a86351da9b5f3c18fbfdae20322"
+    },
+    "violeta-H-1": {
+      "nota": 0.4416,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "6b7cc82877e72c9d2470f01d70208100c6511b3404d573417a02d5686eff2bd4"
+    },
+    "zamioculca-A-1": {
+      "nota": 0.6982,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "a0feee9057dece241f1cf691c04282c684475cc71772bdeb71fd8fb54fef888f"
+    },
+    "zamioculca-B-1": {
+      "nota": 0.592,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "6938977e44b2a4a719403c4745248137d60815a5a2e7d33ef4bffb5856208e49"
+    },
+    "zamioculca-C-1": {
+      "nota": 0.7509,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "d0ae10f4e1ab70b4a0780d44aadbd2cf7898ddfe7546c6614ea3e8244130110b"
+    },
+    "zamioculca-D-1": {
+      "nota": 0.6793,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "ba7bd8ce55175b4a6e3d470588ab95eb73388f68e9e9240b7745e57739c500f6"
+    },
+    "zamioculca-E-1": {
+      "nota": 0.5188,
+      "rostos": 2,
+      "onde": "banco",
+      "sha256": "7818fb0e1570db3f3f0babb656800b1efd8b44f91f60c55550c8108fad878c9d"
     },
     "zamioculca-F-1": {
-      "nota": 0.7122,
+      "nota": 0.6794,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "a136545aeeb60fd7dccb4f537ca031cae60c2511eeab03c0260904b677159860"
+      "sha256": "496236d1deda614def6f7677681923bdca751fb0cf241462c2a8c0c26bafbefc"
     },
     "zamioculca-G-1": {
-      "nota": 0.3741,
+      "nota": 0.3847,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "292eda2b19ce6baa85a54d95add0f599ceaead7dfc73d695bf5ccf93dfaaddf7"
+      "sha256": "c61945fb787c87fe7a1da8349057314380e8fdfc9d9c05b4270c87fba8277b5a"
     },
     "zamioculca-H-1": {
-      "nota": 0.5558,
+      "nota": 0.5618,
       "rostos": 1,
       "onde": "banco",
-      "sha256": "1d6521d75e793d18d13f3f8356379eff69b7c2c5019c3c723c4839ea515be759"
+      "sha256": "fe6531ee1285d278eb2041a710489af6678be5f16f67215459c8c9cdaa5d6b87"
     }
   }
 }

@@ -34,8 +34,12 @@ a miniatura do YouTube; aqui é a capa do carrossel. Ainda NÃO aplicado: fica p
   declarado), que o Instagram lê para pôr "Informações de IA". O `importar-cli` regrava sem metadado;
   `capas/metadados.test.mjs` garante que nenhuma capa do banco tem o selo. A marca d'água SynthID fica
   nos pixels e nenhum tratamento simples a remove.
-- Pendente: o André olhar a amostra lado a lado (o grão aparece no fundo desfocado) e decidir se trata
-  o banco.
+- APLICADO no banco inteiro (445 capas) a pedido do André. Originais fora do repositório em
+  `Documents\Terra Gentil\banco-original-2026-10-30` (e no histórico do git, commit c0bef93).
+- Efeito colateral: o grão fez o detector achar rosto falso grande (confiança 0,6 a 0,73). O
+  `verificar_rosto.py` passou a escolher o rosto de maior confiança, não o maior. Mesmo assim, 6 capas
+  de lado (G/H) caíram abaixo de 0,363 (antes 0,37 a 0,49): reaprovadas com exceção de rosto e motivo.
+- Capa nova: importar, tratar (`python -I capas/tratar_capa.py <jpg> <jpg>`), verificar rosto, aprovar.
 
 ## Como isto vira trabalho aqui (proposta, depois que as capas fecharem)
 1. `capas/tratar_capa.py` (mesmo molde do integrar_rosto.py, função pura + CLI): aplica na imagem inteira

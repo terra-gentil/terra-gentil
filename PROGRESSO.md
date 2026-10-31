@@ -2,6 +2,7 @@
 ## 2K DA RODADA 2: DESBLOQUEADO PARA A PAMELA (30/10/2026, noite)
 Causa: as capas da Pamela sao Nano Banana Pro e oferecem 1K/2K/4K; o menu abre por JS com a sequencia pointerdown, mousedown, pointerup, mouseup, click no botao Baixar midia, e depois o mesmo no item 2K (42 s por capa; a aba precisa estar em primeiro plano). Filtro: prompt da midia comecando por Close-up portrait, Side angle ou Low angle. place2k.py casa por correlacao (1.0) com capas-rodada2-importadas; importar-cli.mjs de uma pasta flat com os 2K (Documents/Terra Gentil/2k-rodada2) e reaprovar (a importacao zera a aprovacao). 67 capas em 2K ja no banco e aprovadas (24 especies). Falta rodar o resto da galeria da Pamela (lirio, suculenta, zamioculca, costela, espada, orquidea, jiboia) e a conta eng.andrehz (verificar o modelo; as coringas nao tem 2K). (Texto antigo abaixo.)
 
+## ANTI-IA APLICADO NO BANCO (30/10): 445 capas tratadas e reaprovadas; originais em DocumentsTerra Gentilbanco-original-2026-10-30; ver capas/TRATAMENTO-ANTI-IA.md. Pendente: refazer 21 capas quando o limite do Flow voltar (fila do lote 1 carregada nas duas contas)
 ## 2K DA RODADA 2 (3a passada: eng.andrehz, +77 em 2K incluindo coringas; 2K existe nas duas contas, menu so na midia com legenda; todo F/G/H em 2K exceto os sem par certo)
 ## 2K DA RODADA 2 (2a passada: +18 da Pamela: costela, espada, lirio-da-paz G/H, orquidea, rosa-do-deserto F, suculenta, zamioculca; faltam lirio-da-paz-F e jiboia; eng.andrehz pendente)
 ## 2K DA RODADA 2: BLOQUEADO (30/10/2026, tarde)

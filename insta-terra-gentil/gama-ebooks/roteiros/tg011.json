@@ -1,0 +1,556 @@
+{
+  "livro": "TG 011",
+  "titulo": "Rosa-do-Deserto",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "011",
+        "COLEÇÃO TERRA GENTIL",
+        "ESPÉCIE",
+        "Rosa-do-Deserto",
+        "Sol forte, raiz seca no frio.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "rosa-do-deserto-A-1.jpg",
+          "alt": "André com uma rosa-do-deserto florida"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "d5-03",
+        "d5-114"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Muita gente acha que a rosa-do-deserto é difícil, cheia de segredo.",
+        "Não é. Ela só não gosta de ser tratada como planta comum.",
+        "Aqui eu te mostro a luz, a rega e a poda que fazem ela florir.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache o lugar de sol mais forte da sua casa.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: frio e molhada, nunca",
+        "→",
+        "TG 011 ROSA-DO-DESERTO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rosa-do-deserto-B-1.jpg",
+          "alt": "André segurando o vaso pela base gorda"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "d5-114",
+        "d5-117",
+        "d5-47"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Frio e molhada, nunca.",
+        "É o jeito mais fácil de matar uma rosa-do-deserto. Esfriou? Mantenha a terra seca.",
+        "O TESTE DO DEDO",
+        "Enfie o dedo de 2,5 a 5 cm na terra. Quase seca, regue. Senão, espere.",
+        "Na dúvida, não regue.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 011 ROSA-DO-DESERTO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da rosa-do-deserto",
+        "06",
+        "CAPÍTULO 1",
+        "Sol e água",
+        "08",
+        "CAPÍTULO 2",
+        "A poda e o vaso",
+        "12",
+        "CAPÍTULO 3",
+        "Mudas da sua rosa",
+        "15",
+        "CAPÍTULO 4",
+        "De perto, sem confusão",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Amarelou de uma vez? Vá para a página 11.",
+        "Na próxima: conheça a rosa-do-deserto",
+        "→",
+        "TG 011 ROSA-DO-DESERTO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "d5-34",
+        "d5-43",
+        "d5-73",
+        "d5-117",
+        "d5-03",
+        "d5-06"
+      ],
+      "textos": [
+        "FICHA DA PLANTA",
+        "Rosa-do-deserto",
+        "A escultura que dá flor",
+        "LUZ",
+        "Sol direto pelo menos meio dia",
+        "ÁGUA",
+        "Farta no calor; seca no frio",
+        "TERRA",
+        "A água some em poucos segundos",
+        "CLIMA",
+        "Calor; frio com terra molhada, nunca",
+        "DIFICULDADE",
+        "Fácil, se entender o que ela pede",
+        "PET",
+        "TÓXICA",
+        "Parente da espirradeira: longe do bicho",
+        "Na próxima: sol e água",
+        "→",
+        "TG 011 ROSA-DO-DESERTO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Sol e água",
+        "01",
+        "A rega em cada época",
+        "02",
+        "Sol aos poucos",
+        "03",
+        "Amarelou de uma vez",
+        "Na próxima: a rega em cada época",
+        "→",
+        "TG 011 ROSA-DO-DESERTO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rosa-do-deserto-C-1.jpg",
+          "alt": "André com a rosa-do-deserto no sol"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "d5-43",
+        "d5-56",
+        "d5-57",
+        "d5-44",
+        "d5-46",
+        "d5-49"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · A ÁGUA",
+        "Quando regar?",
+        "ÉPOCA",
+        "ÁGUA",
+        "COMO",
+        "Calor",
+        "Farta",
+        "Até escorrer",
+        "Descanso",
+        "Pouca",
+        "Só para não murchar",
+        "Frio",
+        "Nenhuma",
+        "Terra seca",
+        "Viagem",
+        "2 semanas",
+        "Ela aguenta",
+        "Vaso pequeno seca antes. Mais sol, calor e vento pedem mais água.",
+        "DICA DO ANDRÉ",
+        "No calor e com terra que drena, é quase impossível regar demais.",
+        "Na próxima: a poda e o vaso",
+        "→",
+        "TG 011 ROSA-DO-DESERTO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "A poda e o vaso",
+        "01",
+        "A poda, passo a passo",
+        "02",
+        "Sol aos poucos",
+        "03",
+        "Amarelou de uma vez",
+        "Na próxima: a poda, passo a passo",
+        "→",
+        "TG 011 ROSA-DO-DESERTO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rosa-do-deserto-D-1.jpg",
+          "alt": "André podando uma rosa-do-deserto"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "d5-100",
+        "d5-19",
+        "d5-137"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Podar? Faça assim.",
+        "QUANDO",
+        "A cada um ou dois anos",
+        "TEMPO",
+        "15 minutos",
+        "PRECISA",
+        "Tesoura bypass limpa",
+        "1",
+        "LIMPE A TESOURA",
+        "Ferramenta suja leva vírus.",
+        "2",
+        "CORTE NA GEMA",
+        "Logo acima da gema virada para fora.",
+        "3",
+        "TIRE AS DE CIMA",
+        "Duas ou três folhas, para brotar mais.",
+        "DICA DO ANDRÉ",
+        "A rosa comum pede poda forte. Sem poda, o galho fica fino e caído.",
+        "Na próxima: sol aos poucos",
+        "→",
+        "TG 011 ROSA-DO-DESERTO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ros-gesto-1.jpg",
+          "alt": "Mão limpando a lâmina da tesoura de poda"
+        },
+        {
+          "src": "ros-gesto-2.jpg",
+          "alt": "Tesoura cortando o galho logo acima de uma gema"
+        },
+        {
+          "src": "ros-gesto-3.jpg",
+          "alt": "Mão tirando as folhas de cima do galho podado"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "d5-39",
+        "d5-36",
+        "d5-40",
+        "d5-35",
+        "d5-37"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · O SOL",
+        "Sol aos poucos",
+        "Da sombra para o sol forte de uma vez, a folha queima e cai. O caule leva anos para sarar.",
+        "Muda pequena queima mais fácil: dê sombra à tarde.",
+        "No sol forte, não gire o vaso: o lado da sombra queima.",
+        "Galho comprido, fino e folha espaçada? Falta luz.",
+        "O susto: no calor demais, a flor desbota. É o sol, não doença.",
+        "Na próxima: amarelou de uma vez",
+        "→",
+        "TG 011 ROSA-DO-DESERTO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "d5-51",
+        "d5-53",
+        "d5-44"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Amarelou de uma vez?",
+        "1",
+        "O QUE PARECE",
+        "Ela está com sede.",
+        "O QUE PODE SER",
+        "Descanso, ou raiz podre de frio com água.",
+        "COMO RESOLVER",
+        "Pare de regar agora. Terra molhada por muito tempo entre as regas é ela pedindo descanso.",
+        "Na próxima: mudas da sua rosa",
+        "→",
+        "TG 011 ROSA-DO-DESERTO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ros-sintoma-1.jpg",
+          "alt": "Rosa-do-deserto com as folhas amarelando"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Mudas da sua rosa",
+        "01",
+        "O alporque",
+        "02",
+        "Semente é surpresa",
+        "03",
+        "Quatro da família",
+        "Na próxima: o alporque",
+        "→",
+        "TG 011 ROSA-DO-DESERTO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rosa-do-deserto-E-1.jpg",
+          "alt": "André mostrando as sementes da rosa-do-deserto"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "d5-144",
+        "d5-146",
+        "n10-29",
+        "d5-137"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · MUDAS",
+        "O alporque",
+        "QUANDO",
+        "Galho comprido e pelado",
+        "DE NOVO EM",
+        "Planta grande em 2 a 3 meses",
+        "VOCÊ VAI PRECISAR",
+        "Faca limpa",
+        ": tire um anel de casca",
+        "Musgo",
+        " úmido em volta",
+        "Plástico",
+        " amarrado nas pontas",
+        "Papel-alumínio",
+        " por fora, contra o sol",
+        "Álcool",
+        "Barbante",
+        " para firmar",
+        "Vaso",
+        " com terra que drena",
+        "Na próxima: semente é surpresa",
+        "→",
+        "TG 011 ROSA-DO-DESERTO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "d5-121",
+        "d5-124",
+        "d5-122",
+        "d5-128"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · MUDAS",
+        "ATENÇÃO",
+        "Semente não copia a flor.",
+        "A semente mistura a mãe com um pai desconhecido. Cada muda sai diferente.",
+        "Para copiar a variedade, só alporque, estaca ou enxerto.",
+        "FAÇA ASSIM",
+        "Quer surpresa? Semeie. Nasce em uma a duas semanas.",
+        "Não deixe a semente secar nem encharcar nos primeiros dias.",
+        "Na próxima: quatro da família",
+        "→",
+        "TG 011 ROSA-DO-DESERTO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "d5-12",
+        "d5-24",
+        "d5-21",
+        "d5-25"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro da família",
+        "1",
+        "Comum (obesum)",
+        "A mais vendida. Cresce rápido.",
+        "2",
+        "Árabe",
+        "Base gorda gigante.",
+        "3",
+        "Socotra",
+        "Parece um baobá pequeno.",
+        "4",
+        "Anã (crispum)",
+        "Galho curto, base de nabo.",
+        "CHAVE",
+        "Sol forte",
+        "Rega no calor",
+        "Na próxima: pragas sem susto",
+        "→",
+        "TG 011 ROSA-DO-DESERTO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ros-var-obesum.jpg",
+          "alt": "Rosa-do-deserto comum florida"
+        },
+        {
+          "src": "ros-var-arabicum.jpg",
+          "alt": "Rosa-do-deserto árabe de base gorda"
+        },
+        {
+          "src": "ros-var-socotra.jpg",
+          "alt": "Rosa-do-deserto de Socotra"
+        },
+        {
+          "src": "ros-var-crispum.jpg",
+          "alt": "Rosa-do-deserto anã"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "d5-87",
+        "d5-88",
+        "d5-90",
+        "d5-91",
+        "d5-89"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Pragas sem susto",
+        "COCHONILHA",
+        "A mais comum. Cotonete com álcool 70%.",
+        "ÁCARO",
+        "Pontinhos amarelos finos na folha.",
+        "PULGÃO",
+        "Jato forte de água, vários dias.",
+        "MOSCA-BRANCA",
+        "Molhe as duas faces da folha.",
+        "DICA DO ANDRÉ",
+        "Ar circulando previne a maioria das pragas.",
+        "Na próxima: um número que impressiona",
+        "→",
+        "TG 011 ROSA-DO-DESERTO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "d5-02",
+        "d5-61"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "MAIS DE",
+        "50 ANOS",
+        "de vida têm algumas rosas-do-deserto em vaso.",
+        "E seguem fortes. Nada indica que não passem de cem anos.",
+        "E MAIS UMA",
+        "Ela aguenta até 52 °C, mas floresce menos com dias seguidos acima de 38 °C.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 011 ROSA-DO-DESERTO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "d5-34",
+        "d5-114",
+        "d5-47",
+        "d5-73",
+        "d5-39",
+        "d5-19",
+        "d5-137",
+        "d5-06"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Ponha no sol mais forte da casa",
+        "Esfriou? Terra seca",
+        "Teste do dedo antes de regar",
+        "A água tem que sumir em segundos",
+        "Sol novo, só aos poucos",
+        "Pode a cada um ou dois anos",
+        "Limpe a tesoura antes de cortar",
+        "Longe do cão e do gato",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 011 ROSA-DO-DESERTO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua rosa-do-deserto florir de novo, me conta. E quando der semente, dá umas para alguém. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "011",
+        "VOCÊ TEM",
+        "001",
+        "002",
+        "003",
+        "004",
+        "005",
+        "São 11 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 001 ORQUÍDEAS SEM MEDO",
+        "Comente ORQUIDEA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 011 ROSA-DO-DESERTO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rosa-do-deserto-F-1.jpg",
+          "alt": "Retrato do André com a rosa-do-deserto"
+        }
+      ]
+    }
+  ]
+}

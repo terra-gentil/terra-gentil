@@ -1,0 +1,559 @@
+{
+  "livro": "TG 010",
+  "titulo": "Suculentas sem Afogar",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "010",
+        "COLEÇÃO TERRA GENTIL",
+        "ESPÉCIE",
+        "Suculentas sem Afogar",
+        "Menos água, mais cor.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-A-1.jpg",
+          "alt": "André com um vaso de suculentas"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "k9-203",
+        "b2-22"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Muita gente me conta que a suculenta derreteu, mesmo com todo o cuidado.",
+        "Era cuidado demais: água demais mata mais que de menos.",
+        "Aqui eu te mostro a rega, a luz e a cor que ela gosta.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Confira se o vaso da sua suculenta tem furo.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: a rega da suculenta",
+        "→",
+        "TG 010 SUCULENTAS SEM AFOGAR",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-B-1.jpg",
+          "alt": "André segurando uma suculenta"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "k9-207",
+        "b2-28",
+        "k9-206"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Espere a terra secar de verdade.",
+        "Molhe bem e só regue de novo com a terra bem seca. Pode levar dias ou semanas.",
+        "O SINAL DE SEDE",
+        "A folha perde o brilho e aparecem rugas finas na ponta. Com água, ela enche de novo.",
+        "E dê pelo menos 4 horas de sol por dia.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 010 SUCULENTAS SEM AFOGAR",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da rosa-de-pedra",
+        "06",
+        "CAPÍTULO 1",
+        "Água na medida",
+        "08",
+        "CAPÍTULO 2",
+        "Rega e cor",
+        "12",
+        "CAPÍTULO 3",
+        "O vaso certo",
+        "15",
+        "CAPÍTULO 4",
+        "De perto, sem confusão",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Esticada e fina? Vá para a página 11.",
+        "Na próxima: conheça a rosa-de-pedra",
+        "→",
+        "TG 010 SUCULENTAS SEM AFOGAR",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "k9-225",
+        "k9-207",
+        "b2-43",
+        "b2-01",
+        "p14-06"
+      ],
+      "textos": [
+        "FICHA DA PLANTA",
+        "Rosa-de-pedra",
+        "Echeveria, a roseta mais vendida",
+        "LUZ",
+        "Algumas horas de sol, de preferência de manhã",
+        "ÁGUA",
+        "Molhe bem e espere a terra secar",
+        "TERRA",
+        "Metade substrato, metade pedrinha",
+        "CLIMA",
+        "Entre 7 e 29 graus",
+        "DIFICULDADE",
+        "Fácil",
+        "PET",
+        "SEGURA",
+        "Não tóxica para cão e gato",
+        "Na próxima: água na medida",
+        "→",
+        "TG 010 SUCULENTAS SEM AFOGAR",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Água na medida",
+        "01",
+        "Quanto cada uma bebe",
+        "02",
+        "A rega certa",
+        "03",
+        "Ela ficou vermelha",
+        "Na próxima: quanto cada uma bebe",
+        "→",
+        "TG 010 SUCULENTAS SEM AFOGAR",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-C-1.jpg",
+          "alt": "André olhando as suculentas no sol"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "b2-44",
+        "b1-22",
+        "b1-23",
+        "k9-204",
+        "k9-228",
+        "b2-21"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · A ÁGUA",
+        "Quanto cada uma bebe?",
+        "SUCULENTA",
+        "REGA",
+        "TERRA",
+        "Bem gorda",
+        "Rara",
+        "Muita pedra",
+        "Rosa-de-pedra",
+        "Média",
+        "Meio a meio",
+        "Folha fina",
+        "Mais vezes",
+        "Mais terra",
+        "Flor-de-maio",
+        "Mais vezes",
+        "Úmida",
+        "Quanto mais gorda, mais tempo sem rega e mais fácil de apodrecer.",
+        "DICA DO ANDRÉ",
+        "A terra perto da raiz deve ficar como esponja torcida.",
+        "Na próxima: rega e cor",
+        "→",
+        "TG 010 SUCULENTAS SEM AFOGAR",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Rega e cor",
+        "01",
+        "A rega certa, passo a passo",
+        "02",
+        "Ela ficou vermelha",
+        "03",
+        "Esticada e fina",
+        "Na próxima: a rega certa",
+        "→",
+        "TG 010 SUCULENTAS SEM AFOGAR",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-D-1.jpg",
+          "alt": "André regando um vaso de suculenta"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "k9-207",
+        "k9-236",
+        "r6-26",
+        "b2-20"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Regar? Faça assim.",
+        "QUANDO",
+        "Terra bem seca",
+        "TEMPO",
+        "5 minutos",
+        "PRECISA",
+        "Regador de bico fino",
+        "1",
+        "TOQUE A TERRA",
+        "Seca de verdade? Hora de regar.",
+        "2",
+        "MIRE NA TERRA",
+        "Num espaço sem planta, não na folha.",
+        "3",
+        "DEIXE ESCORRER",
+        "Até sair pelo furo. Isso lava o sal.",
+        "DICA DO ANDRÉ",
+        "Esvazie o pratinho depois. Água parada no fundo apodrece a raiz.",
+        "Na próxima: ela ficou vermelha",
+        "→",
+        "TG 010 SUCULENTAS SEM AFOGAR",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suc-gesto-1.jpg",
+          "alt": "Dedo tocando a terra seca do vaso"
+        },
+        {
+          "src": "suc-gesto-2.jpg",
+          "alt": "Regador de bico fino molhando só a terra"
+        },
+        {
+          "src": "suc-gesto-3.jpg",
+          "alt": "Água escorrendo pelo furo do vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "b2-14",
+        "b2-15",
+        "b1-12",
+        "b2-68",
+        "b2-62"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · A COR",
+        "Ela ficou vermelha",
+        "Vermelha ou laranja pode ser saúde: é o estresse bonito de mais sol e menos água.",
+        "O vermelho vem do mesmo pigmento das frutas vermelhas.",
+        "Perdeu o vermelho e ficou verde? É mimo demais: menos água e mais sol.",
+        "Roseta fechada no calor também não é doença: ela se protege do sol.",
+        "O susto: ponta vermelha com seca volta ao verde com água.",
+        "Na próxima: esticada e fina",
+        "→",
+        "TG 010 SUCULENTAS SEM AFOGAR",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "k9-216",
+        "b2-67",
+        "b2-38"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Esticada e fina?",
+        "1",
+        "O QUE PARECE",
+        "Está crescendo bem.",
+        "O QUE PODE SER",
+        "Falta luz: ela se estica atrás do sol.",
+        "COMO RESOLVER",
+        "Leve aos poucos para mais sol. Se ficou torta, corte uns 2,5 cm abaixo da roseta e replante.",
+        "Na próxima: o vaso certo",
+        "→",
+        "TG 010 SUCULENTAS SEM AFOGAR",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suc-sintoma-1.jpg",
+          "alt": "Suculenta esticada e inclinada para a janela"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "O vaso certo",
+        "01",
+        "Monte o vaso",
+        "02",
+        "Xícara sem furo",
+        "03",
+        "Quatro de casa",
+        "Na próxima: monte o vaso",
+        "→",
+        "TG 010 SUCULENTAS SEM AFOGAR",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-E-1.jpg",
+          "alt": "André montando um vaso de suculenta"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "k9-046",
+        "b2-43",
+        "k9-208",
+        "r6-22",
+        "b2-48",
+        "b3-05",
+        "k9-205"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · O VASO",
+        "Monte o vaso",
+        "QUANDO",
+        "Quando ela volta a crescer",
+        "DE NOVO EM",
+        "Quando o vaso encher",
+        "VOCÊ VAI PRECISAR",
+        "Vaso com furo",
+        ", sempre",
+        "Substrato",
+        " meio a meio com pedra-pomes",
+        "Isopor esfarelado",
+        " no lugar da perlita",
+        "Cascalho",
+        " de 1 a 2 cm por cima",
+        "Pinça",
+        "Pincel macio",
+        " para tirar terra da folha",
+        "Plaquinha",
+        " com o nome de cada uma",
+        "Na próxima: xícara sem furo",
+        "→",
+        "TG 010 SUCULENTAS SEM AFOGAR",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "k9-046",
+        "k9-234",
+        "k9-277",
+        "t13-19"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · O VASO",
+        "ATENÇÃO",
+        "Xícara sem furo afoga.",
+        "Suculenta plantada direto na xícara: a água empoça no fundo e a raiz apodrece.",
+        "Terrário fechado é úmido e sem sol. Ela apodrece em poucas semanas.",
+        "FAÇA ASSIM",
+        "Sem furo? Rega mínima e vire o vaso para escorrer.",
+        "Kalanchoe é suculenta tóxica para cão e gato.",
+        "Na próxima: quatro de casa",
+        "→",
+        "TG 010 SUCULENTAS SEM AFOGAR",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "b6-11",
+        "b6-29",
+        "b1-20",
+        "b7-33"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro de casa",
+        "1",
+        "Rosa-de-pedra",
+        "Sol da manhã e girar o vaso.",
+        "2",
+        "Haworthia",
+        "A de apartamento: pouca luz.",
+        "3",
+        "Jade",
+        "Regue quando a folha enrugar.",
+        "4",
+        "Colar-de-pérolas",
+        "Sombra rala, nunca encharcada.",
+        "CHAVE",
+        "Meia-sombra",
+        "Rega rara",
+        "Na próxima: a folha fala",
+        "→",
+        "TG 010 SUCULENTAS SEM AFOGAR",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suc-var-rosa-de-pedra.jpg",
+          "alt": "Rosa-de-pedra em vaso de barro"
+        },
+        {
+          "src": "suc-var-haworthia.jpg",
+          "alt": "Haworthia zebrada"
+        },
+        {
+          "src": "suc-var-jade.jpg",
+          "alt": "Planta-jade em vaso"
+        },
+        {
+          "src": "suc-var-colar-de-perolas.jpg",
+          "alt": "Colar-de-pérolas pendurado"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "b1-25",
+        "b2-63",
+        "b2-28",
+        "b2-23",
+        "b2-34"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "A folha fala",
+        "ESTICADA",
+        "Falta luz. Aumente o sol aos poucos.",
+        "MANCHA BEGE",
+        "Queimou de sol. Essa folha não volta.",
+        "RUGAS NA PONTA",
+        "Sede. Com água, ela enche em um dia.",
+        "CAULE MOLE",
+        "Raiz podre: salve a parte sadia.",
+        "DICA DO ANDRÉ",
+        "Folha seca na base da roseta é normal. Ela protege o caule.",
+        "Na próxima: um número que impressiona",
+        "→",
+        "TG 010 SUCULENTAS SEM AFOGAR",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "r6-12",
+        "r6-50"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "UMAS",
+        "50",
+        "famílias de plantas têm suculentas.",
+        "Suculenta não é uma família: são mais de 600 gêneros e milhares de espécies.",
+        "E MAIS UMA",
+        "A tequila sai de uma suculenta: a agave.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 010 SUCULENTAS SEM AFOGAR",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "k9-046",
+        "k9-207",
+        "k9-206",
+        "b2-43",
+        "k9-236",
+        "b2-07",
+        "b2-13",
+        "t13-19"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Vaso com furo, sempre",
+        "Regue só com a terra bem seca",
+        "Pelo menos 4 horas de sol",
+        "Metade da terra de pedrinha",
+        "Mire o regador na terra",
+        "Saiu da sombra? Sol aos poucos",
+        "Gire o vaso uma vez por semana",
+        "Kalanchoe longe do pet",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 010 SUCULENTAS SEM AFOGAR",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua suculenta ficar vermelhinha de saúde, me conta. E dá uma folha para alguém fazer muda. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "010",
+        "VOCÊ TEM",
+        "011",
+        "001",
+        "002",
+        "003",
+        "004",
+        "São 11 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 011 ROSA-DO-DESERTO",
+        "Comente DESERTO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 010 SUCULENTAS SEM AFOGAR",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-F-1.jpg",
+          "alt": "Retrato do André com suculentas"
+        }
+      ]
+    }
+  ]
+}

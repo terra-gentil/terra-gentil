@@ -1,0 +1,70 @@
+{
+  "livro": "TG 007",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "mud-gesto-1",
+      "especie": "plant cuttings",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand cutting the tip of a stem diagonally with pruning shears",
+      "mascote": true
+    },
+    {
+      "id": "mud-gesto-2",
+      "especie": "plant cuttings",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's fingers removing the lower leaves from a stem cutting",
+      "mascote": false
+    },
+    {
+      "id": "mud-gesto-3",
+      "especie": "plant cuttings",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand pushing a stem cutting into the soil of a small pot",
+      "mascote": false
+    },
+    {
+      "id": "mud-sintoma-1",
+      "especie": "plant cuttings",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A small succulent cutting looking slightly wilted, waiting to root in a pot",
+      "mascote": false
+    },
+    {
+      "id": "mud-var-abacate",
+      "especie": "avocado seed",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "An avocado seed half submerged in a glass of water with roots",
+      "mascote": false
+    },
+    {
+      "id": "mud-var-abacaxi",
+      "especie": "pineapple top",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A pineapple crown rooting in a glass of water",
+      "mascote": false
+    },
+    {
+      "id": "mud-var-clorofito",
+      "especie": "Chlorophytum comosum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A spider plant with baby plantlets hanging down",
+      "mascote": false
+    },
+    {
+      "id": "mud-var-dedo-de-moca",
+      "especie": "Sedum morganianum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Fallen burro tail leaves sprouting tiny roots on soil",
+      "mascote": false
+    }
+  ]
+}

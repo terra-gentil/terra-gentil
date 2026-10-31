@@ -1,0 +1,70 @@
+{
+  "livro": "TG 004",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "cac-gesto-1",
+      "especie": "cactus",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands holding a columnar cactus wrapped in folded newspaper while cutting a piece with a knife",
+      "mascote": true
+    },
+    {
+      "id": "cac-gesto-2",
+      "especie": "cactus",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Several cut cactus pieces lying in the shade on a wooden table, cut ends facing up, drying",
+      "mascote": false
+    },
+    {
+      "id": "cac-gesto-3",
+      "especie": "cactus",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand pushing a cactus cutting one third deep into sandy gritty soil in a clay pot",
+      "mascote": false
+    },
+    {
+      "id": "cac-sintoma-1",
+      "especie": "cactus",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A potted cactus with a soft, dark, rotting base just above the soil",
+      "mascote": false
+    },
+    {
+      "id": "cac-var-bola",
+      "especie": "Echinocactus grusonii",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A golden barrel cactus in a terracotta pot in full sun",
+      "mascote": false
+    },
+    {
+      "id": "cac-var-bispo",
+      "especie": "Astrophytum myriostigma",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A bishop's cap cactus in a small clay pot",
+      "mascote": false
+    },
+    {
+      "id": "cac-var-flor-de-maio",
+      "especie": "Schlumbergera",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A Christmas cactus in full pink bloom in a hanging pot",
+      "mascote": false
+    },
+    {
+      "id": "cac-var-babosa",
+      "especie": "Aloe vera",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "An aloe vera plant in a terracotta pot in the sun",
+      "mascote": false
+    }
+  ]
+}

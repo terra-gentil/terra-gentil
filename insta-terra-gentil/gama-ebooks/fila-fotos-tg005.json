@@ -1,0 +1,70 @@
+{
+  "livro": "TG 005",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "reg-gesto-1",
+      "especie": "houseplants",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's finger pressing into the soil of a potted plant to check moisture",
+      "mascote": true
+    },
+    {
+      "id": "reg-gesto-2",
+      "especie": "houseplants",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand watering the soil of a pot slowly with a watering can until water drains from the hole",
+      "mascote": false
+    },
+    {
+      "id": "reg-gesto-3",
+      "especie": "houseplants",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands lifting an inner pot out of a decorative cachepot to let the water drain",
+      "mascote": false
+    },
+    {
+      "id": "reg-sintoma-1",
+      "especie": "houseplants",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A wilted potted plant sitting in waterlogged dark soil with water pooling in the saucer",
+      "mascote": false
+    },
+    {
+      "id": "reg-var-barro",
+      "especie": "terracotta pot",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A leafy plant in an unglazed terracotta pot",
+      "mascote": false
+    },
+    {
+      "id": "reg-var-plastico",
+      "especie": "plastic pot",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A leafy plant in a simple plastic nursery pot",
+      "mascote": false
+    },
+    {
+      "id": "reg-var-cachepo",
+      "especie": "ceramic cachepot",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A ceramic cachepot with a plastic pot with drainage hole inside",
+      "mascote": false
+    },
+    {
+      "id": "reg-var-pavio",
+      "especie": "wick watering",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A small pot with a cotton wick going down into a glass jar of water",
+      "mascote": false
+    }
+  ]
+}

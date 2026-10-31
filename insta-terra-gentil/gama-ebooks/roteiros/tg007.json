@@ -1,0 +1,550 @@
+{
+  "livro": "TG 007",
+  "titulo": "Mudas de Graça",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "007",
+        "COLEÇÃO TERRA GENTIL",
+        "CUIDADO",
+        "Mudas de Graça",
+        "Um galho vira uma planta nova.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-A-1.jpg",
+          "alt": "André segurando uma muda"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "b2-32",
+        "b2-30"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Muita gente acha que muda é coisa de viveiro, de laboratório.",
+        "Que nada. Um galho e um pouco de terra bastam.",
+        "Aqui eu te mostro como multiplicar as plantas que você já tem.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Escolha uma planta sua para virar muda.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: comece pela suculenta",
+        "→",
+        "TG 007 MUDAS DE GRAÇA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-B-1.jpg",
+          "alt": "André plantando uma muda no vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "b2-31",
+        "b2-35",
+        "b2-32"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Comece por uma suculenta.",
+        "Corte 5 a 8 cm da ponta, tire as folhas de baixo, deixe secar uns dias na sombra e plante.",
+        "O TRUQUE DA FOLHA",
+        "Deite uma folha de suculenta em cima da terra, sem enterrar e sem molhar. Ela solta raiz sozinha.",
+        "Semente demora. Galho e filhote pegam fácil.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 007 MUDAS DE GRAÇA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da estaca",
+        "06",
+        "CAPÍTULO 1",
+        "Cada planta, um jeito",
+        "08",
+        "CAPÍTULO 2",
+        "A estaca de galho",
+        "12",
+        "CAPÍTULO 3",
+        "Truques de vó",
+        "15",
+        "CAPÍTULO 4",
+        "De perto, sem confusão",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Muda murcha? Vá para a página 11.",
+        "Na próxima: a ficha da estaca",
+        "→",
+        "TG 007 MUDAS DE GRAÇA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "n10-24",
+        "k9-069",
+        "n10-25",
+        "n10-27"
+      ],
+      "textos": [
+        "FICHA DA MUDA",
+        "Estaca de galho",
+        "O jeito mais fácil de ganhar planta",
+        "QUANDO",
+        "Depois da florada ou no descanso",
+        "TAMANHO",
+        "Uns 15 cm de ponta saudável",
+        "CORTE",
+        "Na diagonal, com duas gemas ou mais",
+        "LADO",
+        "A base sempre para baixo",
+        "DIFICULDADE",
+        "Fácil",
+        "CUSTO",
+        "ZERO",
+        "Um galho e um pouco de terra",
+        "Na próxima: cada planta, um jeito",
+        "→",
+        "TG 007 MUDAS DE GRAÇA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Cada planta, um jeito",
+        "01",
+        "Qual jeito serve",
+        "02",
+        "A estaca de galho",
+        "03",
+        "Muda de folha",
+        "Na próxima: qual jeito serve",
+        "→",
+        "TG 007 MUDAS DE GRAÇA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-C-1.jpg",
+          "alt": "André com várias mudas na mesa"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "b2-35",
+        "r6-40",
+        "q3-82",
+        "n10-21",
+        "b1-05",
+        "k9-071"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · OS JEITOS",
+        "Qual jeito serve?",
+        "PLANTA",
+        "JEITO",
+        "COMO",
+        "Suculenta",
+        "Folha",
+        "Deite na terra",
+        "Cacto",
+        "Estaca",
+        "Seque o corte",
+        "Clorofito",
+        "Filhote",
+        "Prenda no vaso",
+        "Amarílis",
+        "Bulbo",
+        "Os bulbinhos em volta",
+        "Touceira grande? Divida em mudas menores, como o capim-limão.",
+        "DICA DO ANDRÉ",
+        "Rosa-de-pedra solta rosetas filhotes. É só soltar e replantar.",
+        "Na próxima: a estaca de galho",
+        "→",
+        "TG 007 MUDAS DE GRAÇA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "A estaca de galho",
+        "01",
+        "Estaca, passo a passo",
+        "02",
+        "Muda de folha",
+        "03",
+        "Muda murcha",
+        "Na próxima: estaca, passo a passo",
+        "→",
+        "TG 007 MUDAS DE GRAÇA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-F-1.jpg",
+          "alt": "André cortando um galho com tesoura"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "k9-069",
+        "n10-25",
+        "n10-27"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Estaca? Faça assim.",
+        "QUANDO",
+        "Depois da florada",
+        "TEMPO",
+        "10 minutos",
+        "PRECISA",
+        "Tesoura limpa e vaso",
+        "1",
+        "CORTE A PONTA",
+        "Uns 15 cm, em diagonal.",
+        "2",
+        "TIRE AS FOLHAS",
+        "As de baixo, que iam enterrar.",
+        "3",
+        "ESPETE NA TERRA",
+        "A base para baixo, firme.",
+        "DICA DO ANDRÉ",
+        "Estaca de cabeça para baixo não enraíza. Confira o lado antes de enterrar.",
+        "Na próxima: muda de folha",
+        "→",
+        "TG 007 MUDAS DE GRAÇA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "mud-gesto-1.jpg",
+          "alt": "Tesoura cortando a ponta de um galho em diagonal"
+        },
+        {
+          "src": "mud-gesto-2.jpg",
+          "alt": "Mão tirando as folhas de baixo da estaca"
+        },
+        {
+          "src": "mud-gesto-3.jpg",
+          "alt": "Mão espetando a estaca na terra do vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "b2-35",
+        "b2-36",
+        "b2-37",
+        "k9-224",
+        "b2-33"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · ESTACA",
+        "Muda de folha",
+        "A folha da suculenta deitada na terra solta raiz e uma plantinha nova.",
+        "A plantinha se alimenta da folha até ela secar como uva-passa.",
+        "A mãe-de-milhares solta mudinhas na borda da folha. Elas caem e pegam sozinhas.",
+        "Caiu folha do dedo-de-moça? Não jogue fora: deite na terra úmida.",
+        "O susto: a muda murcha antes de pegar. É normal, ela ainda não tem raiz.",
+        "Na próxima: muda murcha",
+        "→",
+        "TG 007 MUDAS DE GRAÇA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "b2-33",
+        "q3-76",
+        "b2-22"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Muda murcha e sem brilho?",
+        "1",
+        "O QUE PARECE",
+        "Ela vai morrer.",
+        "O QUE PODE SER",
+        "Muda sem raiz ainda, que é normal.",
+        "COMO RESOLVER",
+        "Espere de 4 a 6 semanas, sem encharcar. Só apodrece se você plantar o corte molhado ou regar demais.",
+        "Na próxima: truques de vó",
+        "→",
+        "TG 007 MUDAS DE GRAÇA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "mud-sintoma-1.jpg",
+          "alt": "Muda de suculenta murcha esperando enraizar"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Truques de vó",
+        "01",
+        "O alporque",
+        "02",
+        "Muda que não sai do lugar",
+        "03",
+        "Muda na cozinha",
+        "Na próxima: o alporque",
+        "→",
+        "TG 007 MUDAS DE GRAÇA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-podar-A-1.jpg",
+          "alt": "André com a tesoura no galho"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "n10-29",
+        "n10-30"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · TRUQUES DE VÓ",
+        "O alporque",
+        "QUANDO",
+        "Galho que não pega de estaca",
+        "DE NOVO EM",
+        "Raiz aparece em 30 a 60 dias",
+        "VOCÊ VAI PRECISAR",
+        "Faca limpa",
+        ", para tirar um anel de casca",
+        "Musgo ou palha",
+        " úmida",
+        "Plástico",
+        " em volta do galho",
+        "Barbante",
+        " para amarrar as duas pontas",
+        "Paciência",
+        "Tesoura",
+        " para cortar quando enraizar",
+        "Vaso",
+        " com terra nova",
+        "Na próxima: muda que não sai do lugar",
+        "→",
+        "TG 007 MUDAS DE GRAÇA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "n10-31",
+        "q3-78",
+        "q3-82"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · TRUQUES DE VÓ",
+        "ATENÇÃO",
+        "Tem muda que nem precisa cortar.",
+        "Dobre um galho comprido até a terra de outro vaso e prenda. Onde aperta, solta raiz.",
+        "Chama mergulhia. Serve para trepadeira e galho baixo.",
+        "FAÇA ASSIM",
+        "Só corte da planta-mãe quando a muda brotar.",
+        "No clorofito, prenda o filhote da ponta num vaso vizinho.",
+        "Na próxima: muda na cozinha",
+        "→",
+        "TG 007 MUDAS DE GRAÇA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "k9-320",
+        "k9-321",
+        "q3-82",
+        "k9-224"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro mudas de casa",
+        "1",
+        "Abacate",
+        "Caroço meio na água. Paciência.",
+        "2",
+        "Abacaxi",
+        "Coroa no copo d'água enraíza.",
+        "3",
+        "Clorofito",
+        "O filhote da ponta vira planta.",
+        "4",
+        "Dedo-de-moça",
+        "Folha caída deitada na terra.",
+        "CHAVE",
+        "Na água",
+        "Na terra",
+        "Na próxima: sinais de que pegou",
+        "→",
+        "TG 007 MUDAS DE GRAÇA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "mud-var-abacate.jpg",
+          "alt": "Caroço de abacate enraizando no copo"
+        },
+        {
+          "src": "mud-var-abacaxi.jpg",
+          "alt": "Coroa de abacaxi no copo com água"
+        },
+        {
+          "src": "mud-var-clorofito.jpg",
+          "alt": "Clorofito com filhotes pendurados"
+        },
+        {
+          "src": "mud-var-dedo-de-moca.jpg",
+          "alt": "Folhas de dedo-de-moça brotando"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "b2-33",
+        "b2-36",
+        "b3-09",
+        "k9-323"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Sinais de que pegou",
+        "BROTO NOVO",
+        "Folha nova nascendo é raiz trabalhando embaixo.",
+        "FIRMEZA",
+        "Puxe de leve: se não solta, tem raiz.",
+        "FOLHA-MÃE",
+        "Secou como uva-passa: a filha já se vira.",
+        "ÁGUA LIMPA",
+        "No copo, troque todo dia para não apodrecer.",
+        "DICA DO ANDRÉ",
+        "Muda pede paciência. Mexer toda hora para ver a raiz atrasa tudo.",
+        "Na próxima: um número que impressiona",
+        "→",
+        "TG 007 MUDAS DE GRAÇA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "k9-102",
+        "b2-30"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "MAIS DE",
+        "500",
+        "sementes um morcego espalha numa noite.",
+        "Só três espécies sugam sangue. As outras comem fruta e plantam floresta.",
+        "E MAIS UMA",
+        "Elefante quebra galho de suculenta e o galho cria raiz no chão.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 007 MUDAS DE GRAÇA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "b2-31",
+        "b2-35",
+        "n10-27",
+        "n10-25",
+        "q3-76",
+        "k9-323",
+        "k9-321",
+        "b2-33"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Faça uma muda de suculenta",
+        "Deite uma folha em cima da terra",
+        "Corte a estaca em diagonal",
+        "Base para baixo, sempre",
+        "Deixe o corte secar antes de plantar",
+        "Troque a água do copo todo dia",
+        "Ponha uma coroa de abacaxi na água",
+        "Espere de 4 a 6 semanas",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 007 MUDAS DE GRAÇA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua muda pegar, me conta. E dá a segunda para um vizinho. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "007",
+        "VOCÊ TEM",
+        "008",
+        "009",
+        "010",
+        "011",
+        "001",
+        "São 11 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 008 CASA COM PET",
+        "Comente PATINHA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 007 MUDAS DE GRAÇA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-H-1.jpg",
+          "alt": "Retrato do André com uma muda"
+        }
+      ]
+    }
+  ]
+}

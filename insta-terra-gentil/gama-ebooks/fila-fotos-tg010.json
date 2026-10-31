@@ -1,0 +1,70 @@
+{
+  "livro": "TG 010",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "suc-gesto-1",
+      "especie": "succulents",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's finger touching the dry soil of a succulent pot",
+      "mascote": true
+    },
+    {
+      "id": "suc-gesto-2",
+      "especie": "succulents",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A narrow-spout watering can wetting only the soil between succulents, not the leaves",
+      "mascote": false
+    },
+    {
+      "id": "suc-gesto-3",
+      "especie": "succulents",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Water draining out of the bottom hole of a succulent pot into a saucer",
+      "mascote": false
+    },
+    {
+      "id": "suc-sintoma-1",
+      "especie": "succulents",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A stretched, leggy echeveria leaning toward a window, pale and thin",
+      "mascote": false
+    },
+    {
+      "id": "suc-var-rosa-de-pedra",
+      "especie": "Echeveria",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "An echeveria rosette in a terracotta pot",
+      "mascote": false
+    },
+    {
+      "id": "suc-var-haworthia",
+      "especie": "Haworthiopsis attenuata",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A zebra haworthia in a small pot",
+      "mascote": false
+    },
+    {
+      "id": "suc-var-jade",
+      "especie": "Crassula ovata",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A jade plant in a ceramic pot",
+      "mascote": false
+    },
+    {
+      "id": "suc-var-colar-de-perolas",
+      "especie": "Curio rowleyanus",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A string of pearls hanging from a pot",
+      "mascote": false
+    }
+  ]
+}

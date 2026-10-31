@@ -1,0 +1,70 @@
+{
+  "livro": "TG 009",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "som-gesto-1",
+      "especie": "shade plants",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands moving a potted plant a little closer to a bright window",
+      "mascote": true
+    },
+    {
+      "id": "som-gesto-2",
+      "especie": "shade plants",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand turning over a leaf to look at it closely, indoors",
+      "mascote": false
+    },
+    {
+      "id": "som-gesto-3",
+      "especie": "shade plants",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands rotating a potted plant a quarter turn on a shelf",
+      "mascote": false
+    },
+    {
+      "id": "som-sintoma-1",
+      "especie": "shade plants",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A prayer plant (maranta) with curled, drooping leaves from thirst",
+      "mascote": false
+    },
+    {
+      "id": "som-var-jiboia",
+      "especie": "Epipremnum aureum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A pothos trailing from a hanging pot in a bright living room",
+      "mascote": false
+    },
+    {
+      "id": "som-var-lirio-da-paz",
+      "especie": "Spathiphyllum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A peace lily with white blooms in a shaded corner",
+      "mascote": false
+    },
+    {
+      "id": "som-var-maranta",
+      "especie": "Maranta leuconeura",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A prayer plant with patterned leaves on a side table",
+      "mascote": false
+    },
+    {
+      "id": "som-var-samambaia",
+      "especie": "Nephrolepis exaltata",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A lush Boston fern in a living room",
+      "mascote": false
+    }
+  ]
+}

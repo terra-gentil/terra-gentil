@@ -1,0 +1,70 @@
+{
+  "livro": "TG 006",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "mat-gesto-1",
+      "especie": "weeds",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand watering a garden bed before pulling weeds",
+      "mascote": true
+    },
+    {
+      "id": "mat-gesto-2",
+      "especie": "weeds",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand pulling a weed out by the base with the whole root intact",
+      "mascote": false
+    },
+    {
+      "id": "mat-gesto-3",
+      "especie": "weeds",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands spreading a thick layer of straw over bare garden soil",
+      "mascote": false
+    },
+    {
+      "id": "mat-sintoma-1",
+      "especie": "weeds",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Nutsedge (tiririca) sprouting again in a freshly weeded garden bed",
+      "mascote": false
+    },
+    {
+      "id": "mat-var-tiririca",
+      "especie": "Cyperus rotundus",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Nutsedge with triangular stems in a garden bed",
+      "mascote": false
+    },
+    {
+      "id": "mat-var-trapoeraba",
+      "especie": "Commelina benghalensis",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Commelina weed spreading on moist soil",
+      "mascote": false
+    },
+    {
+      "id": "mat-var-picao",
+      "especie": "Bidens pilosa",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Bidens pilosa with its black sticky seed heads",
+      "mascote": false
+    },
+    {
+      "id": "mat-var-beldroega",
+      "especie": "Portulaca oleracea",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Purslane with reddish stems growing in a sidewalk crack",
+      "mascote": false
+    }
+  ]
+}

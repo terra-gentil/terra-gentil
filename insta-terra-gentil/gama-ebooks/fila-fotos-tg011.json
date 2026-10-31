@@ -1,0 +1,70 @@
+{
+  "livro": "TG 011",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "ros-gesto-1",
+      "especie": "Adenium obesum",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand cleaning the blade of bypass pruning shears with alcohol",
+      "mascote": true
+    },
+    {
+      "id": "ros-gesto-2",
+      "especie": "Adenium obesum",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Bypass pruning shears cutting a desert rose branch just above a bud",
+      "mascote": false
+    },
+    {
+      "id": "ros-gesto-3",
+      "especie": "Adenium obesum",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's fingers removing the top leaves from a freshly pruned desert rose branch",
+      "mascote": false
+    },
+    {
+      "id": "ros-sintoma-1",
+      "especie": "Adenium obesum",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A potted desert rose with leaves turning yellow all at once",
+      "mascote": false
+    },
+    {
+      "id": "ros-var-obesum",
+      "especie": "Adenium obesum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A desert rose in full pink bloom with a thick caudex",
+      "mascote": false
+    },
+    {
+      "id": "ros-var-arabicum",
+      "especie": "Adenium arabicum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "An Adenium arabicum with a huge wide caudex",
+      "mascote": false
+    },
+    {
+      "id": "ros-var-socotra",
+      "especie": "Adenium socotranum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A small baobab-like Adenium socotranum",
+      "mascote": false
+    },
+    {
+      "id": "ros-var-crispum",
+      "especie": "Adenium crispum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A dwarf Adenium crispum with a turnip-like caudex",
+      "mascote": false
+    }
+  ]
+}

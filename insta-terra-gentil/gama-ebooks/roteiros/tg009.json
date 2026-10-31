@@ -1,0 +1,553 @@
+{
+  "livro": "TG 009",
+  "titulo": "Planta sem Sol",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "009",
+        "COLEÇÃO TERRA GENTIL",
+        "POR LUGAR",
+        "Planta sem Sol",
+        "O verde que vive longe da janela.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-A-1.jpg",
+          "alt": "André com folhagens perto da janela"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "k9-244",
+        "k9-010"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Muita gente mora em apartamento e acha que planta não é para ela.",
+        "É sim. Só precisa escolher a planta pela luz que tem.",
+        "Aqui eu te mostro como medir a sua luz e quem vive nela.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache o canto mais claro longe do sol direto.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o teste da bula",
+        "→",
+        "TG 009 PLANTA SEM SOL",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-B-1.jpg",
+          "alt": "André arrumando um vaso na sala"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "k9-002",
+        "q3-17",
+        "k9-010"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Faça o teste da bula.",
+        "De dia, sem acender a luz, tente ler uma bula onde vai o vaso. Leu fácil? Cabe planta.",
+        "PRECISOU ACENDER A LUZ?",
+        "Ali nenhuma planta de verdade vive. A 2,4 m da janela chega só 5% a 10% da luz.",
+        "Deixe os vasos a no máximo 3 metros da janela.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 009 PLANTA SEM SOL",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da jiboia",
+        "06",
+        "CAPÍTULO 1",
+        "Quanta luz você tem",
+        "08",
+        "CAPÍTULO 2",
+        "Os cuidados da sombra",
+        "12",
+        "CAPÍTULO 3",
+        "Mais luz sem obra",
+        "15",
+        "CAPÍTULO 4",
+        "De perto, sem confusão",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Maranta com folha enrolada? Vá para a página 11.",
+        "Na próxima: conheça a jiboia",
+        "→",
+        "TG 009 PLANTA SEM SOL",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "k9-271",
+        "k9-257",
+        "k9-270",
+        "k9-275",
+        "t13-11"
+      ],
+      "textos": [
+        "FICHA DA PLANTA",
+        "Jiboia",
+        "A campeã da sala sem sol",
+        "LUZ",
+        "Meia-sombra ou só claridade",
+        "SOL",
+        "Aceita algumas horas",
+        "FOLHA",
+        "Pequena no vaso, enorme se subir",
+        "AR",
+        "Longe do vento e do ar-condicionado",
+        "DIFICULDADE",
+        "Fácil",
+        "PET",
+        "TÓXICA",
+        "Planta toda: pendure longe do bicho",
+        "Na próxima: quanta luz você tem",
+        "→",
+        "TG 009 PLANTA SEM SOL",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Quanta luz você tem",
+        "01",
+        "Cada canto, uma luz",
+        "02",
+        "Mudar de lugar sem susto",
+        "03",
+        "Ponta seca na folha",
+        "Na próxima: cada canto, uma luz",
+        "→",
+        "TG 009 PLANTA SEM SOL",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-C-1.jpg",
+          "alt": "André medindo a luz perto da janela"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "q3-19",
+        "k9-010",
+        "k9-271",
+        "k9-282",
+        "k9-002",
+        "k9-262"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · A LUZ",
+        "Quem vive em cada canto?",
+        "CANTO",
+        "LUZ",
+        "VAI BEM",
+        "Na janela",
+        "Muita",
+        "Planta de flor",
+        "Até 3 m",
+        "Média",
+        "Lírio-da-paz",
+        "Mais longe",
+        "Pouca",
+        "Jiboia",
+        "Luz acesa",
+        "Nenhuma",
+        "Nenhuma planta",
+        "Folha rajada pede mais luz que a toda verde.",
+        "DICA DO ANDRÉ",
+        "Adubo não compensa falta de sol. Escolha a planta pela luz que você tem.",
+        "Na próxima: os cuidados da sombra",
+        "→",
+        "TG 009 PLANTA SEM SOL",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Os cuidados da sombra",
+        "01",
+        "Mudar de lugar sem susto",
+        "02",
+        "Ponta seca na folha",
+        "03",
+        "Folha enrolada",
+        "Na próxima: mudar de lugar sem susto",
+        "→",
+        "TG 009 PLANTA SEM SOL",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-F-1.jpg",
+          "alt": "André levando um vaso para perto da janela"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "k9-261",
+        "k9-012",
+        "q3-18"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Mudar de lugar? Faça assim.",
+        "QUANDO",
+        "Planta nova ou sem viço",
+        "TEMPO",
+        "Algumas semanas",
+        "PRECISA",
+        "Paciência",
+        "1",
+        "UM POUCO POR SEMANA",
+        "Chegue mais perto da luz aos poucos.",
+        "2",
+        "OLHE A FOLHA",
+        "Apareceu problema? Volte só um passo.",
+        "3",
+        "GIRE O VASO",
+        "Um quarto de volta a cada poucos dias.",
+        "DICA DO ANDRÉ",
+        "Planta do supermercado não vai direto para o sol. Fica uns dias só na claridade.",
+        "Na próxima: ponta seca na folha",
+        "→",
+        "TG 009 PLANTA SEM SOL",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "som-gesto-1.jpg",
+          "alt": "Mão aproximando o vaso da janela"
+        },
+        {
+          "src": "som-gesto-2.jpg",
+          "alt": "Mão virando uma folha para olhar"
+        },
+        {
+          "src": "som-gesto-3.jpg",
+          "alt": "Mãos girando o vaso no lugar"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "k9-275",
+        "q3-29",
+        "q3-30",
+        "q3-31",
+        "k9-022"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · OS CUIDADOS",
+        "Ponta seca na folha",
+        "Folhagem de sombra nasceu em lugar úmido. Vento e ar-condicionado secam a ponta.",
+        "Ar seco demais também derruba botão e tira o brilho da folha.",
+        "Junte as plantas em grupo: o vapor de uma ajuda a outra.",
+        "Ou ponha o vaso numa bandeja de pedrinhas com água abaixo do topo.",
+        "O susto: borrifar à noite chama doença. Borrife de manhã.",
+        "Na próxima: folha enrolada",
+        "→",
+        "TG 009 PLANTA SEM SOL",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "k9-279"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Maranta com folha enrolada?",
+        "1",
+        "O QUE PARECE",
+        "Falta luz ou doença.",
+        "O QUE PODE SER",
+        "Sede. Essa família detesta ficar sem água.",
+        "COMO RESOLVER",
+        "Regue bem até escorrer pelo furo. Maranta e calateia com folha caída ou enrolada pedem água.",
+        "Na próxima: mais luz sem obra",
+        "→",
+        "TG 009 PLANTA SEM SOL",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "som-sintoma-1.jpg",
+          "alt": "Maranta com as folhas enroladas de sede"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Mais luz sem obra",
+        "01",
+        "Antes de começar",
+        "02",
+        "Adubo não é sol",
+        "03",
+        "Quem vive na sombra",
+        "Na próxima: antes de começar",
+        "→",
+        "TG 009 PLANTA SEM SOL",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-G-1.jpg",
+          "alt": "André limpando a folha de uma planta"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "q3-20",
+        "b2-11",
+        "q3-41",
+        "q3-30",
+        "q3-31",
+        "k9-022"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · MAIS LUZ",
+        "Antes de começar",
+        "QUANDO",
+        "Uma vez por mês",
+        "DE NOVO EM",
+        "Toda troca de estação",
+        "VOCÊ VAI PRECISAR",
+        "Vidro limpo",
+        ": entra mais luz",
+        "Parede clara",
+        " reflete luz para a planta",
+        "Pano úmido",
+        " para tirar o pó da folha",
+        "Bandeja",
+        " com pedrinhas e água",
+        "Borrifador",
+        "Vasos juntos",
+        ", fazendo umidade",
+        "Manhã",
+        ": a hora de borrifar",
+        "Na próxima: adubo não é sol",
+        "→",
+        "TG 009 PLANTA SEM SOL",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "k9-244",
+        "k9-274",
+        "q3-41"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · MAIS LUZ",
+        "ATENÇÃO",
+        "Adubo não compensa falta de sol.",
+        "Planta de sol forte não fica bonita na sombra, nem com todo o carinho.",
+        "Na sombra a terra seca devagar. Cachepô sem furo vira piscina.",
+        "FAÇA ASSIM",
+        "Confira se a terra secou antes de regar.",
+        "Limpe a folha com pano úmido, nunca com a planta no sol.",
+        "Na próxima: quatro de sombra",
+        "→",
+        "TG 009 PLANTA SEM SOL",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "k9-271",
+        "k9-282",
+        "q3-88",
+        "q3-117"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro de sombra",
+        "1",
+        "Jiboia",
+        "Vive até só com claridade.",
+        "2",
+        "Lírio-da-paz",
+        "Floresce no úmido e sombreado.",
+        "3",
+        "Maranta",
+        "À noite fecha as folhas para rezar.",
+        "4",
+        "Samambaia",
+        "Destaque da sala o ano todo.",
+        "CHAVE",
+        "Sombra clara",
+        "Gosta de umidade",
+        "Na próxima: a folha fala",
+        "→",
+        "TG 009 PLANTA SEM SOL",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "som-var-jiboia.jpg",
+          "alt": "Jiboia em vaso suspenso"
+        },
+        {
+          "src": "som-var-lirio-da-paz.jpg",
+          "alt": "Lírio-da-paz florido"
+        },
+        {
+          "src": "som-var-maranta.jpg",
+          "alt": "Maranta de folha pintada"
+        },
+        {
+          "src": "som-var-samambaia.jpg",
+          "alt": "Samambaia na sala"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "b1-25",
+        "k9-077",
+        "k9-080",
+        "k9-008"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "A folha fala",
+        "ESTICADA E FINA",
+        "Está pedindo mais luz.",
+        "QUEIMADA",
+        "Área seca na folha verde: sol demais.",
+        "PONTA SECA",
+        "Vento demais ou ar muito seco.",
+        "TORTA",
+        "Está procurando a janela. Gire o vaso.",
+        "DICA DO ANDRÉ",
+        "Mudou de lugar? Espere uns dias observando antes de mudar de novo.",
+        "Na próxima: um número que impressiona",
+        "→",
+        "TG 009 PLANTA SEM SOL",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "k9-005",
+        "q3-88"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "MAIS DE",
+        "12 MIL",
+        "espécies de samambaia no mundo.",
+        "Por isso não existe receita única de cuidado: cada uma pede um pouco diferente.",
+        "E MAIS UMA",
+        "A maranta é a planta que reza: à noite as folhas ficam em pé, como mãos juntas.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 009 PLANTA SEM SOL",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "k9-002",
+        "k9-010",
+        "k9-261",
+        "q3-18",
+        "q3-20",
+        "q3-41",
+        "k9-022",
+        "k9-279"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Faça o teste da bula",
+        "Vasos até 3 m da janela",
+        "Mude de lugar um pouco por semana",
+        "Gire o vaso a cada poucos dias",
+        "Limpe o vidro da janela",
+        "Tire o pó das folhas",
+        "Junte as plantas em grupo",
+        "Maranta enrolada? Regue",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 009 PLANTA SEM SOL",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se o seu cantinho escuro ficar verde, me conta. E passa uma muda de jiboia adiante. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "009",
+        "VOCÊ TEM",
+        "010",
+        "011",
+        "001",
+        "002",
+        "003",
+        "São 11 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 010 SUCULENTAS SEM AFOGAR",
+        "Comente SUCULENTA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 009 PLANTA SEM SOL",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-H-1.jpg",
+          "alt": "Retrato do André na sala com plantas"
+        }
+      ]
+    }
+  ]
+}

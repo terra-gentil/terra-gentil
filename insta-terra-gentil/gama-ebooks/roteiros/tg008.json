@@ -1,0 +1,557 @@
+{
+  "livro": "TG 008",
+  "titulo": "Casa com Pet",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "008",
+        "COLEÇÃO TERRA GENTIL",
+        "CUIDADO",
+        "Casa com Pet",
+        "Planta e bicho em paz.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-pet-A-1.jpg",
+          "alt": "André com o cachorro e as plantas"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "t13-04",
+        "p14-01"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Muita gente me pergunta se precisa escolher entre o pet e as plantas.",
+        "Não precisa. Precisa saber quem é quem.",
+        "Aqui eu te mostro as perigosas, as seguras e onde pôr cada uma.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Anote o nome das plantas que o seu bicho alcança.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: tóxica lá no alto",
+        "→",
+        "TG 008 CASA COM PET",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-pet-B-1.jpg",
+          "alt": "André com o gato perto dos vasos"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "t13-04",
+        "p14-01",
+        "t13-56"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Planta tóxica fica onde o bicho não alcança.",
+        "Essa é a prevenção mais simples. E gato sobe em móvel e mesa: alto tem que ser alto.",
+        "O TESTE DO NOME",
+        "Antes de levar planta nova, pesquise o nome popular e o científico na lista da ASPCA.",
+        "Na dúvida, fora do alcance.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 008 CASA COM PET",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do lírio",
+        "06",
+        "CAPÍTULO 1",
+        "Quem é tóxica",
+        "08",
+        "CAPÍTULO 2",
+        "Planta nova em casa",
+        "12",
+        "CAPÍTULO 3",
+        "O canto seguro",
+        "15",
+        "CAPÍTULO 4",
+        "De perto, sem confusão",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Tempero com gato? Vá para a página 11.",
+        "Na próxima: o lírio e o gato",
+        "→",
+        "TG 008 CASA COM PET",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "t13-54",
+        "g16-04",
+        "g16-34",
+        "g16-38"
+      ],
+      "textos": [
+        "FICHA DO PERIGO",
+        "Lírio (Lilium)",
+        "A flor de festa que o gato não pode ter",
+        "ONDE",
+        "Buquê de presente e jardim",
+        "COMO AGE",
+        "Ataca o rim do gato",
+        "O PÓLEN",
+        "Cai no pelo e ele engole ao se lamber",
+        "A ÁGUA",
+        "Até a água do vaso intoxica",
+        "LÍRIO-DA-PAZ",
+        "Não é lírio: é cautela",
+        "GATO",
+        "PERIGO",
+        "Planta toda, até o pólen",
+        "Na próxima: quem é tóxica",
+        "→",
+        "TG 008 CASA COM PET",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Quem é tóxica",
+        "01",
+        "As tóxicas de casa",
+        "02",
+        "Por que o pet morde",
+        "03",
+        "Tempero também conta",
+        "Na próxima: as tóxicas de casa",
+        "→",
+        "TG 008 CASA COM PET",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-pet-C-1.jpg",
+          "alt": "André olhando um vaso alto com o cachorro"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "t13-06",
+        "t13-11",
+        "t13-33",
+        "g16-15",
+        "g16-17",
+        "t13-07",
+        "t13-08"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · AS TÓXICAS",
+        "As tóxicas de casa",
+        "PLANTA",
+        "RISCO",
+        "ATENÇÃO",
+        "Jiboia",
+        "Tóxica",
+        "Planta toda",
+        "Comigo-ninguém-pode",
+        "Tóxica",
+        "Folha e seiva",
+        "Costela-de-adão",
+        "Tóxica",
+        "Irrita a pele",
+        "Espada-de-são-jorge",
+        "Tóxica",
+        "Irrita a boca",
+        "Muitas são da mesma família: cristais em agulha ferem a boca do bicho.",
+        "DICA DO ANDRÉ",
+        "Não precisa jogar fora. Pendure ou suba para onde ele não chega.",
+        "Na próxima: planta nova em casa",
+        "→",
+        "TG 008 CASA COM PET",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Planta nova em casa",
+        "01",
+        "Planta nova, passo a passo",
+        "02",
+        "Por que o pet morde",
+        "03",
+        "Tempero também conta",
+        "Na próxima: planta nova, passo a passo",
+        "→",
+        "TG 008 CASA COM PET",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-pet-F-1.jpg",
+          "alt": "André com uma planta nova e o gato"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "p14-01",
+        "t13-04",
+        "g16-10"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Planta nova? Faça assim.",
+        "QUANDO",
+        "Antes de comprar",
+        "TEMPO",
+        "5 minutos",
+        "PRECISA",
+        "Celular e uma prateleira",
+        "1",
+        "PESQUISE O NOME",
+        "Popular e científico, na lista da ASPCA.",
+        "2",
+        "ESCOLHA O LUGAR",
+        "Tóxica vai para o alto ou pendurada.",
+        "3",
+        "DÊ OUTRA OPÇÃO",
+        "Grama para gato num vaso só dele.",
+        "DICA DO ANDRÉ",
+        "Erva-dos-gatos (Nepeta cataria) é segura e distrai o gato das outras plantas.",
+        "Na próxima: por que o pet morde",
+        "→",
+        "TG 008 CASA COM PET",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "pet-gesto-1.jpg",
+          "alt": "Mão com o celular pesquisando o nome da planta"
+        },
+        {
+          "src": "pet-gesto-2.jpg",
+          "alt": "Mão pondo o vaso numa prateleira alta"
+        },
+        {
+          "src": "pet-gesto-3.jpg",
+          "alt": "Gato comendo grama num vaso só dele"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "v15-02",
+        "v15-04",
+        "g16-06",
+        "v15-45",
+        "g16-02"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · PLANTA NOVA",
+        "Por que o pet morde?",
+        "Tédio quando fica sozinho, curiosidade e, no filhote, a troca dos dentes.",
+        "O gato come menos planta que o cão. Entediado, mordisca de tudo.",
+        "Mais brincadeira e mais tempo junto dele: menos planta mordida.",
+        "Prateleira alta e esconderijo ajudam o gato de apartamento.",
+        "O susto: planta segura ainda pode dar dor de barriga se ele comer muito.",
+        "Na próxima: tempero também conta",
+        "→",
+        "TG 008 CASA COM PET",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "g16-43",
+        "p14-13",
+        "g16-42"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Tempero é seguro para o gato?",
+        "1",
+        "O QUE PARECE",
+        "Erva de cozinha não faz mal.",
+        "O QUE PODE SER",
+        "Hortelã, salsinha e cebolinha são cautela.",
+        "COMO RESOLVER",
+        "Na janela com gato, prefira manjericão, alecrim, tomilho e sálvia, que estão entre as seguras.",
+        "Na próxima: o canto seguro",
+        "→",
+        "TG 008 CASA COM PET",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "pet-sintoma-1.jpg",
+          "alt": "Gato cheirando um vaso de hortelã na janela"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "O canto seguro",
+        "01",
+        "Monte o canto seguro",
+        "02",
+        "Lírio e gato, nunca",
+        "03",
+        "As seguras",
+        "Na próxima: monte o canto seguro",
+        "→",
+        "TG 008 CASA COM PET",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-pet-G-1.jpg",
+          "alt": "André arrumando os vasos numa estante"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "g16-10",
+        "p14-09",
+        "g16-27",
+        "g16-29",
+        "g16-30",
+        "p14-13"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CANTO SEGURO",
+        "Monte o canto seguro",
+        "QUANDO",
+        "Antes de chegar planta ou pet",
+        "DE NOVO EM",
+        "A cada planta nova",
+        "VOCÊ VAI PRECISAR",
+        "Prateleira alta",
+        " para as tóxicas",
+        "Grama para gato",
+        ", num vaso só dele",
+        "Orquídea",
+        " Phalaenopsis: segura",
+        "Samambaia",
+        "-americana: segura",
+        "Brinquedo",
+        "Maranta",
+        " e calateia: seguras",
+        "Manjericão",
+        " e alecrim na janela",
+        "Na próxima: lírio e gato, nunca",
+        "→",
+        "TG 008 CASA COM PET",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "g16-04",
+        "g16-05",
+        "t13-56",
+        "v15-38"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CANTO SEGURO",
+        "ATENÇÃO",
+        "Lírio e gato, nunca.",
+        "Basta roçar na flor: o pólen cai no pelo e o gato engole ao se lamber.",
+        "Até a água do vaso intoxica. Vale também para o narciso.",
+        "FAÇA ASSIM",
+        "Ganhou buquê com lírio? Só onde o gato não alcança de jeito nenhum.",
+        "Trocou a flor? Jogue a água do vaso fora na hora.",
+        "Na próxima: quatro seguras",
+        "→",
+        "TG 008 CASA COM PET",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "g16-26",
+        "g16-27",
+        "g16-29",
+        "g16-30"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro seguras para gato",
+        "1",
+        "Orquídea",
+        "Phalaenopsis, Dendrobium e Vanda.",
+        "2",
+        "Samambaia",
+        "A americana, de vaso pendurado.",
+        "3",
+        "Maranta",
+        "E as calateias, de folha pintada.",
+        "4",
+        "Bromélia",
+        "E a tilândsia, a planta aérea.",
+        "CHAVE",
+        "Sombra clara",
+        "Gosta de umidade",
+        "Na próxima: cuidado nas festas",
+        "→",
+        "TG 008 CASA COM PET",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "pet-var-orquidea.jpg",
+          "alt": "Orquídea Phalaenopsis florida"
+        },
+        {
+          "src": "pet-var-samambaia.jpg",
+          "alt": "Samambaia-americana pendurada"
+        },
+        {
+          "src": "pet-var-maranta.jpg",
+          "alt": "Maranta de folha pintada"
+        },
+        {
+          "src": "pet-var-bromelia.jpg",
+          "alt": "Bromélia em vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "t13-27",
+        "g16-24",
+        "v15-38",
+        "t13-09",
+        "g16-35"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Cuidado nas festas",
+        "BICO-DE-PAPAGAIO",
+        "A flor de Natal: a seiva irrita até na pele.",
+        "BUQUÊ DE LÍRIO",
+        "Perigo para o gato, até a água.",
+        "NARCISO",
+        "O bulbo e a água do vaso intoxicam.",
+        "AZALEIA",
+        "Intoxica cão e gato. Linda no inverno, mas alta.",
+        "DICA DO ANDRÉ",
+        "Gato sobe na mesa. Flor de festa vai para onde ele não chega.",
+        "Na próxima: um número que impressiona",
+        "→",
+        "TG 008 CASA COM PET",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "v15-03",
+        "v15-01"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "NUM ESTUDO,",
+        "79%",
+        "dos cães saudáveis comiam capim.",
+        "E 87% deles não vomitavam depois. Capim não é só remédio de estômago.",
+        "E MAIS UMA",
+        "Nos Estados Unidos, 12% das intoxicações de cão e gato vêm de planta.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 008 CASA COM PET",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "p14-01",
+        "t13-04",
+        "g16-10",
+        "g16-43",
+        "g16-05",
+        "g16-09",
+        "v15-45",
+        "t13-27"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Anote o nome das plantas da casa",
+        "Pesquise cada uma na ASPCA",
+        "Suba as tóxicas para o alto",
+        "Plante grama para o gato",
+        "Tempero com gato: manjericão e alecrim",
+        "Lírio nunca onde o gato alcança",
+        "Recolha galho podado e fruto caído",
+        "Brinque mais com o seu bicho",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 008 CASA COM PET",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se o seu bicho e as suas plantas fizerem as pazes, me conta. E passa este livro para quem tem pet. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "008",
+        "VOCÊ TEM",
+        "009",
+        "010",
+        "011",
+        "001",
+        "002",
+        "São 11 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 009 PLANTA SEM SOL",
+        "Comente SOMBRA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 008 CASA COM PET",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-pet-H-1.jpg",
+          "alt": "Retrato do André com o cachorro"
+        }
+      ]
+    }
+  ]
+}

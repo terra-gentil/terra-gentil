@@ -1,0 +1,70 @@
+{
+  "livro": "TG 003",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "ter-gesto-1",
+      "especie": "potting soil",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand watering the soil of a potted plant before feeding it",
+      "mascote": true
+    },
+    {
+      "id": "ter-gesto-2",
+      "especie": "potting soil",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand pouring a small amount of liquid fertilizer into a watering can",
+      "mascote": false
+    },
+    {
+      "id": "ter-gesto-3",
+      "especie": "potting soil",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand watering the whole surface of the soil of a pot until it drains",
+      "mascote": false
+    },
+    {
+      "id": "ter-sintoma-1",
+      "especie": "potting soil",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A potted plant with yellowing lower leaves and dry, hard, cracked soil surface",
+      "mascote": false
+    },
+    {
+      "id": "ter-var-capim",
+      "especie": "dry grass mulch",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A garden bed covered with a thick layer of dry cut grass",
+      "mascote": false
+    },
+    {
+      "id": "ter-var-folha",
+      "especie": "dry leaf mulch",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A clay pot with the soil covered by dry brown leaves",
+      "mascote": false
+    },
+    {
+      "id": "ter-var-palha",
+      "especie": "straw mulch",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A vegetable bed covered with golden straw",
+      "mascote": false
+    },
+    {
+      "id": "ter-var-casca-cafe",
+      "especie": "coffee husk mulch",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Garden soil covered with brown coffee husks, close view",
+      "mascote": false
+    }
+  ]
+}

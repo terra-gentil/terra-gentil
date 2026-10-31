@@ -1,0 +1,70 @@
+{
+  "livro": "TG 008",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "pet-gesto-1",
+      "especie": "pets and plants",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand holding a phone, searching a plant name, next to a potted plant",
+      "mascote": true
+    },
+    {
+      "id": "pet-gesto-2",
+      "especie": "pets and plants",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing a potted plant on a high wall shelf",
+      "mascote": false
+    },
+    {
+      "id": "pet-gesto-3",
+      "especie": "pets and plants",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A cat chewing cat grass in its own small pot on the floor",
+      "mascote": false
+    },
+    {
+      "id": "pet-sintoma-1",
+      "especie": "pets and plants",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A curious cat sniffing a pot of mint on a sunny windowsill",
+      "mascote": false
+    },
+    {
+      "id": "pet-var-orquidea",
+      "especie": "Phalaenopsis",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A blooming moth orchid on a table",
+      "mascote": false
+    },
+    {
+      "id": "pet-var-samambaia",
+      "especie": "Nephrolepis exaltata",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A Boston fern in a hanging basket",
+      "mascote": false
+    },
+    {
+      "id": "pet-var-maranta",
+      "especie": "Maranta leuconeura",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A prayer plant with patterned leaves",
+      "mascote": false
+    },
+    {
+      "id": "pet-var-bromelia",
+      "especie": "bromeliad",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A bromeliad with a red center in a pot",
+      "mascote": false
+    }
+  ]
+}

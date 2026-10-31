@@ -1,4 +1,21 @@
 # PROGRESSO Terra Gentil
+## FABRICA: 10 LIVROS NOVOS PRONTOS PARA REVISAO, TG 002 A TG 011 (31/10/2026, noite)
+Pedido do Andre: "tente fazer uns 10 livros e eu reviso todos no final". Feitos sem parar: roteiros `gama-ebooks/roteiros/tg004.json` a `tg011.json` (TG 002 e 003 ja existiam). Todos com 19 paginas, fatos da biblia (ids conferidos), sem travessao e sem estouro. Previas em `Documents\Terra Gentil\ebooks\TGNNN-previa.pdf`, com FOTOS PROVISORIAS do banco (pasta `TGNNN\`).
+| Livro | Titulo | Palavra (sugestao) |
+|---|---|---|
+| 004 | Cactos e Babosa | CACTO |
+| 005 | Rega sem Afogar (rega + troca de vaso) | REGAR |
+| 006 | O Mato que Ensina | MATO |
+| 007 | Mudas de Graca | MUDA |
+| 008 | Casa com Pet (substitui o livro 10 antigo, que errava hortela/oregano) | PATINHA |
+| 009 | Planta sem Sol | SOMBRA |
+| 010 | Suculentas sem Afogar (refaz o antigo do Gamma) | SUCULENTA |
+| 011 | Rosa-do-Deserto (refaz o antigo do Gamma) | DESERTO |
+**Fechamento:** colecao agora diz "11 livros"; a grade comeca pelo livro atual (002 e 003 ajustados tambem). TG 011 aponta para o TG 001.
+**Fotos do Flow:** filas prontas `gama-ebooks/fila-fotos-tg003.json` a `tg011.json` (8 cada: 3 gestos, 1 sintoma, 4 variedades; gesto-1 com mascote). Nada gerado ainda. Ao baixar com o mesmo nome em `ebooks\TGNNN\`, rodar `fazer.mjs` de novo (nao sobrescreve foto do Flow).
+**Fabrica (scripts fora do repo):** `Documents\Terra Gentil\ebooks\fabrica\`: `curtos\tgNNN.mjs` (roteiro curto, fonte dos JSON 004 a 011), `gerar.mjs` (curto para JSON com rodape), `fazer.mjs` (JSON + fotos provisorias + PDF + estouro), `validar.mjs` (fatos, travessao, foto repetida), `olhar.mjs` (print de paginas), `filas.mjs`. Uso: `node fazer.mjs curtos/tg004.mjs`.
+**Para o Andre decidir:** palavras-chave novas; trocar os PDFs antigos de SUCULENTA, DESERTO e PET pelos novos; TG 001 tem foto repetida (p2 e p19). Testes 229/229.
+**Proximo:** (1) Andre revisa os 10 PDFs e as 18 capas; (2) gerar as 72 fotos do Flow (TG 002 a 011) na Fotos Ebook TG, montar Elenco + Mascote antes; (3) tratar anti-IA e remontar; (4) levar o `estouro.mjs` para teste do motor.
 ## FABRICA: MOTOR PRONTO, TG 002 E TG 003 ESCRITOS; 18 CAPAS REFEITAS (31/10/2026, tarde)
 Pedido do Andre: fazer sozinho os 5 livros que faltam dos 6 primeiros (Pragas, Terra Viva, Cactos e Babosa, Regar e Trocar de Vaso, O Mato que Ensina); ele revisa todos no fim.
 **Motor (fase 1):** `insta-terra-gentil/gama-ebooks/motor/` (README). Os 19 moldes do canvas recebem um roteiro JSON (`gama-ebooks/roteiros/tgNNN.json`, textos e fotos na ordem do molde, `fatos` com os ids da biblia). `node gama-ebooks/motor/livro-cli.mjs montar <roteiro> <pasta fotos> <pdf>` gera o PDF em 5 s (playwright-core + Chrome). Regra nova: bloco nao encolhe (tabela cortada vira estouro visivel). Checagem de estouro em scratchpad (`estouro.mjs`; virar teste do motor). Moldes Sumario e Alerta apertados (padding 80px 96px, gap 32px).

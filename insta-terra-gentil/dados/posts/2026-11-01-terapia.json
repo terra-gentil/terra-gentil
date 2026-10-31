@@ -1,0 +1,223 @@
+{
+  "dia": "2026-11-01",
+  "palavra": "TERAPIA",
+  "especie": "Dracaena trifasciata",
+  "nome": "Espada-de-são-jorge",
+  "tema": null,
+  "serie": "3 erros",
+  "gancho": "O maior inimigo da espada-de-são-jorge é água demais, e ela perdoa o esquecimento.",
+  "resumo": "Três erros de rega da espada-de-são-jorge e dois gestos simples: o teste do dedo e esperar a terra secar.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Rega",
+      "linha1": "O maior inimigo da",
+      "linha2": "espada-de-são-jorge",
+      "linha3": "é a",
+      "destaque": "água demais"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Regar com a terra",
+      "linha2": "ainda",
+      "destaque": "úmida",
+      "texto": "O livro pede para regar somente quando o solo estiver completamente seco. Terra úmida ainda não pede água.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Regar no inverno",
+      "linha2": "como no",
+      "destaque": "verão",
+      "texto": "No inverno, a recomendação é reduzir a frequência das regas. A planta pede menos.",
+      "nota": "Quase todo mundo começa assim."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Terra que",
+      "linha2": "não",
+      "destaque": "escoa",
+      "texto": "A espada pede um substrato bem drenável, o mesmo indicado para cactos e suculentas.",
+      "nota": "Um gesto pequeno resolve."
+    },
+    {
+      "linha1": "Enfie o dedo",
+      "linha2": "na terra até a",
+      "destaque": "segunda falange",
+      "texto": "Saiu sujo e úmido? Espere. A vida tem seus tempos, e apressar raramente ajuda.",
+      "dica": "Na dúvida sobre rega, não regue. Menos pode ser mais."
+    },
+    {
+      "linha1": "Só regue com",
+      "linha2": "a terra",
+      "destaque": "bem seca",
+      "texto": "Espere o solo ficar completamente seco antes de regar. No inverno, regue ainda menos.",
+      "dica": "A espada perdoa esquecimentos. Pode ir com calma."
+    },
+    {
+      "tarja": "Sinal",
+      "linha1": "Folha amarela",
+      "linha2": "pode ser",
+      "destaque": "atenção demais",
+      "texto": "No livro, a folha amarela da espada é um recado: pare de me sufocar com excesso de atenção.",
+      "nota": "Às vezes, cuidar menos é cuidar melhor."
+    },
+    {
+      "texto": "Cuide com calma e ela fica firme. Salve este post para a próxima rega.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "A espada-de-são-jorge deve ser regada somente quando a terra estiver completamente seca.",
+      "pagina": 6,
+      "trecho": "Regue somente quando o solo estiver completamente seco",
+      "fonte": "Jardim Terapêutico: Plantas que Curam, p. 6"
+    },
+    {
+      "texto": "Ela aguenta bem a seca. O excesso de água é o maior inimigo dela.",
+      "pagina": 6,
+      "trecho": "o excesso de água é seu maior inimigo",
+      "fonte": "Jardim Terapêutico: Plantas que Curam, p. 6"
+    },
+    {
+      "texto": "No inverno, a rega deve ser menos frequente.",
+      "pagina": 6,
+      "trecho": "No inverno, reduza a frequência das regas",
+      "fonte": "Jardim Terapêutico: Plantas que Curam, p. 6"
+    },
+    {
+      "texto": "O substrato ideal é bem drenável, o mesmo indicado para cactos e suculentas.",
+      "pagina": 6,
+      "trecho": "Utilize um substrato bem drenável, específico para cactos e suculentas",
+      "fonte": "Jardim Terapêutico: Plantas que Curam, p. 6"
+    },
+    {
+      "texto": "Na dúvida sobre regar, melhor não regar. Menos pode ser mais.",
+      "pagina": 6,
+      "trecho": "Na dúvida sobre rega, não regue",
+      "fonte": "Jardim Terapêutico: Plantas que Curam, p. 6"
+    },
+    {
+      "texto": "Ela perdoa os esquecimentos de quem cuida.",
+      "pagina": 6,
+      "trecho": "Ela perdoa seus esquecimentos e momentos de tristeza",
+      "fonte": "Jardim Terapêutico: Plantas que Curam, p. 6"
+    },
+    {
+      "texto": "Teste do dedo: enfie o dedo na terra até a segunda falange para sentir a umidade.",
+      "pagina": 19,
+      "trecho": "Enfie o dedo na terra até a segunda falange",
+      "fonte": "Jardim Terapêutico: Plantas que Curam, p. 19"
+    },
+    {
+      "texto": "Se o dedo sair sujo e úmido, espere. Apressar as coisas raramente ajuda.",
+      "pagina": 19,
+      "trecho": "Dedo sujo e úmido? Espere. A vida tem seus tempos",
+      "fonte": "Jardim Terapêutico: Plantas que Curam, p. 19"
+    },
+    {
+      "texto": "Folhas amarelas na espada podem ser sinal de excesso de atenção. Às vezes cuidar demais também faz mal.",
+      "pagina": 22,
+      "trecho": "Pare de me sufocar com excesso de atenção",
+      "fonte": "Jardim Terapêutico: Plantas que Curam, p. 22"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "fontes": [
+    "Jardim Terapêutico: Plantas que Curam, p. 6",
+    "Jardim Terapêutico: Plantas que Curam, p. 19",
+    "Jardim Terapêutico: Plantas que Curam, p. 22"
+  ],
+  "materia": {
+    "slug": "espada-de-sao-jorge-como-regar-sem-excesso",
+    "titulo": "Espada-de-são-jorge: como regar sem exagero",
+    "descricao": "O maior inimigo da espada-de-são-jorge é água demais. Veja quando regar, como fazer o teste do dedo e por que menos cuidado costuma ser mais cuidado hoje.",
+    "introducao": "Se a sua espada-de-são-jorge está com a folha amarelada, respire fundo. Quase sempre o problema não é falta de carinho, e sim um pouco de carinho demais. Quem já matou planta sabe como isso dói, e é justamente por isso que vale ir com calma. Neste texto, a gente conversa sobre os erros de rega mais comuns com essa planta, sobre um jeito simples de acertar e sobre o que fazer quando bater a dúvida. Tudo vem do ebook Jardim Terapêutico, do André, sem receita complicada e sem culpa nenhuma. Pode ficar tranquilo, a espada costuma perdoar.",
+    "secoes": [
+      {
+        "titulo": "Por que água demais é o maior inimigo",
+        "paragrafos": [
+          "A espada-de-são-jorge é uma planta resistente. O livro conta que ela aguenta bem a seca e que o excesso de água é o maior inimigo dela. Isso muda a nossa cabeça: em vez de pensar em quanto ela precisa beber, vale pensar em quanto a gente consegue se segurar.",
+          "É natural querer regar para mostrar cuidado. Só que, com essa planta, o gesto mais gentil muitas vezes é esperar. Se você já errou a mão na rega, não se culpe. Quase todo mundo começa assim, e dá para ajustar o ritmo daqui para a frente."
+        ],
+        "fatosUsados": [
+          1
+        ]
+      },
+      {
+        "titulo": "Quando regar de verdade",
+        "paragrafos": [
+          "A orientação do livro é direta: regue somente quando o solo estiver completamente seco. Terra ainda úmida não está pedindo água, mesmo que a planta pareça tranquila ou que a rotina da casa diga que é dia de regar.",
+          "No inverno, o livro pede que a frequência das regas seja reduzida. O ebook não traz um número de vezes nem um intervalo em dias, então o melhor guia continua sendo a própria terra. Se ela ainda não secou, aguarde.",
+          "E se a dúvida bater, o André resume em poucas palavras: na dúvida sobre rega, não regue. É uma frase simples, mas ela tira muito peso de quem tem medo de errar."
+        ],
+        "fatosUsados": [
+          0,
+          2,
+          4
+        ]
+      },
+      {
+        "titulo": "O teste do dedo ajuda a decidir",
+        "paragrafos": [
+          "Para não depender de adivinhação, o livro ensina o teste do dedo. Enfie o dedo na terra até a segunda falange e sinta a umidade. É um gesto pequeno, mas ele também ajuda a desacelerar e a prestar atenção na planta.",
+          "Saiu sujo e úmido? Então espere. O ebook lembra que a vida tem seus tempos e que apressar as coisas raramente traz bons resultados. Isso vale para a rega e vale para muita coisa fora do vaso."
+        ],
+        "fatosUsados": [
+          6,
+          7
+        ]
+      },
+      {
+        "titulo": "A terra também importa",
+        "paragrafos": [
+          "Além de regar na hora certa, o livro recomenda um substrato bem drenável, do tipo indicado para cactos e suculentas. A ideia é que a terra não fique segurando água por muito tempo.",
+          "O ebook não detalha a receita da mistura, então a dica é perguntar na loja de jardinagem por um substrato para cactos e suculentas. Assim você segue exatamente o que o livro indica, sem inventar moda."
+        ],
+        "fatosUsados": [
+          3
+        ]
+      },
+      {
+        "titulo": "Folha amarela e o excesso de atenção",
+        "paragrafos": [
+          "No livro, as folhas amarelas da espada aparecem como um recado da planta: pare de me sufocar com excesso de atenção. Não é bronca. É um lembrete de que, às vezes, amor demais também faz mal.",
+          "A boa notícia é que ela perdoa os esquecimentos de quem cuida. Se a rotina apertou e você deixou a espada sozinha por uns dias, ela entende. O difícil para ela é o excesso, não a calma."
+        ],
+        "fatosUsados": [
+          8,
+          5
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Quantas vezes por semana devo regar a espada-de-são-jorge?",
+        "resposta": "O livro não dá um número fixo. Ele pede para regar somente quando o solo estiver completamente seco e para reduzir a frequência no inverno. Use o teste do dedo como guia."
+      },
+      {
+        "pergunta": "O que fazer quando fico em dúvida se devo regar?",
+        "resposta": "O ebook diz: na dúvida sobre rega, não regue. Espere mais um pouco e confira a terra de novo com o dedo."
+      },
+      {
+        "pergunta": "A espada-de-são-jorge sofre se eu esquecer de regar?",
+        "resposta": "O livro conta que ela perdoa esquecimentos e que aguenta bem a seca. O que mais atrapalha é o excesso de água."
+      }
+    ],
+    "conclusao": "Regar a espada-de-são-jorge bem é menos sobre fazer mais e mais sobre saber esperar. Faça o teste do dedo, regue só quando a terra estiver completamente seca e, na dúvida, deixe para outro dia. Salve este texto para a próxima vez que a dúvida bater e conte para quem também cuida de planta com medo de errar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

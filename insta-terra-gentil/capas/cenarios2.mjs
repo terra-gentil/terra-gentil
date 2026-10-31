@@ -6,14 +6,14 @@ export const RODADA_2 = ['F', 'G', 'H'];
 
 export const CENARIOS_2 = {
   F: (e) =>
-    `Close-up portrait, chest up. He looks at the camera with a relaxed smile, a ${e.ingles} ` +
-    'in soft focus in the foreground at the edge of the frame, shallow depth of field.',
+    `Close-up portrait, chest up. He looks at the camera with a relaxed smile, holding a ` +
+    `${e.ingles} close to his chest; both his face and the plant are sharp and in focus.`,
   G: (e) =>
     `Side angle, medium shot. He kneels and works the soil around a ${e.ingles} with bare ` +
     'hands, looking at the plant, torso turned three quarters so the chest logo stays visible.',
   H: (e) =>
     `Low angle, medium shot in ${e.ambiente}. He holds up a ${e.ingles} toward the light ` +
-    'with both hands and looks at it with a proud smile, warm late afternoon sun from the side.',
+    'with both hands and looks at it with a proud smile, soft warm late afternoon light.',
 };
 
 // Coringa: notícia sem planta específica. e = { cena, ambiente }.
@@ -26,5 +26,5 @@ export const CORINGAS_2 = {
     'Torso turned three quarters so the chest logo stays visible.',
   H: (e) =>
     `Low angle, medium shot in ${e.ambiente}. ${e.cena} ` +
-    'Warm late afternoon sun from the side, proud calm expression.',
+    'Soft warm late afternoon light, proud calm expression.',
 };

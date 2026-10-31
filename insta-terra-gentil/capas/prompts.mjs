@@ -7,7 +7,8 @@ import { CENARIOS_2, CORINGAS_2, RODADA_1 } from './cenarios2.mjs';
 // plano médio, dicas do Agente do Flow.
 export const ESTILO = [
   'Photorealistic documentary photo, shot on a full-frame mirrorless camera,',
-  '35mm lens at f/2.8, natural soft daylight, natural color grading.',
+  '35mm lens at f/4, natural soft daylight, natural color grading.',
+  'Highlights keep detail: no blown-out white sky or windows, no harsh shadows on his face.',
   'Real skin texture with visible pores, slight imperfections, no retouching, no beauty filter.',
   'The man is exactly the person in the reference photos: same face, eyes, beard and smile.',
   'He wears the same dark grey cap with the orange logo that reads exactly "TERRA GENTIL".',
@@ -19,10 +20,13 @@ export const ESTILO = [
   'never its size: on the shirt the logo stays small and the rest of the chest is plain.',
 ].join(' ');
 
-// Capa do carrossel: cabeça no meio, espaço vazio acima dela para o título.
+// Capa do carrossel: cabeça no terço de cima, sem vazio grande acima.
+// Crítico do Gemini (30/10/2026): boné cortado no topo, mão e pétala encostadas na borda.
 export const QUADRO = [
   'Vertical 3:4 frame, natural photographic composition: he fills the frame, head in the upper',
   'third with only a small natural headroom, no large empty area above him.',
+  'The whole cap stays inside the frame, never cut by the top edge; his hands and the plant',
+  'stay fully inside the frame with a small margin on the sides.',
 ].join(' ');
 
 export const EVITAR =

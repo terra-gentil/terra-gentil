@@ -1,0 +1,12 @@
+{"livro": "TG 001",
+ "estilo": "Documentary photo, soft natural window light, Brazilian home, realistic colors, sharp focus on the plant, no text, no logos",
+ "fotos": [
+  {"id": "orq-gesto-1", "especie": "Phalaenopsis", "proporcao": "9:16", "elenco": true, "cena": "Close-up of a man's hands lifting a clear plastic pot with a Phalaenopsis orchid to look at the silvery roots and bark through the drainage hole"},
+  {"id": "orq-gesto-2", "especie": "Phalaenopsis", "proporcao": "9:16", "elenco": true, "cena": "Close-up of a man's finger pushed a few centimeters into pine bark orchid mix in a pot, Phalaenopsis leaves at the edge of the frame"},
+  {"id": "orq-gesto-3", "especie": "Phalaenopsis", "proporcao": "9:16", "elenco": true, "cena": "Close-up of a man's hand lifting a Phalaenopsis orchid pot by the rim to feel its weight"},
+  {"id": "orq-sintoma-1", "especie": "Phalaenopsis", "proporcao": "9:16", "elenco": false, "cena": "Phalaenopsis orchid with limp, wrinkled, leathery leaves lying flat over the pot rim, no flowers"},
+  {"id": "orq-var-phalaenopsis", "especie": "Phalaenopsis", "proporcao": "3:4", "elenco": false, "cena": "Flowering white Phalaenopsis orchid in a pot near a bright window"},
+  {"id": "orq-var-cattleya", "especie": "Cattleya", "proporcao": "3:4", "elenco": false, "cena": "Flowering Cattleya orchid with a large ruffled lip, pseudobulbs visible, in a clay pot"},
+  {"id": "orq-var-dendrobium", "especie": "Dendrobium", "proporcao": "3:4", "elenco": false, "cena": "Flowering Dendrobium orchid with upright canes in a clay pot"},
+  {"id": "orq-var-vanda", "especie": "Vanda", "proporcao": "3:4", "elenco": false, "cena": "Flowering Vanda orchid in a hanging wooden basket with long thick aerial roots"}
+ ]}

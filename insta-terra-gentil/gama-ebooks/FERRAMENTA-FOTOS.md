@@ -23,7 +23,7 @@ Gera as fotos do miolo dos ebooks (gesto do passo a passo, sintoma, variedades).
             "elenco": true, "cena": "Close-up of ..."}]}
 ```
 
-Prompt enviado = `cena` + ". " + `estilo`, exatamente, sem reescrever. Filas em `gama-ebooks/fotos/`.
+Prompt enviado = `cena` + ". " + `estilo`, exatamente, sem reescrever. Filas em `gama-ebooks/fila-fotos-<livro>.json` (a pasta `fotos/` e ignorada pelo git).
 
 ## Pedido ao Criador, em 5 rodadas (uma por vez; da 2a em diante começa com "Keep everything as it is")
 

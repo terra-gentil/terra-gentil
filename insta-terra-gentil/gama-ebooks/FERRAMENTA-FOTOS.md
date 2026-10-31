@@ -60,3 +60,5 @@ Keep everything as it is. Per ready row "Baixar <id>" (download once per click, 
 | Pamela (u/5) | CRIADA 31/10, `/u/5/project/9a9b36e1-8266-4dd7-8245-c86cc2a40829/tool/d39226f8-3f50-4ca3-8fc3-29158da6a89e`, fixada; icones trocados por SVG na rodada 5; fila de 8 testada | a subir |
 
 Licoes da criacao (31/10): na tela de Criar ferramenta da Pamela o clique pela ref perdeu o texto, o clique por coordenada no campo funcionou (o contrario da conta eng.andrehz); enviar pela seta. Na caixa da fila, ctrl+a e ctrl+v na mesma chamada viram a letra 'a': mandar ctrl+a, Delete e ctrl+v em chamadas separadas. A fila vai pelo clipboard (Set-Clipboard).
+
+**Rodada 6 (31/10, pedido do Andre: corrigir gerando de novo gasta credito demais), aplicada nas duas contas:** sem nova tentativa automatica; erro marca falhou e a fila segue (limite ainda para a fila); linha em aviso NAO e regerada, fica com a nota 'corrigir no pos'; 'Gerar de novo' so por clique manual. Defeito se corrige no tratamento depois.

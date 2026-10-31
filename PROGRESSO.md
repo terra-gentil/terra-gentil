@@ -4,7 +4,7 @@ Canvas https://claude.ai/artifact/UNPcwn2C8oAeQERCNG8Vyc ganhou a 2a fileira com
 O Andre apontou que o rodape dizia "x DE 20" e so havia 15: feitas as p6 (abertura cap 1), p12 (abertura cap 3, fotos orquidea-D-1 e A-1 do banco), p16 (sinais de que ela esta feliz), p17 (voce sabia, 35 mil especies) e p19 (fontes, unica pagina com as fontes); canvas reordenado 1 a 20 em duas fileiras. Linha de fonte tirada de todas as paginas (pedido do Andre; fontes seguem na biblia.json).
 **FOTOS PARA O FLOW (pedido do Andre 31/10):** 8 fotos (3 gestos do passo a passo, 1 sintoma, 4 variedades) listadas com prompt em `insta-terra-gentil/gama-ebooks/FOTOS-FLOW.md`. Gerar quando o limite do Flow voltar, sem pedir ok; Andre aprova no fim; conferir a especie.
 **Lacunas marcadas no canvas (nao inventar):** fotos acima; palavra-chave PRAGAS do fechamento e sugestao (confirmar com o dm/); faltam os 2 videos reais com QR no fechamento; painel do "voce vai precisar" ficou QUANDO e DE NOVO EM (o livro nao da o TEMPO da troca de vaso).
-**FERRAMENTA FOTOS EBOOK TG:** pedido do Andre, uma por conta do Flow; desenho em 5 rodadas em `gama-ebooks/FERRAMENTA-FOTOS.md`, fila das 8 fotos em `gama-ebooks/fila-fotos-tg001.json`. Ainda nao criada.
+**FERRAMENTA FOTOS EBOOK TG:** pedido do Andre, uma por conta do Flow; desenho em 5 rodadas em `gama-ebooks/FERRAMENTA-FOTOS.md`, fila das 8 fotos em `gama-ebooks/fila-fotos-tg001.json`. CRIADA nas duas contas (31/10), fila testada nas duas; falta subir o Elenco (fotos do Andre) em cada uma e gerar quando o limite voltar.
 **Proximo:** Andre aprova as 20 paginas; depois motor HTML para PDF (gama-ebooks) e 1a rodada do PLACAR (Orquideas: Gamma x nosso).
 
 ## GAMA-EBOOKS: FABRICA DE EBOOKS INICIADA (31/10/2026)

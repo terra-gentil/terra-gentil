@@ -1,0 +1,70 @@
+{
+  "livro": "TG 012",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "hor-gesto-1",
+      "especie": "lettuce",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands filling an egg carton with a thin layer of sand and seed-starting mix",
+      "mascote": true
+    },
+    {
+      "id": "hor-gesto-2",
+      "especie": "lettuce",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's fingers sprinkling tiny lettuce seeds on top of the soil",
+      "mascote": false
+    },
+    {
+      "id": "hor-gesto-3",
+      "especie": "lettuce",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand moving a lettuce seedling with four leaves into a pot",
+      "mascote": false
+    },
+    {
+      "id": "hor-sintoma-1",
+      "especie": "lettuce",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A potted lettuce plant with a tall flower stalk bolting from the center",
+      "mascote": false
+    },
+    {
+      "id": "hor-var-alface",
+      "especie": "loose-leaf lettuce",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Loose-leaf lettuce growing in a 20 cm pot",
+      "mascote": false
+    },
+    {
+      "id": "hor-var-rucula",
+      "especie": "arugula",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Arugula growing in a window box on a sunny ledge",
+      "mascote": false
+    },
+    {
+      "id": "hor-var-rabanete",
+      "especie": "radish",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Freshly harvested radishes with green leaves on a wooden table",
+      "mascote": false
+    },
+    {
+      "id": "hor-var-morango",
+      "especie": "alpine strawberry",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Alpine strawberry plant with small red fruits in a pot",
+      "mascote": false
+    }
+  ]
+}

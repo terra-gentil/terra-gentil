@@ -1,0 +1,70 @@
+{
+  "livro": "TG 014",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "tem-gesto-1",
+      "especie": "kitchen herbs",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands mixing sand and potting soil in a clay pot",
+      "mascote": true
+    },
+    {
+      "id": "tem-gesto-2",
+      "especie": "kitchen herbs",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A mint seedling planted alone in its own pot on a windowsill",
+      "mascote": false
+    },
+    {
+      "id": "tem-gesto-3",
+      "especie": "kitchen herbs",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's fingers pinching off the tip of a basil plant",
+      "mascote": false
+    },
+    {
+      "id": "tem-sintoma-1",
+      "especie": "kitchen herbs",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A potted basil plant with flower spikes forming at the tips",
+      "mascote": false
+    },
+    {
+      "id": "tem-var-manjericao",
+      "especie": "Ocimum basilicum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A bushy basil plant in a pot by a sunny window",
+      "mascote": false
+    },
+    {
+      "id": "tem-var-alecrim",
+      "especie": "Rosmarinus officinalis",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A rosemary plant in a terracotta pot",
+      "mascote": false
+    },
+    {
+      "id": "tem-var-cebolinha",
+      "especie": "chives",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A clump of chives growing in a pot",
+      "mascote": false
+    },
+    {
+      "id": "tem-var-hortela",
+      "especie": "Mentha",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Mint growing in its own pot in partial shade",
+      "mascote": false
+    }
+  ]
+}

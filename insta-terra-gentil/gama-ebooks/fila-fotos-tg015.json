@@ -1,0 +1,70 @@
+{
+  "livro": "TG 015",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "flo-gesto-1",
+      "especie": "Phalaenopsis",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's finger pointing at the green flower spike of a Phalaenopsis",
+      "mascote": true
+    },
+    {
+      "id": "flo-gesto-2",
+      "especie": "Phalaenopsis",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand cutting a dry brown flower spike with clean scissors",
+      "mascote": false
+    },
+    {
+      "id": "flo-gesto-3",
+      "especie": "Phalaenopsis",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands moving a potted Phalaenopsis closer to a bright window",
+      "mascote": false
+    },
+    {
+      "id": "flo-sintoma-1",
+      "especie": "Phalaenopsis",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A healthy Phalaenopsis with green leaves and no flower spike at all",
+      "mascote": false
+    },
+    {
+      "id": "flo-var-phalaenopsis",
+      "especie": "Phalaenopsis",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A white Phalaenopsis in bloom",
+      "mascote": false
+    },
+    {
+      "id": "flo-var-denphal",
+      "especie": "Dendrobium phalaenopsis",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A Dendrobium phalaenopsis with purple flowers",
+      "mascote": false
+    },
+    {
+      "id": "flo-var-sapatinho",
+      "especie": "Paphiopedilum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A slipper orchid in a pot",
+      "mascote": false
+    },
+    {
+      "id": "flo-var-bambu",
+      "especie": "Arundina graminifolia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A bamboo orchid flowering by a garden wall in the sun",
+      "mascote": false
+    }
+  ]
+}

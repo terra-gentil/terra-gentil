@@ -1,0 +1,70 @@
+{
+  "livro": "TG 013",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "tom-gesto-1",
+      "especie": "tomato",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand digging a deep planting hole in a large pot of soil",
+      "mascote": true
+    },
+    {
+      "id": "tom-gesto-2",
+      "especie": "tomato",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A young tomato seedling laid deep in the hole, most of the stem being buried, hands nearby",
+      "mascote": false
+    },
+    {
+      "id": "tom-gesto-3",
+      "especie": "tomato",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands spreading dry straw around the base of a tomato plant in a pot",
+      "mascote": false
+    },
+    {
+      "id": "tom-sintoma-1",
+      "especie": "tomato",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A tomato on the vine with a black, sunken rotten bottom (blossom end rot)",
+      "mascote": false
+    },
+    {
+      "id": "tom-var-moita",
+      "especie": "determinate bush tomato",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A compact bush tomato plant in a large pot on a balcony",
+      "mascote": false
+    },
+    {
+      "id": "tom-var-trepadeira",
+      "especie": "indeterminate tomato",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A tall tomato vine tied to a wooden stake",
+      "mascote": false
+    },
+    {
+      "id": "tom-var-maduro",
+      "especie": "ripe tomato",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A ripe red tomato on the plant, close view",
+      "mascote": false
+    },
+    {
+      "id": "tom-var-verde",
+      "especie": "breaker tomato",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A green tomato with the shoulder starting to turn yellow",
+      "mascote": false
+    }
+  ]
+}

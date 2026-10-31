@@ -1,0 +1,70 @@
+{
+  "livro": "TG 018",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "vas-gesto-1",
+      "especie": "orchid pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's finger pointing at the green tip of a new orchid root",
+      "mascote": true
+    },
+    {
+      "id": "vas-gesto-2",
+      "especie": "orchid pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands settling an orchid into a snug pot with fresh bark",
+      "mascote": false
+    },
+    {
+      "id": "vas-gesto-3",
+      "especie": "orchid pot",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A galvanized wire clip holding an orchid at the rim of a pot",
+      "mascote": false
+    },
+    {
+      "id": "vas-sintoma-1",
+      "especie": "orchid pot",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "An orchid pot with brown dead moss on top of the bark",
+      "mascote": false
+    },
+    {
+      "id": "vas-var-barro",
+      "especie": "terracotta pot",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "An orchid in an unglazed terracotta pot",
+      "mascote": false
+    },
+    {
+      "id": "vas-var-plastico",
+      "especie": "plastic pot",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "An orchid in a clear plastic pot",
+      "mascote": false
+    },
+    {
+      "id": "vas-var-placa",
+      "especie": "cork mount",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "An orchid tied to a cork bark slab",
+      "mascote": false
+    },
+    {
+      "id": "vas-var-tronco",
+      "especie": "tree mount",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "An orchid attached to a tree trunk in a garden",
+      "mascote": false
+    }
+  ]
+}

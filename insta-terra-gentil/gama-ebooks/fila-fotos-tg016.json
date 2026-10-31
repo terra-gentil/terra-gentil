@@ -1,0 +1,70 @@
+{
+  "livro": "TG 016",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "cat-gesto-1",
+      "especie": "Cattleya",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand placing the old back part of a Cattleya against the rim of a pot",
+      "mascote": true
+    },
+    {
+      "id": "cat-gesto-2",
+      "especie": "Cattleya",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's finger pointing at the free space in front of a new Cattleya shoot",
+      "mascote": false
+    },
+    {
+      "id": "cat-gesto-3",
+      "especie": "Cattleya",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands arranging bark mix without covering the rhizome of a Cattleya",
+      "mascote": false
+    },
+    {
+      "id": "cat-sintoma-1",
+      "especie": "Cattleya",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A Cattleya with old leafless pseudobulbs at the back",
+      "mascote": false
+    },
+    {
+      "id": "cat-var-umafolha",
+      "especie": "unifoliate Cattleya",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A unifoliate Cattleya with one large ruffled flower",
+      "mascote": false
+    },
+    {
+      "id": "cat-var-duasfolhas",
+      "especie": "bifoliate Cattleya",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A bifoliate Cattleya with several smaller waxy flowers",
+      "mascote": false
+    },
+    {
+      "id": "cat-var-dendrobium",
+      "especie": "Dendrobium nobile",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A Dendrobium with flowers along the cane",
+      "mascote": false
+    },
+    {
+      "id": "cat-var-chuvadeouro",
+      "especie": "Oncidium",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "An Oncidium with a spray of small yellow flowers",
+      "mascote": false
+    }
+  ]
+}

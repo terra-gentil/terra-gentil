@@ -1,0 +1,70 @@
+{
+  "livro": "TG 017",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "doe-gesto-1",
+      "especie": "orchid",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's fingers peeling a dry sheath off the base of an orchid",
+      "mascote": true
+    },
+    {
+      "id": "doe-gesto-2",
+      "especie": "orchid",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand dabbing a small brush with alcohol on mealybugs on an orchid leaf",
+      "mascote": false
+    },
+    {
+      "id": "doe-gesto-3",
+      "especie": "orchid",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's fingernail flaking off a dead scale insect from an orchid leaf",
+      "mascote": false
+    },
+    {
+      "id": "doe-sintoma-1",
+      "especie": "orchid",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Brown, mushy rotten orchid roots out of the pot",
+      "mascote": false
+    },
+    {
+      "id": "doe-var-queimada",
+      "especie": "sunburned orchid leaf",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "An orchid leaf yellowed and scorched by the sun",
+      "mascote": false
+    },
+    {
+      "id": "doe-var-escura",
+      "especie": "low light orchid leaf",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A soft, dark green floppy orchid leaf",
+      "mascote": false
+    },
+    {
+      "id": "doe-var-raiz",
+      "especie": "fertilizer burned root",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "An orchid root tip burned brown by fertilizer",
+      "mascote": false
+    },
+    {
+      "id": "doe-var-virus",
+      "especie": "orchid virus",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "An orchid leaf with yellow streaks along the veins",
+      "mascote": false
+    }
+  ]
+}

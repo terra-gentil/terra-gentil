@@ -24,6 +24,19 @@ a miniatura do YouTube; aqui é a capa do carrossel. Ainda NÃO aplicado: fica p
   gerada por IA" só depois de luz da direção certa, grão e borda suave.
 - Conferir se a plataforma pede a declaração de conteúdo alterado ou sintético.
 
+## Primeiro teste (30/10/2026)
+- `capas/tratar_capa.py` feito (contraste, nitidez, tom quente, grão com semente pelo nome do arquivo)
+  e `capas/tratar_capa_test.py` (6 testes, `python -I capas/tratar_capa_test.py`). Banco NÃO tratado.
+- Crítico cego no Gemini (conversa nova, pedido normal de crítica): orquídea F original 7/10, tratada
+  7/10; coringa-pet H tratada 8/10. Nenhuma das três foi apontada como IA; as críticas foram de foto
+  (flor desfocada, boné cortado no topo, pose rígida). O tratamento não mudou a nota.
+- O que realmente denuncia: o jpg cru do Flow traz selo C2PA ("trainedAlgorithmicMedia", SynthID
+  declarado), que o Instagram lê para pôr "Informações de IA". O `importar-cli` regrava sem metadado;
+  `capas/metadados.test.mjs` garante que nenhuma capa do banco tem o selo. A marca d'água SynthID fica
+  nos pixels e nenhum tratamento simples a remove.
+- Pendente: o André olhar a amostra lado a lado (o grão aparece no fundo desfocado) e decidir se trata
+  o banco.
+
 ## Como isto vira trabalho aqui (proposta, depois que as capas fecharem)
 1. `capas/tratar_capa.py` (mesmo molde do integrar_rosto.py, função pura + CLI): aplica na imagem inteira
    contraste +14%, nitidez, tom quente, grão de celular com semente fixa. Sem luz direcional por lado, porque

@@ -1,4 +1,4 @@
-// Monta e confere o post: fatos contra o livro, formato, tamanhos, travessão e fechamento da marca.
+// Monta e confere o post: fatos contra o livro, formato, tamanhos, travessão e fecho da marca.
 import { CIENTIFICO, TEMAS } from '../capas/catalogo.mjs';
 import { ESTRUTURA, problemasDoRoteiro } from '../carrossel/estrutura.mjs';
 import { CHAVES_DO_BRUTO, FINAL_FIXO, chaveDoSlide } from './esquema.mjs';
@@ -47,7 +47,8 @@ export function conferirPost(post, { livro, paginas, biblia = null }) {
     problemas.push('"fatosUsados" vazio ou com número que não existe nos fatos');
   } else {
     const fontes = [...new Set(usados.map((n) => fatos[n].fonte))];
-    if (JSON.stringify(fontes) !== JSON.stringify(post.fontes)) problemas.push('"fontes" não bate');
+    const iguais = JSON.stringify(fontes) === JSON.stringify(post.fontes);
+    if (!iguais) problemas.push('"fontes" não bate');
   }
   problemas.push(...problemasDoRoteiro(post?.slides));
   // Posts antigos não têm matéria; quando ela existe, tem de estar completa.

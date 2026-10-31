@@ -24,7 +24,7 @@ function ambiente() {
   return { pasta, pedidos, renderizar, obterFoto, saida: path.join(pasta, 'saida') };
 }
 
-test('com ebook, o slide final troca o mascote pela capa; sem ebook, segue o mascote', async () => {
+test('com ebook, o slide final troca o mascote pela capa; sem ebook, fica o mascote', async () => {
   const a = ambiente();
   const capaEbook = path.join(a.pasta, 'ebook.jpg');
   fs.writeFileSync(capaEbook, Buffer.from('capa-do-ebook'));

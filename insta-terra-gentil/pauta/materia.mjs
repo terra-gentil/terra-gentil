@@ -56,7 +56,9 @@ export function problemasDaMateria(m, qtdFatos, podePet = false) {
   const { tituloMax: tmax, descricaoMin: dmin, descricaoMax: dmax } = MATERIA;
   if (!texto(m.titulo) || m.titulo.length > tmax) problemas.push(`materia: título até ${tmax}`);
   const dl = (m.descricao ?? '').length;
-  if (dl < dmin || dl > dmax) problemas.push(`materia: descrição de ${dmin} a ${dmax} (tem ${dl})`);
+  if (dl < dmin || dl > dmax) {
+    problemas.push(`materia: descrição de ${dmin} a ${dmax} (tem ${dl})`);
+  }
   for (const campo of ['introducao', 'conclusao']) {
     if (!texto(m[campo])) problemas.push(`materia: falta "${campo}"`);
   }

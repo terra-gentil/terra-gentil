@@ -44,7 +44,9 @@ const resultado = await montarDia(post, {
 
 const { molde, foto, capa } = resultado;
 console.log(`molde ${molde} | foto ${foto.provedor}: ${foto.credito}`);
-const origemCapa = capa ? `do André, ${path.basename(capa.caminho)}` : 'foto da planta (sem banco)';
+const origemCapa = capa
+  ? `do André, ${path.basename(capa.caminho)}`
+  : 'foto da planta (sem banco)';
 console.log(`capa: ${origemCapa}`);
 resultado.pngs.forEach((png) => console.log(png));
 for (const aviso of resultado.avisos) {

@@ -41,7 +41,8 @@ export function gravarPost(bruto, opcoes) {
 // Refaz a conferência de todo post gravado (passo de merge): pega arquivo editado à mão.
 export function conferirTodos({ palavras, pastaLivros = PASTA_LIVROS, pastaPosts = PASTA_POSTS }) {
   if (!fs.existsSync(pastaPosts)) return [];
-  const nomes = fs.readdirSync(pastaPosts).filter((n) => n.endsWith('.json') && !n.startsWith('_'));
+  const nomes = fs.readdirSync(pastaPosts)
+    .filter((n) => n.endsWith('.json') && !n.startsWith('_'));
   return nomes.map((nome) => {
     const post = lerJson(path.join(pastaPosts, nome));
     const livro = buscarPorPalavra(palavras, post.palavra ?? '');

@@ -39,7 +39,7 @@ a miniatura do YouTube; aqui é a capa do carrossel. Ainda NÃO aplicado: fica p
 - Efeito colateral: o grão fez o detector achar rosto falso grande (confiança 0,6 a 0,73). O
   `verificar_rosto.py` passou a escolher o rosto de maior confiança, não o maior. Mesmo assim, 6 capas
   de lado (G/H) caíram abaixo de 0,363 (antes 0,37 a 0,49): reaprovadas com exceção de rosto e motivo.
-- Capa nova: importar, tratar (`python -I capas/tratar_capa.py <jpg> <jpg>`), verificar rosto, aprovar.
+- Capa nova: o `importar-cli` já trata sozinho (desde 30/10); depois verificar rosto e aprovar.
 
 ## Como isto vira trabalho aqui (proposta, depois que as capas fecharem)
 1. `capas/tratar_capa.py` (mesmo molde do integrar_rosto.py, função pura + CLI): aplica na imagem inteira

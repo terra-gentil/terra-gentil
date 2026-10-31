@@ -1,4 +1,4 @@
-// Nenhuma capa do banco carrega o selo C2PA do Flow (o Instagram lê e etiqueta "Informações de IA").
+// Nenhuma capa do banco carrega o selo C2PA do Flow (o Instagram lê e põe "Informações de IA").
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';

@@ -11,7 +11,9 @@ export const OBRIGATORIOS = Object.freeze({
   capa: [...FOTO, ...MANCHETE, 'linha3', 'legendaFoto'],
   problema: [...FOTO, ...MANCHETE, ...MASCOTE, 'texto', 'nota', 'legendaFoto'],
   passo: [...FOTO, ...MANCHETE, ...MASCOTE, 'fotoAndre', 'texto', 'dica'],
-  final: [...FOTO, ...MANCHETE, ...MASCOTE, 'texto', 'ctaSalvar', 'ctaSeguir', 'ctaSite', 'voltar'],
+  final: [
+    ...FOTO, ...MANCHETE, ...MASCOTE, 'texto', 'ctaSalvar', 'ctaSeguir', 'ctaSite', 'voltar',
+  ],
 });
 
 // Opcionais: o desenho de alguns moldes usa, o de outros não. O código manda e o molde ignora.

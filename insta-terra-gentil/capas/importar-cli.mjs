@@ -1,5 +1,5 @@
-// Linha de comando: leva as capas baixadas do Flow para capas/banco/<slug>/ em 1080x1350 (ffmpeg)
-// e atualiza capas/banco/indice.json com as tags de cada foto.
+// Linha de comando: leva as capas baixadas do Flow para capas/banco/<slug>/ em 1080x1350 (ffmpeg),
+// aplica o tratamento anti-IA e atualiza capas/banco/indice.json com as tags de cada foto.
 // uso: node capas/importar-cli.mjs <pasta>   (só arquivos <slug>-<A..E>-<n>[_data].*)
 import { spawnSync } from 'node:child_process';
 import fs from 'node:fs';
@@ -21,6 +21,16 @@ const pastaBanco = naRaiz('capas', 'banco');
 const catalogo = lerJson(naRaiz('dados', 'capas.json')).especies;
 const novas = [];
 
+// Tratamento anti-IA (TRATAMENTO-ANTI-IA.md) já na entrada: rosto e revisão valem para o final.
+function tratar(destino) {
+  const tmp = `${destino}.tmp.jpg`;
+  const script = naRaiz('capas', 'tratar_capa.py');
+  const saida = ['ignore', 'ignore', 'inherit'];
+  const r = spawnSync('python', ['-I', script, destino, tmp], { stdio: saida });
+  if (r.status !== 0) throw new Error(`[capas] tratamento falhou em ${destino}`);
+  fs.renameSync(tmp, destino);
+}
+
 for (const nome of fs.readdirSync(origem)) {
   const capa = indice.lerNomeDaCapa(nome);
   if (!capa) continue;
@@ -30,6 +40,7 @@ for (const nome of fs.readdirSync(origem)) {
   const r = spawnSync('ffmpeg', ['-v', 'error', '-y', '-i', path.join(origem, nome), '-vf', FILTRO,
     '-q:v', '3', destino], { stdio: 'inherit' });
   if (r.status !== 0) throw new Error(`[capas] ffmpeg falhou em ${nome}`);
+  tratar(destino);
   const extra = { largura: 1080, altura: 1350, origem: nome };
   novas.push(indice.entradaDoIndice(capa, catalogo, extra));
   console.log(`${nome} -> ${path.relative(naRaiz(), destino)}`);

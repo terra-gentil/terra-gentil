@@ -38824,6 +38824,1206 @@
    "livro": "RHS, How to Grow Plants from Seeds",
    "pagina": "126",
    "fontePet": null
+  },
+  "t37-001": {
+   "texto": "O desmatamento hoje acontece mais nos trópicos, como no Brasil, puxado pela procura de carne barata",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "10",
+   "fontePet": null
+  },
+  "t37-002": {
+   "texto": "Pela primeira vez, a Amazônia pode estar soltando mais gás carbônico do que consegue absorver",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "10",
+   "fontePet": null
+  },
+  "t37-003": {
+   "texto": "O mundo derruba cerca de 10 milhões de hectares de floresta por ano: a cada década, uma área do tamanho de Portugal",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "10",
+   "fontePet": null
+  },
+  "t37-004": {
+   "texto": "Árvore puxa gás carbônico, solta oxigênio, segura enchente, segura a temperatura e quebra o vento",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "11",
+   "fontePet": null
+  },
+  "t37-005": {
+   "texto": "Provérbio chinês: a melhor hora de plantar uma árvore foi há 20 anos. A segunda melhor hora é agora",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "11",
+   "fontePet": null
+  },
+  "t37-006": {
+   "texto": "Cada gota de água que a raiz da árvore bebe é uma gota a menos na enxurrada",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "11",
+   "fontePet": null
+  },
+  "t37-007": {
+   "texto": "Uma árvore é uma cidade: casa de centenas de bichos, do tripes à lagarta e ao passarinho",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "14",
+   "fontePet": null
+  },
+  "t37-008": {
+   "texto": "Quintais com plantas viram \"pedras de travessia\": abelha, borboleta e sapo conseguem atravessar a cidade cinza de um verde a outro",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "14",
+   "fontePet": null
+  },
+  "t37-009": {
+   "texto": "Erro comum: escolher árvore com pressa. A árvore errada vira anos de dor de cabeça e acaba cortada",
+   "esp": "arvore",
+   "serie": "3 erros",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "15",
+   "fontePet": null
+  },
+  "t37-010": {
+   "texto": "Antes de plantar, pergunte: que altura ela chega? A copa é larga ou fechada? Quero fruta, flor, sombra ou privacidade?",
+   "esp": "arvore",
+   "serie": "5 cuidados",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "15",
+   "fontePet": null
+  },
+  "t37-011": {
+   "texto": "Para atrair bicho, prefira árvore nativa da sua região: ela evoluiu junto com a fauna que você quer ajudar",
+   "esp": "arvore",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "15",
+   "fontePet": null
+  },
+  "t37-012": {
+   "texto": "Árvore existe na Terra há uns 400 milhões de anos; o ginkgo e a araucária-chilena são chamados de fósseis vivos",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "21",
+   "fontePet": null
+  },
+  "t37-013": {
+   "texto": "A nogueira-preta solta pela raiz uma substância que atrapalha as plantas em volta",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "21",
+   "fontePet": null
+  },
+  "t37-014": {
+   "texto": "Folha grande pega mais luz, mas perde mais água e queima no sol forte",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "21",
+   "fontePet": null
+  },
+  "t37-015": {
+   "texto": "Folha pequena, em agulha, cerosa ou brilhante é truque da planta para não perder água",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "21",
+   "fontePet": null
+  },
+  "t37-016": {
+   "texto": "A casca da árvore segura a umidade e protege contra bactéria e fungo; muitas têm tanino, que o bicho não gosta de comer",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "21",
+   "fontePet": null
+  },
+  "t37-017": {
+   "texto": "A maioria das frutas evoluiu para ser comida por passarinho e bicho, que espalham a semente pelas fezes",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "22",
+   "fontePet": null
+  },
+  "t37-018": {
+   "texto": "Árvore nativa floresce quando o polinizador precisa e dá fruto quando o passarinho precisa: a parceria já vem pronta",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "23",
+   "fontePet": null
+  },
+  "t37-019": {
+   "texto": "Mito: fungo no jardim é sempre ruim. A maioria ajuda, e as árvores dependem deles para crescer",
+   "esp": "fungo",
+   "serie": "Mito ou verdade",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "25",
+   "fontePet": null
+  },
+  "t37-020": {
+   "texto": "O cogumelo que aparece é só o \"fruto\" do fungo; o corpo dele são fios finos que vivem debaixo da terra, em volta das raízes",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "25",
+   "fontePet": null
+  },
+  "t37-021": {
+   "texto": "Os fios de fungo ligam a raiz da árvore à terra e ajudam a puxar água e nutriente",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "26",
+   "fontePet": null
+  },
+  "t37-022": {
+   "texto": "Pelo fungo, as raízes de árvores diferentes ficam ligadas numa rede, chamada de \"internet do bosque\"",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "26",
+   "fontePet": null
+  },
+  "t37-023": {
+   "texto": "Em algumas espécies, a árvore saudável passa nutriente para a mais fraca pela rede de fungos",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "26",
+   "fontePet": null
+  },
+  "t37-024": {
+   "texto": "A árvore paga o fungo com açúcar: fungo não faz fotossíntese",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "27",
+   "fontePet": null
+  },
+  "t37-025": {
+   "texto": "Mito: o círculo de cogumelos no gramado faz mal. O fungo do \"círculo de fadas\" alimenta a grama e melhora a saúde dela",
+   "esp": "grama",
+   "serie": "Mito ou verdade",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "27",
+   "fontePet": null
+  },
+  "t37-026": {
+   "texto": "Quanto mais tipos de fungo em volta da árvore, mais saudável ela fica",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "27",
+   "fontePet": null
+  },
+  "t37-027": {
+   "texto": "A Costa Rica dobrou sua cobertura de floresta em só 30 anos",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "28",
+   "fontePet": null
+  },
+  "t37-028": {
+   "texto": "Mito: plantar árvore em qualquer lugar é sempre bom. Campo, brejo e turfa não eram floresta e guardam carbono do jeito deles",
+   "esp": "arvore",
+   "serie": "Mito ou verdade",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "28",
+   "fontePet": null
+  },
+  "t37-029": {
+   "texto": "Proteger a mata que já existe vale mais que plantar mata nova, que demora para guardar carbono",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "28",
+   "fontePet": null
+  },
+  "t37-030": {
+   "texto": "Na Inglaterra, metade das florestas novas foi plantada por um passarinho, o gaio, que enterra bolota e esquece onde enterrou",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "28",
+   "fontePet": null
+  },
+  "t37-031": {
+   "texto": "Cidade é mais quente que o campo: calçada, asfalto e parede guardam o calor do sol como um aquecedor",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "31",
+   "fontePet": null
+  },
+  "t37-032": {
+   "texto": "Até o ar-condicionado esquenta a cidade: é a \"ilha de calor\"",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "32",
+   "fontePet": null
+  },
+  "t37-033": {
+   "texto": "Na cidade, a árvore faz sombra, a raiz segura a água da chuva e a folha segura a poluição do ar",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "32",
+   "fontePet": null
+  },
+  "t37-034": {
+   "texto": "Árvore de calçada sofre: raiz presa, copa podada e longe de outras árvores. Estudos mostram que ela absorve menos gás carbônico",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "33",
+   "fontePet": null
+  },
+  "t37-035": {
+   "texto": "Na cidade, vale mais um grupinho de árvores num terreno vazio ou praça do que árvore sozinha na calçada",
+   "esp": "arvore",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "33",
+   "fontePet": null
+  },
+  "t37-036": {
+   "texto": "Mito: raiz de árvore vai lá no fundo. A maior parte fica nos primeiros 60 cm de terra e raramente passa de 2 m",
+   "esp": "arvore",
+   "serie": "Mito ou verdade",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "38",
+   "fontePet": null
+  },
+  "t37-037": {
+   "texto": "A raiz da árvore costuma se espalhar duas a três vezes o raio da copa",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "39",
+   "fontePet": null
+  },
+  "t37-038": {
+   "texto": "O miolo do tronco (cerne) não está vivo, mas é a parte mais forte; só as camadas de dentro da casca estão vivas",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "39",
+   "fontePet": null
+  },
+  "t37-039": {
+   "texto": "Árvore só cresce pelas pontas e pelas bordas: ponta do galho, ponta da raiz e a camada logo abaixo da casca",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "39",
+   "fontePet": null
+  },
+  "t37-040": {
+   "texto": "Os anéis do tronco contam a idade da árvore: cada ano a camada sob a casca faz madeira nova",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "39",
+   "fontePet": null
+  },
+  "t37-041": {
+   "texto": "Seca forte ou calor extremo fazem a árvore parar de crescer",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "39",
+   "fontePet": null
+  },
+  "t37-042": {
+   "texto": "Arbusto ou árvore? Arbusto tem vários caules e forma arredondada; árvore é mais alta e de um caule só. A poda decide em qual dos dois a planta vira",
+   "esp": "arvore",
+   "serie": "X ou Y?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "40",
+   "fontePet": null
+  },
+  "t37-043": {
+   "texto": "O resedá (extremosa) é das poucas árvores que florescem no verão",
+   "esp": "resedá",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "41",
+   "fontePet": null
+  },
+  "t37-044": {
+   "texto": "Debaixo de uma árvore frutífera florida só se ouve o zumbido das abelhas",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "43",
+   "fontePet": null
+  },
+  "t37-045": {
+   "texto": "Muita cerejeira ornamental tem flor dobrada, cheia de pétalas: bonita, mas a abelha não consegue chegar no pólen e no néctar",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "45",
+   "fontePet": null
+  },
+  "t37-046": {
+   "texto": "Cada polinizador tem uma língua de tamanho diferente, e as flores evoluíram formatos para cada boca",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "46",
+   "fontePet": null
+  },
+  "t37-047": {
+   "texto": "A abelha melífera e a mamangava penteiam o pólen do corpo para \"cestinhas\" nas patas de trás",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "46",
+   "fontePet": null
+  },
+  "t37-048": {
+   "texto": "Muita macieira tem flor macho e fêmea juntas, mas mesmo assim precisa de outra árvore por perto para dar fruto",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "46",
+   "fontePet": null
+  },
+  "t37-049": {
+   "texto": "O coco flutua e pode começar uma planta nova em outra praia",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "47",
+   "fontePet": null
+  },
+  "t37-050": {
+   "texto": "Mito: amêndoa e noz são castanhas de verdade. Botanicamente são frutos de caroço; a parte que se come é a semente",
+   "esp": "arvore",
+   "serie": "Mito ou verdade",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "47",
+   "fontePet": null
+  },
+  "t37-051": {
+   "texto": "O amarelo e o laranja da folha de outono estão lá o ano todo, escondidos pelo verde da clorofila",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "48",
+   "fontePet": null
+  },
+  "t37-052": {
+   "texto": "Quando a árvore para de fazer clorofila, o verde some primeiro e as outras cores aparecem",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "50",
+   "fontePet": null
+  },
+  "t37-053": {
+   "texto": "A árvore \"solta\" a folha por uma camada de células no cabinho, sem deixar ferida",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "50",
+   "fontePet": null
+  },
+  "t37-054": {
+   "texto": "Olhar a árvore mudar ao longo do ano acalma e faz bem para a saúde mental",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "51",
+   "fontePet": null
+  },
+  "t37-055": {
+   "texto": "Árvore cresce melhor em grupinho: as raízes se ligam e trocam alimento pelo fungo. Tem espaço? Plante mais de uma",
+   "esp": "arvore",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "52",
+   "fontePet": null
+  },
+  "t37-056": {
+   "texto": "Árvore velha também é casa: na rachadura da casca o inseto se abriga, no oco o passarinho faz ninho",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "52",
+   "fontePet": null
+  },
+  "t37-057": {
+   "texto": "Antes de cavar, pense em daqui a 20 anos: onde cai a sombra, quanto vai sombrear o vizinho e quanta folha vai cair",
+   "esp": "arvore",
+   "serie": "5 cuidados",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "53",
+   "fontePet": null
+  },
+  "t37-058": {
+   "texto": "Converse com o vizinho antes de plantar: árvore alta e sombra são motivo comum de briga",
+   "esp": "arvore",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "53",
+   "fontePet": null
+  },
+  "t37-059": {
+   "texto": "Pouca luz no quintal? Prefira árvore de copa rala, que faz sombra pintada, e evite copa fechada",
+   "esp": "arvore",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "53",
+   "fontePet": null
+  },
+  "t37-060": {
+   "texto": "Árvore de flor e de fruta precisa de muito sol para amadurecer; árvore só de folha aguenta menos luz",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "53",
+   "fontePet": null
+  },
+  "t37-061": {
+   "texto": "Erro comum: plantar árvore grande colada na casa velha. A raiz pode entrar no cano e estragar a calçada",
+   "esp": "arvore",
+   "serie": "3 erros",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "53",
+   "fontePet": null
+  },
+  "t37-062": {
+   "texto": "Regra geral: a raiz vai longe entre metade e a altura toda da árvore",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "54",
+   "fontePet": null
+  },
+  "t37-063": {
+   "texto": "Árvore que aguenta seca tem raiz menor: depende menos de água",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "54",
+   "fontePet": null
+  },
+  "t37-064": {
+   "texto": "Cerca viva: mudas a cada 30 cm e poda a cada um ou dois anos. Fileira simples para cerca fina, dupla para cerca grossa",
+   "esp": "arvore",
+   "serie": "Passo a passo",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "54",
+   "fontePet": null
+  },
+  "t37-065": {
+   "texto": "Cerca viva segura mais poluição que árvore: ela fica na altura do escapamento dos carros",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "54",
+   "fontePet": null
+  },
+  "t37-066": {
+   "texto": "Cerca viva quebra o vento: salvação em quintal muito exposto",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "54",
+   "fontePet": null
+  },
+  "t37-067": {
+   "texto": "Árvore frutífera conduzida em leque ou em andares na parede ou na cerca dá muita fruta em pouco espaço",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "55",
+   "fontePet": null
+  },
+  "t37-068": {
+   "texto": "Árvore em vaso: só as bem pequenas. Limoeiro, figueira, oliveira e louro vão bem em vaso no sol",
+   "esp": "arvore",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "55",
+   "fontePet": null
+  },
+  "t37-069": {
+   "texto": "Árvore em vaso nunca tem a raiz livre do chão: regue e adube sempre, e troque os primeiros centímetros de terra todo ano",
+   "esp": "arvore",
+   "serie": "5 cuidados",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "55",
+   "fontePet": null
+  },
+  "t37-070": {
+   "texto": "Sem espaço para árvore? A hera segura poluição e dá casa para bicho",
+   "esp": "hera",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "55",
+   "fontePet": null
+  },
+  "t37-071": {
+   "texto": "Erro comum: plantar árvore em praça ou calçada sem pedir. Fale com a prefeitura: pode ter cabo e cano por baixo",
+   "esp": "arvore",
+   "serie": "3 erros",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "58",
+   "fontePet": null
+  },
+  "t37-072": {
+   "texto": "A nêspera-de-bronze tem folha de couro de até 30 cm, com o verso quase branco, e copa fechada que serve de cortina",
+   "esp": "nêspera",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "70",
+   "fontePet": null
+  },
+  "t37-073": {
+   "texto": "A nespereira-de-bronze é compacta e vai bem em vaso",
+   "esp": "nêspera",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "70",
+   "fontePet": null
+  },
+  "t37-074": {
+   "texto": "A oliveira vive em média 300 a 600 anos; a mais velha registrada tem 2.000",
+   "esp": "oliveira",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "76",
+   "fontePet": null
+  },
+  "t37-075": {
+   "texto": "Oliveira: sol para dar fruto, aguenta terra pobre, cresce devagar e vai bem em vaso",
+   "esp": "oliveira",
+   "serie": "5 cuidados",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "76",
+   "fontePet": null
+  },
+  "t37-076": {
+   "texto": "A oliveira é polinizada pelo vento e, com sorte, começa a dar azeitona em três a cinco anos",
+   "esp": "oliveira",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "76",
+   "fontePet": null
+  },
+  "t37-077": {
+   "texto": "Azeitona colhida é amarga: deixe de molho em água dez dias, trocando a água todo dia, e depois umas quatro semanas em salmoura",
+   "esp": "oliveira",
+   "serie": "Passo a passo",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "76",
+   "fontePet": null
+  },
+  "t37-078": {
+   "texto": "Erro comum: podar a oliveira com força. Ela solta brotos ladrões que não dão fruto e pegam doença mais fácil",
+   "esp": "oliveira",
+   "serie": "3 erros",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "78",
+   "fontePet": null
+  },
+  "t37-079": {
+   "texto": "Poda da oliveira: abra o centro em forma de tigela para a luz e o ar chegarem no fruto",
+   "esp": "oliveira",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "78",
+   "fontePet": null
+  },
+  "t37-080": {
+   "texto": "Antes de comprar pé de ameixa, veja se a variedade dá fruto sozinha ou precisa de outra ameixeira por perto",
+   "esp": "ameixa",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "84",
+   "fontePet": null
+  },
+  "t37-081": {
+   "texto": "A flor da ameixeira alimenta abelha e a fruta alimenta passarinho e inseto",
+   "esp": "ameixa",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "84",
+   "fontePet": null
+  },
+  "t37-082": {
+   "texto": "O pessegueiro não passa de 4 metros e vive uns 20 anos: boa árvore para quintal pequeno",
+   "esp": "pêssego",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "96",
+   "fontePet": null
+  },
+  "t37-083": {
+   "texto": "O pêssego leva \"Pérsia\" no nome científico, mas nasceu na China",
+   "esp": "pêssego",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "96",
+   "fontePet": null
+  },
+  "t37-084": {
+   "texto": "Pessegueiro florindo sem abelha por perto: passe um pincel macio de flor em flor para polinizar",
+   "esp": "pêssego",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "96",
+   "fontePet": null
+  },
+  "t37-085": {
+   "texto": "Pêssego ou nectarina? É quase a mesma fruta, só que a nectarina não tem a pele aveludada",
+   "esp": "pêssego",
+   "serie": "X ou Y?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "96",
+   "fontePet": null
+  },
+  "t37-086": {
+   "texto": "Figueira com a raiz um pouco apertada dá mais figo: por isso vai tão bem em vaso",
+   "esp": "figo",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "99",
+   "fontePet": null
+  },
+  "t37-087": {
+   "texto": "Figueira no chão: enterre placas em volta do torrão para segurar a raiz e ela frutificar mais",
+   "esp": "figo",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "99",
+   "fontePet": null
+  },
+  "t37-088": {
+   "texto": "A flor da figueira fica escondida dentro do figo",
+   "esp": "figo",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "99",
+   "fontePet": null
+  },
+  "t37-089": {
+   "texto": "Em algumas figueiras, uma vespinha entra no figo para pôr ovos e poliniza a flor lá dentro; a fruta digere as vespas que ficam presas",
+   "esp": "figo",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "99",
+   "fontePet": null
+  },
+  "t37-090": {
+   "texto": "Figueira em vaso: troque a cada dois anos para um vaso só um pouco maior. Raiz com espaço demais dá menos fruto",
+   "esp": "figo",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "101",
+   "fontePet": null
+  },
+  "t37-091": {
+   "texto": "Laranja, limão, lima e kinkan são todos do mesmo gênero, Citrus",
+   "esp": "limoeiro",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "102",
+   "fontePet": null
+  },
+  "t37-092": {
+   "texto": "O fruto do limoeiro leva um ano para amadurecer: por isso é comum ver flor e fruta ao mesmo tempo",
+   "esp": "limoeiro",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "102",
+   "fontePet": null
+  },
+  "t37-093": {
+   "texto": "Limoeiro come muito: adubo próprio de cítrico com frequência. Fique de olho em cochonilha e ácaro, ainda mais dentro de casa",
+   "esp": "limoeiro",
+   "serie": "5 cuidados",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "104",
+   "fontePet": null
+  },
+  "t37-094": {
+   "texto": "A amoreira-preta cresce devagar e pode levar sete anos para começar a dar fruta, mas depois dá muito por anos",
+   "esp": "amora",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "105",
+   "fontePet": null
+  },
+  "t37-095": {
+   "texto": "A amora é fonte de ferro e vitamina C",
+   "esp": "amora",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "105",
+   "fontePet": null
+  },
+  "t37-096": {
+   "texto": "Plantou amoreira? Vai ter que dividir com os passarinhos",
+   "esp": "amora",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "105",
+   "fontePet": null
+  },
+  "t37-097": {
+   "texto": "A flor do resedá parece papel crepom, em rosa, vermelho ou branco, e os insetos adoram",
+   "esp": "resedá",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "124",
+   "fontePet": null
+  },
+  "t37-098": {
+   "texto": "O resedá floresce nos ramos novos do ano: uma poda forte por ano, cortando o ramo do ano pela metade, dá a melhor florada",
+   "esp": "resedá",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "126",
+   "fontePet": null
+  },
+  "t37-099": {
+   "texto": "O tronco do resedá descasca, e as cápsulas de semente ficam no galho por meses",
+   "esp": "resedá",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "126",
+   "fontePet": null
+  },
+  "t37-100": {
+   "texto": "A magnólia é mais velha que as abelhas: quem poliniza a flor dela é besouro",
+   "esp": "magnólia",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "127",
+   "fontePet": null
+  },
+  "t37-101": {
+   "texto": "Na magnólia que perde folha, a flor abre antes das folhas: o galho fica só de flor",
+   "esp": "magnólia",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "127",
+   "fontePet": null
+  },
+  "t37-102": {
+   "texto": "Magnólia cresce muito devagar: escolha bem o tipo antes de plantar. A grandiflora é sempre-verde e fica grande",
+   "esp": "magnólia",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "127",
+   "fontePet": null
+  },
+  "t37-103": {
+   "texto": "Muitas palmeiras aguentam sal e vento: boas para casa no litoral",
+   "esp": "palmeira",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "210",
+   "fontePet": null
+  },
+  "t37-104": {
+   "texto": "O tronco da palmeira se forma conforme as folhas velhas caem",
+   "esp": "palmeira",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "215",
+   "fontePet": null
+  },
+  "t37-105": {
+   "texto": "Palmeira-das-canárias cresce devagar: compre a maior que der",
+   "esp": "palmeira",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "215",
+   "fontePet": null
+  },
+  "t37-106": {
+   "texto": "Mito: palmeira não precisa de água. Na seca, não deixe a terra em volta secar",
+   "esp": "palmeira",
+   "serie": "Mito ou verdade",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "217",
+   "fontePet": null
+  },
+  "t37-107": {
+   "texto": "O butiá dá uma fruta usada para fazer geleia, e por isso tem o apelido de \"palmeira-da-geleia\"",
+   "esp": "palmeira",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "224",
+   "fontePet": null
+  },
+  "t37-108": {
+   "texto": "O butiá é das melhores palmeiras para vaso: cresce devagar e gosta de raiz apertada",
+   "esp": "palmeira",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "224",
+   "fontePet": null
+  },
+  "t37-109": {
+   "texto": "Erro comum com iúca: terra encharcada. Plante com pedra no fundo do buraco ou em canteiro alto, sempre com sol",
+   "esp": "iúca",
+   "serie": "3 erros",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "t37-110": {
+   "texto": "Muda de raiz nua ou de vaso? A de raiz nua é mais barata e tem mais variedade; a de vaso pega mais rápido e se planta o ano todo",
+   "esp": "arvore",
+   "serie": "X ou Y?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "233",
+   "fontePet": null
+  },
+  "t37-111": {
+   "texto": "Na muda de vaso, veja se a raiz não está tomando o vaso todo",
+   "esp": "arvore",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "233",
+   "fontePet": null
+  },
+  "t37-112": {
+   "texto": "Melhor idade para comprar árvore: entre dois e quatro anos. Muda velha \"emburra\" por dois anos sem crescer",
+   "esp": "arvore",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "233",
+   "fontePet": null
+  },
+  "t37-113": {
+   "texto": "Mito: encher o buraco da árvore de esterco. A matéria orgânica se decompõe, a terra afunda e a raiz fica baixa demais. Use como cobertura por cima",
+   "esp": "arvore",
+   "serie": "Mito ou verdade",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "234",
+   "fontePet": null
+  },
+  "t37-114": {
+   "texto": "Plantar árvore 1: deixe a raiz de molho, uns 30 minutos se for raiz nua, ou o torrão encharcado se for de vaso",
+   "esp": "arvore",
+   "serie": "Passo a passo",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "235",
+   "fontePet": null
+  },
+  "t37-115": {
+   "texto": "Plantar árvore 2: cave um buraco quadrado, mais largo que o torrão e não mais fundo. Pelos cantos a raiz se espalha",
+   "esp": "arvore",
+   "serie": "Passo a passo",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "235",
+   "fontePet": null
+  },
+  "t37-116": {
+   "texto": "Plantar árvore 3: solte com cuidado as raízes que estão dando volta no vaso e corte as machucadas",
+   "esp": "arvore",
+   "serie": "Passo a passo",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "236",
+   "fontePet": null
+  },
+  "t37-117": {
+   "texto": "Plantar árvore 4: o topo do torrão fica no nível da terra. Atravesse um cabo de vassoura no buraco para conferir",
+   "esp": "arvore",
+   "serie": "Passo a passo",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "237",
+   "fontePet": null
+  },
+  "t37-118": {
+   "texto": "Plantar árvore 5: devolva a terra regando aos poucos, balance a muda de leve e firme com o calcanhar",
+   "esp": "arvore",
+   "serie": "Passo a passo",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "238",
+   "fontePet": null
+  },
+  "t37-119": {
+   "texto": "Tutor da árvore nova: estaca enterrada 60 cm, do lado de onde vem o vento, amarrada a um terço da altura",
+   "esp": "arvore",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "239",
+   "fontePet": null
+  },
+  "t37-120": {
+   "texto": "Sem tutor, o vento balança a muda e rasga as raízes novas; a árvore pode levar dois anos para se firmar",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "244",
+   "fontePet": null
+  },
+  "t37-121": {
+   "texto": "Depois de plantar, cubra em volta com composto, casca ou folha picada, sem encostar no tronco",
+   "esp": "arvore",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "240",
+   "fontePet": null
+  },
+  "t37-122": {
+   "texto": "Árvore nova: regue toda semana nos primeiros seis meses, um ou dois regadores cheios, encharcando bem. Depois espace",
+   "esp": "regar",
+   "serie": "5 cuidados",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "243",
+   "fontePet": null
+  },
+  "t37-123": {
+   "texto": "Erro comum: regar demais a árvore. A raiz fica rasa e a árvore sofre mais na seca e tomba com vento",
+   "esp": "regar",
+   "serie": "3 erros",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "243",
+   "fontePet": null
+  },
+  "t37-124": {
+   "texto": "Na dúvida, cave 5 cm com a pá: terra seca e poeirenta, regue; úmida, espere mais uma semana",
+   "esp": "regar",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "243",
+   "fontePet": null
+  },
+  "t37-125": {
+   "texto": "Mantenha um círculo de 1 metro sem mato em volta da árvore nova: o mato rouba água e nutriente",
+   "esp": "arvore",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "243",
+   "fontePet": null
+  },
+  "t37-126": {
+   "texto": "Afrouxe a amarra do tutor conforme a árvore engrossa, senão ela machuca o tronco",
+   "esp": "arvore",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "244",
+   "fontePet": null
+  },
+  "t37-127": {
+   "texto": "Árvore em vaso: regue mesmo quando chove, troque a terra de cima todo ano e dê adubo líquido a cada 15 dias na época de crescer",
+   "esp": "arvore",
+   "serie": "5 cuidados",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "244",
+   "fontePet": null
+  },
+  "t37-128": {
+   "texto": "Embaixo da árvore a terra é mais seca e sombreada: plante a 1 ou 2 m do tronco e do lado mais ensolarado",
+   "esp": "arvore",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "246",
+   "fontePet": null
+  },
+  "t37-129": {
+   "texto": "Mito: toda árvore precisa de poda. Tirando as frutíferas, a maioria pode ficar quase sem podar",
+   "esp": "podar",
+   "serie": "Mito ou verdade",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "t37-130": {
+   "texto": "Fruta de caroço (pêssego, ameixa, cereja, damasco) se poda na época quente, para não pegar doença pelo corte",
+   "esp": "podar",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "t37-131": {
+   "texto": "Amoreira e nogueira choram muito seiva no corte: só pode na época certa",
+   "esp": "podar",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "t37-132": {
+   "texto": "Ferramenta de poda bem afiada para corte limpo; galho doente, limpe a ferramenta depois para não levar a doença",
+   "esp": "podar",
+   "serie": "5 cuidados",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "t37-133": {
+   "texto": "Muda nova sem forma: tire os galhos do terço de baixo, corte pela metade os do meio e deixe os de cima",
+   "esp": "podar",
+   "serie": "Passo a passo",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "248",
+   "fontePet": null
+  },
+  "t37-134": {
+   "texto": "Corte logo acima de uma gema, inclinado para longe dela, para a água não empoçar. Toco comprido seca e atrai doença",
+   "esp": "podar",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "248",
+   "fontePet": null
+  },
+  "t37-135": {
+   "texto": "Erro comum: cortar folha verde da palmeira. Só tire as secas e penduradas; tirar folha verde estressa a planta",
+   "esp": "palmeira",
+   "serie": "3 erros",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "250",
+   "fontePet": null
+  },
+  "t37-136": {
+   "texto": "Antes de podar a cerca viva, olhe se não tem ninho",
+   "esp": "passarinho",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "250",
+   "fontePet": null
+  },
+  "t37-137": {
+   "texto": "Galho quebrado: corte logo acima do \"colar\", o inchaço na base do galho. Ali a casca cicatriza melhor",
+   "esp": "podar",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "250",
+   "fontePet": null
+  },
+  "t37-138": {
+   "texto": "Tire galhos que se cruzam: eles se esfregam, abrem ferida e a árvore pega doença",
+   "esp": "podar",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "251",
+   "fontePet": null
+  },
+  "t37-139": {
+   "texto": "Broto que sai da base de muda enxertada pode ser de outra planta (o cavalo): arranque",
+   "esp": "podar",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "252",
+   "fontePet": null
+  },
+  "t37-140": {
+   "texto": "Frutífera sem poda produz cada vez menos e fica embolada",
+   "esp": "podar",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "252",
+   "fontePet": null
+  },
+  "t37-141": {
+   "texto": "Poda de frutífera: copa aberta em taça, com quatro ou cinco galhos principais, cortando para uma gema virada para fora",
+   "esp": "podar",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "252",
+   "fontePet": null
+  },
+  "t37-142": {
+   "texto": "Muda enxertada: a raiz (o cavalo) controla o tamanho da árvore. Cavalo \"anão\" deixa a frutífera pequena, boa para vaso",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "241",
+   "fontePet": null
+  },
+  "t37-143": {
+   "texto": "Mito: todo bicho na árvore é praga. Pulgão, lagarta e companhia fazem parte da cadeia e alimentam passarinho; só vira praga quando faz estrago de verdade",
+   "esp": "praga",
+   "serie": "Mito ou verdade",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "258",
+   "fontePet": null
+  },
+  "t37-144": {
+   "texto": "Bicho na maçã? Corte a fruta e coma em volta do túnel. Melhor que veneno",
+   "esp": "praga",
+   "serie": "Dica do Andre",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "258",
+   "fontePet": null
+  },
+  "t37-145": {
+   "texto": "O pulgão solta um melado doce onde cresce a fumagina, um mofo preto que tampa a folha",
+   "esp": "praga",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "258",
+   "fontePet": null
+  },
+  "t37-146": {
+   "texto": "Cancro bacteriano em ameixeira e pessegueiro: casca afundada soltando goma e furinhos na folha. Corte 10 a 15 cm abaixo, em madeira sadia, e desinfete a ferramenta",
+   "esp": "fungo",
+   "serie": "Socorro",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "259",
+   "fontePet": null
+  },
+  "t37-147": {
+   "texto": "Podridão-parda na fruta: tire todas as frutas doentes, inclusive as caídas, e enterre fundo, a mais de 1 metro",
+   "esp": "fungo",
+   "serie": "Socorro",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "259",
+   "fontePet": null
+  },
+  "t37-148": {
+   "texto": "A armilária é o pior fungo de jardim: mata a raiz e não tem cura. Sinal: placa branca entre a casca e a madeira",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "259",
+   "fontePet": null
+  },
+  "t37-149": {
+   "texto": "O fungo prateado entra pelo corte da poda e deixa a folha com brilho de prata antes de o galho morrer",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "260",
+   "fontePet": null
+  },
+  "t37-150": {
+   "texto": "Fusariose em palmeira: folhas escurecem de baixo para cima. Passa pela terra e pela ferramenta de poda; esterilize sempre",
+   "esp": "palmeira",
+   "serie": "Você sabia?",
+   "livro": "Bradbury, RHS The Tree in My Garden",
+   "pagina": "260",
+   "fontePet": null
   }
  }
 }

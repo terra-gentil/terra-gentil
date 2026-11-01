@@ -1,4 +1,9 @@
 # PROGRESSO Terra Gentil
+## BIBLIA 37 THE TREE IN MY GARDEN (RHS) ESTUDADA INTEIRA (01/11/2026)
+- Livro lido todo; fato so do que vale no Brasil: por que plantar, partes da arvore, raiz, fungos (rede de raizes), arvore na cidade, lugar certo, cerca viva, arvore em vaso, fichas de nespera, oliveira, ameixa, pessego, figo, citricos, amora, resedá, magnolia, palmeiras (butiá), iuca, e o capitulo plantar/podar/cuidar/problemas. Fichas de arvore nativa inglesa ficaram fora. 150 fatos em `inteligencia-carrossel\estudo\37-tree-01.md` a `-03.md` (ids t37-001 a t37-150), trechos 0 falhas.
+- biblia.json 4.853 -> 5.003 fatos (150 novos, nenhum travado). Testes 229/229. Backup `biblia-antes-37.json` no scratchpad da sessao 29d88dac.
+- Esp novas: arvore (geral, 70+ fatos), oliveira, nespera, ameixa, pessego, magnolia.
+- **Rende livros:** Arvore no Quintal (escolher, lugar, raiz x casa, plantar em 5 passos, tutor, rega do 1o ano, mato em volta); Poda sem Medo (reforco: corte na gema, colar do galho, taça, ladrão, fruta de caroço); Frutifera em Vaso (figo, limoeiro, oliveira, nespera, butiá); Fungo Amigo (rede de raizes, circulo de cogumelos).
 ## BIBLIA 28 HOW TO GROW PLANTS FROM SEEDS (RHS) ESTUDADA INTEIRA (01/11/2026)
 - Lido o livro todo (texto de OCR com ruido): basico de semente, vasos e estufinha caseira, semeadura, desbaste, aclimatacao, flores de semente (15 fichas), horta de semente (microverde, ervas, horta no vaso, 15 fichas), guardar e trocar semente, bomba de semente. 245 fatos em `inteligencia-carrossel\estudo\28-seeds-01.md` a `-04.md` (ids s28-001 a s28-245), trechos 0 falhas. Atencao: OCR tem "|" no lugar de "1" (ex. "|5cm"); trecho com "|" quebra a tabela, usar "..." para pular.
 - biblia.json 4.609 -> 4.853 fatos (244 novos; 1 travado SAUDE: semente de dedaleira). Testes 229/229 (insta) e 86/86 (site). Backup `biblia-antes-28.json` no scratchpad da sessao 29d88dac.

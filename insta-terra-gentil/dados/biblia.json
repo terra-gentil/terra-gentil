@@ -28184,6 +28184,934 @@
    "livro": "Squire, The Houseplant Handbook",
    "pagina": "220",
    "fontePet": null
+  },
+  "q3-573": {
+   "texto": "Palmeira dentro de casa: borrife as folhas com frequência, principalmente com ar seco e calor",
+   "esp": "palmeira",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "222",
+   "fontePet": null
+  },
+  "q3-574": {
+   "texto": "A palmeira-rabo-de-peixe (Caryota) tem folíolos em cunha, grossos e com a ponta rasgada",
+   "esp": "palmeira",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "222",
+   "fontePet": null
+  },
+  "q3-575": {
+   "texto": "Rabo-de-peixe é vigorosa: fica melhor contida em vaso pequeno",
+   "esp": "palmeira",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "222",
+   "fontePet": null
+  },
+  "q3-576": {
+   "texto": "Palmeira grande demais para trocar de vaso: tire um pouco da terra de cima e ponha terra nova",
+   "esp": "palmeira",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "222",
+   "fontePet": null
+  },
+  "q3-577": {
+   "texto": "Muda de rabo-de-peixe: separe os brotos da base e plante cada um em seu vaso",
+   "esp": "palmeira",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "222",
+   "fontePet": null
+  },
+  "q3-578": {
+   "texto": "A palmeira-de-salão (Chamaedorea elegans) costuma ser vendida com uns 15 cm, várias mudas juntas no mesmo vaso",
+   "esp": "palmeira",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "223",
+   "fontePet": null
+  },
+  "q3-579": {
+   "texto": "Palmeira-de-salão: adubo líquido fraco a cada 4 semanas quando cresce, sempre com boa drenagem",
+   "esp": "palmeira",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "223",
+   "fontePet": null
+  },
+  "q3-580": {
+   "texto": "Palmeira-de-salão não gosta que mexam na raiz: troque de vaso só quando a terra estiver tomada",
+   "esp": "palmeira",
+   "serie": "Erro comum",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "223",
+   "fontePet": null
+  },
+  "q3-581": {
+   "texto": "A palmeira-bambu (Chamaedorea) forma touceira de hastes que saem rente à terra",
+   "esp": "palmeira",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "224",
+   "fontePet": null
+  },
+  "q3-582": {
+   "texto": "Palmeira-bambu cheia demais: divida a touceira",
+   "esp": "palmeira",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "224",
+   "fontePet": null
+  },
+  "q3-583": {
+   "texto": "A palmeira-leque-anã (Chamaerops) chega a 9 metros na natureza",
+   "esp": "palmeira",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "225",
+   "fontePet": null
+  },
+  "q3-584": {
+   "texto": "Palmeira-leque-anã aguenta sol pleno; no calor, rega farta sem encharcar",
+   "esp": "palmeira",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "225",
+   "fontePet": null
+  },
+  "q3-585": {
+   "texto": "Areca: luz indireta, terra levemente úmida sem nunca secar, troca de vaso quando a raiz enche",
+   "esp": "palmeira",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "226",
+   "fontePet": null
+  },
+  "q3-586": {
+   "texto": "A areca tem hastes de cana e folhas de até 90 cm, verde-amareladas, que se curvam de leve",
+   "esp": "palmeira",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "226",
+   "fontePet": null
+  },
+  "q3-587": {
+   "texto": "Muda de areca: divida a touceira ou tire os brotos da base e plante em vaso",
+   "esp": "palmeira",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "226",
+   "fontePet": null
+  },
+  "q3-588": {
+   "texto": "A cica não é palmeira e cresce devagar, quase uma folha nova por ano",
+   "esp": "cica",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "q3-589": {
+   "texto": "Cica: luz indireta e adubo líquido fraco a cada 6 semanas quando cresce",
+   "esp": "cica",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "q3-590": {
+   "texto": "Muda de cica: tire os filhotes da base e plante cada um em seu vaso",
+   "esp": "cica",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "q3-591": {
+   "texto": "A kentia cresce mais rápido que a prima belmoreana e tem a haste menos arqueada",
+   "esp": "palmeira",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "229",
+   "fontePet": null
+  },
+  "q3-592": {
+   "texto": "Kentia: luz indireta ou meia-sombra e adubo líquido fraco a cada 3 semanas quando cresce",
+   "esp": "palmeira",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "229",
+   "fontePet": null
+  },
+  "q3-593": {
+   "texto": "A palmeira-leque-da-china (Livistona) cresce devagar dentro de casa e tem leque com as pontas caídas",
+   "esp": "palmeira",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "230",
+   "fontePet": null
+  },
+  "q3-594": {
+   "texto": "O coqueirinho (Lytocaryum weddellianum) é anão: mal passa de 1,8 m mesmo com 15 anos",
+   "esp": "palmeira",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "231",
+   "fontePet": null
+  },
+  "q3-595": {
+   "texto": "O coqueirinho (Lytocaryum) tem fama de ser uma das palmeiras mais bonitas",
+   "esp": "palmeira",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "231",
+   "fontePet": null
+  },
+  "q3-596": {
+   "texto": "A tamareira-anã (Phoenix roebelenii) quase não tem tronco e as folhas pendem na ponta",
+   "esp": "palmeira",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "233",
+   "fontePet": null
+  },
+  "q3-597": {
+   "texto": "Tamareira-anã: no frio, terra quase seca sem secar de vez; no calor, rega farta com boa drenagem",
+   "esp": "palmeira",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "233",
+   "fontePet": null
+  },
+  "q3-598": {
+   "texto": "A palmeira-ráfis forma touceira de hastes de bambu, com folhas em dedos abertas em leque",
+   "esp": "palmeira",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "234",
+   "fontePet": null
+  },
+  "q3-599": {
+   "texto": "Muda de ráfis: tire os brotos da touceira e plante em vasos pequenos",
+   "esp": "palmeira",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "234",
+   "fontePet": null
+  },
+  "q3-600": {
+   "texto": "Coqueiro novo é vendido em vaso com o coco ainda na base",
+   "esp": "palmeira",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "235",
+   "fontePet": null
+  },
+  "q3-601": {
+   "texto": "A washingtonia cresce rápido e costuma durar pouco dentro de casa",
+   "esp": "palmeira",
+   "serie": "Erro comum",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "235",
+   "fontePet": null
+  },
+  "q3-602": {
+   "texto": "Bulbo é feito de folhas carnudas enroladas umas nas outras, presas a um disco na base",
+   "esp": "bulbo",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "236",
+   "fontePet": null
+  },
+  "q3-603": {
+   "texto": "Cormo é a base do caule inchada (frésia), tubérculo é raiz ou caule inchado (dália) e rizoma é caule deitado",
+   "esp": "bulbo",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "237",
+   "fontePet": null
+  },
+  "q3-604": {
+   "texto": "Frésia em vaso: 5 cormos num vaso de 13 cm, só cobrindo a ponta",
+   "esp": "frésia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "237",
+   "fontePet": null
+  },
+  "q3-605": {
+   "texto": "Semente de frésia: 24 horas de molho em água limpa antes de semear; brota em até 3 semanas",
+   "esp": "frésia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "238",
+   "fontePet": null
+  },
+  "q3-606": {
+   "texto": "Frésia depois da flor: vá diminuindo a água até a terra e os cormos secarem de vez",
+   "esp": "frésia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "238",
+   "fontePet": null
+  },
+  "q3-607": {
+   "texto": "A amarílis de vaso (Hippeastrum) não é a mesma planta que a Amaryllis belladonna",
+   "esp": "amarílis",
+   "serie": "Erro comum",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "238",
+   "fontePet": null
+  },
+  "q3-608": {
+   "texto": "Plantada na época certa, a amarílis pode florir em qualquer mês do ano",
+   "esp": "amarílis",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "238",
+   "fontePet": null
+  },
+  "q3-609": {
+   "texto": "Amarílis: um bulbo por vaso de 13 cm, com metade do bulbo para fora da terra",
+   "esp": "amarílis",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "239",
+   "fontePet": null
+  },
+  "q3-610": {
+   "texto": "Amarílis: pouca água até brotar; depois rega farta e adubo líquido fraco a cada 10 dias",
+   "esp": "amarílis",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "239",
+   "fontePet": null
+  },
+  "q3-611": {
+   "texto": "Amarílis florir de novo: depois da flor, menos água; quando a folha amarelar, pare de regar e deixe a terra secar até a nova brotação",
+   "esp": "amarílis",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "239",
+   "fontePet": null
+  },
+  "q3-612": {
+   "texto": "O jacinto tem cachos de flores perfumadas com cara de cera",
+   "esp": "jacinto",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "239",
+   "fontePet": null
+  },
+  "q3-613": {
+   "texto": "Jacinto em vaso não pede adubo nem troca de vaso: só terra úmida por igual",
+   "esp": "jacinto",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "240",
+   "fontePet": null
+  },
+  "q3-614": {
+   "texto": "O lírio-branco (Lilium longiflorum) dá trombetas brancas muito perfumadas, de pólen dourado",
+   "esp": "lírio",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "241",
+   "fontePet": null
+  },
+  "q3-615": {
+   "texto": "Lírio em vaso: um bulbo por vaso, regue e deixe no escuro até a raiz pegar",
+   "esp": "lírio",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "241",
+   "fontePet": null
+  },
+  "q3-616": {
+   "texto": "Lírio brotou: leve para meia-sombra e vá aumentando a luz aos poucos",
+   "esp": "lírio",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "241",
+   "fontePet": null
+  },
+  "q3-617": {
+   "texto": "Para florir dentro de casa na Europa, o narciso passa semanas no escuro dentro de um saco preto",
+   "esp": "narciso",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "242",
+   "fontePet": null
+  },
+  "q3-618": {
+   "texto": "A tulipa dobrada tem flor de até 10 cm, parecida com peônia",
+   "esp": "tulipa",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "244",
+   "fontePet": null
+  },
+  "q3-619": {
+   "texto": "Narciso, tulipa e lírio de vaso: para florir bonito de novo, o livro manda comprar bulbo novo todo ano",
+   "esp": "bulbo",
+   "serie": "Erro comum",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "242",
+   "fontePet": null
+  },
+  "q3-620": {
+   "texto": "O lírio-de-scarborough (Cyrtanthus elatus) é ideal para janela de sol",
+   "esp": "lírio",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "245",
+   "fontePet": null
+  },
+  "q3-621": {
+   "texto": "Lírio-de-scarborough: plante com a ponta do bulbo um pouco para fora da terra",
+   "esp": "lírio",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "245",
+   "fontePet": null
+  },
+  "q3-622": {
+   "texto": "Filhote do lírio-de-scarborough leva até 3 anos para florir",
+   "esp": "lírio",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "245",
+   "fontePet": null
+  },
+  "q3-623": {
+   "texto": "Veltheimia: depois da flor, deixe a folha secar sozinha e o bulbo descansar antes de trocar a terra",
+   "esp": "bulbo",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "246",
+   "fontePet": null
+  },
+  "q3-624": {
+   "texto": "A tuberosa dá flores brancas puras e perfumadas no verão",
+   "esp": "tuberosa",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "q3-625": {
+   "texto": "O lírio-abacaxi (Eucomis) dá uma espiga comprida cheia de flores verdes",
+   "esp": "bulbo",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "q3-626": {
+   "texto": "Tem bromélia que vive no chão e tem bromélia que vive pendurada em árvore, as chamadas plantas aéreas",
+   "esp": "bromélia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "248",
+   "fontePet": null
+  },
+  "q3-627": {
+   "texto": "Bromélia de copo: jogue fora a água velha do centro e ponha água nova a cada 3 ou 4 semanas",
+   "esp": "bromélia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "249",
+   "fontePet": null
+  },
+  "q3-628": {
+   "texto": "Bromélia gosta de ar úmido: borrife com frequência",
+   "esp": "bromélia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "249",
+   "fontePet": null
+  },
+  "q3-629": {
+   "texto": "Aechmea: adubo líquido fraco a cada 4 semanas na época de crescer, na terra e no copo",
+   "esp": "bromélia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "249",
+   "fontePet": null
+  },
+  "q3-630": {
+   "texto": "Depois que a bromélia floresce, a planta-mãe morre devagar e os filhotes em volta tomam o lugar",
+   "esp": "bromélia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "249",
+   "fontePet": null
+  },
+  "q3-631": {
+   "texto": "Filhote de bromélia: espere chegar a um terço ou metade do tamanho da mãe e corte rente à base com faca afiada",
+   "esp": "bromélia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "249",
+   "fontePet": null
+  },
+  "q3-632": {
+   "texto": "Filhote de bromélia cortado: deixe o corte secar 1 ou 2 dias antes de plantar em terra bem drenada",
+   "esp": "bromélia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "249",
+   "fontePet": null
+  },
+  "q3-633": {
+   "texto": "Filhote de bromélia recém-plantado tomba fácil: apoie com uma varetinha fina",
+   "esp": "bromélia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "249",
+   "fontePet": null
+  },
+  "q3-634": {
+   "texto": "A Aechmea fasciata tem folhas cinza listradas de prata e flores azul-claras que viram rosa",
+   "esp": "bromélia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "250",
+   "fontePet": null
+  },
+  "q3-635": {
+   "texto": "A Aechmea fulgens dá frutinhos vermelhos que duram muito depois das flores",
+   "esp": "bromélia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "252",
+   "fontePet": null
+  },
+  "q3-636": {
+   "texto": "O abacaxi é bromélia; em vaso dentro de casa fica com metade da altura e raramente dá fruta",
+   "esp": "abacaxi",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "253",
+   "fontePet": null
+  },
+  "q3-637": {
+   "texto": "A folha do abacaxi fica avermelhada quando pega sol forte",
+   "esp": "abacaxi",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "253",
+   "fontePet": null
+  },
+  "q3-638": {
+   "texto": "Abacaxi em vaso: deixe a terra secar um pouco entre as regas e adube a cada 4 semanas no calor",
+   "esp": "abacaxi",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "253",
+   "fontePet": null
+  },
+  "q3-639": {
+   "texto": "Muda de abacaxi: corte os filhotes da base, deixe secar um dia e plante no vaso",
+   "esp": "abacaxi",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "253",
+   "fontePet": null
+  },
+  "q3-640": {
+   "texto": "Existe abacaxi variegado, menor, com folha verde, branca, amarela e rosa",
+   "esp": "abacaxi",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "253",
+   "fontePet": null
+  },
+  "q3-641": {
+   "texto": "Billbergia (lágrimas-de-rainha): no frio, deixe a terra quase secar antes de regar de novo",
+   "esp": "bromélia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "255",
+   "fontePet": null
+  },
+  "q3-642": {
+   "texto": "A criptanto (estrela-da-terra) é bromélia sem caule, plantada mais pela folha do que pela flor",
+   "esp": "bromélia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "256",
+   "fontePet": null
+  },
+  "q3-643": {
+   "texto": "Criptanto: sol ou luz forte, terra bem drenada e adubo líquido fraco a cada 5 ou 6 semanas",
+   "esp": "bromélia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "256",
+   "fontePet": null
+  },
+  "q3-644": {
+   "texto": "Muda de criptanto: tire os filhotes e plante cada um em seu vaso",
+   "esp": "bromélia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "256",
+   "fontePet": null
+  },
+  "q3-645": {
+   "texto": "Na guzmânia a flor de verdade dura pouco, mas as brácteas vermelhas ficam bonitas por semanas",
+   "esp": "bromélia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "260",
+   "fontePet": null
+  },
+  "q3-646": {
+   "texto": "Guzmânia que já floriu: corte a planta velha a 5 cm da base e depois separe os filhotes",
+   "esp": "bromélia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "260",
+   "fontePet": null
+  },
+  "q3-647": {
+   "texto": "Cada guzmânia-tocha dá uma haste de flor só",
+   "esp": "bromélia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "260",
+   "fontePet": null
+  },
+  "q3-648": {
+   "texto": "Na neoregélia, a hora da flor faz as folhas do centro ficarem roxas ou vermelhas",
+   "esp": "bromélia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "261",
+   "fontePet": null
+  },
+  "q3-649": {
+   "texto": "Neoregélia: rega moderada na terra, copo sempre com água e adubo líquido fraco a cada 5 semanas",
+   "esp": "bromélia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "261",
+   "fontePet": null
+  },
+  "q3-650": {
+   "texto": "A neoregélia-unha tem a ponta de cada folha vermelha, como unha pintada",
+   "esp": "bromélia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "262",
+   "fontePet": null
+  },
+  "q3-651": {
+   "texto": "O nidulário costuma viver pouco: a roseta morre depois da flor e os filhotes seguem crescendo",
+   "esp": "bromélia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "263",
+   "fontePet": null
+  },
+  "q3-652": {
+   "texto": "Tilândsia aérea vive sem terra, presa em madeira, cortiça ou concha",
+   "esp": "tilândsia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "264",
+   "fontePet": null
+  },
+  "q3-653": {
+   "texto": "Tilândsia aérea não se rega: borrife com frequência com água limpa e sem calcário",
+   "esp": "tilândsia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "264",
+   "fontePet": null
+  },
+  "q3-654": {
+   "texto": "Adubo da tilândsia aérea vai na água do borrifo, fraco, a cada 3 ou 4 semanas no calor",
+   "esp": "tilândsia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "264",
+   "fontePet": null
+  },
+  "q3-655": {
+   "texto": "A tilândsia-rosa (Tillandsia cyanea) é das poucas que se planta em vaso, e não em madeira",
+   "esp": "tilândsia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "265",
+   "fontePet": null
+  },
+  "q3-656": {
+   "texto": "A Tillandsia ionantha fica com o centro vermelho logo antes de soltar as flores roxas",
+   "esp": "tilândsia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "269",
+   "fontePet": null
+  },
+  "q3-657": {
+   "texto": "A barba-de-velho também é tilândsia e forma cachos de até 1 metro pendurados",
+   "esp": "tilândsia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "270",
+   "fontePet": null
+  },
+  "q3-658": {
+   "texto": "A vriésea-espada-de-fogo tem folhas listradas de roxo-escuro e uma espada de brácteas vermelhas",
+   "esp": "bromélia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "269",
+   "fontePet": null
+  },
+  "q3-659": {
+   "texto": "Vriésea: troca de vaso a cada 3 anos, copo sempre completado com água",
+   "esp": "bromélia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "269",
+   "fontePet": null
+  },
+  "q3-660": {
+   "texto": "A Dyckia solta a haste de flor pelo lado da roseta, e não pelo centro",
+   "esp": "bromélia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "271",
+   "fontePet": null
+  },
+  "q3-661": {
+   "texto": "Samambaia vive muito e não perde as folhas no ano: serve de peça central ou de fundo verde",
+   "esp": "samambaia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "272",
+   "fontePet": null
+  },
+  "q3-662": {
+   "texto": "Samambaia não é difícil de cultivar",
+   "esp": "samambaia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "273",
+   "fontePet": null
+  },
+  "q3-663": {
+   "texto": "A avenca tem folhinhas delicadas verde-claras em cabinhos pretos de arame",
+   "esp": "avenca",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "273",
+   "fontePet": null
+  },
+  "q3-664": {
+   "texto": "Avenca: terra levemente úmida no frio, rega farta no calor e adubo líquido fraco a cada 2 ou 3 semanas",
+   "esp": "avenca",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "273",
+   "fontePet": null
+  },
+  "q3-665": {
+   "texto": "Avenca cheia demais: divida a touceira",
+   "esp": "avenca",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "273",
+   "fontePet": null
+  },
+  "q3-666": {
+   "texto": "Existe avenca de folha perfumada, a Fragrantissimum",
+   "esp": "avenca",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "274",
+   "fontePet": null
+  },
+  "q3-667": {
+   "texto": "O asplênio-mãe solta mudinhas na borda da folha, tantas que a folha chega a envergar",
+   "esp": "samambaia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "274",
+   "fontePet": null
+  },
+  "q3-668": {
+   "texto": "Muda do asplênio-mãe: tire a mudinha da folha quando ela tiver folhas e pressione num vaso de turfa e areia",
+   "esp": "samambaia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "274",
+   "fontePet": null
+  },
+  "q3-669": {
+   "texto": "O ninho-de-passarinho (Asplenium nidus) tem folhas largas em colher que formam um funil no centro",
+   "esp": "samambaia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "275",
+   "fontePet": null
+  },
+  "q3-670": {
+   "texto": "Ninho-de-passarinho: luz indireta ou meia-sombra e adubo líquido fraco a cada 3 semanas no calor",
+   "esp": "samambaia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "275",
+   "fontePet": null
+  },
+  "q3-671": {
+   "texto": "A samambaia-blechnum forma tronco com o tempo; a Blechnum brasiliense chega a 90 cm de tronco",
+   "esp": "samambaia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "276",
+   "fontePet": null
+  },
+  "q3-672": {
+   "texto": "A samambaia-azevinho tem folíolos duros e brilhantes, com cara de folha de azevinho",
+   "esp": "samambaia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "277",
+   "fontePet": null
+  },
+  "q3-673": {
+   "texto": "A samambaia-pé-de-coelho tem esse nome pelas raízes grossas cobertas de escamas marrons",
+   "esp": "samambaia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "278",
+   "fontePet": null
+  },
+  "q3-674": {
+   "texto": "A samambaia-americana (Nephrolepis) é ideal e resistente para dentro de casa",
+   "esp": "samambaia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "278",
+   "fontePet": null
+  },
+  "q3-675": {
+   "texto": "Samambaia-americana: rega farta e adubo líquido fraco a cada 2 ou 3 semanas no calor; no frio, terra só levemente úmida",
+   "esp": "samambaia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "278",
+   "fontePet": null
+  },
+  "q3-676": {
+   "texto": "Samambaia já em vaso grande: solte um pouco da terra velha e volte para vaso do mesmo tamanho com terra nova",
+   "esp": "samambaia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "278",
+   "fontePet": null
+  },
+  "q3-677": {
+   "texto": "A samambaia-de-boston é uma forma da Nephrolepis, de folhas mais largas e arqueadas",
+   "esp": "samambaia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "279",
+   "fontePet": null
+  },
+  "q3-678": {
+   "texto": "A Nephrolepis Smithii tem folha fina como renda e cresce pendente",
+   "esp": "samambaia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "279",
+   "fontePet": null
+  },
+  "q3-679": {
+   "texto": "A samambaia-botão (Pellaea) tem folhinhas redondas, brilhantes, como botões",
+   "esp": "samambaia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "280",
+   "fontePet": null
+  },
+  "q3-680": {
+   "texto": "Ao dividir a samambaia-botão, não corte em pedaços muito pequenos",
+   "esp": "samambaia",
+   "serie": "Erro comum",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "280",
+   "fontePet": null
+  },
+  "q3-681": {
+   "texto": "O chifre-de-veado tem folhas em galhada, cobertas de pelinhos finos",
+   "esp": "chifre-de-veado",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "281",
+   "fontePet": null
+  },
+  "q3-682": {
+   "texto": "Chifre-de-veado fica melhor preso em madeira ou cortiça na parede, ou pendurado; novo, pode ir em vaso",
+   "esp": "chifre-de-veado",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "281",
+   "fontePet": null
+  },
+  "q3-683": {
+   "texto": "O Platycerium grande, primo do chifre-de-veado, passa de 1,5 m de largura",
+   "esp": "chifre-de-veado",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "281",
+   "fontePet": null
+  },
+  "q3-684": {
+   "texto": "A pteris variegada tem uma faixa branca no meio de cada folíolo",
+   "esp": "samambaia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "282",
+   "fontePet": null
+  },
+  "q3-685": {
+   "texto": "Pteris: meia-sombra, boa drenagem, adubo líquido fraco a cada 3 semanas e troca de vaso a cada 3 ou 4 anos",
+   "esp": "samambaia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "282",
+   "fontePet": null
+  },
+  "q3-686": {
+   "texto": "A Pteris tremula costuma nascer sozinha de esporo em estufa",
+   "esp": "samambaia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "284",
+   "fontePet": null
+  },
+  "q3-687": {
+   "texto": "A avenca-rosa (Adiantum hispidulum) tem folha nova cor de cobre rosado",
+   "esp": "avenca",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "285",
+   "fontePet": null
+  },
+  "q3-688": {
+   "texto": "A Didymochlaena cresce bem em sombra densa",
+   "esp": "samambaia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "285",
+   "fontePet": null
   }
  }
 }

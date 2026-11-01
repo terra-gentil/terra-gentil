@@ -1,4 +1,10 @@
 # PROGRESSO Terra Gentil
+## BIBLIA 3 SQUIRE: DIRETORIO COMPLETO (01/11/2026)
+- Lidas as p.221 a 285: palmeiras e cica, bulbos, bromelias e tilandsias, samambaias (p.286 em diante e glossario). 116 fatos em `inteligencia-carrossel\estudo\3-squire-08.md` e `-09.md` (ids q3-573 a q3-688), trechos 0 falhas.
+- biblia.json 3.523 -> 3.639 fatos (116 novos, nenhum travado). Testes 229/229. Backup `biblia-antes-squire-08.json` no scratchpad da sessao d8a81796.
+- Fatos por tema: palmeira 26, bromelia 24, samambaia 20, tilandsia 6, lirio 6, bulbo 5, avenca 5, amarilis 5, abacaxi 5, fresia 3, cica 3, chifre-de-veado 3, jacinto 2, tulipa/tuberosa/narciso 1. Estudo fica fora do git (pasta estudo/ no .gitignore do youtube-terragentil). Esp novas: frésia, jacinto, narciso, tulipa, tuberosa, abacaxi, bulbo.
+- **Rende livros:** Palmeiras de Casa (areca, kentia, rafis, palmeira-de-salao, tamareira-ana, cica; junta com as 10 do Brickell); Bromelias (copo, filhote, guzmania, neoregelia, vriesea, abacaxi; junta com as 17 antigas); Samambaias e Avencas (americana, boston, ninho-de-passarinho, chifre-de-veado, pteris); Tilandsia sem terra (6 + 4 antigas, ainda magro). Bulbos que Voltam ganha amarilis florir de novo.
+- **Proximo:** 35 e 32 horta em vaso, 22 mato, 28 sementes, 37 arvore, 19 ervas. Opcionais: 36, 34, 31, 29 (OCR).
 ## BIBLIA 3 SQUIRE: DIRETORIO ESTUDADO ATE A P.220 (01/11/2026)
 - Fichas do diretorio lidas (PDF p.82 a 220): folhagens, plantas de flor, carnivoras, plantas de fruto, flores de vaso, cactos e suculentas. 373 fatos em `inteligencia-carrossel\estudo\3-squire-04.md` a `-07.md` (ids q3-200 a q3-572), trechos 0 falhas. Temperatura e estacao inglesas fora do fato.
 - biblia.json 3.157 -> 3.523 fatos (366 novos; 7 travados SAUDE/CLIMA). Testes 229/229. Backup `biblia-antes-squire.json` e `fichas.py` (ficha compacta por pagina) no scratchpad da sessao 998cf908.

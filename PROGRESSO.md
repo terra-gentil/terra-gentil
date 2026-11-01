@@ -9,7 +9,7 @@ Roteiros curtos novos em `ebooks\fabrica\curtos\tg019.mjs` a `tg024.mjs`, todos 
 | 022 | Composteira em Casa | COMPOSTO |
 | 023 | Armadilhas e Aliados (TG 002 ja e Pragas sem Veneno) | ALIADO |
 | 024 | Jardim do Zero | JARDIM |
-**Fotos:** 019 e 020 gerados na eng.andrehz e ja em 2K tratados (previas remontadas). 021 a 023 (24 fotos) disparados na eng.andrehz em seguida (~96 de ~99 na janela). 024 fica para a Pamela amanha (~10h20). A ferramenta perde Elenco e Mascote a cada recarga: remontar (busca "andre-rua-1" e "image.png" no seletor).
+**Fotos:** 019 e 020 completos em 2K (eng.andrehz). 021 com 6 de 8 em 2K: a eng.andrehz bateu o LIMITE na 7a foto (31/10 noite). Faltam 26 fotos para a Pamela amanha (~10h20): enx-var-socotranum e enx-var-swazicum (021), filas inteiras do 022, 023 e 024. A ferramenta perde Elenco e Mascote a cada recarga: remontar (busca "andre-rua-1" e "image.png" no seletor).
 **Material que sobra (estimativa):** uns 10 livros alem do 024 (orquidea 2-3, suculenta 1, rosa-do-deserto 1, praga 1, mato e grama 1, horta 1, cacto 1, rega e vaso 1, poda 1). Abelha e passarinho tem poucos fatos (uns 9): juntar com outro tema. Folhagens precisam das biblias de `gama-ebooks/BIBLIAS-PROCURAR.md` (Hessayon e Lorenzi primeiro).
 **Proximo:** baixar 2K do 021 a 023 (galeria, `__baixar2k`), `casar2k.py`, `fazer.mjs`; TG 024 na Pamela; TG 025 em diante.
 ## FOTOS DO FLOW EM 2K NOS LIVROS (31/10/2026, tarde)

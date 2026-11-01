@@ -40552,6 +40552,2438 @@
    "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
    "pagina": "287",
    "fontePet": null
+  },
+  "i36-001": {
+   "texto": "Antes de comprar planta, olhe o que cresce bem nos jardins da sua rua: elas já dizem que o seu solo aguenta",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "17",
+   "fontePet": null
+  },
+  "i36-002": {
+   "texto": "Teste de solo na mão: esfregue a terra entre os dedos. Se arranha e esfarela quando aperta, é arenoso",
+   "esp": "solo",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "22",
+   "fontePet": null
+  },
+  "i36-003": {
+   "texto": "Teste do argiloso: faça uma salsicha de terra úmida e dobre num anel. Se não racha, o solo é de argila",
+   "esp": "solo",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "25",
+   "fontePet": null
+  },
+  "i36-004": {
+   "texto": "Solo arenoso perde adubo com chuva forte: a água leva os nutrientes embora",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "20",
+   "fontePet": null
+  },
+  "i36-005": {
+   "texto": "Solo de argila é o mais fértil, mas encharca na chuva e vira tijolo rachado na seca",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "23",
+   "fontePet": null
+  },
+  "i36-006": {
+   "texto": "Erro comum: pisar no barro molhado. Você estraga a estrutura do solo e piora a drenagem",
+   "esp": "solo",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "28",
+   "fontePet": null
+  },
+  "i36-007": {
+   "texto": "Terra de cima é escura e rica; a de baixo é clara e pobre. Ao cavar, não traga a de baixo para cima",
+   "esp": "solo",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "30",
+   "fontePet": null
+  },
+  "i36-008": {
+   "texto": "Solo arenoso: cubra com uma camada de 10 cm de esterco curtido ou composto. Segura água e dá adubo",
+   "esp": "solo",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "30",
+   "fontePet": null
+  },
+  "i36-009": {
+   "texto": "Erro comum: usar areia de praia para drenar. Use só pedrisco ou areia lavada, sem sal",
+   "esp": "solo",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "31",
+   "fontePet": null
+  },
+  "i36-010": {
+   "texto": "Mito ou verdade: calcário e adubo químico juntos dão certo? Mito. Os dois não se misturam",
+   "esp": "solo",
+   "serie": "Mito ou verdade",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "29",
+   "fontePet": null
+  },
+  "i36-011": {
+   "texto": "Planta em vaso precisa de adubo depois de umas seis semanas: o adubo do substrato acaba",
+   "esp": "adubar",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "33",
+   "fontePet": null
+  },
+  "i36-012": {
+   "texto": "Fibra de coco em bloco: deixe de molho uns 20 minutos antes de usar",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "35",
+   "fontePet": null
+  },
+  "i36-013": {
+   "texto": "Fibra de coco é pobre em adubo: misture 1 parte de fibra para 2 de substrato comum",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "35",
+   "fontePet": null
+  },
+  "i36-014": {
+   "texto": "Fibra de coco deixa o vaso leve: boa para jardineira de janela, vaso de parede e varanda",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "35",
+   "fontePet": null
+  },
+  "i36-015": {
+   "texto": "Na loja, tire a planta do vaso: raiz branca e saudável é bom sinal",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "37",
+   "fontePet": null
+  },
+  "i36-016": {
+   "texto": "Erro comum: comprar a planta mais alta da loja. Prefira a firme, com muito broto e raiz boa",
+   "esp": "outra",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "41",
+   "fontePet": null
+  },
+  "i36-017": {
+   "texto": "Fuja de muda com folha murcha ou manchada e com mato nascendo no vaso",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "38",
+   "fontePet": null
+  },
+  "i36-018": {
+   "texto": "Erro comum: levar planta com raiz saindo pelo furo do vaso. Ela está enovelada e vai crescer mal",
+   "esp": "outra",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "39",
+   "fontePet": null
+  },
+  "i36-019": {
+   "texto": "Planta torta na loja é porque ninguém girou o vaso para o sol. Escolha a que cresceu por igual",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "38",
+   "fontePet": null
+  },
+  "i36-020": {
+   "texto": "Na loja, olhe a planta contra a luz, dos dois lados da folha. Folha manchada pode ser falta de nutriente ou doença",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "43",
+   "fontePet": null
+  },
+  "i36-021": {
+   "texto": "Semear direto no canteiro: afofe, tire pedra e mato e deixe a terra fina e nivelada",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "48",
+   "fontePet": null
+  },
+  "i36-022": {
+   "texto": "Semeie em fileira riscada com um cabo: o mato não nasce em linha reta, então você sabe o que é muda",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "49",
+   "fontePet": null
+  },
+  "i36-023": {
+   "texto": "Semente miúda: ponha na palma da mão e deixe escorrer pela dobra enquanto passa a mão na fileira",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "50",
+   "fontePet": null
+  },
+  "i36-024": {
+   "texto": "Ponha etiqueta em todo vaso semeado, com nome e data, em caneta que não sai com água",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "53",
+   "fontePet": null
+  },
+  "i36-025": {
+   "texto": "Molhe o vaso de semente por baixo: deixe numa bandeja com água até a superfície ficar úmida",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "55",
+   "fontePet": null
+  },
+  "i36-026": {
+   "texto": "Muda nascida em casa: antes de ir para fora, deixe o vaso lá fora de dia por umas semanas para acostumar",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "57",
+   "fontePet": null
+  },
+  "i36-027": {
+   "texto": "Erro comum: plantar muda enovelada sem soltar a raiz. Desembarace com cuidado antes de pôr no buraco",
+   "esp": "muda",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "62",
+   "fontePet": null
+  },
+  "i36-028": {
+   "texto": "Plantar no canteiro: buraco mais largo e fundo que o vaso, composto no fundo e água no buraco antes",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "61",
+   "fontePet": null
+  },
+  "i36-029": {
+   "texto": "Deixe a terra em volta da planta um pouco afundada, como uma bacia: a água da rega fica ali",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "63",
+   "fontePet": null
+  },
+  "i36-030": {
+   "texto": "Girassol: uma semente por vaso, só um pouco abaixo da superfície",
+   "esp": "girassol",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "67",
+   "fontePet": null
+  },
+  "i36-031": {
+   "texto": "Amarre o girassol num bambu enquanto cresce, para o vento não derrubar",
+   "esp": "girassol",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "65",
+   "fontePet": null
+  },
+  "i36-032": {
+   "texto": "Vaso de fibra de coco vai direto para a terra com a muda, sem mexer na raiz",
+   "esp": "girassol",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "66",
+   "fontePet": null
+  },
+  "i36-033": {
+   "texto": "Raiz aparecendo no furo do vaso: é hora de passar o girassol para vaso maior ou para a terra",
+   "esp": "girassol",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "69",
+   "fontePet": null
+  },
+  "i36-034": {
+   "texto": "Erro comum: vaso sem furo. A água não sai e a planta apodrece. Fure o fundo com broca",
+   "esp": "outra",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "73",
+   "fontePet": null
+  },
+  "i36-035": {
+   "texto": "Vaso grande pesado: encha o terço de baixo com isopor. Serve para planta de raiz curta",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "76",
+   "fontePet": null
+  },
+  "i36-036": {
+   "texto": "Vaso velho guardado pode ter praga e lesminha. Lave com detergente antes de usar",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "77",
+   "fontePet": null
+  },
+  "i36-037": {
+   "texto": "Vaso de barro forrado por dentro com plástico não mancha: o sal da terra não atravessa",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "72",
+   "fontePet": null
+  },
+  "i36-038": {
+   "texto": "Arrume as mudas ainda no vaso dentro do vasão para ver como fica, e só depois plante",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "82",
+   "fontePet": null
+  },
+  "i36-039": {
+   "texto": "Deixe 5 cm entre a terra e a borda do vaso: espaço para a rega e para o pedrisco",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "83",
+   "fontePet": null
+  },
+  "i36-040": {
+   "texto": "Pedrisco por cima da terra do vaso guarda umidade, segura o mato e evita respingo de terra na rega",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "84",
+   "fontePet": null
+  },
+  "i36-041": {
+   "texto": "Vaso pendurado: forre com musgo bem apertado, uns 3 cm de espessura",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "87",
+   "fontePet": null
+  },
+  "i36-042": {
+   "texto": "No vaso pendurado, enterre um copinho de plástico no meio e regue por ele: a água vai direto à raiz",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "90",
+   "fontePet": null
+  },
+  "i36-043": {
+   "texto": "Planta pendente no vaso suspenso: enrole a raiz em papel e passe pelo furo do forro",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "89",
+   "fontePet": null
+  },
+  "i36-044": {
+   "texto": "Alface solta aguenta meia-sombra: dá para colher folha da jardineira da janela, e ela rebrota",
+   "esp": "alface",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "92",
+   "fontePet": null
+  },
+  "i36-045": {
+   "texto": "Corte as flores que murcham na jardineira para ela continuar florindo",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "95",
+   "fontePet": null
+  },
+  "i36-046": {
+   "texto": "Regra do bulbo: plante a uma profundidade de três vezes a altura dele, com a ponta para cima",
+   "esp": "bulbo",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "101",
+   "fontePet": null
+  },
+  "i36-047": {
+   "texto": "Bulbo no vaso: 1 parte de pedrisco para 3 de substrato. Bulbo encharcado apodrece",
+   "esp": "bulbo",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "100",
+   "fontePet": null
+  },
+  "i36-048": {
+   "texto": "Canteiro curvo: desenhe a borda no chão com a mangueira de jardim antes de cortar a grama",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "104",
+   "fontePet": null
+  },
+  "i36-049": {
+   "texto": "Placa de grama tirada do canteiro: empilhe com a grama para baixo. Em meses vira terra boa",
+   "esp": "compostagem",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "107",
+   "fontePet": null
+  },
+  "i36-050": {
+   "texto": "Canteiro novo: espalhe 5 cm de esterco curtido ou composto e misture na terra",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "109",
+   "fontePet": null
+  },
+  "i36-051": {
+   "texto": "Antes de plantar o canteiro, espalhe os vasos no chão e mude de lugar até gostar. Pense no tamanho adulto",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "112",
+   "fontePet": null
+  },
+  "i36-052": {
+   "texto": "Erro comum: canteiro elevado de horta com madeira tratada. Use madeira sem tratamento para não passar química à terra",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "115",
+   "fontePet": null
+  },
+  "i36-053": {
+   "texto": "Canteiro elevado resolve solo de argila: a terra de cima drena melhor",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "115",
+   "fontePet": null
+  },
+  "i36-054": {
+   "texto": "Erva de clima seco (alecrim, lavanda) no canteiro elevado: ponha entulho no fundo para drenar",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "122",
+   "fontePet": null
+  },
+  "i36-055": {
+   "texto": "Cosmos chega a 1,2 m: pede vaso grande, sol cheio e corte da flor murcha",
+   "esp": "cosmos",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "135",
+   "fontePet": null
+  },
+  "i36-056": {
+   "texto": "Dália no vaso: sol, lugar protegido do vento e substrato sem turfa",
+   "esp": "dália",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "136",
+   "fontePet": null
+  },
+  "i36-057": {
+   "texto": "Gerânio pode viver anos se não pegar geada, mas muita gente trata como planta de uma estação",
+   "esp": "gerânio",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "139",
+   "fontePet": null
+  },
+  "i36-058": {
+   "texto": "Sálvia azul no vaso: sol, lugar abrigado, rega e adubo, e corte das flores velhas",
+   "esp": "sálvia",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "140",
+   "fontePet": null
+  },
+  "i36-059": {
+   "texto": "Erro comum: deixar o rolo de grama empilhado. Ele apodrece e amarela. Plante no dia que chega",
+   "esp": "grama",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "144",
+   "fontePet": null
+  },
+  "i36-060": {
+   "texto": "Grama em placa: encoste bem as bordas e desencontre as emendas, como tijolo",
+   "esp": "grama",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "146",
+   "fontePet": null
+  },
+  "i36-061": {
+   "texto": "Depois de assentar a grama, varra terra fina nas frestas",
+   "esp": "grama",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "147",
+   "fontePet": null
+  },
+  "i36-062": {
+   "texto": "Grama nova: regue sempre nos primeiros dias. Primeiro corte com o cortador na altura máxima",
+   "esp": "grama",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "148",
+   "fontePet": null
+  },
+  "i36-063": {
+   "texto": "Semear grama: espalhe metade da semente num sentido e a outra metade cruzando",
+   "esp": "grama",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "152",
+   "fontePet": null
+  },
+  "i36-064": {
+   "texto": "Semente de grama coberta com só 1 a 2 mm de terra brota em uma a duas semanas",
+   "esp": "grama",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "153",
+   "fontePet": null
+  },
+  "i36-065": {
+   "texto": "Divida a área em quadrados de 1 m com barbante e pese a semente de cada um: fica tudo por igual",
+   "esp": "grama",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "151",
+   "fontePet": null
+  },
+  "i36-066": {
+   "texto": "Mito ou verdade: gramado formado precisa de rega na seca? Mito. Ele amarela e volta quando a chuva vem",
+   "esp": "grama",
+   "serie": "Mito ou verdade",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "171",
+   "fontePet": null
+  },
+  "i36-067": {
+   "texto": "Regue a grama de manhã ou no fim da tarde: perde menos água no vapor",
+   "esp": "grama",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "173",
+   "fontePet": null
+  },
+  "i36-068": {
+   "texto": "Umas florzinhas de mato na grama alimentam abelha e borboleta",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "175",
+   "fontePet": null
+  },
+  "i36-069": {
+   "texto": "Grama compactada: espete o garfo a cada 10 cm, uns 8 a 10 cm de fundo, balançando para abrir",
+   "esp": "grama",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "177",
+   "fontePet": null
+  },
+  "i36-070": {
+   "texto": "Cobertura caseira de gramado: areia, terra e composto na proporção 3:3:1, varrida para os furos",
+   "esp": "grama",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "178",
+   "fontePet": null
+  },
+  "i36-071": {
+   "texto": "Pedaço de grama estragado: corte um quadrado, afofe o fundo e encaixe uma placa nova do mesmo tamanho",
+   "esp": "grama",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "180",
+   "fontePet": null
+  },
+  "i36-072": {
+   "texto": "Erro comum: deixar folha seca em cima da grama. Tira a luz e mata o gramado. Junte e faça composto",
+   "esp": "grama",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "181",
+   "fontePet": null
+  },
+  "i36-073": {
+   "texto": "Trepadeira no muro: plante a 30 a 40 cm da cerca, inclinada para ela, com bambus em leque",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "186",
+   "fontePet": null
+  },
+  "i36-074": {
+   "texto": "Amarre a trepadeira no apoio com barbante em oito: o caule não roça na estrutura",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "197",
+   "fontePet": null
+  },
+  "i36-075": {
+   "texto": "Trepadeira em vaso: ponha a treliça no fundo do vaso antes da terra, não depois",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "192",
+   "fontePet": null
+  },
+  "i36-076": {
+   "texto": "Ipomeia (glória-da-manhã) gosta de sol, mas sol forte demais queima. Ideal é sol da tarde",
+   "esp": "ipomeia",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "203",
+   "fontePet": null
+  },
+  "i36-077": {
+   "texto": "Torre de ipomeia no vaso: bambus em tenda, amarrados no alto, e uma muda em cada bambu",
+   "esp": "ipomeia",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "206",
+   "fontePet": null
+  },
+  "i36-078": {
+   "texto": "Pegue a muda pela folha, nunca pelo caulezinho, que é frágil",
+   "esp": "muda",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "206",
+   "fontePet": null
+  },
+  "i36-079": {
+   "texto": "Bola de hera: duas cestas de arame unidas no alto de um cabo, três mudas de hera no vaso subindo pelo cabo",
+   "esp": "hera",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "211",
+   "fontePet": null
+  },
+  "i36-080": {
+   "texto": "Roseira trepadeira: plante a 30 cm do pé do arco, inclinada a 45 graus para ele",
+   "esp": "roseira",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "i36-081": {
+   "texto": "Roseira enxertada: o calo do enxerto fica uns 2,5 cm abaixo da terra",
+   "esp": "roseira",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "i36-082": {
+   "texto": "Ao plantar roseira, regue enquanto devolve a terra: não fica bolha de ar na raiz",
+   "esp": "roseira",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "228",
+   "fontePet": null
+  },
+  "i36-083": {
+   "texto": "Poda da roseira trepadeira: tire o morto e o cruzado, depois corte cada haste que floriu em dois terços",
+   "esp": "roseira",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "232",
+   "fontePet": null
+  },
+  "i36-084": {
+   "texto": "Corte de poda sempre inclinado, logo acima da gema: a chuva escorre e não apodrece o broto",
+   "esp": "podar",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "232",
+   "fontePet": null
+  },
+  "i36-085": {
+   "texto": "Galho velho da roseira para de dar broto. Tire alguns rente à base e a planta se renova",
+   "esp": "roseira",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "233",
+   "fontePet": null
+  },
+  "i36-086": {
+   "texto": "Antes de podar a roseira do muro, afaste-se e olhe o todo: você vê o que tirar",
+   "esp": "roseira",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "237",
+   "fontePet": null
+  },
+  "i36-087": {
+   "texto": "Pode sempre acima de uma gema virada para fora: o galho novo cresce para fora, não para o meio",
+   "esp": "podar",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "239",
+   "fontePet": null
+  },
+  "i36-088": {
+   "texto": "Cortar a flor murcha da roseira faz ela dar mais flor",
+   "esp": "roseira",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "236",
+   "fontePet": null
+  },
+  "i36-089": {
+   "texto": "Glicínia: uns dois meses depois da flor, corte os ramos novos a 15 cm do galho, com até seis folhas",
+   "esp": "glicínia",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "246",
+   "fontePet": null
+  },
+  "i36-090": {
+   "texto": "Glicínia, segunda poda: no frio, encurte aqueles mesmos ramos para 8 a 10 cm, com 2 ou 3 gemas",
+   "esp": "glicínia",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "i36-091": {
+   "texto": "Glicínia podada e presa no muro floresce mais no ano seguinte",
+   "esp": "glicínia",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "245",
+   "fontePet": null
+  },
+  "i36-092": {
+   "texto": "A flor da hera é néctar tardio para abelha. Evite podar quando ela está florida",
+   "esp": "hera",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "250",
+   "fontePet": null
+  },
+  "i36-093": {
+   "texto": "Hera junta poeira: use máscara ao podar se isso te incomoda",
+   "esp": "hera",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "251",
+   "fontePet": null
+  },
+  "i36-094": {
+   "texto": "Ao tirar hera da parede ficam as marcas das raizinhas: saem com escova dura",
+   "esp": "hera",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "253",
+   "fontePet": null
+  },
+  "i36-095": {
+   "texto": "Mergulhia: enterre um vaso com terra perto da planta e deite um ramo baixo por cima",
+   "esp": "alporquia",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "257",
+   "fontePet": null
+  },
+  "i36-096": {
+   "texto": "Mergulhia: faça um corte embaixo do ramo, entre duas folhas, e prenda no vaso com arame em U",
+   "esp": "alporquia",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "260",
+   "fontePet": null
+  },
+  "i36-097": {
+   "texto": "Mergulhia em série: vários cortes no mesmo ramo, cada um preso na terra, dão várias mudas",
+   "esp": "alporquia",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "256",
+   "fontePet": null
+  },
+  "i36-098": {
+   "texto": "Na mergulhia, quando a raiz pega, corte o ramo perto da planta-mãe e a muda está pronta",
+   "esp": "alporquia",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "261",
+   "fontePet": null
+  },
+  "i36-099": {
+   "texto": "Maracujá-azul dá flor branca com fios roxos e azuis, depois fruto laranja, e cresce rápido",
+   "esp": "maracujá",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "275",
+   "fontePet": null
+  },
+  "i36-100": {
+   "texto": "Maracujá-azul vai bem em vaso, encostado em muro ou cerca",
+   "esp": "maracujá",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "275",
+   "fontePet": null
+  },
+  "i36-101": {
+   "texto": "Tumbérgia (olho-de-moça) cobre uma pirâmide de bambu num vaso grande ao sol",
+   "esp": "tumbérgia",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "279",
+   "fontePet": null
+  },
+  "i36-102": {
+   "texto": "Trepadeira gosta de raiz na sombra e galho no sol",
+   "esp": "jasmim",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "271",
+   "fontePet": null
+  },
+  "i36-103": {
+   "texto": "Arbusto: buraco de duas a três vezes a largura do vaso. Ponha um bambu atravessado para conferir a altura",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "285",
+   "fontePet": null
+  },
+  "i36-104": {
+   "texto": "Plante o arbusto com o lado mais bonito virado para onde você mais olha",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "285",
+   "fontePet": null
+  },
+  "i36-105": {
+   "texto": "Erro comum: encostar a cobertura morta no caule. Deixe uma folga em volta do tronco",
+   "esp": "outra",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "287",
+   "fontePet": null
+  },
+  "i36-106": {
+   "texto": "Arbusto no vaso: encha o vasão com o vasinho dentro como molde, tire o vasinho e encaixe a planta no buraco",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "292",
+   "fontePet": null
+  },
+  "i36-107": {
+   "texto": "Erro comum: enterrar o caule mais fundo do que estava no vaso da loja",
+   "esp": "outra",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "295",
+   "fontePet": null
+  },
+  "i36-108": {
+   "texto": "Sem crivo no regador? Despeje a água sobre um caco de vaso: ela espalha e não descobre a raiz",
+   "esp": "regar",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "296",
+   "fontePet": null
+  },
+  "i36-109": {
+   "texto": "Roseira de raiz nua: corte as raízes grossas em um terço e espalhe bem as raízes no buraco",
+   "esp": "roseira",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "300",
+   "fontePet": null
+  },
+  "i36-110": {
+   "texto": "Muda de raiz nua que não dá para plantar já: enterre de qualquer jeito, só cobrindo a raiz, para não secar",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "299",
+   "fontePet": null
+  },
+  "i36-111": {
+   "texto": "Arbusto que floresce cedo se poda depois da flor. O que floresce tarde se poda antes de brotar",
+   "esp": "podar",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "305",
+   "fontePet": null
+  },
+  "i36-112": {
+   "texto": "Poda de renovação: corte um quarto dos galhos mais velhos a 15 cm do chão. Os brotos novos dão a flor do ano seguinte",
+   "esp": "podar",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "307",
+   "fontePet": null
+  },
+  "i36-113": {
+   "texto": "Planta nova com broto mole: belisque a ponta com os dedos. Ela fica cheia e ramificada",
+   "esp": "podar",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "311",
+   "fontePet": null
+  },
+  "i36-114": {
+   "texto": "Poda que abre o meio da roseira deixa o ar passar e evita fungo",
+   "esp": "roseira",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "317",
+   "fontePet": null
+  },
+  "i36-115": {
+   "texto": "Roseira de canteiro (híbrida de chá): poda forte, deixando os galhos a 15 cm do chão",
+   "esp": "roseira",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "316",
+   "fontePet": null
+  },
+  "i36-116": {
+   "texto": "Hortênsia muda de cor pelo solo: azul no ácido, lilás no neutro, rosa no alcalino. A branca fica branca",
+   "esp": "hortênsia",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "322",
+   "fontePet": null
+  },
+  "i36-117": {
+   "texto": "Erro comum: podar a hortênsia muito forte. Você tira os botões que já estavam prontos para florir",
+   "esp": "hortênsia",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "325",
+   "fontePet": null
+  },
+  "i36-118": {
+   "texto": "Hortênsia: corte a flor seca até o primeiro par de gemas boas, sem descer mais",
+   "esp": "hortênsia",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "324",
+   "fontePet": null
+  },
+  "i36-119": {
+   "texto": "Erro comum: podar lavanda no galho marrom. A madeira velha não brota de novo. Corte só no verde",
+   "esp": "lavanda",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "330",
+   "fontePet": null
+  },
+  "i36-120": {
+   "texto": "Lavanda: duas podas por ano. Uma forte para dar forma e outra só tirando as flores secas",
+   "esp": "lavanda",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "327",
+   "fontePet": null
+  },
+  "i36-121": {
+   "texto": "Tirar a flor seca da lavanda impede que ela gaste força fazendo semente e mantém a bola redonda",
+   "esp": "lavanda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "328",
+   "fontePet": null
+  },
+  "i36-122": {
+   "texto": "Cerca viva: cave uma faixa de 1 m de largura e plante uma muda a cada 50 a 60 cm, seguindo um barbante",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "342",
+   "fontePet": null
+  },
+  "i36-123": {
+   "texto": "Muda de cerca viva vai na mesma altura em que estava. Na de raiz nua, procure a mancha escura no caule",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "343",
+   "fontePet": null
+  },
+  "i36-124": {
+   "texto": "Cerca viva reta: dois bambus nas pontas e um barbante esticado na altura do corte",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "347",
+   "fontePet": null
+  },
+  "i36-125": {
+   "texto": "Erro comum: esticar o corpo na escada para alcançar a cerca viva. Desça e mude a escada de lugar",
+   "esp": "outra",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "350",
+   "fontePet": null
+  },
+  "i36-126": {
+   "texto": "Muitas coníferas não rebrotam da madeira velha: apare a cerca pelo menos duas vezes por ano",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "346",
+   "fontePet": null
+  },
+  "i36-127": {
+   "texto": "Desinfete a tesoura antes de podar outra planta e passe óleo depois para não enferrujar",
+   "esp": "podar",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "352",
+   "fontePet": null
+  },
+  "i36-128": {
+   "texto": "Topiaria em cone: comece pela ponta do meio e corte para fora, rodando a planta",
+   "esp": "podar",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "354",
+   "fontePet": null
+  },
+  "i36-129": {
+   "texto": "Erro comum: ficar aparando o buraco da topiaria. Deixe a falha: em alguns meses o broto novo fecha",
+   "esp": "podar",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "356",
+   "fontePet": null
+  },
+  "i36-130": {
+   "texto": "Arbusto em vaso pede vaso maior a cada dois anos, com terra nova",
+   "esp": "trocar-vaso",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "357",
+   "fontePet": null
+  },
+  "i36-131": {
+   "texto": "Planta presa no vaso: deite o vaso e passe uma faca comprida rente à parede para soltar o torrão",
+   "esp": "trocar-vaso",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "359",
+   "fontePet": null
+  },
+  "i36-132": {
+   "texto": "Na troca de vaso, corte as raízes grossas em até um terço e deixe as finas: elas é que bebem água",
+   "esp": "trocar-vaso",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "361",
+   "fontePet": null
+  },
+  "i36-133": {
+   "texto": "Arália-japonesa (Fatsia) aguenta poluição: ótima para jardim de cidade, no sol ou meia-sombra",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "367",
+   "fontePet": null
+  },
+  "i36-134": {
+   "texto": "Abélia segura a folha no ano todo e dá flor rosada perfumada por meses, no sol",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "364",
+   "fontePet": null
+  },
+  "i36-135": {
+   "texto": "Cotoneaster cobre muro e chão, e a florzinha branca e a frutinha vermelha chamam bicho",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "376",
+   "fontePet": null
+  },
+  "i36-136": {
+   "texto": "Piracanta tem espinho, flor branca e cacho de fruta laranja ou vermelha, no sol ou meia-sombra",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "379",
+   "fontePet": null
+  },
+  "i36-137": {
+   "texto": "Capim ornamental: plante com a terra do torrão no mesmo nível do chão e regue bem antes de tirar do vaso",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "385",
+   "fontePet": null
+  },
+  "i36-138": {
+   "texto": "Regar a muda depois de plantar não é só dar água: a água encosta a terra na raiz",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "388",
+   "fontePet": null
+  },
+  "i36-139": {
+   "texto": "Capim ornamental dá pouco trabalho, mas pouco trabalho não é nenhum trabalho",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "389",
+   "fontePet": null
+  },
+  "i36-140": {
+   "texto": "Socorro, a folha do capim enrolou como canudo! No seco é sede; na terra encharcada é raiz molhada demais",
+   "esp": "outra",
+   "serie": "Socorro",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "392",
+   "fontePet": null
+  },
+  "i36-141": {
+   "texto": "Capim cheio de folha seca no meio: penteie a touceira com um rastelo de dentes finos",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "391",
+   "fontePet": null
+  },
+  "i36-142": {
+   "texto": "Capim que se espalha por semente vira mato: corte as flores antes de soltarem semente",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "395",
+   "fontePet": null
+  },
+  "i36-143": {
+   "texto": "Capim de folha dura corta a pele: use luva ou tesourão de cabo longo",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "400",
+   "fontePet": null
+  },
+  "i36-144": {
+   "texto": "Dividir capim: serre a coroa onde for mais fácil e separe o resto da raiz com a mão, sem cortar",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "407",
+   "fontePet": null
+  },
+  "i36-145": {
+   "texto": "Erro comum: enterrar a coroa do capim dividido. Deixe um pouco acima da terra para não apodrecer",
+   "esp": "outra",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "404",
+   "fontePet": null
+  },
+  "i36-146": {
+   "texto": "Capim-dos-pampas anão chega a 1,4 m, tem folha o ano todo e pluma que dura muito, no sol",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "412",
+   "fontePet": null
+  },
+  "i36-147": {
+   "texto": "Grama-preta (Ophiopogon) é uma das poucas plantas de folha quase preta. Dá borda moderna e vai bem em vaso",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "417",
+   "fontePet": null
+  },
+  "i36-148": {
+   "texto": "Plantar árvore: buraco três vezes mais largo que o vaso e só 30 cm de fundo. A raiz vive em cima",
+   "esp": "arvore",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "423",
+   "fontePet": null
+  },
+  "i36-149": {
+   "texto": "Molhe o torrão da árvore ainda no vaso antes de plantar: compensa a água perdida no plantio",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "422",
+   "fontePet": null
+  },
+  "i36-150": {
+   "texto": "Tutor da árvore: crave inclinado a 45 graus, para não ferir a raiz, virado para o lado do vento",
+   "esp": "arvore",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "426",
+   "fontePet": null
+  },
+  "i36-151": {
+   "texto": "Mito ou verdade: encher o buraco da árvore de composto ajuda? Mito, salvo em solo pobre ou arenoso: a raiz não sai procurando comida",
+   "esp": "arvore",
+   "serie": "Mito ou verdade",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "427",
+   "fontePet": null
+  },
+  "i36-152": {
+   "texto": "Amarre a árvore frouxa no tutor, a uns 45 cm do chão, para o tronco balançar. Afrouxe conforme engrossa",
+   "esp": "arvore",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "428",
+   "fontePet": null
+  },
+  "i36-153": {
+   "texto": "Árvore nova: 8 cm de composto em volta, mas a uns 15 cm longe do tronco",
+   "esp": "arvore",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "429",
+   "fontePet": null
+  },
+  "i36-154": {
+   "texto": "Nos 2 a 3 primeiros anos, pode a árvore para dar forma: tire galho cruzado e roçando",
+   "esp": "arvore",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "430",
+   "fontePet": null
+  },
+  "i36-155": {
+   "texto": "Muita magnólia é compacta: serve para jardim pequeno e até para vaso grande",
+   "esp": "magnólia",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "431",
+   "fontePet": null
+  },
+  "i36-156": {
+   "texto": "Árvore se recupera melhor de vários cortes pequenos que de um grande. Tire o galho enquanto é novo",
+   "esp": "podar",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "434",
+   "fontePet": null
+  },
+  "i36-157": {
+   "texto": "Galho grosso em 3 cortes: um por baixo a 15 cm do tronco, um por cima um pouco mais longe, e o toco no fim",
+   "esp": "podar",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "435",
+   "fontePet": null
+  },
+  "i36-158": {
+   "texto": "Último corte do galho: logo depois da ruga da casca, sem encostar no tronco. A árvore fecha a ferida sozinha",
+   "esp": "podar",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "436",
+   "fontePet": null
+  },
+  "i36-159": {
+   "texto": "Galho pesado: chame alguém para segurar enquanto você serra. Ele não rasga nem cai em você",
+   "esp": "podar",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "433",
+   "fontePet": null
+  },
+  "i36-160": {
+   "texto": "Erro comum: corte malfeito e rasgado no galho. Por ali entra doença e o tronco apodrece",
+   "esp": "podar",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "432",
+   "fontePet": null
+  },
+  "i36-161": {
+   "texto": "Mudar árvore de lugar: cave o buraco novo antes, para a planta não esperar fora da terra",
+   "esp": "arvore",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "440",
+   "fontePet": null
+  },
+  "i36-162": {
+   "texto": "Ao arrancar árvore ou arbusto para mudar de lugar, a raiz deve sair tão larga quanto a copa",
+   "esp": "arvore",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "441",
+   "fontePet": null
+  },
+  "i36-163": {
+   "texto": "Árvore arrancada: enrole a raiz em pano molhado ou saco velho e replante o quanto antes",
+   "esp": "arvore",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "442",
+   "fontePet": null
+  },
+  "i36-164": {
+   "texto": "Erro comum: podar forte antes de mudar a planta de lugar. Tire só o galho seco",
+   "esp": "arvore",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "438",
+   "fontePet": null
+  },
+  "i36-165": {
+   "texto": "Planta que mudou de lugar: regue por toda a estação seguinte e cubra o chão com palha",
+   "esp": "arvore",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "444",
+   "fontePet": null
+  },
+  "i36-166": {
+   "texto": "Tombamento é um fungo que pega a mudinha pelo caule e ela cai e morre. Por isso se lava a bandeja reutilizada",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "457",
+   "fontePet": null
+  },
+  "i36-167": {
+   "texto": "Bandeja de semente de graça: embalagem de comida lavada, com furos no fundo",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "458",
+   "fontePet": null
+  },
+  "i36-168": {
+   "texto": "Firme o substrato da bandeja apertando com outra bandeja por cima: tira o ar sem afundar demais",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "458",
+   "fontePet": null
+  },
+  "i36-169": {
+   "texto": "Erro comum: semear grosso. As mudas ficam finas, compridas e pegam doença",
+   "esp": "muda",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "459",
+   "fontePet": null
+  },
+  "i36-170": {
+   "texto": "Mito ou verdade: água de chuva guardada é a melhor para mudinha? Mito. Água parada pode trazer o fungo do tombamento",
+   "esp": "muda",
+   "serie": "Mito ou verdade",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "460",
+   "fontePet": null
+  },
+  "i36-171": {
+   "texto": "Cubra a bandeja com plástico transparente até brotar, em lugar claro sem sol forte. Brotou, tire a tampa",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "461",
+   "fontePet": null
+  },
+  "i36-172": {
+   "texto": "Repicar: segure a mudinha pela folha da semente e solte a raiz com um lápis",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "462",
+   "fontePet": null
+  },
+  "i36-173": {
+   "texto": "Muda na janela entorta para a luz: gire o vaso todo dia para crescer reta",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "468",
+   "fontePet": null
+  },
+  "i36-174": {
+   "texto": "Semente grande vai uma por vasinho: a muda cresce sem ser mexida até ir para a terra",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "465",
+   "fontePet": null
+  },
+  "i36-175": {
+   "texto": "Muda pronta de horta custa mais que semente e tem menos variedade, mas é o jeito mais fácil de começar",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "470",
+   "fontePet": null
+  },
+  "i36-176": {
+   "texto": "Muda comprada: plante ou passe de vaso logo, para ela não parar de crescer",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "472",
+   "fontePet": null
+  },
+  "i36-177": {
+   "texto": "Segure a muda de horta pelo torrão, nunca pela folha, e deixe o topo do torrão logo abaixo da terra",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "473",
+   "fontePet": null
+  },
+  "i36-178": {
+   "texto": "Garrafa PET cortada vira campânula: protege a muda nova de vento, frio e lesma",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "471",
+   "fontePet": null
+  },
+  "i36-179": {
+   "texto": "Alface de cortar na janela: sulcos de meio centímetro, a 5 cm um do outro, em vaso comprido",
+   "esp": "alface",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "478",
+   "fontePet": null
+  },
+  "i36-180": {
+   "texto": "Alface solta: corte a 2,5 cm da terra quando tiver 5 a 10 cm. Em duas semanas dá outro corte",
+   "esp": "alface",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "480",
+   "fontePet": null
+  },
+  "i36-181": {
+   "texto": "Alface de cabeça (americana, romana, manteiga) não aceita corte: semeie e plante a 20 a 30 cm",
+   "esp": "alface",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "477",
+   "fontePet": null
+  },
+  "i36-182": {
+   "texto": "Tomate no vaso: pelo menos 25 cm de largura e muda enterrada funda, porque o caule enterrado solta raiz",
+   "esp": "tomate",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "483",
+   "fontePet": null
+  },
+  "i36-183": {
+   "texto": "Tomate cereja amadurece bem ao ar livre; os grandões rendem mais protegidos",
+   "esp": "tomate",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "482",
+   "fontePet": null
+  },
+  "i36-184": {
+   "texto": "Tomate de tutor: tire os brotos ladrões entre a folha e o caule. No tomate rasteiro, deixe",
+   "esp": "tomate",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "485",
+   "fontePet": null
+  },
+  "i36-185": {
+   "texto": "Apareceu o primeiro tomatinho: adube toda semana e cubra a raiz que ficar à mostra",
+   "esp": "tomate",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "486",
+   "fontePet": null
+  },
+  "i36-186": {
+   "texto": "Tomate maduro sai fácil com uma torcida",
+   "esp": "tomate",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "486",
+   "fontePet": null
+  },
+  "i36-187": {
+   "texto": "Feijão de vara: tenda de 8 bambus de 2,2 m, a 30 cm um do outro, amarrados no alto e no meio",
+   "esp": "feijão",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "489",
+   "fontePet": null
+  },
+  "i36-188": {
+   "texto": "Feijão de vara: duas sementes a 5 cm de fundo em cada bambu, e depois fique só com a muda mais forte",
+   "esp": "feijão",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "491",
+   "fontePet": null
+  },
+  "i36-189": {
+   "texto": "Feijão de vara só nasce bem com o solo a pelo menos 12 graus",
+   "esp": "feijão",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "490",
+   "fontePet": null
+  },
+  "i36-190": {
+   "texto": "Ervilha-de-cheiro ao lado do feijão de vara chama abelha, e a vagem vinga mais",
+   "esp": "ervilha-de-cheiro",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "491",
+   "fontePet": null
+  },
+  "i36-191": {
+   "texto": "Colha a vagem pelo menos duas vezes por semana, novinha. Vagem velha trava as flores novas",
+   "esp": "feijão",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "492",
+   "fontePet": null
+  },
+  "i36-192": {
+   "texto": "Prepare a terra do feijão de vara com bastante composto pelo menos duas semanas antes",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "487",
+   "fontePet": null
+  },
+  "i36-193": {
+   "texto": "Rabanete é a horta ideal para começar: fácil, rápido e gostoso colhido na hora",
+   "esp": "rabanete",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "495",
+   "fontePet": null
+  },
+  "i36-194": {
+   "texto": "Rabanete: fileiras a 5 cm, semente a 1 cm de fundo. Desbaste logo, deixando 2 cm entre eles",
+   "esp": "rabanete",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "495",
+   "fontePet": null
+  },
+  "i36-195": {
+   "texto": "Cenoura no saco de plantio: sulco de 1 cm, semente rala, e desbaste a 5 cm quando abrir a folha recortada",
+   "esp": "cenoura",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "497",
+   "fontePet": null
+  },
+  "i36-196": {
+   "texto": "A mosca da cenoura voa rente ao chão: vaso erguido a 60 cm ou cercado de tecido até essa altura e ela não chega",
+   "esp": "cenoura",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "498",
+   "fontePet": null
+  },
+  "i36-197": {
+   "texto": "Batata-semente parece batata comum, mas vem certificada sem vírus",
+   "esp": "batata",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "500",
+   "fontePet": null
+  },
+  "i36-198": {
+   "texto": "Brotar batata: ponha na caixa de ovo com os olhos para cima, em lugar fresco e claro. Planta com broto de 2 cm",
+   "esp": "batata",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "507",
+   "fontePet": null
+  },
+  "i36-199": {
+   "texto": "Batata na terra: covas de 10 cm de fundo a cada 30 cm, uma batata por cova com o broto para cima",
+   "esp": "batata",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "502",
+   "fontePet": null
+  },
+  "i36-201": {
+   "texto": "Batata no balde: um terço de terra, até cinco batatas, 15 cm de terra por cima, e vá completando conforme cresce",
+   "esp": "batata",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "508",
+   "fontePet": null
+  },
+  "i36-202": {
+   "texto": "Batata está pronta quando a planta floresce. Na precoce, olhe com 10 a 12 semanas",
+   "esp": "batata",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "499",
+   "fontePet": null
+  },
+  "i36-203": {
+   "texto": "Batata no balde: colha tudo de uma vez ou cave com a mão e tire só o que vai usar",
+   "esp": "batata",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "510",
+   "fontePet": null
+  },
+  "i36-204": {
+   "texto": "Batata no balde quer terra úmida, nunca encharcada, e furo no fundo",
+   "esp": "batata",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "506",
+   "fontePet": null
+  },
+  "i36-205": {
+   "texto": "Planta várias levas de batata em baldes diferentes e colhe por muito mais tempo",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "505",
+   "fontePet": null
+  },
+  "i36-206": {
+   "texto": "Vermiculita é um mineral que segura água e adubo e protege a semente",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "514",
+   "fontePet": null
+  },
+  "i36-207": {
+   "texto": "Semente de erva: cubra com mistura de metade vermiculita e metade substrato fino, em lugar quente e claro",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "520",
+   "fontePet": null
+  },
+  "i36-208": {
+   "texto": "Erro comum: soltar a semente de alto. Ela pula e some",
+   "esp": "outra",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "519",
+   "fontePet": null
+  },
+  "i36-209": {
+   "texto": "Erro comum: regar demais a semente fina. A água arrasta tudo para um canto do vaso",
+   "esp": "outra",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "522",
+   "fontePet": null
+  },
+  "i36-210": {
+   "texto": "Na bandeja de células, ponha todas as sementes por cima primeiro e só depois empurre: você não se perde",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "525",
+   "fontePet": null
+  },
+  "i36-211": {
+   "texto": "Semeou na medida certa no vaso certo? Não precisa repicar, só passar de vaso depois",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "523",
+   "fontePet": null
+  },
+  "i36-212": {
+   "texto": "Erro comum: plantar hortelã solta no canteiro de ervas. Ela toma conta: deixe em vaso",
+   "esp": "hortelã",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "529",
+   "fontePet": null
+  },
+  "i36-213": {
+   "texto": "Canteiro de ervas em cruz: barbante e estaca marcam a cruz, tijolos na vala sem cimento, louro em vaso no meio",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "531",
+   "fontePet": null
+  },
+  "i36-214": {
+   "texto": "Louro em vaso pode ser podado em formato e fica no centro do canteiro de ervas",
+   "esp": "louro",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "533",
+   "fontePet": null
+  },
+  "i36-215": {
+   "texto": "Vaso pendurado de ervas: escolha as que você mais usa. Deixe de fora as grandes e lenhosas, como louro e alecrim",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "535",
+   "fontePet": null
+  },
+  "i36-216": {
+   "texto": "Vaso de ervas misto: arrume primeiro as ervas resistentes e preencha os buracos com manjericão",
+   "esp": "manjericão",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "537",
+   "fontePet": null
+  },
+  "i36-217": {
+   "texto": "Vaso pendurado molhado pesa muito: use gancho forte e regue antes de pendurar",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "539",
+   "fontePet": null
+  },
+  "i36-218": {
+   "texto": "Cerca de lavanda não pede adubo: só uma poda por ano quando a flor começa a passar",
+   "esp": "lavanda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "540",
+   "fontePet": null
+  },
+  "i36-219": {
+   "texto": "Erro comum: encher o canteiro de lavanda de adubo e composto. Só em solo muito arenoso",
+   "esp": "lavanda",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "542",
+   "fontePet": null
+  },
+  "i36-220": {
+   "texto": "Cerca de lavanda: mudas a 30 a 40 cm nas grandes, 25 cm nas pequenas",
+   "esp": "lavanda",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "543",
+   "fontePet": null
+  },
+  "i36-221": {
+   "texto": "Solo pesado ou úmido: plante a lavanda 2 cm acima do chão e cubra o torrão com pedrisco",
+   "esp": "lavanda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "544",
+   "fontePet": null
+  },
+  "i36-222": {
+   "texto": "Erro comum: molhar a lavanda por cima. Regue só a terra em volta do pé, sem exagero",
+   "esp": "lavanda",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "545",
+   "fontePet": null
+  },
+  "i36-223": {
+   "texto": "Firme a muda apertando a terra de lado contra a raiz, não empurrando o torrão para baixo",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "541",
+   "fontePet": null
+  },
+  "i36-224": {
+   "texto": "Estaca de erva: ramo sem flor de 7,5 a 10 cm, corte logo abaixo de um nó e tire as folhas da metade de baixo",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "549",
+   "fontePet": null
+  },
+  "i36-225": {
+   "texto": "Faça uma estaca de cada vez: ramo cortado esperando murcha e estraga",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "549",
+   "fontePet": null
+  },
+  "i36-226": {
+   "texto": "Socorro, a estaca dobra quando enfio! Ela está nova demais ou a terra está grossa demais",
+   "esp": "outra",
+   "serie": "Socorro",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "550",
+   "fontePet": null
+  },
+  "i36-227": {
+   "texto": "Estaca lenhosa (alecrim, tomilho): puxe um ramo lateral firme de 5 a 10 cm com uma lasquinha da casca",
+   "esp": "alecrim",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "551",
+   "fontePet": null
+  },
+  "i36-228": {
+   "texto": "Estaca preguiçosa: olhe embaixo do tomilho e da camomila. Ramo que já tem raizinha vira muda só de cortar",
+   "esp": "tomilho",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "553",
+   "fontePet": null
+  },
+  "i36-229": {
+   "texto": "Muda de hortelã pela raiz: pedaço de raiz firme, com 5 a 7 cm e pelo menos um nó, em pé no vaso",
+   "esp": "hortelã",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "556",
+   "fontePet": null
+  },
+  "i36-230": {
+   "texto": "Faça mais estacas do que precisa: algumas sempre se perdem",
+   "esp": "hortelã",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "556",
+   "fontePet": null
+  },
+  "i36-231": {
+   "texto": "Hortelã: corte os brotos em pedaços de 7 a 10 cm e ponha quatro ou cinco por vasinho",
+   "esp": "hortelã",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "558",
+   "fontePet": null
+  },
+  "i36-232": {
+   "texto": "Pouco ramo para estaca? Belisque a ponta: os brotos laterais crescem rápido e viram estaca",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "559",
+   "fontePet": null
+  },
+  "i36-233": {
+   "texto": "Planta estiolada (fina, comprida e caída) é falta de sol ou adubo demais",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "561",
+   "fontePet": null
+  },
+  "i36-234": {
+   "texto": "Dividir erva rasteira: corte o torrão ao meio, descarte o fundo e faça quadradinhos de 2 x 2 cm. Rende nove ou dez mudas",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "564",
+   "fontePet": null
+  },
+  "i36-235": {
+   "texto": "Socorro, minha erva ficou comprida e pelada! Enterre a planta funda num vaso maior, até a base das folhas: o caule solta raiz",
+   "esp": "outra",
+   "serie": "Socorro",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "567",
+   "fontePet": null
+  },
+  "i36-236": {
+   "texto": "Vasinho de manjericão, salsinha ou cebolinha de mercado está lotado de mudas: separe em até seis tufos",
+   "esp": "manjericão",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "568",
+   "fontePet": null
+  },
+  "i36-237": {
+   "texto": "Morango pendurado fica longe da lesma. Uma rede por cima segura o passarinho",
+   "esp": "morango",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "572",
+   "fontePet": null
+  },
+  "i36-238": {
+   "texto": "Erro comum: enterrar o morango mais fundo do que estava no vaso",
+   "esp": "morango",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "575",
+   "fontePet": null
+  },
+  "i36-239": {
+   "texto": "Morango no vaso pendurado: rega todo dia no calor e adubo de tomate a cada duas semanas depois que o fruto aparece",
+   "esp": "morango",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "576",
+   "fontePet": null
+  },
+  "i36-240": {
+   "texto": "Pé de morango cansa e pega doença: troque as plantas a cada uns três anos, com vaso limpo e terra nova",
+   "esp": "morango",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "589",
+   "fontePet": null
+  },
+  "i36-241": {
+   "texto": "Misture variedades de morango que dão cedo, no meio e tarde: o vaso produz por muito mais tempo",
+   "esp": "morango",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "592",
+   "fontePet": null
+  },
+  "i36-242": {
+   "texto": "Frutífera no vaso: cacos no furo, terra com adubo de liberação lenta e o torrão 5 cm abaixo da borda",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "581",
+   "fontePet": null
+  },
+  "i36-243": {
+   "texto": "Frutífera no vaso: a terra nunca seca, mas também não encharca. Troque de vaso a cada dois anos",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "578",
+   "fontePet": null
+  },
+  "i36-244": {
+   "texto": "Use luva ao mexer com adubo",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "580",
+   "fontePet": null
+  },
+  "i36-245": {
+   "texto": "Mito ou verdade: podar muito a frutífera dá mais fruta? Mito. Ela responde com muita folha e pouca fruta",
+   "esp": "horta",
+   "serie": "Mito ou verdade",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "588",
+   "fontePet": null
+  },
+  "i36-246": {
+   "texto": "Poda de frutífera: deixe um ou dois brotos novos a cada 30 cm e abra o centro para o ar passar",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "586",
+   "fontePet": null
+  },
+  "i36-247": {
+   "texto": "Amora e framboesa: corte rente ao chão a vara que já deu fruta. A vara nova dá a próxima colheita",
+   "esp": "amora",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "590",
+   "fontePet": null
+  },
+  "i36-248": {
+   "texto": "Existe amora sem espinho, mais compacta e de fruta maior: a melhor para vaso de 45 cm",
+   "esp": "amora",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "590",
+   "fontePet": null
+  },
+  "i36-249": {
+   "texto": "Erro comum: regar pouco e depois muito a frutinha no vaso. O fruto racha. Regue sempre, sem exagero",
+   "esp": "amora",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "591",
+   "fontePet": null
+  },
+  "i36-250": {
+   "texto": "Mirtilo gosta de solo ácido: em vaso de 38 cm com substrato para planta ácida ele vai bem, no sol ou meia-sombra",
+   "esp": "mirtilo",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "593",
+   "fontePet": null
+  },
+  "i36-251": {
+   "texto": "Passarinho gosta de fruta tanto quanto você: ponha a rede antes de a fruta começar a amadurecer",
+   "esp": "passarinho",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "589",
+   "fontePet": null
+  },
+  "i36-252": {
+   "texto": "Frutífera recém-plantada: tire as flores do primeiro ano para ela fazer raiz forte",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "595",
+   "fontePet": null
+  },
+  "i36-253": {
+   "texto": "Algumas frutíferas precisam de outra variedade por perto para polinizar. Pergunte ao comprar",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "594",
+   "fontePet": null
+  },
+  "i36-254": {
+   "texto": "Rega longa num lugar só leva a água fundo, e a raiz desce atrás. Rega rasa traz a raiz para cima, onde seca",
+   "esp": "regar",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "602",
+   "fontePet": null
+  },
+  "i36-256": {
+   "texto": "Planta perene plantada na época fresca enraíza antes do calor e quase não pede rega no verão",
+   "esp": "regar",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "603",
+   "fontePet": null
+  },
+  "i36-257": {
+   "texto": "Erro comum: jato forte de mangueira na terra. Ele lava o solo e descobre a raiz. Regue devagar, no pé",
+   "esp": "regar",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "604",
+   "fontePet": null
+  },
+  "i36-258": {
+   "texto": "Mito ou verdade: aspersor rega bem o canteiro? Mito. Muita água evapora ou bate na folha e não chega à raiz",
+   "esp": "regar",
+   "serie": "Mito ou verdade",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "604",
+   "fontePet": null
+  },
+  "i36-259": {
+   "texto": "Mangueira porosa (gotejamento) deitada entre as plantas solta água devagar direto no chão",
+   "esp": "regar",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "605",
+   "fontePet": null
+  },
+  "i36-260": {
+   "texto": "Bico de mangueira com gatilho gasta menos água e regula de jato a chuveirinho",
+   "esp": "regar",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "607",
+   "fontePet": null
+  },
+  "i36-261": {
+   "texto": "Prato embaixo do vaso segura a água que escorre",
+   "esp": "regar",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "602",
+   "fontePet": null
+  },
+  "i36-262": {
+   "texto": "Composteira: fundo aberto direto na terra, tampa e espaço para revirar",
+   "esp": "compostagem",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "609",
+   "fontePet": null
+  },
+  "i36-263": {
+   "texto": "Composteira na terra, não no piso: os bichinhos que fazem o composto entram por baixo",
+   "esp": "compostagem",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "608",
+   "fontePet": null
+  },
+  "i36-264": {
+   "texto": "Erro comum: pôr comida cozida na composteira. Atrai rato",
+   "esp": "compostagem",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "609",
+   "fontePet": null
+  },
+  "i36-265": {
+   "texto": "Misture o verde e o seco na composteira em vez de fazer camadas grossas: o ar e a umidade circulam",
+   "esp": "compostagem",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "609",
+   "fontePet": null
+  },
+  "i36-266": {
+   "texto": "Encheu a composteira? Vire tudo no chão, misture e volte. Sem pôr mais nada, fica pronto em poucos meses",
+   "esp": "compostagem",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "610",
+   "fontePet": null
+  },
+  "i36-267": {
+   "texto": "O meio da pilha de composto é quente e úmido e decompõe mais rápido que as bordas. Por isso se revira",
+   "esp": "compostagem",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "610",
+   "fontePet": null
+  },
+  "i36-268": {
+   "texto": "Terra de folha: folha seca úmida num saco plástico fechado e furado, na sombra, por dois anos",
+   "esp": "compostagem",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "611",
+   "fontePet": null
+  },
+  "i36-269": {
+   "texto": "Bokashi fermenta até carne, peixe e laticínio, sem cheiro, num balde fechado: dá para fazer dentro de casa",
+   "esp": "compostagem",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "613",
+   "fontePet": null
+  },
+  "i36-270": {
+   "texto": "Minhocário é composteira para quem tem pouco lixo: minhocas em caixa ventilada viram tudo adubo",
+   "esp": "compostagem",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "612",
+   "fontePet": null
+  },
+  "i36-271": {
+   "texto": "Poda todo ano, nem que seja só para tirar o seco, o doente e o quebrado",
+   "esp": "podar",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "614",
+   "fontePet": null
+  },
+  "i36-272": {
+   "texto": "Flor murcha da roseira sai com os dedos, sem tesoura",
+   "esp": "podar",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "615",
+   "fontePet": null
+  },
+  "i36-273": {
+   "texto": "Galho doente espalha a doença caule abaixo: tire assim que ver",
+   "esp": "podar",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "616",
+   "fontePet": null
+  },
+  "i36-274": {
+   "texto": "Árvore com duas pontas iguais no topo: tire a mais fraca enquanto é nova. Senão um dia uma racha e cai",
+   "esp": "arvore",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "619",
+   "fontePet": null
+  },
+  "i36-275": {
+   "texto": "Socorro, saiu um broto diferente do pé da roseira! É o ladrão do cavalo do enxerto: arranque logo, senão ele toma conta",
+   "esp": "roseira",
+   "serie": "Socorro",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "621",
+   "fontePet": null
+  },
+  "i36-276": {
+   "texto": "Limpar a tesoura: raspe a seiva seca com uma lâmina, esfregue palha de aço e passe óleo",
+   "esp": "podar",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "626",
+   "fontePet": null
+  },
+  "i36-277": {
+   "texto": "Depois de serrar, escove a serragem dos dentes do serrote. Endurece e tira o corte",
+   "esp": "podar",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "627",
+   "fontePet": null
+  },
+  "i36-278": {
+   "texto": "Escolha plantas que florescem em épocas diferentes: a abelha tem comida no jardim o ano quase todo",
+   "esp": "abelha",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "630",
+   "fontePet": null
+  },
+  "i36-279": {
+   "texto": "Mato é só uma planta no lugar errado",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "631",
+   "fontePet": null
+  },
+  "i36-280": {
+   "texto": "Dente-de-leão florido alimenta abelha. Deixe florir e corte a flor antes da semente",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "632",
+   "fontePet": null
+  },
+  "i36-281": {
+   "texto": "Socorro, corda-de-viola tomou o canteiro! Qualquer pedacinho de raiz rebrota: cave tudo ou corte e cubra com lona escura por 12 a 18 meses",
+   "esp": "mato",
+   "serie": "Socorro",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "632",
+   "fontePet": null
+  },
+  "i36-282": {
+   "texto": "Urtiga: arranque de luva e tire todos os estolões que correm logo abaixo da terra",
+   "esp": "mato",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "633",
+   "fontePet": null
+  },
+  "i36-283": {
+   "texto": "Labaça tem raiz funda que quebra fácil: se ficar um pedaço, rebrota",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "634",
+   "fontePet": null
+  },
+  "i36-284": {
+   "texto": "Enxada pequena tira o mato novinho do canteiro antes de crescer",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "631",
+   "fontePet": null
+  },
+  "i36-285": {
+   "texto": "Uns troncos num canto do jardim abrigam besouros e bichos que comem lesma",
+   "esp": "praga",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "637",
+   "fontePet": null
+  },
+  "i36-286": {
+   "texto": "Erro comum: plantar a mesma coisa no mesmo lugar por anos. A praga se acostuma e cresce",
+   "esp": "praga",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "637",
+   "fontePet": null
+  },
+  "i36-287": {
+   "texto": "Garrafa PET sem fundo em volta da muda protege da lesma e do caracol",
+   "esp": "lesma",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "638",
+   "fontePet": null
+  },
+  "i36-288": {
+   "texto": "Pulgão em pouca quantidade: esmague entre os dedos. Lesma e caracol, cate com a mão",
+   "esp": "praga",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "638",
+   "fontePet": null
+  },
+  "i36-289": {
+   "texto": "Planta atacada pela praga pode se recuperar sozinha se você tirar a parte comida",
+   "esp": "praga",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "639",
+   "fontePet": null
+  },
+  "i36-290": {
+   "texto": "Mito ou verdade: formiga no vaso tem que morrer? Mito. Se não está atrapalhando muito, deixe",
+   "esp": "praga",
+   "serie": "Mito ou verdade",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "640",
+   "fontePet": null
+  },
+  "i36-291": {
+   "texto": "A larva da joaninha é feia, mas come pulgão sem parar. Não mate",
+   "esp": "joaninha",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "653",
+   "fontePet": null
+  },
+  "i36-292": {
+   "texto": "Lesma e caracol comem à noite e acabam com muda nova. Hosta é das favoritas",
+   "esp": "lesma",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "642",
+   "fontePet": null
+  },
+  "i36-293": {
+   "texto": "Planta com sede ou com fome pega mais doença. Planta forte se defende",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "643",
+   "fontePet": null
+  },
+  "i36-294": {
+   "texto": "Erro comum: jogar folha doente na composteira. O esporo espalha. Ensaque e jogue no lixo",
+   "esp": "fungo",
+   "serie": "3 erros",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "644",
+   "fontePet": null
+  },
+  "i36-295": {
+   "texto": "Virose de planta deixa folha torta e flor com risco estranho. Vem na seiva e o pulgão espalha",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "644",
+   "fontePet": null
+  },
+  "i36-296": {
+   "texto": "Mancha-preta é fungo que pula com o respingo da chuva. Tire e descarte as folhas manchadas",
+   "esp": "roseira",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "646",
+   "fontePet": null
+  },
+  "i36-297": {
+   "texto": "Oídio (pó branco na folha) costuma vir da secura: mantenha a planta regada",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "648",
+   "fontePet": null
+  },
+  "i36-298": {
+   "texto": "Ferrugem faz manchas laranja embaixo da folha: tire as folhas doentes e deixe o ar passar",
+   "esp": "fungo",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "649",
+   "fontePet": null
+  },
+  "i36-299": {
+   "texto": "Planta que pega a mesma doença todo ano: troque por uma variedade resistente",
+   "esp": "fungo",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "645",
+   "fontePet": null
+  },
+  "i36-300": {
+   "texto": "Casinha de abelha solitária: bambus furados num caixote ou tronco com furos",
+   "esp": "abelha",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "651",
+   "fontePet": null
+  },
+  "i36-301": {
+   "texto": "Ponha flores na horta: o feijão de vara e outras hortaliças precisam da abelha para dar vagem",
+   "esp": "abelha",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "651",
+   "fontePet": null
+  },
+  "i36-302": {
+   "texto": "Mito ou verdade: veneno orgânico só mata a praga? Mito. A maioria mata também o bicho que ajuda",
+   "esp": "praga",
+   "serie": "Mito ou verdade",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "652",
+   "fontePet": null
+  },
+  "i36-303": {
+   "texto": "A mosca-das-flores parece abelha: o adulto poliniza e a larva come praga",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "652",
+   "fontePet": null
+  },
+  "i36-304": {
+   "texto": "Até um laguinho pequeno abriga sapo e rã, que seguram as lesmas",
+   "esp": "sapo",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "655",
+   "fontePet": null
+  },
+  "i36-305": {
+   "texto": "Para chamar bicho bom: deixe um cantinho crescer solto, um monte de folha sem varrer ou um laguinho",
+   "esp": "jardim-vivo",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "650",
+   "fontePet": null
+  },
+  "i36-306": {
+   "texto": "Minhoca vermelha da composteira é menor e mais vermelha que a da terra, e transforma resto de verdura em adubo rápido",
+   "esp": "compostagem",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "654",
+   "fontePet": null
   }
  }
 }

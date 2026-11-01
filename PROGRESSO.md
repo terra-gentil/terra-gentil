@@ -1,4 +1,11 @@
 # PROGRESSO Terra Gentil
+## BIBLIA 36 HOW TO GARDEN WHEN YOU'RE NEW (RHS) ESTUDADA INTEIRA (01/11/2026) - OPCIONAIS
+- Andre mandou seguir nos opcionais, inclusive o de OCR (36, 34, 31, 29).
+- Livro de iniciante lido inteiro: solo, substrato, comprar planta, semear, vaso, jardineira, bulbo, canteiro, gramado, trepadeira, roseira, glicinia, hera, mergulhia, arbusto, poda, cerca viva, topiaria, troca de vaso, capim ornamental, arvore (plantar, tirar galho, mudar de lugar), horta (bandeja, alface de cortar, tomate, feijao de vara, rabanete, cenoura, batata no balde), ervas (semente, estaca, divisao), fruta no vaso, rega, composteira, mato, praga, doenca, bicho amigo. 306 fatos em `inteligencia-carrossel\estudo\36-iniciante-01.md` a `-03.md` (ids i36-001 a i36-306), trechos 0 falhas.
+- biblia.json 5.069 -> 5.373 fatos (304 novos; 2 travados SAUDE: batata verde, agua cinza). Testes 229/229. Backup `biblia-antes-36.json` no scratchpad da sessao 29d88dac. `juntar_biblia.py` ganhou os nomes dos livros 29, 31, 34 e 36.
+- **Rende:** Primeiro Jardim (livro de iniciante) e reforco de Poda sem Medo, Gramado e Composteira.
+- **OCR do 29 (pimenta) feito** sem Tesseract: `render29.py` (PyMuPDF, 200 dpi) + `ocr_windows.ps1` (OCR nativo do Windows, Windows.Media.Ocr) no scratchpad da sessao 29d88dac. Saida `ocr29.txt` (145 paginas).
+- **Proximo:** 34 Resilient Garden, 31 Way to Grow, 29 pimenta.
 ## BIBLIA 19 ERVAS (STUART) SO CULTIVO (01/11/2026) - FECHA A LISTA 28, 37, 19
 - Livro de medicina: tudo que e remedio ficou fora. Lidos o capitulo de colheita e secagem (p.133 a 135) e o paragrafo "Cultivation" das ervas que se plantam no Brasil (script `cultivo19.py` no scratchpad da sessao 29d88dac extrai so esse paragrafo por erva). 66 fatos em `inteligencia-carrossel\estudo\19-herbs-01.md` (ids v19-001 a v19-066), trechos 0 falhas.
 - biblia.json 5.003 -> 5.069 fatos (66 novos, nenhum travado). Testes 229/229. Backup `biblia-antes-19.json` no scratchpad da sessao 29d88dac.

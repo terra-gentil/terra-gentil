@@ -1,4 +1,9 @@
 # PROGRESSO Terra Gentil
+## BIBLIA 23 WILDLIFE ESTUDADA (01/11/2026, madrugada, rodada agendada das 03h22)
+- Livro muito britanico: lidas so as partes que valem no Brasil (introducao, flores e ervas de nectar, arbustos, anuais, horta sem veneno, lesma, abelhas, comedouro, casinha de passarinho, mariposa, borboleta). Ficaram fora: mata inglesa, prado, lago (cuidado com dengue no Brasil), passaros que so existem la. 154 fatos em `inteligencia-carrossel\estudo\23-wildlife-01.md` a `-04.md` (ids x23-001 a x23-154), trechos 0 falhas.
+- biblia.json 3.004 -> 3.157 fatos (153 novos; 1 travado SAUDE). Testes 229/229. Backup `biblia-antes-wildlife.json` no scratchpad da sessao b1254ec8.
+- Fatos por tema: passarinho 29, jardim-vivo 21, horta 15, abelha 11, lesma 7, borragem 6, girassol 6, mariposa 6. **Resolve o tema magro do livro 025 "Jardim que Chama Abelha e Passarinho"** (antes so ~9 fatos): comedouro sem gato e sem doenca, casinha (furo, beiral, madeira crua), hotel de abelha, flores e ervas de nectar, joaninha e vespa contra praga.
+- **Faltam 7 livros da lista:** diretorio do Squire, 35 e 32 horta em vaso, 22 mato, 28 sementes, 37 arvore, 19 ervas. Opcionais: 36, 34, 31, 29 (OCR).
 ## BIBLIA 33 PROPAGATING ESTUDADA, SO O QUE DA NO BRASIL (01/11/2026, madrugada)
 - Livro de 2.155 p.: dicionario A a Z de muda (~120 generos que dao no Brasil), horta de semente e paginas de tecnica (alporquia, enraizador, abafamento, tombamento, aclimatar, folha de suculenta). 380 fatos em `inteligencia-carrossel\estudo\33-propagating-01.md` a `-05.md` (ids m33-001 a m33-380), trechos 0 falhas. Estacao e temperatura inglesas fora do fato.
 - biblia.json 2.630 -> 3.004 fatos (374 novos; 6 travados SAUDE/CLIMA). Testes ok. Backup `biblia-antes-propagating.json` e scripts (`prop_generos.py` extrai ficha por genero, `fix33.py`) no scratchpad da sessao b1254ec8.

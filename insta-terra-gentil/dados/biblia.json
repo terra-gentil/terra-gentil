@@ -24032,6 +24032,1230 @@
    "livro": "RHS, Propagating Plants",
    "pagina": "1626",
    "fontePet": null
+  },
+  "x23-001": {
+   "texto": "Um morceguinho pequeno come até 3.500 insetos numa noite, mosquito incluído",
+   "esp": "morcego",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "253",
+   "fontePet": null
+  },
+  "x23-002": {
+   "texto": "Um laguinho no jardim vira ímã: passarinho e bicho pequeno vêm beber, mesmo morando em outro lugar",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "253",
+   "fontePet": null
+  },
+  "x23-003": {
+   "texto": "Plante o canteiro de flor para borboleta e passarinho perto da casa: eles vêm comer perto da janela",
+   "esp": "borboleta",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "255",
+   "fontePet": null
+  },
+  "x23-004": {
+   "texto": "Deixe algumas flores secarem com semente no pé: vira comida de passarinho",
+   "esp": "passarinho",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "257",
+   "fontePet": null
+  },
+  "x23-005": {
+   "texto": "O ideal é ter comida o ano todo: misture arbusto de flor e fruto, flores perenes e flores da estação",
+   "esp": "jardim-vivo",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "257",
+   "fontePet": null
+  },
+  "x23-006": {
+   "texto": "Corte algumas flores murchas para a planta florir de novo, mas deixe outras darem semente",
+   "esp": "jardim-vivo",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "264",
+   "fontePet": null
+  },
+  "x23-007": {
+   "texto": "Muita erva de cozinha dá flor cheia de pólen, e várias ainda deixam semente",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "294",
+   "fontePet": null
+  },
+  "x23-008": {
+   "texto": "Na flor da erva-doce dá para ver as gotinhas de néctar, e ela vive cheia de abelha, vespa e mosquinha-das-flores",
+   "esp": "erva-doce",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "294",
+   "fontePet": null
+  },
+  "x23-009": {
+   "texto": "Erva-doce passa de 2 m, mas é fina e ocupa pouco espaço: boa num canto de sol perto da cozinha",
+   "esp": "erva-doce",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "294",
+   "fontePet": null
+  },
+  "x23-010": {
+   "texto": "A raiz da chicória torrada e moída já foi usada no lugar do café",
+   "esp": "chicória",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "296",
+   "fontePet": null
+  },
+  "x23-011": {
+   "texto": "A flor azul da chicória abre de manhã cedo e perde a cor até o meio-dia",
+   "esp": "chicória",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "296",
+   "fontePet": null
+  },
+  "x23-012": {
+   "texto": "A borragem parece ser a melhor planta de todas para a abelha de mel",
+   "esp": "borragem",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "297",
+   "fontePet": null
+  },
+  "x23-013": {
+   "texto": "A flor da borragem pende para baixo, e a abelha bebe o néctar de cabeça para baixo",
+   "esp": "borragem",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "298",
+   "fontePet": null
+  },
+  "x23-014": {
+   "texto": "Cientistas usaram canteiros de borragem para decifrar a dança da abelha, que conta a distância e a direção da comida",
+   "esp": "borragem",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "299",
+   "fontePet": null
+  },
+  "x23-015": {
+   "texto": "Borragem nasce fácil de semente, e a abelha vem de longe procurar",
+   "esp": "borragem",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "299",
+   "fontePet": null
+  },
+  "x23-016": {
+   "texto": "A flor azul da borragem enfeita salada e bebida",
+   "esp": "borragem",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "254",
+   "fontePet": null
+  },
+  "x23-017": {
+   "texto": "A florzinha roxa da cebolinha recebe abelha de manhã até a noite",
+   "esp": "cebolinha",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "297",
+   "fontePet": null
+  },
+  "x23-018": {
+   "texto": "Flor de alecrim é boa para abelha; lavanda atrai borboleta",
+   "esp": "alecrim",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "297",
+   "fontePet": null
+  },
+  "x23-019": {
+   "texto": "O orégano está entre as melhores ervas para atrair inseto amigo",
+   "esp": "orégano",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "297",
+   "fontePet": null
+  },
+  "x23-020": {
+   "texto": "Cenoura que passa do ponto cresce até o peito e dá muita florzinha branca cheia de inseto",
+   "esp": "cenoura",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "298",
+   "fontePet": null
+  },
+  "x23-021": {
+   "texto": "Salsinha que não é cortada floresce, e muito inseto gosta da flor; no segundo ano ela floresce com força",
+   "esp": "salsinha",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "300",
+   "fontePet": null
+  },
+  "x23-022": {
+   "texto": "Hortelã florida está entre as melhores plantas para borboleta, e é das mais fáceis de plantar",
+   "esp": "hortelã",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "300",
+   "fontePet": null
+  },
+  "x23-023": {
+   "texto": "Deixe a hortelã, a sálvia e a erva-cidreira florirem de vez em quando",
+   "esp": "hortelã",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "300",
+   "fontePet": null
+  },
+  "x23-024": {
+   "texto": "A budleia é a \"árvore-das-borboletas\": cada cacho perfumado fica coberto de borboleta e abelha",
+   "esp": "budleia",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "301",
+   "fontePet": null
+  },
+  "x23-025": {
+   "texto": "A budleia roxa comum se espalha demais pela semente; prefira variedade estéril",
+   "esp": "budleia",
+   "serie": "3 erros",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "301",
+   "fontePet": null
+  },
+  "x23-026": {
+   "texto": "Tem budleia de flor amarela que se espalha menos e ainda atrai borboleta, como a B. sellowiana, sul-americana",
+   "esp": "budleia",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "301",
+   "fontePet": null
+  },
+  "x23-027": {
+   "texto": "A abelha-cortadeira recorta círculos certinhos na folha da roseira para forrar o ninho",
+   "esp": "roseira",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "306",
+   "fontePet": null
+  },
+  "x23-028": {
+   "texto": "Roseira de flor simples dá muito pólen e depois frutinhos para passarinho",
+   "esp": "roseira",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "306",
+   "fontePet": null
+  },
+  "x23-029": {
+   "texto": "O pulgão no broto da roseira vira comida dos insetos que caçam pulgão",
+   "esp": "roseira",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "306",
+   "fontePet": null
+  },
+  "x23-030": {
+   "texto": "Fruta que você não colhe no pé fica para alimentar os passarinhos",
+   "esp": "jardim-vivo",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "306",
+   "fontePet": null
+  },
+  "x23-031": {
+   "texto": "Flor dobrada serve menos para o inseto: flor simples é a chave para atrair polinizador",
+   "esp": "abelha",
+   "serie": "3 erros",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "308",
+   "fontePet": null
+  },
+  "x23-032": {
+   "texto": "Petúnia de flor simples é melhor que a dobrada para dar pólen e néctar",
+   "esp": "petúnia",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "309",
+   "fontePet": null
+  },
+  "x23-033": {
+   "texto": "A flor-de-fumo (nicotiana) perfuma a noite e traz mariposas para perto de casa",
+   "esp": "flor-de-fumo",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "309",
+   "fontePet": null
+  },
+  "x23-034": {
+   "texto": "É divertido ver a mamangava forçar a entrada na boca-de-leão e depois lutar para sair",
+   "esp": "boca-de-leão",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "309",
+   "fontePet": null
+  },
+  "x23-035": {
+   "texto": "Álisso branco plantado a 20 cm um do outro vira um tapete cheio de inseto bebendo néctar",
+   "esp": "álisso",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "309",
+   "fontePet": null
+  },
+  "x23-036": {
+   "texto": "O perfume doce do álisso conta a qualidade do néctar",
+   "esp": "álisso",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "309",
+   "fontePet": null
+  },
+  "x23-037": {
+   "texto": "Calêndula e papoula-da-califórnia ficam cheias de mosquinha-das-flores em dia de sol",
+   "esp": "calêndula",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "310",
+   "fontePet": null
+  },
+  "x23-038": {
+   "texto": "Tirar a flor murcha faz a planta florir mais: ela insiste até conseguir fazer semente",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "310",
+   "fontePet": null
+  },
+  "x23-039": {
+   "texto": "Um pacotinho de semente de flor anual dá pelo menos uns 2 metros quadrados de cor",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "311",
+   "fontePet": null
+  },
+  "x23-040": {
+   "texto": "Cosmos cresce de semente até 2 m, com flor rosa, roxa ou branca",
+   "esp": "cosmos",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "312",
+   "fontePet": null
+  },
+  "x23-041": {
+   "texto": "Girassol de semente chega a 3 m em poucos meses, e a flor brilha de néctar dia após dia",
+   "esp": "girassol",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "312",
+   "fontePet": null
+  },
+  "x23-042": {
+   "texto": "Primeiro a abelha e a borboleta comem na flor do girassol; depois os passarinhos vêm tirar a semente",
+   "esp": "girassol",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "312",
+   "fontePet": null
+  },
+  "x23-043": {
+   "texto": "Se não der para deixar o girassol de pé, corte a cabeça e pendure: vira comedouro natural de passarinho",
+   "esp": "girassol",
+   "serie": "Passo a passo",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "319",
+   "fontePet": null
+  },
+  "x23-044": {
+   "texto": "Semente de girassol é a comida preferida de muito passarinho de jardim",
+   "esp": "girassol",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "319",
+   "fontePet": null
+  },
+  "x23-045": {
+   "texto": "Não tem regra que separe comida e flor: abobrinha e fava ficam lindas no canteiro de flores",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "321",
+   "fontePet": null
+  },
+  "x23-046": {
+   "texto": "Horta e jardim para bicho combinam: os bichos amigos comem as pragas e a colheita melhora",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "326",
+   "fontePet": null
+  },
+  "x23-047": {
+   "texto": "Os bichos que comem praga, como joaninha, controlam as pragas da horta muito bem",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "325",
+   "fontePet": null
+  },
+  "x23-048": {
+   "texto": "O primeiro veneno da estação mata também os bichos amigos, e aí a praga volta mais rápido que eles: vira um ciclo",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "327",
+   "fontePet": null
+  },
+  "x23-049": {
+   "texto": "Folha com a beirada mordida é sinal de que aquela salada nunca levou veneno",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "327",
+   "fontePet": null
+  },
+  "x23-050": {
+   "texto": "O segredo da horta orgânica é devolver bastante composto à terra a cada colheita",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "330",
+   "fontePet": null
+  },
+  "x23-051": {
+   "texto": "Rede sobre a frutífera por uma ou duas semanas protege a colheita do passarinho sem machucar ninguém",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "331",
+   "fontePet": null
+  },
+  "x23-052": {
+   "texto": "Prenda bem a beirada da rede de proteção para nenhum bicho ficar preso",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "331",
+   "fontePet": null
+  },
+  "x23-053": {
+   "texto": "Espantalho com roupa velha quase não assusta passarinho; o que balança e faz barulho funciona melhor",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "332",
+   "fontePet": null
+  },
+  "x23-054": {
+   "texto": "Calêndula e cravo-de-defunto no meio da horta atraem mosquinha-das-flores e vespa, que caçam as pragas",
+   "esp": "calêndula",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "335",
+   "fontePet": null
+  },
+  "x23-055": {
+   "texto": "Flor no meio da horta ajuda de três jeitos: algumas espantam praga, todas chamam polinizador e muitas ainda têm pétala de comer",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "335",
+   "fontePet": null
+  },
+  "x23-056": {
+   "texto": "A vespa caça lagarta na horta e leva para o ninho, onde vira comida dos filhotes",
+   "esp": "vespa",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "335",
+   "fontePet": null
+  },
+  "x23-057": {
+   "texto": "Algumas vespinhas põem ovo dentro da lagarta viva; quando a larva nasce, come a lagarta por dentro",
+   "esp": "vespa",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "335",
+   "fontePet": null
+  },
+  "x23-058": {
+   "texto": "A larva de muita mosquinha-das-flores mata pulgão",
+   "esp": "mosquinha-das-flores",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "335",
+   "fontePet": null
+  },
+  "x23-059": {
+   "texto": "Um cantinho de mato separado da horta, sem disputar água e adubo, parece diminuir praga e doença",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "335",
+   "fontePet": null
+  },
+  "x23-060": {
+   "texto": "Hortelã perto da ervilha: diz a tradição que espanta rato; não há prova, mas mal não faz",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "333",
+   "fontePet": null
+  },
+  "x23-061": {
+   "texto": "Acelga colorida é bonita o bastante para ir no canteiro de flores",
+   "esp": "acelga",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "333",
+   "fontePet": null
+  },
+  "x23-062": {
+   "texto": "Borragem e calêndula estão entre as melhores anuais para inseto, e as pétalas das duas vão na salada",
+   "esp": "borragem",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "336",
+   "fontePet": null
+  },
+  "x23-063": {
+   "texto": "Lesma e caramujo atacam mais a mudinha em tempo molhado",
+   "esp": "lesma",
+   "serie": "3 erros",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "336",
+   "fontePet": null
+  },
+  "x23-064": {
+   "texto": "Nem toda lesma é praga: tem espécie que come planta morta e caça outras lesmas",
+   "esp": "lesma",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "339",
+   "fontePet": null
+  },
+  "x23-065": {
+   "texto": "Sapo vale ouro no jardim: é um caçador de lesma muito eficiente",
+   "esp": "sapo",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "340",
+   "fontePet": null
+  },
+  "x23-066": {
+   "texto": "Sapo, besouro de chão e passarinho caçam lesma e caramujo",
+   "esp": "lesma",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "336",
+   "fontePet": null
+  },
+  "x23-067": {
+   "texto": "Não use veneno contra lesma; existem vermes microscópicos do solo, vendidos prontos, que matam lesma e caramujo sem envenenar mais nada",
+   "esp": "lesma",
+   "serie": "3 erros",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "338",
+   "fontePet": null
+  },
+  "x23-068": {
+   "texto": "Casca de toranja virada no chão junta as lesmas embaixo; depois é só levar para longe",
+   "esp": "lesma",
+   "serie": "Passo a passo",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "338",
+   "fontePet": null
+  },
+  "x23-069": {
+   "texto": "Não adianta jogar a lesma no vizinho: ela sabe voltar para casa",
+   "esp": "lesma",
+   "serie": "3 erros",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "338",
+   "fontePet": null
+  },
+  "x23-070": {
+   "texto": "Armadilha de cerveja: enterre um copo deixando a borda um pouco acima da terra, para o besouro amigo não cair",
+   "esp": "lesma",
+   "serie": "Passo a passo",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "338",
+   "fontePet": null
+  },
+  "x23-071": {
+   "texto": "Feijão de vara sofre menos com lesma que o anão: a vagem fica longe do chão",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "341",
+   "fontePet": null
+  },
+  "x23-072": {
+   "texto": "Abobrinha e tomate ficam em vaso, longe da lesma, até ficarem fortes para aguentar uma mordida",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "341",
+   "fontePet": null
+  },
+  "x23-073": {
+   "texto": "Semeie a cenoura bem espaçada para não precisar desbastar: isso ajuda a escapar da mosca da cenoura",
+   "esp": "cenoura",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "341",
+   "fontePet": null
+  },
+  "x23-074": {
+   "texto": "Para não precisar de veneno, evite as hortaliças mais difíceis e escolha as que a praga não procura",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "341",
+   "fontePet": null
+  },
+  "x23-075": {
+   "texto": "Alface de folha roxa quase não atrai passarinho",
+   "esp": "alface",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "341",
+   "fontePet": null
+  },
+  "x23-076": {
+   "texto": "Esporo de fungo voa no ar aos milhões: deixe galho e casca no jardim e logo aparecem cogumelos",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "424",
+   "fontePet": null
+  },
+  "x23-078": {
+   "texto": "Muda que nasce sozinha embaixo da árvore costuma ser semente que o passarinho comeu em outro lugar e soltou ali",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "426",
+   "fontePet": null
+  },
+  "x23-079": {
+   "texto": "Tem aranha que muda de cor conforme a flor e espera, quase invisível, o inseto pousar",
+   "esp": "inseto",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "430",
+   "fontePet": null
+  },
+  "x23-080": {
+   "texto": "Tem lagarta igualzinha a um graveto quebrado, que fica parada quando alguém chega perto",
+   "esp": "inseto",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "430",
+   "fontePet": null
+  },
+  "x23-081": {
+   "texto": "Bicho de cor berrante costuma ser venenoso ou ruim de comer, e a cor avisa o passarinho",
+   "esp": "inseto",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "430",
+   "fontePet": null
+  },
+  "x23-082": {
+   "texto": "A mamangava precisa de buraco seco para fazer ninho, às vezes até casinha de passarinho",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "432",
+   "fontePet": null
+  },
+  "x23-083": {
+   "texto": "A abelha de mel vive em colônias grandes e é criada pelo homem há milhares de anos",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "432",
+   "fontePet": null
+  },
+  "x23-084": {
+   "texto": "A flor de onde vem o pólen dá o sabor do mel, como a lavanda",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "432",
+   "fontePet": null
+  },
+  "x23-085": {
+   "texto": "A maioria das abelhas que visita o jardim é solitária: não vive em colmeia",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "433",
+   "fontePet": null
+  },
+  "x23-086": {
+   "texto": "Hotel de abelha: junte pedaços de bambu, talo oco de planta e canudinho para a abelha solitária botar ovo",
+   "esp": "abelha",
+   "serie": "Passo a passo",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "433",
+   "fontePet": null
+  },
+  "x23-087": {
+   "texto": "Abelha solitária cava ninho em terra fofa ou usa talo oco e buraquinho de parede",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "433",
+   "fontePet": null
+  },
+  "x23-088": {
+   "texto": "Planta nativa e folha apodrecendo são a matéria-prima do jardim para bicho",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "434",
+   "fontePet": null
+  },
+  "x23-089": {
+   "texto": "Quem começa a dar comida assume um compromisso: os passarinhos passam a contar com ela e sofrem se parar de repente",
+   "esp": "passarinho",
+   "serie": "3 erros",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "344",
+   "fontePet": null
+  },
+  "x23-090": {
+   "texto": "Dê comida aos passarinhos sempre nos mesmos horários",
+   "esp": "passarinho",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "344",
+   "fontePet": null
+  },
+  "x23-091": {
+   "texto": "Alguns passarinhos só comem no chão: deixe um pedaço de chão livre em volta do comedouro",
+   "esp": "passarinho",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "345",
+   "fontePet": null
+  },
+  "x23-092": {
+   "texto": "Ponha o comedouro onde você enxergue da janela e com caminho fácil, assim fica mais fácil manter a rotina",
+   "esp": "passarinho",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "345",
+   "fontePet": null
+  },
+  "x23-093": {
+   "texto": "Gato é a maior ameaça do comedouro: deixe arbusto ou árvore a pelo menos 2 m, longe do pulo do gato",
+   "esp": "passarinho",
+   "serie": "3 erros",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "347",
+   "fontePet": null
+  },
+  "x23-094": {
+   "texto": "Um galhinho preso no comedouro ajuda: muito passarinho pousa ali antes de ter coragem de descer",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "347",
+   "fontePet": null
+  },
+  "x23-095": {
+   "texto": "Comida velha acumulada no comedouro adoece passarinho e chama rato",
+   "esp": "passarinho",
+   "serie": "3 erros",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "347",
+   "fontePet": null
+  },
+  "x23-096": {
+   "texto": "Lave o comedouro sempre com água quente, sabão e escova para não espalhar doença",
+   "esp": "passarinho",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "347",
+   "fontePet": null
+  },
+  "x23-097": {
+   "texto": "Mude o comedouro de lugar de vez em quando para não juntar doença no mesmo ponto",
+   "esp": "passarinho",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "347",
+   "fontePet": null
+  },
+  "x23-098": {
+   "texto": "Um cone de metal virado para baixo no pé do comedouro impede o gato de subir",
+   "esp": "passarinho",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "348",
+   "fontePet": null
+  },
+  "x23-099": {
+   "texto": "Comedouro pendurado num galho balança e não aguenta o peso do gato",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "348",
+   "fontePet": null
+  },
+  "x23-100": {
+   "texto": "Pão não é comida saudável para passarinho",
+   "esp": "passarinho",
+   "serie": "3 erros",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "349",
+   "fontePet": null
+  },
+  "x23-101": {
+   "texto": "Semente ou comida mole? Passarinho de bico grosso quebra semente; o de bico fino, que come inseto, precisa de comida mole",
+   "esp": "passarinho",
+   "serie": "X ou Y?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "349",
+   "fontePet": null
+  },
+  "x23-102": {
+   "texto": "Muito passarinho adora fruta madura demais, até machucada: peça a sobra na quitanda",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "351",
+   "fontePet": null
+  },
+  "x23-103": {
+   "texto": "Os passarinhos preferem a semente de girassol preta à rajada: tem mais gordura e dá mais energia",
+   "esp": "girassol",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "352",
+   "fontePet": null
+  },
+  "x23-104": {
+   "texto": "Comedouro que não atrai passarinho costuma mudar com semente de girassol descascada",
+   "esp": "girassol",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "352",
+   "fontePet": null
+  },
+  "x23-105": {
+   "texto": "Passarinho aprende com o vizinho: quando um descobre uma comida nova, o truque se espalha",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "353",
+   "fontePet": null
+  },
+  "x23-106": {
+   "texto": "Muito passarinho faz ninho em oco de árvore; como a cidade tira toda árvore e galho morto, a casinha faz falta",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "356",
+   "fontePet": null
+  },
+  "x23-107": {
+   "texto": "O morcego também usa oco de árvore para dormir e criar filhote, por isso casinha de morcego ajuda muito",
+   "esp": "morcego",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "356",
+   "fontePet": null
+  },
+  "x23-108": {
+   "texto": "Ninho de bandeja: uma tábua de 10 a 15 cm com beirada de 3 cm, presa a um metro do chão, escondida atrás de trepadeira",
+   "esp": "passarinho",
+   "serie": "Passo a passo",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "357",
+   "fontePet": null
+  },
+  "x23-109": {
+   "texto": "Casinha de frente aberta fica mais segura na parede do que na árvore, onde ladrão de ovo sobe fácil",
+   "esp": "passarinho",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "359",
+   "fontePet": null
+  },
+  "x23-110": {
+   "texto": "Dê um beiral comprido à casinha e não deixe poleiro perto da entrada, senão o predador alcança o ninho",
+   "esp": "passarinho",
+   "serie": "3 erros",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "359",
+   "fontePet": null
+  },
+  "x23-111": {
+   "texto": "Casinha de passarinho boa é discreta: madeira crua, sem tinta e sem verniz; camuflagem, não propaganda",
+   "esp": "passarinho",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "362",
+   "fontePet": null
+  },
+  "x23-112": {
+   "texto": "Casinha de plástico pode suar por dentro",
+   "esp": "passarinho",
+   "serie": "3 erros",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "362",
+   "fontePet": null
+  },
+  "x23-113": {
+   "texto": "O tamanho do furo da casinha decide quem mora: quanto maior o furo, mais espécies cabem, e o maior passarinho ganha",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "362",
+   "fontePet": null
+  },
+  "x23-114": {
+   "texto": "Muito passarinho bica em volta do furo da casinha antes de mudar: é como marcar território",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "363",
+   "fontePet": null
+  },
+  "x23-115": {
+   "texto": "Tem passarinho que estreita o furo grande demais da casinha com um anel de barro",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "364",
+   "fontePet": null
+  },
+  "x23-116": {
+   "texto": "O filhote de andorinhão salta do ninho sem treino e pode passar dois anos sem pousar, até dormindo no ar",
+   "esp": "andorinhão",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "366",
+   "fontePet": null
+  },
+  "x23-117": {
+   "texto": "Os pais do andorinhão guardam os insetos que caçam numa bolinha grudenta na garganta para levar ao filhote",
+   "esp": "andorinhão",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "366",
+   "fontePet": null
+  },
+  "x23-118": {
+   "texto": "Deixar a luz da cozinha acesa à noite traz mariposas lindas para a janela",
+   "esp": "mariposa",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "456",
+   "fontePet": null
+  },
+  "x23-119": {
+   "texto": "Tem mariposa de asa de baixo vermelha que, ameaçada, cai no chão e fecha as asas pardas: some na hora",
+   "esp": "mariposa",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "456",
+   "fontePet": null
+  },
+  "x23-120": {
+   "texto": "Flor perfumada à noite é sinal de flor de mariposa, como a flor-de-fumo",
+   "esp": "mariposa",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "457",
+   "fontePet": null
+  },
+  "x23-121": {
+   "texto": "A flor comprida de trombeta da madressilva é feita para a mariposa polinizar",
+   "esp": "mariposa",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "457",
+   "fontePet": null
+  },
+  "x23-122": {
+   "texto": "Para atrair mariposa, pinte um tronco com mistura doce de cerveja, melado e fruta passada amassada",
+   "esp": "mariposa",
+   "serie": "Passo a passo",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "457",
+   "fontePet": null
+  },
+  "x23-123": {
+   "texto": "Uma lanterna forte numa noite quente mostra quais flores as mariposas mais visitam",
+   "esp": "mariposa",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "457",
+   "fontePet": null
+  },
+  "x23-124": {
+   "texto": "Para entender as borboletas do jardim, procure a planta que a lagarta de cada uma come e veja onde ela pode botar ovo",
+   "esp": "borboleta",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "464",
+   "fontePet": null
+  },
+  "x23-125": {
+   "texto": "Hera florida serve de berçário: tem borboleta que bota ovo na flor dela",
+   "esp": "borboleta",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "464",
+   "fontePet": null
+  },
+  "x23-126": {
+   "texto": "Contato com a natureza ajuda a aguentar o estresse da vida moderna, e o jardim é o lugar mais perto de casa para isso",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "16",
+   "fontePet": null
+  },
+  "x23-127": {
+   "texto": "Safári de quintal: estique um barbante por um canto de mato, fique de joelhos e vá seguindo com uma lupa",
+   "esp": "jardim-vivo",
+   "serie": "Passo a passo",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "18",
+   "fontePet": null
+  },
+  "x23-128": {
+   "texto": "Paisagem boa para bichinho é boa para gente; a que é hostil aos bichos não pode ser saudável para morar",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "19",
+   "fontePet": null
+  },
+  "x23-129": {
+   "texto": "Uma libélula come centenas de mosquitinhos por dia",
+   "esp": "libélula",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "19",
+   "fontePet": null
+  },
+  "x23-130": {
+   "texto": "Bicho e planta precisam circular para achar comida e par; quando o verde fica picado em pedaços, sobreviver fica difícil",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "21",
+   "fontePet": null
+  },
+  "x23-131": {
+   "texto": "Na Europa, 84 por cento das plantações de comida dependem de abelha e outros insetos para polinizar",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "26",
+   "fontePet": null
+  },
+  "x23-132": {
+   "texto": "Veneno, perda de flor do campo, agricultura intensiva e mudança do clima estão por trás do sumiço das abelhas",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "26",
+   "fontePet": null
+  },
+  "x23-133": {
+   "texto": "Um cantinho com flor para abelha no seu quintal já ajuda a desfazer o estrago",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "26",
+   "fontePet": null
+  },
+  "x23-134": {
+   "texto": "Cave um laguinho e a libélula logo descobre o seu jardim",
+   "esp": "libélula",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "29",
+   "fontePet": null
+  },
+  "x23-135": {
+   "texto": "Rio, linha de trem, beira de estrada e árvore de rua formam corredores verdes por onde o bicho chega ao seu quintal",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "32",
+   "fontePet": null
+  },
+  "x23-136": {
+   "texto": "Passarinho que come fruta solta a semente pronta para germinar, e logo nasce um matinho de arbusto embaixo do poleiro",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "34",
+   "fontePet": null
+  },
+  "x23-137": {
+   "texto": "Terreno baldio com cardo e mato grosso atrai nuvens de borboleta e bando de passarinho de semente",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "35",
+   "fontePet": null
+  },
+  "x23-138": {
+   "texto": "Muito gramado de praça está cheio de flor do campo que o cortador decepa toda semana; mudar o corte faz florir quase na hora",
+   "esp": "gramado",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "36",
+   "fontePet": null
+  },
+  "x23-139": {
+   "texto": "Se só 10 por cento da grama cortada rente pudesse florir, a cidade teria muito mais borboleta",
+   "esp": "gramado",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "36",
+   "fontePet": null
+  },
+  "x23-140": {
+   "texto": "Uma fileira de quintais com árvore e cerca viva já vira um corredor importante para os bichos",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "38",
+   "fontePet": null
+  },
+  "x23-141": {
+   "texto": "Planta de fora estica a época de néctar, mas reserve espaço para a nativa: muito inseto depende dela para comer",
+   "esp": "jardim-vivo",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "38",
+   "fontePet": null
+  },
+  "x23-142": {
+   "texto": "Convença o vizinho a plantar cerca viva, usar menos veneno e parar de queimar folha seca: logo aparece mais passarinho e borboleta",
+   "esp": "jardim-vivo",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "38",
+   "fontePet": null
+  },
+  "x23-143": {
+   "texto": "Somados, os quintais da Grã-Bretanha ocupam mais terra que todas as reservas naturais oficiais juntas",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "40",
+   "fontePet": null
+  },
+  "x23-144": {
+   "texto": "\"Viva e deixe viver\": pense bem antes de matar ou limpar qualquer coisa do jardim",
+   "esp": "jardim-vivo",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "43",
+   "fontePet": null
+  },
+  "x23-145": {
+   "texto": "Copie a mata: plantas em camadas, da árvore ao forro de flor no chão",
+   "esp": "jardim-vivo",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "43",
+   "fontePet": null
+  },
+  "x23-146": {
+   "texto": "Folha caída, tronco apodrecendo e um pouco de bagunça deixam o bicho tímido à vontade",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "44",
+   "fontePet": null
+  },
+  "x23-147": {
+   "texto": "Plantas bem juntas em camadas deixam pouca luz para o mato, e você precisa mexer menos no canteiro",
+   "esp": "jardim-vivo",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "45",
+   "fontePet": null
+  },
+  "x23-148": {
+   "texto": "A larva da joaninha parece um dragãozinho cinza de 1 cm e devora centenas de pulgões, feito um aspirador",
+   "esp": "joaninha",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "46",
+   "fontePet": null
+  },
+  "x23-149": {
+   "texto": "Veneno no pulgão mata também a joaninha, e o pulgão volta muito mais rápido que ela",
+   "esp": "joaninha",
+   "serie": "3 erros",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "46",
+   "fontePet": null
+  },
+  "x23-150": {
+   "texto": "Antes de borrifar o pulgão, olhe com calma: em poucos dias costumam aparecer as larvas de joaninha",
+   "esp": "joaninha",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "46",
+   "fontePet": null
+  },
+  "x23-151": {
+   "texto": "Lavanda enche o jardim de perfume e de inseto polinizador",
+   "esp": "lavanda",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "48",
+   "fontePet": null
+  },
+  "x23-152": {
+   "texto": "Um pote de água para beber também faz o jardim virar parada dos bichos de passagem",
+   "esp": "passarinho",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "48",
+   "fontePet": null
+  },
+  "x23-153": {
+   "texto": "Variedade de comida atrai variedade de passarinho: semente dura no comedouro e fruta mole caída no chão",
+   "esp": "passarinho",
+   "serie": "5 cuidados",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "50",
+   "fontePet": null
+  },
+  "x23-154": {
+   "texto": "Algumas borboletas migram: a vanessa voa mais de 2.000 km e pode parar no seu jardim para beber néctar",
+   "esp": "borboleta",
+   "serie": "Você sabia?",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "17",
+   "fontePet": null
   }
  }
 }

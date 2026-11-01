@@ -1,0 +1,70 @@
+{
+  "livro": "TG 023",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "ali-gesto-1",
+      "especie": "garden pests",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands poking four pencil-sized holes in the neck of a plastic bottle",
+      "mascote": true
+    },
+    {
+      "id": "ali-gesto-2",
+      "especie": "garden pests",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand pouring a little soda into a plastic bottle trap",
+      "mascote": false
+    },
+    {
+      "id": "ali-gesto-3",
+      "especie": "garden pests",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands hanging a plastic bottle trap on a branch of a fruit tree",
+      "mascote": false
+    },
+    {
+      "id": "ali-sintoma-1",
+      "especie": "garden pests",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A lettuce leaf with ragged chewed edges and a shiny slug slime trail",
+      "mascote": false
+    },
+    {
+      "id": "ali-var-joaninha",
+      "especie": "ladybug",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A ladybug eating aphids on a green leaf, macro",
+      "mascote": false
+    },
+    {
+      "id": "ali-var-crisopideo",
+      "especie": "green lacewing larva",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A green lacewing larva on a leaf, macro",
+      "mascote": false
+    },
+    {
+      "id": "ali-var-libelula",
+      "especie": "dragonfly",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A dragonfly resting on a plant near clean water",
+      "mascote": false
+    },
+    {
+      "id": "ali-var-cravo",
+      "especie": "Tagetes",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Orange marigolds flowering in a vegetable garden",
+      "mascote": false
+    }
+  ]
+}

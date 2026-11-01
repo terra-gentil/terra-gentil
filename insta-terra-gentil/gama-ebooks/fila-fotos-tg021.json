@@ -1,0 +1,70 @@
+{
+  "livro": "TG 021",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "enx-gesto-1",
+      "especie": "Adenium obesum",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a wedge at the base of a desert rose branch with a clean knife",
+      "mascote": true
+    },
+    {
+      "id": "enx-gesto-2",
+      "especie": "Adenium obesum",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's fingers fitting the wedge into a split on top of a desert rose seedling",
+      "mascote": false
+    },
+    {
+      "id": "enx-gesto-3",
+      "especie": "Adenium obesum",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands wrapping grafting tape around a desert rose graft",
+      "mascote": false
+    },
+    {
+      "id": "enx-sintoma-1",
+      "especie": "Adenium obesum",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A desert rose with a new shoot growing below the graft union on the swollen trunk",
+      "mascote": false
+    },
+    {
+      "id": "enx-var-obesum",
+      "especie": "Adenium obesum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A flowering pink desert rose in a shallow pot",
+      "mascote": false
+    },
+    {
+      "id": "enx-var-arabicum",
+      "especie": "Adenium arabicum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A desert rose arabicum with a wide fat caudex",
+      "mascote": false
+    },
+    {
+      "id": "enx-var-socotranum",
+      "especie": "Adenium socotranum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A Socotra desert rose with a thick tall caudex",
+      "mascote": false
+    },
+    {
+      "id": "enx-var-swazicum",
+      "especie": "Adenium swazicum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A desert rose swazicum with pale pink flowers",
+      "mascote": false
+    }
+  ]
+}

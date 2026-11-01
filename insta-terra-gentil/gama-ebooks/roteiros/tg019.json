@@ -1,0 +1,559 @@
+{
+  "livro": "TG 019",
+  "titulo": "Agaves e Kalanchoes",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "019",
+        "COLEÇÃO TERRA GENTIL",
+        "SUCULENTA",
+        "Agaves e Kalanchoes",
+        "Flor fácil e roseta forte.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-A-1.jpg",
+          "alt": "André com um kalanchoe florido"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "b7-02",
+        "b1-15",
+        "k9-227"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Todo mundo já ganhou um kalanchoe de supermercado.",
+        "Ele floresce até com pouca luz e a flor dura semanas.",
+        "Aqui eu te mostro a flor de novo, a muda e a agave.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache o kalanchoe da casa e veja se ele está esticado.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: flor a cada 6 meses",
+        "→",
+        "TG 019 AGAVES E KALANCHOES",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-G-1.jpg",
+          "alt": "André com um vaso de kalanchoe na janela"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "b2-17",
+        "b2-09",
+        "t13-20"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Pouca água, não zero água.",
+        "Quando ela está crescendo, rega regular deixa a planta mais bonita.",
+        "LUZ FORTE, SEM ASSAR",
+        "Quatro horas de luz forte e sombra rala no pico do calor.",
+        "E longe do pet: kalanchoe é tóxico.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 019 AGAVES E KALANCHOES",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do kalanchoe",
+        "06",
+        "CAPÍTULO 1",
+        "Kalanchoe de flor",
+        "08",
+        "CAPÍTULO 2",
+        "Muda de folha",
+        "12",
+        "CAPÍTULO 3",
+        "Agave",
+        "15",
+        "CAPÍTULO 4",
+        "De perto, sem confusão",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Agave secando depois da flor? Vá para a página 11.",
+        "Na próxima: a ficha do kalanchoe",
+        "→",
+        "TG 019 AGAVES E KALANCHOES",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "b7-02",
+        "b2-06",
+        "r6-23",
+        "t13-20",
+        "g16-20"
+      ],
+      "textos": [
+        "FICHA DO KALANCHOE",
+        "Kalanchoe de flor",
+        "O que ele pede",
+        "LUZ",
+        "Claridade, até meia-sombra",
+        "ÁGUA",
+        "Só com a terra seca",
+        "TERRA",
+        "Arenosa, que drena rápido",
+        "ADUBO",
+        "Uma vez por ano basta",
+        "FLOR",
+        "Dura 6 semanas ou mais",
+        "PET",
+        "TÓXICO",
+        "Kalanchoe e agave: longe de cão e gato",
+        "Na próxima: kalanchoe de flor",
+        "→",
+        "TG 019 AGAVES E KALANCHOES",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Kalanchoe de flor",
+        "01",
+        "Qual pede o quê",
+        "02",
+        "Muda de folha",
+        "03",
+        "Florir de novo",
+        "Na próxima: qual pede o quê",
+        "→",
+        "TG 019 AGAVES E KALANCHOES",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-H-1.jpg",
+          "alt": "André com kalanchoes coloridos"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "b1-15",
+        "b7-04",
+        "b7-06",
+        "r6-17",
+        "b5-15",
+        "b2-03"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · QUAL PEDE O QUÊ",
+        "Cada uma do seu jeito",
+        "PLANTA",
+        "LUZ",
+        "CUIDADO",
+        "Kalanchoe",
+        "Meia-sombra",
+        "Tóxico para pet",
+        "Calandiva",
+        "Claridade",
+        "Flor dobrada",
+        "Orelha-de-gato",
+        "Sol",
+        "Pincel, sem água",
+        "Agave",
+        "Sol pleno",
+        "Espinho na ponta",
+        "Folha cinza, azul ou com espinho aguenta mais sol que a verde lisa.",
+        "DICA DO ANDRÉ",
+        "Orelha-de-gato suja de terra? Limpe com pincel macio, sem água.",
+        "Na próxima: muda de folha",
+        "→",
+        "TG 019 AGAVES E KALANCHOES",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Muda de folha",
+        "01",
+        "Folha vira planta",
+        "02",
+        "Florir de novo",
+        "03",
+        "Agave secando",
+        "Na próxima: tire uma folha",
+        "→",
+        "TG 019 AGAVES E KALANCHOES",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-A-1.jpg",
+          "alt": "André fazendo mudas de suculenta"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "r6-43",
+        "k9-235",
+        "k9-215",
+        "k9-212"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Muda de folha? Faça assim.",
+        "QUANDO",
+        "Com a planta crescendo",
+        "TEMPO",
+        "10 minutos",
+        "PRECISA",
+        "Folha inteira e terra arenosa",
+        "1",
+        "TIRE A FOLHA INTEIRA",
+        "Folha rasgada não enraíza.",
+        "2",
+        "ENTERRE SÓ UMA PARTE",
+        "Metade da folha fica de fora.",
+        "3",
+        "SOL DA MANHÃ",
+        "Só até a raiz pegar.",
+        "DICA DO ANDRÉ",
+        "Para mexer sem estragar, segure pelo caule, onde acaba a raiz.",
+        "Na próxima: florir de novo",
+        "→",
+        "TG 019 AGAVES E KALANCHOES",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "aga-gesto-1.jpg",
+          "alt": "Mãos destacando uma folha inteira de kalanchoe"
+        },
+        {
+          "src": "aga-gesto-2.jpg",
+          "alt": "Dedos enterrando metade de uma folha na terra arenosa"
+        },
+        {
+          "src": "aga-gesto-3.jpg",
+          "alt": "Bandeja de mudas de folha no sol da manhã"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "b7-02",
+        "b7-03",
+        "k9-227",
+        "b7-05",
+        "r6-44"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · FLORIR DE NOVO",
+        "Florir de novo",
+        "O kalanchoe de supermercado floresce a cada 6 meses.",
+        "Esticado depois de várias floradas? É desgaste normal.",
+        "Faça mudas de galho e renove o vaso.",
+        "No segundo ano a florada perde força: poda e adubo não recuperam.",
+        "Até a haste da flor vira muda: pedaços de 10 cm, metade na areia.",
+        "Na próxima: agave secando",
+        "→",
+        "TG 019 AGAVES E KALANCHOES",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "b2-40",
+        "b2-41"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Agave secando depois da flor?",
+        "1",
+        "O QUE PARECE",
+        "Doença ou falta de água.",
+        "O QUE PODE SER",
+        "O fim natural: a maioria morre depois de florir.",
+        "COMO RESOLVER",
+        "Cortar a flor não salva. Guarde os filhotes e as mudinhas da haste.",
+        "Na próxima: antes de plantar",
+        "→",
+        "TG 019 AGAVES E KALANCHOES",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "aga-sintoma-1.jpg",
+          "alt": "Agave com a roseta secando ao pé de uma haste de flor alta"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Agave",
+        "01",
+        "Antes de plantar",
+        "02",
+        "Espinho na passagem",
+        "03",
+        "Quatro de perto",
+        "Na próxima: antes de plantar",
+        "→",
+        "TG 019 AGAVES E KALANCHOES",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cacto-A-1.jpg",
+          "alt": "André ao lado de uma agave no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "b5-17",
+        "b5-16",
+        "b5-18",
+        "b2-42",
+        "r6-23",
+        "b5-15"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · AGAVE",
+        "Antes de plantar",
+        "QUANDO",
+        "Com a terra seca",
+        "DE NOVO EM",
+        "Só quando o vaso apertar",
+        "VOCÊ VAI PRECISAR",
+        "Vaso firme",
+        ", que não tombe",
+        "Terra arenosa",
+        ", nada de terra do jardim",
+        "Luva grossa",
+        " por causa do espinho",
+        "Tesoura",
+        " para a ponta",
+        "Espaço",
+        "Paciência",
+        " para a flor",
+        "Lugar certo",
+        " para quando ela morrer",
+        "Na próxima: espinho na passagem",
+        "→",
+        "TG 019 AGAVES E KALANCHOES",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "b5-15",
+        "b5-16",
+        "b5-22",
+        "b1-30"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · AGAVE",
+        "ATENÇÃO",
+        "Agave na passagem fura quem passa.",
+        "Apare meio centímetro da ponta do espinho.",
+        "A agave-americana solta filhotes a 1 metro de distância.",
+        "FAÇA ASSIM",
+        "Em quintal pequeno, prefira um vaso firme.",
+        "Agave grande vira cerca viva e barreira contra fogo.",
+        "Na próxima: quatro de perto",
+        "→",
+        "TG 019 AGAVES E KALANCHOES",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "b7-02",
+        "b7-04",
+        "r6-17",
+        "b5-20",
+        "r6-16"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro de perto",
+        "1",
+        "Kalanchoe de flor",
+        "Flor até com pouca luz.",
+        "2",
+        "Calandiva",
+        "Flor dobrada, parece rosinha.",
+        "3",
+        "Orelha-de-gato",
+        "Folha peluda, prateada.",
+        "4",
+        "Agave-dragão",
+        "Sem espinho, boa de vaso.",
+        "CHAVE",
+        "Terra que drena",
+        "Longe do pet",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 019 AGAVES E KALANCHOES",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "aga-var-kalanchoe.jpg",
+          "alt": "Kalanchoe florido em vaso"
+        },
+        {
+          "src": "aga-var-calandiva.jpg",
+          "alt": "Calandiva de flor dobrada"
+        },
+        {
+          "src": "aga-var-orelha.jpg",
+          "alt": "Orelha-de-gato de folha peluda"
+        },
+        {
+          "src": "aga-var-dragao.jpg",
+          "alt": "Agave-dragão em vaso na varanda"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "b5-25",
+        "b2-65",
+        "b2-53",
+        "b7-05",
+        "b2-04"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "ESTICADO E VERDE",
+        "Falta sol. Mude aos poucos.",
+        "MANCHA BEGE NA FOLHA",
+        "Sol demais. Sombra clara.",
+        "ALGODÃO NA FOLHA",
+        "Cochonilha no encontro do caule.",
+        "ROSETA SECANDO",
+        "Depois da flor, é normal.",
+        "DICA DO ANDRÉ",
+        "Encostada no vidro da janela ela queima. Cortina fina resolve.",
+        "Na próxima: um número que impressiona",
+        "→",
+        "TG 019 AGAVES E KALANCHOES",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "b5-21",
+        "b2-41"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "25",
+        "ANOS",
+        "pode levar a agave-rainha-vitória para florir uma única vez.",
+        "A haste da flor chega a 4,5 metros de altura.",
+        "E MAIS UMA",
+        "Em algumas agaves, a haste vira milhares de mudinhas que caem no chão.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 019 AGAVES E KALANCHOES",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "b7-02",
+        "b2-17",
+        "b2-09",
+        "r6-43",
+        "b7-03",
+        "b5-15",
+        "b2-40",
+        "t13-20"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Ache o kalanchoe da casa",
+        "Pouca água, não zero água",
+        "Luz forte, sombra no pico",
+        "Faça uma muda de folha",
+        "Esticado? Renove com muda",
+        "Apare o espinho da agave",
+        "Guarde os filhotes da agave",
+        "Longe de cão e gato",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 019 AGAVES E KALANCHOES",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua muda de folha pegar, me conta. E dá uma para alguém. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "019",
+        "VOCÊ TEM",
+        "020",
+        "021",
+        "022",
+        "023",
+        "024",
+        "São 19 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 020 SUCULENTA PENDENTE",
+        "Comente PENDENTE no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 019 AGAVES E KALANCHOES",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cacto-B-1.jpg",
+          "alt": "Retrato do André com suculentas"
+        }
+      ]
+    }
+  ]
+}

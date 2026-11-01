@@ -1,4 +1,17 @@
 # PROGRESSO Terra Gentil
+## LEVA 2 CONTINUA: TG 019 A 024 ESCRITOS (31/10/2026, noite)
+Roteiros curtos novos em `ebooks\fabrica\curtos\tg019.mjs` a `tg024.mjs`, todos com 19 paginas, sem estouro, `validar.mjs` ok; filas do Flow em `gama-ebooks/fila-fotos-tg019.json` a `tg024.json` (acrescentados no `filas2.mjs`).
+| Livro | Titulo | Palavra |
+|---|---|---|
+| 019 | Agaves e Kalanchoes | KALANCHOE |
+| 020 | Suculenta Pendente | PENDENTE |
+| 021 | Enxerto e Muda (rosa-do-deserto) | ENXERTO |
+| 022 | Composteira em Casa | COMPOSTO |
+| 023 | Armadilhas e Aliados (TG 002 ja e Pragas sem Veneno) | ALIADO |
+| 024 | Jardim do Zero | JARDIM |
+**Fotos:** 019 e 020 gerados na eng.andrehz e ja em 2K tratados (previas remontadas). 021 a 023 (24 fotos) disparados na eng.andrehz em seguida (~96 de ~99 na janela). 024 fica para a Pamela amanha (~10h20). A ferramenta perde Elenco e Mascote a cada recarga: remontar (busca "andre-rua-1" e "image.png" no seletor).
+**Material que sobra (estimativa):** uns 10 livros alem do 024 (orquidea 2-3, suculenta 1, rosa-do-deserto 1, praga 1, mato e grama 1, horta 1, cacto 1, rega e vaso 1, poda 1). Abelha e passarinho tem poucos fatos (uns 9): juntar com outro tema. Folhagens precisam das biblias de `gama-ebooks/BIBLIAS-PROCURAR.md` (Hessayon e Lorenzi primeiro).
+**Proximo:** baixar 2K do 021 a 023 (galeria, `__baixar2k`), `casar2k.py`, `fazer.mjs`; TG 024 na Pamela; TG 025 em diante.
 ## FOTOS DO FLOW EM 2K NOS LIVROS (31/10/2026, tarde)
 **Regra prioritaria do Andre: sempre 2K.** O botao Baixar da ferramenta da so 1K (as 8 do TG 001 entraram em 1K: refazer em 2K pela galeria da Pamela). Esteira por livro, conta Pamela (Elenco 4 fotos + Gentileza montados de novo, nao ficaram salvos): colar fila, Carregar, Gerar, Confirmar (~5 min); "Baixar todas prontas" (1K com id, so para casar); galeria do projeto, script `__baixar2k(0,7)` (contextmenu, Fazer o download, 2K; a aba da galeria PRECISA ficar em primeiro plano); `python -I esperar.py TGNNN 2k` e `python -I casar2k.py TGNNN` (fabrica: casa por correlacao, guarda o 2K em `ebooks\fotos-flow\originais\TGNNN\`, trata anti-IA em `ebooks\TGNNN\`); `livro-cli.mjs montar` refaz a previa (PDF ~20 MB, comprimir na versao final).
 **FEITO (31/10, noite): TG 001 a TG 018 com as 8 fotos do Flow em 2K, 144 no total, nenhuma em 1K.** TG 002 a 011 geradas na Pamela (~96 geracoes hoje, janela quase cheia), TG 012 a 018 na eng.andrehz (56 hoje; Elenco e Mascote montados de novo, a ferramenta dela tem layout proprio: caixa de colar a direita, Carregar fila em cima dela, Gerar e Baixar todas no topo). Previas remontadas em `ebooks\TGNNN-previa.pdf` (002 a 018). TG 001: as 8 em 2K trocadas nas fotos do canvas (nomes por hash, casadas por correlacao), PDF novo `ebooks\TG001-2k.pdf` (o v3 ficou intacto). Originais 2K em `ebooks\fotos-flow\originais\TGNNN\`, 1K de referencia em `fotos-flow\1k\TGNNN\`.

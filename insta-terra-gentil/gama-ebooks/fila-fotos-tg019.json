@@ -1,0 +1,70 @@
+{
+  "livro": "TG 019",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "aga-gesto-1",
+      "especie": "Kalanchoe blossfeldiana",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's fingers twisting off a whole leaf from a kalanchoe",
+      "mascote": true
+    },
+    {
+      "id": "aga-gesto-2",
+      "especie": "Kalanchoe blossfeldiana",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's fingers pushing half of a succulent leaf into sandy soil",
+      "mascote": false
+    },
+    {
+      "id": "aga-gesto-3",
+      "especie": "Kalanchoe blossfeldiana",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing a tray of leaf cuttings on a windowsill in morning sun",
+      "mascote": false
+    },
+    {
+      "id": "aga-sintoma-1",
+      "especie": "Kalanchoe blossfeldiana",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "An agave rosette drying and dying at the base of a very tall flower stalk",
+      "mascote": false
+    },
+    {
+      "id": "aga-var-kalanchoe",
+      "especie": "Kalanchoe blossfeldiana",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A flowering red kalanchoe in a pot",
+      "mascote": false
+    },
+    {
+      "id": "aga-var-calandiva",
+      "especie": "Kalanchoe Calandiva",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A Calandiva kalanchoe with double rose-like pink flowers",
+      "mascote": false
+    },
+    {
+      "id": "aga-var-orelha",
+      "especie": "Kalanchoe tomentosa",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A panda plant with fuzzy silver leaves with brown tips in a pot",
+      "mascote": false
+    },
+    {
+      "id": "aga-var-dragao",
+      "especie": "Agave attenuata",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A spineless fox tail agave in a large pot on a balcony",
+      "mascote": false
+    }
+  ]
+}

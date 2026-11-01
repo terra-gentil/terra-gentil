@@ -1,0 +1,70 @@
+{
+  "livro": "TG 024",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "zer-gesto-1",
+      "especie": "new garden",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands setting a shrub seedling with its root ball intact into a planting hole",
+      "mascote": true
+    },
+    {
+      "id": "zer-gesto-2",
+      "especie": "new garden",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands tying a young shrub to a bamboo stake",
+      "mascote": false
+    },
+    {
+      "id": "zer-gesto-3",
+      "especie": "new garden",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands spreading straw mulch around a newly planted seedling",
+      "mascote": false
+    },
+    {
+      "id": "zer-sintoma-1",
+      "especie": "new garden",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A garden bed with stunted weak plants only along the edge next to a trampled dirt path",
+      "mascote": false
+    },
+    {
+      "id": "zer-var-enxada",
+      "especie": "garden hoe",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A garden hoe leaning against a backyard wall",
+      "mascote": false
+    },
+    {
+      "id": "zer-var-cavadeira",
+      "especie": "post hole digger",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A post hole digger stuck in garden soil",
+      "mascote": false
+    },
+    {
+      "id": "zer-var-ancinho",
+      "especie": "garden rake",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A garden rake spreading straw over a garden bed",
+      "mascote": false
+    },
+    {
+      "id": "zer-var-forcado",
+      "especie": "garden fork",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A garden fork stuck in a pile of straw",
+      "mascote": false
+    }
+  ]
+}

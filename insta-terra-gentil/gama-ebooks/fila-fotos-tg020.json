@@ -1,0 +1,70 @@
+{
+  "livro": "TG 020",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "pen-gesto-1",
+      "especie": "trailing succulent",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands laying a strand of string of hearts on the soil of a pot",
+      "mascote": true
+    },
+    {
+      "id": "pen-gesto-2",
+      "especie": "trailing succulent",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's fingers sticking a short succulent stem cutting into sandy soil",
+      "mascote": false
+    },
+    {
+      "id": "pen-gesto-3",
+      "especie": "trailing succulent",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands setting a pot of succulent cuttings in morning sun by a window",
+      "mascote": false
+    },
+    {
+      "id": "pen-sintoma-1",
+      "especie": "trailing succulent",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A string of pearls plant with shriveled, mushy pearls near the soil",
+      "mascote": false
+    },
+    {
+      "id": "pen-var-perolas",
+      "especie": "Senecio rowleyanus",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "String of pearls trailing from a hanging pot",
+      "mascote": false
+    },
+    {
+      "id": "pen-var-rabo",
+      "especie": "Sedum morganianum burrito",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A burro's tail succulent trailing from a pot",
+      "mascote": false
+    },
+    {
+      "id": "pen-var-coracoes",
+      "especie": "Ceropegia woodii",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "String of hearts trailing from a hanging pot",
+      "mascote": false
+    },
+    {
+      "id": "pen-var-cera",
+      "especie": "Hoya carnosa",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A wax plant with a cluster of pink star flowers",
+      "mascote": false
+    }
+  ]
+}

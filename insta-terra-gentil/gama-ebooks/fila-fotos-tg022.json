@@ -1,0 +1,70 @@
+{
+  "livro": "TG 022",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "com-gesto-1",
+      "especie": "home compost",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands spreading dry straw at the bottom of a wooden compost bin",
+      "mascote": true
+    },
+    {
+      "id": "com-gesto-2",
+      "especie": "home compost",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand squeezing a handful of moist dark compost",
+      "mascote": false
+    },
+    {
+      "id": "com-gesto-3",
+      "especie": "home compost",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands turning compost with a garden fork",
+      "mascote": false
+    },
+    {
+      "id": "com-sintoma-1",
+      "especie": "home compost",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A soggy compost bin full of slimy wet grass clippings",
+      "mascote": false
+    },
+    {
+      "id": "com-var-paletes",
+      "especie": "pallet compost bin",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A compost bin made of four wooden pallets in a backyard",
+      "mascote": false
+    },
+    {
+      "id": "com-var-minhoca",
+      "especie": "worm bin",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Stacked plastic worm composting bins on a balcony",
+      "mascote": false
+    },
+    {
+      "id": "com-var-folhas",
+      "especie": "leaf mold pile",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A pile of dry leaves in the corner of a backyard",
+      "mascote": false
+    },
+    {
+      "id": "com-var-pronto",
+      "especie": "finished compost",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dark crumbly finished compost in open hands",
+      "mascote": false
+    }
+  ]
+}

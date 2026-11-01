@@ -1,0 +1,551 @@
+{
+  "livro": "TG 023",
+  "titulo": "Armadilhas e Aliados",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "023",
+        "COLEÇÃO TERRA GENTIL",
+        "PRAGA",
+        "Armadilhas e Aliados",
+        "Joaninha, lesma e garrafa PET.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-praga-A-1.jpg",
+          "alt": "André olhando o verso de uma folha"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "n10-83",
+        "k9-099"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Nem todo bicho no jardim é inimigo.",
+        "Uma joaninha come mais de 50 pulgões num dia só.",
+        "Aqui eu te mostro quem é quem, as armadilhas e os aliados.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Vire três folhas e veja quem mora embaixo.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 023 ARMADILHAS E ALIADOS",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-G-1.jpg",
+          "alt": "André na horta olhando as folhas"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "n10-91",
+        "s2-45",
+        "f11-38"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Olhe antes de matar.",
+        "Descubra quem fez o estrago antes de combater.",
+        "SOL DE MANHÃ, VENTO",
+        "Orvalho que seca rápido tira a força da doença.",
+        "E nunca pulverize no sol forte.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 023 ARMADILHAS E ALIADOS",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do jardim",
+        "06",
+        "CAPÍTULO 1",
+        "Quem é quem",
+        "08",
+        "CAPÍTULO 2",
+        "Armadilhas",
+        "12",
+        "CAPÍTULO 3",
+        "Extrato na hora certa",
+        "15",
+        "CAPÍTULO 4",
+        "De perto, sem confusão",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Folha com rastro de gosma? Vá para a página 11.",
+        "Na próxima: a ficha do jardim",
+        "→",
+        "TG 023 ARMADILHAS E ALIADOS",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "s2-45",
+        "n10-91",
+        "s2-50",
+        "k9-100",
+        "k9-089"
+      ],
+      "textos": [
+        "FICHA DO JARDIM",
+        "Jardim de aliados",
+        "O que ele pede",
+        "SOL",
+        "De manhã, seca o orvalho",
+        "VENTO",
+        "Espaço entre as plantas",
+        "ADUBO",
+        "Na medida, sem exagero",
+        "ÁGUA",
+        "Limpa, chama libélula",
+        "OLHO",
+        "Toda semana, no verso",
+        "PET",
+        "ATENÇÃO",
+        "Armadilha e calda longe do pet",
+        "Na próxima: quem é quem",
+        "→",
+        "TG 023 ARMADILHAS E ALIADOS",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Quem é quem",
+        "01",
+        "Pelo estrago",
+        "02",
+        "Garrafa PET",
+        "03",
+        "Rastro de gosma",
+        "Na próxima: pelo estrago",
+        "→",
+        "TG 023 ARMADILHAS E ALIADOS",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-praga-G-1.jpg",
+          "alt": "André com uma lupa na horta"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "s2-81",
+        "s2-82",
+        "n10-79",
+        "n10-77",
+        "q3-57",
+        "k9-089"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · PELO ESTRAGO",
+        "Quem fez isso?",
+        "SINAL",
+        "QUEM",
+        "O QUE FAZER",
+        "Folha em peneira",
+        "Besouro-pulga",
+        "Catar e cobrir",
+        "Borda com gosma",
+        "Lesma",
+        "Armadilha",
+        "Nuvem branca",
+        "Mosca-branca",
+        "Placa amarela",
+        "Teia no verso",
+        "Ácaro",
+        "Água no verso",
+        "Riscos prateados na folha e na flor? É tripes: terra seca piora.",
+        "DICA DO ANDRÉ",
+        "Mexa na planta: se sobe uma nuvem de mosquinha, é mosca-branca.",
+        "Na próxima: armadilhas",
+        "→",
+        "TG 023 ARMADILHAS E ALIADOS",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Armadilhas",
+        "01",
+        "Garrafa PET",
+        "02",
+        "Lesma de manhã",
+        "03",
+        "Rastro de gosma",
+        "Na próxima: garrafa PET",
+        "→",
+        "TG 023 ARMADILHAS E ALIADOS",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-ferramentas-A-1.jpg",
+          "alt": "André com uma garrafa PET"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "k9-097"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Mosca-das-frutas? Faça assim.",
+        "QUANDO",
+        "Com fruta amadurecendo",
+        "TEMPO",
+        "10 minutos",
+        "PRECISA",
+        "Garrafa PET e refrigerante",
+        "1",
+        "QUATRO FUROS",
+        "No gargalo, grossura de lápis.",
+        "2",
+        "UM DEDO DE REFRIGERANTE",
+        "Doce chama a mosca.",
+        "3",
+        "PENDURE NA ÁRVORE",
+        "Ela entra e não sai.",
+        "DICA DO ANDRÉ",
+        "Troque o refrigerante quando a garrafa encher de mosca.",
+        "Na próxima: lesma de manhã",
+        "→",
+        "TG 023 ARMADILHAS E ALIADOS",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ali-gesto-1.jpg",
+          "alt": "Mãos furando o gargalo de uma garrafa PET"
+        },
+        {
+          "src": "ali-gesto-2.jpg",
+          "alt": "Mão pondo um pouco de refrigerante dentro da garrafa"
+        },
+        {
+          "src": "ali-gesto-3.jpg",
+          "alt": "Mãos pendurando a garrafa num galho de árvore frutífera"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "s2-83",
+        "s2-84",
+        "f11-79",
+        "s2-86",
+        "f11-07"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · LESMA",
+        "Lesma de manhã",
+        "Deixe tábua, pedra ou vaso virado e recolha de manhã.",
+        "Folha de confrei entre a alface vira armadilha.",
+        "Fita de cobre no canteiro: ela desiste de passar.",
+        "Placa amarela adesiva pega mosca-branca adulta.",
+        "Contra lesma, extrato não resolve: armadilha resolve.",
+        "Na próxima: rastro de gosma",
+        "→",
+        "TG 023 ARMADILHAS E ALIADOS",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "s2-82",
+        "s2-83"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Folha com rastro de gosma?",
+        "1",
+        "O QUE PARECE",
+        "Bicho que ninguém vê.",
+        "O QUE PODE SER",
+        "Lesma ou caracol, que come à noite.",
+        "COMO RESOLVER",
+        "Lanterna à noite ou armadilha, e recolha de manhã.",
+        "Na próxima: extrato na hora certa",
+        "→",
+        "TG 023 ARMADILHAS E ALIADOS",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ali-sintoma-1.jpg",
+          "alt": "Folha de alface com a borda roída e rastro brilhante de lesma"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Extrato na hora certa",
+        "01",
+        "Antes de pulverizar",
+        "02",
+        "Curar antes de alimentar",
+        "03",
+        "Quatro de perto",
+        "Na próxima: antes de pulverizar",
+        "→",
+        "TG 023 ARMADILHAS E ALIADOS",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-praga-F-1.jpg",
+          "alt": "André com um pulverizador na horta"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "f11-38",
+        "f11-40",
+        "f11-44",
+        "f11-45"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · EXTRATO",
+        "Antes de pulverizar",
+        "QUANDO",
+        "À tarde, contra inseto",
+        "DE NOVO EM",
+        "Depois de chuva",
+        "VOCÊ VAI PRECISAR",
+        "Pulverizador",
+        " de bico limpo",
+        "Previsão",
+        " sem chuva",
+        "Sombra",
+        ", nunca sol forte",
+        "Verso da folha",
+        " molhado",
+        "Cuidado",
+        "Folha",
+        " só úmida",
+        "Água limpa",
+        " para lavar o bico",
+        "Na próxima: curar antes de alimentar",
+        "→",
+        "TG 023 ARMADILHAS E ALIADOS",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "f11-03",
+        "f11-06",
+        "f11-48"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · EXTRATO",
+        "ATENÇÃO",
+        "Extrato que estimula é de prevenção, antes da praga.",
+        "Extrato que cura só quando a praga apareceu.",
+        "Nunca os dois no mesmo dia: a planta fica em choque.",
+        "FAÇA ASSIM",
+        "Primeiro cure. Alguns dias depois, alimente.",
+        "Urtiga demais dá nitrogênio e o pulgão volta.",
+        "Na próxima: quatro de perto",
+        "→",
+        "TG 023 ARMADILHAS E ALIADOS",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "k9-099",
+        "s2-65",
+        "k9-100",
+        "s2-98"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro aliados",
+        "1",
+        "Joaninha",
+        "Mais de 50 pulgões por dia.",
+        "2",
+        "Crisopídeo",
+        "O leão-dos-pulgões.",
+        "3",
+        "Libélula",
+        "Come larva de mosquito.",
+        "4",
+        "Cravo-de-defunto",
+        "Contra nematoide.",
+        "CHAVE",
+        "Olhe antes",
+        "Proteja o aliado",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 023 ARMADILHAS E ALIADOS",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ali-var-joaninha.jpg",
+          "alt": "Joaninha comendo pulgões numa folha"
+        },
+        {
+          "src": "ali-var-crisopideo.jpg",
+          "alt": "Larva de crisopídeo numa folha"
+        },
+        {
+          "src": "ali-var-libelula.jpg",
+          "alt": "Libélula pousada perto de água limpa"
+        },
+        {
+          "src": "ali-var-cravo.jpg",
+          "alt": "Cravo-de-defunto florido na horta"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "f11-48",
+        "f11-44",
+        "f11-40",
+        "f11-45",
+        "k9-099"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "PULGÃO VOLTOU",
+        "Nitrogênio demais. Menos urtiga.",
+        "EXTRATO ESCORRENDO",
+        "Encharcou. Folha só úmida.",
+        "NÃO FEZ EFEITO",
+        "A chuva lavou. Espere.",
+        "GOTA GROSSA",
+        "Bico entupindo. Lave.",
+        "DICA DO ANDRÉ",
+        "Joaninha bebê não parece joaninha: não confunda com praga.",
+        "Na próxima: um número que impressiona",
+        "→",
+        "TG 023 ARMADILHAS E ALIADOS",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "k9-099",
+        "s2-69"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "50",
+        "PULGÕES",
+        "ou mais come uma única joaninha num dia.",
+        "Ela é a melhor ajudante da sua horta.",
+        "E MAIS UMA",
+        "A filha de um autor catou 450 besouros a meio centavo e comprou três patinhos.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 023 ARMADILHAS E ALIADOS",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "n10-91",
+        "s2-82",
+        "k9-097",
+        "s2-83",
+        "s2-86",
+        "f11-38",
+        "f11-06",
+        "k9-099"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Vire três folhas",
+        "Descubra quem fez o estrago",
+        "Garrafa PET na frutífera",
+        "Tábua para pegar lesma",
+        "Placa amarela na horta",
+        "Pulverize à tarde",
+        "Cure antes de alimentar",
+        "Proteja a joaninha",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 023 ARMADILHAS E ALIADOS",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se você achar uma joaninha na horta, me conta. E ensina alguém a não matar. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "023",
+        "VOCÊ TEM",
+        "024",
+        "025",
+        "026",
+        "027",
+        "028",
+        "São 23 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 024 JARDIM DO ZERO",
+        "Comente JARDIM no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 023 ARMADILHAS E ALIADOS",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-H-1.jpg",
+          "alt": "Retrato do André na horta"
+        }
+      ]
+    }
+  ]
+}

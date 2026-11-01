@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-29",
+ "gerado": "2026-11-01",
  "fatos": {
   "b1-01": {
    "texto": "Suculenta guarda água nas folhas e no caule: não murcha se você esquecer de regar",
@@ -12015,6 +12015,1758 @@
    "serie": "Você sabia?",
    "livro": "Carol Costa, Minhas Plantas",
    "pagina": "482",
+   "fontePet": null
+  },
+  "w18-001": {
+   "texto": "Costela-de-adão, lírio-da-paz, antúrio, copo-de-leite, jiboia, filodendro e comigo-ninguém-pode são todos da mesma família: as aráceas",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "27-28",
+   "fontePet": null
+  },
+  "w18-002": {
+   "texto": "Por anos a costela-de-adão foi a planta de casa mais vendida do mundo, à frente de filodendro, comigo-ninguém-pode e aglaonema",
+   "esp": "costela-de-adão",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "28",
+   "fontePet": null
+  },
+  "w18-003": {
+   "texto": "As aráceas são a família mais usada como planta de casa porque têm folhagem linda e aguentam bem a luz e o ar de casa e escritório",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "28",
+   "fontePet": null
+  },
+  "w18-004": {
+   "texto": "O taro, primo da taioba, faz parte da comida de uns 400 milhões de pessoas nos trópicos",
+   "esp": "taioba",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "28",
+   "fontePet": null
+  },
+  "w18-005": {
+   "texto": "Mito: a \"flor\" vermelha do antúrio não é uma flor. É uma folha modificada (a espata); as flores de verdade são minúsculas e ficam no \"rabinho\" do meio (a espádice)",
+   "esp": "antúrio",
+   "serie": "Mito ou verdade",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "29, 33-34",
+   "fontePet": null
+  },
+  "w18-006": {
+   "texto": "A flor do antúrio é tão cerosa que parece de plástico: difícil acreditar que é de verdade",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "27",
+   "fontePet": null
+  },
+  "w18-007": {
+   "texto": "Antúrio quer dizer \"flor com cauda\", por causa do bastão que sai do meio da flor",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "37",
+   "fontePet": null
+  },
+  "w18-008": {
+   "texto": "A parte branca do lírio-da-paz também é uma folha modificada; muitas vezes ela fica verde depois da floração e passa a fazer fotossíntese",
+   "esp": "lírio-da-paz",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "34",
+   "fontePet": null
+  },
+  "w18-009": {
+   "texto": "No antúrio dá para ver as fases da flor: primeiro o bastão fica meio grudento (fase feminina), depois solta um pozinho (o pólen). Assim a planta evita se autopolinizar",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "34",
+   "fontePet": null
+  },
+  "w18-010": {
+   "texto": "A floração do antúrio é longa: as flores do bastão vão abrindo aos poucos, de baixo para cima, e isso pode levar semanas ou mais de um mês",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "34",
+   "fontePet": null
+  },
+  "w18-011": {
+   "texto": "Ninguém sabe ao certo por que algumas aráceas têm furos perfeitos nas folhas; folha furada quase não existe fora dessa família",
+   "esp": "costela-de-adão",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "30",
+   "fontePet": null
+  },
+  "w18-012": {
+   "texto": "Os furos da costela-de-adão não são rasgos: partes da folha morrem de propósito quando ela ainda está enrolada, e o furo nasce de dentro para fora",
+   "esp": "costela-de-adão",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "42-43",
+   "fontePet": null
+  },
+  "w18-013": {
+   "texto": "Uma explicação para os furos: a folha recortada por dentro consegue ficar enrolada dentro da anterior e abrir sem embolar",
+   "esp": "costela-de-adão",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "43",
+   "fontePet": null
+  },
+  "w18-014": {
+   "texto": "A zamioculca é uma das raras aráceas com folha dividida em folhinhas separadas, como uma pena",
+   "esp": "zamioculca",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "41",
+   "fontePet": null
+  },
+  "w18-015": {
+   "texto": "Muitas aráceas só mostram a folha mais recortada quando ficam adultas: a mesma planta pode ter folhas jovens inteiras e folhas adultas cheias de recortes",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "41-42",
+   "fontePet": null
+  },
+  "w18-016": {
+   "texto": "Folha aveludada ajuda a planta a captar luz, e folha brilhante evita que musgo, alga e outras plantas grudem nela: truques da mata escura e úmida",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "43-44",
+   "fontePet": null
+  },
+  "w18-017": {
+   "texto": "Num pedaço pequeno da Tailândia acharam 22 cores diferentes da mesma aglaonema, cada planta pintada de um jeito",
+   "esp": "aglaonema",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "43",
+   "fontePet": null
+  },
+  "w18-018": {
+   "texto": "Os vermelhos, rosas e brancos do caládio de vaso vêm de anos de seleção e cruzamento; ele é um exemplo de folha melhorada pelo homem",
+   "esp": "caládio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "43",
+   "fontePet": null
+  },
+  "w18-019": {
+   "texto": "Nas aráceas cada folha nova nasce da base da anterior, protegida por uma capinha; no filodendro-rosado essa capinha é rosa e enfeita a planta, depois seca e fica marrom como papel",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "44",
+   "fontePet": null
+  },
+  "w18-020": {
+   "texto": "Na comigo-ninguém-pode a folha nova sai de dentro do talo da folha anterior, que se abre quase inteiro como uma bainha",
+   "esp": "comigo-ninguém-pode",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "44",
+   "fontePet": null
+  },
+  "w18-021": {
+   "texto": "As raízes das aráceas nascem do caule, quase sempre no nó (onde sai a folha): por isso a muda de jiboia, filodendro e costela-de-adão precisa levar pelo menos um nó",
+   "esp": "jiboia",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "44",
+   "fontePet": null
+  },
+  "w18-022": {
+   "texto": "A costela-de-adão faz dois tipos de raiz aérea: a \"âncora\", que gruda no tronco, e a \"alimentadora\", que desce até o chão para beber chuva e orvalho e se ramifica quando entra na terra",
+   "esp": "costela-de-adão",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "46",
+   "fontePet": null
+  },
+  "w18-023": {
+   "texto": "Raiz aérea comprida não é defeito da costela-de-adão: ela serve para a planta se segurar e para buscar água; as que descem ao chão viram raiz de terra",
+   "esp": "costela-de-adão",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "46",
+   "fontePet": null
+  },
+  "w18-024": {
+   "texto": "O tubérculo do caládio murcha enquanto as folhas novas crescem, porque elas gastam a reserva dele; quando as folhas começam a trabalhar, um tubérculo novo vai enchendo de novo",
+   "esp": "caládio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "47",
+   "fontePet": null
+  },
+  "w18-025": {
+   "texto": "Caládio que perdeu todas as folhas pode só estar dormindo: aráceas de tubérculo somem por meses na seca ou no frio e voltam quando a estação muda",
+   "esp": "caládio",
+   "serie": "Socorro",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "47",
+   "fontePet": null
+  },
+  "w18-026": {
+   "texto": "Quase toda arácea gosta de umidade e abrigo: a folha carnuda sofre com vento forte e sol direto",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "47",
+   "fontePet": null
+  },
+  "w18-027": {
+   "texto": "O antúrio é o maior grupo da família, com cerca de 1.000 espécies; a família toda tem umas 3.500",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "48",
+   "fontePet": null
+  },
+  "w18-028": {
+   "texto": "Existe lírio-da-paz nativo da Ásia e da América do Sul tão parecidos que só dá para separar sabendo de onde vieram",
+   "esp": "lírio-da-paz",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "49",
+   "fontePet": null
+  },
+  "w18-029": {
+   "texto": "A família da costela-de-adão é antiga: um fóssil de folha de filodendro de 45 milhões de anos foi achado nos Estados Unidos",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "53",
+   "fontePet": null
+  },
+  "w18-030": {
+   "texto": "A maioria dos lírios-da-paz é perfumada: uma ou duas flores conseguem perfumar uma estufa inteira",
+   "esp": "lírio-da-paz",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "61",
+   "fontePet": null
+  },
+  "w18-031": {
+   "texto": "Uma alocasia, a Alocasia odora, tem flor com cheiro de violeta",
+   "esp": "alocasia",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "58",
+   "fontePet": null
+  },
+  "w18-032": {
+   "texto": "Algumas aráceas esquentam a própria flor; quem dispara esse calor é o ácido salicílico, a mesma substância da aspirina",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "61",
+   "fontePet": null
+  },
+  "w18-033": {
+   "texto": "A flor do guaimbê (Philodendron bipinnatifidum, o \"selloum\") esquenta até uns 35 graus ao anoitecer e solta cheiro de pimenta, canela e baunilha para chamar besouros",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "63",
+   "fontePet": null
+  },
+  "w18-034": {
+   "texto": "Na hora do calor, a flor do guaimbê gasta oxigênio quase como um beija-flor voando",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "63",
+   "fontePet": null
+  },
+  "w18-035": {
+   "texto": "Já viram quase 200 besouros numa só flor de guaimbê, comendo e se acasalando lá dentro; saem cobertos de pólen",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "63-64",
+   "fontePet": null
+  },
+  "w18-036": {
+   "texto": "Algumas aráceas prendem os insetos na flor durante uma noite para garantir a polinização; de manhã a flor solta e eles saem cobertos de pólen",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "70-71",
+   "fontePet": null
+  },
+  "w18-037": {
+   "texto": "Quem poliniza a costela-de-adão são abelhas; a flor clara aparece bem na sombra da mata",
+   "esp": "costela-de-adão",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "72",
+   "fontePet": null
+  },
+  "w18-038": {
+   "texto": "O lírio-da-paz tem cara de flor de abelha: flor clara e aberta, cheiro doce e pólen próprio para elas",
+   "esp": "lírio-da-paz",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "73",
+   "fontePet": null
+  },
+  "w18-039": {
+   "texto": "Na fase feminina, o \"rabinho\" do antúrio pinga um líquido doce que pode alimentar abelhas e até beija-flores",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "73",
+   "fontePet": null
+  },
+  "w18-040": {
+   "texto": "Depois de florir, a \"folha\" da flor do singônio fecha e fica verde para proteger os frutos; quando eles amadurecem ela fica vermelha para chamar quem vai espalhar as sementes",
+   "esp": "singônio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "74",
+   "fontePet": null
+  },
+  "w18-042": {
+   "texto": "A semente do antúrio é grudenta: o passarinho come a polpa e limpa o bico no galho, deixando a semente plantada lá no alto",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "75-76",
+   "fontePet": null
+  },
+  "w18-043": {
+   "texto": "No Brasil o fruto do guaimbê é chamado de fruto-de-macaco e banana-de-morcego: macacos e morcegos comem a fruta",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "76",
+   "fontePet": null
+  },
+  "w18-044": {
+   "texto": "Além da semente, as aráceas se multiplicam por brotos, tubérculos filhotes e rizomas; a muda sai igualzinha à mãe",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "77",
+   "fontePet": null
+  },
+  "w18-045": {
+   "texto": "Tem arácea que muda de sexo de um ano para o outro: se o ano foi bom e ela guardou reserva, vira fêmea; se foi médio, macho; se foi ruim, só dá folha",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "85-88",
+   "fontePet": null
+  },
+  "w18-046": {
+   "texto": "Uma arácea europeia imita um cogumelo dentro da flor: o mosquito põe ovo achando que é fungo, e de quebra leva o pólen",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "95-96",
+   "fontePet": null
+  },
+  "w18-047": {
+   "texto": "Uma planta de terra perde até 98% da água que bebe pela transpiração das folhas",
+   "esp": "regar",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "103",
+   "fontePet": null
+  },
+  "w18-048": {
+   "texto": "Terra encharcada mata por falta de ar: o oxigênio anda mais de mil vezes mais devagar na água, e sem ele a raiz apodrece e a planta \"se afoga\"",
+   "esp": "regar",
+   "serie": "3 erros",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "102",
+   "fontePet": null
+  },
+  "w18-049": {
+   "texto": "A alface-d'água do lago é uma arácea: boia como rolha porque tem ar dentro das folhas e uma penugem que espanta a água",
+   "esp": "alface-d'água",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "106",
+   "fontePet": null
+  },
+  "w18-050": {
+   "texto": "Cuidado ao soltar alface-d'água em lago ou represa: na Austrália, 3 plantas cobriram um reservatório inteiro e viraram praga",
+   "esp": "alface-d'água",
+   "serie": "3 erros",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "109",
+   "fontePet": null
+  },
+  "w18-051": {
+   "texto": "A alface-d'água limpa água parada e suja e serve de abrigo para filhote de peixe; por isso é usada em lago ornamental",
+   "esp": "alface-d'água",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "109-110",
+   "fontePet": null
+  },
+  "w18-052": {
+   "texto": "A alface-d'água se multiplica sozinha por brotos na ponta de estolões, como o morango; um pé vira um tapete em pouco tempo",
+   "esp": "alface-d'água",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "106",
+   "fontePet": null
+  },
+  "w18-053": {
+   "texto": "A anúbia de aquário também é uma arácea: vive bem dentro da água, mas só floresce com a \"cabeça\" para fora",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "118",
+   "fontePet": null
+  },
+  "w18-054": {
+   "texto": "O copo-de-leite é da África do Sul; Lineu chamou o gênero de Calla, por isso o nome \"calla\" até hoje",
+   "esp": "copo-de-leite",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "127",
+   "fontePet": null
+  },
+  "w18-056": {
+   "texto": "Os copos-de-leite coloridos, do creme ao rosa e com folha pintadinha, são cruzamentos de duas espécies africanas, uma amarela e uma rosa",
+   "esp": "copo-de-leite",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "127",
+   "fontePet": null
+  },
+  "w18-057": {
+   "texto": "Existe um copo-de-leite verde e branco, a variedade \"Green Goddess\", com flor enorme",
+   "esp": "copo-de-leite",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "128",
+   "fontePet": null
+  },
+  "w18-058": {
+   "texto": "Diego Rivera pintou copo-de-leite em tantos quadros que muita gente acha que a flor é mexicana; ela veio da África do Sul",
+   "esp": "copo-de-leite",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "128",
+   "fontePet": null
+  },
+  "w18-059": {
+   "texto": "Na África do Sul uma pererequinha sobe no copo-de-leite e fica cor de creme para se esconder na flor branca",
+   "esp": "copo-de-leite",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "128",
+   "fontePet": null
+  },
+  "w18-060": {
+   "texto": "No Oriente a aglaonema verde (Aglaonema modestum) é planta de boa sorte; as formas variegadas dela são raras",
+   "esp": "aglaonema",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "135",
+   "fontePet": null
+  },
+  "w18-061": {
+   "texto": "Na mesma população de aglaonema nascem plantas lisas e plantas pintadas, cada uma com um tanto de manchas",
+   "esp": "aglaonema",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "135",
+   "fontePet": null
+  },
+  "w18-062": {
+   "texto": "A alocasia-amazônica não é da Amazônia: é um híbrido feito em viveiro com duas alocasias asiáticas",
+   "esp": "alocasia",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "136",
+   "fontePet": null
+  },
+  "w18-063": {
+   "texto": "Contra a luz dá para ver o desenho da folha da alocasia: o cabo prende no meio da folha, por baixo, e não na borda",
+   "esp": "alocasia",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "137",
+   "fontePet": null
+  },
+  "w18-064": {
+   "texto": "Antúrio comum ou antúrio de rabo enrolado (Anthurium scherzerianum)? O de rabo enrolado aguenta melhor dentro de casa, com menos calor e ar mais seco",
+   "esp": "antúrio",
+   "serie": "X ou Y?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "148",
+   "fontePet": null
+  },
+  "w18-065": {
+   "texto": "Os antúrios rosinha com muitas flores pequenas vêm de um cruzamento do antúrio vermelho com um antúrio miniatura lilás",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "150",
+   "fontePet": null
+  },
+  "w18-066": {
+   "texto": "Existe antúrio com folha de 1,5 metro, pendurado nas árvores da Costa Rica",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "152",
+   "fontePet": null
+  },
+  "w18-067": {
+   "texto": "Em inglês o caládio se chama \"asa de anjo\": a folha é colorida e delicada como uma flor",
+   "esp": "caládio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "164",
+   "fontePet": null
+  },
+  "w18-068": {
+   "texto": "Muito caládio pintado que se vende é verde liso na natureza; as cores foram escolhidas e mantidas pelos cultivadores",
+   "esp": "caládio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "165",
+   "fontePet": null
+  },
+  "w18-069": {
+   "texto": "A comigo-ninguém-pode foi uma das primeiras aráceas tropicais levadas para a Europa, em 1759; ela é brasileira",
+   "esp": "comigo-ninguém-pode",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "173, 404",
+   "fontePet": null
+  },
+  "w18-070": {
+   "texto": "Jiboia verde-amarela ou jiboia \"Marble Queen\" (branca)? A branca é mais fraca e cresce mais devagar",
+   "esp": "jiboia",
+   "serie": "X ou Y?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "175",
+   "fontePet": null
+  },
+  "w18-071": {
+   "texto": "A costela-de-adão variegada (branca) cresce mais devagar e pede mais umidade no ar que a verde",
+   "esp": "costela-de-adão",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "184",
+   "fontePet": null
+  },
+  "w18-072": {
+   "texto": "O guaimbê, filodendro brasileiro de folha bem recortada, muitas vezes cresce em sol pleno",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "189",
+   "fontePet": null
+  },
+  "w18-073": {
+   "texto": "O singônio \"White Butterfly\" tem folha nova com nervura branca e, quando adulta, a folha fica 80% branca",
+   "esp": "singônio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "202",
+   "fontePet": null
+  },
+  "w18-074": {
+   "texto": "Várias trepadeiras da família têm folha de filhote bem diferente da folha adulta: a pequena e colada no tronco ajuda a planta a se firmar na árvore antes de crescer",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "196",
+   "fontePet": null
+  },
+  "w18-075": {
+   "texto": "Na seca da África a zamioculca perde as folhinhas e guarda água na base grossa dos ramos até a chuva voltar; por isso ela aguenta tanto tempo sem rega",
+   "esp": "zamioculca",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "205, 228-229",
+   "fontePet": null
+  },
+  "w18-076": {
+   "texto": "O copo-de-leite branco é muito adaptável: cresce do clima tropical ao frio e aguenta terra molhada e terra mais seca",
+   "esp": "copo-de-leite",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "206",
+   "fontePet": null
+  },
+  "w18-078": {
+   "texto": "O \"lírio-vodu\" vendido como curiosidade floresce em cima de um pires, sem terra e sem água, só com a reserva do tubérculo; depois de plantado, solta uma folha bonita",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "223-224",
+   "fontePet": null
+  },
+  "w18-079": {
+   "texto": "A zamioculca é a única arácea cuja folhinha caída vira planta nova, como acontece com suculenta: na base dela nasce um tubérculo pequeno",
+   "esp": "zamioculca",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "229",
+   "fontePet": null
+  },
+  "w18-080": {
+   "texto": "Para fazer muda de zamioculca, uma folhinha basta: ela forma um tubérculo na base e enraíza, como folha de suculenta",
+   "esp": "zamioculca",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "229",
+   "fontePet": null
+  },
+  "w18-081": {
+   "texto": "A zamioculca é tida como sobrevivente da flora antiga da África, que resistiu a grandes mudanças de clima",
+   "esp": "zamioculca",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "w18-082": {
+   "texto": "Na Bahia existe um filodendro que vive em pedra na seca: as raízes aéreas crescem direto para dentro das bromélias e bebem a água guardada nelas",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "229",
+   "fontePet": null
+  },
+  "w18-083": {
+   "texto": "Tem antúrio brasileiro que vive na caatinga e em pedra a 50 graus, com ar muito seco; muitas vezes é a única planta verde na seca",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "230",
+   "fontePet": null
+  },
+  "w18-084": {
+   "texto": "O caládio é planta da América do Sul, do Panamá ao litoral do Brasil, e já recebeu uns 40 nomes científicos diferentes",
+   "esp": "caládio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "232",
+   "fontePet": null
+  },
+  "w18-085": {
+   "texto": "Caládio murchou e sumiu na seca? É o descanso dele, que pode durar 6 a 7 meses; nem com calor e rega ele fica com folha o ano todo",
+   "esp": "caládio",
+   "serie": "Socorro",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "233",
+   "fontePet": null
+  },
+  "w18-086": {
+   "texto": "Os caládios crescem em campo aberto, muitas vezes em terra arenosa, e somem na seca; dormir debaixo da terra também protege do fogo do campo",
+   "esp": "caládio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "232-233",
+   "fontePet": null
+  },
+  "w18-087": {
+   "texto": "No chão da floresta tropical chega no máximo 2% da luz do sol; é por aguentar essa sombra que tanta arácea virou planta de casa",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "235",
+   "fontePet": null
+  },
+  "w18-088": {
+   "texto": "Um antúrio miniatura lilás com perfume de menta, achado no Panamá, quase sumiu da natureza com o desmatamento e foi usado para criar antúrios compactos e floríferos de várias cores",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "237",
+   "fontePet": null
+  },
+  "w18-089": {
+   "texto": "Antúrio gosta de ar úmido e de um banho de vez em quando, mas detesta terra encharcada: na natureza ele vive em árvore ou em chão que escorre bem",
+   "esp": "antúrio",
+   "serie": "3 erros",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "238",
+   "fontePet": null
+  },
+  "w18-090": {
+   "texto": "O segredo do antúrio é drenagem: quase todos vivem em árvores ou encostas onde a água escorre na hora; no vaso, substrato bem aerado",
+   "esp": "antúrio",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "238",
+   "fontePet": null
+  },
+  "w18-091": {
+   "texto": "O antúrio-cristal, de folha de veludo com nervura prateada, é o antúrio de folha mais comum no cultivo",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "239",
+   "fontePet": null
+  },
+  "w18-092": {
+   "texto": "O lírio-da-paz vive no chão úmido da mata, até encharcado, e na beira de rios; a maioria das cerca de 40 espécies é da América do Sul",
+   "esp": "lírio-da-paz",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "242",
+   "fontePet": null
+  },
+  "w18-093": {
+   "texto": "O lírio-da-paz de vaso quase sempre é um híbrido de viveiro; o mais plantado, \"Mauna Loa\", floresce várias vezes no ano quando está bem cuidado",
+   "esp": "lírio-da-paz",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "242",
+   "fontePet": null
+  },
+  "w18-094": {
+   "texto": "Verdade: é normal a flor branca do lírio-da-paz ficar verde com o tempo. Ela é uma folha modificada e envelhece assim",
+   "esp": "lírio-da-paz",
+   "serie": "Mito ou verdade",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "243",
+   "fontePet": null
+  },
+  "w18-095": {
+   "texto": "Aglaonema ou comigo-ninguém-pode? São primas tão parecidas que só se separam por detalhes minúsculos da flor; a aglaonema é asiática e a comigo-ninguém-pode é americana",
+   "esp": "aglaonema",
+   "serie": "X ou Y?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "243",
+   "fontePet": null
+  },
+  "w18-096": {
+   "texto": "A aglaonema verde chegou à Europa por Hong Kong em 1885; na China ela é cultivada há muito tempo porque traz sorte",
+   "esp": "aglaonema",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "244",
+   "fontePet": null
+  },
+  "w18-097": {
+   "texto": "A aglaonema de bolinhas brancas (Aglaonema costatum) aguenta muito pouca luz, mas só vai bem com ar úmido; tem raiz forte e pede vaso mais fundo que as outras",
+   "esp": "aglaonema",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "245",
+   "fontePet": null
+  },
+  "w18-098": {
+   "texto": "Algumas aglaonemas só são pintadas quando jovens e ficam verdes quando adultas",
+   "esp": "aglaonema",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "245",
+   "fontePet": null
+  },
+  "w18-100": {
+   "texto": "A folha amassada da comigo-ninguém-pode solta cheiro parecido com o de gambá",
+   "esp": "comigo-ninguém-pode",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "246",
+   "fontePet": null
+  },
+  "w18-101": {
+   "texto": "Uma variedade famosa de comigo-ninguém-pode, de cabo e nervura brancos, foi achada no Brasil em 1863",
+   "esp": "comigo-ninguém-pode",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "w18-102": {
+   "texto": "Comigo-ninguém-pode sofre com vento encanado, fumaça e mudança de temperatura; trocar de lugar toda hora também atrapalha, porque ela vem da mata quente, úmida e parada",
+   "esp": "comigo-ninguém-pode",
+   "serie": "3 erros",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "w18-103": {
+   "texto": "Comigo-ninguém-pode ou aglaonema para canto escuro? A comigo-ninguém-pode precisa de mais ou menos o dobro da luz da aglaonema",
+   "esp": "comigo-ninguém-pode",
+   "serie": "X ou Y?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "w18-104": {
+   "texto": "Comigo-ninguém-pode com caule pelado embaixo? É normal: cada folha dura pouco e a planta solta poucas folhas novas, então o caule vai ficando à mostra",
+   "esp": "comigo-ninguém-pode",
+   "serie": "Socorro",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "w18-106": {
+   "texto": "As taiobas e seus parentes (Xanthosoma) costumam crescer em lugar molhado e com bastante luz, não necessariamente na sombra funda",
+   "esp": "taioba",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "252",
+   "fontePet": null
+  },
+  "w18-107": {
+   "texto": "Há alocasia que vive grudada em pedra calcária, com o rizoma de fora e só a raiz enfiada nas frestas",
+   "esp": "alocasia",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "256",
+   "fontePet": null
+  },
+  "w18-108": {
+   "texto": "Alocasia perdeu tudo de repente? Algumas entram em dormência quando cai a temperatura e a umidade, outras sem motivo; muitas vezes deixam brotos na ponta de estolões, então não jogue o vaso fora",
+   "esp": "alocasia",
+   "serie": "Socorro",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "257",
+   "fontePet": null
+  },
+  "w18-109": {
+   "texto": "Alocasia quer calor constante, ar úmido, terra sempre úmida mas que escorra muito bem, e sombra",
+   "esp": "alocasia",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "257",
+   "fontePet": null
+  },
+  "w18-110": {
+   "texto": "A alocasia-cobre (Alocasia cuprea) tem folha que parece metal polido; ela saiu de Bornéu para a Europa no século 19",
+   "esp": "alocasia",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "257",
+   "fontePet": null
+  },
+  "w18-111": {
+   "texto": "A alocasia \"Black Velvet\" e outras ganharam nome de fantasia e foram vendidas no mundo todo antes de virarem espécies com nome científico",
+   "esp": "alocasia",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "259",
+   "fontePet": null
+  },
+  "w18-112": {
+   "texto": "Alocasia-amazônica ou a alocasia original das Filipinas (Alocasia sanderiana)? A amazônica é bem mais fácil de cultivar e tomou o lugar da outra nos vasos",
+   "esp": "alocasia",
+   "serie": "X ou Y?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "262",
+   "fontePet": null
+  },
+  "w18-113": {
+   "texto": "Existe alocasia de Bornéu com folha de 2 metros de comprimento, que pode chegar a 4 metros",
+   "esp": "alocasia",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "262",
+   "fontePet": null
+  },
+  "w18-114": {
+   "texto": "Uma alocasia pequena e verde (Alocasia cucullata) é cultivada na China, no Vietnã e na Tailândia para dar sorte e espantar maus espíritos; é a mais resistente ao frio do gênero",
+   "esp": "alocasia",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "263-264",
+   "fontePet": null
+  },
+  "w18-115": {
+   "texto": "A alocasia-zebra é cultivada pelo cabo listrado como zebra, mais do que pela folha",
+   "esp": "alocasia",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "264",
+   "fontePet": null
+  },
+  "w18-116": {
+   "texto": "A raiz aérea das trepadeiras da família pode descer até 30 metros, do alto da árvore até o chão",
+   "esp": "costela-de-adão",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "269",
+   "fontePet": null
+  },
+  "w18-117": {
+   "texto": "A raiz de agarrar do singônio não tem pelinhos: ela gruda no apoio com uma espécie de cola seca",
+   "esp": "singônio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "269",
+   "fontePet": null
+  },
+  "w18-118": {
+   "texto": "Alguns antúrios têm raiz com capa branca que absorve água, igual à raiz de orquídea",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "269",
+   "fontePet": null
+  },
+  "w18-119": {
+   "texto": "A muda de algumas costelas-de-adão nasce no chão e cresce em direção ao escuro, procurando a sombra de um tronco; quando acha, muda de rumo e sobe para a luz",
+   "esp": "costela-de-adão",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "270-271",
+   "fontePet": null
+  },
+  "w18-120": {
+   "texto": "A jiboia jovem tem folha pequena; quando acha um tronco para subir, a folha cresce de repente e pode passar de 80 centímetros, toda recortada",
+   "esp": "jiboia",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "274-275",
+   "fontePet": null
+  },
+  "w18-121": {
+   "texto": "Quer folha grande na jiboia? Dê um apoio para ela subir (estaca de musgo ou tronco); pendurada ou no chão ela fica com folha de filhote",
+   "esp": "jiboia",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "274-275",
+   "fontePet": null
+  },
+  "w18-122": {
+   "texto": "Mito: jiboia que ficou toda verde não é só falta de luz. Ela pode perder o amarelo mesmo bem iluminada",
+   "esp": "jiboia",
+   "serie": "Mito ou verdade",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "275",
+   "fontePet": null
+  },
+  "w18-123": {
+   "texto": "A jiboia verde-amarela quase nunca dá flor, nem na natureza nem em vaso; ninguém sabe ao certo de onde ela veio",
+   "esp": "jiboia",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "274-275",
+   "fontePet": null
+  },
+  "w18-124": {
+   "texto": "A jiboia \"Marble Queen\", branca, apareceu em 1935 como um galho diferente num viveiro",
+   "esp": "jiboia",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "275",
+   "fontePet": null
+  },
+  "w18-125": {
+   "texto": "A jiboia-prateada (Scindapsus pictus), tão parecida com a jiboia, é de outro gênero; quando cresce de verdade, a folha fica maior e perde a prata",
+   "esp": "jiboia",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "275",
+   "fontePet": null
+  },
+  "w18-126": {
+   "texto": "Cuidado ao jogar jiboia no mato: na Malásia e em outros lugares quentes ela escapou dos jardins e cobriu o chão da mata",
+   "esp": "jiboia",
+   "serie": "3 erros",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "275",
+   "fontePet": null
+  },
+  "w18-127": {
+   "texto": "As folhas de antúrio e de costela-de-adão têm uma \"dobradiça\" onde o cabo encontra a folha; com ela a planta vira a folha conforme a luz",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "278",
+   "fontePet": null
+  },
+  "w18-128": {
+   "texto": "Os furos da costela-de-adão talvez sirvam para refrescar: o vento passa e cria um redemoinho de ar em volta da folha, como hélice de ventilador",
+   "esp": "costela-de-adão",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "279",
+   "fontePet": null
+  },
+  "w18-129": {
+   "texto": "A costela-de-adão substituiu a aspidistra das casas antigas e virou a planta de casa símbolo do século 20",
+   "esp": "costela-de-adão",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "279",
+   "fontePet": null
+  },
+  "w18-131": {
+   "texto": "Na natureza a costela-de-adão pode subir mais de 22 metros",
+   "esp": "costela-de-adão",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "280",
+   "fontePet": null
+  },
+  "w18-132": {
+   "texto": "A costela-de-adão é a mais resistente do gênero: cresce em pedra ou na terra tão bem quanto em árvore e é usada como forração em jardim, onde floresce",
+   "esp": "costela-de-adão",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "280",
+   "fontePet": null
+  },
+  "w18-133": {
+   "texto": "A costela-de-adão-de-furinhos (Monstera adansonii) foi a primeira descrita, em 1693, e cresce como mato nas Américas, subindo até em poste",
+   "esp": "costela-de-adão",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "280",
+   "fontePet": null
+  },
+  "w18-134": {
+   "texto": "Quando a trepadeira percebe que o apoio não presta, solta o tronco, desce um ramo pelado até o chão e anda até 22 metros procurando outra árvore",
+   "esp": "costela-de-adão",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "280-281",
+   "fontePet": null
+  },
+  "w18-135": {
+   "texto": "O singônio muda a folha com a idade: de seta vira folha com 3 e depois até 11 folhinhas, e perde as manchas claras",
+   "esp": "singônio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "285",
+   "fontePet": null
+  },
+  "w18-136": {
+   "texto": "O singônio que se vende em vaso é a fase jovem da planta: é nela que ele tem folha de seta e colorida; quando sobe e fica adulto, muda de folha",
+   "esp": "singônio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "285",
+   "fontePet": null
+  },
+  "w18-137": {
+   "texto": "Mais ou menos metade das aráceas das Américas são antúrios; só no Panamá há 150 espécies",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "285-286",
+   "fontePet": null
+  },
+  "w18-138": {
+   "texto": "No Equador o antúrio vermelho se chama \"crista-de-galo\"; foi achado na Colômbia em 1876 e virou sensação na Europa",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "286",
+   "fontePet": null
+  },
+  "w18-139": {
+   "texto": "A indústria de antúrio do Havaí começou com uma única planta rosa comprada em Londres em 1889; o jardineiro cruzou os filhotes e fez mais de 80 híbridos",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "286-287",
+   "fontePet": null
+  },
+  "w18-141": {
+   "texto": "Os dois antúrios vermelhos de vaso parecem primos, mas nunca deu certo cruzar um com o outro",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "287",
+   "fontePet": null
+  },
+  "w18-142": {
+   "texto": "O antúrio \"ninho de passarinho\" faz um vaso com as folhas: junta chuva e folha seca, e a sujeira apodrece e vira o próprio adubo dele",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "291",
+   "fontePet": null
+  },
+  "w18-143": {
+   "texto": "Filodendro quer dizer \"amigo da árvore\": quase todos sobem em tronco, embora alguns cresçam em pedra ou no chão",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "293",
+   "fontePet": null
+  },
+  "w18-144": {
+   "texto": "Muitos filodendros nascem na terra, sobem pela árvore e depois a parte de baixo morre: a planta fica pendurada e bebe por raízes compridas que descem até o chão",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "293",
+   "fontePet": null
+  },
+  "w18-145": {
+   "texto": "Há filodendros com mais de 500 espécies; é o segundo maior grupo da família, atrás do antúrio, e é todo das Américas",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "291-293",
+   "fontePet": null
+  },
+  "w18-146": {
+   "texto": "O filodendro-cordato (Philodendron hederaceum) é a \"hera dos trópicos\": em casa cresce quase tão fácil quanto hera, só pedindo um pouco mais de calor",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "296",
+   "fontePet": null
+  },
+  "w18-147": {
+   "texto": "Cuidado ao plantar filodendro-cordato no mato: ele se espalha fácil e virou praga onde escapou, como na Austrália e na Malásia",
+   "esp": "filodendro",
+   "serie": "3 erros",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "296",
+   "fontePet": null
+  },
+  "w18-149": {
+   "texto": "O filodendro \"Prince of Orange\" solta folha laranja, que fica amarela e depois verde-clara conforme cresce",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "299",
+   "fontePet": null
+  },
+  "w18-150": {
+   "texto": "Um filodendro do Sudeste brasileiro guarda água no cabo da folha, gordo e esponjoso, igual ao pseudobulbo da orquídea",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "300",
+   "fontePet": null
+  },
+  "w18-151": {
+   "texto": "Não espere fazer muda de estaca do guaimbê e dos filodendros de tronco: eles têm um único ponto de crescimento e quase não brotam dos lados",
+   "esp": "filodendro",
+   "serie": "3 erros",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "300",
+   "fontePet": null
+  },
+  "w18-153": {
+   "texto": "O guaimbê gosta de luz forte: na natureza cresce na beira de rio, restinga e pedra, onde a mata é rala; dentro de casa, perto da janela mais clara",
+   "esp": "filodendro",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "301",
+   "fontePet": null
+  },
+  "w18-154": {
+   "texto": "A maior inflorescência do mundo é de uma arácea de Sumatra, o \"titã\": passa de 2 metros, cheira a carniça e lá se chama \"flor-cadáver\"",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "305-307",
+   "fontePet": null
+  },
+  "w18-155": {
+   "texto": "O tubérculo da flor-cadáver é o maior do mundo: já pesou 75 quilos; um que acharam era tão pesado que os dois homens que carregavam caíram e quebraram ele",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "307",
+   "fontePet": null
+  },
+  "w18-156": {
+   "texto": "A flor-cadáver floresce só a cada 2 ou 3 anos e por poucos dias; por isso é tão difícil ela fazer semente",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "309",
+   "fontePet": null
+  },
+  "w18-157": {
+   "texto": "Quando a flor-cadáver abriu num jardim da Flórida em 1998, o segurança usou máscara de gás e o jardineiro passou óleo de gaultéria para segurar o enjoo",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "309",
+   "fontePet": null
+  },
+  "w18-158": {
+   "texto": "Quando a flor-cadáver abriu em Nova York em 1937, ela virou a flor oficial do Bronx",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "311",
+   "fontePet": null
+  },
+  "w18-159": {
+   "texto": "A flor-cadáver não é a maior flor do mundo: é a maior inflorescência sem galhos. A maior flor única é a rafflésia, da mesma mata de Sumatra",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "312",
+   "fontePet": null
+  },
+  "w18-160": {
+   "texto": "O inhame (taro) é a planta cultivada mais antiga do mundo: plantado na Ásia há mais de 10 mil anos, antes até do arroz",
+   "esp": "inhame",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "327",
+   "fontePet": null
+  },
+  "w18-161": {
+   "texto": "O inhame chegou às Américas nos navios negreiros, embarcado na África como comida da viagem",
+   "esp": "inhame",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "327",
+   "fontePet": null
+  },
+  "w18-163": {
+   "texto": "Existem mais de mil variedades de inhame no mundo; quase nunca dá flor e sempre foi plantado por pedaço, não por semente",
+   "esp": "inhame",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "328",
+   "fontePet": null
+  },
+  "w18-164": {
+   "texto": "O inhame ama água, mas não aguenta água parada: na roça se faz valeta para a água correr",
+   "esp": "inhame",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "332",
+   "fontePet": null
+  },
+  "w18-165": {
+   "texto": "Inhame se planta por filhote (o tubérculo pequeno) ou pela \"cabeça\": o topo do tubérculo com um pedaço do talo, que sobra da colheita e dá mais produção",
+   "esp": "inhame",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "332",
+   "fontePet": null
+  },
+  "w18-166": {
+   "texto": "Folha de inhame com manchas claras em forma de pena ao longo das nervuras pode ser vírus do mosaico, levado por pulgão; não tem cura, só tirar a planta doente e replantar muda sadia",
+   "esp": "inhame",
+   "serie": "Socorro",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "333",
+   "fontePet": null
+  },
+  "w18-167": {
+   "texto": "Tem variedade de inhame do Havaí com folha toda franzida que parece doente, mas é saudável",
+   "esp": "inhame",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "330",
+   "fontePet": null
+  },
+  "w18-168": {
+   "texto": "Para os antigos havaianos, o primeiro filho do céu e da terra foi um pé de taro, e o segundo foi o ser humano",
+   "esp": "inhame",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "336",
+   "fontePet": null
+  },
+  "w18-169": {
+   "texto": "A taioba e seus parentes são as únicas aráceas das Américas usadas em grande escala como comida, e os povos daqui já plantavam antes de os europeus chegarem",
+   "esp": "taioba",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "338",
+   "fontePet": null
+  },
+  "w18-170": {
+   "texto": "Levada para a África nos navios, a taioba ficou mais popular que o inhame por lá",
+   "esp": "taioba",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "338",
+   "fontePet": null
+  },
+  "w18-171": {
+   "texto": "A taioba aguenta um pouco de seca e de sombra, mas não suporta terra encharcada; sombra demais (mais de 50%) baixa a colheita e faz a planta dormir",
+   "esp": "taioba",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "339-340",
+   "fontePet": null
+  },
+  "w18-172": {
+   "texto": "A taioba se colhe de 9 a 12 meses depois do plantio; dá para tirar os filhotes aos poucos a partir do sexto mês",
+   "esp": "taioba",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "340",
+   "fontePet": null
+  },
+  "w18-173": {
+   "texto": "Para replantar taioba, use filhote pequeno, pedaço do tubérculo ou um pedaço do talo com um pouco do tubérculo; este último rende mais",
+   "esp": "taioba",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "340",
+   "fontePet": null
+  },
+  "w18-176": {
+   "texto": "A palavra \"arácea\" vem do grego aron, que viria do árabe \"ar\", que quer dizer fogo: a família arde na boca e na pele",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "355",
+   "fontePet": null
+  },
+  "w18-183": {
+   "texto": "A raiz grossa do guaimbê é tão forte que o povo usa em construção de casa, barco e ferramenta",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "377",
+   "fontePet": null
+  },
+  "w18-184": {
+   "texto": "A raiz aérea da costela-de-adão descasca fácil e pega bem tinta natural: vira chapéu e enfeite trançado",
+   "esp": "costela-de-adão",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "377",
+   "fontePet": null
+  },
+  "w18-185": {
+   "texto": "Tem antúrio com raiz tão resistente que serve de arame e até de prego na construção de casas; de outro sai fio fino que vira corda de violão",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "377",
+   "fontePet": null
+  },
+  "w18-186": {
+   "texto": "Nos trópicos a folha grande da taioba e parentes vira guarda-chuva na hora do aguaceiro, com cabo e tudo",
+   "esp": "taioba",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "377",
+   "fontePet": null
+  },
+  "w18-187": {
+   "texto": "A regra de ouro das aráceas é imitar a casa delas na natureza: luz, umidade, calor e o tipo de chão de onde a planta veio",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "381",
+   "fontePet": null
+  },
+  "w18-188": {
+   "texto": "Arácea recém-mudada de vaso ou recém-feita de muda pega melhor com ar bem úmido e sombra: isso estimula raiz e folha nova",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "382",
+   "fontePet": null
+  },
+  "w18-189": {
+   "texto": "Borrifar água faz bem às aráceas de raiz aérea, como costela-de-adão, filodendro e jiboia",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "382",
+   "fontePet": null
+  },
+  "w18-190": {
+   "texto": "Substrato de jardim botânico para arácea de árvore (antúrio, costela, filodendro): duas partes de casca picada, uma ou duas de musgo esfagno e uma de carvão",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "381",
+   "fontePet": null
+  },
+  "w18-191": {
+   "texto": "Arácea de tubérculo vai bem em vaso de barro, que deixa a raiz fresca e respirando; uma camada de areia embaixo do tubérculo ajuda a não apodrecer",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "382",
+   "fontePet": null
+  },
+  "w18-192": {
+   "texto": "Nas aráceas de tubérculo, diminua a rega no fim da fase de crescimento e corte a água enquanto estiverem dormindo",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "382",
+   "fontePet": null
+  },
+  "w18-193": {
+   "texto": "Aglaonema gosta de meia-sombra e ar úmido; a de folha pintada pede mais claridade que a verde lisa",
+   "esp": "aglaonema",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "383",
+   "fontePet": null
+  },
+  "w18-194": {
+   "texto": "Rega demais apodrece caule e raiz da aglaonema: mantenha úmida, mas deixe a terra secar um pouco entre uma rega e outra",
+   "esp": "aglaonema",
+   "serie": "3 erros",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "383",
+   "fontePet": null
+  },
+  "w18-195": {
+   "texto": "Na fase de crescimento, adube a aglaonema uma vez por mês",
+   "esp": "aglaonema",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "383",
+   "fontePet": null
+  },
+  "w18-196": {
+   "texto": "Muda de aglaonema: pedaço de caule de 5 a 8 cm deitado no substrato, ou separe um broto da base que já tenha 3 ou 4 folhas e um pouco de raiz",
+   "esp": "aglaonema",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "383",
+   "fontePet": null
+  },
+  "w18-198": {
+   "texto": "Alocasia: terra rica em matéria orgânica e que escorra bem, meia-sombra e ar úmido; regue bastante no calor e adube a cada 2 ou 3 semanas na fase de crescimento",
+   "esp": "alocasia",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "384",
+   "fontePet": null
+  },
+  "w18-199": {
+   "texto": "Troque a alocasia de vaso todo ano",
+   "esp": "alocasia",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "384",
+   "fontePet": null
+  },
+  "w18-201": {
+   "texto": "Muda de alocasia: divida o rizoma ou separe os filhotes no começo da fase de crescimento",
+   "esp": "alocasia",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "384",
+   "fontePet": null
+  },
+  "w18-202": {
+   "texto": "Plante o antúrio com a \"coroa\" (de onde saem as folhas) um pouco acima da terra e cubra com uma camada de musgo esfagno para manter úmidas a coroa e as raízes de cima",
+   "esp": "antúrio",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "390",
+   "fontePet": null
+  },
+  "w18-203": {
+   "texto": "Substrato de antúrio: uma parte de terra, uma de areia grossa ou perlita e duas a três de folha decomposta ou esfagno, com esterco curtido e carvão",
+   "esp": "antúrio",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "390",
+   "fontePet": null
+  },
+  "w18-204": {
+   "texto": "Antúrio que ficou comprido e pelado embaixo pode virar muda: corte a ponta e enraíze; também dá para separar os brotos da base",
+   "esp": "antúrio",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "390",
+   "fontePet": null
+  },
+  "w18-205": {
+   "texto": "Semente de antúrio pode levar vários meses para germinar",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "390",
+   "fontePet": null
+  },
+  "w18-206": {
+   "texto": "Algumas variedades de antúrio rosa vão mudando de cor com o tempo: a flor fica creme e depois verde",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "391",
+   "fontePet": null
+  },
+  "w18-207": {
+   "texto": "Quase todo antúrio vendido em vaso é híbrido; a espécie original pura quase não é cultivada",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "391",
+   "fontePet": null
+  },
+  "w18-208": {
+   "texto": "Tubérculo grande de arácea que vai florir pode ficar sem raiz até a flor murchar: mantenha a terra mais seca até as folhas novas aparecerem",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "388",
+   "fontePet": null
+  },
+  "w18-209": {
+   "texto": "Caládio quer luz clara filtrada, sem sol direto, e ar úmido; plante o tubérculo a 2,5 cm de fundura num vaso de 10 a 13 cm",
+   "esp": "caládio",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "399-400",
+   "fontePet": null
+  },
+  "w18-210": {
+   "texto": "Enquanto o caládio dorme, guarde o tubérculo quase seco",
+   "esp": "caládio",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "400",
+   "fontePet": null
+  },
+  "w18-211": {
+   "texto": "Para multiplicar caládio: separe os filhotes no fim da dormência ou corte o tubérculo grande em pedaços com faca limpa, passe carvão no corte e deixe secar alguns dias antes de plantar",
+   "esp": "caládio",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "400",
+   "fontePet": null
+  },
+  "w18-212": {
+   "texto": "Os caládios coloridos são agrupados como \"folha fantasia\" (larga) ou \"folha fita\" (estreita), conforme o formato",
+   "esp": "caládio",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "400",
+   "fontePet": null
+  },
+  "w18-213": {
+   "texto": "Inhame ornamental (taro de folha roxa) em vaso: comece num vaso só do tamanho do tubérculo, regue pouco, e passe para vaso maior com rega farta quando ele estiver crescendo forte",
+   "esp": "inhame",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "401",
+   "fontePet": null
+  },
+  "w18-214": {
+   "texto": "No fim da fase de crescimento, diminua a rega do inhame ornamental e guarde o tubérculo seco enquanto dorme; a muda se faz dividindo nessa época",
+   "esp": "inhame",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "401",
+   "fontePet": null
+  },
+  "w18-215": {
+   "texto": "Comigo-ninguém-pode em vaso: luz clara filtrada, ar úmido, rega moderada na fase de crescimento e adubo líquido equilibrado uma vez por mês",
+   "esp": "comigo-ninguém-pode",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "404",
+   "fontePet": null
+  },
+  "w18-218": {
+   "texto": "Jiboia em vaso: luz clara filtrada, rega farta e adubo uma vez por mês na fase de crescimento",
+   "esp": "jiboia",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "405",
+   "fontePet": null
+  },
+  "w18-220": {
+   "texto": "Muda de jiboia: ponta de rama ou alporque deitando a rama na terra, sempre na fase de crescimento",
+   "esp": "jiboia",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "405",
+   "fontePet": null
+  },
+  "w18-221": {
+   "texto": "Costela-de-adão em vaso: luz clara filtrada, rega farta e adubo mensal na fase de crescimento, e borrifo quando o ar estiver seco",
+   "esp": "costela-de-adão",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "407",
+   "fontePet": null
+  },
+  "w18-222": {
+   "texto": "Muda de costela-de-adão: pedaço de caule ou ponta, na fase de crescimento; ela enraíza melhor com calor embaixo do vaso",
+   "esp": "costela-de-adão",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "407",
+   "fontePet": null
+  },
+  "w18-223": {
+   "texto": "Sol demais deixa a folha do filodendro amarela e com partes mortas: ele quer luz clara, mas difusa",
+   "esp": "filodendro",
+   "serie": "3 erros",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "408",
+   "fontePet": null
+  },
+  "w18-224": {
+   "texto": "Filodendro trepador cresce melhor com uma estaca de musgo (tutor) para subir",
+   "esp": "filodendro",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "408",
+   "fontePet": null
+  },
+  "w18-225": {
+   "texto": "Filodendro come pouco: adube uma vez por mês com adubo diluído e não exagere; um pouco de magnésio de vez em quando faz bem",
+   "esp": "filodendro",
+   "serie": "3 erros",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "408",
+   "fontePet": null
+  },
+  "w18-226": {
+   "texto": "Deixe a terra do filodendro quase secar entre uma rega e outra, e borrife as folhas quando o ar estiver seco",
+   "esp": "filodendro",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "408",
+   "fontePet": null
+  },
+  "w18-227": {
+   "texto": "Muda de filodendro: estaca de caule ou ponta em lugar quente e úmido, ou alporque; o guaimbê se faz por semente",
+   "esp": "filodendro",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "408",
+   "fontePet": null
+  },
+  "w18-228": {
+   "texto": "O filodendro-branco (Philodendron ilsemannii) precisa de luz clara para manter as manchas brancas",
+   "esp": "filodendro",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "409",
+   "fontePet": null
+  },
+  "w18-229": {
+   "texto": "O filodendro \"Moonlight\" solta folha amarela-limão que vai esverdeando; a folha mais nova é sempre amarela",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "410",
+   "fontePet": null
+  },
+  "w18-230": {
+   "texto": "O filodendro \"Xanadu\", de folha recortada e tufo compacto, seria um galho diferente que nasceu no guaimbê brasileiro",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "411",
+   "fontePet": null
+  },
+  "w18-232": {
+   "texto": "Lírio-da-paz: rega farta na fase de crescimento e borrifo no ar seco, mas deixe a terra quase secar entre uma rega e outra",
+   "esp": "lírio-da-paz",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "413-414",
+   "fontePet": null
+  },
+  "w18-233": {
+   "texto": "Para multiplicar o lírio-da-paz, divida a touceira depois da floração",
+   "esp": "lírio-da-paz",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "414",
+   "fontePet": null
+  },
+  "w18-234": {
+   "texto": "Existe lírio-da-paz gigante, o \"Sensation\", com até 2 metros, plantado mais pela folhagem; e o \"Mini\", o menor do comércio",
+   "esp": "lírio-da-paz",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "414",
+   "fontePet": null
+  },
+  "w18-235": {
+   "texto": "Singônio vai bem em meia-sombra; o de folha clara ou pintada pede mais luz que o verde",
+   "esp": "singônio",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "415",
+   "fontePet": null
+  },
+  "w18-236": {
+   "texto": "Adube o singônio a cada 3 ou 4 semanas na fase de crescimento e borrife quando o ar estiver seco",
+   "esp": "singônio",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "415",
+   "fontePet": null
+  },
+  "w18-237": {
+   "texto": "Muda de singônio pega rápido se a estaca já tiver raiz aérea",
+   "esp": "singônio",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "415",
+   "fontePet": null
+  },
+  "w18-238": {
+   "texto": "Taioba em vaso: terra com esterco curtido e folha decomposta, rega farta, adubo a cada 2 ou 3 semanas e troca de vaso sempre que precisar, porque cresce rápido",
+   "esp": "taioba",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "416",
+   "fontePet": null
+  },
+  "w18-239": {
+   "texto": "Copo-de-leite gosta de terra úmida e rica e de sol; na fase de crescimento, rega farta e adubo a cada 2 semanas",
+   "esp": "copo-de-leite",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "416",
+   "fontePet": null
+  },
+  "w18-240": {
+   "texto": "Enquanto o copo-de-leite descansa, mantenha a terra só levemente úmida; para multiplicar, divida a touceira",
+   "esp": "copo-de-leite",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "416-417",
+   "fontePet": null
+  },
+  "w18-241": {
+   "texto": "O copo-de-leite branco pode ser plantado na beira do lago ou dentro da água rasa, até uns 30 cm de fundura",
+   "esp": "copo-de-leite",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "416",
+   "fontePet": null
+  },
+  "w18-242": {
+   "texto": "Há copo-de-leite rosa-claro, o \"Kiwi Blush\", e anão, o \"Little Gem\", com uns 45 cm",
+   "esp": "copo-de-leite",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "417",
+   "fontePet": null
+  },
+  "w18-243": {
+   "texto": "Luz demais deixa a alface-d'água amarelada; ela vai bem no sol filtrado ou meia-sombra",
+   "esp": "alface-d'água",
+   "serie": "3 erros",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "412",
    "fontePet": null
   }
  }

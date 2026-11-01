@@ -1,4 +1,11 @@
 # PROGRESSO Terra Gentil
+## BIBLIAS NOVAS (31/10/2026, noite)
+- Andre mandou `Downloads\The_Houseplant_Handbook__Basic_Growing_Tec_-_David_Squire.pdf`. Ja era o livro 3 da biblia (122 fatos q3-, so cuidados basicos, pragas e 13 especies). O DIRETORIO (PDF p. 82 a 180, bromelias p. 249 a 271, samambaias p. 273 a 286) ficou quase todo de fora: cada ficha da uns 4 a 6 fatos (luz, rega inverno e verao, adubo a cada N semanas, troca de vaso, muda). Temperatura e estacao sao inglesas: alerta CLIMA. Rende livros AGRUPADOS (nao um por planta): Folhagens de Sombra (aglaonema, aspidistra, calathea, maranta, filodendro), Folha Colorida (croton, coleus, cordyline, begonia rex, hipoestes), Trepadeiras de Casa (filodendro, jiboia, hera, ficus pumila, cissus), Flor de Vaso (antúrio, lirio-da-paz, hibisco, buganvilia, hoya). Nao tem zamioculca.
+- Texto extraido (pypdf instalado com pip --user) em `C:\Gitlab_hz\youtube-terragentil\inteligencia-carrossel\fonte\3-squire\inteiro.txt` (fora do git).
+- `PDP-de-Flores-e-Plantas-Ornamentais-OK.pdf`: plano economico do polo de flores do DF (2007), sem cuidado de planta. Descartado (texto em fonte\17-pdp-flores).
+- BLOQUEIO: as pastas `estudo/` e `qa/` do inteligencia-carrossel nao estao neste PC (README e exportador apontam para /Users/andrehz no Mac). NAO rodar `exportar_biblia.py` aqui: ele reescreve dados/biblia.json so com o que achar e apaga os 1.502 fatos. Fazer o estudo novo em `estudo/3-squire-04.md` (formato de 7 colunas, ids q3-200 em diante) e JUNTAR no biblia.json com um script de merge.
+- **Proximo:** estudar o diretorio do Squire por grupo (acima), QA, merge; depois escrever os livros agrupados.
+
 ## LEVA 2 CONTINUA: TG 019 A 024 ESCRITOS (31/10/2026, noite)
 Roteiros curtos novos em `ebooks\fabrica\curtos\tg019.mjs` a `tg024.mjs`, todos com 19 paginas, sem estouro, `validar.mjs` ok; filas do Flow em `gama-ebooks/fila-fotos-tg019.json` a `tg024.json` (acrescentados no `filas2.mjs`).
 | Livro | Titulo | Palavra |

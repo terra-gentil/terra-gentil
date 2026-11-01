@@ -1,4 +1,11 @@
 # PROGRESSO Terra Gentil
+## BIBLIA 20 ROSAS ESTUDADA (01/11/2026)
+- Livro inteiro em 10 blocos: `inteligencia-carrossel\estudo\20-rosas-01.md` a `-10.md`, 349 fatos (ids r20-001 a r20-349), trechos 0 falhas. Capitulos de cuidado lidos inteiros; catalogos de variedades, melhoramento e classificacao por busca de assunto; cultura de tecidos, estufa e reguladores sem fato.
+- Esp "roseira" (igual ao banco de capas; nao usar "rosa"). biblia.json 1.721 -> 2.057 fatos (336 novos; 13 travados SAUDE/CLIMA). Testes 229/229. Backup do json antigo no scratchpad.
+- **Rende uns 5 livros:** (1) Roseira no Vaso (o mais forte); (2) Poda de Roseira; (3) Roseira Doente (pragas, doencas e falta de nutriente); (4) Muda de Rosa (estaca, alporque, mergulhia, borbulha, semente); (5) Rosa no Vaso de Agua e Perfume (colher, conservar, potpourri). Curiosidades (historia, rosa verde, rosa azul, Tutancamon, Nero) para "Voce sabia?" e reels.
+- **Fotos novas:** banco tem 8 capas de roseira (roseira-A-1 a H-1). Livros: 8 fotos do Flow cada, 5 livros = 40. Carrossel: sintomas (pulgao, mancha-preta, oidio, cochonilha, acaro) pedem uns 6 a 8 fotos proprias se sairem antes do livro de doencas.
+- Pendente: QA camada 2 do Rosas e do Aroids; Andre decidir SAUDE e CLIMA.
+- **Proximo:** livro 24 Brickell (RHS Encyclopedia), depois 33 Propagating, 23 Wildlife, Squire diretorio, 35/32 horta, 22 mato, 28 sementes, 37 arvore, 19 ervas.
 ## BIBLIA 18 AROIDS ESTUDADA INTEIRA (01/11/2026)
 - Andre pediu o livro TODO ("pode estourar, leia todo pra gerar mais curiosidade"). Lido da introducao ao capitulo de cultivo (checklist, glossario, referencias e indice nao tem fato). 243 fatos em `inteligencia-carrossel\estudo\18-aroids-01.md` a `-12.md` (ids w18-001 a w18-243), trechos 0 falhas.
 - Script novo `inteligencia-carrossel\juntar_biblia.py` (acrescenta sem apagar, mesmo filtro do exportador; ja tem os nomes dos livros 19 a 37). Rodado: biblia.json 1.502 -> 1.721 fatos (219 novos; 23 travados SAUDE/CLIMA; 1 PET sem fonte). Testes 229/229. Backup do json antigo no scratchpad.

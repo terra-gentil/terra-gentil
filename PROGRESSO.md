@@ -1,4 +1,10 @@
 # PROGRESSO Terra Gentil
+## BIBLIA 33 PROPAGATING ESTUDADA, SO O QUE DA NO BRASIL (01/11/2026, madrugada)
+- Livro de 2.155 p.: dicionario A a Z de muda (~120 generos que dao no Brasil), horta de semente e paginas de tecnica (alporquia, enraizador, abafamento, tombamento, aclimatar, folha de suculenta). 380 fatos em `inteligencia-carrossel\estudo\33-propagating-01.md` a `-05.md` (ids m33-001 a m33-380), trechos 0 falhas. Estacao e temperatura inglesas fora do fato.
+- biblia.json 2.630 -> 3.004 fatos (374 novos; 6 travados SAUDE/CLIMA). Testes ok. Backup `biblia-antes-propagating.json` e scripts (`prop_generos.py` extrai ficha por genero, `fix33.py`) no scratchpad da sessao b1254ec8.
+- **Rende livros:** Mudas de Graca 2 (alporquia passo a passo, estaca, folha de suculenta, divisao); Horta de Semente (tomate, pimenta, alface, feijao, milho, cenoura, abobora, melancia, amendoim, broto de feijao); reforco de muda em Cactos, Suculentas, Folhagens (costela, filodendro, jiboia, dracena, espada) e Bulbos (amarilis, dalia, gladiolo, copo-de-leite, lirio-do-vento).
+- **Agendado:** 03h22 de 01/11, nesta sessao, o livro 23 Wildlife (ids x23-).
+- **Faltam 8 livros da lista:** 23 Wildlife, diretorio do Squire, 35 e 32 horta em vaso, 22 mato, 28 sementes, 37 arvore, 19 ervas. Opcionais: 36 iniciante, 34 seca e calor, 31 Way to Grow, 29 pimenta (precisa OCR).
 ## BIBLIA 24 BRICKELL ESTUDADA, SO O QUE DA NO BRASIL (01/11/2026)
 - Dicionario A a Z (PDF p.497 a 729) por genero, ~150 generos cultivados no Brasil, mais os paineis de abertura do seletor (hortensia, lavanda, geranio, begonia, bromelia, dalia, lirio, agave, aloe). 601 fatos em `inteligencia-carrossel\estudo\24-brickell-01.md` a `-06.md` (ids b24-001 a b24-601), trechos 0 falhas. Livro ingles: estacao e temperatura fora do fato; toxicidade com SAUDE. "Soft water" = agua mole (pouco calcario), nao agua sem cloro.
 - biblia.json 2.057 -> 2.630 fatos (573 novos; 28 travados SAUDE/CLIMA). Testes 229/229. Backup no scratchpad (`biblia-antes-brickell.json`). Scripts no scratchpad: `brickell_generos.py` (extrai ficha por genero), `paineis.py`, `conferir_trechos.py`, `checar_estudo.py`.

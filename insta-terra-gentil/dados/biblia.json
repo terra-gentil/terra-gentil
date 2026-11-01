@@ -25256,6 +25256,2934 @@
    "livro": "Baines, RHS Companion to Wildlife Gardening",
    "pagina": "17",
    "fontePet": null
+  },
+  "q3-200": {
+   "texto": "Aglaonema gosta de terra sempre úmida por igual no frio, e de mais água no calor",
+   "esp": "aglaonema",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "82",
+   "fontePet": null
+  },
+  "q3-201": {
+   "texto": "Na época de crescer, adube a aglaonema a cada 3 ou 4 semanas",
+   "esp": "aglaonema",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "82",
+   "fontePet": null
+  },
+  "q3-202": {
+   "texto": "Aglaonema não tem pressa de vaso: troque a cada 3 ou 4 anos",
+   "esp": "aglaonema",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "82",
+   "fontePet": null
+  },
+  "q3-203": {
+   "texto": "Aglaonema muito cheia vira muda: divida a touceira na hora de trocar de vaso",
+   "esp": "aglaonema",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "82",
+   "fontePet": null
+  },
+  "q3-204": {
+   "texto": "A aglaonema solta uma florzinha branca parecida com a do copo-de-leite, e depois vêm bolinhas vermelhas",
+   "esp": "aglaonema",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "82",
+   "fontePet": null
+  },
+  "q3-205": {
+   "texto": "O antúrio-cristal tem folha em coração que nasce roxa, fica verde-escura e ganha nervuras cor de marfim",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "83",
+   "fontePet": null
+  },
+  "q3-206": {
+   "texto": "Antúrio-cristal: no frio, terra quase seca; no calor, água à vontade, mas com o vaso escoando bem",
+   "esp": "antúrio",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "83",
+   "fontePet": null
+  },
+  "q3-207": {
+   "texto": "O antúrio-cristal gosta de adubo líquido fraco, a cada 2 ou 3 semanas quando cresce",
+   "esp": "antúrio",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "83",
+   "fontePet": null
+  },
+  "q3-208": {
+   "texto": "Para dividir o antúrio, garanta que cada pedaço novo leve um ponto de crescimento",
+   "esp": "antúrio",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "83",
+   "fontePet": null
+  },
+  "q3-209": {
+   "texto": "A afelandra tem folha verde-escura riscada de marfim e solta uma espiga amarela em forma de cone",
+   "esp": "afelandra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "84",
+   "fontePet": null
+  },
+  "q3-210": {
+   "texto": "Afelandra é das poucas folhagens que pedem vaso novo todo ano",
+   "esp": "afelandra",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "84",
+   "fontePet": null
+  },
+  "q3-211": {
+   "texto": "Afelandra: terra úmida mas nunca encharcada, e adubo a cada 2 semanas quando cresce",
+   "esp": "afelandra",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "84",
+   "fontePet": null
+  },
+  "q3-212": {
+   "texto": "Muda de afelandra sai de estaca de uns 8 a 10 cm",
+   "esp": "afelandra",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "84",
+   "fontePet": null
+  },
+  "q3-213": {
+   "texto": "O aspargo-rabo-de-gato parece samambaia, mas não é: tem ramos durinhos cheios de folhinhas de agulha",
+   "esp": "aspargo",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "85",
+   "fontePet": null
+  },
+  "q3-214": {
+   "texto": "Aspargo-rabo-de-gato: pouca água no frio, água à vontade no calor e adubo líquido fraco a cada 2 semanas",
+   "esp": "aspargo",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "85",
+   "fontePet": null
+  },
+  "q3-215": {
+   "texto": "Aspargo ornamental pede vaso maior a cada 1 ou 2 anos, quando a raiz enche o vaso",
+   "esp": "aspargo",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "85",
+   "fontePet": null
+  },
+  "q3-216": {
+   "texto": "O aspargo-pendente tem ramos finos que caem do vaso, cheios de folhinhas verdes de agulha",
+   "esp": "aspargo",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "86",
+   "fontePet": null
+  },
+  "q3-217": {
+   "texto": "Aspargo ornamental se multiplica dividindo a touceira cheia",
+   "esp": "aspargo",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "86",
+   "fontePet": null
+  },
+  "q3-218": {
+   "texto": "O aspargo-plumoso (o \"rendinha\" do buquê) é trepadeira, mas jovem fica baixinho, com folhas de renda em andares",
+   "esp": "aspargo",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "86",
+   "fontePet": null
+  },
+  "q3-219": {
+   "texto": "Aspargo-plumoso gosta de luz indireta ou meia-sombra leve no calor",
+   "esp": "aspargo",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "86",
+   "fontePet": null
+  },
+  "q3-220": {
+   "texto": "Em inglês a aspidistra se chama \"planta de ferro fundido\", de tão resistente",
+   "esp": "aspidistra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "87",
+   "fontePet": null
+  },
+  "q3-221": {
+   "texto": "Aspidistra aguenta canto sem sol: luz indireta ou meia-sombra leve",
+   "esp": "aspidistra",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "87",
+   "fontePet": null
+  },
+  "q3-222": {
+   "texto": "Aspidistra: terra só levemente úmida no frio, água à vontade e adubo a cada 3 ou 4 semanas no calor",
+   "esp": "aspidistra",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "87",
+   "fontePet": null
+  },
+  "q3-223": {
+   "texto": "Troque a aspidistra de vaso só quando a raiz encher, a cada 2 ou 3 anos",
+   "esp": "aspidistra",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "87",
+   "fontePet": null
+  },
+  "q3-224": {
+   "texto": "Existe aspidistra variegada, com listras creme na folha verde",
+   "esp": "aspidistra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "87",
+   "fontePet": null
+  },
+  "q3-225": {
+   "texto": "A begônia-cílio tem folhinha verde pintada de marrom-chocolate e flor rosa-clara ou branca",
+   "esp": "begônia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "88",
+   "fontePet": null
+  },
+  "q3-226": {
+   "texto": "Begônia de folha jovem costuma pedir vaso novo todo ano",
+   "esp": "begônia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "88",
+   "fontePet": null
+  },
+  "q3-227": {
+   "texto": "Begônia de folha: no frio, deixe a terra secar um pouco entre uma rega e outra",
+   "esp": "begônia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "89",
+   "fontePet": null
+  },
+  "q3-228": {
+   "texto": "Begônia gosta de água no calor, mas sem deixar a terra encharcada o tempo todo",
+   "esp": "begônia",
+   "serie": "3 erros",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "89",
+   "fontePet": null
+  },
+  "q3-229": {
+   "texto": "A begônia-cruz-de-ferro tem folha enrugada com 4 ou 5 faixas cor de bronze saindo do centro, como uma cruz",
+   "esp": "begônia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "89",
+   "fontePet": null
+  },
+  "q3-230": {
+   "texto": "Begônia de folha dá muda de folha: corte a folha em quadrados ou triângulos e plante os pedaços",
+   "esp": "begônia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "90",
+   "fontePet": null
+  },
+  "q3-231": {
+   "texto": "A begônia-rex pura quase não é cultivada: as de folha colorida que a gente compra são híbridas",
+   "esp": "begônia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "90",
+   "fontePet": null
+  },
+  "q3-232": {
+   "texto": "Begônia-rex prefere luz indireta, sem sol na folha",
+   "esp": "begônia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "90",
+   "fontePet": null
+  },
+  "q3-233": {
+   "texto": "A calathea-pavão tem folha prateada desenhada de verde-escuro por cima e manchas vinho por baixo",
+   "esp": "calathea",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "91",
+   "fontePet": null
+  },
+  "q3-234": {
+   "texto": "Calathea quer terra úmida por igual mesmo no frio: não deixe secar",
+   "esp": "calathea",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "91",
+   "fontePet": null
+  },
+  "q3-235": {
+   "texto": "Calathea: água à vontade e adubo a cada 2 semanas quando cresce",
+   "esp": "calathea",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "91",
+   "fontePet": null
+  },
+  "q3-236": {
+   "texto": "Calathea cheia vira várias: divida a touceira",
+   "esp": "calathea",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "91",
+   "fontePet": null
+  },
+  "q3-237": {
+   "texto": "O clorofito solta hastes compridas com filhotinhos na ponta",
+   "esp": "clorofito",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "92",
+   "fontePet": null
+  },
+  "q3-238": {
+   "texto": "Para fazer muda de clorofito, prenda o filhotinho na terra de outro vaso sem cortar a haste",
+   "esp": "clorofito",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "92",
+   "fontePet": null
+  },
+  "q3-239": {
+   "texto": "Clorofito saltando do vaso? A raiz incha quando está apertada, empurra a planta para fora e a rega fica difícil",
+   "esp": "clorofito",
+   "serie": "Socorro",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "92",
+   "fontePet": null
+  },
+  "q3-240": {
+   "texto": "Clorofito gosta de adubo a cada 10 a 14 dias quando cresce, e vaso que escoe bem",
+   "esp": "clorofito",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "92",
+   "fontePet": null
+  },
+  "q3-241": {
+   "texto": "Clorofito novo troca de vaso todo ano; depois, um ano sim, um não",
+   "esp": "clorofito",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "92",
+   "fontePet": null
+  },
+  "q3-242": {
+   "texto": "O cissus-canguru é trepadeira forte de folha brilhante em coração, com borda serrilhada",
+   "esp": "cissus",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "93",
+   "fontePet": null
+  },
+  "q3-243": {
+   "texto": "Muda de cissus sai de estaca de 8 a 10 cm tirada dos galhos laterais",
+   "esp": "cissus",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "93",
+   "fontePet": null
+  },
+  "q3-244": {
+   "texto": "Cissus: terra só úmida no frio; água à vontade e adubo a cada 2 ou 3 semanas no calor",
+   "esp": "cissus",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "93",
+   "fontePet": null
+  },
+  "q3-245": {
+   "texto": "O cissus-uva (Ellen Danica) tem folha de 3 partes e é menos invasivo: bom para vaso dentro de casa",
+   "esp": "cissus",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "93",
+   "fontePet": null
+  },
+  "q3-246": {
+   "texto": "Em estufa o cróton chega a 3 m, mas novinho e em vaso pequeno é ótimo para enfeitar a casa",
+   "esp": "cróton",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "94",
+   "fontePet": null
+  },
+  "q3-247": {
+   "texto": "Cróton gosta de luz forte, até sol, para manter a cor",
+   "esp": "cróton",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "94",
+   "fontePet": null
+  },
+  "q3-248": {
+   "texto": "Cróton: terra quase seca no frio; no calor, mais água com o vaso escoando bem",
+   "esp": "cróton",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "94",
+   "fontePet": null
+  },
+  "q3-249": {
+   "texto": "Muda de cróton sai de estaca de uns 7,5 cm",
+   "esp": "cróton",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "94",
+   "fontePet": null
+  },
+  "q3-250": {
+   "texto": "Belisque a florzinha do coleus: ela tira a beleza das folhas",
+   "esp": "coleus",
+   "serie": "3 erros",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "95",
+   "fontePet": null
+  },
+  "q3-251": {
+   "texto": "O coleus se chama Solenostemon na botânica, mas continua sendo vendido como coleus",
+   "esp": "coleus",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "95",
+   "fontePet": null
+  },
+  "q3-252": {
+   "texto": "Coleus gosta de sol, mas proteja do sol forte do meio-dia",
+   "esp": "coleus",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "95",
+   "fontePet": null
+  },
+  "q3-253": {
+   "texto": "Coleus enraíza fácil de estaca da ponta, de 8 a 10 cm; depois de enraizada, vai para vaso próprio",
+   "esp": "coleus",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "95",
+   "fontePet": null
+  },
+  "q3-254": {
+   "texto": "Coleus velho perde a graça: muita gente descarta e faz planta nova de estaca ou semente",
+   "esp": "coleus",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "95",
+   "fontePet": null
+  },
+  "q3-255": {
+   "texto": "A cordiline vermelha (dracena-vermelha) tem folha em lança com tons de vermelho, roxo ou creme",
+   "esp": "cordiline",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "96",
+   "fontePet": null
+  },
+  "q3-256": {
+   "texto": "Cordiline velha e desengonçada vira muda: corte o caule em toletes de 7,5 cm e plante em turfa com areia grossa",
+   "esp": "cordiline",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "96",
+   "fontePet": null
+  },
+  "q3-257": {
+   "texto": "Cordiline: adubo a cada 2 semanas quando cresce e vaso novo a cada 2 ou 3 anos",
+   "esp": "cordiline",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "96",
+   "fontePet": null
+  },
+  "q3-258": {
+   "texto": "A ctenanthe é parente da maranta: folha verde riscada de prata por cima e roxa por baixo",
+   "esp": "maranta",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "96",
+   "fontePet": null
+  },
+  "q3-259": {
+   "texto": "Ctenanthe quer terra úmida por igual no frio e vaso novo a cada 2 anos",
+   "esp": "maranta",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "96",
+   "fontePet": null
+  },
+  "q3-262": {
+   "texto": "Caule pelado de comigo-ninguém-pode vira muda: corte em toletes de 5 a 7,5 cm e deite-os sobre a terra",
+   "esp": "comigo-ninguém-pode",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "97",
+   "fontePet": null
+  },
+  "q3-263": {
+   "texto": "Comigo-ninguém-pode: terra pouco úmida no frio; água à vontade no calor com vaso que escoe",
+   "esp": "comigo-ninguém-pode",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "97",
+   "fontePet": null
+  },
+  "q3-264": {
+   "texto": "A fatshedera é um cruzamento de hera com fatsia: arbusto que depois se espalha e sobe",
+   "esp": "hera",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "98",
+   "fontePet": null
+  },
+  "q3-265": {
+   "texto": "Para a fatshedera ficar cheia, belisque as pontas e ela solta galhos laterais",
+   "esp": "hera",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "98",
+   "fontePet": null
+  },
+  "q3-266": {
+   "texto": "Fatshedera: se esquentar no frio, aumente a água",
+   "esp": "hera",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "98",
+   "fontePet": null
+  },
+  "q3-267": {
+   "texto": "A fatsia é confundida com a mamona, mas são plantas diferentes",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "99",
+   "fontePet": null
+  },
+  "q3-268": {
+   "texto": "Muda de fatsia: na troca de vaso, separe os brotos que saem do pé e plante cada um",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "99",
+   "fontePet": null
+  },
+  "q3-270": {
+   "texto": "Fícus-benjamim: terra levemente úmida no frio e um pouco mais de água no calor",
+   "esp": "fícus",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "100",
+   "fontePet": null
+  },
+  "q3-271": {
+   "texto": "Fícus grande não precisa de vaso maior: troque só a camada de cima da terra",
+   "esp": "fícus",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "100",
+   "fontePet": null
+  },
+  "q3-272": {
+   "texto": "Fícus em vaso troca de vaso a cada 2 anos, quando a raiz enche",
+   "esp": "fícus",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "100",
+   "fontePet": null
+  },
+  "q3-273": {
+   "texto": "O fícus-benjamim tem galho meio caído e folha que nasce verde-clara e escurece depois",
+   "esp": "fícus",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "100",
+   "fontePet": null
+  },
+  "q3-274": {
+   "texto": "Fícus-elástica alto e pelado embaixo pode virar muda por alporquia",
+   "esp": "fícus",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "101",
+   "fontePet": null
+  },
+  "q3-275": {
+   "texto": "Tem fícus-elástica de folha quase preta, o Black Prince",
+   "esp": "fícus",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "101",
+   "fontePet": null
+  },
+  "q3-276": {
+   "texto": "Muda de fícus-elástica sai de estaca de 10 a 15 cm",
+   "esp": "fícus",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "101",
+   "fontePet": null
+  },
+  "q3-277": {
+   "texto": "O fícus-pumila (unha-de-gato) sobe e escorre, com folhinha verde-escura em coração",
+   "esp": "fícus",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "102",
+   "fontePet": null
+  },
+  "q3-278": {
+   "texto": "Fícus-pumila: luz indireta ou meia-sombra leve, adubo a cada 2 semanas quando cresce",
+   "esp": "fícus",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "102",
+   "fontePet": null
+  },
+  "q3-279": {
+   "texto": "A hera-das-canárias variegada tem folha grande com centro prateado que vira branco na borda",
+   "esp": "hera",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "103",
+   "fontePet": null
+  },
+  "q3-281": {
+   "texto": "Hera é tranquila de vaso: troque a cada 3 anos e, se for grande, só renove a terra de cima",
+   "esp": "hera",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "104",
+   "fontePet": null
+  },
+  "q3-282": {
+   "texto": "Hera nova tem folha menor e mais recortada do que hera velha",
+   "esp": "hera",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "103",
+   "fontePet": null
+  },
+  "q3-283": {
+   "texto": "Muda de hera sai de estaca de 7,5 cm",
+   "esp": "hera",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "104",
+   "fontePet": null
+  },
+  "q3-284": {
+   "texto": "A confete (hipoestes) tem folha pintadinha de branco a rosa; tem até variedade de folha vermelha",
+   "esp": "confete",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "105",
+   "fontePet": null
+  },
+  "q3-285": {
+   "texto": "Confete gosta de luz indireta e terra levemente úmida",
+   "esp": "confete",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "105",
+   "fontePet": null
+  },
+  "q3-286": {
+   "texto": "Muda de confete sai de estaca de ponta com 7,5 cm",
+   "esp": "confete",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "105",
+   "fontePet": null
+  },
+  "q3-287": {
+   "texto": "A maranta fecha as folhas à noite e levanta como mãos rezando: é a \"planta-que-reza\"",
+   "esp": "maranta",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "105",
+   "fontePet": null
+  },
+  "q3-288": {
+   "texto": "A maranta-pé-de-coelho tem esse nome pelas manchas da folha",
+   "esp": "maranta",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "105",
+   "fontePet": null
+  },
+  "q3-289": {
+   "texto": "Maranta jovem troca de vaso todo ano; para fazer muda, divida a touceira na troca",
+   "esp": "maranta",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "106",
+   "fontePet": null
+  },
+  "q3-290": {
+   "texto": "Costela-de-adão: adubo fraco, porque adubo forte queima a raiz",
+   "esp": "costela-de-adão",
+   "serie": "3 erros",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "106",
+   "fontePet": null
+  },
+  "q3-291": {
+   "texto": "Costela-de-adão: no calor, deixe a terra secar um pouco entre uma rega e outra",
+   "esp": "costela-de-adão",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "106",
+   "fontePet": null
+  },
+  "q3-292": {
+   "texto": "Muda de costela-de-adão: corte a ponta com uma folha madura e, se der, uma raiz aérea",
+   "esp": "costela-de-adão",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "106",
+   "fontePet": null
+  },
+  "q3-293": {
+   "texto": "Dentro de casa a folha da costela-de-adão fica menor, mas recortada e furada",
+   "esp": "costela-de-adão",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "106",
+   "fontePet": null
+  },
+  "q3-294": {
+   "texto": "Costela-de-adão adulta não precisa de vaso maior: renove só a terra de cima",
+   "esp": "costela-de-adão",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "106",
+   "fontePet": null
+  },
+  "q3-295": {
+   "texto": "Gerânio de vaso não é o gerânio de canteiro inglês: o nome certo é pelargônio, parecem só na folha",
+   "esp": "gerânio",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "107",
+   "fontePet": null
+  },
+  "q3-296": {
+   "texto": "Muda de gerânio: estaca de ponta de 7,5 cm, em turfa com areia grossa",
+   "esp": "gerânio",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "107",
+   "fontePet": null
+  },
+  "q3-297": {
+   "texto": "Gerânio gosta de luz direta, mas com sombra leve se esquentar demais",
+   "esp": "gerânio",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "107",
+   "fontePet": null
+  },
+  "q3-298": {
+   "texto": "Tem gerânio de folha perfumada: de rosa, de limão, de maçã, de hortelã e de amêndoa",
+   "esp": "gerânio",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "108",
+   "fontePet": null
+  },
+  "q3-299": {
+   "texto": "O gerânio-limão solta cheiro de limão e melissa quando você amassa a folha",
+   "esp": "gerânio",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "107",
+   "fontePet": null
+  },
+  "q3-300": {
+   "texto": "O gerânio-hortelã tem folha macia e peluda com cheiro forte de hortelã-pimenta",
+   "esp": "gerânio",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "109",
+   "fontePet": null
+  },
+  "q3-301": {
+   "texto": "O ofiopogo (barba-de-serpente) tem folha de capim, dura e curvada; o mais vendido é listrado",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "109",
+   "fontePet": null
+  },
+  "q3-302": {
+   "texto": "Barba-de-serpente em vaso pede terra úmida por igual e divisão da touceira na troca de vaso",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "109",
+   "fontePet": null
+  },
+  "q3-303": {
+   "texto": "A peperômia-caperata tem folha em coração brilhante e enrugada, e solta espigas brancas",
+   "esp": "peperômia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "110",
+   "fontePet": null
+  },
+  "q3-304": {
+   "texto": "Peperômia: no calor, molhe bem e deixe secar um pouco antes da próxima rega",
+   "esp": "peperômia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "110",
+   "fontePet": null
+  },
+  "q3-305": {
+   "texto": "Peperômia pede pouco: adubo a cada 3 ou 4 semanas e vaso novo a cada 2 anos",
+   "esp": "peperômia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "110",
+   "fontePet": null
+  },
+  "q3-306": {
+   "texto": "Muda de peperômia sai de folha com o cabinho",
+   "esp": "peperômia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "110",
+   "fontePet": null
+  },
+  "q3-307": {
+   "texto": "O guaimbê (filodendro-bipinatífido) nasce com folha de coração e, adulto, a folha vai se recortando quase até o meio",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "111",
+   "fontePet": null
+  },
+  "q3-308": {
+   "texto": "Filodendro não gosta de terra molhada o tempo todo: estraga a raiz",
+   "esp": "filodendro",
+   "serie": "3 erros",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "111",
+   "fontePet": null
+  },
+  "q3-309": {
+   "texto": "Guaimbê adulto: renove só a terra de cima, com cuidado para não ferir as raízes da superfície",
+   "esp": "filodendro",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "111",
+   "fontePet": null
+  },
+  "q3-310": {
+   "texto": "O filodendro-vermelho tem folha em flecha que nasce rosada e fica verde-escura com tom de cobre",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "112",
+   "fontePet": null
+  },
+  "q3-311": {
+   "texto": "Filodendro trepador gosta de tutor coberto de musgo para subir",
+   "esp": "filodendro",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "112",
+   "fontePet": null
+  },
+  "q3-312": {
+   "texto": "Filodendro jovem troca de vaso todo ano; depois, mais ou menos a cada 2 anos",
+   "esp": "filodendro",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "112",
+   "fontePet": null
+  },
+  "q3-313": {
+   "texto": "O filodendro-coração forma um monte de folhas verdes em coração, que nascem com tom de bronze",
+   "esp": "filodendro",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "112",
+   "fontePet": null
+  },
+  "q3-314": {
+   "texto": "Muda de filodendro-coração sai de estaca de 10 cm",
+   "esp": "filodendro",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "112",
+   "fontePet": null
+  },
+  "q3-315": {
+   "texto": "A pilea-alumínio tem folha verde-escura acolchoada com manchas prateadas entre as nervuras",
+   "esp": "pilea",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "113",
+   "fontePet": null
+  },
+  "q3-316": {
+   "texto": "Pilea: terra quase seca no frio; mais água e adubo a cada 2 semanas quando cresce",
+   "esp": "pilea",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "113",
+   "fontePet": null
+  },
+  "q3-317": {
+   "texto": "Muda de pilea sai de estaca de ponta com 8 a 10 cm",
+   "esp": "pilea",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "113",
+   "fontePet": null
+  },
+  "q3-318": {
+   "texto": "Pilea-da-amizade na sombra fica com a folha mais verde do que bronze",
+   "esp": "pilea",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "114",
+   "fontePet": null
+  },
+  "q3-319": {
+   "texto": "A pilea-artilheira, quando mexida, solta nuvenzinhas de pólen da flor, para alegria das crianças",
+   "esp": "pilea",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "114",
+   "fontePet": null
+  },
+  "q3-320": {
+   "texto": "A pilea Moon Valley tem folha enrugada que nasce quase toda vinho com borda verde",
+   "esp": "pilea",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "115",
+   "fontePet": null
+  },
+  "q3-321": {
+   "texto": "O plectranto variegado tem folha peluda em coração, verde-clara com borda branca, e escorre do vaso",
+   "esp": "plectranto",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "116",
+   "fontePet": null
+  },
+  "q3-322": {
+   "texto": "Plectranto gosta de luz forte, até sol, e adubo a cada 2 semanas quando cresce",
+   "esp": "plectranto",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "116",
+   "fontePet": null
+  },
+  "q3-323": {
+   "texto": "O abacaxi-roxo (moisés-no-berço) tem folha dura verde-escura por cima e roxa por baixo",
+   "esp": "tradescântia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "117",
+   "fontePet": null
+  },
+  "q3-324": {
+   "texto": "Muda de abacaxi-roxo: tire os brotos de 8 a 10 cm que saem do pé",
+   "esp": "tradescântia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "117",
+   "fontePet": null
+  },
+  "q3-325": {
+   "texto": "Abacaxi-roxo quer terra úmida por igual e luz indireta",
+   "esp": "tradescântia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "117",
+   "fontePet": null
+  },
+  "q3-326": {
+   "texto": "Espada-de-são-jorge: molhe bem, deixe secar um pouco antes da próxima rega e quase nada no frio",
+   "esp": "espada-de-são-jorge",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "118",
+   "fontePet": null
+  },
+  "q3-327": {
+   "texto": "Espada-de-são-jorge só troca de vaso quando a raiz e as folhas enchem o vaso todo, a cada 2 ou 3 anos",
+   "esp": "espada-de-são-jorge",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "118",
+   "fontePet": null
+  },
+  "q3-328": {
+   "texto": "Espada de borda amarela feita de folha volta verde: para manter o amarelo, divida a touceira",
+   "esp": "espada-de-são-jorge",
+   "serie": "3 erros",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "118",
+   "fontePet": null
+  },
+  "q3-329": {
+   "texto": "Existe espada-de-são-jorge anã, a Hahnii, de uns 15 cm, com folha em roseta",
+   "esp": "espada-de-são-jorge",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "118",
+   "fontePet": null
+  },
+  "q3-330": {
+   "texto": "Espada-de-são-jorge aguenta sol pleno",
+   "esp": "espada-de-são-jorge",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "118",
+   "fontePet": null
+  },
+  "q3-331": {
+   "texto": "A begônia-morango (saxífraga) não é begônia: solta filhotes na ponta de ramos finos que escorrem do vaso",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "119",
+   "fontePet": null
+  },
+  "q3-332": {
+   "texto": "Muda de saxífraga: prenda o filhote na terra de um vaso ao lado",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "119",
+   "fontePet": null
+  },
+  "q3-333": {
+   "texto": "Cheflera nova tem folha de 3 partes; adulta, 5 ou 7",
+   "esp": "cheflera",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "q3-334": {
+   "texto": "Cheflera: terra úmida moderada no frio, mais água e adubo a cada 3 ou 4 semanas quando cresce",
+   "esp": "cheflera",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "q3-335": {
+   "texto": "Cheflera grande não troca de vaso: renova a terra de cima; menor, troca a cada 2 ou 3 anos",
+   "esp": "cheflera",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "q3-336": {
+   "texto": "Cheflera também sai de semente, em bandeja",
+   "esp": "cheflera",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "q3-337": {
+   "texto": "A cheflera-pequena tem 7 a 11 folhinhas abertas como varetas de guarda-chuva",
+   "esp": "cheflera",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "121",
+   "fontePet": null
+  },
+  "q3-338": {
+   "texto": "A tolmia solta filhotinhos onde o cabo encontra a folha, como \"mãe carregando filho nas costas\"",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "122",
+   "fontePet": null
+  },
+  "q3-339": {
+   "texto": "Muda de tolmia: corte a folha com o filhote e prenda sobre a terra; quando enraizar, vaso próprio",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "122",
+   "fontePet": null
+  },
+  "q3-340": {
+   "texto": "A tradescântia verde é quase sempre vendida variegada: listrada de branco, amarelo ou rosa",
+   "esp": "tradescântia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "123",
+   "fontePet": null
+  },
+  "q3-342": {
+   "texto": "Muda de tradescântia: estaca de ponta de 5 a 7,5 cm",
+   "esp": "tradescântia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "123",
+   "fontePet": null
+  },
+  "q3-343": {
+   "texto": "A tradescântia-zebrina tem folha listrada de prata brilhante e roxa por baixo",
+   "esp": "tradescântia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "123",
+   "fontePet": null
+  },
+  "q3-344": {
+   "texto": "A iúca-elefante velha forma tufos de folha no alto, por isso é chamada de \"lírio-palmeira\"",
+   "esp": "iúca",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "124",
+   "fontePet": null
+  },
+  "q3-345": {
+   "texto": "Iúca vive bem em vaso pequeno: só troque quando a raiz encher",
+   "esp": "iúca",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "124",
+   "fontePet": null
+  },
+  "q3-346": {
+   "texto": "Muda de iúca: pedaços de tronco de 10 cm de uma planta velha, enterrados na terra",
+   "esp": "iúca",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "124",
+   "fontePet": null
+  },
+  "q3-347": {
+   "texto": "Iúca gosta de sol pleno e terra quase seca no frio",
+   "esp": "iúca",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "124",
+   "fontePet": null
+  },
+  "q3-348": {
+   "texto": "A calathea-zebra tem folha verde-esmeralda com listras escuras saindo do meio, e roxa por baixo",
+   "esp": "calathea",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "125",
+   "fontePet": null
+  },
+  "q3-349": {
+   "texto": "A calathea-cascavel tem folha comprida de borda ondulada com faixas verde-escuras",
+   "esp": "calathea",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "125",
+   "fontePet": null
+  },
+  "q3-350": {
+   "texto": "A cordiline-australis passa de 7 m na natureza, mas jovem é ótima planta de casa",
+   "esp": "cordiline",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "125",
+   "fontePet": null
+  },
+  "q3-351": {
+   "texto": "A jiboia às vezes é vendida como Scindapsus, mas o nome certo é Epipremnum",
+   "esp": "jiboia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "125",
+   "fontePet": null
+  },
+  "q3-352": {
+   "texto": "A fitônia tem folha verde-escura com nervuras desenhadas, como uma rede pintada",
+   "esp": "fitônia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "125",
+   "fontePet": null
+  },
+  "q3-353": {
+   "texto": "A peperômia-melancia tem folha lisa e cerosa com faixas prateadas e cabinho vermelho",
+   "esp": "peperômia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "126",
+   "fontePet": null
+  },
+  "q3-354": {
+   "texto": "A iresine (planta-bife) tem caule vermelho e folha cor de vinho em coração",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "126",
+   "fontePet": null
+  },
+  "q3-355": {
+   "texto": "O rabo-de-gato (acalifa) solta flores vermelhas em pendões compridos e caídos",
+   "esp": "rabo-de-gato",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "128",
+   "fontePet": null
+  },
+  "q3-356": {
+   "texto": "Rabo-de-gato em vaso: adubo a cada 2 semanas na época de crescer e flor, e vaso novo a cada 2 ou 3 anos",
+   "esp": "rabo-de-gato",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "128",
+   "fontePet": null
+  },
+  "q3-357": {
+   "texto": "Muda de rabo-de-gato: estaca de ponta de 10 a 13 cm em turfa com areia grossa",
+   "esp": "rabo-de-gato",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "128",
+   "fontePet": null
+  },
+  "q3-358": {
+   "texto": "A planta-batom tem flor vermelha em tubo com a boca amarelada, como um batom saindo do estojo",
+   "esp": "planta-batom",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "129",
+   "fontePet": null
+  },
+  "q3-359": {
+   "texto": "Planta-batom pede pouco: adubo a cada 4 semanas e vaso novo a cada 3 anos",
+   "esp": "planta-batom",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "129",
+   "fontePet": null
+  },
+  "q3-360": {
+   "texto": "O antúrio-flamingo tem a espiga enrolada em espiral, como rabinho de porco",
+   "esp": "antúrio",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "130",
+   "fontePet": null
+  },
+  "q3-361": {
+   "texto": "Antúrio-flamingo: terra quase seca, mas nunca seca de vez, na época fria",
+   "esp": "antúrio",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "130",
+   "fontePet": null
+  },
+  "q3-362": {
+   "texto": "Antúrio troca de vaso só quando a raiz enche, a cada 2 ou 3 anos",
+   "esp": "antúrio",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "130",
+   "fontePet": null
+  },
+  "q3-363": {
+   "texto": "Na buganvília a flor é pequenininha: o colorido são as brácteas, folhas de papel que duram meses",
+   "esp": "buganvília",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "130",
+   "fontePet": null
+  },
+  "q3-364": {
+   "texto": "Muda de buganvília: estaca de 7,5 cm com um pedacinho de galho velho na base (o \"calcanhar\")",
+   "esp": "buganvília",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "130",
+   "fontePet": null
+  },
+  "q3-365": {
+   "texto": "Buganvília em vaso: água à vontade no calor, com o vaso escoando bem",
+   "esp": "buganvília",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "130",
+   "fontePet": null
+  },
+  "q3-366": {
+   "texto": "O peixinho (colúnea) tem ramos que caem do vaso e flores laranja-avermelhadas de uns 7,5 cm",
+   "esp": "peixinho",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "131",
+   "fontePet": null
+  },
+  "q3-367": {
+   "texto": "Peixinho em flor pede terra sempre úmida",
+   "esp": "peixinho",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "131",
+   "fontePet": null
+  },
+  "q3-368": {
+   "texto": "Muda de peixinho: estaca de galho que não está florindo",
+   "esp": "peixinho",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "131",
+   "fontePet": null
+  },
+  "q3-369": {
+   "texto": "A cúfea-charuto solta montes de florzinhas vermelhas em tubo, como charutinhos acesos",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "132",
+   "fontePet": null
+  },
+  "q3-370": {
+   "texto": "A cúfea-charuto vive pouco: refaça por estaca de ponta ou semente",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "132",
+   "fontePet": null
+  },
+  "q3-371": {
+   "texto": "Muda de coroa-de-cristo: deixe a ponta cortada secar antes de plantar",
+   "esp": "coroa-de-cristo",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "133",
+   "fontePet": null
+  },
+  "q3-372": {
+   "texto": "Na coroa-de-cristo, o \"vermelho\" da flor são duas folhinhas modificadas em forma de rim",
+   "esp": "coroa-de-cristo",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "133",
+   "fontePet": null
+  },
+  "q3-373": {
+   "texto": "Coroa-de-cristo: sol, terra quase seca no frio e adubo a cada 2 semanas quando cresce",
+   "esp": "coroa-de-cristo",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "133",
+   "fontePet": null
+  },
+  "q3-374": {
+   "texto": "A flor do hibisco dura pouco, mas ele solta flor nova o verão todo",
+   "esp": "hibisco",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "q3-375": {
+   "texto": "Tem hibisco anão de folha variegada, o Cooperi, ótimo para dentro de casa",
+   "esp": "hibisco",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "q3-376": {
+   "texto": "Muda de hibisco: estaca de galho sem flor, de 8 a 10 cm",
+   "esp": "hibisco",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "q3-377": {
+   "texto": "A flor-de-cera (hoia) solta buquês redondos de estrelinhas perfumadas brancas a rosadas",
+   "esp": "hoia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "135",
+   "fontePet": null
+  },
+  "q3-378": {
+   "texto": "Hoia nova pode ser enrolada num aro; adulta, pede suporte mais forte",
+   "esp": "hoia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "135",
+   "fontePet": null
+  },
+  "q3-379": {
+   "texto": "Hoia só troca de vaso com a raiz apertada, a cada 2 ou 3 anos",
+   "esp": "hoia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "135",
+   "fontePet": null
+  },
+  "q3-380": {
+   "texto": "O jasmim-dos-poetas tem botão rosa que abre em flor branca muito perfumada",
+   "esp": "jasmim",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "136",
+   "fontePet": null
+  },
+  "q3-381": {
+   "texto": "Jasmim: aumente a rega quando os botões começam a aparecer, e adube a cada 2 semanas desde então",
+   "esp": "jasmim",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "136",
+   "fontePet": null
+  },
+  "q3-382": {
+   "texto": "Troque o jasmim de vaso depois que as flores passam",
+   "esp": "jasmim",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "136",
+   "fontePet": null
+  },
+  "q3-383": {
+   "texto": "No camarão, o \"camarão\" são brácteas coloridas; a flor de verdade é branquinha e quase some",
+   "esp": "camarão",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "136",
+   "fontePet": null
+  },
+  "q3-384": {
+   "texto": "O camarão-vermelho tem nome popular de \"junta-de-cobra-pintada\"",
+   "esp": "camarão",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "136",
+   "fontePet": null
+  },
+  "q3-385": {
+   "texto": "O camarão-amarelo é chamado de \"planta-pirulito\" em inglês, pela espiga amarela",
+   "esp": "camarão-amarelo",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "137",
+   "fontePet": null
+  },
+  "q3-386": {
+   "texto": "Camarão-amarelo: adubo a cada 2 semanas na época de flor; vaso novo todo ano enquanto jovem",
+   "esp": "camarão-amarelo",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "137",
+   "fontePet": null
+  },
+  "q3-387": {
+   "texto": "Lírio-da-paz gosta de adubo fraco a cada 10 a 14 dias quando cresce, e a cada 4 ou 5 semanas no resto do ano",
+   "esp": "lírio-da-paz",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "138",
+   "fontePet": null
+  },
+  "q3-388": {
+   "texto": "Lírio-da-paz quer terra úmida por igual e vaso novo quase todo ano",
+   "esp": "lírio-da-paz",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "138",
+   "fontePet": null
+  },
+  "q3-389": {
+   "texto": "Lírio-da-paz cheio vira vários: divida a touceira",
+   "esp": "lírio-da-paz",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "138",
+   "fontePet": null
+  },
+  "q3-390": {
+   "texto": "O jasmim-de-madagascar solta cachos de até 8 flores brancas cerosas e muito perfumadas",
+   "esp": "jasmim-de-madagascar",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "139",
+   "fontePet": null
+  },
+  "q3-391": {
+   "texto": "Jasmim-de-madagascar novo cresce num aro; depois precisa de suporte mais firme",
+   "esp": "jasmim-de-madagascar",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "139",
+   "fontePet": null
+  },
+  "q3-392": {
+   "texto": "Muda de jasmim-de-madagascar: estaca de 10 cm de galho lateral",
+   "esp": "jasmim-de-madagascar",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "139",
+   "fontePet": null
+  },
+  "q3-393": {
+   "texto": "O estreptocarpo tem folha comprida em colher, enrugada, e flor parecida com a da dedaleira",
+   "esp": "estreptocarpo",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "140",
+   "fontePet": null
+  },
+  "q3-394": {
+   "texto": "Estreptocarpo sai de muda de folha ou da divisão da touceira",
+   "esp": "estreptocarpo",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "140",
+   "fontePet": null
+  },
+  "q3-395": {
+   "texto": "Estreptocarpo: luz forte sem sol direto e vaso escoando bem",
+   "esp": "estreptocarpo",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "140",
+   "fontePet": null
+  },
+  "q3-396": {
+   "texto": "Planta carnívora vive em terra pobre: em vez de tirar comida da raiz, pega e digere inseto",
+   "esp": "carnívora",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "141",
+   "fontePet": null
+  },
+  "q3-397": {
+   "texto": "Planta carnívora não é fácil dentro de casa: pede água de chuva e ar úmido",
+   "esp": "carnívora",
+   "serie": "3 erros",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "141",
+   "fontePet": null
+  },
+  "q3-398": {
+   "texto": "Carnívora gosta de meia-sombra leve e terra só levemente úmida, sempre com água de chuva limpa",
+   "esp": "carnívora",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "141",
+   "fontePet": null
+  },
+  "q3-399": {
+   "texto": "Casa de ar seco? Uma cúpula de plástico sobre a carnívora segura a umidade",
+   "esp": "carnívora",
+   "serie": "Dica do Andre",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "141",
+   "fontePet": null
+  },
+  "q3-400": {
+   "texto": "A dioneia fecha a \"boca\" na hora quando o inseto encosta nos pelinhos de gatilho, digere e abre de novo",
+   "esp": "carnívora",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "141",
+   "fontePet": null
+  },
+  "q3-401": {
+   "texto": "A drósera não tem boca: tem pelinhos grudentos que prendem e digerem o inseto",
+   "esp": "carnívora",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "142",
+   "fontePet": null
+  },
+  "q3-402": {
+   "texto": "A drósera-redonda solta gotinhas brilhantes nos pelos, que parecem orvalho",
+   "esp": "carnívora",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "143",
+   "fontePet": null
+  },
+  "q3-403": {
+   "texto": "A darlingtônia tem a \"jarra\" curvada como a cabeça de uma naja",
+   "esp": "carnívora",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "144",
+   "fontePet": null
+  },
+  "q3-404": {
+   "texto": "Nepentes fica melhor pendurada ou na prateleira, com as jarras soltas no ar",
+   "esp": "carnívora",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "144",
+   "fontePet": null
+  },
+  "q3-405": {
+   "texto": "A sarracênia-roxa tem jarras roxas e verdes que lembram carne crua e atraem moscas",
+   "esp": "carnívora",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "146",
+   "fontePet": null
+  },
+  "q3-406": {
+   "texto": "Planta de fruto e bolinha enfeitada dura mais bonita em cômodo fresco",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "147",
+   "fontePet": null
+  },
+  "q3-407": {
+   "texto": "Plantas de fruto em vaso gostam de muita luz, mas sem o sol mais forte do verão",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "147",
+   "fontePet": null
+  },
+  "q3-408": {
+   "texto": "A ardísia solta florzinha branca perfumada e depois um monte de bolinhas vermelhas que duram muito",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "147",
+   "fontePet": null
+  },
+  "q3-409": {
+   "texto": "A pimenta ornamental vive mais de um ano, mas quase sempre é cultivada como planta de uma estação",
+   "esp": "pimenta",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "148",
+   "fontePet": null
+  },
+  "q3-410": {
+   "texto": "O calamondin (laranjinha-kinkan de vaso) dá fruto ainda pequenininho e floresce o ano todo",
+   "esp": "limoeiro",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "149",
+   "fontePet": null
+  },
+  "q3-411": {
+   "texto": "O limão-meyer é ótimo de vaso, com flor branca tingida de vermelho e muito perfumada",
+   "esp": "limoeiro",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "149",
+   "fontePet": null
+  },
+  "q3-412": {
+   "texto": "Limão de vaso tem paciência: o fruto leva vários meses para amadurecer",
+   "esp": "limoeiro",
+   "serie": "3 erros",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "149",
+   "fontePet": null
+  },
+  "q3-413": {
+   "texto": "O fícus-deltoide cresce devagar e dá frutinhos amarelo-acinzentados nas axilas das folhas o ano todo",
+   "esp": "fícus",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "150",
+   "fontePet": null
+  },
+  "q3-414": {
+   "texto": "A nertera forma tapetinho de folha e se cobre de bolinhas laranja brilhantes",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "151",
+   "fontePet": null
+  },
+  "q3-415": {
+   "texto": "O falso-cerejeira tem frutinhos que nascem verdes, ficam amarelos e depois vermelhos",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "151",
+   "fontePet": null
+  },
+  "q3-416": {
+   "texto": "Tem alamanda de flor laranja-amarela grande (Hendersonii) e de flor amarelo-clara (Grandiflora)",
+   "esp": "alamanda",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "151",
+   "fontePet": null
+  },
+  "q3-417": {
+   "texto": "O manacá-de-cheiro é chamado em inglês de \"ontem, hoje e amanhã\": a flor roxa de garganta branca é perfumada",
+   "esp": "manacá",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "152",
+   "fontePet": null
+  },
+  "q3-418": {
+   "texto": "A gardênia tem flor branca cerosa de uns 7,5 cm e perfume forte",
+   "esp": "gardênia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "152",
+   "fontePet": null
+  },
+  "q3-419": {
+   "texto": "A ixora solta buquês de até 10 cm, cheios de florzinhas em tubo vermelhas, rosa, salmão, amarelas ou brancas",
+   "esp": "ixora",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "152",
+   "fontePet": null
+  },
+  "q3-420": {
+   "texto": "A justícia-rosa (jacobina) é brasileira: em inglês se chama \"pluma-brasileira\"",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "152",
+   "fontePet": null
+  },
+  "q3-421": {
+   "texto": "A mandevila é trepadeira de flor rosa em forma de trombeta, em cachos",
+   "esp": "mandevila",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "152",
+   "fontePet": null
+  },
+  "q3-422": {
+   "texto": "A bela-emília é trepadeira de florzinha azul-céu em estrela",
+   "esp": "bela-emília",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "153",
+   "fontePet": null
+  },
+  "q3-423": {
+   "texto": "Planta de flor comprada em vaso costuma ir para o lixo depois da flor; quem tenta fazer florir de novo muitas vezes se decepciona",
+   "esp": "outra",
+   "serie": "3 erros",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "155",
+   "fontePet": null
+  },
+  "q3-424": {
+   "texto": "A aquimene tem flores em trombeta que duram pouco, mas logo vem outra no lugar",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "155",
+   "fontePet": null
+  },
+  "q3-425": {
+   "texto": "A azaleia de vaso é forçada no viveiro para florir fora de época",
+   "esp": "azaleia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "157",
+   "fontePet": null
+  },
+  "q3-426": {
+   "texto": "Azaleia florida: terra sempre úmida e nada de adubo",
+   "esp": "azaleia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "157",
+   "fontePet": null
+  },
+  "q3-427": {
+   "texto": "Azaleia passou a flor? Plante no jardim em vez de jogar fora",
+   "esp": "azaleia",
+   "serie": "Dica do Andre",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "157",
+   "fontePet": null
+  },
+  "q3-428": {
+   "texto": "A begônia-tuberosa tem flor grande parecida com rosa, de 7,5 a 15 cm",
+   "esp": "begônia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "158",
+   "fontePet": null
+  },
+  "q3-429": {
+   "texto": "Begônia-tuberosa florida: terra úmida sem encharcar e adubo a cada 2 ou 3 semanas",
+   "esp": "begônia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "158",
+   "fontePet": null
+  },
+  "q3-430": {
+   "texto": "Para brotar a begônia-tuberosa: ponha o tubérculo em caixa com turfa úmida; quando brotar, vaso próprio",
+   "esp": "begônia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "158",
+   "fontePet": null
+  },
+  "q3-431": {
+   "texto": "A calceolária tem flor em bolsinha, amarela, laranja ou vermelha, pintada de vinho",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "159",
+   "fontePet": null
+  },
+  "q3-432": {
+   "texto": "A celósia-plumosa solta espigas de flor fofas como pluma, rosa, amarela, vermelha ou âmbar",
+   "esp": "celósia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "160",
+   "fontePet": null
+  },
+  "q3-433": {
+   "texto": "Celósia sai de semente",
+   "esp": "celósia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "160",
+   "fontePet": null
+  },
+  "q3-434": {
+   "texto": "O crisântemo de vaso floresce o ano todo porque o viveiro controla horas de escuro e de luz",
+   "esp": "crisântemo",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "161",
+   "fontePet": null
+  },
+  "q3-435": {
+   "texto": "Viveiro usa produto químico para o crisântemo de vaso ficar baixinho",
+   "esp": "crisântemo",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "161",
+   "fontePet": null
+  },
+  "q3-436": {
+   "texto": "Crisântemo florido só pede terra úmida: sem adubo e sem troca de vaso",
+   "esp": "crisântemo",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "161",
+   "fontePet": null
+  },
+  "q3-437": {
+   "texto": "O ciclame tem flor que lembra peteca e folha redonda marmorizada",
+   "esp": "ciclame",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "162",
+   "fontePet": null
+  },
+  "q3-438": {
+   "texto": "Para guardar o ciclame depois da flor: diminua a água até o bulbo secar no vaso e deixe em lugar fresco e arejado",
+   "esp": "ciclame",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "162",
+   "fontePet": null
+  },
+  "q3-439": {
+   "texto": "O ciclame volta quando você troca para vaso limpo com terra nova e aumenta a água aos poucos quando as folhas surgem",
+   "esp": "ciclame",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "162",
+   "fontePet": null
+  },
+  "q3-440": {
+   "texto": "Ciclame de semente leva de 12 a 15 meses para virar planta grande",
+   "esp": "ciclame",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "162",
+   "fontePet": null
+  },
+  "q3-441": {
+   "texto": "Érica de vaso pede água sem calcário e terra úmida sem encharcar",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "163",
+   "fontePet": null
+  },
+  "q3-442": {
+   "texto": "No bico-de-papagaio, o vermelho são brácteas, folhas coloridas de até 15 cm; tem também branco, rosa e creme",
+   "esp": "bico-de-papagaio",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "164",
+   "fontePet": null
+  },
+  "q3-443": {
+   "texto": "O bico-de-papagaio de vaso é baixinho por causa de produto químico do viveiro: no ano seguinte pode crescer bem mais",
+   "esp": "bico-de-papagaio",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "164",
+   "fontePet": null
+  },
+  "q3-444": {
+   "texto": "Bico-de-papagaio em vaso: terra úmida por igual sem encharcar, luz indireta, sem adubo",
+   "esp": "bico-de-papagaio",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "164",
+   "fontePet": null
+  },
+  "q3-445": {
+   "texto": "A violeta-persa (exacum) tem flor roxa perfumada com miolo amarelo",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "165",
+   "fontePet": null
+  },
+  "q3-446": {
+   "texto": "Hortênsia tem dois tipos: a de bola (a de vaso) e a de \"renda\", com a flor aberta e chata",
+   "esp": "hortênsia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "165",
+   "fontePet": null
+  },
+  "q3-447": {
+   "texto": "Hortênsia florida em vaso: terra úmida sem encharcar e adubo a cada 10 dias desde o botão",
+   "esp": "hortênsia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "166",
+   "fontePet": null
+  },
+  "q3-448": {
+   "texto": "Hortênsia de vaso passou a flor? Vai para o jardim",
+   "esp": "hortênsia",
+   "serie": "Dica do Andre",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "166",
+   "fontePet": null
+  },
+  "q3-449": {
+   "texto": "O beijinho vive de um ano para outro, mas fica comprido e desengonçado: muita gente renova todo ano",
+   "esp": "beijinho",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "166",
+   "fontePet": null
+  },
+  "q3-450": {
+   "texto": "Beijinho gosta de adubo líquido fraco toda semana na época de flor, e terra úmida sem encharcar",
+   "esp": "beijinho",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "166",
+   "fontePet": null
+  },
+  "q3-451": {
+   "texto": "Muda de beijinho: estaca de ponta de 8 a 10 cm em turfa com areia grossa",
+   "esp": "beijinho",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "166",
+   "fontePet": null
+  },
+  "q3-452": {
+   "texto": "O kalanchoe floresce o ano todo no viveiro porque controlam horas de luz e de escuro; cada flor dura 6 semanas ou mais",
+   "esp": "kalanchoe",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "167",
+   "fontePet": null
+  },
+  "q3-453": {
+   "texto": "Kalanchoe: molhe bem e deixe secar um pouco entre uma rega e outra; adube desde que o botão mostra cor",
+   "esp": "kalanchoe",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "167",
+   "fontePet": null
+  },
+  "q3-454": {
+   "texto": "A prímula-fada solta rodelas de flor em estrelinha, rosa, vermelha, branca ou lilás, com olhinho amarelo",
+   "esp": "prímula",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "168",
+   "fontePet": null
+  },
+  "q3-455": {
+   "texto": "Prímula florida: terra úmida sem encharcar e adubo líquido fraco a cada 10 a 14 dias desde o botão",
+   "esp": "prímula",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "168",
+   "fontePet": null
+  },
+  "q3-457": {
+   "texto": "Semente de prímula vai quase descoberta: só uma camadinha de terra por cima",
+   "esp": "prímula",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "168",
+   "fontePet": null
+  },
+  "q3-458": {
+   "texto": "Hoje dá para ter violeta-africana florida em qualquer época, em flor simples, dobrada, franjada ou estrela",
+   "esp": "violeta",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "170",
+   "fontePet": null
+  },
+  "q3-459": {
+   "texto": "Tem violeta minúscula, com menos de 7,5 cm, e violeta grande, com mais de 38 cm de largura",
+   "esp": "violeta",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "170",
+   "fontePet": null
+  },
+  "q3-460": {
+   "texto": "Violeta-africana: terra úmida o ano todo, sem ficar encharcada, e adubo líquido fraco a cada 2 semanas quando cresce",
+   "esp": "violeta",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "170",
+   "fontePet": null
+  },
+  "q3-461": {
+   "texto": "Muda de violeta: folha com o cabinho enfiado em turfa com areia grossa",
+   "esp": "violeta",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "170",
+   "fontePet": null
+  },
+  "q3-462": {
+   "texto": "A violeta-africana fica com altura de uns dois terços da largura",
+   "esp": "violeta",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "170",
+   "fontePet": null
+  },
+  "q3-463": {
+   "texto": "O esquizanto é chamado de \"orquídea do pobre\": solta montes de flores parecidas com orquídea",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "171",
+   "fontePet": null
+  },
+  "q3-464": {
+   "texto": "A cinerária floresce em buquês de margaridas grandes, brancas, azuis, roxas, rosa ou vermelhas",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "172",
+   "fontePet": null
+  },
+  "q3-465": {
+   "texto": "Cinerária nem precisa de adubo; com adubo fraco a cada 2 semanas desde a cor do botão, ela fica maior",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "172",
+   "fontePet": null
+  },
+  "q3-466": {
+   "texto": "A sinningia-cardinal tem flor vermelha em capuz e folha aveludada",
+   "esp": "gloxínia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "173",
+   "fontePet": null
+  },
+  "q3-467": {
+   "texto": "Para guardar a sinningia depois da flor: corte a água aos poucos, tire folhas e flores secas e guarde o tubérculo seco e arejado",
+   "esp": "gloxínia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "173",
+   "fontePet": null
+  },
+  "q3-468": {
+   "texto": "A gloxínia é brasileira: em inglês se chama \"gloxínia-brasileira\"; a flor dura 8 semanas ou mais",
+   "esp": "gloxínia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "174",
+   "fontePet": null
+  },
+  "q3-469": {
+   "texto": "Gloxínia florida: terra úmida sem encharcar, luz indireta e adubo líquido fraco a cada 2 semanas",
+   "esp": "gloxínia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "174",
+   "fontePet": null
+  },
+  "q3-470": {
+   "texto": "Para brotar a gloxínia: tubérculo em turfa úmida; com o broto de uns 3,5 cm, vaso próprio",
+   "esp": "gloxínia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "174",
+   "fontePet": null
+  },
+  "q3-471": {
+   "texto": "A smithiantha se multiplica pela divisão dos rizomas na hora de plantar, ou por folha",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "175",
+   "fontePet": null
+  },
+  "q3-472": {
+   "texto": "A tumbérgia-alata (amarelinha) tem flor branca, amarela ou laranja com olho preto e serve de cortina viva",
+   "esp": "tumbérgia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "176",
+   "fontePet": null
+  },
+  "q3-473": {
+   "texto": "Tumbérgia em vaso: terra úmida sem encharcar e adubo líquido fraco a cada 10 dias desde o botão",
+   "esp": "tumbérgia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "176",
+   "fontePet": null
+  },
+  "q3-474": {
+   "texto": "Tumbérgia-alata sai fácil de semente em bandeja",
+   "esp": "tumbérgia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "176",
+   "fontePet": null
+  },
+  "q3-475": {
+   "texto": "A begônia-elatior tem flor de até 5 cm, maior que a das begônias de inverno parecidas",
+   "esp": "begônia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "176",
+   "fontePet": null
+  },
+  "q3-476": {
+   "texto": "A vinca já se chamou Vinca rosea; hoje é Catharanthus",
+   "esp": "vinca",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "177",
+   "fontePet": null
+  },
+  "q3-477": {
+   "texto": "A gérbera tem a folha lanosa por baixo e o miolo da flor é um disco amarelo grande",
+   "esp": "gérbera",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "178",
+   "fontePet": null
+  },
+  "q3-478": {
+   "texto": "Todo cacto é suculenta, mas nem toda suculenta é cacto",
+   "esp": "cacto",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "180",
+   "fontePet": null
+  },
+  "q3-479": {
+   "texto": "O que faz um cacto ser cacto é a aréola: almofadinha de onde saem espinhos, ganchinhos ou pelos",
+   "esp": "cacto",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "180",
+   "fontePet": null
+  },
+  "q3-480": {
+   "texto": "Cacto jovem troca de vaso todo ano; depois, só quando a raiz encher, a cada 2 ou 3 anos",
+   "esp": "cacto",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "180",
+   "fontePet": null
+  },
+  "q3-481": {
+   "texto": "Cacto não quer vaso grande: troque só se precisar, para um pouquinho maior",
+   "esp": "cacto",
+   "serie": "3 erros",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "180",
+   "fontePet": null
+  },
+  "q3-482": {
+   "texto": "Para suculenta, prefira vaso raso a vaso fundo",
+   "esp": "suculenta",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "180",
+   "fontePet": null
+  },
+  "q3-483": {
+   "texto": "A agave-filifera tem fios brancos soltando da borda das folhas",
+   "esp": "agave",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "181",
+   "fontePet": null
+  },
+  "q3-484": {
+   "texto": "Filhote de agave: tire, deixe secar uns dias e só então plante em vaso pequeno, com sombra leve até pegar",
+   "esp": "agave",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "181",
+   "fontePet": null
+  },
+  "q3-485": {
+   "texto": "A agave-rainha-vitória só floresce com 10 anos ou mais",
+   "esp": "agave",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "182",
+   "fontePet": null
+  },
+  "q3-486": {
+   "texto": "Agave em vaso: sol pleno, adubo líquido fraco a cada 2 ou 3 semanas quando cresce",
+   "esp": "agave",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "182",
+   "fontePet": null
+  },
+  "q3-487": {
+   "texto": "O aloe-tigre tem folha dura em triângulo, listrada de branco, encaixada em fileiras",
+   "esp": "suculenta",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "183",
+   "fontePet": null
+  },
+  "q3-488": {
+   "texto": "Aloe-tigre: no calor, mais água, mas deixe a terra secar um pouco entre as regas",
+   "esp": "suculenta",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "183",
+   "fontePet": null
+  },
+  "q3-489": {
+   "texto": "O cacto-rabo-de-rato é cacto de floresta, com ramos de até 90 cm que caem do vaso e flor magenta",
+   "esp": "cacto",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "184",
+   "fontePet": null
+  },
+  "q3-490": {
+   "texto": "Cacto-rabo-de-rato troca de vaso depois da flor, quase todo ano",
+   "esp": "cacto",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "184",
+   "fontePet": null
+  },
+  "q3-491": {
+   "texto": "Muda de cacto: deixe a ponta cortada secar antes de enterrar em terra arenosa",
+   "esp": "cacto",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "184",
+   "fontePet": null
+  },
+  "q3-492": {
+   "texto": "O astrofito-asterias parece um ouriço-do-mar achatado, sem espinho, com 8 gomos e pintinhas brancas",
+   "esp": "cacto-estrela",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "185",
+   "fontePet": null
+  },
+  "q3-493": {
+   "texto": "Astrofito: terra seca no frio; no calor, regue sempre que secar",
+   "esp": "cacto-estrela",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "185",
+   "fontePet": null
+  },
+  "q3-494": {
+   "texto": "Cacto florido: adube a cada 2 semanas desde que o botão mostra cor até o fim do verão",
+   "esp": "cacto",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "185",
+   "fontePet": null
+  },
+  "q3-495": {
+   "texto": "O cacto-mitra-de-bispo tem 5 ou 6 gomos e flor amarela perfumada",
+   "esp": "cacto-estrela",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "186",
+   "fontePet": null
+  },
+  "q3-496": {
+   "texto": "O cacto-cabeça-de-velho é todo coberto de pelos brancos compridos; dentro de casa quase nunca floresce",
+   "esp": "cacto",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "187",
+   "fontePet": null
+  },
+  "q3-497": {
+   "texto": "Cacto colunar feio embaixo? Corte o topo, deixe secar uns dias e plante em terra arenosa",
+   "esp": "cacto",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "187",
+   "fontePet": null
+  },
+  "q3-498": {
+   "texto": "O cacto-monstro é uma forma do cereus com o caule torto e cheio de galhos",
+   "esp": "cacto",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "187",
+   "fontePet": null
+  },
+  "q3-499": {
+   "texto": "O cacto-amendoim tem caules de dedinho e se cobre de flores vermelhas",
+   "esp": "cacto-amendoim",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "188",
+   "fontePet": null
+  },
+  "q3-501": {
+   "texto": "Muda de cacto-amendoim: pedacinhos de caule enterrados em terra arenosa",
+   "esp": "cacto-amendoim",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "188",
+   "fontePet": null
+  },
+  "q3-502": {
+   "texto": "O cacto-tocha-de-prata tem tantos espinhos brancos curtinhos que brilha prateado",
+   "esp": "cacto",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "189",
+   "fontePet": null
+  },
+  "q3-503": {
+   "texto": "A cotilédone (orelha-de-porco) tem folha cinza-esverdeada com borda vermelha",
+   "esp": "suculenta",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "190",
+   "fontePet": null
+  },
+  "q3-504": {
+   "texto": "Muda de cotilédone: tire 1 ou 2 folhas, deixe o corte secar e enterre em terra arenosa",
+   "esp": "suculenta",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "190",
+   "fontePet": null
+  },
+  "q3-505": {
+   "texto": "A crássula-musgo parece um ciprestinho em miniatura, com folhinhas em escama",
+   "esp": "suculenta",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "191",
+   "fontePet": null
+  },
+  "q3-506": {
+   "texto": "A crássula-hélice tem cachos de flor laranja-vermelha que, vistos de cima, parecem hélice de avião",
+   "esp": "suculenta",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "192",
+   "fontePet": null
+  },
+  "q3-507": {
+   "texto": "Crássula-hélice no frio: terra quase seca, mas sem deixar secar de vez",
+   "esp": "suculenta",
+   "serie": "3 erros",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "192",
+   "fontePet": null
+  },
+  "q3-508": {
+   "texto": "A echeveria-derenbergii tem folha em colher com borda vermelha e pó branco, e vira almofada cheia de filhotes",
+   "esp": "echeveria",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "193",
+   "fontePet": null
+  },
+  "q3-509": {
+   "texto": "Echeveria sai de muda de folha enterrada em terra arenosa",
+   "esp": "echeveria",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "193",
+   "fontePet": null
+  },
+  "q3-510": {
+   "texto": "Echeveria: sol pleno, adubo líquido fraco a cada 2 semanas quando cresce",
+   "esp": "echeveria",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "193",
+   "fontePet": null
+  },
+  "q3-511": {
+   "texto": "A echeveria-setosa tem folhas cobertas de pelinhos brancos",
+   "esp": "echeveria",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "194",
+   "fontePet": null
+  },
+  "q3-512": {
+   "texto": "A cadeira-de-sogra cresce devagar: em vaso fica com 10 a 15 cm, na natureza passa de 90 cm",
+   "esp": "cacto",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "194",
+   "fontePet": null
+  },
+  "q3-513": {
+   "texto": "A cadeira-de-sogra só floresce quando é bem grande e pega sol pleno",
+   "esp": "cacto",
+   "serie": "3 erros",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "194",
+   "fontePet": null
+  },
+  "q3-514": {
+   "texto": "O cacto-pente tem 25 gomos com espinhos brancos em pente e flor rosa-cereja em sino",
+   "esp": "cacto",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "196",
+   "fontePet": null
+  },
+  "q3-515": {
+   "texto": "A equinopsis abre flores brancas perfumadas de 15 cm ao anoitecer",
+   "esp": "equinopsis",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "196",
+   "fontePet": null
+  },
+  "q3-516": {
+   "texto": "Filhote de equinopsis: tire, deixe o corte secar e enterre em terra arenosa",
+   "esp": "equinopsis",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "197",
+   "fontePet": null
+  },
+  "q3-517": {
+   "texto": "O cacto-orquídea (epífilo) é cacto de floresta: o caule tomba e pede apoio quando está florido",
+   "esp": "flor-de-baile",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "197",
+   "fontePet": null
+  },
+  "q3-518": {
+   "texto": "O epífilo de flor amarela ou branca abre à noite, e muitas são perfumadas",
+   "esp": "flor-de-baile",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "197",
+   "fontePet": null
+  },
+  "q3-519": {
+   "texto": "Epífilo floresce melhor com o vaso meio apertado: troque só a cada 3 anos, logo depois da flor",
+   "esp": "flor-de-baile",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "197",
+   "fontePet": null
+  },
+  "q3-520": {
+   "texto": "Epífilo: do botão até a última flor, adubo líquido fraco rico em potássio a cada 2 semanas",
+   "esp": "flor-de-baile",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "197",
+   "fontePet": null
+  },
+  "q3-521": {
+   "texto": "Epífilo não é cacto de deserto: nunca deixe a terra secar de vez",
+   "esp": "flor-de-baile",
+   "serie": "3 erros",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "197",
+   "fontePet": null
+  },
+  "q3-522": {
+   "texto": "A eufórbia-obesa é uma bola sem espinho, cinza-esverdeada riscada de roxo",
+   "esp": "suculenta",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "198",
+   "fontePet": null
+  },
+  "q3-523": {
+   "texto": "A faucária (boca-de-tigre) tem folhas em pares com 9 ou 10 dentinhos na borda, como mandíbula",
+   "esp": "suculenta",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "199",
+   "fontePet": null
+  },
+  "q3-524": {
+   "texto": "No ferocacto, o espinho do meio de cada grupo é comprido, vermelho e em gancho",
+   "esp": "cacto",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "199",
+   "fontePet": null
+  },
+  "q3-525": {
+   "texto": "Ferocacto: terra seca no frio; no calor, regue mais, deixando secar entre uma rega e outra",
+   "esp": "cacto",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "200",
+   "fontePet": null
+  },
+  "q3-526": {
+   "texto": "A gastéria-verrucosa tem folhas em pares, uma sobre a outra, cobertas de verruguinhas brancas",
+   "esp": "gastéria",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "201",
+   "fontePet": null
+  },
+  "q3-527": {
+   "texto": "Gastéria cheia: divida a touceira na troca de vaso",
+   "esp": "gastéria",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "201",
+   "fontePet": null
+  },
+  "q3-528": {
+   "texto": "A língua-de-sogra (glotifilo) abre flor amarela nos dias de sol e fecha à noite",
+   "esp": "suculenta",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "202",
+   "fontePet": null
+  },
+  "q3-529": {
+   "texto": "A planta-fantasma (graptopétalo) parece arvorezinha com rosetas cinza de brilho prateado",
+   "esp": "suculenta",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "203",
+   "fontePet": null
+  },
+  "q3-530": {
+   "texto": "Muda de planta-fantasma: corte a roseta com uns centímetros de caule, deixe secar um pouco e plante",
+   "esp": "suculenta",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "203",
+   "fontePet": null
+  },
+  "q3-531": {
+   "texto": "A haworthia-pérola tem folhas curvas cheias de verruguinhas brancas, como pérolas",
+   "esp": "haworthia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "203",
+   "fontePet": null
+  },
+  "q3-532": {
+   "texto": "Haworthia: no calor, terra úmida mas secando entre regas; no frio, quase seca",
+   "esp": "haworthia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "203",
+   "fontePet": null
+  },
+  "q3-533": {
+   "texto": "Filhote de haworthia: tire, deixe secar um pouco e plante em terra que escoe bem",
+   "esp": "haworthia",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "203",
+   "fontePet": null
+  },
+  "q3-534": {
+   "texto": "O aranto (kalanchoe-daigremontiana) solta filhotinhos na borda das folhas",
+   "esp": "kalanchoe",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "204",
+   "fontePet": null
+  },
+  "q3-535": {
+   "texto": "Muda de aranto: tire os filhotinhos da borda da folha, aperte na terra e, quando enraizar, vaso próprio",
+   "esp": "kalanchoe",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "204",
+   "fontePet": null
+  },
+  "q3-536": {
+   "texto": "O kalanchoe-tubiflora (mãe-de-milhares) tem folha em canudo com filhotes na ponta",
+   "esp": "kalanchoe",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "205",
+   "fontePet": null
+  },
+  "q3-537": {
+   "texto": "A orelha-de-gato (kalanchoe-tomentosa) tem folha coberta de pelinho branco, como feltro, com pontinha marrom",
+   "esp": "kalanchoe",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "205",
+   "fontePet": null
+  },
+  "q3-538": {
+   "texto": "Kalanchoe que passou do tamanho do vaso grande costuma ser trocado por planta nova, feita dos filhotes",
+   "esp": "kalanchoe",
+   "serie": "Dica do Andre",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "204",
+   "fontePet": null
+  },
+  "q3-539": {
+   "texto": "Pedra-viva: não regue até as folhas velhas murcharem por completo",
+   "esp": "pedra-viva",
+   "serie": "3 erros",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "206",
+   "fontePet": null
+  },
+  "q3-540": {
+   "texto": "Pedra-viva: terra seca no frio e pouca água no calor",
+   "esp": "pedra-viva",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "206",
+   "fontePet": null
+  },
+  "q3-541": {
+   "texto": "A pedra-viva tem corpo redondo verde-oliva com uma fenda no meio e flor amarela",
+   "esp": "pedra-viva",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "206",
+   "fontePet": null
+  },
+  "q3-542": {
+   "texto": "Pedra-viva se multiplica dividindo a touceira",
+   "esp": "pedra-viva",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "206",
+   "fontePet": null
+  },
+  "q3-543": {
+   "texto": "A mamilária-bocasana parece um pompom: almofadas cobertas de espinho branco e pelo sedoso",
+   "esp": "mamilária",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "207",
+   "fontePet": null
+  },
+  "q3-544": {
+   "texto": "Na mamilária, não deixe água parada em cima das almofadinhas",
+   "esp": "mamilária",
+   "serie": "3 erros",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "208",
+   "fontePet": null
+  },
+  "q3-545": {
+   "texto": "Filhote de mamilária: tire, deixe a base secar um pouco e enterre em terra arenosa",
+   "esp": "mamilária",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "207",
+   "fontePet": null
+  },
+  "q3-546": {
+   "texto": "A parodia-bola-de-ouro começa redonda e, depois de uns 3 anos, vira coluna",
+   "esp": "parodia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "209",
+   "fontePet": null
+  },
+  "q3-547": {
+   "texto": "A parodia-mamulosa é fácil de cultivar e tem flor amarela com listra vermelha por fora",
+   "esp": "parodia",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "210",
+   "fontePet": null
+  },
+  "q3-548": {
+   "texto": "Parodia: terra seca no frio; no calor, água à vontade e adubo líquido fraco a cada 2 semanas",
+   "esp": "parodia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "211",
+   "fontePet": null
+  },
+  "q3-549": {
+   "texto": "Na palma-orelha-de-coelho, as \"orelhas\" são caules achatados, e no lugar de espinho tem tufos de cerdas com farpa",
+   "esp": "palma",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "212",
+   "fontePet": null
+  },
+  "q3-550": {
+   "texto": "Cuidado com as cerdas amarelas da palma-orelha-de-coelho: elas têm farpa",
+   "esp": "palma",
+   "serie": "3 erros",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "212",
+   "fontePet": null
+  },
+  "q3-551": {
+   "texto": "Muda de palma: tire uma orelha nova, deixe o corte secar e enterre em terra arenosa",
+   "esp": "palma",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "212",
+   "fontePet": null
+  },
+  "q3-552": {
+   "texto": "A estapélia (flor-carniça) tem flor em estrela amarelo-clara pintada de marrom-chocolate",
+   "esp": "suculenta",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "212",
+   "fontePet": null
+  },
+  "q3-553": {
+   "texto": "O paquifito (amêndoa-confeitada) tem folhas redondinhas cheias de água, cobertas de pó prateado",
+   "esp": "suculenta",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "213",
+   "fontePet": null
+  },
+  "q3-554": {
+   "texto": "Suculenta pelada embaixo: corte a roseta de cima com um pedaço de caule, deixe secar e replante",
+   "esp": "suculenta",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "213",
+   "fontePet": null
+  },
+  "q3-555": {
+   "texto": "A rebútia cresce devagar e forma touceira de bolinhas com flores laranja-vermelhas",
+   "esp": "cacto",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "214",
+   "fontePet": null
+  },
+  "q3-556": {
+   "texto": "O cacto-da-páscoa é confundido com a flor-de-maio, mas fica bem maior e tem pétala pontuda",
+   "esp": "flor-de-maio",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "215",
+   "fontePet": null
+  },
+  "q3-557": {
+   "texto": "Cacto-da-páscoa: quando os botões aparecem, aumente a água e mantenha a terra úmida sem encharcar",
+   "esp": "flor-de-maio",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "215",
+   "fontePet": null
+  },
+  "q3-558": {
+   "texto": "Flor-de-maio troca de vaso todo ano, logo depois da flor",
+   "esp": "flor-de-maio",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "216",
+   "fontePet": null
+  },
+  "q3-559": {
+   "texto": "Muda de flor-de-maio: estaca de gomos, deixe o corte secar e plante em turfa com areia grossa",
+   "esp": "flor-de-maio",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "216",
+   "fontePet": null
+  },
+  "q3-560": {
+   "texto": "Flor-de-maio: pouca água antes do botão; quando ele aparece, mais água; depois da flor, menos de novo",
+   "esp": "flor-de-maio",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "216",
+   "fontePet": null
+  },
+  "q3-561": {
+   "texto": "Flor-de-maio gosta de adubo líquido fraco a cada 10 a 14 dias, do botão até a flor murchar",
+   "esp": "flor-de-maio",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "216",
+   "fontePet": null
+  },
+  "q3-562": {
+   "texto": "A flor-de-maio-caranguejo tem gomos com dentes fundos na borda, que nascem verdes e depois ficam vermelhos",
+   "esp": "flor-de-maio",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "217",
+   "fontePet": null
+  },
+  "q3-563": {
+   "texto": "Tem flor-de-maio rosa, vermelha, roxa, carmim e até branca",
+   "esp": "flor-de-maio",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "217",
+   "fontePet": null
+  },
+  "q3-564": {
+   "texto": "O rabo-de-burro tem ramos grossos que caem do vaso, cheios de folhinhas carnudas com pó branco",
+   "esp": "sedum",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "217",
+   "fontePet": null
+  },
+  "q3-565": {
+   "texto": "Rabo-de-burro: água à vontade no calor, deixando secar um pouco entre regas",
+   "esp": "sedum",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "218",
+   "fontePet": null
+  },
+  "q3-566": {
+   "texto": "O sedum-sieboldii tem folha redonda azulada que vai ficando marrom-esverdeada com borda avermelhada",
+   "esp": "sedum",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "218",
+   "fontePet": null
+  },
+  "q3-567": {
+   "texto": "O colar-de-pérolas tem flor branca perfumada com miolo roxo",
+   "esp": "colar-de-pérolas",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "219",
+   "fontePet": null
+  },
+  "q3-568": {
+   "texto": "Colar-de-pérolas: sol pleno ou luz forte, adubo líquido fraco a cada 2 semanas quando cresce",
+   "esp": "colar-de-pérolas",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "219",
+   "fontePet": null
+  },
+  "q3-569": {
+   "texto": "Colar-de-pérolas cheio: divida na troca de vaso",
+   "esp": "colar-de-pérolas",
+   "serie": "Passo a passo",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "219",
+   "fontePet": null
+  },
+  "q3-570": {
+   "texto": "A agave-americana variegada, com faixas amarelas na borda, é a mais cultivada em vaso",
+   "esp": "agave",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "219",
+   "fontePet": null
+  },
+  "q3-571": {
+   "texto": "O cacto-bola-de-neve fica coberto de pelos brancos de lã",
+   "esp": "cacto",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "220",
+   "fontePet": null
+  },
+  "q3-572": {
+   "texto": "A ripsális (cacto-macarrão) é cacto de floresta e dá frutinhos brancos redondos",
+   "esp": "ripsális",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "220",
+   "fontePet": null
   }
  }
 }

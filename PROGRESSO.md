@@ -1,4 +1,10 @@
 # PROGRESSO Terra Gentil
+## BIBLIA 3 SQUIRE: DIRETORIO ESTUDADO ATE A P.220 (01/11/2026)
+- Fichas do diretorio lidas (PDF p.82 a 220): folhagens, plantas de flor, carnivoras, plantas de fruto, flores de vaso, cactos e suculentas. 373 fatos em `inteligencia-carrossel\estudo\3-squire-04.md` a `-07.md` (ids q3-200 a q3-572), trechos 0 falhas. Temperatura e estacao inglesas fora do fato.
+- biblia.json 3.157 -> 3.523 fatos (366 novos; 7 travados SAUDE/CLIMA). Testes 229/229. Backup `biblia-antes-squire.json` e `fichas.py` (ficha compacta por pagina) no scratchpad da sessao 998cf908.
+- **Rende livros:** Folhagens de Sombra (aglaonema, aspidistra, calathea, maranta, ctenanthe), Folha Colorida (croton, coleus, cordiline, begonia-rex, confete), Trepadeiras de Casa (filodendro, hera, cissus, ficus-pumila, hoia, jasmim-de-madagascar), Flor de Vaso (violeta, gloxinia, kalanchoe, azaleia, hortensia, ciclame, primula), Cactos de Floresta (flor-de-maio, epifilo, ripsalis), reforco de Cactos e Suculentas (pedra-viva, haworthia, echeveria, mamilaria, parodia, kalanchoe de filhote). Plantas Carnivoras (10 fatos) e esp novas: aspargo, carnivora, ciclame, primula, iuca.
+- **Falta do Squire:** palmeiras (p.221 a ~232), bulbos (~233 a 248), bromelias (249 a 271), samambaias (273 a 286). Ids a partir de q3-573.
+- **Faltam depois:** 35 e 32 horta em vaso, 22 mato, 28 sementes, 37 arvore, 19 ervas. Opcionais: 36, 34, 31, 29 (OCR).
 ## BIBLIA 23 WILDLIFE ESTUDADA (01/11/2026, madrugada, rodada agendada das 03h22)
 - Livro muito britanico: lidas so as partes que valem no Brasil (introducao, flores e ervas de nectar, arbustos, anuais, horta sem veneno, lesma, abelhas, comedouro, casinha de passarinho, mariposa, borboleta). Ficaram fora: mata inglesa, prado, lago (cuidado com dengue no Brasil), passaros que so existem la. 154 fatos em `inteligencia-carrossel\estudo\23-wildlife-01.md` a `-04.md` (ids x23-001 a x23-154), trechos 0 falhas.
 - biblia.json 3.004 -> 3.157 fatos (153 novos; 1 travado SAUDE). Testes 229/229. Backup `biblia-antes-wildlife.json` no scratchpad da sessao b1254ec8.

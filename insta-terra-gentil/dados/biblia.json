@@ -42984,6 +42984,1350 @@
    "livro": "RHS, How to Garden When You're New to Gardening",
    "pagina": "654",
    "fontePet": null
+  },
+  "q34-001": {
+   "texto": "Jardim na praia sofre com vento forte e sal do mar. Olhe o que cresce bem na vizinhança",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "107",
+   "fontePet": null
+  },
+  "q34-002": {
+   "texto": "Ilha de calor: a cidade pode ficar até 5 graus mais quente que o campo em volta",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "108",
+   "fontePet": null
+  },
+  "q34-003": {
+   "texto": "Entre prédios altos o vento corre mais rápido: é o corredor de vento",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "108",
+   "fontePet": null
+  },
+  "q34-004": {
+   "texto": "Microclima é o clima de um cantinho que difere do resto, como um poço de luz ou um quintal murado",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "109",
+   "fontePet": null
+  },
+  "q34-005": {
+   "texto": "Erro comum: comprar terra preta rica para planta de clima seco. Planta de lugar seco não aguenta terra úmida",
+   "esp": "solo",
+   "serie": "3 erros",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "110",
+   "fontePet": null
+  },
+  "q34-006": {
+   "texto": "Antes de escolher a terra, descubra onde a planta vive na natureza e em que chão ela cresce",
+   "esp": "solo",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "110",
+   "fontePet": null
+  },
+  "q34-007": {
+   "texto": "Terreno em barranco perde terra na chuva forte, na enxurrada e no sol que racha",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "110",
+   "fontePet": null
+  },
+  "q34-008": {
+   "texto": "O solo tem camadas: a terra de cima é escura de matéria orgânica, a de baixo é mais clara e dura, e embaixo vem a pedra",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "112",
+   "fontePet": null
+  },
+  "q34-009": {
+   "texto": "Cave um buraco de teste no quintal: a parede mostra as camadas do seu solo",
+   "esp": "solo",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "113",
+   "fontePet": null
+  },
+  "q34-010": {
+   "texto": "Solo argiloso é fértil porque o adubo gruda na argila, mas drena devagar e compacta se pisar molhado",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "116",
+   "fontePet": null
+  },
+  "q34-011": {
+   "texto": "Solo arenoso esquenta rápido e drena fácil, mas a água leva o adubo e ele fica seco, pobre e ácido",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "118",
+   "fontePet": null
+  },
+  "q34-012": {
+   "texto": "Terra boa de jardim (franca) mistura argila, areia e silte: fértil, drena e é fácil de trabalhar",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "117",
+   "fontePet": null
+  },
+  "q34-013": {
+   "texto": "Erro comum: deixar solo siltoso descoberto. Chuva e vento levam embora. Cubra com planta ou palha",
+   "esp": "solo",
+   "serie": "3 erros",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "119",
+   "fontePet": null
+  },
+  "q34-014": {
+   "texto": "Todo solo fervilha de fungos, algas e bactérias que entregam mineral para a planta",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "119",
+   "fontePet": null
+  },
+  "q34-015": {
+   "texto": "Teste caseiro: pingue vinagre num punhado de terra. Se borbulhar, tem calcário",
+   "esp": "solo",
+   "serie": "Passo a passo",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "q34-016": {
+   "texto": "Erro comum: testar o pH logo depois de pôr calcário ou adubo. Espere uns três meses",
+   "esp": "solo",
+   "serie": "3 erros",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "q34-017": {
+   "texto": "Mito ou verdade: dá para mudar o pH do solo de vez? Mito. Gasta muito produto e o solo volta ao que era. Melhor escolher planta que goste dele",
+   "esp": "solo",
+   "serie": "Mito ou verdade",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "q34-018": {
+   "texto": "Socorro, a folha amarelou e a colheita falhou várias vezes? Teste o solo: pode ser o pH",
+   "esp": "solo",
+   "serie": "Socorro",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "q34-019": {
+   "texto": "pH 6,5 é o melhor para a maioria das plantas: o adubo fica disponível e a minhoca trabalha mais",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "122",
+   "fontePet": null
+  },
+  "q34-020": {
+   "texto": "Solo ácido (pH 5 a 6) é o que azaleia e camélia adoram",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "122",
+   "fontePet": null
+  },
+  "q34-021": {
+   "texto": "Em solo muito ácido, abaixo de pH 4,7, a bactéria não decompõe a matéria orgânica",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "122",
+   "fontePet": null
+  },
+  "q34-022": {
+   "texto": "Solo alcalino prende o ferro e a folha amarela com nervura verde (clorose)",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "122",
+   "fontePet": null
+  },
+  "q34-023": {
+   "texto": "Contra erosão: chão sempre coberto de planta o ano todo",
+   "esp": "solo",
+   "serie": "5 cuidados",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "123",
+   "fontePet": null
+  },
+  "q34-024": {
+   "texto": "Barranco que perde terra: estenda tela de juta ou fibra de coco e plante pelos furos. A tela se desfaz quando a planta pega",
+   "esp": "solo",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "123",
+   "fontePet": null
+  },
+  "q34-025": {
+   "texto": "Embaixo de árvore onde nada pega, cubra o chão com casca ou cavaco para proteger o solo",
+   "esp": "solo",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "123",
+   "fontePet": null
+  },
+  "q34-026": {
+   "texto": "O jeito mais seguro de saber o que vai dar certo no seu quintal é ver o que vai bem na praça e no parque perto",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "124",
+   "fontePet": null
+  },
+  "q34-027": {
+   "texto": "Erro comum: forçar planta no lugar errado. Gasta água, tempo e dinheiro para sempre",
+   "esp": "outra",
+   "serie": "3 erros",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "124",
+   "fontePet": null
+  },
+  "q34-028": {
+   "texto": "Planta exótica pode virar praga invasora e trazer doença. Planta nativa às vezes dá pouca cor. A mistura das duas é o meio-termo",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "126",
+   "fontePet": null
+  },
+  "q34-029": {
+   "texto": "Nome entre aspas simples, como 'Golden Showers', é cultivar: uma variedade criada pelo homem",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "129",
+   "fontePet": null
+  },
+  "q34-030": {
+   "texto": "Socorro, o chão do quintal fica fofo e encharcado! É drenagem ruim. Terra rachada e planta morta indicam o contrário: seca",
+   "esp": "regar",
+   "serie": "Socorro",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "130",
+   "fontePet": null
+  },
+  "q34-031": {
+   "texto": "Na cidade, grama e canteiro deixam a chuva entrar no chão e ajudam a evitar enchente",
+   "esp": "regar",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "130",
+   "fontePet": null
+  },
+  "q34-032": {
+   "texto": "Água de chuva guardada no claro cria alga em uma semana. Tampe e deixe no escuro que dura muito",
+   "esp": "regar",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "131",
+   "fontePet": null
+  },
+  "q34-034": {
+   "texto": "Até 2050, 5 bilhões de pessoas podem sofrer com falta de água. Regar com água tratada já é luxo em muito lugar",
+   "esp": "regar",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "136",
+   "fontePet": null
+  },
+  "q34-035": {
+   "texto": "Sol pleno é mais de seis horas de sol direto por dia. Meia-sombra, de três a seis",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "139",
+   "fontePet": null
+  },
+  "q34-036": {
+   "texto": "Sombra fechada é menos de duas horas de sol por dia",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "139",
+   "fontePet": null
+  },
+  "q34-037": {
+   "texto": "Para saber o sol do quintal, observe onde bate a sombra de manhã, ao meio-dia e à tarde",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "137",
+   "fontePet": null
+  },
+  "q34-038": {
+   "texto": "Trepadeira e árvore de crescimento rápido fazem sombra mais barata e ecológica que um pergolado coberto",
+   "esp": "arvore",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "137",
+   "fontePet": null
+  },
+  "q34-039": {
+   "texto": "Vento forte queima folha e pode matar planta delicada. Planta baixinha e torta é sinal de vento",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "140",
+   "fontePet": null
+  },
+  "q34-040": {
+   "texto": "Mito ou verdade: muro fechado é o melhor quebra-vento? Mito. O vento pula por cima e bate do outro lado",
+   "esp": "outra",
+   "serie": "Mito ou verdade",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "143",
+   "fontePet": null
+  },
+  "q34-041": {
+   "texto": "Quebra-vento bom deixa passar metade do vento e protege uma distância de 10 vezes a altura dele",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "143",
+   "fontePet": null
+  },
+  "q34-042": {
+   "texto": "Cerca viva ou cerca trançada de bambu segura o vento sem cair. Faça mais larga que a área a proteger",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "143",
+   "fontePet": null
+  },
+  "q34-043": {
+   "texto": "Erro comum: gotejamento na planta de seca recém-plantada. Ela faz raiz rasa. Melhor rega funda e rara",
+   "esp": "regar",
+   "serie": "3 erros",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "146",
+   "fontePet": null
+  },
+  "q34-044": {
+   "texto": "Planta de clima seco no primeiro verão: uma rega funda a cada três semanas, enchendo uma bacia em volta do pé",
+   "esp": "regar",
+   "serie": "Passo a passo",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "146",
+   "fontePet": null
+  },
+  "q34-045": {
+   "texto": "Planta de seca vive com fungos e bactérias na raiz que precisam de ar. Terra encharcada mata essa parceria",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "146",
+   "fontePet": null
+  },
+  "q34-046": {
+   "texto": "Para canteiro de seca: terra pobre e arejada, plantio antes das chuvas e muda com raiz do tamanho da copa",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "147",
+   "fontePet": null
+  },
+  "q34-047": {
+   "texto": "Fuligem preta nas superfícies do quintal mostra que o ar está poluído",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "148",
+   "fontePet": null
+  },
+  "q34-048": {
+   "texto": "Parque e jardim são pulmões verdes: as folhas seguram a poeira e filtram o ar da cidade",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "148",
+   "fontePet": null
+  },
+  "q34-049": {
+   "texto": "Parede verde de hera e capim pode reduzir a poluição da rua bem mais do que se pensava",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "150",
+   "fontePet": null
+  },
+  "q34-050": {
+   "texto": "Para saber que bicho visita o quintal: procure pegada, cocô, folha roída e furinho no chão",
+   "esp": "jardim-vivo",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "151",
+   "fontePet": null
+  },
+  "q34-051": {
+   "texto": "Um laguinho chama sapo e rã, que comem lesma. Comedouro de passarinho perto da planta que tem lagarta",
+   "esp": "sapo",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "151",
+   "fontePet": null
+  },
+  "q34-052": {
+   "texto": "Sem inseto polinizador falta comida no mundo: muita lavoura depende deles",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "151",
+   "fontePet": null
+  },
+  "q34-053": {
+   "texto": "Composteira em lugar de sombra: o composto gosta de temperatura e umidade sem altos e baixos",
+   "esp": "compostagem",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "193",
+   "fontePet": null
+  },
+  "q34-054": {
+   "texto": "Composteira sobre piso? Ponha uma camada de terra do jardim no fundo para trazer os bichinhos do solo",
+   "esp": "compostagem",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "193",
+   "fontePet": null
+  },
+  "q34-055": {
+   "texto": "Composteira muito pequena (menos de 1 metro cúbico) funciona pior que a grande",
+   "esp": "compostagem",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "193",
+   "fontePet": null
+  },
+  "q34-056": {
+   "texto": "Erro comum: nunca revirar a composteira. Sem ar o composto empaca. Revire uma vez por mês",
+   "esp": "compostagem",
+   "serie": "3 erros",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "194",
+   "fontePet": null
+  },
+  "q34-057": {
+   "texto": "Composto caseiro fica pronto de seis meses a dois anos, conforme o calor e a umidade",
+   "esp": "compostagem",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "195",
+   "fontePet": null
+  },
+  "q34-058": {
+   "texto": "Composto pronto é marrom-escuro, solto como terra e tem cheiro de chão de mata molhado",
+   "esp": "compostagem",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "195",
+   "fontePet": null
+  },
+  "q34-059": {
+   "texto": "Socorro, meu composto está melado e fedendo! É água demais e pouco ar: cubra e ponha mais material seco",
+   "esp": "compostagem",
+   "serie": "Socorro",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "195",
+   "fontePet": null
+  },
+  "q34-060": {
+   "texto": "Socorro, meu composto está seco e não apodrece! Falta verde: ponha resto de verdura, grama ou esterco fresco",
+   "esp": "compostagem",
+   "serie": "Socorro",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "195",
+   "fontePet": null
+  },
+  "q34-061": {
+   "texto": "Mosca na composteira: cubra o resto de cozinha com uma camada de folha ou poda",
+   "esp": "compostagem",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "195",
+   "fontePet": null
+  },
+  "q34-062": {
+   "texto": "Erro comum: encher a composteira só de grama cortada. Vira uma papa melada",
+   "esp": "compostagem",
+   "serie": "3 erros",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "195",
+   "fontePet": null
+  },
+  "q34-063": {
+   "texto": "Composteira: de um quarto à metade de material verde. O resto é marrom: galho, papelão, palha, folha seca",
+   "esp": "compostagem",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "196",
+   "fontePet": null
+  },
+  "q34-064": {
+   "texto": "A planta tira carbono, oxigênio e hidrogênio do ar. Do solo, o principal é nitrogênio, fósforo e potássio",
+   "esp": "adubar",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "197",
+   "fontePet": null
+  },
+  "q34-065": {
+   "texto": "Na natureza quase nunca há terra pelada: na mata é folha, na montanha é pedra. Cobertura imita isso",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "198",
+   "fontePet": null
+  },
+  "q34-066": {
+   "texto": "Cobertura morta segura a água, abafa o mato, aduba e protege a raiz do calor",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "198",
+   "fontePet": null
+  },
+  "q34-067": {
+   "texto": "Cobertura orgânica: pelo menos 5 cm de composto, esterco curtido, casca, cavaco ou palha",
+   "esp": "solo",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "198",
+   "fontePet": null
+  },
+  "q34-068": {
+   "texto": "Erro comum: cobertura rasinha. Não segura a água e deixa o sol chegar à semente do mato. A grossura importa mais que o material",
+   "esp": "solo",
+   "serie": "3 erros",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "198",
+   "fontePet": null
+  },
+  "q34-069": {
+   "texto": "Erro comum: amontoar a cobertura no tronco. O caule enfraquece e pega doença",
+   "esp": "solo",
+   "serie": "3 erros",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "198",
+   "fontePet": null
+  },
+  "q34-070": {
+   "texto": "Erro comum: usar composto mal curtido como cobertura. Ele traz semente de mato, praga e doença",
+   "esp": "compostagem",
+   "serie": "3 erros",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "198",
+   "fontePet": null
+  },
+  "q34-071": {
+   "texto": "Brita e pedrisco também cobrem o chão e seguram água, mas não melhoram nem adubam a terra",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "200",
+   "fontePet": null
+  },
+  "q34-072": {
+   "texto": "Pedra escura aquece a terra; pedrisco claro reflete o sol e deixa a raiz fresca no canteiro de sol forte",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "200",
+   "fontePet": null
+  },
+  "q34-073": {
+   "texto": "Cobertura de pedrisco: uns 10 cm protegem o solo e seguram o mato",
+   "esp": "solo",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "200",
+   "fontePet": null
+  },
+  "q34-074": {
+   "texto": "Erro comum: plástico como cobertura do canteiro. Solta química na terra e leva mais de mil anos para sumir",
+   "esp": "solo",
+   "serie": "3 erros",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "200",
+   "fontePet": null
+  },
+  "q34-075": {
+   "texto": "Jardim de pedrisco imita lugar seco e pedregoso: plantas mais espaçadas, chão coberto de pedra, e dá para andar entre elas",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "200",
+   "fontePet": null
+  },
+  "q34-076": {
+   "texto": "Planta de lugar seco sofre mais com chuva parada no pé do que com seca. O pedrisco protege a base",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "201",
+   "fontePet": null
+  },
+  "q34-077": {
+   "texto": "Papelão no chão abafa o mato teimoso antes de plantar o canteiro, e depois se desfaz",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "201",
+   "fontePet": null
+  },
+  "q34-078": {
+   "texto": "Manta de tecido no canteiro: use só a que deixa a água passar, senão a chuva escorre e não chega à raiz",
+   "esp": "solo",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "201",
+   "fontePet": null
+  },
+  "q34-079": {
+   "texto": "Canteiro recém-plantado pode receber cobertura a qualquer hora: ajuda a muda a pegar",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "201",
+   "fontePet": null
+  },
+  "q34-080": {
+   "texto": "Jardim orgânico não é tudo ou nada: dá para começar deixando a grama crescer um mês ou deixando a joaninha achar o pulgão",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "202",
+   "fontePet": null
+  },
+  "q34-081": {
+   "texto": "Solo bem cuidado faz o resto do jardim ir junto: a saúde do solo é a base do cultivo orgânico",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "202",
+   "fontePet": null
+  },
+  "q34-082": {
+   "texto": "Jardim de chuva é uma valeta rasa com planta que segura a água da chuva e solta devagar",
+   "esp": "regar",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "204",
+   "fontePet": null
+  },
+  "q34-083": {
+   "texto": "Ponha pedras embaixo da saída da calha: a queda da água não cava buraco na terra",
+   "esp": "regar",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "207",
+   "fontePet": null
+  },
+  "q34-084": {
+   "texto": "Caixa de chuva com ladrão: quando enche, o cano manda o excesso para um canteiro em vez de transbordar",
+   "esp": "regar",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "207",
+   "fontePet": null
+  },
+  "q34-085": {
+   "texto": "Pavio puxa a água de baixo para cima na terra seca, por capilaridade, sem bomba",
+   "esp": "regar",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "210",
+   "fontePet": null
+  },
+  "q34-086": {
+   "texto": "Água guardada no quintal alivia o esgoto na chuva forte e ainda traz som, reflexo e bicho",
+   "esp": "regar",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "211",
+   "fontePet": null
+  },
+  "q34-087": {
+   "texto": "Cerca viva quebra-vento: compre muda pequena e nova, que pega melhor, e plante a 30 a 90 cm uma da outra",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "213",
+   "fontePet": null
+  },
+  "q34-088": {
+   "texto": "Cerca viva nova: enquanto cresce, ponha uma tela de bambu na frente. Ela se desfaz quando a cerca fecha",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "213",
+   "fontePet": null
+  },
+  "q34-089": {
+   "texto": "Para segurar poeira da rua: planta de folha o ano todo, áspera ou peluda e bem cheia",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "213",
+   "fontePet": null
+  },
+  "q34-090": {
+   "texto": "Cerca viva misturada, com flor e fruta, alimenta mais bichos que uma cerca de uma espécie só",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "213",
+   "fontePet": null
+  },
+  "q34-091": {
+   "texto": "Até caminho de pedrisco é casa de bicho: inseto mora no vão entre as pedras",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "215",
+   "fontePet": null
+  },
+  "q34-092": {
+   "texto": "Galho que não cabe na composteira: empilhe como cerca morta. Vira quebra-vento e abrigo de bicho",
+   "esp": "jardim-vivo",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "218",
+   "fontePet": null
+  },
+  "q34-093": {
+   "texto": "Hotel de bicho: estrutura de madeira ou palete com casca, bambu furado, folha seca, telha e papelão ondulado",
+   "esp": "jardim-vivo",
+   "serie": "Passo a passo",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "219",
+   "fontePet": null
+  },
+  "q34-094": {
+   "texto": "Furinho para abelha solitária vai no sol; o canto úmido e fresco é do sapo",
+   "esp": "abelha",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "220",
+   "fontePet": null
+  },
+  "q34-095": {
+   "texto": "Erro comum: pôr resto de comida no hotel de bicho. Atrai rato",
+   "esp": "jardim-vivo",
+   "serie": "3 erros",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "219",
+   "fontePet": null
+  },
+  "q34-096": {
+   "texto": "Passarinho come lesma, caracol e lagarta, principalmente quando está criando filhote",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "222",
+   "fontePet": null
+  },
+  "q34-097": {
+   "texto": "A RHS inglesa nem conta mais lesma e caracol como praga séria: eles também têm papel no jardim",
+   "esp": "lesma",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "224",
+   "fontePet": null
+  },
+  "q34-098": {
+   "texto": "Lesma catada na planta vai para a composteira: lá ela ajuda a fazer composto",
+   "esp": "lesma",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "224",
+   "fontePet": null
+  },
+  "q34-099": {
+   "texto": "Planta isca: ponha uma planta que a lesma adora perto da sua preferida, e ela come a isca",
+   "esp": "lesma",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "224",
+   "fontePet": null
+  },
+  "q34-100": {
+   "texto": "Lesma ama muda nova: só leve a muda para o canteiro quando estiver crescida",
+   "esp": "lesma",
+   "serie": "5 cuidados",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "224",
+   "fontePet": null
+  },
+  "q34-101": {
+   "texto": "Hugelkultur: tronco podre enterrado num monte de terra esquenta, aduba e segura água por anos",
+   "esp": "compostagem",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "225",
+   "fontePet": null
+  },
+  "q34-102": {
+   "texto": "Monte hugelkultur: tronco caído há 2 ou 3 anos embaixo, galho e cavaco nos vãos, grama virada, e terra com composto por cima",
+   "esp": "compostagem",
+   "serie": "Passo a passo",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "225",
+   "fontePet": null
+  },
+  "q34-103": {
+   "texto": "No hugelkultur, ponha a placa de grama de cabeça para baixo: dá nitrogênio e a grama não brota",
+   "esp": "compostagem",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "225",
+   "fontePet": null
+  },
+  "q34-104": {
+   "texto": "Erro comum: plantar alecrim e lavanda no monte hugelkultur. A terra é rica e úmida demais para ervas de lugar seco",
+   "esp": "compostagem",
+   "serie": "3 erros",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "226",
+   "fontePet": null
+  },
+  "q34-105": {
+   "texto": "Tomilho rasteiro entre as pedras do piso aguenta pisada e solta cheiro quando você pisa",
+   "esp": "tomilho",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "229",
+   "fontePet": null
+  },
+  "q34-106": {
+   "texto": "Deixe vãos no piso do quintal: a chuva entra no chão e você ainda planta neles",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "229",
+   "fontePet": null
+  },
+  "q34-107": {
+   "texto": "Tronco morto no quintal não é sujeira: é comida e casa para inseto, fungo e muito bicho",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "231",
+   "fontePet": null
+  },
+  "q34-108": {
+   "texto": "Mito ou verdade: todo fungo no jardim é doença? Mito. A maioria só come matéria morta e ajuda a decompor",
+   "esp": "fungo",
+   "serie": "Mito ou verdade",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "234",
+   "fontePet": null
+  },
+  "q34-109": {
+   "texto": "Shiitake cresce em tora de madeira dura: dá para cultivar em casa com cavilhas de semente compradas prontas",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "236",
+   "fontePet": null
+  },
+  "q34-110": {
+   "texto": "Shiitake em tora: tora sã de 1 m e 10 a 20 cm de grossura, guardada duas semanas na sombra antes de furar",
+   "esp": "fungo",
+   "serie": "Passo a passo",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "237",
+   "fontePet": null
+  },
+  "q34-111": {
+   "texto": "Shiitake: furos de 1 cm por 4 cm a cada 10 a 15 cm, em losango, umas 50 cavilhas por tora, e vela derretida por cima",
+   "esp": "fungo",
+   "serie": "Passo a passo",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "237",
+   "fontePet": null
+  },
+  "q34-112": {
+   "texto": "Erro comum: cera muito quente no furo do shiitake. Mata o fungo. Use cera de soja, que derrete fácil",
+   "esp": "fungo",
+   "serie": "3 erros",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "237",
+   "fontePet": null
+  },
+  "q34-113": {
+   "texto": "A tora de shiitake leva de 6 a 36 meses incubando antes de dar cogumelo",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "237",
+   "fontePet": null
+  },
+  "q34-114": {
+   "texto": "Tora pronta (fungo marrom e cheiro de terra): bata a tora no chão e deixe um ou dois dias na água fria. Ela frutifica",
+   "esp": "fungo",
+   "serie": "Passo a passo",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "237",
+   "fontePet": null
+  },
+  "q34-115": {
+   "texto": "O shiitake pode dobrar de tamanho num dia. No calor, borrife água e tire do sol",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "238",
+   "fontePet": null
+  },
+  "q34-116": {
+   "texto": "Tora de madeira bem dura dá shiitake por até 10 anos; madeira mole, uns 5",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "237",
+   "fontePet": null
+  },
+  "q34-117": {
+   "texto": "Ouvir passarinho cantando alivia o estresse e o cansaço mental, mostrou um estudo com 7.500 pessoas",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "239",
+   "fontePet": null
+  },
+  "q34-118": {
+   "texto": "Árvore refresca o quintal com sombra rendada",
+   "esp": "arvore",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "240",
+   "fontePet": null
+  },
+  "q34-119": {
+   "texto": "Planta que aguenta seca costuma ter raiz funda e folha grossa, cerosa, fina ou cinza e peluda",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "q34-120": {
+   "texto": "Planta que aguenta vento tem folha fina ou cerosa e caule que dobra sem quebrar",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "q34-121": {
+   "texto": "Flor aberta, fácil de entrar, é a preferida dos polinizadores",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "q34-122": {
+   "texto": "Sálvia-de-outono (Salvia greggii) aguenta seca e floresce vermelha, roxa ou rosa: perfumada na beira do caminho",
+   "esp": "sálvia",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "252",
+   "fontePet": null
+  },
+  "q34-123": {
+   "texto": "Tomilho rasteiro solta cheiro quando alguém pisa ou encosta: plante nas frestas do piso",
+   "esp": "tomilho",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "253",
+   "fontePet": null
+  },
+  "q34-124": {
+   "texto": "Peixinho (Stachys) tem folha grossa coberta de pelinho branco, aguenta sol e vento e forra o chão",
+   "esp": "peixinho",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "255",
+   "fontePet": null
+  },
+  "q34-125": {
+   "texto": "O nome peixinho vem de que a folha empanada e frita lembra peixe",
+   "esp": "peixinho",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "255",
+   "fontePet": null
+  },
+  "q34-126": {
+   "texto": "Capim-cabelo-de-anjo (Stipa) forma tufos de fios finos que balançam ao vento, em sol pleno",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "256",
+   "fontePet": null
+  },
+  "q34-127": {
+   "texto": "Alecrim aguenta sol, vento e qualquer terra que escorra, e chega a 1,5 a 2,5 m",
+   "esp": "alecrim",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "258",
+   "fontePet": null
+  },
+  "q34-128": {
+   "texto": "Lavanda-francesa tem um topete de brácteas roxas em cima da espiga de flor",
+   "esp": "lavanda",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "259",
+   "fontePet": null
+  },
+  "q34-129": {
+   "texto": "Erva-caril (Helichrysum) tem folha prateada com cheiro de curry e serve para temperar",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "260",
+   "fontePet": null
+  },
+  "q34-130": {
+   "texto": "Nepeta (erva-dos-gatos) forma tapete perfumado de flor lilás: boa para borda de caminho",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "262",
+   "fontePet": null
+  },
+  "q34-131": {
+   "texto": "Sálvia-grega aguenta muita seca depois que pega",
+   "esp": "sálvia",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "268",
+   "fontePet": null
+  },
+  "q34-132": {
+   "texto": "Sálvia-dos-bálcãs, de flor roxa, é das queridas das abelhas",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "269",
+   "fontePet": null
+  },
+  "q34-133": {
+   "texto": "Papoula-da-califórnia se semeia sozinha até em fresta de piso e muro",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "270",
+   "fontePet": null
+  },
+  "q34-134": {
+   "texto": "Sálvia de cozinha é arbustinho de folha cinza perfumada, no sol ou meia-sombra",
+   "esp": "sálvia",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "271",
+   "fontePet": null
+  },
+  "q34-135": {
+   "texto": "Équio (Echium) faz espigas de flor azul-elétrica que são ímã de abelha",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "277",
+   "fontePet": null
+  },
+  "q34-136": {
+   "texto": "Margaridinha-mexicana (Erigeron) forma tapete de florzinha branca que fica rosa, e se semeia muito",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "278",
+   "fontePet": null
+  },
+  "q34-137": {
+   "texto": "Escova-de-garrafa é densa, com folha o ano todo: boa para cerca e segura um pouco a poluição",
+   "esp": "escova-de-garrafa",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "284",
+   "fontePet": null
+  },
+  "q34-138": {
+   "texto": "Folha brilhante de arbusto como o cotoneaster prende a poeira da rua",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "285",
+   "fontePet": null
+  },
+  "q34-139": {
+   "texto": "Para pegar poluição, quanto mais alta e funda a barreira de planta, melhor",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "294",
+   "fontePet": null
+  },
+  "q34-140": {
+   "texto": "Planta refresca o ar com sombra e com a água que transpira, isola a casa e abafa o barulho",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "294",
+   "fontePet": null
+  },
+  "q34-141": {
+   "texto": "Jardim de chuva pede planta que aguenta ficar encharcada uma época e seca na outra",
+   "esp": "regar",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "296",
+   "fontePet": null
+  },
+  "q34-142": {
+   "texto": "Erro comum: íris-amarela num laguinho pequeno. Ela se espalha rápido e toma conta",
+   "esp": "outra",
+   "serie": "3 erros",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "298",
+   "fontePet": null
+  },
+  "q34-143": {
+   "texto": "Confrei vira chá de adubo orgânico para a horta",
+   "esp": "adubar",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "306",
+   "fontePet": null
+  },
+  "q34-144": {
+   "texto": "Agrofloresta no quintal: plantas de várias alturas, quase tudo comestível, num espaço pequeno, e cheio de bicho",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "307",
+   "fontePet": null
+  },
+  "q34-145": {
+   "texto": "A folha da figueira é perfumada e serve para dar sabor à comida",
+   "esp": "figo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "309",
+   "fontePet": null
+  },
+  "q34-146": {
+   "texto": "Flor do lírio-de-um-dia é comestível e fica ótima na salada",
+   "esp": "hemerocale",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "316",
+   "fontePet": null
+  },
+  "q34-147": {
+   "texto": "Girassol chama abelha e a semente depois alimenta passarinho",
+   "esp": "girassol",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "319",
+   "fontePet": null
+  },
+  "q34-148": {
+   "texto": "Flor da centáurea-azul é comestível, com gosto doce e picante de cravo",
+   "esp": "centáurea",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "320",
+   "fontePet": null
+  },
+  "q34-149": {
+   "texto": "Trevo-vermelho fixa nitrogênio no solo e é muito usado como adubo verde. A abelha adora",
+   "esp": "adubar",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "324",
+   "fontePet": null
+  },
+  "q34-150": {
+   "texto": "Morango-silvestre forma tapete de folha e dá frutinha vermelha pequena e perfumada",
+   "esp": "morango",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "325",
+   "fontePet": null
+  },
+  "q34-152": {
+   "texto": "Videira sobe por gavinha e pede sol e lugar abrigado",
+   "esp": "uva",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "330",
+   "fontePet": null
+  },
+  "q34-153": {
+   "texto": "Flor e folha nova da borragem têm gosto de pepino, e ela é ótima fonte de néctar",
+   "esp": "borragem",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "332",
+   "fontePet": null
+  },
+  "q34-154": {
+   "texto": "Maracujá-azul dá fruto laranja comestível, mas sem graça perto do maracujá-azedo",
+   "esp": "maracujá",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "335",
+   "fontePet": null
+  },
+  "q34-155": {
+   "texto": "A flor do jasmim-branco perfuma chá",
+   "esp": "jasmim",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "336",
+   "fontePet": null
+  },
+  "q34-156": {
+   "texto": "Na cebolinha, a folha e a flor lilás se comem",
+   "esp": "cebolinha",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "339",
+   "fontePet": null
+  },
+  "q34-157": {
+   "texto": "Funcho: folha, flor e semente dão gosto de anis à comida",
+   "esp": "erva-doce",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "343",
+   "fontePet": null
+  },
+  "q34-158": {
+   "texto": "Hortelã-corsa é a menorzinha: forma tapete de 1 cm com cheiro de menta, na sombra úmida",
+   "esp": "hortelã",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "346",
+   "fontePet": null
+  },
+  "q34-159": {
+   "texto": "Agrofloresta se monta de cima para baixo: primeiro as árvores, depois os arbustos, por último o chão",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "359",
+   "fontePet": null
+  },
+  "q34-160": {
+   "texto": "Pomar em agrofloresta abrigou mais bichinhos que uma mata replantada: variedade importa tanto quanto ser nativa",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "359",
+   "fontePet": null
+  },
+  "q34-161": {
+   "texto": "Sedum é a planta do telhado verde: folha suculenta guarda água e fecha os poros para não perder",
+   "esp": "sedum",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "362",
+   "fontePet": null
+  },
+  "q34-162": {
+   "texto": "Telhado verde raso, de 4 a 6 cm de terra, só aguenta sedum e suculentas. Com 20 cm já vai muita planta de seca",
+   "esp": "suculenta",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "361",
+   "fontePet": null
+  },
+  "q34-163": {
+   "texto": "Telhado verde com 30 a 50 cm de terra fica pesadíssimo: veja se a laje aguenta",
+   "esp": "suculenta",
+   "serie": "5 cuidados",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "361",
+   "fontePet": null
+  },
+  "q34-164": {
+   "texto": "Camomila-romana forma tapete perfumado e aguenta telhado verde no sol ou meia-sombra",
+   "esp": "camomila",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "363",
+   "fontePet": null
+  },
+  "q34-166": {
+   "texto": "Turfa demora gerações para se formar em brejo sem ar, e tirar ela solta muito carbono e acaba com o brejo",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "433",
+   "fontePet": null
+  },
+  "q34-167": {
+   "texto": "Lã de ovelha no solo segura água, solta nitrogênio devagar e abafa o mato",
+   "esp": "adubar",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "435",
+   "fontePet": null
+  },
+  "q34-168": {
+   "texto": "Serragem e casca curtida, de madeira sem tratamento da sua região, viram cobertura barata que segura água",
+   "esp": "solo",
+   "serie": "Dica do Andre",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "436",
+   "fontePet": null
+  },
+  "q34-169": {
+   "texto": "Acícula de pinheiro como cobertura vira uma manta que o vento não leva, mas quase não aduba nem segura água",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "437",
+   "fontePet": null
+  },
+  "q34-170": {
+   "texto": "Erro comum: esterco fresco direto na planta. É forte demais e queima. Deixe curtir antes",
+   "esp": "adubar",
+   "serie": "3 erros",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "438",
+   "fontePet": null
+  },
+  "q34-165": {
+   "texto": "Sempre-viva-teia-de-aranha (Sempervivum) tem rosetas com fiozinhos brancos na ponta, como teia",
+   "esp": "suculenta",
+   "serie": "Você sabia?",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "372",
+   "fontePet": null
   }
  }
 }

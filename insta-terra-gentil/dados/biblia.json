@@ -31696,6 +31696,5182 @@
    "livro": "DK, Grow All You Can Eat in 3 Square Feet",
    "pagina": "249",
    "fontePet": null
+  },
+  "g32-001": {
+   "texto": "Cada hortaliça nasceu num lugar: figo gosta de sol forte, salsão de brejo e beterraba descende de uma planta de praia",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "9",
+   "fontePet": null
+  },
+  "g32-002": {
+   "texto": "Erro comum: botar a horta onde sobra espaço, e não onde cada planta gosta de viver",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "9",
+   "fontePet": null
+  },
+  "g32-003": {
+   "texto": "Planta que gosta de água vai no canto úmido; a que aguenta seca vai no canto seco. Você rega menos e colhe mais",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "11",
+   "fontePet": null
+  },
+  "g32-004": {
+   "texto": "Esterco demais onde não precisa é dinheiro jogado fora, e o que sobra escorre para a água do subsolo",
+   "esp": "adubar",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "11",
+   "fontePet": null
+  },
+  "g32-005": {
+   "texto": "Tomate e berinjela no sol dão fartura; espinafre no sol forte espiga logo e prefere sombra fresca",
+   "esp": "horta",
+   "serie": "X ou Y?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "11",
+   "fontePet": null
+  },
+  "g32-006": {
+   "texto": "A autora planta mais de 150 tipos de comida num quintal de 10 x 10 metros",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "13",
+   "fontePet": null
+  },
+  "g32-007": {
+   "texto": "Plantar pouco de muita coisa evita aquela época em que sobra abobrinha e falta todo o resto",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "13",
+   "fontePet": null
+  },
+  "g32-008": {
+   "texto": "Abobrinha e abóbora adoram crescer ao lado do monte de composto",
+   "esp": "abóbora",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "17",
+   "fontePet": null
+  },
+  "g32-009": {
+   "texto": "Fruta no sol forte fica mais doce: uva e figo podem chegar a 16% de açúcar",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "19",
+   "fontePet": null
+  },
+  "g32-010": {
+   "texto": "Tomate colhido continua amadurecendo na janela com sol e fica mais doce",
+   "esp": "tomate",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "19",
+   "fontePet": null
+  },
+  "g32-011": {
+   "texto": "Milho-verde e ervilha perdem o doce logo depois de colhidos: o açúcar vira amido",
+   "esp": "milho",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "19",
+   "fontePet": null
+  },
+  "g32-012": {
+   "texto": "Batata-doce e abóbora madura ficam mais doces guardadas em lugar fresco e escuro",
+   "esp": "batata-doce",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "19",
+   "fontePet": null
+  },
+  "g32-013": {
+   "texto": "Mito: sombra é sempre ruim para a horta. Muita folha cresce mais macia e verde na sombra",
+   "esp": "horta",
+   "serie": "Mito ou verdade",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "21",
+   "fontePet": null
+  },
+  "g32-014": {
+   "texto": "Planta de sombra costuma ter folha grande, para pegar o máximo de luz",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "21",
+   "fontePet": null
+  },
+  "g32-015": {
+   "texto": "Tem sombra clara, meia-sombra e sombra fechada; atrás da garagem, onde o sol nunca bate, é sombra fechada",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "21",
+   "fontePet": null
+  },
+  "g32-016": {
+   "texto": "Salsinha e salsão gostam de terra fresca e úmida da sombra",
+   "esp": "salsinha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "22",
+   "fontePet": null
+  },
+  "g32-017": {
+   "texto": "Fruta azedinha aguenta sombra; guarde o sol para as frutas doces",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "22",
+   "fontePet": null
+  },
+  "g32-018": {
+   "texto": "Mapa de sol do quintal: tire fotos do mesmo lugar em várias horas do dia e marque onde é sol pleno e onde é sombra o dia todo",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "23",
+   "fontePet": null
+  },
+  "g32-019": {
+   "texto": "Abobrinha, pepino e abóbora são uns 95% água: por isso pedem rega farta",
+   "esp": "abobrinha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "24",
+   "fontePet": null
+  },
+  "g32-020": {
+   "texto": "Espinafre e rúcula com a raiz sempre úmida demoram mais para espigar",
+   "esp": "espinafre",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "24",
+   "fontePet": null
+  },
+  "g32-021": {
+   "texto": "Canto que encharca: faça um poço de brita no ponto mais baixo para puxar a água",
+   "esp": "solo",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "24",
+   "fontePet": null
+  },
+  "g32-022": {
+   "texto": "Canteiro elevado drena melhor: a raiz alcança a água de baixo e continua arejada",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "24",
+   "fontePet": null
+  },
+  "g32-023": {
+   "texto": "Planta de seca se protege com espinho, pelo, cera na folha ou folha fininha que perde pouca água",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "26",
+   "fontePet": null
+  },
+  "g32-024": {
+   "texto": "Semente plantada direto no canteiro aguenta mais a seca do que muda transplantada",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "26",
+   "fontePet": null
+  },
+  "g32-025": {
+   "texto": "Morango não gosta de terra encharcada no tempo frio: lugar que drena bem é melhor",
+   "esp": "morango",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "26",
+   "fontePet": null
+  },
+  "g32-026": {
+   "texto": "Cobertura no chão segura a umidade na raiz: folha seca, palha ou até pedra, numa camada de pelo menos 4 cm",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "27",
+   "fontePet": null
+  },
+  "g32-027": {
+   "texto": "Quer saber se o canto encharca? Cave um buraco de 30 cm de largura e fundura e veja se a água fica parada",
+   "esp": "solo",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "28",
+   "fontePet": null
+  },
+  "g32-028": {
+   "texto": "Junto de muro, casa ou cerca a terra fica seca: a chuva não chega ali, é a \"sombra de chuva\"",
+   "esp": "regar",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "28",
+   "fontePet": null
+  },
+  "g32-029": {
+   "texto": "Árvore grande bebe muita água da terra no verão e compete com a horta",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "28",
+   "fontePet": null
+  },
+  "g32-030": {
+   "texto": "Alface, rúcula e espinafre espigam no calor; a sombra refresca e segura a colheita",
+   "esp": "alface",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "29",
+   "fontePet": null
+  },
+  "g32-031": {
+   "texto": "A maioria das hortaliças cresce melhor entre 10 e 30 graus",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "31",
+   "fontePet": null
+  },
+  "g32-032": {
+   "texto": "Milho e girassol aguentam muito tempo acima de 30 graus sem perder colheita",
+   "esp": "milho",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "31",
+   "fontePet": null
+  },
+  "g32-033": {
+   "texto": "Na cidade, asfalto e parede guardam o calor do sol e soltam ar quente: é a ilha de calor",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "32",
+   "fontePet": null
+  },
+  "g32-034": {
+   "texto": "Vento constante deixa a planta mais firme e espanta fungo, pulgão e mosca-branca, que gostam de ar parado",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "34",
+   "fontePet": null
+  },
+  "g32-035": {
+   "texto": "Milho é polinizado pelo vento: é ele que sacode o pólen da flor de cima e enche a espiga",
+   "esp": "milho",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "34",
+   "fontePet": null
+  },
+  "g32-036": {
+   "texto": "Cuidar demais da planta deixa ela mole e espichada, mais fácil para praga e doença",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "34",
+   "fontePet": null
+  },
+  "g32-037": {
+   "texto": "Alface, tomilho e beldroega crescem em montinho para o vento passar por cima",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "35",
+   "fontePet": null
+  },
+  "g32-038": {
+   "texto": "Muro ou cerca vazada contra o vento? A cerca vazada e a cerca viva filtram o vento; o muro cria redemoinho",
+   "esp": "horta",
+   "serie": "X ou Y?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "36",
+   "fontePet": null
+  },
+  "g32-039": {
+   "texto": "Uma barreira de vento protege uma distância de até cinco vezes a altura dela",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "35",
+   "fontePet": null
+  },
+  "g32-040": {
+   "texto": "Canto de sol e abrigado do vento é o lugar de terminar de amadurecer a pimenta no vaso",
+   "esp": "pimenta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "38",
+   "fontePet": null
+  },
+  "g32-041": {
+   "texto": "Corredor estreito vira túnel de vento; o canto do terreno costuma ser o lugar mais abrigado",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "39",
+   "fontePet": null
+  },
+  "g32-042": {
+   "texto": "Horta pequena em vaso ou canteiro estreito tem menos mato para tirar",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "48",
+   "fontePet": null
+  },
+  "g32-043": {
+   "texto": "Varanda de sol rende vaso de gengibre, capim-limão, romã, pimenta e berinjela",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "50",
+   "fontePet": null
+  },
+  "g32-044": {
+   "texto": "Mito: precisa mudar a terra do quintal toda. Melhor é escolher planta que gosta da terra que você tem",
+   "esp": "solo",
+   "serie": "Mito ou verdade",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "56",
+   "fontePet": null
+  },
+  "g32-045": {
+   "texto": "Planta do terreno conta como é a terra: urtiga mostra terra rica, trevo mostra terra pobre em nitrogênio",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "58",
+   "fontePet": null
+  },
+  "g32-046": {
+   "texto": "Esfregue a terra nos dedos: se arranha é arenosa, se gruda é argilosa",
+   "esp": "solo",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "58",
+   "fontePet": null
+  },
+  "g32-047": {
+   "texto": "Terra argilosa ou arenosa? A argilosa é rica mas encharca e racha; a arenosa esquenta rápido e drena, mas segura pouco adubo",
+   "esp": "solo",
+   "serie": "X ou Y?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "60",
+   "fontePet": null
+  },
+  "g32-048": {
+   "texto": "Não pise nem mexa na terra encharcada: ela compacta e a raiz não consegue entrar",
+   "esp": "solo",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "60",
+   "fontePet": null
+  },
+  "g32-049": {
+   "texto": "Colher tira nutriente da terra e quebra o ciclo da natureza; por isso a horta pede adubo",
+   "esp": "adubar",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "60",
+   "fontePet": null
+  },
+  "g32-050": {
+   "texto": "Terra arenosa ou terra seca? A saída é a mesma: composto ou esterco curtido",
+   "esp": "solo",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "60",
+   "fontePet": null
+  },
+  "g32-051": {
+   "texto": "Terra viva tem minhoca, ácaro, fungo e bactéria que soltam o alimento das plantas; elas gostam de terra arejada",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "61",
+   "fontePet": null
+  },
+  "g32-052": {
+   "texto": "Terra arenosa vai ficando mais ácida com o tempo porque perde cálcio",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "61",
+   "fontePet": null
+  },
+  "g32-053": {
+   "texto": "A sarna da batata aparece mais em terra alcalina; a hérnia do repolho, em terra ácida",
+   "esp": "batata",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "61",
+   "fontePet": null
+  },
+  "g32-054": {
+   "texto": "Beterraba e muita hortaliça gostam de terra com pH entre 6 e 8",
+   "esp": "beterraba",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "62",
+   "fontePet": null
+  },
+  "g32-055": {
+   "texto": "Canto de sol protegido do vento é quase uma estufa de graça",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "66",
+   "fontePet": null
+  },
+  "g32-056": {
+   "texto": "Manjericão: semeie 3 ou 4 sementes juntas por célula e passe o tufo inteiro para vaso de 9 cm",
+   "esp": "manjericão",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "76",
+   "fontePet": null
+  },
+  "g32-057": {
+   "texto": "Manjericão: 30 cm entre plantas ou vaso de 30 cm, colha beliscando as pontas para ele encorpar",
+   "esp": "manjericão",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "76",
+   "fontePet": null
+  },
+  "g32-058": {
+   "texto": "Muda de manjericão encharcada tomba: não exagere na água",
+   "esp": "manjericão",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "76",
+   "fontePet": null
+  },
+  "g32-059": {
+   "texto": "Muda de manjericão de graça: ramo num copo de água até soltar raiz",
+   "esp": "manjericão",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "76",
+   "fontePet": null
+  },
+  "g32-060": {
+   "texto": "A flor do manjericão se come, mas segura o crescimento das folhas: tire as flores para colher mais",
+   "esp": "manjericão",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "76",
+   "fontePet": null
+  },
+  "g32-061": {
+   "texto": "Sobrou manjericão? Lave as folhas, ensaque e congele",
+   "esp": "manjericão",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "76",
+   "fontePet": null
+  },
+  "g32-062": {
+   "texto": "Manjericão como microverde fica pronto para colher em 3 semanas",
+   "esp": "manjericão",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "76",
+   "fontePet": null
+  },
+  "g32-063": {
+   "texto": "Existe manjericão perene em forma de arbusto, o manjericão-cravo (Ocimum gratissimum)",
+   "esp": "manjericão",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "75",
+   "fontePet": null
+  },
+  "g32-064": {
+   "texto": "Feijão-trepador: semeie a 3 cm de fundura e plante junto de varas com 40 cm entre elas",
+   "esp": "feijão",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "77",
+   "fontePet": null
+  },
+  "g32-065": {
+   "texto": "Feijão de vagem deixado no pé até a semente engordar faz a planta parar de dar vagem: colha todas novinhas",
+   "esp": "feijão",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "78",
+   "fontePet": null
+  },
+  "g32-066": {
+   "texto": "Feijão-trepador sobe alto: a vara precisa ser firme e ter uns 3 metros",
+   "esp": "feijão",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "78",
+   "fontePet": null
+  },
+  "g32-067": {
+   "texto": "O feijão-trepador é perene na terra dele, a América Central, mas é plantado como anual",
+   "esp": "feijão",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "77",
+   "fontePet": null
+  },
+  "g32-068": {
+   "texto": "Morango no vaso: 20 cm entre plantas, adubo equilibrado e, na flor e no fruto, adubo rico em potássio",
+   "esp": "morango",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "80",
+   "fontePet": null
+  },
+  "g32-069": {
+   "texto": "Muda de morango: prenda o estolão saudável na terra ou num vasinho até enraizar",
+   "esp": "morango",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "81",
+   "fontePet": null
+  },
+  "g32-070": {
+   "texto": "O pé de morango produz melhor no segundo e no terceiro ano: vá renovando com os estolões",
+   "esp": "morango",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "81",
+   "fontePet": null
+  },
+  "g32-071": {
+   "texto": "Passe a mão de leve nas flores abertas do morango para ajudar a polinizar",
+   "esp": "morango",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "81",
+   "fontePet": null
+  },
+  "g32-072": {
+   "texto": "Palha embaixo do morango mantém a fruta limpa; colha pelo cabinho para não machucar",
+   "esp": "morango",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "81",
+   "fontePet": null
+  },
+  "g32-073": {
+   "texto": "O morango que comemos veio do cruzamento de duas espécies americanas",
+   "esp": "morango",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "80",
+   "fontePet": null
+  },
+  "g32-074": {
+   "texto": "Tem morango de flor cor-de-rosa, e não branca",
+   "esp": "morango",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "81",
+   "fontePet": null
+  },
+  "g32-075": {
+   "texto": "Tomate: semente a meio centímetro de fundura, muda para vaso de 9 cm e para o lugar final quando sair a primeira flor",
+   "esp": "tomate",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "84",
+   "fontePet": null
+  },
+  "g32-076": {
+   "texto": "Tomate de haste única: vaso de 30 cm, conduza no barbante ou na vara e tire os brotos do lado",
+   "esp": "tomate",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "84",
+   "fontePet": null
+  },
+  "g32-077": {
+   "texto": "Tomate florindo pede adubo rico em potássio a cada 6 a 10 dias",
+   "esp": "tomate",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "84",
+   "fontePet": null
+  },
+  "g32-078": {
+   "texto": "Fim da safra: regue menos, corte a ponta da haste e tire os tomatinhos que não vão vingar, para os outros amadurecerem",
+   "esp": "tomate",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "84",
+   "fontePet": null
+  },
+  "g32-079": {
+   "texto": "Tomate anão cabe em cesta pendurada e vaso pequeno",
+   "esp": "tomate",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "84",
+   "fontePet": null
+  },
+  "g32-080": {
+   "texto": "O tomate vem das terras altas e quentes do México e das Américas, e na natureza é perene",
+   "esp": "tomate",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "83",
+   "fontePet": null
+  },
+  "g32-081": {
+   "texto": "A bertalha é uma trepadeira que cresce muito no calor; a folha é macia crua e murcha bem na panela",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "85",
+   "fontePet": null
+  },
+  "g32-082": {
+   "texto": "Tem bertalha de folha verde-clara e flor branca e bertalha de talo e flor vermelhos",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "87",
+   "fontePet": null
+  },
+  "g32-083": {
+   "texto": "Bertalha: 30 cm entre plantas, composto farto e uma vara ou barbante de pelo menos 2 metros para subir",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "87",
+   "fontePet": null
+  },
+  "g32-084": {
+   "texto": "A folha da bertalha continua macia mesmo velha e quase não tem praga nem doença",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "87",
+   "fontePet": null
+  },
+  "g32-085": {
+   "texto": "A bertalha vem das matas úmidas da Ásia tropical e aguenta meia-sombra",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "85",
+   "fontePet": null
+  },
+  "g32-086": {
+   "texto": "Guarde semente de bertalha: colha das plantas maduras e deixe secar",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "87",
+   "fontePet": null
+  },
+  "g32-087": {
+   "texto": "Pimenta e pimentão: semente a 1 cm de fundura, muda para vaso de 9 cm e depois vaso de 30 cm, com 40 cm entre plantas e tutor firme",
+   "esp": "pimenta",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "89",
+   "fontePet": null
+  },
+  "g32-088": {
+   "texto": "Pimenta seca bem guardada dura anos",
+   "esp": "pimenta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "89",
+   "fontePet": null
+  },
+  "g32-089": {
+   "texto": "Colher verde ou madura? Pimenta e pimentão podem ser colhidos verdes; maduros ficam mais doces ou mais ardidos",
+   "esp": "pimenta",
+   "serie": "X ou Y?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "89",
+   "fontePet": null
+  },
+  "g32-090": {
+   "texto": "Pimenta aguenta muito calor e vai bem em verão quente",
+   "esp": "pimenta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "89",
+   "fontePet": null
+  },
+  "g32-091": {
+   "texto": "Pimenta demorando a amadurecer: regue menos",
+   "esp": "pimenta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "89",
+   "fontePet": null
+  },
+  "g32-092": {
+   "texto": "Pimentas compactas viram ótima planta de dentro de casa",
+   "esp": "pimenta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "88",
+   "fontePet": null
+  },
+  "g32-093": {
+   "texto": "Berinjela vai melhor em vaso de 30 cm, amarrada numa vara firme, úmida mas nunca encharcada",
+   "esp": "berinjela",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "91",
+   "fontePet": null
+  },
+  "g32-094": {
+   "texto": "Berinjela passou do ponto quando a casca perde o brilho e enruga: colha antes",
+   "esp": "berinjela",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "91",
+   "fontePet": null
+  },
+  "g32-095": {
+   "texto": "Ácaro-rajado na berinjela: borrife água nas folhas para espantar",
+   "esp": "berinjela",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "91",
+   "fontePet": null
+  },
+  "g32-096": {
+   "texto": "Tem berinjela branca, roxa e até roxa listrada de branco",
+   "esp": "berinjela",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "90",
+   "fontePet": null
+  },
+  "g32-097": {
+   "texto": "Berinjela florindo: adubo rico em potássio a cada 6 a 10 dias",
+   "esp": "berinjela",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "91",
+   "fontePet": null
+  },
+  "g32-098": {
+   "texto": "Batata-doce começa por rama enraizada; plante a 40 cm, em terra com composto",
+   "esp": "batata-doce",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "94",
+   "fontePet": null
+  },
+  "g32-099": {
+   "texto": "Rama de batata-doce de graça: deixe uma batata saudável brotar em lugar quente",
+   "esp": "batata-doce",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "94",
+   "fontePet": null
+  },
+  "g32-100": {
+   "texto": "Batata-doce graúda: plante atravessando um papelão, assim a rama não enraíza em vários pontos",
+   "esp": "batata-doce",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "94",
+   "fontePet": null
+  },
+  "g32-101": {
+   "texto": "A folha e o broto novo da batata-doce também se comem refogados",
+   "esp": "batata-doce",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "94",
+   "fontePet": null
+  },
+  "g32-102": {
+   "texto": "Colha a batata-doce quando a rama amarelar, com garfo e cuidado; deixe a casca curar uns dias num lugar quente",
+   "esp": "batata-doce",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "94",
+   "fontePet": null
+  },
+  "g32-103": {
+   "texto": "Feijão-de-metro tem esse nome porque a vagem fica comprida; colha novinha",
+   "esp": "feijão",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "96",
+   "fontePet": null
+  },
+  "g32-104": {
+   "texto": "A goiaba-serrana (feijoa) é da América do Sul, aguenta vento e tem pétala carnuda que se come",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "96",
+   "fontePet": null
+  },
+  "g32-105": {
+   "texto": "O loureiro pode passar de 10 metros, mas costuma ser podado pequeno",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "97",
+   "fontePet": null
+  },
+  "g32-106": {
+   "texto": "O tomatillo, tomate mexicano de casca de papel, é a base do molho verde mexicano",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "97",
+   "fontePet": null
+  },
+  "g32-107": {
+   "texto": "A physalis é do Peru; a fruta madura cai dentro da casquinha de papel e dura semanas guardada",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "97",
+   "fontePet": null
+  },
+  "g32-108": {
+   "texto": "Crisântemo-de-comer (shungiku) tem folha cheirosa e flor amarela que chama abelha",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "96",
+   "fontePet": null
+  },
+  "g32-109": {
+   "texto": "Alcachofra tem folha cerosa e peluda que rebate o sol forte; beldroega guarda água na folha gordinha",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "110",
+   "fontePet": null
+  },
+  "g32-110": {
+   "texto": "Aspargo demora 2 ou 3 anos para começar, mas depois produz por 10 anos ou mais",
+   "esp": "aspargo",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "112",
+   "fontePet": null
+  },
+  "g32-111": {
+   "texto": "Aspargo: plante a raiz (coroa) numa vala de 10 cm de fundura, com 40 cm entre plantas, e regue bem no primeiro ano",
+   "esp": "aspargo",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "112",
+   "fontePet": null
+  },
+  "g32-112": {
+   "texto": "Corte o broto de aspargo com faca afiada 1 a 2 cm abaixo da terra quando ele tiver 20 a 25 cm",
+   "esp": "aspargo",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "113",
+   "fontePet": null
+  },
+  "g32-113": {
+   "texto": "Não colha aspargo o ano todo: pare para a rama crescer e a planta recuperar",
+   "esp": "aspargo",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "113",
+   "fontePet": null
+  },
+  "g32-114": {
+   "texto": "Aspargo não suporta concorrência de mato que volta sempre: plante em canteiro limpo",
+   "esp": "aspargo",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "113",
+   "fontePet": null
+  },
+  "g32-115": {
+   "texto": "Aspargo adulto aguenta muita seca",
+   "esp": "aspargo",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "113",
+   "fontePet": null
+  },
+  "g32-116": {
+   "texto": "Aspargo branco é o mesmo aspargo, crescido sem luz; tem também aspargo roxo",
+   "esp": "aspargo",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "112",
+   "fontePet": null
+  },
+  "g32-117": {
+   "texto": "Salsifi tem raiz comprida que não gosta de ser mexida: não transplante, semeie no lugar",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "117",
+   "fontePet": null
+  },
+  "g32-118": {
+   "texto": "Tem gente que diz que a raiz do salsifi lembra o gosto de ostra",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "115",
+   "fontePet": null
+  },
+  "g32-119": {
+   "texto": "A beldroega, que muita gente arranca como mato, se come e aguenta seca: é planta do clima do futuro",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "118",
+   "fontePet": null
+  },
+  "g32-120": {
+   "texto": "Semente de beldroega precisa de luz para nascer: não cubra com terra",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "g32-121": {
+   "texto": "Beldroega: colha beliscando as pontas; ela solta brotos do lado e fica cheia",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "g32-122": {
+   "texto": "Deixou a beldroega florir? Ela semeia sozinha e você não precisa plantar de novo",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "g32-123": {
+   "texto": "A beldroega rasteira de folha miúda cobre o chão em lugar seco",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "g32-124": {
+   "texto": "Beldroega tem em todas as regiões tropicais do mundo",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "g32-125": {
+   "texto": "O feijão-fava (feijão-de-lima) vem da América do Sul seca e aguenta mais calor e seca que outros feijões",
+   "esp": "feijão",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "123",
+   "fontePet": null
+  },
+  "g32-126": {
+   "texto": "Não semeie feijão em terra fria ou encharcada: espere esquentar",
+   "esp": "feijão",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "123",
+   "fontePet": null
+  },
+  "g32-127": {
+   "texto": "Feijão-fava seco: deixe de molho, ferva forte 20 minutos e depois cozinhe em fogo baixo",
+   "esp": "feijão",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "123",
+   "fontePet": null
+  },
+  "g32-128": {
+   "texto": "Figueira: sol, terra que drena e composto ou esterco curtido na cova",
+   "esp": "figo",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "126",
+   "fontePet": null
+  },
+  "g32-129": {
+   "texto": "Figueira no chão cresce muito: forre as laterais da cova com placas de piso para segurar o tamanho",
+   "esp": "figo",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "126",
+   "fontePet": null
+  },
+  "g32-130": {
+   "texto": "Muda de figueira: estaca de galho maduro ou galho baixo que enraíza encostado na terra",
+   "esp": "figo",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "126",
+   "fontePet": null
+  },
+  "g32-131": {
+   "texto": "Figo se colhe mole e pesado de suco, e se come logo; sobra vira geleia, figo seco ou vai para o congelador",
+   "esp": "figo",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "126",
+   "fontePet": null
+  },
+  "g32-132": {
+   "texto": "Existe figo listrado de verde e creme",
+   "esp": "figo",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "126",
+   "fontePet": null
+  },
+  "g32-133": {
+   "texto": "O agretti, verdura italiana de folha de agulha, aguenta seca e até melhora terra salgada",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "127",
+   "fontePet": null
+  },
+  "g32-134": {
+   "texto": "A ançarinha-branca, que nasce como mato, é da família da quinoa e tem folha que se come",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "130",
+   "fontePet": null
+  },
+  "g32-135": {
+   "texto": "Folha de ançarinha e de quinoa tem saponina e ácido oxálico: coma cozida se for muito",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "131",
+   "fontePet": null
+  },
+  "g32-136": {
+   "texto": "Guardando semente de planta que se espalha? Ensaque a cabeça da semente em papel para ela não cair e virar mato",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "131",
+   "fontePet": null
+  },
+  "g32-137": {
+   "texto": "A videira é robusta, dá pouco trabalho e produz por anos",
+   "esp": "uva",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "132",
+   "fontePet": null
+  },
+  "g32-138": {
+   "texto": "Uva de mesa: tire alguns cachos (e bagos) para os que ficam engrossarem",
+   "esp": "uva",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "133",
+   "fontePet": null
+  },
+  "g32-139": {
+   "texto": "Folha nova de uva se come recheada, como no charutinho",
+   "esp": "uva",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "133",
+   "fontePet": null
+  },
+  "g32-140": {
+   "texto": "Sem sol a uva não adoça; vento ela aguenta",
+   "esp": "uva",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "133",
+   "fontePet": null
+  },
+  "g32-141": {
+   "texto": "Podar a videira com seiva correndo faz ela \"chorar\"; espere as folhas caírem",
+   "esp": "uva",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "133",
+   "fontePet": null
+  },
+  "g32-142": {
+   "texto": "A alcachofra é um cardo, parente do cardo selvagem, e a parte que se come é o botão da flor",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "135",
+   "fontePet": null
+  },
+  "g32-143": {
+   "texto": "Alcachofra pede 1 m quadrado por planta e esterco curtido; colha o botão antes das escamas abrirem",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "136",
+   "fontePet": null
+  },
+  "g32-144": {
+   "texto": "Alcachofra de semente leva mais de um ano para dar botão; muda comprada é mais rápida",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "136",
+   "fontePet": null
+  },
+  "g32-145": {
+   "texto": "A flor roxa da alcachofra, se você deixar abrir, é festa para as abelhas",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "136",
+   "fontePet": null
+  },
+  "g32-146": {
+   "texto": "Alcachofra: divida a touceira de tempos em tempos para ela continuar produzindo",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "136",
+   "fontePet": null
+  },
+  "g32-147": {
+   "texto": "Caruru (amaranto) cresce rápido no calor, tem folhas coloridas e, se florir, dá grãos ricos em proteína",
+   "esp": "amaranto",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "138",
+   "fontePet": null
+  },
+  "g32-148": {
+   "texto": "Caruru: semeie sem cobrir a semente, 30 cm entre linhas e 20 cm entre plantas; colha beliscando as pontas",
+   "esp": "amaranto",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "141",
+   "fontePet": null
+  },
+  "g32-149": {
+   "texto": "Folha ou grão? Para folha, belisque sempre as pontas; para grão, pare de beliscar e deixe espigar",
+   "esp": "amaranto",
+   "serie": "X ou Y?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "141",
+   "fontePet": null
+  },
+  "g32-150": {
+   "texto": "O grão de amaranto era alimento dos astecas",
+   "esp": "amaranto",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "141",
+   "fontePet": null
+  },
+  "g32-151": {
+   "texto": "Grão de amaranto: deixe de molho e enxágue até parar de fazer espuma, para tirar a saponina",
+   "esp": "amaranto",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "141",
+   "fontePet": null
+  },
+  "g32-152": {
+   "texto": "Caruru que não é colhido semeia sozinho e se espalha",
+   "esp": "amaranto",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "141",
+   "fontePet": null
+  },
+  "g32-153": {
+   "texto": "A semente de caruru também serve para fazer broto e tem muito nutriente",
+   "esp": "amaranto",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "141",
+   "fontePet": null
+  },
+  "g32-154": {
+   "texto": "Alho: plante o dente a 12 cm de fundura em terra que drena",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "142",
+   "fontePet": null
+  },
+  "g32-155": {
+   "texto": "Orégano de folha miúda e peluda aguenta mais seca; ele seca bem para guardar",
+   "esp": "orégano",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "142",
+   "fontePet": null
+  },
+  "g32-156": {
+   "texto": "Flor de orégano chama polinizadores",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "142",
+   "fontePet": null
+  },
+  "g32-157": {
+   "texto": "O espinafre-da-nova-zelândia nasce em duna de praia e cobre o chão com folhas carnudas; belisque as pontas",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "142",
+   "fontePet": null
+  },
+  "g32-158": {
+   "texto": "O tupinambo (girassol-batateiro) chega a 2 metros, serve de quebra-vento e dá tubérculos que ficam guardados na terra",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "142",
+   "fontePet": null
+  },
+  "g32-159": {
+   "texto": "A oca, parente andina do trevo-azedo, dá tubérculos e cobre bem o chão",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "142",
+   "fontePet": null
+  },
+  "g32-160": {
+   "texto": "Árvore nova em lugar de vento: duas estacas fincadas 40 cm, travessa em cima e amarrilho que você afrouxa quando o tronco engrossa",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "150",
+   "fontePet": null
+  },
+  "g32-161": {
+   "texto": "Ao plantar muda de vaso, solte com cuidado as raízes que estão enroladas",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "148",
+   "fontePet": null
+  },
+  "g32-162": {
+   "texto": "Abobrinha, abóbora, melão e pepino crescem a olho nu com sol, calor e umidade",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "156",
+   "fontePet": null
+  },
+  "g32-163": {
+   "texto": "Abóbora: muito esterco curtido na cova, 1 metro entre plantas e rega farta nas primeiras semanas",
+   "esp": "abóbora",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "160",
+   "fontePet": null
+  },
+  "g32-164": {
+   "texto": "Enterre uma garrafa de boca para baixo ao lado da abóbora: vira reservatório e ainda ajuda contra o oídio",
+   "esp": "abóbora",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "160",
+   "fontePet": null
+  },
+  "g32-165": {
+   "texto": "Pouco espaço? Faça a abóbora subir num tripé ou num arco",
+   "esp": "abóbora",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "160",
+   "fontePet": null
+  },
+  "g32-166": {
+   "texto": "Colha a abóbora madura com um pedaço do cabo e deixe a casca curar no sol antes de guardar",
+   "esp": "abóbora",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "160",
+   "fontePet": null
+  },
+  "g32-167": {
+   "texto": "Da abóbora se come também a ponta do ramo no vapor e a flor recheada e frita",
+   "esp": "abóbora",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "160",
+   "fontePet": null
+  },
+  "g32-168": {
+   "texto": "A abóbora foi domesticada na América Central",
+   "esp": "abóbora",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "160",
+   "fontePet": null
+  },
+  "g32-169": {
+   "texto": "Feijão-vagem anão: 30 cm entre plantas; o trepador vai a 20 cm, em roda ou fileira dupla, um pé por vara de 2,5 m",
+   "esp": "feijão",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "162",
+   "fontePet": null
+  },
+  "g32-170": {
+   "texto": "Vagem anã ou trepadeira? A anã dá tudo de uma vez; a trepadeira produz aos poucos a temporada inteira",
+   "esp": "feijão",
+   "serie": "X ou Y?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "162",
+   "fontePet": null
+  },
+  "g32-171": {
+   "texto": "Terra fria e encharcada apodrece a raiz do feijão",
+   "esp": "feijão",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "162",
+   "fontePet": null
+  },
+  "g32-172": {
+   "texto": "Semeie outra leva de vagem anã para entrar quando a primeira cansar",
+   "esp": "feijão",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "162",
+   "fontePet": null
+  },
+  "g32-173": {
+   "texto": "Feijão seco: deixe de molho de um dia para o outro, ferva forte 20 minutos e depois cozinhe até amaciar",
+   "esp": "feijão",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "162",
+   "fontePet": null
+  },
+  "g32-174": {
+   "texto": "O brócolis chinês (choy sum, kai-lan) fica pronto em menos de dois meses",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "163",
+   "fontePet": null
+  },
+  "g32-175": {
+   "texto": "Brócolis chinês: colha algumas folhas e deixe o bastante para rebrotar; o talo de flor sai antes de abrir",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "164",
+   "fontePet": null
+  },
+  "g32-176": {
+   "texto": "Um ou dois pés de abobrinha bastam para a casa toda a temporada inteira",
+   "esp": "abobrinha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "165",
+   "fontePet": null
+  },
+  "g32-177": {
+   "texto": "Abobrinha: composto farto, 1 metro entre plantas e rega na seca",
+   "esp": "abobrinha",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "167",
+   "fontePet": null
+  },
+  "g32-178": {
+   "texto": "Abobrinha deixada crescer demais perde sabor e a planta dá menos: colha pequena",
+   "esp": "abobrinha",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "167",
+   "fontePet": null
+  },
+  "g32-179": {
+   "texto": "Corte a abobrinha com faca afiada para não machucar o pé",
+   "esp": "abobrinha",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "167",
+   "fontePet": null
+  },
+  "g32-180": {
+   "texto": "Tem abobrinha amarela, listrada e em forma de disco",
+   "esp": "abobrinha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "167",
+   "fontePet": null
+  },
+  "g32-181": {
+   "texto": "Tem abobrinha que sobe em tutor, boa para quintal pequeno",
+   "esp": "abobrinha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "167",
+   "fontePet": null
+  },
+  "g32-182": {
+   "texto": "Brócolis: 30 cm entre plantas e 40 cm entre fileiras; colha a cabeça com os botões ainda fechados",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "169",
+   "fontePet": null
+  },
+  "g32-183": {
+   "texto": "Depois da cabeça do brócolis saem brotinhos do lado: é a segunda colheita",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "169",
+   "fontePet": null
+  },
+  "g32-184": {
+   "texto": "O talo do brócolis se come: descasque e coma cru",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "169",
+   "fontePet": null
+  },
+  "g32-185": {
+   "texto": "Brócolis no vaso: três plantas num vaso de 40 cm",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "169",
+   "fontePet": null
+  },
+  "g32-186": {
+   "texto": "Lagarta e passarinho no brócolis: tela de 5 mm, afastada das folhas",
+   "esp": "horta",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "169",
+   "fontePet": null
+  },
+  "g32-187": {
+   "texto": "Batata: deixe a batata-semente brotar num lugar claro antes de plantar, para colher mais cedo",
+   "esp": "batata",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "171",
+   "fontePet": null
+  },
+  "g32-188": {
+   "texto": "Batata: 30 a 40 cm entre plantas, ou uma por vaso de 30 cm; chegue terra no pé quando o broto subir",
+   "esp": "batata",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "171",
+   "fontePet": null
+  },
+  "g32-189": {
+   "texto": "Para colher batata, enfie o garfo reto ao lado da planta e levante devagar",
+   "esp": "batata",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "171",
+   "fontePet": null
+  },
+  "g32-190": {
+   "texto": "Batata para guardar: deixe secar umas horas depois de colher",
+   "esp": "batata",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "171",
+   "fontePet": null
+  },
+  "g32-191": {
+   "texto": "Alface de folha solta pode estar pronta em 5 semanas",
+   "esp": "alface",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "172",
+   "fontePet": null
+  },
+  "g32-192": {
+   "texto": "A alface começou a ser cultivada no norte da África",
+   "esp": "alface",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "172",
+   "fontePet": null
+  },
+  "g32-193": {
+   "texto": "Alface de corte: corte as folhas, regue e adube que ela volta para mais colheitas",
+   "esp": "alface",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "173",
+   "fontePet": null
+  },
+  "g32-194": {
+   "texto": "Semeie alface pouco e sempre, a cada 2 semanas, para nunca faltar",
+   "esp": "alface",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "173",
+   "fontePet": null
+  },
+  "g32-195": {
+   "texto": "Alface que passa sede no calor espiga: regue com atenção",
+   "esp": "alface",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "173",
+   "fontePet": null
+  },
+  "g32-196": {
+   "texto": "Alface espigando? Prefira a de folha solta e semeie num lugar mais sombreado",
+   "esp": "alface",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "173",
+   "fontePet": null
+  },
+  "g32-197": {
+   "texto": "A dália foi cultivada primeiro pela batata (tubérculo) que se come, e só depois pela flor",
+   "esp": "dália",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "176",
+   "fontePet": null
+  },
+  "g32-198": {
+   "texto": "A dália vem das montanhas do México",
+   "esp": "dália",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "176",
+   "fontePet": null
+  },
+  "g32-199": {
+   "texto": "Dália: tubérculo em vaso de 25 cm, belisque a ponta para encher e ponha tutor nas altas",
+   "esp": "dália",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "177",
+   "fontePet": null
+  },
+  "g32-200": {
+   "texto": "Guarde o tubérculo da dália seco, enterrado em areia seca, para não murchar",
+   "esp": "dália",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "177",
+   "fontePet": null
+  },
+  "g32-202": {
+   "texto": "O \"bulbo\" da erva-doce não é bulbo de verdade: é a base das folhas inchada",
+   "esp": "erva-doce",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "181",
+   "fontePet": null
+  },
+  "g32-203": {
+   "texto": "Erva-doce de bulbo: semeie direto num sulco de 3 cm molhado e desbaste para 20 cm",
+   "esp": "erva-doce",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "181",
+   "fontePet": null
+  },
+  "g32-204": {
+   "texto": "Erva-doce não gosta de transplante: muda de vaso tende a espigar",
+   "esp": "erva-doce",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "182",
+   "fontePet": null
+  },
+  "g32-205": {
+   "texto": "Bulbo grande de erva-doce depende de umidade constante",
+   "esp": "erva-doce",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "182",
+   "fontePet": null
+  },
+  "g32-206": {
+   "texto": "Erva-doce espigou? A folha e a flor continuam comestíveis, e a flor chama polinizadores",
+   "esp": "erva-doce",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "182",
+   "fontePet": null
+  },
+  "g32-207": {
+   "texto": "O rizoma novo do biri (cana-da-índia) se come cru ou assado, e a folha serve como folha de bananeira",
+   "esp": "biri",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "185",
+   "fontePet": null
+  },
+  "g32-208": {
+   "texto": "Milho: água farta quando aparecem o cabelo e o pendão, para encher a espiga",
+   "esp": "milho",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "185",
+   "fontePet": null
+  },
+  "g32-209": {
+   "texto": "O feijão-lablabe é uma trepadeira tropical de flor lilás perfumada; a vagem se come novinha e cozida",
+   "esp": "feijão",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "185",
+   "fontePet": null
+  },
+  "g32-210": {
+   "texto": "O nabo japonês (daikon) é um rabanete de raiz branca grande e comprida",
+   "esp": "rabanete",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "185",
+   "fontePet": null
+  },
+  "g32-211": {
+   "texto": "O yacon é dos Andes e dá tubérculos grandes e crocantes",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "185",
+   "fontePet": null
+  },
+  "g32-212": {
+   "texto": "Pepino gosta de abrigo e de terra úmida mas que drena",
+   "esp": "pepino",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "185",
+   "fontePet": null
+  },
+  "g32-213": {
+   "texto": "Tem cebolinha que forma bulbinho e cebolinha que dá só talo",
+   "esp": "cebolinha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "185",
+   "fontePet": null
+  },
+  "g32-214": {
+   "texto": "O endro (dill) tem folha de pena com cheiro de anis; dá flor amarela e semente que se come",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "185",
+   "fontePet": null
+  },
+  "g32-215": {
+   "texto": "O shissô (perila) tem sabor entre manjericão e hortelã e a folha serve de \"prato\" na comida asiática",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "185",
+   "fontePet": null
+  },
+  "g32-216": {
+   "texto": "Um só pé de erva-de-passarinho (morugem) pode soltar 2.500 sementes em 10 semanas",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "188",
+   "fontePet": null
+  },
+  "g32-217": {
+   "texto": "Tire o mato anual antes de ele soltar semente; a enxada funciona melhor em dia de sol e vento",
+   "esp": "mato",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "188",
+   "fontePet": null
+  },
+  "g32-218": {
+   "texto": "Enxada cega ou mato enterrado: ele volta. Corte rente com enxada afiada",
+   "esp": "mato",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "188",
+   "fontePet": null
+  },
+  "g32-219": {
+   "texto": "Mato perene tem raiz teimosa: a cavalinha chega a 2 metros de fundura",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "188",
+   "fontePet": null
+  },
+  "g32-220": {
+   "texto": "Mato que invade do vizinho: enterre uma placa de piso ou tábua de 50 cm na divisa",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "188",
+   "fontePet": null
+  },
+  "g32-221": {
+   "texto": "Canteiro sem mato com papelão: limpe, cubra com papelão, abra furo nas plantas, segure com tijolo e esconda com casca ou brita",
+   "esp": "mato",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "190",
+   "fontePet": null
+  },
+  "g32-222": {
+   "texto": "Cebola: semente a 1 cm de fundura e muda a 20 ou 25 cm; perto dá bulbo pequeno, longe dá bulbo grande",
+   "esp": "cebola",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "199",
+   "fontePet": null
+  },
+  "g32-223": {
+   "texto": "Trance as cebolas depois de 2 semanas guardadas: ocupam menos espaço",
+   "esp": "cebola",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "199",
+   "fontePet": null
+  },
+  "g32-224": {
+   "texto": "Cebola em terra muito ácida produz pouco: corrija com calcário antes",
+   "esp": "cebola",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "199",
+   "fontePet": null
+  },
+  "g32-225": {
+   "texto": "Guarde a cebola só depois de a casca de fora endurecer, num lugar arejado",
+   "esp": "cebola",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "199",
+   "fontePet": null
+  },
+  "g32-226": {
+   "texto": "Cenoura: semeie direto num sulco de 2 cm, cubra e regue; desbaste para 4 cm",
+   "esp": "cenoura",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "201",
+   "fontePet": null
+  },
+  "g32-227": {
+   "texto": "Mosca-da-cenoura: tela fina contra inseto resolve",
+   "esp": "cenoura",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "201",
+   "fontePet": null
+  },
+  "g32-228": {
+   "texto": "A raiz da fava tem nódulos que fixam nitrogênio: ao arrancar a planta velha, deixe a raiz na terra",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "204",
+   "fontePet": null
+  },
+  "g32-229": {
+   "texto": "Pulgão-preto na fava: quebre a ponta da planta, que é onde ele se junta (e a ponta se come no vapor)",
+   "esp": "praga",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "204",
+   "fontePet": null
+  },
+  "g32-230": {
+   "texto": "A beterraba foi domesticada no Egito pelas folhas; só depois passou a ser plantada pela raiz",
+   "esp": "beterraba",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "208",
+   "fontePet": null
+  },
+  "g32-231": {
+   "texto": "Tem beterraba amarela, branca e listrada de roxo e branco por dentro",
+   "esp": "beterraba",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "208",
+   "fontePet": null
+  },
+  "g32-232": {
+   "texto": "Beterraba: semente a 1 cm e desbaste para 12 a 20 cm, conforme o tamanho que você quer",
+   "esp": "beterraba",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "209",
+   "fontePet": null
+  },
+  "g32-233": {
+   "texto": "Cada \"semente\" de beterraba é um grupinho que dá várias mudas: desbaste para uma por cova",
+   "esp": "beterraba",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "209",
+   "fontePet": null
+  },
+  "g32-234": {
+   "texto": "A folha da beterraba se come; aproveite as mudinhas do desbaste",
+   "esp": "beterraba",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "209",
+   "fontePet": null
+  },
+  "g32-235": {
+   "texto": "Beterraba não aguenta terra encharcada: em terreno que não drena, use canteiro elevado",
+   "esp": "beterraba",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "209",
+   "fontePet": null
+  },
+  "g32-236": {
+   "texto": "Guarde beterraba em caixa com areia levemente úmida",
+   "esp": "beterraba",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "209",
+   "fontePet": null
+  },
+  "g32-237": {
+   "texto": "Couve e repolho: pelo menos 60 cm entre plantas e tela de 5 mm contra a borboleta da lagarta",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "211",
+   "fontePet": null
+  },
+  "g32-238": {
+   "texto": "Depois de colher o repolho, deixe o toco na terra: ele solta umas folhas soltas para mais uma colheita",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "212",
+   "fontePet": null
+  },
+  "g32-239": {
+   "texto": "Tela contra borboleta precisa ficar longe das folhas; ajuste conforme a couve cresce",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "212",
+   "fontePet": null
+  },
+  "g32-240": {
+   "texto": "Mosca da raiz na couve: ponha um colar de papelão em volta da muda",
+   "esp": "horta",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "212",
+   "fontePet": null
+  },
+  "g32-241": {
+   "texto": "Mirtilo: terra que drena mas segura umidade, matéria orgânica ácida e cobertura grossa no chão",
+   "esp": "mirtilo",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "215",
+   "fontePet": null
+  },
+  "g32-242": {
+   "texto": "Mirtilo produz sozinho, mas dá mais com outra variedade plantada perto",
+   "esp": "mirtilo",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "215",
+   "fontePet": null
+  },
+  "g32-243": {
+   "texto": "Colha o mirtilo bem colorido, rolando a frutinha entre o polegar e o indicador",
+   "esp": "mirtilo",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "215",
+   "fontePet": null
+  },
+  "g32-244": {
+   "texto": "Passarinho comendo o mirtilo: gaiola de tela por cima do pé quando as frutas amadurecem",
+   "esp": "mirtilo",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "215",
+   "fontePet": null
+  },
+  "g32-245": {
+   "texto": "Terra calcária? Plante o mirtilo no vaso com substrato ácido",
+   "esp": "mirtilo",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "215",
+   "fontePet": null
+  },
+  "g32-246": {
+   "texto": "Muda de mirtilo: estaca do ramo do ano anterior, tirada na poda",
+   "esp": "mirtilo",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "215",
+   "fontePet": null
+  },
+  "g32-247": {
+   "texto": "Tem mirtilo de fruta cor-de-rosa",
+   "esp": "mirtilo",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "214",
+   "fontePet": null
+  },
+  "g32-248": {
+   "texto": "Alho-poró: a muda vai num buraco de 12 a 15 cm, com 20 cm entre plantas",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "217",
+   "fontePet": null
+  },
+  "g32-249": {
+   "texto": "Alho-poró perde para o mato porque cresce reto e fino: mantenha o canteiro limpo",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "217",
+   "fontePet": null
+  },
+  "g32-250": {
+   "texto": "Pode semear 3 ou 4 sementes de alho-poró juntas e plantar o tufo, a 25 cm um do outro",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "217",
+   "fontePet": null
+  },
+  "g32-251": {
+   "texto": "A folha do nabo também se come: tire algumas enquanto ele cresce",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "223",
+   "fontePet": null
+  },
+  "g32-252": {
+   "texto": "Nabo e couve-rábano novinhos são os mais macios",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "223",
+   "fontePet": null
+  },
+  "g32-253": {
+   "texto": "Lagarta na couve-rábano: cubra com tela de 5 mm",
+   "esp": "horta",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "223",
+   "fontePet": null
+  },
+  "g32-254": {
+   "texto": "Nabo, couve e repolho são da mesma família: se a terra pegou doença, mude o canteiro na próxima",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "223",
+   "fontePet": null
+  },
+  "g32-255": {
+   "texto": "Mostarda de folha cresce rápido e gosta de tempo fresco e úmido; tem até uma com gosto de wasabi",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "g32-256": {
+   "texto": "Chicória e escarola amarram menos se ficarem um tempo sem luz antes da colheita",
+   "esp": "chicória",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "228",
+   "fontePet": null
+  },
+  "g32-257": {
+   "texto": "Ervilha de semente lisa aguenta mais o frio que a de semente enrugada",
+   "esp": "ervilha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "g32-258": {
+   "texto": "A rosa-canina faz cerca viva, a flor chama abelha e o fruto tem muita vitamina C",
+   "esp": "roseira",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "g32-259": {
+   "texto": "Cerca viva de frutinhas dá abrigo para passarinho e flor para abelha, e a fruta que você não colhe alimenta as aves",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "231",
+   "fontePet": null
+  },
+  "g32-260": {
+   "texto": "Cerca viva comestível: vala do tamanho do torrão, adubo de liberação lenta no fundo e mudas pequenas a 30 cm umas das outras",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "235",
+   "fontePet": null
+  },
+  "g32-261": {
+   "texto": "Para cerca viva, prefira mudas pequenas: são mais baratas e vão se fechando com os anos",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "231",
+   "fontePet": null
+  },
+  "g32-262": {
+   "texto": "Rúcula, coentro e espinafre espigam no calor seco; na meia-sombra eles duram mais",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "240",
+   "fontePet": null
+  },
+  "g32-263": {
+   "texto": "Hortelã gosta de raiz fresca e úmida, na meia-sombra",
+   "esp": "hortelã",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "240",
+   "fontePet": null
+  },
+  "g32-264": {
+   "texto": "Rúcula: sulco raso, sementes a 1 ou 2 cm; desbaste para 12 a 15 cm e coma as mudinhas",
+   "esp": "rúcula",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "243",
+   "fontePet": null
+  },
+  "g32-265": {
+   "texto": "Colha as folhas da rúcula e deixe o miolo: ela rebrota para outras colheitas",
+   "esp": "rúcula",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "243",
+   "fontePet": null
+  },
+  "g32-266": {
+   "texto": "Rúcula no calor seco fica ardida demais: dê sombra no meio do verão",
+   "esp": "rúcula",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "243",
+   "fontePet": null
+  },
+  "g32-267": {
+   "texto": "A flor da rúcula se come, mas a folha da planta espigada fica muito picante",
+   "esp": "rúcula",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "243",
+   "fontePet": null
+  },
+  "g32-268": {
+   "texto": "Rúcula em bandeja na janela vira microverde de corta-e-volta",
+   "esp": "rúcula",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "243",
+   "fontePet": null
+  },
+  "g32-269": {
+   "texto": "Deixe a rúcula sementear sozinha pela horta e não precisa plantar de novo",
+   "esp": "rúcula",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "243",
+   "fontePet": null
+  },
+  "g32-270": {
+   "texto": "A rúcula-selvagem é perene e dá colheita por muito tempo",
+   "esp": "rúcula",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "243",
+   "fontePet": null
+  },
+  "g32-271": {
+   "texto": "O espinafre vem do Oriente Médio e gosta de tempo fresco",
+   "esp": "espinafre",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "244",
+   "fontePet": null
+  },
+  "g32-272": {
+   "texto": "Sobrou espinafre? Murche na manteiga ou no azeite, aperte e congele",
+   "esp": "espinafre",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "245",
+   "fontePet": null
+  },
+  "g32-273": {
+   "texto": "Espinafre vai bem em vaso: regue bem e semeie pouco e sempre",
+   "esp": "espinafre",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "245",
+   "fontePet": null
+  },
+  "g32-274": {
+   "texto": "Tem framboesa anã de 50 cm que vai em vaso",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "250",
+   "fontePet": null
+  },
+  "g32-275": {
+   "texto": "Tem framboesa amarela",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "250",
+   "fontePet": null
+  },
+  "g32-276": {
+   "texto": "Framboesa de verão dá no ramo do ano anterior, que depois morre; a de outono dá no ramo do próprio ano",
+   "esp": "horta",
+   "serie": "X ou Y?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "250",
+   "fontePet": null
+  },
+  "g32-277": {
+   "texto": "Framboesa: passe colhendo todo dia, porque as frutas amadurecem uma de cada vez",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "250",
+   "fontePet": null
+  },
+  "g32-278": {
+   "texto": "Folha de framboesa vira chá, e o broto bem novo se come",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "250",
+   "fontePet": null
+  },
+  "g32-279": {
+   "texto": "Framboesa gosta de terra ácida; em terra alcalina falta magnésio na folha",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "250",
+   "fontePet": null
+  },
+  "g32-280": {
+   "texto": "O sabugueiro é quase indestrutível, dá flor que vira bebida e geleia e cachos de frutinhas",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "251",
+   "fontePet": null
+  },
+  "g32-281": {
+   "texto": "Flor de sabugueiro: colha assim que abrir, use no mesmo dia e deixe umas horas parada para os insetos saírem",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "252",
+   "fontePet": null
+  },
+  "g32-282": {
+   "texto": "Fruta de sabugueiro é melhor cozida, que tira o amargo",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "252",
+   "fontePet": null
+  },
+  "g32-283": {
+   "texto": "Tem hortelã de todo tipo: hortelã-pimenta, hortelã-de-folha-graúda, hortelã-maçã e até hortelã-d'água para brejo",
+   "esp": "hortelã",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "254",
+   "fontePet": null
+  },
+  "g32-284": {
+   "texto": "Hortelã se espalha pela raiz: plante num vaso grande enterrado, com 2 cm de borda para fora da terra",
+   "esp": "hortelã",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "255",
+   "fontePet": null
+  },
+  "g32-285": {
+   "texto": "Semente ou muda? Semente de hortelã nasce mal; pedaço de raiz e estaca pegam fácil",
+   "esp": "hortelã",
+   "serie": "X ou Y?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "255",
+   "fontePet": null
+  },
+  "g32-286": {
+   "texto": "Hortelã vai muito bem em vaso, desde que a rega não falte",
+   "esp": "hortelã",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "255",
+   "fontePet": null
+  },
+  "g32-287": {
+   "texto": "Touceira de hortelã apertada: divida com uma faca de pão velha",
+   "esp": "hortelã",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "255",
+   "fontePet": null
+  },
+  "g32-288": {
+   "texto": "Deixe um pouco da hortelã florir: as abelhas adoram",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "255",
+   "fontePet": null
+  },
+  "g32-289": {
+   "texto": "Guarde hortelã secando, congelando ou fazendo geleia",
+   "esp": "hortelã",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "255",
+   "fontePet": null
+  },
+  "g32-290": {
+   "texto": "A murta-do-chile (Ugni) dá frutinha com gosto de abacaxi e morango e vai na sombra",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "257",
+   "fontePet": null
+  },
+  "g32-291": {
+   "texto": "Acelga quase não tem praga nem doença e tem talo vermelho, amarelo, laranja, rosa ou branco",
+   "esp": "acelga",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "260",
+   "fontePet": null
+  },
+  "g32-292": {
+   "texto": "Acelga: semente a 1 cm de fundura, 20 cm entre plantas; colha as folhas de fora torcendo na base e deixe o miolo",
+   "esp": "acelga",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "261",
+   "fontePet": null
+  },
+  "g32-293": {
+   "texto": "Acelga baby: corte com 12 a 15 cm, regue e adube que ela volta",
+   "esp": "acelga",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "261",
+   "fontePet": null
+  },
+  "g32-294": {
+   "texto": "Molhe a terra seca antes de semear acelga: nasce melhor",
+   "esp": "acelga",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "261",
+   "fontePet": null
+  },
+  "g32-295": {
+   "texto": "Folha de acelga fica macia quando protegida do sol forte",
+   "esp": "acelga",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "262",
+   "fontePet": null
+  },
+  "g32-296": {
+   "texto": "A couve-etíope cresce no sol e na sombra; na sombra a folha fica mais suave",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "263",
+   "fontePet": null
+  },
+  "g32-297": {
+   "texto": "Couve que floriu: deixe a flor, que se come e chama inseto amigo",
+   "esp": "abelha",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "264",
+   "fontePet": null
+  },
+  "g32-298": {
+   "texto": "Pak choi fica pronto em 8 a 10 semanas; colha a planta inteira cortando na base com faca",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "267",
+   "fontePet": null
+  },
+  "g32-299": {
+   "texto": "Pak choi espiga rápido no calor seco: semeie no tempo fresco",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "267",
+   "fontePet": null
+  },
+  "g32-300": {
+   "texto": "Pak choi também pode ser colhido como microverde",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "267",
+   "fontePet": null
+  },
+  "g32-301": {
+   "texto": "Na pimenta-de-sichuan não se come a semente, e sim a casquinha em volta, que formiga na boca",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "269",
+   "fontePet": null
+  },
+  "g32-302": {
+   "texto": "Semente de pimenta-de-sichuan: misture com substrato úmido e deixe 1 mês na geladeira antes de semear",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "269",
+   "fontePet": null
+  },
+  "g32-303": {
+   "texto": "A cebolinha-de-todo-ano (Allium fistulosum) é perene, verde o ano inteiro, e a flor branca chama abelha",
+   "esp": "cebolinha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "272",
+   "fontePet": null
+  },
+  "g32-304": {
+   "texto": "O fruto do brinco-de-princesa se come; o sabor varia de suave a apimentado",
+   "esp": "brinco-de-princesa",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "272",
+   "fontePet": null
+  },
+  "g32-305": {
+   "texto": "Coentro no sol pleno espiga logo; com um pouco de sombra dá muita folha",
+   "esp": "coentro",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "272",
+   "fontePet": null
+  },
+  "g32-306": {
+   "texto": "Do coentro se come folha, raiz e semente, e ele congela bem",
+   "esp": "coentro",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "272",
+   "fontePet": null
+  },
+  "g32-307": {
+   "texto": "Da capuchinha se come a flor, a folha e a semente, todas com gosto picante",
+   "esp": "capuchinha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "273",
+   "fontePet": null
+  },
+  "g32-308": {
+   "texto": "Capuchinha cobre o chão na meia-sombra e semeia sozinha depois que pega",
+   "esp": "capuchinha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "273",
+   "fontePet": null
+  },
+  "g32-309": {
+   "texto": "A mashua, parente andina da capuchinha, é trepadeira de flor laranja e dá tubérculos com muita proteína",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "272",
+   "fontePet": null
+  },
+  "g32-310": {
+   "texto": "Canteiro de frutinhas: arrume os vasos no lugar, fotografe, cave covas um pouco maiores que o torrão e cubra tudo com 4 a 5 cm de cobertura",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "279",
+   "fontePet": null
+  },
+  "g32-311": {
+   "texto": "Passarinho comeu umas frutinhas? Encare como elogio; a horta não precisa virar fortaleza de tela",
+   "esp": "passarinho",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "275",
+   "fontePet": null
+  },
+  "g32-312": {
+   "texto": "Fruta plantada na sombra fica mais azedinha: ótima para geleia",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "275",
+   "fontePet": null
+  },
+  "g32-313": {
+   "texto": "O goji e a aronia são frutinhas que aguentam meia-sombra",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "280",
+   "fontePet": null
+  },
+  "g32-314": {
+   "texto": "Canto úmido e sombreado não é perdido: ali a folha cresce sem queimar e sem levar vento",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "282",
+   "fontePet": null
+  },
+  "g32-315": {
+   "texto": "Salsão: semeie raso e tenha paciência, a semente leva 3 a 4 semanas para nascer",
+   "esp": "aipo",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "284",
+   "fontePet": null
+  },
+  "g32-316": {
+   "texto": "Salsão: 30 cm entre plantas, terra com muita matéria orgânica, rega constante e cobertura no chão",
+   "esp": "aipo",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "285",
+   "fontePet": null
+  },
+  "g32-317": {
+   "texto": "Larva-minadora (risquinhos dentro da folha): tire na hora as folhas com sinal",
+   "esp": "praga",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "285",
+   "fontePet": null
+  },
+  "g32-318": {
+   "texto": "Não deixe a muda de salsão enovelar no vaso: plante antes, senão ela trava",
+   "esp": "aipo",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "285",
+   "fontePet": null
+  },
+  "g32-319": {
+   "texto": "Ruibarbo: não colha no primeiro ano, deixe a touceira formar; e tire a haste de flor",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "289",
+   "fontePet": null
+  },
+  "g32-320": {
+   "texto": "Talo de ruibarbo se colhe deslizando os dedos até a base e torcendo",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "289",
+   "fontePet": null
+  },
+  "g32-321": {
+   "texto": "A beldroega-de-inverno (alface-de-mineiro) tem folha redonda atravessada pelo talo e aguenta 20 graus negativos",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "291",
+   "fontePet": null
+  },
+  "g32-322": {
+   "texto": "A groselha-preta dá fruto no ramo novo, de 1 a 3 anos; vá tirando os ramos velhos",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "294",
+   "fontePet": null
+  },
+  "g32-323": {
+   "texto": "Colhendo muita frutinha de arbusto baixo? Sente do lado do pé: poupa costas e joelhos",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "295",
+   "fontePet": null
+  },
+  "g32-324": {
+   "texto": "Tem planta com pé macho e pé fêmea: sem um macho por perto, a fêmea não dá fruto",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "298",
+   "fontePet": null
+  },
+  "g32-325": {
+   "texto": "Um ou dois pés de salsinha bastam para uma casa o ano todo",
+   "esp": "salsinha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "299",
+   "fontePet": null
+  },
+  "g32-326": {
+   "texto": "Salsinha: semente rasa e paciência de 3 a 4 semanas; mantenha a bandeja só úmida, nem seca nem encharcada",
+   "esp": "salsinha",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "301",
+   "fontePet": null
+  },
+  "g32-327": {
+   "texto": "Salsinha: 30 cm entre plantas ou vaso grande; não deixe secar e adube durante a temporada",
+   "esp": "salsinha",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "301",
+   "fontePet": null
+  },
+  "g32-328": {
+   "texto": "Tire as folhas velhas e amarelas da salsinha: ela fica bonita e produz mais",
+   "esp": "salsinha",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "301",
+   "fontePet": null
+  },
+  "g32-329": {
+   "texto": "Congele salsinha no saco e amasse o saco congelado: ela sai picadinha",
+   "esp": "salsinha",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "301",
+   "fontePet": null
+  },
+  "g32-330": {
+   "texto": "Salsinha crespa ou lisa? A crespa é suave e delicada; a lisa tem sabor mais forte",
+   "esp": "salsinha",
+   "serie": "X ou Y?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "301",
+   "fontePet": null
+  },
+  "g32-331": {
+   "texto": "Existe salsinha de raiz: a raiz branca e carnuda se come, e a folha também",
+   "esp": "salsinha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "301",
+   "fontePet": null
+  },
+  "g32-332": {
+   "texto": "A hosta, planta de sombra de folhagem, é toda comestível: o broto enrolado se come na primavera",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "302",
+   "fontePet": null
+  },
+  "g32-333": {
+   "texto": "Lesma na horta de sombra: ronda à noite com lanterna para catar",
+   "esp": "lesma",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "303",
+   "fontePet": null
+  },
+  "g32-334": {
+   "texto": "Mizuna e mibuna são folhas japonesas picantinhas; poucos pés bastam para uma casa",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "306",
+   "fontePet": null
+  },
+  "g32-335": {
+   "texto": "Mizuna no calor fica picante demais: sombra é melhor",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "308",
+   "fontePet": null
+  },
+  "g32-336": {
+   "texto": "Folha de corte (mizuna, acelga): corte com 12 a 15 cm, regue e adube para rebrotar, sempre deixando o miolo",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "308",
+   "fontePet": null
+  },
+  "g32-337": {
+   "texto": "A diabelha (erba stella) é uma tanchagem de praia que vira salada e verdura no vapor",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "309",
+   "fontePet": null
+  },
+  "g32-338": {
+   "texto": "Folha de diabelha no sol forte fica dura e amarga: prefira sombra",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "310",
+   "fontePet": null
+  },
+  "g32-339": {
+   "texto": "A haste de flor da diabelha se come ainda em botão",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "310",
+   "fontePet": null
+  },
+  "g32-340": {
+   "texto": "A flor do amor-perfeito-bravo (Viola tricolor) se come e enfeita salada e bolo",
+   "esp": "amor-perfeito",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "314",
+   "fontePet": null
+  },
+  "g32-341": {
+   "texto": "O cerefólio, erva de folha de pena, se espalha sozinho em lugar úmido e sombreado",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "315",
+   "fontePet": null
+  },
+  "g32-342": {
+   "texto": "Urtiga cozida perde o pelo que queima e vira verdura nutritiva",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "315",
+   "fontePet": null
+  },
+  "g32-343": {
+   "texto": "O mitsuba, salsinha japonesa, tem gosto entre cerefólio e salsão",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "316",
+   "fontePet": null
+  },
+  "g32-344": {
+   "texto": "Azedinha e trevo-azedo (Oxalis) têm folha de gosto de limão",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "316",
+   "fontePet": null
+  },
+  "g32-345": {
+   "texto": "O wasabi é um rizoma que nasce na beira de riacho na mata e cresce devagar; rale e coma na hora",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "317",
+   "fontePet": null
+  },
+  "g32-346": {
+   "texto": "A alcachofra-chinesa (Stachys) dá tubérculos e aguenta sombra",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "317",
+   "fontePet": null
+  },
+  "g32-347": {
+   "texto": "Shiitake e cogumelo-ostra crescem em tronco no quintal, num canto de sombra e umidade",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "320",
+   "fontePet": null
+  },
+  "g32-348": {
+   "texto": "Tronco para cogumelo: madeira dura recém-cortada, sem podridão e sem ferida na casca",
+   "esp": "fungo",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "320",
+   "fontePet": null
+  },
+  "g32-349": {
+   "texto": "Cogumelo no tronco: furos de 5 cm de fundura a cada 10 cm, um tarugo de semente em cada, e tampe com cera de abelha",
+   "esp": "fungo",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "321",
+   "fontePet": null
+  },
+  "g32-350": {
+   "texto": "Não misture espécies de cogumelo no mesmo tronco: a mais forte toma conta",
+   "esp": "fungo",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "322",
+   "fontePet": null
+  },
+  "g32-351": {
+   "texto": "Tronco de cogumelo fica em pé na sombra úmida, com 10 cm enterrados; os cogumelos saem em 9 a 12 meses",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "324",
+   "fontePet": null
+  },
+  "g32-352": {
+   "texto": "O tronco velho de cogumelo, depois de podre, vira casa de besouro e sapo",
+   "esp": "fungo",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "320",
+   "fontePet": null
+  },
+  "g32-353": {
+   "texto": "Semente de cogumelo chegou e o tronco não está pronto? Guarde na geladeira por umas semanas",
+   "esp": "fungo",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "320",
+   "fontePet": null
+  },
+  "g32-354": {
+   "texto": "Até a sombra seca debaixo de árvore tem comida: amora, morango-silvestre, urtiga, raiz-forte e bambu",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "326",
+   "fontePet": null
+  },
+  "g32-355": {
+   "texto": "Para proteger fruta de passarinho, prefira gaiola de tela de arame: rede mole enrosca a ave",
+   "esp": "passarinho",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "329",
+   "fontePet": null
+  },
+  "g32-356": {
+   "texto": "Fruta azedinha como a groselha não precisa de muito sol",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "331",
+   "fontePet": null
+  },
+  "g32-357": {
+   "texto": "Morango-silvestre: semeie na superfície do substrato úmido, sem cobrir; pode demorar semanas para nascer",
+   "esp": "morango",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "335",
+   "fontePet": null
+  },
+  "g32-358": {
+   "texto": "Morango-silvestre cobre o chão onde o morango comum sofre, e tem um de fruta branca",
+   "esp": "morango",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "335",
+   "fontePet": null
+  },
+  "g32-359": {
+   "texto": "A frutinha do morango-silvestre se esconde nas folhas; no vaso fica mais fácil achar",
+   "esp": "morango",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "335",
+   "fontePet": null
+  },
+  "g32-360": {
+   "texto": "Raiz-forte se planta por pedaço de raiz, a 30 x 30 cm; na colheita deixe parte da raiz para ela voltar",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "337",
+   "fontePet": null
+  },
+  "g32-361": {
+   "texto": "Molho de raiz-forte não vai ao fogo: rale e use na hora, senão perde a ardência",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "337",
+   "fontePet": null
+  },
+  "g32-362": {
+   "texto": "Raiz-forte se espalha: plante num vaso grande enterrado",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "337",
+   "fontePet": null
+  },
+  "g32-363": {
+   "texto": "A folha da raiz-forte não se come de tão ardida; a flor branca chama polinizador",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "337",
+   "fontePet": null
+  },
+  "g32-364": {
+   "texto": "Galho podado vira tutor de feijão, e graveto vira cerquinha trançada",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "340",
+   "fontePet": null
+  },
+  "g32-365": {
+   "texto": "Muda de amora sem gastar: deixe a ponta do ramo encostar e enraizar na terra, corte e replante",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "344",
+   "fontePet": null
+  },
+  "g32-366": {
+   "texto": "A amora-japonesa (wineberry) tem ramo coberto de pelinhos vermelhos e fruta vermelha brilhante",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "343",
+   "fontePet": null
+  },
+  "g32-367": {
+   "texto": "Amora-japonesa chega a 6 m de largura e 3 m de altura: reserve espaço",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "344",
+   "fontePet": null
+  },
+  "g32-368": {
+   "texto": "A aliária tem folha com gosto de mostarda e alho, suave quando nova e mais forte depois",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "346",
+   "fontePet": null
+  },
+  "g32-369": {
+   "texto": "Tem planta \"de mato\" que é comida de lagarta de borboleta, como a aliária e a urtiga",
+   "esp": "borboleta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "346",
+   "fontePet": null
+  },
+  "g32-370": {
+   "texto": "Semente plantada direto cria raiz pivotante forte e aguenta terra seca",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "346",
+   "fontePet": null
+  },
+  "g32-371": {
+   "texto": "A labaça (Rumex) tem ácido oxálico: não coma muito crua; cozida diminui bastante",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "349",
+   "fontePet": null
+  },
+  "g32-372": {
+   "texto": "Folha que endurece: corte a touceira rente de tempos em tempos e ela volta macia",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "349",
+   "fontePet": null
+  },
+  "g32-373": {
+   "texto": "A urtiga é planta resistente, rica em nutriente e quase sem trabalho",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "351",
+   "fontePet": null
+  },
+  "g32-374": {
+   "texto": "A urtiga é planta de comida para lagarta de várias borboletas",
+   "esp": "borboleta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "352",
+   "fontePet": null
+  },
+  "g32-375": {
+   "texto": "Urtiga tem pé macho e pé fêmea",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "352",
+   "fontePet": null
+  },
+  "g32-376": {
+   "texto": "Urtiga fibrosa? Corte a touceira a cada 6 semanas para sair folha nova",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "352",
+   "fontePet": null
+  },
+  "g32-377": {
+   "texto": "Broto de bambu se colhe quando a cana nova fura a terra; deixe boa parte crescer",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "355",
+   "fontePet": null
+  },
+  "g32-379": {
+   "texto": "Bambu que alastra: vaso grande ou barreira funda e grossa em volta",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "355",
+   "fontePet": null
+  },
+  "g32-380": {
+   "texto": "Folha caída do bambu tem sílica que fortalece a planta: use como cobertura",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "355",
+   "fontePet": null
+  },
+  "g32-381": {
+   "texto": "Bambu vai em quase toda terra, menos a encharcada",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "355",
+   "fontePet": null
+  },
+  "g32-382": {
+   "texto": "Amora-preta sobe por árvore e arbusto atrás da luz e aguenta sombra seca",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "358",
+   "fontePet": null
+  },
+  "g32-383": {
+   "texto": "O mastruço-de-terra (Barbarea) tem folha picante o ano todo",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "359",
+   "fontePet": null
+  },
+  "g32-384": {
+   "texto": "Erro comum: varrer e jogar fora as folhas caídas. Na mata elas viram a cobertura que protege a raiz",
+   "esp": "compostagem",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "362",
+   "fontePet": null
+  },
+  "g32-385": {
+   "texto": "Composto: vá juntando verde (folha fresca) e marrom (galho, folha seca) misturados, não em camadas separadas",
+   "esp": "compostagem",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "365",
+   "fontePet": null
+  },
+  "g32-386": {
+   "texto": "Pique galho e material lenhoso antes de botar na composteira",
+   "esp": "compostagem",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "364",
+   "fontePet": null
+  },
+  "g32-387": {
+   "texto": "Revire o monte de composto pelo menos quatro vezes por ano: o meio é a parte mais quente",
+   "esp": "compostagem",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "366",
+   "fontePet": null
+  },
+  "g32-388": {
+   "texto": "Composto está pronto quando fica marrom-escuro e não dá mais para reconhecer nada, em 9 a 12 meses",
+   "esp": "compostagem",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "367",
+   "fontePet": null
+  },
+  "g32-389": {
+   "texto": "Use o composto como cobertura de pelo menos 5 cm no canteiro",
+   "esp": "compostagem",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "367",
+   "fontePet": null
+  },
+  "g32-390": {
+   "texto": "Sem quintal dá para plantar dentro de casa: broto de ervilha, microverde, capim-limão, gengibre, cúrcuma e limão",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "369",
+   "fontePet": null
+  },
+  "g32-391": {
+   "texto": "O tomate original é uma planta grande e esparramada; o tomate anão de vaso veio de seleção",
+   "esp": "tomate",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "371",
+   "fontePet": null
+  },
+  "g32-392": {
+   "texto": "Tomate anão: passe para o vaso final quando aparecer o primeiro cacho de flor; na dúvida, vaso maior",
+   "esp": "tomate",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "372",
+   "fontePet": null
+  },
+  "g32-393": {
+   "texto": "Tomate anão produz muito no começo e depois cai; semeie em levas para colher o ano todo",
+   "esp": "tomate",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "372",
+   "fontePet": null
+  },
+  "g32-394": {
+   "texto": "Semente de tomate no quentinho nasce em 7 a 10 dias",
+   "esp": "tomate",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "372",
+   "fontePet": null
+  },
+  "g32-395": {
+   "texto": "Broto de ervilha tem o mesmo gosto da ervilha e fica pronto em 2 a 4 semanas",
+   "esp": "ervilha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "374",
+   "fontePet": null
+  },
+  "g32-396": {
+   "texto": "Broto de ervilha: 1 a 2 cm de substrato na bandeja, molhe, escorra e espalhe bastante semente por cima",
+   "esp": "ervilha",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "374",
+   "fontePet": null
+  },
+  "g32-397": {
+   "texto": "Corte o broto de ervilha com tesoura quando tiver 8 a 12 cm e coma logo",
+   "esp": "ervilha",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "374",
+   "fontePet": null
+  },
+  "g32-398": {
+   "texto": "Ervilha seca de supermercado serve de semente barata para broto",
+   "esp": "ervilha",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "375",
+   "fontePet": null
+  },
+  "g32-399": {
+   "texto": "Broto de ervilha nasce até em algodão ou papel-toalha, sem terra",
+   "esp": "ervilha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "375",
+   "fontePet": null
+  },
+  "g32-400": {
+   "texto": "O broto de ervilha cortado rebrota e dá uma segunda colheita menor",
+   "esp": "ervilha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "375",
+   "fontePet": null
+  },
+  "g32-401": {
+   "texto": "Broto de ervilha passado do ponto fica cheio de amido: corte antes",
+   "esp": "ervilha",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "375",
+   "fontePet": null
+  },
+  "g32-402": {
+   "texto": "Gire a bandeja de broto com frequência para ele não espichar para um lado",
+   "esp": "ervilha",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "374",
+   "fontePet": null
+  },
+  "g32-403": {
+   "texto": "Microverde: corte com tesoura quando tiver 1 a 3 cm",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "377",
+   "fontePet": null
+  },
+  "g32-404": {
+   "texto": "Dá microverde de rúcula, erva-doce, mostarda, hortelã, cebolinha, rabanete, beterraba e amaranto",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "377",
+   "fontePet": null
+  },
+  "g32-405": {
+   "texto": "Microverde: borrifador é mais fácil que regador",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "377",
+   "fontePet": null
+  },
+  "g32-406": {
+   "texto": "Semeie uma bandeja de microverde por semana e nunca falta",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "377",
+   "fontePet": null
+  },
+  "g32-407": {
+   "texto": "O gosto do microverde muda conforme cresce: prove antes de colher",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "377",
+   "fontePet": null
+  },
+  "g32-408": {
+   "texto": "Da palma se come a raquete (a nova tem espinho mais mole) e a fruta, colhida quando amolece",
+   "esp": "palma",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "379",
+   "fontePet": null
+  },
+  "g32-409": {
+   "texto": "Palma no vaso: metade substrato e metade areia grossa, sol pleno e pouca água",
+   "esp": "palma",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "378",
+   "fontePet": null
+  },
+  "g32-410": {
+   "texto": "Muda de palma: corte uma raquete, deixe cicatrizar e firme no substrato com areia",
+   "esp": "palma",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "379",
+   "fontePet": null
+  },
+  "g32-411": {
+   "texto": "Tirar espinho da palma: faca afiada, passada rápida no fogo ou luva grossa",
+   "esp": "palma",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "379",
+   "fontePet": null
+  },
+  "g32-412": {
+   "texto": "A Opuntia ficus-indica é a palma que mais dá fruta (o figo-da-índia)",
+   "esp": "palma",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "379",
+   "fontePet": null
+  },
+  "g32-413": {
+   "texto": "Um só pé de capim-limão dá para a casa inteira",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "383",
+   "fontePet": null
+  },
+  "g32-414": {
+   "texto": "Capim-limão: colha o talo quando a base tiver a grossura de um lápis",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "382",
+   "fontePet": null
+  },
+  "g32-415": {
+   "texto": "Muda de capim-limão: talo comprado na feira também enraíza",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "382",
+   "fontePet": null
+  },
+  "g32-416": {
+   "texto": "A citronela é parente do capim-limão e também serve de tempero",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "381",
+   "fontePet": null
+  },
+  "g32-417": {
+   "texto": "A folha do capim-limão corta: use luva grossa para limpar as folhas secas",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "382",
+   "fontePet": null
+  },
+  "g32-418": {
+   "texto": "Capim-limão aguenta vento: ótimo para varanda",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "382",
+   "fontePet": null
+  },
+  "g32-419": {
+   "texto": "Limoeiro de vaso: substrato que segura nutriente mas drena, rega regular e ar úmido quando está crescendo",
+   "esp": "limoeiro",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "384",
+   "fontePet": null
+  },
+  "g32-420": {
+   "texto": "Limoeiro no vaso: fique de olho no ácaro-rajado e na cochonilha",
+   "esp": "limoeiro",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "384",
+   "fontePet": null
+  },
+  "g32-421": {
+   "texto": "Limoeiro de semente varia na qualidade e demora anos para dar fruto",
+   "esp": "limoeiro",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "385",
+   "fontePet": null
+  },
+  "g32-422": {
+   "texto": "Limoeiro que estava dentro de casa: acostume aos poucos antes de deixar no sol pleno",
+   "esp": "limoeiro",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "385",
+   "fontePet": null
+  },
+  "g32-423": {
+   "texto": "Existe o limão-caviar, de fruta comprida com bolinhas por dentro, e o limão-kaffir, de folha muito cheirosa",
+   "esp": "limoeiro",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "384",
+   "fontePet": null
+  },
+  "g32-424": {
+   "texto": "Limão e laranja guardados na geladeira duram semanas",
+   "esp": "limoeiro",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "385",
+   "fontePet": null
+  },
+  "g32-425": {
+   "texto": "Gengibre, cúrcuma, galanga e cardamomo são todos da mesma família e vêm da Índia",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "386",
+   "fontePet": null
+  },
+  "g32-426": {
+   "texto": "Gengibre e cúrcuma: rizoma raso em vaso de pelo menos 25 cm, com adubo; aumente a rega conforme cresce",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "387",
+   "fontePet": null
+  },
+  "g32-427": {
+   "texto": "Gengibre gosta de sombra ou meia-sombra, coisa rara entre as plantas de comer",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "387",
+   "fontePet": null
+  },
+  "g32-428": {
+   "texto": "Gengibre comprado na feira vira muda: plante um pedaço saudável",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "387",
+   "fontePet": null
+  },
+  "g32-429": {
+   "texto": "Gengibre come bastante: adube toda semana enquanto cresce, e regue menos quando ele dormir",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "387",
+   "fontePet": null
+  },
+  "g32-430": {
+   "texto": "Colha gengibre e cúrcuma quando o rizoma estiver bom, deixando um pedaço para continuar crescendo",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "387",
+   "fontePet": null
+  },
+  "g32-431": {
+   "texto": "Romãzeira cresce devagar e cabe em vaso; tem romã anã e romã sem semente",
+   "esp": "romã",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "390",
+   "fontePet": null
+  },
+  "g32-432": {
+   "texto": "Romã no vaso: terra que drena e é fértil, muita água no crescimento e adubo rico em potássio a cada 15 dias",
+   "esp": "romã",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "390",
+   "fontePet": null
+  },
+  "g32-433": {
+   "texto": "Nem toda flor de romã vira fruta; ela fecunda sozinha, mas outra planta perto ajuda",
+   "esp": "romã",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "390",
+   "fontePet": null
+  },
+  "g32-434": {
+   "texto": "Não pode demais a romãzeira: tire só galho seco e o que embola",
+   "esp": "romã",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "390",
+   "fontePet": null
+  },
+  "g32-435": {
+   "texto": "Da agave se come o coração assado, a flor, a haste e a seiva",
+   "esp": "agave",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "392",
+   "fontePet": null
+  },
+  "g32-436": {
+   "texto": "Agave no vaso: metade substrato e metade areia grossa, sol pleno e pouca água",
+   "esp": "agave",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "392",
+   "fontePet": null
+  },
+  "g32-437": {
+   "texto": "Quando a agave solta a haste de flor, aquela roseta morre",
+   "esp": "agave",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "393",
+   "fontePet": null
+  },
+  "g32-438": {
+   "texto": "Muda de agave: corte os filhotes que nascem na base",
+   "esp": "agave",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "393",
+   "fontePet": null
+  },
+  "g32-439": {
+   "texto": "Agave tem espinho bravo: deixe longe das crianças",
+   "esp": "agave",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "393",
+   "fontePet": null
+  },
+  "g32-440": {
+   "texto": "Pimenta anã de vaso: vaso final de pelo menos 1 litro, adubo rico em potássio e rega boa",
+   "esp": "pimenta",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "396",
+   "fontePet": null
+  },
+  "g32-441": {
+   "texto": "Pimenta dentro de casa: balance a planta de leve quando estiver florida, para polinizar",
+   "esp": "pimenta",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "396",
+   "fontePet": null
+  },
+  "g32-442": {
+   "texto": "Pimenta de vaso dentro de casa pode viver anos e produzir o ano inteiro",
+   "esp": "pimenta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "396",
+   "fontePet": null
+  },
+  "g32-443": {
+   "texto": "Tem pimenta de 20 cm de altura coberta de frutas, e pimenta pendente",
+   "esp": "pimenta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "395",
+   "fontePet": null
+  },
+  "g32-444": {
+   "texto": "A planta-cogumelo (Rungia klossii) tem folha crocante com gosto de cogumelo",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "398",
+   "fontePet": null
+  },
+  "g32-445": {
+   "texto": "O chá verde e o chá preto vêm da mesma planta, a Camellia sinensis, que vive em vaso",
+   "esp": "camélia",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "398",
+   "fontePet": null
+  },
+  "g32-446": {
+   "texto": "O trevo-roxo (Oxalis triangularis) tem folha azedinha que se come, flor branca e raiz carnuda",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "398",
+   "fontePet": null
+  },
+  "g32-447": {
+   "texto": "A estévia é um adoçante natural que nasce fácil de semente; belisque para encher",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "398",
+   "fontePet": null
+  },
+  "g32-448": {
+   "texto": "O cálice seco da vinagreira (hibisco-roselle) vira chá; a flor e a folha também se comem",
+   "esp": "hibisco",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "398",
+   "fontePet": null
+  },
+  "g32-449": {
+   "texto": "Gerânio de folha perfumada serve de tempero, e a estaca pega fácil",
+   "esp": "gerânio",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "398",
+   "fontePet": null
+  },
+  "g32-450": {
+   "texto": "A erva-luísa (lúcia-lima) tem folha com cheiro de limão para bebida e sobremesa",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "398",
+   "fontePet": null
+  },
+  "g32-451": {
+   "texto": "Estante com lâmpada de LED vira horta dentro do apartamento: alface, rúcula, manjericão, salsinha e até rabanete",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "400",
+   "fontePet": null
+  },
+  "g32-452": {
+   "texto": "O telhado de uma casa recolhe uns 50 mil litros de chuva por ano; um galpão pequeno, uns 5 mil",
+   "esp": "regar",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "409",
+   "fontePet": null
+  },
+  "g32-453": {
+   "texto": "Bombona de 1.000 litros reaproveitada guarda chuva barato, e enterrada não ocupa espaço",
+   "esp": "regar",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "409",
+   "fontePet": null
+  },
+  "g32-454": {
+   "texto": "Horta cheia de vasos: gotejador com vazão regulável para cada planta",
+   "esp": "regar",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "409",
+   "fontePet": null
+  },
+  "g32-455": {
+   "texto": "Mangueira porosa enterrada 5 a 8 cm e coberta com palha leva a água direto na raiz",
+   "esp": "regar",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "409",
+   "fontePet": null
+  },
+  "g32-456": {
+   "texto": "Aspersor por cima desperdiça água e, molhando a superfície, faz nascer mato",
+   "esp": "regar",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "409",
+   "fontePet": null
+  },
+  "g32-458": {
+   "texto": "Na natureza quase não existe terra pelada: a cobertura segura a água junto da raiz",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "409",
+   "fontePet": null
+  },
+  "g32-459": {
+   "texto": "Muda na janela com luz de um lado só espicha e tomba",
+   "esp": "muda",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "411",
+   "fontePet": null
+  },
+  "g32-460": {
+   "texto": "Muda na janela: um papelão pintado de branco ou forrado de papel-alumínio atrás devolve a luz, e gire os vasos a cada poucos dias",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "411",
+   "fontePet": null
+  },
+  "g32-461": {
+   "texto": "Luz vermelha puxa flor, luz azul puxa folha; LED gasta pouco e quase não esquenta",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "411",
+   "fontePet": null
+  },
+  "g32-462": {
+   "texto": "Pimenta e tomate nascem melhor no quentinho, uns 24 graus; abóbora e feijão, uns 18",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "413",
+   "fontePet": null
+  },
+  "g32-463": {
+   "texto": "Galho de bambu, de poda ou de árvore do quintal vira tutor de feijão e de tomate de graça",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "415",
+   "fontePet": null
+  },
+  "g32-464": {
+   "texto": "Tenha três telas: 2 cm contra passarinho, 5 mm contra borboleta da lagarta e 0,8 mm contra mosquinha",
+   "esp": "praga",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "415",
+   "fontePet": null
+  },
+  "g32-465": {
+   "texto": "Tela e rede são controle de praga sem veneno nenhum",
+   "esp": "praga",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "415",
+   "fontePet": null
+  },
+  "g32-466": {
+   "texto": "Estufa na meia-sombra esquenta menos no verão e é mais fácil de controlar",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "417",
+   "fontePet": null
+  },
+  "g32-467": {
+   "texto": "Estufa precisa de janela embaixo e em cima para o ar circular",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "417",
+   "fontePet": null
+  },
+  "g32-468": {
+   "texto": "Fruta, folha ou raiz? Fruta pede potássio, folha pede nitrogênio, raiz pede fósforo, e muda nova pede os três",
+   "esp": "adubar",
+   "serie": "X ou Y?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "419",
+   "fontePet": null
+  },
+  "g32-469": {
+   "texto": "Adubo demais não dá colheita maior: queima a planta e escorre para a água do subsolo",
+   "esp": "adubar",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "419",
+   "fontePet": null
+  },
+  "g32-470": {
+   "texto": "Adubo líquido vai no pé da planta, não na terra vazia; e só quando ela está crescendo",
+   "esp": "adubar",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "419",
+   "fontePet": null
+  },
+  "g32-471": {
+   "texto": "Adubo de confrei: corte as folhas, deixe apodrecer na água e use o caldo",
+   "esp": "adubar",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "419",
+   "fontePet": null
+  },
+  "g32-472": {
+   "texto": "Adubo verde: semeie trevo, mostarda ou azevém no canteiro vazio e incorpore depois na terra",
+   "esp": "adubar",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "419",
+   "fontePet": null
+  },
+  "g32-473": {
+   "texto": "A facélia é adubo verde e ainda chama muita abelha",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "420",
+   "fontePet": null
+  },
+  "g32-474": {
+   "texto": "Composteira de três baias: uma maturando, uma enchendo e uma livre para virar o material",
+   "esp": "compostagem",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "421",
+   "fontePet": null
+  },
+  "g32-475": {
+   "texto": "Monte de composto de 1 metro cúbico ou mais esquenta o bastante para matar semente de mato",
+   "esp": "compostagem",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "421",
+   "fontePet": null
+  },
+  "g32-476": {
+   "texto": "Minhocário serve para varanda e quintal pequeno; bokashi fica na bancada da cozinha",
+   "esp": "compostagem",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "421",
+   "fontePet": null
+  },
+  "g32-477": {
+   "texto": "Não ponha na composteira semente de mato, raiz de mato perene nem planta com doença de solo",
+   "esp": "compostagem",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "421",
+   "fontePet": null
+  },
+  "g32-478": {
+   "texto": "Peneire o composto numa tela de galinheiro para tirar os pedaços de pau",
+   "esp": "compostagem",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "421",
+   "fontePet": null
+  },
+  "g32-479": {
+   "texto": "Chorume do minhocário: 1 parte para 10 de água e vira adubo líquido",
+   "esp": "compostagem",
+   "serie": "Passo a passo",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "421",
+   "fontePet": null
+  },
+  "g32-480": {
+   "texto": "Húmus de minhoca e bokashi são muito fortes: use pouco no substrato",
+   "esp": "compostagem",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "421",
+   "fontePet": null
+  },
+  "g32-481": {
+   "texto": "Mosca-minadora da cebola e do alho: tela de 0,8 mm afastada das folhas com arcos",
+   "esp": "cebola",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "426",
+   "fontePet": null
+  },
+  "g32-482": {
+   "texto": "Mato anual: carpa a terra pelada sempre, ou cubra com 4 a 5 cm de palha",
+   "esp": "mato",
+   "serie": "5 cuidados",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "427",
+   "fontePet": null
+  },
+  "g32-483": {
+   "texto": "Pulgão: esmague as colônias entre os dedos ou dê um jato forte de água, e repita sempre",
+   "esp": "praga",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "428",
+   "fontePet": null
+  },
+  "g32-484": {
+   "texto": "Ferrugem do feijão: lugar aberto e arejado, tire folhas para baixar a umidade e não molhe por cima",
+   "esp": "feijão",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "432",
+   "fontePet": null
+  },
+  "g32-485": {
+   "texto": "Nunca deixe rede solta em cima da planta: o passarinho fica preso. Estique firme numa armação",
+   "esp": "passarinho",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "433",
+   "fontePet": null
+  },
+  "g32-486": {
+   "texto": "Mosca da raiz da couve: colar de papelão de 15 cm em volta da muda",
+   "esp": "horta",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "434",
+   "fontePet": null
+  },
+  "g32-487": {
+   "texto": "Mosca-da-cenoura também ataca salsinha e salsão: tela fina e troque o canteiro por um ano",
+   "esp": "cenoura",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "435",
+   "fontePet": null
+  },
+  "g32-488": {
+   "texto": "Lagarta-rosca (corta a muda rente ao chão): tela e revirar a terra para os bichos que comem a lagarta acharem",
+   "esp": "praga",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "438",
+   "fontePet": null
+  },
+  "g32-489": {
+   "texto": "Míldio: plante espaçado para o ar correr, regue de manhã e tire as folhas doentes logo",
+   "esp": "praga",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "440",
+   "fontePet": null
+  },
+  "g32-490": {
+   "texto": "Pulguinha (furinhos na couve): tela e plante a muda já grande",
+   "esp": "praga",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "441",
+   "fontePet": null
+  },
+  "g32-491": {
+   "texto": "Pulgão de fruta: esmague no começo e deixe os inimigos naturais trabalharem, que eles controlam",
+   "esp": "joaninha",
+   "serie": "Você sabia?",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "442",
+   "fontePet": null
+  },
+  "g32-492": {
+   "texto": "Requeima no tomate e na batata (tempo quente e úmido): ronde e arranque logo a planta doente",
+   "esp": "tomate",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "445",
+   "fontePet": null
+  },
+  "g32-493": {
+   "texto": "Larva-minadora no espinafre, acelga e beterraba: tela fina e tire a folha com pouco estrago",
+   "esp": "praga",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "446",
+   "fontePet": null
+  },
+  "g32-494": {
+   "texto": "Nitrogênio demais favorece a ferrugem no alho-poró",
+   "esp": "adubar",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "447",
+   "fontePet": null
+  },
+  "g32-495": {
+   "texto": "Terreno com mato perene: plante só hortaliça de ciclo curto até limpar todos os pedaços de raiz",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "454",
+   "fontePet": null
+  },
+  "g32-496": {
+   "texto": "Oídio (pó branco na folha): espaçamento, poda para arejar e não deixe a planta passar sede",
+   "esp": "praga",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "456",
+   "fontePet": null
+  },
+  "g32-497": {
+   "texto": "Lesma e caramujo: atraia sapo, passarinho e besouro, e faça ronda à noite",
+   "esp": "lesma",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "460",
+   "fontePet": null
+  },
+  "g32-498": {
+   "texto": "Mosca-das-frutas: quando a fruta estiver grande e ainda verde, cubra o galho com tela fina",
+   "esp": "praga",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "461",
+   "fontePet": null
+  },
+  "g32-499": {
+   "texto": "Virose: arranque a planta doente, desinfete a ferramenta e controle os insetos sugadores que espalham o vírus",
+   "esp": "praga",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "464",
+   "fontePet": null
+  },
+  "g32-500": {
+   "texto": "Pulgão-lanígero (algodãozinho no galho): pode o galho fino ou escove com escova dura",
+   "esp": "praga",
+   "serie": "Socorro",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "465",
+   "fontePet": null
+  },
+  "e22-001": {
+   "texto": "O uso exagerado de herbicida criou mato resistente, poluiu a água e estragou ambientes; a ideia de \"guerra ao mato\" ficou velha",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "5",
+   "fontePet": null
+  },
+  "e22-002": {
+   "texto": "Das 370 mil plantas do mundo, só 3% se comportam como mato",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "5",
+   "fontePet": null
+  },
+  "e22-003": {
+   "texto": "Mato é oportunista: ocupa o espaço que a gente abre na terra",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "5",
+   "fontePet": null
+  },
+  "e22-004": {
+   "texto": "Mito: todo mato é ruim. Muitos alimentam inseto e passarinho, e a urtiga até vira sopa",
+   "esp": "mato",
+   "serie": "Mito ou verdade",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "5",
+   "fontePet": null
+  },
+  "e22-005": {
+   "texto": "Manejo do mato sem veneno: limpar antes de plantar, canteiro falso, cobertura, enxada, arrancar com a mão e pegar o mato ainda pequeno",
+   "esp": "mato",
+   "serie": "5 cuidados",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "6",
+   "fontePet": null
+  },
+  "e22-006": {
+   "texto": "Gramado com mato: semeie mais grama por cima para ela fechar o espaço",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "6",
+   "fontePet": null
+  },
+  "e22-007": {
+   "texto": "Canteiro vazio? Semeie adubo verde: ele segura o mato e protege a terra",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "6",
+   "fontePet": null
+  },
+  "e22-008": {
+   "texto": "Viu mato? Pergunte \"por que ele nasceu aqui?\". Sabendo o motivo, fica fácil manejar",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "7",
+   "fontePet": null
+  },
+  "e22-009": {
+   "texto": "A terra guarda um \"banco de sementes\" de mato que dura anos; cada vez que você revira, elas sobem e nascem",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "7",
+   "fontePet": null
+  },
+  "e22-010": {
+   "texto": "Muita semente de mato só nasce quando \"sente\" a luz, sinal de que está na superfície",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "7",
+   "fontePet": null
+  },
+  "e22-011": {
+   "texto": "Terra que não é revirada dá menos mato anual: a semente fica em cima e passarinho e inseto comem",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "7",
+   "fontePet": null
+  },
+  "e22-012": {
+   "texto": "Semente pequena de mato não consegue nascer de mais de 5 cm de fundura; por isso a cobertura funciona",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "10",
+   "fontePet": null
+  },
+  "e22-013": {
+   "texto": "Um pé de tasneirinha esquecido pode soltar 25 mil sementes; o normal é 1.500",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "10",
+   "fontePet": null
+  },
+  "e22-014": {
+   "texto": "Mato perene se espalha no quintal mais por pedaço de raiz que vem na terra, no vaso, na ferramenta e na bota",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "10",
+   "fontePet": null
+  },
+  "e22-015": {
+   "texto": "Rizoma é um caule que cresce para baixo, para o lado e depois sobe com broto novo",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "11",
+   "fontePet": null
+  },
+  "e22-016": {
+   "texto": "Estolão é um caule que corre por cima da terra e solta plantas novas",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "12",
+   "fontePet": null
+  },
+  "e22-017": {
+   "texto": "Alpiste e mistura para passarinho podem trazer semente de mato de outros países",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "14",
+   "fontePet": null
+  },
+  "e22-018": {
+   "texto": "Muda de vaso comprada costuma vir com trevinho e agrião-bravo no substrato",
+   "esp": "mato",
+   "serie": "3 erros",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "15",
+   "fontePet": null
+  },
+  "e22-019": {
+   "texto": "Planta de jardim que escapa para o mato pode virar praga: não deixe ela se espalhar fora do quintal",
+   "esp": "mato",
+   "serie": "3 erros",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "15",
+   "fontePet": null
+  },
+  "e22-020": {
+   "texto": "Tem mato de jardim que um dia foi planta ornamental, como a balsamina-do-himalaia",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "15",
+   "fontePet": null
+  },
+  "e22-021": {
+   "texto": "Terra adubada com nitrogênio faz nascer urtiga e ançarinha",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "15",
+   "fontePet": null
+  },
+  "e22-022": {
+   "texto": "O cortador de grama acaba com o mato espinhento, mas o mato em roseta rente ao chão escapa",
+   "esp": "grama",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "16",
+   "fontePet": null
+  },
+  "e22-023": {
+   "texto": "Não enterre semente de mato: enterrada ela dorme e pode esperar décadas para nascer",
+   "esp": "mato",
+   "serie": "3 erros",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "17",
+   "fontePet": null
+  },
+  "e22-024": {
+   "texto": "É preciso impedir mais de 95% do mato anual de soltar semente só para a coisa não piorar",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "17",
+   "fontePet": null
+  },
+  "e22-025": {
+   "texto": "Mito: dá para acabar com todo o mato. O possível é manter num nível aceitável, e quem decide o nível é você",
+   "esp": "mato",
+   "serie": "Mito ou verdade",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "17",
+   "fontePet": null
+  },
+  "e22-026": {
+   "texto": "O \"tapete\" de mato na terra pelada protege o solo e segura nutriente que a chuva levaria",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "19",
+   "fontePet": null
+  },
+  "e22-027": {
+   "texto": "Trevo no gramado e urtiga perto da composteira ajudam muito os bichos do jardim",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "19",
+   "fontePet": null
+  },
+  "e22-028": {
+   "texto": "Deixe um cantinho de mato em paz: ele dá comida e abrigo para os bichos onde você não consegue cuidar",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "19",
+   "fontePet": null
+  },
+  "e22-029": {
+   "texto": "Tem mato que faz várias gerações num ano só, como a tasneirinha e a grama-de-pisoteio",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "23",
+   "fontePet": null
+  },
+  "e22-030": {
+   "texto": "A aliária é mato, mas é comida de lagarta de borboleta: deixe um pouco no canto mais selvagem",
+   "esp": "borboleta",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "25",
+   "fontePet": null
+  },
+  "e22-031": {
+   "texto": "Aliária sai fácil na mão e não rebrota da raiz",
+   "esp": "mato",
+   "serie": "Passo a passo",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "25",
+   "fontePet": null
+  },
+  "e22-032": {
+   "texto": "A semente da ambrósia pode dormir 40 anos na terra; o pólen dela dá muita alergia",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "30",
+   "fontePet": null
+  },
+  "e22-033": {
+   "texto": "Mato que nasce embaixo do comedouro de passarinho costuma vir da semente da ração",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "30",
+   "fontePet": null
+  },
+  "e22-034": {
+   "texto": "O morrião-vermelho fecha a flor quando o tempo fecha: é o \"barômetro do pobre\"",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "34",
+   "fontePet": null
+  },
+  "e22-036": {
+   "texto": "Canteiro falso: prepare a terra, espere o mato nascer, tire tudo e só depois semeie",
+   "esp": "mato",
+   "serie": "Passo a passo",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "34",
+   "fontePet": null
+  },
+  "e22-037": {
+   "texto": "A bolsa-de-pastor solta 5 mil sementes por pé e a semente atrai e mata nematoide: tecnicamente é carnívora",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "37",
+   "fontePet": null
+  },
+  "e22-038": {
+   "texto": "O agrião-bravo (Cardamine) tem vagem que explode e joga semente a 1 metro",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "41",
+   "fontePet": null
+  },
+  "e22-039": {
+   "texto": "O agrião-bravo, antes de florir, vira salada de gosto picante",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "41",
+   "fontePet": null
+  },
+  "e22-040": {
+   "texto": "Comprou planta de vaso? Tire e descarte a camada de cima do substrato para não levar o agrião-bravo junto",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "41",
+   "fontePet": null
+  },
+  "e22-041": {
+   "texto": "Um pé de ançarinha pode soltar 20 mil sementes e rouba água e adubo da horta",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "45",
+   "fontePet": null
+  },
+  "e22-042": {
+   "texto": "A ançarinha era verdura na Inglaterra até o século 17, quando o repolho e o espinafre tomaram o lugar",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "45",
+   "fontePet": null
+  },
+  "e22-043": {
+   "texto": "Ançarinha grande: corte dentro de um balde para não espalhar semente e depois tire a raiz",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "45",
+   "fontePet": null
+  },
+  "e22-044": {
+   "texto": "A buva resiste ao glifosato e por isso vive em calçada e terreno baldio; a semente voa mais de 100 metros",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "49",
+   "fontePet": null
+  },
+  "e22-045": {
+   "texto": "Buva na calçada: raspe ou jogue água fervendo na planta nova",
+   "esp": "mato",
+   "serie": "Socorro",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "49",
+   "fontePet": null
+  },
+  "e22-046": {
+   "texto": "A buva não aguenta terra revirada, e a semente precisa de luz: cobertura funciona bem",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "49",
+   "fontePet": null
+  },
+  "e22-047": {
+   "texto": "A flor da buva chama abelha e mariposa, e a semente alimenta passarinho",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "49",
+   "fontePet": null
+  },
+  "e22-049": {
+   "texto": "Cada fruto espinhento do estramônio tem 600 a 700 sementes, que duram até 40 anos na terra",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "53",
+   "fontePet": null
+  },
+  "e22-050": {
+   "texto": "Estramônio adora terra muito adubada, perto de monte de esterco e composto",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "53",
+   "fontePet": null
+  },
+  "e22-052": {
+   "texto": "As formigas carregam a semente do leiteiro para longe",
+   "esp": "inseto",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "60",
+   "fontePet": null
+  },
+  "e22-053": {
+   "texto": "O picão-branco (fazendeiro) veio do Peru e faz várias gerações num ano; a semente dorme pelo menos dois anos",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "61",
+   "fontePet": null
+  },
+  "e22-054": {
+   "texto": "Picão-branco arrancado e largado no chão ainda solta semente: tire do canteiro",
+   "esp": "mato",
+   "serie": "3 erros",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "61",
+   "fontePet": null
+  },
+  "e22-055": {
+   "texto": "A semente grudenta do amor-de-hortelão pega em bicho e roupa e viaja assim",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "65",
+   "fontePet": null
+  },
+  "e22-056": {
+   "texto": "O amor-de-hortelão (Galium) é comida de lagarta, até da mariposa-beija-flor",
+   "esp": "mariposa",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "65",
+   "fontePet": null
+  },
+  "e22-057": {
+   "texto": "A balsamina-do-himalaia dá muito néctar, mas toma a beira de rio e deixa a margem desbarrancar",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "69",
+   "fontePet": null
+  },
+  "e22-058": {
+   "texto": "A vagem da balsamina explode e joga semente a 7 metros",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "69",
+   "fontePet": null
+  },
+  "e22-059": {
+   "texto": "A alface-brava vira a folha de cima seguindo o sol: chamam de \"planta-bússola\"",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "73",
+   "fontePet": null
+  },
+  "e22-060": {
+   "texto": "Um pé de alface-brava solta 15 mil sementes; a flor amarela é festa para as abelhas",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "73",
+   "fontePet": null
+  },
+  "e22-061": {
+   "texto": "O lâmio-roxo (urtiga-morta) dá néctar cedo, quando as abelhas estão fazendo ninho",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "77",
+   "fontePet": null
+  },
+  "e22-062": {
+   "texto": "A semente do lâmio-roxo tem uma camada de óleo que faz a formiga carregar ela para longe",
+   "esp": "inseto",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "80",
+   "fontePet": null
+  },
+  "e22-063": {
+   "texto": "Lâmio-roxo ajuda os insetos: se der, espere ele florir antes de arrancar, só não deixe soltar semente",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "77",
+   "fontePet": null
+  },
+  "e22-064": {
+   "texto": "Cobertura de 8 cm de matéria orgânica impede o mato que precisa de luz para nascer",
+   "esp": "mato",
+   "serie": "5 cuidados",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "77",
+   "fontePet": null
+  },
+  "e22-065": {
+   "texto": "A flor azul da miosótis-do-campo chama abelha e borboleta, e a folha alimenta lagarta",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "81",
+   "fontePet": null
+  },
+  "e22-066": {
+   "texto": "Um pé de trevinho-amarelo (Oxalis corniculata) pode soltar 26 mil sementes, lançadas pela vagem que explode",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "85",
+   "fontePet": null
+  },
+  "e22-067": {
+   "texto": "O trevinho-amarelo é comido em várias culturas e por isso foi levado para muitos lugares, onde virou mato",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "85",
+   "fontePet": null
+  },
+  "e22-068": {
+   "texto": "O trevinho-amarelo é baixinho e pouco briguento: o estrago é mais estético, e a flor dá néctar para abelha",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "85",
+   "fontePet": null
+  },
+  "e22-069": {
+   "texto": "Trevinho no gramado: rastele para arrancar e adube a grama para ela abafar o resto",
+   "esp": "grama",
+   "serie": "Socorro",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "85",
+   "fontePet": null
+  },
+  "e22-070": {
+   "texto": "Planta nova chegou? Confira se não veio trevinho no vaso antes de levar para o canteiro",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "85",
+   "fontePet": null
+  },
+  "e22-071": {
+   "texto": "A erva-de-bicho (Persicaria) tem uma mancha escura no meio da folha e flor rosa que chama borboleta e abelha",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "90",
+   "fontePet": null
+  },
+  "e22-072": {
+   "texto": "Erva-de-bicho em terra ácida: calcário para subir o pH ajuda a segurar",
+   "esp": "mato",
+   "serie": "Socorro",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "90",
+   "fontePet": null
+  },
+  "e22-073": {
+   "texto": "A grama-de-pisoteio (Poa annua) está quase sempre florida e fecha o ciclo em 6 semanas",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "94",
+   "fontePet": null
+  },
+  "e22-074": {
+   "texto": "A grama-de-pisoteio aguenta pisada, mas amarela na seca e deixa o gramado feio",
+   "esp": "grama",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "94",
+   "fontePet": null
+  },
+  "e22-075": {
+   "texto": "Grama-de-pisoteio no gramado: corte baixo, recolha a grama cortada e semeie grama boa por cima",
+   "esp": "grama",
+   "serie": "Socorro",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "94",
+   "fontePet": null
+  },
+  "e22-076": {
+   "texto": "A sanguinária (Polygonum) forma um tapete de caule duro com raiz que não sai fácil",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "98",
+   "fontePet": null
+  },
+  "e22-077": {
+   "texto": "Semente de sanguinária só nasce quando a terra é revirada e ela vê luz: canteiro sem revirar ajuda",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "98",
+   "fontePet": null
+  },
+  "e22-078": {
+   "texto": "A semente da tasneirinha (Senecio) é comida de pardal e outros passarinhos",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "101",
+   "fontePet": null
+  },
+  "e22-079": {
+   "texto": "Tasneirinha arrancada e deixada na terra, ou jogada na composteira, ainda solta semente",
+   "esp": "mato",
+   "serie": "3 erros",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "101",
+   "fontePet": null
+  },
+  "e22-081": {
+   "texto": "A maria-pretinha pode carregar virose do tomate: tire de perto da horta",
+   "esp": "tomate",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "105",
+   "fontePet": null
+  },
+  "e22-082": {
+   "texto": "Passarinho come a frutinha da maria-pretinha e espalha a semente nas fezes",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "105",
+   "fontePet": null
+  },
+  "e22-083": {
+   "texto": "A serralha chama a mosca-sirfídea, cuja larva come pulgão: deixe uns pés onde der",
+   "esp": "joaninha",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "109",
+   "fontePet": null
+  },
+  "e22-084": {
+   "texto": "A semente da serralha voa até 7 metros e já está pronta uma semana depois da flor",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "112",
+   "fontePet": null
+  },
+  "e22-085": {
+   "texto": "Um pé de serralha pode soltar 20 mil sementes",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "109",
+   "fontePet": null
+  },
+  "e22-086": {
+   "texto": "A morugem (erva-de-passarinho) tem até três gerações por ano e a semente dura mais de cinco anos",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "113",
+   "fontePet": null
+  },
+  "e22-087": {
+   "texto": "A folha nova da morugem é comida de passarinho e vira uma salada de gosto terroso",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "113",
+   "fontePet": null
+  },
+  "e22-088": {
+   "texto": "Morugem: carpa em dia seco e quente; a velha embolada sai com rastelo",
+   "esp": "mato",
+   "serie": "Passo a passo",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "113",
+   "fontePet": null
+  },
+  "e22-089": {
+   "texto": "A semente do carrapichinho (Thlaspi) tem tanto óleo que estudam usar como biocombustível",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "118",
+   "fontePet": null
+  },
+  "e22-090": {
+   "texto": "A urtiga-miúda queima a mão de quem colhe sem luva, mas dá semente para passarinho e substitui o espinafre",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "122",
+   "fontePet": null
+  },
+  "e22-091": {
+   "texto": "Plantio bem fechado faz sombra no mato e ele solta muito menos semente",
+   "esp": "mato",
+   "serie": "5 cuidados",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "122",
+   "fontePet": null
+  },
+  "e22-092": {
+   "texto": "Verônica no gramado resiste a herbicida: adube a grama, rastele para levantar e corte",
+   "esp": "grama",
+   "serie": "Socorro",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "126",
+   "fontePet": null
+  },
+  "e22-093": {
+   "texto": "Mato perene que some no frio imita o aspargo e o morango: por isso é tão difícil de tirar",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "e22-094": {
+   "texto": "Antes de plantar planta perene, limpe o mato; às vezes vale deixar o canteiro vazio uma temporada",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "e22-095": {
+   "texto": "Terra comprada de obra e esterco fresco trazem muita semente de mato: composte o esterco antes",
+   "esp": "mato",
+   "serie": "3 erros",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "e22-096": {
+   "texto": "A mil-folhas tem esse nome científico (Achillea) por causa de Aquiles, que teria usado a planta nos ferimentos dos soldados",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "136",
+   "fontePet": null
+  },
+  "e22-097": {
+   "texto": "A mil-folhas dá muito néctar e pólen e semente para passarinho; aguenta muita seca",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "136",
+   "fontePet": null
+  },
+  "e22-098": {
+   "texto": "Mil-folhas tomando o gramado seco: adube, areje, regue na seca e corte com frequência",
+   "esp": "grama",
+   "serie": "Socorro",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "136",
+   "fontePet": null
+  },
+  "e22-099": {
+   "texto": "O podagrária se espalha pelo rizoma e chega ao quintal em terra e resto de jardim contaminados",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "142",
+   "fontePet": null
+  },
+  "e22-100": {
+   "texto": "Abafar mato perene numa temporada: cubra com plástico preto biodegradável ou camadas grossas de papelão com 15 cm de composto por cima",
+   "esp": "mato",
+   "serie": "Passo a passo",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "142",
+   "fontePet": null
+  },
+  "e22-101": {
+   "texto": "Não jogue mato invasor no terreno baldio ou na beira do rio: destrua no próprio quintal",
+   "esp": "mato",
+   "serie": "3 erros",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "142",
+   "fontePet": null
+  },
+  "e22-102": {
+   "texto": "O alho-selvagem tem folha com gosto de alho e se espalha pelos bulbinhos",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "146",
+   "fontePet": null
+  },
+  "e22-103": {
+   "texto": "Bulbinho de mato rebrota fácil: descarte com cuidado",
+   "esp": "mato",
+   "serie": "5 cuidados",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "146",
+   "fontePet": null
+  },
+  "e22-104": {
+   "texto": "A flor e a folha da margaridinha do gramado (Bellis) se comem na salada",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "150",
+   "fontePet": null
+  },
+  "e22-105": {
+   "texto": "Margaridinha no gramado: tire a roseta com faca, tampe o buraco com terra peneirada e semeie grama",
+   "esp": "grama",
+   "serie": "Passo a passo",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "150",
+   "fontePet": null
+  },
+  "e22-106": {
+   "texto": "Gramado forte expulsa o mato: adubo, escarificar, arejar e semear grama nas falhas",
+   "esp": "grama",
+   "serie": "5 cuidados",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "150",
+   "fontePet": null
+  },
+  "e22-107": {
+   "texto": "A corda-de-viola (Calystegia) quase não dá semente, mas o rizoma branco vai a 30 cm de fundura e um pedacinho rebrota",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "155",
+   "fontePet": null
+  },
+  "e22-108": {
+   "texto": "Semente de corda-de-viola pode durar 40 anos na terra",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "155",
+   "fontePet": null
+  },
+  "e22-109": {
+   "texto": "Corda-de-viola: cubra o canteiro com plástico preto ou papelão com cobertura grossa por um verão inteiro",
+   "esp": "mato",
+   "serie": "Passo a passo",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "155",
+   "fontePet": null
+  },
+  "e22-110": {
+   "texto": "Virou gramado? O cortador elimina a corda-de-viola em dois anos",
+   "esp": "grama",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "155",
+   "fontePet": null
+  },
+  "e22-111": {
+   "texto": "Barreira de plástico grosso enterrada na vertical segura a corda-de-viola do vizinho",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "155",
+   "fontePet": null
+  },
+  "e22-112": {
+   "texto": "O cardo-rasteiro é a segunda planta urbana que mais alimenta inseto; só perde para a tasneira",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "158",
+   "fontePet": null
+  },
+  "e22-113": {
+   "texto": "O cardo-rasteiro se espalha pela raiz, e só 3% das sementes dele nascem",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "158",
+   "fontePet": null
+  },
+  "e22-114": {
+   "texto": "A grama-de-ponta (Elymus) solta brotos em fileira porque o rizoma cresce em linha reta",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "163",
+   "fontePet": null
+  },
+  "e22-115": {
+   "texto": "Esterco fresco com palha e feno pode trazer semente de grama invasora que dorme 5 anos: use só material curtido",
+   "esp": "mato",
+   "serie": "3 erros",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "162",
+   "fontePet": null
+  },
+  "e22-116": {
+   "texto": "Abafando mato com papelão e 15 cm de composto? Dá para plantar no composto enquanto o mato morre embaixo",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "162",
+   "fontePet": null
+  },
+  "e22-117": {
+   "texto": "Um pé de epilóbio pode soltar 80 mil sementes que voam longe",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "166",
+   "fontePet": null
+  },
+  "e22-118": {
+   "texto": "Mato no vão da calçada: água bem quente mata",
+   "esp": "mato",
+   "serie": "Socorro",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "166",
+   "fontePet": null
+  },
+  "e22-119": {
+   "texto": "A cavalinha é parente das samambaias e existe há 325 milhões de anos",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "171",
+   "fontePet": null
+  },
+  "e22-120": {
+   "texto": "A cavalinha guarda sílica no caule; antigamente era usada para arear panela",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "171",
+   "fontePet": null
+  },
+  "e22-121": {
+   "texto": "A cavalinha não aguenta terra revirada, sombra de árvore nem gramado cortado",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "171",
+   "fontePet": null
+  },
+  "e22-122": {
+   "texto": "Cavalinha chega ao quintal na terra comprada: peça terra de fornecedor de confiança",
+   "esp": "mato",
+   "serie": "3 erros",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "171",
+   "fontePet": null
+  },
+  "e22-123": {
+   "texto": "A celidônia-menor se espalha por bulbinhos que nascem até no pé da folha",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "178",
+   "fontePet": null
+  },
+  "e22-124": {
+   "texto": "Para abafar mato de bulbinho: cobertura de pelo menos 10 cm por cima de papelão ou plástico preto",
+   "esp": "mato",
+   "serie": "5 cuidados",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "176",
+   "fontePet": null
+  },
+  "e22-125": {
+   "texto": "A tanchagem gosta de terra pisada; a raiz forte quebra o chão duro e até tira poluente da terra",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "180",
+   "fontePet": null
+  },
+  "e22-126": {
+   "texto": "Semente de tanchagem dura mais de 20 anos na terra; um pé solta 14 mil",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "180",
+   "fontePet": null
+  },
+  "e22-127": {
+   "texto": "A espiga seca da tanchagem fica no pé e alimenta passarinho",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "180",
+   "fontePet": null
+  },
+  "e22-128": {
+   "texto": "Tanchagem no gramado: areje a terra, adube e arranque a raiz inteira com a mão",
+   "esp": "grama",
+   "serie": "Socorro",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "180",
+   "fontePet": null
+  },
+  "e22-130": {
+   "texto": "A samambaia-das-taperas, arrancada nova, vira ótimo composto",
+   "esp": "compostagem",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "186",
+   "fontePet": null
+  },
+  "e22-131": {
+   "texto": "Samambaia invasora: arranque de luva, de novo e de novo; ela enfraquece em alguns anos",
+   "esp": "mato",
+   "serie": "Passo a passo",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "184",
+   "fontePet": null
+  },
+  "e22-132": {
+   "texto": "O botão-de-ouro rasteiro corre por estolão, principalmente quando chove muito",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "187",
+   "fontePet": null
+  },
+  "e22-133": {
+   "texto": "Melhorar a drenagem segura o botão-de-ouro rasteiro",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "187",
+   "fontePet": null
+  },
+  "e22-134": {
+   "texto": "No Japão a sanguinária-japonesa é tímida porque tem inimigos naturais; fora de lá vira praga que nem o veneno segura",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "192",
+   "fontePet": null
+  },
+  "e22-135": {
+   "texto": "Na Inglaterra, a sanguinária-japonesa no terreno pode impedir a venda da casa",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "192",
+   "fontePet": null
+  },
+  "e22-136": {
+   "texto": "A língua-de-vaca (Rumex) tem raiz comprida, solta 7 mil sementes e elas duram mais de cinco anos",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "196",
+   "fontePet": null
+  },
+  "e22-137": {
+   "texto": "Língua-de-vaca grande: cave e tire pelo menos a metade de cima da raiz, que é a parte que rebrota",
+   "esp": "mato",
+   "serie": "Passo a passo",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "196",
+   "fontePet": null
+  },
+  "e22-138": {
+   "texto": "A folha da língua-de-vaca é o remédio caseiro famoso para queimadura de urtiga",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "196",
+   "fontePet": null
+  },
+  "e22-139": {
+   "texto": "A sagina parece musgo, mas tem raiz e dá flor; musgo não tem nenhum dos dois",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "200",
+   "fontePet": null
+  },
+  "e22-140": {
+   "texto": "Sagina no vaso é sinal de rega demais",
+   "esp": "regar",
+   "serie": "3 erros",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "200",
+   "fontePet": null
+  },
+  "e22-141": {
+   "texto": "Gramado com sagina: corte a parte infestada por último e limpe o cortador",
+   "esp": "grama",
+   "serie": "Dica do Andre",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "200",
+   "fontePet": null
+  },
+  "e22-142": {
+   "texto": "Existem mais de 200 tipos de dente-de-leão quase iguais",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "203",
+   "fontePet": null
+  },
+  "e22-143": {
+   "texto": "Um pé de dente-de-leão vive mais de 10 anos e cada \"relógio\" solta umas 5 mil sementes",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "203",
+   "fontePet": null
+  },
+  "e22-144": {
+   "texto": "Se puder, deixe o dente-de-leão: a flor é muito valiosa para os polinizadores",
+   "esp": "abelha",
+   "serie": "Dica do Andre",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "203",
+   "fontePet": null
+  },
+  "e22-145": {
+   "texto": "Enxada no dente-de-leão só espalha pedaço de raiz e faz nascer mais: tire a raiz inteira com garfo",
+   "esp": "mato",
+   "serie": "3 erros",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "203",
+   "fontePet": null
+  },
+  "e22-146": {
+   "texto": "A semente do dente-de-leão chega voando de até 500 metros",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "203",
+   "fontePet": null
+  },
+  "e22-147": {
+   "texto": "Muda de árvore que nasce sozinha: tire nova. Cortar no frio faz rebrotar mais forte",
+   "esp": "mato",
+   "serie": "3 erros",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "210",
+   "fontePet": null
+  },
+  "e22-148": {
+   "texto": "Muda de árvore que nasce sozinha pode crescer 60 cm por ano no canto esquecido",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "210",
+   "fontePet": null
+  },
+  "e22-149": {
+   "texto": "Muda de árvore nascida sozinha pode virar cerca viva de graça, o tipo de divisa que mais ajuda os bichos",
+   "esp": "passarinho",
+   "serie": "Dica do Andre",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "210",
+   "fontePet": null
+  },
+  "e22-150": {
+   "texto": "Semente de árvore viaja pelo vento, pelo passarinho e pelo esquilo que enterra e esquece",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "210",
+   "fontePet": null
+  },
+  "e22-151": {
+   "texto": "O pulgão que vive na árvore vira comida de joaninha e de passarinho",
+   "esp": "joaninha",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "212",
+   "fontePet": null
+  },
+  "e22-152": {
+   "texto": "A amora-preta do mato enraíza pela ponta do ramo e forma moita; passarinho espalha a semente",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "216",
+   "fontePet": null
+  },
+  "e22-153": {
+   "texto": "Amora-brava: tire nova, que o toco velho dá trabalho; no gramado, roçar e cortar acabam com ela aos poucos",
+   "esp": "mato",
+   "serie": "Passo a passo",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "216",
+   "fontePet": null
+  },
+  "e22-154": {
+   "texto": "O banco de sementes de mato fica nos primeiros 25 cm da terra",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "222",
+   "fontePet": null
+  },
+  "e22-155": {
+   "texto": "Canteiro falso: prepare a terra, deixe sem semear, espere o mato nascer e corte raso com enxada sem revirar; depois semeie",
+   "esp": "mato",
+   "serie": "Passo a passo",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "222",
+   "fontePet": null
   }
  }
 }

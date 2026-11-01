@@ -858,8 +858,9 @@
       "data": "2026-10-31"
     },
     "coringa-muda-G-1": {
-      "status": "pendente",
-      "sha256": "cd91d4ae8392a168bdee0d56d59e1e0548ed2534c3fe020f187359991bdeaf0c"
+      "status": "aprovada",
+      "sha256": "cd91d4ae8392a168bdee0d56d59e1e0548ed2534c3fe020f187359991bdeaf0c",
+      "data": "2026-11-01"
     },
     "coringa-muda-H-1": {
       "status": "aprovada",
@@ -1036,8 +1037,9 @@
       "data": "2026-10-31"
     },
     "coringa-trocar-vaso-G-1": {
-      "status": "pendente",
-      "sha256": "3105cdbcc8610c5eb3f38637d610937dc1df4297af0c9c7713a39b4561521d43"
+      "status": "aprovada",
+      "sha256": "3105cdbcc8610c5eb3f38637d610937dc1df4297af0c9c7713a39b4561521d43",
+      "data": "2026-11-01"
     },
     "coringa-trocar-vaso-H-1": {
       "status": "pendente",
@@ -1282,8 +1284,9 @@
       "data": "2026-10-31"
     },
     "haworthia-G-1": {
-      "status": "pendente",
-      "sha256": "88866d62fa10430d408a30cac6410e098d813bdfcd89ca8a1d9a699ca08b5813"
+      "status": "aprovada",
+      "sha256": "88866d62fa10430d408a30cac6410e098d813bdfcd89ca8a1d9a699ca08b5813",
+      "data": "2026-11-01"
     },
     "haworthia-H-1": {
       "status": "aprovada",

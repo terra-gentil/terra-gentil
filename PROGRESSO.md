@@ -5,7 +5,8 @@
 - **Script da galeria salvo:** `Documents\Terra Gentil\ebooks\fabrica\baixar2k.js` (`__baixar2k(a,b)`, 0 = mais nova). As vezes pula uma ("sem 2K"): rodar de novo so aquela.
 - 3 capas refeitas na eng.andrehz (coringa-muda-G-1, haworthia-G-1, coringa-trocar-vaso-G-1): vistoria ok (na haworthia o bone encosta no topo), 2K por `place2k.py`, `importar-cli`, rosto 0,55 a 0,64 (limite 0,363), PENDENTES para o Andre. Testes 229/229.
 - Andre aprovou as 16 fotos do TG 023/024 como estao (01/11). Ajustar a Fotos Ebook TG: quando a cena ja diz onde o mascote fica, nao somar o sufixo "shelf or windowsill" (saiu Gentileza duplicado em ali-var-cravo e zer-var-enxada).
-- **Proximo:** Andre revisa as 3 capas; depois livros novos (Pimenta, Horta de Semente, Arvore no Quintal, Secar e Guardar Ervas, Truques Caseiros).
+- 3 capas aprovadas pelo Andre (01/11, pelo celular), marcadas "aprovada" no `revisao.json`.
+- **Proximo:** livros novos (Pimenta, Horta de Semente, Arvore no Quintal, Secar e Guardar Ervas, Truques Caseiros).
 ## (FEITO) PROXIMA SESSAO: FECHAR FOTOS DO TG 023 E 024 E 3 CAPAS (01/11/2026)
 Conferido no disco: TG 019 a 022 com 8/8 em 2K. Faltam 14 fotos (as de mesmo nome em `ebooks\TG023\` e `TG024\` sao PROVISORIAS de 30/10).
 1. Testar o limite com 1 foto (Pamela primeiro; se barrar, eng.andrehz; trocar sem pedir).

@@ -23,8 +23,8 @@
       "especie": "garden pests",
       "proporcao": "9:16",
       "elenco": true,
-      "cena": "Close-up of a man's hands hanging a plastic bottle trap on a branch of a fruit tree",
-      "mascote": false
+      "cena": "Close-up of a man's hands hanging a plastic bottle trap on a branch of a fruit tree; the small mascot figurine sits at the foot of the tree trunk in the background",
+      "mascote": true
     },
     {
       "id": "ali-sintoma-1",
@@ -63,8 +63,8 @@
       "especie": "Tagetes",
       "proporcao": "3:4",
       "elenco": false,
-      "cena": "Orange marigolds flowering in a vegetable garden",
-      "mascote": false
+      "cena": "Orange marigolds flowering in a vegetable garden; the small mascot figurine peeks out between the flowers, out of focus",
+      "mascote": true
     }
   ]
 }

@@ -3270,6 +3270,25 @@
       "origem": "coringa-muda-F-1.jpg"
     },
     {
+      "id": "coringa-muda-G-1",
+      "arquivo": "coringa-muda/coringa-muda-G-1.jpg",
+      "slug": "coringa-muda",
+      "especie": "coringa-muda",
+      "nome": "muda e semente",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "coringa-muda",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-muda-G-1.jpg"
+    },
+    {
       "id": "coringa-muda-H-1",
       "arquivo": "coringa-muda/coringa-muda-H-1.jpg",
       "slug": "coringa-muda",
@@ -3933,6 +3952,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "coringa-trocar-vaso-F-1.jpg"
+    },
+    {
+      "id": "coringa-trocar-vaso-G-1",
+      "arquivo": "coringa-trocar-vaso/coringa-trocar-vaso-G-1.jpg",
+      "slug": "coringa-trocar-vaso",
+      "especie": "coringa-trocar-vaso",
+      "nome": "trocar de vaso",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "coringa-trocar-vaso",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "coringa-trocar-vaso-G-1.jpg"
     },
     {
       "id": "coringa-trocar-vaso-H-1",
@@ -4826,6 +4864,25 @@
       "largura": 1080,
       "altura": 1350,
       "origem": "haworthia-F-1.jpg"
+    },
+    {
+      "id": "haworthia-G-1",
+      "arquivo": "haworthia/haworthia-G-1.jpg",
+      "slug": "haworthia",
+      "especie": "Haworthiopsis attenuata",
+      "nome": "haworthia-zebra",
+      "cenario": "G",
+      "cenarioNome": "mexendo na terra",
+      "tags": [
+        "haworthia",
+        "mexendo na terra",
+        "andre",
+        "camiseta-oficial",
+        "capa-slide-1"
+      ],
+      "largura": 1080,
+      "altura": 1350,
+      "origem": "haworthia-G-1.jpg"
     },
     {
       "id": "haworthia-H-1",

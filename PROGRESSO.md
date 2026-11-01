@@ -1,5 +1,11 @@
 # PROGRESSO Terra Gentil
-## PROXIMA SESSAO: FECHAR FOTOS DO TG 023 E 024 E 3 CAPAS (01/11/2026)
+## FOTOS DO TG 023 E 024 E 3 CAPAS FECHADAS (01/11/2026, tarde)
+- Limite livre nas duas contas. TG 023 (6 que faltavam) e TG 024 (8) gerados na Pamela; `casar2k.py`: TG 023 e TG 024 com 8/8 em 2K em `ebooks\fotos-flow\originais\`, tratados em `ebooks\TGNNN\`. Previas `TG023-previa.pdf` e `TG024-previa.pdf` remontadas (19 paginas, sem estouro). Avisos da conferencia (corrigir no pos): TG 023 3 de 5, TG 024 7 de 8.
+- **Mascote:** Andre pediu o Gentileza SEM oculos (o `image.png` acenando, aba Envios do seletor) e variando o lugar. Filas ganharam mascote em ali-gesto-3 (pe da arvore), ali-var-cravo (entre os cravos), zer-gesto-1 (borda do vaso), zer-var-enxada (em cima do muro).
+- **Script da galeria salvo:** `Documents\Terra Gentil\ebooks\fabrica\baixar2k.js` (`__baixar2k(a,b)`, 0 = mais nova). As vezes pula uma ("sem 2K"): rodar de novo so aquela.
+- 3 capas refeitas na eng.andrehz (coringa-muda-G-1, haworthia-G-1, coringa-trocar-vaso-G-1): vistoria ok (na haworthia o bone encosta no topo), 2K por `place2k.py`, `importar-cli`, rosto 0,55 a 0,64 (limite 0,363), PENDENTES para o Andre. Testes 229/229.
+- **Proximo:** Andre revisa previas TG 023/024 e as 3 capas; depois livros novos (Pimenta, Horta de Semente, Arvore no Quintal, Secar e Guardar Ervas, Truques Caseiros).
+## (FEITO) PROXIMA SESSAO: FECHAR FOTOS DO TG 023 E 024 E 3 CAPAS (01/11/2026)
 Conferido no disco: TG 019 a 022 com 8/8 em 2K. Faltam 14 fotos (as de mesmo nome em `ebooks\TG023\` e `TG024\` sao PROVISORIAS de 30/10).
 1. Testar o limite com 1 foto (Pamela primeiro; se barrar, eng.andrehz; trocar sem pedir).
 2. Ferramenta Fotos Ebook TG: remontar Elenco 4 fotos + Mascote (busca "andre-rua-1" e "image.png" no seletor; nao recarregar a pagina).

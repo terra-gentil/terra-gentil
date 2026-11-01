@@ -7,7 +7,7 @@
       "especie": "new garden",
       "proporcao": "9:16",
       "elenco": true,
-      "cena": "Close-up of a man's hands setting a shrub seedling with its root ball intact into a planting hole",
+      "cena": "Close-up of a man's hands setting a shrub seedling with its root ball intact into a planting hole; the small mascot figurine sits on the rim of an empty terracotta pot nearby",
       "mascote": true
     },
     {
@@ -39,8 +39,8 @@
       "especie": "garden hoe",
       "proporcao": "3:4",
       "elenco": false,
-      "cena": "A garden hoe leaning against a backyard wall",
-      "mascote": false
+      "cena": "A garden hoe leaning against a backyard wall; the small mascot figurine stands on top of the wall",
+      "mascote": true
     },
     {
       "id": "zer-var-cavadeira",

@@ -1033,6 +1033,12 @@
       "onde": "banco",
       "sha256": "604eb9abefec92b99f43408dd19f26090fc16f5a44eeb45190e2185811775df5"
     },
+    "coringa-muda-G-1": {
+      "nota": 0.6283,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "cd91d4ae8392a168bdee0d56d59e1e0548ed2534c3fe020f187359991bdeaf0c"
+    },
     "coringa-muda-H-1": {
       "nota": 0.5141,
       "rostos": 1,
@@ -1242,6 +1248,12 @@
       "rostos": 1,
       "onde": "banco",
       "sha256": "d8b21e89f57a04c7bf203a024100579f44e404418b3bc14c091297c456dee954"
+    },
+    "coringa-trocar-vaso-G-1": {
+      "nota": 0.6425,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "3105cdbcc8610c5eb3f38637d610937dc1df4297af0c9c7713a39b4561521d43"
     },
     "coringa-trocar-vaso-H-1": {
       "nota": 0.4855,
@@ -1524,6 +1536,12 @@
       "rostos": 1,
       "onde": "banco",
       "sha256": "b84fa01909e5a723588cf0722f7e30b97e2c1f289a6088edccd7ac84032f9d1c"
+    },
+    "haworthia-G-1": {
+      "nota": 0.5507,
+      "rostos": 1,
+      "onde": "banco",
+      "sha256": "88866d62fa10430d408a30cac6410e098d813bdfcd89ca8a1d9a699ca08b5813"
     },
     "haworthia-H-1": {
       "nota": 0.5285,

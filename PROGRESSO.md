@@ -1,4 +1,9 @@
 # PROGRESSO Terra Gentil
+## FOTOS DO FLOW DAS LEVAS 3, 4 E 5 EM ANDAMENTO (01/11/2026, noite)
+- Conta Pamela, ferramenta Fotos Ebook TG (Elenco 4 fotos + Gentileza montados de novo). Esteira por livro: colar fila, Carregar, Gerar, Confirmar (~7 min); "Baixar todas prontas" (1K); recarregar a galeria do projeto em outra aba e `eval(localStorage.b2k); __baixar2k(0,7)` (script guardado no localStorage da galeria da Pamela); `scratchpad\fechar.ps1 TGNNN` (esperar 2k, casar2k, fazer.mjs).
+- FEITOS com 8/8 em 2K e previa remontada: TG 025 a 034 (80 fotos, todas na Pamela, sem limite ate agora). TG 035 gerando. Falta: TG 035 a 039 (leva 4) e TG 040 a 054 (leva 5, 15 filas de 8 = 120).
+- `fechar.ps1 TGNNN TGprox` ja copia a fila do proximo para o clipboard. Na ferramenta: clicar na caixa (600,480), ctrl+a, Delete, ctrl+v em chamadas separadas, Carregar (1151,494), Gerar (1240,556), Confirmar (1018,537). Baixar todas prontas em (1061,556).
+- Avisos para o pos: TG 025 3 de 8 e quase todos 3 de 8. Gentileza saiu duplicado de novo onde a cena ja diz o lugar (sem-var-abobrinha, rod-gesto com mascote): o sufixo "shelf or windowsill" da ferramenta ainda nao foi tirado.
 ## PAGINA DE LIVRO NO SITE: PILOTO TG 010 PRONTO, FALTA R2 E APROVACAO (01/11/2026, noite)
 Rota nova `/guias/[slug]` (piloto `/guias/suculentas-sem-afogar`): uma pagina por livro, com o texto do livro SEM reescrever, fotos com alt, ficha com icones, passos com foto, FAQ, tabela, dados estruturados (Article, FAQ, trilha) e entrada no sitemap. Design vindo do Claude Design web (projeto "Pagina web do livro", zip em Downloads).
 - Arquivos: `app/guias/[slug]/page.tsx` e `Blocos.tsx`, `lib/guias.ts`, `data/guias/*.json`, `public/guias/<slug>/`, bloco `lv-` no fim de `app/globals.css`, `scripts/guias/`.

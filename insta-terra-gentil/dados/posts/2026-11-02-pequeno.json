@@ -1,0 +1,216 @@
+{
+  "dia": "2026-11-02",
+  "palavra": "PEQUENO",
+  "especie": "Epipremnum aureum",
+  "nome": "Jiboia",
+  "tema": null,
+  "serie": "3 erros",
+  "gancho": "Três erros de quem tem jiboia no apartamento e como acertar a rega.",
+  "resumo": "Três erros comuns em apartamento (longe da janela, cachepô sem furo, rega pelo calendário) e dois gestos: o teste do dedo e a rega de pia.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Apartamento",
+      "linha1": "3 erros com a",
+      "linha2": "jiboia no",
+      "linha3": "apartamento",
+      "destaque": "e a rega certa"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Planta longe",
+      "linha2": "da",
+      "destaque": "janela",
+      "texto": "Ficou bonito no canto escuro da sala, mas em apartamento esse é o erro número 1. Chegue a jiboia mais perto da luz.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Plantar direto",
+      "linha2": "no cachepô",
+      "destaque": "sem furos",
+      "texto": "A água não tem para onde sair. Deixe a planta no vaso de plástico e coloque o conjunto dentro do vaso bonito.",
+      "nota": "Quase todo mundo faz isso."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Regar pelo",
+      "linha2": "calendário,",
+      "destaque": "não pela terra",
+      "texto": "Dia fixo da semana não funciona, porque o clima muda. Deixe a terra dizer a hora de regar.",
+      "nota": "Um gesto simples resolve."
+    },
+    {
+      "linha1": "Afunde o dedo",
+      "linha2": "na terra do",
+      "destaque": "vaso",
+      "texto": "Saiu sujo ou úmido? Não regue, espere mais um ou dois dias. Saiu limpo e seco? Hora de regar.",
+      "dica": "Em vaso pequeno, levante: pesado é terra molhada, leve é planta com sede."
+    },
+    {
+      "linha1": "Leve a planta",
+      "linha2": "até a pia e",
+      "destaque": "regue bem",
+      "texto": "Molhe com vontade, até a água sair pelos furos de baixo. Deixe escorrer, seque o fundo e devolva ao lugar.",
+      "dica": "Assim o tapete e o móvel ficam secos, e a terra toda bebe."
+    },
+    {
+      "tarja": "Sinal",
+      "linha1": "Vaso pesado",
+      "linha2": "ou vaso",
+      "destaque": "leve?",
+      "texto": "Vaso pesado quer dizer terra molhada. Vaso leve quer dizer planta com sede. Levantar o vaso ajuda a decidir.",
+      "nota": "Olhe a terra, não o relógio."
+    },
+    {
+      "texto": "Um vaso de cada vez, com calma. Salve este post para a próxima rega.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "Em apartamento, o erro número 1 é deixar a planta longe da janela só porque ficou bonito num canto escuro.",
+      "pagina": 3,
+      "trecho": "o erro número 1 é colocar a planta longe da janela",
+      "fonte": "Jardim Pequeno, Amor Gigante, p. 3"
+    },
+    {
+      "texto": "Não plante direto no vaso decorativo sem furos. Deixe a planta no vaso de plástico e coloque o conjunto dentro do cachepô.",
+      "pagina": 7,
+      "trecho": "Nunca plante diretamente no cachepô sem furos",
+      "fonte": "Jardim Pequeno, Amor Gigante, p. 7"
+    },
+    {
+      "texto": "Regar em dias fixos da semana não funciona, porque o clima muda e a necessidade da planta muda junto.",
+      "pagina": 16,
+      "trecho": "Isso não funciona porque o clima muda",
+      "fonte": "Jardim Pequeno, Amor Gigante, p. 16"
+    },
+    {
+      "texto": "Para testar a terra, afunde a ponta do dedo indicador inteira na terra do vaso.",
+      "pagina": 16,
+      "trecho": "Afunde o dedo indicador na terra do vaso",
+      "fonte": "Jardim Pequeno, Amor Gigante, p. 16"
+    },
+    {
+      "texto": "Se o dedo saiu sujo ou úmido, não regue. Espere mais um ou dois dias.",
+      "pagina": 16,
+      "trecho": "Não regue. Espere mais um ou dois dias.",
+      "fonte": "Jardim Pequeno, Amor Gigante, p. 16"
+    },
+    {
+      "texto": "Para não molhar o tapete ou o móvel, leve a planta até a pia em vez de levar a água até a planta.",
+      "pagina": 8,
+      "trecho": "leve a planta até a água, não a água até a planta",
+      "fonte": "Jardim Pequeno, Amor Gigante, p. 8"
+    },
+    {
+      "texto": "Na pia, molhe toda a terra com vontade, até a água sair pelos furos de baixo.",
+      "pagina": 8,
+      "trecho": "Molhe com vontade, até ver a água saindo abundantemente pelos furos de baixo",
+      "fonte": "Jardim Pequeno, Amor Gigante, p. 8"
+    },
+    {
+      "texto": "Em vaso pequeno ou no alto, levante o vaso: pesado é terra molhada, leve é planta com sede.",
+      "pagina": 16,
+      "trecho": "Vaso pesado = Terra molhada Vaso leve = Planta com sede",
+      "fonte": "Jardim Pequeno, Amor Gigante, p. 16"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "fontes": [
+    "Jardim Pequeno, Amor Gigante, p. 3",
+    "Jardim Pequeno, Amor Gigante, p. 7",
+    "Jardim Pequeno, Amor Gigante, p. 16",
+    "Jardim Pequeno, Amor Gigante, p. 8"
+  ],
+  "materia": {
+    "slug": "jiboia-no-apartamento-3-erros-e-como-regar",
+    "titulo": "Jiboia no apartamento: 3 erros e como regar",
+    "descricao": "Jiboia no apartamento sofre com três erros comuns: planta longe da janela, cachepô sem furo e rega pelo calendário. Veja o teste do dedo e a rega de pia.",
+    "introducao": "Se você mora em apartamento e já se perguntou por que a sua jiboia não vai bem, respire. Quase nunca é falta de carinho. Muitas vezes são pequenos hábitos que ninguém nos avisou. Neste texto, a gente conversa sobre três erros comuns de quem cuida de planta em espaço pequeno e sobre dois gestos simples que ajudam bastante: o teste do dedo e a rega de pia. Tudo com base no ebook Jardim Pequeno, Amor Gigante, do André. Sem culpa e sem receita complicada. O tamanho do jardim é o tamanho do seu afeto, e um vaso de cada vez já é um começo bonito.",
+    "secoes": [
+      {
+        "titulo": "Erro 1: a planta longe da janela",
+        "paragrafos": [
+          "Você compra uma planta linda, olha a sala e pensa: aquele canto escuro vai ficar perfeito. Acontece com todo mundo. Só que o livro aponta justamente isso como o erro número 1 em apartamento: colocar a planta longe da janela porque ficou bonito naquele canto.",
+          "Plantas não são almofadas nem quadros. São seres vivos, e o livro lembra que elas comem luz. Por isso, a ideia mais simples é aproximar a jiboia da janela. Não precisa de reforma nem de gasto. Às vezes, mudar o vaso de lugar já faz diferença. Se a sua jiboia está desanimada, olhe primeiro para onde ela está."
+        ],
+        "fatosUsados": [
+          0
+        ]
+      },
+      {
+        "titulo": "Erro 2: o vaso bonito sem furo",
+        "paragrafos": [
+          "O cachepô é aquele vaso decorativo sem furos, de cerâmica ou cimento. Ele é lindo e todo mundo quer usar. O livro avisa que o problema é plantar direto nele, porque a água não tem para onde sair.",
+          "O jeito certo é manter a planta no vaso de plástico, que tem furinhos, e colocar esse conjunto dentro do cachepô. Assim você fica com a beleza e com a drenagem. O vaso de plástico pode não ser bonito, mas é ele que cuida da raiz. O cachepô vira só uma roupa bonita para o vaso."
+        ],
+        "fatosUsados": [
+          1
+        ]
+      },
+      {
+        "titulo": "Erro 3: regar pelo calendário",
+        "paragrafos": [
+          "Segunda e quinta, todo domingo, de manhã cedo. Quem nunca criou uma rotina assim? O livro pede para esquecer o calendário, porque isso não funciona. O clima muda, e dentro de casa as condições variam ainda mais.",
+          "A boa notícia é que existe um jeito bem mais fácil de saber a hora certa. Em vez de olhar o relógio, olhe a terra. Ela diz quando a planta precisa de água, e você só precisa aprender a escutar."
+        ],
+        "fatosUsados": [
+          2
+        ]
+      },
+      {
+        "titulo": "O teste do dedo, passo a passo",
+        "paragrafos": [
+          "Afunde a ponta do dedo indicador na terra do vaso. O livro fala em uns dois a três centímetros, a ponta do dedo inteira. Depois é só olhar o resultado.",
+          "Se o dedo saiu sujo ou úmido, não regue. Espere mais um ou dois dias e teste de novo. Se saiu limpo e seco, é hora de regar com vontade. Para vaso pequeno ou colocado no alto, existe um truque extra: levante o vaso. Vaso pesado quer dizer terra molhada. Vaso leve quer dizer planta com sede.",
+          "Vale lembrar que o livro não dá um número fixo de regas por semana. Quem manda é a terra, e não o calendário."
+        ],
+        "fatosUsados": [
+          3,
+          4,
+          7
+        ]
+      },
+      {
+        "titulo": "A rega de pia, sem molhar a sala",
+        "paragrafos": [
+          "Muita gente tem medo de regar na sala e molhar o tapete ou o móvel de madeira. A solução do André é simples: leve a planta até a água, e não a água até a planta. Vale para vasos pequenos, que dá para carregar até a pia da cozinha ou o tanque.",
+          "Na pia, molhe toda a terra com vontade, até ver a água saindo pelos furos de baixo. Depois deixe o vaso escorrer por uns quinze minutos. Quando parar de pingar, seque o fundo do vaso com um pano e devolva ao lugar. Assim a terra toda fica úmida, e não só a superfície. É o jeito de ter certeza de que ela bebeu bem."
+        ],
+        "fatosUsados": [
+          5,
+          6
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Quantas vezes por semana devo regar a jiboia?",
+        "resposta": "O livro não dá um número fixo, de propósito. Ele pede para esquecer o calendário. Faça o teste do dedo e regue quando a terra estiver limpa e seca."
+      },
+      {
+        "pergunta": "Posso plantar a jiboia direto no cachepô?",
+        "resposta": "O livro diz para nunca plantar direto no cachepô sem furos. Deixe a planta no vaso de plástico e coloque o conjunto dentro do cachepô."
+      },
+      {
+        "pergunta": "E se eu não souber se a terra está seca?",
+        "resposta": "Use o teste do dedo. Se saiu sujo ou úmido, espere mais um ou dois dias. Em vaso pequeno, levante o vaso: pesado é terra molhada, leve é planta com sede."
+      }
+    ],
+    "conclusao": "Cuidar da jiboia no apartamento pede menos pressa e mais observação. Chegue a planta perto da janela, deixe o vaso de plástico dentro do cachepô e troque o calendário pelo teste do dedo. Se tiver pia por perto, leve o vaso até lá e regue com vontade. Você não precisa acertar tudo de uma vez. Salve este texto para a próxima dúvida e compartilhe com quem também mora em espaço pequeno e quer um cantinho verde. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

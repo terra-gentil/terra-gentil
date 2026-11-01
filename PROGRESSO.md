@@ -1,4 +1,16 @@
 # PROGRESSO Terra Gentil
+## PROXIMA SESSAO: FECHAR FOTOS DO TG 023 E 024 E 3 CAPAS (01/11/2026)
+Conferido no disco: TG 019 a 022 com 8/8 em 2K. Faltam 14 fotos (as de mesmo nome em `ebooks\TG023\` e `TG024\` sao PROVISORIAS de 30/10).
+1. Testar o limite com 1 foto (Pamela primeiro; se barrar, eng.andrehz; trocar sem pedir).
+2. Ferramenta Fotos Ebook TG: remontar Elenco 4 fotos + Mascote (busca "andre-rua-1" e "image.png" no seletor; nao recarregar a pagina).
+3. TG 023: colar so as 6 que faltam da `gama-ebooks/fila-fotos-tg023.json` (ali-gesto-3, ali-sintoma-1, ali-var-cravo, -crisopideo, -joaninha, -libelula), na MESMA conta que gerou ali-gesto-1/2 (Pamela) se der. Carregar, Gerar, Confirmar.
+4. TG 024: fila inteira `fila-fotos-tg024.json` (8: zer-gesto-1 a 3, zer-sintoma-1, zer-var-ancinho, -cavadeira, -enxada, -forcado).
+5. Para cada livro: "Baixar todas prontas" (1K, so para casar); galeria do projeto com a aba em primeiro plano, `__baixar2k(0,N)` (2K); `python -I esperar.py TGNNN 2k`; `python -I casar2k.py TGNNN` (guarda em `fotos-flow\originais\TGNNN\`, trata anti-IA em `ebooks\TGNNN\`); `node fazer.mjs curtos/tgNNN.mjs` remonta a previa.
+6. Conferir 8/8 em `originais\TG023` e `TG024`; abrir as previas para o Andre ver.
+7. Capas Flow (ferramenta Capas TG, eng.andrehz): refazer as 3 barradas por rosto (coringa-trocar-vaso-G-1, haworthia-G-1, coringa-muda-G-1); vistoriar, `importar-cli.mjs`, `verificar_rosto.py --gravar`; ficam PENDENTES para o Andre.
+8. Falha ou reprovada vai para o fim, rodada so delas (sem retry automatico).
+9. PROGRESSO + commit. Depois: livros novos (Pimenta, Horta de Semente, Arvore no Quintal, Secar e Guardar Ervas, Truques Caseiros).
+Pendente do Andre (nao bloqueia): revisar 18 capas refeitas e os PDFs TG 001 a 018 com fotos 2K.
 ## TRAVAS FECHADAS: SAUDE, CLIMA, DIVERGENCIA E PRODUTO (01/11/2026)
 - Andre aprovou. SAUDE (77): 61 liberados (aviso de planta toxica, seiva que irrita, luva, agua cinza, agua fervendo, botulismo, leite no ardido, historia da rosa-canina, agua de rosas); 16 BARRADO (comer planta, beneficio a saude, xixi no composto, "esporo da cancer", "leite de euforbia cega").
 - CLIMA (24): 22 liberados (r20-146 e r20-250 reescritos sem "India"); 2 BARRADO (calendario indiano de estaca e borbulha). DIVERGENCIA: leite contra oidio liberado; cobre e agua de banana BARRADO. PRODUTO: isca de fosfato ferrico BARRADO.

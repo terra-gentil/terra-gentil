@@ -1,4 +1,4 @@
-﻿# PROGRESSO Terra Gentil
+# PROGRESSO Terra Gentil
 ## FOTOS DO TG 023 E 024 E 3 CAPAS FECHADAS (01/11/2026, tarde)
 - Limite livre nas duas contas. TG 023 (6 que faltavam) e TG 024 (8) gerados na Pamela; `casar2k.py`: TG 023 e TG 024 com 8/8 em 2K em `ebooks\fotos-flow\originais\`, tratados em `ebooks\TGNNN\`. Previas `TG023-previa.pdf` e `TG024-previa.pdf` remontadas (19 paginas, sem estouro). Avisos da conferencia (corrigir no pos): TG 023 3 de 5, TG 024 7 de 8.
 - **Mascote:** Andre pediu o Gentileza SEM oculos (o `image.png` acenando, aba Envios do seletor) e variando o lugar. Filas ganharam mascote em ali-gesto-3 (pe da arvore), ali-var-cravo (entre os cravos), zer-gesto-1 (borda do vaso), zer-var-enxada (em cima do muro).

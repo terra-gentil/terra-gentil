@@ -47000,6 +47000,670 @@
    "livro": "Maguire, RHS Red Hot Chilli Grower",
    "pagina": "139",
    "fontePet": null
+  },
+  "w18-099": {
+   "texto": "O nome em inglês da comigo-ninguém-pode é \"bengala muda\": mastigar um pedacinho incha a garganta e a pessoa perde a voz por um tempo",
+   "esp": "comigo-ninguém-pode",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "246",
+   "fontePet": null
+  },
+  "w18-105": {
+   "texto": "Verdade: a comigo-ninguém-pode causa muitos casos de intoxicação sem querer em casa e em viveiro",
+   "esp": "comigo-ninguém-pode",
+   "serie": "Mito ou verdade",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "247",
+   "fontePet": "UFG"
+  },
+  "w18-148": {
+   "texto": "Verdade: algumas formas do filodendro-cordato podem dar alergia na pele; mexa com luva",
+   "esp": "filodendro",
+   "serie": "Mito ou verdade",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "296",
+   "fontePet": null
+  },
+  "w18-175": {
+   "texto": "Não esmague frutinha de arácea com a mão nua: o caldo tem cristais que ardem e queimam até a pele dos dedos",
+   "esp": "outra",
+   "serie": "3 erros",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "351",
+   "fontePet": null
+  },
+  "w18-177": {
+   "texto": "Os cristais das aráceas funcionam como dardos de zarabatana: quando a folha é mordida, as células estouram e disparam agulhinhas que levam o veneno para dentro",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "356",
+   "fontePet": null
+  },
+  "w18-178": {
+   "texto": "A comigo-ninguém-pode é o gênero mais venenoso da família; o caule é mais tóxico que a folha",
+   "esp": "comigo-ninguém-pode",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "358",
+   "fontePet": "UFG"
+  },
+  "w18-179": {
+   "texto": "Ao fazer muda ou podar comigo-ninguém-pode, use luva e não leve a mão ao olho nem à boca: muitos acidentes vêm de contato bobo com a seiva, como coçar o olho",
+   "esp": "comigo-ninguém-pode",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "360",
+   "fontePet": null
+  },
+  "w18-180": {
+   "texto": "Seiva de comigo-ninguém-pode no olho causa inchaço, dor e lacrimejamento e pode atrapalhar a visão por semanas",
+   "esp": "comigo-ninguém-pode",
+   "serie": "3 erros",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "360",
+   "fontePet": null
+  },
+  "w18-181": {
+   "texto": "Verdade: a maioria das intoxicações por comigo-ninguém-pode é de criança pequena, e todo ano há casos com cães; deixe o vaso longe do alcance",
+   "esp": "comigo-ninguém-pode",
+   "serie": "Mito ou verdade",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "360",
+   "fontePet": "UFG"
+  },
+  "w18-182": {
+   "texto": "Quem mexe muito com filodendro pode ter alergia na pele: a planta tem substâncias que dão dermatite de contato",
+   "esp": "filodendro",
+   "serie": "3 erros",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "367",
+   "fontePet": null
+  },
+  "w18-217": {
+   "texto": "Muda de comigo-ninguém-pode: pedaços de caule de 2,5 a 5 cm, cada um com uma gema, deitados sobre o substrato; ou alporque",
+   "esp": "comigo-ninguém-pode",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "404",
+   "fontePet": null
+  },
+  "r20-297": {
+   "texto": "Para fazer água de rosas, as melhores são as vermelho-escuras e bem perfumadas",
+   "esp": "roseira",
+   "serie": "Você sabia?",
+   "livro": "Bhattacharjee, The Complete Book of Roses",
+   "pagina": "317",
+   "fontePet": null
+  },
+  "r20-303": {
+   "texto": "Na Segunda Guerra, sem laranja, a Inglaterra pediu ao povo para colher fruto de roseira para fazer xarope de vitamina C",
+   "esp": "roseira",
+   "serie": "Você sabia?",
+   "livro": "Bhattacharjee, The Complete Book of Roses",
+   "pagina": "321",
+   "fontePet": null
+  },
+  "e22-048": {
+   "texto": "O estramônio (figueira-do-inferno) é tóxico e narcótico: arranque de luva e não deixe soltar semente",
+   "esp": "mato",
+   "serie": "3 erros",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "53",
+   "fontePet": null
+  },
+  "e22-051": {
+   "texto": "Leiteiro (Euphorbia) tem seiva que irrita pele, boca e olhos: arranque de luva e lave as mãos",
+   "esp": "mato",
+   "serie": "3 erros",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "57",
+   "fontePet": null
+  },
+  "e22-080": {
+   "texto": "Maria-pretinha do mato: não coma, porque não se sabe se é venenosa; os passarinhos comem sem problema",
+   "esp": "mato",
+   "serie": "3 erros",
+   "livro": "Barter, What's That Weed?",
+   "pagina": "105",
+   "fontePet": null
+  },
+  "x23-077": {
+   "texto": "Cogumelo de jardim é para olhar, não para comer",
+   "esp": "fungo",
+   "serie": "3 erros",
+   "livro": "Baines, RHS Companion to Wildlife Gardening",
+   "pagina": "424",
+   "fontePet": null
+  },
+  "b24-024": {
+   "texto": "A folha do gerânio pode piorar alergia de pele em quem já tem",
+   "esp": "gerânio",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "658",
+   "fontePet": null
+  },
+  "b24-072": {
+   "texto": "A seiva da alamanda irrita a pele, e a planta faz mal se for comida",
+   "esp": "alamanda",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "505",
+   "fontePet": null
+  },
+  "b24-085": {
+   "texto": "Toda a lantana faz mal se for comida, e a folha pode irritar a pele",
+   "esp": "lantana",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "620",
+   "fontePet": null
+  },
+  "b24-091": {
+   "texto": "Todas as partes da espirradeira são muito tóxicas se ingeridas, e a folha irrita a pele",
+   "esp": "espirradeira",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "646",
+   "fontePet": null
+  },
+  "b24-114": {
+   "texto": "O néctar de algumas azaleias e rododendros faz mal se for ingerido",
+   "esp": "azaleia",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "682",
+   "fontePet": null
+  },
+  "b24-118": {
+   "texto": "A seiva da mandevila irrita a pele e a planta faz mal se for comida",
+   "esp": "mandevila",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "634",
+   "fontePet": null
+  },
+  "b24-125": {
+   "texto": "A folha do tagetes pode piorar alergia de pele em quem já tem",
+   "esp": "tagetes",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "712",
+   "fontePet": null
+  },
+  "b24-136": {
+   "texto": "A folha do girassol pode piorar alergia de pele em quem já tem",
+   "esp": "girassol",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "595",
+   "fontePet": null
+  },
+  "b24-168": {
+   "texto": "Sedum faz mal se for comido e a seiva pode irritar a pele",
+   "esp": "suculenta",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "701",
+   "fontePet": null
+  },
+  "b24-193": {
+   "texto": "A folha da tradescantia pode irritar a pele",
+   "esp": "trapoeraba",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "717",
+   "fontePet": null
+  },
+  "b24-202": {
+   "texto": "O nome inglês da comigo-ninguém-pode é \"cana-muda\", e toda a planta faz muito mal se for mordida ou comida",
+   "esp": "comigo-ninguém-pode",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "566",
+   "fontePet": null
+  },
+  "b24-207": {
+   "texto": "A folha do cróton pode piorar alergia de pele em quem já tem",
+   "esp": "cróton",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "546",
+   "fontePet": null
+  },
+  "b24-223": {
+   "texto": "A seiva do fícus irrita pele e olhos, e a folha faz mal se for comida",
+   "esp": "fícus",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "580",
+   "fontePet": null
+  },
+  "b24-313": {
+   "texto": "O leite das euphorbias irrita a pele e a planta faz muito mal se for comida",
+   "esp": "coroa-de-cristo",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "578",
+   "fontePet": null
+  },
+  "b24-354": {
+   "texto": "O amarílis faz mal se for comido",
+   "esp": "amarílis",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "600",
+   "fontePet": null
+  },
+  "b24-362": {
+   "texto": "A clívia faz mal se for comida e a seiva pode irritar a pele",
+   "esp": "clívia",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "546",
+   "fontePet": null
+  },
+  "b24-366": {
+   "texto": "Todo o crino faz muito mal se for comido e a seiva irrita a pele",
+   "esp": "crino",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "552",
+   "fontePet": null
+  },
+  "b24-396": {
+   "texto": "A folha da alstroeméria pode piorar alergia de pele em quem já tem",
+   "esp": "alstroeméria",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "506",
+   "fontePet": null
+  },
+  "b24-471": {
+   "texto": "Toda a trombeteira (Brugmansia) é muito tóxica se for ingerida",
+   "esp": "trombeteira",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "525",
+   "fontePet": null
+  },
+  "b24-480": {
+   "texto": "A semente da ipomeia é muito tóxica: longe de criança",
+   "esp": "ipomeia",
+   "serie": "3 erros",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "609",
+   "fontePet": null
+  },
+  "b24-489": {
+   "texto": "Toda a glicínia faz muito mal se for comida",
+   "esp": "glicínia",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "727",
+   "fontePet": null
+  },
+  "b24-494": {
+   "texto": "A grevílea pode piorar alergia de pele",
+   "esp": "grevílea",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "591",
+   "fontePet": null
+  },
+  "b24-500": {
+   "texto": "A hortênsia faz mal se for comida e a folha pode piorar alergia de pele",
+   "esp": "hortênsia",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "605",
+   "fontePet": null
+  },
+  "b24-507": {
+   "texto": "O leite do jasmim-manga faz mal se for engolido",
+   "esp": "jasmim-manga",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "669",
+   "fontePet": null
+  },
+  "b24-510": {
+   "texto": "A semente do chapéu-de-napoleão é muito tóxica e o leite também é venenoso",
+   "esp": "chapéu-de-napoleão",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "714",
+   "fontePet": null
+  },
+  "b24-541": {
+   "texto": "O leite de algumas lobélias irrita a pele",
+   "esp": "lobélia",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "627",
+   "fontePet": null
+  },
+  "b24-550": {
+   "texto": "O oficial-de-sala (Asclepias) solta leite branco quando cortado, e o leite irrita a pele",
+   "esp": "oficial-de-sala",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "515",
+   "fontePet": null
+  },
+  "s28-099": {
+   "texto": "A semente da dedaleira é miúda como poeira e faz mal se engolida: mexa com cuidado",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "70",
+   "fontePet": null
+  },
+  "p29-139": {
+   "texto": "Erro comum: pimenta fresca no óleo fora da geladeira. Pode dar botulismo",
+   "esp": "pimenta",
+   "serie": "3 erros",
+   "livro": "Maguire, RHS Red Hot Chilli Grower",
+   "pagina": "131",
+   "fontePet": null
+  },
+  "p29-142": {
+   "texto": "Mito ou verdade: água apaga o ardido da pimenta? Mito. A capsaicina não dissolve na água. Leite ou iogurte ajudam",
+   "esp": "pimenta",
+   "serie": "Mito ou verdade",
+   "livro": "Maguire, RHS Red Hot Chilli Grower",
+   "pagina": "133",
+   "fontePet": null
+  },
+  "q3-260": {
+   "texto": "Em inglês a comigo-ninguém-pode se chama \"cana muda\": a seiva na boca tira a fala por um tempo",
+   "esp": "comigo-ninguém-pode",
+   "serie": "Você sabia?",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "97",
+   "fontePet": null
+  },
+  "q3-261": {
+   "texto": "Não deixe a seiva da comigo-ninguém-pode chegar ao olho",
+   "esp": "comigo-ninguém-pode",
+   "serie": "3 erros",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "97",
+   "fontePet": null
+  },
+  "q3-456": {
+   "texto": "A folha da prímula-obcônica pode dar coceira dolorida no braço e no pulso, pior se estiver molhada",
+   "esp": "prímula",
+   "serie": "3 erros",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "168",
+   "fontePet": null
+  },
+  "w31-091": {
+   "texto": "Mato entre as pedras do quintal: água fervendo da chaleira mata a folha, sem herbicida",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "Akeroyd, Way to Grow",
+   "pagina": "158",
+   "fontePet": null
+  },
+  "g32-457": {
+   "texto": "Água cinza da casa só na terra de planta que vai ser cozida, nunca guardada mais de 24 horas",
+   "esp": "regar",
+   "serie": "3 erros",
+   "livro": "Chamberlain, RHS Grow Food Anywhere",
+   "pagina": "409",
+   "fontePet": null
+  },
+  "m33-097": {
+   "texto": "Lave a mão ou use luva ao mexer no comigo-ninguém-pode: a seiva pode dar alergia",
+   "esp": "comigo-ninguém-pode",
+   "serie": "3 erros",
+   "livro": "RHS, Propagating Plants",
+   "pagina": "1328",
+   "fontePet": null
+  },
+  "m33-143": {
+   "texto": "Cuidado ao mexer na batata da gloriosa: ela irrita a pele",
+   "esp": "gloriosa",
+   "serie": "3 erros",
+   "livro": "RHS, Propagating Plants",
+   "pagina": "1865",
+   "fontePet": null
+  },
+  "m33-174": {
+   "texto": "A semente da glória-da-manhã faz mal se for engolida",
+   "esp": "ipomeia",
+   "serie": "Você sabia?",
+   "livro": "RHS, Propagating Plants",
+   "pagina": "1548",
+   "fontePet": null
+  },
+  "m33-299": {
+   "texto": "Use luva para tirar semente de pimenta: irrita a pele",
+   "esp": "pimenta",
+   "serie": "3 erros",
+   "livro": "RHS, Propagating Plants",
+   "pagina": "1513",
+   "fontePet": null
+  },
+  "q34-033": {
+   "texto": "Água do banho e da pia pode regar, mas teste primeiro numa planta só: produto de limpeza pode matar",
+   "esp": "regar",
+   "serie": "5 cuidados",
+   "livro": "Massey, Resilient Garden",
+   "pagina": "133",
+   "fontePet": null
+  },
+  "h35-186": {
+   "texto": "Lave a mão depois de mexer no pé de tomate: a seiva pode irritar a pele",
+   "esp": "tomate",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "173",
+   "fontePet": null
+  },
+  "i36-200": {
+   "texto": "Batata que pega luz fica verde e não se come. Chegue terra no pé até uns 15 cm",
+   "esp": "batata",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "504",
+   "fontePet": null
+  },
+  "i36-255": {
+   "texto": "Água do banho e da pia pode regar o jardim, desde que sem detergente nem produto de limpeza",
+   "esp": "regar",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Garden When You're New to Gardening",
+   "pagina": "602",
+   "fontePet": null
+  },
+  "w18-055": {
+   "texto": "O copo-de-leite branco fica sempre verde em clima ameno; os coloridos (amarelo, rosa) costumam ter uma fase de dormência todo ano",
+   "esp": "copo-de-leite",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "127",
+   "fontePet": null
+  },
+  "w18-140": {
+   "texto": "Antúrio vermelho comum ou antúrio de rabo enrolado? O comum é mais de flor de corte e não vai tão bem em casa; o de rabo enrolado vem de mata mais alta e fria e aguenta frio e ar seco",
+   "esp": "antúrio",
+   "serie": "X ou Y?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "287",
+   "fontePet": null
+  },
+  "w18-197": {
+   "texto": "A aglaonema \"Queen of Siam\", de folha prateada no centro, é das mais resistentes ao frio",
+   "esp": "aglaonema",
+   "serie": "Você sabia?",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "384",
+   "fontePet": null
+  },
+  "w18-200": {
+   "texto": "Muitas alocasias param e entram em dormência quando a temperatura cai abaixo de uns 7 graus",
+   "esp": "alocasia",
+   "serie": "Socorro",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "384",
+   "fontePet": null
+  },
+  "w18-216": {
+   "texto": "Na época fria, regue pouco a comigo-ninguém-pode",
+   "esp": "comigo-ninguém-pode",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "404",
+   "fontePet": null
+  },
+  "w18-219": {
+   "texto": "Na época fria, segure a rega da jiboia: regue de vez em quando e deixe a terra secar bem entre uma rega e outra",
+   "esp": "jiboia",
+   "serie": "3 erros",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "405",
+   "fontePet": null
+  },
+  "w18-231": {
+   "texto": "A jiboia-prateada (Scindapsus) pede o mesmo da jiboia: luz clara filtrada, rega farta no crescimento, adubo mensal e terra mais seca na época fria",
+   "esp": "jiboia",
+   "serie": "5 cuidados",
+   "livro": "Bown, Aroids: Plants of the Arum Family",
+   "pagina": "413",
+   "fontePet": null
+  },
+  "r20-088": {
+   "texto": "A semente de rosa germina melhor no fresco, entre uns 7 e 18 °C",
+   "esp": "roseira",
+   "serie": "Você sabia?",
+   "livro": "Bhattacharjee, The Complete Book of Roses",
+   "pagina": "106",
+   "fontePet": null
+  },
+  "r20-144": {
+   "texto": "No clima subtropical a roseira não tem um descanso de verdade e pode perder o vigor em poucos anos",
+   "esp": "roseira",
+   "serie": "Você sabia?",
+   "livro": "Bhattacharjee, The Complete Book of Roses",
+   "pagina": "185",
+   "fontePet": null
+  },
+  "r20-146": {
+   "texto": "Em região quente a roseira floresce melhor no inverno; na serra fria, no verão",
+   "esp": "roseira",
+   "serie": "Você sabia?",
+   "livro": "Bhattacharjee, The Complete Book of Roses",
+   "pagina": "185",
+   "fontePet": null
+  },
+  "r20-151": {
+   "texto": "A roseira rende mais de dia entre 20 e 28 °C; abaixo de 13 °C ou acima de 30 °C a flor cai em número e qualidade",
+   "esp": "roseira",
+   "serie": "Você sabia?",
+   "livro": "Bhattacharjee, The Complete Book of Roses",
+   "pagina": "187",
+   "fontePet": null
+  },
+  "r20-174": {
+   "texto": "Em clima tropical ameno, com cuidado, a roseira pode ser plantada em qualquer época do ano",
+   "esp": "roseira",
+   "serie": "Você sabia?",
+   "livro": "Bhattacharjee, The Complete Book of Roses",
+   "pagina": "195",
+   "fontePet": null
+  },
+  "r20-206": {
+   "texto": "Em clima ameno dá para podar roseira o ano todo; podando um pouco a cada mês, há rosa o ano inteiro",
+   "esp": "roseira",
+   "serie": "Você sabia?",
+   "livro": "Bhattacharjee, The Complete Book of Roses",
+   "pagina": "204",
+   "fontePet": null
+  },
+  "r20-208": {
+   "texto": "Em clima quente, o mais indicado é a poda média: corte o galho do ano anterior pela metade, logo acima de uma gema virada para fora",
+   "esp": "roseira",
+   "serie": "5 cuidados",
+   "livro": "Bhattacharjee, The Complete Book of Roses",
+   "pagina": "205",
+   "fontePet": null
+  },
+  "r20-250": {
+   "texto": "Roseira no canteiro: rega uma vez por semana no frio e duas no calor",
+   "esp": "roseira",
+   "serie": "Você sabia?",
+   "livro": "Bhattacharjee, The Complete Book of Roses",
+   "pagina": "242",
+   "fontePet": null
+  },
+  "b24-161": {
+   "texto": "A echeveria fica mais colorida nos meses frios",
+   "esp": "suculenta",
+   "serie": "Você sabia?",
+   "livro": "Brickell, RHS Encyclopedia of Plants and Flowers",
+   "pagina": "570",
+   "fontePet": null
+  },
+  "q3-269": {
+   "texto": "Fatsia não gosta de calor forte: prefira canto claro, sem sol direto",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "99",
+   "fontePet": null
+  },
+  "q3-280": {
+   "texto": "Hera prefere fresco: evite calor forte e dê luz indireta",
+   "esp": "hera",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "103",
+   "fontePet": null
+  },
+  "q3-341": {
+   "texto": "Tradescântia prefere luz indireta e não gosta de calor forte",
+   "esp": "tradescântia",
+   "serie": "5 cuidados",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "123",
+   "fontePet": null
+  },
+  "q3-500": {
+   "texto": "Cacto-amendoim em lugar quente no frio não forma botão",
+   "esp": "cacto-amendoim",
+   "serie": "3 erros",
+   "livro": "Squire, The Houseplant Handbook",
+   "pagina": "188",
+   "fontePet": null
+  },
+  "w31-070": {
+   "texto": "Contra oídio: tire as folhas atacadas e borrife uma parte de leite para duas de água, também embaixo da folha",
+   "esp": "abobrinha",
+   "serie": "Dica do Andre",
+   "livro": "Akeroyd, Way to Grow",
+   "pagina": "135",
+   "fontePet": null
+  },
+  "m33-044": {
+   "texto": "Buganvília pega de estaca e de mergulhia; onde a estaca falha, a mergulhia costuma funcionar melhor",
+   "esp": "buganvília",
+   "serie": "5 cuidados",
+   "livro": "RHS, Propagating Plants",
+   "pagina": "810",
+   "fontePet": null
+  },
+  "h35-252": {
+   "texto": "Alho precisa de um período de frio para formar a cabeça",
+   "esp": "alho",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "232",
+   "fontePet": null
   }
  }
 }

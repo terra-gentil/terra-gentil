@@ -1,4 +1,10 @@
 # PROGRESSO Terra Gentil
+## TRAVAS FECHADAS: SAUDE, CLIMA, DIVERGENCIA E PRODUTO (01/11/2026)
+- Andre aprovou. SAUDE (77): 61 liberados (aviso de planta toxica, seiva que irrita, luva, agua cinza, agua fervendo, botulismo, leite no ardido, historia da rosa-canina, agua de rosas); 16 BARRADO (comer planta, beneficio a saude, xixi no composto, "esporo da cancer", "leite de euforbia cega").
+- CLIMA (24): 22 liberados (r20-146 e r20-250 reescritos sem "India"); 2 BARRADO (calendario indiano de estaca e borbulha). DIVERGENCIA: leite contra oidio liberado; cobre e agua de banana BARRADO. PRODUTO: isca de fosfato ferrico BARRADO.
+- e22-035 (morrião venenoso para pet) segue fora: marca PET sem fonte veterinaria.
+- biblia.json 5.875 -> 5.958 fatos. Nenhuma trava pendente nos estudos. Testes 229/229 e 86/86. Scripts `saude.py` e `clima.py` e backups (`biblia-antes-saude.json`, `estudo-antes-saude`, `estudo-antes-clima`) no scratchpad da sessao cb3fa19d.
+- **Proximo:** Andre escolher o primeiro livro a escrever (Pimenta, Horta de Semente, Arvore no Quintal, Secar e Guardar Ervas, Truques Caseiros).
 ## BIBLIA 31 WAY TO GROW (AKEROYD) E 29 PIMENTA (MAGUIRE) ESTUDADOS INTEIROS (01/11/2026) - FECHA OS OPCIONAIS
 - 31 Way to Grow: 114 truques lidos inteiros (semear, estaca, reaproveitar papelao/galao/palete, lesma, joaninha, rotacao, plantas companheiras, chorume de urtiga e confrei, minhocario, composto, canteiro sem cavar, rega de ferias, olla, abelha no regador, poda, terrario, horta fechadura). 200 fatos em `inteligencia-carrossel\estudo\31-way-01.md` (ids w31-001 a w31-200), trechos 0 falhas. Truque sem base (cobre, leite no oidio, agua de banana) marcado DIVERGENCIA; agua fervendo, xixi no composto, comer dalia e hemerocale marcados SAUDE.
 - 29 Red Hot Chilli Grower: OCR copiado para `fonte\29-...\inteiro.txt`. Livro lido inteiro (especies, ardido, semear, vaso, rega, adubo, desponte, polinizacao, colher, semente, passar o frio, problemas, pragas, variedades, secar, restia, congelar). 145 fatos em `estudo\29-pimenta-01.md` (ids p29-001 a p29-145), trechos 0 falhas. Receitas fora; saude, oleo e conserva SAUDE; isca de lesma PRODUTO.

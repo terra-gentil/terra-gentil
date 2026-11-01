@@ -1,4 +1,25 @@
 # PROGRESSO Terra Gentil
+## LEVA 4: TG 030 A 039 ESCRITOS, FOTOS DO FLOW PENDENTES (01/11/2026, noite)
+Roteiros curtos em `ebooks\fabrica\curtos\tg030.mjs` a `tg039.mjs` (19 paginas, sem estouro, `validar.mjs` ok), previas com fotos PROVISORIAS do banco em `ebooks\TG030-previa.pdf` a `TG039-previa.pdf`. Filas do Flow geradas por `fabrica\filas3.mjs` em `gama-ebooks/fila-fotos-tg030.json` a `tg039.json` (80 fotos, Gentileza sem oculos, 2 por fila, lugar dito na cena).
+| Livro | Titulo | Palavra da capa | Prefixo | Comente (proximo) |
+|---|---|---|---|---|
+| 030 | Roseira Doente | ROSA | rod | PODA |
+| 031 | Poda de Roseira | PODA | por | ESTACA |
+| 032 | Muda de Rosa | ESTACA | mur | ANTURIO |
+| 033 | Antúrio | ANTÚRIO | ant | COSTELA |
+| 034 | Costela-de-adão | COSTELA | cos | JIBOIA |
+| 035 | Jiboia e Filodendro | JIBOIA | jib | PAZ |
+| 036 | Lírio-da-paz | PAZ | paz | BROMELIA |
+| 037 | Bromélias | BROMÉLIA | bro | SAMAMBAIA |
+| 038 | Samambaias | SAMAMBAIA | sam | MORANGO |
+| 039 | Morango no Vaso | MORANGO | mor | BROTO |
+- TG 039 promete o TG 040 MICROVERDES (palavra BROTO); a biblia tem 41 fatos de microverde e broto ainda livres.
+- **Para o Andre decidir no QA:** TG 037 pagina 14 (Alerta DENGUE) diz "No Brasil, troque a agua do copinho toda semana". Os livros (Squire) falam em 3 ou 4 semanas; a troca semanal e orientacao de saude publica, nao fato da biblia. Ficha do 037 tambem diz "Agua nova toda semana".
+- Palavra grande do "Voce sabia?" so com ate 4 letras (HORAS estourou +107 px no TG 030; troquei por MIL). Usadas: MIL, CM, ANOS, DIAS.
+- Fatos de cuidado do lirio-da-paz e do antúrio sao poucos (sem fato de luz): a ficha usa "como na mata" (w18-087, w18-092) e "sem sol direto" (w18-026).
+- Coringas do banco so tem as letras A, B, C, F, G, H (sem D e E).
+- **Proximo:** gerar as 40 fotos da leva 3 (TG 025 a 029) e as 80 da leva 4 (TG 030 a 039) no Flow, mesmo fluxo de sempre (Fotos Ebook TG, lotes de 9, trocar Pamela/eng.andrehz sem pedir, `__baixar2k`, `esperar.py`, `casar2k.py TGNNN`, `node fazer.mjs curtos/tgNNN.mjs`). Depois TG 040 Microverdes e seguintes.
+- Atencao no commit: o git do terra-gentil tem mudancas que nao sao desta leva (app/globals.css, app/sitemap.ts, lib/constants.ts, app/guias, data/guias, lib/guias.ts, public/guias, scripts/). Ficaram fora do commit da leva 4.
 ## LEVA 3: TG 025 A 029 ESCRITOS, FOTOS DO FLOW PENDENTES (01/11/2026, noite)
 Roteiros curtos em `ebooks\fabrica\curtos\tg025.mjs` a `tg029.mjs` (19 paginas, sem estouro, `validar.mjs` ok), previas com fotos PROVISORIAS do banco em `ebooks\TG025-previa.pdf` a `TG029-previa.pdf`. Filas do Flow escritas a mao (Gentileza sem oculos, 2 por fila, lugar dito na cena) em `gama-ebooks/fila-fotos-tg025.json` a `tg029.json`.
 | Livro | Titulo | Palavra | Prefixo |

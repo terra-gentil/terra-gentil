@@ -1,0 +1,70 @@
+{
+  "livro": "TG 036",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "paz-gesto-1",
+      "especie": "peace lily",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands lifting a peace lily clump out of its pot",
+      "mascote": false
+    },
+    {
+      "id": "paz-gesto-2",
+      "especie": "peace lily",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands dividing a peace lily clump into parts with leaves and roots; the small mascot figurine sits on the edge of the potting bench",
+      "mascote": true
+    },
+    {
+      "id": "paz-gesto-3",
+      "especie": "peace lily",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands replanting a peace lily division in its own pot",
+      "mascote": false
+    },
+    {
+      "id": "paz-sintoma-1",
+      "especie": "peace lily",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Peace lily with one old flower turned green next to fresh white flowers",
+      "mascote": false
+    },
+    {
+      "id": "paz-var-maunaloa",
+      "especie": "peace lily",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Peace lily Mauna Loa blooming in a pot",
+      "mascote": false
+    },
+    {
+      "id": "paz-var-sensation",
+      "especie": "giant peace lily",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Giant peace lily Sensation with huge leaves in a living room corner; the small mascot figurine sits on the floor beside the pot",
+      "mascote": true
+    },
+    {
+      "id": "paz-var-copo",
+      "especie": "white calla lily",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "White calla lilies growing at the edge of a small garden pond",
+      "mascote": false
+    },
+    {
+      "id": "paz-var-goddess",
+      "especie": "green goddess calla lily",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Green Goddess calla lily with green and white flowers",
+      "mascote": false
+    }
+  ]
+}

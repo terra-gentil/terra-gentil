@@ -1,0 +1,70 @@
+{
+  "livro": "TG 030",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "rod-gesto-1",
+      "especie": "potted rose bush",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pulling off a rose leaf covered with round black spots; the small mascot figurine sits on the rim of the terracotta pot",
+      "mascote": true
+    },
+    {
+      "id": "rod-gesto-2",
+      "especie": "potted rose bush",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands picking up fallen yellow spotted rose leaves from the soil of a pot",
+      "mascote": false
+    },
+    {
+      "id": "rod-gesto-3",
+      "especie": "potted rose bush",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand watering the base of a rose bush with a small watering can, keeping the leaves dry",
+      "mascote": false
+    },
+    {
+      "id": "rod-sintoma-1",
+      "especie": "rose leaf",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Close-up of a rose leaf turning yellow between green veins, interveinal chlorosis",
+      "mascote": false
+    },
+    {
+      "id": "rod-var-pulgao",
+      "especie": "rose bud with aphids",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Macro of many small green aphids clustered on a young rose bud",
+      "mascote": false
+    },
+    {
+      "id": "rod-var-manchapreta",
+      "especie": "rose leaf",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Rose leaf with round black spots with fringed edges, yellowing around them",
+      "mascote": false
+    },
+    {
+      "id": "rod-var-oidio",
+      "especie": "rose bud",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Rose bud and leaves covered with white powdery mildew",
+      "mascote": false
+    },
+    {
+      "id": "rod-var-cochonilha",
+      "especie": "rose stem",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Old rose stem covered with small brown scale insects; the small mascot figurine stands at the foot of the stem on the soil",
+      "mascote": true
+    }
+  ]
+}

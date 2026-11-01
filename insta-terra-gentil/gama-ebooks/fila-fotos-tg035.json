@@ -1,0 +1,70 @@
+{
+  "livro": "TG 035",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "jib-gesto-1",
+      "especie": "pothos",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's finger pointing at a node on a pothos vine",
+      "mascote": false
+    },
+    {
+      "id": "jib-gesto-2",
+      "especie": "pothos",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a 10 cm piece of pothos vine with a node; the small mascot figurine sits on the shelf beside the pot",
+      "mascote": true
+    },
+    {
+      "id": "jib-gesto-3",
+      "especie": "pothos",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting pothos cuttings in a small pot",
+      "mascote": false
+    },
+    {
+      "id": "jib-sintoma-1",
+      "especie": "philodendron",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Philodendron with yellow scorched leaves next to a window with strong direct sun",
+      "mascote": false
+    },
+    {
+      "id": "jib-var-jiboia",
+      "especie": "golden pothos",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Golden pothos with large leaves climbing a moss pole",
+      "mascote": false
+    },
+    {
+      "id": "jib-var-marble",
+      "especie": "marble queen pothos",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Marble Queen pothos with white and green marbled leaves",
+      "mascote": false
+    },
+    {
+      "id": "jib-var-cordato",
+      "especie": "heartleaf philodendron",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Heartleaf philodendron trailing down from a high shelf; the small mascot figurine sits on the shelf next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "jib-var-singonio",
+      "especie": "syngonium",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Syngonium with arrow-shaped leaves in a pot",
+      "mascote": false
+    }
+  ]
+}

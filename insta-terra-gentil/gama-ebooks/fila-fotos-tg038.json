@@ -1,0 +1,70 @@
+{
+  "livro": "TG 038",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "sam-gesto-1",
+      "especie": "boston fern",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands removing old dry fronds from a boston fern",
+      "mascote": false
+    },
+    {
+      "id": "sam-gesto-2",
+      "especie": "boston fern",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands dividing a fern clump into two large parts; the small mascot figurine sits on the potting bench",
+      "mascote": true
+    },
+    {
+      "id": "sam-gesto-3",
+      "especie": "boston fern",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands replanting a fern division in a pot with moist soil",
+      "mascote": false
+    },
+    {
+      "id": "sam-sintoma-1",
+      "especie": "fern frond",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Underside of a fern frond with rows of brown spore dots",
+      "mascote": false
+    },
+    {
+      "id": "sam-var-americana",
+      "especie": "boston fern",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Full boston fern hanging on a shaded balcony",
+      "mascote": false
+    },
+    {
+      "id": "sam-var-avenca",
+      "especie": "maidenhair fern",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Maidenhair fern with delicate leaflets on black wiry stems",
+      "mascote": false
+    },
+    {
+      "id": "sam-var-ninho",
+      "especie": "bird's nest fern",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Bird's nest fern with wide leaves forming a funnel",
+      "mascote": false
+    },
+    {
+      "id": "sam-var-chifre",
+      "especie": "staghorn fern",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Staghorn fern mounted on a wooden board on a wall; the small mascot figurine sits on top of the board",
+      "mascote": true
+    }
+  ]
+}

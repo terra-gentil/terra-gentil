@@ -1,0 +1,70 @@
+{
+  "livro": "TG 037",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "bro-gesto-1",
+      "especie": "bromeliad",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a bromeliad pup at the base of the mother plant with a sharp knife",
+      "mascote": false
+    },
+    {
+      "id": "bro-gesto-2",
+      "especie": "bromeliad pup",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "A bromeliad pup with its cut drying on a cloth; the small mascot figurine sits next to the pup on the table",
+      "mascote": true
+    },
+    {
+      "id": "bro-gesto-3",
+      "especie": "bromeliad pup",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting a bromeliad pup in a pot with a thin support stick",
+      "mascote": false
+    },
+    {
+      "id": "bro-sintoma-1",
+      "especie": "bromeliad",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Old bromeliad drying after flowering, with green pups at its base",
+      "mascote": false
+    },
+    {
+      "id": "bro-var-guzmania",
+      "especie": "guzmania",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Guzmania with a red flower bract in a pot",
+      "mascote": false
+    },
+    {
+      "id": "bro-var-neoregelia",
+      "especie": "neoregelia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Neoregelia with the center leaves turned red",
+      "mascote": false
+    },
+    {
+      "id": "bro-var-prata",
+      "especie": "aechmea fasciata",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Aechmea fasciata with silver banded leaves and a pink flower; the small mascot figurine sits beside the pot on the balcony floor",
+      "mascote": true
+    },
+    {
+      "id": "bro-var-tilandsia",
+      "especie": "tillandsia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tillandsia air plant mounted on a piece of wood",
+      "mascote": false
+    }
+  ]
+}

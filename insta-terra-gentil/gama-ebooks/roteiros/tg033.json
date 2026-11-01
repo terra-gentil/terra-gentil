@@ -1,0 +1,553 @@
+{
+  "livro": "TG 033",
+  "titulo": "Antúrio",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "033",
+        "COLEÇÃO TERRA GENTIL",
+        "ANTÚRIO",
+        "Antúrio",
+        "Flor o ano todo, sem afogar.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "anturio-A-1.jpg",
+          "alt": "André com um antúrio florido"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "w18-005",
+        "w18-090",
+        "w18-089"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "A flor vermelha do antúrio nem é flor.",
+        "E ele vive em árvore e encosta, onde a água escorre na hora.",
+        "Aqui eu te mostro a terra, a rega e como fazer muda dele.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Enfie o dedo na terra do seu antúrio: está encharcada?",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 033 ANTÚRIO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "anturio-B-1.jpg",
+          "alt": "André olhando um antúrio de perto"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "w18-090",
+        "w18-089",
+        "w18-026"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Drenagem acima de tudo.",
+        "Ele gosta de ar úmido, mas detesta terra encharcada.",
+        "AR ÚMIDO",
+        "Um banho de vez em quando faz bem.",
+        "Sol direto, não.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 033 ANTÚRIO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do antúrio",
+        "06",
+        "CAPÍTULO 1",
+        "Terra e vaso",
+        "08",
+        "CAPÍTULO 2",
+        "Plantar e regar",
+        "12",
+        "CAPÍTULO 3",
+        "Adubo e muda",
+        "15",
+        "CAPÍTULO 4",
+        "Antúrios de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Antúrio murcho e raiz mole? Vá para a página 11.",
+        "Na próxima: a ficha do antúrio",
+        "→",
+        "TG 033 ANTÚRIO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "w18-026",
+        "w18-089",
+        "w18-190",
+        "q3-362",
+        "q3-207",
+        "g16-21"
+      ],
+      "textos": [
+        "FICHA DO ANTÚRIO",
+        "Antes de plantar",
+        "O que ele pede",
+        "LUZ",
+        "Clara, sem sol direto",
+        "ÁGUA",
+        "Ar úmido, terra que escorre",
+        "TERRA",
+        "Leve, com casca e carvão",
+        "VASO",
+        "Troca a cada 2 ou 3 anos",
+        "ADUBO",
+        "Líquido fraco",
+        "PET",
+        "ATENÇÃO",
+        "Cautela com gato",
+        "Na próxima: terra e vaso",
+        "→",
+        "TG 033 ANTÚRIO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Terra e vaso",
+        "01",
+        "Terra certa",
+        "02",
+        "Plantar, passo a passo",
+        "03",
+        "Raiz mole",
+        "Na próxima: terra certa",
+        "→",
+        "TG 033 ANTÚRIO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "anturio-C-1.jpg",
+          "alt": "André com um vaso de antúrio"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "w18-090",
+        "w18-202",
+        "q3-362",
+        "w18-203"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · A TERRA",
+        "Terra certa",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Terra",
+        "Leve, aerada",
+        "Pesada",
+        "Coroa",
+        "Acima da terra",
+        "Enterrada",
+        "Água",
+        "Escorre na hora",
+        "Empoça",
+        "Vaso",
+        "Raiz encheu",
+        "Todo ano",
+        "Receita: 1 de terra, 1 de areia grossa, 2 de folha curtida.",
+        "DICA DO ANDRÉ",
+        "Um pouco de carvão na mistura ajuda.",
+        "Na próxima: plantar e regar",
+        "→",
+        "TG 033 ANTÚRIO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Plantar e regar",
+        "01",
+        "Plantar, passo a passo",
+        "02",
+        "A rega certa",
+        "03",
+        "Raiz mole",
+        "Na próxima: plantar, passo a passo",
+        "→",
+        "TG 033 ANTÚRIO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "anturio-D-1.jpg",
+          "alt": "André plantando um antúrio"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "w18-190",
+        "w18-202",
+        "w18-188",
+        "q3-362"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Plantar o antúrio? Faça assim.",
+        "QUANDO",
+        "A raiz encheu o vaso",
+        "TEMPO",
+        "30 minutos",
+        "PRECISA",
+        "Vaso que escorre bem",
+        "1",
+        "MISTURA",
+        "Casca, esfagno e carvão.",
+        "2",
+        "COROA ALTA",
+        "Um pouco acima da terra.",
+        "3",
+        "ESFAGNO",
+        "Uma camada por cima.",
+        "DICA DO ANDRÉ",
+        "Recém-plantado, ele pega melhor na sombra e com ar úmido.",
+        "Na próxima: a rega certa",
+        "→",
+        "TG 033 ANTÚRIO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ant-gesto-1.jpg",
+          "alt": "Mãos misturando casca, musgo e carvão numa bacia"
+        },
+        {
+          "src": "ant-gesto-2.jpg",
+          "alt": "Mãos assentando o antúrio com a coroa acima da terra"
+        },
+        {
+          "src": "ant-gesto-3.jpg",
+          "alt": "Mãos cobrindo a terra do vaso com musgo esfagno"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "w18-089",
+        "q3-206",
+        "q3-361",
+        "k9-283"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · REGA",
+        "A rega certa",
+        "Ar úmido, sim. Terra encharcada, nunca.",
+        "No calor, água à vontade, com o vaso escoando.",
+        "No frio, deixe a terra quase seca.",
+        "Mas nunca seca de vez.",
+        "Em dia quente, borrife água fresca nas folhas.",
+        "Na próxima: raiz mole",
+        "→",
+        "TG 033 ANTÚRIO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "w18-089",
+        "w18-090"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Antúrio murcho e raiz mole?",
+        "1",
+        "O QUE PARECE",
+        "Falta de água.",
+        "O QUE PODE SER",
+        "Terra encharcada, sem dreno.",
+        "COMO RESOLVER",
+        "Terra leve e vaso que escorre.",
+        "Na próxima: adubo e muda",
+        "→",
+        "TG 033 ANTÚRIO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ant-sintoma-1.jpg",
+          "alt": "Antúrio murcho num vaso com terra encharcada"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Adubo e muda",
+        "01",
+        "Adubo e banho",
+        "02",
+        "Muda de antúrio",
+        "03",
+        "Antúrios de perto",
+        "Na próxima: adubo e banho",
+        "→",
+        "TG 033 ANTÚRIO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "anturio-E-1.jpg",
+          "alt": "André borrifando um antúrio"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "q3-207",
+        "w18-203",
+        "k9-283",
+        "w18-202",
+        "w18-026"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ADUBO",
+        "Adubo e banho",
+        "QUANDO",
+        "Enquanto ele cresce",
+        "DE NOVO EM",
+        "A cada 2 ou 3 semanas",
+        "VOCÊ VAI PRECISAR",
+        "Adubo líquido",
+        " bem fraco",
+        "Esterco",
+        " curtido, na mistura",
+        "Borrifador",
+        " para dia quente",
+        "Esfagno",
+        " em cima da terra",
+        "Cuidado",
+        "Sol direto",
+        " sofre a folha",
+        "Vento forte",
+        " maltrata a folha",
+        "Na próxima: muda de antúrio",
+        "→",
+        "TG 033 ANTÚRIO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "w18-204",
+        "m33-027",
+        "q3-208"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · MUDA",
+        "ATENÇÃO",
+        "Antúrio comprido e pelado embaixo vira muda.",
+        "Corte a ponta e enraíze, ou separe os brotos da base.",
+        "A raiz é frágil: mexa com cuidado.",
+        "FAÇA ASSIM",
+        "Cada pedaço leva um ponto de crescimento.",
+        "Dividido, ele floresce em 1 a 2 anos.",
+        "Na próxima: quatro antúrios",
+        "→",
+        "TG 033 ANTÚRIO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "w18-064",
+        "w18-091",
+        "w18-065",
+        "w18-207"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro antúrios",
+        "1",
+        "Vermelho",
+        "O clássico.",
+        "2",
+        "Rabo enrolado",
+        "Aguenta a casa.",
+        "3",
+        "Cristal",
+        "Folha de veludo.",
+        "4",
+        "Rosinha",
+        "Muitas flores.",
+        "CHAVE",
+        "Terra que escorre",
+        "Ar úmido",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 033 ANTÚRIO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ant-var-vermelho.jpg",
+          "alt": "Antúrio vermelho clássico num vaso"
+        },
+        {
+          "src": "ant-var-enrolado.jpg",
+          "alt": "Antúrio de rabo enrolado, com a espiga em espiral"
+        },
+        {
+          "src": "ant-var-cristal.jpg",
+          "alt": "Antúrio-cristal com folha de veludo e nervuras claras"
+        },
+        {
+          "src": "ant-var-rosinha.jpg",
+          "alt": "Antúrio rosinha cheio de flores pequenas"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "w18-206",
+        "w18-009",
+        "w18-204",
+        "w18-205",
+        "w18-175"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "FLOR FICOU VERDE",
+        "Normal em alguns rosas.",
+        "RABINHO GRUDENTO",
+        "Fase da flor. Normal.",
+        "PELADO EMBAIXO",
+        "Hora de fazer muda.",
+        "SEMENTE NÃO NASCE",
+        "Leva meses. Paciência.",
+        "DICA DO ANDRÉ",
+        "Não esmague a frutinha com a mão: o caldo arde.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 033 ANTÚRIO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "w18-027",
+        "w18-007"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "1",
+        "MIL",
+        "espécies de antúrio existem: é o maior grupo da família dele.",
+        "A família toda tem umas 3.500.",
+        "E MAIS UMA",
+        "Antúrio quer dizer flor com cauda, por causa do rabinho do meio.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 033 ANTÚRIO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "w18-090",
+        "w18-202",
+        "w18-089",
+        "w18-026",
+        "q3-207",
+        "q3-362",
+        "g16-21"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Terra leve que escorre",
+        "Coroa acima da terra",
+        "Esfagno por cima",
+        "Ar úmido, terra não",
+        "Sem sol direto",
+        "Adubo fraco ao crescer",
+        "Vaso novo a cada 2 ou 3 anos",
+        "Longe do gato",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 033 ANTÚRIO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se o seu antúrio soltar flor nova, me conta. E dá um filhote dele para alguém. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "033",
+        "VOCÊ TEM",
+        "034",
+        "035",
+        "036",
+        "037",
+        "038",
+        "São 33 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 034 COSTELA-DE-ADÃO",
+        "Comente COSTELA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 033 ANTÚRIO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "anturio-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

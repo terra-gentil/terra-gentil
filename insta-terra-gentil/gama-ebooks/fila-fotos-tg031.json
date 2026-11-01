@@ -1,0 +1,70 @@
+{
+  "livro": "TG 031",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "por-gesto-1",
+      "especie": "rose bush",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands with pruning shears cutting a dry dead branch from a rose bush; the small mascot figurine sits on the edge of the flower bed",
+      "mascote": true
+    },
+    {
+      "id": "por-gesto-2",
+      "especie": "rose bush",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a rose cane in half with pruning shears",
+      "mascote": false
+    },
+    {
+      "id": "por-gesto-3",
+      "especie": "rose bush",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of pruning shears making a slanted cut just above an outward-facing bud on a rose cane",
+      "mascote": false
+    },
+    {
+      "id": "por-sintoma-1",
+      "especie": "rose cane",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Rose cane blackened and dying back downward from an old pruning cut",
+      "mascote": false
+    },
+    {
+      "id": "por-var-grande",
+      "especie": "hybrid tea rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Hybrid tea rose bush freshly pruned low, short canes about 35 cm from the ground",
+      "mascote": false
+    },
+    {
+      "id": "por-var-floribunda",
+      "especie": "floribunda rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Floribunda rose bush pruned into a rounded shrub shape",
+      "mascote": false
+    },
+    {
+      "id": "por-var-mini",
+      "especie": "miniature rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Miniature rose trimmed by half in a small pot; the small mascot figurine sits next to the pot on a balcony table",
+      "mascote": true
+    },
+    {
+      "id": "por-var-trepadeira",
+      "especie": "climbing rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Climbing rose on a garden wall with only the loose tips trimmed",
+      "mascote": false
+    }
+  ]
+}

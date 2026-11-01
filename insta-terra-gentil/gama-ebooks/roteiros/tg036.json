@@ -1,0 +1,548 @@
+{
+  "livro": "TG 036",
+  "titulo": "Lírio-da-paz",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "036",
+        "COLEÇÃO TERRA GENTIL",
+        "PAZ",
+        "Lírio-da-paz",
+        "Flor branca na sombra.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-da-paz-A-1.jpg",
+          "alt": "André com um lírio-da-paz florido"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "w18-092",
+        "w18-093"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Ele vive no chão úmido da mata e na beira de rio.",
+        "Bem cuidado, o lírio-da-paz floresce várias vezes no ano.",
+        "Aqui eu te mostro rega, adubo, divisão e o primo copo-de-leite.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Olhe se o seu lírio está pedindo vaso novo.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 036 LÍRIO-DA-PAZ",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-da-paz-B-1.jpg",
+          "alt": "André olhando as flores brancas"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "w18-232",
+        "q3-387"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Rega farta, terra quase seca.",
+        "Regue bem enquanto ele cresce, mas deixe a terra quase secar entre as regas.",
+        "ADUBO FRACO",
+        "A cada 10 a 14 dias enquanto ele cresce.",
+        "Borrifo no ar seco.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 036 LÍRIO-DA-PAZ",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do lírio",
+        "06",
+        "CAPÍTULO 1",
+        "Rega e luz",
+        "08",
+        "CAPÍTULO 2",
+        "Dividir a touceira",
+        "12",
+        "CAPÍTULO 3",
+        "Adubo e pet",
+        "15",
+        "CAPÍTULO 4",
+        "Brancas de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Flor branca ficou verde? Vá para a página 11.",
+        "Na próxima: a ficha do lírio",
+        "→",
+        "TG 036 LÍRIO-DA-PAZ",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "w18-087",
+        "w18-092",
+        "w18-232",
+        "q3-387",
+        "q3-388",
+        "g16-13"
+      ],
+      "textos": [
+        "FICHA DO LÍRIO",
+        "Antes de plantar",
+        "O que ele pede",
+        "LUZ",
+        "Pouca, como na mata",
+        "ÁGUA",
+        "Farta, quase secar",
+        "AR",
+        "Borrifo no ar seco",
+        "ADUBO",
+        "Fraco, 10 a 14 dias",
+        "VASO",
+        "Novo quase todo ano",
+        "PET",
+        "ATENÇÃO",
+        "Cautela com gato",
+        "Na próxima: rega e luz",
+        "→",
+        "TG 036 LÍRIO-DA-PAZ",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Rega e luz",
+        "01",
+        "Lírio ou copo",
+        "02",
+        "Dividir, passo a passo",
+        "03",
+        "Flor verde",
+        "Na próxima: lírio ou copo",
+        "→",
+        "TG 036 LÍRIO-DA-PAZ",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-da-paz-C-1.jpg",
+          "alt": "André regando o lírio-da-paz"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "w18-239",
+        "w18-232",
+        "q3-387",
+        "w18-092",
+        "w18-054",
+        "w18-076",
+        "w18-233",
+        "w18-240"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · OS DOIS",
+        "Lírio ou copo",
+        "O QUE",
+        "LÍRIO",
+        "COPO",
+        "Luz",
+        "Sombra",
+        "Sol",
+        "Terra",
+        "Quase secar",
+        "Úmida e rica",
+        "Adubo",
+        "10 a 14 dias",
+        "2 semanas",
+        "Origem",
+        "América do Sul",
+        "África do Sul",
+        "O copo branco aguenta terra molhada e terra seca.",
+        "DICA DO ANDRÉ",
+        "Os dois se multiplicam dividindo a touceira.",
+        "Na próxima: dividir a touceira",
+        "→",
+        "TG 036 LÍRIO-DA-PAZ",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Dividir a touceira",
+        "01",
+        "Dividir, passo a passo",
+        "02",
+        "Cuidar da muda",
+        "03",
+        "Flor verde",
+        "Na próxima: dividir, passo a passo",
+        "→",
+        "TG 036 LÍRIO-DA-PAZ",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-da-paz-D-1.jpg",
+          "alt": "André com o lírio fora do vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "w18-233",
+        "q3-389"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Dividir o lírio? Faça assim.",
+        "QUANDO",
+        "Depois da floração",
+        "TEMPO",
+        "20 minutos",
+        "PRECISA",
+        "Faca limpa e vasos",
+        "1",
+        "TIRE DO VASO",
+        "Com a touceira inteira.",
+        "2",
+        "SEPARE",
+        "Cada parte com folha e raiz.",
+        "3",
+        "REPLANTE",
+        "Um vaso para cada.",
+        "DICA DO ANDRÉ",
+        "Lírio cheio vira vários, de graça.",
+        "Na próxima: cuidar da muda",
+        "→",
+        "TG 036 LÍRIO-DA-PAZ",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "paz-gesto-1.jpg",
+          "alt": "Mãos tirando a touceira de lírio-da-paz do vaso"
+        },
+        {
+          "src": "paz-gesto-2.jpg",
+          "alt": "Mãos separando a touceira em partes com folha e raiz"
+        },
+        {
+          "src": "paz-gesto-3.jpg",
+          "alt": "Mãos replantando cada parte num vaso próprio"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "w18-232",
+        "q3-387",
+        "m33-273",
+        "m33-275"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · A MUDA",
+        "Cuidar da muda",
+        "Regue farto enquanto ele cresce.",
+        "Borrife as folhas quando o ar estiver seco.",
+        "Fora do crescimento, adubo a cada 4 ou 5 semanas.",
+        "Copo-de-leite: cada pedaço de rizoma com um olho.",
+        "O copo Green Goddess sai igual da semente.",
+        "Na próxima: flor verde",
+        "→",
+        "TG 036 LÍRIO-DA-PAZ",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "w18-094",
+        "w18-008"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Flor branca ficou verde?",
+        "1",
+        "O QUE PARECE",
+        "Planta doente.",
+        "O QUE PODE SER",
+        "Flor velha: é normal.",
+        "COMO RESOLVER",
+        "Nada. Ela envelhece assim.",
+        "Na próxima: adubo e pet",
+        "→",
+        "TG 036 LÍRIO-DA-PAZ",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "paz-sintoma-1.jpg",
+          "alt": "Lírio-da-paz com uma flor velha esverdeada ao lado de flores brancas"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Adubo e pet",
+        "01",
+        "Adubo fraco",
+        "02",
+        "Cuidado com o gato",
+        "03",
+        "Brancas de perto",
+        "Na próxima: adubo fraco",
+        "→",
+        "TG 036 LÍRIO-DA-PAZ",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-da-paz-E-1.jpg",
+          "alt": "André adubando o vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "q3-387",
+        "w18-232",
+        "q3-388"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ADUBO",
+        "Adubo fraco",
+        "QUANDO",
+        "Enquanto ele cresce",
+        "DE NOVO EM",
+        "A cada 10 a 14 dias",
+        "VOCÊ VAI PRECISAR",
+        "Adubo",
+        " bem fraco",
+        "Regador",
+        " rega farta",
+        "Borrifador",
+        " no ar seco",
+        "Vaso novo",
+        " quase todo ano",
+        "Cuidado",
+        "Resto do ano",
+        " só a cada 4 ou 5 semanas",
+        "Terra encharcada",
+        " deixe quase secar",
+        "Na próxima: cuidado com o gato",
+        "→",
+        "TG 036 LÍRIO-DA-PAZ",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "g16-13"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · PET",
+        "ATENÇÃO",
+        "Lírio-da-paz não é lírio de verdade.",
+        "Não é perigo como o lírio, mas irrita e pode dar vômito.",
+        "Por isso, longe do gato mesmo assim.",
+        "FAÇA ASSIM",
+        "Vaso alto, fora do alcance.",
+        "Folha mordida? Fale com o veterinário.",
+        "Na próxima: quatro brancas",
+        "→",
+        "TG 036 LÍRIO-DA-PAZ",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "w18-093",
+        "w18-234",
+        "w18-241",
+        "w18-057"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro brancas",
+        "1",
+        "Mauna Loa",
+        "O mais plantado.",
+        "2",
+        "Sensation",
+        "Até 2 metros.",
+        "3",
+        "Copo branco",
+        "Até na água rasa.",
+        "4",
+        "Green Goddess",
+        "Verde e branco.",
+        "CHAVE",
+        "Terra quase seca",
+        "Adubo fraco",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 036 LÍRIO-DA-PAZ",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "paz-var-maunaloa.jpg",
+          "alt": "Lírio-da-paz Mauna Loa florido num vaso"
+        },
+        {
+          "src": "paz-var-sensation.jpg",
+          "alt": "Lírio-da-paz gigante de folhas grandes num canto da sala"
+        },
+        {
+          "src": "paz-var-copo.jpg",
+          "alt": "Copo-de-leite branco na beira de um laguinho"
+        },
+        {
+          "src": "paz-var-goddess.jpg",
+          "alt": "Copo-de-leite verde e branco Green Goddess"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "w18-055",
+        "w18-240",
+        "w18-030",
+        "w18-038",
+        "m33-274"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "COPO COLORIDO SUMIU",
+        "Está descansando.",
+        "COPO DESCANSANDO",
+        "Terra só levemente úmida.",
+        "FLOR COM CHEIRO",
+        "Normal: a maioria tem.",
+        "ABELHA NA FLOR",
+        "Normal: é flor de abelha.",
+        "DICA DO ANDRÉ",
+        "Copo-de-leite dividido floresce no mesmo ano.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 036 LÍRIO-DA-PAZ",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "w18-241",
+        "w18-058"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "30",
+        "CM",
+        "de água rasa: o copo-de-leite branco aguenta ser plantado dentro do lago.",
+        "Ou na beira dele.",
+        "E MAIS UMA",
+        "Diego Rivera pintou tanto copo-de-leite que muita gente acha que ele é mexicano.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 036 LÍRIO-DA-PAZ",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "w18-232",
+        "q3-387",
+        "q3-388",
+        "w18-233",
+        "w18-239",
+        "g16-13"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Rega farta ao crescer",
+        "Quase secar entre regas",
+        "Borrifo no ar seco",
+        "Adubo fraco",
+        "Vaso novo quase todo ano",
+        "Dividir depois da flor",
+        "Copo-de-leite no sol",
+        "Longe do gato",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 036 LÍRIO-DA-PAZ",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se o seu lírio florir de novo, me conta. E dá um pedaço da touceira para alguém. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "036",
+        "VOCÊ TEM",
+        "037",
+        "038",
+        "039",
+        "040",
+        "041",
+        "São 36 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 037 BROMÉLIAS",
+        "Comente BROMELIA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 036 LÍRIO-DA-PAZ",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-da-paz-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

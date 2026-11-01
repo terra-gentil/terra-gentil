@@ -1,0 +1,551 @@
+{
+  "livro": "TG 039",
+  "titulo": "Morango no Vaso",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "039",
+        "COLEÇÃO TERRA GENTIL",
+        "MORANGO",
+        "Morango no Vaso",
+        "Fruta doce na varanda.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "morango-A-1.jpg",
+          "alt": "André com um vaso de morango"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "h35-104",
+        "i36-237"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Morango dá em vaso, em prateleira e até pendurado.",
+        "Ele é perene: dá um pouco no primeiro ano e mais no segundo e no terceiro.",
+        "Aqui eu te mostro vaso, rega, adubo, polinizar e fazer muda.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache um lugar alto para o vaso, longe da lesma.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 039 MORANGO NO VASO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "morango-B-1.jpg",
+          "alt": "André colhendo um morango"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "h35-272",
+        "g32-072"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Fruto longe da terra.",
+        "Palha seca embaixo deixa a fruta limpa e sem apodrecer.",
+        "PELO CABINHO",
+        "Colha assim e a fruta não machuca.",
+        "Adubo de tomate.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 039 MORANGO NO VASO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do morango",
+        "06",
+        "CAPÍTULO 1",
+        "Vaso e plantio",
+        "08",
+        "CAPÍTULO 2",
+        "Plantar e regar",
+        "12",
+        "CAPÍTULO 3",
+        "Muda e renovação",
+        "15",
+        "CAPÍTULO 4",
+        "Morangos de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Fruta podre ou bicada? Vá para a página 11.",
+        "Na próxima: a ficha do morango",
+        "→",
+        "TG 039 MORANGO NO VASO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "g32-068",
+        "g32-025",
+        "i36-239",
+        "h35-272",
+        "m33-130"
+      ],
+      "textos": [
+        "FICHA DO MORANGO",
+        "Antes de plantar",
+        "O que ele pede",
+        "ESPAÇO",
+        "20 cm entre plantas",
+        "TERRA",
+        "Que drena bem",
+        "ÁGUA",
+        "Todo dia no calor",
+        "ADUBO",
+        "De tomate, no fruto",
+        "FRUTO",
+        "Sobre palha seca",
+        "VÍRUS",
+        "ATENÇÃO",
+        "Muda só de planta sadia",
+        "Na próxima: vaso e plantio",
+        "→",
+        "TG 039 MORANGO NO VASO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Vaso e plantio",
+        "01",
+        "Certo e errado",
+        "02",
+        "Plantar, passo a passo",
+        "03",
+        "Fruta podre",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 039 MORANGO NO VASO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "morango-C-1.jpg",
+          "alt": "André com morangos na varanda"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "i36-238",
+        "g32-025",
+        "h35-272",
+        "g32-072",
+        "i36-241",
+        "w31-077"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Fundura",
+        "Igual ao vaso",
+        "Mais fundo",
+        "Terra",
+        "Drena bem",
+        "Encharcada",
+        "Fruto",
+        "Sobre palha",
+        "Na terra",
+        "Colher",
+        "Pelo cabinho",
+        "Puxar a fruta",
+        "Misture variedades que dão cedo, no meio e tarde.",
+        "DICA DO ANDRÉ",
+        "Pedrinha pintada de vermelho engana o passarinho.",
+        "Na próxima: plantar e regar",
+        "→",
+        "TG 039 MORANGO NO VASO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Plantar e regar",
+        "01",
+        "Plantar, passo a passo",
+        "02",
+        "Rega e adubo",
+        "03",
+        "Fruta podre",
+        "Na próxima: plantar, passo a passo",
+        "→",
+        "TG 039 MORANGO NO VASO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "morango-D-1.jpg",
+          "alt": "André plantando morango"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "g32-068",
+        "i36-238",
+        "h35-272",
+        "i36-237"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Plantar morango? Faça assim.",
+        "QUANDO",
+        "Com a muda na mão",
+        "TEMPO",
+        "20 minutos",
+        "PRECISA",
+        "Vaso, terra e palha",
+        "1",
+        "ESPAÇO",
+        "20 cm entre as mudas.",
+        "2",
+        "FUNDURA",
+        "Igual estava no vaso.",
+        "3",
+        "PALHA",
+        "Seca, embaixo das folhas.",
+        "DICA DO ANDRÉ",
+        "Pendurado, o morango fica longe da lesma.",
+        "Na próxima: rega e adubo",
+        "→",
+        "TG 039 MORANGO NO VASO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "mor-gesto-1.jpg",
+          "alt": "Mãos medindo o espaço entre mudas de morango num vaso comprido"
+        },
+        {
+          "src": "mor-gesto-2.jpg",
+          "alt": "Mãos plantando a muda de morango na mesma altura em que estava"
+        },
+        {
+          "src": "mor-gesto-3.jpg",
+          "alt": "Mãos espalhando palha seca embaixo das folhas do morango"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "i36-239",
+        "g32-068",
+        "g32-025",
+        "g32-071"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · REGA",
+        "Rega e adubo",
+        "Vaso pendurado: rega todo dia no calor.",
+        "Apareceu fruto? Adubo de tomate a cada 2 semanas.",
+        "Na flor e no fruto, adubo rico em potássio.",
+        "No frio, nada de terra encharcada.",
+        "Passe a mão de leve nas flores para polinizar.",
+        "Na próxima: fruta podre",
+        "→",
+        "TG 039 MORANGO NO VASO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "h35-268",
+        "h35-272",
+        "i36-237"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Fruta podre ou bicada?",
+        "1",
+        "O QUE PARECE",
+        "Doença no morango.",
+        "O QUE PODE SER",
+        "Fruto na terra ou passarinho.",
+        "COMO RESOLVER",
+        "Palha embaixo e rede por cima.",
+        "Na próxima: muda e renovação",
+        "→",
+        "TG 039 MORANGO NO VASO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "mor-sintoma-1.jpg",
+          "alt": "Morango apodrecido encostado na terra molhada do vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Muda e renovação",
+        "01",
+        "Muda pelo estolão",
+        "02",
+        "Renove a cada 3 anos",
+        "03",
+        "Morangos de perto",
+        "Na próxima: muda pelo estolão",
+        "→",
+        "TG 039 MORANGO NO VASO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "morango-E-1.jpg",
+          "alt": "André com mudas de morango"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "g32-069",
+        "m33-130",
+        "h35-105",
+        "i36-240"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · MUDA",
+        "Muda pelo estolão",
+        "QUANDO",
+        "Depois da colheita",
+        "DE NOVO EM",
+        "A cada uns 3 anos",
+        "VOCÊ VAI PRECISAR",
+        "Estolão",
+        " de planta sadia",
+        "Vasinho",
+        " com terra",
+        "Grampo",
+        " para prender na terra",
+        "Tesoura",
+        " para soltar da mãe",
+        "Cuidado",
+        "Planta doente",
+        " nunca dá muda",
+        "Estolão demais",
+        " corte depois da colheita",
+        "Na próxima: renove a cada 3 anos",
+        "→",
+        "TG 039 MORANGO NO VASO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "i36-240",
+        "g32-070"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · RENOVAR",
+        "ATENÇÃO",
+        "Pé de morango cansa e pega doença.",
+        "Ele dá mais no segundo e no terceiro ano.",
+        "Depois disso, é hora de trocar.",
+        "FAÇA ASSIM",
+        "A cada uns 3 anos, plantas novas.",
+        "Vaso limpo e terra nova.",
+        "Na próxima: quatro morangos",
+        "→",
+        "TG 039 MORANGO NO VASO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "g32-073",
+        "q34-150",
+        "g32-074",
+        "g32-358"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro morangos",
+        "1",
+        "Comum",
+        "Cruzamento americano.",
+        "2",
+        "Silvestre",
+        "Pequeno e perfumado.",
+        "3",
+        "Flor rosa",
+        "Nem toda flor é branca.",
+        "4",
+        "Fruta branca",
+        "Silvestre também.",
+        "CHAVE",
+        "Palha embaixo",
+        "Planta sadia",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 039 MORANGO NO VASO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "mor-var-comum.jpg",
+          "alt": "Morangos grandes e vermelhos num vaso"
+        },
+        {
+          "src": "mor-var-silvestre.jpg",
+          "alt": "Morango-silvestre com frutinhas vermelhas pequenas"
+        },
+        {
+          "src": "mor-var-florrosa.jpg",
+          "alt": "Pé de morango com flores cor-de-rosa"
+        },
+        {
+          "src": "mor-var-branco.jpg",
+          "alt": "Morango-silvestre de fruta branca"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "h35-104",
+        "g32-071",
+        "g32-070",
+        "h35-271",
+        "h35-102"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "SÓ DEU UM POUCO",
+        "Normal no 1º ano.",
+        "FLOR SEM FRUTO",
+        "Ajude a polinizar.",
+        "PLANTA CANSADA",
+        "Renove com estolão.",
+        "FRUTA SÓ NUMA ÉPOCA",
+        "Tem tipo de safra única.",
+        "DICA DO ANDRÉ",
+        "Escorredor de metal vira vaso suspenso de morango.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 039 MORANGO NO VASO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "a8-024",
+        "s2-194"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "5",
+        "CM",
+        "de cima da terra guardavam 90% das raízes de um morangal.",
+        "Raiz de morango é rasa.",
+        "E MAIS UMA",
+        "Em inglês, morango é strawberry, e straw quer dizer palha.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 039 MORANGO NO VASO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "i36-238",
+        "g32-068",
+        "g32-025",
+        "h35-272",
+        "i36-239",
+        "g32-071",
+        "i36-240"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Igual estava no vaso",
+        "20 cm entre plantas",
+        "Terra que drena",
+        "Palha embaixo",
+        "Rega todo dia no calor",
+        "Adubo de tomate no fruto",
+        "Mão nas flores",
+        "Renove a cada 3 anos",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 039 MORANGO NO VASO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se o seu primeiro morango ficar vermelho, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "039",
+        "VOCÊ TEM",
+        "040",
+        "041",
+        "042",
+        "043",
+        "044",
+        "São 39 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 040 MICROVERDES",
+        "Comente BROTO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 039 MORANGO NO VASO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "morango-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

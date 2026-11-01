@@ -1,0 +1,548 @@
+{
+  "livro": "TG 032",
+  "titulo": "Muda de Rosa",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "032",
+        "COLEÇÃO TERRA GENTIL",
+        "ESTACA",
+        "Muda de Rosa",
+        "Uma roseira vira muitas.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-E-1.jpg",
+          "alt": "André com uma roseira florida"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "r20-109",
+        "r20-112",
+        "r20-117"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Uma roseira vira muitas, de graça.",
+        "Estaca é o jeito mais barato e mais fácil de fazer muda de rosa.",
+        "Aqui eu te mostro estaca, mergulhia, alporque e até semente.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache um galho grosso como um lápis que acabou de florir.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 032 MUDA DE ROSA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-C-1.jpg",
+          "alt": "André escolhendo um galho da roseira"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "r20-113",
+        "r20-114",
+        "r20-115"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Galho grosso como um lápis.",
+        "Use o meio do galho que acabou de florir, nunca a ponta mole.",
+        "TRÊS GEMAS",
+        "De 20 a 30 cm, com 3 gemas.",
+        "Calor e ar úmido.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 032 MUDA DE ROSA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da estaca",
+        "06",
+        "CAPÍTULO 1",
+        "O jeito certo",
+        "08",
+        "CAPÍTULO 2",
+        "Estaca",
+        "12",
+        "CAPÍTULO 3",
+        "Mergulhia e alporque",
+        "15",
+        "CAPÍTULO 4",
+        "Quatro jeitos",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Estaca que não pegou? Vá para a página 11.",
+        "Na próxima: a ficha da estaca",
+        "→",
+        "TG 032 MUDA DE ROSA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "r20-113",
+        "w31-034",
+        "r20-115",
+        "r20-118",
+        "r20-114"
+      ],
+      "textos": [
+        "FICHA DA ESTACA",
+        "Antes de cortar",
+        "O que ela pede",
+        "GALHO",
+        "Grosso como um lápis",
+        "TAMANHO",
+        "20 a 30 cm, 3 gemas",
+        "CORTE",
+        "Inclinado em cima",
+        "CLIMA",
+        "Calor e ar úmido",
+        "BOTÃO",
+        "Tire no começo",
+        "PONTA",
+        "ATENÇÃO",
+        "Galho mole não pega",
+        "Na próxima: o jeito certo",
+        "→",
+        "TG 032 MUDA DE ROSA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "O jeito certo",
+        "01",
+        "Estaca ou enxerto",
+        "02",
+        "Estaca, passo a passo",
+        "03",
+        "Estaca que não pegou",
+        "Na próxima: estaca ou enxerto",
+        "→",
+        "TG 032 MUDA DE ROSA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-A-1.jpg",
+          "alt": "André com mudas de rosa"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "r20-109",
+        "r20-112",
+        "r20-111",
+        "r20-117",
+        "r20-110"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · A MUDA",
+        "Estaca ou enxerto",
+        "O QUE",
+        "ESTACA",
+        "ENXERTO",
+        "Custo",
+        "Mais barata",
+        "Mais cara",
+        "Ladrão",
+        "Não tem",
+        "Tem",
+        "Minirrosa",
+        "Fica mini",
+        "Cresce demais",
+        "Força",
+        "Igual em 3 anos",
+        "Mais no começo",
+        "Polianta e trepadeira pegam fácil de estaca.",
+        "DICA DO ANDRÉ",
+        "Estaca é a melhor muda para quem está começando.",
+        "Na próxima: estaca",
+        "→",
+        "TG 032 MUDA DE ROSA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Estaca",
+        "01",
+        "Estaca, passo a passo",
+        "02",
+        "Depois de enterrar",
+        "03",
+        "Estaca que não pegou",
+        "Na próxima: estaca, passo a passo",
+        "→",
+        "TG 032 MUDA DE ROSA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-B-1.jpg",
+          "alt": "André cortando um galho"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "w31-034",
+        "w31-035",
+        "r20-113"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Estaca de rosa? Faça assim.",
+        "QUANDO",
+        "Galho que acabou de florir",
+        "TEMPO",
+        "20 minutos",
+        "PRECISA",
+        "Tesoura, vaso e terra",
+        "1",
+        "CORTE",
+        "25 cm, com 3 gemas.",
+        "2",
+        "DOIS CORTES",
+        "Reto embaixo, inclinado em cima.",
+        "3",
+        "ENTERRE",
+        "Metade na terra.",
+        "DICA DO ANDRÉ",
+        "O corte inclinado faz a chuva escorrer da gema.",
+        "Na próxima: depois de enterrar",
+        "→",
+        "TG 032 MUDA DE ROSA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "mur-gesto-1.jpg",
+          "alt": "Mãos cortando um galho de roseira grosso como um lápis"
+        },
+        {
+          "src": "mur-gesto-2.jpg",
+          "alt": "Mãos mostrando a estaca com corte reto embaixo e inclinado em cima"
+        },
+        {
+          "src": "mur-gesto-3.jpg",
+          "alt": "Mãos enterrando a estaca até a metade num vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "r20-115",
+        "r20-118",
+        "r20-117",
+        "r20-112"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · ESTACA",
+        "Depois de enterrar",
+        "Estaca de rosa enraíza melhor no calor.",
+        "E com ar úmido em volta dela.",
+        "Saiu botão? Tire, para ela crescer primeiro.",
+        "Ela é mais fraca só nos 2 ou 3 primeiros anos.",
+        "Muda de estaca nunca solta ladrão.",
+        "Na próxima: estaca que não pegou",
+        "→",
+        "TG 032 MUDA DE ROSA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "r20-114",
+        "r20-110"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Estaca que não pegou?",
+        "1",
+        "O QUE PARECE",
+        "Roseira que não dá muda.",
+        "O QUE PODE SER",
+        "Ponta mole ou rosa de flor grande.",
+        "COMO RESOLVER",
+        "Meio do galho, ou faça mergulhia.",
+        "Na próxima: mergulhia e alporque",
+        "→",
+        "TG 032 MUDA DE ROSA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "mur-sintoma-1.jpg",
+          "alt": "Estaca de roseira seca e escura num vasinho"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Mergulhia e alporque",
+        "01",
+        "Mergulhia",
+        "02",
+        "Alporque",
+        "03",
+        "Quatro jeitos",
+        "Na próxima: mergulhia",
+        "→",
+        "TG 032 MUDA DE ROSA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-D-1.jpg",
+          "alt": "André ajoelhado junto da roseira"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "r20-119",
+        "r20-120",
+        "r20-121"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · MERGULHIA",
+        "Mergulhia",
+        "QUANDO",
+        "Galho de uns 2 anos",
+        "DE NOVO EM",
+        "Raiz em 30 a 45 dias",
+        "VOCÊ VAI PRECISAR",
+        "Galho",
+        " flexível, até o chão",
+        "Faca",
+        " para um corte por baixo",
+        "Grampos",
+        " um de cada lado",
+        "Terra",
+        " 5 a 7 cm por cima",
+        "Cuidado",
+        "Botão",
+        " tire no primeiro ano",
+        "Ponta",
+        " sempre de fora",
+        "Na próxima: alporque",
+        "→",
+        "TG 032 MUDA DE ROSA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "r20-122",
+        "r20-123"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ALPORQUE",
+        "ATENÇÃO",
+        "Alporque faz raiz no galho, ainda preso na roseira.",
+        "Tire um anel de casca de 2,5 cm.",
+        "Cubra com musgo úmido e embrulhe em plástico.",
+        "FAÇA ASSIM",
+        "Raiz aparecendo? Corte e plante no vaso.",
+        "Uma semana na sombra, depois o sol.",
+        "Na próxima: quatro jeitos",
+        "→",
+        "TG 032 MUDA DE ROSA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "r20-109",
+        "r20-119",
+        "r20-124",
+        "r20-100"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro jeitos",
+        "1",
+        "Estaca",
+        "A mais fácil.",
+        "2",
+        "Mergulhia",
+        "Para trepadeira.",
+        "3",
+        "Alporque",
+        "Flor em 8 meses.",
+        "4",
+        "Semente",
+        "Rosa nova.",
+        "CHAVE",
+        "Galho que floriu",
+        "Paciência",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 032 MUDA DE ROSA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "mur-var-estaca.jpg",
+          "alt": "Estacas de roseira enraizando num vaso"
+        },
+        {
+          "src": "mur-var-mergulhia.jpg",
+          "alt": "Galho de roseira dobrado e preso na terra com grampo"
+        },
+        {
+          "src": "mur-var-alporque.jpg",
+          "alt": "Alporque embrulhado em plástico num galho de roseira"
+        },
+        {
+          "src": "mur-var-semente.jpg",
+          "alt": "Frutinhos de rosa abertos com as sementes"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "r20-105",
+        "r20-111",
+        "r20-100",
+        "r20-164",
+        "i36-082"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "SEMENTE NÃO NASCE",
+        "Calor. Ela gosta de fresco.",
+        "MINIRROSA CRESCEU",
+        "Era enxertada. Faça estaca.",
+        "MUDA DIFERENTE",
+        "Semente não copia a mãe.",
+        "MUDA RESSECADA",
+        "Torrão de molho 6 a 12 h.",
+        "DICA DO ANDRÉ",
+        "Ao plantar a muda, regue enquanto devolve a terra.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 032 MUDA DE ROSA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "r20-075",
+        "r20-103"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "30",
+        "MIL",
+        "variedades de rosa já existem no mundo.",
+        "Cada uma saiu de milhares de mudas de semente testadas.",
+        "E MAIS UMA",
+        "Semente de rosa pode levar de 3 semanas a 6 meses para nascer.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 032 MUDA DE ROSA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "r20-113",
+        "w31-034",
+        "w31-035",
+        "r20-115",
+        "r20-118",
+        "r20-119"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Galho que acabou de florir",
+        "Grosso como um lápis",
+        "25 cm e 3 gemas",
+        "Inclinado em cima",
+        "Metade enterrada",
+        "Calor e ar úmido",
+        "Botão tirado",
+        "Mergulhia na trepadeira",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 032 MUDA DE ROSA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua estaca pegar, me conta. E dá a primeira muda de presente. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "032",
+        "VOCÊ TEM",
+        "033",
+        "034",
+        "035",
+        "036",
+        "037",
+        "São 32 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 033 ANTÚRIO",
+        "Comente ANTURIO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 032 MUDA DE ROSA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

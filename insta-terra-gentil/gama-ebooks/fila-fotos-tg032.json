@@ -1,0 +1,70 @@
+{
+  "livro": "TG 032",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "mur-gesto-1",
+      "especie": "rose bush",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a pencil-thick rose stem that has just finished flowering",
+      "mascote": false
+    },
+    {
+      "id": "mur-gesto-2",
+      "especie": "rose cutting",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands holding a 25 cm rose cutting, straight cut at the bottom and slanted cut at the top; the small mascot figurine sits on the potting bench",
+      "mascote": true
+    },
+    {
+      "id": "mur-gesto-3",
+      "especie": "rose cutting",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pushing rose cuttings halfway into the soil of a pot",
+      "mascote": false
+    },
+    {
+      "id": "mur-sintoma-1",
+      "especie": "rose cutting",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A dried, blackened rose cutting that failed in a small pot",
+      "mascote": false
+    },
+    {
+      "id": "mur-var-estaca",
+      "especie": "rose cuttings",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Several rose cuttings with new green leaves rooting in a pot",
+      "mascote": false
+    },
+    {
+      "id": "mur-var-mergulhia",
+      "especie": "rose layering",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A rose cane bent down to the ground and pinned into the soil with a wire staple",
+      "mascote": false
+    },
+    {
+      "id": "mur-var-alporque",
+      "especie": "rose air layering",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Air layer wrapped in clear plastic with moss on a rose branch, roots visible inside; the small mascot figurine sits on a nearby branch fork",
+      "mascote": true
+    },
+    {
+      "id": "mur-var-semente",
+      "especie": "rose hips",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Ripe orange rose hips cut open showing the seeds",
+      "mascote": false
+    }
+  ]
+}

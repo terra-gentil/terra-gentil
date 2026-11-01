@@ -1,0 +1,70 @@
+{
+  "livro": "TG 034",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "cos-gesto-1",
+      "especie": "monstera",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's finger pointing at an aerial root on a monstera stem; the small mascot figurine sits on the moss pole",
+      "mascote": true
+    },
+    {
+      "id": "cos-gesto-2",
+      "especie": "monstera",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a monstera stem tip with one mature leaf",
+      "mascote": false
+    },
+    {
+      "id": "cos-gesto-3",
+      "especie": "monstera",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting a monstera cutting in a pot",
+      "mascote": false
+    },
+    {
+      "id": "cos-sintoma-1",
+      "especie": "young monstera",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Young monstera plant with whole heart-shaped leaves, no splits or holes",
+      "mascote": false
+    },
+    {
+      "id": "cos-var-verde",
+      "especie": "monstera deliciosa",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Large monstera deliciosa with big split and holed leaves in a living room",
+      "mascote": false
+    },
+    {
+      "id": "cos-var-variegada",
+      "especie": "variegated monstera",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Variegated monstera with white patches on the leaves",
+      "mascote": false
+    },
+    {
+      "id": "cos-var-furinhos",
+      "especie": "monstera adansonii",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Monstera adansonii with many small holes climbing a pole; the small mascot figurine sits at the base of the pole",
+      "mascote": true
+    },
+    {
+      "id": "cos-var-jardim",
+      "especie": "monstera",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Monstera covering the ground of a shady tropical garden",
+      "mascote": false
+    }
+  ]
+}

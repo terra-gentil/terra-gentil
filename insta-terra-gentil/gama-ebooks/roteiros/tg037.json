@@ -1,0 +1,551 @@
+{
+  "livro": "TG 037",
+  "titulo": "Bromélias",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "037",
+        "COLEÇÃO TERRA GENTIL",
+        "BROMÉLIA",
+        "Bromélias",
+        "Cor o ano todo, e filhotes.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "bromelia-A-1.jpg",
+          "alt": "André com uma bromélia florida"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "q3-114",
+        "n10-23",
+        "b24-586"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Bromélia não morre à toa depois de florir: ela deixa filhotes.",
+        "E muitas vivem em árvore, tirando o sustento da umidade do ar.",
+        "Aqui eu te mostro o copinho, a luz e como separar os filhotes.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Olhe a base da sua bromélia: já tem filhote?",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 037 BROMÉLIAS",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bromelia-B-1.jpg",
+          "alt": "André olhando o miolo da bromélia"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "b24-448",
+        "b24-450"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Meia-sombra e água mole.",
+        "Bromélia de vaso vai bem em meia-sombra, com rega moderada.",
+        "TERRA LEVE",
+        "Meio a meio: terra rica e casca de orquídea.",
+        "Pouca água no frio.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 037 BROMÉLIAS",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da bromélia",
+        "06",
+        "CAPÍTULO 1",
+        "Luz e copinho",
+        "08",
+        "CAPÍTULO 2",
+        "Os filhotes",
+        "12",
+        "CAPÍTULO 3",
+        "Adubo e dengue",
+        "15",
+        "CAPÍTULO 4",
+        "Bromélias de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "A mãe está morrendo? Vá para a página 11.",
+        "Na próxima: a ficha da bromélia",
+        "→",
+        "TG 037 BROMÉLIAS",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "b24-448",
+        "b24-450",
+        "b24-449",
+        "q3-628",
+        "q3-629",
+        "q3-627"
+      ],
+      "textos": [
+        "FICHA DA BROMÉLIA",
+        "Antes de plantar",
+        "O que ela pede",
+        "LUZ",
+        "Meia-sombra",
+        "ÁGUA",
+        "Mole e moderada",
+        "COPO",
+        "Com água ao crescer",
+        "AR",
+        "Borrifo frequente",
+        "ADUBO",
+        "Fraco, a cada 4 semanas",
+        "DENGUE",
+        "ATENÇÃO",
+        "Água nova toda semana",
+        "Na próxima: luz e copinho",
+        "→",
+        "TG 037 BROMÉLIAS",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Luz e copinho",
+        "01",
+        "Certo e errado",
+        "02",
+        "Filhote, passo a passo",
+        "03",
+        "A mãe morrendo",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 037 BROMÉLIAS",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bromelia-C-1.jpg",
+          "alt": "André com bromélias na varanda"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "b24-450",
+        "q3-641",
+        "b24-448",
+        "b24-455",
+        "q3-628"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Água",
+        "Mole",
+        "Com calcário",
+        "Rega",
+        "Moderada",
+        "Encharcar",
+        "Frio",
+        "Pouca água",
+        "Regar igual",
+        "Terra",
+        "Leve, com casca",
+        "Pesada",
+        "O vaso-de-prata aguenta até luz plena.",
+        "DICA DO ANDRÉ",
+        "Bromélia gosta de ar úmido: borrife sempre.",
+        "Na próxima: os filhotes",
+        "→",
+        "TG 037 BROMÉLIAS",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Os filhotes",
+        "01",
+        "Filhote, passo a passo",
+        "02",
+        "Depois de plantar",
+        "03",
+        "A mãe morrendo",
+        "Na próxima: filhote, passo a passo",
+        "→",
+        "TG 037 BROMÉLIAS",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bromelia-D-1.jpg",
+          "alt": "André separando um filhote"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "q3-631",
+        "q3-632",
+        "q3-633",
+        "q3-115"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Separar o filhote? Faça assim.",
+        "QUANDO",
+        "Com um terço da mãe",
+        "TEMPO",
+        "15 minutos",
+        "PRECISA",
+        "Faca afiada e um vaso",
+        "1",
+        "CORTE",
+        "Rente à base da mãe.",
+        "2",
+        "SEQUE",
+        "O corte, por 1 ou 2 dias.",
+        "3",
+        "PLANTE",
+        "Terra drenada e varetinha.",
+        "DICA DO ANDRÉ",
+        "Filhote recém-plantado tomba: a varetinha segura.",
+        "Na próxima: depois de plantar",
+        "→",
+        "TG 037 BROMÉLIAS",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bro-gesto-1.jpg",
+          "alt": "Mãos cortando um filhote de bromélia rente à base da mãe"
+        },
+        {
+          "src": "bro-gesto-2.jpg",
+          "alt": "Filhote de bromélia com o corte secando sobre um pano"
+        },
+        {
+          "src": "bro-gesto-3.jpg",
+          "alt": "Mãos plantando o filhote num vaso com uma varetinha de apoio"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "b24-449",
+        "q3-628",
+        "q3-646",
+        "q3-659"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · FILHOTES",
+        "Depois de plantar",
+        "Água no copinho na época de crescer.",
+        "Borrife sempre: ela gosta de ar úmido.",
+        "Guzmânia que floriu: corte a velha a 5 cm da base.",
+        "Depois, separe os filhotes.",
+        "Vriésea troca de vaso a cada 3 anos.",
+        "Na próxima: a mãe morrendo",
+        "→",
+        "TG 037 BROMÉLIAS",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "q3-114",
+        "q3-630"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "A mãe está morrendo?",
+        "1",
+        "O QUE PARECE",
+        "Você matou a bromélia.",
+        "O QUE PODE SER",
+        "Fim natural, depois da flor.",
+        "COMO RESOLVER",
+        "Cuide dos filhotes em volta.",
+        "Na próxima: adubo e dengue",
+        "→",
+        "TG 037 BROMÉLIAS",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bro-sintoma-1.jpg",
+          "alt": "Bromélia velha secando depois da flor, com filhotes verdes na base"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Adubo e dengue",
+        "01",
+        "Adubo no copo",
+        "02",
+        "Copinho sem dengue",
+        "03",
+        "Bromélias de perto",
+        "Na próxima: adubo no copo",
+        "→",
+        "TG 037 BROMÉLIAS",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bromelia-E-1.jpg",
+          "alt": "André borrifando a bromélia"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "q3-629",
+        "b24-450",
+        "b24-448",
+        "q3-649",
+        "q3-643"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ADUBO",
+        "Adubo no copo",
+        "QUANDO",
+        "Na época de crescer",
+        "DE NOVO EM",
+        "A cada 4 semanas",
+        "VOCÊ VAI PRECISAR",
+        "Adubo líquido",
+        " bem fraco",
+        "Água mole",
+        " com pouco calcário",
+        "Borrifador",
+        " para o ar úmido",
+        "Casca",
+        " na mistura da terra",
+        "Cuidado",
+        "Neoregélia",
+        " a cada 5 semanas",
+        "Criptanto",
+        " a cada 5 ou 6 semanas",
+        "Na próxima: copinho sem dengue",
+        "→",
+        "TG 037 BROMÉLIAS",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "q3-627",
+        "k9-265"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · DENGUE",
+        "ATENÇÃO",
+        "O copinho de água é a casa da bromélia.",
+        "Mas água parada também pode criar mosquito.",
+        "Os livros falam em trocar a cada 3 ou 4 semanas.",
+        "FAÇA ASSIM",
+        "No Brasil, troque toda semana.",
+        "Jogue fora a velha e ponha água nova.",
+        "Na próxima: quatro bromélias",
+        "→",
+        "TG 037 BROMÉLIAS",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "q3-645",
+        "b24-454",
+        "b24-455",
+        "q3-652"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro bromélias",
+        "1",
+        "Guzmânia",
+        "Vermelho por semanas.",
+        "2",
+        "Neoregélia",
+        "Miolo vermelho.",
+        "3",
+        "Vaso-de-prata",
+        "Aguenta mais sol.",
+        "4",
+        "Tilândsia",
+        "Vive sem terra.",
+        "CHAVE",
+        "Meia-sombra",
+        "Água mole",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 037 BROMÉLIAS",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bro-var-guzmania.jpg",
+          "alt": "Guzmânia com a haste vermelha num vaso"
+        },
+        {
+          "src": "bro-var-neoregelia.jpg",
+          "alt": "Neoregélia com o miolo de folhas vermelhas"
+        },
+        {
+          "src": "bro-var-prata.jpg",
+          "alt": "Vaso-de-prata com folhas cinza listradas e flor rosa"
+        },
+        {
+          "src": "bro-var-tilandsia.jpg",
+          "alt": "Tilândsia presa num pedaço de madeira"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "q3-116",
+        "q3-648",
+        "b24-456",
+        "b24-587",
+        "q3-653"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "FLORZINHA SUMIU",
+        "Normal: o vermelho fica.",
+        "MIOLO VERMELHO",
+        "Ela vai florir.",
+        "TILÂNDSIA SECA",
+        "Borrife mais vezes.",
+        "FRUTINHO AMARELO",
+        "Normal depois da flor.",
+        "DICA DO ANDRÉ",
+        "Tilândsia não se rega: borrife com água sem calcário.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 037 BROMÉLIAS",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "q3-632",
+        "q3-657"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "2",
+        "DIAS",
+        "é o tempo de deixar o corte do filhote secar antes de plantar.",
+        "Às vezes basta 1.",
+        "E MAIS UMA",
+        "A barba-de-velho também é bromélia e forma cachos de até 1 metro.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 037 BROMÉLIAS",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "b24-448",
+        "b24-450",
+        "b24-449",
+        "q3-628",
+        "q3-629",
+        "q3-115"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Meia-sombra",
+        "Água mole",
+        "Rega moderada",
+        "Copinho com água",
+        "Água nova toda semana",
+        "Borrifo frequente",
+        "Adubo fraco no mês",
+        "Filhote com um terço",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 037 BROMÉLIAS",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua bromélia der filhote, me conta. E dá um para a vizinha. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "037",
+        "VOCÊ TEM",
+        "038",
+        "039",
+        "040",
+        "041",
+        "042",
+        "São 37 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 038 SAMAMBAIAS",
+        "Comente SAMAMBAIA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 037 BROMÉLIAS",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bromelia-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

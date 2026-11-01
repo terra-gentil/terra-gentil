@@ -1,0 +1,550 @@
+{
+  "livro": "TG 034",
+  "titulo": "Costela-de-adão",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "034",
+        "COLEÇÃO TERRA GENTIL",
+        "COSTELA",
+        "Costela-de-adão",
+        "Folha grande, furada e feliz.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "costela-de-adao-A-1.jpg",
+          "alt": "André com uma costela-de-adão"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "w18-002",
+        "w18-012",
+        "w18-221"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Ela já foi a planta de casa mais vendida do mundo.",
+        "E os furos da folha nascem de propósito, de dentro para fora.",
+        "Aqui eu te mostro luz, rega, adubo e como fazer muda dela.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache uma raiz aérea na sua costela, e não corte.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 034 COSTELA-DE-ADÃO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "costela-de-adao-B-1.jpg",
+          "alt": "André olhando uma folha furada"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "w18-221",
+        "q3-291",
+        "q3-290"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Luz clara e filtrada.",
+        "Rega farta enquanto ela cresce e adubo todo mês.",
+        "TERRA RESPIRA",
+        "No calor, deixe secar um pouco entre as regas.",
+        "Adubo fraco.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 034 COSTELA-DE-ADÃO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da costela",
+        "06",
+        "CAPÍTULO 1",
+        "Luz e rega",
+        "08",
+        "CAPÍTULO 2",
+        "Muda de costela",
+        "12",
+        "CAPÍTULO 3",
+        "Adubo e vaso",
+        "15",
+        "CAPÍTULO 4",
+        "Costelas de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Folha sem furo? Vá para a página 11.",
+        "Na próxima: a ficha da costela",
+        "→",
+        "TG 034 COSTELA-DE-ADÃO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "w18-221",
+        "q3-290",
+        "q3-294",
+        "t13-51"
+      ],
+      "textos": [
+        "FICHA DA COSTELA",
+        "Antes de plantar",
+        "O que ela pede",
+        "LUZ",
+        "Clara e filtrada",
+        "ÁGUA",
+        "Farta ao crescer",
+        "ADUBO",
+        "Fraco, todo mês",
+        "AR",
+        "Borrifo no tempo seco",
+        "VASO",
+        "Adulta: só a terra de cima",
+        "PET",
+        "ATENÇÃO",
+        "Intoxica cão e gato",
+        "Na próxima: luz e rega",
+        "→",
+        "TG 034 COSTELA-DE-ADÃO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Luz e rega",
+        "01",
+        "Certo e errado",
+        "02",
+        "Muda, passo a passo",
+        "03",
+        "Folha sem furo",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 034 COSTELA-DE-ADÃO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "costela-de-adao-C-1.jpg",
+          "alt": "André perto da janela com a costela"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "w18-221",
+        "m33-198",
+        "q3-291",
+        "q3-290",
+        "w18-023",
+        "q3-293",
+        "w18-071"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Luz",
+        "Clara, filtrada",
+        "Sol quente",
+        "Rega",
+        "Secar um pouco",
+        "Encharcar",
+        "Adubo",
+        "Fraco",
+        "Forte",
+        "Raiz aérea",
+        "Deixar",
+        "Cortar",
+        "Dentro de casa a folha fica menor, mas furada.",
+        "DICA DO ANDRÉ",
+        "A variegada branca cresce devagar e quer mais umidade.",
+        "Na próxima: muda de costela",
+        "→",
+        "TG 034 COSTELA-DE-ADÃO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Muda de costela",
+        "01",
+        "Muda, passo a passo",
+        "02",
+        "A raiz aérea",
+        "03",
+        "Folha sem furo",
+        "Na próxima: muda, passo a passo",
+        "→",
+        "TG 034 COSTELA-DE-ADÃO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "costela-de-adao-D-1.jpg",
+          "alt": "André com uma muda de costela"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "q3-292",
+        "m33-196",
+        "w18-222",
+        "m33-198"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Muda de costela? Faça assim.",
+        "QUANDO",
+        "Na fase de crescimento",
+        "TEMPO",
+        "15 minutos",
+        "PRECISA",
+        "Faca limpa e um vaso",
+        "1",
+        "ESCOLHA",
+        "Caule com raiz de ar.",
+        "2",
+        "CORTE",
+        "A ponta, com uma folha madura.",
+        "3",
+        "NO VASO",
+        "Calor embaixo, sem sol quente.",
+        "DICA DO ANDRÉ",
+        "Se der, leve junto uma raiz aérea.",
+        "Na próxima: a raiz aérea",
+        "→",
+        "TG 034 COSTELA-DE-ADÃO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cos-gesto-1.jpg",
+          "alt": "Mão mostrando uma raiz aérea no caule da costela-de-adão"
+        },
+        {
+          "src": "cos-gesto-2.jpg",
+          "alt": "Mãos cortando a ponta do caule com uma folha madura"
+        },
+        {
+          "src": "cos-gesto-3.jpg",
+          "alt": "Mãos plantando a muda de costela-de-adão num vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "w18-022",
+        "w18-023",
+        "w18-189",
+        "m33-195"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · RAIZ AÉREA",
+        "A raiz aérea",
+        "Raiz aérea comprida não é defeito.",
+        "Uma gruda no apoio, a outra desce para beber.",
+        "A que chega na terra vira raiz de terra.",
+        "Borrifar faz bem a quem tem raiz de ar.",
+        "Por isso a mergulhia dela funciona bem.",
+        "Na próxima: folha sem furo",
+        "→",
+        "TG 034 COSTELA-DE-ADÃO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "w18-015",
+        "w18-221"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Folha sem furo?",
+        "1",
+        "O QUE PARECE",
+        "Planta com defeito.",
+        "O QUE PODE SER",
+        "Folha ainda jovem.",
+        "COMO RESOLVER",
+        "Luz clara e paciência.",
+        "Na próxima: adubo e vaso",
+        "→",
+        "TG 034 COSTELA-DE-ADÃO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cos-sintoma-1.jpg",
+          "alt": "Costela-de-adão jovem com folhas inteiras, sem furos"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Adubo e vaso",
+        "01",
+        "Adubo sem queimar",
+        "02",
+        "Cuidado com o pet",
+        "03",
+        "Costelas de perto",
+        "Na próxima: adubo sem queimar",
+        "→",
+        "TG 034 COSTELA-DE-ADÃO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "costela-de-adao-E-1.jpg",
+          "alt": "André cuidando da costela"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "w18-221",
+        "q3-290",
+        "q3-294"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ADUBO",
+        "Adubo sem queimar",
+        "QUANDO",
+        "Na fase de crescimento",
+        "DE NOVO EM",
+        "Todo mês",
+        "VOCÊ VAI PRECISAR",
+        "Adubo",
+        " bem fraco",
+        "Borrifador",
+        " no tempo seco",
+        "Terra nova",
+        " só na camada de cima",
+        "Regador",
+        " rega farta",
+        "Cuidado",
+        "Adubo forte",
+        " queima a raiz",
+        "Vaso maior",
+        " a adulta não precisa",
+        "Na próxima: cuidado com o pet",
+        "→",
+        "TG 034 COSTELA-DE-ADÃO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "t13-51",
+        "w18-177"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · PET",
+        "ATENÇÃO",
+        "Costela-de-adão pode intoxicar cão, gato e gente.",
+        "A culpa é do oxalato de cálcio da folha.",
+        "Mordida, a folha dispara agulhinhas que levam o veneno.",
+        "FAÇA ASSIM",
+        "Vaso longe do alcance do pet.",
+        "Folha caída vai para o lixo na hora.",
+        "Na próxima: quatro costelas",
+        "→",
+        "TG 034 COSTELA-DE-ADÃO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "w18-132",
+        "w18-071",
+        "w18-133"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro costelas",
+        "1",
+        "Verde",
+        "A clássica.",
+        "2",
+        "Variegada",
+        "Mais devagar.",
+        "3",
+        "De furinhos",
+        "Sobe até em poste.",
+        "4",
+        "No jardim",
+        "Vira forração.",
+        "CHAVE",
+        "Luz filtrada",
+        "Adubo fraco",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 034 COSTELA-DE-ADÃO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cos-var-verde.jpg",
+          "alt": "Costela-de-adão verde com folhas grandes e furadas"
+        },
+        {
+          "src": "cos-var-variegada.jpg",
+          "alt": "Costela-de-adão variegada, com manchas brancas"
+        },
+        {
+          "src": "cos-var-furinhos.jpg",
+          "alt": "Costela-de-furinhos subindo num tutor"
+        },
+        {
+          "src": "cos-var-jardim.jpg",
+          "alt": "Costela-de-adão cobrindo o chão de um jardim sombreado"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "m33-198",
+        "w18-023",
+        "q3-293",
+        "m33-199",
+        "w18-022"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "FOLHA NOVA QUEIMADA",
+        "Sol quente. Proteja.",
+        "RAIZ PARA FORA",
+        "Normal. Não corte.",
+        "FOLHA PEQUENA",
+        "Normal dentro de casa.",
+        "MERGULHIA DEMORA",
+        "Leva de 3 a 6 meses.",
+        "DICA DO ANDRÉ",
+        "A raiz aérea gruda no apoio: dê um tronco para ela subir.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 034 COSTELA-DE-ADÃO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "m33-197",
+        "w18-131"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "2",
+        "ANOS",
+        "é o tempo para a muda de estaca virar costela adulta.",
+        "Ela enraíza em 4 a 8 semanas.",
+        "E MAIS UMA",
+        "Na natureza, a costela-de-adão sobe mais de 22 metros.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 034 COSTELA-DE-ADÃO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "w18-221",
+        "q3-291",
+        "q3-290",
+        "w18-023",
+        "w18-189",
+        "q3-294",
+        "t13-51"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Luz clara e filtrada",
+        "Rega farta ao crescer",
+        "Secar um pouco no calor",
+        "Adubo fraco todo mês",
+        "Raiz aérea fica",
+        "Borrifo no tempo seco",
+        "Só a terra de cima",
+        "Longe do pet",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 034 COSTELA-DE-ADÃO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua costela abrir uma folha furada, me conta. E dá uma muda para quem pedir. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "034",
+        "VOCÊ TEM",
+        "035",
+        "036",
+        "037",
+        "038",
+        "039",
+        "São 34 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 035 JIBOIA E FILODENDRO",
+        "Comente JIBOIA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 034 COSTELA-DE-ADÃO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "costela-de-adao-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

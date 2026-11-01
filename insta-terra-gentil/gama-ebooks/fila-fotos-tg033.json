@@ -1,0 +1,70 @@
+{
+  "livro": "TG 033",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "ant-gesto-1",
+      "especie": "anthurium",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands mixing bark chips, sphagnum moss and charcoal in a basin",
+      "mascote": false
+    },
+    {
+      "id": "ant-gesto-2",
+      "especie": "anthurium",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands setting a red anthurium in a pot with the crown slightly above the soil; the small mascot figurine sits beside the pot on the table",
+      "mascote": true
+    },
+    {
+      "id": "ant-gesto-3",
+      "especie": "anthurium",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands covering the soil of an anthurium pot with sphagnum moss",
+      "mascote": false
+    },
+    {
+      "id": "ant-sintoma-1",
+      "especie": "anthurium",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A wilted anthurium in a pot with waterlogged soil, water pooling on top",
+      "mascote": false
+    },
+    {
+      "id": "ant-var-vermelho",
+      "especie": "red anthurium",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Classic red anthurium in a pot indoors near a bright window",
+      "mascote": false
+    },
+    {
+      "id": "ant-var-enrolado",
+      "especie": "flamingo flower",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Anthurium scherzerianum with a curly orange spadix in a pot",
+      "mascote": false
+    },
+    {
+      "id": "ant-var-cristal",
+      "especie": "crystal anthurium",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Anthurium crystallinum with velvety heart-shaped leaves and silver veins",
+      "mascote": false
+    },
+    {
+      "id": "ant-var-rosinha",
+      "especie": "pink anthurium",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Compact pink anthurium full of small flowers; the small mascot figurine peeks from behind the pot on a shelf",
+      "mascote": true
+    }
+  ]
+}

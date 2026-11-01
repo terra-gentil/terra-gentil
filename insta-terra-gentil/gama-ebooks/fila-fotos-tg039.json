@@ -1,0 +1,70 @@
+{
+  "livro": "TG 039",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "mor-gesto-1",
+      "especie": "strawberry plant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands spacing strawberry seedlings in a long planter",
+      "mascote": false
+    },
+    {
+      "id": "mor-gesto-2",
+      "especie": "strawberry plant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting a strawberry seedling at the same depth it was; the small mascot figurine sits on the rim of the planter",
+      "mascote": true
+    },
+    {
+      "id": "mor-gesto-3",
+      "especie": "strawberry plant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands spreading dry straw under strawberry leaves",
+      "mascote": false
+    },
+    {
+      "id": "mor-sintoma-1",
+      "especie": "strawberry",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A rotten strawberry lying on wet soil in a pot",
+      "mascote": false
+    },
+    {
+      "id": "mor-var-comum",
+      "especie": "strawberry",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Large red strawberries hanging from a pot on a balcony",
+      "mascote": false
+    },
+    {
+      "id": "mor-var-silvestre",
+      "especie": "wild strawberry",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Wild strawberry with small red fruits among the leaves",
+      "mascote": false
+    },
+    {
+      "id": "mor-var-florrosa",
+      "especie": "pink flowered strawberry",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Strawberry plant with pink flowers in a hanging pot; the small mascot figurine sits on the shelf below the pot",
+      "mascote": true
+    },
+    {
+      "id": "mor-var-branco",
+      "especie": "white wild strawberry",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Wild strawberry with small white fruits",
+      "mascote": false
+    }
+  ]
+}

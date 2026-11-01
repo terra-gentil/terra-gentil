@@ -28244,7 +28244,7 @@
   "q3-580": {
    "texto": "Palmeira-de-salão não gosta que mexam na raiz: troque de vaso só quando a terra estiver tomada",
    "esp": "palmeira",
-   "serie": "Erro comum",
+   "serie": "3 erros",
    "livro": "Squire, The Houseplant Handbook",
    "pagina": "223",
    "fontePet": null
@@ -28412,7 +28412,7 @@
   "q3-601": {
    "texto": "A washingtonia cresce rápido e costuma durar pouco dentro de casa",
    "esp": "palmeira",
-   "serie": "Erro comum",
+   "serie": "3 erros",
    "livro": "Squire, The Houseplant Handbook",
    "pagina": "235",
    "fontePet": null
@@ -28460,7 +28460,7 @@
   "q3-607": {
    "texto": "A amarílis de vaso (Hippeastrum) não é a mesma planta que a Amaryllis belladonna",
    "esp": "amarílis",
-   "serie": "Erro comum",
+   "serie": "3 erros",
    "livro": "Squire, The Houseplant Handbook",
    "pagina": "238",
    "fontePet": null
@@ -28556,7 +28556,7 @@
   "q3-619": {
    "texto": "Narciso, tulipa e lírio de vaso: para florir bonito de novo, o livro manda comprar bulbo novo todo ano",
    "esp": "bulbo",
-   "serie": "Erro comum",
+   "serie": "3 erros",
    "livro": "Squire, The Houseplant Handbook",
    "pagina": "242",
    "fontePet": null
@@ -29044,7 +29044,7 @@
   "q3-680": {
    "texto": "Ao dividir a samambaia-botão, não corte em pedaços muito pequenos",
    "esp": "samambaia",
-   "serie": "Erro comum",
+   "serie": "3 erros",
    "livro": "Squire, The Houseplant Handbook",
    "pagina": "280",
    "fontePet": null
@@ -29111,6 +29111,1694 @@
    "serie": "Você sabia?",
    "livro": "Squire, The Houseplant Handbook",
    "pagina": "285",
+   "fontePet": null
+  },
+  "h35-001": {
+   "texto": "Horta em pouco espaço em 3 regras: conheça seu cantinho, escolha o que dá nele e não deixe espaço vazio",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "11",
+   "fontePet": null
+  },
+  "h35-002": {
+   "texto": "Quase toda hortaliça dá em vaso, desde que o vaso seja grande o bastante para ela",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "13",
+   "fontePet": null
+  },
+  "h35-003": {
+   "texto": "Muro branco em volta da horta rebate luz para as plantas",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "14",
+   "fontePet": null
+  },
+  "h35-004": {
+   "texto": "Muro e cerca seguram a chuva: a planta encostada neles pode ficar seca mesmo depois de chover",
+   "esp": "regar",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "14",
+   "fontePet": null
+  },
+  "h35-005": {
+   "texto": "Varanda e laje pegam vento: prefira plantas baixas e amarre as altas",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "15",
+   "fontePet": null
+  },
+  "h35-006": {
+   "texto": "Terra molhada pesa muito: cuidado para não sobrecarregar varanda e laje com vasos",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "15",
+   "fontePet": null
+  },
+  "h35-007": {
+   "texto": "Prateleira e suporte de vaso na parede: prenda bem, para aguentar o peso e não voar com o vento",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "15",
+   "fontePet": null
+  },
+  "h35-008": {
+   "texto": "Tomate e pimenta pedem pelo menos 6 horas de sol por dia; a alface se vira com 3",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "16",
+   "fontePet": null
+  },
+  "h35-009": {
+   "texto": "Com calor demais, a hortaliça de folha pode \"pendoar\": solta flor de repente e a folha fica amarga",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "16",
+   "fontePet": null
+  },
+  "h35-010": {
+   "texto": "Planta de sol plantada na sombra cresce fraca e espichada",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "16",
+   "fontePet": null
+  },
+  "h35-011": {
+   "texto": "A maioria das hortaliças de folha prefere um pouco de sombra: no sol pleno a folha pode queimar",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "16",
+   "fontePet": null
+  },
+  "h35-012": {
+   "texto": "Lesma e caracol gostam de canto fresco e úmido: são mais problema em horta sombreada",
+   "esp": "lesma",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "16",
+   "fontePet": null
+  },
+  "h35-013": {
+   "texto": "Fotografe seu quintal em vários horários do dia para descobrir onde bate sol e onde é sombra",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "17",
+   "fontePet": null
+  },
+  "h35-014": {
+   "texto": "Sol pleno numa horta de cidade quer dizer pelo menos 6 horas de sol direto; canto de sombra, no mínimo 3",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "17",
+   "fontePet": null
+  },
+  "h35-015": {
+   "texto": "Vaso maior seca mais devagar: na horta de vaso, quanto maior, menos rega",
+   "esp": "regar",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "18",
+   "fontePet": null
+  },
+  "h35-016": {
+   "texto": "Cubra a terra do vaso com palha ou folha seca para a água não evaporar",
+   "esp": "regar",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "18",
+   "fontePet": null
+  },
+  "h35-017": {
+   "texto": "Antes de plantar, molhe bem a muda: ajuda a pegar raiz",
+   "esp": "regar",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "18",
+   "fontePet": null
+  },
+  "h35-018": {
+   "texto": "Vento forte resseca a planta, queima a folha e quebra o caule",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "19",
+   "fontePet": null
+  },
+  "h35-019": {
+   "texto": "Quebra-vento de muro fechado cria redemoinho do outro lado; tela, treliça ou planta filtram melhor",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "19",
+   "fontePet": null
+  },
+  "h35-020": {
+   "texto": "Lavanda e sálvia na borda do canteiro protegem as folhas da horta do vento",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "19",
+   "fontePet": null
+  },
+  "h35-021": {
+   "texto": "Terra boa segura água e nutriente, mas deixa o excesso escorrer",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "20",
+   "fontePet": null
+  },
+  "h35-022": {
+   "texto": "Teste da terra na mão: argila gruda e faz bolinha, areia arranha e esfarela, terra boa é sedosa e molda",
+   "esp": "solo",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "20",
+   "fontePet": null
+  },
+  "h35-023": {
+   "texto": "A maioria das hortaliças gosta de terra levemente ácida",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "20",
+   "fontePet": null
+  },
+  "h35-024": {
+   "texto": "Terra ruim para o que você quer plantar? Plante em vaso ou canteiro elevado",
+   "esp": "solo",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "20",
+   "fontePet": null
+  },
+  "h35-025": {
+   "texto": "Esterco só curtido, nunca fresco",
+   "esp": "adubar",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "21",
+   "fontePet": null
+  },
+  "h35-026": {
+   "texto": "Terra de folha: guarde folhas secas molhadas em sacos por dois anos e está pronta",
+   "esp": "compostagem",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "21",
+   "fontePet": null
+  },
+  "h35-027": {
+   "texto": "Em vez de enterrar o composto, espalhe por cima: as minhocas puxam para dentro da terra",
+   "esp": "solo",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "21",
+   "fontePet": null
+  },
+  "h35-028": {
+   "texto": "Matéria orgânica abre a terra de argila e funciona como esponja na terra de areia",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "21",
+   "fontePet": null
+  },
+  "h35-029": {
+   "texto": "Composteira: vá alternando camadas de folha, galhinho e resto de cozinha para o ar circular",
+   "esp": "compostagem",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "21",
+   "fontePet": null
+  },
+  "h35-030": {
+   "texto": "Revire a composteira de vez em quando com o garfo: entra ar e acelera",
+   "esp": "compostagem",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "21",
+   "fontePet": null
+  },
+  "h35-031": {
+   "texto": "O composto está pronto quando fica escuro e esfarelando; o que não desmanchou volta para a composteira",
+   "esp": "compostagem",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "21",
+   "fontePet": null
+  },
+  "h35-032": {
+   "texto": "Canteiro elevado: 15 cm de terra bastam para alface e rabanete; abobrinha e beterraba pedem pelo menos 30 cm",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "22",
+   "fontePet": null
+  },
+  "h35-033": {
+   "texto": "Canteiro com no máximo 1 a 1,2 m de largura: você cuida pelos lados sem pisar e compactar a terra",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "23",
+   "fontePet": null
+  },
+  "h35-034": {
+   "texto": "Canteiro elevado pode ser feito de tijolo velho, tábua, chapa de metal, pneu ou até piscininha velha",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "23",
+   "fontePet": null
+  },
+  "h35-035": {
+   "texto": "Canteiro elevado é fácil de proteger com tela contra passarinho, gato e borboleta que põe ovo na couve",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "23",
+   "fontePet": null
+  },
+  "h35-036": {
+   "texto": "Canteiro mais fundo segura melhor a umidade e seca menos",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "24",
+   "fontePet": null
+  },
+  "h35-037": {
+   "texto": "Receita de terra para canteiro elevado: 45% terra de jardim, 45% substrato e 10% areia grossa ou pedrisco",
+   "esp": "solo",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "25",
+   "fontePet": null
+  },
+  "h35-038": {
+   "texto": "Minhoca come matéria orgânica, puxa para o fundo, areja a terra e solta nutriente para a planta",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "25",
+   "fontePet": null
+  },
+  "h35-039": {
+   "texto": "Plantio sem revirar a terra mantém a estrutura do solo e não traz semente de mato para cima",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "25",
+   "fontePet": null
+  },
+  "h35-040": {
+   "texto": "Horta em vaso tem uma vantagem: dá para mudar o vaso de lugar atrás do sol ou da sombra",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "26",
+   "fontePet": null
+  },
+  "h35-041": {
+   "texto": "Broto de ervilha e cenoura redondinha crescem até em vaso pequeno",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "27",
+   "fontePet": null
+  },
+  "h35-042": {
+   "texto": "Prateleira na parede ou escada vira horta em camadas em espaço pequeno",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "29",
+   "fontePet": null
+  },
+  "h35-043": {
+   "texto": "Planta trepadeira (pepino, feijão) aproveita espaço pequeno porque cresce para cima",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "29",
+   "fontePet": null
+  },
+  "h35-044": {
+   "texto": "Substrato comum segura bem a água, mas se desmancha com o tempo; terra mais pesada mantém planta grande firme",
+   "esp": "trocar-vaso",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "30",
+   "fontePet": null
+  },
+  "h35-045": {
+   "texto": "Vaso de metal esquenta a raiz: forre por dentro com plástico-bolha, sem tampar os furos",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "31",
+   "fontePet": null
+  },
+  "h35-046": {
+   "texto": "Substrato usado poucas semanas (microverdes) dá para reaproveitar: tire os restos, misture adubo e complete",
+   "esp": "trocar-vaso",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "31",
+   "fontePet": null
+  },
+  "h35-047": {
+   "texto": "A maioria dos substratos tem comida para 4 a 6 semanas; depois a planta do vaso precisa de adubo",
+   "esp": "adubar",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "31",
+   "fontePet": null
+  },
+  "h35-048": {
+   "texto": "Tomate e abobrinha em vaso são comilões: adubo líquido toda semana",
+   "esp": "adubar",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "31",
+   "fontePet": null
+  },
+  "h35-049": {
+   "texto": "Vaso grande: arrume no lugar antes de encher de terra",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "31",
+   "fontePet": null
+  },
+  "h35-050": {
+   "texto": "Furo do vaso: cubra com caco de vaso ou isopor quebrado para a terra não entupir",
+   "esp": "trocar-vaso",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "31",
+   "fontePet": null
+  },
+  "h35-051": {
+   "texto": "Na dúvida do que plantar, plante o que você mais gosta de comer",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "32",
+   "fontePet": null
+  },
+  "h35-052": {
+   "texto": "Vale plantar o que é melhor comido fresco (ervilha, milho verde) ou o que é caro no mercado",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "33",
+   "fontePet": null
+  },
+  "h35-053": {
+   "texto": "Distância entre plantas: tomate de moita 45 a 90 cm, pimentão 45 a 60 cm, alface 15 a 35 cm, rabanete 1 cm",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "34",
+   "fontePet": null
+  },
+  "h35-054": {
+   "texto": "Verdura colhida bebê pode ser plantada mais junta, mas aí precisa de mais rega",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "35",
+   "fontePet": null
+  },
+  "h35-055": {
+   "texto": "Para quintal de sol: tomate, abobrinha, berinjela, pimenta, pimentão, morango, funcho e manjericão",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "38",
+   "fontePet": null
+  },
+  "h35-056": {
+   "texto": "Para cantinho de sombra: alface, acelga, mostarda, espinafre, azedinha, rúcula, salsinha, hortelã e coentro",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "39",
+   "fontePet": null
+  },
+  "h35-057": {
+   "texto": "Hortaliça que mais rende no espaço: vagem, rúcula, beterraba, alface, rabanete, mostarda, abobrinha e acelga",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "40",
+   "fontePet": null
+  },
+  "h35-058": {
+   "texto": "Broto de ervilha fica pronto em 3 semanas, microverde em 3 a 5, rabanete em 4 a 6",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "41",
+   "fontePet": null
+  },
+  "h35-059": {
+   "texto": "Rúcula fica pronta em 4 a 5 semanas, e o desbaste vira microverde",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "41",
+   "fontePet": null
+  },
+  "h35-060": {
+   "texto": "A flor macho da abobrinha também se come",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "41",
+   "fontePet": null
+  },
+  "h35-061": {
+   "texto": "Broto de ervilha: deixe a ervilha seca de molho uma noite, semeie e colha em 3 semanas",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "42",
+   "fontePet": null
+  },
+  "h35-062": {
+   "texto": "Abobrinha: colha pequena para ela dar mais",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "42",
+   "fontePet": null
+  },
+  "h35-063": {
+   "texto": "Alface, rabanete, cebolinha, mostarda, vagem e morango-silvestre dão em só 15 cm de terra, com rega em dia",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "43",
+   "fontePet": null
+  },
+  "h35-064": {
+   "texto": "Da cebolinha se come a folha e a flor",
+   "esp": "cebolinha",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "43",
+   "fontePet": null
+  },
+  "h35-065": {
+   "texto": "Nove vasos espalhados pelo quintal somam o mesmo espaço de plantio de um canteiro",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "44",
+   "fontePet": null
+  },
+  "h35-066": {
+   "texto": "Alface embaixo do milho: planta baixa aproveita o espaço da planta alta",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "45",
+   "fontePet": null
+  },
+  "h35-067": {
+   "texto": "Tenha muda pronta no vaso para plantar assim que colher: a horta nunca fica parada",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "45",
+   "fontePet": null
+  },
+  "h35-068": {
+   "texto": "Quanto mais você colhe, mais a planta repõe folha e fruto (menos a de raiz)",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "47",
+   "fontePet": null
+  },
+  "h35-069": {
+   "texto": "Preparar canteiro velho: tire todo o mato, regue e cubra com 10 cm de matéria orgânica, sem enterrar",
+   "esp": "solo",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "48",
+   "fontePet": null
+  },
+  "h35-070": {
+   "texto": "Raiz de mato perene não vai para a composteira",
+   "esp": "mato",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "48",
+   "fontePet": null
+  },
+  "h35-071": {
+   "texto": "Canteiro vai ficar vazio? Semeie adubo verde, como trevo, e incorpore depois",
+   "esp": "solo",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "48",
+   "fontePet": null
+  },
+  "h35-072": {
+   "texto": "Terra boa é terra ocupada: a raiz das plantas abre o solo e atrai fungos e bactérias do bem",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "49",
+   "fontePet": null
+  },
+  "h35-073": {
+   "texto": "Semear no canteiro: tire mato e pedra, nivele, faça o sulco na fundura do pacote, semeie fino, cubra e regue com crivo fino",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "50",
+   "fontePet": null
+  },
+  "h35-074": {
+   "texto": "Depois que a semente nasce, desbaste: arranque as sobras para ficar na distância certa",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "50",
+   "fontePet": null
+  },
+  "h35-075": {
+   "texto": "Planta perene e fruta miúda vão melhor de muda do que de semente",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "50",
+   "fontePet": null
+  },
+  "h35-076": {
+   "texto": "Sementeira: cubra com saco plástico transparente, em lugar claro e quente, e tire assim que nascer",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "51",
+   "fontePet": null
+  },
+  "h35-077": {
+   "texto": "Muda com dois pares de folhas já pode ir para o vasinho próprio",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "51",
+   "fontePet": null
+  },
+  "h35-078": {
+   "texto": "Aclimatar a muda: 10 dias fora de dia e dentro à noite antes de plantar de vez",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "51",
+   "fontePet": null
+  },
+  "h35-079": {
+   "texto": "Plantio escalonado: semeie pouco e sempre, de semanas em semanas, para colher sem parar",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "52",
+   "fontePet": null
+  },
+  "h35-080": {
+   "texto": "Repetir a mesma planta no mesmo lugar todo ano gasta a terra e chama a praga dela",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "52",
+   "fontePet": null
+  },
+  "h35-081": {
+   "texto": "Canteiro pequeno não dá rodízio: limpe os restos, controle praga e alimente a terra todo ano",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "52",
+   "fontePet": null
+  },
+  "h35-082": {
+   "texto": "Consórcio: rabanete e rúcula crescem no vão de planta lenta ou alta, como milho e brócolis",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "53",
+   "fontePet": null
+  },
+  "h35-083": {
+   "texto": "Adubo líquido age rápido mas dura pouco: em geral vai toda semana",
+   "esp": "adubar",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "54",
+   "fontePet": null
+  },
+  "h35-084": {
+   "texto": "Folha (alface, acelga) quer nitrogênio; fruto (abobrinha, tomate) quer potássio",
+   "esp": "adubar",
+   "serie": "X ou Y?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "54",
+   "fontePet": null
+  },
+  "h35-085": {
+   "texto": "Muda se rega com regador de crivo fino, para não derrubar nem arrastar",
+   "esp": "regar",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "55",
+   "fontePet": null
+  },
+  "h35-086": {
+   "texto": "Planta grande se rega no pé, sem molhar as folhas",
+   "esp": "regar",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "55",
+   "fontePet": null
+  },
+  "h35-087": {
+   "texto": "Garrafa PET cortada enterrada como funil leva a água direto para a raiz",
+   "esp": "regar",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "55",
+   "fontePet": null
+  },
+  "h35-088": {
+   "texto": "Abobrinha e morango só dão fruto se um inseto polinizar a flor",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "56",
+   "fontePet": null
+  },
+  "h35-089": {
+   "texto": "Polinizador prefere flor simples, fácil de entrar; flor dobrada atrapalha",
+   "esp": "abelha",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "56",
+   "fontePet": null
+  },
+  "h35-090": {
+   "texto": "Borragem parece o paraíso da abelha",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "57",
+   "fontePet": null
+  },
+  "h35-091": {
+   "texto": "Deixe umas cenouras florirem: abelha adora a flor",
+   "esp": "abelha",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "57",
+   "fontePet": null
+  },
+  "h35-092": {
+   "texto": "A mosca-sirfídea parece vespa: o adulto poliniza e a larva come pulgão",
+   "esp": "praga",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "57",
+   "fontePet": null
+  },
+  "h35-093": {
+   "texto": "Planta isca: deixe a praga ir numa planta que ela ama, longe da horta, e use a que ela odeia como barreira",
+   "esp": "praga",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "58",
+   "fontePet": null
+  },
+  "h35-094": {
+   "texto": "Capuchinha atrai o pulgão para longe da horta",
+   "esp": "praga",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "59",
+   "fontePet": null
+  },
+  "h35-095": {
+   "texto": "Manjericão junto do tomate ajuda contra pulgão",
+   "esp": "praga",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "59",
+   "fontePet": null
+  },
+  "h35-096": {
+   "texto": "Cebolinha e alho perto da cenoura disfarçam o cheiro dela para a mosca-da-cenoura",
+   "esp": "praga",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "59",
+   "fontePet": null
+  },
+  "h35-097": {
+   "texto": "Tagetes (cravo-de-defunto) ajuda a espantar a mosca-branca",
+   "esp": "praga",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "59",
+   "fontePet": null
+  },
+  "h35-098": {
+   "texto": "Vaso de hortelã perto da horta ajuda a afastar pulgão",
+   "esp": "praga",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "59",
+   "fontePet": null
+  },
+  "h35-099": {
+   "texto": "Jardineira de grade de varanda: encha de substrato até 5 cm abaixo da borda, para sobrar espaço da rega",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "62",
+   "fontePet": null
+  },
+  "h35-100": {
+   "texto": "Tomate de vaso: adubo líquido de tomate toda semana assim que aparecerem as primeiras flores",
+   "esp": "tomate",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "63",
+   "fontePet": null
+  },
+  "h35-101": {
+   "texto": "Tomate verde no fim da safra amadurece na fruteira junto com maçã e banana",
+   "esp": "tomate",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "63",
+   "fontePet": null
+  },
+  "h35-102": {
+   "texto": "Escorredor de metal vira vaso suspenso de morango: forre com plástico-bolha furado",
+   "esp": "morango",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "64",
+   "fontePet": null
+  },
+  "h35-103": {
+   "texto": "Raiz enrolada no vaso: solte com os dedos antes de plantar, para ela crescer na terra nova",
+   "esp": "trocar-vaso",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "66",
+   "fontePet": null
+  },
+  "h35-104": {
+   "texto": "Morango é perene: dá um pouco no primeiro ano e produz melhor no segundo e no terceiro",
+   "esp": "morango",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "67",
+   "fontePet": null
+  },
+  "h35-105": {
+   "texto": "Corte os estolões do morango depois da colheita para a planta não gastar energia",
+   "esp": "morango",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "67",
+   "fontePet": null
+  },
+  "h35-106": {
+   "texto": "Vaso suspenso quase não recebe chuva: regue mesmo quando chove",
+   "esp": "regar",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "67",
+   "fontePet": null
+  },
+  "h35-107": {
+   "texto": "Bolsa de pano na grade da varanda: não faça funda demais, o peso da terra molhada rasga o tecido",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "68",
+   "fontePet": null
+  },
+  "h35-108": {
+   "texto": "Bolsa dupla na grade: planta de sol do lado de fora, planta de sombra virada para dentro",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "71",
+   "fontePet": null
+  },
+  "h35-109": {
+   "texto": "Milho em vaso: plante em bloco, não em fileira, para o vento polinizar e a espiga encher",
+   "esp": "milho",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "72",
+   "fontePet": null
+  },
+  "h35-110": {
+   "texto": "Milho cresce devagar e faz pouca sombra: dá para plantar beterraba, alface ou rúcula no pé dele",
+   "esp": "milho",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "72",
+   "fontePet": null
+  },
+  "h35-111": {
+   "texto": "Milho não gosta de ser mudado: não deixe a muda crescer demais antes de plantar",
+   "esp": "milho",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "72",
+   "fontePet": null
+  },
+  "h35-112": {
+   "texto": "Milho verde mais doce: colha quando o cabelo da espiga começar a ficar marrom e coma em até 24 horas",
+   "esp": "milho",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "75",
+   "fontePet": null
+  },
+  "h35-113": {
+   "texto": "Espiga que passa do ponto troca o açúcar por amido",
+   "esp": "milho",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "75",
+   "fontePet": null
+  },
+  "h35-114": {
+   "texto": "Cenoura em vaso alto escapa da mosca-da-cenoura, que voa rente ao chão",
+   "esp": "cenoura",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "75",
+   "fontePet": null
+  },
+  "h35-115": {
+   "texto": "A rama da cenoura também se come e tem gosto parecido com salsinha",
+   "esp": "cenoura",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "75",
+   "fontePet": null
+  },
+  "h35-116": {
+   "texto": "Plantando para cima, um espaço pequeno pode render o dobro ou o triplo",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "76",
+   "fontePet": null
+  },
+  "h35-117": {
+   "texto": "Pepino em vaso: três bambus amarrados em tenda e barbante enrolado de baixo para cima para ele subir",
+   "esp": "pepino",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "78",
+   "fontePet": null
+  },
+  "h35-118": {
+   "texto": "Pepino é sedento: terra sempre úmida",
+   "esp": "pepino",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "79",
+   "fontePet": null
+  },
+  "h35-119": {
+   "texto": "Cada pé de pepino dá até uma dúzia de frutos no verão",
+   "esp": "pepino",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "79",
+   "fontePet": null
+  },
+  "h35-120": {
+   "texto": "Duas escadas e três tábuas viram prateleira de horta no quintal",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "80",
+   "fontePet": null
+  },
+  "h35-121": {
+   "texto": "Microverde: semeie manjericão, mostarda, couve ou rúcula; colheu, semeie de novo a cada poucas semanas",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "82",
+   "fontePet": null
+  },
+  "h35-122": {
+   "texto": "Belisque a ponta do manjericão para ele brotar dos lados e ficar cheio",
+   "esp": "manjericão",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "83",
+   "fontePet": null
+  },
+  "h35-123": {
+   "texto": "Na prateleira, o vaso de baixo fica na \"sombra de chuva\": regue mesmo com chuva",
+   "esp": "regar",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "83",
+   "fontePet": null
+  },
+  "h35-124": {
+   "texto": "Prateleira de horta: planta pesada embaixo, planta pendente e pequena em cima",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "85",
+   "fontePet": null
+  },
+  "h35-125": {
+   "texto": "Regue o vaso antes de pôr na prateleira, para não pingar água e terra na planta de baixo",
+   "esp": "regar",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "86",
+   "fontePet": null
+  },
+  "h35-126": {
+   "texto": "Ao mudar muda de vaso, mantenha o colo da planta na mesma altura em que estava",
+   "esp": "trocar-vaso",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "86",
+   "fontePet": null
+  },
+  "h35-127": {
+   "texto": "Gire os vasos de vez em quando para cada lado pegar sol e a planta crescer reta",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "87",
+   "fontePet": null
+  },
+  "h35-128": {
+   "texto": "Morango no alto da prateleira fica limpo e longe de praga, mas confira se a lesma não subiu",
+   "esp": "morango",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "87",
+   "fontePet": null
+  },
+  "h35-129": {
+   "texto": "Roda velha de bicicleta presa no muro vira treliça: a gavinha do pepino se agarra nos raios",
+   "esp": "pepino",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "88",
+   "fontePet": null
+  },
+  "h35-130": {
+   "texto": "Oídio é um pó branco na folha que aparece muito quando falta água; tire as folhas atacadas logo",
+   "esp": "praga",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "88",
+   "fontePet": null
+  },
+  "h35-131": {
+   "texto": "Muda plantada funda demais pode apodrecer no colo: deixe a terra na altura do pescoço da planta",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "90",
+   "fontePet": null
+  },
+  "h35-132": {
+   "texto": "Pepino fica melhor colhido com 20 a 25 cm, de casca macia; colher sempre faz a planta dar mais",
+   "esp": "pepino",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "91",
+   "fontePet": null
+  },
+  "h35-133": {
+   "texto": "Arco de vagem: dois vasos compridos dos lados da porta e varas cruzadas no alto",
+   "esp": "feijão",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "92",
+   "fontePet": null
+  },
+  "h35-134": {
+   "texto": "Enquanto o feijão-trepador tiver flor, vem mais vagem: continue colhendo",
+   "esp": "feijão",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "92",
+   "fontePet": null
+  },
+  "h35-135": {
+   "texto": "Feijão-trepador chega a 2,5 m e pede suporte firme",
+   "esp": "feijão",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "94",
+   "fontePet": null
+  },
+  "h35-136": {
+   "texto": "Plante 2 ou 3 sementes de feijão no pé de cada vara; a que falhar, semeie de novo semanas depois",
+   "esp": "feijão",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "94",
+   "fontePet": null
+  },
+  "h35-137": {
+   "texto": "Colha a vagem nova a cada 2 ou 3 dias para não parar de produzir",
+   "esp": "feijão",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "95",
+   "fontePet": null
+  },
+  "h35-138": {
+   "texto": "A planta só precisa de terra, luz e água: quase qualquer coisa vira vaso",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "96",
+   "fontePet": null
+  },
+  "h35-139": {
+   "texto": "Palete de madeira com bolsos de manta vira parede de horta: morango, alface, tomate e ervas",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "98",
+   "fontePet": null
+  },
+  "h35-140": {
+   "texto": "Antes de plantar, mergulhe o vaso da muda num balde até parar de sair bolha",
+   "esp": "regar",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "101",
+   "fontePet": null
+  },
+  "h35-141": {
+   "texto": "No palete, planta pendente em cima e erva de sombra embaixo",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "102",
+   "fontePet": null
+  },
+  "h35-142": {
+   "texto": "Colha a alface folha a folha e deixe o pé continuar crescendo",
+   "esp": "alface",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "103",
+   "fontePet": null
+  },
+  "h35-143": {
+   "texto": "Sacola retornável de mercado vira vaso de abobrinha: uma planta por sacola",
+   "esp": "abobrinha",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "104",
+   "fontePet": null
+  },
+  "h35-144": {
+   "texto": "Um pé de abobrinha bem regado e adubado dá até 20 frutos: muitas vezes um basta",
+   "esp": "abobrinha",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "105",
+   "fontePet": null
+  },
+  "h35-145": {
+   "texto": "Abobrinha: colha nova, de casca fina; ela fica gigante assim que você vira as costas",
+   "esp": "abobrinha",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "105",
+   "fontePet": null
+  },
+  "h35-146": {
+   "texto": "Batata no saco: um terço de terra, 3 batatas, camada funda de terra, mais 2 batatas e mais terra por cima",
+   "esp": "batata",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "105",
+   "fontePet": null
+  },
+  "h35-147": {
+   "texto": "Colha a batata do saco depois da flor, quando a rama começar a murchar",
+   "esp": "batata",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "105",
+   "fontePet": null
+  },
+  "h35-148": {
+   "texto": "Mirtilo em vaso pede terra ácida e água de chuva: a água de torneira costuma ser alcalina",
+   "esp": "mirtilo",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "106",
+   "fontePet": null
+  },
+  "h35-149": {
+   "texto": "Truque do vaso molde: encaixe o vaso velho no novo, encha em volta, tire e plante a muda no buraco",
+   "esp": "mirtilo",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "108",
+   "fontePet": null
+  },
+  "h35-150": {
+   "texto": "Passarinho adora mirtilo e come assim que começa a amadurecer: proteja com tela fina",
+   "esp": "mirtilo",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "109",
+   "fontePet": null
+  },
+  "h35-151": {
+   "texto": "A maioria dos mirtilos precisa de dois pés para polinizar e dar fruto",
+   "esp": "mirtilo",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "109",
+   "fontePet": null
+  },
+  "h35-152": {
+   "texto": "Fita de cobre em volta da jardineira ajuda a afastar lesma e caracol",
+   "esp": "lesma",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "113",
+   "fontePet": null
+  },
+  "h35-153": {
+   "texto": "Jardineira de madeira com pezinhos: a água escorre e a base não apodrece no parapeito molhado",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "112",
+   "fontePet": null
+  },
+  "h35-154": {
+   "texto": "Abóbora sobe em treliça: amarre os ramos com barbante macio e ganhe espaço",
+   "esp": "abobrinha",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "114",
+   "fontePet": null
+  },
+  "h35-155": {
+   "texto": "Afaste as folhas que fazem sombra no fruto da abóbora para ele amadurecer por inteiro",
+   "esp": "abobrinha",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "117",
+   "fontePet": null
+  },
+  "h35-156": {
+   "texto": "Calha de chuva presa no muro vira canteiro de microverde e broto de ervilha",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "h35-157": {
+   "texto": "Verdura colhida bem nova tem sabor mais forte que a adulta",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "h35-158": {
+   "texto": "Calha de microverde: dá para semear até 3 vezes; depois troque toda a terra",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "121",
+   "fontePet": null
+  },
+  "h35-159": {
+   "texto": "Microverde se semeia bem junto: cada broto é parte da colheita",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "123",
+   "fontePet": null
+  },
+  "h35-160": {
+   "texto": "Ervas rasteiras entre as pedras do caminho soltam cheiro quando a gente pisa",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "125",
+   "fontePet": null
+  },
+  "h35-161": {
+   "texto": "Muita erva gosta de terra seca e pobre: por isso vai bem em vaso suspenso",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "126",
+   "fontePet": null
+  },
+  "h35-162": {
+   "texto": "Ervas: regue com frequência, mas adube só uma vez por mês",
+   "esp": "adubar",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "127",
+   "fontePet": null
+  },
+  "h35-163": {
+   "texto": "Bolso de parede seca rápido: no calor, confira todo dia e regue cedo de manhã",
+   "esp": "regar",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "131",
+   "fontePet": null
+  },
+  "h35-164": {
+   "texto": "Nove vasos grandes dão o mesmo espaço de um canteiro de 1 m por 1 m, com duas safras no ano",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "h35-165": {
+   "texto": "De 4 a 5 pés de alface bastam para ter folha à vontade",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "135",
+   "fontePet": null
+  },
+  "h35-166": {
+   "texto": "Rabanete é das coisas mais rápidas da horta: fica pronto em 4 a 6 semanas",
+   "esp": "rabanete",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "138",
+   "fontePet": null
+  },
+  "h35-167": {
+   "texto": "Desbaste o rabanete assim que der para pegar a mudinha",
+   "esp": "rabanete",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "138",
+   "fontePet": null
+  },
+  "h35-168": {
+   "texto": "Alface dá para colher como folha bebê ou como pé formado em 9 a 12 semanas",
+   "esp": "alface",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "140",
+   "fontePet": null
+  },
+  "h35-169": {
+   "texto": "Ervilha-torta é cara no mercado e muito fácil de plantar",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "142",
+   "fontePet": null
+  },
+  "h35-170": {
+   "texto": "Cebolinha de bulbo: colha quando o talo estiver da grossura de um lápis",
+   "esp": "cebolinha",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "144",
+   "fontePet": null
+  },
+  "h35-171": {
+   "texto": "Broto de ervilha: corte acima das folhas de baixo quando tiver 10 a 15 cm; rebrota mais 2 ou 3 vezes",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "146",
+   "fontePet": null
+  },
+  "h35-172": {
+   "texto": "Qualquer ervilha seca serve para broto de ervilha",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "146",
+   "fontePet": null
+  },
+  "h35-173": {
+   "texto": "Tomate de haste única é o melhor para vaso: tire os brotos que saem do caule principal",
+   "esp": "tomate",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "149",
+   "fontePet": null
+  },
+  "h35-174": {
+   "texto": "Semeie a cenoura ralinha: desbastar solta o cheiro que chama a mosca-da-cenoura",
+   "esp": "cenoura",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "150",
+   "fontePet": null
+  },
+  "h35-175": {
+   "texto": "Cenoura curta ou redonda é a melhor para vaso",
+   "esp": "cenoura",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "150",
+   "fontePet": null
+  },
+  "h35-176": {
+   "texto": "Beterraba fica pronta em até 8 semanas, e a folha se usa como acelga",
+   "esp": "beterraba",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "152",
+   "fontePet": null
+  },
+  "h35-177": {
+   "texto": "Microbeterraba: arranque com 2 ou 3 semanas e coma folha, talo e a raizinha",
+   "esp": "beterraba",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "152",
+   "fontePet": null
+  },
+  "h35-178": {
+   "texto": "Pimenta pode ser colhida verde, mais suave, ou madura, mais ardida",
+   "esp": "pimenta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "153",
+   "fontePet": null
+  },
+  "h35-179": {
+   "texto": "Canteiro encostado num muro de sol esquenta e protege: bom para planta de calor",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "160",
+   "fontePet": null
+  },
+  "h35-180": {
+   "texto": "Forre o canteiro de madeira por dentro com plástico: a madeira dura mais e a terra segura umidade",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "163",
+   "fontePet": null
+  },
+  "h35-181": {
+   "texto": "No canteiro, plante o morango primeiro (ele fica o ano todo) e semeie o resto em volta",
+   "esp": "morango",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "166",
+   "fontePet": null
+  },
+  "h35-182": {
+   "texto": "Morango no canteiro: 30 a 40 cm entre plantas",
+   "esp": "morango",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "167",
+   "fontePet": null
+  },
+  "h35-183": {
+   "texto": "Não jogue fora o desbaste: alface tirada no desbaste é verdura bebê",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "167",
+   "fontePet": null
+  },
+  "h35-184": {
+   "texto": "Alface que rebrota: corte o pé rente à base e deixe o toco na terra",
+   "esp": "alface",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "168",
+   "fontePet": null
+  },
+  "h35-185": {
+   "texto": "Rega irregular quando o tomate está formando faz o fruto rachar",
+   "esp": "tomate",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "170",
+   "fontePet": null
+  },
+  "h35-187": {
+   "texto": "Tomate de haste única: tire os brotos das axilas e corte a ponta depois de 5 ou 6 cachos",
+   "esp": "tomate",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "173",
+   "fontePet": null
+  },
+  "h35-188": {
+   "texto": "Tomate-cereja amadurece mais rápido que o tomate grande",
+   "esp": "tomate",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "173",
+   "fontePet": null
+  },
+  "h35-189": {
+   "texto": "Flor de abóbora é iguaria: colha a flor macho de cabo comprido e deixe a fêmea virar fruto",
+   "esp": "abobrinha",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "176",
+   "fontePet": null
+  },
+  "h35-190": {
+   "texto": "Abobrinha é vigorosa: uma por cova, não plante duas",
+   "esp": "abobrinha",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "178",
+   "fontePet": null
+  },
+  "h35-191": {
+   "texto": "Tomate amarelo, verde, roxo, pera: todos se plantam do mesmo jeito que o vermelho",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "181",
+   "fontePet": null
+  },
+  "h35-192": {
+   "texto": "Canteiro elevado, sem pedra, dá cenoura retinha",
+   "esp": "cenoura",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "181",
+   "fontePet": null
+  },
+  "h35-193": {
+   "texto": "Plantar junto no canteiro ajuda a abafar o mato",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "181",
+   "fontePet": null
+  },
+  "h35-194": {
+   "texto": "Beterraba no ponto: quando o ombro da raiz aparece acima da terra",
+   "esp": "beterraba",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "182",
+   "fontePet": null
+  },
+  "h35-195": {
+   "texto": "Para arrancar cenoura sem quebrar, molhe ou afofe a terra antes",
+   "esp": "cenoura",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "182",
+   "fontePet": null
+  },
+  "h35-196": {
+   "texto": "Cebolinha cansada: corte tudo rente que ela volta rápido",
+   "esp": "cebolinha",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "190",
+   "fontePet": null
+  },
+  "h35-197": {
+   "texto": "Amor-perfeito que forma semente para de florir: tire as flores murchas",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "190",
+   "fontePet": null
+  },
+  "h35-198": {
+   "texto": "Pimenta e pimentão odeiam terra encharcada: regue pouco e deixe a superfície secar entre as regas",
+   "esp": "pimenta",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "200",
+   "fontePet": null
+  },
+  "h35-199": {
+   "texto": "Colher pimenta ainda verde estimula a planta a florir e produzir mais",
+   "esp": "pimenta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "200",
+   "fontePet": null
+  },
+  "h35-200": {
+   "texto": "Berinjela com 25 cm: belisque a ponta para ela ramificar; adube toda semana depois da flor",
+   "esp": "berinjela",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "200",
+   "fontePet": null
+  },
+  "h35-201": {
+   "texto": "Berinjela não gosta que mexam na raiz: semeie uma por vasinho",
+   "esp": "berinjela",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "199",
+   "fontePet": null
+  },
+  "h35-202": {
+   "texto": "Funcho pendoa se é mexido, se passa frio ou se falta água",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "199",
+   "fontePet": null
+  },
+  "h35-203": {
+   "texto": "Canteiro de sombra é paraíso de lesma: faça ronda depois da chuva ou ao anoitecer",
+   "esp": "lesma",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "208",
+   "fontePet": null
+  },
+  "h35-204": {
+   "texto": "Rabanete grande demais fica duro e perde a crocância: colha quando a cabeça aparecer na terra",
+   "esp": "rabanete",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "207",
+   "fontePet": null
+  },
+  "h35-205": {
+   "texto": "Semeie rabanete de novo a cada duas semanas para não faltar",
+   "esp": "rabanete",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "207",
+   "fontePet": null
+  },
+  "h35-206": {
+   "texto": "Alface bem regada demora mais a pendoar",
+   "esp": "alface",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "208",
+   "fontePet": null
+  },
+  "h35-207": {
+   "texto": "Erva comprada cortada no mercado é cara e não se compara à colhida em casa",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "216",
+   "fontePet": null
+  },
+  "h35-208": {
+   "texto": "Alecrim, tomilho e sálvia não gostam de terra molhada: não plante mais fundo do que estavam no vaso",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "218",
+   "fontePet": null
+  },
+  "h35-209": {
+   "texto": "Alecrim pega de estaca",
+   "esp": "alecrim",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "218",
+   "fontePet": null
+  },
+  "h35-210": {
+   "texto": "Corte as ervas com frequência para não florirem cedo",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "219",
+   "fontePet": null
+  },
+  "h35-211": {
+   "texto": "Folha nova de borragem tem gosto leve de pepino, e a flor fica linda congelada no cubo de gelo",
+   "esp": "borragem",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "220",
+   "fontePet": null
+  },
+  "h35-212": {
+   "texto": "Hortelã no canteiro toma conta de tudo: deixe ela presa no vaso",
+   "esp": "hortelã",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "223",
    "fontePet": null
   }
  }

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 053",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "fol-gesto-1",
+      "especie": "coleus",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Fingers pinching the tip of a colorful coleus",
+      "mascote": false
+    },
+    {
+      "id": "fol-gesto-2",
+      "especie": "coleus",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands removing the flower spike from a coleus; the small mascot figurine sits beside the pot on a garden table",
+      "mascote": true
+    },
+    {
+      "id": "fol-gesto-3",
+      "especie": "coleus",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing coleus tips in a glass of water",
+      "mascote": false
+    },
+    {
+      "id": "fol-sintoma-1",
+      "especie": "variegated plant",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Variegated foliage plant with one all-green branch in a dark corner",
+      "mascote": false
+    },
+    {
+      "id": "fol-var-croton",
+      "especie": "croton",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Croton with yellow, red and green leaves",
+      "mascote": false
+    },
+    {
+      "id": "fol-var-coleus",
+      "especie": "coleus",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Purple and green coleus in a pot",
+      "mascote": false
+    },
+    {
+      "id": "fol-var-begonia",
+      "especie": "rex begonia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Rex begonia with silver spiral leaves; the small mascot figurine sits next to the pot on a shelf",
+      "mascote": true
+    },
+    {
+      "id": "fol-var-caladio",
+      "especie": "caladium",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Pink and white caladium leaves",
+      "mascote": false
+    }
+  ]
+}

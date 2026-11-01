@@ -1,0 +1,70 @@
+{
+  "livro": "TG 051",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "pal-gesto-1",
+      "especie": "areca palm",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sliding an areca palm out of a pot full of roots",
+      "mascote": false
+    },
+    {
+      "id": "pal-gesto-2",
+      "especie": "areca palm",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands separating a base shoot of the areca palm with roots; the small mascot figurine sits on the floor next to the pots",
+      "mascote": true
+    },
+    {
+      "id": "pal-gesto-3",
+      "especie": "areca palm",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting the areca shoot in a smaller pot",
+      "mascote": false
+    },
+    {
+      "id": "pal-sintoma-1",
+      "especie": "potted palm",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Potted palm with drooping yellowing fronds after repotting",
+      "mascote": false
+    },
+    {
+      "id": "pal-var-areca",
+      "especie": "areca palm",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Areca palm with arching fronds in a large pot in a living room",
+      "mascote": false
+    },
+    {
+      "id": "pal-var-rafis",
+      "especie": "lady palm",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Lady palm (Rhapis) with fan-shaped leaves",
+      "mascote": false
+    },
+    {
+      "id": "pal-var-camedorea",
+      "especie": "parlor palm",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Small parlor palm in a pot; the small mascot figurine sits on the shelf next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "pal-var-cica",
+      "especie": "sago palm",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Sago palm with stiff leaves in a sunny pot",
+      "mascote": false
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "livro": "TG 053",
+  "titulo": "Folhagem Colorida",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "053",
+        "COLEÇÃO TERRA GENTIL",
+        "CROTON",
+        "Folhagem Colorida",
+        "Folha mais bonita que flor.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "comigo-ninguem-pode-A-1.jpg",
+          "alt": "André com uma folhagem pintada"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "w18-193",
+        "b24-203"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Tem folha mais colorida que muita flor.",
+        "E ela fica bonita o ano inteiro.",
+        "Aqui tem cróton, coleus, caládio e mais.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache a planta mais pintada da casa.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 053 FOLHAGEM COLORIDA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "comigo-ninguem-pode-B-1.jpg",
+          "alt": "André olhando folhas coloridas"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "w18-193",
+        "w18-235",
+        "b24-060",
+        "w18-209"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Luz clara.",
+        "Folha pintada pede mais claridade que a verde.",
+        "AR ÚMIDO",
+        "Begônia-rex e fitônia pedem.",
+        "Sem sol forte.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 053 FOLHAGEM COLORIDA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da folhagem",
+        "06",
+        "CAPÍTULO 1",
+        "Luz e cor",
+        "08",
+        "CAPÍTULO 2",
+        "Beliscar e podar",
+        "12",
+        "CAPÍTULO 3",
+        "Muda e descanso",
+        "15",
+        "CAPÍTULO 4",
+        "Folhas de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "A folha pintada ficou verde? Vá para a página 11.",
+        "Na próxima: a ficha da folhagem",
+        "→",
+        "TG 053 FOLHAGEM COLORIDA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "w18-193",
+        "b24-060",
+        "b24-203",
+        "w18-194",
+        "b24-209",
+        "b24-210"
+      ],
+      "textos": [
+        "FICHA DA FOLHAGEM",
+        "Antes de comprar",
+        "O que ela pede",
+        "LUZ",
+        "Clara, filtrada",
+        "AR",
+        "Úmido",
+        "TERRA",
+        "Fértil, que escoa",
+        "REGA",
+        "Sem encharcar",
+        "PONTA",
+        "Beliscada",
+        "FLOR",
+        "ATENÇÃO",
+        "Tire a espiga",
+        "Na próxima: luz e cor",
+        "→",
+        "TG 053 FOLHAGEM COLORIDA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Luz e cor",
+        "01",
+        "Certo e errado",
+        "02",
+        "Beliscar, passo a passo",
+        "03",
+        "Ficou verde",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 053 FOLHAGEM COLORIDA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "comigo-ninguem-pode-C-1.jpg",
+          "alt": "André perto de uma janela clara"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "w18-193",
+        "b24-210",
+        "b24-209",
+        "w18-194",
+        "k9-288",
+        "q3-73"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Luz",
+        "Clara",
+        "Escura",
+        "Flor",
+        "Tirada",
+        "No pé",
+        "Ponta",
+        "Beliscada",
+        "Intacta",
+        "Rega",
+        "Na medida",
+        "Demais",
+        "Begônia-rex só brilha em terra úmida e fértil.",
+        "DICA DO ANDRÉ",
+        "Folha de begônia-rex deitada na terra vira muda.",
+        "Na próxima: beliscar e podar",
+        "→",
+        "TG 053 FOLHAGEM COLORIDA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Beliscar e podar",
+        "01",
+        "Beliscar, passo a passo",
+        "02",
+        "Poda que enche",
+        "03",
+        "Ficou verde",
+        "Na próxima: beliscar, passo a passo",
+        "→",
+        "TG 053 FOLHAGEM COLORIDA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "comigo-ninguem-pode-D-1.jpg",
+          "alt": "André cuidando de uma folhagem"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "b24-209",
+        "b24-210",
+        "b24-211",
+        "b24-204"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Beliscar o coleus? Faça assim.",
+        "QUANDO",
+        "Planta nova",
+        "TEMPO",
+        "5 minutos",
+        "PRECISA",
+        "Só os dedos",
+        "1",
+        "BELISQUE",
+        "As pontas dos ramos.",
+        "2",
+        "ESPIGA",
+        "Tire toda flor que aparecer.",
+        "3",
+        "MUDA",
+        "A ponta tirada vira estaca.",
+        "DICA DO ANDRÉ",
+        "O cróton também ramifica sem a ponta.",
+        "Na próxima: poda que enche",
+        "→",
+        "TG 053 FOLHAGEM COLORIDA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "fol-gesto-1.jpg",
+          "alt": "Dedos beliscando a ponta de um coleus colorido"
+        },
+        {
+          "src": "fol-gesto-2.jpg",
+          "alt": "Mãos tirando a espiga de flor de um coleus"
+        },
+        {
+          "src": "fol-gesto-3.jpg",
+          "alt": "Mãos pondo pontas de coleus num copo de água"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "b24-242",
+        "b24-244",
+        "q3-43",
+        "b24-205",
+        "b24-217"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · PODA",
+        "Poda que enche",
+        "Fitônia rala? Corte os ramos compridos.",
+        "Se a fitônia der flor, tire.",
+        "Galho todo verde na pintada: corte.",
+        "Cróton pega de estaca da ponta firme.",
+        "Cordiline: estaca de caule ou broto da base.",
+        "Na próxima: ficou verde",
+        "→",
+        "TG 053 FOLHAGEM COLORIDA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "w18-193",
+        "q3-43"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "A folha pintada ficou verde?",
+        "1",
+        "O QUE PARECE",
+        "Trocou de variedade.",
+        "O QUE PODE SER",
+        "Falta de luz ou galho verde.",
+        "COMO RESOLVER",
+        "Mais luz; corte o galho verde.",
+        "Na próxima: muda e descanso",
+        "→",
+        "TG 053 FOLHAGEM COLORIDA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "fol-sintoma-1.jpg",
+          "alt": "Folhagem variegada com um galho de folhas todas verdes num canto escuro"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Muda e descanso",
+        "01",
+        "Caládio que dorme",
+        "02",
+        "Rega e praga",
+        "03",
+        "Folhas de perto",
+        "Na próxima: caládio que dorme",
+        "→",
+        "TG 053 FOLHAGEM COLORIDA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "comigo-ninguem-pode-E-1.jpg",
+          "alt": "André com um vaso de caládio"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "w18-209",
+        "w18-085",
+        "w18-211",
+        "w18-210"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CALÁDIO",
+        "Caládio que dorme",
+        "PLANTIO",
+        "2,5 cm de fundura",
+        "DESCANSO",
+        "6 a 7 meses",
+        "VOCÊ VAI PRECISAR",
+        "Vaso",
+        " de 10 a 13 cm",
+        "Luz",
+        " clara e filtrada",
+        "Faca limpa",
+        " para dividir o tubérculo",
+        "Carvão",
+        " no corte",
+        "Cuidado",
+        "Tubérculo dormindo",
+        " guarde quase seco",
+        "Corte fresco",
+        " seque uns dias antes",
+        "Na próxima: rega e praga",
+        "→",
+        "TG 053 FOLHAGEM COLORIDA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "w18-194",
+        "b24-206",
+        "b24-212"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · REGA",
+        "ATENÇÃO",
+        "Rega demais apodrece a aglaonema.",
+        "Deixe a terra secar um pouco entre regas.",
+        "Cochonilha ataca cróton e coleus.",
+        "FAÇA ASSIM",
+        "Úmida, nunca encharcada.",
+        "Olhe embaixo das folhas.",
+        "Na próxima: quatro folhagens",
+        "→",
+        "TG 053 FOLHAGEM COLORIDA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "b24-203",
+        "b24-208",
+        "b24-059",
+        "w18-067"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro folhagens",
+        "1",
+        "Cróton",
+        "Meia-sombra.",
+        "2",
+        "Coleus",
+        "Ótimo de vaso.",
+        "3",
+        "Begônia-rex",
+        "Folha em espiral.",
+        "4",
+        "Caládio",
+        "Asa de anjo.",
+        "CHAVE",
+        "Luz clara",
+        "Ar úmido",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 053 FOLHAGEM COLORIDA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "fol-var-croton.jpg",
+          "alt": "Cróton de folhas amarelas, vermelhas e verdes"
+        },
+        {
+          "src": "fol-var-coleus.jpg",
+          "alt": "Coleus roxo e verde num vaso"
+        },
+        {
+          "src": "fol-var-begonia.jpg",
+          "alt": "Begônia-rex de folha prateada em espiral"
+        },
+        {
+          "src": "fol-var-caladio.jpg",
+          "alt": "Caládio de folha rosa e branca"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "w18-025",
+        "b24-210",
+        "b24-218",
+        "w18-194",
+        "w18-235"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "CALÁDIO SUMIU",
+        "Está dormindo.",
+        "COLEUS FRACO",
+        "Deixou florir.",
+        "TEIA NA CORDILINE",
+        "Ácaro.",
+        "CAULE MOLE NA AGLAONEMA",
+        "Rega demais.",
+        "DICA DO ANDRÉ",
+        "Folha clara ou pintada pede mais luz.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 053 FOLHAGEM COLORIDA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "w18-017",
+        "w18-068"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "22",
+        "TONS",
+        "de uma mesma aglaonema acharam num pedaço da Tailândia.",
+        "Cada planta pintada de um jeito.",
+        "E MAIS UMA",
+        "Muito caládio pintado é verde liso na natureza.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 053 FOLHAGEM COLORIDA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "w18-193",
+        "b24-060",
+        "b24-203",
+        "w18-194",
+        "b24-209",
+        "b24-210",
+        "q3-43",
+        "w18-210"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Luz clara",
+        "Ar úmido",
+        "Terra que escoa",
+        "Sem encharcar",
+        "Pontas beliscadas",
+        "Flor do coleus fora",
+        "Galho verde cortado",
+        "Caládio dorme seco",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 053 FOLHAGEM COLORIDA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua folhagem ficar mais colorida, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "053",
+        "VOCÊ TEM",
+        "054",
+        "055",
+        "056",
+        "057",
+        "058",
+        "São 53 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 054 JARDIM SEM SEDE",
+        "Comente SECA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 053 FOLHAGEM COLORIDA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "comigo-ninguem-pode-F-1.jpg",
+          "alt": "Retrato do André em casa"
+        }
+      ]
+    }
+  ]
+}

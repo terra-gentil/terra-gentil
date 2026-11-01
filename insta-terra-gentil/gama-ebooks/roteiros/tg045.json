@@ -1,0 +1,556 @@
+{
+  "livro": "TG 045",
+  "titulo": "Guardar Semente",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "045",
+        "COLEÇÃO TERRA GENTIL",
+        "CRIOULA",
+        "Guardar Semente",
+        "A horta do ano que vem.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "girassol-A-1.jpg",
+          "alt": "André com uma cabeça de girassol"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "s28-226",
+        "m33-333"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Toda planta que deu certo deixa semente.",
+        "Bem guardada, ela vira a horta do ano que vem.",
+        "Aqui tem colher, secar, guardar e trocar.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Deixe um fruto passar do ponto no pé.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 045 GUARDAR SEMENTE",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tomate-B-1.jpg",
+          "alt": "André com um tomate bem maduro"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "w31-010",
+        "s28-226",
+        "s28-234"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Madura e seca.",
+        "Semente verde não germina, e semente úmida mofa.",
+        "ENVELOPE",
+        "De papel, com nome e data.",
+        "Lugar escuro.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 045 GUARDAR SEMENTE",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da semente",
+        "06",
+        "CAPÍTULO 1",
+        "Semente madura",
+        "08",
+        "CAPÍTULO 2",
+        "Secar e limpar",
+        "12",
+        "CAPÍTULO 3",
+        "Guardar e trocar",
+        "15",
+        "CAPÍTULO 4",
+        "Sementes de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Semente mofou no envelope? Vá para a página 11.",
+        "Na próxima: a ficha da semente",
+        "→",
+        "TG 045 GUARDAR SEMENTE",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "w31-009",
+        "s28-229",
+        "s28-235",
+        "s28-234",
+        "s28-013"
+      ],
+      "textos": [
+        "FICHA DA SEMENTE",
+        "Antes de colher",
+        "O que ela pede",
+        "PONTO",
+        "Seca no pé",
+        "TESTE",
+        "Quebra nos dedos",
+        "SECAR",
+        "Longe do calor",
+        "GUARDAR",
+        "Escuro e seco",
+        "ETIQUETA",
+        "Nome e data",
+        "F1",
+        "ATENÇÃO",
+        "Não sai igual",
+        "Na próxima: semente madura",
+        "→",
+        "TG 045 GUARDAR SEMENTE",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Semente madura",
+        "01",
+        "Certo e errado",
+        "02",
+        "Tomate, passo a passo",
+        "03",
+        "Semente mofada",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 045 GUARDAR SEMENTE",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "pimenta-C-1.jpg",
+          "alt": "André olhando pimentas maduras"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "w31-010",
+        "s28-232",
+        "s28-234",
+        "m33-332",
+        "s28-010",
+        "s28-236"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Colher",
+        "Seca no pé",
+        "Verde",
+        "Secar",
+        "No prato",
+        "No papel",
+        "Lugar",
+        "Fresco e escuro",
+        "Quente",
+        "Variedade",
+        "Comum",
+        "F1",
+        "Semente fresca é a que germina melhor.",
+        "DICA DO ANDRÉ",
+        "Arroz cru na caixa segura a umidade.",
+        "Na próxima: secar e limpar",
+        "→",
+        "TG 045 GUARDAR SEMENTE",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Secar e limpar",
+        "01",
+        "Tomate, passo a passo",
+        "02",
+        "Secar sem pressa",
+        "03",
+        "Semente mofada",
+        "Na próxima: tomate, passo a passo",
+        "→",
+        "TG 045 GUARDAR SEMENTE",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tomate-D-1.jpg",
+          "alt": "André cortando um tomate maduro"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "m33-333",
+        "s28-233",
+        "s28-231",
+        "s28-232"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Semente de tomate? Faça assim.",
+        "QUANDO",
+        "Tomate bem maduro",
+        "TEMPO",
+        "2 dias no pote",
+        "PRECISA",
+        "Pote, peneira e prato",
+        "1",
+        "ESPREMA",
+        "A polpa num pote com água.",
+        "2",
+        "ESPERE",
+        "Formou mofo em cima, pronto.",
+        "3",
+        "LAVE",
+        "Na peneira, e seque no prato.",
+        "DICA DO ANDRÉ",
+        "No papel-toalha ela gruda: use prato.",
+        "Na próxima: secar sem pressa",
+        "→",
+        "TG 045 GUARDAR SEMENTE",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "gse-gesto-1.jpg",
+          "alt": "Mãos espremendo a polpa de um tomate maduro num pote de vidro"
+        },
+        {
+          "src": "gse-gesto-2.jpg",
+          "alt": "Pote de vidro com polpa de tomate e uma camada de mofo branco em cima"
+        },
+        {
+          "src": "gse-gesto-3.jpg",
+          "alt": "Mãos lavando sementes de tomate numa peneira fina"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "s28-235",
+        "s28-228",
+        "m33-300",
+        "m33-323"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · SECAR",
+        "Secar sem pressa",
+        "Seque em temperatura ambiente, longe do calor.",
+        "Na dúvida, deixe um ou dois dias a mais.",
+        "Flor seca: vire a cabeça num saco e sacuda.",
+        "Pimenta: deixe o fruto maduro secar devagar.",
+        "Feijão: arranque o pé e pendure.",
+        "Na próxima: semente mofada",
+        "→",
+        "TG 045 GUARDAR SEMENTE",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "s28-226",
+        "s28-235"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Semente mofou no envelope?",
+        "1",
+        "O QUE PARECE",
+        "Semente ruim.",
+        "O QUE PODE SER",
+        "Guardou antes de secar.",
+        "COMO RESOLVER",
+        "Uns dias a mais secando.",
+        "Na próxima: guardar e trocar",
+        "→",
+        "TG 045 GUARDAR SEMENTE",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "gse-sintoma-1.jpg",
+          "alt": "Sementes com mofo cinza dentro de um envelope aberto"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Guardar e trocar",
+        "01",
+        "A caixa de sementes",
+        "02",
+        "Semente F1",
+        "03",
+        "Sementes de perto",
+        "Na próxima: a caixa de sementes",
+        "→",
+        "TG 045 GUARDAR SEMENTE",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "girassol-E-1.jpg",
+          "alt": "André com envelopes de semente"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "s28-234",
+        "w31-014",
+        "w31-013",
+        "s28-236",
+        "s28-235"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · GUARDAR",
+        "A caixa de sementes",
+        "QUANDO",
+        "Semente bem seca",
+        "LUGAR",
+        "Fresco, seco e escuro",
+        "VOCÊ VAI PRECISAR",
+        "Envelope",
+        " de papel",
+        "Caneta",
+        " nome e data",
+        "Caixinha",
+        " de queijo serve",
+        "Arroz cru",
+        " contra a umidade",
+        "Cuidado",
+        "Nome depois",
+        " escreva antes de encher",
+        "Calor",
+        " estraga a semente",
+        "Na próxima: semente F1",
+        "→",
+        "TG 045 GUARDAR SEMENTE",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "s28-013",
+        "m33-332",
+        "s28-239",
+        "s28-238"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · F1",
+        "ATENÇÃO",
+        "F1 no pacote quer dizer semente híbrida.",
+        "A semente do F1 não sai igual à mãe.",
+        "Tomate comum sai igual: vale guardar.",
+        "FAÇA ASSIM",
+        "Guarde de variedade comum ou crioula.",
+        "Troque com quem planta perto.",
+        "Na próxima: quatro sementes",
+        "→",
+        "TG 045 GUARDAR SEMENTE",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "s28-233",
+        "m33-300",
+        "m33-323",
+        "s28-228"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro sementes",
+        "1",
+        "Tomate",
+        "Fermenta 2 dias.",
+        "2",
+        "Pimenta",
+        "Seca no fruto maduro.",
+        "3",
+        "Feijão",
+        "Vagem amarela.",
+        "4",
+        "Calêndula",
+        "Cabeça seca no saco.",
+        "CHAVE",
+        "Madura e seca",
+        "Nome e data",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 045 GUARDAR SEMENTE",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "gse-var-tomate.jpg",
+          "alt": "Sementes de tomate secando num prato"
+        },
+        {
+          "src": "gse-var-pimenta.jpg",
+          "alt": "Pimentas maduras secando com as sementes à mostra"
+        },
+        {
+          "src": "gse-var-feijao.jpg",
+          "alt": "Vagens amarelas e secas de feijão com grãos"
+        },
+        {
+          "src": "gse-var-calendula.jpg",
+          "alt": "Cabeças secas de calêndula com sementes curvas"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "w31-010",
+        "s28-226",
+        "m33-332",
+        "w31-011",
+        "s28-230",
+        "g32-136"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "NÃO NASCEU",
+        "Colheu verde.",
+        "MOFOU",
+        "Faltou secar.",
+        "SAIU DIFERENTE",
+        "Era F1 ou cruzou.",
+        "POUCA SEMENTE",
+        "Flor dobrada.",
+        "DICA DO ANDRÉ",
+        "Ensaque a cabeça em papel para a semente não cair.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 045 GUARDAR SEMENTE",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "s28-239",
+        "s28-240"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "50",
+        "ANOS",
+        "é a idade mínima de uma variedade crioula.",
+        "Ela passa de mão em mão.",
+        "E MAIS UMA",
+        "Muita semente crioula nem está à venda: circula nas trocas, sem dinheiro.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 045 GUARDAR SEMENTE",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "m33-333",
+        "w31-009",
+        "s28-229",
+        "s28-235",
+        "w31-014",
+        "s28-234",
+        "s28-236",
+        "s28-238"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Fruto passado do ponto",
+        "Seca no pé",
+        "Teste nos dedos",
+        "Secar longe do calor",
+        "Envelope de papel",
+        "Nome e data",
+        "Arroz cru na caixa",
+        "Troque com o vizinho",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 045 GUARDAR SEMENTE",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua semente guardada nascer no ano que vem, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "045",
+        "VOCÊ TEM",
+        "046",
+        "047",
+        "048",
+        "049",
+        "050",
+        "São 45 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 046 FLORES DE VARANDA",
+        "Comente GERÂNIO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 045 GUARDAR SEMENTE",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "girassol-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

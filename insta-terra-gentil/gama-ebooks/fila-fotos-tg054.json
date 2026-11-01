@@ -1,0 +1,70 @@
+{
+  "livro": "TG 054",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "sed-gesto-1",
+      "especie": "drought garden",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands shaping a soil basin around the base of a plant",
+      "mascote": false
+    },
+    {
+      "id": "sed-gesto-2",
+      "especie": "drought garden",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Garden hose filling the basin around a plant with water; the small mascot figurine sits on a rock next to the basin",
+      "mascote": true
+    },
+    {
+      "id": "sed-gesto-3",
+      "especie": "drought garden",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "A man's finger pushed into moist soil to check the watering",
+      "mascote": false
+    },
+    {
+      "id": "sed-sintoma-1",
+      "especie": "drought plant",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Grey-leaved plant rotting at the base in waterlogged soil",
+      "mascote": false
+    },
+    {
+      "id": "sed-var-beldroega",
+      "especie": "purslane",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Purslane with fleshy leaves creeping over dry soil",
+      "mascote": false
+    },
+    {
+      "id": "sed-var-alcachofra",
+      "especie": "artichoke",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Artichoke plant with silvery leaves in the sun",
+      "mascote": false
+    },
+    {
+      "id": "sed-var-aspargo",
+      "especie": "asparagus",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Mature asparagus with fine ferny foliage in a bed; the small mascot figurine stands on the gravel in front of it",
+      "mascote": true
+    },
+    {
+      "id": "sed-var-fava",
+      "especie": "lima bean",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Lima bean plant with wide pods",
+      "mascote": false
+    }
+  ]
+}

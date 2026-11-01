@@ -1,0 +1,70 @@
+{
+  "livro": "TG 043",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "cel-gesto-1",
+      "especie": "raised bed",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands stapling plastic sheeting inside a wooden raised bed",
+      "mascote": false
+    },
+    {
+      "id": "cel-gesto-2",
+      "especie": "raised bed",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands mixing soil and potting mix in a wheelbarrow; the small mascot figurine sits on the edge of the raised bed",
+      "mascote": true
+    },
+    {
+      "id": "cel-gesto-3",
+      "especie": "raised bed",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands spreading dry straw over the soil of a raised bed",
+      "mascote": false
+    },
+    {
+      "id": "cel-sintoma-1",
+      "especie": "garden bed",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Standing water in a low garden bed with wilted seedlings",
+      "mascote": false
+    },
+    {
+      "id": "cel-var-tijolo",
+      "especie": "brick raised bed",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Raised bed built from old bricks full of vegetables",
+      "mascote": false
+    },
+    {
+      "id": "cel-var-tabua",
+      "especie": "wooden raised bed",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Wooden plank raised bed with lettuce",
+      "mascote": false
+    },
+    {
+      "id": "cel-var-pneu",
+      "especie": "tire planter",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Old painted tire planted with herbs; the small mascot figurine sits on the rim of the tire",
+      "mascote": true
+    },
+    {
+      "id": "cel-var-piscina",
+      "especie": "kiddie pool planter",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Old plastic kiddie pool turned into a vegetable bed",
+      "mascote": false
+    }
+  ]
+}

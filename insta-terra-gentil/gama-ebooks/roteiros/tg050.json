@@ -1,0 +1,554 @@
+{
+  "livro": "TG 050",
+  "titulo": "Jardim Tropical",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "050",
+        "COLEÇÃO TERRA GENTIL",
+        "TROPICAL",
+        "Jardim Tropical",
+        "Cara de mata no seu quintal.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "maranta-A-1.jpg",
+          "alt": "André entre folhagens tropicais"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "b24-583",
+        "b24-334"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Quintal pode ter cara de mata tropical.",
+        "Folha larga, flor forte e muito verde.",
+        "Aqui tem helicônia, alpínia, biri e mais.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache o canto mais úmido do quintal.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 050 JARDIM TROPICAL",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "maranta-B-1.jpg",
+          "alt": "André olhando uma folhagem grande"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "b24-583",
+        "b24-334",
+        "b24-327",
+        "b24-591"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Calor e umidade.",
+        "Quase toda tropical quer calor, ar úmido e terra rica.",
+        "MEIA-SOMBRA",
+        "Helicônia e alpínia gostam.",
+        "Adubo sempre.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 050 JARDIM TROPICAL",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do tropical",
+        "06",
+        "CAPÍTULO 1",
+        "Calor e sombra",
+        "08",
+        "CAPÍTULO 2",
+        "Plantar e adubar",
+        "12",
+        "CAPÍTULO 3",
+        "Dividir e cuidar",
+        "15",
+        "CAPÍTULO 4",
+        "Tropicais de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Helicônia murchou em cima? Vá para a página 11.",
+        "Na próxima: a ficha do tropical",
+        "→",
+        "TG 050 JARDIM TROPICAL",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "b24-583",
+        "b24-327",
+        "b24-334",
+        "b24-591",
+        "b24-335"
+      ],
+      "textos": [
+        "FICHA DO TROPICAL",
+        "Antes de plantar",
+        "O que ele pede",
+        "CALOR",
+        "O ano todo",
+        "LUZ",
+        "Meia-sombra",
+        "TERRA",
+        "Rica, que escoa",
+        "ÁGUA",
+        "Farta crescendo",
+        "ADUBO",
+        "Com frequência",
+        "VASO",
+        "ATENÇÃO",
+        "Alpínia prefere a terra",
+        "Na próxima: calor e sombra",
+        "→",
+        "TG 050 JARDIM TROPICAL",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Calor e sombra",
+        "01",
+        "Certo e errado",
+        "02",
+        "Plantar, passo a passo",
+        "03",
+        "Murchou em cima",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 050 JARDIM TROPICAL",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "costela-de-adao-C-1.jpg",
+          "alt": "André num canto sombreado do jardim"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "b24-335",
+        "b24-334",
+        "b24-195",
+        "q3-234",
+        "b24-198",
+        "q3-236"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Alpínia",
+        "Na terra",
+        "No vaso",
+        "Terra",
+        "Rica",
+        "Pobre",
+        "Maranta",
+        "Sem vento",
+        "Corrente",
+        "Calathea",
+        "Úmida",
+        "Seca",
+        "Ctenante pede água mole, com pouco calcário.",
+        "DICA DO ANDRÉ",
+        "Calathea cheia vira várias: divida a touceira.",
+        "Na próxima: plantar e adubar",
+        "→",
+        "TG 050 JARDIM TROPICAL",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Plantar e adubar",
+        "01",
+        "Plantar, passo a passo",
+        "02",
+        "Adubo e rega",
+        "03",
+        "Murchou em cima",
+        "Na próxima: plantar, passo a passo",
+        "→",
+        "TG 050 JARDIM TROPICAL",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "maranta-D-1.jpg",
+          "alt": "André plantando uma folhagem"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "b24-335",
+        "b24-334",
+        "b24-591",
+        "b24-590"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Plantar alpínia? Faça assim.",
+        "QUANDO",
+        "Achou a meia-sombra",
+        "TEMPO",
+        "30 minutos",
+        "PRECISA",
+        "Terra rica e composto",
+        "1",
+        "NA TERRA",
+        "No vaso ela não fica bonita.",
+        "2",
+        "TERRA",
+        "Com muita matéria orgânica.",
+        "3",
+        "ÁGUA",
+        "Não deixe secar crescendo.",
+        "DICA DO ANDRÉ",
+        "Mais sol, mais flor; mais sombra, folha bonita.",
+        "Na próxima: adubo e rega",
+        "→",
+        "TG 050 JARDIM TROPICAL",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tro-gesto-1.jpg",
+          "alt": "Mãos cavando uma cova larga num canteiro sombreado"
+        },
+        {
+          "src": "tro-gesto-2.jpg",
+          "alt": "Mãos misturando composto escuro na terra da cova"
+        },
+        {
+          "src": "tro-gesto-3.jpg",
+          "alt": "Mãos plantando uma muda de alpínia e firmando a terra"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "b24-591",
+        "b24-327",
+        "b24-332",
+        "q3-235",
+        "b24-195"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · ADUBO",
+        "Adubo e rega",
+        "Gengibres ornamentais comem muito: adube sempre.",
+        "Helicônia: rega farta quando cresce.",
+        "Ave-do-paraíso: regue menos quando esfria.",
+        "Calathea: adubo a cada 2 semanas.",
+        "Maranta quer ar úmido, longe do vento.",
+        "Na próxima: murchou em cima",
+        "→",
+        "TG 050 JARDIM TROPICAL",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "b24-328"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Helicônia murchou em cima?",
+        "1",
+        "O QUE PARECE",
+        "A planta morreu.",
+        "O QUE PODE SER",
+        "Ela está descansando.",
+        "COMO RESOLVER",
+        "Rega bem pouca até voltar.",
+        "Na próxima: dividir e cuidar",
+        "→",
+        "TG 050 JARDIM TROPICAL",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tro-sintoma-1.jpg",
+          "alt": "Touceira de helicônia com as folhas de cima secas e caídas"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Dividir e cuidar",
+        "01",
+        "Muda de touceira",
+        "02",
+        "Ar úmido",
+        "03",
+        "Tropicais de perto",
+        "Na próxima: muda de touceira",
+        "→",
+        "TG 050 JARDIM TROPICAL",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "maranta-E-1.jpg",
+          "alt": "André separando uma touceira"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "b24-336",
+        "b24-343",
+        "b24-329",
+        "b24-332",
+        "m33-194"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · MUDA",
+        "Muda de touceira",
+        "QUANDO",
+        "Touceira cheia",
+        "COMO",
+        "Dividindo",
+        "VOCÊ VAI PRECISAR",
+        "Alpínia",
+        " divida o rizoma",
+        "Biri",
+        " rizoma ou semente",
+        "Helicônia",
+        " touceira ou semente",
+        "Ave-do-paraíso",
+        " separe os brotos",
+        "Cuidado",
+        "Muda nova",
+        " úmido e sem sol direto",
+        "Ácaro",
+        " ataca a alpínia",
+        "Na próxima: ar úmido",
+        "→",
+        "TG 050 JARDIM TROPICAL",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "b24-195",
+        "q3-234",
+        "x23-147"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · UMIDADE",
+        "ATENÇÃO",
+        "Maranta e calathea pedem ar úmido.",
+        "Vento e corrente de ar secam a folha.",
+        "Calathea não pode secar, nem no frio.",
+        "FAÇA ASSIM",
+        "Embaixo das plantas grandes.",
+        "Terra úmida por igual.",
+        "Na próxima: quatro tropicais",
+        "→",
+        "TG 050 JARDIM TROPICAL",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "b24-327",
+        "b24-338",
+        "b24-331",
+        "b24-583"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro tropicais",
+        "1",
+        "Helicônia",
+        "Meia-sombra e rega farta.",
+        "2",
+        "Alpínia",
+        "O vermelho é bráctea.",
+        "3",
+        "Ave-do-paraíso",
+        "Claridade forte.",
+        "4",
+        "Biri",
+        "Calor e sol pleno.",
+        "CHAVE",
+        "Calor e umidade",
+        "Terra rica",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 050 JARDIM TROPICAL",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tro-var-heliconia.jpg",
+          "alt": "Helicônia de brácteas vermelhas e amarelas pendentes"
+        },
+        {
+          "src": "tro-var-alpinia.jpg",
+          "alt": "Alpínia-vermelha florida num jardim"
+        },
+        {
+          "src": "tro-var-ave.jpg",
+          "alt": "Ave-do-paraíso laranja e azul aberta"
+        },
+        {
+          "src": "tro-var-biri.jpg",
+          "alt": "Biri de flor vermelha num canteiro de sol"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "b24-590",
+        "b24-583",
+        "b24-195",
+        "b24-335",
+        "g32-207"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "ALPÍNIA SEM FLOR",
+        "Sombra demais.",
+        "BIRI SEM FLOR",
+        "Falta sol e calor.",
+        "FOLHA SECA NA MARANTA",
+        "Ar seco ou vento.",
+        "ALPÍNIA FEIA",
+        "Está no vaso.",
+        "DICA DO ANDRÉ",
+        "O rizoma novo do biri se come assado.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 050 JARDIM TROPICAL",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "b24-333",
+        "q3-287"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "8",
+        "M",
+        "de altura chega a estrelítzia-gigante, com tronco.",
+        "A flor é branca e azul.",
+        "E MAIS UMA",
+        "A maranta fecha as folhas à noite, como mãos rezando.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 050 JARDIM TROPICAL",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "b24-583",
+        "b24-327",
+        "b24-334",
+        "b24-591",
+        "b24-335",
+        "b24-195",
+        "q3-236"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Canto quente e úmido",
+        "Meia-sombra",
+        "Terra rica",
+        "Rega farta crescendo",
+        "Adubo frequente",
+        "Alpínia na terra",
+        "Maranta sem vento",
+        "Dividir a touceira",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 050 JARDIM TROPICAL",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se o seu quintal ganhar cara de mata, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "050",
+        "VOCÊ TEM",
+        "051",
+        "052",
+        "053",
+        "054",
+        "055",
+        "São 50 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 051 PALMEIRAS DE CASA",
+        "Comente PALMEIRA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 050 JARDIM TROPICAL",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "maranta-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

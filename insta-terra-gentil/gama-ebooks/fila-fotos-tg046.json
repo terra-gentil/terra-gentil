@@ -1,0 +1,70 @@
+{
+  "livro": "TG 046",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "flv-gesto-1",
+      "especie": "geranium",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Finger pointing at a wilted geranium flower in a pot",
+      "mascote": false
+    },
+    {
+      "id": "flv-gesto-2",
+      "especie": "petunia",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pinching off a wilted petunia flower; the small mascot figurine sits on the balcony railing next to the planter",
+      "mascote": true
+    },
+    {
+      "id": "flv-gesto-3",
+      "especie": "flower pots",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands watering balcony flower pots with liquid fertilizer",
+      "mascote": false
+    },
+    {
+      "id": "flv-sintoma-1",
+      "especie": "geranium",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Geranium with dark stems and drooping leaves in a waterlogged pot",
+      "mascote": false
+    },
+    {
+      "id": "flv-var-geranio",
+      "especie": "geranium",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Red geranium in bloom in a balcony pot",
+      "mascote": false
+    },
+    {
+      "id": "flv-var-petunia",
+      "especie": "petunia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Purple petunias spilling from a window box",
+      "mascote": false
+    },
+    {
+      "id": "flv-var-beijinho",
+      "especie": "impatiens",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Pink impatiens in bloom in a pot; the small mascot figurine sits at the foot of the pot",
+      "mascote": true
+    },
+    {
+      "id": "flv-var-onzehoras",
+      "especie": "portulaca",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Colorful portulaca flowers open in the sun",
+      "mascote": false
+    }
+  ]
+}

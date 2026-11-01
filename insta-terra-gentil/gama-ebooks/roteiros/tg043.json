@@ -1,0 +1,551 @@
+{
+  "livro": "TG 043",
+  "titulo": "Canteiro Elevado",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "043",
+        "COLEÇÃO TERRA GENTIL",
+        "CANTEIRO",
+        "Canteiro Elevado",
+        "Horta alta, terra fofa.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-A-1.jpg",
+          "alt": "André ao lado de um canteiro elevado"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "h35-024",
+        "g32-022",
+        "h35-033"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Terra ruim no quintal? Suba o canteiro.",
+        "Ele drena melhor e você nem pisa na terra.",
+        "Aqui tem tamanho, receita de terra e cuidado.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Meça o lugar onde vai ficar o canteiro.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 043 CANTEIRO ELEVADO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-compostagem-A-1.jpg",
+          "alt": "André com um balde de composto"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "h35-033",
+        "g32-022",
+        "g32-026"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Não pise dentro.",
+        "Até 1,2 m de largura: você cuida pelos lados.",
+        "DRENA",
+        "No alto, a raiz respira.",
+        "Terra coberta.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 043 CANTEIRO ELEVADO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do canteiro",
+        "06",
+        "CAPÍTULO 1",
+        "Tamanho e terra",
+        "08",
+        "CAPÍTULO 2",
+        "Montar e encher",
+        "12",
+        "CAPÍTULO 3",
+        "Sem revirar",
+        "15",
+        "CAPÍTULO 4",
+        "Canteiros de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Canteiro encharcado? Vá para a página 11.",
+        "Na próxima: a ficha do canteiro",
+        "→",
+        "TG 043 CANTEIRO ELEVADO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "h35-033",
+        "h35-032",
+        "h35-037",
+        "g32-026",
+        "h35-180"
+      ],
+      "textos": [
+        "FICHA DO CANTEIRO",
+        "Antes de montar",
+        "O que ele pede",
+        "LARGURA",
+        "Até 1,2 m",
+        "FUNDURA",
+        "15 a 30 cm",
+        "TERRA",
+        "45% de jardim",
+        "SUBSTRATO",
+        "Mais 45%",
+        "AREIA",
+        "10% grossa",
+        "MADEIRA",
+        "ATENÇÃO",
+        "Forre por dentro",
+        "Na próxima: tamanho e terra",
+        "→",
+        "TG 043 CANTEIRO ELEVADO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Tamanho e terra",
+        "01",
+        "Certo e errado",
+        "02",
+        "Encher, passo a passo",
+        "03",
+        "Canteiro encharcado",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 043 CANTEIRO ELEVADO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-C-1.jpg",
+          "alt": "André medindo o canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "h35-033",
+        "h35-037",
+        "a8-606",
+        "g32-022",
+        "h35-071"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Largura",
+        "Até 1,2 m",
+        "Larga demais",
+        "Pisar",
+        "Pelos lados",
+        "Dentro",
+        "Terra",
+        "Misturada",
+        "Só de jardim",
+        "Cavar",
+        "Raso",
+        "Fundo",
+        "Canteiro elevado drena melhor e a raiz respira.",
+        "DICA DO ANDRÉ",
+        "Canteiro vazio? Semeie trevo como adubo verde.",
+        "Na próxima: montar e encher",
+        "→",
+        "TG 043 CANTEIRO ELEVADO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Montar e encher",
+        "01",
+        "Encher, passo a passo",
+        "02",
+        "Fundura certa",
+        "03",
+        "Canteiro encharcado",
+        "Na próxima: encher, passo a passo",
+        "→",
+        "TG 043 CANTEIRO ELEVADO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-G-1.jpg",
+          "alt": "André enchendo o canteiro de terra"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "h35-180",
+        "h35-037",
+        "g32-026",
+        "h35-033"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Encher o canteiro? Faça assim.",
+        "QUANDO",
+        "Com o canteiro montado",
+        "TEMPO",
+        "Uma tarde",
+        "PRECISA",
+        "Terra, substrato e areia",
+        "1",
+        "FORRE",
+        "Madeira com plástico por dentro.",
+        "2",
+        "MISTURE",
+        "Terra e substrato meio a meio.",
+        "3",
+        "CUBRA",
+        "Palha, uns 4 cm por cima.",
+        "DICA DO ANDRÉ",
+        "Junte 10% de areia grossa na mistura.",
+        "Na próxima: fundura certa",
+        "→",
+        "TG 043 CANTEIRO ELEVADO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cel-gesto-1.jpg",
+          "alt": "Mãos grampeando plástico por dentro de um canteiro de madeira"
+        },
+        {
+          "src": "cel-gesto-2.jpg",
+          "alt": "Mãos misturando terra e substrato num carrinho de mão"
+        },
+        {
+          "src": "cel-gesto-3.jpg",
+          "alt": "Mãos espalhando palha seca por cima da terra do canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "h35-032",
+        "h35-036",
+        "h35-179",
+        "h35-035"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · FUNDURA",
+        "Fundura certa",
+        "15 cm de terra bastam para alface e rabanete.",
+        "Abobrinha e beterraba pedem 30 cm ou mais.",
+        "Canteiro mais fundo segura melhor a umidade.",
+        "Encostado num muro de sol, ele esquenta.",
+        "Tela por cima protege de gato e passarinho.",
+        "Na próxima: canteiro encharcado",
+        "→",
+        "TG 043 CANTEIRO ELEVADO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "g32-027",
+        "g32-022"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Canteiro encharcado?",
+        "1",
+        "O QUE PARECE",
+        "Planta doente.",
+        "O QUE PODE SER",
+        "Canto que não drena.",
+        "COMO RESOLVER",
+        "Suba o canteiro.",
+        "Na próxima: sem revirar",
+        "→",
+        "TG 043 CANTEIRO ELEVADO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cel-sintoma-1.jpg",
+          "alt": "Água parada num canteiro baixo com mudas murchas"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Sem revirar",
+        "01",
+        "Preparar canteiro velho",
+        "02",
+        "Não revire",
+        "03",
+        "Canteiros de perto",
+        "Na próxima: preparar canteiro velho",
+        "→",
+        "TG 043 CANTEIRO ELEVADO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-compostagem-B-1.jpg",
+          "alt": "André espalhando composto"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "h35-069",
+        "h35-081",
+        "h35-071",
+        "a8-606",
+        "a8-607"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · PREPARAR",
+        "Canteiro velho",
+        "QUANDO",
+        "Antes de plantar",
+        "DE NOVO EM",
+        "Todo ano",
+        "VOCÊ VAI PRECISAR",
+        "Matéria orgânica",
+        " 10 cm por cima",
+        "Composto",
+        " sem enterrar",
+        "Adubo verde",
+        " se ficar vazio",
+        "Mão",
+        " para tirar o mato",
+        "Cuidado",
+        "Cavar fundo",
+        " enterra a terra boa",
+        "Terra molhada",
+        " vira camada dura",
+        "Na próxima: não revire",
+        "→",
+        "TG 043 CANTEIRO ELEVADO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "s2-152",
+        "s2-153",
+        "h35-039",
+        "h35-033"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · NÃO REVIRE",
+        "ATENÇÃO",
+        "Revirar demais dá mais mato e terra pior.",
+        "Terra fofa de enxada endurece logo.",
+        "Quanto mais revira, mais precisa revirar.",
+        "FAÇA ASSIM",
+        "Cubra a terra em vez de cavar.",
+        "Não pise dentro do canteiro.",
+        "Na próxima: quatro canteiros",
+        "→",
+        "TG 043 CANTEIRO ELEVADO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "h35-034",
+        "h35-180"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro canteiros",
+        "1",
+        "Tijolo",
+        "Velho serve.",
+        "2",
+        "Tábua",
+        "Forre com plástico.",
+        "3",
+        "Pneu",
+        "Também vira canteiro.",
+        "4",
+        "Piscininha",
+        "Velha, com furo.",
+        "CHAVE",
+        "Até 1,2 m",
+        "Terra sem pisar",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 043 CANTEIRO ELEVADO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cel-var-tijolo.jpg",
+          "alt": "Canteiro elevado de tijolo velho com hortaliças"
+        },
+        {
+          "src": "cel-var-tabua.jpg",
+          "alt": "Canteiro elevado de tábuas com alface"
+        },
+        {
+          "src": "cel-var-pneu.jpg",
+          "alt": "Pneu velho pintado com temperos plantados"
+        },
+        {
+          "src": "cel-var-piscina.jpg",
+          "alt": "Piscininha de plástico velha virada canteiro de horta"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "g32-027",
+        "h35-036",
+        "s2-152",
+        "g32-254",
+        "h35-193"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "ENCHARCOU",
+        "Canto sem dreno.",
+        "SECOU RÁPIDO",
+        "Raso ou sem cobertura.",
+        "MAIS MATO",
+        "Revirou demais.",
+        "DOENÇA NA COUVE",
+        "Mude o canteiro.",
+        "DICA DO ANDRÉ",
+        "Plantas bem juntas abafam o mato.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 043 CANTEIRO ELEVADO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "a8-606",
+        "h35-164"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "18",
+        "CM",
+        "é até onde costuma ir a camada viva da terra.",
+        "Por isso não cave fundo.",
+        "E MAIS UMA",
+        "Nove vasos grandes dão o espaço de um canteiro de 1 m por 1 m.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 043 CANTEIRO ELEVADO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "h35-033",
+        "h35-032",
+        "h35-180",
+        "h35-037",
+        "g32-026",
+        "s2-152"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Até 1,2 m de largura",
+        "15 a 30 cm de fundura",
+        "Madeira forrada",
+        "Terra misturada",
+        "10% de areia grossa",
+        "4 cm de cobertura",
+        "Sem pisar dentro",
+        "Sem revirar",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 043 CANTEIRO ELEVADO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se o seu canteiro der a primeira colheita, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "043",
+        "VOCÊ TEM",
+        "044",
+        "045",
+        "046",
+        "047",
+        "048",
+        "São 43 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 044 ERVAS SECAS",
+        "Comente ERVAS no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 043 CANTEIRO ELEVADO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-H-1.jpg",
+          "alt": "Retrato do André na horta"
+        }
+      ]
+    }
+  ]
+}

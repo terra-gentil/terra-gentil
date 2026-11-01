@@ -1,0 +1,556 @@
+{
+  "livro": "TG 041",
+  "titulo": "Mato sem Veneno",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "041",
+        "COLEÇÃO TERRA GENTIL",
+        "CAPINA",
+        "Mato sem Veneno",
+        "Canteiro limpo do jeito antigo.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-mato-A-1.jpg",
+          "alt": "André tirando mato do canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "e22-005",
+        "e22-009"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Mato não se vence com veneno, e sim com hora certa.",
+        "A terra guarda semente por anos, e cada revirada acorda mais.",
+        "Aqui tem enxada, cobertura, papelão e água quente.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache no canteiro um mato que ainda não deu flor.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 041 MATO SEM VENENO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-mato-B-1.jpg",
+          "alt": "André olhando o canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "h35-326",
+        "e22-064",
+        "g32-218"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Antes da semente.",
+        "Mato tirado antes de florir não enche a terra de semente.",
+        "COBRIR",
+        "8 cm de palha ou folha seca.",
+        "Enxada afiada.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 041 MATO SEM VENENO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do mato",
+        "06",
+        "CAPÍTULO 1",
+        "Entender o mato",
+        "08",
+        "CAPÍTULO 2",
+        "Enxada e mão",
+        "12",
+        "CAPÍTULO 3",
+        "Cobrir e abafar",
+        "15",
+        "CAPÍTULO 4",
+        "Matos de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "O mato voltou mais forte? Vá para a página 11.",
+        "Na próxima: a ficha do mato",
+        "→",
+        "TG 041 MATO SEM VENENO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "w31-135",
+        "g32-217",
+        "e22-064",
+        "e22-100",
+        "w31-091",
+        "e22-005"
+      ],
+      "textos": [
+        "FICHA DO MATO",
+        "Antes de capinar",
+        "O que funciona",
+        "QUANDO",
+        "Antes da semente",
+        "ENXADA",
+        "Afiada, dia de sol",
+        "COBERTURA",
+        "8 cm por cima",
+        "PERENE",
+        "Abafar com papelão",
+        "CALÇADA",
+        "Água fervendo",
+        "VENENO",
+        "ATENÇÃO",
+        "Não precisa de nenhum",
+        "Na próxima: entender o mato",
+        "→",
+        "TG 041 MATO SEM VENENO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Entender o mato",
+        "01",
+        "Certo e errado",
+        "02",
+        "Canteiro falso",
+        "03",
+        "Mato que volta",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 041 MATO SEM VENENO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-mato-C-1.jpg",
+          "alt": "André arrancando um mato com a mão"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "e22-005",
+        "g32-218",
+        "e22-023",
+        "h35-322",
+        "e22-011",
+        "e22-043"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Quando",
+        "Pequeno",
+        "Com semente",
+        "Enxada",
+        "Afiada",
+        "Cega",
+        "Semente",
+        "Por cima",
+        "Enterrada",
+        "Raiz",
+        "Inteira",
+        "Picada",
+        "Terra pouco revirada dá menos mato anual.",
+        "DICA DO ANDRÉ",
+        "Mato com semente? Corte dentro de um balde.",
+        "Na próxima: enxada e mão",
+        "→",
+        "TG 041 MATO SEM VENENO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Enxada e mão",
+        "01",
+        "Canteiro falso",
+        "02",
+        "Enxada na hora certa",
+        "03",
+        "Mato que volta",
+        "Na próxima: canteiro falso",
+        "→",
+        "TG 041 MATO SEM VENENO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-ferramentas-A-1.jpg",
+          "alt": "André com a enxada"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "e22-036",
+        "i36-284",
+        "e22-009"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Canteiro falso? Faça assim.",
+        "QUANDO",
+        "Antes de semear",
+        "TEMPO",
+        "Até o mato nascer",
+        "PRECISA",
+        "Enxada pequena",
+        "1",
+        "PREPARE",
+        "Deixe a terra pronta.",
+        "2",
+        "ESPERE",
+        "O mato nasce primeiro.",
+        "3",
+        "TIRE",
+        "Tudo pequeno, e só então semeie.",
+        "DICA DO ANDRÉ",
+        "Não revire de novo: a semente de baixo sobe.",
+        "Na próxima: enxada na hora certa",
+        "→",
+        "TG 041 MATO SEM VENENO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cap-gesto-1.jpg",
+          "alt": "Mãos alisando a terra de um canteiro pronto para semear"
+        },
+        {
+          "src": "cap-gesto-2.jpg",
+          "alt": "Dedo apontando matinhos novos nascendo na terra"
+        },
+        {
+          "src": "cap-gesto-3.jpg",
+          "alt": "Mãos com enxada pequena tirando os matinhos novos"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "w31-135",
+        "g32-217",
+        "g32-218",
+        "h35-323",
+        "e22-054"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · ENXADA",
+        "Enxada na hora certa",
+        "Pegue o mato pequeno, antes de dar semente.",
+        "Enxada funciona melhor em dia de sol e vento.",
+        "Corte rente, com a enxada afiada.",
+        "Dente-de-leão: puxe a raiz comprida inteira.",
+        "Picão arrancado sai do canteiro.",
+        "Na próxima: mato que volta",
+        "→",
+        "TG 041 MATO SEM VENENO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "g32-218",
+        "h35-322"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "O mato voltou mais forte?",
+        "1",
+        "O QUE PARECE",
+        "Mato que não morre.",
+        "O QUE PODE SER",
+        "Raiz picada ou enxada cega.",
+        "COMO RESOLVER",
+        "Enxada afiada, raiz inteira.",
+        "Na próxima: cobrir e abafar",
+        "→",
+        "TG 041 MATO SEM VENENO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cap-sintoma-1.jpg",
+          "alt": "Canteiro tomado de mato rebrotando de pedaços de raiz"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Cobrir e abafar",
+        "01",
+        "Abafar com papelão",
+        "02",
+        "Raiz teimosa",
+        "03",
+        "Matos de perto",
+        "Na próxima: abafar com papelão",
+        "→",
+        "TG 041 MATO SEM VENENO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-B-1.jpg",
+          "alt": "André cobrindo a terra com palha"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "e22-100",
+        "e22-116",
+        "g32-221",
+        "e22-124",
+        "g32-218"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · COBRIR",
+        "Abafar com papelão",
+        "QUANDO",
+        "Antes de plantar",
+        "DURA",
+        "Uma temporada",
+        "VOCÊ VAI PRECISAR",
+        "Papelão",
+        " em camadas grossas",
+        "Composto",
+        " uns 15 cm por cima",
+        "Tijolo",
+        " para segurar",
+        "Casca ou brita",
+        " para esconder",
+        "Cuidado",
+        "Mato de bulbinho",
+        " pede 10 cm por cima",
+        "Mato enterrado",
+        " volta a nascer",
+        "Na próxima: raiz teimosa",
+        "→",
+        "TG 041 MATO SEM VENENO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "h35-070",
+        "h35-322",
+        "e22-014",
+        "e22-100"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · RAIZ",
+        "ATENÇÃO",
+        "Raiz de mato perene não vai para a composteira.",
+        "Cada pedaço de raiz pode virar planta.",
+        "Ela viaja no vaso, na ferramenta e na bota.",
+        "FAÇA ASSIM",
+        "Raiz teimosa: abafe com papelão.",
+        "Ferramenta limpa entre canteiros.",
+        "Na próxima: quatro matos",
+        "→",
+        "TG 041 MATO SEM VENENO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "e22-044",
+        "z7-19",
+        "e22-054",
+        "h35-322"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro matos",
+        "1",
+        "Buva",
+        "Semente voa 100 metros.",
+        "2",
+        "Tiririca",
+        "Espalha por tubérculo.",
+        "3",
+        "Picão-branco",
+        "Solta semente no chão.",
+        "4",
+        "Corda-de-viola",
+        "Raiz picada vira planta.",
+        "CHAVE",
+        "Antes da semente",
+        "Terra coberta",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 041 MATO SEM VENENO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cap-var-buva.jpg",
+          "alt": "Pé de buva alto numa calçada"
+        },
+        {
+          "src": "cap-var-tiririca.jpg",
+          "alt": "Tiririca de folha fina num canteiro"
+        },
+        {
+          "src": "cap-var-picao.jpg",
+          "alt": "Picão-branco com flores brancas pequenas"
+        },
+        {
+          "src": "cap-var-corda.jpg",
+          "alt": "Corda-de-viola enrolada numa planta da horta"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "e22-100",
+        "e22-009",
+        "w31-091",
+        "e22-033",
+        "e22-116"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "VOLTOU DA RAIZ",
+        "Abafe com papelão.",
+        "NASCEU DEPOIS DE CAVAR",
+        "Banco de sementes.",
+        "MATO NA CALÇADA",
+        "Água fervendo.",
+        "MATO SOB O COMEDOURO",
+        "Semente da ração.",
+        "DICA DO ANDRÉ",
+        "Plante no composto enquanto o mato morre embaixo.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 041 MATO SEM VENENO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "e22-013",
+        "e22-023"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "25",
+        "MIL",
+        "sementes pode soltar um pé de tasneirinha esquecido.",
+        "O normal é 1.500.",
+        "E MAIS UMA",
+        "Semente de mato enterrada dorme e pode esperar décadas para nascer.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 041 MATO SEM VENENO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "w31-135",
+        "g32-218",
+        "g32-217",
+        "e22-036",
+        "e22-064",
+        "q34-077",
+        "h35-070",
+        "w31-091"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Mato antes da semente",
+        "Enxada afiada",
+        "Capinar em dia de sol",
+        "Canteiro falso",
+        "8 cm de cobertura",
+        "Papelão no mato teimoso",
+        "Raiz fora da composteira",
+        "Água quente na calçada",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 041 MATO SEM VENENO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se o seu canteiro ficar limpinho sem veneno, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "041",
+        "VOCÊ TEM",
+        "042",
+        "043",
+        "044",
+        "045",
+        "046",
+        "São 41 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 042 HORTA NA VARANDA",
+        "Comente VARANDA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 041 MATO SEM VENENO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-mato-F-1.jpg",
+          "alt": "Retrato do André no quintal"
+        }
+      ]
+    }
+  ]
+}

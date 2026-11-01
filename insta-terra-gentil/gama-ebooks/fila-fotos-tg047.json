@@ -1,0 +1,70 @@
+{
+  "livro": "TG 047",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "tre-gesto-1",
+      "especie": "trellis",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands fixing a wooden trellis to a garden wall",
+      "mascote": false
+    },
+    {
+      "id": "tre-gesto-2",
+      "especie": "bougainvillea",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands loosely tying a bougainvillea branch to the trellis with string; the small mascot figurine sits on top of the wall",
+      "mascote": true
+    },
+    {
+      "id": "tre-gesto-3",
+      "especie": "climbing plant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands with pruning shears removing tangled stems from a climbing plant",
+      "mascote": false
+    },
+    {
+      "id": "tre-sintoma-1",
+      "especie": "bougainvillea",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Bougainvillea full of green leaves and no colored bracts",
+      "mascote": false
+    },
+    {
+      "id": "tre-var-buganvilia",
+      "especie": "bougainvillea",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Magenta bougainvillea covering a wall",
+      "mascote": false
+    },
+    {
+      "id": "tre-var-jasmim",
+      "especie": "jasmine",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Jasmine with white flowers on a fence",
+      "mascote": false
+    },
+    {
+      "id": "tre-var-glicinia",
+      "especie": "wisteria",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Lilac wisteria clusters hanging from a pergola; the small mascot figurine sits on a pergola beam",
+      "mascote": true
+    },
+    {
+      "id": "tre-var-tumbergia",
+      "especie": "blue thunbergia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Blue trumpet vine (Thunbergia grandiflora) in bloom",
+      "mascote": false
+    }
+  ]
+}

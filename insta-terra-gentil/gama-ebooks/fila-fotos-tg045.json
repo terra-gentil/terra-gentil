@@ -1,0 +1,70 @@
+{
+  "livro": "TG 045",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "gse-gesto-1",
+      "especie": "tomato seeds",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands squeezing the pulp of a ripe tomato into a glass jar",
+      "mascote": false
+    },
+    {
+      "id": "gse-gesto-2",
+      "especie": "tomato seeds",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Glass jar with tomato pulp and a white mold layer on top; the small mascot figurine sits on the windowsill next to the jar",
+      "mascote": true
+    },
+    {
+      "id": "gse-gesto-3",
+      "especie": "tomato seeds",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands rinsing tomato seeds in a fine sieve",
+      "mascote": false
+    },
+    {
+      "id": "gse-sintoma-1",
+      "especie": "seeds",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Seeds with grey mold inside an open paper envelope",
+      "mascote": false
+    },
+    {
+      "id": "gse-var-tomate",
+      "especie": "tomato seeds",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tomato seeds drying on a plate",
+      "mascote": false
+    },
+    {
+      "id": "gse-var-pimenta",
+      "especie": "chili pepper seeds",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Ripe chili peppers drying with seeds exposed",
+      "mascote": false
+    },
+    {
+      "id": "gse-var-feijao",
+      "especie": "bean pods",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dry yellow bean pods with beans; the small mascot figurine sits on the wooden table next to them",
+      "mascote": true
+    },
+    {
+      "id": "gse-var-calendula",
+      "especie": "calendula seeds",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dry calendula seed heads with curved seeds",
+      "mascote": false
+    }
+  ]
+}

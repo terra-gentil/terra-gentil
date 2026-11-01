@@ -1,0 +1,70 @@
+{
+  "livro": "TG 041",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "cap-gesto-1",
+      "especie": "garden bed",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands smoothing the soil of a bed ready for sowing",
+      "mascote": false
+    },
+    {
+      "id": "cap-gesto-2",
+      "especie": "garden bed",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Finger pointing at tiny weed seedlings sprouting on bare soil; the small mascot figurine sits on the wooden edge of the bed",
+      "mascote": true
+    },
+    {
+      "id": "cap-gesto-3",
+      "especie": "garden bed",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands with a small hoe slicing off tiny weed seedlings",
+      "mascote": false
+    },
+    {
+      "id": "cap-sintoma-1",
+      "especie": "garden bed",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Garden bed overrun by weeds regrowing from chopped root pieces",
+      "mascote": false
+    },
+    {
+      "id": "cap-var-buva",
+      "especie": "horseweed",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tall horseweed plant growing in a crack of a sidewalk",
+      "mascote": false
+    },
+    {
+      "id": "cap-var-tiririca",
+      "especie": "nutsedge",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Nutsedge with thin shiny leaves in a vegetable bed",
+      "mascote": false
+    },
+    {
+      "id": "cap-var-picao",
+      "especie": "shaggy soldier weed",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Shaggy soldier weed with small white flowers; the small mascot figurine stands on a stone next to it",
+      "mascote": true
+    },
+    {
+      "id": "cap-var-corda",
+      "especie": "field bindweed",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Bindweed vine twining around a vegetable plant",
+      "mascote": false
+    }
+  ]
+}

@@ -7,8 +7,8 @@ Rota nova `/guias/[slug]` (piloto `/guias/suculentas-sem-afogar`): uma pagina po
 - NAO foi feito push (a pagina iria ao ar sem o botao). Decisao pendente do Andre: aprovar o visual do piloto.
 - Proximo: aprovar piloto, R2, gerar os demais TG com foto final em lotes, depois os 20 antigos (so tem PDF, sem `livro.html`, precisam de outro caminho). Os cards do `/guias` ainda abrem o PDF direto, trocar para a pagina do livro quando houver paginas.
 - Limites conhecidos: pagina do TG 010 tem uns 450 palavras (tamanho do livro); so 2 perguntas no FAQ; scripts da fabrica ficam fora do repo (`Documents\Terra Gentil\ebooksabrica`).
-## LEVA 5: TG 040 A 054 EM ANDAMENTO (01/11/2026, noite)
-Roteiros em `ebooks\fabrica\curtos\tg040.mjs` em diante, previas `ebooks\TG0NN-previa.pdf` (fotos provisorias do banco). Feitos e sem estouro: 040 a 049.
+## LEVA 5: TG 040 A 054 ESCRITOS, FOTOS DO FLOW PENDENTES (01/11/2026, noite)
+Roteiros em `ebooks\fabrica\curtos\tg040.mjs` a `tg054.mjs` (19 paginas, sem estouro, `validar.mjs` ok, nenhum fato repetido entre livros), previas com fotos PROVISORIAS do banco em `ebooks\TG040-previa.pdf` a `TG054-previa.pdf`. Filas do Flow geradas por `fabrica\filas4.mjs` em `gama-ebooks/fila-fotos-tg040.json` a `tg054.json` (120 fotos, 30 com Gentileza sem oculos, lugar dito na cena).
 | Livro | Titulo | Palavra da capa | Prefixo | Comente (proximo) |
 |---|---|---|---|---|
 | 040 | Microverdes | BROTO | mic | CAPINA |
@@ -21,9 +21,16 @@ Roteiros em `ebooks\fabrica\curtos\tg040.mjs` em diante, previas `ebooks\TG0NN-p
 | 047 | Trepadeiras Floridas | JASMIM | tre | AZALEIA |
 | 048 | Azaleia e Hortênsia | AZALEIA | aza | BULBO |
 | 049 | Bulbos que Voltam | BULBO | bul | TROPICAL |
-- Plano do resto: 050 Jardim Tropical (TROPICAL), 051 Palmeiras de Casa (PALMEIRA), 052 Violeta e Parentes (VIOLETA), 053 Folhagem Colorida (CROTON), 054 Jardim que Aguenta Seca (SECA), que promete o TG 055 Frutifera em Vaso (FIGO).
+| 050 | Jardim Tropical | TROPICAL | tro | PALMEIRA |
+| 051 | Palmeiras de Casa | PALMEIRA | pal | VIOLETA |
+| 052 | Violeta e Parentes | VIOLETA | vio | CROTON |
+| 053 | Folhagem Colorida | CROTON | fol | SECA |
+| 054 | Jardim sem Sede | SECA | sed | FIGO |
+- TG 054 promete o TG 055 FRUTIFERA EM VASO (palavra FIGO): figo, limoeiro, oliveira, nespera, butia (fatos t37 e g32).
 - Carta (p2): linhas curtas, ate uns 50 caracteres, senao estoura altura (TG 040 estourou +72 px).
-- Falta: filas do Flow da leva 5 (`filas4.mjs`), `validar.mjs`, commit.
+- **Para o Andre decidir no QA:** TG 044 p17 usa "70 %" (palavra grande so com o simbolo); TG 053 p17 usa "22 TONS" para "22 cores"; TG 054 p17 usa "1.000 ANOS" (o fato diz "mais de mil anos"). TG 046 p14 fala em begonia "em cautela para gato" (g16-23).
+- Fotos de capa provisorias: especies sem pasta no banco (microverde, gerânio, azaleia, palmeira, tropicais) usaram coringas ou especie parecida; trocar quando tiver capa propria.
+- **Proximo:** gerar as fotos do Flow das levas 3, 4 e 5 (40 + 80 + 120 = 240), mesmo fluxo de sempre (Fotos Ebook TG, lotes de 9, trocar Pamela/eng.andrehz sem pedir, `__baixar2k`, `esperar.py`, `casar2k.py TGNNN`, `node fazer.mjs curtos/tgNNN.mjs`). Depois TG 055 Frutifera em Vaso e o QA final de todos.
 ## LEVA 4: TG 030 A 039 ESCRITOS, FOTOS DO FLOW PENDENTES (01/11/2026, noite)
 Roteiros curtos em `ebooks\fabrica\curtos\tg030.mjs` a `tg039.mjs` (19 paginas, sem estouro, `validar.mjs` ok), previas com fotos PROVISORIAS do banco em `ebooks\TG030-previa.pdf` a `TG039-previa.pdf`. Filas do Flow geradas por `fabrica\filas3.mjs` em `gama-ebooks/fila-fotos-tg030.json` a `tg039.json` (80 fotos, Gentileza sem oculos, 2 por fila, lugar dito na cena).
 | Livro | Titulo | Palavra da capa | Prefixo | Comente (proximo) |

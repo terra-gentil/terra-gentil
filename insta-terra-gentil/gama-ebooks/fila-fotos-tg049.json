@@ -1,0 +1,70 @@
+{
+  "livro": "TG 049",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "bul-gesto-1",
+      "especie": "amaryllis bulb",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands holding a large amaryllis bulb over a pot",
+      "mascote": false
+    },
+    {
+      "id": "bul-gesto-2",
+      "especie": "amaryllis bulb",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting the amaryllis bulb with the top half above the soil; the small mascot figurine sits on the potting bench next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "bul-gesto-3",
+      "especie": "amaryllis",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands watering the amaryllis pot with the flower stalk tip showing",
+      "mascote": false
+    },
+    {
+      "id": "bul-sintoma-1",
+      "especie": "amaryllis",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Amaryllis pot with only long leaves and no flower stalk",
+      "mascote": false
+    },
+    {
+      "id": "bul-var-dalia",
+      "especie": "dahlia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Large colorful dahlia in a bed with a stake",
+      "mascote": false
+    },
+    {
+      "id": "bul-var-amarilis",
+      "especie": "amaryllis",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Red amaryllis in bloom in a pot",
+      "mascote": false
+    },
+    {
+      "id": "bul-var-agapanto",
+      "especie": "agapanthus",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Blue agapanthus in bloom in a garden; the small mascot figurine stands among the leaves at the base",
+      "mascote": true
+    },
+    {
+      "id": "bul-var-hemerocale",
+      "especie": "daylily",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Orange daylily open in the sun",
+      "mascote": false
+    }
+  ]
+}

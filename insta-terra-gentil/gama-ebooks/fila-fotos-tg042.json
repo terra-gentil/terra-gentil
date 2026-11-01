@@ -1,0 +1,70 @@
+{
+  "livro": "TG 042",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "vrd-gesto-1",
+      "especie": "balcony planter",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands fixing a planter box onto a balcony railing",
+      "mascote": false
+    },
+    {
+      "id": "vrd-gesto-2",
+      "especie": "balcony planter",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands filling the railing planter with potting mix up to a few cm below the rim",
+      "mascote": false
+    },
+    {
+      "id": "vrd-gesto-3",
+      "especie": "balcony planter",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting vegetable seedlings in the railing planter; the small mascot figurine sits on the balcony floor beside a pot",
+      "mascote": true
+    },
+    {
+      "id": "vrd-sintoma-1",
+      "especie": "vegetable leaves",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Vegetable leaves with dry brown edges on a windy balcony",
+      "mascote": false
+    },
+    {
+      "id": "vrd-var-tomate",
+      "especie": "tomato plant",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tomato plant with fruits in a pot on a sunny balcony",
+      "mascote": false
+    },
+    {
+      "id": "vrd-var-alface",
+      "especie": "lettuce",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Curly lettuce in a balcony planter",
+      "mascote": false
+    },
+    {
+      "id": "vrd-var-pimenta",
+      "especie": "chili pepper plant",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Chili pepper plant full of fruits in a pot; the small mascot figurine sits on the shelf next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "vrd-var-gengibre",
+      "especie": "ginger plant",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Ginger plant with long leaves in a large pot on a balcony",
+      "mascote": false
+    }
+  ]
+}

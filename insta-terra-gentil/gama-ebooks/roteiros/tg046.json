@@ -1,0 +1,557 @@
+{
+  "livro": "TG 046",
+  "titulo": "Flores de Varanda",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "046",
+        "COLEÇÃO TERRA GENTIL",
+        "GERÂNIO",
+        "Flores de Varanda",
+        "Cor o ano inteiro no vaso.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "begonia-A-1.jpg",
+          "alt": "André com um vaso de flores"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "b24-022",
+        "b24-576",
+        "b24-021"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Varanda florida o ano todo dá para ter.",
+        "O segredo é sol, terra que escoa e flor murcha fora.",
+        "Aqui tem gerânio, petúnia, begônia e mais.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Tire uma flor murcha de um vaso.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 046 FLORES DE VARANDA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "begonia-B-1.jpg",
+          "alt": "André olhando as flores da varanda"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "b24-127",
+        "b24-576",
+        "b24-029"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Flor murcha fora.",
+        "Tirar a flor seca faz a planta soltar mais flor.",
+        "SOL",
+        "Quase todas pedem sol pleno.",
+        "Terra que escoa.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 046 FLORES DE VARANDA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha das flores",
+        "06",
+        "CAPÍTULO 1",
+        "Sol e terra",
+        "08",
+        "CAPÍTULO 2",
+        "Flor sem parar",
+        "12",
+        "CAPÍTULO 3",
+        "Muda de estaca",
+        "15",
+        "CAPÍTULO 4",
+        "Flores de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Gerânio apodrecendo? Vá para a página 11.",
+        "Na próxima: a ficha das flores",
+        "→",
+        "TG 046 FLORES DE VARANDA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "b24-576",
+        "b24-019",
+        "b24-021",
+        "b24-127",
+        "b24-577"
+      ],
+      "textos": [
+        "FICHA DAS FLORES",
+        "Antes de plantar",
+        "O que elas pedem",
+        "SOL",
+        "Pleno, quase todas",
+        "TERRA",
+        "Que escoa bem",
+        "ÁGUA",
+        "Sem exagero",
+        "ADUBO",
+        "Com frequência",
+        "FLOR MURCHA",
+        "Tire sempre",
+        "BEGÔNIA",
+        "ATENÇÃO",
+        "Sem sol direto",
+        "Na próxima: sol e terra",
+        "→",
+        "TG 046 FLORES DE VARANDA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Sol e terra",
+        "01",
+        "Certo e errado",
+        "02",
+        "Flor murcha, passo a passo",
+        "03",
+        "Gerânio apodrecendo",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 046 FLORES DE VARANDA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "kalanchoe-C-1.jpg",
+          "alt": "André com vasos floridos no sol"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "b24-127",
+        "b24-020",
+        "b24-055",
+        "b24-029",
+        "b24-022",
+        "b24-123"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Flor seca",
+        "Tirada",
+        "No pé",
+        "Gerânio",
+        "Ventilado",
+        "Abafado",
+        "Begônia",
+        "Rega na terra",
+        "Na folha",
+        "Petúnia",
+        "Abrigada",
+        "No vento",
+        "No calor, muito gerânio floresce quase sem parar.",
+        "DICA DO ANDRÉ",
+        "Tagetes-francês é baixinho e vai na borda.",
+        "Na próxima: flor sem parar",
+        "→",
+        "TG 046 FLORES DE VARANDA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Flor sem parar",
+        "01",
+        "Flor murcha, passo a passo",
+        "02",
+        "Rega e adubo",
+        "03",
+        "Gerânio apodrecendo",
+        "Na próxima: flor murcha, passo a passo",
+        "→",
+        "TG 046 FLORES DE VARANDA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "begonia-D-1.jpg",
+          "alt": "André tirando flores secas"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "b24-021",
+        "b24-030",
+        "b24-121",
+        "b24-127"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Flor murcha? Faça assim.",
+        "QUANDO",
+        "Sempre que murchar",
+        "TEMPO",
+        "5 minutos",
+        "PRECISA",
+        "Dedos ou tesourinha",
+        "1",
+        "ACHE",
+        "A flor que murchou.",
+        "2",
+        "TIRE",
+        "Antes de virar semente.",
+        "3",
+        "ADUBE",
+        "Com frequência na florada.",
+        "DICA DO ANDRÉ",
+        "A zínia responde com mais flor.",
+        "Na próxima: rega e adubo",
+        "→",
+        "TG 046 FLORES DE VARANDA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "flv-gesto-1.jpg",
+          "alt": "Dedo apontando uma flor murcha de gerânio no vaso"
+        },
+        {
+          "src": "flv-gesto-2.jpg",
+          "alt": "Mãos tirando a flor murcha de uma petúnia"
+        },
+        {
+          "src": "flv-gesto-3.jpg",
+          "alt": "Mãos regando com adubo líquido um vaso de flores na varanda"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "b24-021",
+        "b24-143",
+        "b24-063",
+        "b24-035",
+        "b24-055"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · REGA",
+        "Rega e adubo",
+        "Gerânio: não exagere na água.",
+        "Vinca no vaso quer rega moderada.",
+        "Beijinho: terra úmida, sem encharcar.",
+        "Petúnia rasteira precisa de adubo em dia.",
+        "Begônia: regue a terra, não a folha.",
+        "Na próxima: gerânio apodrecendo",
+        "→",
+        "TG 046 FLORES DE VARANDA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "b24-020",
+        "b24-021"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Gerânio apodrecendo?",
+        "1",
+        "O QUE PARECE",
+        "Falta de água.",
+        "O QUE PODE SER",
+        "Calor úmido e terra molhada.",
+        "COMO RESOLVER",
+        "Lugar ventilado, menos água.",
+        "Na próxima: muda de estaca",
+        "→",
+        "TG 046 FLORES DE VARANDA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "flv-sintoma-1.jpg",
+          "alt": "Gerânio com caule escuro e folhas caídas num vaso encharcado"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Muda de estaca",
+        "01",
+        "Estaca de gerânio",
+        "02",
+        "Cuidado com a begônia",
+        "03",
+        "Flores de perto",
+        "Na próxima: estaca de gerânio",
+        "→",
+        "TG 046 FLORES DE VARANDA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-podar-A-1.jpg",
+          "alt": "André cortando um ramo para muda"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "b24-023",
+        "b24-019",
+        "b24-065",
+        "b24-034",
+        "b24-020"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ESTACA",
+        "Estaca de gerânio",
+        "DE ONDE",
+        "Ponta de ramo",
+        "PEGA",
+        "Fácil",
+        "VOCÊ VAI PRECISAR",
+        "Ponta de ramo",
+        " de gerânio sadio",
+        "Vaso",
+        " com terra que escoa",
+        "Beijinho",
+        " também pega de estaca",
+        "Surfinia",
+        " só pega de estaca",
+        "Cuidado",
+        "Terra molhada",
+        " apodrece o gerânio",
+        "Ar abafado",
+        " derruba a planta",
+        "Na próxima: cuidado com a begônia",
+        "→",
+        "TG 046 FLORES DE VARANDA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "g16-23",
+        "b24-055",
+        "b24-577",
+        "k9-285"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · BEGÔNIA",
+        "ATENÇÃO",
+        "Begônia está em cautela para gato.",
+        "Folha molhada e ar parado chamam fungo.",
+        "Ela quer claridade, sem sol direto.",
+        "FAÇA ASSIM",
+        "Vaso longe do gato.",
+        "Regue a terra, não a folha.",
+        "Na próxima: quatro flores",
+        "→",
+        "TG 046 FLORES DE VARANDA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "b24-018",
+        "b24-032",
+        "b24-063",
+        "b24-145"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro flores",
+        "1",
+        "Gerânio",
+        "Sol e muita claridade.",
+        "2",
+        "Petúnia",
+        "Flor pequena aguenta chuva.",
+        "3",
+        "Beijinho",
+        "Sol ou meia-sombra.",
+        "4",
+        "Onze-horas",
+        "Abre no sol.",
+        "CHAVE",
+        "Sol e terra que escoa",
+        "Flor murcha fora",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 046 FLORES DE VARANDA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "flv-var-geranio.jpg",
+          "alt": "Gerânio vermelho florido num vaso de varanda"
+        },
+        {
+          "src": "flv-var-petunia.jpg",
+          "alt": "Petúnias roxas caindo de uma jardineira"
+        },
+        {
+          "src": "flv-var-beijinho.jpg",
+          "alt": "Beijinho rosa florido num vaso"
+        },
+        {
+          "src": "flv-var-onzehoras.jpg",
+          "alt": "Onze-horas coloridas abertas no sol"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "b24-576",
+        "b24-055",
+        "b24-147",
+        "b24-031",
+        "b24-025"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "POUCA FLOR",
+        "Falta sol.",
+        "PÓ BRANCO NA BEGÔNIA",
+        "Ar parado.",
+        "PULGÃO NA ONZE-HORAS",
+        "Praga comum.",
+        "PETÚNIA MANCHADA",
+        "Vírus da horta.",
+        "DICA DO ANDRÉ",
+        "Gerânio-pendente é o do vaso pendurado.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 046 FLORES DE VARANDA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "b24-033",
+        "b24-032",
+        "b24-034"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "4",
+        "CM",
+        "tem a flor da petúnia anã, que nasceu de uma mutação.",
+        "A grandona chega a 10 cm.",
+        "E MAIS UMA",
+        "A petúnia Surfinia vem em mais de 50 cores e só pega de estaca.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 046 FLORES DE VARANDA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "b24-576",
+        "b24-019",
+        "b24-021",
+        "b24-127",
+        "b24-023",
+        "b24-577",
+        "g16-23"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Lugar de sol",
+        "Terra que escoa",
+        "Água sem exagero",
+        "Flor murcha fora",
+        "Adubo na florada",
+        "Estaca de gerânio",
+        "Begônia sem sol direto",
+        "Begônia longe do gato",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 046 FLORES DE VARANDA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua varanda florir, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "046",
+        "VOCÊ TEM",
+        "047",
+        "048",
+        "049",
+        "050",
+        "051",
+        "São 46 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 047 TREPADEIRAS FLORIDAS",
+        "Comente JASMIM no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 046 FLORES DE VARANDA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "begonia-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

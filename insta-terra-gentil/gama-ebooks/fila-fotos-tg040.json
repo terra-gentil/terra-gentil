@@ -1,0 +1,70 @@
+{
+  "livro": "TG 040",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "mic-gesto-1",
+      "especie": "microgreens tray",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands spreading a thin layer of potting mix in a shallow seed tray",
+      "mascote": false
+    },
+    {
+      "id": "mic-gesto-2",
+      "especie": "microgreens tray",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands scattering seeds densely over the tray; the small mascot figurine sits on the kitchen counter beside the tray",
+      "mascote": true
+    },
+    {
+      "id": "mic-gesto-3",
+      "especie": "microgreens tray",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands covering the seeds with a thin sprinkle of soil",
+      "mascote": false
+    },
+    {
+      "id": "mic-sintoma-1",
+      "especie": "microgreens tray",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Microgreens tray with white fuzzy mold and collapsed seedlings",
+      "mascote": false
+    },
+    {
+      "id": "mic-var-ervilha",
+      "especie": "pea shoots",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tall green pea shoots growing thick in a tray by a window",
+      "mascote": false
+    },
+    {
+      "id": "mic-var-rucula",
+      "especie": "arugula microgreens",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Arugula microgreens with tiny new leaves in a tray",
+      "mascote": false
+    },
+    {
+      "id": "mic-var-pakchoi",
+      "especie": "pak choi microgreens",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Pak choi microgreens in a shallow tray; the small mascot figurine stands at the edge of the windowsill next to it",
+      "mascote": true
+    },
+    {
+      "id": "mic-var-feijao",
+      "especie": "mung bean sprouts",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Mung bean sprouts in a glass jar with a cloth lid",
+      "mascote": false
+    }
+  ]
+}

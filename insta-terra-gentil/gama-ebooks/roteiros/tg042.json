@@ -1,0 +1,556 @@
+{
+  "livro": "TG 042",
+  "titulo": "Horta na Varanda",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "042",
+        "COLEÇÃO TERRA GENTIL",
+        "VARANDA",
+        "Horta na Varanda",
+        "Comida fresca em pouco espaço.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-jardim-vertical-A-1.jpg",
+          "alt": "André na varanda com vasos de horta"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "h35-042",
+        "h35-014"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Varanda pequena também vira horta.",
+        "O segredo é sol, peso e vento na medida certa.",
+        "Aqui tem jardineira, prateleira e rega.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Conte quantas horas de sol bate na varanda.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 042 HORTA NA VARANDA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "manjericao-B-1.jpg",
+          "alt": "André colhendo manjericão na varanda"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "h35-008",
+        "g32-055",
+        "h35-124"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Conte as horas de sol.",
+        "Fruto pede 6 horas de sol direto; folha se vira com 3.",
+        "ABRIGO",
+        "Canto sem vento é estufa de graça.",
+        "Planta pesada embaixo.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 042 HORTA NA VARANDA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da varanda",
+        "06",
+        "CAPÍTULO 1",
+        "Sol, peso e vento",
+        "08",
+        "CAPÍTULO 2",
+        "Jardineira na grade",
+        "12",
+        "CAPÍTULO 3",
+        "Prateleira e parede",
+        "15",
+        "CAPÍTULO 4",
+        "Hortaliças de varanda",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Folha com mancha seca? Vá para a página 11.",
+        "Na próxima: a ficha da varanda",
+        "→",
+        "TG 042 HORTA NA VARANDA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "h35-014",
+        "h35-008",
+        "h35-005",
+        "h35-006",
+        "h35-163",
+        "h35-045"
+      ],
+      "textos": [
+        "FICHA DA VARANDA",
+        "Antes de plantar",
+        "O que ela pede",
+        "SOL",
+        "6 horas para fruto",
+        "SOMBRA",
+        "3 horas para folha",
+        "VENTO",
+        "Planta baixa ou amarrada",
+        "PESO",
+        "Terra molhada pesa",
+        "REGA",
+        "Todo dia no calor",
+        "METAL",
+        "ATENÇÃO",
+        "Forre o vaso por dentro",
+        "Na próxima: sol, peso e vento",
+        "→",
+        "TG 042 HORTA NA VARANDA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Sol, peso e vento",
+        "01",
+        "Certo e errado",
+        "02",
+        "Jardineira, passo a passo",
+        "03",
+        "Folha queimada",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 042 HORTA NA VARANDA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-jardim-vertical-B-1.jpg",
+          "alt": "André olhando o sol na varanda"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "h35-005",
+        "h35-019",
+        "h35-045",
+        "h35-099",
+        "h35-020"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Planta alta",
+        "Amarrada",
+        "Solta",
+        "Vento",
+        "Tela vazada",
+        "Muro fechado",
+        "Vaso metal",
+        "Forrado",
+        "Sem forro",
+        "Encher",
+        "5 cm abaixo",
+        "Até a borda",
+        "Varanda pega vento: amarre as plantas altas.",
+        "DICA DO ANDRÉ",
+        "Lavanda e sálvia na borda seguram o vento.",
+        "Na próxima: jardineira na grade",
+        "→",
+        "TG 042 HORTA NA VARANDA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Jardineira na grade",
+        "01",
+        "Jardineira, passo a passo",
+        "02",
+        "Rega que não seca",
+        "03",
+        "Folha queimada",
+        "Na próxima: jardineira, passo a passo",
+        "→",
+        "TG 042 HORTA NA VARANDA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "alface-C-1.jpg",
+          "alt": "André plantando alface na jardineira"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "h35-007",
+        "h35-099",
+        "h35-108",
+        "h35-125"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Jardineira na grade? Faça assim.",
+        "QUANDO",
+        "Com as mudas prontas",
+        "TEMPO",
+        "30 minutos",
+        "PRECISA",
+        "Jardineira e substrato",
+        "1",
+        "PRENDA",
+        "Bem firme, contra o vento.",
+        "2",
+        "ENCHA",
+        "Até 5 cm abaixo da borda.",
+        "3",
+        "PLANTE",
+        "Sol para fora, sombra para dentro.",
+        "DICA DO ANDRÉ",
+        "Regue antes de pendurar, para não pingar embaixo.",
+        "Na próxima: rega que não seca",
+        "→",
+        "TG 042 HORTA NA VARANDA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "vrd-gesto-1.jpg",
+          "alt": "Mãos prendendo uma jardineira na grade da varanda"
+        },
+        {
+          "src": "vrd-gesto-2.jpg",
+          "alt": "Mãos enchendo a jardineira de substrato até perto da borda"
+        },
+        {
+          "src": "vrd-gesto-3.jpg",
+          "alt": "Mãos plantando mudas de horta na jardineira da varanda"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "h35-163",
+        "h35-123",
+        "h35-087",
+        "w31-146"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · REGA",
+        "Rega que não seca",
+        "Bolso de parede seca rápido: confira todo dia.",
+        "No calor, regue cedo de manhã.",
+        "Vaso de baixo da prateleira não pega chuva.",
+        "Garrafa PET enterrada leva água à raiz.",
+        "Saco com furinho rega devagar por dias.",
+        "Na próxima: folha queimada",
+        "→",
+        "TG 042 HORTA NA VARANDA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "h35-320",
+        "h35-019",
+        "h35-018"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Folha com mancha seca?",
+        "1",
+        "O QUE PARECE",
+        "Doença na folha.",
+        "O QUE PODE SER",
+        "Queimadura de vento ou sol.",
+        "COMO RESOLVER",
+        "Tela ou planta contra o vento.",
+        "Na próxima: prateleira e parede",
+        "→",
+        "TG 042 HORTA NA VARANDA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "vrd-sintoma-1.jpg",
+          "alt": "Folhas de horta com bordas secas e marrons numa varanda de vento"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Prateleira e parede",
+        "01",
+        "Prateleira de horta",
+        "02",
+        "O peso da terra",
+        "03",
+        "Hortaliças de varanda",
+        "Na próxima: prateleira de horta",
+        "→",
+        "TG 042 HORTA NA VARANDA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-regar-B-1.jpg",
+          "alt": "André regando vasos na prateleira"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "h35-007",
+        "h35-124",
+        "h35-120",
+        "h35-123",
+        "h35-128",
+        "g32-055"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · PAREDE",
+        "Prateleira de horta",
+        "QUANDO",
+        "Pouco chão",
+        "LUGAR",
+        "Canto de sol abrigado",
+        "VOCÊ VAI PRECISAR",
+        "Prateleira",
+        " bem presa na parede",
+        "Embaixo",
+        " a planta pesada",
+        "Em cima",
+        " pendente e pequena",
+        "Duas escadas",
+        " e três tábuas servem",
+        "Cuidado",
+        "Vaso de baixo",
+        " regue mesmo com chuva",
+        "Lesma",
+        " sobe até o alto",
+        "Na próxima: o peso da terra",
+        "→",
+        "TG 042 HORTA NA VARANDA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "h35-006",
+        "h35-107",
+        "h35-007",
+        "h35-124"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · PESO",
+        "ATENÇÃO",
+        "Terra molhada pesa muito.",
+        "Vaso demais sobrecarrega varanda e laje.",
+        "Bolsa funda na grade rasga com o peso.",
+        "FAÇA ASSIM",
+        "Prateleira e suporte bem presos.",
+        "Bolsa rasa, planta pesada embaixo.",
+        "Na próxima: quatro hortaliças",
+        "→",
+        "TG 042 HORTA NA VARANDA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "h35-008",
+        "g32-040",
+        "g32-043"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro hortaliças",
+        "1",
+        "Tomate",
+        "Pede 6 horas de sol.",
+        "2",
+        "Alface",
+        "Se vira com 3 horas.",
+        "3",
+        "Pimenta",
+        "Canto sem vento.",
+        "4",
+        "Gengibre",
+        "Vai bem na varanda.",
+        "CHAVE",
+        "Horas de sol",
+        "Vaso bem preso",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 042 HORTA NA VARANDA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "vrd-var-tomate.jpg",
+          "alt": "Tomateiro com frutos num vaso de varanda"
+        },
+        {
+          "src": "vrd-var-alface.jpg",
+          "alt": "Alface crespa numa jardineira"
+        },
+        {
+          "src": "vrd-var-pimenta.jpg",
+          "alt": "Pimenteira carregada num vaso"
+        },
+        {
+          "src": "vrd-var-gengibre.jpg",
+          "alt": "Gengibre de folhas compridas num vaso grande"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "h35-320",
+        "h35-123",
+        "h35-008",
+        "h35-107",
+        "g32-034"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "FOLHA QUEIMADA",
+        "Vento ou sol forte.",
+        "VASO DE BAIXO SECO",
+        "Não pega chuva.",
+        "TOMATE SEM FRUTO",
+        "Pouco sol.",
+        "BOLSA RASGOU",
+        "Funda demais.",
+        "DICA DO ANDRÉ",
+        "Vento leve espanta pulgão e mosca-branca.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 042 HORTA NA VARANDA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "g32-452",
+        "g32-039"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "50",
+        "MIL",
+        "litros de chuva por ano um telhado de casa recolhe.",
+        "Um galpão pequeno, uns 5 mil.",
+        "E MAIS UMA",
+        "Uma barreira de vento protege até 5 vezes a altura dela.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 042 HORTA NA VARANDA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "h35-014",
+        "h35-005",
+        "h35-019",
+        "h35-006",
+        "h35-007",
+        "h35-099",
+        "h35-124",
+        "h35-163"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Conte as horas de sol",
+        "Planta alta amarrada",
+        "Tela contra o vento",
+        "Cuidado com o peso",
+        "Jardineira bem presa",
+        "5 cm abaixo da borda",
+        "Pesada embaixo",
+        "Regue cedo no calor",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 042 HORTA NA VARANDA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua varanda der a primeira salada, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "042",
+        "VOCÊ TEM",
+        "043",
+        "044",
+        "045",
+        "046",
+        "047",
+        "São 42 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 043 CANTEIRO ELEVADO",
+        "Comente CANTEIRO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 042 HORTA NA VARANDA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-jardim-vertical-C-1.jpg",
+          "alt": "Retrato do André na varanda"
+        }
+      ]
+    }
+  ]
+}

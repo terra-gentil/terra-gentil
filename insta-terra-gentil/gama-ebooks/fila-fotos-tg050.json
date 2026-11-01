@@ -1,0 +1,70 @@
+{
+  "livro": "TG 050",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "tro-gesto-1",
+      "especie": "tropical garden",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands digging a wide planting hole in a shady bed",
+      "mascote": false
+    },
+    {
+      "id": "tro-gesto-2",
+      "especie": "tropical garden",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands mixing dark compost into the soil of the hole",
+      "mascote": false
+    },
+    {
+      "id": "tro-gesto-3",
+      "especie": "alpinia",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting an alpinia seedling and firming the soil; the small mascot figurine sits on a log at the edge of the bed",
+      "mascote": true
+    },
+    {
+      "id": "tro-sintoma-1",
+      "especie": "heliconia",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Heliconia clump with the top leaves dry and drooping",
+      "mascote": false
+    },
+    {
+      "id": "tro-var-heliconia",
+      "especie": "heliconia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Heliconia with hanging red and yellow bracts",
+      "mascote": false
+    },
+    {
+      "id": "tro-var-alpinia",
+      "especie": "red ginger",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Red ginger (Alpinia purpurata) in bloom in a garden",
+      "mascote": false
+    },
+    {
+      "id": "tro-var-ave",
+      "especie": "bird of paradise",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Orange and blue bird of paradise flower; the small mascot figurine sits on a garden stone below it",
+      "mascote": true
+    },
+    {
+      "id": "tro-var-biri",
+      "especie": "canna",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Red canna flower in a sunny bed",
+      "mascote": false
+    }
+  ]
+}

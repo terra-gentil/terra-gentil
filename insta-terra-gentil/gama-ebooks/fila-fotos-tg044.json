@@ -1,0 +1,70 @@
+{
+  "livro": "TG 044",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "ers-gesto-1",
+      "especie": "herbs",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting herb sprigs with scissors on a dry morning",
+      "mascote": false
+    },
+    {
+      "id": "ers-gesto-2",
+      "especie": "herbs",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands spreading herb leaves in a single layer on newspaper; the small mascot figurine sits on the table next to the newspaper",
+      "mascote": true
+    },
+    {
+      "id": "ers-gesto-3",
+      "especie": "herbs",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands turning drying herb leaves on a tray",
+      "mascote": false
+    },
+    {
+      "id": "ers-sintoma-1",
+      "especie": "dried herbs",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Glass jar of dried herbs with water droplets inside",
+      "mascote": false
+    },
+    {
+      "id": "ers-var-oregano",
+      "especie": "oregano",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Bunch of oregano hanging upside down to dry in the shade",
+      "mascote": false
+    },
+    {
+      "id": "ers-var-hortela",
+      "especie": "mint",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dried mint leaves in a fine sieve",
+      "mascote": false
+    },
+    {
+      "id": "ers-var-manjericao",
+      "especie": "basil",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Basil leaves in a freezer bag on a kitchen counter; the small mascot figurine stands beside the bag",
+      "mascote": true
+    },
+    {
+      "id": "ers-var-salsinha",
+      "especie": "parsley",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Frozen chopped parsley in a bag",
+      "mascote": false
+    }
+  ]
+}

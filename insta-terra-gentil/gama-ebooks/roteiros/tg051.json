@@ -1,0 +1,557 @@
+{
+  "livro": "TG 051",
+  "titulo": "Palmeiras de Casa",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "051",
+        "COLEÇÃO TERRA GENTIL",
+        "PALMEIRA",
+        "Palmeiras de Casa",
+        "A sala com cara de verão.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "bambu-da-sorte-A-1.jpg",
+          "alt": "André na sala com uma planta alta"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "q3-585",
+        "b24-426",
+        "q3-573"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Palmeira de vaso deixa a sala com cara de verão.",
+        "Pede pouco: luz, rega certa e ar úmido.",
+        "Aqui tem areca, ráfis, kentia, cica e mais.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache um canto claro, sem sol direto.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 051 PALMEIRAS DE CASA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bambu-da-sorte-B-1.jpg",
+          "alt": "André olhando as folhas de uma planta"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "q3-585",
+        "q3-592",
+        "q3-573",
+        "b24-426"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Luz indireta.",
+        "Areca e kentia gostam de claridade sem sol forte.",
+        "BORRIFE",
+        "Ar seco chama o ácaro.",
+        "Rega moderada.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 051 PALMEIRAS DE CASA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da palmeira",
+        "06",
+        "CAPÍTULO 1",
+        "Luz e lugar",
+        "08",
+        "CAPÍTULO 2",
+        "Muda e vaso",
+        "12",
+        "CAPÍTULO 3",
+        "Rega e adubo",
+        "15",
+        "CAPÍTULO 4",
+        "Palmeiras de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Murchou depois da troca? Vá para a página 11.",
+        "Na próxima: a ficha da palmeira",
+        "→",
+        "TG 051 PALMEIRAS DE CASA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "q3-585",
+        "b24-426",
+        "q3-573",
+        "q3-579",
+        "q3-580",
+        "b24-425"
+      ],
+      "textos": [
+        "FICHA DA PALMEIRA",
+        "Antes de comprar",
+        "O que ela pede",
+        "LUZ",
+        "Indireta",
+        "ÁGUA",
+        "Moderada",
+        "FOLHA",
+        "Borrifada",
+        "ADUBO",
+        "Fraco, crescendo",
+        "VASO",
+        "Troca sem pressa",
+        "ÁCARO",
+        "ATENÇÃO",
+        "A praga mais comum",
+        "Na próxima: luz e lugar",
+        "→",
+        "TG 051 PALMEIRAS DE CASA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Luz e lugar",
+        "01",
+        "Certo e errado",
+        "02",
+        "Dividir, passo a passo",
+        "03",
+        "Murchou na troca",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 051 PALMEIRAS DE CASA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bambu-da-sorte-C-1.jpg",
+          "alt": "André perto de uma janela clara"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "q3-573",
+        "b24-426",
+        "q3-580",
+        "q3-579",
+        "t37-103",
+        "q3-600"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Ar",
+        "Úmido",
+        "Seco",
+        "Rega",
+        "Moderada",
+        "Demais",
+        "Raiz",
+        "Quieta",
+        "Mexida",
+        "Vaso",
+        "Drena",
+        "Encharca",
+        "Muita palmeira aguenta sal e vento: boa no litoral.",
+        "DICA DO ANDRÉ",
+        "Coqueiro novo vem no vaso com o coco na base.",
+        "Na próxima: muda e vaso",
+        "→",
+        "TG 051 PALMEIRAS DE CASA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Muda e vaso",
+        "01",
+        "Dividir, passo a passo",
+        "02",
+        "Troca de vaso",
+        "03",
+        "Murchou na troca",
+        "Na próxima: dividir, passo a passo",
+        "→",
+        "TG 051 PALMEIRAS DE CASA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bambu-da-sorte-D-1.jpg",
+          "alt": "André trocando uma planta de vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "q3-585",
+        "q3-587",
+        "q3-599",
+        "q3-582",
+        "b24-429"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Dividir a areca? Faça assim.",
+        "QUANDO",
+        "Raiz enchendo o vaso",
+        "TEMPO",
+        "30 minutos",
+        "PRECISA",
+        "Vasos e terra que escoa",
+        "1",
+        "TIRE",
+        "A touceira do vaso.",
+        "2",
+        "SEPARE",
+        "Os brotos da base, com raiz.",
+        "3",
+        "PLANTE",
+        "Cada um no seu vaso.",
+        "DICA DO ANDRÉ",
+        "Ráfis e camedórea se dividem igual.",
+        "Na próxima: troca de vaso",
+        "→",
+        "TG 051 PALMEIRAS DE CASA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "pal-gesto-1.jpg",
+          "alt": "Mãos tirando uma areca com a raiz tomando o vaso"
+        },
+        {
+          "src": "pal-gesto-2.jpg",
+          "alt": "Mãos separando um broto da base da areca com raiz"
+        },
+        {
+          "src": "pal-gesto-3.jpg",
+          "alt": "Mãos plantando o broto de areca num vaso menor"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "q3-585",
+        "q3-580",
+        "q3-576",
+        "q3-575",
+        "q3-590"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · VASO",
+        "Troca de vaso",
+        "Areca: troque quando a raiz encher o vaso.",
+        "Palmeira-de-salão não gosta que mexam na raiz.",
+        "Grande demais? Troque só a terra de cima.",
+        "Rabo-de-peixe fica melhor em vaso pequeno.",
+        "Cica: os filhotes da base viram muda.",
+        "Na próxima: murchou na troca",
+        "→",
+        "TG 051 PALMEIRAS DE CASA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "q3-580"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Murchou depois da troca?",
+        "1",
+        "O QUE PARECE",
+        "Doença.",
+        "O QUE PODE SER",
+        "Mexeram demais na raiz.",
+        "COMO RESOLVER",
+        "Troque só com a terra tomada.",
+        "Na próxima: rega e adubo",
+        "→",
+        "TG 051 PALMEIRAS DE CASA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "pal-sintoma-1.jpg",
+          "alt": "Palmeira de vaso com folhas caídas e amareladas depois da troca"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Rega e adubo",
+        "01",
+        "Rega certa",
+        "02",
+        "Cuidado com o ácaro",
+        "03",
+        "Palmeiras de perto",
+        "Na próxima: rega certa",
+        "→",
+        "TG 051 PALMEIRAS DE CASA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bambu-da-sorte-E-1.jpg",
+          "alt": "André borrifando as folhas"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "q3-585",
+        "b24-426",
+        "q3-573",
+        "q3-579",
+        "q3-592",
+        "q3-589"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · REGA",
+        "Rega certa",
+        "TERRA",
+        "Levemente úmida",
+        "NO FRIO",
+        "Menos água",
+        "VOCÊ VAI PRECISAR",
+        "Regador",
+        " rega moderada",
+        "Borrifador",
+        " contra o ar seco",
+        "Adubo líquido",
+        " fraco, quando cresce",
+        "Vaso",
+        " com boa drenagem",
+        "Adubo",
+        "Kentia",
+        " a cada 3 semanas",
+        "Cica",
+        " a cada 6 semanas",
+        "Na próxima: cuidado com o ácaro",
+        "→",
+        "TG 051 PALMEIRAS DE CASA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "b24-425",
+        "q3-573"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ÁCARO",
+        "ATENÇÃO",
+        "Ácaro é a praga mais comum da palmeira.",
+        "Ataca areca, ráfis, camedórea e tamareira.",
+        "Ar seco e calor ajudam ele.",
+        "FAÇA ASSIM",
+        "Borrife as folhas com frequência.",
+        "Mais ainda com ar seco e calor.",
+        "Na próxima: quatro palmeiras",
+        "→",
+        "TG 051 PALMEIRAS DE CASA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "q3-585",
+        "q3-598",
+        "b24-424",
+        "b24-434"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro palmeiras",
+        "1",
+        "Areca",
+        "Luz indireta.",
+        "2",
+        "Ráfis",
+        "Folha em leque.",
+        "3",
+        "Camedórea",
+        "Sombra ou meia-sombra.",
+        "4",
+        "Cica",
+        "Não é palmeira.",
+        "CHAVE",
+        "Luz indireta",
+        "Rega moderada",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 051 PALMEIRAS DE CASA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "pal-var-areca.jpg",
+          "alt": "Areca de folhas arqueadas num vaso grande na sala"
+        },
+        {
+          "src": "pal-var-rafis.jpg",
+          "alt": "Palmeira-ráfis com folhas em leque"
+        },
+        {
+          "src": "pal-var-camedorea.jpg",
+          "alt": "Palmeira-de-salão pequena num vaso"
+        },
+        {
+          "src": "pal-var-cica.jpg",
+          "alt": "Cica de folhas duras num vaso no sol"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "q3-573",
+        "b24-425",
+        "q3-588",
+        "q3-601",
+        "t37-105"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "PONTA SECA",
+        "Ar seco: borrife.",
+        "TEIA NA FOLHA",
+        "Ácaro.",
+        "CICA PARADA",
+        "Cresce devagar.",
+        "WASHINGTONIA MORRENDO",
+        "Dura pouco em casa.",
+        "DICA DO ANDRÉ",
+        "Palmeira-das-canárias: compre a maior que der.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 051 PALMEIRAS DE CASA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "q3-594",
+        "q3-595",
+        "t37-104"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "1,8",
+        "M",
+        "mal passa o coqueirinho-anão, mesmo com 15 anos.",
+        "Tem fama de ser dos mais bonitos.",
+        "E MAIS UMA",
+        "O tronco da palmeira se forma conforme as folhas velhas caem.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 051 PALMEIRAS DE CASA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "q3-585",
+        "b24-426",
+        "q3-573",
+        "q3-579",
+        "q3-580",
+        "q3-587"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Luz indireta",
+        "Rega moderada",
+        "Menos água no frio",
+        "Borrifar as folhas",
+        "Adubo fraco crescendo",
+        "Vaso que drena",
+        "Troca sem pressa",
+        "Dividir a touceira",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 051 PALMEIRAS DE CASA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua palmeira soltar folha nova, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "051",
+        "VOCÊ TEM",
+        "052",
+        "053",
+        "054",
+        "055",
+        "056",
+        "São 51 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 052 VIOLETA E PARENTES",
+        "Comente VIOLETA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 051 PALMEIRAS DE CASA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bambu-da-sorte-F-1.jpg",
+          "alt": "Retrato do André em casa"
+        }
+      ]
+    }
+  ]
+}

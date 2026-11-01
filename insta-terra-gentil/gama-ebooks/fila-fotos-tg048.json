@@ -1,0 +1,70 @@
+{
+  "livro": "TG 048",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "aza-gesto-1",
+      "especie": "azalea",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sliding an azalea out of its pot after flowering",
+      "mascote": false
+    },
+    {
+      "id": "aza-gesto-2",
+      "especie": "azalea",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting the azalea shallow in a wide hole in the shade of a tree; the small mascot figurine sits on a stone next to the hole",
+      "mascote": true
+    },
+    {
+      "id": "aza-gesto-3",
+      "especie": "azalea",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands spreading rich soil around the azalea",
+      "mascote": false
+    },
+    {
+      "id": "aza-sintoma-1",
+      "especie": "azalea",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Azalea with yellowing leaves in a waterlogged pot",
+      "mascote": false
+    },
+    {
+      "id": "aza-var-azaleia",
+      "especie": "azalea",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Azalea covered with pink flowers in a pot",
+      "mascote": false
+    },
+    {
+      "id": "aza-var-camelia",
+      "especie": "camellia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Red double camellia near a wall",
+      "mascote": false
+    },
+    {
+      "id": "aza-var-hortensia",
+      "especie": "hydrangea",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Blue mophead hydrangea in partial shade; the small mascot figurine sits under the leaves at the base",
+      "mascote": true
+    },
+    {
+      "id": "aza-var-gardenia",
+      "especie": "gardenia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Gardenia with waxy white flower",
+      "mascote": false
+    }
+  ]
+}

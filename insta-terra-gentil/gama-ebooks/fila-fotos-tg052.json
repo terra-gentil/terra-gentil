@@ -1,0 +1,70 @@
+{
+  "livro": "TG 052",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "vio-gesto-1",
+      "especie": "african violet",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting an african violet leaf with a short stalk",
+      "mascote": false
+    },
+    {
+      "id": "vio-gesto-2",
+      "especie": "african violet",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands burying the stalk of the violet leaf in a small pot; the small mascot figurine sits on the windowsill next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "vio-gesto-3",
+      "especie": "african violet",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Small pot with a violet leaf and new baby plants growing at its base",
+      "mascote": false
+    },
+    {
+      "id": "vio-sintoma-1",
+      "especie": "gloxinia",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Gloxinia with wilted dry leaves after flowering",
+      "mascote": false
+    },
+    {
+      "id": "vio-var-estreptocarpo",
+      "especie": "streptocarpus",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Streptocarpus with long leaves and lilac flowers",
+      "mascote": false
+    },
+    {
+      "id": "vio-var-gloxinia",
+      "especie": "gloxinia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Purple gloxinia with funnel flowers and velvety leaves",
+      "mascote": false
+    },
+    {
+      "id": "vio-var-batom",
+      "especie": "lipstick plant",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Hanging lipstick plant with red tubular flowers; the small mascot figurine sits on the shelf below the basket",
+      "mascote": true
+    },
+    {
+      "id": "vio-var-peixinho",
+      "especie": "goldfish plant",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Goldfish plant (Columnea) with trailing stems and orange flowers",
+      "mascote": false
+    }
+  ]
+}

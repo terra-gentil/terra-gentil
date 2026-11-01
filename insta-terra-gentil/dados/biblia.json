@@ -30800,6 +30800,902 @@
    "livro": "DK, Grow All You Can Eat in 3 Square Feet",
    "pagina": "223",
    "fontePet": null
+  },
+  "h35-213": {
+   "texto": "Fruta e hortaliça não crescem na sombra total: no mínimo meia-sombra",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "226",
+   "fontePet": null
+  },
+  "h35-214": {
+   "texto": "Pimentão colhido verde dá mais frutos; deixado amadurecer e mudar de cor, dá menos e mais doces",
+   "esp": "pimenta",
+   "serie": "X ou Y?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "226",
+   "fontePet": null
+  },
+  "h35-215": {
+   "texto": "Pimentão carregado pesa: apoie a planta numa vara",
+   "esp": "pimenta",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "226",
+   "fontePet": null
+  },
+  "h35-216": {
+   "texto": "Pimenta anã dá até em vaso de 15 cm na janela de sol",
+   "esp": "pimenta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "226",
+   "fontePet": null
+  },
+  "h35-217": {
+   "texto": "Pimenta mantida mais no seco dá menos frutos, porém mais ardidos",
+   "esp": "pimenta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "226",
+   "fontePet": null
+  },
+  "h35-218": {
+   "texto": "Pimentão e pimenta levam de 20 a 26 semanas da semente à colheita",
+   "esp": "pimenta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "226",
+   "fontePet": null
+  },
+  "h35-219": {
+   "texto": "Muda de tomate se planta mais funda do que estava no vaso, até logo abaixo das primeiras folhas",
+   "esp": "tomate",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "h35-220": {
+   "texto": "Tomate de haste única pede tutor e desbrota; tomate de moita deixa os brotos e põe apoio em cada um",
+   "esp": "tomate",
+   "serie": "X ou Y?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "h35-221": {
+   "texto": "Abobrinha se rega no pé e se colhe com 13 a 15 cm, sem machucar o caule",
+   "esp": "abobrinha",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "h35-222": {
+   "texto": "Abobrinha fica pronta em 8 a 12 semanas e precisa de uns 90 cm de espaço",
+   "esp": "abobrinha",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "h35-223": {
+   "texto": "Berinjela quer terra rica, calor e umidade; quando tiver 4 a 6 frutos, corte a ponta principal",
+   "esp": "berinjela",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "h35-224": {
+   "texto": "Berinjela é demorada: 24 a 28 semanas da semente à colheita",
+   "esp": "berinjela",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "h35-225": {
+   "texto": "Abóbora é comilona e sedenta, mas apodrece fácil: molhe a terra, não as folhas e o caule",
+   "esp": "abobrinha",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "h35-226": {
+   "texto": "Abóbora subindo na vara poupa espaço e o fruto não encosta na terra para apodrecer",
+   "esp": "abobrinha",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "h35-227": {
+   "texto": "Pepino precisa de calor, muita água, terra rica e tempo: 16 a 20 semanas",
+   "esp": "pepino",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "228",
+   "fontePet": null
+  },
+  "h35-228": {
+   "texto": "Pepino de estufa: tire a flor macho (a sem pepininho no cabo) para o fruto não ficar amargo",
+   "esp": "pepino",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "228",
+   "fontePet": null
+  },
+  "h35-229": {
+   "texto": "Broto de ervilha: colha com 10 a 15 cm, cortando os 5 a 8 cm de cima; rende 3 ou 4 colheitas",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "228",
+   "fontePet": null
+  },
+  "h35-230": {
+   "texto": "O pepino-melão (cucamelon) parece melancia em miniatura, tem gosto azedinho de pepino e se colhe do tamanho de um ovo",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "228",
+   "fontePet": null
+  },
+  "h35-231": {
+   "texto": "Ervilha não gosta de mexer na raiz: semeie em rolinho de papelão ou vaso biodegradável",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "228",
+   "fontePet": null
+  },
+  "h35-232": {
+   "texto": "Ervilha: muita água na flor e quando a vagem enche; colha sempre para durar mais",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "228",
+   "fontePet": null
+  },
+  "h35-233": {
+   "texto": "Vagem: 2 ou 3 sementes no pé de cada tutor; quando chegar no topo, corte a ponta",
+   "esp": "feijão",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "229",
+   "fontePet": null
+  },
+  "h35-234": {
+   "texto": "Fava tem raiz comprida: semeie em tubo fundo ou canteiro fundo",
+   "esp": "feijão",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "229",
+   "fontePet": null
+  },
+  "h35-235": {
+   "texto": "Fava: quando aparecerem as primeiras vagens, corte as pontas; a vagem cresce e o pulgão vai embora",
+   "esp": "feijão",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "229",
+   "fontePet": null
+  },
+  "h35-236": {
+   "texto": "Flor de feijão que abre com frio demais para a abelha não é polinizada e não vira vagem",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "229",
+   "fontePet": null
+  },
+  "h35-237": {
+   "texto": "Rabanete de verão fica pronto em 2 a 8 semanas; o rabanete grande de inverno (tipo nabo japonês) come-se cozido",
+   "esp": "rabanete",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "229",
+   "fontePet": null
+  },
+  "h35-238": {
+   "texto": "Rabanete endurece rápido: semeie de 2 em 2 ou de 3 em 3 semanas, até nos vãos de outras plantas",
+   "esp": "rabanete",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "229",
+   "fontePet": null
+  },
+  "h35-239": {
+   "texto": "Cenoura redonda para vaso, cenoura comprida para canteiro",
+   "esp": "cenoura",
+   "serie": "X ou Y?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "230",
+   "fontePet": null
+  },
+  "h35-240": {
+   "texto": "Tela fina sobre a cenoura barra a larva da mosca-da-cenoura",
+   "esp": "cenoura",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "230",
+   "fontePet": null
+  },
+  "h35-241": {
+   "texto": "Batata precoce amadurece primeiro e é a melhor para espaço pequeno",
+   "esp": "batata",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "230",
+   "fontePet": null
+  },
+  "h35-242": {
+   "texto": "Amontoa da batata: chegue terra no pé até 10 cm da ponta, 2 ou 3 vezes, para a batata não ficar verde",
+   "esp": "batata",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "230",
+   "fontePet": null
+  },
+  "h35-243": {
+   "texto": "Cada \"semente\" de beterraba é uma cápsula com até 5 sementes: desbaste e deixe uma planta a cada 10 cm",
+   "esp": "beterraba",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "230",
+   "fontePet": null
+  },
+  "h35-244": {
+   "texto": "Beterraba plantada junta dá raiz bebê; mais espaçada, raiz grande",
+   "esp": "beterraba",
+   "serie": "X ou Y?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "230",
+   "fontePet": null
+  },
+  "h35-245": {
+   "texto": "Nabo: colha do tamanho de bola de golfe; com falta de água ele fica lenhoso",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "230",
+   "fontePet": null
+  },
+  "h35-246": {
+   "texto": "Alho-poró: plante a muda da grossura de um lápis num buraco de 15 cm e só regue, sem encher de terra",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "231",
+   "fontePet": null
+  },
+  "h35-247": {
+   "texto": "Funcho é chato: mudança de temperatura ou falta de água fazem ele pendoar e o bulbo não engorda",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "231",
+   "fontePet": null
+  },
+  "h35-248": {
+   "texto": "Couve-rábano: colha do tamanho de bola de tênis, ou de bola de golfe na versão mini",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "231",
+   "fontePet": null
+  },
+  "h35-249": {
+   "texto": "Couve-rábano é da família da couve: não plante onde couve, repolho ou brócolis estiveram há pouco",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "231",
+   "fontePet": null
+  },
+  "h35-250": {
+   "texto": "Cebolinha de bulbo: desbaste para 1 cm e regue bem, senão o talo engorda e vira bulbo",
+   "esp": "cebolinha",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "231",
+   "fontePet": null
+  },
+  "h35-251": {
+   "texto": "Alho: plante o dente com a pontinha aparecendo e colha quando as folhas amarelarem",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "232",
+   "fontePet": null
+  },
+  "h35-253": {
+   "texto": "Alface não germina com calor forte: em dia quente, semeie à tardinha",
+   "esp": "alface",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "232",
+   "fontePet": null
+  },
+  "h35-254": {
+   "texto": "Alface leva de 9 a 12 semanas da semente à colheita, com 15 a 35 cm entre os pés",
+   "esp": "alface",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "232",
+   "fontePet": null
+  },
+  "h35-255": {
+   "texto": "Radicchio e escarola-pão-de-açúcar se plantam como alface, mas aguentam mais o frio",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "232",
+   "fontePet": null
+  },
+  "h35-256": {
+   "texto": "Espinafre semeado dentro de casa costuma pendoar: semeie direto na terra a cada 3 semanas",
+   "esp": "espinafre",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "232",
+   "fontePet": null
+  },
+  "h35-257": {
+   "texto": "Espinafre: folha nova para salada com 6 semanas, folha adulta com 10",
+   "esp": "espinafre",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "232",
+   "fontePet": null
+  },
+  "h35-258": {
+   "texto": "Mostarda fica mais ardida conforme cresce; fica pronta em 6 a 8 semanas",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "233",
+   "fontePet": null
+  },
+  "h35-259": {
+   "texto": "Acelga: cada semente é um cachinho de sementes, desbaste e deixe uma planta por cova",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "233",
+   "fontePet": null
+  },
+  "h35-260": {
+   "texto": "Rúcula pendoa com calor, seca e idade: semeie de novo a cada 2 ou 3 semanas",
+   "esp": "rúcula",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "233",
+   "fontePet": null
+  },
+  "h35-261": {
+   "texto": "Rúcula se corta em 2 semanas como folhinha que rebrota, ou se colhe inteira com 4 semanas",
+   "esp": "rúcula",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "233",
+   "fontePet": null
+  },
+  "h35-262": {
+   "texto": "O pak choi (acelga chinesa) é gostoso em qualquer fase, do desbaste ao pé formado",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "233",
+   "fontePet": null
+  },
+  "h35-263": {
+   "texto": "Escarola menos amarga: cubra o pé com um prato ou amarre fechado por 10 dias antes de colher",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "234",
+   "fontePet": null
+  },
+  "h35-264": {
+   "texto": "Couve: colha as folhas de fora e deixe as do miolo crescendo",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "234",
+   "fontePet": null
+  },
+  "h35-265": {
+   "texto": "Existe milho bebê (minimilho), colhido novinho, ótimo para espaço pequeno",
+   "esp": "milho",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "234",
+   "fontePet": null
+  },
+  "h35-266": {
+   "texto": "Milho: muita água na floração e quando a espiga se forma",
+   "esp": "milho",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "234",
+   "fontePet": null
+  },
+  "h35-267": {
+   "texto": "Brócolis-ramoso é demorado: 34 a 38 semanas da semente à colheita",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "234",
+   "fontePet": null
+  },
+  "h35-268": {
+   "texto": "Morango-silvestre apodrece se o fruto ficar molhado",
+   "esp": "morango",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "235",
+   "fontePet": null
+  },
+  "h35-269": {
+   "texto": "Morango-silvestre: tire os estolões para frutos melhores, mas renove as plantas com estolão a cada 3 ou 4 anos",
+   "esp": "morango",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "235",
+   "fontePet": null
+  },
+  "h35-270": {
+   "texto": "A florzinha branca do morango-silvestre também se come",
+   "esp": "morango",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "235",
+   "fontePet": null
+  },
+  "h35-271": {
+   "texto": "Tem morango que dá uma safra só e morango que dá o ano quase todo, mais um pouco de vez em quando",
+   "esp": "morango",
+   "serie": "X ou Y?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "235",
+   "fontePet": null
+  },
+  "h35-272": {
+   "texto": "Morango em vaso: 15 cm entre plantas, adubo de tomate e o fruto longe da terra, sobre palha seca ou plástico",
+   "esp": "morango",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "235",
+   "fontePet": null
+  },
+  "h35-273": {
+   "texto": "Amora-preta dá fruto no ramo de dois anos; depois de produzir, corte esse ramo na base e deixe os novos",
+   "esp": "amora",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "236",
+   "fontePet": null
+  },
+  "h35-274": {
+   "texto": "Existem amoras compactas e sem espinho que dão em vaso grande",
+   "esp": "amora",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "236",
+   "fontePet": null
+  },
+  "h35-275": {
+   "texto": "Mirtilo: terra ácida que drena, sempre úmida com água de chuva; depois de 2 anos, pode tirando um ou dois ramos velhos por ano",
+   "esp": "mirtilo",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "236",
+   "fontePet": null
+  },
+  "h35-276": {
+   "texto": "Azedinha: tire as flores, senão ela semeia e vira praga",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "237",
+   "fontePet": null
+  },
+  "h35-277": {
+   "texto": "Azedinha com terra seca e quente fica amarga: cubra o chão e regue bem",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "237",
+   "fontePet": null
+  },
+  "h35-278": {
+   "texto": "Salsinha: semeie em bandeja de células para não mexer na raiz, adube toda semana e tire as flores",
+   "esp": "salsinha",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "237",
+   "fontePet": null
+  },
+  "h35-279": {
+   "texto": "Salsinha semeada em lotes seguidos dá para colher o ano inteiro",
+   "esp": "salsinha",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "237",
+   "fontePet": null
+  },
+  "h35-281": {
+   "texto": "Funcho tem raiz pivotante comprida: semeie em célula para não mexer nela",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "238",
+   "fontePet": null
+  },
+  "h35-282": {
+   "texto": "Folha de sálvia é mais suave antes da flor e mais forte depois",
+   "esp": "sálvia",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "238",
+   "fontePet": null
+  },
+  "h35-283": {
+   "texto": "Pode a sálvia depois da flor; com 3 ou 4 anos, troque por planta nova ou faça estaca",
+   "esp": "sálvia",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "238",
+   "fontePet": null
+  },
+  "h35-284": {
+   "texto": "Borragem fica melhor em terra pobre, senão espicha; não deixe sementear que ela se espalha",
+   "esp": "borragem",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "238",
+   "fontePet": null
+  },
+  "h35-285": {
+   "texto": "Lavanda: pode os ramos floridos, mas nunca corte na madeira velha, que não rebrota",
+   "esp": "lavanda",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "238",
+   "fontePet": null
+  },
+  "h35-286": {
+   "texto": "Lavanda pode durar pouco: às vezes precisa ser trocada com 4 ou 5 anos",
+   "esp": "lavanda",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "238",
+   "fontePet": null
+  },
+  "h35-287": {
+   "texto": "Folha nova de alecrim é mais macia; o pé adulto dá folha o ano inteiro",
+   "esp": "alecrim",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "239",
+   "fontePet": null
+  },
+  "h35-288": {
+   "texto": "O manjericão-africano é perene, não faz semente e só se multiplica por estaca; a abelha adora a flor roxa",
+   "esp": "manjericão",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "239",
+   "fontePet": null
+  },
+  "h35-289": {
+   "texto": "Estaca de manjericão-africano: 10 a 15 cm em terra com areia, pouca água; enraíza em poucas semanas",
+   "esp": "manjericão",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "239",
+   "fontePet": null
+  },
+  "h35-290": {
+   "texto": "Manjericão odeia pé molhado: regue pouco e nunca à noite",
+   "esp": "manjericão",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "239",
+   "fontePet": null
+  },
+  "h35-291": {
+   "texto": "Um pé de hortelã basta: ela se espalha muito; plante em vaso grande, mesmo dentro do canteiro",
+   "esp": "hortelã",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "239",
+   "fontePet": null
+  },
+  "h35-292": {
+   "texto": "Hortelã: corte os ramos velhos no verão para brotar folha nova",
+   "esp": "hortelã",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "239",
+   "fontePet": null
+  },
+  "h35-293": {
+   "texto": "O estragão-francês tem sabor; o russo parece igual, cresce mais e tem menos gosto",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "240",
+   "fontePet": null
+  },
+  "h35-294": {
+   "texto": "Endro tem raiz comprida e vai melhor semeado direto no lugar; flor e semente também se comem",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "240",
+   "fontePet": null
+  },
+  "h35-295": {
+   "texto": "Cebolinha: comece a colher com 15 cm e corte rente a cada dois meses para vir folha macia",
+   "esp": "cebolinha",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "240",
+   "fontePet": null
+  },
+  "h35-296": {
+   "texto": "Manjerona: colha a folha antes de o botão abrir, quando o sabor está melhor",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "240",
+   "fontePet": null
+  },
+  "h35-297": {
+   "texto": "Tomilho novo: tire poucas folhas até ele firmar; depois da flor, pode forte",
+   "esp": "horta",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "241",
+   "fontePet": null
+  },
+  "h35-298": {
+   "texto": "Coentro na meia-sombra dá folha mais saborosa; no sol pleno, semente",
+   "esp": "coentro",
+   "serie": "X ou Y?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "241",
+   "fontePet": null
+  },
+  "h35-299": {
+   "texto": "Coentro pendoa fácil: semeie direto todo mês e mantenha úmido",
+   "esp": "coentro",
+   "serie": "5 cuidados",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "241",
+   "fontePet": null
+  },
+  "h35-300": {
+   "texto": "Na capuchinha se come flor, folha e semente verde, todas com gosto apimentado",
+   "esp": "capuchinha",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "241",
+   "fontePet": null
+  },
+  "h35-301": {
+   "texto": "Capuchinha cresce até em terra pobre e se ressemeia sozinha",
+   "esp": "capuchinha",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "241",
+   "fontePet": null
+  },
+  "h35-302": {
+   "texto": "O trevo-roxo (Oxalis triangularis) tem folha azedinha de limão: coma pouco, na salada",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "241",
+   "fontePet": null
+  },
+  "h35-303": {
+   "texto": "Tagetes é fácil de semente, serve de companheira na horta e a flor enfeita o prato",
+   "esp": "tagetes",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "242",
+   "fontePet": null
+  },
+  "h35-304": {
+   "texto": "Amor-perfeito se ressemeia: muitas vezes basta comprar uma vez; a flor vai na salada",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "242",
+   "fontePet": null
+  },
+  "h35-305": {
+   "texto": "Lesma e caracol saem à noite e com chuva e atacam a planta em qualquer fase",
+   "esp": "lesma",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "244",
+   "fontePet": null
+  },
+  "h35-306": {
+   "texto": "Lagarta comendo couve até o esqueleto da folha: tela na planta impede a borboleta de pôr ovo",
+   "esp": "praga",
+   "serie": "Socorro",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "244",
+   "fontePet": null
+  },
+  "h35-307": {
+   "texto": "Passarinho depena muda nova de couve e bica fruta madura: a tela tem que ir até o chão",
+   "esp": "praga",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "244",
+   "fontePet": null
+  },
+  "h35-308": {
+   "texto": "Pulgão: lave com jato de água e chame os inimigos naturais dele",
+   "esp": "praga",
+   "serie": "Socorro",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "245",
+   "fontePet": null
+  },
+  "h35-309": {
+   "texto": "Furinho em meia-lua na folha de ervilha e feijão costuma parecer pior do que é",
+   "esp": "praga",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "245",
+   "fontePet": null
+  },
+  "h35-310": {
+   "texto": "Gato e cachorro cavando a horta: proteja com tela e barreira",
+   "esp": "praga",
+   "serie": "Socorro",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "245",
+   "fontePet": null
+  },
+  "h35-311": {
+   "texto": "Folha cheia de furinhos e besourinho preto que pula: cubra a muda com tecido fino",
+   "esp": "praga",
+   "serie": "Socorro",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "245",
+   "fontePet": null
+  },
+  "h35-312": {
+   "texto": "Tomate com fundo preto e podre não é doença: é rega irregular",
+   "esp": "tomate",
+   "serie": "Socorro",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "246",
+   "fontePet": null
+  },
+  "h35-313": {
+   "texto": "Requeima: manchas marrons e a folha murcha de repente; a planta atacada vai fora",
+   "esp": "tomate",
+   "serie": "Socorro",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "246",
+   "fontePet": null
+  },
+  "h35-314": {
+   "texto": "Muda que tomba no colo: use substrato novo e deixe a sementeira arejada",
+   "esp": "muda",
+   "serie": "Socorro",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "246",
+   "fontePet": null
+  },
+  "h35-315": {
+   "texto": "Mofo cinzento na folha, flor ou fruto: tire logo a parte atacada para não espalhar",
+   "esp": "praga",
+   "serie": "Socorro",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "246",
+   "fontePet": null
+  },
+  "h35-316": {
+   "texto": "Míldio: mancha marrom em cima e mofo claro embaixo da folha; não molhe a folha e deixe o ar circular",
+   "esp": "praga",
+   "serie": "Socorro",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "h35-317": {
+   "texto": "Míldio vem com tempo úmido; oídio, o pó branco, vem com seca e planta estressada",
+   "esp": "praga",
+   "serie": "X ou Y?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "h35-318": {
+   "texto": "Pendoar: a verdura floresce de repente e logo morre; vem de calor ou falta de água",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "h35-319": {
+   "texto": "Ferrugem: pústulas laranja na folha; evite adubo com muito nitrogênio e limpe os restos do canteiro",
+   "esp": "praga",
+   "serie": "Socorro",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "h35-320": {
+   "texto": "Mancha marrom e seca na folha pode ser só queimadura de vento ou de sol forte",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "247",
+   "fontePet": null
+  },
+  "h35-321": {
+   "texto": "O agrião-bravo (cardamine) dispara as sementes longe e floresce em poucas semanas: arranque antes da flor",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "248",
+   "fontePet": null
+  },
+  "h35-322": {
+   "texto": "Corda-de-viola (bindweed) não se arranca cavando: cada pedaço de raiz vira planta nova",
+   "esp": "mato",
+   "serie": "3 erros",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "248",
+   "fontePet": null
+  },
+  "h35-323": {
+   "texto": "Dente-de-leão adulto: puxe a raiz comprida inteira",
+   "esp": "mato",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "248",
+   "fontePet": null
+  },
+  "h35-324": {
+   "texto": "A bolsa-de-pastor tem sementinha em forma de coração: arranque antes de formar",
+   "esp": "mato",
+   "serie": "Você sabia?",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "249",
+   "fontePet": null
+  },
+  "h35-325": {
+   "texto": "Urtiga: arranque de luva",
+   "esp": "mato",
+   "serie": "Passo a passo",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "249",
+   "fontePet": null
+  },
+  "h35-326": {
+   "texto": "Mato anual: arranque ou carpa antes de florir e sementear",
+   "esp": "mato",
+   "serie": "Dica do Andre",
+   "livro": "DK, Grow All You Can Eat in 3 Square Feet",
+   "pagina": "249",
+   "fontePet": null
   }
  }
 }

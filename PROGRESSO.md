@@ -1,11 +1,12 @@
 # PROGRESSO Terra Gentil
-## BIBLIA 35 HORTA EM 1 M2 (DK), PARTES 01 E 02 (01/11/2026)
-- Lidos fundamentos (p.11 a 59) e projetos e canteiros (p.62 a 223). 212 fatos em `inteligencia-carrossel\estudo\35-3-square-feet-01.md` e `-02.md` (ids h35-001 a h35-212), trechos 0 falhas. Livro americano: estacao e geada fora do fato.
-- biblia.json 3.639 -> 3.850 fatos (211 novos; 1 travado SAUDE: seiva do tomate irrita a pele). Testes 229/229. Backup `biblia-antes-35.json` no scratchpad da sessao d8a81796. Script `pags.py` (pagina por linha) no mesmo scratchpad.
+## BIBLIA 35 HORTA EM 1 M2 (DK) ESTUDADA INTEIRA (01/11/2026)
+- Lido o livro todo: fundamentos (p.11 a 59), projetos e canteiros (p.62 a 223), fichas de hortalica, fruta, erva e flor comestivel (p.226 a 242), pragas, doencas e mato (p.244 a 249). 326 fatos em `inteligencia-carrossel\estudo\35-3-square-feet-01.md` a `-04.md` (ids h35-001 a h35-326), trechos 0 falhas. Livro americano: estacao e geada fora do fato. Veneno, fungicida e herbicida do livro ficaram fora (so saidas manuais). Atencao: a tabela de cada pagina do planejador mistura a ordem das colunas (conferir pelo espacamento da p.34).
+- biblia.json 3.639 -> 3.962 fatos (323 novos; 3 travados: SAUDE seiva do tomate, SAUDE levistico, CLIMA alho pede frio). Testes 229/229. Backup `biblia-antes-35.json` no scratchpad da sessao d8a81796. Script `pags.py` (pagina por linha) no mesmo scratchpad.
+- Esp com mais fatos novos: horta (geral), tomate, abobrinha, pimenta, morango, cenoura, alface, rabanete, feijao, mirtilo, milho, praga (Socorro sem veneno), mato.
 - Corrigido: a serie "Erro comum" (5 fatos do Squire) virou "3 erros", padrao da biblia.
 - **Rende livros:** Horta na Varanda (vaso, peso, vento, prateleira, bolsa na grade, palete, calha, garrafa PET); Canteiro Elevado (receita de terra 45/45/10, largura, sem revirar); Microverdes e Brotos (broto de ervilha, microbeterraba, calha); reforco de Tomate no Vaso, Temperos e Morango. Novas esp: pepino, abobrinha, milho, feijao, batata, mirtilo, berinjela, beterraba.
-- **Falta do 35:** planejador de culturas (p.226 a 241, ficha por hortalica) e pragas, doencas e mato (p.242 a 249). Ids a partir de h35-213. Texto ja separado em `b35c.txt` no scratchpad (refazer com `pags.py <inteiro.txt> 226 249` se sumir).
-- **Depois:** 32 horta em vaso, 22 mato, 28 sementes, 37 arvore, 19 ervas. Opcionais: 36, 34, 31, 29 (OCR).
+- **Proximo:** livro 32 (RHS Grow Food Anywhere, texto em `fonte\32-rhs-grow-food-anywhere-lucy-chamberlain\inteiro.txt`, 323 mil caracteres, ids g32-, conferir se o prefixo esta livre). Metodo: indice de paginas (primeiros 70 caracteres por pagina), separar em blocos com `pags.py`, ler, escrever estudo de 7 colunas, `conferir_trechos.py`, `juntar_biblia.py`, `npm test`. Series validas: Voce sabia?, 5 cuidados, 3 erros, Socorro, Passo a passo, Mito ou verdade, X ou Y?, Dica do Andre.
+- **Depois:** 22 mato, 28 sementes, 37 arvore, 19 ervas. Opcionais: 36, 34, 31, 29 (OCR).
 ## BIBLIA 3 SQUIRE: DIRETORIO COMPLETO (01/11/2026)
 - Lidas as p.221 a 285: palmeiras e cica, bulbos, bromelias e tilandsias, samambaias (p.286 em diante e glossario). 116 fatos em `inteligencia-carrossel\estudo\3-squire-08.md` e `-09.md` (ids q3-573 a q3-688), trechos 0 falhas.
 - biblia.json 3.523 -> 3.639 fatos (116 novos, nenhum travado). Testes 229/229. Backup `biblia-antes-squire-08.json` no scratchpad da sessao d8a81796.

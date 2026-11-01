@@ -2,6 +2,7 @@ import type { MetadataRoute } from 'next';
 import { posts } from '@/data/posts';
 import { GAME_ENABLED, SITE_URL } from '@/lib/constants';
 import { caminhoDaNoticia, lerNoticias } from '@/lib/noticias';
+import { listarGuias } from '@/lib/guias';
 
 // Data fixa pra rotas estaticas: o crawler nao deve ver "modificado agora" a cada
 // invocacao. Atualizar manualmente quando uma rota tiver mudanca de conteudo real.
@@ -60,5 +61,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       ]
     : [];
 
-  return [...staticRoutes, ...postRoutes, ...noticiaRoutes];
+  // Uma pagina por livro (data/guias). lastModified vem da revisao da propria pagina.
+  const guiaRoutes: MetadataRoute.Sitemap = listarGuias().map((g) => ({
+    url: `${SITE_URL}/guias/${g.slug}`,
+    lastModified: new Date(g.meta.atualizado),
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
+  }));
+
+  return [...staticRoutes, ...postRoutes, ...noticiaRoutes, ...guiaRoutes];
 }

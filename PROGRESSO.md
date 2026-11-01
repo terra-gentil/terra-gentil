@@ -1,4 +1,29 @@
 # PROGRESSO Terra Gentil
+## PAGINA DE LIVRO NO SITE: PILOTO TG 010 PRONTO, FALTA R2 E APROVACAO (01/11/2026, noite)
+Rota nova `/guias/[slug]` (piloto `/guias/suculentas-sem-afogar`): uma pagina por livro, com o texto do livro SEM reescrever, fotos com alt, ficha com icones, passos com foto, FAQ, tabela, dados estruturados (Article, FAQ, trilha) e entrada no sitemap. Design vindo do Claude Design web (projeto "Pagina web do livro", zip em Downloads).
+- Arquivos: `app/guias/[slug]/page.tsx` e `Blocos.tsx`, `lib/guias.ts`, `data/guias/*.json`, `public/guias/<slug>/`, bloco `lv-` no fim de `app/globals.css`, `scripts/guias/`.
+- Novo livro: `node scripts/guias/gerar.mjs TGNNN slug` (copia texto e fotos do `livro.html`, gera capa), ajustar `meta.titulo` (ate 60 com a marca) e `meta.descricao` (140 a 160) a mao, depois `npm run guias:checar` (SEO, fotos, texto parecido entre livros).
+- Botao de download so aparece com `NEXT_PUBLIC_PDF_BASE_URL` definido (Cloudflare R2). **Blocker: Andre criar o bucket R2 com endereco publico e por o endereco na Vercel; subir os PDFs com o nome `TGNNN.pdf` (campo `meta.pdf`).**
+- NAO foi feito push (a pagina iria ao ar sem o botao). Decisao pendente do Andre: aprovar o visual do piloto.
+- Proximo: aprovar piloto, R2, gerar os demais TG com foto final em lotes, depois os 20 antigos (so tem PDF, sem `livro.html`, precisam de outro caminho). Os cards do `/guias` ainda abrem o PDF direto, trocar para a pagina do livro quando houver paginas.
+- Limites conhecidos: pagina do TG 010 tem uns 450 palavras (tamanho do livro); so 2 perguntas no FAQ; scripts da fabrica ficam fora do repo (`Documents\Terra Gentil\ebooksabrica`).
+## LEVA 5: TG 040 A 054 EM ANDAMENTO (01/11/2026, noite)
+Roteiros em `ebooks\fabrica\curtos\tg040.mjs` em diante, previas `ebooks\TG0NN-previa.pdf` (fotos provisorias do banco). Feitos e sem estouro: 040 a 049.
+| Livro | Titulo | Palavra da capa | Prefixo | Comente (proximo) |
+|---|---|---|---|---|
+| 040 | Microverdes | BROTO | mic | CAPINA |
+| 041 | Mato sem Veneno | CAPINA | cap | VARANDA |
+| 042 | Horta na Varanda | VARANDA | vrd | CANTEIRO |
+| 043 | Canteiro Elevado | CANTEIRO | cel | ERVAS |
+| 044 | Ervas Secas | ERVAS | ers | CRIOULA |
+| 045 | Guardar Semente | CRIOULA | gse | GERÂNIO |
+| 046 | Flores de Varanda | GERÂNIO | flv | JASMIM |
+| 047 | Trepadeiras Floridas | JASMIM | tre | AZALEIA |
+| 048 | Azaleia e Hortênsia | AZALEIA | aza | BULBO |
+| 049 | Bulbos que Voltam | BULBO | bul | TROPICAL |
+- Plano do resto: 050 Jardim Tropical (TROPICAL), 051 Palmeiras de Casa (PALMEIRA), 052 Violeta e Parentes (VIOLETA), 053 Folhagem Colorida (CROTON), 054 Jardim que Aguenta Seca (SECA), que promete o TG 055 Frutifera em Vaso (FIGO).
+- Carta (p2): linhas curtas, ate uns 50 caracteres, senao estoura altura (TG 040 estourou +72 px).
+- Falta: filas do Flow da leva 5 (`filas4.mjs`), `validar.mjs`, commit.
 ## LEVA 4: TG 030 A 039 ESCRITOS, FOTOS DO FLOW PENDENTES (01/11/2026, noite)
 Roteiros curtos em `ebooks\fabrica\curtos\tg030.mjs` a `tg039.mjs` (19 paginas, sem estouro, `validar.mjs` ok), previas com fotos PROVISORIAS do banco em `ebooks\TG030-previa.pdf` a `TG039-previa.pdf`. Filas do Flow geradas por `fabrica\filas3.mjs` em `gama-ebooks/fila-fotos-tg030.json` a `tg039.json` (80 fotos, Gentileza sem oculos, 2 por fila, lugar dito na cena).
 | Livro | Titulo | Palavra da capa | Prefixo | Comente (proximo) |
@@ -271,7 +296,8 @@ Meta do Andre: de 19 para 100 e depois 200 ebooks, melhores que os do Gamma. Pas
 **Proximo passo (antigo):** levar BRIEF-DESIGN.md ao Claude Design (web) para o sistema visual e os 14 tipos de pagina com o texto do Orquideas sem Medo; Andre aprova; depois primeira rodada do PLACAR (Orquideas no Gamma e no nosso molde). Livros novos: Orquideas, Pragas sem Veneno, Terra Viva, Cactos e Babosa, Regar e Trocar de Vaso, O Mato que Ensina.
 **Limpeza do HD (30/10):** 52,7 para 120 GB livres; backup em `G:\Meu Drive\Backup PC 2026-10-30\`. `C:\Gitlab_hz\pearljam\setlists-pj-ev` tem 650 commits sem push.
 
-## 2K DA RODADA 2: DESBLOQUEADO PARA A PAMELA (30/10/2026, noite)
+
+## 2K DA RODADA 2: DESBLOQUEADO PARA A PAMELA (30/10/2026, noite)
 Causa: as capas da Pamela sao Nano Banana Pro e oferecem 1K/2K/4K; o menu abre por JS com a sequencia pointerdown, mousedown, pointerup, mouseup, click no botao Baixar midia, e depois o mesmo no item 2K (42 s por capa; a aba precisa estar em primeiro plano). Filtro: prompt da midia comecando por Close-up portrait, Side angle ou Low angle. place2k.py casa por correlacao (1.0) com capas-rodada2-importadas; importar-cli.mjs de uma pasta flat com os 2K (Documents/Terra Gentil/2k-rodada2) e reaprovar (a importacao zera a aprovacao). 67 capas em 2K ja no banco e aprovadas (24 especies). Falta rodar o resto da galeria da Pamela (lirio, suculenta, zamioculca, costela, espada, orquidea, jiboia) e a conta eng.andrehz (verificar o modelo; as coringas nao tem 2K). (Texto antigo abaixo.)
 
 ## 30/10 noite: importar-cli ja trata a capa (anti-IA); testes 226/226; aprendizado no youtube-white-label (inteligencia-thumbnail/05, commit a61c1e9; repos youtube-* clonados em C:Gitlab_hz, conta andrehz4)

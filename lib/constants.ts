@@ -30,3 +30,9 @@ export const DIAGNOSE_API_URL =
 export const GAME_URL = 'https://terra-gentil.github.io/terra-gentil-game/';
 // Flag pra liberar a rota /jogo. Setada via NEXT_PUBLIC_GAME_ENABLED=true (server e client).
 export const GAME_ENABLED = process.env.NEXT_PUBLIC_GAME_ENABLED === 'true';
+
+/**
+ * Endereco publico dos PDFs dos livros (Cloudflare R2). Sem valor, a pagina do livro
+ * nao mostra o botao de download. Definir NEXT_PUBLIC_PDF_BASE_URL na Vercel.
+ */
+export const PDF_BASE_URL = (process.env.NEXT_PUBLIC_PDF_BASE_URL ?? '').replace(/\/$/, '');

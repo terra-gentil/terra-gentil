@@ -2653,3 +2653,175 @@ a { color: inherit; text-decoration: none; }
   from { opacity: 0; transform: translateY(16px); }
   to   { opacity: 1; transform: translateY(0); }
 }
+
+/* ===== Pagina do livro (/guias/[slug]) =====
+   Linguagem visual vinda do Claude Design (TG 010): Fraunces nos titulos, Montserrat nos
+   rotulos, creme #F4ECDB, verde #1F4D2B, laranja #E8761E, cartoes #FBF6EA. */
+.lv-pag { --lv-verde: #1F4D2B; --lv-verde-claro: #DCE8D2; --lv-laranja: #E8761E; --lv-ambar: #E8A33D; --lv-cartao: #FBF6EA; --lv-tinta: #1A1714; --lv-serif: var(--font-fraunces), Georgia, serif; --lv-rot: var(--font-montserrat), system-ui, sans-serif; }
+.lv-pag .bp-inner { max-width: 1040px; }
+.lv-pag .bp-content { font-size: 18px; line-height: 1.55; max-width: none; }
+.lv-pag .bp-content p { margin: 0 0 14px; }
+
+/* Abertura */
+.lv-hero { position: relative; display: flex; flex-wrap: wrap; gap: 40px; align-items: center; margin-bottom: 40px; }
+.lv-hero::before { content: ''; position: absolute; z-index: -1; right: -14%; top: -30%; width: 70%; aspect-ratio: 1; border-radius: 50%; background: radial-gradient(closest-side, var(--lv-verde-claro), rgba(220, 232, 210, 0)); pointer-events: none; }
+.lv-hero-texto { flex: 1 1 380px; min-width: 0; }
+.lv-selo { display: inline-block; margin: 0 0 18px; padding: 8px 14px; border-radius: 999px; background: var(--lv-verde); color: #F4ECDB; font-family: var(--lv-rot); font-weight: 700; font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; }
+.lv-pag h1.lv-titulo { margin: 0 0 14px; font-family: var(--lv-serif); font-weight: 800; font-size: clamp(44px, 7vw, 84px); line-height: 0.98; letter-spacing: -0.025em; text-transform: none; color: var(--lv-tinta); }
+.lv-subtitulo { margin: 0 0 8px; font-size: clamp(20px, 2.4vw, 28px); color: #3a352f; }
+.lv-autor { margin: 0 0 28px; font-family: var(--font-caveat), cursive; font-weight: 600; font-size: 30px; color: #A04A12; }
+
+/* Cartao de download: miniatura da capa em 3D em cima, botao animado embaixo */
+.lv-download { position: relative; width: 100%; max-width: 420px; box-sizing: border-box; display: flex; flex-direction: column; align-items: center; gap: 30px; overflow: hidden; padding: 48px 28px 26px; border-radius: 32px; background: var(--lv-verde); color: #F4ECDB; box-shadow: 0 40px 70px -40px rgba(31, 77, 43, 0.8), 0 12px 24px -16px rgba(26, 23, 20, 0.4); }
+.lv-download__glow { position: absolute; left: 50%; top: -30%; width: 150%; height: 90%; transform: translateX(-50%); background: radial-gradient(closest-side, rgba(232, 163, 61, 0.32), rgba(232, 163, 61, 0)); pointer-events: none; }
+.lv-palco { position: relative; width: 176px; height: 313px; perspective: 1000px; }
+.lv-sombra { position: absolute; left: 8%; right: 8%; bottom: -28px; height: 18px; border-radius: 50%; background: rgba(0, 0, 0, 0.55); filter: blur(9px); animation: lv-sombra 5s ease-in-out infinite; }
+.lv-flutua { position: absolute; inset: 0; transform-style: preserve-3d; animation: lv-flutuar 5s ease-in-out infinite; }
+.lv-livro3d { position: relative; width: 100%; height: 100%; transform-style: preserve-3d; transform: rotateY(26deg) rotateX(5deg) rotateZ(-3deg); transition: transform 0.6s cubic-bezier(0.2, 0.8, 0.3, 1); }
+.lv-download:hover .lv-livro3d { transform: rotateY(10deg) rotateX(2deg) rotateZ(-1deg) scale(1.05); }
+.lv-lombada { position: absolute; left: 0; top: 0; width: 24px; height: 100%; transform-origin: left center; transform: rotateY(90deg); background: linear-gradient(90deg, #0f2716, #1a4325 45%, #12301b); border-radius: 3px; }
+.lv-livro3d img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 3px 10px 10px 3px; box-shadow: 18px 26px 40px -12px rgba(0, 0, 0, 0.6); }
+.lv-lustro { position: absolute; inset: 0; border-radius: 3px 10px 10px 3px; background: linear-gradient(90deg, rgba(0, 0, 0, 0.4) 0, rgba(255, 255, 255, 0.22) 3.5%, rgba(0, 0, 0, 0.08) 6%, rgba(0, 0, 0, 0) 12%, rgba(255, 255, 255, 0) 70%, rgba(255, 255, 255, 0.12)); pointer-events: none; }
+.lv-selo-gratis { position: absolute; top: -18px; right: -34px; width: 78px; height: 78px; border-radius: 50%; display: grid; place-items: center; background: var(--lv-laranja); color: var(--lv-tinta); font-family: var(--lv-rot); font-weight: 800; font-size: 14px; letter-spacing: 0.06em; text-transform: uppercase; box-shadow: 0 10px 20px -6px rgba(0, 0, 0, 0.45), inset 0 0 0 3px rgba(255, 255, 255, 0.25); animation: lv-balanco 4.5s ease-in-out infinite; }
+.lv-download__acao { position: relative; width: 100%; display: flex; flex-direction: column; align-items: center; gap: 12px; margin-top: 6px; }
+.lv-botao { position: relative; isolation: isolate; display: flex; align-items: center; justify-content: center; gap: 14px; width: 100%; min-height: 62px; box-sizing: border-box; padding: 14px 18px 14px 26px; border-radius: 999px; background: var(--lv-laranja); color: var(--lv-tinta); font-weight: 700; font-size: 18px; line-height: 1.2; text-decoration: none; box-shadow: 0 14px 28px -10px rgba(232, 118, 30, 0.75), inset 0 -3px 0 rgba(0, 0, 0, 0.14); transition: transform 0.25s cubic-bezier(0.2, 0.8, 0.3, 1.4), box-shadow 0.25s, background-color 0.25s; }
+.lv-botao:hover { transform: translateY(-3px) scale(1.025); background: #F28B36; color: var(--lv-tinta); box-shadow: 0 22px 34px -12px rgba(232, 118, 30, 0.9), inset 0 -3px 0 rgba(0, 0, 0, 0.14); }
+.lv-botao:active { transform: translateY(0) scale(0.98); }
+.lv-botao__anel { position: absolute; inset: 0; border-radius: inherit; z-index: -1; animation: lv-anel 2.4s ease-out infinite; pointer-events: none; }
+.lv-botao__brilho { position: absolute; inset: 0; border-radius: inherit; overflow: hidden; pointer-events: none; }
+.lv-botao__brilho span { position: absolute; top: 0; bottom: 0; left: 0; width: 45%; background: linear-gradient(100deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.55), rgba(255, 255, 255, 0)); animation: lv-brilho 3.6s ease-in-out infinite; }
+.lv-botao__texto { position: relative; }
+.lv-botao__seta { position: relative; flex: none; width: 34px; height: 34px; border-radius: 50%; display: grid; place-items: center; background: var(--lv-tinta); color: var(--lv-ambar); }
+.lv-botao__seta svg { animation: lv-seta 1.4s ease-in-out infinite; }
+.lv-download__nota { margin: 0 !important; font-size: 15px; color: var(--lv-verde-claro); }
+
+/* Foto de abertura: fundo verde inclinado, moldura creme, reflexo e etiqueta */
+.lv-foto-abertura { flex: 1 1 300px; max-width: 440px; margin: 0 auto; padding-top: clamp(0px, 4vw, 40px); animation: lv-subir 1s cubic-bezier(0.2, 0.7, 0.2, 1) both; }
+.lv-foto-flutua { animation: lv-flutuar 7s ease-in-out 1s infinite; }
+.lv-foto-inclina { position: relative; transform: rotate(2.5deg); }
+.lv-foto-fundo { position: absolute; inset: -14px 18px 22px -18px; border-radius: 36px; background: var(--lv-verde); transform: rotate(-6deg); }
+.lv-foto-moldura { position: relative; border-radius: 30px; overflow: hidden; border: 8px solid var(--lv-cartao); box-shadow: 0 34px 60px -30px rgba(26, 23, 20, 0.55); }
+.lv-foto-moldura img { display: block; width: 100%; height: auto; }
+.lv-reflexo { position: absolute; top: -10%; bottom: -10%; left: 0; width: 40%; background: linear-gradient(90deg, rgba(255, 255, 255, 0), rgba(255, 250, 235, 0.45), rgba(255, 255, 255, 0)); animation: lv-reflexo 7s ease-in-out 1.6s infinite; pointer-events: none; }
+.lv-pill { position: absolute; left: -14px; bottom: 28px; padding: 10px 16px; border-radius: 999px; background: var(--lv-laranja); color: var(--lv-tinta); font-family: var(--lv-rot); font-weight: 800; font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase; box-shadow: 0 10px 20px -8px rgba(0, 0, 0, 0.4); transform: rotate(-4deg); }
+
+/* Sumario em chips */
+.lv-sumario { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 0 0 56px; padding: 16px 18px; border-radius: 22px; background: var(--lv-cartao); box-shadow: 0 16px 34px -28px rgba(26, 23, 20, 0.5); }
+.lv-sumario span { margin-right: 6px; font-family: var(--lv-rot); font-weight: 700; font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--lv-verde); }
+.lv-sumario a { padding: 8px 14px; border-radius: 999px; background: #F4ECDB; color: var(--lv-tinta); font-size: 14px; font-weight: 700; text-decoration: none; border: 1px solid #DCD0B4; transition: background 0.2s, color 0.2s, border-color 0.2s; }
+.lv-sumario a:hover { background: var(--lv-verde); color: #F4ECDB; border-color: var(--lv-verde); }
+
+/* Carta do Andre */
+.lv-carta { display: grid; grid-template-columns: 150px 1fr; gap: 28px; align-items: start; margin: 0 0 72px; padding: 34px; border-radius: 32px; background: var(--lv-cartao); box-shadow: 0 16px 34px -28px rgba(26, 23, 20, 0.5); }
+.lv-carta-foto { width: 150px; height: 150px; border-radius: 50%; object-fit: cover; object-position: center 25%; border: 8px solid var(--lv-laranja); box-shadow: 0 12px 28px rgba(26, 23, 20, 0.2); }
+.lv-pag .lv-carta h2 { margin: 0 0 16px; font-family: var(--lv-serif); font-weight: 800; font-size: clamp(32px, 4.4vw, 46px); line-height: 1.05; letter-spacing: -0.02em; text-transform: none; }
+
+/* Secoes: rotulo, titulo serifado e linha verde */
+.lv-secao { scroll-margin-top: 110px; margin-bottom: 80px; }
+.lv-secao-cabeca { display: flex; flex-direction: column; gap: 8px; padding-bottom: 20px; border-bottom: 3px solid var(--lv-verde); margin-bottom: 30px; }
+.lv-eyebrow { margin: 0 !important; font-family: var(--lv-rot); font-weight: 700; font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--lv-verde); }
+.lv-pag .bp-content h2.lv-h2 { margin: 0; font-family: var(--lv-serif); font-weight: 800; font-size: clamp(34px, 5vw, 56px); line-height: 1; letter-spacing: -0.02em; text-transform: none; color: var(--lv-tinta); }
+.lv-rotulo { margin: 24px 0 8px !important; font-family: var(--lv-rot); font-weight: 700; font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--lv-verde); }
+
+/* Ficha da planta: cartoes com icone */
+.lv-campos { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 16px; margin: 22px 0; }
+.lv-campo { display: flex; gap: 16px; align-items: flex-start; margin: 0; padding: 22px; border-radius: 24px; background: var(--lv-cartao); box-shadow: 0 16px 34px -28px rgba(26, 23, 20, 0.5); }
+.lv-campo--pet { background: var(--lv-verde-claro); box-shadow: none; }
+.lv-icone { flex: none; width: 52px; height: 52px; border-radius: 16px; display: grid; place-items: center; background: var(--lv-verde-claro); color: var(--lv-verde); }
+.lv-campo--pet .lv-icone { background: var(--lv-verde); color: var(--lv-verde-claro); }
+.lv-campo dt { margin: 0 0 6px; display: flex; align-items: center; gap: 10px; font-family: var(--lv-rot); font-weight: 700; font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--lv-verde); }
+.lv-campo dd { margin: 0; font-size: 18px; line-height: 1.45; }
+
+/* Passo a passo: foto em miniatura com numero */
+.lv-passos { list-style: none; margin: 22px 0; padding: 0; display: grid; gap: 14px; }
+.lv-passo { display: flex; gap: 18px; align-items: center; padding: 14px; border-radius: 24px; background: var(--lv-cartao); box-shadow: 0 16px 34px -28px rgba(26, 23, 20, 0.5); }
+.lv-passo-foto { position: relative; flex: none; }
+.lv-passo-foto img { display: block; width: 104px; height: 132px; object-fit: cover; border-radius: 16px; }
+.lv-passo-n { position: relative; flex: none; width: 36px; height: 36px; border-radius: 50%; display: grid; place-items: center; background: var(--lv-laranja); color: var(--lv-tinta); font-family: var(--lv-serif); font-weight: 800; font-size: 18px; box-shadow: 0 0 0 3px var(--lv-cartao); }
+.lv-passo-foto .lv-passo-n { position: absolute; top: -8px; left: -8px; }
+.lv-passo-texto { display: flex; flex-direction: column; gap: 6px; padding-right: 8px; }
+.lv-passo-texto strong { font-family: var(--lv-rot); font-weight: 700; font-size: 13px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--lv-verde); }
+.lv-passo-texto span { font-size: 19px; line-height: 1.45; }
+
+/* Caixas */
+.lv-callout { margin: 24px 0; padding: 22px 26px; border-radius: 22px; }
+.lv-callout p { margin: 0 0 8px; }
+.lv-callout p:last-child { margin-bottom: 0; }
+.lv-callout-rotulo { display: block; margin-bottom: 10px; font-family: var(--lv-rot); font-weight: 700; font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; }
+.lv-dica { background: var(--lv-verde); color: #F4ECDB; }
+.lv-dica .lv-callout-rotulo { color: var(--lv-ambar); }
+.lv-alerta { background: #F8DDD2; border: 2px solid #D8552B; }
+.lv-alerta .lv-callout-rotulo { color: #A63A18; }
+.lv-faca { background: var(--lv-verde-claro); }
+.lv-faca .lv-callout-rotulo { color: var(--lv-verde); }
+.lv-missao { background: var(--lv-verde-claro); border-left: 6px solid var(--lv-laranja); }
+.lv-missao .lv-callout-rotulo { color: var(--lv-verde); }
+
+/* Checklist */
+.lv-lista { list-style: none; margin: 8px 0 22px; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); gap: 10px; }
+.lv-lista li { position: relative; padding: 14px 16px 14px 56px; border-radius: 16px; background: var(--lv-cartao); line-height: 1.4; box-shadow: 0 12px 26px -24px rgba(26, 23, 20, 0.5); }
+.lv-lista li::before { content: '✓'; position: absolute; left: 16px; top: 50%; transform: translateY(-50%); width: 28px; height: 28px; border-radius: 50%; display: grid; place-items: center; background: var(--lv-verde); color: #F4ECDB; font-size: 15px; font-weight: 800; line-height: 1; }
+
+/* Tabela */
+.lv-tabela-wrap { margin: 22px 0; overflow-x: auto; border-radius: 20px; border: 2px solid var(--lv-verde); }
+.lv-tabela { width: 100%; border-collapse: collapse; font-size: 17px; }
+.lv-tabela thead th { padding: 14px 18px; background: var(--lv-verde); color: #F4ECDB; text-align: left; font-family: var(--lv-rot); font-weight: 700; font-size: 12px; letter-spacing: 0.16em; }
+.lv-tabela tbody th, .lv-tabela td { padding: 14px 18px; text-align: left; border-top: 1px solid #DCD0B4; }
+.lv-tabela tbody th { font-weight: 800; }
+.lv-tabela tbody tr:nth-child(even) { background: #F4ECDB; }
+
+/* "Voce sabia?" */
+.lv-destaque { display: grid; justify-items: center; gap: 4px; margin: 24px 0; padding: 36px 24px; border-radius: 28px; background: var(--lv-verde); color: #F4ECDB; text-align: center; }
+.lv-destaque-pre { font-family: var(--lv-rot); font-weight: 700; font-size: 13px; letter-spacing: 0.2em; color: var(--lv-ambar); }
+.lv-destaque-grande { font-family: var(--lv-serif); font-weight: 800; font-size: clamp(88px, 18vw, 150px); line-height: 0.95; color: var(--lv-ambar); }
+.lv-destaque-leg { max-width: 440px; font-size: 20px; line-height: 1.4; }
+
+/* Perguntas frequentes */
+.lv-faq { display: grid; gap: 18px; }
+.lv-faq-item { scroll-margin-top: 110px; padding: 28px; border-radius: 28px; background: var(--lv-cartao); box-shadow: 0 16px 34px -28px rgba(26, 23, 20, 0.5); }
+.lv-pag .bp-content .lv-faq-item h3 { margin: 0 0 16px; font-family: var(--lv-serif); font-weight: 800; font-size: clamp(26px, 3.4vw, 34px); line-height: 1.1; letter-spacing: -0.01em; text-transform: none; }
+
+/* Fotos do livro: tamanho controlado */
+.lv-fotos { display: grid; gap: 14px; margin: 28px 0 0; justify-content: center; }
+.lv-fotos[data-n="1"] { grid-template-columns: minmax(0, 360px); }
+.lv-fotos[data-n="2"] { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.lv-fotos[data-n="3"] { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.lv-fotos[data-n="4"] { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.lv-foto { margin: 0; }
+.lv-foto img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 5; object-fit: cover; border-radius: 22px; box-shadow: 0 24px 40px -26px rgba(26, 23, 20, 0.6); }
+.lv-fotos[data-n="3"] .lv-foto img { aspect-ratio: 3 / 4; }
+.lv-foto figcaption { margin-top: 8px; font-size: 14px; line-height: 1.4; color: #4a443d; }
+
+/* Final */
+.lv-final { display: grid; justify-items: center; gap: 8px; margin: 72px 0 0; padding: 48px 28px; border-radius: 36px; background: var(--lv-verde-claro); text-align: center; }
+.lv-pag .bp-content .lv-final h2 { margin: 0; font-family: var(--lv-serif); font-weight: 800; font-size: clamp(34px, 5vw, 52px); line-height: 1; letter-spacing: -0.02em; text-transform: none; }
+.lv-final > p { max-width: 460px; margin: 0 0 22px; }
+.lv-proximo { margin: 22px 0 0 !important; font-family: var(--lv-rot); font-weight: 700; font-size: 13px; letter-spacing: 0.14em; color: var(--lv-verde); }
+.lv-mais { margin: 40px 0 0; padding: 0; list-style: none; display: grid; gap: 10px; }
+.lv-mais a { display: block; padding: 16px 20px; border-radius: 18px; background: var(--lv-cartao); color: var(--lv-tinta); font-weight: 700; text-decoration: none; box-shadow: 0 12px 26px -24px rgba(26, 23, 20, 0.5); transition: background 0.2s, transform 0.2s; }
+.lv-mais a:hover { background: var(--lv-verde-claro); transform: translateX(4px); }
+
+@keyframes lv-subir { from { opacity: 0; transform: translateY(48px); } to { opacity: 1; transform: none; } }
+@keyframes lv-flutuar { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+@keyframes lv-sombra { 0%, 100% { transform: scaleX(1); opacity: 0.55; } 50% { transform: scaleX(0.82); opacity: 0.3; } }
+@keyframes lv-reflexo { 0%, 70% { transform: translateX(-160%) skewX(-18deg); } 88%, 100% { transform: translateX(260%) skewX(-18deg); } }
+@keyframes lv-anel { 0% { box-shadow: 0 0 0 0 rgba(232, 163, 61, 0.75); } 70%, 100% { box-shadow: 0 0 0 18px rgba(232, 163, 61, 0); } }
+@keyframes lv-brilho { 0%, 45% { transform: translateX(-120%); } 75%, 100% { transform: translateX(260%); } }
+@keyframes lv-seta { 0%, 100% { transform: translateY(-2px); } 50% { transform: translateY(3px); } }
+@keyframes lv-balanco { 0%, 100% { transform: rotate(12deg); } 50% { transform: rotate(4deg) scale(1.05); } }
+
+@media (max-width: 720px) {
+  .lv-hero { gap: 28px; }
+  .lv-download { max-width: none; }
+  .lv-carta { grid-template-columns: 1fr; padding: 24px 20px; justify-items: start; }
+  .lv-carta-foto { width: 112px; height: 112px; }
+  .lv-fotos[data-n="3"] { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .lv-faq-item { padding: 22px 18px; }
+  .lv-passo-foto img { width: 88px; height: 112px; }
+  .lv-passo-texto span { font-size: 17px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .lv-pag *, .lv-pag *::before, .lv-pag *::after { animation: none !important; transition: none !important; }
+}
+
+.lv-pet-selo { padding: 3px 10px; border-radius: 999px; background: var(--lv-verde); color: #F4ECDB; letter-spacing: 0.1em; }

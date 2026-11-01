@@ -12,6 +12,7 @@
     "test:watch": "vitest",
     "test:coverage": "vitest run --coverage",
     "test:insta": "npm --prefix insta-terra-gentil test",
+    "guias:checar": "node scripts/guias/checar.mjs",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "check": "npm run lint && npm run type-check && npm test && npm run test:insta"

@@ -40024,6 +40024,534 @@
    "livro": "Bradbury, RHS The Tree in My Garden",
    "pagina": "260",
    "fontePet": null
+  },
+  "v19-001": {
+   "texto": "Colher erva: a folha tem mais sabor e aroma logo antes de as flores abrirem",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "133",
+   "fontePet": null
+  },
+  "v19-002": {
+   "texto": "Raiz de erva se colhe no fim da época de crescer, quando ela está cheia de reserva",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "133",
+   "fontePet": null
+  },
+  "v19-003": {
+   "texto": "Erro comum: tirar tanto da planta que ela não se recupera. Colha só a parte que precisa",
+   "esp": "outra",
+   "serie": "3 erros",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "133",
+   "fontePet": null
+  },
+  "v19-004": {
+   "texto": "Erro comum: colher erva na beira da estrada ou perto de plantação pulverizada. Pega veneno e fumaça",
+   "esp": "outra",
+   "serie": "3 erros",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "133",
+   "fontePet": null
+  },
+  "v19-005": {
+   "texto": "Colha erva em dia seco, depois que o orvalho secou",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "v19-006": {
+   "texto": "Colha só o que dá para secar na hora: erva parada uma ou duas horas já perde qualidade",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "v19-007": {
+   "texto": "Mais de 70% de uma erva fresca é água",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "v19-008": {
+   "texto": "Secar erva em casa: lugar quente e sem sol direto, folhas numa camada só em bandeja ou jornal, virando bastante nos primeiros dias",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "v19-009": {
+   "texto": "Outro jeito de secar: maços soltos pendurados num varal, na sombra e sem corrente de ar",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "v19-010": {
+   "texto": "A erva está seca quando quebra fácil entre o polegar e o indicador. Leva de três a cinco dias",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "v19-011": {
+   "texto": "Erro comum: pôr erva fresca junto da que já está secando. A umidade volta para a seca",
+   "esp": "outra",
+   "serie": "3 erros",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "v19-012": {
+   "texto": "Erva seca pesa só um oitavo da fresca",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "v19-013": {
+   "texto": "Erro comum: esfarelar a erva seca ao ar livre. Qualquer brisa leva quase tudo embora",
+   "esp": "outra",
+   "serie": "3 erros",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "v19-014": {
+   "texto": "Esfarelar: separe as folhas do talo, amasse com rolo de massa ou moedor de café e passe na peneira fina. O talo vai fora",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "v19-015": {
+   "texto": "Uma erva por vez, lavando os utensílios entre uma e outra, senão o cheiro mistura",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "v19-016": {
+   "texto": "Guarde erva seca em pote de vidro escuro com tampa de rosca: a luz estraga o óleo que dá o aroma",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "v19-017": {
+   "texto": "Mito: saquinho plástico serve para guardar erva seca. Não serve: pote fechado e escuro",
+   "esp": "outra",
+   "serie": "Mito ou verdade",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "v19-018": {
+   "texto": "Alho: plante dente por dente, 15 cm entre eles e 4 cm de fundura, no sol e em terra rica e seca",
+   "esp": "alho",
+   "serie": "Passo a passo",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "152",
+   "fontePet": null
+  },
+  "v19-019": {
+   "texto": "Existe alho de dente miúdo e alho gigante, de casca branca, rosa ou roxa, e o gosto vai do doce ao forte",
+   "esp": "alho",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "152",
+   "fontePet": null
+  },
+  "v19-020": {
+   "texto": "Cebolinha faz uma bordinha bonita no canteiro de ervas",
+   "esp": "cebolinha",
+   "serie": "Dica do Andre",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "153",
+   "fontePet": null
+  },
+  "v19-021": {
+   "texto": "O nirá (cebolinha-chinesa) é maior que a cebolinha comum e tem folha chata",
+   "esp": "cebolinha",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "153",
+   "fontePet": null
+  },
+  "v19-022": {
+   "texto": "Endro (dill) se planta fácil de semente",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "156",
+   "fontePet": null
+  },
+  "v19-023": {
+   "texto": "O estragão-russo é rústico e aguenta qualquer terra",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "162",
+   "fontePet": null
+  },
+  "v19-024": {
+   "texto": "A borragem se espalha sozinha pela semente que cai: plantou uma vez, volta todo ano",
+   "esp": "borragem",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "167",
+   "fontePet": null
+  },
+  "v19-025": {
+   "texto": "Borragem gosta de sol pleno e terra comum que escorra bem",
+   "esp": "borragem",
+   "serie": "5 cuidados",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "167",
+   "fontePet": null
+  },
+  "v19-026": {
+   "texto": "Calêndula aguenta qualquer terra no sol e, depois de pegar, se resemeia sozinha",
+   "esp": "calêndula",
+   "serie": "5 cuidados",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "168",
+   "fontePet": null
+  },
+  "v19-027": {
+   "texto": "Toda pimenta vem da América: a Europa não conhecia antes de 1494",
+   "esp": "pimenta",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "170",
+   "fontePet": null
+  },
+  "v19-028": {
+   "texto": "A pimenta-caiena é pimenta seca e moída",
+   "esp": "pimenta",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "170",
+   "fontePet": null
+  },
+  "v19-029": {
+   "texto": "O coentro não existe mais na natureza: só cultivado",
+   "esp": "coentro",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "183",
+   "fontePet": null
+  },
+  "v19-030": {
+   "texto": "Cominho gosta de terra arenosa e lugar quente; mantenha sem mato",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "184",
+   "fontePet": null
+  },
+  "v19-031": {
+   "texto": "Alcachofra: plante o broto da base com um pedaço da planta-mãe, a 75 cm, em terra rica e úmida, com muita água",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "185",
+   "fontePet": null
+  },
+  "v19-032": {
+   "texto": "A alcachofra produz melhor no terceiro ano e deve ser trocada no quinto",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "185",
+   "fontePet": null
+  },
+  "v19-033": {
+   "texto": "Erva-doce: não quer semente? Tire as flores",
+   "esp": "erva-doce",
+   "serie": "Dica do Andre",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "195",
+   "fontePet": null
+  },
+  "v19-034": {
+   "texto": "Erva-doce pega em quase toda terra, menos argila pesada",
+   "esp": "erva-doce",
+   "serie": "5 cuidados",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "195",
+   "fontePet": null
+  },
+  "v19-035": {
+   "texto": "Loureiro de semente demora a germinar; de estaca verde de 10 cm é mais fácil",
+   "esp": "louro",
+   "serie": "Dica do Andre",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "215",
+   "fontePet": null
+  },
+  "v19-036": {
+   "texto": "O loureiro vai bem em vaso grande com terra rica e úmida",
+   "esp": "louro",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "215",
+   "fontePet": null
+  },
+  "v19-037": {
+   "texto": "Lavanda-francesa: terra seca, arenosa e que escorra bem, sol pleno e um adubo líquido de vez em quando. Dá em vaso",
+   "esp": "lavanda",
+   "serie": "5 cuidados",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "216",
+   "fontePet": null
+  },
+  "v19-038": {
+   "texto": "Camomila se semeia fino, espalhada",
+   "esp": "camomila",
+   "serie": "Dica do Andre",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "224",
+   "fontePet": null
+  },
+  "v19-039": {
+   "texto": "A erva-cidreira (melissa) germina devagar; por divisão da touceira é mais rápido",
+   "esp": "erva-cidreira",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "226",
+   "fontePet": null
+  },
+  "v19-040": {
+   "texto": "Erva-cidreira gosta de terra rica e úmida, com sol e um pouco de sombra",
+   "esp": "erva-cidreira",
+   "serie": "5 cuidados",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "226",
+   "fontePet": null
+  },
+  "v19-041": {
+   "texto": "Hortelã-d'água gosta de pé na água: plante dentro d'água ou em terra sempre encharcada",
+   "esp": "hortelã",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "226",
+   "fontePet": null
+  },
+  "v19-042": {
+   "texto": "Mito: hortelã-pimenta de semente sai igual. Não sai: multiplique pelos ramos que correm na terra",
+   "esp": "hortelã",
+   "serie": "Mito ou verdade",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "v19-043": {
+   "texto": "Hortelã: divida os ramos rasteiros e replante a 30 cm, 5 cm de fundo. Regue bem e renove o canteiro a cada 5 anos",
+   "esp": "hortelã",
+   "serie": "Passo a passo",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "227",
+   "fontePet": null
+  },
+  "v19-044": {
+   "texto": "Manjericão: sol pleno e terra úmida, que escorra bem e com adubo médio",
+   "esp": "manjericão",
+   "serie": "5 cuidados",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "233",
+   "fontePet": null
+  },
+  "v19-045": {
+   "texto": "Existem variedades de manjericão com cheiros diferentes",
+   "esp": "manjericão",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "233",
+   "fontePet": null
+  },
+  "v19-046": {
+   "texto": "Manjerona: semeie em terra bem fofa e desbaste deixando 25 cm entre as plantas",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "234",
+   "fontePet": null
+  },
+  "v19-047": {
+   "texto": "Orégano: semeie em lugar quente e desbaste deixando 30 cm entre as plantas",
+   "esp": "orégano",
+   "serie": "Dica do Andre",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "235",
+   "fontePet": null
+  },
+  "v19-048": {
+   "texto": "Existe orégano de folha dourada",
+   "esp": "orégano",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "235",
+   "fontePet": null
+  },
+  "v19-049": {
+   "texto": "Salsinha demora até 8 semanas para germinar. Truque: jogue água fervendo no sulco logo depois de semear",
+   "esp": "salsinha",
+   "serie": "Dica do Andre",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "240",
+   "fontePet": null
+  },
+  "v19-050": {
+   "texto": "Salsinha lisa ou crespa? A lisa aguenta melhor frio e seca",
+   "esp": "salsinha",
+   "serie": "X ou Y?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "240",
+   "fontePet": null
+  },
+  "v19-051": {
+   "texto": "Tire as flores da salsinha para ela continuar dando folha",
+   "esp": "salsinha",
+   "serie": "Dica do Andre",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "240",
+   "fontePet": null
+  },
+  "v19-052": {
+   "texto": "A pimenta-do-reino é plantada no Brasil, muitas vezes junto com café, e produz por uns 10 anos",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "245",
+   "fontePet": null
+  },
+  "v19-053": {
+   "texto": "Alecrim: terra que escorra bem e lugar protegido do vento. Vai bem em vaso e pega de estaca ou de semente",
+   "esp": "alecrim",
+   "serie": "5 cuidados",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "258",
+   "fontePet": null
+  },
+  "v19-054": {
+   "texto": "Existe alecrim rasteiro, ótimo para cair do vaso",
+   "esp": "alecrim",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "258",
+   "fontePet": null
+  },
+  "v19-055": {
+   "texto": "Azedinha: tire as flores para render folha e regue bem no calor. Aguenta meia-sombra",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "260",
+   "fontePet": null
+  },
+  "v19-056": {
+   "texto": "A sálvia de folha larga quase não floresce e se multiplica por estaca, não por semente",
+   "esp": "sálvia",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "262",
+   "fontePet": null
+  },
+  "v19-057": {
+   "texto": "Sálvia velha e pernalta: chegue terra no pé para ela rebrotar",
+   "esp": "sálvia",
+   "serie": "Dica do Andre",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "262",
+   "fontePet": null
+  },
+  "v19-058": {
+   "texto": "A segurelha-de-inverno gosta de terra pobre e calcária, que escorra bem",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "265",
+   "fontePet": null
+  },
+  "v19-059": {
+   "texto": "Confrei aguenta quase tudo, mas em terra seca pede rega regular. Multiplica por divisão ou pedaço de raiz",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "272",
+   "fontePet": null
+  },
+  "v19-060": {
+   "texto": "Tomilho rasteiro se multiplica por mergulhia (ramo enterrado ainda preso na mãe) ou estaca",
+   "esp": "tomilho",
+   "serie": "Dica do Andre",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "276",
+   "fontePet": null
+  },
+  "v19-061": {
+   "texto": "O tomilho é uma planta muito variável: há dezenas de tipos",
+   "esp": "tomilho",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "276",
+   "fontePet": null
+  },
+  "v19-062": {
+   "texto": "Capuchinha também pega de estaca: enraíza em mistura com areia",
+   "esp": "capuchinha",
+   "serie": "Dica do Andre",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "279",
+   "fontePet": null
+  },
+  "v19-063": {
+   "texto": "A baunilha é uma orquídea trepadeira: cresce na sombra úmida, subindo em estaca ou tronco de árvore",
+   "esp": "orquídea",
+   "serie": "Você sabia?",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "282",
+   "fontePet": null
+  },
+  "v19-064": {
+   "texto": "Violeta-de-cheiro: sombra, terra rica e umidade",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "285",
+   "fontePet": null
+  },
+  "v19-065": {
+   "texto": "Amoreira-preta: terra boa e lugar quente, protegido do vento. Cresce devagar",
+   "esp": "amora",
+   "serie": "5 cuidados",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "229",
+   "fontePet": null
+  },
+  "v19-066": {
+   "texto": "Gengibre: plante pedaços do rizoma em terra rica e solta, que escorra bem",
+   "esp": "gengibre",
+   "serie": "Passo a passo",
+   "livro": "Stuart, The Encyclopedia of Herbs and Herbalism",
+   "pagina": "287",
+   "fontePet": null
   }
  }
 }

@@ -1,4 +1,10 @@
 # PROGRESSO Terra Gentil
+## BIBLIA 19 ERVAS (STUART) SO CULTIVO (01/11/2026) - FECHA A LISTA 28, 37, 19
+- Livro de medicina: tudo que e remedio ficou fora. Lidos o capitulo de colheita e secagem (p.133 a 135) e o paragrafo "Cultivation" das ervas que se plantam no Brasil (script `cultivo19.py` no scratchpad da sessao 29d88dac extrai so esse paragrafo por erva). 66 fatos em `inteligencia-carrossel\estudo\19-herbs-01.md` (ids v19-001 a v19-066), trechos 0 falhas.
+- biblia.json 5.003 -> 5.069 fatos (66 novos, nenhum travado). Testes 229/229. Backup `biblia-antes-19.json` no scratchpad da sessao 29d88dac.
+- Esp novas: alho, louro, camomila, erva-cidreira, gengibre.
+- **Rende:** Secar e Guardar Ervas (colher antes da flor, dia seco, camada unica ou maço, ponto de quebrar, pote escuro, nada de saco plastico) e reforco do Temperos da Janela (salsinha com agua fervendo, hortela por estolao, manjericao, alecrim rasteiro, salvia, oregano, cebolinha, nira).
+- **Proximo:** lista principal de livros acabou (5.069 fatos). Opcionais: 36 iniciante, 34 seca e calor, 31 Way to Grow, 29 pimenta (precisa OCR). Ou: Andre decidir SAUDE/CLIMA pendentes e quais livros escrever primeiro (Horta de Semente, Arvore no Quintal, Secar e Guardar Ervas sao novos candidatos).
 ## BIBLIA 37 THE TREE IN MY GARDEN (RHS) ESTUDADA INTEIRA (01/11/2026)
 - Livro lido todo; fato so do que vale no Brasil: por que plantar, partes da arvore, raiz, fungos (rede de raizes), arvore na cidade, lugar certo, cerca viva, arvore em vaso, fichas de nespera, oliveira, ameixa, pessego, figo, citricos, amora, resedá, magnolia, palmeiras (butiá), iuca, e o capitulo plantar/podar/cuidar/problemas. Fichas de arvore nativa inglesa ficaram fora. 150 fatos em `inteligencia-carrossel\estudo\37-tree-01.md` a `-03.md` (ids t37-001 a t37-150), trechos 0 falhas.
 - biblia.json 4.853 -> 5.003 fatos (150 novos, nenhum travado). Testes 229/229. Backup `biblia-antes-37.json` no scratchpad da sessao 29d88dac.

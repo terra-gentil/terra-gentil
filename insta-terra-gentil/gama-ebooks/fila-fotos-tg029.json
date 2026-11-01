@@ -1,0 +1,70 @@
+{
+  "livro": "TG 029",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "rov-gesto-1",
+      "especie": "potted rose bush",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing broken pot shards and pieces of charcoal in the bottom of a large terracotta pot; the small mascot figurine sits on a wooden garden bench behind the pot",
+      "mascote": true
+    },
+    {
+      "id": "rov-gesto-2",
+      "especie": "potted rose bush",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands setting a young rose bush into a terracotta pot, the graft knob just above the soil line",
+      "mascote": false
+    },
+    {
+      "id": "rov-gesto-3",
+      "especie": "potted rose bush",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand watering a newly potted rose bush until water drains out of the hole at the bottom of the terracotta pot",
+      "mascote": false
+    },
+    {
+      "id": "rov-sintoma-1",
+      "especie": "potted rose bush",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A leggy, stretched rose bush in a pot in a shady corner of a balcony, long green stems with leaves and no flower buds",
+      "mascote": false
+    },
+    {
+      "id": "rov-var-mini",
+      "especie": "miniature rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A miniature rose covered in small pink flowers in a small pot on a sunny balcony",
+      "mascote": false
+    },
+    {
+      "id": "rov-var-floribunda",
+      "especie": "floribunda rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A floribunda rose bush with many clusters of red flowers in a large terracotta pot; the small mascot figurine peeks out from between the pot and the balcony railing",
+      "mascote": true
+    },
+    {
+      "id": "rov-var-grande",
+      "especie": "hybrid tea rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A single large hybrid tea rose on a long stem, yellow petals just opening",
+      "mascote": false
+    },
+    {
+      "id": "rov-var-trepadeira",
+      "especie": "climbing rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A climbing rose with white flowers growing from a big pot up a balcony railing",
+      "mascote": false
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 026",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "abe-gesto-1",
+      "especie": "bee hotel",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands gathering short pieces of hollow bamboo cane on a garden table; the small mascot figurine sits on top of a wooden fence post nearby",
+      "mascote": true
+    },
+    {
+      "id": "abe-gesto-2",
+      "especie": "bee hotel",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands packing hollow bamboo canes tightly into a small wooden crate, open ends facing out",
+      "mascote": false
+    },
+    {
+      "id": "abe-gesto-3",
+      "especie": "bee hotel",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands hanging a small wooden bee hotel full of bamboo canes on a sunny garden wall",
+      "mascote": false
+    },
+    {
+      "id": "abe-sintoma-1",
+      "especie": "double-flowered ornamentals",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A garden bed of fancy double-petaled ornamental flowers, densely ruffled, with no insects anywhere",
+      "mascote": false
+    },
+    {
+      "id": "abe-var-borragem",
+      "especie": "Borago officinalis",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Blue star-shaped borage flowers hanging down, a honeybee feeding upside down on one flower",
+      "mascote": false
+    },
+    {
+      "id": "abe-var-girassol",
+      "especie": "Helianthus annuus",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A sunflower head in a backyard with a bee on the center disc",
+      "mascote": false
+    },
+    {
+      "id": "abe-var-lavanda",
+      "especie": "Lavandula",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A flowering lavender plant in a clay pot in full sun; the small mascot figurine sits on the rim of the pot",
+      "mascote": true
+    },
+    {
+      "id": "abe-var-hortela",
+      "especie": "Mentha",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Flowering mint with small lilac flower spikes and a bee visiting them",
+      "mascote": false
+    }
+  ]
+}

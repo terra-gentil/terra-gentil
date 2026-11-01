@@ -1,0 +1,562 @@
+{
+  "livro": "TG 026",
+  "titulo": "Abelha e Passarinho",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "026",
+        "COLEÇÃO TERRA GENTIL",
+        "ABELHA",
+        "Abelha e Passarinho",
+        "Um quintal que chama vida.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "girassol-A-1.jpg",
+          "alt": "André com um girassol"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "q34-117",
+        "x23-133"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Ouvir passarinho cantando alivia o cansaço da cabeça.",
+        "E um cantinho com flor já ajuda as abelhas que estão sumindo.",
+        "Aqui eu te mostro como chamar os dois, gastando quase nada.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ponha um pires com água e pedrinhas no quintal.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 026 ABELHA E PASSARINHO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lavanda-A-1.jpg",
+          "alt": "André perto de um pé de lavanda"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "x23-031",
+        "h35-089",
+        "i36-278"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Plante flor simples, aberta.",
+        "Flor cheia de pétalas é bonita, mas a abelha não chega no néctar.",
+        "FLOR O ANO TODO",
+        "Misture plantas que florescem em épocas diferentes.",
+        "Nada de veneno.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 026 ABELHA E PASSARINHO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do quintal vivo",
+        "06",
+        "CAPÍTULO 1",
+        "Flor que chama",
+        "08",
+        "CAPÍTULO 2",
+        "Casa e água",
+        "12",
+        "CAPÍTULO 3",
+        "Comedouro sem erro",
+        "15",
+        "CAPÍTULO 4",
+        "Flores de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Jardim florido e sem abelha? Vá para a página 11.",
+        "Na próxima: a ficha do quintal",
+        "→",
+        "TG 026 ABELHA E PASSARINHO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "x23-005",
+        "w31-140",
+        "i36-305",
+        "s28-006",
+        "x23-093"
+      ],
+      "textos": [
+        "FICHA DO QUINTAL VIVO",
+        "Antes de começar",
+        "O que ele pede",
+        "FLOR",
+        "Simples e aberta",
+        "ÉPOCA",
+        "Flor o ano quase todo",
+        "ÁGUA",
+        "Pires com pedrinhas",
+        "ABRIGO",
+        "Folha seca e canto solto",
+        "VENENO",
+        "Nenhum, nem na muda",
+        "PET",
+        "ATENÇÃO",
+        "Gato longe do comedouro",
+        "Na próxima: flor que chama",
+        "→",
+        "TG 026 ABELHA E PASSARINHO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Flor que chama",
+        "01",
+        "Simples ou dobrada",
+        "02",
+        "Hotel de abelha",
+        "03",
+        "Jardim sem abelha",
+        "Na próxima: simples ou dobrada",
+        "→",
+        "TG 026 ABELHA E PASSARINHO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lavanda-B-1.jpg",
+          "alt": "André no canteiro florido"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "x23-031",
+        "i36-278",
+        "s28-006",
+        "x23-007",
+        "g32-288",
+        "g32-156",
+        "h35-091"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · AS FLORES",
+        "Simples ou dobrada",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Flor",
+        "Simples",
+        "Cheia de pétalas",
+        "Época",
+        "Uma após outra",
+        "Tudo junto",
+        "Muda",
+        "Sem veneno",
+        "Pulverizada",
+        "Erva",
+        "Deixar florir",
+        "Cortar a flor",
+        "Hortelã e orégano floridos são festa de abelha.",
+        "DICA DO ANDRÉ",
+        "Deixe umas cenouras florirem: abelha adora.",
+        "Na próxima: casa e água",
+        "→",
+        "TG 026 ABELHA E PASSARINHO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Casa e água",
+        "01",
+        "Hotel de abelha",
+        "02",
+        "Água sem afogar",
+        "03",
+        "Jardim sem abelha",
+        "Na próxima: hotel de abelha",
+        "→",
+        "TG 026 ABELHA E PASSARINHO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "girassol-B-1.jpg",
+          "alt": "André no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "x23-086",
+        "i36-300",
+        "q34-094",
+        "x23-085"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Hotel de abelha? Faça assim.",
+        "QUANDO",
+        "Qualquer época",
+        "TEMPO",
+        "30 minutos",
+        "PRECISA",
+        "Bambu, caixote e barbante",
+        "1",
+        "BAMBU OCO",
+        "Junte bambu e talo oco.",
+        "2",
+        "NO CAIXOTE",
+        "Bem apertado, furo para fora.",
+        "3",
+        "NO SOL",
+        "Pendure num muro de sol.",
+        "DICA DO ANDRÉ",
+        "A maioria das abelhas do quintal é solitária: não tem colmeia.",
+        "Na próxima: água sem afogar",
+        "→",
+        "TG 026 ABELHA E PASSARINHO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "abe-gesto-1.jpg",
+          "alt": "Mãos juntando pedaços de bambu oco"
+        },
+        {
+          "src": "abe-gesto-2.jpg",
+          "alt": "Mãos encaixando os bambus num caixote de madeira"
+        },
+        {
+          "src": "abe-gesto-3.jpg",
+          "alt": "Mãos pendurando o hotel de abelha num muro de sol"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "w31-138",
+        "w31-139",
+        "w31-140",
+        "x23-152",
+        "x23-002"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · ÁGUA",
+        "Água sem afogar",
+        "Muita abelha morre afogada na água do fundo do regador.",
+        "Encaixe um vasinho de plástico na boca do regador.",
+        "Bebedouro: pires com água e pedrinhas para ela pousar.",
+        "Um pote de água vira parada de bicho de passagem.",
+        "Passarinho vem beber mesmo morando em outro lugar.",
+        "Na próxima: jardim sem abelha",
+        "→",
+        "TG 026 ABELHA E PASSARINHO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "x23-031",
+        "q34-121",
+        "t37-045"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Jardim florido e sem abelha?",
+        "1",
+        "O QUE PARECE",
+        "Não tem abelha por aqui.",
+        "O QUE PODE SER",
+        "Flor dobrada, cheia de pétalas.",
+        "COMO RESOLVER",
+        "Plante flor simples e aberta.",
+        "Na próxima: comedouro sem erro",
+        "→",
+        "TG 026 ABELHA E PASSARINHO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "abe-sintoma-1.jpg",
+          "alt": "Canteiro de flores dobradas, cheias de pétalas, sem nenhum inseto"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Comedouro sem erro",
+        "01",
+        "O comedouro",
+        "02",
+        "Longe do gato",
+        "03",
+        "Flores de perto",
+        "Na próxima: o comedouro",
+        "→",
+        "TG 026 ABELHA E PASSARINHO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "girassol-C-1.jpg",
+          "alt": "André olhando o quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "x23-089",
+        "x23-090",
+        "x23-103",
+        "x23-102",
+        "x23-096",
+        "x23-094",
+        "x23-100",
+        "x23-095"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · COMEDOURO",
+        "O comedouro",
+        "QUANDO",
+        "Sempre no mesmo horário",
+        "DE NOVO EM",
+        "Todo dia, sem falhar",
+        "VOCÊ VAI PRECISAR",
+        "Semente",
+        " de girassol preta",
+        "Fruta",
+        " madura, até machucada",
+        "Escova",
+        " e água quente",
+        "Galhinho",
+        " para pousar antes",
+        "Cuidado",
+        "Pão",
+        " não é comida",
+        "Comida velha",
+        " adoece e chama rato",
+        "Na próxima: longe do gato",
+        "→",
+        "TG 026 ABELHA E PASSARINHO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "x23-093",
+        "x23-098",
+        "x23-099",
+        "x23-097"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · O GATO",
+        "ATENÇÃO",
+        "Gato é a maior ameaça do comedouro.",
+        "Arbusto colado no comedouro esconde o pulo dele.",
+        "Comida no mesmo ponto por meses junta doença.",
+        "FAÇA ASSIM",
+        "Arbusto a 2 m e comedouro pendurado no galho.",
+        "Mude o comedouro de lugar de vez em quando.",
+        "Na próxima: quatro que chamam",
+        "→",
+        "TG 026 ABELHA E PASSARINHO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "x23-012",
+        "x23-042",
+        "x23-151",
+        "g32-288"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro que chamam",
+        "1",
+        "Borragem",
+        "O pão da abelha.",
+        "2",
+        "Girassol",
+        "Néctar e semente.",
+        "3",
+        "Lavanda",
+        "Perfume e abelha.",
+        "4",
+        "Hortelã",
+        "Deixe um pouco florir.",
+        "CHAVE",
+        "Flor simples",
+        "Nada de veneno",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 026 ABELHA E PASSARINHO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "abe-var-borragem.jpg",
+          "alt": "Flor azul de borragem com uma abelha"
+        },
+        {
+          "src": "abe-var-girassol.jpg",
+          "alt": "Girassol com uma abelha no miolo"
+        },
+        {
+          "src": "abe-var-lavanda.jpg",
+          "alt": "Lavanda florida num vaso"
+        },
+        {
+          "src": "abe-var-hortela.jpg",
+          "alt": "Hortelã florida com abelha"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "g32-485",
+        "x23-112",
+        "x23-110",
+        "w31-104",
+        "t37-136"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "PASSARINHO PRESO",
+        "Rede solta. Estique firme.",
+        "CASINHA VAZIA",
+        "Plástico sua. Use madeira.",
+        "NINHO ATACADO",
+        "Poleiro na porta. Tire.",
+        "QUINTAL QUIETO",
+        "Tudo varrido. Deixe folha.",
+        "DICA DO ANDRÉ",
+        "Antes de podar a cerca viva, olhe se não tem ninho.",
+        "Na próxima: um número que assusta",
+        "→",
+        "TG 026 ABELHA E PASSARINHO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "x23-131",
+        "q34-052",
+        "x23-014"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "84",
+        "POR CENTO",
+        "das lavouras de comida da Europa dependem de inseto.",
+        "Sem polinizador, falta comida no prato.",
+        "E MAIS UMA",
+        "A borragem ajudou a decifrar a dança da abelha.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 026 ABELHA E PASSARINHO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "x23-031",
+        "i36-278",
+        "w31-140",
+        "w31-139",
+        "q34-094",
+        "x23-093",
+        "x23-090",
+        "i36-305"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Plante flor simples",
+        "Flor o ano quase todo",
+        "Pires com água e pedrinhas",
+        "Vasinho na boca do regador",
+        "Hotel de abelha no sol",
+        "Comedouro longe do gato",
+        "Comida sempre no horário",
+        "Deixe um cantinho solto",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 026 ABELHA E PASSARINHO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se uma abelha visitar a sua flor, me conta. E dá uma muda para o vizinho. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "026",
+        "VOCÊ TEM",
+        "027",
+        "028",
+        "029",
+        "030",
+        "031",
+        "São 26 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 027 PIMENTA NO VASO",
+        "Comente PIMENTA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 026 ABELHA E PASSARINHO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "girassol-D-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

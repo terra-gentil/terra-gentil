@@ -1,0 +1,70 @@
+{
+  "livro": "TG 025",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "sem-gesto-1",
+      "especie": "vegetable seedlings",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands filling the cells of a seed tray with light, fine seed-starting mix; the small mascot figurine sits on an upturned clay pot next to the tray",
+      "mascote": true
+    },
+    {
+      "id": "sem-gesto-2",
+      "especie": "vegetable seeds",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's fingers dropping two large seeds into a shallow finger-made hole in a small pot of soil",
+      "mascote": false
+    },
+    {
+      "id": "sem-gesto-3",
+      "especie": "vegetable seedlings",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hand snipping a weaker seedling at soil level with small scissors, leaving the strongest one in the pot",
+      "mascote": false
+    },
+    {
+      "id": "sem-sintoma-1",
+      "especie": "vegetable seedlings",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A seed tray of tall, thin, pale leggy seedlings all bent and leaning toward a window",
+      "mascote": false
+    },
+    {
+      "id": "sem-var-beterraba",
+      "especie": "beetroot seedlings",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Young beetroot seedlings with red-veined leaves growing in a pot",
+      "mascote": false
+    },
+    {
+      "id": "sem-var-cenoura",
+      "especie": "baby carrots",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Freshly pulled small carrots with their green tops on a wooden table",
+      "mascote": false
+    },
+    {
+      "id": "sem-var-abobrinha",
+      "especie": "zucchini",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A zucchini plant with a yellow flower and a small fruit in a garden bed; the small mascot figurine peeks out from under a large zucchini leaf",
+      "mascote": true
+    },
+    {
+      "id": "sem-var-vagem",
+      "especie": "dwarf green bean",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A bush green bean plant with hanging pods growing in a pot on a balcony",
+      "mascote": false
+    }
+  ]
+}

@@ -1,0 +1,559 @@
+{
+  "livro": "TG 029",
+  "titulo": "Roseira no Vaso",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "029",
+        "COLEÇÃO TERRA GENTIL",
+        "ROSEIRA",
+        "Roseira no Vaso",
+        "Rosa na varanda, sem quintal.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-A-1.jpg",
+          "alt": "André com uma roseira"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "r20-261",
+        "r20-262",
+        "r20-140"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Rosa não precisa de quintal.",
+        "Roseira de primeira dá em vaso, na varanda e no apartamento.",
+        "Aqui eu te mostro o vaso, a terra, a rega e a poda certa.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache um canto com 6 horas de sol, de preferência de manhã.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 029 ROSEIRA NO VASO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-B-1.jpg",
+          "alt": "André cheirando uma rosa"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "r20-140",
+        "r20-147",
+        "r20-276",
+        "r20-263"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Sol da manhã, 6 horas.",
+        "Na sombra, o broto aborta a flor e o galho fica cego.",
+        "ÚMIDA, NUNCA EMPAPADA",
+        "Deixe a superfície secar um pouco e então regue bem.",
+        "Vaso de barro.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 029 ROSEIRA NO VASO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da roseira",
+        "06",
+        "CAPÍTULO 1",
+        "Vaso e terra",
+        "08",
+        "CAPÍTULO 2",
+        "Plantar e regar",
+        "12",
+        "CAPÍTULO 3",
+        "Adubo e poda",
+        "15",
+        "CAPÍTULO 4",
+        "Rosas de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Galho que não dá botão? Vá para a página 11.",
+        "Na próxima: a ficha da roseira",
+        "→",
+        "TG 029 ROSEIRA NO VASO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "r20-140",
+        "r20-276",
+        "r20-264",
+        "r20-269",
+        "r20-232",
+        "r20-265"
+      ],
+      "textos": [
+        "FICHA DA ROSEIRA",
+        "Antes de plantar",
+        "O que ela pede",
+        "LUZ",
+        "6 horas, sol da manhã",
+        "ÁGUA",
+        "Úmida, nunca empapada",
+        "VASO",
+        "Barro, 45 por 30 cm",
+        "TERRA",
+        "Levemente ácida",
+        "ADUBO",
+        "Todo mês ao crescer",
+        "FURO",
+        "ATENÇÃO",
+        "Vaso grande, mais furos",
+        "Na próxima: vaso e terra",
+        "→",
+        "TG 029 ROSEIRA NO VASO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Vaso e terra",
+        "01",
+        "Vaso certo",
+        "02",
+        "Plantar, passo a passo",
+        "03",
+        "Galho cego",
+        "Na próxima: vaso certo",
+        "→",
+        "TG 029 ROSEIRA NO VASO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-C-1.jpg",
+          "alt": "André com um vaso de barro"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "r20-263",
+        "r20-264",
+        "r20-265",
+        "r20-266",
+        "r20-268",
+        "r20-270"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O VASO",
+        "Vaso certo",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Vaso",
+        "Barro",
+        "Esquenta no sol",
+        "Tamanho",
+        "45 por 30 cm",
+        "Pequeno",
+        "Furo",
+        "Vários",
+        "Um só",
+        "Muda",
+        "Baixa, compacta",
+        "Alta, espichada",
+        "Terra: 3 de terra boa, 1 de esterco, folha e cinza.",
+        "DICA DO ANDRÉ",
+        "Carvão quebrado na terra mantém a mistura doce.",
+        "Na próxima: plantar e regar",
+        "→",
+        "TG 029 ROSEIRA NO VASO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Plantar e regar",
+        "01",
+        "Plantar, passo a passo",
+        "02",
+        "A rega certa",
+        "03",
+        "Galho cego",
+        "Na próxima: plantar, passo a passo",
+        "→",
+        "TG 029 ROSEIRA NO VASO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-D-1.jpg",
+          "alt": "André plantando uma roseira"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "r20-272",
+        "r20-273",
+        "r20-274",
+        "r20-275"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Plantar no vaso? Faça assim.",
+        "QUANDO",
+        "Com o vaso já de molho",
+        "TEMPO",
+        "30 minutos",
+        "PRECISA",
+        "Vaso de barro, caco e carvão",
+        "1",
+        "DRENAGEM",
+        "5 a 7 cm de caco no fundo.",
+        "2",
+        "ENXERTO",
+        "Um pouco acima da terra.",
+        "3",
+        "REGA FUNDA",
+        "Até sair pelo furo.",
+        "DICA DO ANDRÉ",
+        "Uns dias na sombra e depois direto para o sol.",
+        "Na próxima: a rega certa",
+        "→",
+        "TG 029 ROSEIRA NO VASO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rov-gesto-1.jpg",
+          "alt": "Mãos pondo cacos e carvão no fundo de um vaso de barro"
+        },
+        {
+          "src": "rov-gesto-2.jpg",
+          "alt": "Mãos assentando a roseira com o enxerto acima da terra"
+        },
+        {
+          "src": "rov-gesto-3.jpg",
+          "alt": "Mãos regando o vaso até a água sair pelo furo"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "r20-276",
+        "r20-277",
+        "r20-283",
+        "r20-284",
+        "r20-282"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · REGA",
+        "A rega certa",
+        "Deixe a superfície secar um pouco e regue bem.",
+        "Entre uma rega e outra, afofe 1 cm da terra.",
+        "No calorão: meia-sombra e água todo dia.",
+        "Na chuva: só quando precisar, e furo desentupido.",
+        "Gire o vaso meia volta a cada 15 dias.",
+        "Na próxima: galho cego",
+        "→",
+        "TG 029 ROSEIRA NO VASO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "r20-185",
+        "r20-147"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Galho que não dá botão?",
+        "1",
+        "O QUE PARECE",
+        "Roseira doente.",
+        "O QUE PODE SER",
+        "Sombra ou poda forte demais.",
+        "COMO RESOLVER",
+        "Mais sol e poda mais leve.",
+        "Na próxima: adubo e poda",
+        "→",
+        "TG 029 ROSEIRA NO VASO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rov-sintoma-1.jpg",
+          "alt": "Roseira de vaso na sombra, espichada e sem botão"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Adubo e poda",
+        "01",
+        "Adubo sem queimar",
+        "02",
+        "Poda de vaso",
+        "03",
+        "Rosas de perto",
+        "Na próxima: adubo sem queimar",
+        "→",
+        "TG 029 ROSEIRA NO VASO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-E-1.jpg",
+          "alt": "André cuidando da roseira"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "r20-232",
+        "r20-279",
+        "r20-173",
+        "r20-278",
+        "r20-196",
+        "r20-244"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ADUBO",
+        "Adubo sem queimar",
+        "QUANDO",
+        "Todo mês ao crescer",
+        "DE NOVO EM",
+        "Depois da primeira florada",
+        "VOCÊ VAI PRECISAR",
+        "Esterco",
+        " bem curtido",
+        "Farinha de osso",
+        " na terra",
+        "Pazinha",
+        " para trocar a terra",
+        "Regador",
+        " antes do adubo",
+        "Cuidado",
+        "Muda nova",
+        " sem químico no 1º ano",
+        "Esterco fresco",
+        " nunca direto",
+        "Na próxima: poda de vaso",
+        "→",
+        "TG 029 ROSEIRA NO VASO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "r20-285",
+        "r20-202",
+        "r20-280"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · PODA",
+        "ATENÇÃO",
+        "No calor, roseira de vaso espicha e fica desengonçada.",
+        "Por isso ela leva poda mais curta que a do canteiro.",
+        "A ideal é aberta no meio: entra ar e sol em tudo.",
+        "FAÇA ASSIM",
+        "Fique com 3 ou 4 galhos bons.",
+        "Cada galho com 2 gemas.",
+        "Na próxima: quatro rosas",
+        "→",
+        "TG 029 ROSEIRA NO VASO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "r20-157",
+        "r20-264",
+        "r20-266"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro rosas",
+        "1",
+        "Minirrosa",
+        "Vaso de 30 cm.",
+        "2",
+        "Floribunda",
+        "Mancha de cor.",
+        "3",
+        "Flor grande",
+        "Para cortar.",
+        "4",
+        "Trepadeira",
+        "Vaso de 60 cm.",
+        "CHAVE",
+        "Baixa e compacta",
+        "Sol da manhã",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 029 ROSEIRA NO VASO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rov-var-mini.jpg",
+          "alt": "Minirrosa florida num vaso pequeno"
+        },
+        {
+          "src": "rov-var-floribunda.jpg",
+          "alt": "Roseira floribunda com cachos de flor"
+        },
+        {
+          "src": "rov-var-grande.jpg",
+          "alt": "Rosa grande de haste longa"
+        },
+        {
+          "src": "rov-var-trepadeira.jpg",
+          "alt": "Roseira trepadeira num vaso grande junto à grade"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "r20-228",
+        "r20-155",
+        "r20-176",
+        "r20-190",
+        "r20-265",
+        "r20-287"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "FOLHA NOVA AMARELA",
+        "Nervura verde: falta ferro.",
+        "PÓ BRANCO",
+        "Oídio. Mais ar em volta.",
+        "ÁCARO",
+        "Jato de água nas folhas.",
+        "VASO ENCHARCADO",
+        "Pouco furo. Faça mais.",
+        "DICA DO ANDRÉ",
+        "Rosa para o vaso de água: colha no fim da tarde.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 029 ROSEIRA NO VASO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "r20-281",
+        "r20-019"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "35",
+        "DIAS",
+        "depois de uma poda leve, a roseira de vaso já pode florir de novo.",
+        "Às vezes leva 50.",
+        "E MAIS UMA",
+        "Foi a poeta grega Safo quem chamou a rosa de rainha das flores.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 029 ROSEIRA NO VASO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "r20-140",
+        "r20-263",
+        "r20-273",
+        "r20-274",
+        "r20-276",
+        "r20-282",
+        "r20-232",
+        "r20-280"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Seis horas de sol da manhã",
+        "Vaso de barro furado",
+        "Caco e carvão no fundo",
+        "Enxerto acima da terra",
+        "Úmida, nunca empapada",
+        "Gire o vaso a cada 15 dias",
+        "Adubo todo mês",
+        "Poda curta, 3 ou 4 galhos",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 029 ROSEIRA NO VASO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua roseira abrir a primeira rosa, me conta. E leva uma para a vizinha. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "029",
+        "VOCÊ TEM",
+        "030",
+        "031",
+        "032",
+        "033",
+        "034",
+        "São 29 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 030 ROSEIRA DOENTE",
+        "Comente ROSA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 029 ROSEIRA NO VASO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

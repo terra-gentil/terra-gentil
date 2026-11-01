@@ -1,4 +1,18 @@
 # PROGRESSO Terra Gentil
+## LEVA 3: TG 025 A 029 ESCRITOS, FOTOS DO FLOW PENDENTES (01/11/2026, noite)
+Roteiros curtos em `ebooks\fabrica\curtos\tg025.mjs` a `tg029.mjs` (19 paginas, sem estouro, `validar.mjs` ok), previas com fotos PROVISORIAS do banco em `ebooks\TG025-previa.pdf` a `TG029-previa.pdf`. Filas do Flow escritas a mao (Gentileza sem oculos, 2 por fila, lugar dito na cena) em `gama-ebooks/fila-fotos-tg025.json` a `tg029.json`.
+| Livro | Titulo | Palavra | Prefixo |
+|---|---|---|---|
+| 025 | Horta de Semente | SEMENTE | sem |
+| 026 | Abelha e Passarinho | ABELHA | abe |
+| 027 | Pimenta no Vaso | PIMENTA | pim |
+| 028 | Arvore no Quintal | QUINTAL | arv |
+| 029 | Roseira no Vaso | ROSEIRA | rov |
+- TG 024 agora aponta para o TG 025 (antes prometia Abelha como 025; Andre escolheu Horta de Semente primeiro). TG 029 promete o TG 030 ROSEIRA DOENTE (palavra ROSA).
+- Script `fatos.mjs` (lista fatos ainda nao usados por esp, id e texto) no scratchpad da sessao 232e9269. 733 de 5.958 fatos usados ate o TG 024.
+- Estimativa do Andre pedida: uns 50 a 55 livros novos (colecao de 75 a 80). Lista de temas na conversa: roseira (5), horta (7), frutas e arvore, bichos, folhagens (10), flores (11), e reforcos de orquidea (2), suculenta, mato (2), pragas, adubo, rega, minhocario, morango.
+- **Proximo:** gerar as 40 fotos no Flow (Fotos Ebook TG, Elenco 4 fotos + Mascote, lotes de 9, trocar Pamela/eng.andrehz sem pedir), 2K pela galeria (`__baixar2k`), `esperar.py`, `casar2k.py TGNNN`, `node fazer.mjs curtos/tgNNN.mjs`; mandar as previas ao Andre (celular, SendUserFile). Depois TG 030 Roseira Doente e seguintes.
+- Pendente na ferramenta Fotos Ebook TG: nao somar "shelf or windowsill" quando a cena ja diz onde fica o mascote.
 ## FOTOS DO TG 023 E 024 E 3 CAPAS FECHADAS (01/11/2026, tarde)
 - Limite livre nas duas contas. TG 023 (6 que faltavam) e TG 024 (8) gerados na Pamela; `casar2k.py`: TG 023 e TG 024 com 8/8 em 2K em `ebooks\fotos-flow\originais\`, tratados em `ebooks\TGNNN\`. Previas `TG023-previa.pdf` e `TG024-previa.pdf` remontadas (19 paginas, sem estouro). Avisos da conferencia (corrigir no pos): TG 023 3 de 5, TG 024 7 de 8.
 - **Mascote:** Andre pediu o Gentileza SEM oculos (o `image.png` acenando, aba Envios do seletor) e variando o lugar. Filas ganharam mascote em ali-gesto-3 (pe da arvore), ali-var-cravo (entre os cravos), zer-gesto-1 (borda do vaso), zer-var-enxada (em cima do muro).

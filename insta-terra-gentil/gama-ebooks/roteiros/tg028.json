@@ -1,0 +1,561 @@
+{
+  "livro": "TG 028",
+  "titulo": "Árvore no Quintal",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "028",
+        "COLEÇÃO TERRA GENTIL",
+        "QUINTAL",
+        "Árvore no Quintal",
+        "Escolher, plantar e ver crescer.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-A-1.jpg",
+          "alt": "André junto de uma árvore"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "t37-005",
+        "t37-004"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "A melhor hora de plantar uma árvore foi há 20 anos.",
+        "A segunda melhor hora é agora.",
+        "Aqui eu te mostro como escolher e plantar a sua, sem dor de cabeça.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Meça o espaço livre e anote onde bate sol.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 028 ÁRVORE NO QUINTAL",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-B-1.jpg",
+          "alt": "André no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "t37-009",
+        "t37-010",
+        "t37-057",
+        "t37-115"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Escolha sem pressa.",
+        "Árvore errada vira anos de dor de cabeça e acaba cortada.",
+        "PENSE EM 20 ANOS",
+        "Altura, copa, sombra e a folha que vai cair.",
+        "Buraco largo, não fundo.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 028 ÁRVORE NO QUINTAL",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da árvore",
+        "06",
+        "CAPÍTULO 1",
+        "Escolher certo",
+        "08",
+        "CAPÍTULO 2",
+        "Plantar",
+        "12",
+        "CAPÍTULO 3",
+        "O primeiro ano",
+        "15",
+        "CAPÍTULO 4",
+        "Árvore em vaso",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Árvore nova parada? Vá para a página 11.",
+        "Na próxima: a ficha da árvore",
+        "→",
+        "TG 028 ÁRVORE NO QUINTAL",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "t37-060",
+        "t37-010",
+        "t37-061",
+        "t37-115",
+        "i36-153",
+        "t37-058"
+      ],
+      "textos": [
+        "FICHA DA ÁRVORE",
+        "Antes de cavar",
+        "O que ela pede",
+        "LUZ",
+        "Sol para flor e fruta",
+        "ESPAÇO",
+        "Copa adulta livre",
+        "RAIZ",
+        "Longe de cano e casa",
+        "BURACO",
+        "Largo, não fundo",
+        "COBERTURA",
+        "Composto longe do tronco",
+        "VIZINHO",
+        "ATENÇÃO",
+        "Converse antes de plantar",
+        "Na próxima: escolher certo",
+        "→",
+        "TG 028 ÁRVORE NO QUINTAL",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Escolher certo",
+        "01",
+        "Muda boa",
+        "02",
+        "Plantar, passo a passo",
+        "03",
+        "Árvore parada",
+        "Na próxima: muda boa",
+        "→",
+        "TG 028 ÁRVORE NO QUINTAL",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-C-1.jpg",
+          "alt": "André escolhendo uma muda"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "t37-112",
+        "t37-111",
+        "t37-113",
+        "t37-011",
+        "t37-059"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · A MUDA",
+        "Muda boa",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Idade",
+        "2 a 4 anos",
+        "Muda velha",
+        "Raiz",
+        "Solta no vaso",
+        "Tomando tudo",
+        "Cova",
+        "Terra da cova",
+        "Cheia de esterco",
+        "Bicho",
+        "Nativa",
+        "Só de fora",
+        "Pouca luz? Copa rala, de sombra pintada.",
+        "DICA DO ANDRÉ",
+        "Para chamar passarinho, plante árvore da sua região.",
+        "Na próxima: plantar",
+        "→",
+        "TG 028 ÁRVORE NO QUINTAL",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Plantar",
+        "01",
+        "Plantar, passo a passo",
+        "02",
+        "Tutor e cobertura",
+        "03",
+        "Árvore parada",
+        "Na próxima: plantar, passo a passo",
+        "→",
+        "TG 028 ÁRVORE NO QUINTAL",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-D-1.jpg",
+          "alt": "André com uma pá"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "t37-114",
+        "t37-115",
+        "t37-117",
+        "t37-118"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Plantar a árvore? Faça assim.",
+        "QUANDO",
+        "Com o torrão encharcado",
+        "TEMPO",
+        "1 hora",
+        "PRECISA",
+        "Pá, estaca e cabo de vassoura",
+        "1",
+        "BURACO",
+        "Quadrado, largo, raso.",
+        "2",
+        "NO NÍVEL",
+        "Torrão rente ao chão.",
+        "3",
+        "FIRME",
+        "Regue aos poucos e pise.",
+        "DICA DO ANDRÉ",
+        "Atravesse um cabo de vassoura no buraco para conferir o nível.",
+        "Na próxima: tutor e cobertura",
+        "→",
+        "TG 028 ÁRVORE NO QUINTAL",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "arv-gesto-1.jpg",
+          "alt": "Mãos cavando um buraco quadrado e largo"
+        },
+        {
+          "src": "arv-gesto-2.jpg",
+          "alt": "Cabo de vassoura atravessado sobre o buraco com o torrão"
+        },
+        {
+          "src": "arv-gesto-3.jpg",
+          "alt": "Mãos regando a terra em volta da árvore recém-plantada"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "t37-119",
+        "t37-120",
+        "w31-167",
+        "t37-126",
+        "t37-121"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · TUTOR",
+        "Tutor e cobertura",
+        "Estaca do lado de onde vem o vento.",
+        "Sem tutor, o vento rasga as raízes novas.",
+        "Meia-calça velha amarra sem cortar a casca.",
+        "Afrouxe a amarra conforme o tronco engrossa.",
+        "Cubra em volta com composto, sem encostar no tronco.",
+        "Na próxima: árvore parada",
+        "→",
+        "TG 028 ÁRVORE NO QUINTAL",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "t37-125",
+        "t37-112"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Árvore nova parada?",
+        "1",
+        "O QUE PARECE",
+        "Falta de adubo.",
+        "O QUE PODE SER",
+        "Mato colado roubando água.",
+        "COMO RESOLVER",
+        "Círculo de 1 m sem mato em volta.",
+        "Na próxima: o primeiro ano",
+        "→",
+        "TG 028 ÁRVORE NO QUINTAL",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "arv-sintoma-1.jpg",
+          "alt": "Árvore nova com mato e grama colados no tronco"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "O primeiro ano",
+        "01",
+        "Cuidado do primeiro ano",
+        "02",
+        "Raiz e casa",
+        "03",
+        "Árvore em vaso",
+        "Na próxima: cuidado do primeiro ano",
+        "→",
+        "TG 028 ÁRVORE NO QUINTAL",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-E-1.jpg",
+          "alt": "André cuidando da árvore"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "i36-153",
+        "w31-167",
+        "i36-154",
+        "t37-125",
+        "i36-274",
+        "t37-126"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CUIDADO",
+        "Cuidado do primeiro ano",
+        "QUANDO",
+        "Logo depois de plantar",
+        "DE NOVO EM",
+        "Quando o tronco engrossar",
+        "VOCÊ VAI PRECISAR",
+        "Composto",
+        " 8 cm em volta",
+        "Meia-calça",
+        " para amarrar",
+        "Tesoura",
+        " para galho cruzado",
+        "Enxada",
+        " para tirar o mato",
+        "Cuidado",
+        "Tronco",
+        " livre do composto",
+        "Duas pontas",
+        " tire a mais fraca",
+        "Na próxima: raiz e casa",
+        "→",
+        "TG 028 ÁRVORE NO QUINTAL",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "t37-036",
+        "t37-037",
+        "t37-061",
+        "t37-071"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · RAIZ",
+        "ATENÇÃO",
+        "Raiz não vai lá no fundo: fica nos primeiros 60 cm.",
+        "E se espalha até três vezes o raio da copa.",
+        "Árvore grande colada na casa pode entrar no cano.",
+        "FAÇA ASSIM",
+        "Árvore grande longe da casa e da calçada.",
+        "Na calçada? Fale antes com a prefeitura.",
+        "Na próxima: quatro de vaso",
+        "→",
+        "TG 028 ÁRVORE NO QUINTAL",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "t37-068",
+        "t37-092",
+        "t37-086",
+        "t37-075",
+        "v19-036",
+        "t37-069"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · EM VASO",
+        "Quatro de vaso",
+        "1",
+        "Limoeiro",
+        "Flor e fruta juntas.",
+        "2",
+        "Figueira",
+        "Raiz apertada dá figo.",
+        "3",
+        "Oliveira",
+        "Lenta e resistente.",
+        "4",
+        "Louro",
+        "Vaso grande e úmido.",
+        "CHAVE",
+        "Sol no vaso",
+        "Terra nova todo ano",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 028 ÁRVORE NO QUINTAL",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "arv-var-limoeiro.jpg",
+          "alt": "Limoeiro com flor e fruto num vaso grande"
+        },
+        {
+          "src": "arv-var-figueira.jpg",
+          "alt": "Figueira com figos num vaso"
+        },
+        {
+          "src": "arv-var-oliveira.jpg",
+          "alt": "Oliveira pequena num vaso de barro"
+        },
+        {
+          "src": "arv-var-louro.jpg",
+          "alt": "Loureiro podado num vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "t37-120",
+        "i36-164",
+        "w31-134",
+        "t37-090",
+        "t37-093",
+        "t37-078"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "MUDA TOMBOU",
+        "Faltou tutor contra o vento.",
+        "FIGUEIRA SEM FIGO",
+        "Vaso grande demais.",
+        "LIMOEIRO GRUDENTO",
+        "Cochonilha. Olho vivo.",
+        "OLIVEIRA SÓ BROTO",
+        "Poda forte demais.",
+        "DICA DO ANDRÉ",
+        "Perto de árvore grande, evite cavar: você corta as raízes.",
+        "Na próxima: um número que impressiona",
+        "→",
+        "TG 028 ÁRVORE NO QUINTAL",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "t37-074",
+        "t37-088"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "2.000",
+        "ANOS",
+        "tem a oliveira mais velha que se conhece.",
+        "A média de vida dela é de 300 a 600 anos.",
+        "E MAIS UMA",
+        "A flor da figueira fica escondida dentro do figo.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 028 ÁRVORE NO QUINTAL",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "t37-010",
+        "t37-112",
+        "t37-115",
+        "t37-117",
+        "t37-119",
+        "t37-121",
+        "t37-125",
+        "t37-126"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Pense na árvore adulta",
+        "Muda de 2 a 4 anos",
+        "Buraco largo e raso",
+        "Torrão no nível do chão",
+        "Tutor do lado do vento",
+        "Composto longe do tronco",
+        "Círculo de 1 m sem mato",
+        "Afrouxe a amarra",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 028 ÁRVORE NO QUINTAL",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua árvore pegar, me conta. E planta uma muda na praça, com licença. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "028",
+        "VOCÊ TEM",
+        "029",
+        "030",
+        "031",
+        "032",
+        "033",
+        "São 28 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 029 ROSEIRA NO VASO",
+        "Comente ROSEIRA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 028 ÁRVORE NO QUINTAL",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-F-1.jpg",
+          "alt": "Retrato do André no quintal"
+        }
+      ]
+    }
+  ]
+}

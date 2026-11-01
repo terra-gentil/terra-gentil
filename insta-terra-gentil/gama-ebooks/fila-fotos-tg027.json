@@ -1,0 +1,70 @@
+{
+  "livro": "TG 027",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "pim-gesto-1",
+      "especie": "chili pepper",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pouring a layer of gravel into the bottom of a large 30 cm plastic pot; the small mascot figurine stands at the foot of a sunny brick wall behind the pot",
+      "mascote": true
+    },
+    {
+      "id": "pim-gesto-2",
+      "especie": "chili pepper",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands setting a young chili pepper seedling into a large pot of soil, leaving two fingers of space below the rim",
+      "mascote": false
+    },
+    {
+      "id": "pim-gesto-3",
+      "especie": "chili pepper",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands tying the stem of a chili pepper plant to a bamboo stake with soft string",
+      "mascote": false
+    },
+    {
+      "id": "pim-sintoma-1",
+      "especie": "chili pepper",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A potted chili pepper plant with no fruits and small white flowers fallen and scattered on the soil",
+      "mascote": false
+    },
+    {
+      "id": "pim-var-annuum",
+      "especie": "Capsicum annuum (jalapeño)",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A jalapeño pepper plant with glossy green fruits hanging, in a pot by a sunny window; the small mascot figurine sits on the windowsill next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "pim-var-chinense",
+      "especie": "Capsicum chinense (habanero)",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Orange wrinkled habanero peppers ripening on the plant, close view",
+      "mascote": false
+    },
+    {
+      "id": "pim-var-baccatum",
+      "especie": "Capsicum baccatum (dedo-de-moca)",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Long slender red dedo-de-moca chili peppers hanging on the plant in a backyard",
+      "mascote": false
+    },
+    {
+      "id": "pim-var-frutescens",
+      "especie": "Capsicum frutescens (malagueta)",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A malagueta pepper plant with small thin red and green fruits pointing upward",
+      "mascote": false
+    }
+  ]
+}

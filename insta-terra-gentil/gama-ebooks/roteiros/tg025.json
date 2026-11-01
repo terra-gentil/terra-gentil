@@ -1,0 +1,559 @@
+{
+  "livro": "TG 025",
+  "titulo": "Horta de Semente",
+  "serie": "#1F4D2B",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "025",
+        "COLEÇÃO TERRA GENTIL",
+        "SEMENTE",
+        "Horta de Semente",
+        "Do pacotinho ao prato.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-A-1.jpg",
+          "alt": "André na horta"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "s28-001",
+        "s28-008"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Um pacotinho de semente custa menos que uma muda.",
+        "E traz muito mais variedade do que o viveiro tem.",
+        "Aqui eu te mostro como acordar a semente e levar para o prato.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Escolha 3 pacotes e leia o verso de cada um.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 025 HORTA DE SEMENTE",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-G-1.jpg",
+          "alt": "André com uma muda nas mãos"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "s28-014",
+        "s28-041",
+        "s28-018"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Leia o verso do pacote.",
+        "Profundidade, dias para nascer e espaço entre os pés.",
+        "ÚMIDA, NUNCA ENCHARCADA",
+        "Semente precisa de água e de ar ao mesmo tempo.",
+        "Semeie 20% a mais.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 025 HORTA DE SEMENTE",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da semente",
+        "06",
+        "CAPÍTULO 1",
+        "O pacote fala",
+        "08",
+        "CAPÍTULO 2",
+        "Da bandeja ao vaso",
+        "12",
+        "CAPÍTULO 3",
+        "Cuidar da muda",
+        "15",
+        "CAPÍTULO 4",
+        "Hortaliças de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Muda comprida e torta? Vá para a página 11.",
+        "Na próxima: a ficha da semente",
+        "→",
+        "TG 025 HORTA DE SEMENTE",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "s28-034",
+        "s28-041",
+        "s28-019",
+        "s28-033",
+        "s28-083"
+      ],
+      "textos": [
+        "FICHA DA SEMENTE",
+        "Antes de semear",
+        "O que ela pede",
+        "TERRA",
+        "Leve, fina, sem torrão",
+        "LUZ",
+        "Lugar claro ao nascer",
+        "ÁGUA",
+        "Úmida, nunca encharcada",
+        "CALOR",
+        "Estável, sem sobe e desce",
+        "ADUBO",
+        "Só depois das folhas",
+        "PET",
+        "ATENÇÃO",
+        "Tela contra gato que cisca",
+        "Na próxima: o pacote fala",
+        "→",
+        "TG 025 HORTA DE SEMENTE",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "O pacote fala",
+        "01",
+        "Ler o verso",
+        "02",
+        "Semear, passo a passo",
+        "03",
+        "Muda torta",
+        "Na próxima: o pacote fala",
+        "→",
+        "TG 025 HORTA DE SEMENTE",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-B-1.jpg",
+          "alt": "André lendo um pacote"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "s28-014",
+        "n10-18",
+        "s28-015",
+        "s28-057",
+        "s28-134",
+        "s28-035",
+        "s28-009"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O PACOTE",
+        "O pacote fala",
+        "NO PACOTE",
+        "CERTO",
+        "ERRO",
+        "Fundura",
+        "Do tamanho dela",
+        "Fundo demais",
+        "Validade",
+        "No prazo",
+        "Vencida",
+        "F1",
+        "Comprar novo",
+        "Replantar",
+        "Data",
+        "Respeitar",
+        "Semear antes",
+        "Semente miúda vai só por cima.",
+        "DICA DO ANDRÉ",
+        "Um pacote de cada dá para o ano.",
+        "Na próxima: da bandeja ao vaso",
+        "→",
+        "TG 025 HORTA DE SEMENTE",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Da bandeja ao vaso",
+        "01",
+        "Semear no vasinho",
+        "02",
+        "Estufinha de graça",
+        "03",
+        "Muda torta",
+        "Na próxima: semear no vasinho",
+        "→",
+        "TG 025 HORTA DE SEMENTE",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-H-1.jpg",
+          "alt": "André com mudinhas"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "s28-026",
+        "s28-036",
+        "s28-037",
+        "s28-043",
+        "s28-038"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Semear no vasinho? Faça assim.",
+        "QUANDO",
+        "Na data do pacote",
+        "TEMPO",
+        "10 minutos",
+        "PRECISA",
+        "Vasinho, substrato e borrifador",
+        "1",
+        "TERRA LEVE",
+        "Encha sem apertar.",
+        "2",
+        "DUAS SEMENTES",
+        "Furo com o dedo, raso.",
+        "3",
+        "DESBASTE",
+        "Corte a mais fraca com tesoura.",
+        "DICA DO ANDRÉ",
+        "Marque nome e data: você não vai lembrar.",
+        "Na próxima: estufinha de graça",
+        "→",
+        "TG 025 HORTA DE SEMENTE",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "sem-gesto-1.jpg",
+          "alt": "Mãos enchendo uma bandeja de células com substrato"
+        },
+        {
+          "src": "sem-gesto-2.jpg",
+          "alt": "Dedos pondo duas sementes num vasinho"
+        },
+        {
+          "src": "sem-gesto-3.jpg",
+          "alt": "Tesoura cortando a mudinha que sobrou"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "s28-023",
+        "s28-024",
+        "s28-021",
+        "s28-025",
+        "s28-122"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · ESTUFINHA",
+        "Estufinha de graça",
+        "Duas caixinhas transparentes de fruta viram uma estufinha.",
+        "Dentro, rolinho de papel higiênico vai inteiro para a terra.",
+        "Garrafa PET cortada vira cúpula para a semente no canteiro.",
+        "Dia de sol? Abra a tampa para não cozinhar as mudas.",
+        "Muda abafada tomba: deixe entrar ar a cada dois dias.",
+        "Na próxima: muda torta",
+        "→",
+        "TG 025 HORTA DE SEMENTE",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "s28-016",
+        "s28-033"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Muda comprida e torta?",
+        "1",
+        "O QUE PARECE",
+        "Falta de adubo.",
+        "O QUE PODE SER",
+        "Pouca luz, vinda de um lado só.",
+        "COMO RESOLVER",
+        "Lugar claro e gire a bandeja todo dia.",
+        "Na próxima: cuidar da muda",
+        "→",
+        "TG 025 HORTA DE SEMENTE",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "sem-sintoma-1.jpg",
+          "alt": "Mudinhas compridas e tortas viradas para a janela"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Cuidar da muda",
+        "01",
+        "Rega de muda",
+        "02",
+        "Ir para fora",
+        "03",
+        "Hortaliças de perto",
+        "Na próxima: rega de muda",
+        "→",
+        "TG 025 HORTA DE SEMENTE",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-regar-A-1.jpg",
+          "alt": "André regando de leve"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "s28-041",
+        "s28-042",
+        "s28-080",
+        "s28-048"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · REGA",
+        "Rega de muda",
+        "QUANDO",
+        "Terra começando a secar",
+        "DE NOVO EM",
+        "Quando secar por cima",
+        "VOCÊ VAI PRECISAR",
+        "Borrifador",
+        " para a semente",
+        "Bacia rasa",
+        " para regar por baixo",
+        "Regador",
+        " de bico fino",
+        "Água morna",
+        " para a muda",
+        "Cuidado",
+        "Terra",
+        " úmida, nunca encharcada",
+        "Vasinho",
+        " em cima de tijolo",
+        "Na próxima: ir para fora",
+        "→",
+        "TG 025 HORTA DE SEMENTE",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "s28-047",
+        "s28-046",
+        "s28-098"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · IR PARA FORA",
+        "ATENÇÃO",
+        "Muda criada dentro de casa estranha o sol e o vento.",
+        "Ir direto para o canteiro é um susto para ela.",
+        "Segure sempre pela folha, nunca pelo caule.",
+        "FAÇA ASSIM",
+        "Uma semana saindo de dia e entrando à noite.",
+        "Raiz saindo pelo furo? Hora do vaso maior.",
+        "Na próxima: quatro de semente",
+        "→",
+        "TG 025 HORTA DE SEMENTE",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "s28-160",
+        "s28-189",
+        "s28-182",
+        "s28-204",
+        "s28-128"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro de semente",
+        "1",
+        "Beterraba",
+        "Uma semente, várias mudas.",
+        "2",
+        "Cenoura",
+        "Direto no lugar.",
+        "3",
+        "Abobrinha",
+        "Semente de lado.",
+        "4",
+        "Vagem anã",
+        "Vaso, sem tutor.",
+        "CHAVE",
+        "Leia o pacote",
+        "Semeie pouco e sempre",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 025 HORTA DE SEMENTE",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "sem-var-beterraba.jpg",
+          "alt": "Mudas de beterraba de nervura vermelha"
+        },
+        {
+          "src": "sem-var-cenoura.jpg",
+          "alt": "Cenouras pequenas recém-colhidas"
+        },
+        {
+          "src": "sem-var-abobrinha.jpg",
+          "alt": "Pé de abobrinha com flor e fruto"
+        },
+        {
+          "src": "sem-var-vagem.jpg",
+          "alt": "Vagem anã num vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "s28-134",
+        "s28-015",
+        "s28-122",
+        "s28-190",
+        "s28-050",
+        "s28-191"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "NÃO NASCEU",
+        "Terra fria ou semente vencida.",
+        "MUDA TOMBOU",
+        "Abafada. Deixe entrar ar.",
+        "CENOURA RACHADA",
+        "Terra pesada. Afofe.",
+        "50 ALFACES JUNTAS",
+        "Semeie pouco e sempre.",
+        "DICA DO ANDRÉ",
+        "Cenoura leva até 21 dias para nascer: tenha paciência.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 025 HORTA DE SEMENTE",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "s28-142",
+        "s28-138",
+        "s28-004"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "2",
+        "SEMANAS",
+        "e o microverde já está pronto para cortar com tesoura.",
+        "Use aquela sobra de meio pacote de semente.",
+        "E MAIS UMA",
+        "As duas folhinhas redondas que nascem primeiro são a reserva da semente.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 025 HORTA DE SEMENTE",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "s28-014",
+        "s28-034",
+        "s28-036",
+        "s28-038",
+        "s28-041",
+        "s28-016",
+        "s28-043",
+        "s28-047"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Leia o verso do pacote",
+        "Escolha substrato leve",
+        "Duas sementes por vasinho",
+        "Marque nome e data",
+        "Úmida, nunca encharcada",
+        "Gire a bandeja todo dia",
+        "Desbaste com tesoura",
+        "Uma semana para acostumar",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 025 HORTA DE SEMENTE",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua primeira semente nascer, me conta. E dá umas mudinhas para o vizinho. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "025",
+        "VOCÊ TEM",
+        "026",
+        "027",
+        "028",
+        "029",
+        "030",
+        "São 25 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 026 ABELHA E PASSARINHO",
+        "Comente ABELHA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 025 HORTA DE SEMENTE",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-A-1.jpg",
+          "alt": "Retrato do André na horta"
+        }
+      ]
+    }
+  ]
+}

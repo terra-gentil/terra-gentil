@@ -1,0 +1,70 @@
+{
+  "livro": "TG 028",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "arv-gesto-1",
+      "especie": "young tree",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands with a spade digging a square, wide and shallow planting hole in a backyard lawn; the small mascot figurine sits on an old tree stump nearby",
+      "mascote": true
+    },
+    {
+      "id": "arv-gesto-2",
+      "especie": "young tree",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "A broom handle laid across a planting hole to check that the top of a young tree's root ball is level with the ground, a man's hands holding the handle",
+      "mascote": false
+    },
+    {
+      "id": "arv-gesto-3",
+      "especie": "young tree",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands watering the soil slowly around a newly planted young tree tied to a wooden stake",
+      "mascote": false
+    },
+    {
+      "id": "arv-sintoma-1",
+      "especie": "young tree",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A small stunted young tree in a backyard with tall grass and weeds growing right up against its trunk",
+      "mascote": false
+    },
+    {
+      "id": "arv-var-limoeiro",
+      "especie": "Citrus limon",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A lemon tree in a large pot with white flowers and green and yellow lemons at the same time",
+      "mascote": false
+    },
+    {
+      "id": "arv-var-figueira",
+      "especie": "Ficus carica",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A small fig tree with ripe figs in a pot on a sunny patio; the small mascot figurine stands on a wooden crate next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "arv-var-oliveira",
+      "especie": "Olea europaea",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A young olive tree with silvery leaves in a terracotta pot in full sun",
+      "mascote": false
+    },
+    {
+      "id": "arv-var-louro",
+      "especie": "Laurus nobilis",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A bay laurel shrub pruned into a round shape in a large pot",
+      "mascote": false
+    }
+  ]
+}

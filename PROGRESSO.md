@@ -4,7 +4,8 @@
 - Texto extraido (pypdf instalado com pip --user) em `C:\Gitlab_hz\youtube-terragentil\inteligencia-carrossel\fonte\3-squire\inteiro.txt` (fora do git).
 - `PDP-de-Flores-e-Plantas-Ornamentais-OK.pdf`: plano economico do polo de flores do DF (2007), sem cuidado de planta. Descartado (texto em fonte\17-pdp-flores).
 - BLOQUEIO: as pastas `estudo/` e `qa/` do inteligencia-carrossel nao estao neste PC (README e exportador apontam para /Users/andrehz no Mac). NAO rodar `exportar_biblia.py` aqui: ele reescreve dados/biblia.json so com o que achar e apaga os 1.502 fatos. Fazer o estudo novo em `estudo/3-squire-04.md` (formato de 7 colunas, ids q3-200 em diante) e JUNTAR no biblia.json com um script de merge.
-- **Proximo:** estudar o diretorio do Squire por grupo (acima), QA, merge; depois escrever os livros agrupados.
+- Andre mandou tambem `Downloads\_The_Arum_Family_-_Deni_Brown.pdf` (Bown, Aroids, 2a ed., 476 p., texto bom, extraido em `fonte\18-aroids\inteiro.txt`). Paginas com cada planta: antúrio 69, filodendro 61, taioba/colocasia 61, alocasia 52, comigo-ninguem-pode 38, costela-de-adao 33, jiboia 27, copo-de-leite 26, caladio 24, lirio-da-paz 22, aglaonema 20, singonio 13, zamioculca 7. E a MELHOR fonte para as folhagens: rende uns 6 a 8 livros (antúrio, costela-de-adao, jiboia e filodendro, lirio-da-paz, comigo-ninguem-pode e aglaonema, caladio e alocasia, copo-de-leite, zamioculca junto com outra). Comigo-ninguem-pode: toxico, segue a regra de PET (UFG).
+- **Proximo:** estudar o Aroids primeiro (livro 18, ids w18-), depois o diretorio do Squire por grupo; QA, merge no biblia.json; escrever os livros.
 
 ## LEVA 2 CONTINUA: TG 019 A 024 ESCRITOS (31/10/2026, noite)
 Roteiros curtos novos em `ebooks\fabrica\curtos\tg019.mjs` a `tg024.mjs`, todos com 19 paginas, sem estouro, `validar.mjs` ok; filas do Flow em `gama-ebooks/fila-fotos-tg019.json` a `tg024.json` (acrescentados no `filas2.mjs`).

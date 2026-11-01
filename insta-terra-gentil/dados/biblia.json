@@ -36872,6 +36872,1958 @@
    "livro": "Barter, What's That Weed?",
    "pagina": "222",
    "fontePet": null
+  },
+  "s28-001": {
+   "texto": "A semente comprada está dormindo: com ar, umidade e calor, ela acorda e brota",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "16",
+   "fontePet": null
+  },
+  "s28-002": {
+   "texto": "Tem semente que precisa de luz para germinar e tem semente que não precisa: o pacote avisa",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "16",
+   "fontePet": null
+  },
+  "s28-003": {
+   "texto": "Na germinação sai primeiro a raizinha, que desce para a terra, e só depois o broto",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "16",
+   "fontePet": null
+  },
+  "s28-004": {
+   "texto": "Mito: as duas folhinhas redondas que nascem primeiro são as folhas da planta. Elas são a reserva da semente; as folhas verdadeiras vêm depois",
+   "esp": "muda",
+   "serie": "Mito ou verdade",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "16",
+   "fontePet": null
+  },
+  "s28-005": {
+   "texto": "Quando abrem as primeiras folhas, a muda começa a fazer fotossíntese e para de depender da reserva da semente",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "17",
+   "fontePet": null
+  },
+  "s28-006": {
+   "texto": "Muda comprada pode vir pulverizada com inseticida mesmo com etiqueta de \"amiga das abelhas\"",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "18",
+   "fontePet": null
+  },
+  "s28-007": {
+   "texto": "Estudos acharam resíduo de veneno em mudas de viveiro que, já no jardim, ainda era alto o bastante para fazer mal a abelhas e outros insetos",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "18",
+   "fontePet": null
+  },
+  "s28-008": {
+   "texto": "Semente ou muda pronta? A semente oferece muito mais variedade do que as mudas à venda no viveiro",
+   "esp": "muda",
+   "serie": "X ou Y?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "19",
+   "fontePet": null
+  },
+  "s28-009": {
+   "texto": "Erro comum de quem começa: comprar semente demais. Um pacote de cada variedade dá para o ano todo",
+   "esp": "muda",
+   "serie": "3 erros",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "20",
+   "fontePet": null
+  },
+  "s28-010": {
+   "texto": "Sobrou semente? Dá para guardar, mas a semente fresca é a que germina melhor",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "20",
+   "fontePet": null
+  },
+  "s28-011": {
+   "texto": "Semente peletizada (com capinha, tipo comprimido): regue bem depois de semear para a capa dissolver",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "21",
+   "fontePet": null
+  },
+  "s28-012": {
+   "texto": "Existe fita de semente: você estica no sulco, cobre com terra e as sementes já ficam no espaço certo",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "21",
+   "fontePet": null
+  },
+  "s28-013": {
+   "texto": "\"F1\" no pacote quer dizer que a semente é híbrida",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "22",
+   "fontePet": null
+  },
+  "s28-014": {
+   "texto": "Leia o pacote: semear dentro ou fora, profundidade, tempo para germinar, altura da planta e espaço entre elas",
+   "esp": "muda",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "23",
+   "fontePet": null
+  },
+  "s28-015": {
+   "texto": "Confira a validade do pacote antes de comprar: semente vencida germina menos",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "23",
+   "fontePet": null
+  },
+  "s28-016": {
+   "texto": "Gire a bandeja de mudas todo dia para elas não crescerem tortas atrás da luz",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "24",
+   "fontePet": null
+  },
+  "s28-017": {
+   "texto": "Algumas sementes vão direto no lugar definitivo porque a muda não gosta de ser mudada depois de nascer",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "24",
+   "fontePet": null
+  },
+  "s28-018": {
+   "texto": "Semeie uns 20% a mais do que o número de plantas que você quer: sempre tem semente que falha",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "25",
+   "fontePet": null
+  },
+  "s28-019": {
+   "texto": "Erro comum: deixar a bandeja num lugar que esquenta e esfria muito. Semente e muda recém-nascida gostam de temperatura estável",
+   "esp": "muda",
+   "serie": "3 erros",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "25",
+   "fontePet": null
+  },
+  "s28-020": {
+   "texto": "Estufa improvisada: envolva o vaso ou a bandeja num saco plástico transparente, sem apertar",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "25",
+   "fontePet": null
+  },
+  "s28-021": {
+   "texto": "Garrafa PET transparente cortada, sem tampa, vira uma minicúpula para a semente plantada na terra",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "27",
+   "fontePet": null
+  },
+  "s28-022": {
+   "texto": "A cúpula de garrafa PET de noite protege a muda do frio e da lesma",
+   "esp": "lesma",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "27",
+   "fontePet": null
+  },
+  "s28-023": {
+   "texto": "Estufinha caseira: pegue duas caixinhas transparentes de fruta, encaixe uma de boca para baixo sobre a outra e prenda um lado com fita, abrindo como concha",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "28",
+   "fontePet": null
+  },
+  "s28-024": {
+   "texto": "Dentro da estufinha, use rolinhos de papel higiênico ou caixa de ovo: a muda vai para a terra com o papelão, que se desmancha sozinho",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "29",
+   "fontePet": null
+  },
+  "s28-025": {
+   "texto": "Erro comum: deixar a estufinha fechada no dia de sol. Abra a tampa para o calor não cozinhar as mudas e feche de novo à tardinha",
+   "esp": "muda",
+   "serie": "3 erros",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "29",
+   "fontePet": null
+  },
+  "s28-026": {
+   "texto": "Para começar a semente, use vasinho de uns 9 cm ou bandeja de células",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "30",
+   "fontePet": null
+  },
+  "s28-027": {
+   "texto": "Bandeja inteira ou de células? Na inteira as mudinhas embolam e fica difícil separar na hora de trocar de vaso",
+   "esp": "muda",
+   "serie": "X ou Y?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "30",
+   "fontePet": null
+  },
+  "s28-028": {
+   "texto": "Vasinho de barro serve para semear, mas seca rápido: fique de olho na umidade",
+   "esp": "muda",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "30",
+   "fontePet": null
+  },
+  "s28-029": {
+   "texto": "A pastilha de fibra de coco vem seca e achatada: uma hora de molho e ela vira um cilindro pronto para semear",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "30",
+   "fontePet": null
+  },
+  "s28-030": {
+   "texto": "Qualquer pote com furo no fundo serve para semear: copo de café, pote de iogurte",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "31",
+   "fontePet": null
+  },
+  "s28-031": {
+   "texto": "Feijão e ervilha-de-cheiro não gostam de ter a raiz mexida: semeie em vaso que vai inteiro para a terra",
+   "esp": "feijão",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "32",
+   "fontePet": null
+  },
+  "s28-032": {
+   "texto": "Vaso de jornal: corte uma tira de 30 por 20 cm, enrole numa lata de refrigerante, dobre o fundo em quatro dobras e tire a lata",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "33",
+   "fontePet": null
+  },
+  "s28-033": {
+   "texto": "Mito: semente precisa de terra adubada. Ela tem reserva própria e só precisa de adubo depois de nascer as folhas",
+   "esp": "muda",
+   "serie": "Mito ou verdade",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "34",
+   "fontePet": null
+  },
+  "s28-034": {
+   "texto": "Substrato de semear tem que ser leve e sem torrão: a semente precisa de ar para começar a crescer",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "34",
+   "fontePet": null
+  },
+  "s28-035": {
+   "texto": "Semente que pede pouca cobertura: polvilhe vermiculita por cima em vez de terra",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "34",
+   "fontePet": null
+  },
+  "s28-036": {
+   "texto": "Semente grande vai de uma a três por vasinho; semente miúda, espalhada fina e por igual",
+   "esp": "muda",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "34",
+   "fontePet": null
+  },
+  "s28-037": {
+   "texto": "Depois de semear, regue de leve, de preferência com borrifador, e deixe num lugar claro e quente",
+   "esp": "regar",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "34",
+   "fontePet": null
+  },
+  "s28-038": {
+   "texto": "Marque nome e data em cada vaso com caneta que não sai na água. Você acha que vai lembrar, mas não vai",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "35",
+   "fontePet": null
+  },
+  "s28-039": {
+   "texto": "Tem semente que só acorda depois de passar um tempo no frio, como na natureza: isso se chama estratificação",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "35",
+   "fontePet": null
+  },
+  "s28-040": {
+   "texto": "A maioria das sementes germina em até duas semanas; algumas brotam em cinco ou seis dias",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "36",
+   "fontePet": null
+  },
+  "s28-041": {
+   "texto": "Muda recém-nascida: regue quando a terra começar a secar. Úmida, nunca encharcada",
+   "esp": "regar",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "36",
+   "fontePet": null
+  },
+  "s28-042": {
+   "texto": "Para regar muda pequena, use água morna e regador de bico fino ou borrifador",
+   "esp": "regar",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "36",
+   "fontePet": null
+  },
+  "s28-043": {
+   "texto": "Erro comum no desbaste: arrancar as mudinhas sobrando. Corte o caule com tesoura para não mexer na raiz da que fica",
+   "esp": "muda",
+   "serie": "3 erros",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "36",
+   "fontePet": null
+  },
+  "s28-044": {
+   "texto": "As mudinhas de cenoura e beterraba que saem no desbaste são gostosas: é o petisco de quem planta",
+   "esp": "cenoura",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "36",
+   "fontePet": null
+  },
+  "s28-045": {
+   "texto": "Muda que vai ficar mais tempo no vasinho: adubo líquido fraco, um terço da dose normal, uma vez por semana",
+   "esp": "adubar",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "37",
+   "fontePet": null
+  },
+  "s28-046": {
+   "texto": "Para trocar a muda de vaso, segure pela folha, nunca pelo caule",
+   "esp": "trocar-vaso",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "37",
+   "fontePet": null
+  },
+  "s28-047": {
+   "texto": "Muda criada dentro de casa: antes de ir para fora, uma semana saindo de dia e entrando à noite para acostumar",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "37",
+   "fontePet": null
+  },
+  "s28-048": {
+   "texto": "Lesma adora muda nova: coloque os vasinhos em cima de tijolos",
+   "esp": "lesma",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "37",
+   "fontePet": null
+  },
+  "s28-049": {
+   "texto": "Anote o que plantou, quando plantou e quando floriu ou colheu: é o maior favor que você faz para você mesmo",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "38",
+   "fontePet": null
+  },
+  "s28-050": {
+   "texto": "Erro comum: semear alface toda de uma vez e ter 50 pés prontos na mesma semana. Alface é pouco e sempre",
+   "esp": "alface",
+   "serie": "3 erros",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "38",
+   "fontePet": null
+  },
+  "s28-051": {
+   "texto": "Cosmos e ervilha-de-cheiro ficam floridos por semanas seguidas",
+   "esp": "cosmos",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "38",
+   "fontePet": null
+  },
+  "s28-052": {
+   "texto": "Anual é a planta que nasce, cresce, floresce, dá semente e morre no mesmo ano; bienal faz isso em dois anos",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "44",
+   "fontePet": null
+  },
+  "s28-053": {
+   "texto": "Planta bienal passa o primeiro ano só fazendo folha; floresce no segundo ano e depois morre",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "44",
+   "fontePet": null
+  },
+  "s28-054": {
+   "texto": "Canteiro bonito: plantas em número ímpar (3, 5), curvas em vez de fileiras, espaço para o tamanho adulto e uma ou duas plantas grandes no meio das pequenas",
+   "esp": "outra",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "43",
+   "fontePet": null
+  },
+  "s28-055": {
+   "texto": "Em vaso, misture uma planta que cai pela borda: fica com cara mais natural",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "43",
+   "fontePet": null
+  },
+  "s28-056": {
+   "texto": "Erro comum com flor em vaso: esquecer que vaso precisa de rega frequente",
+   "esp": "regar",
+   "serie": "3 erros",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "43",
+   "fontePet": null
+  },
+  "s28-057": {
+   "texto": "Mito: guardar semente de planta híbrida (F1) dá a mesma planta. A semente de híbrido não sai igual à mãe e às vezes nem germina",
+   "esp": "muda",
+   "serie": "Mito ou verdade",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "45",
+   "fontePet": null
+  },
+  "s28-058": {
+   "texto": "Híbrido não é mais difícil de plantar, mas a semente é mais cara pelo trabalho de cruzamento",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "45",
+   "fontePet": null
+  },
+  "s28-059": {
+   "texto": "Um canteiro de 2 m², bem planejado, dá flor para cortar por vários meses",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "46",
+   "fontePet": null
+  },
+  "s28-060": {
+   "texto": "Canteiro de flor de corte: só 3 ou 4 variedades, em fileiras apertadas e terra bem adubada. Quanto mais planta, mais flor para cortar",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "46",
+   "fontePet": null
+  },
+  "s28-061": {
+   "texto": "No canteiro de corte, deixe tudo ao alcance da mão pela borda, sem pisar na terra",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "46",
+   "fontePet": null
+  },
+  "s28-062": {
+   "texto": "Para ter flor de corte, prefira girassol pequeno de vários galhos: ele dá flor em muitas hastes por meses",
+   "esp": "girassol",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "47",
+   "fontePet": null
+  },
+  "s28-063": {
+   "texto": "No auge, a ervilha-de-cheiro solta flor quase mais rápido do que dá para colher",
+   "esp": "ervilha-de-cheiro",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "47",
+   "fontePet": null
+  },
+  "s28-064": {
+   "texto": "Tutor de bambu em tenda: 5 a 7 varas grossas cravadas em círculo, amarradas no alto, e galhos finos trançados em volta na base e no meio",
+   "esp": "outra",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "48",
+   "fontePet": null
+  },
+  "s28-065": {
+   "texto": "Tutor de trepadeira: use pelo menos cinco varas; para tutor mais alto, sete",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "48",
+   "fontePet": null
+  },
+  "s28-066": {
+   "texto": "Montou a tenda de varas? Plante uma muda de trepadeira ao pé de cada vara",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "49",
+   "fontePet": null
+  },
+  "s28-067": {
+   "texto": "Até um vaso de janela com as flores certas vira posto de comida e abrigo para os insetos",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "50",
+   "fontePet": null
+  },
+  "s28-068": {
+   "texto": "Cantinho dos insetos: 4 ou 5 flores amigas, plantadas bem juntas, e depois deixe quieto. Só tire as flores murchas para vir flor nova",
+   "esp": "jardim-vivo",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "50",
+   "fontePet": null
+  },
+  "s28-069": {
+   "texto": "Ajudar os insetos ajuda quem come inseto: sapo e passarinho também ganham",
+   "esp": "jardim-vivo",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "50",
+   "fontePet": null
+  },
+  "s28-070": {
+   "texto": "A borragem é chamada de \"pão de abelha\", mas atrai muito mais bicho que só abelha",
+   "esp": "borragem",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "51",
+   "fontePet": null
+  },
+  "s28-071": {
+   "texto": "O álisso tapa buraquinho no canteiro e é ímã para todo tipo de inseto",
+   "esp": "álisso",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "51",
+   "fontePet": null
+  },
+  "s28-072": {
+   "texto": "Jardim com criança: comece cedo. Quem tem lembrança boa do jardim volta a plantar quando cresce",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "52",
+   "fontePet": null
+  },
+  "s28-073": {
+   "texto": "Flor que a criança planta e come: amor-perfeito, violeta, calêndula e capuchinha. Fáceis de semente e florescem muito",
+   "esp": "capuchinha",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "52",
+   "fontePet": null
+  },
+  "s28-074": {
+   "texto": "Brincadeira clássica: quem cria o girassol mais alto? Algumas variedades passam de 4 metros, com flor de 45 cm",
+   "esp": "girassol",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "53",
+   "fontePet": null
+  },
+  "s28-075": {
+   "texto": "Girassol da criança vira régua: marque a altura dela no caule com caneta permanente",
+   "esp": "girassol",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "53",
+   "fontePet": null
+  },
+  "s28-076": {
+   "texto": "Girassol secou? Pendure a cabeça inteira no jardim: vira comedouro natural para passarinho",
+   "esp": "passarinho",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "53",
+   "fontePet": null
+  },
+  "s28-077": {
+   "texto": "Antes de regar o vaso, cave uns 5 cm com o dedo: só regue se estiver seco lá embaixo",
+   "esp": "regar",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "55",
+   "fontePet": null
+  },
+  "s28-078": {
+   "texto": "Planta alta no vaso: deixe em lugar com luz de todos os lados, senão as hastes entortam",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "55",
+   "fontePet": null
+  },
+  "s28-079": {
+   "texto": "A malva-rosa adora terra seca e pedregosa e passa de 3 metros de altura",
+   "esp": "malva-rosa",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "56",
+   "fontePet": null
+  },
+  "s28-080": {
+   "texto": "Rega por baixo: coloque a bandeja de semente numa bacia rasa com água até a superfície ficar úmida. Não desloca a semente miúda",
+   "esp": "regar",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "56",
+   "fontePet": null
+  },
+  "s28-081": {
+   "texto": "Malva-rosa vai melhor no chão do que em vaso, no fundo do canteiro e com sol",
+   "esp": "malva-rosa",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "56",
+   "fontePet": null
+  },
+  "s28-082": {
+   "texto": "Semente que precisa de frio para acordar: duas semanas da bandeja na geladeira ajudam a germinar",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "58",
+   "fontePet": null
+  },
+  "s28-083": {
+   "texto": "Bandeja de semente fora de casa: cubra com tela de galinheiro para gato e passarinho não ciscarem",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "58",
+   "fontePet": null
+  },
+  "s28-084": {
+   "texto": "A boca-de-leão abre e fecha quando você aperta a flor, como um bonequinho de dragão. Criança adora",
+   "esp": "boca-de-leão",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "60",
+   "fontePet": null
+  },
+  "s28-085": {
+   "texto": "Boca-de-leão precisa de bastante calor para germinar; a semente é miúda e vai só com uma camada finíssima de cobertura",
+   "esp": "boca-de-leão",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "60",
+   "fontePet": null
+  },
+  "s28-086": {
+   "texto": "Para vaso, corte a boca-de-leão quando só as primeiras flores de baixo abriram",
+   "esp": "boca-de-leão",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "60",
+   "fontePet": null
+  },
+  "s28-087": {
+   "texto": "Tire a espiga da boca-de-leão assim que a última flor murchar: ela continua florindo",
+   "esp": "boca-de-leão",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "60",
+   "fontePet": null
+  },
+  "s28-088": {
+   "texto": "Centáurea gosta de terra pobre e seca: não adube o canteiro nem o vaso",
+   "esp": "centáurea",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "62",
+   "fontePet": null
+  },
+  "s28-089": {
+   "texto": "Corte a centáurea logo acima de um nó de folha: o resto da haste solta mais flor",
+   "esp": "centáurea",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "62",
+   "fontePet": null
+  },
+  "s28-090": {
+   "texto": "A centáurea é cheia de pólen e néctar: festa para abelha e borboleta",
+   "esp": "abelha",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "62",
+   "fontePet": null
+  },
+  "s28-091": {
+   "texto": "O confrei serve para fazer adubo líquido caseiro",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "65",
+   "fontePet": null
+  },
+  "s28-092": {
+   "texto": "Semente achatada de papel (como a da cobeia): uma hora de molho antes de semear ajuda a grudar no substrato e germinar mais rápido",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "66",
+   "fontePet": null
+  },
+  "s28-093": {
+   "texto": "Semente achatada: enterre de lado, não deitada",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "66",
+   "fontePet": null
+  },
+  "s28-094": {
+   "texto": "A cobeia (sino-roxo) é uma trepadeira perene do México que cobre cerca e arco depressa",
+   "esp": "cobeia",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "66",
+   "fontePet": null
+  },
+  "s28-095": {
+   "texto": "A ipomeia azul abre a flor com o sol da manhã",
+   "esp": "ipomeia",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "67",
+   "fontePet": null
+  },
+  "s28-096": {
+   "texto": "Com calor, semente de cosmos germina em uma semana",
+   "esp": "cosmos",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "68",
+   "fontePet": null
+  },
+  "s28-097": {
+   "texto": "Cosmos é ótimo para semear com criança: semente grande, fácil de pegar",
+   "esp": "cosmos",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "68",
+   "fontePet": null
+  },
+  "s28-098": {
+   "texto": "Raiz saindo pelo furo de baixo do vasinho é sinal de que a muda precisa de vaso maior",
+   "esp": "trocar-vaso",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "68",
+   "fontePet": null
+  },
+  "s28-100": {
+   "texto": "A dedaleira precisa de luz para germinar: não cubra a semente",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "70",
+   "fontePet": null
+  },
+  "s28-101": {
+   "texto": "Cortou a primeira espiga da dedaleira acima das folhas? Saem espigas menores dos lados e ela floresce de novo",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "70",
+   "fontePet": null
+  },
+  "s28-102": {
+   "texto": "Erro comum: semear girassol direto na terra sem proteção. Lesma adora a muda; crie em vaso até uns 30 cm",
+   "esp": "girassol",
+   "serie": "3 erros",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "74",
+   "fontePet": null
+  },
+  "s28-103": {
+   "texto": "Semear girassol no vaso: furo de 2 cm com o dedo, duas sementes, fecha. Germina em duas a três semanas",
+   "esp": "girassol",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "74",
+   "fontePet": null
+  },
+  "s28-104": {
+   "texto": "Deixe umas flores de girassol secarem no pé: os passarinhos vêm comer as sementes cheias de óleo",
+   "esp": "passarinho",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "74",
+   "fontePet": null
+  },
+  "s28-105": {
+   "texto": "Girassol alto: crave uma estaca do lado na hora de plantar",
+   "esp": "girassol",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "74",
+   "fontePet": null
+  },
+  "s28-106": {
+   "texto": "Rolinho de papel higiênico é o vaso perfeito para ervilha-de-cheiro: cabe a raiz comprida e vai inteiro para a terra",
+   "esp": "ervilha-de-cheiro",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "76",
+   "fontePet": null
+  },
+  "s28-107": {
+   "texto": "Erro comum: deixar a muda de ervilha-de-cheiro no quente. Ela espicha rápido demais e passa do vaso antes da hora",
+   "esp": "ervilha-de-cheiro",
+   "serie": "3 erros",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "76",
+   "fontePet": null
+  },
+  "s28-108": {
+   "texto": "Muda de ervilha-de-cheiro espichando: espete um palito de comida japonesa no vaso para ela se agarrar",
+   "esp": "ervilha-de-cheiro",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "76",
+   "fontePet": null
+  },
+  "s28-109": {
+   "texto": "A ervilha-de-cheiro para de florir assim que forma semente: colha as flores sempre e tire as vagens",
+   "esp": "ervilha-de-cheiro",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "76",
+   "fontePet": null
+  },
+  "s28-110": {
+   "texto": "Existe ervilha-de-cheiro de variedade com mais de 300 anos, a Cupani",
+   "esp": "ervilha-de-cheiro",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "77",
+   "fontePet": null
+  },
+  "s28-111": {
+   "texto": "A flor-de-fumo solta perfume ao anoitecer",
+   "esp": "flor-de-fumo",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "78",
+   "fontePet": null
+  },
+  "s28-112": {
+   "texto": "Semente miúda de flor-de-fumo: não cubra com terra, ela precisa de luz",
+   "esp": "flor-de-fumo",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "78",
+   "fontePet": null
+  },
+  "s28-113": {
+   "texto": "Saco plástico sobre a bandeja: não deixe encostar na terra. Levante com dois palitinhos",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "78",
+   "fontePet": null
+  },
+  "s28-114": {
+   "texto": "A flor-de-fumo branca, perfumada à noite, atrai mariposa e morcego",
+   "esp": "mariposa",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "78",
+   "fontePet": null
+  },
+  "s28-115": {
+   "texto": "Nigela (dama-entre-verdes): semeie de novo a cada duas semanas para ter flor por mais tempo",
+   "esp": "nigela",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "80",
+   "fontePet": null
+  },
+  "s28-116": {
+   "texto": "Depois da flor, a nigela forma uma cápsula de semente bonita que dá para usar em arranjo",
+   "esp": "nigela",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "80",
+   "fontePet": null
+  },
+  "s28-117": {
+   "texto": "Na capuchinha come-se a folha, a flor e a semente verde: gosto apimentado na salada",
+   "esp": "capuchinha",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "82",
+   "fontePet": null
+  },
+  "s28-118": {
+   "texto": "Mito: capuchinha precisa de adubo. Ela vai bem em terra pobre, e adubo só atrapalha",
+   "esp": "capuchinha",
+   "serie": "Mito ou verdade",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "82",
+   "fontePet": null
+  },
+  "s28-119": {
+   "texto": "Semear capuchinha: furo de 1 a 2 cm, duas sementes; se as duas nascerem, tire a menor. Germina em até duas semanas",
+   "esp": "capuchinha",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "82",
+   "fontePet": null
+  },
+  "s28-120": {
+   "texto": "Zínia não gosta que mexam na raiz: semeie direto no lugar ou em vaso de papel",
+   "esp": "zínia",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "84",
+   "fontePet": null
+  },
+  "s28-121": {
+   "texto": "A semente de zínia germina em sete a dez dias",
+   "esp": "zínia",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "84",
+   "fontePet": null
+  },
+  "s28-122": {
+   "texto": "Muda abafada tomba. Tire o saco ou a tampa da estufinha um pouco a cada dois dias para entrar ar",
+   "esp": "fungo",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "84",
+   "fontePet": null
+  },
+  "s28-123": {
+   "texto": "Zínia: regue a raiz, não as folhas. Com tempo frio e chuvoso ela pega fungo",
+   "esp": "zínia",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "84",
+   "fontePet": null
+  },
+  "s28-124": {
+   "texto": "Zínia dura sete dias ou mais no vaso de flor",
+   "esp": "zínia",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "84",
+   "fontePet": null
+  },
+  "s28-125": {
+   "texto": "Horta de quintal: a comida viaja só os metros entre o canteiro e a cozinha, sem resíduo de veneno",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "87",
+   "fontePet": null
+  },
+  "s28-126": {
+   "texto": "Canteiro ou vaso? Guarde o chão para milho, feijão e ervilha de trepar e abóbora grande; beterraba, tomate, acelga, abobrinha e cenoura pequena vão bem em vaso grande",
+   "esp": "horta",
+   "serie": "X ou Y?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "88",
+   "fontePet": null
+  },
+  "s28-127": {
+   "texto": "No pacote, procure variedades \"anã\", \"baby\" ou \"mini\": foram feitas para vaso e costumam ficar prontas mais rápido",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "88",
+   "fontePet": null
+  },
+  "s28-128": {
+   "texto": "Alface, espinafre, vagem e cenoura: semeie pouco a cada duas ou três semanas para colher sempre, sem tudo amadurecer junto",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "89",
+   "fontePet": null
+  },
+  "s28-129": {
+   "texto": "Semear em lotes ou de uma vez? Tomate, pimenta, pimentão e berinjela são lentos: semeie uma vez só, cedo",
+   "esp": "horta",
+   "serie": "X ou Y?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "89",
+   "fontePet": null
+  },
+  "s28-130": {
+   "texto": "Planeje com o pacote na mão: data de semear, dias para germinar e dias até colher. Vira sua lista de tarefas do mês",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "90",
+   "fontePet": null
+  },
+  "s28-131": {
+   "texto": "Cada quintal é único: horas de sol, tipo de terra, para onde o canteiro vira e o vento mudam o resultado",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "90",
+   "fontePet": null
+  },
+  "s28-132": {
+   "texto": "Anote também o que deu errado: praga, adubo, proteção. É isso que evita repetir o erro no ano seguinte",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "91",
+   "fontePet": null
+  },
+  "s28-133": {
+   "texto": "Primeira vez? Se o pacote deixa escolher entre semear dentro de casa ou direto na terra, escolha dentro: você controla a germinação",
+   "esp": "horta",
+   "serie": "X ou Y?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "92",
+   "fontePet": null
+  },
+  "s28-134": {
+   "texto": "Erro comum: semear na terra antes da data do pacote para ganhar tempo. Com terra fria a semente não germina",
+   "esp": "horta",
+   "serie": "3 erros",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "92",
+   "fontePet": null
+  },
+  "s28-135": {
+   "texto": "Preparar o canteiro: quebre os torrões com garfo, tire pedra e mato, misture composto curtido e passe o rastelo várias vezes nos dois sentidos",
+   "esp": "solo",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "93",
+   "fontePet": null
+  },
+  "s28-136": {
+   "texto": "Ao passar o rastelo, ande de costas para não pisar na terra que você acabou de afofar",
+   "esp": "solo",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "93",
+   "fontePet": null
+  },
+  "s28-137": {
+   "texto": "Microverde não é uma planta: é o jeito de cultivar. Espinafre, alface, rúcula, rabanete, erva-doce e coentro viram microverde",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "94",
+   "fontePet": null
+  },
+  "s28-138": {
+   "texto": "Sobrou meio pacote de semente? Use para fazer microverde",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "94",
+   "fontePet": null
+  },
+  "s28-139": {
+   "texto": "Microverde de beterraba tem folha de nervura vermelha; espere uns dias a mais e a raizinha já tem gosto de beterraba",
+   "esp": "beterraba",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "95",
+   "fontePet": null
+  },
+  "s28-140": {
+   "texto": "Microverde: bandeja com terra, dois ou três sulcos feitos com o dedo, semente bem densa, cobre de leve, rega e deixa em lugar claro",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "95",
+   "fontePet": null
+  },
+  "s28-141": {
+   "texto": "Cada tipo de microverde em sua bandeja: eles não germinam no mesmo ritmo",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "95",
+   "fontePet": null
+  },
+  "s28-142": {
+   "texto": "Microverde germina em cinco a sete dias e fica pronto em duas semanas; corte com tesoura quando tiver 5 a 7 cm",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "95",
+   "fontePet": null
+  },
+  "s28-143": {
+   "texto": "Na cebolinha se come o botão, a flor azul e a folha. E as abelhas gostam dela",
+   "esp": "cebolinha",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "96",
+   "fontePet": null
+  },
+  "s28-144": {
+   "texto": "Endro (dill): semeie direto no lugar. As flores amarelas em guarda-chuva atraem polinizador",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "96",
+   "fontePet": null
+  },
+  "s28-145": {
+   "texto": "Coentro tem raiz comprida: semeie direto num vaso fundo",
+   "esp": "coentro",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "97",
+   "fontePet": null
+  },
+  "s28-146": {
+   "texto": "Erro comum: coentro no sol forte. Ele pendoa (sobe para semente); na meia-sombra a folha encorpa",
+   "esp": "coentro",
+   "serie": "3 erros",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "97",
+   "fontePet": null
+  },
+  "s28-147": {
+   "texto": "A azedinha é erva e folha de salada ao mesmo tempo, perene, com gosto de limão",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "97",
+   "fontePet": null
+  },
+  "s28-148": {
+   "texto": "Manjericão: belisque a ponta para encher e colha sempre as folhas de cima primeiro",
+   "esp": "manjericão",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "97",
+   "fontePet": null
+  },
+  "s28-149": {
+   "texto": "O manjericão roxo é mais perfumado que o verde, e o tailandês tem gosto mais picante",
+   "esp": "manjericão",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "97",
+   "fontePet": null
+  },
+  "s28-150": {
+   "texto": "Criança costuma comer o que ajudou a plantar",
+   "esp": "horta",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "98",
+   "fontePet": null
+  },
+  "s28-151": {
+   "texto": "Para criança pequena, escolha o que se come direto do pé, como bala: tomate-cereja e ervilha-torta. Rabanete ela mesma colhe",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "98",
+   "fontePet": null
+  },
+  "s28-152": {
+   "texto": "Horta da receita: escolha um prato com a criança (molho de tomate, salsa de milho) e plantem juntos os ingredientes para cozinhar depois",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "98",
+   "fontePet": null
+  },
+  "s28-153": {
+   "texto": "Abóbora: sol, terra bem adubada, um montinho de terra com a muda no meio e rega em volta do monte, não em cima da planta",
+   "esp": "abóbora",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "99",
+   "fontePet": null
+  },
+  "s28-154": {
+   "texto": "Abóbora crescendo: apoie numa telha ou pedra chata para não encostar na terra úmida e apodrecer",
+   "esp": "abóbora",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "99",
+   "fontePet": null
+  },
+  "s28-155": {
+   "texto": "Semente achatada de abóbora vai de lado no vasinho, uma por vaso",
+   "esp": "abóbora",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "99",
+   "fontePet": null
+  },
+  "s28-156": {
+   "texto": "Horta num vaso só: a planta alta atrás com tutor (ervilha ou pimenta), a mais encorpada no meio (couve ou acelga) e as baixas na frente caindo pela borda (capuchinha, cebolinha)",
+   "esp": "horta",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "101",
+   "fontePet": null
+  },
+  "s28-157": {
+   "texto": "Horta em vaso pede vaso grande e fundo: banheira velha ou balde grande servem, é só furar o fundo",
+   "esp": "horta",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "101",
+   "fontePet": null
+  },
+  "s28-158": {
+   "texto": "Horta no vaso: adubo líquido equilibrado a cada duas semanas",
+   "esp": "adubar",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "101",
+   "fontePet": null
+  },
+  "s28-159": {
+   "texto": "A folha da beterraba é rica em ferro: vai crua na salada ou no vapor",
+   "esp": "beterraba",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "102",
+   "fontePet": null
+  },
+  "s28-160": {
+   "texto": "A \"semente\" de beterraba é um cachinho: de cada um nascem várias mudas",
+   "esp": "beterraba",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "102",
+   "fontePet": null
+  },
+  "s28-161": {
+   "texto": "Quer beterraba grande? Deixe só uma muda por cachinho e corte as outras com tesoura. Quer várias pequenas? Deixe todas",
+   "esp": "beterraba",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "102",
+   "fontePet": null
+  },
+  "s28-162": {
+   "texto": "Beterraba fica pronta de seis a doze semanas depois de nascer: arranque uma para testar e, se estiver pequena, espere duas semanas",
+   "esp": "beterraba",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "102",
+   "fontePet": null
+  },
+  "s28-163": {
+   "texto": "Beterraba dourada ou listrada é cara no mercado, mas fácil de plantar de semente",
+   "esp": "beterraba",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "102",
+   "fontePet": null
+  },
+  "s28-164": {
+   "texto": "A acelga quase não pendoa como o espinafre e dá folha por muito tempo",
+   "esp": "acelga",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "104",
+   "fontePet": null
+  },
+  "s28-165": {
+   "texto": "Acelga: colha folha por folha cortando o talo na base. Folha nova logo toma o lugar",
+   "esp": "acelga",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "104",
+   "fontePet": null
+  },
+  "s28-166": {
+   "texto": "Acelga fica pronta para colher umas dez semanas depois de nascer",
+   "esp": "acelga",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "104",
+   "fontePet": null
+  },
+  "s28-167": {
+   "texto": "Brócolis: corte a cabeça do meio e a planta continua soltando brotos e cabecinhas novas",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "106",
+   "fontePet": null
+  },
+  "s28-168": {
+   "texto": "Muda de brócolis e couve: cubra com tela para lagarta e passarinho não comerem",
+   "esp": "praga",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "106",
+   "fontePet": null
+  },
+  "s28-169": {
+   "texto": "Brócolis-ramoso: colha antes de as florzinhas abrirem",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "106",
+   "fontePet": null
+  },
+  "s28-170": {
+   "texto": "Acelga-chinesa (pak choi) pendoa no sol forte: prefere meia-sombra",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "108",
+   "fontePet": null
+  },
+  "s28-171": {
+   "texto": "Acelga-chinesa: tire só as folhas de fora e o miolo continua crescendo",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "108",
+   "fontePet": null
+  },
+  "s28-172": {
+   "texto": "Semente de pimenta germina em uns dez dias no quentinho",
+   "esp": "pimenta",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "110",
+   "fontePet": null
+  },
+  "s28-173": {
+   "texto": "Pimenteira com uns 30 cm: belisque a ponta do caule central para ela encher de galhos",
+   "esp": "pimenta",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "110",
+   "fontePet": null
+  },
+  "s28-174": {
+   "texto": "Pimenteira começou a florir: adubo líquido rico em potássio uma vez por semana",
+   "esp": "pimenta",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "110",
+   "fontePet": null
+  },
+  "s28-175": {
+   "texto": "Quanto mais a pimenta fica no pé, mais escura e mais ardida ela fica. Quer menos ardida? Colha nova",
+   "esp": "pimenta",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "110",
+   "fontePet": null
+  },
+  "s28-176": {
+   "texto": "Pimenta em vaso: dá para mudar de lugar atrás do sol",
+   "esp": "pimenta",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "110",
+   "fontePet": null
+  },
+  "s28-177": {
+   "texto": "Pepino com três pares de folhas: belisque a ponta",
+   "esp": "pepino",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "112",
+   "fontePet": null
+  },
+  "s28-178": {
+   "texto": "Pepino trepa: precisa de tutor ou rede, vaso de pelo menos 30 cm e rega na base, nunca por cima",
+   "esp": "pepino",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "112",
+   "fontePet": null
+  },
+  "s28-179": {
+   "texto": "O pepino nasce atrás da flor fêmea",
+   "esp": "pepino",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "112",
+   "fontePet": null
+  },
+  "s28-180": {
+   "texto": "Pepino tem mais sabor quando não está grande demais: colha com uns 15 cm",
+   "esp": "pepino",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "112",
+   "fontePet": null
+  },
+  "s28-181": {
+   "texto": "Abobrinha produz muito: um pé por pessoa já dá abobrinha a temporada toda",
+   "esp": "abobrinha",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "114",
+   "fontePet": null
+  },
+  "s28-182": {
+   "texto": "Semente de abobrinha vai deitada de lado, não em pé, com 1 cm de terra por cima",
+   "esp": "abobrinha",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "114",
+   "fontePet": null
+  },
+  "s28-183": {
+   "texto": "Erro comum: molhar as folhas da abobrinha. Regue em volta da base: folha molhada pega oídio",
+   "esp": "abobrinha",
+   "serie": "3 erros",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "114",
+   "fontePet": null
+  },
+  "s28-184": {
+   "texto": "Colha a abobrinha pequena, com uns 10 cm, para a planta continuar produzindo; a flor também se come",
+   "esp": "abobrinha",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "114",
+   "fontePet": null
+  },
+  "s28-185": {
+   "texto": "O susto de quem planta abobrinha pela primeira vez: dá para colher várias a cada poucos dias",
+   "esp": "abobrinha",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "114",
+   "fontePet": null
+  },
+  "s28-186": {
+   "texto": "Abóbora espalha: até a pequena precisa de 90 cm em volta. Espete um palito do lado da muda para achar o meio na hora de regar",
+   "esp": "abóbora",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "116",
+   "fontePet": null
+  },
+  "s28-187": {
+   "texto": "Abóbora de guardar está pronta quando a casca fica dura e o cabo começa a secar; corte deixando o cabo comprido",
+   "esp": "abóbora",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "116",
+   "fontePet": null
+  },
+  "s28-188": {
+   "texto": "Ponha palha embaixo da abóbora para ela não encostar na terra úmida",
+   "esp": "abóbora",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "116",
+   "fontePet": null
+  },
+  "s28-189": {
+   "texto": "Cenoura não gosta de ser mudada: semeie direto no lugar, em terra fina e solta, ou em vaso fundo",
+   "esp": "cenoura",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "118",
+   "fontePet": null
+  },
+  "s28-190": {
+   "texto": "Terra pesada racha a cenoura",
+   "esp": "cenoura",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "118",
+   "fontePet": null
+  },
+  "s28-191": {
+   "texto": "Semente de cenoura leva até 21 dias para germinar",
+   "esp": "cenoura",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "118",
+   "fontePet": null
+  },
+  "s28-192": {
+   "texto": "Mosca-da-cenoura: o cheiro da cenoura atrai, e ele sobe forte no desbaste. Semeie fino para desbastar menos e cubra a muda com manta leve",
+   "esp": "cenoura",
+   "serie": "Socorro",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "118",
+   "fontePet": null
+  },
+  "s28-193": {
+   "texto": "Cenoura fica pronta umas 12 semanas depois de nascer; a pequena é a mais doce",
+   "esp": "cenoura",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "118",
+   "fontePet": null
+  },
+  "s28-194": {
+   "texto": "Tomate de moita ou de tutor? Para quem começa ou tem pouco espaço, o de moita é mais fácil",
+   "esp": "tomate",
+   "serie": "X ou Y?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "s28-195": {
+   "texto": "Semente de tomate germina em cerca de uma semana",
+   "esp": "tomate",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "s28-196": {
+   "texto": "Tomate de moita no vaso pede vaso de 30 cm; num saco de cultivo cabem três pés",
+   "esp": "tomate",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "s28-197": {
+   "texto": "Tomateiro florindo: adubo líquido de potássio uma vez por semana e tire umas folhas para o sol chegar no fruto",
+   "esp": "tomate",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "s28-198": {
+   "texto": "Sobrou tomate verde no fim? Vira picles ou chutney",
+   "esp": "tomate",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "s28-199": {
+   "texto": "Tomate anão dá boa colheita ocupando pouquíssimo espaço",
+   "esp": "tomate",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "120",
+   "fontePet": null
+  },
+  "s28-200": {
+   "texto": "Existe tomate-cereja que cai em cascata e vai bem em vaso pendurado",
+   "esp": "tomate",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "121",
+   "fontePet": null
+  },
+  "s28-201": {
+   "texto": "O pepininho (Melothria scabra) é uma trepadeira do México com frutinho do tamanho de azeitona, cara de melancia em miniatura e gosto de pepino com limão",
+   "esp": "outra",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "122",
+   "fontePet": null
+  },
+  "s28-202": {
+   "texto": "Pepininho demora para germinar: até três semanas é normal. Tenha paciência",
+   "esp": "outra",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "122",
+   "fontePet": null
+  },
+  "s28-203": {
+   "texto": "Erro comum com o pepininho: deixar no pé demais. Ele fica farinhento e amargo; colha ainda firme",
+   "esp": "outra",
+   "serie": "3 erros",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "122",
+   "fontePet": null
+  },
+  "s28-204": {
+   "texto": "Vagem anã ou de trepar? Anã para vaso, sem tutor; a de trepar precisa de espaço e tutor no canteiro",
+   "esp": "feijão",
+   "serie": "X ou Y?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "124",
+   "fontePet": null
+  },
+  "s28-205": {
+   "texto": "Semente de vagem germina em até dez dias",
+   "esp": "feijão",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "124",
+   "fontePet": null
+  },
+  "s28-206": {
+   "texto": "Vagem: colha sempre que tiver uns 10 cm. Quanto mais você colhe, mais o pé produz",
+   "esp": "feijão",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "124",
+   "fontePet": null
+  },
+  "s28-207": {
+   "texto": "Sobrou vagem demais? Deixe umas secarem no pé e guarde como feijão seco, ou congele",
+   "esp": "feijão",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "124",
+   "fontePet": null
+  },
+  "s28-208": {
+   "texto": "Primeira vez com ervilha? Comece pela ervilha-torta: planta pequena, produz bem e cabe em vaso",
+   "esp": "ervilha",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "126",
+   "fontePet": null
+  },
+  "s28-209": {
+   "texto": "Semente de ervilha germina em cinco a dez dias",
+   "esp": "ervilha",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "126",
+   "fontePet": null
+  },
+  "s28-210": {
+   "texto": "Semeie ervilha em círculo: fica mais fácil pôr o tutor depois",
+   "esp": "ervilha",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "126",
+   "fontePet": null
+  },
+  "s28-211": {
+   "texto": "Tutor simples para ervilha: três varas amarradas no alto, em tripé",
+   "esp": "ervilha",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "126",
+   "fontePet": null
+  },
+  "s28-212": {
+   "texto": "Colha a ervilha-torta nova: se ficar muito no pé a vagem cresce, mas endurece",
+   "esp": "ervilha",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "126",
+   "fontePet": null
+  },
+  "s28-214": {
+   "texto": "Rabanete vai direto no lugar: mudar a mudinha racha a raiz",
+   "esp": "rabanete",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "128",
+   "fontePet": null
+  },
+  "s28-215": {
+   "texto": "Erro comum: rabanete no sol forte o dia todo. Ele faz muita folha e pouca raiz; prefere sol moderado",
+   "esp": "rabanete",
+   "serie": "3 erros",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "128",
+   "fontePet": null
+  },
+  "s28-216": {
+   "texto": "Semente de rabanete germina em sete a dez dias e ele fica pronto umas três semanas depois",
+   "esp": "rabanete",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "128",
+   "fontePet": null
+  },
+  "s28-217": {
+   "texto": "Rabanete: semeie um pouco a cada dez dias para ter sempre",
+   "esp": "rabanete",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "128",
+   "fontePet": null
+  },
+  "s28-218": {
+   "texto": "As mudinhas que saem no desbaste do rabanete têm gosto de agrião apimentado",
+   "esp": "rabanete",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "128",
+   "fontePet": null
+  },
+  "s28-219": {
+   "texto": "Erro comum: deixar o rabanete crescer demais. Grande e velho, ele fica lenhoso",
+   "esp": "rabanete",
+   "serie": "3 erros",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "128",
+   "fontePet": null
+  },
+  "s28-220": {
+   "texto": "Rabanete é resultado rápido: ótimo para criança plantar",
+   "esp": "rabanete",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "128",
+   "fontePet": null
+  },
+  "s28-221": {
+   "texto": "Milho é polinizado pelo vento: o pólen cai das flores de cima (pendão) nas de baixo, que viram espiga",
+   "esp": "milho",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "130",
+   "fontePet": null
+  },
+  "s28-222": {
+   "texto": "Erro comum: plantar milho em uma fileira só. Plante em bloco, no mínimo 9 pés (3 por 3), para o pólen pegar de um pé no outro",
+   "esp": "milho",
+   "serie": "3 erros",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "130",
+   "fontePet": null
+  },
+  "s28-223": {
+   "texto": "Cada pé de milho dá em média duas espigas: 9 pés, umas 18 espigas",
+   "esp": "milho",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "130",
+   "fontePet": null
+  },
+  "s28-224": {
+   "texto": "Muda de milho odeia ter a raiz mexida: semeie em vaso um pouco maior, de 12 a 15 cm",
+   "esp": "milho",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "130",
+   "fontePet": null
+  },
+  "s28-225": {
+   "texto": "Milho está no ponto quando o cabelo da espiga fica marrom. Colha pouco antes de cozinhar",
+   "esp": "milho",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "130",
+   "fontePet": null
+  },
+  "s28-226": {
+   "texto": "Guardar semente: só colha semente madura e seque muito bem antes de guardar, senão mofa",
+   "esp": "muda",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "s28-227": {
+   "texto": "A semente da capuchinha parece uma ervilhinha enrugada: dá para catar do chão",
+   "esp": "capuchinha",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "s28-228": {
+   "texto": "Semente de cosmos e calêndula: corte a cabeça seca com um pedaço de cabo, vire de cabeça para baixo num saco de papel e sacuda",
+   "esp": "calêndula",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "s28-229": {
+   "texto": "Semente pronta para colher: esmague uma cápsula entre os dedos. Tem que estar seca e quebradiça",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "134",
+   "fontePet": null
+  },
+  "s28-230": {
+   "texto": "Flor dobrada, cheia de pétalas, como a calêndula híbrida, dá pouquíssima semente",
+   "esp": "calêndula",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "135",
+   "fontePet": null
+  },
+  "s28-231": {
+   "texto": "Guardar semente de tomate: tire a polpa de um tomate bem maduro com uma colher, lave numa peneira, escorra no papel-toalha e seque num prato",
+   "esp": "tomate",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "135",
+   "fontePet": null
+  },
+  "s28-232": {
+   "texto": "Erro comum: secar semente de tomate no papel-toalha. Ela gruda no papel; seque no prato",
+   "esp": "tomate",
+   "serie": "3 erros",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "135",
+   "fontePet": null
+  },
+  "s28-233": {
+   "texto": "Semente de tomate fermentada: polpa num pote com 5 cm de água por dois dias, não mais. Quando formar mofo em cima, peneire, lave e seque",
+   "esp": "tomate",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "135",
+   "fontePet": null
+  },
+  "s28-234": {
+   "texto": "Guarde semente em lugar fresco, seco e escuro, em envelope com nome e data da colheita",
+   "esp": "muda",
+   "serie": "5 cuidados",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "136",
+   "fontePet": null
+  },
+  "s28-235": {
+   "texto": "Semente seca à temperatura ambiente, longe do calor. Na dúvida, deixe um ou dois dias a mais",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "136",
+   "fontePet": null
+  },
+  "s28-236": {
+   "texto": "Caixa de sementes sem umidade: ponha um envelope com umas colheres de arroz cru, ou aqueles saquinhos de sílica que vêm nas compras",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "137",
+   "fontePet": null
+  },
+  "s28-237": {
+   "texto": "Organize a caixa de sementes com divisórias: flores, hortaliças e ervas",
+   "esp": "muda",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "137",
+   "fontePet": null
+  },
+  "s28-238": {
+   "texto": "Feira de troca de sementes junta gente que troca as sementes das plantas que deram certo",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "138",
+   "fontePet": null
+  },
+  "s28-239": {
+   "texto": "Semente crioula (de herança) é de variedade antiga, de pelo menos 50 anos",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "143",
+   "fontePet": null
+  },
+  "s28-240": {
+   "texto": "Muita semente crioula não está à venda: circula de mão em mão nas trocas, sem dinheiro",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "139",
+   "fontePet": null
+  },
+  "s28-241": {
+   "texto": "Semente orgânica vem de planta cultivada sem agrotóxico nem adubo químico",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "139",
+   "fontePet": null
+  },
+  "s28-242": {
+   "texto": "Bomba de semente: 2 partes de substrato, 1 de argila em pó, um pouco de água e as sementes. Faça bolinhas do tamanho de uma bola de tênis e seque uns dias no jornal",
+   "esp": "muda",
+   "serie": "Passo a passo",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "141",
+   "fontePet": null
+  },
+  "s28-243": {
+   "texto": "Erro comum na bomba de semente: usar semente de fora. Use só semente de flor que você mesmo plantou, para não espalhar planta invasora",
+   "esp": "muda",
+   "serie": "3 erros",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "141",
+   "fontePet": null
+  },
+  "s28-244": {
+   "texto": "Pendoar é quando a planta sobe para semente antes da hora e encerra a colheita. Fora do sol forte e com terra mais úmida ela pendoa menos",
+   "esp": "muda",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "142",
+   "fontePet": null
+  },
+  "s28-245": {
+   "texto": "O substrato de semear é estéril: protege a semente dos fungos, mas não tem comida para a planta crescer",
+   "esp": "solo",
+   "serie": "Você sabia?",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "143",
+   "fontePet": null
+  },
+  "s28-213": {
+   "texto": "Leve a muda de ervilha para fora só com uns 15 cm: a lesma adora broto novo",
+   "esp": "lesma",
+   "serie": "Dica do Andre",
+   "livro": "RHS, How to Grow Plants from Seeds",
+   "pagina": "126",
+   "fontePet": null
   }
  }
 }

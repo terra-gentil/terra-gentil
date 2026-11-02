@@ -8,7 +8,7 @@ import { INSTAGRAM_URL } from '@/lib/constants';
 import Image from 'next/image';
 import Link from 'next/link';
 import { listarGuias, totalEbooks } from '@/lib/guias';
-import { TEMAS, temaDe } from '@/lib/temas';
+import { TEMAS, temaDe, paginaDoEbookAntigo } from '@/lib/temas';
 
 export const metadata: Metadata = pageMetadata({
   title: 'Ebooks',
@@ -43,6 +43,7 @@ export default function GuiasPage() {
     cat: categorize(e.title),
     color: COLORS[i % COLORS.length],
     pdf: e.pdf,
+    pagina: paginaDoEbookAntigo(e.pdf) ? `/guias/${paginaDoEbookAntigo(e.pdf)}` : undefined,
     cover: e.image,
   }));
   const livros = listarGuias();

@@ -60,3 +60,28 @@ const RESERVA = TEMAS[TEMAS.length - 1];
 export function temaDe(codigo: string): Tema {
   return TEMAS.find((t) => t.codigos.includes(codigo)) ?? RESERVA;
 }
+
+/**
+ * Ebook antigo (so PDF, data/ebooks.ts e palavras do Instagram) que ja tem livro novo do mesmo
+ * assunto com pagina propria. No site, o link passa a levar para a pagina (melhor para o Google e
+ * para quem le); o PDF antigo continua no ar e a automacao do Instagram nao muda.
+ * Chave: nome do arquivo do PDF antigo. Valor: slug da pagina nova.
+ */
+export const PAGINA_DO_EBOOK_ANTIGO: Record<string, string> = {
+  '8-Horta-na-Varanda.pdf': 'horta-na-varanda',
+  '9-Plantas-para-Varanda-Pequena-o-guia-gentil-de-sol-meia-sombra-e-sombra.pdf': 'planta-sem-sol',
+  '10-Guia-Gentil-Plantas-Caes-e-Gatos.pdf': 'casa-com-pet',
+  '11-Como-Plantar-Suculentas.pdf': 'suculentas-sem-afogar',
+  '12-Como-Plantar-Rosa-do-Deserto.pdf': 'rosa-do-deserto',
+  '13-Morangos-do-Coracao.pdf': 'morango-no-vaso',
+  '14-O-Cheirinho-que-Mora-na-Memoria.pdf': 'temperos-da-janela',
+  '15-Como-Plantar-Cebolinha-em-Casa.pdf': 'temperos-da-janela',
+  '16-Jiboia-na-Sala.pdf': 'jiboia-e-filodendro',
+  '17-Alface-em-Casa.pdf': 'horta-em-vaso',
+  '19-Tomate-em-Vaso.pdf': 'tomate-no-vaso',
+};
+
+/** Slug da pagina nova para um PDF antigo ("/ebooks/x.pdf" ou "x.pdf"), se houver. */
+export function paginaDoEbookAntigo(pdf: string): string | undefined {
+  return PAGINA_DO_EBOOK_ANTIGO[decodeURIComponent(pdf).split('/').pop() ?? ''];
+}

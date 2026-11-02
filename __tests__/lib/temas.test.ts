@@ -24,3 +24,16 @@ describe('temas da colecao', () => {
     }
   });
 });
+
+describe('ebooks antigos com pagina nova', () => {
+  it('todo destino do mapa existe como pagina publicada e todo PDF do mapa existe no site', async () => {
+    const { PAGINA_DO_EBOOK_ANTIGO } = await import('@/lib/temas');
+    const { ebooks } = await import('@/data/ebooks');
+    const slugs = listarGuias().map((g) => g.slug);
+    const pdfs = ebooks.map((e) => e.pdf.split('/').pop());
+    for (const [pdf, slug] of Object.entries(PAGINA_DO_EBOOK_ANTIGO)) {
+      expect(slugs, slug).toContain(slug);
+      expect(pdfs, pdf).toContain(pdf);
+    }
+  });
+});

@@ -153,8 +153,8 @@ export default async function NoticiaPage({ params }: Props) {
 
         <div className="bp-ctas">
           {ebook && (
-            <a className="btn-amber" href={ebook.url} data-cta="ebook">
-              <span>Baixar o ebook grátis</span>
+            <a className="btn-amber" href={ebook.pagina ?? ebook.url} data-cta="ebook">
+              <span>{ebook.pagina ? 'Ler o livro grátis' : 'Baixar o ebook grátis'}</span>
             </a>
           )}
           <a

@@ -7,6 +7,7 @@ import { SITE_NAME, SITE_URL, YOUTUBE_URL } from '@/lib/constants';
 import LiteYouTubeEmbed from '@/components/ui/LiteYouTubeEmbed';
 import type { Metadata } from 'next';
 import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
+import { listarGuias, totalEbooks } from '@/lib/guias';
 
 export function generateStaticParams() {
   return posts.map((post) => ({ slug: post.slug }));
@@ -72,6 +73,11 @@ export default async function PostPage({
     month: 'long',
     year: 'numeric',
   });
+
+  // 3 livros por post, girando pela posicao do post: espalha os links internos pela colecao.
+  const guias = listarGuias();
+  const inicio = guias.length ? (posts.indexOf(post) * 3) % guias.length : 0;
+  const livros = [...guias.slice(inicio), ...guias.slice(0, inicio)].slice(0, 3);
 
   return (
     <article className="bp-article">
@@ -149,6 +155,22 @@ export default async function PostPage({
             {post.youtubeId ? 'Ver no canal →' : 'Ir pro YouTube →'}
           </a>
         </div>
+
+        {livros.length > 0 && (
+          <nav className="bp-mais" aria-label="Livros grátis da coleção">
+            <h2>Livros grátis da coleção</h2>
+            <ul>
+              {livros.map((g) => (
+                <li key={g.slug}>
+                  <Link href={`/guias/${g.slug}`}>{g.titulo}</Link>
+                </li>
+              ))}
+              <li>
+                <Link href="/guias">Ver os {totalEbooks()} ebooks grátis</Link>
+              </li>
+            </ul>
+          </nav>
+        )}
 
         {/* JSON-LD Article schema. Permite Google enriquecer o resultado de busca
             com data, autor, imagem. Inline porque os dados vem do mesmo render. */}

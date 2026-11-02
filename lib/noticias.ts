@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import { paginaDoEbookAntigo } from './temas';
 
 // Notícias do site = posts do Instagram que têm `materia` (insta-terra-gentil/dados/posts/*.json).
 // Lidas no build, no servidor. Um post, duas saídas: carrossel no Instagram e página aqui.
@@ -29,7 +30,8 @@ export interface Noticia {
   gancho: string;
   fontes: string[];
   materia: Materia;
-  ebook: { titulo: string; url: string } | null;
+  /** pagina: /guias/<slug> quando o assunto ja tem livro novo com pagina propria. */
+  ebook: { titulo: string; url: string; pagina?: string } | null;
   capa: { src: string; credito: string | null } | null;
 }
 
@@ -64,7 +66,9 @@ function ebookDaPalavra(palavra: string, arquivoPalavras: string): Noticia['eboo
     palavras?: { palavra: string; titulo: string; pdf: string }[];
   };
   const achado = palavras?.find((p) => normalizar(p.palavra) === normalizar(palavra));
-  return achado ? { titulo: achado.titulo, url: `/ebooks/${encodeURIComponent(achado.pdf)}` } : null;
+  if (!achado) return null;
+  const slug = paginaDoEbookAntigo(achado.pdf);
+  return { titulo: achado.titulo, url: `/ebooks/${encodeURIComponent(achado.pdf)}`, ...(slug && { pagina: `/guias/${slug}` }) };
 }
 
 // A capa (e o crédito da foto, exigido pela licença CC BY) é gravada pelo workflow ao lado do post.

@@ -10,6 +10,8 @@ interface Book {
   cat: string;
   color: string;
   pdf: string;
+  /** /guias/<slug> quando o assunto ja tem livro novo com pagina propria. */
+  pagina?: string;
   cover: string;
 }
 
@@ -54,9 +56,8 @@ export default function GuiasClient({ books, cats }: { books: Book[]; cats: Read
                 key={b.id}
                 className="gu-card"
                 style={{ '--c': b.color } as React.CSSProperties}
-                href={b.pdf}
-                target="_blank"
-                rel="noopener noreferrer"
+                href={b.pagina ?? b.pdf}
+                {...(b.pagina ? {} : { target: '_blank', rel: 'noopener noreferrer' })}
               >
                 <div className="gu-cover">
                   <Image
@@ -76,7 +77,7 @@ export default function GuiasClient({ books, cats }: { books: Book[]; cats: Read
                   <div className="gu-card-title">{b.title}</div>
                   <div className="gu-card-row">
                     <div className="gu-card-cat">#{b.cat}</div>
-                    <div className="gu-card-dl">Baixar PDF →</div>
+                    <div className="gu-card-dl">{b.pagina ? 'Ler no site →' : 'Baixar PDF →'}</div>
                   </div>
                 </div>
               </a>

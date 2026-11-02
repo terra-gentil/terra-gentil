@@ -1,0 +1,70 @@
+{
+  "livro": "TG 065",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "cen-gesto-1",
+      "especie": "carrot bed",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands opening a shallow furrow about 2 cm deep in loose, stone-free soil of a vegetable bed",
+      "mascote": false
+    },
+    {
+      "id": "cen-gesto-2",
+      "especie": "carrot seeds",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sprinkling tiny carrot seeds sparsely along a shallow furrow; the small mascot figurine sits on the wooden edge of the raised bed next to the furrow",
+      "mascote": true
+    },
+    {
+      "id": "cen-gesto-3",
+      "especie": "carrot seedlings",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands thinning a row of young carrot seedlings with feathery leaves, leaving gaps between the plants",
+      "mascote": false
+    },
+    {
+      "id": "cen-sintoma-1",
+      "especie": "radish",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Radish plants pulled from the soil with large lush leaves and very thin, undeveloped roots, lying on a sunny vegetable bed",
+      "mascote": false
+    },
+    {
+      "id": "cen-var-beterraba",
+      "especie": "beetroot",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Beetroot plants with red-veined leaves, the purple shoulders of the roots showing above the soil",
+      "mascote": false
+    },
+    {
+      "id": "cen-var-batata-doce",
+      "especie": "sweet potato",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Sweet potato vines with heart-shaped leaves spreading over a garden bed; the small mascot figurine stands on the soil between the vines",
+      "mascote": true
+    },
+    {
+      "id": "cen-var-cebola",
+      "especie": "onion",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Row of onion plants with round bulbs half showing in the soil of a sunny bed",
+      "mascote": false
+    },
+    {
+      "id": "cen-var-alho",
+      "especie": "garlic",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Row of young garlic plants with narrow upright leaves in rich soil under full sun",
+      "mascote": false
+    }
+  ]
+}

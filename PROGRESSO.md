@@ -1,4 +1,31 @@
-﻿# PROGRESSO Terra Gentil
+# PROGRESSO Terra Gentil
+## LEVA 6: TG 055 A 070 ESCRITOS, FOTOS NO FLOW EM ANDAMENTO (02/11/2026, tarde)
+- Ritmo combinado com o Andre: livros + fotos no mesmo dia, limitado pela cota do Flow (~190 fotos/dia nas duas contas = ~23 livros/dia). Estoque da biblia: ~60 livros novos possiveis (4.315 fatos livres, ~28 unicos por livro).
+- 16 livros escritos por 8 agentes em paralelo, 2 cada. Fatos divididos antes em `ebooksabrica\pools\pool-NNN-NNN.txt` (`pools\montar.mjs`: especie exclusiva por livro, compartilhadas em rodizio), brief em `pools\BRIEF.md`. Checado: zero fato repetido entre os 16 e os antigos.
+- Todos: 19 paginas, sem estouro, `validar.mjs` ok, fila de 8 fotos em `gama-ebooksila-fotos-tgNNN.json` (2 com Gentileza, lugar dito).
+| TG | Titulo | Palavra | Prefixo |
+|---|---|---|---|
+| 055 | Frutifera em Vaso | FIGO | frt |
+| 056 | Gramado Bonito | GRAMA | gra |
+| 057 | Adubo Caseiro | ADUBO | adu |
+| 058 | Poda sem Medo | PODA | pod |
+| 059 | Fungo no Jardim | FUNGO | fun |
+| 060 | Lesma e Caracol | LESMA | les |
+| 061 | Lavanda e Alecrim | LAVANDA | lav |
+| 062 | Girassol | GIRASSOL | gir |
+| 063 | Abobora e Abobrinha | ABOBORA | abb |
+| 064 | Feijao e Milho | MILHO | mil |
+| 065 | Cenoura e Raizes | CENOURA | cen |
+| 066 | Comigo-ninguem-pode | COMIGO | cmg |
+| 067 | Hortela e Manjericao | HORTELA | hrt |
+| 068 | Alface e Folhas | ALFACE | alf |
+| 069 | Begonia e Geranio | BEGONIA | beg |
+| 070 | Ficus e Hera | FICUS | fic |
+- TG 070 promete TG 071 HIBISCO E PRIMAVERA (palavra HIBISCO): proxima leva comeca por ele.
+- **Para o Andre decidir:** (1) cada livro novo ganhou cor de serie propria (antes todos #1F4D2B); manter ou voltar. (2) TG 066: titulo longo na capa, 2 linhas, estouro.mjs acusa 22 px de largura na p1 (visualmente ok); aceitar ou fonte menor no molde Main. (3) TG 062: fatos contraditorios de germinacao do girassol, usado s28-103 (2 a 3 semanas). (4) TG 060 p17 usa borboleta vanessa "2.000 KM". (5) Livros com 36 a 43 fatos unicos (meta era 25 a 35).
+- Fotos: Pamela, Elenco e Gentileza remontados ~16h. TG 055 8/8 em 2K, previa remontada. TG 056 gerando. Pamela ja fez ~73 hoje; quando bater o limite, seguir na eng.andrehz (abre a noite).
+- Licao: o 1o clique em "Baixar todas prontas" pode cair fora do botao (fica em x~1045, y~553 no viewport 1366x599); conferir Downloads antes do 2K. Gerar o proximo so depois do `__baixar2k(0,7)` (imagem nova entra no topo da galeria).
+
 ## SUPER REVISAO DE SEO (02/11/2026)
 - **Teia de links:** `lib/temas.ts` agrupa os livros em 7 temas. Cada livro indica os do mesmo tema e o proximo da colecao (link quando ja tem pagina). `/guias` tem uma secao por tema com ancora (`/guias#orquideas`...). Posts do blog indicam 3 livros cada. Teste `__tests__/lib/temas.test.ts` falha se livro novo ficar sem tema. **Livro novo: incluir o codigo no tema em `lib/temas.ts`.**
 - **Antigos x novos:** `PAGINA_DO_EBOOK_ANTIGO` (lib/temas.ts) liga 11 PDFs antigos as paginas novas do mesmo assunto; cards do `/guias` e botao das noticias levam a pagina. PDF antigo e Instagram nao mudaram.

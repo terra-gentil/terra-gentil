@@ -1,0 +1,555 @@
+{
+  "livro": "TG 069",
+  "titulo": "Begônia e Gerânio",
+  "serie": "#5A1F3D",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "069",
+        "COLEÇÃO TERRA GENTIL",
+        "BEGÔNIA",
+        "Begônia e Gerânio",
+        "Flor bonita na janela de casa.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "begonia-A-1.jpg",
+          "alt": "André com um vaso de begônia florida"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "q3-230",
+        "b24-057"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Begônia e gerânio enfeitam qualquer janela.",
+        "E uma folha de begônia já vira muda nova.",
+        "Aqui tem luz, rega, muda e flores de vaso.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache a janela clara sem sol direto.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 069 BEGÔNIA E GERÂNIO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "begonia-B-1.jpg",
+          "alt": "André olhando uma begônia na janela"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "b24-057",
+        "q3-232",
+        "q3-228",
+        "q3-297"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Luz clara, sem sol direto.",
+        "Pouca luz dá menos flor, e sol queima a folha.",
+        "REGAR",
+        "Terra úmida, nunca encharcada.",
+        "Gerânio no sol, com sombra leve no calor.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 069 BEGÔNIA E GERÂNIO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da begônia",
+        "06",
+        "CAPÍTULO 1",
+        "Luz e rega",
+        "08",
+        "CAPÍTULO 2",
+        "Muda de folha",
+        "12",
+        "CAPÍTULO 3",
+        "O gerânio",
+        "15",
+        "CAPÍTULO 4",
+        "Flores de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Begônia sem flor? Vá para a página 11.",
+        "Na próxima: a ficha da begônia",
+        "→",
+        "TG 069 BEGÔNIA E GERÂNIO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "b24-057",
+        "q3-228",
+        "b24-054",
+        "q3-226",
+        "q3-227"
+      ],
+      "textos": [
+        "FICHA DA BEGÔNIA",
+        "Antes de plantar",
+        "O que ela pede",
+        "LUZ",
+        "Clara, sem sol direto",
+        "REGA",
+        "Úmida, sem encharcar",
+        "TERRA",
+        "Levemente ácida",
+        "VASO",
+        "Novo todo ano, se jovem",
+        "FRIO",
+        "Seca um pouco entre regas",
+        "ENCHARCADO",
+        "ATENÇÃO",
+        "Terra molhada o tempo todo",
+        "Na próxima: luz e rega",
+        "→",
+        "TG 069 BEGÔNIA E GERÂNIO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Luz e rega",
+        "01",
+        "Certo e errado",
+        "02",
+        "Muda de folha, passo a passo",
+        "03",
+        "Begônia sem flor",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 069 BEGÔNIA E GERÂNIO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "begonia-C-1.jpg",
+          "alt": "André regando uma begônia no vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "q3-232",
+        "q3-228",
+        "m33-038",
+        "b24-058",
+        "b24-056",
+        "b24-578"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Luz",
+        "Clara",
+        "Sol direto",
+        "Rega",
+        "Úmida",
+        "Encharcada",
+        "Semente",
+        "Por cima",
+        "Coberta",
+        "Asa-de-anjo",
+        "Com tutor",
+        "Sem apoio",
+        "Begônia pode ter raiz fibrosa, rizoma ou tubérculo.",
+        "DICA DO ANDRÉ",
+        "Belisque a ponta da asa-de-anjo: ela ramifica.",
+        "Na próxima: muda de folha",
+        "→",
+        "TG 069 BEGÔNIA E GERÂNIO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Muda de folha",
+        "01",
+        "Muda de folha, passo a passo",
+        "02",
+        "Rizoma e tubérculo",
+        "03",
+        "Begônia sem flor",
+        "Na próxima: muda de folha, passo a passo",
+        "→",
+        "TG 069 BEGÔNIA E GERÂNIO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "begonia-D-1.jpg",
+          "alt": "André segurando uma folha de begônia"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "m33-037",
+        "q3-74",
+        "q3-230",
+        "m33-041"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Muda de folha? Faça assim.",
+        "SERVE",
+        "Begônia-rex e outras",
+        "PEDAÇO",
+        "Quadrado de 3 cm",
+        "PRECISA",
+        "Uma folha e faca",
+        "1",
+        "CORTE",
+        "A folha em quadrados de 3 cm.",
+        "2",
+        "CONFIRA",
+        "Cada pedaço com nervura.",
+        "3",
+        "PLANTE",
+        "Os pedaços na terra.",
+        "DICA DO ANDRÉ",
+        "Até rizoma velho sem folha vira muda.",
+        "Na próxima: rizoma e tubérculo",
+        "→",
+        "TG 069 BEGÔNIA E GERÂNIO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "beg-gesto-1.jpg",
+          "alt": "Mãos cortando uma folha de begônia em quadrados"
+        },
+        {
+          "src": "beg-gesto-2.jpg",
+          "alt": "Dedo mostrando a nervura num pedaço de folha de begônia"
+        },
+        {
+          "src": "beg-gesto-3.jpg",
+          "alt": "Mãos assentando pedaços de folha de begônia na terra"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "m33-040",
+        "m33-042",
+        "q3-430"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · MUDA",
+        "Rizoma e tubérculo",
+        "Rizoma: corte pedaços com ponta de crescimento.",
+        "Cada pedaço vai para o seu vaso.",
+        "Begônia de batata solta bolinhas que viram muda.",
+        "Tubérculo brota em caixa com turfa úmida.",
+        "Brotou? Passe para um vaso próprio.",
+        "Na próxima: begônia sem flor",
+        "→",
+        "TG 069 BEGÔNIA E GERÂNIO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "b24-057",
+        "q3-232"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Begônia sem flor?",
+        "1",
+        "O QUE PARECE",
+        "Falta de adubo.",
+        "O QUE PODE SER",
+        "Pouca luz.",
+        "COMO RESOLVER",
+        "Claridade, sem sol direto.",
+        "Na próxima: o gerânio",
+        "→",
+        "TG 069 BEGÔNIA E GERÂNIO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "beg-sintoma-1.jpg",
+          "alt": "Begônia-asa-de-anjo comprida e quase sem flor num canto escuro"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "O gerânio",
+        "01",
+        "Muda de gerânio",
+        "02",
+        "Chuva e alergia",
+        "03",
+        "Flores de perto",
+        "Na próxima: muda de gerânio",
+        "→",
+        "TG 069 BEGÔNIA E GERÂNIO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-A-1.jpg",
+          "alt": "André com mudas de gerânio"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "q3-296",
+        "m33-214",
+        "q3-297",
+        "m33-217"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · GERÂNIO",
+        "Muda de gerânio",
+        "TAMANHO",
+        "Ponta de 7,5 cm",
+        "QUANDO",
+        "Depois da florada",
+        "VOCÊ VAI PRECISAR",
+        "Turfa",
+        " com areia grossa",
+        "Estaca",
+        " de ponta",
+        "Raiz",
+        " em 7 a 10 dias",
+        "Sol",
+        " com sombra leve no calor",
+        "Cuidado",
+        "Frio",
+        " a muda tomba",
+        "Pouca luz",
+        " também tomba",
+        "Na próxima: chuva e alergia",
+        "→",
+        "TG 069 BEGÔNIA E GERÂNIO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "b24-026",
+        "b24-024"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CUIDADO",
+        "ATENÇÃO",
+        "Gerânio-real, de flor grande, estraga com chuva.",
+        "O vento também estraga a flor.",
+        "A folha do gerânio pode piorar alergia de pele.",
+        "FAÇA ASSIM",
+        "Gerânio-real em lugar protegido.",
+        "Tem alergia? Cuidado com a folha.",
+        "Na próxima: flores de perto",
+        "→",
+        "TG 069 BEGÔNIA E GERÂNIO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "q3-434",
+        "q3-468",
+        "q3-437",
+        "q3-454",
+        "q3-436",
+        "q3-469",
+        "q3-455"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro flores",
+        "1",
+        "Crisântemo",
+        "Floresce o ano todo no vaso.",
+        "2",
+        "Gloxínia",
+        "Brasileira, flor de 8 semanas.",
+        "3",
+        "Ciclame",
+        "Flor de peteca, folha marmorizada.",
+        "4",
+        "Prímula",
+        "Estrelinha de olho amarelo.",
+        "CHAVE",
+        "Terra úmida",
+        "Sem encharcar",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 069 BEGÔNIA E GERÂNIO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "beg-var-crisantemo.jpg",
+          "alt": "Vaso de crisântemo florido"
+        },
+        {
+          "src": "beg-var-gloxinia.jpg",
+          "alt": "Gloxínia de flor aveludada num vaso"
+        },
+        {
+          "src": "beg-var-ciclame.jpg",
+          "alt": "Ciclame de folha marmorizada e flores para cima"
+        },
+        {
+          "src": "beg-var-primula.jpg",
+          "alt": "Prímula com rodelas de florzinhas de olho amarelo"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "m33-217",
+        "b24-066",
+        "b24-372",
+        "q3-438",
+        "q3-439"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "MUDA DE GERÂNIO TOMBOU",
+        "Frio ou pouca luz.",
+        "PRAGA NO BEIJINHO",
+        "Ácaro, pulgão, mosca-branca.",
+        "CRISÂNTEMO COM PÓ BRANCO",
+        "Pode ser oídio.",
+        "CICLAME PAROU DE FLORIR",
+        "Menos água, lugar fresco.",
+        "DICA DO ANDRÉ",
+        "Ciclame volta com vaso limpo e terra nova.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 069 BEGÔNIA E GERÂNIO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "b24-374",
+        "b24-017"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "2,5",
+        "CM",
+        "tem cada florzinha do crisântemo charm.",
+        "E ele dá centenas delas, até em bonsai.",
+        "E MAIS UMA",
+        "Gerânio de varanda é Pelargonium. O Geranium é outra planta.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 069 BEGÔNIA E GERÂNIO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "b24-057",
+        "q3-228",
+        "b24-054",
+        "m33-038",
+        "b24-058",
+        "q3-74",
+        "q3-297",
+        "q3-296"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Janela clara, sem sol direto",
+        "Terra úmida, sem encharcar",
+        "Terra levemente ácida",
+        "Semente por cima, sem cobrir",
+        "Tutor na asa-de-anjo",
+        "Muda de folha em quadrados",
+        "Gerânio no sol",
+        "Estaca de ponta de gerânio",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 069 BEGÔNIA E GERÂNIO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua begônia florir na janela, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "069",
+        "VOCÊ TEM",
+        "070",
+        "071",
+        "072",
+        "073",
+        "074",
+        "São 69 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 070 FÍCUS E HERA",
+        "Comente FÍCUS no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 069 BEGÔNIA E GERÂNIO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "begonia-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

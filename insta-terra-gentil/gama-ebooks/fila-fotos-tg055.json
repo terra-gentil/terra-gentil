@@ -1,0 +1,70 @@
+{
+  "livro": "TG 055",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "frt-gesto-1",
+      "especie": "fruit tree in pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands fitting an old small pot inside a larger new pot partly filled with potting soil",
+      "mascote": false
+    },
+    {
+      "id": "frt-gesto-2",
+      "especie": "fruit tree in pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands filling potting soil around the old pot set inside the new large pot; the small mascot figurine sits on the rim of the new pot",
+      "mascote": true
+    },
+    {
+      "id": "frt-gesto-3",
+      "especie": "fruit tree in pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing a young fruit tree seedling into the pot-shaped hole left in the soil of a large pot",
+      "mascote": false
+    },
+    {
+      "id": "frt-sintoma-1",
+      "especie": "fruit tree in pot",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Small fruits split open and cracked on a potted fruit bush",
+      "mascote": false
+    },
+    {
+      "id": "frt-var-figo",
+      "especie": "fig",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Fig tree in a large pot with ripe purple figs and broad leaves",
+      "mascote": false
+    },
+    {
+      "id": "frt-var-limao",
+      "especie": "meyer lemon",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Meyer lemon tree in a pot with white flowers tinged red and yellow lemons; the small mascot figurine stands on the patio floor next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "frt-var-mirtilo",
+      "especie": "blueberry",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Blueberry bush in a pot with clusters of ripe blue berries",
+      "mascote": false
+    },
+    {
+      "id": "frt-var-roma",
+      "especie": "pomegranate",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dwarf pomegranate tree in a pot with red pomegranates",
+      "mascote": false
+    }
+  ]
+}

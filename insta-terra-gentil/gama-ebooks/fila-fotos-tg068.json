@@ -1,0 +1,70 @@
+{
+  "livro": "TG 068",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "alf-gesto-1",
+      "especie": "lettuce",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sowing lettuce seeds in shallow furrows in a long planter",
+      "mascote": false
+    },
+    {
+      "id": "alf-gesto-2",
+      "especie": "lettuce",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting loose-leaf lettuce with scissors about 2.5 cm above the soil",
+      "mascote": false
+    },
+    {
+      "id": "alf-gesto-3",
+      "especie": "lettuce",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands watering a long planter of freshly cut lettuce stumps with a watering can; the small mascot figurine sits on the edge of the planter",
+      "mascote": true
+    },
+    {
+      "id": "alf-sintoma-1",
+      "especie": "lettuce",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Bolted lettuce plant with a tall flower stalk rising from the center in a hot garden bed",
+      "mascote": false
+    },
+    {
+      "id": "alf-var-acelga",
+      "especie": "swiss chard",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Rainbow swiss chard with red, yellow and white stems in a bed",
+      "mascote": false
+    },
+    {
+      "id": "alf-var-chicoria",
+      "especie": "chicory",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Chicory plant with open sky-blue flowers in the morning light",
+      "mascote": false
+    },
+    {
+      "id": "alf-var-capuchinha",
+      "especie": "nasturtium",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Nasturtium with orange flowers and round leaves spilling over a low stone wall; the small mascot figurine stands on top of the wall next to it",
+      "mascote": true
+    },
+    {
+      "id": "alf-var-borragem",
+      "especie": "borage",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Borage with drooping blue star-shaped flowers and a bee on one of them",
+      "mascote": false
+    }
+  ]
+}

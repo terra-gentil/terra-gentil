@@ -1,0 +1,70 @@
+{
+  "livro": "TG 063",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "abb-gesto-1",
+      "especie": "pumpkin",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pressing two or three flat pumpkin seeds into a small cup of potting soil",
+      "mascote": false
+    },
+    {
+      "id": "abb-gesto-2",
+      "especie": "pumpkin",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pulling out the weakest pumpkin seedling from a small cup, leaving the strongest one; the small mascot figurine sits on the rim of the cup tray",
+      "mascote": true
+    },
+    {
+      "id": "abb-gesto-3",
+      "especie": "pumpkin",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting a pumpkin seedling in the center of a small mound of garden soil",
+      "mascote": false
+    },
+    {
+      "id": "abb-sintoma-1",
+      "especie": "zucchini",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Zucchini leaf covered in white powdery mildew, looking like dusted powdered sugar",
+      "mascote": false
+    },
+    {
+      "id": "abb-var-pepino",
+      "especie": "cucumber",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cucumber plant climbing a garden net with green cucumbers hanging",
+      "mascote": false
+    },
+    {
+      "id": "abb-var-melancia",
+      "especie": "watermelon",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Watermelon vine with a striped watermelon resting on straw; the small mascot figurine stands on the straw next to the fruit",
+      "mascote": true
+    },
+    {
+      "id": "abb-var-quiabo",
+      "especie": "okra",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Okra plant with green pods and a pale yellow flower",
+      "mascote": false
+    },
+    {
+      "id": "abb-var-berinjela",
+      "especie": "eggplant",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Glossy purple eggplants hanging on the plant, tied to a sturdy stake",
+      "mascote": false
+    }
+  ]
+}

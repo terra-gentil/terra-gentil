@@ -1,0 +1,559 @@
+{
+  "livro": "TG 056",
+  "titulo": "Gramado Bonito",
+  "serie": "#2F3E14",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "056",
+        "COLEÇÃO TERRA GENTIL",
+        "GRAMA",
+        "Gramado Bonito",
+        "Verde, fechado e sem mato.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "grama-A-1.jpg",
+          "alt": "André num gramado verde e fechado"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "n10-39",
+        "a8-641"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Gramado bonito começa embaixo da terra.",
+        "O segredo é chão bom e grama fechada.",
+        "Aqui tem plantio, corte e mato que avisa.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache o canto onde a grama falha.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 056 GRAMADO BONITO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "grama-B-1.jpg",
+          "alt": "André olhando o gramado do quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "n10-54",
+        "w31-150",
+        "a8-642"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Corte alto.",
+        "Deixe sempre no mínimo 5 cm de grama.",
+        "AREJAR",
+        "Garfo a cada 15 cm.",
+        "Lâmina sempre afiada.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 056 GRAMADO BONITO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do gramado",
+        "06",
+        "CAPÍTULO 1",
+        "Preparar o chão",
+        "08",
+        "CAPÍTULO 2",
+        "Plantar a grama",
+        "12",
+        "CAPÍTULO 3",
+        "Cortar e cuidar",
+        "15",
+        "CAPÍTULO 4",
+        "O mato que avisa",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Grama marrom? Vá para a página 11.",
+        "Na próxima: a ficha do gramado",
+        "→",
+        "TG 056 GRAMADO BONITO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "n10-35",
+        "n10-40",
+        "n10-54",
+        "i36-067",
+        "i36-059",
+        "w31-149"
+      ],
+      "textos": [
+        "FICHA DO GRAMADO",
+        "Antes de plantar",
+        "O que ele pede",
+        "TERRENO",
+        "Nivelado, sem pedra",
+        "ADUBO",
+        "Húmus",
+        "ALTURA",
+        "No mínimo 5 cm",
+        "REGA",
+        "Manhã ou fim da tarde",
+        "PLACA",
+        "No dia que chega",
+        "PISOTEIO",
+        "ATENÇÃO",
+        "Compacta a terra",
+        "Na próxima: preparar o chão",
+        "→",
+        "TG 056 GRAMADO BONITO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Preparar o chão",
+        "01",
+        "Certo e errado",
+        "02",
+        "Grama em placa, passo a passo",
+        "03",
+        "Grama marrom",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 056 GRAMADO BONITO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "grama-C-1.jpg",
+          "alt": "André nivelando a terra com o rastelo"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "n10-35",
+        "n10-40",
+        "n10-54",
+        "a8-642",
+        "n10-39",
+        "w31-129"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Terreno",
+        "Nivelado",
+        "Com torrão",
+        "Adubo",
+        "Húmus",
+        "Esterco comum",
+        "Corte",
+        "Alto",
+        "Rente",
+        "Lâmina",
+        "Afiada",
+        "Cega",
+        "Solo bem preparado deixa o gramado anos sem replantar.",
+        "DICA DO ANDRÉ",
+        "Borda reta: pise numa tábua e corte rente a ela.",
+        "Na próxima: plantar a grama",
+        "→",
+        "TG 056 GRAMADO BONITO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Plantar a grama",
+        "01",
+        "Grama em placa, passo a passo",
+        "02",
+        "Grama de semente",
+        "03",
+        "Grama marrom",
+        "Na próxima: grama em placa, passo a passo",
+        "→",
+        "TG 056 GRAMADO BONITO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "grama-D-1.jpg",
+          "alt": "André assentando placas de grama"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "i36-059",
+        "n10-44",
+        "i36-060",
+        "i36-061",
+        "n10-45"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Grama em placa? Faça assim.",
+        "QUANDO",
+        "No dia que chega",
+        "ANTES",
+        "Rastele de leve",
+        "PRECISA",
+        "Placas e terra fina",
+        "1",
+        "ENCAIXE",
+        "Desencontre as emendas, como tijolo.",
+        "2",
+        "APERTE",
+        "A raiz tem que encostar na terra.",
+        "3",
+        "VARRA",
+        "Terra fina nas frestas.",
+        "DICA DO ANDRÉ",
+        "Espalhe montes de placas antes de começar.",
+        "Na próxima: grama de semente",
+        "→",
+        "TG 056 GRAMADO BONITO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "gra-gesto-1.jpg",
+          "alt": "Mãos encaixando placas de grama com as emendas desencontradas"
+        },
+        {
+          "src": "gra-gesto-2.jpg",
+          "alt": "Mãos apertando a placa de grama contra a terra"
+        },
+        {
+          "src": "gra-gesto-3.jpg",
+          "alt": "Mão varrendo terra fina nas frestas entre as placas"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "i36-063",
+        "i36-065",
+        "i36-064",
+        "i36-062"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · SEMENTE",
+        "Grama de semente",
+        "Metade da semente num sentido, metade cruzando.",
+        "Quadrados de 1 m com barbante deixam tudo por igual.",
+        "Cubra com só 1 a 2 mm de terra.",
+        "Grama nova pede rega sempre nos primeiros dias.",
+        "Primeiro corte com o cortador na altura máxima.",
+        "Na próxima: grama marrom",
+        "→",
+        "TG 056 GRAMADO BONITO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "w31-149",
+        "w31-150"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Grama marrom onde todo mundo pisa?",
+        "1",
+        "O QUE PARECE",
+        "Falta de água.",
+        "O QUE PODE SER",
+        "Chão compactado.",
+        "COMO RESOLVER",
+        "Areje com o garfo.",
+        "Na próxima: cortar e cuidar",
+        "→",
+        "TG 056 GRAMADO BONITO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "gra-sintoma-1.jpg",
+          "alt": "Trilha de grama marrom e rala num gramado muito pisado"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Cortar e cuidar",
+        "01",
+        "Corte certo",
+        "02",
+        "Mato no gramado",
+        "03",
+        "O mato que avisa",
+        "Na próxima: corte certo",
+        "→",
+        "TG 056 GRAMADO BONITO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "grama-E-1.jpg",
+          "alt": "André cortando a grama do quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "n10-54",
+        "a8-642",
+        "n10-01",
+        "n10-55",
+        "w31-129",
+        "i36-072",
+        "i36-059"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CORTAR",
+        "Corte certo",
+        "ALTURA",
+        "No mínimo 5 cm",
+        "LÂMINA",
+        "Sempre afiada",
+        "VOCÊ VAI PRECISAR",
+        "Lâmina de metal",
+        " para grama alta",
+        "Fio de nylon",
+        " para gramado baixo",
+        "Rastelo",
+        " para a grama cortada",
+        "Tábua e meia-lua",
+        " para a borda",
+        "Cuidado",
+        "Folha seca",
+        " tira a luz da grama",
+        "Rolo empilhado",
+        " apodrece e amarela",
+        "Na próxima: mato no gramado",
+        "→",
+        "TG 056 GRAMADO BONITO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "a8-641",
+        "a8-266",
+        "e22-106",
+        "n10-73"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · MATO",
+        "ATENÇÃO",
+        "Mato aparece onde a grama não fechou.",
+        "Grama falhada vira porta para o mato.",
+        "Gramado fechado não dá mato.",
+        "FAÇA ASSIM",
+        "Adube, areje e semeie nas falhas.",
+        "No gramado, arranque o mato à mão.",
+        "Na próxima: o mato que avisa",
+        "→",
+        "TG 056 GRAMADO BONITO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "k9-084",
+        "k9-085",
+        "k9-086",
+        "k9-087"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O mato que avisa",
+        "1",
+        "Guanxuma",
+        "Solo compactado.",
+        "2",
+        "Tiririca",
+        "Chão pelado no sol forte.",
+        "3",
+        "Capim-carrapicho",
+        "Solo muito duro.",
+        "4",
+        "Samambaia",
+        "Solo ácido.",
+        "CHAVE",
+        "Leia o mato",
+        "Cuide do chão",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 056 GRAMADO BONITO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "gra-var-guanxuma.jpg",
+          "alt": "Guanxuma nascendo num gramado de terra batida"
+        },
+        {
+          "src": "gra-var-tiririca.jpg",
+          "alt": "Tiririca brotando em chão pelado no sol"
+        },
+        {
+          "src": "gra-var-carrapicho.jpg",
+          "alt": "Capim-carrapicho com espigas espinhentas em solo duro"
+        },
+        {
+          "src": "gra-var-samambaia.jpg",
+          "alt": "Samambaia-das-taperas num barranco"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "n10-86",
+        "a8-642",
+        "a8-265",
+        "n10-82",
+        "t37-025"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "MANCHA REDONDA AMARELA",
+        "Pode ser cupim.",
+        "GRAMA RASGADA",
+        "Lâmina cega.",
+        "TRILHA PELADA",
+        "Pisada no mesmo lugar.",
+        "FOLHA E RAIZ COMIDAS",
+        "Grilo ou paquinha.",
+        "DICA DO ANDRÉ",
+        "Círculo de cogumelo não faz mal à grama.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 056 GRAMADO BONITO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "a8-642",
+        "i36-064"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "4 a 6",
+        "DIAS",
+        "é o que o capim cortado com lâmina afiada leva para rebrotar.",
+        "Rasgado, demora 6 a 8 semanas.",
+        "E MAIS UMA",
+        "Semente coberta com 1 a 2 mm de terra brota em uma a duas semanas.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 056 GRAMADO BONITO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "n10-35",
+        "n10-40",
+        "i36-059",
+        "i36-060",
+        "n10-54",
+        "a8-642",
+        "w31-150",
+        "n10-73"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Terreno nivelado",
+        "Húmus no preparo",
+        "Placa no dia que chega",
+        "Emendas desencontradas",
+        "Corte acima de 5 cm",
+        "Lâmina afiada",
+        "Garfo onde compacta",
+        "Mato arrancado à mão",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 056 GRAMADO BONITO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se o seu gramado fechar bonito, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "056",
+        "VOCÊ TEM",
+        "057",
+        "058",
+        "059",
+        "060",
+        "061",
+        "São 56 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 057 ADUBO CASEIRO",
+        "Comente ADUBO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 056 GRAMADO BONITO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "grama-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

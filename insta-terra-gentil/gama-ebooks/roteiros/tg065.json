@@ -1,0 +1,556 @@
+{
+  "livro": "TG 065",
+  "titulo": "Cenoura e Raízes",
+  "serie": "#7A3412",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "065",
+        "COLEÇÃO TERRA GENTIL",
+        "CENOURA",
+        "Cenoura e Raízes",
+        "A horta que cresce para baixo.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-A-1.jpg",
+          "alt": "André numa horta de raízes"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "m33-314",
+        "i36-193"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Raiz boa nasce de terra leve e fofa.",
+        "Cenoura, rabanete, beterraba e batata.",
+        "Aqui tem semear, desbastar e colher.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Afofe um canto de terra sem pedra.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 065 CENOURA E RAÍZES",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-B-1.jpg",
+          "alt": "André olhando um canteiro de horta"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "h35-174",
+        "x23-073",
+        "h35-192",
+        "m33-314"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Semeie ralinho.",
+        "Menos desbaste, menos mosca-da-cenoura.",
+        "RALO",
+        "Semente bem espaçada.",
+        "Terra leve e sem pedra.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 065 CENOURA E RAÍZES",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da cenoura",
+        "06",
+        "CAPÍTULO 1",
+        "Terra e espaço",
+        "08",
+        "CAPÍTULO 2",
+        "Semear e desbastar",
+        "12",
+        "CAPÍTULO 3",
+        "A mosca-da-cenoura",
+        "15",
+        "CAPÍTULO 4",
+        "Raízes de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Rabanete só de folha? Vá para a página 11.",
+        "Na próxima: a ficha da cenoura",
+        "→",
+        "TG 065 CENOURA E RAÍZES",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "m33-314",
+        "m33-316",
+        "m33-315",
+        "h35-192",
+        "h35-114"
+      ],
+      "textos": [
+        "FICHA DA CENOURA",
+        "Antes de semear",
+        "O que ela pede",
+        "TERRA",
+        "Leve e sem pedra",
+        "SEMENTE",
+        "1 a 2 cm de fundo",
+        "DESBASTE",
+        "4 a 8 cm",
+        "ADUBO",
+        "Pouco nitrogênio",
+        "PRONTA",
+        "9 a 12 semanas",
+        "MOSCA",
+        "ATENÇÃO",
+        "Voa rente ao chão",
+        "Na próxima: terra e espaço",
+        "→",
+        "TG 065 CENOURA E RAÍZES",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Terra e espaço",
+        "01",
+        "Certo e errado",
+        "02",
+        "Semear, passo a passo",
+        "03",
+        "Rabanete só de folha",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 065 CENOURA E RAÍZES",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-A-1.jpg",
+          "alt": "André afofando a terra do canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "h35-174",
+        "m33-289",
+        "h35-204",
+        "s28-219",
+        "s28-215",
+        "h35-192",
+        "h35-239"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Semente",
+        "Ralinha",
+        "Grossa",
+        "Terra",
+        "Fofa",
+        "Dura",
+        "Rabanete",
+        "Pequeno",
+        "Grande",
+        "Sol",
+        "Moderado",
+        "O dia todo",
+        "Canteiro elevado, sem pedra, dá cenoura retinha.",
+        "DICA DO ANDRÉ",
+        "Cenoura redonda no vaso, comprida no canteiro.",
+        "Na próxima: semear e desbastar",
+        "→",
+        "TG 065 CENOURA E RAÍZES",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Semear e desbastar",
+        "01",
+        "Semear, passo a passo",
+        "02",
+        "Desbaste que se come",
+        "03",
+        "Rabanete só de folha",
+        "Na próxima: semear, passo a passo",
+        "→",
+        "TG 065 CENOURA E RAÍZES",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-A-1.jpg",
+          "alt": "André semeando num sulco do canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "g32-226",
+        "m33-315",
+        "h35-174",
+        "h35-195"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Cenoura? Faça assim.",
+        "ONDE",
+        "Direto no lugar",
+        "PRONTA",
+        "Em 9 a 12 semanas",
+        "PRECISA",
+        "Semente e regador",
+        "1",
+        "SULCO",
+        "Abra um de 2 cm.",
+        "2",
+        "SEMEIE",
+        "Ralinho, cubra e regue.",
+        "3",
+        "DESBASTE",
+        "Deixe 4 cm entre elas.",
+        "DICA DO ANDRÉ",
+        "Molhe a terra antes de arrancar a cenoura.",
+        "Na próxima: desbaste que se come",
+        "→",
+        "TG 065 CENOURA E RAÍZES",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cen-gesto-1.jpg",
+          "alt": "Mãos abrindo um sulco raso na terra fofa"
+        },
+        {
+          "src": "cen-gesto-2.jpg",
+          "alt": "Mãos soltando sementes de cenoura ralinhas no sulco"
+        },
+        {
+          "src": "cen-gesto-3.jpg",
+          "alt": "Mãos tirando mudinhas de cenoura no desbaste"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "s28-044",
+        "s28-218",
+        "h35-177",
+        "s28-159",
+        "h35-115"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · DESBASTE",
+        "Desbaste que se come",
+        "Mudinha de cenoura do desbaste é petisco.",
+        "A de rabanete tem gosto de agrião apimentado.",
+        "Microbeterraba sai com 2 ou 3 semanas.",
+        "Folha de beterraba é rica em ferro.",
+        "A rama da cenoura lembra salsinha.",
+        "Na próxima: rabanete só de folha",
+        "→",
+        "TG 065 CENOURA E RAÍZES",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "s28-215",
+        "m33-329"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Rabanete só de folha?",
+        "1",
+        "O QUE PARECE",
+        "Raiz que não quis crescer.",
+        "O QUE PODE SER",
+        "Sol forte o dia todo.",
+        "COMO RESOLVER",
+        "Sol moderado e terra leve.",
+        "Na próxima: a mosca-da-cenoura",
+        "→",
+        "TG 065 CENOURA E RAÍZES",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cen-sintoma-1.jpg",
+          "alt": "Rabanetes com muita folha e raiz fininha"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "A mosca-da-cenoura",
+        "01",
+        "Barreira certa",
+        "02",
+        "Cheiro que confunde",
+        "03",
+        "Raízes de perto",
+        "Na próxima: barreira certa",
+        "→",
+        "TG 065 CENOURA E RAÍZES",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-praga-A-1.jpg",
+          "alt": "André cobrindo o canteiro com tela fina"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "i36-196",
+        "h35-240",
+        "s28-192",
+        "g32-487",
+        "h35-174"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · MOSCA",
+        "Barreira certa",
+        "COMO VOA",
+        "Rente ao chão",
+        "PERIGO",
+        "Na hora do desbaste",
+        "VOCÊ VAI PRECISAR",
+        "Tela fina",
+        " sobre a cenoura",
+        "Vaso",
+        " erguido a 60 cm",
+        "Manta leve",
+        " cobrindo a muda",
+        "Semente rala",
+        " para desbastar menos",
+        "Cuidado",
+        "Salsinha",
+        " a mosca ataca também",
+        "Mesmo canteiro",
+        " troque por um ano",
+        "Na próxima: cheiro que confunde",
+        "→",
+        "TG 065 CENOURA E RAÍZES",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "s28-192",
+        "x23-073",
+        "w31-088"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CHEIRO",
+        "ATENÇÃO",
+        "O cheiro da cenoura atrai a mosca.",
+        "Desbastar solta esse cheiro no ar.",
+        "Semente espaçada pede menos desbaste.",
+        "FAÇA ASSIM",
+        "Cebola ou alho-poró perto da cenoura.",
+        "O cheiro forte confunde a mosca.",
+        "Na próxima: quatro raízes",
+        "→",
+        "TG 065 CENOURA E RAÍZES",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "g32-234",
+        "g32-098",
+        "m33-288",
+        "v19-018"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro raízes",
+        "1",
+        "Beterraba",
+        "Folha e raiz se comem.",
+        "2",
+        "Batata-doce",
+        "Começa pela rama.",
+        "3",
+        "Cebola",
+        "Bulbinho pega mais.",
+        "4",
+        "Alho",
+        "Plante dente por dente.",
+        "CHAVE",
+        "Terra fofa",
+        "Desbaste certo",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 065 CENOURA E RAÍZES",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cen-var-beterraba.jpg",
+          "alt": "Pés de beterraba com o ombro roxo aparecendo na terra"
+        },
+        {
+          "src": "cen-var-batata-doce.jpg",
+          "alt": "Rama de batata-doce espalhada no canteiro"
+        },
+        {
+          "src": "cen-var-cebola.jpg",
+          "alt": "Cebolas crescendo em fileira no canteiro"
+        },
+        {
+          "src": "cen-var-alho.jpg",
+          "alt": "Pés de alho em fileira com folhas finas"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "i36-200",
+        "s28-219",
+        "m33-289",
+        "g32-222",
+        "g32-236"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "BATATA VERDE",
+        "Pegou luz: chegue terra.",
+        "RABANETE DURO",
+        "Cresceu demais.",
+        "CEBOLA PARA FORA",
+        "Terra dura demais.",
+        "BULBO PEQUENO",
+        "Muda perto demais.",
+        "DICA DO ANDRÉ",
+        "Guarde beterraba em areia úmida.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 065 CENOURA E RAÍZES",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "h35-243",
+        "h35-166"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "10",
+        "CM",
+        "entre uma beterraba e outra, depois do desbaste.",
+        "Cada \"semente\" dela traz até 5 sementes.",
+        "E MAIS UMA",
+        "Rabanete fica pronto em 4 a 6 semanas.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 065 CENOURA E RAÍZES",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "h35-192",
+        "h35-174",
+        "g32-226",
+        "g32-227",
+        "s28-217",
+        "i36-200",
+        "s28-044"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Terra fofa e sem pedra",
+        "Semente ralinha",
+        "Sulco de 2 cm",
+        "Desbaste a 4 cm",
+        "Tela fina contra a mosca",
+        "Rabanete a cada 10 dias",
+        "Batata com terra no pé",
+        "Coma o desbaste",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 065 CENOURA E RAÍZES",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua primeira cenoura sair retinha, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "065",
+        "VOCÊ TEM",
+        "066",
+        "067",
+        "068",
+        "069",
+        "070",
+        "São 65 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 066 COMIGO-NINGUÉM-PODE",
+        "Comente COMIGO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 065 CENOURA E RAÍZES",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-F-1.jpg",
+          "alt": "Retrato do André na horta"
+        }
+      ]
+    }
+  ]
+}

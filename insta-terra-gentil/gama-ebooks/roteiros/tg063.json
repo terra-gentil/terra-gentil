@@ -1,0 +1,560 @@
+{
+  "livro": "TG 063",
+  "titulo": "Abóbora e Abobrinha",
+  "serie": "#7A3A12",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "063",
+        "COLEÇÃO TERRA GENTIL",
+        "ABÓBORA",
+        "Abóbora e Abobrinha",
+        "Da semente ao fruto, sem susto.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-A-1.jpg",
+          "alt": "André na horta com pés de abobrinha"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "g32-019",
+        "s28-183",
+        "s28-153"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Abobrinha, pepino e abóbora são quase só água.",
+        "Por isso pedem rega farta, sempre no pé.",
+        "Aqui tem semente, montinho e colheita certa.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache o canto mais ensolarado do quintal.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: se fizer só uma coisa",
+        "→",
+        "TG 063 ABÓBORA E ABOBRINHA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-B-1.jpg",
+          "alt": "André olhando um canteiro da horta"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "s28-183",
+        "s28-184",
+        "h35-225"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Regue no pé, não na folha.",
+        "Folha molhada pega oídio, e o caule apodrece.",
+        "COLHER",
+        "Abobrinha com uns 10 cm.",
+        "Colher pequena faz o pé dar mais.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 063 ABÓBORA E ABOBRINHA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da abóbora",
+        "06",
+        "CAPÍTULO 1",
+        "Lugar e terra",
+        "08",
+        "CAPÍTULO 2",
+        "Semear e regar",
+        "12",
+        "CAPÍTULO 3",
+        "Colher no ponto",
+        "15",
+        "CAPÍTULO 4",
+        "Parentes de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Folha com pó branco? Vá para a página 11.",
+        "Na próxima: a ficha da abóbora",
+        "→",
+        "TG 063 ABÓBORA E ABOBRINHA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "s28-153",
+        "g32-163",
+        "g32-177",
+        "m33-311",
+        "s28-183"
+      ],
+      "textos": [
+        "FICHA DA ABÓBORA",
+        "Antes de plantar",
+        "O que ela pede",
+        "SOL",
+        "Pleno",
+        "TERRA",
+        "Rica, com esterco",
+        "ESPAÇO",
+        "1 m entre os pés",
+        "REGA",
+        "Farta, no pé",
+        "SEMENTE",
+        "Uma noite de molho",
+        "FOLHA MOLHADA",
+        "ATENÇÃO",
+        "Chama o oídio",
+        "Na próxima: lugar e terra",
+        "→",
+        "TG 063 ABÓBORA E ABOBRINHA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Lugar e terra",
+        "01",
+        "Certo e errado",
+        "02",
+        "Semente, passo a passo",
+        "03",
+        "Pó branco na folha",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 063 ABÓBORA E ABOBRINHA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-C-1.jpg",
+          "alt": "André preparando a cova da abóbora"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "s28-183",
+        "h35-190",
+        "g32-178",
+        "s28-188",
+        "h35-225",
+        "g32-179"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Rega",
+        "No pé",
+        "Na folha",
+        "Cova",
+        "Uma planta",
+        "Duas juntas",
+        "Colheita",
+        "Pequena",
+        "Gigante",
+        "Fruto",
+        "Na palha",
+        "Na terra",
+        "Abóbora é comilona e sedenta, mas apodrece fácil.",
+        "DICA DO ANDRÉ",
+        "Corte a abobrinha com faca afiada para não machucar o pé.",
+        "Na próxima: semente, passo a passo",
+        "→",
+        "TG 063 ABÓBORA E ABOBRINHA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Semear e regar",
+        "01",
+        "Semente, passo a passo",
+        "02",
+        "Água no pé",
+        "03",
+        "Pó branco na folha",
+        "Na próxima: semente, passo a passo",
+        "→",
+        "TG 063 ABÓBORA E ABOBRINHA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-F-1.jpg",
+          "alt": "André regando o pé de uma abobrinha"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "m33-311",
+        "m33-312",
+        "s28-153",
+        "s28-186"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Semear abóbora? Faça assim.",
+        "ANTES",
+        "Uma noite de molho",
+        "POR COPINHO",
+        "2 ou 3 sementes",
+        "PRECISA",
+        "Copinhos e um montinho",
+        "1",
+        "SEMEIE",
+        "Duas ou três por copinho.",
+        "2",
+        "ESCOLHA",
+        "Deixe só a mais forte.",
+        "3",
+        "PLANTE",
+        "No meio do montinho de terra.",
+        "DICA DO ANDRÉ",
+        "Espete um palito do lado da muda para achar o meio na rega.",
+        "Na próxima: água no pé",
+        "→",
+        "TG 063 ABÓBORA E ABOBRINHA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "abb-gesto-1.jpg",
+          "alt": "Mãos pondo sementes de abóbora num copinho de terra"
+        },
+        {
+          "src": "abb-gesto-2.jpg",
+          "alt": "Mãos tirando a mudinha mais fraca do copinho"
+        },
+        {
+          "src": "abb-gesto-3.jpg",
+          "alt": "Mãos plantando a muda de abóbora no meio de um montinho de terra"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "s28-153",
+        "w31-071",
+        "g32-164",
+        "h35-118",
+        "h35-225"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · ÁGUA",
+        "Água no pé",
+        "Regue em volta do monte, não em cima da planta.",
+        "Raiz seca deixa a abobrinha fraca para o oídio.",
+        "Garrafa enterrada de boca para baixo vira reservatório.",
+        "Pepino é sedento: terra sempre úmida.",
+        "Molhe a terra, não as folhas e o caule.",
+        "Na próxima: pó branco na folha",
+        "→",
+        "TG 063 ABÓBORA E ABOBRINHA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "w31-069",
+        "w31-070"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Folha com pó branco?",
+        "1",
+        "O QUE PARECE",
+        "Açúcar polvilhado.",
+        "O QUE PODE SER",
+        "Oídio, com a raiz seca.",
+        "COMO RESOLVER",
+        "Tire a folha e borrife leite com água.",
+        "Na próxima: colher no ponto",
+        "→",
+        "TG 063 ABÓBORA E ABOBRINHA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "abb-sintoma-1.jpg",
+          "alt": "Folha de abobrinha coberta de pó branco de oídio"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Colher no ponto",
+        "01",
+        "A hora certa",
+        "02",
+        "Abóbora de guardar",
+        "03",
+        "Parentes de perto",
+        "Na próxima: a hora certa",
+        "→",
+        "TG 063 ABÓBORA E ABOBRINHA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-G-1.jpg",
+          "alt": "André colhendo abobrinha"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "s28-184",
+        "h35-221",
+        "s28-180",
+        "h35-132",
+        "g32-179",
+        "s28-185",
+        "s28-188",
+        "g32-178"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · COLHER",
+        "A hora certa",
+        "ABOBRINHA",
+        "10 a 15 cm",
+        "PEPINO",
+        "15 a 25 cm",
+        "VOCÊ VAI PRECISAR",
+        "Faca",
+        " bem afiada",
+        "Olho",
+        " a cada poucos dias",
+        "Palha",
+        " embaixo do fruto",
+        "Mão leve",
+        " sem machucar o caule",
+        "Cuidado",
+        "Gigante",
+        " perde o sabor",
+        "Esquecida",
+        " a planta dá menos",
+        "Na próxima: abóbora de guardar",
+        "→",
+        "TG 063 ABÓBORA E ABOBRINHA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "s28-187",
+        "s28-154",
+        "g32-166"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · GUARDAR",
+        "ATENÇÃO",
+        "Abóbora de guardar só sai de casca dura.",
+        "O cabo começando a secar avisa a hora.",
+        "Fruto na terra úmida apodrece.",
+        "FAÇA ASSIM",
+        "Corte com um pedaço do cabo.",
+        "Deixe a casca curar no sol.",
+        "Na próxima: parentes de perto",
+        "→",
+        "TG 063 ABÓBORA E ABOBRINHA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "s28-178",
+        "m33-307",
+        "m33-285",
+        "g32-096",
+        "h35-223"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Parentes de perto",
+        "1",
+        "Pepino",
+        "Sobe em tutor ou rede.",
+        "2",
+        "Melancia",
+        "Duas sementes por cova.",
+        "3",
+        "Quiabo",
+        "Colhe em 8 a 11 semanas.",
+        "4",
+        "Berinjela",
+        "Branca, roxa ou listrada.",
+        "CHAVE",
+        "Terra rica",
+        "Rega no pé",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 063 ABÓBORA E ABOBRINHA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "abb-var-pepino.jpg",
+          "alt": "Pé de pepino subindo numa rede com frutos"
+        },
+        {
+          "src": "abb-var-melancia.jpg",
+          "alt": "Rama de melancia com uma melancia no chão"
+        },
+        {
+          "src": "abb-var-quiabo.jpg",
+          "alt": "Pé de quiabo com vagens verdes"
+        },
+        {
+          "src": "abb-var-berinjela.jpg",
+          "alt": "Berinjelas roxas brilhantes no pé"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "h35-228",
+        "m33-305",
+        "g32-094",
+        "g32-095",
+        "m33-308"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "PEPINO AMARGO",
+        "Na estufa, tire a flor macho.",
+        "MELANCIA SEM FRUTO",
+        "Passe o pólen à mão.",
+        "BERINJELA ENRUGADA",
+        "Passou do ponto.",
+        "ÁCARO NA BERINJELA",
+        "Borrife água nas folhas.",
+        "DICA DO ANDRÉ",
+        "Em lugar quente, semeie o pepino direto.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 063 ABÓBORA E ABOBRINHA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "g32-019",
+        "h35-144"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "95",
+        "%",
+        "de água, mais ou menos, têm abobrinha, pepino e abóbora.",
+        "Por isso pedem rega farta.",
+        "E MAIS UMA",
+        "Um pé de abobrinha bem cuidado dá até 20 frutos.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 063 ABÓBORA E ABOBRINHA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "m33-311",
+        "s28-153",
+        "g32-163",
+        "g32-177",
+        "s28-183",
+        "s28-188",
+        "s28-184",
+        "g32-179"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Semente de molho à noite",
+        "Lugar de sol pleno",
+        "Esterco curtido na cova",
+        "1 m entre os pés",
+        "Rega no pé, nunca na folha",
+        "Palha embaixo do fruto",
+        "Abobrinha colhida pequena",
+        "Faca afiada na colheita",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 063 ABÓBORA E ABOBRINHA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua abobrinha der mais do que a casa come, me conta. E divide com o vizinho. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "063",
+        "VOCÊ TEM",
+        "064",
+        "065",
+        "066",
+        "067",
+        "068",
+        "São 63 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 064 FEIJÃO E MILHO",
+        "Comente MILHO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 063 ABÓBORA E ABOBRINHA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-H-1.jpg",
+          "alt": "Retrato do André na horta"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "livro": "TG 060",
+  "titulo": "Lesma e Caracol",
+  "serie": "#2F3E4E",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "060",
+        "COLEÇÃO TERRA GENTIL",
+        "LESMA",
+        "Lesma e Caracol",
+        "Horta salva, sem veneno nenhum.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "alface-A-1.jpg",
+          "alt": "André na horta ao anoitecer"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "h35-305",
+        "w31-052",
+        "h35-012"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Lesma e caracol saem à noite e com chuva.",
+        "E podem acabar com as mudas numa noite.",
+        "Aqui tem ronda, armadilha e bicho aliado.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache o canto mais úmido da horta.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 060 LESMA E CARACOL",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "alface-B-1.jpg",
+          "alt": "André olhando um canteiro de folhas"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "p29-101",
+        "x23-065",
+        "x23-067"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Ronda à noite.",
+        "Lanterna na mão, em noite úmida e amena.",
+        "SAPO",
+        "Atraia o caçador.",
+        "Sem veneno.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 060 LESMA E CARACOL",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da lesma",
+        "06",
+        "CAPÍTULO 1",
+        "Conhecer a lesma",
+        "08",
+        "CAPÍTULO 2",
+        "Ronda e armadilha",
+        "12",
+        "CAPÍTULO 3",
+        "Proteger a muda",
+        "15",
+        "CAPÍTULO 4",
+        "Bicho aliado",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Muda sumiu numa noite? Vá para a página 11.",
+        "Na próxima: a ficha da lesma",
+        "→",
+        "TG 060 LESMA E CARACOL",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "h35-012",
+        "h35-305",
+        "q34-100",
+        "w31-061",
+        "i36-292",
+        "p29-100",
+        "w31-055"
+      ],
+      "textos": [
+        "FICHA DA LESMA",
+        "Antes de plantar",
+        "Do que ela gosta",
+        "LUGAR",
+        "Fresco e úmido",
+        "HORA",
+        "Noite e chuva",
+        "COMIDA",
+        "Muda nova",
+        "CHEIRO",
+        "De cerveja",
+        "FAVORITAS",
+        "Hosta e pimenteira",
+        "VENENO",
+        "ATENÇÃO",
+        "Afasta o sapo",
+        "Na próxima: conhecer a lesma",
+        "→",
+        "TG 060 LESMA E CARACOL",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Conhecer a lesma",
+        "01",
+        "Certo e errado",
+        "02",
+        "Armadilha, passo a passo",
+        "03",
+        "Muda sumiu",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 060 LESMA E CARACOL",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-A-1.jpg",
+          "alt": "André olhando as mudas da horta"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "p29-101",
+        "q34-098",
+        "x23-069",
+        "q34-100",
+        "w31-060",
+        "x23-064",
+        "q34-099"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Ronda",
+        "À noite",
+        "De dia",
+        "Lesma catada",
+        "Composto",
+        "Vizinho",
+        "Muda",
+        "Crescida",
+        "Novinha",
+        "Pote",
+        "Borda acima",
+        "Rente ao chão",
+        "Nem toda lesma é praga: tem espécie que caça outras lesmas.",
+        "DICA DO ANDRÉ",
+        "Planta isca perto da preferida: a lesma come a isca.",
+        "Na próxima: ronda e armadilha",
+        "→",
+        "TG 060 LESMA E CARACOL",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Ronda e armadilha",
+        "01",
+        "Armadilha, passo a passo",
+        "02",
+        "Outras armadilhas",
+        "03",
+        "Muda sumiu",
+        "Na próxima: armadilha, passo a passo",
+        "→",
+        "TG 060 LESMA E CARACOL",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-B-1.jpg",
+          "alt": "André com uma lanterna na horta"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "w31-058",
+        "q34-098",
+        "x23-068"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Armadilha da tábua? Faça assim.",
+        "QUANDO",
+        "À tarde",
+        "ONDE",
+        "Lado da sombra",
+        "PRECISA",
+        "Uma tábua",
+        "1",
+        "ENCOSTE",
+        "A tábua no canteiro.",
+        "2",
+        "ESPERE",
+        "Até a manhã seguinte.",
+        "3",
+        "CATE",
+        "E leve para a composteira.",
+        "DICA DO ANDRÉ",
+        "Casca de toranja virada também junta lesma.",
+        "Na próxima: outras armadilhas",
+        "→",
+        "TG 060 LESMA E CARACOL",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "les-gesto-1.jpg",
+          "alt": "Mãos encostando uma tábua no canteiro, no lado da sombra"
+        },
+        {
+          "src": "les-gesto-2.jpg",
+          "alt": "Mãos levantando a tábua de manhã, com lesmas embaixo"
+        },
+        {
+          "src": "les-gesto-3.jpg",
+          "alt": "Mãos catando lesmas para um balde"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "w31-061",
+        "w31-060",
+        "x23-070",
+        "g32-333",
+        "h35-203"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · RONDA",
+        "Outras armadilhas",
+        "Lesma vem pelo cheiro de fermento e açúcar da cerveja.",
+        "Enterre o pote com a borda um pouco acima do chão.",
+        "Assim o besouro do bem não cai.",
+        "Na horta de sombra, ronda com lanterna.",
+        "Depois da chuva ou ao anoitecer, vá olhar.",
+        "Na próxima: muda sumiu",
+        "→",
+        "TG 060 LESMA E CARACOL",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "w31-052",
+        "i36-292",
+        "p29-101",
+        "q34-100"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Muda sumiu numa noite?",
+        "1",
+        "O QUE PARECE",
+        "Sumiu do nada.",
+        "O QUE PODE SER",
+        "Lesma ou caracol, à noite.",
+        "COMO RESOLVER",
+        "Ronda com lanterna, muda crescida.",
+        "Na próxima: proteger a muda",
+        "→",
+        "TG 060 LESMA E CARACOL",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "les-sintoma-1.jpg",
+          "alt": "Muda nova roída por lesma na terra úmida"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Proteger a muda",
+        "01",
+        "Barreiras",
+        "02",
+        "Sal e veneno",
+        "03",
+        "Aliados de perto",
+        "Na próxima: barreiras",
+        "→",
+        "TG 060 LESMA E CARACOL",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-C-1.jpg",
+          "alt": "André protegendo uma muda no canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "h35-152",
+        "i36-287",
+        "w31-057",
+        "s28-022",
+        "s28-213",
+        "q34-100"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · BARREIRA",
+        "Barreiras",
+        "QUANDO",
+        "Na muda nova",
+        "ONDE",
+        "Vaso e canteiro",
+        "VOCÊ VAI PRECISAR",
+        "Fita de cobre",
+        " em volta da jardineira",
+        "Garrafa PET",
+        " sem fundo, na muda",
+        "Lã de ovelha",
+        " sobre a terra do vaso",
+        "Cúpula de PET",
+        " de noite, na muda",
+        "Cuidado",
+        "Broto novo",
+        " a lesma adora",
+        "Ervilha",
+        " só sai com uns 15 cm",
+        "Na próxima: sal e veneno",
+        "→",
+        "TG 060 LESMA E CARACOL",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "w31-056",
+        "w31-055",
+        "x23-067"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · SAL",
+        "ATENÇÃO",
+        "Sal é só na fita, nunca na terra.",
+        "Veneno espanta o sapo do quintal.",
+        "Tem verme do solo que mata lesma sem veneno.",
+        "FAÇA ASSIM",
+        "Fita dupla face rolada no sal, no vaso.",
+        "Vermes do solo, vendidos prontos.",
+        "Na próxima: quatro aliados",
+        "→",
+        "TG 060 LESMA E CARACOL",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "w31-053",
+        "x23-066",
+        "x23-148",
+        "x23-129",
+        "x23-134",
+        "i36-304"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · ALIADOS",
+        "Quatro aliados",
+        "1",
+        "Sapo",
+        "Come milhares numa temporada.",
+        "2",
+        "Besouro de chão",
+        "Caça lesma e caramujo.",
+        "3",
+        "Joaninha",
+        "A larva devora pulgão.",
+        "4",
+        "Libélula",
+        "Come centenas de mosquitinhos.",
+        "CHAVE",
+        "Sem veneno",
+        "Laguinho",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 060 LESMA E CARACOL",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "les-var-sapo.jpg",
+          "alt": "Sapo parado entre as folhas úmidas do canteiro"
+        },
+        {
+          "src": "les-var-besouro.jpg",
+          "alt": "Besouro de chão andando na terra da horta"
+        },
+        {
+          "src": "les-var-joaninha.jpg",
+          "alt": "Joaninha numa folha com pulgões"
+        },
+        {
+          "src": "les-var-libelula.jpg",
+          "alt": "Libélula pousada perto de um laguinho"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "w31-052",
+        "x23-069",
+        "w31-055",
+        "x23-149",
+        "x23-150"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "MUDA SUMIU",
+        "Lesma: faça ronda.",
+        "LESMA VOLTOU",
+        "Ela sabe voltar para casa.",
+        "SAPO NÃO FICA",
+        "Tire o veneno, cubra o chão.",
+        "PULGÃO VOLTOU",
+        "Veneno matou a joaninha.",
+        "DICA DO ANDRÉ",
+        "Antes de borrifar, espere as larvas de joaninha.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 060 LESMA E CARACOL",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "x23-154",
+        "x23-001"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "2.000",
+        "KM",
+        "ou mais voa a borboleta vanessa, que migra.",
+        "E pode parar no seu jardim para beber néctar.",
+        "E MAIS UMA",
+        "Um morceguinho come até 3.500 insetos numa noite.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 060 LESMA E CARACOL",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "p29-101",
+        "w31-058",
+        "w31-060",
+        "q34-100",
+        "i36-287",
+        "x23-067",
+        "q34-051",
+        "w31-054"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Ronda à noite com lanterna",
+        "Tábua no lado da sombra",
+        "Pote com a borda acima",
+        "Muda só crescida",
+        "Garrafa PET em volta",
+        "Nada de veneno",
+        "Laguinho para o sapo",
+        "Casinha de sapo na sombra",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 060 LESMA E CARACOL",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se aparecer um sapo no seu quintal, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "060",
+        "VOCÊ TEM",
+        "061",
+        "062",
+        "063",
+        "064",
+        "065",
+        "São 60 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 061 LAVANDA E ALECRIM",
+        "Comente LAVANDA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 060 LESMA E CARACOL",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "alface-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

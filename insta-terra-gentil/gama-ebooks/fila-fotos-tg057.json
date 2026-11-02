@@ -1,0 +1,70 @@
+{
+  "livro": "TG 057",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "adu-gesto-1",
+      "especie": "comfrey",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands chopping large comfrey leaves on a wooden board",
+      "mascote": false
+    },
+    {
+      "id": "adu-gesto-2",
+      "especie": "comfrey",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands putting chopped comfrey leaves into a bucket of water with a lid beside it; the small mascot figurine sits on the rim of the bucket",
+      "mascote": true
+    },
+    {
+      "id": "adu-gesto-3",
+      "especie": "comfrey",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pouring dark comfrey liquid into a watering can full of water",
+      "mascote": false
+    },
+    {
+      "id": "adu-sintoma-1",
+      "especie": "vegetable in pot",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Small stunted vegetable plant in a pot with pale yellowish green leaves",
+      "mascote": false
+    },
+    {
+      "id": "adu-var-confrei",
+      "especie": "comfrey",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Comfrey clump with broad leaves and purple bell flowers",
+      "mascote": false
+    },
+    {
+      "id": "adu-var-urtiga",
+      "especie": "stinging nettle",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Stinging nettle plant growing in a corner of a backyard",
+      "mascote": false
+    },
+    {
+      "id": "adu-var-trevo",
+      "especie": "red clover",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Flowering red clover covering a garden bed with a bee on a flower; the small mascot figurine stands among the clover at the edge of the bed",
+      "mascote": true
+    },
+    {
+      "id": "adu-var-feijao",
+      "especie": "bean",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Bean plant with green pods in a vegetable bed",
+      "mascote": false
+    }
+  ]
+}

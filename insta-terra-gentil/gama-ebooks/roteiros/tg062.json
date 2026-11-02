@@ -1,0 +1,558 @@
+{
+  "livro": "TG 062",
+  "titulo": "Girassol",
+  "serie": "#6B4A12",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "062",
+        "COLEÇÃO TERRA GENTIL",
+        "GIRASSOL",
+        "Girassol",
+        "Flor de sol que nasce da semente.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "girassol-A-1.jpg",
+          "alt": "André ao lado de um girassol alto"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "b24-133",
+        "m33-151",
+        "w31-025"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Girassol e as amigas dele nascem de semente.",
+        "O segredo é sol cheio e raiz quieta.",
+        "Aqui tem semeadura, tutor e flor de corte.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache o lado leste do quintal.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 062 GIRASSOL",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "girassol-B-1.jpg",
+          "alt": "André olhando um girassol de frente"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "m33-151",
+        "s28-105",
+        "b24-133"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Semeie no lugar certo.",
+        "Girassol não gosta de ter a raiz mexida.",
+        "TUTOR",
+        "Estaca do lado, já no plantio.",
+        "Sol cheio e terra que escoa.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 062 GIRASSOL",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha das flores",
+        "06",
+        "CAPÍTULO 1",
+        "Sol e semente",
+        "08",
+        "CAPÍTULO 2",
+        "Semear sem erro",
+        "12",
+        "CAPÍTULO 3",
+        "Flor de corte",
+        "15",
+        "CAPÍTULO 4",
+        "Flores de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Muda comida? Vá para a página 11.",
+        "Na próxima: a ficha das flores",
+        "→",
+        "TG 062 GIRASSOL",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "b24-133",
+        "b24-126",
+        "m33-151",
+        "s28-120",
+        "m33-341",
+        "s28-102"
+      ],
+      "textos": [
+        "FICHA DAS FLORES",
+        "Antes de semear",
+        "O que elas pedem",
+        "SOL",
+        "Cheio",
+        "TERRA",
+        "Fértil e que escoe",
+        "RAIZ",
+        "Quieta, sem mexer",
+        "TUTOR",
+        "Nos girassóis altos",
+        "SEMENTE",
+        "Direto no lugar",
+        "LESMA",
+        "ATENÇÃO",
+        "Adora a muda nova",
+        "Na próxima: sol e semente",
+        "→",
+        "TG 062 GIRASSOL",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Sol e semente",
+        "01",
+        "Certo e errado",
+        "02",
+        "Semear, passo a passo",
+        "03",
+        "Muda comida",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 062 GIRASSOL",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "girassol-C-1.jpg",
+          "alt": "André num canteiro de girassóis"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "m33-151",
+        "s28-123",
+        "i36-031",
+        "b24-558",
+        "w31-025",
+        "i36-032"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Raiz",
+        "Quieta",
+        "Mexida",
+        "Rega",
+        "Na raiz",
+        "Na folha",
+        "Girassol alto",
+        "Amarrado",
+        "Solto",
+        "Flor murcha",
+        "Cortada",
+        "Esquecida",
+        "Girassol adulto para de girar e fica olhando para o leste.",
+        "DICA DO ANDRÉ",
+        "Vaso de fibra de coco vai inteiro para a terra.",
+        "Na próxima: semear sem erro",
+        "→",
+        "TG 062 GIRASSOL",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Semear sem erro",
+        "01",
+        "Semear, passo a passo",
+        "02",
+        "Semente de cada uma",
+        "03",
+        "Muda comida",
+        "Na próxima: semear, passo a passo",
+        "→",
+        "TG 062 GIRASSOL",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "girassol-D-1.jpg",
+          "alt": "André semeando num vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "s28-103",
+        "i36-033"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Semear girassol? Faça assim.",
+        "ONDE",
+        "Num vaso",
+        "QUANTAS",
+        "Duas sementes",
+        "GERMINA",
+        "Em 2 a 3 semanas",
+        "1",
+        "FURE",
+        "Um furo de 2 cm com o dedo.",
+        "2",
+        "SEMEIE",
+        "Duas sementes no furo.",
+        "3",
+        "FECHE",
+        "Cubra o furo com terra.",
+        "DICA DO ANDRÉ",
+        "Raiz no furo do vaso? Hora de passar.",
+        "Na próxima: semente de cada uma",
+        "→",
+        "TG 062 GIRASSOL",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "gir-gesto-1.jpg",
+          "alt": "Dedo fazendo um furo de 2 cm na terra do vaso"
+        },
+        {
+          "src": "gir-gesto-2.jpg",
+          "alt": "Mão soltando duas sementes de girassol no furo"
+        },
+        {
+          "src": "gir-gesto-3.jpg",
+          "alt": "Mãos fechando o furo com terra"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "m33-260",
+        "m33-339",
+        "s28-120",
+        "s28-097",
+        "s28-096"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · SEMENTES",
+        "Semente de cada uma",
+        "Tagetes: plante a semente com o rabinho.",
+        "Calêndula quebra em três, e cada pedaço nasce.",
+        "Zínia vai direto no lugar ou em vaso de papel.",
+        "Cosmos tem semente grande, boa para criança.",
+        "Com calor, cosmos germina em uma semana.",
+        "Na próxima: muda comida",
+        "→",
+        "TG 062 GIRASSOL",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "s28-102"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Muda de girassol comida?",
+        "1",
+        "O QUE PARECE",
+        "Muda que sumiu.",
+        "O QUE PODE SER",
+        "Lesma, que adora a muda.",
+        "COMO RESOLVER",
+        "Crie no vaso até uns 30 cm.",
+        "Na próxima: flor de corte",
+        "→",
+        "TG 062 GIRASSOL",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "gir-sintoma-1.jpg",
+          "alt": "Mudinha de girassol roída por lesma, com rastro brilhante na terra"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Flor de corte",
+        "01",
+        "Mais flor por mais tempo",
+        "02",
+        "Tutor e vento",
+        "03",
+        "Flores de perto",
+        "Na próxima: mais flor por mais tempo",
+        "→",
+        "TG 062 GIRASSOL",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "girassol-E-1.jpg",
+          "alt": "André colhendo girassóis para um vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "s28-060",
+        "s28-062",
+        "s28-124",
+        "b24-124",
+        "s28-086",
+        "b24-536",
+        "s28-102"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CORTE",
+        "Mais flor por mais tempo",
+        "QUANTAS",
+        "3 ou 4 variedades",
+        "COMO",
+        "Fileiras apertadas",
+        "BOAS PARA CORTE",
+        "Girassol",
+        " pequeno de galhos",
+        "Zínia",
+        " 7 dias no vaso",
+        "Tagetes",
+        " dura bastante",
+        "Boca-de-leão",
+        " com as de baixo abertas",
+        "Cuidado",
+        "Flor murcha",
+        " tire para vir mais",
+        "Lesma",
+        " muda no vaso",
+        "Na próxima: tutor e vento",
+        "→",
+        "TG 062 GIRASSOL",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "i36-031",
+        "s28-074",
+        "m33-153",
+        "s28-105"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · VENTO",
+        "ATENÇÃO",
+        "Girassol alto tomba no vento.",
+        "Tem variedade que passa de 4 metros.",
+        "Mudar de lugar? Só em até 7 dias.",
+        "FAÇA ASSIM",
+        "Estaca do lado, já no plantio.",
+        "Amarre no bambu enquanto cresce.",
+        "Na próxima: quatro flores",
+        "→",
+        "TG 062 GIRASSOL",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "b24-131",
+        "b24-128",
+        "h35-303",
+        "b24-560"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro flores",
+        "1",
+        "Cosmos",
+        "Folha fina como pena.",
+        "2",
+        "Zínia",
+        "Parece flor de dália.",
+        "3",
+        "Tagetes",
+        "Enfeita até o prato.",
+        "4",
+        "Calêndula",
+        "Ressemeia sozinha.",
+        "CHAVE",
+        "Sol cheio",
+        "Semente no lugar",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 062 GIRASSOL",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "gir-var-cosmos.jpg",
+          "alt": "Cosmos de folha fina e flores rosa e brancas"
+        },
+        {
+          "src": "gir-var-zinia.jpg",
+          "alt": "Zínias coloridas num canteiro"
+        },
+        {
+          "src": "gir-var-tagetes.jpg",
+          "alt": "Tagetes laranja num canteiro da horta"
+        },
+        {
+          "src": "gir-var-calendula.jpg",
+          "alt": "Calêndulas amarelas e laranja no sol"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "b24-559",
+        "s28-123",
+        "b24-537",
+        "b24-122",
+        "w31-087"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "PÓ BRANCO",
+        "Oídio na calêndula.",
+        "ZÍNIA COM FUNGO",
+        "Tempo frio e chuvoso.",
+        "FERRUGEM",
+        "Doença da boca-de-leão.",
+        "TAGETES MOFADO",
+        "Mofo-cinzento.",
+        "DICA DO ANDRÉ",
+        "Tagetes perto do tomate atrai a mosca-branca.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 062 GIRASSOL",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "b24-134",
+        "i36-031",
+        "w31-200"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "5",
+        "M",
+        "pode chegar o girassol comum, com flor de 30 cm ou mais.",
+        "Por isso, amarre num bambu.",
+        "E MAIS UMA",
+        "Girassol seguir o sol tem nome: heliotropismo.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 062 GIRASSOL",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "w31-025",
+        "b24-133",
+        "m33-341",
+        "s28-103",
+        "s28-102",
+        "s28-105",
+        "s28-123",
+        "b24-536"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Lado leste do quintal",
+        "Sol cheio",
+        "Semente direto no lugar",
+        "Furo de 2 cm, duas sementes",
+        "Muda no vaso até 30 cm",
+        "Estaca ao plantar",
+        "Regue a raiz, não a folha",
+        "Tire a flor murcha",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 062 GIRASSOL",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se o seu girassol passar de você, me conta. E divide as sementes com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "062",
+        "VOCÊ TEM",
+        "063",
+        "064",
+        "065",
+        "066",
+        "067",
+        "São 62 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 063 ABÓBORA E ABOBRINHA",
+        "Comente ABÓBORA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 062 GIRASSOL",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "girassol-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

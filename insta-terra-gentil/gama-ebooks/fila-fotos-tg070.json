@@ -1,0 +1,70 @@
+{
+  "livro": "TG 070",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "fic-gesto-1",
+      "especie": "ivy",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a short ivy stem cutting with small pruning shears",
+      "mascote": false
+    },
+    {
+      "id": "fic-gesto-2",
+      "especie": "ivy",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pushing two or three ivy cuttings into the soil of the same small pot; the small mascot figurine sits on the rim of the pot",
+      "mascote": true
+    },
+    {
+      "id": "fic-gesto-3",
+      "especie": "ivy",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing a small pot of ivy cuttings on a bright shelf away from direct sun",
+      "mascote": false
+    },
+    {
+      "id": "fic-sintoma-1",
+      "especie": "spider plant",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Spider plant with swollen roots pushing the plant up and out of its tight plastic pot",
+      "mascote": false
+    },
+    {
+      "id": "fic-var-pilea",
+      "especie": "Chinese money plant",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Pilea peperomioides with round leaves on long stalks arranged in a spiral, in a pot",
+      "mascote": false
+    },
+    {
+      "id": "fic-var-peperomia",
+      "especie": "watermelon peperomia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Watermelon peperomia with silver-striped leaves and red stalks in a small pot",
+      "mascote": false
+    },
+    {
+      "id": "fic-var-zebrina",
+      "especie": "tradescantia zebrina",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tradescantia zebrina with shiny silver-striped leaves, purple underneath, trailing from a pot",
+      "mascote": false
+    },
+    {
+      "id": "fic-var-unha-de-gato",
+      "especie": "creeping fig",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Creeping fig with small dark green heart-shaped leaves covering a garden wall; the small mascot figurine stands on the ground at the foot of the wall",
+      "mascote": true
+    }
+  ]
+}

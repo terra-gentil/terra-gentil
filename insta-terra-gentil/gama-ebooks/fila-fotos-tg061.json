@@ -1,0 +1,70 @@
+{
+  "livro": "TG 061",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "lav-gesto-1",
+      "especie": "lavender",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a young green lavender shoot without flowers, about 7 cm long",
+      "mascote": false
+    },
+    {
+      "id": "lav-gesto-2",
+      "especie": "lavender",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands stripping the lower leaves from a short lavender cutting; the small mascot figurine sits on the rim of the pot",
+      "mascote": true
+    },
+    {
+      "id": "lav-gesto-3",
+      "especie": "lavender",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pushing a lavender cutting into sandy soil near the edge of a clay pot",
+      "mascote": false
+    },
+    {
+      "id": "lav-sintoma-1",
+      "especie": "lavender",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Lavender plant turning grey and limp at the base in heavy waterlogged soil",
+      "mascote": false
+    },
+    {
+      "id": "lav-var-francesa",
+      "especie": "French lavender",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "French lavender with purple bracts like a small tuft on top of each flower spike, in full sun",
+      "mascote": false
+    },
+    {
+      "id": "lav-var-alecrim",
+      "especie": "creeping rosemary",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Creeping rosemary cascading over the edge of a terracotta pot",
+      "mascote": false
+    },
+    {
+      "id": "lav-var-tomilho",
+      "especie": "creeping thyme",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Creeping thyme growing in the gaps between stepping stones of a garden path; the small mascot figurine stands on a stepping stone next to it",
+      "mascote": true
+    },
+    {
+      "id": "lav-var-salvia",
+      "especie": "common sage",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Small common sage shrub with soft grey aromatic leaves in the sun",
+      "mascote": false
+    }
+  ]
+}

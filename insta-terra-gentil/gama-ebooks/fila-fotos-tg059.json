@@ -1,0 +1,70 @@
+{
+  "livro": "TG 059",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "fun-gesto-1",
+      "especie": "mushroom log",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands drilling holes into a freshly cut hardwood log in a shady corner of the garden",
+      "mascote": false
+    },
+    {
+      "id": "fun-gesto-2",
+      "especie": "mushroom log",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pushing a wooden mushroom spawn dowel into a hole in the log; the small mascot figurine sits on top of the log",
+      "mascote": true
+    },
+    {
+      "id": "fun-gesto-3",
+      "especie": "mushroom log",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands brushing melted beeswax over the plugged holes of the log",
+      "mascote": false
+    },
+    {
+      "id": "fun-sintoma-1",
+      "especie": "seedlings",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Seedling tray with young seedlings collapsed at the base of the stem, damping off",
+      "mascote": false
+    },
+    {
+      "id": "fun-var-shiitake",
+      "especie": "shiitake",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Shiitake mushrooms growing out of a hardwood log standing in the shade",
+      "mascote": false
+    },
+    {
+      "id": "fun-var-ostra",
+      "especie": "oyster mushroom",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Oyster mushrooms growing on a log in a damp shady corner; the small mascot figurine stands on the ground at the foot of the log",
+      "mascote": true
+    },
+    {
+      "id": "fun-var-oidio",
+      "especie": "powdery mildew",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Garden leaf covered with white powdery mildew",
+      "mascote": false
+    },
+    {
+      "id": "fun-var-ferrugem",
+      "especie": "rust fungus",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Underside of a leaf with orange rust spots",
+      "mascote": false
+    }
+  ]
+}

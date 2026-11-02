@@ -1,0 +1,559 @@
+{
+  "livro": "TG 061",
+  "titulo": "Lavanda e Alecrim",
+  "serie": "#4A2E5C",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "061",
+        "COLEÇÃO TERRA GENTIL",
+        "LAVANDA",
+        "Lavanda e Alecrim",
+        "Ervas de sol, cheirosas e sem mimo.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "lavanda-A-1.jpg",
+          "alt": "André num canteiro de lavanda"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "b24-517",
+        "b24-049",
+        "b24-051"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Lavanda e alecrim adoram sol e calor.",
+        "O segredo é terra que escoa e poda leve.",
+        "Aqui tem estaca, poda e cinco ervas de sol.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache o canto mais quente do quintal.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 061 LAVANDA E ALECRIM",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lavanda-B-1.jpg",
+          "alt": "André cheirando um ramo de lavanda"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "w31-029",
+        "i36-119",
+        "i36-222",
+        "b24-049"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Sol cheio e terra que escoa.",
+        "Erva do Mediterrâneo apodrece sem drenagem.",
+        "PODAR",
+        "Só no verde, nunca no marrom.",
+        "Regue a terra, não a folha.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 061 LAVANDA E ALECRIM",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha das ervas",
+        "06",
+        "CAPÍTULO 1",
+        "Sol e terra",
+        "08",
+        "CAPÍTULO 2",
+        "Muda de estaca",
+        "12",
+        "CAPÍTULO 3",
+        "Poda sem erro",
+        "15",
+        "CAPÍTULO 4",
+        "Ervas de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Lavanda morrendo? Vá para a página 11.",
+        "Na próxima: a ficha das ervas",
+        "→",
+        "TG 061 LAVANDA E ALECRIM",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "b24-049",
+        "b24-517",
+        "s2-38",
+        "i36-218",
+        "b24-052",
+        "b24-525"
+      ],
+      "textos": [
+        "FICHA DAS ERVAS",
+        "Antes de plantar",
+        "O que elas pedem",
+        "SOL",
+        "Pleno, lugar quente",
+        "TERRA",
+        "Leve e que escoe",
+        "PH",
+        "Perto de 7",
+        "ADUBO",
+        "Quase nenhum",
+        "MUDA",
+        "Estaca de ramo",
+        "SOMBRA E ÁGUA",
+        "ATENÇÃO",
+        "A lavanda sofre",
+        "Na próxima: sol e terra",
+        "→",
+        "TG 061 LAVANDA E ALECRIM",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Sol e terra",
+        "01",
+        "Certo e errado",
+        "02",
+        "Estaca, passo a passo",
+        "03",
+        "Lavanda morrendo",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 061 LAVANDA E ALECRIM",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "alecrim-A-1.jpg",
+          "alt": "André colhendo alecrim no sol"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "b24-517",
+        "w31-029",
+        "i36-222",
+        "i36-119",
+        "b24-523",
+        "i36-054"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Lugar",
+        "Sol pleno",
+        "Sombra",
+        "Terra",
+        "Que escoa",
+        "Pesada",
+        "Rega",
+        "No pé",
+        "Por cima",
+        "Poda",
+        "No verde",
+        "Na madeira",
+        "O alecrim é tão parente da sálvia que às vezes divide o gênero.",
+        "DICA DO ANDRÉ",
+        "Canteiro elevado: entulho no fundo para drenar.",
+        "Na próxima: muda de estaca",
+        "→",
+        "TG 061 LAVANDA E ALECRIM",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Muda de estaca",
+        "01",
+        "Estaca, passo a passo",
+        "02",
+        "Mudas de graça",
+        "03",
+        "Lavanda morrendo",
+        "Na próxima: estaca, passo a passo",
+        "→",
+        "TG 061 LAVANDA E ALECRIM",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "alecrim-C-1.jpg",
+          "alt": "André com mudinhas de alecrim"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "m33-184",
+        "m33-183",
+        "w31-028",
+        "w31-033"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Estaca de lavanda? Faça assim.",
+        "QUAL",
+        "Broto novo, sem flor",
+        "TAMANHO",
+        "6 a 8 cm",
+        "PRECISA",
+        "Terra com areia",
+        "1",
+        "CORTE",
+        "Um broto novo de 6 a 8 cm.",
+        "2",
+        "LIMPE",
+        "Tire as folhas dos 3 cm de baixo.",
+        "3",
+        "PLANTE",
+        "Em terra que escoe bem.",
+        "DICA DO ANDRÉ",
+        "Estaca na borda do vaso apodrece menos.",
+        "Na próxima: mudas de graça",
+        "→",
+        "TG 061 LAVANDA E ALECRIM",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lav-gesto-1.jpg",
+          "alt": "Mãos cortando um broto novo de lavanda"
+        },
+        {
+          "src": "lav-gesto-2.jpg",
+          "alt": "Mãos tirando as folhas de baixo da estaca de lavanda"
+        },
+        {
+          "src": "lav-gesto-3.jpg",
+          "alt": "Mão enfiando a estaca na borda de um vaso com terra arenosa"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "w31-031",
+        "v19-060",
+        "i36-228",
+        "m33-236",
+        "b24-533"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · MUDAS",
+        "Mudas de graça",
+        "Raminho de alecrim do mercado na água vira muda.",
+        "Tomilho rasteiro pega por ramo enterrado preso na mãe.",
+        "Ramo de tomilho que já tem raiz é muda pronta.",
+        "Touceira de sálvia cortada em 2 a 4 pedaços rende mudas.",
+        "Orégano pega por divisão, estaca ou semente.",
+        "Na próxima: lavanda morrendo",
+        "→",
+        "TG 061 LAVANDA E ALECRIM",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "w31-029",
+        "b24-517",
+        "i36-221"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Lavanda morrendo?",
+        "1",
+        "O QUE PARECE",
+        "Falta de água.",
+        "O QUE PODE SER",
+        "Terra pesada e molhada.",
+        "COMO RESOLVER",
+        "Plante 2 cm acima, com pedrisco.",
+        "Na próxima: poda sem erro",
+        "→",
+        "TG 061 LAVANDA E ALECRIM",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lav-sintoma-1.jpg",
+          "alt": "Pé de lavanda acinzentado e mole numa terra encharcada"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Poda sem erro",
+        "01",
+        "Poda da lavanda",
+        "02",
+        "Sem mimo",
+        "03",
+        "Ervas de perto",
+        "Na próxima: poda da lavanda",
+        "→",
+        "TG 061 LAVANDA E ALECRIM",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lavanda-D-1.jpg",
+          "alt": "André aparando uma lavanda florida"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "i36-120",
+        "i36-121",
+        "i36-218",
+        "b24-051",
+        "i36-119",
+        "h35-286"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · PODA",
+        "Poda da lavanda",
+        "QUANTAS",
+        "Duas por ano",
+        "QUANDO",
+        "Flor passando",
+        "COMO PODAR",
+        "Poda forte",
+        " para dar forma",
+        "Poda leve",
+        " só a flor seca",
+        "Aparada",
+        " deixa compacta",
+        "Corte",
+        " só no verde",
+        "Cuidado",
+        "Galho marrom",
+        " não rebrota",
+        "Lavanda velha",
+        " pode pedir troca",
+        "Na próxima: sem mimo",
+        "→",
+        "TG 061 LAVANDA E ALECRIM",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "i36-219",
+        "i36-222",
+        "i36-218"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CUIDADO",
+        "ATENÇÃO",
+        "Lavanda não gosta de mimo.",
+        "Adubo e composto demais atrapalham.",
+        "Molhar por cima também.",
+        "FAÇA ASSIM",
+        "Regue só a terra em volta do pé.",
+        "Adubo, só em solo muito arenoso.",
+        "Na próxima: quatro ervas",
+        "→",
+        "TG 061 LAVANDA E ALECRIM",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "q34-128",
+        "v19-054",
+        "q34-123",
+        "q34-134"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro ervas",
+        "1",
+        "Lavanda-francesa",
+        "Topete roxo na espiga.",
+        "2",
+        "Alecrim rasteiro",
+        "Cai bonito do vaso.",
+        "3",
+        "Tomilho",
+        "Cheira quando pisa.",
+        "4",
+        "Sálvia",
+        "Folha cinza perfumada.",
+        "CHAVE",
+        "Sol cheio",
+        "Terra que escoa",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 061 LAVANDA E ALECRIM",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lav-var-francesa.jpg",
+          "alt": "Lavanda-francesa com topete roxo em cima da espiga"
+        },
+        {
+          "src": "lav-var-alecrim.jpg",
+          "alt": "Alecrim rasteiro caindo pela borda de um vaso"
+        },
+        {
+          "src": "lav-var-tomilho.jpg",
+          "alt": "Tomilho rasteiro nas frestas de um caminho de pedras"
+        },
+        {
+          "src": "lav-var-salvia.jpg",
+          "alt": "Sálvia de cozinha com folhas cinzentas no sol"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "m33-186",
+        "m33-183",
+        "v19-057",
+        "w31-029",
+        "h35-283"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "GALHO PELADO",
+        "Lavanda velha: mergulhia.",
+        "ESTACA MOFADA",
+        "Lavanda florindo demais.",
+        "SÁLVIA PERNALTA",
+        "Chegue terra no pé.",
+        "PÉ PODRE",
+        "Terra pesada, sem dreno.",
+        "DICA DO ANDRÉ",
+        "Sálvia com 3 ou 4 anos: faça estaca.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 061 LAVANDA E ALECRIM",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "q34-127",
+        "b24-516"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "2,5",
+        "M",
+        "é a altura que o alecrim pode alcançar.",
+        "E aguenta sol, vento e terra que escorra.",
+        "E MAIS UMA",
+        "Existem cerca de 25 espécies de lavanda.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 061 LAVANDA E ALECRIM",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "b24-049",
+        "i36-222",
+        "m33-184",
+        "w31-031",
+        "i36-119",
+        "i36-121",
+        "i36-218"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Canto de sol pleno",
+        "Terra que escoa bem",
+        "Regue só o pé",
+        "Estaca de 6 a 8 cm",
+        "Raminho de alecrim na água",
+        "Poda só no verde",
+        "Tire a flor seca",
+        "Adubo quase nenhum",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 061 LAVANDA E ALECRIM",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua lavanda florir no sol, me conta. E divide um raminho com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "061",
+        "VOCÊ TEM",
+        "062",
+        "063",
+        "064",
+        "065",
+        "066",
+        "São 61 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 062 GIRASSOL",
+        "Comente GIRASSOL no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 061 LAVANDA E ALECRIM",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lavanda-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 056",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "gra-gesto-1",
+      "especie": "lawn",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands laying sod pieces with staggered seams like bricks on leveled soil",
+      "mascote": false
+    },
+    {
+      "id": "gra-gesto-2",
+      "especie": "lawn",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pressing a freshly laid piece of sod firmly against the soil; the small mascot figurine sits on a stack of sod pieces nearby",
+      "mascote": true
+    },
+    {
+      "id": "gra-gesto-3",
+      "especie": "lawn",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sweeping fine soil into the gaps between new sod pieces with a small brush",
+      "mascote": false
+    },
+    {
+      "id": "gra-sintoma-1",
+      "especie": "lawn",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Worn path of thin brown grass across a green lawn where people walk every day",
+      "mascote": false
+    },
+    {
+      "id": "gra-var-guanxuma",
+      "especie": "sida weed",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Sida rhombifolia weed growing in compacted bare soil at the edge of a lawn",
+      "mascote": false
+    },
+    {
+      "id": "gra-var-tiririca",
+      "especie": "nutsedge",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Nutsedge sprouting in bare soil under strong sun",
+      "mascote": false
+    },
+    {
+      "id": "gra-var-carrapicho",
+      "especie": "sandbur grass",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Sandbur grass with spiny seed heads on hard dry soil; the small mascot figurine stands on the garden path next to it",
+      "mascote": true
+    },
+    {
+      "id": "gra-var-samambaia",
+      "especie": "bracken fern",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Bracken fern growing on a sunny slope at the edge of a yard",
+      "mascote": false
+    }
+  ]
+}

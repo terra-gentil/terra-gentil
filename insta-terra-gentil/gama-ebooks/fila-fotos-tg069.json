@@ -1,0 +1,70 @@
+{
+  "livro": "TG 069",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "beg-gesto-1",
+      "especie": "begonia",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a large patterned begonia rex leaf into small squares with a knife on a wooden board",
+      "mascote": false
+    },
+    {
+      "id": "beg-gesto-2",
+      "especie": "begonia",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands holding a small square piece of begonia leaf, a finger pointing at the vein on it; the small mascot figurine sits on the edge of the wooden board next to the leaf pieces",
+      "mascote": true
+    },
+    {
+      "id": "beg-gesto-3",
+      "especie": "begonia",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands laying small squares of begonia leaf flat on moist potting soil in a tray",
+      "mascote": false
+    },
+    {
+      "id": "beg-sintoma-1",
+      "especie": "angel wing begonia",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Leggy angel wing begonia with long bare stems and almost no flowers in a dim indoor corner",
+      "mascote": false
+    },
+    {
+      "id": "beg-var-crisantemo",
+      "especie": "chrysanthemum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Potted chrysanthemum full of flowers on a sunny windowsill",
+      "mascote": false
+    },
+    {
+      "id": "beg-var-gloxinia",
+      "especie": "gloxinia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Gloxinia with velvety bell-shaped flowers and soft leaves in a pot, bright indirect light; the small mascot figurine stands on the table beside the pot",
+      "mascote": true
+    },
+    {
+      "id": "beg-var-ciclame",
+      "especie": "cyclamen",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cyclamen in a pot with round marbled leaves and upswept flowers",
+      "mascote": false
+    },
+    {
+      "id": "beg-var-primula",
+      "especie": "fairy primrose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Fairy primrose in a pot with tiers of small star-shaped pink flowers with yellow eyes",
+      "mascote": false
+    }
+  ]
+}

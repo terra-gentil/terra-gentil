@@ -1,0 +1,70 @@
+{
+  "livro": "TG 058",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "pod-gesto-1",
+      "especie": "pruning",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sawing the underside of a thick tree branch, a short distance from the trunk",
+      "mascote": false
+    },
+    {
+      "id": "pod-gesto-2",
+      "especie": "pruning",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sawing the top of the same thick branch, a little farther from the trunk",
+      "mascote": false
+    },
+    {
+      "id": "pod-gesto-3",
+      "especie": "pruning",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sawing off the remaining stub just outside the wrinkled bark collar, not touching the trunk; the small mascot figurine sits on a low branch nearby",
+      "mascote": true
+    },
+    {
+      "id": "pod-sintoma-1",
+      "especie": "shrub",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Branch with dry dark diseased leaves on an otherwise green shrub",
+      "mascote": false
+    },
+    {
+      "id": "pod-var-roseira",
+      "especie": "rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Rose bush in bloom with a few faded flowers",
+      "mascote": false
+    },
+    {
+      "id": "pod-var-suculenta",
+      "especie": "succulent",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Overgrown succulent in a terracotta pot",
+      "mascote": false
+    },
+    {
+      "id": "pod-var-pessegueiro",
+      "especie": "peach tree",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Young peach tree with green leaves in a backyard; the small mascot figurine stands on the ground at the foot of the trunk",
+      "mascote": true
+    },
+    {
+      "id": "pod-var-topiaria",
+      "especie": "topiary",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Shrub clipped into a cone shape in a garden",
+      "mascote": false
+    }
+  ]
+}

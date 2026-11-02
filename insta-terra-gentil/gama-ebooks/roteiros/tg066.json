@@ -1,0 +1,559 @@
+{
+  "livro": "TG 066",
+  "titulo": "Comigo-ninguém-pode",
+  "serie": "#2B3F5C",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "066",
+        "COLEÇÃO TERRA GENTIL",
+        "COMIGO",
+        "Comigo-ninguém-⁠pode",
+        "Brasileira e de respeito.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "comigo-ninguem-pode-A-1.jpg",
+          "alt": "André ao lado de uma comigo-ninguém-pode"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "w18-069",
+        "b24-199",
+        "w18-179"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "A comigo-ninguém-pode é brasileira.",
+        "Gosta de meia-sombra e terra que escoa.",
+        "Aqui tem muda de caule e luva na mão.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache um canto de luz clara filtrada.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 066 COMIGO-NINGUÉM-PODE",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "comigo-ninguem-pode-B-1.jpg",
+          "alt": "André olhando as folhas pintadas da planta"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "w18-179",
+        "t13-34",
+        "w18-181"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Use luva para mexer.",
+        "A seiva intoxica pelo olho, pela pele e pela boca.",
+        "LUVA",
+        "Na poda e na muda.",
+        "Vaso longe de criança e cão.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 066 COMIGO-NINGUÉM-PODE",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da comigo",
+        "06",
+        "CAPÍTULO 1",
+        "Luz e lugar",
+        "08",
+        "CAPÍTULO 2",
+        "Muda de caule",
+        "12",
+        "CAPÍTULO 3",
+        "Seiva com cuidado",
+        "15",
+        "CAPÍTULO 4",
+        "Parentes de sombra",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Caule pelado embaixo? Vá para a página 11.",
+        "Na próxima: a ficha da comigo",
+        "→",
+        "TG 066 COMIGO-NINGUÉM-PODE",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "w18-215",
+        "b24-199",
+        "q3-263",
+        "w18-216",
+        "v15-11",
+        "w18-179"
+      ],
+      "textos": [
+        "FICHA DA COMIGO",
+        "Antes de plantar",
+        "O que ela pede",
+        "LUZ",
+        "Clara e filtrada",
+        "TERRA",
+        "Fértil e que escoe",
+        "CALOR",
+        "Água à vontade",
+        "FRIO",
+        "Rega pouca",
+        "ADUBO",
+        "Uma vez por mês",
+        "SEIVA",
+        "ATENÇÃO",
+        "Tóxica, use luva",
+        "Na próxima: luz e lugar",
+        "→",
+        "TG 066 COMIGO-NINGUÉM-PODE",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Luz e lugar",
+        "01",
+        "Certo e errado",
+        "02",
+        "Muda de caule, passo a passo",
+        "03",
+        "Caule pelado",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 066 COMIGO-NINGUÉM-PODE",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "comigo-ninguem-pode-C-1.jpg",
+          "alt": "André ajeitando o vaso perto da janela"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "w18-103",
+        "w18-102",
+        "w18-216",
+        "q3-263"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Luz",
+        "Clara",
+        "Canto escuro",
+        "Lugar",
+        "Fixo",
+        "Muda toda hora",
+        "Ar",
+        "Parado",
+        "Vento encanado",
+        "Frio",
+        "Rega pouca",
+        "Terra molhada",
+        "Ela vem da mata quente, úmida e parada.",
+        "DICA DO ANDRÉ",
+        "Canto escuro? A aglaonema pede metade da luz.",
+        "Na próxima: muda de caule",
+        "→",
+        "TG 066 COMIGO-NINGUÉM-PODE",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Muda de caule",
+        "01",
+        "Muda de caule, passo a passo",
+        "02",
+        "Toco que rebrota",
+        "03",
+        "Caule pelado",
+        "Na próxima: muda de caule, passo a passo",
+        "→",
+        "TG 066 COMIGO-NINGUÉM-PODE",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "comigo-ninguem-pode-D-1.jpg",
+          "alt": "André de luva segurando um caule da planta"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "q3-262",
+        "m33-099",
+        "m33-100",
+        "w18-179",
+        "w18-217"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Muda de caule? Faça assim.",
+        "QUANDO",
+        "Caule comprido ou pelado",
+        "ENRAÍZA",
+        "Em umas 6 semanas",
+        "PRECISA",
+        "Luva e faca",
+        "1",
+        "CORTE",
+        "Toletes de 5 a 7,5 cm.",
+        "2",
+        "CONFIRA",
+        "Um nó em cada pedaço.",
+        "3",
+        "DEITE",
+        "Sobre a terra do vaso.",
+        "DICA DO ANDRÉ",
+        "Saquinho plástico na janela ajuda a enraizar.",
+        "Na próxima: toco que rebrota",
+        "→",
+        "TG 066 COMIGO-NINGUÉM-PODE",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cmg-gesto-1.jpg",
+          "alt": "Mãos de luva cortando o caule da planta em pedaços"
+        },
+        {
+          "src": "cmg-gesto-2.jpg",
+          "alt": "Mãos de luva mostrando o nó num pedaço de caule"
+        },
+        {
+          "src": "cmg-gesto-3.jpg",
+          "alt": "Mãos de luva deitando os pedaços de caule sobre a terra do vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "m33-101",
+        "m33-098",
+        "w18-020",
+        "w18-104",
+        "w18-215"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · MUDA",
+        "Toco que rebrota",
+        "O toco rebrota se ficar o olho de baixo.",
+        "Ela aceita alporquia, coisa rara em caule mole.",
+        "A folha nova sai de dentro do talo da anterior.",
+        "Cada folha dura pouco, e o caule fica à mostra.",
+        "Muda pronta? Luz clara e rega moderada.",
+        "Na próxima: caule pelado",
+        "→",
+        "TG 066 COMIGO-NINGUÉM-PODE",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "w18-104",
+        "q3-262"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Caule pelado embaixo?",
+        "1",
+        "O QUE PARECE",
+        "Planta doente.",
+        "O QUE PODE SER",
+        "O jeito normal dela.",
+        "COMO RESOLVER",
+        "Corte o caule e faça mudas.",
+        "Na próxima: seiva com cuidado",
+        "→",
+        "TG 066 COMIGO-NINGUÉM-PODE",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cmg-sintoma-1.jpg",
+          "alt": "Comigo-ninguém-pode alta com o caule pelado embaixo"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Seiva com cuidado",
+        "01",
+        "Luva na mão",
+        "02",
+        "Longe do alcance",
+        "03",
+        "Parentes de sombra",
+        "Na próxima: luva na mão",
+        "→",
+        "TG 066 COMIGO-NINGUÉM-PODE",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "comigo-ninguem-pode-E-1.jpg",
+          "alt": "André de luva cuidando da planta"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "v15-13",
+        "w18-178",
+        "w18-179",
+        "m33-097",
+        "w18-181",
+        "w18-180",
+        "q3-260"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · SEIVA",
+        "Luva na mão",
+        "ONDE",
+        "A planta inteira",
+        "MAIS FORTE",
+        "No caule",
+        "VOCÊ VAI PRECISAR",
+        "Luva",
+        " na poda e na muda",
+        "Água",
+        " para lavar a mão",
+        "Vaso",
+        " longe do alcance",
+        "Mão",
+        " longe do olho e da boca",
+        "Cuidado",
+        "Olho",
+        " incha e dói por semanas",
+        "Boca",
+        " a voz some um tempo",
+        "Na próxima: longe do alcance",
+        "→",
+        "TG 066 COMIGO-NINGUÉM-PODE",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "w18-181",
+        "g16-16",
+        "w18-105",
+        "m33-097"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CASA",
+        "ATENÇÃO",
+        "A maioria dos casos é com criança pequena.",
+        "Todo ano há casos com cães.",
+        "Com gato, cautela também.",
+        "FAÇA ASSIM",
+        "Vaso longe do alcance.",
+        "Mexeu nela? Lave bem a mão.",
+        "Na próxima: parentes de sombra",
+        "→",
+        "TG 066 COMIGO-NINGUÉM-PODE",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "w18-103",
+        "w18-109",
+        "b24-183",
+        "w18-171"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Parentes de sombra",
+        "1",
+        "Aglaonema",
+        "Pede menos luz.",
+        "2",
+        "Alocasia",
+        "Calor e ar úmido.",
+        "3",
+        "Dracena",
+        "Cortada rente, rebrota.",
+        "4",
+        "Taioba",
+        "Não quer encharcar.",
+        "CHAVE",
+        "Luz filtrada",
+        "Terra que escoe",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 066 COMIGO-NINGUÉM-PODE",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cmg-var-aglaonema.jpg",
+          "alt": "Aglaonema de folhas pintadas num vaso"
+        },
+        {
+          "src": "cmg-var-alocasia.jpg",
+          "alt": "Alocasia de folha em flecha com nervuras claras"
+        },
+        {
+          "src": "cmg-var-dracena.jpg",
+          "alt": "Dracena de folha fina com borda vermelha"
+        },
+        {
+          "src": "cmg-var-taioba.jpg",
+          "alt": "Taioba de folhas grandes na horta"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "w18-108",
+        "b24-201",
+        "b24-185",
+        "q3-256",
+        "q3-65",
+        "w18-199"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "ALOCASIA SUMIU",
+        "Dormência: guarde o vaso.",
+        "COCHONILHA",
+        "Na comigo e na dracena.",
+        "CORDILINE ALTA",
+        "Toletes de 7,5 cm.",
+        "FOLHA AMARELA",
+        "Rega demais ou pouco adubo.",
+        "DICA DO ANDRÉ",
+        "Alocasia troca de vaso todo ano.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 066 COMIGO-NINGUÉM-PODE",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "w18-069",
+        "q3-260"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "1759",
+        "O ANO",
+        "em que a comigo, brasileira, foi levada à Europa.",
+        "Foi uma das primeiras aráceas tropicais de lá.",
+        "E MAIS UMA",
+        "Em inglês, o nome dela é \"cana muda\".",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 066 COMIGO-NINGUÉM-PODE",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "w18-215",
+        "b24-199",
+        "w18-216",
+        "w18-179",
+        "q3-262",
+        "w18-181",
+        "w18-102"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Luz clara e filtrada",
+        "Terra fértil que escoe",
+        "Rega pouca no frio",
+        "Adubo uma vez por mês",
+        "Luva na poda e na muda",
+        "Toletes de 5 a 7,5 cm",
+        "Vaso longe do alcance",
+        "Longe do vento encanado",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 066 COMIGO-NINGUÉM-PODE",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua comigo der muda nova, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "066",
+        "VOCÊ TEM",
+        "067",
+        "068",
+        "069",
+        "070",
+        "071",
+        "São 66 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 067 HORTELÃ E MANJERICÃO",
+        "Comente HORTELÃ no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 066 COMIGO-NINGUÉM-PODE",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "comigo-ninguem-pode-F-1.jpg",
+          "alt": "Retrato do André com a planta"
+        }
+      ]
+    }
+  ]
+}

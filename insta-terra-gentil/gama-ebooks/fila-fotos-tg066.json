@@ -1,0 +1,70 @@
+{
+  "livro": "TG 066",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "cmg-gesto-1",
+      "especie": "dumb cane",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's gloved hands cutting the long bare cane of a dieffenbachia into short pieces with a knife on a potting bench",
+      "mascote": false
+    },
+    {
+      "id": "cmg-gesto-2",
+      "especie": "dumb cane",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's gloved hands holding a short piece of dieffenbachia cane, showing the node on it; the small mascot figurine sits on the rim of the pot on the bench",
+      "mascote": true
+    },
+    {
+      "id": "cmg-gesto-3",
+      "especie": "dumb cane",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's gloved hands laying short pieces of dieffenbachia cane flat on top of the potting soil in a pot",
+      "mascote": false
+    },
+    {
+      "id": "cmg-sintoma-1",
+      "especie": "dumb cane",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Tall leggy dieffenbachia in a pot indoors, with a long bare stem at the bottom and leaves only at the top",
+      "mascote": false
+    },
+    {
+      "id": "cmg-var-aglaonema",
+      "especie": "aglaonema",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Aglaonema with silver and green patterned leaves in a pot in a softly lit corner of a room",
+      "mascote": false
+    },
+    {
+      "id": "cmg-var-alocasia",
+      "especie": "alocasia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Alocasia amazonica with dark arrow-shaped leaves and bright white veins in a pot",
+      "mascote": false
+    },
+    {
+      "id": "cmg-var-dracena",
+      "especie": "dracaena",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dracaena marginata with thin leaves edged in red in a pot near a bright window",
+      "mascote": false
+    },
+    {
+      "id": "cmg-var-taioba",
+      "especie": "taioba",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Taioba plants with very large green leaves in a backyard vegetable garden; the small mascot figurine stands on the garden path in front of them",
+      "mascote": true
+    }
+  ]
+}

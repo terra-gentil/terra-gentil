@@ -1,0 +1,70 @@
+{
+  "livro": "TG 067",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "hrt-gesto-1",
+      "especie": "mint",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a crowded clump of mint in two with an old bread knife",
+      "mascote": false
+    },
+    {
+      "id": "hrt-gesto-2",
+      "especie": "mint",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands replanting a divided piece of mint in the soil of a large pot; the small mascot figurine sits on the rim of the pot",
+      "mascote": true
+    },
+    {
+      "id": "hrt-gesto-3",
+      "especie": "mint",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands watering freshly planted mint thoroughly with a watering can",
+      "mascote": false
+    },
+    {
+      "id": "hrt-sintoma-1",
+      "especie": "basil seedlings",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Young basil seedlings collapsed and limp in waterlogged soil",
+      "mascote": false
+    },
+    {
+      "id": "hrt-var-cebolinha",
+      "especie": "chives",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Clump of chives with small purple flowers in a herb bed",
+      "mascote": false
+    },
+    {
+      "id": "hrt-var-cidreira",
+      "especie": "lemon balm",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Clump of lemon balm with light green leaves in a herb bed",
+      "mascote": false
+    },
+    {
+      "id": "hrt-var-camomila",
+      "especie": "chamomile",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Chamomile in bloom with white petals and yellow centers in a garden bed; the small mascot figurine stands on the garden path next to it",
+      "mascote": true
+    },
+    {
+      "id": "hrt-var-erva-doce",
+      "especie": "fennel",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tall slender fennel plant with feathery leaves in a sunny corner near the kitchen",
+      "mascote": false
+    }
+  ]
+}

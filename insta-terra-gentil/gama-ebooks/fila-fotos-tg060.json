@@ -1,0 +1,70 @@
+{
+  "livro": "TG 060",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "les-gesto-1",
+      "especie": "vegetable garden",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands leaning a wooden board against a vegetable bed on its shady side in the afternoon",
+      "mascote": false
+    },
+    {
+      "id": "les-gesto-2",
+      "especie": "vegetable garden",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands lifting the wooden board in the morning, revealing slugs underneath; the small mascot figurine sits on the edge of the raised bed",
+      "mascote": true
+    },
+    {
+      "id": "les-gesto-3",
+      "especie": "vegetable garden",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands picking slugs and snails into a small bucket",
+      "mascote": false
+    },
+    {
+      "id": "les-sintoma-1",
+      "especie": "lettuce seedling",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Young lettuce seedling eaten by slugs in moist soil",
+      "mascote": false
+    },
+    {
+      "id": "les-var-sapo",
+      "especie": "toad",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Toad sitting among damp leaves in a shady garden bed",
+      "mascote": false
+    },
+    {
+      "id": "les-var-besouro",
+      "especie": "ground beetle",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Ground beetle walking on the soil of a vegetable bed",
+      "mascote": false
+    },
+    {
+      "id": "les-var-joaninha",
+      "especie": "ladybird",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Ladybird on a leaf with aphids",
+      "mascote": false
+    },
+    {
+      "id": "les-var-libelula",
+      "especie": "dragonfly",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dragonfly perched on a reed by a small garden pond; the small mascot figurine stands on a stone at the edge of the pond",
+      "mascote": true
+    }
+  ]
+}

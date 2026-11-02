@@ -1,0 +1,70 @@
+{
+  "livro": "TG 064",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "mil-gesto-1",
+      "especie": "pole bean",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands tying the tops of bamboo canes together with twine to form a tepee in a vegetable bed",
+      "mascote": false
+    },
+    {
+      "id": "mil-gesto-2",
+      "especie": "pole bean",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pushing two bean seeds into the soil at the foot of a bamboo cane; the small mascot figurine sits at the base of the cane",
+      "mascote": true
+    },
+    {
+      "id": "mil-gesto-3",
+      "especie": "pole bean",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands removing the weaker bean seedling at the foot of a bamboo cane, keeping the strongest one",
+      "mascote": false
+    },
+    {
+      "id": "mil-sintoma-1",
+      "especie": "bean seedling",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Wilted bean seedling with a rotten dark stem base in cold waterlogged soil",
+      "mascote": false
+    },
+    {
+      "id": "mil-var-ervilha",
+      "especie": "pea",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Pea plant climbing pruned twigs, with green pods hanging",
+      "mascote": false
+    },
+    {
+      "id": "mil-var-amendoim",
+      "especie": "peanut",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Freshly pulled peanut plant with peanuts hanging from the roots, sandy soil around; the small mascot figurine stands on the sandy soil next to it",
+      "mascote": true
+    },
+    {
+      "id": "mil-var-feijao-de-metro",
+      "especie": "yardlong bean",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Yardlong bean vine with very long thin green pods hanging",
+      "mascote": false
+    },
+    {
+      "id": "mil-var-fava",
+      "especie": "broad bean",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Broad bean plant with wide green pods in a deep bed",
+      "mascote": false
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 062",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "gir-gesto-1",
+      "especie": "sunflower",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands, one finger pressing a 2 cm hole into the soil of a pot",
+      "mascote": false
+    },
+    {
+      "id": "gir-gesto-2",
+      "especie": "sunflower",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands dropping two sunflower seeds into a small hole in potting soil; the small mascot figurine sits on the rim of the pot",
+      "mascote": true
+    },
+    {
+      "id": "gir-gesto-3",
+      "especie": "sunflower",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands covering the seed hole with soil in a pot",
+      "mascote": false
+    },
+    {
+      "id": "gir-sintoma-1",
+      "especie": "sunflower seedling",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Young sunflower seedling chewed down by a slug, shiny slime trail on the soil",
+      "mascote": false
+    },
+    {
+      "id": "gir-var-cosmos",
+      "especie": "cosmos",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cosmos with fine feathery leaves and pink and white flowers with yellow centers",
+      "mascote": false
+    },
+    {
+      "id": "gir-var-zinia",
+      "especie": "zinnia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Colorful dahlia-like zinnias in a sunny flower bed; the small mascot figurine stands on the garden path next to it",
+      "mascote": true
+    },
+    {
+      "id": "gir-var-tagetes",
+      "especie": "marigold",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Orange marigolds (Tagetes) blooming in a vegetable garden bed",
+      "mascote": false
+    },
+    {
+      "id": "gir-var-calendula",
+      "especie": "calendula",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Yellow and orange calendula flowers in the sun",
+      "mascote": false
+    }
+  ]
+}

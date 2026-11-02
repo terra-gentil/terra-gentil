@@ -1,4 +1,12 @@
 # PROGRESSO Terra Gentil
+## PAGINAS DE LIVRO: TG 047 A 070 NO AR, 67 NO TOTAL (02/11/2026, noite)
+- 24 paginas novas (TG 047 a 070): linhas no `lote.json` (titulo e descricao tirados da capa e da carta de cada livro), codigos nos temas em `lib/temas.ts` (horta +7, dentro de casa +6, jardim +7, cuidados +4), PDF web em `ebooks\pdf-web\` (3,3 a 4,4 MB) subido ao R2 e conferido pelo Worker, `conferir-publicado.mjs` ok nas 24.
+- **Bug achado no QA e corrigido:** o link "PROXIMO: TG ..." do fim da pagina saia ambar sobre verde claro (2,51:1) em TODAS as paginas desde a teia de links. O `<p>` nao tinha a classe `lv-proximo`; agora tem, e `.lv-pag .lv-proximo a` herda o verde. QA de contraste: 67 de 67 ok.
+- QA sem a extensao do Chrome: `node <scratchpad>\qa.cjs slug...` abre a pagina no Chrome do playwright-core (insta-terra-gentil) e roda `scripts/guias/qa-contraste.js`. Vale guardar em `scripts/guias/` se a extensao seguir fora.
+- IndexNow: sitemap inteiro enviado (102 URLs, 200).
+- **Falta:** pedir indexacao no Search Console (fila de ontem + os 24 novos, ~10 por dia); Andre revisar titulos e descricoes SEO no `lote.json`; hero do `/guias` ainda fala dos ebooks antigos.
+- **Proximo:** leva 7 comecando no TG 071 HIBISCO E PRIMAVERA (`pools\montar.mjs` com novos temas). Fotos dela: Pamela reabre ~17h de 03/11.
+
 ## LEVA 6: TG 055 A 070 COMPLETOS, 128/128 FOTOS EM 2K (02/11/2026, noite)
 - **Fotos fechadas:** TG 055 a 070 com 8/8 em 2K e previa remontada (`ebooks\TG0NN-previa.pdf`, 19 paginas). Unico estouro: TG 066 p1 (+22 px, decisao 2 do Andre). Avisos do auditor: TG 059 2 de 8, TG 060 2 de 8 (pos).
 - Contas: Pamela ate o TG 060 (3 fotos; bateu o limite ~17h); eng.andrehz do resto do 060 ao 070 (~85 geracoes, janela dela abriu ~17h15 de 02/11).

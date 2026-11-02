@@ -1,0 +1,559 @@
+{
+  "livro": "TG 083",
+  "titulo": "Lírios de Jardim",
+  "serie": "#5E2A4A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "083",
+        "COLEÇÃO TERRA GENTIL",
+        "LÍRIO",
+        "Lírios de Jardim",
+        "Flor bonita no quintal.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-A-1.jpg",
+          "alt": "André com um vaso de lírio florido"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "b24-410",
+        "b24-574",
+        "b24-043"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Tem lírio de verdade e lírio só no nome.",
+        "O hemerocale ganhou o nome pela flor.",
+        "Aqui tem bulbo, vaso, semente e cuidado.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache um canto de sol no seu quintal.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 083 LÍRIOS DE JARDIM",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-B-1.jpg",
+          "alt": "André olhando um canteiro de lírios"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "b24-039",
+        "b24-345",
+        "b24-359",
+        "q3-610"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Terra que escoe bem.",
+        "Agapanto e hemerocale gostam de sol.",
+        "SOMBRA",
+        "Clívia vai melhor na meia-sombra.",
+        "Amarílis: pouca água até brotar.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 083 LÍRIOS DE JARDIM",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do lírio",
+        "06",
+        "CAPÍTULO 1",
+        "Luz e terra",
+        "08",
+        "CAPÍTULO 2",
+        "Lírio em vaso",
+        "12",
+        "CAPÍTULO 3",
+        "Bulbo que volta",
+        "15",
+        "CAPÍTULO 4",
+        "Lírios de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Borda da dália comida? Vá para a página 11.",
+        "Na próxima: a ficha do lírio",
+        "→",
+        "TG 083 LÍRIOS DE JARDIM",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "q3-615",
+        "q3-616",
+        "b24-409",
+        "b24-407",
+        "b24-410"
+      ],
+      "textos": [
+        "FICHA DO LÍRIO",
+        "Antes de plantar",
+        "O que ele pede",
+        "LUZ",
+        "Mais luz aos poucos",
+        "VASO",
+        "Um bulbo por vaso",
+        "INÍCIO",
+        "No escuro até enraizar",
+        "HASTE",
+        "Uma por bulbo",
+        "MUDA",
+        "Escama ou bulbinho",
+        "PERFUME",
+        "ATENÇÃO",
+        "Oriental tem, asiático quase não",
+        "Na próxima: luz e terra",
+        "→",
+        "TG 083 LÍRIOS DE JARDIM",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Luz e terra",
+        "01",
+        "Certo e errado",
+        "02",
+        "Lírio em vaso, passo a passo",
+        "03",
+        "Borda comida",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 083 LÍRIOS DE JARDIM",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-F-1.jpg",
+          "alt": "André regando um canteiro de lírios"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "b24-039",
+        "h35-010",
+        "b24-345",
+        "q3-610",
+        "q3-616",
+        "b24-359",
+        "m33-012"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Agapanto",
+        "Sol pleno",
+        "Sombra",
+        "Hemerocale",
+        "Terra úmida",
+        "Terra seca",
+        "Amarílis sem broto",
+        "Pouca água",
+        "Rega farta",
+        "Lírio brotou",
+        "Luz aos poucos",
+        "Sol de uma vez",
+        "Clívia vai melhor na meia-sombra.",
+        "DICA DO ANDRÉ",
+        "No calor, muda de agapanto pode florir em 12 meses.",
+        "Na próxima: lírio em vaso",
+        "→",
+        "TG 083 LÍRIOS DE JARDIM",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Lírio em vaso",
+        "01",
+        "Lírio em vaso, passo a passo",
+        "02",
+        "Bulbo e semente",
+        "03",
+        "Borda comida",
+        "Na próxima: lírio em vaso, passo a passo",
+        "→",
+        "TG 083 LÍRIOS DE JARDIM",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-A-1.jpg",
+          "alt": "André separando bulbos para plantar"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "q3-615",
+        "q3-616",
+        "b24-409"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Lírio em vaso? Faça assim.",
+        "VASO",
+        "Um bulbo por vaso",
+        "INÍCIO",
+        "No escuro",
+        "BROTOU",
+        "Meia-sombra",
+        "1",
+        "PLANTE",
+        "Um bulbo em cada vaso.",
+        "2",
+        "REGUE",
+        "E deixe no escuro até a raiz pegar.",
+        "3",
+        "CLAREIE",
+        "Meia-sombra, depois mais luz.",
+        "DICA DO ANDRÉ",
+        "Alguns lírios soltam raiz no caule, logo acima do bulbo.",
+        "Na próxima: bulbo e semente",
+        "→",
+        "TG 083 LÍRIOS DE JARDIM",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lir-gesto-1.jpg",
+          "alt": "Mãos pondo um bulbo de lírio num vaso com terra"
+        },
+        {
+          "src": "lir-gesto-2.jpg",
+          "alt": "Mãos regando o vaso do bulbo recém plantado"
+        },
+        {
+          "src": "lir-gesto-3.jpg",
+          "alt": "Mãos levando o vaso de lírio brotado para a meia-sombra"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "b24-407",
+        "b24-353",
+        "m33-025",
+        "m33-022",
+        "m33-023"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · MUDA",
+        "Bulbo e semente",
+        "Lírio: escama do bulbo ou bulbinho do caule.",
+        "Amarílis: bulbinhos do lado da mãe.",
+        "Semente de amarílis: uma por vaso.",
+        "Alstroeméria: semente fresca na terra.",
+        "Alstroeméria com nome: só por divisão.",
+        "Na próxima: borda comida",
+        "→",
+        "TG 083 LÍRIOS DE JARDIM",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "w31-080",
+        "w31-081"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Borda da dália comida?",
+        "1",
+        "O QUE PARECE",
+        "Doença na flor.",
+        "O QUE PODE SER",
+        "Tesourinha.",
+        "COMO RESOLVER",
+        "Vaso com palha num bambu.",
+        "Na próxima: bulbo que volta",
+        "→",
+        "TG 083 LÍRIOS DE JARDIM",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lir-sintoma-1.jpg",
+          "alt": "Flor de dália com a borda das pétalas comida"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Bulbo que volta",
+        "01",
+        "Amarílis de novo",
+        "02",
+        "Seiva e bicho",
+        "03",
+        "Lírios de perto",
+        "Na próxima: amarílis de novo",
+        "→",
+        "TG 083 LÍRIOS DE JARDIM",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-trocar-vaso-A-1.jpg",
+          "alt": "André com um vaso de amarílis"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "q3-609",
+        "q3-610",
+        "q3-611",
+        "b24-353"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · BULBO",
+        "Amarílis de novo",
+        "VASO",
+        "13 cm, um bulbo",
+        "BULBO",
+        "Metade para fora",
+        "O QUE ELA PEDE",
+        "Água",
+        " pouca até brotar",
+        "Depois",
+        " rega farta",
+        "Adubo",
+        " líquido fraco a cada 10 dias",
+        "Muda",
+        " bulbinhos do lado",
+        "Cuidado",
+        "Depois da flor",
+        " menos água",
+        "Folha amarela",
+        " pare de regar",
+        "Na próxima: seiva e bicho",
+        "→",
+        "TG 083 LÍRIOS DE JARDIM",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "b24-354",
+        "b24-362",
+        "b24-366",
+        "g16-37",
+        "t13-02"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · SEIVA",
+        "ATENÇÃO",
+        "Amarílis, clívia e crino fazem mal se comidos.",
+        "A seiva da clívia e do crino irrita a pele.",
+        "Dália e agapanto pedem cautela com gato.",
+        "FAÇA ASSIM",
+        "Bulbo e flor fora do alcance do bicho.",
+        "Comer a folha é o jeito mais comum de intoxicar.",
+        "Na próxima: lírios de perto",
+        "→",
+        "TG 083 LÍRIOS DE JARDIM",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "b24-043",
+        "w31-197",
+        "b24-355",
+        "b24-363",
+        "b24-039",
+        "b24-359"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro lírios",
+        "1",
+        "Agapanto",
+        "Também é o lírio-africano.",
+        "2",
+        "Hemerocale",
+        "Cada flor dura um dia.",
+        "3",
+        "Amarílis",
+        "Tem flor de 20 cm.",
+        "4",
+        "Clívia",
+        "Tem até de flor amarela.",
+        "CHAVE",
+        "Sol ou meia-sombra",
+        "Terra que escoe",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 083 LÍRIOS DE JARDIM",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lir-var-agapanto.jpg",
+          "alt": "Agapanto de flor azul no canteiro"
+        },
+        {
+          "src": "lir-var-hemerocale.jpg",
+          "alt": "Hemerocale de flor laranja aberta"
+        },
+        {
+          "src": "lir-var-amarilis.jpg",
+          "alt": "Amarílis de flor vermelha grande"
+        },
+        {
+          "src": "lir-var-clivia.jpg",
+          "alt": "Clívia de flor laranja na meia-sombra"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "b24-361",
+        "w31-197",
+        "b24-534",
+        "m33-277",
+        "m33-011"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "PLAQUINHA NA CLÍVIA",
+        "É cochonilha.",
+        "FLOR SUMIU",
+        "Hemerocale: uma flor por dia.",
+        "LÍRIO-DA-CHUVA SEM FLOR",
+        "Seca, depois rega farta.",
+        "TOUCEIRA APERTADA",
+        "Lírio-do-vento: divida.",
+        "DICA DO ANDRÉ",
+        "Agapanto de semente pode sair diferente da mãe.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 083 LÍRIOS DE JARDIM",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "m33-118",
+        "b24-411"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "2",
+        "ANOS",
+        "leva o filhote de lírio-do-amazonas para florir.",
+        "O de semente leva de 3 a 4.",
+        "E MAIS UMA",
+        "O lírio-de-madona dá de 5 a 20 flores numa haste.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 083 LÍRIOS DE JARDIM",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "b24-039",
+        "b24-359",
+        "q3-615",
+        "q3-610",
+        "q3-611",
+        "m33-022",
+        "w31-080"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Agapanto no sol pleno",
+        "Clívia na meia-sombra",
+        "Um bulbo de lírio por vaso",
+        "Lírio no escuro até enraizar",
+        "Amarílis: pouca água até brotar",
+        "Menos água depois da flor",
+        "Semente de alstroeméria fresca",
+        "Armadilha de palha na dália",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 083 LÍRIOS DE JARDIM",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua amarílis florir de novo, me conta. E divide um bulbinho com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "083",
+        "VOCÊ TEM",
+        "084",
+        "085",
+        "086",
+        "087",
+        "088",
+        "São 83 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 084 ÁRVORE NA CALÇADA",
+        "Comente IPÊ no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 083 LÍRIOS DE JARDIM",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

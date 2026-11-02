@@ -1,0 +1,70 @@
+{
+  "livro": "TG 073",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "ban-gesto-1",
+      "especie": "prayer plant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting an 8 to 10 cm shoot from a prayer plant with small pruning shears",
+      "mascote": false
+    },
+    {
+      "id": "ban-gesto-2",
+      "especie": "prayer plant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands removing the lower leaves from a prayer plant cutting; the small mascot figurine sits on the rim of the mother plant's pot",
+      "mascote": true
+    },
+    {
+      "id": "ban-gesto-3",
+      "especie": "prayer plant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing a prayer plant cutting into a small pot of soil in a shaded, humid corner",
+      "mascote": false
+    },
+    {
+      "id": "ban-sintoma-1",
+      "especie": "Boston fern",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Boston fern in a pot with water pooling in the saucer and waterlogged, soggy soil",
+      "mascote": false
+    },
+    {
+      "id": "ban-var-avenca",
+      "especie": "maidenhair fern",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Maidenhair fern with delicate small leaflets on thin black stalks, in a pot in soft shade",
+      "mascote": false
+    },
+    {
+      "id": "ban-var-fitonia",
+      "especie": "fittonia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Fittonia with dark green leaves and finely drawn colored veins like a painted net, in a small pot",
+      "mascote": false
+    },
+    {
+      "id": "ban-var-calathea",
+      "especie": "zebra calathea",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Zebra calathea with emerald green leaves striped dark from the midrib, purple underneath, in a pot; the small mascot figurine stands on the shelf next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "ban-var-chifre-de-veado",
+      "especie": "staghorn fern",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Staghorn fern mounted on a board, with a broad shield leaf at the base and long antler-shaped fronds",
+      "mascote": false
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 082",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "alo-gesto-1",
+      "especie": "philodendron",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a stem cutting with a node and aerial root from a philodendron plant with small pruning shears",
+      "mascote": false
+    },
+    {
+      "id": "alo-gesto-2",
+      "especie": "philodendron",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pushing a philodendron stem cutting into the soil of a small pot; the small mascot figurine sits on the rim of the pot",
+      "mascote": true
+    },
+    {
+      "id": "alo-gesto-3",
+      "especie": "philodendron",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing a small pot with a philodendron cutting in a warm, humid, bright corner among other leafy plants",
+      "mascote": false
+    },
+    {
+      "id": "alo-sintoma-1",
+      "especie": "caladium",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Pot of caladium with its colorful leaves wilted and collapsed over the soil, the plant going dormant",
+      "mascote": false
+    },
+    {
+      "id": "alo-var-zebra",
+      "especie": "Alocasia zebrina",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Alocasia zebrina in a pot, tall leaf stalks striped like a zebra holding arrow-shaped green leaves",
+      "mascote": false
+    },
+    {
+      "id": "alo-var-cobre",
+      "especie": "Alocasia cuprea",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Alocasia cuprea with thick shiny leaves that look like polished copper metal, in a pot",
+      "mascote": false
+    },
+    {
+      "id": "alo-var-prince",
+      "especie": "Philodendron Prince of Orange",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Philodendron Prince of Orange in a pot, bright orange new leaf, older leaves yellow and light green",
+      "mascote": false
+    },
+    {
+      "id": "alo-var-moonlight",
+      "especie": "Philodendron Moonlight",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Philodendron Moonlight with a lemon-yellow new leaf and greener older leaves, in a pot on the floor; the small mascot figurine stands on the floor next to the pot",
+      "mascote": true
+    }
+  ]
+}

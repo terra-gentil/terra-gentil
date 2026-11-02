@@ -1,0 +1,70 @@
+{
+  "livro": "TG 086",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "inv-gesto-1",
+      "especie": "Christmas cactus",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands twisting off a cutting of two or three flat segments from a Christmas cactus (Schlumbergera)",
+      "mascote": false
+    },
+    {
+      "id": "inv-gesto-2",
+      "especie": "Christmas cactus",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands laying Christmas cactus segment cuttings on a sheet of paper to let the cut ends dry; the small mascot figurine sits on the corner of the paper",
+      "mascote": true
+    },
+    {
+      "id": "inv-gesto-3",
+      "especie": "Christmas cactus",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting two Christmas cactus cuttings back to back in a small pot of peat mixed with coarse sand",
+      "mascote": false
+    },
+    {
+      "id": "inv-sintoma-1",
+      "especie": "camellia",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Camellia leaves infested with aphids and scale insects, potted plant in a closed, dim indoor corner",
+      "mascote": false
+    },
+    {
+      "id": "inv-var-camelia",
+      "especie": "camellia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Camellia japonica shrub with glossy dark leaves and double red flowers against a sheltered wall; the small mascot figurine stands on the ground at the foot of the wall",
+      "mascote": true
+    },
+    {
+      "id": "inv-var-crisantemo",
+      "especie": "pompon chrysanthemum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Low pompon chrysanthemum plant covered with dozens of small round flowers in a pot",
+      "mascote": false
+    },
+    {
+      "id": "inv-var-bico-de-papagaio",
+      "especie": "poinsettia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Potted poinsettia with large bright red bracts around tiny yellow flowers",
+      "mascote": false
+    },
+    {
+      "id": "inv-var-coroa-de-cristo",
+      "especie": "crown of thorns",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Crown of thorns (Euphorbia milii) with spiny stems and small red bract flowers in a sunny pot",
+      "mascote": false
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 083",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "lir-gesto-1",
+      "especie": "lily",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing a single lily bulb into a pot filled with soil",
+      "mascote": false
+    },
+    {
+      "id": "lir-gesto-2",
+      "especie": "lily",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands watering a pot where a lily bulb was just planted; the small mascot figurine sits on the rim of the pot",
+      "mascote": true
+    },
+    {
+      "id": "lir-gesto-3",
+      "especie": "lily",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands carrying a pot with a young sprouting lily stem to a spot in partial shade",
+      "mascote": false
+    },
+    {
+      "id": "lir-sintoma-1",
+      "especie": "dahlia",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Dahlia flower with the edges of its petals chewed and ragged, in a garden bed",
+      "mascote": false
+    },
+    {
+      "id": "lir-var-agapanto",
+      "especie": "agapanthus",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Agapanthus with round clusters of blue flowers on tall stems in a sunny garden bed; the small mascot figurine stands on the garden path next to it",
+      "mascote": true
+    },
+    {
+      "id": "lir-var-hemerocale",
+      "especie": "daylily",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Orange daylily (Hemerocallis) flower fully open among long arching leaves",
+      "mascote": false
+    },
+    {
+      "id": "lir-var-amarilis",
+      "especie": "amaryllis",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Hippeastrum amaryllis with large red trumpet flowers on a tall stem in a pot",
+      "mascote": false
+    },
+    {
+      "id": "lir-var-clivia",
+      "especie": "clivia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Clivia with clusters of orange flowers and dark green strap leaves in partial shade",
+      "mascote": false
+    }
+  ]
+}

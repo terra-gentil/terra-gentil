@@ -1,0 +1,70 @@
+{
+  "livro": "TG 081",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "rpe-gesto-1",
+      "especie": "rose",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands lowering the bare roots of a young grafted rose plant into a bucket of water to soak",
+      "mascote": false
+    },
+    {
+      "id": "rpe-gesto-2",
+      "especie": "rose",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands digging a square planting hole about 30 cm deep in a garden bed with a small spade; the small mascot figurine stands on the edge of the bed next to the hole",
+      "mascote": true
+    },
+    {
+      "id": "rpe-gesto-3",
+      "especie": "rose",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands firming soil around a young rose bush in its planting hole, the graft union bump clearly a few centimeters above the soil",
+      "mascote": false
+    },
+    {
+      "id": "rpe-sintoma-1",
+      "especie": "rose",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Weak rose bush with thin stems, few small flowers and some dry leaves, growing in pale dry sandy soil under strong sun",
+      "mascote": false
+    },
+    {
+      "id": "rpe-var-double-delight",
+      "especie": "rose Double Delight",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Double Delight hybrid tea rose, creamy white petals edged in strawberry red, on a garden bush",
+      "mascote": false
+    },
+    {
+      "id": "rpe-var-rosa-cha",
+      "especie": "tea rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Old tea rose bush with soft pale pink and apricot flowers, nodding blooms in a sunny garden",
+      "mascote": false
+    },
+    {
+      "id": "rpe-var-damascena",
+      "especie": "damask rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Damask rose bush covered in very double, fragrant pink flowers in a sunny garden bed",
+      "mascote": false
+    },
+    {
+      "id": "rpe-var-mutabilis",
+      "especie": "rose Mutabilis",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Rosa Mutabilis bush with single flowers in honey yellow, orange and red on the same plant, like butterflies; the small mascot figurine sits on a garden stone at the foot of the bush",
+      "mascote": true
+    }
+  ]
+}

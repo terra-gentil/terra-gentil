@@ -1,0 +1,70 @@
+{
+  "livro": "TG 085",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "bor-gesto-1",
+      "especie": "sage",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting the tip of a sage stem with small pruning shears in a sunny garden bed",
+      "mascote": false
+    },
+    {
+      "id": "bor-gesto-2",
+      "especie": "sage",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pushing a sage tip cutting into loose, free-draining soil in a small pot; the small mascot figurine sits on the rim of the pot",
+      "mascote": true
+    },
+    {
+      "id": "bor-gesto-3",
+      "especie": "sage",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing a small pot with a sage cutting in a warm, sunny spot on a garden wall",
+      "mascote": false
+    },
+    {
+      "id": "bor-sintoma-1",
+      "especie": "pentas",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Pentas plant with red star-shaped flowers, a cloud of tiny whiteflies rising from its leaves as a branch is brushed",
+      "mascote": false
+    },
+    {
+      "id": "bor-var-budleia",
+      "especie": "butterfly bush",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Butterfly bush with long fragrant purple flower clusters covered with butterflies and bees",
+      "mascote": false
+    },
+    {
+      "id": "bor-var-hot-lips",
+      "especie": "Salvia Hot Lips",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Salvia 'Hot Lips' shrub with two-colored flowers, white upper lip and red lower lip",
+      "mascote": false
+    },
+    {
+      "id": "bor-var-salvia-abacaxi",
+      "especie": "pineapple sage",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Pineapple sage with bright green leaves and tubular red flowers in a garden bed; the small mascot figurine stands on the garden path next to it",
+      "mascote": true
+    },
+    {
+      "id": "bor-var-flor-de-fumo",
+      "especie": "flowering tobacco",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "White flowering tobacco (Nicotiana) with long trumpet flowers open at dusk in a garden bed",
+      "mascote": false
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 076",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "mar-gesto-1",
+      "especie": "passion fruit",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands holding a ripe, wrinkled yellow passion fruit next to a few other stored passion fruits on a kitchen table",
+      "mascote": false
+    },
+    {
+      "id": "mar-gesto-2",
+      "especie": "passion fruit",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands mashing passion fruit pulp with seeds in a glass jar with a spoon; the small mascot figurine stands on the table next to the jar",
+      "mascote": true
+    },
+    {
+      "id": "mar-gesto-3",
+      "especie": "passion fruit seeds",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands dropping clean, dried passion fruit seeds into a bowl of warm water",
+      "mascote": false
+    },
+    {
+      "id": "mar-sintoma-1",
+      "especie": "passion fruit vine",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Young passion fruit vine full of green leaves climbing a garden fence, with no flowers and no fruit",
+      "mascote": false
+    },
+    {
+      "id": "mar-var-azul",
+      "especie": "blue passion flower",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Passiflora caerulea flower with white petals and a crown of purple and blue filaments, on a vine against a wall",
+      "mascote": false
+    },
+    {
+      "id": "mar-var-doce",
+      "especie": "sweet passion fruit",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Passiflora alata vine with a square stem and a large fragrant red and purple flower",
+      "mascote": false
+    },
+    {
+      "id": "mar-var-amora",
+      "especie": "blackberry",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Blackberry cane with ripe black berries and some red unripe ones in a home garden; the small mascot figurine sits on the soil at the base of the plant",
+      "mascote": true
+    },
+    {
+      "id": "mar-var-pitaia",
+      "especie": "dragon fruit",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Large open white dragon fruit flower on a green climbing cactus stem",
+      "mascote": false
+    }
+  ]
+}

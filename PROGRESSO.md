@@ -1,4 +1,30 @@
 # PROGRESSO Terra Gentil
+## LEVA 7: TG 071 A 086 ESCRITOS, FOTOS DO FLOW PENDENTES (02/11/2026, noite)
+- 16 livros por 8 agentes (2 cada; pararam no limite de 5h e retomaram as ~20h50). Pools em `ebooksabrica\pools\pool-071-072.txt` a `pool-085-086.txt` (`montar.mjs` novo; compostagem saiu dos compartilhados e virou exclusiva do 075), brief em `pools\BRIEF.md`. Leva 6 guardada em `pools\leva6\`.
+- Conferido: 16 de 16 com `validar.mjs` ok, `estouro.mjs` sem estouro, zero fato repetido com qualquer livro, sem travessao, encadeamento PROXIMO/Comente/"Sao N livros" certo do 071 ao 086. Filas em `gama-ebooksila-fotos-tg071.json` a `tg086.json` (8 fotos, 2 com Gentileza cada). Previas com fotos provisorias em `ebooks\TG0NN-previa.pdf`.
+- Corrigido por mim: TG 080 tabela "Rega: De dia" (deducao) virou "Folha seca a noite" (c4-193); TG 084 p17 linha inventada virou "E cachos de flor amarela perfumada." (b24-289).
+| TG | Titulo | Palavra | Prefixo |
+|---|---|---|---|
+| 071 | Hibisco e Primavera | HIBISCO | hib |
+| 072 | Flores que se Comem | CAPUCHINHA | fco |
+| 073 | Plantas de Banheiro | AVENCA | ban |
+| 074 | Espada-de-sao-jorge | ESPADA | esp |
+| 075 | Minhocario | MINHOCA | min |
+| 076 | Maracuja e Uva | MARACUJA | mar |
+| 077 | Cactos de Colecao | MANDACARU | ccl |
+| 078 | Suculentas Coloridas | ECHEVERIA | scl |
+| 079 | Pimentas do Mundo | HABANERO | pmm |
+| 080 | Orquidea na Arvore | TRONCO | oar |
+| 081 | Rosas Perfumadas | PERFUME | rpe |
+| 082 | Alocasia e Filodendro | ALOCASIA | alo |
+| 083 | Lirios de Jardim | LIRIO | lir |
+| 084 | Arvore na Calcada | IPE | ipe |
+| 085 | Jardim de Borboleta | BORBOLETA | bor |
+| 086 | Flores de Inverno | INVERNO | inv |
+- TG 086 promete o TG 087 TOMATE CEREJA (palavra CEREJA).
+- **Para o Andre decidir (leva 7):** (a) titulos maiores que os fatos: TG 073 nenhum fato fala de banheiro (livro e de folhagem de ar umido e sombra); TG 084 nenhum fato de calcada (virou arvore na cidade); TG 086 nenhum fato diz que florescem no inverno (fala do cuidado no frio). Trocar titulo mantendo a PALAVRA, se quiser. (b) TG 077: nenhum fato diz "mandacaru", texto fala "cereus"; pôr "(mandacaru)"? (c) TG 076 tambem fala de amora, pitaia, abacaxi e abacate: titulo ainda serve? (d) TG 078 p11 "O que parece: casquinha do caule" e leitura do agente. (e) Varios fatos contraditorios ficaram de fora (pimenta verde x madura, enxerto da roseira acima x abaixo, prazos do composto).
+- **Proximo:** fotos do Flow da leva 7 (128 fotos, `fechar.ps1 TGNNN TGprox`, mesma esteira da leva 6). Pamela reabre ~17h de 03/11, eng.andrehz ~17h15 de 03/11. Depois paginas do site do 071 ao 086 e leva 8 (TG 087 Tomate Cereja).
+
 ## PAGINAS DE LIVRO: TG 047 A 070 NO AR, 67 NO TOTAL (02/11/2026, noite)
 - 24 paginas novas (TG 047 a 070): linhas no `lote.json` (titulo e descricao tirados da capa e da carta de cada livro), codigos nos temas em `lib/temas.ts` (horta +7, dentro de casa +6, jardim +7, cuidados +4), PDF web em `ebooks\pdf-web\` (3,3 a 4,4 MB) subido ao R2 e conferido pelo Worker, `conferir-publicado.mjs` ok nas 24.
 - **Bug achado no QA e corrigido:** o link "PROXIMO: TG ..." do fim da pagina saia ambar sobre verde claro (2,51:1) em TODAS as paginas desde a teia de links. O `<p>` nao tinha a classe `lv-proximo`; agora tem, e `.lv-pag .lv-proximo a` herda o verde. QA de contraste: 67 de 67 ok.

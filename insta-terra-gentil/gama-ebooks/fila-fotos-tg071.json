@@ -1,0 +1,70 @@
+{
+  "livro": "TG 071",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "hib-gesto-1",
+      "especie": "hibiscus",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands holding a hibiscus branch without flowers, choosing a semi-ripe stem to cut",
+      "mascote": false
+    },
+    {
+      "id": "hib-gesto-2",
+      "especie": "hibiscus",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a hibiscus stem cutting about 8 to 10 cm long with small pruning shears; the small mascot figurine sits on the edge of the wooden workbench beside the cuttings",
+      "mascote": true
+    },
+    {
+      "id": "hib-gesto-3",
+      "especie": "hibiscus",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pushing a short hibiscus cutting into the soil of a small pot",
+      "mascote": false
+    },
+    {
+      "id": "hib-sintoma-1",
+      "especie": "Turk's cap mallow",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Turk's cap mallow shrub (Malvaviscus) with red flowers that look closed, twisted petals never opening, in a garden",
+      "mascote": false
+    },
+    {
+      "id": "hib-var-mutavel",
+      "especie": "Confederate rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Hibiscus mutabilis branch with white, pink and deep red flowers at the same time on the same plant",
+      "mascote": false
+    },
+    {
+      "id": "hib-var-lanterna",
+      "especie": "coral hibiscus",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Hibiscus schizopetalus with a hanging red flower and deeply fringed petals curving back, like a lantern",
+      "mascote": false
+    },
+    {
+      "id": "hib-var-ixora",
+      "especie": "ixora",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Ixora shrub with round clusters of small red tubular flowers in full sun; the small mascot figurine stands on the garden path next to it",
+      "mascote": true
+    },
+    {
+      "id": "hib-var-lantana",
+      "especie": "lantana",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Lantana camara flower clusters with yellow centers and red outer florets, two colors in each bunch",
+      "mascote": false
+    }
+  ]
+}

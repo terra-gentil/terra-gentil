@@ -1,0 +1,553 @@
+{
+  "livro": "TG 076",
+  "titulo": "Maracujá e Uva",
+  "serie": "#3A1F4F",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "076",
+        "COLEÇÃO TERRA GENTIL",
+        "MARACUJÁ",
+        "Maracujá e Uva",
+        "Trepadeiras de fruta no quintal.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-B-1.jpg",
+          "alt": "André ao lado de um pé de maracujá no muro"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "b24-476",
+        "q34-152",
+        "m33-210",
+        "b24-475"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Maracujá e uva sobem e dão fruta.",
+        "E o maracujá pega fácil de estaca.",
+        "Aqui tem suporte, muda e frutas de perto.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache um muro ou cerca com sol.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 076 MARACUJÁ E UVA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-C-1.jpg",
+          "alt": "André olhando uma cerca no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "b24-476",
+        "q34-152",
+        "b24-475"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Dê um suporte para subir.",
+        "A videira sobe por gavinha.",
+        "SOL",
+        "Maracujá no sol ou na meia-sombra.",
+        "Videira no sol, em lugar abrigado.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 076 MARACUJÁ E UVA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do maracujá",
+        "06",
+        "CAPÍTULO 1",
+        "Sol e suporte",
+        "08",
+        "CAPÍTULO 2",
+        "Mudas de graça",
+        "12",
+        "CAPÍTULO 3",
+        "Uva na parreira",
+        "15",
+        "CAPÍTULO 4",
+        "Frutas de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Maracujá novo sem fruta? Vá para a página 11.",
+        "Na próxima: a ficha do maracujá",
+        "→",
+        "TG 076 MARACUJÁ E UVA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "b24-475",
+        "b24-476",
+        "m33-210",
+        "m33-213"
+      ],
+      "textos": [
+        "FICHA DO MARACUJÁ",
+        "Antes de plantar",
+        "O que ele pede",
+        "LUZ",
+        "Sol ou meia-sombra",
+        "TERRA",
+        "Fértil, que escoe",
+        "REGA",
+        "Boa, quando cresce",
+        "SUPORTE",
+        "Sempre",
+        "MUDA",
+        "Estaca de ramo verde",
+        "FRUTO",
+        "ATENÇÃO",
+        "Fartura depois de 3 anos",
+        "Na próxima: sol e suporte",
+        "→",
+        "TG 076 MARACUJÁ E UVA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Sol e suporte",
+        "01",
+        "Certo e errado",
+        "02",
+        "Semente de maracujá, passo a passo",
+        "03",
+        "Maracujá sem fruta",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 076 MARACUJÁ E UVA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-podar-A-1.jpg",
+          "alt": "André prendendo um ramo de trepadeira no suporte"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "b24-476",
+        "b24-475",
+        "q34-152",
+        "s28-065",
+        "g32-139",
+        "w31-182"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Ramos do maracujá",
+        "Desbaste",
+        "Embolados",
+        "Terra",
+        "Que escoe",
+        "Encharcada",
+        "Videira",
+        "Abrigada",
+        "No vento",
+        "Tutor",
+        "Cinco varas ou mais",
+        "Uma vara só",
+        "Folha nova de uva se come recheada, como charutinho.",
+        "DICA DO ANDRÉ",
+        "Guarda-sol velho sem pano vira caramanchão de parreira.",
+        "Na próxima: mudas de graça",
+        "→",
+        "TG 076 MARACUJÁ E UVA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Mudas de graça",
+        "01",
+        "Semente de maracujá, passo a passo",
+        "02",
+        "Estacas que pegam",
+        "03",
+        "Maracujá sem fruta",
+        "Na próxima: semente de maracujá, passo a passo",
+        "→",
+        "TG 076 MARACUJÁ E UVA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-F-1.jpg",
+          "alt": "André separando sementes para fazer muda"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "m33-211",
+        "m33-212"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Semente de maracujá? Faça assim.",
+        "FRUTO",
+        "14 dias guardado",
+        "POLPA",
+        "3 dias fermentando",
+        "MOLHO",
+        "24 horas",
+        "1",
+        "GUARDE",
+        "O fruto maduro por 14 dias.",
+        "2",
+        "FERMENTE",
+        "A polpa amassada, por 3 dias.",
+        "3",
+        "AMOLEÇA",
+        "Lave, seque e deixe em água quente.",
+        "DICA DO ANDRÉ",
+        "A fermentação mata o fusário.",
+        "Na próxima: estacas que pegam",
+        "→",
+        "TG 076 MARACUJÁ E UVA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "mar-gesto-1.jpg",
+          "alt": "Mãos segurando um maracujá maduro e enrugado"
+        },
+        {
+          "src": "mar-gesto-2.jpg",
+          "alt": "Mãos amassando a polpa de maracujá num pote de vidro"
+        },
+        {
+          "src": "mar-gesto-3.jpg",
+          "alt": "Mãos pondo sementes de maracujá numa tigela de água quente"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "m33-210",
+        "m33-270",
+        "m33-279",
+        "m33-249",
+        "i36-225"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · MUDA",
+        "Estacas que pegam",
+        "Maracujá: ramo verde, raiz em 3 a 4 semanas.",
+        "Uva: 8 cm de ramo fino, com três nós.",
+        "Amora: até galho grosso, direto no chão.",
+        "Pitaia: 6 a 10 cm do caule.",
+        "Faça uma estaca de cada vez.",
+        "Na próxima: maracujá sem fruta",
+        "→",
+        "TG 076 MARACUJÁ E UVA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "m33-213"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Maracujá novo sem fruta?",
+        "1",
+        "O QUE PARECE",
+        "Planta com defeito.",
+        "O QUE PODE SER",
+        "Pouca idade.",
+        "COMO RESOLVER",
+        "Paciência: a fartura vem depois de 3 anos.",
+        "Na próxima: uva na parreira",
+        "→",
+        "TG 076 MARACUJÁ E UVA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "mar-sintoma-1.jpg",
+          "alt": "Pé novo de maracujá cheio de folha e sem nenhum fruto"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Uva na parreira",
+        "01",
+        "A videira",
+        "02",
+        "Semente ou estaca",
+        "03",
+        "Frutas de perto",
+        "Na próxima: a videira",
+        "→",
+        "TG 076 MARACUJÁ E UVA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-podar-B-1.jpg",
+          "alt": "André olhando os ramos de uma parreira"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "q34-152",
+        "m33-270",
+        "m33-271",
+        "m33-272",
+        "w31-040"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · UVA",
+        "A videira",
+        "LUZ",
+        "Sol",
+        "LUGAR",
+        "Abrigado",
+        "O QUE ELA PEDE",
+        "Gavinha",
+        " para subir no suporte",
+        "Estaca",
+        " 8 cm, com três nós",
+        "Raiz",
+        " em umas quatro semanas",
+        "Enxerto",
+        " força e resistência a praga",
+        "Cuidado",
+        "Estaca lenhosa",
+        " confira o meio verde",
+        "Pedra branca",
+        " embaixo apressa a uva",
+        "Na próxima: semente ou estaca",
+        "→",
+        "TG 076 MARACUJÁ E UVA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "m33-351",
+        "m33-248",
+        "m33-220"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · SEMENTE",
+        "ATENÇÃO",
+        "Semente mistura os pais e pode sair diferente.",
+        "Estaca dá planta igual à mãe.",
+        "Pitaia de semente leva de 5 a 10 anos para florir.",
+        "FAÇA ASSIM",
+        "Quer igual à mãe? Faça estaca.",
+        "Abacate de caroço sai quase igual à mãe.",
+        "Na próxima: frutas de perto",
+        "→",
+        "TG 076 MARACUJÁ E UVA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "i36-099",
+        "b24-478",
+        "h35-273",
+        "m33-247"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro frutas",
+        "1",
+        "Maracujá-azul",
+        "Flor branca com fios roxos e azuis.",
+        "2",
+        "Maracujá-doce",
+        "Caule quadrado e flor perfumada.",
+        "3",
+        "Amora-preta",
+        "Dá fruto no ramo de dois anos.",
+        "4",
+        "Pitaia",
+        "A flor grande é a rainha-da-noite.",
+        "CHAVE",
+        "Sol e suporte",
+        "Estaca sai igual",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 076 MARACUJÁ E UVA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "mar-var-azul.jpg",
+          "alt": "Flor de maracujá-azul branca com fios roxos e azuis"
+        },
+        {
+          "src": "mar-var-doce.jpg",
+          "alt": "Maracujá-doce com flor perfumada no ramo"
+        },
+        {
+          "src": "mar-var-amora.jpg",
+          "alt": "Ramo de amora-preta com frutos maduros"
+        },
+        {
+          "src": "mar-var-pitaia.jpg",
+          "alt": "Flor grande e branca de pitaia aberta"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "b24-476",
+        "i36-247",
+        "q3-637",
+        "q34-154",
+        "i36-100"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "RAMO EMBOLADO",
+        "Maracujá: desbaste.",
+        "VARA QUE JÁ DEU",
+        "Amora: corte rente ao chão.",
+        "FOLHA VERMELHA",
+        "Abacaxi no sol forte: normal.",
+        "FRUTO SEM GRAÇA",
+        "Maracujá-azul é assim mesmo.",
+        "DICA DO ANDRÉ",
+        "Maracujá-azul vai bem em vaso, encostado no muro.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 076 MARACUJÁ E UVA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "t37-094",
+        "q3-636"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "7",
+        "ANOS",
+        "pode levar a amoreira-preta para começar a dar fruta.",
+        "Mas depois dá muito, por anos.",
+        "E MAIS UMA",
+        "O abacaxi é uma bromélia.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 076 MARACUJÁ E UVA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "b24-475",
+        "b24-476",
+        "m33-211",
+        "m33-212",
+        "m33-270",
+        "m33-213",
+        "i36-247",
+        "s28-065"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Maracujá no sol ou meia-sombra",
+        "Suporte para subir",
+        "Desbaste os ramos embolados",
+        "Polpa 3 dias fermentando",
+        "Semente em água quente",
+        "Estaca de uva com três nós",
+        "Paciência: fartura em 3 anos",
+        "Tutor de cinco varas ou mais",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 076 MARACUJÁ E UVA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua semente de maracujá brotar, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "076",
+        "VOCÊ TEM",
+        "077",
+        "078",
+        "079",
+        "080",
+        "081",
+        "São 76 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 077 CACTOS DE COLEÇÃO",
+        "Comente MANDACARU no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 076 MARACUJÁ E UVA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

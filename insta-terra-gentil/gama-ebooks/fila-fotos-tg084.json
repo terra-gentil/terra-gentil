@@ -1,0 +1,70 @@
+{
+  "livro": "TG 084",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "ipe-gesto-1",
+      "especie": "ipe tree",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands digging a wide planting hole in garden soil with a small spade",
+      "mascote": false
+    },
+    {
+      "id": "ipe-gesto-2",
+      "especie": "ipe tree",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands adding compost to the bottom of a planting hole and pouring water into it",
+      "mascote": false
+    },
+    {
+      "id": "ipe-gesto-3",
+      "especie": "ipe tree",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands setting a young ipe tree sapling in the hole with the stem at the same level as the ground; the small mascot figurine sits on the edge of the hole",
+      "mascote": true
+    },
+    {
+      "id": "ipe-sintoma-1",
+      "especie": "araucaria",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Dried, shriveled Araucaria pine nuts (pinhao) lying on the soil of a pot with no sprout",
+      "mascote": false
+    },
+    {
+      "id": "ipe-var-quaresmeira",
+      "especie": "glory tree",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tibouchina granulosa tree covered in purple flowers on a sidewalk",
+      "mascote": false
+    },
+    {
+      "id": "ipe-var-cassia",
+      "especie": "golden shower tree",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cassia fistula tree with hanging clusters of yellow flowers",
+      "mascote": false
+    },
+    {
+      "id": "ipe-var-pata-de-vaca",
+      "especie": "orchid tree",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Bauhinia flower in pink with two-lobed leaves on a branch; the small mascot figurine stands at the foot of the tree trunk",
+      "mascote": true
+    },
+    {
+      "id": "ipe-var-magnolia",
+      "especie": "magnolia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Bare magnolia branch covered only in large flowers, before the leaves appear",
+      "mascote": false
+    }
+  ]
+}

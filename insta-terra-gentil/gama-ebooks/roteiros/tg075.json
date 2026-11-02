@@ -1,0 +1,556 @@
+{
+  "livro": "TG 075",
+  "titulo": "Minhocário",
+  "serie": "#3E2A1E",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "075",
+        "COLEÇÃO TERRA GENTIL",
+        "MINHOCA",
+        "Minhocário",
+        "Resto de cozinha vira adubo.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-compostagem-G-1.jpg",
+          "alt": "André ao lado do minhocário no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "i36-270",
+        "g32-476",
+        "w31-099"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Minhocário é composteira para pouco lixo.",
+        "Cabe na varanda e no quintal pequeno.",
+        "Aqui tem montagem, cuidado e uso do adubo.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache um canto de sombra para a caixa.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 075 MINHOCÁRIO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-compostagem-H-1.jpg",
+          "alt": "André olhando a terra escura do minhocário"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "w31-098",
+        "w31-099",
+        "i36-306"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Use a minhoca vermelha.",
+        "A comum de jardim não serve na caixa.",
+        "NA SOMBRA",
+        "Úmido, mas nunca encharcado.",
+        "Entre 5 e 20 graus.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 075 MINHOCÁRIO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do minhocário",
+        "06",
+        "CAPÍTULO 1",
+        "O básico",
+        "08",
+        "CAPÍTULO 2",
+        "Montar a caixa",
+        "12",
+        "CAPÍTULO 3",
+        "Composto pronto",
+        "15",
+        "CAPÍTULO 4",
+        "Outros jeitos",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Composto melado e fedendo? Vá para a página 11.",
+        "Na próxima: a ficha do minhocário",
+        "→",
+        "TG 075 MINHOCÁRIO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "w31-099",
+        "w31-098",
+        "i36-270",
+        "w31-100"
+      ],
+      "textos": [
+        "FICHA DO MINHOCÁRIO",
+        "Antes de começar",
+        "O que ele pede",
+        "LUZ",
+        "Sombra",
+        "CLIMA",
+        "Entre 5 e 20 graus",
+        "UMIDADE",
+        "Úmido, não encharcado",
+        "MINHOCA",
+        "A vermelha",
+        "CAIXA",
+        "Ventilada",
+        "CHORUME",
+        "ATENÇÃO",
+        "1 parte para 10 de água",
+        "Na próxima: o básico",
+        "→",
+        "TG 075 MINHOCÁRIO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "O básico",
+        "01",
+        "Certo e errado",
+        "02",
+        "Minhocário de dois baldes",
+        "03",
+        "Composto melado",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 075 MINHOCÁRIO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-compostagem-A-1.jpg",
+          "alt": "André pondo resto de verdura no minhocário"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "w31-098",
+        "w31-099",
+        "i36-264",
+        "w31-111",
+        "i36-306",
+        "i36-265"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Minhoca",
+        "Vermelha",
+        "De jardim",
+        "Umidade",
+        "Úmido",
+        "Encharcado",
+        "Comida",
+        "Crua",
+        "Cozida",
+        "Casca de cítrico",
+        "Pouca",
+        "Muita",
+        "A minhoca vermelha vira resto de verdura em adubo rápido.",
+        "DICA DO ANDRÉ",
+        "Misture o verde e o seco: o ar e a umidade circulam.",
+        "Na próxima: montar a caixa",
+        "→",
+        "TG 075 MINHOCÁRIO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Montar a caixa",
+        "01",
+        "Minhocário de dois baldes",
+        "02",
+        "Verde e marrom",
+        "03",
+        "Composto melado",
+        "Na próxima: minhocário de dois baldes",
+        "→",
+        "TG 075 MINHOCÁRIO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-compostagem-B-1.jpg",
+          "alt": "André separando dois baldes para o minhocário"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "w31-097",
+        "g32-479",
+        "w31-099"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Minhocário? Faça assim.",
+        "BALDES",
+        "Dois, um no outro",
+        "BASE",
+        "Tijolos",
+        "LUGAR",
+        "Sombra",
+        "1",
+        "FURE",
+        "O balde de cima.",
+        "2",
+        "ENCAIXE",
+        "Sobre tijolos, dentro do outro.",
+        "3",
+        "COLHA",
+        "O líquido que escorre embaixo.",
+        "DICA DO ANDRÉ",
+        "O líquido vira adubo: 1 parte para 10 de água.",
+        "Na próxima: verde e marrom",
+        "→",
+        "TG 075 MINHOCÁRIO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "min-gesto-1.jpg",
+          "alt": "Mãos furando o fundo de um balde"
+        },
+        {
+          "src": "min-gesto-2.jpg",
+          "alt": "Mãos encaixando o balde furado sobre tijolos dentro de outro balde"
+        },
+        {
+          "src": "min-gesto-3.jpg",
+          "alt": "Mãos despejando o líquido do minhocário num regador com água"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "w31-116",
+        "q34-063",
+        "i36-265"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · CAIXA",
+        "Verde e marrom",
+        "Verde é resto de verdura e grama cortada.",
+        "De um quarto à metade do material é verde.",
+        "O resto é marrom: papelão, palha, folha seca.",
+        "Misture tudo, sem camadas grossas.",
+        "Assim o ar e a umidade circulam.",
+        "Na próxima: composto melado",
+        "→",
+        "TG 075 MINHOCÁRIO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "q34-059",
+        "w31-115"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Composto melado e fedendo?",
+        "1",
+        "O QUE PARECE",
+        "Composto estragado.",
+        "O QUE PODE SER",
+        "Água demais e pouco ar.",
+        "COMO RESOLVER",
+        "Ponha mais material seco.",
+        "Na próxima: composto pronto",
+        "→",
+        "TG 075 MINHOCÁRIO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "min-sintoma-1.jpg",
+          "alt": "Composto melado e encharcado dentro de uma caixa"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Composto pronto",
+        "01",
+        "Como saber e usar",
+        "02",
+        "O que não vai",
+        "03",
+        "Outros jeitos",
+        "Na próxima: como saber e usar",
+        "→",
+        "TG 075 MINHOCÁRIO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-compostagem-C-1.jpg",
+          "alt": "André com as mãos cheias de composto escuro"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "q34-058",
+        "g32-389",
+        "s2-207",
+        "g32-478",
+        "g32-479",
+        "h35-031",
+        "s2-125"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · PRONTO",
+        "Como saber e usar",
+        "COR",
+        "Marrom-escuro",
+        "CHEIRO",
+        "De chão de mata molhado",
+        "COMO USAR",
+        "Cobertura",
+        " de pelo menos 5 cm",
+        "Couve",
+        " composto um mês antes",
+        "Peneira",
+        " tela de galinheiro tira o pau",
+        "Chorume",
+        " 1 parte para 10 de água",
+        "Cuidado",
+        "Não desmanchou",
+        " volta para a caixa",
+        "No calor",
+        " a horta pede o dobro ou o triplo",
+        "Na próxima: o que não vai",
+        "→",
+        "TG 075 MINHOCÁRIO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "w31-109",
+        "i36-264",
+        "g32-477"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CUIDADO",
+        "ATENÇÃO",
+        "Carne, peixe, laticínio e óleo ficam fora.",
+        "Cocô de cachorro também não vai.",
+        "Comida cozida atrai rato.",
+        "FAÇA ASSIM",
+        "Resto cru de verdura, nada cozido.",
+        "Nem semente de mato, nem planta doente.",
+        "Na próxima: outros jeitos",
+        "→",
+        "TG 075 MINHOCÁRIO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "i36-269",
+        "w31-108",
+        "i36-049",
+        "g32-474",
+        "w31-112",
+        "w31-115"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Outros jeitos",
+        "1",
+        "Bokashi",
+        "Até carne vai, no balde fechado.",
+        "2",
+        "Buraco no canteiro",
+        "Resto enterrado a 30 a 40 cm.",
+        "3",
+        "Placa de grama",
+        "Grama para baixo vira terra boa.",
+        "4",
+        "Três baias",
+        "Uma matura, uma enche, uma vira.",
+        "CHAVE",
+        "Pique o material",
+        "Melou? Mais seco",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 075 MINHOCÁRIO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "min-var-bokashi.jpg",
+          "alt": "Balde de bokashi fechado na bancada da cozinha"
+        },
+        {
+          "src": "min-var-buraco.jpg",
+          "alt": "Buraco no canteiro com restos de cozinha"
+        },
+        {
+          "src": "min-var-grama.jpg",
+          "alt": "Placas de grama empilhadas com a grama para baixo"
+        },
+        {
+          "src": "min-var-baias.jpg",
+          "alt": "Composteira de três baias de palete no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "q34-060",
+        "q34-062",
+        "q34-056",
+        "w31-103"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "SECO E PARADO",
+        "Falta verde: resto de verdura.",
+        "PAPA MELADA",
+        "Só grama cortada: varie.",
+        "EMPACOU",
+        "Sem ar: revire uma vez por mês.",
+        "FOLHA INTEIRA",
+        "Pique com o cortador de grama.",
+        "DICA DO ANDRÉ",
+        "Folha picada apodrece bem mais rápido.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 075 MINHOCÁRIO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "w31-101",
+        "w31-102",
+        "h35-038"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "1",
+        "ANO",
+        "leva o saco furado de folhas secas para virar terra fofa.",
+        "É pobre em nutriente, mas ótimo para o solo.",
+        "E MAIS UMA",
+        "A minhoca puxa a matéria orgânica para o fundo e areja a terra.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 075 MINHOCÁRIO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "w31-099",
+        "w31-098",
+        "w31-097",
+        "w31-112",
+        "i36-264",
+        "w31-115",
+        "g32-479",
+        "g32-389"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Minhocário na sombra",
+        "Minhoca vermelha na caixa",
+        "Dois baldes sobre tijolos",
+        "Pique o resto de verdura",
+        "Nada de comida cozida",
+        "Melou? Mais material seco",
+        "Chorume: 1 para 10 de água",
+        "Composto de 5 cm no canteiro",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 075 MINHOCÁRIO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se o seu minhocário der o primeiro adubo, me conta. E divide um pouco com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "075",
+        "VOCÊ TEM",
+        "076",
+        "077",
+        "078",
+        "079",
+        "080",
+        "São 75 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 076 MARACUJÁ E UVA",
+        "Comente MARACUJÁ no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 075 MINHOCÁRIO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-compostagem-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

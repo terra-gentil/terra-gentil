@@ -1,0 +1,556 @@
+{
+  "livro": "TG 074",
+  "titulo": "Espada-de-são-jorge",
+  "serie": "#4F3A1A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "074",
+        "COLEÇÃO TERRA GENTIL",
+        "ESPADA",
+        "Espada-de-são-jorge",
+        "Aguenta sol e sombra, sem drama.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "espada-de-sao-jorge-A-1.jpg",
+          "alt": "André com um vaso de espada-de-são-jorge"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "b24-178",
+        "b24-179",
+        "q3-326"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "A espada aguenta sol e sombra.",
+        "E vira muda de um pedaço de folha.",
+        "Aqui tem espada, zamioculca, iúca e palma.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Veja se a terra do vaso já secou um pouco.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 074 ESPADA-DE-SÃO-JORGE",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "espada-de-sao-jorge-D-1.jpg",
+          "alt": "André olhando uma espada-de-são-jorge na varanda"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "q3-326",
+        "b24-178"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Molhe bem e deixe secar um pouco.",
+        "No frio, quase nada de água.",
+        "SEM ENCHARCAR",
+        "A espada vai em quase qualquer terra.",
+        "Desde que ela não encharque.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 074 ESPADA-DE-SÃO-JORGE",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da espada",
+        "06",
+        "CAPÍTULO 1",
+        "Rega e luz",
+        "08",
+        "CAPÍTULO 2",
+        "Mudas de graça",
+        "12",
+        "CAPÍTULO 3",
+        "Palma no vaso",
+        "15",
+        "CAPÍTULO 4",
+        "Folhagens de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Espada perdeu a borda amarela? Vá para a página 11.",
+        "Na próxima: a ficha da espada",
+        "→",
+        "TG 074 ESPADA-DE-SÃO-JORGE",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "b24-178",
+        "q3-330",
+        "q3-326",
+        "q3-327"
+      ],
+      "textos": [
+        "FICHA DA ESPADA",
+        "Antes de plantar",
+        "O que ela pede",
+        "LUZ",
+        "Sol pleno ou sombra",
+        "TERRA",
+        "Quase qualquer uma",
+        "REGA",
+        "Molhe e deixe secar",
+        "FRIO",
+        "Quase nada de água",
+        "VASO",
+        "A cada 2 ou 3 anos",
+        "ENCHARCAR",
+        "ATENÇÃO",
+        "A terra não pode encharcar",
+        "Na próxima: rega e luz",
+        "→",
+        "TG 074 ESPADA-DE-SÃO-JORGE",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Rega e luz",
+        "01",
+        "Certo e errado",
+        "02",
+        "Muda de espada, passo a passo",
+        "03",
+        "Borda amarela sumindo",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 074 ESPADA-DE-SÃO-JORGE",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "espada-de-sao-jorge-E-1.jpg",
+          "alt": "André regando uma espada-de-são-jorge"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "q3-326",
+        "b24-182",
+        "b24-439",
+        "t37-109",
+        "g32-409",
+        "q3-327"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Espada no frio",
+        "Quase seca",
+        "Rega farta",
+        "Dracena no frio",
+        "Menos água",
+        "Muita água",
+        "Iúca",
+        "Sol pleno",
+        "Terra encharcada",
+        "Palma no vaso",
+        "Pouca água",
+        "Rega farta",
+        "A espada só troca de vaso quando a raiz enche tudo.",
+        "DICA DO ANDRÉ",
+        "Iúca no canteiro: pedra no fundo do buraco.",
+        "Na próxima: mudas de graça",
+        "→",
+        "TG 074 ESPADA-DE-SÃO-JORGE",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Mudas de graça",
+        "01",
+        "Muda de espada, passo a passo",
+        "02",
+        "Outras mudas fáceis",
+        "03",
+        "Borda amarela sumindo",
+        "Na próxima: muda de espada, passo a passo",
+        "→",
+        "TG 074 ESPADA-DE-SÃO-JORGE",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "espada-de-sao-jorge-F-1.jpg",
+          "alt": "André separando folhas de espada para fazer muda"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "m33-239",
+        "m33-241",
+        "m33-240"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Muda de folha de espada? Faça assim.",
+        "CORTE",
+        "Na horizontal",
+        "TERRA",
+        "Só úmida",
+        "LUZ",
+        "Clara, sem sol direto",
+        "1",
+        "CORTE",
+        "A folha em pedaços, na horizontal.",
+        "2",
+        "PLANTE",
+        "Com a ponta de baixo na terra.",
+        "3",
+        "CUIDE",
+        "Terra só úmida e sem cobrir.",
+        "DICA DO ANDRÉ",
+        "Espada dividida: vaso pequeno, no quente, pouca rega.",
+        "Na próxima: outras mudas fáceis",
+        "→",
+        "TG 074 ESPADA-DE-SÃO-JORGE",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "esp-gesto-1.jpg",
+          "alt": "Mãos cortando uma folha de espada em pedaços na horizontal"
+        },
+        {
+          "src": "esp-gesto-2.jpg",
+          "alt": "Mãos plantando os pedaços de folha com a ponta de baixo na terra"
+        },
+        {
+          "src": "esp-gesto-3.jpg",
+          "alt": "Mãos pondo o vaso de estacas de espada num canto claro sem sol direto"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "w18-080",
+        "m33-281",
+        "q3-346",
+        "m33-207"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · MUDA",
+        "Outras mudas fáceis",
+        "Zamioculca: uma folhinha basta para virar muda.",
+        "Dracena: corte o caule em pedaços de 1 ou 2 nós.",
+        "Abra cada pedaço ao meio: rende mais mudas.",
+        "Iúca: pedaços de tronco de 10 cm, enterrados.",
+        "Palma: a raquete cortada seca 2 a 3 dias.",
+        "Na próxima: borda amarela sumindo",
+        "→",
+        "TG 074 ESPADA-DE-SÃO-JORGE",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "m33-238",
+        "q3-328"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Borda amarela sumindo?",
+        "1",
+        "O QUE PARECE",
+        "Planta doente.",
+        "O QUE PODE SER",
+        "Muda feita de folha volta verde.",
+        "COMO RESOLVER",
+        "Para manter o amarelo, divida.",
+        "Na próxima: palma no vaso",
+        "→",
+        "TG 074 ESPADA-DE-SÃO-JORGE",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "esp-sintoma-1.jpg",
+          "alt": "Muda de espada toda verde ao lado da planta-mãe de borda amarela"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Palma no vaso",
+        "01",
+        "A palma pede",
+        "02",
+        "Espinho da palma",
+        "03",
+        "Folhagens de perto",
+        "Na próxima: a palma pede",
+        "→",
+        "TG 074 ESPADA-DE-SÃO-JORGE",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cacto-A-1.jpg",
+          "alt": "André com um vaso de palma no sol"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "g32-409",
+        "m33-206",
+        "m33-208",
+        "g32-410",
+        "m33-205"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · PALMA",
+        "A palma pede",
+        "SOL",
+        "Pleno",
+        "RAIZ",
+        "Em 2 a 6 semanas",
+        "O QUE ELA PEDE",
+        "Terra",
+        " metade areia grossa",
+        "Água",
+        " pouca",
+        "Muda",
+        " pela raquete",
+        "Corte",
+        " cicatrizado antes de plantar",
+        "Cuidado",
+        "Semente",
+        " até 2 anos para nascer",
+        "Planta boa",
+        " em 2 a 3 anos",
+        "Na próxima: espinho da palma",
+        "→",
+        "TG 074 ESPADA-DE-SÃO-JORGE",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "m33-204",
+        "q3-550",
+        "g32-408",
+        "m33-207",
+        "g32-411"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ESPINHO",
+        "ATENÇÃO",
+        "Além dos espinhos grandes, tem pelinhos farpados.",
+        "Na orelha-de-coelho, a cerda amarela tem farpa.",
+        "A raquete nova tem espinho mais mole.",
+        "FAÇA ASSIM",
+        "Luva grossa e colarinho de papel no corte.",
+        "Tirar espinho: faca afiada passada no fogo.",
+        "Na próxima: folhagens de perto",
+        "→",
+        "TG 074 ESPADA-DE-SÃO-JORGE",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "w18-014",
+        "b24-186",
+        "q3-255",
+        "q3-344",
+        "b24-182",
+        "b24-439"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro folhagens",
+        "1",
+        "Zamioculca",
+        "Folha dividida como pena.",
+        "2",
+        "Dracena",
+        "Folha fina de borda vermelha.",
+        "3",
+        "Cordiline",
+        "Folha em lança vermelha.",
+        "4",
+        "Iúca-elefante",
+        "Tufo de folha no alto.",
+        "CHAVE",
+        "Terra que escoe",
+        "Rega moderada",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 074 ESPADA-DE-SÃO-JORGE",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "esp-var-zamioculca.jpg",
+          "alt": "Zamioculca de folhas divididas como pena num vaso"
+        },
+        {
+          "src": "esp-var-dracena.jpg",
+          "alt": "Dracena-de-madagascar de folha fina com borda vermelha"
+        },
+        {
+          "src": "esp-var-cordiline.jpg",
+          "alt": "Cordiline vermelha de folha em lança"
+        },
+        {
+          "src": "esp-var-iuca.jpg",
+          "alt": "Iúca-elefante com tufos de folha no alto do tronco"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "b24-186",
+        "b24-440",
+        "t37-109",
+        "m33-283",
+        "q3-257"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "DRACENA SEM FLOR",
+        "Normal na de madagascar.",
+        "HASTE SECA NA IÚCA",
+        "Tire depois que secar.",
+        "IÚCA DE PÉ MOLHADO",
+        "Pedra no fundo do buraco.",
+        "ESTACA PERDE ÁGUA",
+        "Corte a folha pela metade.",
+        "DICA DO ANDRÉ",
+        "Cordiline: vaso novo a cada 2 ou 3 anos.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 074 ESPADA-DE-SÃO-JORGE",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "b24-181",
+        "b24-180"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "1,2",
+        "M",
+        "chega a espada de folha redonda (S. cylindrica).",
+        "A folha dela é redonda, como um cano.",
+        "E MAIS UMA",
+        "Em inglês, a espada é a \"língua-de-sogra\".",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 074 ESPADA-DE-SÃO-JORGE",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "q3-326",
+        "b24-178",
+        "q3-327",
+        "m33-239",
+        "q3-328",
+        "w18-080",
+        "g32-409",
+        "b24-440"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Deixe a terra secar um pouco",
+        "Quase nada de água no frio",
+        "Terra que não encharque",
+        "Pedaço de folha na terra",
+        "Borda amarela? Divida",
+        "Folhinha de zamioculca",
+        "Palma com areia grossa",
+        "Haste seca da iúca fora",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 074 ESPADA-DE-SÃO-JORGE",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se o pedaço de folha da sua espada pegar, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "074",
+        "VOCÊ TEM",
+        "075",
+        "076",
+        "077",
+        "078",
+        "079",
+        "São 74 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 075 MINHOCÁRIO",
+        "Comente MINHOCA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 074 ESPADA-DE-SÃO-JORGE",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "espada-de-sao-jorge-G-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

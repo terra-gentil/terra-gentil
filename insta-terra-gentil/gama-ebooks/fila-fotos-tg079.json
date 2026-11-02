@@ -1,0 +1,70 @@
+{
+  "livro": "TG 079",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "pmm-gesto-1",
+      "especie": "chili pepper",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands picking a fully ripe red chili pepper from a healthy, leafy pepper plant",
+      "mascote": false
+    },
+    {
+      "id": "pmm-gesto-2",
+      "especie": "chili pepper",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands in thin gloves spreading chili pepper seeds on a sheet of paper towel on a wooden tray; the small mascot figurine sits on the edge of the wooden tray",
+      "mascote": true
+    },
+    {
+      "id": "pmm-gesto-3",
+      "especie": "chili pepper",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands writing a name and a date with a pen on a small paper seed envelope, dried chili pepper seeds beside it",
+      "mascote": false
+    },
+    {
+      "id": "pmm-sintoma-1",
+      "especie": "chili pepper",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Chili pepper plant under harsh midday sun on a hot day, fallen flowers on the soil and almost no fruit on the branches",
+      "mascote": false
+    },
+    {
+      "id": "pmm-var-habanero",
+      "especie": "habanero pepper",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Habanero pepper plant with wrinkled lantern-shaped orange fruits hanging among green leaves",
+      "mascote": false
+    },
+    {
+      "id": "pmm-var-jalapeno",
+      "especie": "jalapeno pepper",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Smooth green jalapeno peppers hanging from the plant, one with fine brown streaks on the skin",
+      "mascote": false
+    },
+    {
+      "id": "pmm-var-tabasco",
+      "especie": "tabasco pepper",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tabasco pepper plant covered with many small upright peppers in yellow, orange and red",
+      "mascote": false
+    },
+    {
+      "id": "pmm-var-rocoto",
+      "especie": "rocoto pepper",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Rocoto pepper plant with fuzzy leaves and a red fruit cut open showing black seeds; the small mascot figurine stands on the soil next to the plant",
+      "mascote": true
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "livro": "TG 078",
+  "titulo": "Suculentas Coloridas",
+  "serie": "#5C2A4A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "078",
+        "COLEÇÃO TERRA GENTIL",
+        "ECHEVERIA",
+        "Suculentas Coloridas",
+        "Sol, cor e muda de folha.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-A-1.jpg",
+          "alt": "André com um vaso de suculentas coloridas"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "b1-01",
+        "b6-13",
+        "b6-28",
+        "b2-12"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Suculenta guarda água nas folhas.",
+        "E muitas mudam de cor com o sol.",
+        "Aqui tem luz, rega, muda e muita cor.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Faça o teste da sombra no seu vaso.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 078 SUCULENTAS COLORIDAS",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-B-1.jpg",
+          "alt": "André olhando suculentas perto da janela"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "b6-13",
+        "b24-162",
+        "q3-482",
+        "b2-64",
+        "b24-159"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Sol sem queimar, para ganhar cor.",
+        "Peluda? Não molhe as folhas.",
+        "VASO",
+        "Raso e de barro seca mais rápido.",
+        "Terra que escoe muito bem.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 078 SUCULENTAS COLORIDAS",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da echeveria",
+        "06",
+        "CAPÍTULO 1",
+        "Sol e cor",
+        "08",
+        "CAPÍTULO 2",
+        "Mudas de folha",
+        "12",
+        "CAPÍTULO 3",
+        "Plantas curiosas",
+        "15",
+        "CAPÍTULO 4",
+        "Suculentas de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Calombo marrom no caule? Vá para a página 11.",
+        "Na próxima: a ficha da echeveria",
+        "→",
+        "TG 078 SUCULENTAS COLORIDAS",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "q3-510",
+        "b24-159",
+        "b24-162",
+        "b24-161"
+      ],
+      "textos": [
+        "FICHA DA ECHEVERIA",
+        "Antes de plantar",
+        "O que ela pede",
+        "LUZ",
+        "Sol pleno",
+        "TERRA",
+        "Que escoe muito bem",
+        "AR",
+        "Circulando",
+        "ADUBO",
+        "Fraco, a cada 2 semanas",
+        "PELUDA",
+        "Não molhe as folhas",
+        "NO FRIO",
+        "REPARE",
+        "Ela fica mais colorida",
+        "Na próxima: sol e cor",
+        "→",
+        "TG 078 SUCULENTAS COLORIDAS",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Sol e cor",
+        "01",
+        "Certo e errado",
+        "02",
+        "Muda de folha, passo a passo",
+        "03",
+        "Calombo no caule",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 078 SUCULENTAS COLORIDAS",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-C-1.jpg",
+          "alt": "André pondo suculentas no sol da manhã"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "b3-06",
+        "b6-07",
+        "b6-30",
+        "b24-162",
+        "b2-12"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Sempre-viva",
+        "Luz forte",
+        "Pouca luz",
+        "Jade colorida",
+        "Sol pleno",
+        "Meia-luz",
+        "Haworthia",
+        "Sem sol direto",
+        "Janela ao sol",
+        "Echeveria peluda",
+        "Folha seca",
+        "Folha molhada",
+        "Sempre-viva voltando ao verde? É falta de luz.",
+        "DICA DO ANDRÉ",
+        "Sombra borrada é luz boa. Sombra marcada é sol demais.",
+        "Na próxima: mudas de folha",
+        "→",
+        "TG 078 SUCULENTAS COLORIDAS",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Mudas de folha",
+        "01",
+        "Muda de folha, passo a passo",
+        "02",
+        "Outras mudas",
+        "03",
+        "Calombo no caule",
+        "Na próxima: muda de folha, passo a passo",
+        "→",
+        "TG 078 SUCULENTAS COLORIDAS",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-D-1.jpg",
+          "alt": "André separando folhas de suculenta para fazer muda"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "m33-378",
+        "m33-379",
+        "m33-380",
+        "m33-103"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Muda de folha? Faça assim.",
+        "FOLHA",
+        "Madura e sadia",
+        "DISTÂNCIA",
+        "1 cm entre elas",
+        "MUDINHA",
+        "Em 1 a 6 meses",
+        "1",
+        "PUXE",
+        "A folha, de lado.",
+        "2",
+        "SEQUE",
+        "Alguns dias, quente e seco.",
+        "3",
+        "FIRME",
+        "Em pé, no pedrisco úmido.",
+        "DICA DO ANDRÉ",
+        "Echeveria híbrida: use as folhas da haste de flor.",
+        "Na próxima: outras mudas",
+        "→",
+        "TG 078 SUCULENTAS COLORIDAS",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "scl-gesto-1.jpg",
+          "alt": "Mãos puxando de lado uma folha de echeveria"
+        },
+        {
+          "src": "scl-gesto-2.jpg",
+          "alt": "Mãos espalhando folhas de suculenta para secar num lugar quente e seco"
+        },
+        {
+          "src": "scl-gesto-3.jpg",
+          "alt": "Mãos firmando folhas de suculenta em pé no pedrisco"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "m33-104",
+        "m33-087",
+        "m33-090",
+        "m33-065",
+        "m33-380"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · MUDA",
+        "Outras mudas",
+        "Echeveria torta: corte 8 cm abaixo da roseta.",
+        "Jade: estaca grossa de 13 a 25 cm.",
+        "Colar-de-pérolas: 10 cm na terra, raiz em um mês.",
+        "Colar-de-corações: as bolinhas viram muda.",
+        "Folha: 1 a 6 meses até a mudinha.",
+        "Na próxima: calombo no caule",
+        "→",
+        "TG 078 SUCULENTAS COLORIDAS",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "b2-57"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Calombos marrons no caule?",
+        "1",
+        "O QUE PARECE",
+        "Casquinha do caule.",
+        "O QUE PODE SER",
+        "Cochonilha de carapaça.",
+        "COMO RESOLVER",
+        "Raspe e lave com sabão neutro.",
+        "Na próxima: plantas curiosas",
+        "→",
+        "TG 078 SUCULENTAS COLORIDAS",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "scl-sintoma-1.jpg",
+          "alt": "Caule de suculenta com calombos marrons de cochonilha"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Plantas curiosas",
+        "01",
+        "Pedra-viva",
+        "02",
+        "Leite que queima",
+        "03",
+        "Suculentas de perto",
+        "Na próxima: pedra-viva",
+        "→",
+        "TG 078 SUCULENTAS COLORIDAS",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-E-1.jpg",
+          "alt": "André com vasinhos de suculentas curiosas"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "b7-10",
+        "q3-540",
+        "b7-09",
+        "q3-542"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CURIOSAS",
+        "Pedra-viva",
+        "VASO",
+        "15 cm de fundo, no mínimo",
+        "NO FRIO",
+        "Terra seca",
+        "O QUE ELA PEDE",
+        "Rega",
+        " no máximo a cada 2 semanas",
+        "Terra",
+        " bem drenada",
+        "Na dúvida",
+        " não regue",
+        "Muda",
+        " dividindo a touceira",
+        "Cuidado",
+        "Rugas",
+        " por vários dias pedem água",
+        "No calor",
+        " pouca água",
+        "Na próxima: leite que queima",
+        "→",
+        "TG 078 SUCULENTAS COLORIDAS",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "t13-46",
+        "t13-22"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · LEITE",
+        "ATENÇÃO",
+        "O leite da coroa-de-cristo queima.",
+        "Corre na folha, no espinho e no caule.",
+        "O kalanchoe é tóxico para cão e gato.",
+        "FAÇA ASSIM",
+        "Cuidado com o leite na pele.",
+        "Kalanchoe fora do alcance do pet.",
+        "Na próxima: suculentas de perto",
+        "→",
+        "TG 078 SUCULENTAS COLORIDAS",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "b6-13",
+        "b6-28",
+        "b24-167",
+        "q34-165",
+        "b24-159"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro suculentas",
+        "1",
+        "Echeveria Lipstick",
+        "Borda vermelha com sol.",
+        "2",
+        "Planta-fantasma",
+        "Rosada no seco, azulada na sombra.",
+        "3",
+        "Sedum-jujuba",
+        "Folha vermelha de feijão.",
+        "4",
+        "Sempre-viva-teia",
+        "Roseta com fiozinhos de teia.",
+        "CHAVE",
+        "Terra que escoe",
+        "Sol sem queimar",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 078 SUCULENTAS COLORIDAS",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "scl-var-lipstick.jpg",
+          "alt": "Echeveria Lipstick com a borda das folhas vermelha"
+        },
+        {
+          "src": "scl-var-fantasma.jpg",
+          "alt": "Planta-fantasma com rosetas rosadas e cinza"
+        },
+        {
+          "src": "scl-var-jujuba.jpg",
+          "alt": "Sedum-jujuba com folhas vermelhas em forma de feijão"
+        },
+        {
+          "src": "scl-var-teia.jpg",
+          "alt": "Sempre-viva-teia-de-aranha com fiozinhos brancos nas rosetas"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "b3-06",
+        "b1-21",
+        "b2-49",
+        "b6-30",
+        "b2-50"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "FICOU VERDE",
+        "Sempre-viva sem vermelho: falta luz.",
+        "FOLHA ENRUGADA",
+        "É sede: com água ela enche de novo.",
+        "MANCHA BRANCA",
+        "Mineral da água: pano e água destilada.",
+        "SOL NO VIDRO",
+        "Haworthia na janela também queima.",
+        "DICA DO ANDRÉ",
+        "Não passe o dedo no pó branco da folha: ele não volta.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 078 SUCULENTAS COLORIDAS",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "b6-14",
+        "b1-29"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "1",
+        "ANO",
+        "leva uma rosa-azul para encher de filhotes um vaso de 45 cm.",
+        "É a Echeveria imbricata.",
+        "E MAIS UMA",
+        "Suculenta demora a pegar fogo: vira barreira contra queimada.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 078 SUCULENTAS COLORIDAS",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "b6-13",
+        "b2-12",
+        "q3-482",
+        "b2-64",
+        "b24-159",
+        "m33-378",
+        "b24-162",
+        "b7-09",
+        "t13-22"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Sol sem queimar",
+        "Teste da sombra",
+        "Vaso raso e de barro",
+        "Terra que escoe",
+        "Folha de muda bem seca",
+        "Peluda sem água na folha",
+        "Pedra-viva: na dúvida, não regue",
+        "Kalanchoe longe do pet",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 078 SUCULENTAS COLORIDAS",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua folhinha soltar uma mudinha, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "078",
+        "VOCÊ TEM",
+        "079",
+        "080",
+        "081",
+        "082",
+        "083",
+        "São 78 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 079 PIMENTAS DO MUNDO",
+        "Comente HABANERO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 078 SUCULENTAS COLORIDAS",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

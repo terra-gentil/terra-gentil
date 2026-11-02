@@ -1,0 +1,555 @@
+{
+  "livro": "TG 073",
+  "titulo": "Plantas de Banheiro",
+  "serie": "#1D4A52",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "073",
+        "COLEÇÃO TERRA GENTIL",
+        "AVENCA",
+        "Plantas de Banheiro",
+        "Folhagem que ama ar úmido.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "samambaia-A-1.jpg",
+          "alt": "André com um vaso de samambaia"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "b24-241",
+        "b24-260",
+        "q3-306"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Fitônia e epíscia pedem ar úmido e sombra.",
+        "E a peperômia vira muda de uma folha.",
+        "Aqui tem avenca, samambaia e folhagens.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache o canto úmido e com sombra da casa.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 073 PLANTAS DE BANHEIRO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "samambaia-B-1.jpg",
+          "alt": "André olhando uma samambaia num canto de sombra"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "b24-417",
+        "b24-241"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Tire as folhas velhas da avenca.",
+        "Sempre que elas aparecerem.",
+        "SOMBRA",
+        "Fitônia em ar úmido e sombra.",
+        "Terra que escoe, sem encharcar.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 073 PLANTAS DE BANHEIRO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da avenca",
+        "06",
+        "CAPÍTULO 1",
+        "Ar úmido e sombra",
+        "08",
+        "CAPÍTULO 2",
+        "Mudas de graça",
+        "12",
+        "CAPÍTULO 3",
+        "Tilândsia e pet",
+        "15",
+        "CAPÍTULO 4",
+        "Folhagens de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Terra empoçada no vaso? Vá para a página 11.",
+        "Na próxima: a ficha da avenca",
+        "→",
+        "TG 073 PLANTAS DE BANHEIRO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "q3-664",
+        "b24-417",
+        "b24-418"
+      ],
+      "textos": [
+        "FICHA DA AVENCA",
+        "Antes de plantar",
+        "O que ela pede",
+        "NO CALOR",
+        "Rega farta",
+        "NO FRIO",
+        "Terra levemente úmida",
+        "ADUBO",
+        "Líquido e fraco",
+        "QUANDO",
+        "A cada 2 ou 3 semanas",
+        "CABINHO",
+        "Preto e fino",
+        "FOLHA VELHA",
+        "ATENÇÃO",
+        "Tire sempre que aparecer",
+        "Na próxima: ar úmido e sombra",
+        "→",
+        "TG 073 PLANTAS DE BANHEIRO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Ar úmido e sombra",
+        "01",
+        "Certo e errado",
+        "02",
+        "Muda de maranta, passo a passo",
+        "03",
+        "Terra empoçada",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 073 PLANTAS DE BANHEIRO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "maranta-A-1.jpg",
+          "alt": "André cuidando de uma folhagem num canto úmido"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "b24-241",
+        "q3-664",
+        "k9-014",
+        "q3-316",
+        "b24-239",
+        "b24-260",
+        "q3-118",
+        "q3-654"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Fitônia",
+        "Sombra",
+        "Encharcada",
+        "Avenca no frio",
+        "Levemente úmida",
+        "Água empoçada",
+        "Pilea no frio",
+        "Quase seca",
+        "Rega farta",
+        "Epíscia",
+        "Ar bem úmido",
+        "Ar seco",
+        "Samambaia em vaso grande: troque a terra velha.",
+        "DICA DO ANDRÉ",
+        "Tilândsia aérea: adubo fraco na água do borrifo.",
+        "Na próxima: mudas de graça",
+        "→",
+        "TG 073 PLANTAS DE BANHEIRO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Mudas de graça",
+        "01",
+        "Muda de maranta, passo a passo",
+        "02",
+        "Folhas que viram muda",
+        "03",
+        "Terra empoçada",
+        "Na próxima: muda de maranta, passo a passo",
+        "→",
+        "TG 073 PLANTAS DE BANHEIRO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-A-1.jpg",
+          "alt": "André separando brotos para fazer muda"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "m33-193",
+        "b24-196",
+        "q3-289"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Muda de maranta? Faça assim.",
+        "BROTO",
+        "De 8 a 10 cm",
+        "RAIZ",
+        "Em umas 2 semanas",
+        "OUTRO JEITO",
+        "Dividir a touceira",
+        "1",
+        "CORTE",
+        "Um broto de 8 a 10 cm.",
+        "2",
+        "LIMPE",
+        "Tire as folhas de baixo.",
+        "3",
+        "ESPERE",
+        "Raiz em umas duas semanas.",
+        "DICA DO ANDRÉ",
+        "Maranta jovem troca de vaso todo ano: divida ali.",
+        "Na próxima: folhas que viram muda",
+        "→",
+        "TG 073 PLANTAS DE BANHEIRO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ban-gesto-1.jpg",
+          "alt": "Mãos cortando um broto de maranta"
+        },
+        {
+          "src": "ban-gesto-2.jpg",
+          "alt": "Mãos tirando as folhas de baixo do broto de maranta"
+        },
+        {
+          "src": "ban-gesto-3.jpg",
+          "alt": "Mãos pondo a estaca de maranta num vasinho"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "q3-306",
+        "m33-219",
+        "m33-127",
+        "m33-128",
+        "q3-317"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · MUDA",
+        "Folhas que viram muda",
+        "Peperômia: a folha com o cabinho vira muda.",
+        "Com caule, vai de ponta; sem caule, de folha.",
+        "Fitônia: puxe a touceira em pedaços com raiz.",
+        "Estaca de ponta de fitônia pega em uns 14 dias.",
+        "Pilea: estaca de ponta com 8 a 10 cm.",
+        "Na próxima: terra empoçada",
+        "→",
+        "TG 073 PLANTAS DE BANHEIRO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "k9-014",
+        "n10-47",
+        "b24-241"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Terra empoçada no vaso?",
+        "1",
+        "O QUE PARECE",
+        "Planta bem regada.",
+        "O QUE PODE SER",
+        "Raiz sem ar, apodrecendo.",
+        "COMO RESOLVER",
+        "Regue sempre, mas sem encharcar.",
+        "Na próxima: tilândsia e pet",
+        "→",
+        "TG 073 PLANTAS DE BANHEIRO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ban-sintoma-1.jpg",
+          "alt": "Vaso de samambaia com água empoçada no prato e terra encharcada"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Tilândsia e pet",
+        "01",
+        "Tilândsia no ar",
+        "02",
+        "Planta e pet",
+        "03",
+        "Folhagens de perto",
+        "Na próxima: tilândsia no ar",
+        "→",
+        "TG 073 PLANTAS DE BANHEIRO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "samambaia-C-1.jpg",
+          "alt": "André pendurando um vaso de samambaia"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "b24-459",
+        "q3-654",
+        "q3-655",
+        "q3-656"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · NO AR",
+        "Tilândsia no ar",
+        "LUZ",
+        "Meia-sombra",
+        "ÁGUA",
+        "Mole",
+        "O QUE ELA PEDE",
+        "Adubo",
+        " fraco, na água do borrifo",
+        "Quando",
+        " a cada 3 ou 4 semanas no calor",
+        "Muda",
+        " pelos filhotes",
+        "Ou",
+        " por divisão",
+        "Cuidado",
+        "Tilândsia-rosa",
+        " vai em vaso, não em madeira",
+        "Ionantha",
+        " centro vermelho antes da flor",
+        "Na próxima: planta e pet",
+        "→",
+        "TG 073 PLANTAS DE BANHEIRO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "g16-12",
+        "p14-04",
+        "p14-10"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · PET",
+        "ATENÇÃO",
+        "A cica é a única planta de casa na categoria Perigo.",
+        "Para o gato, doença grave ou morte.",
+        "Samambaia-americana está entre as não tóxicas da ASPCA.",
+        "FAÇA ASSIM",
+        "Com gato, prefira samambaia-americana.",
+        "Peperômia (P. obtusifolia) também é não tóxica.",
+        "Na próxima: folhagens de perto",
+        "→",
+        "TG 073 PLANTAS DE BANHEIRO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "b24-418",
+        "q3-352",
+        "q3-348",
+        "b24-419",
+        "b24-260"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro folhagens",
+        "1",
+        "Avenca",
+        "Folhinha em cabinho preto.",
+        "2",
+        "Fitônia",
+        "Nervura como rede pintada.",
+        "3",
+        "Calathea-zebra",
+        "Listrada, roxa por baixo.",
+        "4",
+        "Chifre-de-veado",
+        "Folha em forma de chifre.",
+        "CHAVE",
+        "Ar úmido",
+        "Sombra",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 073 PLANTAS DE BANHEIRO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ban-var-avenca.jpg",
+          "alt": "Avenca de folhinhas delicadas em cabinhos pretos"
+        },
+        {
+          "src": "ban-var-fitonia.jpg",
+          "alt": "Fitônia de folha verde-escura com nervuras desenhadas"
+        },
+        {
+          "src": "ban-var-calathea.jpg",
+          "alt": "Calathea-zebra de folha verde com listras escuras"
+        },
+        {
+          "src": "ban-var-chifre-de-veado.jpg",
+          "alt": "Chifre-de-veado com folhas compridas em forma de chifre"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "b24-417",
+        "q3-318",
+        "q3-118",
+        "q3-656",
+        "q3-259"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "AVENCA FEIA",
+        "Tire as folhas velhas.",
+        "PILEA SEM BRONZE",
+        "Na sombra, fica mais verde.",
+        "SAMAMBAIA APERTADA",
+        "Troque a terra velha.",
+        "IONANTHA VERMELHA",
+        "Normal: vai florir.",
+        "DICA DO ANDRÉ",
+        "Ctenanthe gosta de terra úmida por igual no frio.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 073 PLANTAS DE BANHEIRO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "b24-423",
+        "b24-197"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "2",
+        "M",
+        "de folha: o chifre-de-veado gigante chega até lá.",
+        "É a folha comprida, em forma de chifre.",
+        "E MAIS UMA",
+        "Em inglês, a maranta é a \"planta-que-reza\".",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 073 PLANTAS DE BANHEIRO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "b24-417",
+        "q3-664",
+        "b24-241",
+        "m33-193",
+        "q3-306",
+        "b24-459",
+        "p14-04",
+        "q3-118"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Folha velha da avenca fora",
+        "Rega farta no calor",
+        "Fitônia na sombra",
+        "Broto de maranta de 8 cm",
+        "Folha de peperômia com cabinho",
+        "Tilândsia na meia-sombra",
+        "Samambaia-americana com gato",
+        "Terra nova na samambaia",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 073 PLANTAS DE BANHEIRO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a folha da sua peperômia pegar, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "073",
+        "VOCÊ TEM",
+        "074",
+        "075",
+        "076",
+        "077",
+        "078",
+        "São 73 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 074 ESPADA-DE-SÃO-JORGE",
+        "Comente ESPADA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 073 PLANTAS DE BANHEIRO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "samambaia-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

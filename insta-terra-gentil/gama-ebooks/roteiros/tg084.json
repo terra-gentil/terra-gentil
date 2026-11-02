@@ -1,0 +1,554 @@
+{
+  "livro": "TG 084",
+  "titulo": "Árvore na Calçada",
+  "serie": "#1F3B4D",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "084",
+        "COLEÇÃO TERRA GENTIL",
+        "IPÊ",
+        "Árvore na Calçada",
+        "Sombra e flor na frente de casa.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-A-1.jpg",
+          "alt": "André ao lado de uma árvore jovem"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "t37-033",
+        "b24-283",
+        "i36-001"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Na cidade, a árvore faz sombra.",
+        "E a raiz segura a água da chuva.",
+        "Aqui tem ipê, poda, cuidado e mais árvores.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Olhe as árvores que crescem na sua rua.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 084 ÁRVORE NA CALÇADA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-B-1.jpg",
+          "alt": "André olhando a copa de uma árvore"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "b24-283",
+        "b24-282",
+        "b24-284"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Ipê na terra, não no vaso.",
+        "No vaso ele dificilmente floresce.",
+        "PACIÊNCIA",
+        "A flor vem perto dos 3 metros.",
+        "Luz plena e terra que escoe.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 084 ÁRVORE NA CALÇADA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do ipê",
+        "06",
+        "CAPÍTULO 1",
+        "Luz e espaço",
+        "08",
+        "CAPÍTULO 2",
+        "Plantar e podar",
+        "12",
+        "CAPÍTULO 3",
+        "Flor e cuidado",
+        "15",
+        "CAPÍTULO 4",
+        "Árvores de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Pinhão que não nasceu? Vá para a página 11.",
+        "Na próxima: a ficha do ipê",
+        "→",
+        "TG 084 ÁRVORE NA CALÇADA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "b24-284",
+        "b24-285",
+        "b24-286",
+        "b24-282"
+      ],
+      "textos": [
+        "FICHA DO IPÊ",
+        "Antes de plantar",
+        "O que ele pede",
+        "LUZ",
+        "Plena",
+        "TERRA",
+        "Fértil, que escoe",
+        "REGA",
+        "Sem deixar secar",
+        "PODA",
+        "Só de formação",
+        "MUDA",
+        "Semente ou estaca",
+        "FLOR",
+        "ATENÇÃO",
+        "Só perto dos 3 metros",
+        "Na próxima: luz e espaço",
+        "→",
+        "TG 084 ÁRVORE NA CALÇADA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Luz e espaço",
+        "01",
+        "Certo e errado",
+        "02",
+        "Muda na terra, passo a passo",
+        "03",
+        "Pinhão que não nasceu",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 084 ÁRVORE NA CALÇADA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "limoeiro-A-1.jpg",
+          "alt": "André regando uma árvore jovem"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "b24-283",
+        "i36-107",
+        "t37-127",
+        "i36-162",
+        "t37-062",
+        "i36-001"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Ipê",
+        "Na terra",
+        "No vaso",
+        "Caule da muda",
+        "No mesmo nível",
+        "Mais fundo",
+        "Árvore em vaso",
+        "Regar com chuva",
+        "Só esperar chuva",
+        "Raiz ao mudar",
+        "Larga como a copa",
+        "Curta",
+        "A raiz vai longe: da metade à altura toda da árvore.",
+        "DICA DO ANDRÉ",
+        "O que cresce bem na sua rua mostra o que o solo aguenta.",
+        "Na próxima: plantar e podar",
+        "→",
+        "TG 084 ÁRVORE NA CALÇADA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Plantar e podar",
+        "01",
+        "Muda na terra, passo a passo",
+        "02",
+        "Poda certa",
+        "03",
+        "Pinhão que não nasceu",
+        "Na próxima: muda na terra, passo a passo",
+        "→",
+        "TG 084 ÁRVORE NA CALÇADA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-podar-A-1.jpg",
+          "alt": "André com a tesoura de poda na mão"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "i36-028",
+        "i36-107",
+        "b24-285"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Muda na terra? Faça assim.",
+        "BURACO",
+        "Maior que o vaso",
+        "FUNDO",
+        "Com composto",
+        "CAULE",
+        "No mesmo nível",
+        "1",
+        "CAVE",
+        "Mais largo e fundo que o vaso.",
+        "2",
+        "MOLHE",
+        "Composto e água no buraco.",
+        "3",
+        "PLANTE",
+        "Sem enterrar o caule.",
+        "DICA DO ANDRÉ",
+        "Ipê novo só pede poda de formação.",
+        "Na próxima: poda certa",
+        "→",
+        "TG 084 ÁRVORE NA CALÇADA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ipe-gesto-1.jpg",
+          "alt": "Mãos cavando um buraco largo na terra"
+        },
+        {
+          "src": "ipe-gesto-2.jpg",
+          "alt": "Mãos pondo composto e água no fundo do buraco"
+        },
+        {
+          "src": "ipe-gesto-3.jpg",
+          "alt": "Mãos assentando a muda de ipê no buraco"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "b24-279",
+        "b24-308",
+        "t37-098",
+        "b24-288",
+        "b24-292"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · PODA",
+        "Poda certa",
+        "Tecoma: uma poda por ano, depois da flor.",
+        "Quaresmeira: deixe 2 pares de gemas.",
+        "Resedá: corte o ramo do ano pela metade.",
+        "Cássia aguenta poda, mas fica linda livre.",
+        "Pata-de-vaca: desbaste os galhos embolados.",
+        "Na próxima: pinhão que não nasceu",
+        "→",
+        "TG 084 ÁRVORE NA CALÇADA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "m33-029"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Pinhão que não nasceu?",
+        "1",
+        "O QUE PARECE",
+        "Semente ruim.",
+        "O QUE PODE SER",
+        "Pinhão que secou.",
+        "COMO RESOLVER",
+        "Plante o pinhão fresco.",
+        "Na próxima: flor e cuidado",
+        "→",
+        "TG 084 ÁRVORE NA CALÇADA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ipe-sintoma-1.jpg",
+          "alt": "Pinhões secos e enrugados num vaso de terra sem broto"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Flor e cuidado",
+        "01",
+        "Resedá",
+        "02",
+        "Espirradeira",
+        "03",
+        "Árvores de perto",
+        "Na próxima: resedá",
+        "→",
+        "TG 084 ÁRVORE NA CALÇADA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "buganvilia-A-1.jpg",
+          "alt": "André perto de uma árvore florida"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "b24-297",
+        "t37-043",
+        "t37-098",
+        "t37-097",
+        "t37-099"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · RESEDÁ",
+        "Resedá",
+        "LUZ",
+        "Plena",
+        "FLOR",
+        "No verão",
+        "O QUE ELE PEDE",
+        "Terra",
+        " fértil, que escoe",
+        "No vaso",
+        " rega farta quando cresce",
+        "Poda",
+        " forte, uma vez por ano",
+        "Flor",
+        " rosa, vermelha ou branca",
+        "Repare",
+        "Tronco",
+        " descasca",
+        "Cápsulas",
+        " ficam meses no galho",
+        "Na próxima: espirradeira",
+        "→",
+        "TG 084 ÁRVORE NA CALÇADA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "b24-091",
+        "t13-44",
+        "b24-494"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CUIDADO",
+        "ATENÇÃO",
+        "Toda a espirradeira é muito tóxica se comida.",
+        "A folha dela também irrita a pele.",
+        "Folha e flor intoxicam o cão solto no quintal.",
+        "FAÇA ASSIM",
+        "Nada de espirradeira na cerca do cão.",
+        "Grevílea pode piorar alergia de pele.",
+        "Na próxima: árvores de perto",
+        "→",
+        "TG 084 ÁRVORE NA CALÇADA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "b24-307",
+        "b24-289",
+        "b24-291",
+        "t37-101",
+        "b24-287"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro árvores",
+        "1",
+        "Quaresmeira",
+        "Terra neutra a ácida.",
+        "2",
+        "Cássia",
+        "Cacho amarelo perfumado.",
+        "3",
+        "Pata-de-vaca",
+        "Flor que lembra orquídea.",
+        "4",
+        "Magnólia",
+        "Algumas florescem sem folha.",
+        "CHAVE",
+        "Luz plena",
+        "Terra que escoe",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 084 ÁRVORE NA CALÇADA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ipe-var-quaresmeira.jpg",
+          "alt": "Quaresmeira florida de roxo"
+        },
+        {
+          "src": "ipe-var-cassia.jpg",
+          "alt": "Cássia-fístula com cachos de flor amarela"
+        },
+        {
+          "src": "ipe-var-pata-de-vaca.jpg",
+          "alt": "Flor rosa da pata-de-vaca"
+        },
+        {
+          "src": "ipe-var-magnolia.jpg",
+          "alt": "Galho de magnólia só de flor"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "b24-280",
+        "b24-301",
+        "b24-309",
+        "b24-279",
+        "t37-102"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "TECOMA COM PRAGA",
+        "Olhe se é ácaro.",
+        "MURTA COM PRAGA",
+        "Pode ser mosca-branca.",
+        "QUARESMEIRA RALA",
+        "Belisque a ponta.",
+        "TECOMA CRESCEU DEMAIS",
+        "Uma poda por ano.",
+        "DICA DO ANDRÉ",
+        "Magnólia cresce devagar: escolha bem o tipo.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 084 ÁRVORE NA CALÇADA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "b24-289",
+        "t37-100"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "60",
+        "CM",
+        "pode ter a vagem marrom da cássia-fístula.",
+        "E cachos de flor amarela perfumada.",
+        "E MAIS UMA",
+        "A magnólia é mais velha que as abelhas: quem poliniza é besouro.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 084 ÁRVORE NA CALÇADA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "b24-283",
+        "i36-028",
+        "i36-107",
+        "t37-127",
+        "t37-098",
+        "b24-308",
+        "m33-029",
+        "t13-44"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Ipê na terra, não no vaso",
+        "Buraco maior que o vaso",
+        "Caule no mesmo nível",
+        "Árvore em vaso: regue com chuva",
+        "Resedá: poda forte uma vez por ano",
+        "Quaresmeira: 2 pares de gemas",
+        "Pinhão plantado fresco",
+        "Espirradeira longe do cão",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 084 ÁRVORE NA CALÇADA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua muda de árvore pegar na terra, me conta. E divide uma semente com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "084",
+        "VOCÊ TEM",
+        "085",
+        "086",
+        "087",
+        "088",
+        "089",
+        "São 84 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 085 JARDIM DE BORBOLETA",
+        "Comente BORBOLETA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 084 ÁRVORE NA CALÇADA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

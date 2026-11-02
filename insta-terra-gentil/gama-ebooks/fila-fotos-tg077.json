@@ -1,0 +1,70 @@
+{
+  "livro": "TG 077",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "ccl-gesto-1",
+      "especie": "columnar cactus",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands wearing thick gloves, holding a folded cloth around a tall columnar cactus and cutting off its top with a knife",
+      "mascote": false
+    },
+    {
+      "id": "ccl-gesto-2",
+      "especie": "columnar cactus",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands laying a cut columnar cactus top on a dry wooden shelf in an airy spot so the cut can heal; the small mascot figurine stands on the shelf next to it",
+      "mascote": true
+    },
+    {
+      "id": "ccl-gesto-3",
+      "especie": "columnar cactus",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting a healed columnar cactus cutting upright in a pot of sandy soil",
+      "mascote": false
+    },
+    {
+      "id": "ccl-sintoma-1",
+      "especie": "cactus",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Small potted cactus with a dried, artificially dyed straw flower glued and pinned onto its top, close view",
+      "mascote": false
+    },
+    {
+      "id": "ccl-var-estrela",
+      "especie": "star cactus",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Astrophytum asterias, a flat spineless cactus like a sea urchin with 8 ribs and small white dots, in a clay pot",
+      "mascote": false
+    },
+    {
+      "id": "ccl-var-coroa-de-frade",
+      "especie": "melocactus",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Melocactus with a woolly reddish cap (cephalium) on top bearing small flowers, in a pot",
+      "mascote": false
+    },
+    {
+      "id": "ccl-var-rabo-de-rato",
+      "especie": "rat tail cactus",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Rat tail cactus with long thin stems cascading over the edge of a hanging pot, with magenta flowers",
+      "mascote": false
+    },
+    {
+      "id": "ccl-var-bocasana",
+      "especie": "powder puff cactus",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Mammillaria bocasana clump covered in white spines and silky hairs like a pompom, in a small pot; the small mascot figurine sits on the rim of the pot",
+      "mascote": true
+    }
+  ]
+}

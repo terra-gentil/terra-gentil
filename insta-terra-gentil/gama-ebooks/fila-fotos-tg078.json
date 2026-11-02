@@ -1,0 +1,70 @@
+{
+  "livro": "TG 078",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "scl-gesto-1",
+      "especie": "echeveria",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands gently twisting a mature healthy leaf sideways off an echeveria rosette",
+      "mascote": false
+    },
+    {
+      "id": "scl-gesto-2",
+      "especie": "succulent",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands spreading succulent leaves on a tray in a warm dry spot so the ends can heal",
+      "mascote": false
+    },
+    {
+      "id": "scl-gesto-3",
+      "especie": "succulent",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pushing succulent leaves upright into a tray of fine gravel, about 1 cm apart; the small mascot figurine stands on the table next to the tray",
+      "mascote": true
+    },
+    {
+      "id": "scl-sintoma-1",
+      "especie": "succulent",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Succulent stem covered in small brown scale insect bumps, close view",
+      "mascote": false
+    },
+    {
+      "id": "scl-var-lipstick",
+      "especie": "echeveria",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Echeveria 'Lipstick' rosette with bright red leaf edges in sunlight, in a pot",
+      "mascote": false
+    },
+    {
+      "id": "scl-var-fantasma",
+      "especie": "ghost plant",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Graptopetalum paraguayense with pinkish grey silvery rosettes on short stems, in a pot",
+      "mascote": false
+    },
+    {
+      "id": "scl-var-jujuba",
+      "especie": "jelly bean plant",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Sedum rubrotinctum with red bean-shaped leaves, in a pot",
+      "mascote": false
+    },
+    {
+      "id": "scl-var-teia",
+      "especie": "cobweb houseleek",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Sempervivum arachnoideum rosettes with white cobweb threads at the leaf tips, in a pot; the small mascot figurine sits on a stone beside the pot",
+      "mascote": true
+    }
+  ]
+}

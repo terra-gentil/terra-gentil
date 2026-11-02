@@ -1,0 +1,70 @@
+{
+  "livro": "TG 074",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "esp-gesto-1",
+      "especie": "snake plant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a snake plant leaf crosswise into several pieces with a knife",
+      "mascote": false
+    },
+    {
+      "id": "esp-gesto-2",
+      "especie": "snake plant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pushing snake plant leaf pieces, lower end down, into the soil of a pot; the small mascot figurine sits on the rim of the pot",
+      "mascote": true
+    },
+    {
+      "id": "esp-gesto-3",
+      "especie": "snake plant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing a pot of snake plant leaf cuttings in a bright spot away from direct sun",
+      "mascote": false
+    },
+    {
+      "id": "esp-sintoma-1",
+      "especie": "snake plant",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Young all-green snake plant grown from a leaf cutting, next to the yellow-edged mother plant in another pot",
+      "mascote": false
+    },
+    {
+      "id": "esp-var-zamioculca",
+      "especie": "ZZ plant",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "ZZ plant with glossy leaves divided into separate leaflets like a feather, in a pot",
+      "mascote": false
+    },
+    {
+      "id": "esp-var-dracena",
+      "especie": "dragon tree",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dracaena marginata with thin leaves edged in red, in a pot",
+      "mascote": false
+    },
+    {
+      "id": "esp-var-cordiline",
+      "especie": "ti plant",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Red Cordyline terminalis with lance-shaped leaves in shades of red and purple, in a pot",
+      "mascote": false
+    },
+    {
+      "id": "esp-var-iuca",
+      "especie": "spineless yucca",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Old yucca elephantipes with tufts of leaves at the top of its trunks, in a sunny garden; the small mascot figurine stands on the garden path next to it",
+      "mascote": true
+    }
+  ]
+}

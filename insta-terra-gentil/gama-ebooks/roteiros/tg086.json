@@ -1,0 +1,557 @@
+{
+  "livro": "TG 086",
+  "titulo": "Flores de Inverno",
+  "serie": "#1F3A4D",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "086",
+        "COLEÇÃO TERRA GENTIL",
+        "INVERNO",
+        "Flores de Inverno",
+        "Camélia, kalanchoe e flor-de-maio.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "kalanchoe-A-1.jpg",
+          "alt": "André com um vaso de kalanchoe florida"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "b24-511",
+        "b24-151",
+        "q3-03"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Camélia, kalanchoe e flor-de-maio no vaso.",
+        "No frio, a kalanchoe quer pouca água.",
+        "Aqui tem rega, muda, cuidado e flores de perto.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Escolha uma planta com muito botão.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 086 FLORES DE INVERNO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "kalanchoe-B-1.jpg",
+          "alt": "André olhando os botões de uma planta de flor"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "b24-151",
+        "q3-373",
+        "q3-03",
+        "b24-150"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Pouca água no frio.",
+        "Kalanchoe e coroa-de-cristo agradecem.",
+        "BOTÃO",
+        "Compre a planta com botão por abrir.",
+        "Terra que escoe bem.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 086 FLORES DE INVERNO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da kalanchoe",
+        "06",
+        "CAPÍTULO 1",
+        "Rega e luz",
+        "08",
+        "CAPÍTULO 2",
+        "Mudas de graça",
+        "12",
+        "CAPÍTULO 3",
+        "Cuidado no vaso",
+        "15",
+        "CAPÍTULO 4",
+        "Flores de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Camélia com bichinho? Vá para a página 11.",
+        "Na próxima: a ficha da kalanchoe",
+        "→",
+        "TG 086 FLORES DE INVERNO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "b24-150",
+        "q3-453",
+        "b24-151",
+        "b24-153"
+      ],
+      "textos": [
+        "FICHA DA KALANCHOE",
+        "Antes de plantar",
+        "O que ela pede",
+        "LUZ",
+        "Sol ou meia-sombra",
+        "TERRA",
+        "Que escoe bem",
+        "REGA",
+        "Molhe e deixe secar",
+        "FRIO",
+        "Água pouca",
+        "ADUBO",
+        "Desde o botão com cor",
+        "DE FLORICULTURA",
+        "ATENÇÃO",
+        "Prefere meia-sombra",
+        "Na próxima: rega e luz",
+        "→",
+        "TG 086 FLORES DE INVERNO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Rega e luz",
+        "01",
+        "Certo e errado",
+        "02",
+        "Muda de flor-de-maio, passo a passo",
+        "03",
+        "Camélia com bichinho",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 086 FLORES DE INVERNO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-regar-A-1.jpg",
+          "alt": "André regando um vaso de flor"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "b24-151",
+        "q3-444",
+        "q3-373",
+        "b24-377",
+        "b24-511",
+        "q3-03"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Kalanchoe no frio",
+        "Pouca água",
+        "Rega farta",
+        "Bico-de-papagaio",
+        "Terra úmida",
+        "Encharcada",
+        "Coroa no frio",
+        "Quase seca",
+        "Encharcada",
+        "Cravo",
+        "Lugar aberto",
+        "Canto fechado",
+        "Camélia vai bem abrigada, encostada no muro.",
+        "DICA DO ANDRÉ",
+        "Toda florida, a planta dura pouco.",
+        "Na próxima: mudas de graça",
+        "→",
+        "TG 086 FLORES DE INVERNO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Mudas de graça",
+        "01",
+        "Muda de flor-de-maio, passo a passo",
+        "02",
+        "Kalanchoe e cia.",
+        "03",
+        "Camélia com bichinho",
+        "Na próxima: muda de flor-de-maio, passo a passo",
+        "→",
+        "TG 086 FLORES DE INVERNO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-A-1.jpg",
+          "alt": "André separando galhos para fazer muda"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "m33-243",
+        "q3-559",
+        "m33-244"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Muda de flor-de-maio? Faça assim.",
+        "ESTACA",
+        "2 ou 3 gomos",
+        "TERRA",
+        "Turfa e areia grossa",
+        "FLOR",
+        "Em um ano",
+        "1",
+        "CORTE",
+        "Uma estaca de 2 ou 3 gomos.",
+        "2",
+        "SEQUE",
+        "Deixe o corte secar.",
+        "3",
+        "PLANTE",
+        "Na turfa com areia grossa.",
+        "DICA DO ANDRÉ",
+        "Duas estacas costas com costas: vaso cheio.",
+        "Na próxima: kalanchoe e cia.",
+        "→",
+        "TG 086 FLORES DE INVERNO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "inv-gesto-1.jpg",
+          "alt": "Mãos separando uma estaca de 2 ou 3 gomos de flor-de-maio"
+        },
+        {
+          "src": "inv-gesto-2.jpg",
+          "alt": "Mãos deixando as estacas de flor-de-maio secarem sobre um papel"
+        },
+        {
+          "src": "inv-gesto-3.jpg",
+          "alt": "Mãos plantando duas estacas de flor-de-maio costas com costas num vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "m33-179",
+        "q3-535",
+        "q3-371",
+        "m33-120",
+        "m33-070"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · MUDA",
+        "Kalanchoe e cia.",
+        "Kalanchoe: estaca seca 24 horas antes.",
+        "Aranto: aperte o filhotinho da folha na terra.",
+        "Coroa-de-cristo: deixe a ponta secar.",
+        "Eufórbia: corte na água, o leite para.",
+        "Crisântemo: broto de 5 a 8 cm da base.",
+        "Na próxima: camélia com bichinho",
+        "→",
+        "TG 086 FLORES DE INVERNO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "b24-101",
+        "b24-511",
+        "g32-483"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Camélia com bichinho?",
+        "1",
+        "O QUE PARECE",
+        "Planta fraca.",
+        "O QUE PODE SER",
+        "Pulgão, tripes ou cochonilha.",
+        "COMO RESOLVER",
+        "Saia do lugar fechado; no pulgão, jato de água.",
+        "Na próxima: cuidado no vaso",
+        "→",
+        "TG 086 FLORES DE INVERNO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "inv-sintoma-1.jpg",
+          "alt": "Folhas de camélia com pulgão e cochonilha num canto fechado"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Cuidado no vaso",
+        "01",
+        "Flor-de-maio",
+        "02",
+        "Leite da eufórbia",
+        "03",
+        "Flores de perto",
+        "Na próxima: flor-de-maio",
+        "→",
+        "TG 086 FLORES DE INVERNO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "kalanchoe-C-1.jpg",
+          "alt": "André olhando um vaso de flor de perto"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "b24-543",
+        "q3-560",
+        "q3-561",
+        "q3-558",
+        "m33-242"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · VASO",
+        "Flor-de-maio",
+        "LUZ",
+        "Meia-sombra",
+        "TERRA",
+        "Rica, que escoe",
+        "O QUE ELA PEDE",
+        "Água",
+        " pouca antes do botão",
+        "Botão",
+        " apareceu, mais água",
+        "Adubo",
+        " líquido fraco a cada 10 a 14 dias",
+        "Vaso novo",
+        " todo ano, depois da flor",
+        "Cuidado",
+        "Depois da flor",
+        " menos água de novo",
+        "Semente",
+        " só cruzada com outra planta",
+        "Na próxima: leite da eufórbia",
+        "→",
+        "TG 086 FLORES DE INVERNO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "b24-313",
+        "b24-114",
+        "m33-120",
+        "q3-371"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · LEITE",
+        "ATENÇÃO",
+        "O leite das eufórbias irrita a pele.",
+        "A planta faz muito mal se for comida.",
+        "Néctar de algumas azaleias também faz mal.",
+        "FAÇA ASSIM",
+        "Estaca de eufórbia: corte na água.",
+        "Coroa-de-cristo: deixe a ponta secar.",
+        "Na próxima: flores de perto",
+        "→",
+        "TG 086 FLORES DE INVERNO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "b24-104",
+        "b24-375",
+        "q3-442",
+        "b24-314",
+        "q3-03"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro flores",
+        "1",
+        "Camélia",
+        "Pode virar árvore de 10 m.",
+        "2",
+        "Crisântemo-pompom",
+        "50 ou mais flores por pé.",
+        "3",
+        "Bico-de-papagaio",
+        "O vermelho são brácteas.",
+        "4",
+        "Coroa-de-cristo",
+        "Flor de vez em quando, o ano todo.",
+        "CHAVE",
+        "Muito botão",
+        "Por abrir",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 086 FLORES DE INVERNO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "inv-var-camelia.jpg",
+          "alt": "Camélia de flor dobrada vermelha"
+        },
+        {
+          "src": "inv-var-crisantemo.jpg",
+          "alt": "Crisântemo-pompom baixinho cheio de flores redondas"
+        },
+        {
+          "src": "inv-var-bico-de-papagaio.jpg",
+          "alt": "Bico-de-papagaio de brácteas vermelhas num vaso"
+        },
+        {
+          "src": "inv-var-coroa-de-cristo.jpg",
+          "alt": "Coroa-de-cristo com espinhos e flores vermelhas"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "b24-378",
+        "b24-371",
+        "q3-443",
+        "q3-538"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "CRAVO PAROU",
+        "Tire a flor murcha.",
+        "CRISÂNTEMO RALO",
+        "Belisque a ponta.",
+        "BICO CRESCEU",
+        "Acabou o produto do viveiro.",
+        "KALANCHOE ENORME",
+        "Troque por um filhote.",
+        "DICA DO ANDRÉ",
+        "Crisântemo alto pede tutor.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 086 FLORES DE INVERNO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "b24-102",
+        "g32-445"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "6",
+        "TIPOS",
+        "de flor tem a camélia, da simples à dobrada formal.",
+        "No meio, semidobrada, anêmona, peônia e rosa.",
+        "E MAIS UMA",
+        "Chá verde e chá preto vêm da mesma camélia, a Camellia sinensis.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 086 FLORES DE INVERNO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "b24-151",
+        "q3-03",
+        "b24-511",
+        "m33-243",
+        "q3-560",
+        "b24-313",
+        "b24-378",
+        "b24-371"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Kalanchoe com pouca água no frio",
+        "Planta com muito botão por abrir",
+        "Camélia abrigada junto ao muro",
+        "Estaca de flor-de-maio, 2 ou 3 gomos",
+        "Mais água quando vier o botão",
+        "Leite da eufórbia longe da pele",
+        "Flor murcha do cravo fora",
+        "Ponta do crisântemo beliscada",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 086 FLORES DE INVERNO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua flor-de-maio encher de botão, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "086",
+        "VOCÊ TEM",
+        "087",
+        "088",
+        "089",
+        "090",
+        "091",
+        "São 86 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 087 TOMATE CEREJA",
+        "Comente CEREJA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 086 FLORES DE INVERNO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "kalanchoe-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

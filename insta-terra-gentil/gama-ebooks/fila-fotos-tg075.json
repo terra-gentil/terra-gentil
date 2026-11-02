@@ -1,0 +1,70 @@
+{
+  "livro": "TG 075",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "min-gesto-1",
+      "especie": "worm bin bucket",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands drilling small holes in the bottom of a plastic bucket for a worm bin, in a shaded backyard corner",
+      "mascote": false
+    },
+    {
+      "id": "min-gesto-2",
+      "especie": "worm bin bucket",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands fitting a drilled bucket full of dark compost and red worms on top of bricks inside a second bucket, in the shade",
+      "mascote": false
+    },
+    {
+      "id": "min-gesto-3",
+      "especie": "worm bin liquid",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pouring dark liquid from the bottom bucket of a worm bin into a watering can filled with water; the small mascot figurine sits on the rim of the worm bin bucket",
+      "mascote": true
+    },
+    {
+      "id": "min-sintoma-1",
+      "especie": "compost",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Soggy, slimy, waterlogged compost of rotting green scraps inside a compost bin, wet and sticky, with no dry material",
+      "mascote": false
+    },
+    {
+      "id": "min-var-bokashi",
+      "especie": "bokashi bucket",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Closed bokashi fermentation bucket on a kitchen counter next to a cutting board with vegetable scraps",
+      "mascote": false
+    },
+    {
+      "id": "min-var-buraco",
+      "especie": "kitchen scraps",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Hole dug about 40 cm deep in a vegetable bed with kitchen vegetable scraps inside and a spade beside it",
+      "mascote": false
+    },
+    {
+      "id": "min-var-grama",
+      "especie": "grass turf",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Stack of cut grass turf squares piled with the grass side facing down in a corner of the garden",
+      "mascote": false
+    },
+    {
+      "id": "min-var-baias",
+      "especie": "compost bays",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Three-bay compost bin made of wooden pallets in a backyard, one bay full, one half full and one empty; the small mascot figurine stands on the ground in front of the empty bay",
+      "mascote": true
+    }
+  ]
+}

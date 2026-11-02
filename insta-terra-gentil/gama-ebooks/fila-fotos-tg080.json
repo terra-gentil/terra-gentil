@@ -1,0 +1,70 @@
+{
+  "livro": "TG 080",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "oar-gesto-1",
+      "especie": "vanda orchid",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands checking new shoots and fresh roots at the base of a tall, leggy Vanda orchid stem",
+      "mascote": false
+    },
+    {
+      "id": "oar-gesto-2",
+      "especie": "vanda orchid",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a tall Vanda orchid stem with a new utility knife blade just above the new shoots and roots; the small mascot figurine stands on the slatted wooden bench beside the hands",
+      "mascote": true
+    },
+    {
+      "id": "oar-gesto-3",
+      "especie": "vanda orchid",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands slipping a cut Vanda orchid top with aerial roots into a clear plastic bag",
+      "mascote": false
+    },
+    {
+      "id": "oar-sintoma-1",
+      "especie": "orchid on cork",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Small orchid mounted on a cork bark slab, its aerial root tips brown and dried where they touch the slab",
+      "mascote": false
+    },
+    {
+      "id": "oar-var-vanda",
+      "especie": "vanda orchid",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Flowering Vanda orchid hanging in dappled shade with long thick aerial roots dangling in the air",
+      "mascote": false
+    },
+    {
+      "id": "oar-var-brassavola",
+      "especie": "brassavola nodosa",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Brassavola nodosa with slender white flowers growing on a tree branch",
+      "mascote": false
+    },
+    {
+      "id": "oar-var-angraecum",
+      "especie": "angraecum sesquipedale",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Angraecum sesquipedale with waxy white star-shaped flowers and very long nectar spurs",
+      "mascote": false
+    },
+    {
+      "id": "oar-var-baunilha",
+      "especie": "vanilla orchid",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Vanilla orchid vine with thick green leaves climbing a tree trunk in humid shade; the small mascot figurine sits at the base of the tree trunk",
+      "mascote": true
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 072",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "fco-gesto-1",
+      "especie": "nasturtium",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands making a shallow hole 1 to 2 cm deep in garden soil with a finger",
+      "mascote": false
+    },
+    {
+      "id": "fco-gesto-2",
+      "especie": "nasturtium",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands dropping two wrinkled pea-like nasturtium seeds into a small hole in the soil; the small mascot figurine sits on the wooden edge of the raised bed",
+      "mascote": true
+    },
+    {
+      "id": "fco-gesto-3",
+      "especie": "nasturtium",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pulling out the smaller of two nasturtium seedlings growing together, leaving the stronger one",
+      "mascote": false
+    },
+    {
+      "id": "fco-sintoma-1",
+      "especie": "nasturtium",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Round nasturtium leaves and stems covered with clusters of black aphids",
+      "mascote": false
+    },
+    {
+      "id": "fco-var-amor-perfeito",
+      "especie": "heartsease",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Viola tricolor small flowers in purple, yellow and white growing in a garden bed",
+      "mascote": false
+    },
+    {
+      "id": "fco-var-calendula",
+      "especie": "calendula",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Calendula officinalis with bright orange daisy-like flowers in a vegetable garden",
+      "mascote": false
+    },
+    {
+      "id": "fco-var-centaurea",
+      "especie": "cornflower",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Blue cornflowers (Centaurea cyanus) blooming in a sunny garden bed; the small mascot figurine stands on the soil among the stems",
+      "mascote": true
+    },
+    {
+      "id": "fco-var-capuchinha",
+      "especie": "nasturtium",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Nasturtium plant with round leaves and spurred red, orange and yellow flowers spilling over a low wall",
+      "mascote": false
+    }
+  ]
+}

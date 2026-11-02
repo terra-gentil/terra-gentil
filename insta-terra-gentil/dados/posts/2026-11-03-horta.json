@@ -1,0 +1,219 @@
+{
+  "dia": "2026-11-03",
+  "palavra": "HORTA",
+  "especie": "Petroselinum crispum",
+  "nome": "Salsinha",
+  "tema": "horta",
+  "serie": "Mito ou verdade",
+  "gancho": "Horta na varanda dá trabalho, é cara e ocupa espaço? Três mitos que a salsinha derruba.",
+  "resumo": "Três mitos da horta em apartamento e três gestos simples para começar com a salsinha: vaso com furo, teste do dedo e luz suave.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Horta",
+      "linha1": "Horta na varanda",
+      "linha2": "dá trabalho e",
+      "linha3": "pesa no bolso?",
+      "destaque": "mito"
+    },
+    {
+      "tarja": "Mito 1",
+      "linha1": "Preciso de",
+      "linha2": "muito",
+      "destaque": "espaço",
+      "texto": "Um vaso de salsinha de 15 cm de diâmetro já basta para ela crescer saudável.",
+      "nota": "Calma, cabe mais do que você pensa."
+    },
+    {
+      "tarja": "Mito 2",
+      "linha1": "Dá muito",
+      "linha2": "trabalho",
+      "destaque": "demais",
+      "texto": "A horta de temperos pede cinco minutos por dia, o tempo de um café.",
+      "nota": "Dá para caber na sua rotina."
+    },
+    {
+      "tarja": "Mito 3",
+      "linha1": "Vai ficar",
+      "linha2": "muito",
+      "destaque": "caro",
+      "texto": "Um vasinho que dá folhas por meses custa bem menos do que comprar tempero toda semana.",
+      "nota": "O começo é pequeno e leve."
+    },
+    {
+      "linha1": "Escolha um vaso",
+      "linha2": "com",
+      "destaque": "furos embaixo",
+      "texto": "Sem furo, a raiz apodrece. Se for reaproveitar uma lata ou um pote, lembre desse detalhe.",
+      "dica": "Comece com mudas já formadas. As sementes ficam para quando você tiver mais experiência."
+    },
+    {
+      "linha1": "Regue pelo",
+      "linha2": "teste do",
+      "destaque": "dedo",
+      "texto": "Enfie o dedo na terra. Se estiver seca, regue. Se estiver úmida, espere.",
+      "dica": "A salsinha prefere luz suave e não gosta do sol forte da tarde."
+    },
+    {
+      "tarja": "Sinal",
+      "linha1": "Folha amarela",
+      "linha2": "na salsinha?",
+      "destaque": "calma",
+      "texto": "Pode ser sinal de rega demais. Às vezes, cuidar demais também faz mal.",
+      "nota": "Na dúvida, espere um pouco."
+    },
+    {
+      "texto": "Comece pequeno, com uma muda e um vaso. Salve este post para a hora da primeira rega.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "Um vaso de salsinha de 15 cm de diâmetro já basta para ela crescer saudável.",
+      "pagina": 4,
+      "trecho": "Um vaso de salsinha saudável precisa de apenas 15 cm de diâmetro",
+      "fonte": "Horta na Varanda: Tenha Temperos Frescos, p. 4"
+    },
+    {
+      "texto": "A horta de temperos pede cinco minutos por dia, o tempo de um café.",
+      "pagina": 4,
+      "trecho": "Cinco minutos por dia - o tempo do seu café - é tudo que sua horta pede",
+      "fonte": "Horta na Varanda: Tenha Temperos Frescos, p. 4"
+    },
+    {
+      "texto": "A salsinha perdoa erros de iniciante e mostra que aprender faz parte do processo.",
+      "pagina": 6,
+      "trecho": "Perdoa seus erros de iniciante, mostrando que aprender faz parte do processo",
+      "fonte": "Horta na Varanda: Tenha Temperos Frescos, p. 6"
+    },
+    {
+      "texto": "A salsinha prefere luz suave e não gosta do sol forte da tarde.",
+      "pagina": 6,
+      "trecho": "ela prefere luz suave e não gosta de sol forte da tarde",
+      "fonte": "Horta na Varanda: Tenha Temperos Frescos, p. 6"
+    },
+    {
+      "texto": "Na colheita, corte sempre as hastes de fora com tesoura e deixe o centro crescer.",
+      "pagina": 6,
+      "trecho": "Corte sempre as hastes externas com tesoura, deixando o centro crescer",
+      "fonte": "Horta na Varanda: Tenha Temperos Frescos, p. 6"
+    },
+    {
+      "texto": "Teste do dedo: enfie o dedo na terra. Se estiver seca, regue. Se estiver úmida, espere.",
+      "pagina": 6,
+      "trecho": "enfie o dedo na terra. Seco = regue. Úmido = espere",
+      "fonte": "Horta na Varanda: Tenha Temperos Frescos, p. 6"
+    },
+    {
+      "texto": "O vaso precisa ter furos embaixo. Sem furo, a raiz apodrece.",
+      "pagina": 16,
+      "trecho": "TEM que ter furos embaixo. Sem furo = raiz apodrecida",
+      "fonte": "Horta na Varanda: Tenha Temperos Frescos, p. 16"
+    },
+    {
+      "texto": "Um vasinho que dá folhas por meses custa bem menos do que comprar tempero toda semana.",
+      "pagina": 4,
+      "trecho": "Um vasinho que te dá folhas por meses custa muito menos",
+      "fonte": "Horta na Varanda: Tenha Temperos Frescos, p. 4"
+    },
+    {
+      "texto": "Para começar, use mudas já formadas. As sementes ficam para quando você tiver mais experiência.",
+      "pagina": 16,
+      "trecho": "Comece com mudas já formadas (potinhos pretos)",
+      "fonte": "Horta na Varanda: Tenha Temperos Frescos, p. 16"
+    },
+    {
+      "texto": "Folha amarela na salsinha pode ser sinal de rega demais. Às vezes, cuidar demais também faz mal.",
+      "pagina": 20,
+      "trecho": "Às vezes, cuidado demais também faz mal",
+      "fonte": "Horta na Varanda: Tenha Temperos Frescos, p. 20"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "fontes": [
+    "Horta na Varanda: Tenha Temperos Frescos, p. 4",
+    "Horta na Varanda: Tenha Temperos Frescos, p. 6",
+    "Horta na Varanda: Tenha Temperos Frescos, p. 16",
+    "Horta na Varanda: Tenha Temperos Frescos, p. 20"
+  ],
+  "materia": {
+    "slug": "salsinha-na-varanda-3-mitos-e-primeiros-passos",
+    "titulo": "Salsinha na varanda: 3 mitos e os primeiros passos",
+    "descricao": "Horta na varanda dá trabalho, é cara e pede muito espaço? Veja por que isso é mito e como começar com a salsinha, passo a passo e sem medo nenhum de errar.",
+    "introducao": "Se você já olhou para o cantinho da varanda e pensou que horta não é para você, respire. Muita gente trava antes mesmo de começar, por causa de ideias que parecem verdade e não são. Neste texto, a gente conversa sobre três mitos comuns da horta em apartamento e sobre os primeiros passos com a salsinha, uma das plantas mais simpáticas para quem está começando. Tudo com base no ebook Horta na Varanda, do André, sem termo difícil e sem culpa. Quem já viu planta secar sabe como isso pesa, e é por isso que vale ir devagar, um gesto de cada vez.",
+    "secoes": [
+      {
+        "titulo": "Mito 1: preciso de muito espaço",
+        "paragrafos": [
+          "É comum achar que horta pede um quintal inteiro. Em apartamento, esse pensamento faz muita gente desistir antes de tentar. Só que, para a salsinha, a conta é bem mais modesta: um vaso de salsinha saudável precisa de apenas 15 cm de diâmetro.",
+          "Isso quer dizer que um cantinho de peitoril, de grade ou de parede já pode receber o seu primeiro vaso. Você não precisa de um grande projeto. Precisa de um pouquinho de intenção e de um lugar onde a planta receba a luz de que gosta."
+        ],
+        "fatosUsados": [
+          0
+        ]
+      },
+      {
+        "titulo": "Mito 2 e 3: dá muito trabalho e vai ficar caro",
+        "paragrafos": [
+          "Outro medo é o de não dar conta da rotina. O ebook diz que a horta de temperos pede cinco minutos por dia, o tempo do seu café. Dá para olhar a planta, sentir a terra e seguir o dia sem peso na consciência.",
+          "E o bolso? Pense em quanto se gasta comprando tempero toda semana. Um vasinho que dá folhas por meses custa bem menos do que isso. Claro que o livro não traz uma conta exata em reais, então não vale prometer economia de um valor certo. Mas a ideia é clara: o investimento é pequeno diante do que a plantinha devolve."
+        ],
+        "fatosUsados": [
+          1,
+          7
+        ]
+      },
+      {
+        "titulo": "Primeiros passos: vaso com furo e muda pronta",
+        "paragrafos": [
+          "Antes de qualquer coisa, olhe o vaso. Ele precisa ter furos embaixo. Sem furo, a raiz apodrece, e é um dos jeitos mais tristes de perder uma planta que estava indo bem. Se você vai reaproveitar uma lata ou um pote, lembre desse detalhe antes de plantar.",
+          "Na hora de escolher a planta, o ebook sugere começar com mudas já formadas, aquelas de potinho preto. As sementes ficam para depois, quando você tiver mais experiência. Assim o começo é mais leve e a chance de se animar é bem maior."
+        ],
+        "fatosUsados": [
+          6,
+          8
+        ]
+      },
+      {
+        "titulo": "Luz e rega: o jeito gentil de cuidar da salsinha",
+        "paragrafos": [
+          "A salsinha prefere luz suave e não gosta do sol forte da tarde. Então, na varanda, procure um lugar mais ameno, sem aquele sol pesado do fim do dia.",
+          "Para saber a hora de regar, use o teste do dedo: enfie o dedo na terra. Se estiver seca, regue. Se estiver úmida, espere. É simples e não depende de calendário. O ebook não dá um número fixo de regas por semana, e isso é de propósito: quem manda é a terra.",
+          "E fique de olho nas folhas. Folha amarela na salsinha pode ser sinal de rega demais. Às vezes, cuidar demais também faz mal. Na dúvida, espere um pouco e faça o teste do dedo de novo."
+        ],
+        "fatosUsados": [
+          3,
+          5,
+          9
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Qual o tamanho de vaso para a salsinha?",
+        "resposta": "Segundo o ebook, um vaso de salsinha saudável precisa de apenas 15 cm de diâmetro. O mais importante é que tenha furos embaixo, porque sem furo a raiz apodrece."
+      },
+      {
+        "pergunta": "Quantas vezes por semana devo regar a salsinha?",
+        "resposta": "O livro não dá um número fixo. Use o teste do dedo: enfie o dedo na terra. Se estiver seca, regue. Se estiver úmida, espere."
+      },
+      {
+        "pergunta": "Devo começar por semente ou por muda?",
+        "resposta": "O ebook recomenda começar com mudas já formadas, as de potinho preto. As sementes ficam para quando você tiver mais experiência."
+      }
+    ],
+    "conclusao": "Os três mitos caem com facilidade: a salsinha cabe num vaso pequeno, pede poucos minutos por dia e não precisa pesar no bolso. Escolha um vaso com furos, uma muda pronta e um lugar de luz suave. Regue pelo teste do dedo e, na dúvida, espere. Salve este texto para a hora em que a dúvida bater e conte para quem também tem medo de errar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

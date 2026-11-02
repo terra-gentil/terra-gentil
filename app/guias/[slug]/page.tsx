@@ -6,6 +6,7 @@ import { ArrowDown } from 'lucide-react';
 import { Fraunces, Montserrat } from 'next/font/google';
 import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
 import JsonLd from '@/components/seo/JsonLd';
+import LivroTracker from '@/components/analytics/LivroTracker';
 import { PDF_BASE_URL, SITE_NAME, SITE_URL } from '@/lib/constants';
 import { lerGuia, listarGuias, montarGuia, textoDe, type Guia } from '@/lib/guias';
 import { Blocos, Fotos, fotosNosPassos } from './Blocos';
@@ -53,7 +54,7 @@ export async function generateMetadata({
   };
 }
 
-function CartaoBaixar({ guia }: { guia: Guia }) {
+function CartaoBaixar({ guia, posicao }: { guia: Guia; posicao: 'topo' | 'fim' }) {
   // Sem endereco dos PDFs (R2) configurado, nao mostra um botao quebrado.
   if (!PDF_BASE_URL) return null;
   return (
@@ -75,7 +76,7 @@ function CartaoBaixar({ guia }: { guia: Guia }) {
         </span>
       </div>
       <div className="lv-download__acao">
-        <a className="lv-botao" href={`${PDF_BASE_URL}/${guia.meta.pdf}`} download rel="noopener">
+        <a className="lv-botao" href={`${PDF_BASE_URL}/${guia.meta.pdf}`} download rel="noopener" data-livro-baixar={posicao}>
           <span className="lv-botao__anel" aria-hidden="true" />
           <span className="lv-botao__brilho" aria-hidden="true">
             <span />
@@ -135,6 +136,7 @@ export default async function GuiaPage({ params }: { params: Promise<{ slug: str
 
   return (
     <article className={`bp-article lv-pag ${fraunces.variable} ${montserrat.variable}`}>
+      <LivroTracker codigo={guia.codigo} slug={guia.slug} />
       <BreadcrumbJsonLd
         crumbs={[
           { name: 'Ebooks', path: '/guias' },
@@ -159,7 +161,7 @@ export default async function GuiaPage({ params }: { params: Promise<{ slug: str
             <h1 className="lv-titulo">{guia.titulo}</h1>
             {m.subtitulo && <p className="lv-subtitulo">{m.subtitulo}</p>}
             <p className="lv-autor">por André Zimermann</p>
-            <CartaoBaixar guia={guia} />
+            <CartaoBaixar guia={guia} posicao="topo" />
           </div>
           {m.hero && (
             <figure className="lv-foto-abertura">
@@ -249,7 +251,7 @@ export default async function GuiaPage({ params }: { params: Promise<{ slug: str
           <section className="lv-final">
             <h2>Leve o livro com você</h2>
             <p>Tudo isso em PDF, para ler no celular ou imprimir. De graça, como toda a coleção.</p>
-            <CartaoBaixar guia={guia} />
+            <CartaoBaixar guia={guia} posicao="fim" />
             {m.proximo && <p>{m.proximo}</p>}
           </section>
 

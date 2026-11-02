@@ -1,5 +1,8 @@
 # PROGRESSO Terra Gentil
-## LEVA 6: TG 055 A 070 ESCRITOS, FOTOS NO FLOW EM ANDAMENTO (02/11/2026, tarde)
+## LEVA 6: TG 055 A 070 COMPLETOS, 128/128 FOTOS EM 2K (02/11/2026, noite)
+- **Fotos fechadas:** TG 055 a 070 com 8/8 em 2K e previa remontada (`ebooks\TG0NN-previa.pdf`, 19 paginas). Unico estouro: TG 066 p1 (+22 px, decisao 2 do Andre). Avisos do auditor: TG 059 2 de 8, TG 060 2 de 8 (pos).
+- Contas: Pamela ate o TG 060 (3 fotos; bateu o limite ~17h); eng.andrehz do resto do 060 ao 070 (~85 geracoes, janela dela abriu ~17h15 de 02/11).
+- **Proximo:** paginas do site do TG 047 a 070 (roteiro em PAGINAS DE LIVRO abaixo) e leva 7 comecando no TG 071 HIBISCO E PRIMAVERA (`pools\montar.mjs` com novos temas). As 6 decisoes do Andre seguem abertas (lista abaixo).
 - Ritmo combinado com o Andre: livros + fotos no mesmo dia, limitado pela cota do Flow (~190 fotos/dia nas duas contas = ~23 livros/dia). Estoque da biblia: ~60 livros novos possiveis (4.315 fatos livres, ~28 unicos por livro).
 - 16 livros escritos por 8 agentes em paralelo, 2 cada. Fatos divididos antes em `ebooks\fabrica\pools\pool-NNN-NNN.txt` (`pools\montar.mjs`: especie exclusiva por livro, compartilhadas em rodizio), brief em `pools\BRIEF.md`. Checado: zero fato repetido entre os 16 e os antigos.
 - Todos: 19 paginas, sem estouro, `validar.mjs` ok, fila de 8 fotos em `gama-ebooksila-fotos-tgNNN.json` (2 com Gentileza, lugar dito).
@@ -24,6 +27,7 @@
 - TG 070 promete TG 071 HIBISCO E PRIMAVERA (palavra HIBISCO): proxima leva comeca por ele.
 - **Para o Andre decidir:** (1) cada livro novo ganhou cor de serie propria (antes todos #1F4D2B); manter ou voltar. (2) TG 066: titulo longo na capa, 2 linhas, estouro.mjs acusa 22 px de largura na p1 (visualmente ok); aceitar ou fonte menor no molde Main. (3) TG 062: fatos contraditorios de germinacao do girassol, usado s28-103 (2 a 3 semanas). (4) TG 060 p17 usa borboleta vanessa "2.000 KM". (5) Livros com 36 a 43 fatos unicos (meta era 25 a 35).
 - Fotos (Pamela, Elenco e Gentileza remontados ~16h): TG 055 a 058 com 8/8 em 2K e previa remontada (~18h30). Pamela fez ~89 hoje; deve bater o limite no 059. Fila do TG 059 ja no clipboard.
+- 02/11 ~17h: TG 059 8/8 na Pamela (2 avisos). **PAMELA BATEU O LIMITE no TG 060** (3 de 8, les-gesto-1 a 3). eng.andrehz JA ABERTA ~17h15: Elenco e Gentileza montados, resto do 060 (`gama-ebooks\fila-fotos-tg060-resto.json`) gerado, TG 060 8/8 em 2K. TG 061 em diante na eng.andrehz (`fechar.ps1` espera 8 2K; com fila parcial casar a mao).
 - **Proximo:** fechar o TG 058 (Baixar todas prontas, `__baixar2k(0,7)` na galeria, `fabricaechar.ps1 TG058 TG059`). Depois seguir 059 a 070 (96 fotos): na Pamela ate o limite, depois na eng.andrehz (abre a noite; montar Elenco e Gentileza acenando la tambem; galeria `flow.google.com/project/db0dc6c0-4e26-452d-9c3d-bbfa4ac6f70d`). Esteira por livro: colar fila (caixa 600,470), Carregar (1151,495), Gerar (1237,555), Confirmar (1015,503), ~7 min, Baixar todas prontas (1045,553), conferir 1K em Downloads, galeria `eval(localStorage.b2k); __baixar2k(0,7)`, `fechar.ps1 TGNNN TGprox`.
 - Depois das fotos: paginas do site do TG 047 a 070 (roteiro em PAGINAS DE LIVRO abaixo) e a leva 7 comecando no TG 071 HIBISCO E PRIMAVERA (rodar `pools\montar.mjs` com novos temas).
 - Licao: o 1o clique em "Baixar todas prontas" pode cair fora do botao (fica em x~1045, y~553 no viewport 1366x599); conferir Downloads antes do 2K. Gerar o proximo so depois do `__baixar2k(0,7)` (imagem nova entra no topo da galeria).

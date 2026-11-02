@@ -59,6 +59,11 @@ export const AUTOR = {
   worksFor: { '@id': ORG_ID },
 };
 
+/** Data do JSON-LD com hora e fuso (o Google avisa quando vem so "AAAA-MM-DD"). Meio-dia de Brasilia. */
+export function dataIso(dia: string): string {
+  return /^\d{4}-\d{2}-\d{2}$/.test(dia) ? `${dia}T12:00:00-03:00` : dia;
+}
+
 /** Item da trilha de navegacao (BreadcrumbList). `path` relativo a raiz do site. */
 export interface Crumb {
   name: string;

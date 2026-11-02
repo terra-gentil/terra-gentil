@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { PUBLISHER } from '@/lib/seo';
+import { PUBLISHER, dataIso } from '@/lib/seo';
 import Link from 'next/link';
 import Image from 'next/image';
 import type { Metadata } from 'next';
@@ -63,8 +63,8 @@ export default async function NoticiaPage({ params }: Props) {
     '@type': 'Article',
     headline: materia.titulo,
     description: materia.descricao,
-    datePublished: noticia.dia,
-    dateModified: noticia.dia,
+    datePublished: dataIso(noticia.dia),
+    dateModified: dataIso(noticia.dia),
     image: imagem,
     inLanguage: 'pt-BR',
     author: PUBLISHER,

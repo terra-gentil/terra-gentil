@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { PUBLISHER } from '@/lib/seo';
+import { PUBLISHER, dataIso } from '@/lib/seo';
 import Link from 'next/link';
 import Image from 'next/image';
 import { ArrowLeft, ArrowUpRight } from 'lucide-react';
@@ -183,8 +183,8 @@ export default async function PostPage({
               '@type': 'Article',
               headline: post.title,
               description: post.excerpt,
-              datePublished: post.date,
-              dateModified: post.date,
+              datePublished: dataIso(post.date),
+              dateModified: dataIso(post.date),
               // image e campo obrigatorio pra Article rich snippet do Google.
               // Pra posts com video usa thumbnail YouTube; senao logo grande.
               image: heroImage

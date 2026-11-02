@@ -10,7 +10,7 @@ import LivroTracker from '@/components/analytics/LivroTracker';
 import { PDF_BASE_URL, SITE_NAME, SITE_URL } from '@/lib/constants';
 import { lerGuia, listarGuias, montarGuia, textoDe, type Guia } from '@/lib/guias';
 import { temaDe } from '@/lib/temas';
-import { AUTOR, COLECAO_ID, PUBLISHER } from '@/lib/seo';
+import { AUTOR, COLECAO_ID, PUBLISHER, dataIso } from '@/lib/seo';
 import { Blocos, Fotos, fotosNosPassos } from './Blocos';
 
 // Fontes do livro (as mesmas do PDF). Auto-hospedadas pelo Next, so carregam nesta rota.
@@ -114,11 +114,11 @@ export default async function GuiaPage({ params }: { params: Promise<{ slug: str
   const artigo = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: guia.titulo,
+    headline: guia.meta.titulo,
     description: guia.meta.descricao,
     image: m.hero ? `${SITE_URL}${m.hero.src}` : `${SITE_URL}/images/logo/full.jpg`,
-    datePublished: guia.meta.atualizado,
-    dateModified: guia.meta.atualizado,
+    datePublished: dataIso(guia.meta.atualizado),
+    dateModified: dataIso(guia.meta.atualizado),
     inLanguage: 'pt-BR',
     isAccessibleForFree: true,
     author: AUTOR,

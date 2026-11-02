@@ -1,4 +1,11 @@
 ﻿# PROGRESSO Terra Gentil
+## PAGINAS DE LIVRO: TG 004 A 046 NO AR (02/11/2026, madrugada)
+- 43 paginas no ar (TG 004 a 046), conferidas uma a uma: pagina 200, botao, PDF pelo Worker, sitemap e QA de contraste (43 de 43 ok). `/guias` ganhou a secao "Colecao Terra Gentil: leia no site" com as capas, acima da lista antiga.
+- Bug corrigido: botao de baixar do fim da pagina saia ambar sobre laranja (`.bp-content a` vencia `.lv-botao`). Estilos `lv-` de link agora com prefixo `.lv-pag`. QA novo: `scripts/guias/qa-contraste.js` (rodar no Chrome com a pagina aberta).
+- Lote: `scripts/guias/lote.json` (codigo, slug, titulo SEO, inicio da descricao) e `node scripts/guias/lote.mjs [TGNNN]`. Gerador baixa qualidade e largura ate a foto caber em 300 KB.
+- PDFs agora sobem pela API: `node scripts/guias/subir-pdfs.mjs TGNNN` (wrangler logado na canalterragentil; PDF web em `ebooks\pdf-web\`).
+- **Proximo:** TG 047 a 054 quando as fotos fecharem (linha no `lote.json`, `lote.mjs`, PDF web, `subir-pdfs.mjs`, build, push, conferir e QA). Hero do `/guias` ainda fala so dos 20 ebooks antigos (texto "18 ebooks" na meta description): decidir se soma os livros novos. Andre revisar titulos e descricoes SEO no `lote.json`.
+
 ## FOTOS DO FLOW DAS LEVAS 3, 4 E 5 EM ANDAMENTO (01/11/2026, noite)
 - Conta Pamela, ferramenta Fotos Ebook TG (Elenco 4 fotos + Gentileza montados de novo). Esteira por livro: colar fila, Carregar, Gerar, Confirmar (~7 min); "Baixar todas prontas" (1K); recarregar a galeria do projeto em outra aba e `eval(localStorage.b2k); __baixar2k(0,7)` (script guardado no localStorage da galeria da Pamela); `fabrica\fechar.ps1 TGNNN` (esperar 2k, casar2k, fazer.mjs).
 - FEITOS com 8/8 em 2K e previa remontada: TG 025 a 046 (176 fotos; leva 4 completa; 036 a 046 na eng.andrehz). **TG 047: 7/8 em 2K, previa remontada; falta `tre-var-tumbergia`** (fila de 1 foto em `ebooks\fabrica\fila-tg047-resto.json`; depois de gerar: baixar 2K, `casar2k.py TG047`, `node fazer.mjs curtos/tg047.mjs`).

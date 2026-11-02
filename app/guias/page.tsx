@@ -5,6 +5,9 @@ import { ebooks } from '@/data/ebooks';
 import GuiasClient from './GuiasClient';
 import StatNum from '@/components/ui/StatNum';
 import { INSTAGRAM_URL } from '@/lib/constants';
+import Image from 'next/image';
+import Link from 'next/link';
+import { listarGuias } from '@/lib/guias';
 
 export const metadata: Metadata = pageMetadata({
   title: 'Ebooks',
@@ -42,6 +45,8 @@ export default function GuiasPage() {
     cover: e.image,
   }));
   const totalPages = books.reduce((acc, b) => acc + b.pages, 0);
+  // Livros da colecao com pagina propria no site (/guias/[slug]), em ordem de TG.
+  const livros = listarGuias();
 
   return (
     <>
@@ -92,6 +97,37 @@ export default function GuiasPage() {
       </section>
 
       <div id="conteudo" className="jump-anchor" aria-hidden="true" />
+
+      {livros.length > 0 && (
+        <section className="gu-library gu-livros" aria-labelledby="gu-livros-titulo">
+          <div className="gu-inner">
+            <h2 id="gu-livros-titulo" className="gu-livros-titulo">
+              Coleção Terra Gentil: <span className="ital">leia no site</span>
+            </h2>
+            <p className="gu-livros-sub">
+              {livros.length} livros curtos para ler aqui mesmo, com o PDF grátis para baixar no fim.
+            </p>
+            <div className="gu-grid gu-grid--livros">
+              {livros.map((g) => (
+                <Link key={g.slug} className="gu-card" href={`/guias/${g.slug}`}>
+                  <div className="gu-cover gu-cover--livro">
+                    {g.capa && (
+                      <Image src={g.capa.src} alt={g.capa.alt} fill sizes="(max-width: 720px) 45vw, 180px" className="gu-cover-img" />
+                    )}
+                  </div>
+                  <div className="gu-card-meta">
+                    <div className="gu-card-title">{g.titulo}</div>
+                    <div className="gu-card-row">
+                      <div className="gu-card-cat">{g.codigo.replace('TG', 'TG ')}</div>
+                      <div className="gu-card-dl">Ler →</div>
+                    </div>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       <GuiasClient books={books} cats={CATS} />
 

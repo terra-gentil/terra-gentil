@@ -23,7 +23,9 @@
 | 070 | Ficus e Hera | FICUS | fic |
 - TG 070 promete TG 071 HIBISCO E PRIMAVERA (palavra HIBISCO): proxima leva comeca por ele.
 - **Para o Andre decidir:** (1) cada livro novo ganhou cor de serie propria (antes todos #1F4D2B); manter ou voltar. (2) TG 066: titulo longo na capa, 2 linhas, estouro.mjs acusa 22 px de largura na p1 (visualmente ok); aceitar ou fonte menor no molde Main. (3) TG 062: fatos contraditorios de germinacao do girassol, usado s28-103 (2 a 3 semanas). (4) TG 060 p17 usa borboleta vanessa "2.000 KM". (5) Livros com 36 a 43 fatos unicos (meta era 25 a 35).
-- Fotos: Pamela, Elenco e Gentileza remontados ~16h. TG 055 8/8 em 2K, previa remontada. TG 056 gerando. Pamela ja fez ~73 hoje; quando bater o limite, seguir na eng.andrehz (abre a noite).
+- Fotos (Pamela, Elenco e Gentileza remontados ~16h): TG 055, 056 e 057 com 8/8 em 2K e previa remontada. TG 058 gerando (~18h); Pamela chega a ~89 hoje com ele, deve bater o limite no 059.
+- **Proximo:** fechar o TG 058 (Baixar todas prontas, `__baixar2k(0,7)` na galeria, `fabricaechar.ps1 TG058 TG059`). Depois seguir 059 a 070 (96 fotos): na Pamela ate o limite, depois na eng.andrehz (abre a noite; montar Elenco e Gentileza acenando la tambem; galeria `flow.google.com/project/db0dc6c0-4e26-452d-9c3d-bbfa4ac6f70d`). Esteira por livro: colar fila (caixa 600,470), Carregar (1151,495), Gerar (1237,555), Confirmar (1015,503), ~7 min, Baixar todas prontas (1045,553), conferir 1K em Downloads, galeria `eval(localStorage.b2k); __baixar2k(0,7)`, `fechar.ps1 TGNNN TGprox`.
+- Depois das fotos: paginas do site do TG 047 a 070 (roteiro em PAGINAS DE LIVRO abaixo) e a leva 7 comecando no TG 071 HIBISCO E PRIMAVERA (rodar `pools\montar.mjs` com novos temas).
 - Licao: o 1o clique em "Baixar todas prontas" pode cair fora do botao (fica em x~1045, y~553 no viewport 1366x599); conferir Downloads antes do 2K. Gerar o proximo so depois do `__baixar2k(0,7)` (imagem nova entra no topo da galeria).
 
 ## SUPER REVISAO DE SEO (02/11/2026)

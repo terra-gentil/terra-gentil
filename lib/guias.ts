@@ -1,5 +1,6 @@
 import { existsSync, readFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
+import { ebooks } from '@/data/ebooks';
 
 // Paginas de livro do site. O conteudo vem de data/guias/<slug>.json, gerado por
 // scripts/guias/gerar.mjs a partir do livro pronto. O texto nunca e reescrito aqui:
@@ -86,6 +87,11 @@ export function listarGuias(): Guia[] {
     .filter((a) => a.endsWith('.json'))
     .map((a) => JSON.parse(readFileSync(join(PASTA, a), 'utf8')) as Guia)
     .sort((a, b) => a.codigo.localeCompare(b.codigo));
+}
+
+/** Total de ebooks gratis do site: colecao antiga (so PDF) mais os livros com pagina propria. */
+export function totalEbooks(): number {
+  return ebooks.length + listarGuias().length;
 }
 
 export function lerGuia(slug: string): Guia | null {

@@ -1,9 +1,11 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { ebooks } from '@/data/ebooks';
+import { totalEbooks } from '@/lib/guias';
 
 export default function Ebooks() {
   const display = ebooks.slice(0, 4);
+  const total = totalEbooks();
 
   return (
     <section id="guias" className="ebooks">
@@ -11,7 +13,7 @@ export default function Ebooks() {
         <div>
           <div className="section-eyebrow" style={{ color: 'var(--amber)' }}>De graça</div>
           <h2 className="section-title" style={{ color: 'var(--paper)' }}>
-            {ebooks.length} <span className="ital" style={{ color: 'var(--amber)' }}>ebooks</span> pra baixar
+            {total} <span className="ital" style={{ color: 'var(--amber)' }}>ebooks</span> pra baixar
           </h2>
         </div>
         <p className="section-aside" style={{ color: 'rgba(244,236,219,0.7)' }}>
@@ -39,7 +41,7 @@ export default function Ebooks() {
       </div>
       <div className="see-more-row">
         <Link className="see-more light" href="/guias#conteudo">
-          Ver todos os {ebooks.length} ebooks →
+          Ver todos os {total} ebooks →
         </Link>
       </div>
     </section>

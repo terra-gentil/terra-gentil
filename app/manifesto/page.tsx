@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { totalEbooks } from '@/lib/guias';
 import { pageMetadata } from '@/lib/seo';
 import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
 import Image from 'next/image';
@@ -35,7 +36,7 @@ const MF_ACTS = [
     kicker: 'A escola',
     title: 'O conhecimento também é gentileza.',
     body:
-      '18 ebooks gratuitos sobre as plantas mais comuns do Brasil. Blog com guias práticos. Lives no YouTube respondendo dúvida de quem mandou foto da planta morrendo no DM. E o Doutor das Plantas, uma IA que olha a foto da sua folha amarela e devolve, em segundos, o que tá acontecendo, o que fazer e qual ebook combina. Tudo grátis, sempre. Plantar não pode ser privilégio.',
+      `${totalEbooks()} ebooks gratuitos sobre as plantas mais comuns do Brasil. Blog com guias práticos. Lives no YouTube respondendo dúvida de quem mandou foto da planta morrendo no DM. E o Doutor das Plantas, uma IA que olha a foto da sua folha amarela e devolve, em segundos, o que tá acontecendo, o que fazer e qual ebook combina. Tudo grátis, sempre. Plantar não pode ser privilégio.`,
     mascot: '/images/mascot/laptop.webp',
     hue: '#74C69D',
   },

@@ -7,12 +7,12 @@ import StatNum from '@/components/ui/StatNum';
 import { INSTAGRAM_URL } from '@/lib/constants';
 import Image from 'next/image';
 import Link from 'next/link';
-import { listarGuias } from '@/lib/guias';
+import { listarGuias, totalEbooks } from '@/lib/guias';
 
 export const metadata: Metadata = pageMetadata({
   title: 'Ebooks',
   description:
-    '18 ebooks práticos pra resolver os perrengues mais comuns. Suculentas, compostagem, pragas, hortas. Tudo grátis em PDF.',
+    `${totalEbooks()} ebooks práticos pra resolver os perrengues mais comuns. Suculentas, orquídeas, horta, pragas. Leia no site ou baixe grátis em PDF.`,
   path: '/guias',
 });
 
@@ -44,9 +44,10 @@ export default function GuiasPage() {
     pdf: e.pdf,
     cover: e.image,
   }));
-  const totalPages = books.reduce((acc, b) => acc + b.pages, 0);
-  // Livros da colecao com pagina propria no site (/guias/[slug]), em ordem de TG.
   const livros = listarGuias();
+  const total = books.length + livros.length;
+  const totalPages = books.reduce((acc, b) => acc + b.pages, 0) + livros.reduce((acc, g) => acc + g.paginas.length, 0);
+
 
   return (
     <>
@@ -72,7 +73,7 @@ export default function GuiasPage() {
           <div>
             <div className="page-hero-eyebrow">Biblioteca · 100% grátis</div>
             <h1 className="page-hero-title">
-              {books.length} ebooks <span className="ital">práticos</span>.
+              {total} ebooks <span className="ital">práticos</span>.
             </h1>
             <p className="page-hero-sub">
               Ebooks de bolso pra resolver os perrengues mais comuns. {totalPages} páginas no total. Tudo em PDF, tudo
@@ -80,7 +81,7 @@ export default function GuiasPage() {
             </p>
             <div className="gu-stat-row">
               <div className="gu-stat">
-                <div className="n"><StatNum to={books.length} /></div>
+                <div className="n"><StatNum to={total} /></div>
                 <div className="l">ebooks</div>
               </div>
               <div className="gu-stat">

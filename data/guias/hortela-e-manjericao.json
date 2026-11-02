@@ -1,0 +1,439 @@
+{
+ "codigo": "TG067",
+ "slug": "hortela-e-manjericao",
+ "titulo": "Hortelã e Manjericão",
+ "capa": {
+  "src": "/guias/hortela-e-manjericao/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Hortelã e Manjericão"
+ },
+ "meta": {
+  "titulo": "Hortelã e manjericão: guia grátis de tempero",
+  "descricao": "Como plantar hortelã e manjericão perto da cozinha, com vaso grande, muda de graça, poda e colheita. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG067.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t067",
+    "COLEÇÃO TERRA GENTIL",
+    "HORTELÃ",
+    "Hortelã e Manjericão",
+    "Tempero fresco pertinho da cozinha.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/hortela-e-manjericao/hortela-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 158,
+     "alt": "André com um vaso de hortelã"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Um pé de hortelã já basta para a casa.",
+    "Ela só pede um vaso grande, só para ela.",
+    "Aqui tem muda de graça, poda e colheita.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Separe um vaso grande para a hortelã.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/hortela-e-manjericao/hortela-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 176,
+     "alt": "André olhando um vaso de hortelã"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Hortelã sempre no vaso.",
+    "Solta no canteiro, ela toma conta de tudo.",
+    "BELISCAR",
+    "A ponta do manjericão.",
+    "Tire as flores para colher mais."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha das ervas",
+    "06",
+    "CAPÍTULO 1",
+    "Hortelã no lugar",
+    "08",
+    "CAPÍTULO 2",
+    "Muda de graça",
+    "12",
+    "CAPÍTULO 3",
+    "Salsinha e coentro",
+    "15",
+    "CAPÍTULO 4",
+    "Ervas de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Manjericão tombando? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DAS ERVAS",
+    "Antes de plantar",
+    "O que elas pedem",
+    "MANJERICÃO",
+    "Sol pleno",
+    "HORTELÃ",
+    "Sol ou sombra",
+    "VASO",
+    "30 cm no manjericão",
+    "COLHEITA",
+    "Beliscando a ponta",
+    "COMEÇO",
+    "Muda, não semente",
+    "HORTELÃ SOLTA\tATENÇÃO",
+    "Toma conta do canteiro"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Hortelã no lugar",
+    "01\tCerto e errado",
+    "02\tMuda de hortelã, passo a passo",
+    "03\tManjericão tombando"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/hortela-e-manjericao/hortela-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 192,
+     "alt": "André plantando hortelã num vaso"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Hortelã\tNo vaso\tSolta",
+    "Começo\tMuda\tSemente",
+    "Manjericão\tPé enxuto\tEncharcado",
+    "Coentro\tMeia-sombra\tSol forte",
+    "Hortelã-pimenta de semente não sai igual à mãe.",
+    "DICA DO ANDRÉ",
+    "Vaso enterrado, com 2 cm de borda para fora."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Muda de graça",
+    "01\tMuda de hortelã, passo a passo",
+    "02\tManjericão cheio",
+    "03\tManjericão tombando"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/hortela-e-manjericao/manjericao-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 177,
+     "alt": "André cuidando do manjericão"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Muda de hortelã? Faça assim.",
+    "QUANDO",
+    "Touceira apertada",
+    "DE NOVO",
+    "A cada 5 anos",
+    "PRECISA",
+    "Faca de pão velha",
+    "1",
+    "DIVIDA",
+    "Corte a touceira com a faca.",
+    "2",
+    "PLANTE",
+    "A 30 cm, com 5 cm de fundo.",
+    "3",
+    "REGUE",
+    "Bem, logo depois de plantar.",
+    "DICA DO ANDRÉ",
+    "Faça mudas a mais: algumas se perdem."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/hortela-e-manjericao/hrt-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 255,
+     "alt": "Mãos dividindo uma touceira de hortelã com uma faca de pão velha"
+    },
+    {
+     "src": "/guias/hortela-e-manjericao/hrt-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 258,
+     "alt": "Mãos replantando um pedaço de hortelã na terra"
+    },
+    {
+     "src": "/guias/hortela-e-manjericao/hrt-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 234,
+     "alt": "Regador molhando bem a hortelã recém-plantada"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MUDA",
+    "Manjericão cheio",
+    "Ramo no copo com água solta raiz: muda de graça.",
+    "Belisque a ponta: ele brota dos lados.",
+    "Colha sempre as folhas de cima primeiro.",
+    "Vasinho do mercado vira até seis tufos.",
+    "Tire as flores para colher mais folha."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Manjericão tombando?",
+    "1",
+    "O QUE PARECE",
+    "Muda caída e mole.",
+    "O QUE PODE SER",
+    "Água demais no pé.",
+    "COMO RESOLVER",
+    "Regue pouco e nunca à noite."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/hortela-e-manjericao/hrt-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 263,
+     "alt": "Mudas de manjericão tombadas numa terra encharcada"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Salsinha e coentro",
+    "01\tSalsinha sem pressa",
+    "02\tCoentro no lugar",
+    "03\tErvas de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/hortela-e-manjericao/salsinha-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 214,
+     "alt": "André mexendo num vaso de salsinha"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · SALSINHA",
+    "Salsinha sem pressa",
+    "VASO",
+    "20 cm de fundo",
+    "NASCE",
+    "Em 3 a 4 semanas",
+    "VOCÊ VAI PRECISAR",
+    "Semente de molho um dia antes",
+    "Bandeja de células",
+    "Adubo toda semana",
+    "Água sem deixar secar",
+    "Cuidado",
+    "Flor tire para vir folha",
+    "Folha velha amarela sai do pé"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · COENTRO",
+    "ATENÇÃO",
+    "Coentro no sol forte sobe logo para semente.",
+    "Ele não gosta de ser transplantado.",
+    "Terra seca faz ele florir cedo.",
+    "FAÇA ASSIM",
+    "Semeie direto num vaso fundo.",
+    "Todo mês, na meia-sombra, terra úmida."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro ervas",
+    "1",
+    "Cebolinha",
+    "Folha e flor se comem.",
+    "2",
+    "Erva-cidreira",
+    "Pega rápido por divisão.",
+    "3",
+    "Camomila",
+    "Semeie fino e espalhado.",
+    "4",
+    "Erva-doce",
+    "Alta, mas fina.",
+    "CHAVE\tColher sempre\tMuda certa"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/hortela-e-manjericao/hrt-var-cebolinha.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 263,
+     "alt": "Touceira de cebolinha com florzinhas roxas"
+    },
+    {
+     "src": "/guias/hortela-e-manjericao/hrt-var-cidreira.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 280,
+     "alt": "Touceira de erva-cidreira de folhas verde-claras"
+    },
+    {
+     "src": "/guias/hortela-e-manjericao/hrt-var-camomila.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 274,
+     "alt": "Camomila florida de miolo amarelo num canteiro"
+    },
+    {
+     "src": "/guias/hortela-e-manjericao/hrt-var-erva-doce.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 153,
+     "alt": "Erva-doce alta e fina num canto de sol"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "COENTRO ESPIGOU",
+    "Sol demais: meia-sombra.",
+    "SALSINHA NÃO NASCE",
+    "Paciência: até 8 semanas.",
+    "CEBOLINHA CANSADA",
+    "Corte rente: ela volta.",
+    "HORTELÃ COM RAMO VELHO",
+    "Corte no verão.",
+    "DICA DO ANDRÉ",
+    "Salsinha em lotes dá colheita o ano todo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "60",
+    "%",
+    "das sementes de manjericão nascem, mais ou menos.",
+    "Por isso, semeie mais e desbaste depois.",
+    "E MAIS UMA",
+    "A hortelã-corsa forma um tapete de só 1 cm."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Hortelã em vaso grande",
+    "Hortelã começa por muda",
+    "Manjericão no sol pleno",
+    "Belisque a ponta",
+    "Tire as flores",
+    "Rega pouca, nunca à noite",
+    "Salsinha de molho antes",
+    "Coentro na meia-sombra",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se o seu vaso de ervas encher a cozinha de cheiro, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "067\tVOCÊ TEM",
+    "068",
+    "069",
+    "070",
+    "071",
+    "072",
+    "São 67 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 068 ALFACE E FOLHAS",
+    "Comente ALFACE no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/hortela-e-manjericao/hortela-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 115,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,439 @@
+{
+ "codigo": "TG070",
+ "slug": "ficus-e-hera",
+ "titulo": "Fícus e Hera",
+ "capa": {
+  "src": "/guias/ficus-e-hera/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Fícus e Hera"
+ },
+ "meta": {
+  "titulo": "Fícus e hera: guia grátis de folhagem",
+  "descricao": "Como cuidar de fícus, hera e clorofito dentro de casa, com luz, rega certa e muda de hera de graça. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG070.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t070",
+    "COLEÇÃO TERRA GENTIL",
+    "FÍCUS",
+    "Fícus e Hera",
+    "Folhagem bonita dentro de casa.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ficus-e-hera/jiboia-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 160,
+     "alt": "André com um vaso de folhagem na sala"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Fícus, hera e clorofito enfeitam a casa.",
+    "E a hera vira muda fácil, de graça.",
+    "Aqui tem luz, rega, muda e sete folhagens.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache o canto de luz clara da casa.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ficus-e-hera/jiboia-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 145,
+     "alt": "André olhando uma folhagem perto da janela"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Rega moderada no fícus.",
+    "Quando esfria, bem pouca água.",
+    "SEM SOL",
+    "Hera e pilea longe do sol direto.",
+    "Terra que escoe bem."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do fícus",
+    "06",
+    "CAPÍTULO 1",
+    "Luz e rega",
+    "08",
+    "CAPÍTULO 2",
+    "Mudas de graça",
+    "12",
+    "CAPÍTULO 3",
+    "Canto de sombra",
+    "15",
+    "CAPÍTULO 4",
+    "Folhagens de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Clorofito saltando do vaso? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO FÍCUS",
+    "Antes de plantar",
+    "O que ele pede",
+    "LUZ",
+    "Plena ou meia-sombra",
+    "TERRA",
+    "Fértil, que escoe",
+    "REGA",
+    "Moderada",
+    "FRIO",
+    "Bem pouca água",
+    "VASO",
+    "Troca a cada 2 anos",
+    "FÍCUS GRANDE\tATENÇÃO",
+    "Só renove a terra de cima"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Luz e rega",
+    "01\tCerto e errado",
+    "02\tMuda de hera, passo a passo",
+    "03\tClorofito saltando"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ficus-e-hera/peperomia-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 135,
+     "alt": "André regando uma folhagem no vaso"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Fícus no frio\tPouca água\tRega farta",
+    "Hera\tFresco\tCalor forte",
+    "Clorofito\tClaridade\tSol direto",
+    "Peperômia\tSeca um pouco\tEncharcada",
+    "Fícus-benjamim pede um pouco mais de água no calor.",
+    "DICA DO ANDRÉ",
+    "Clorofito é perfeito para vaso pendurado."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Mudas de graça",
+    "01\tMuda de hera, passo a passo",
+    "02\tFícus e clorofito",
+    "03\tClorofito saltando"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ficus-e-hera/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André separando ramos para fazer muda"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Muda de hera? Faça assim.",
+    "TAMANHO",
+    "Estaca de 7,5 cm",
+    "RAIZ",
+    "Em 4 a 8 semanas",
+    "VASO",
+    "Pequeno",
+    "1",
+    "CORTE",
+    "Uma estaca de 7,5 cm.",
+    "2",
+    "PLANTE",
+    "2 ou 3 no mesmo vaso.",
+    "3",
+    "PROTEJA",
+    "Longe do sol, que queima.",
+    "DICA DO ANDRÉ",
+    "Hera enraíza sozinha: por isso pega fácil."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ficus-e-hera/fic-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 185,
+     "alt": "Mãos cortando uma estaca de hera"
+    },
+    {
+     "src": "/guias/ficus-e-hera/fic-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 205,
+     "alt": "Mãos plantando estacas de hera num vaso pequeno"
+    },
+    {
+     "src": "/guias/ficus-e-hera/fic-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 155,
+     "alt": "Mãos pondo o vasinho de estacas de hera num canto claro sem sol"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MUDA",
+    "Fícus e clorofito",
+    "Fícus alto e pelado embaixo? Alporquia.",
+    "Falsa-seringueira: estaca de 10 a 15 cm.",
+    "Estaca de gema: enrole a folha com elástico.",
+    "Clorofito: prenda o filhote em outro vaso.",
+    "Não precisa cortar a haste."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Clorofito saltando do vaso?",
+    "1",
+    "O QUE PARECE",
+    "Planta doente.",
+    "O QUE PODE SER",
+    "Raiz apertada no vaso.",
+    "COMO RESOLVER",
+    "Vaso novo, todo ano se for jovem."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ficus-e-hera/fic-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 294,
+     "alt": "Clorofito com a raiz inchada empurrando a planta para fora do vaso"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Canto de sombra",
+    "01\tAspidistra",
+    "02\tSeiva do fícus",
+    "03\tFolhagens de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ficus-e-hera/maranta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 144,
+     "alt": "André num canto de sombra com folhagens"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · SOMBRA",
+    "Aspidistra",
+    "LUZ",
+    "Indireta ou meia-sombra",
+    "NO CALOR",
+    "Água à vontade",
+    "O QUE ELA PEDE",
+    "Adubo a cada 3 ou 4 semanas",
+    "Lugar fresco e com sombra",
+    "Muda dividindo o rizoma",
+    "Vaso novo a cada 2 ou 3 anos",
+    "Cuidado",
+    "Sol direto fica melhor longe",
+    "No frio terra só levemente úmida"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · SEIVA",
+    "ATENÇÃO",
+    "A seiva do fícus irrita pele e olhos.",
+    "A folha faz mal se for comida.",
+    "Planta de enfeite costuma ficar ao alcance do bicho.",
+    "FAÇA ASSIM",
+    "Fícus fora do alcance do bicho.",
+    "Morder ou só encostar pode intoxicar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro folhagens",
+    "1",
+    "Pilea",
+    "Folha redonda em espiral.",
+    "2",
+    "Peperômia-melancia",
+    "Folha listrada de prata.",
+    "3",
+    "Zebrina",
+    "Prata por cima, roxa embaixo.",
+    "4",
+    "Unha-de-gato",
+    "Um fícus que sobe no muro.",
+    "CHAVE\tLuz indireta\tSem água demais"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ficus-e-hera/fic-var-pilea.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 249,
+     "alt": "Pilea-dinheiro-chinês de folhas redondas num vaso"
+    },
+    {
+     "src": "/guias/ficus-e-hera/fic-var-peperomia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 262,
+     "alt": "Peperômia-melancia de folha listrada de prata"
+    },
+    {
+     "src": "/guias/ficus-e-hera/fic-var-zebrina.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 288,
+     "alt": "Tradescântia-zebrina listrada de prata e roxa"
+    },
+    {
+     "src": "/guias/ficus-e-hera/fic-var-unha-de-gato.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 227,
+     "alt": "Unha-de-gato cobrindo um muro"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "PILEA RALA",
+    "Belisque as pontas.",
+    "MANCHA SUMIU",
+    "Peperômia variegada: divida.",
+    "ESTACA QUEIMADA",
+    "Hera no sol: tire de lá.",
+    "FOLHA MOLHADA",
+    "Peperômia-melancia: seque.",
+    "DICA DO ANDRÉ",
+    "Marca de raiz de hera na parede sai com escova dura."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "2",
+    "ANOS",
+    "leva a estaca de falsa-seringueira para ficar grande.",
+    "Vira planta de vaso de bom tamanho.",
+    "E MAIS UMA",
+    "Em inglês, aspidistra é a \"planta de ferro fundido\"."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Fícus em luz boa",
+    "Pouca água no frio",
+    "Hera em lugar fresco",
+    "Estaca de hera de 7,5 cm",
+    "Filhote de clorofito no vaso",
+    "Aspidistra no canto sem sol",
+    "Belisque a pilea",
+    "Seiva do fícus longe dos olhos",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua hera pegar no vasinho, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "070\tVOCÊ TEM",
+    "071",
+    "072",
+    "073",
+    "074",
+    "075",
+    "São 70 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 071 HIBISCO E PRIMAVERA",
+    "Comente HIBISCO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ficus-e-hera/jiboia-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 116,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,439 @@
+{
+ "codigo": "TG064",
+ "slug": "feijao-e-milho",
+ "titulo": "Feijão e Milho",
+ "capa": {
+  "src": "/guias/feijao-e-milho/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Feijão e Milho"
+ },
+ "meta": {
+  "titulo": "Feijão e milho: guia grátis no quintal",
+  "descricao": "Como plantar feijão e milho juntos no quintal: o milho dá suporte e o feijão dá nitrogênio à terra. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG064.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t064",
+    "COLEÇÃO TERRA GENTIL",
+    "MILHO",
+    "Feijão e Milho",
+    "Vagem, espiga e grão no quintal.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/feijao-e-milho/coringa-solo-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 215,
+     "alt": "André na horta com pés de milho"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Milho e feijão andam juntos faz muito tempo.",
+    "O milho dá suporte e o feijão dá nitrogênio.",
+    "Aqui tem vara, semente, bloco e colheita.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Escolha um canto para um bloco de milho.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/feijao-e-milho/coringa-solo-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 148,
+     "alt": "André olhando o canteiro"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Milho em bloco, não em fileira.",
+    "O vento leva o pólen de um pé para o outro.",
+    "COLHER",
+    "Vagem novinha, sempre.",
+    "Quanto mais colhe, mais o pé produz."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do milho",
+    "06",
+    "CAPÍTULO 1",
+    "Milho em bloco",
+    "08",
+    "CAPÍTULO 2",
+    "Feijão de vara",
+    "12",
+    "CAPÍTULO 3",
+    "Colher no ponto",
+    "15",
+    "CAPÍTULO 4",
+    "Grãos de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Muda de feijão apodreceu? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO MILHO",
+    "Antes de plantar",
+    "O que ele pede",
+    "PLANTIO",
+    "Em bloco, 3 por 3",
+    "MUDA",
+    "Vaso de 12 a 15 cm",
+    "ÁGUA",
+    "Farta na floração",
+    "CALOR",
+    "Aguenta mais de 30 graus",
+    "PRONTO EM",
+    "70 a 110 dias",
+    "DOIS TIPOS\tATENÇÃO",
+    "Cruzam e estragam o sabor"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Milho em bloco",
+    "01\tCerto e errado",
+    "02\tTenda, passo a passo",
+    "03\tRaiz podre"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/feijao-e-milho/coringa-solo-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 209,
+     "alt": "André semeando milho em bloco"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Plantio\tEm bloco\tFileira só",
+    "Tipos\tUm só\tMisturados",
+    "Muda\tPequena\tPassada",
+    "Raiz\tQuieta\tMexida",
+    "Milho faz pouca sombra: cabe alface no pé dele.",
+    "DICA DO ANDRÉ",
+    "Cada pé dá umas duas espigas: 9 pés, umas 18."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Feijão de vara",
+    "01\tTenda, passo a passo",
+    "02\tVara firme",
+    "03\tRaiz podre"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/feijao-e-milho/coringa-solo-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 131,
+     "alt": "André fincando bambus no canteiro"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Tenda de feijão? Faça assim.",
+    "QUANDO",
+    "Solo a 12 graus ou mais",
+    "BAMBUS",
+    "8, de 2,2 m",
+    "PRECISA",
+    "Barbante para amarrar",
+    "1",
+    "ARME",
+    "Bambus a 30 cm, amarrados no alto.",
+    "2",
+    "SEMEIE",
+    "Duas sementes a 5 cm em cada bambu.",
+    "3",
+    "ESCOLHA",
+    "Fique só com a muda mais forte.",
+    "DICA DO ANDRÉ",
+    "Chegou no topo do bambu? Corte a ponta."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/feijao-e-milho/mil-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 175,
+     "alt": "Mãos amarrando bambus no alto em forma de tenda"
+    },
+    {
+     "src": "/guias/feijao-e-milho/mil-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 246,
+     "alt": "Mãos pondo duas sementes de feijão no pé de um bambu"
+    },
+    {
+     "src": "/guias/feijao-e-milho/mil-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 256,
+     "alt": "Mãos tirando a muda mais fraca no pé do bambu"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · VARA",
+    "Vara firme",
+    "Feijão-trepador chega a 2,5 m e pede suporte firme.",
+    "Prepare a terra com bastante composto meses antes.",
+    "Feijão não gosta de ter a raiz mexida.",
+    "Semente de vagem germina em até dez dias.",
+    "A raiz do feijão deixa a terra boa para couve."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Muda de feijão apodreceu?",
+    "1",
+    "O QUE PARECE",
+    "Semente ruim.",
+    "O QUE PODE SER",
+    "Terra fria e encharcada.",
+    "COMO RESOLVER",
+    "Espere a terra esquentar para semear."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/feijao-e-milho/mil-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 278,
+     "alt": "Mudinha de feijão murcha com o pé apodrecido em terra encharcada"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Colher no ponto",
+    "01\tA hora certa",
+    "02\tDoce que vira amido",
+    "03\tGrãos de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/feijao-e-milho/coringa-solo-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André colhendo vagens"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · COLHER",
+    "A hora certa",
+    "VAGEM",
+    "Com uns 10 cm",
+    "MILHO",
+    "Cabelo marrom",
+    "VOCÊ VAI PRECISAR",
+    "Olho duas vezes por semana",
+    "Panela perto da hora",
+    "Congelador para a vagem que sobrar",
+    "Calma\t70 a 110 dias de milho",
+    "Cuidado",
+    "Vagem velha trava as flores",
+    "Semente gorda o pé para de dar"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · DOCE",
+    "ATENÇÃO",
+    "Espiga passada troca o açúcar por amido.",
+    "Depois de colhido, o doce vai embora.",
+    "Com a ervilha acontece igual.",
+    "FAÇA ASSIM",
+    "Colha com o cabelo ficando marrom.",
+    "Coma em até 24 horas."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Grãos de perto",
+    "1",
+    "Ervilha",
+    "Sobe em galhinho ou rede.",
+    "2",
+    "Amendoim",
+    "O grão se forma na terra.",
+    "3",
+    "Feijão-de-metro",
+    "Vagem bem comprida.",
+    "4",
+    "Fava",
+    "Raiz comprida, canteiro fundo.",
+    "CHAVE\tSuporte firme\tColher novinho"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/feijao-e-milho/mil-var-ervilha.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 237,
+     "alt": "Pé de ervilha subindo em galhinhos com vagens"
+    },
+    {
+     "src": "/guias/feijao-e-milho/mil-var-amendoim.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 267,
+     "alt": "Pé de amendoim arrancado com os amendoins na raiz"
+    },
+    {
+     "src": "/guias/feijao-e-milho/mil-var-feijao-de-metro.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 299,
+     "alt": "Feijão-de-metro com vagens compridas penduradas"
+    },
+    {
+     "src": "/guias/feijao-e-milho/mil-var-fava.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 285,
+     "alt": "Pé de fava com vagens largas"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "ESPIGA SEM ENCHER",
+    "Plante em bloco.",
+    "POUCO AMENDOIM",
+    "Sem rega na florada.",
+    "FERRUGEM NO FEIJÃO",
+    "Não molhe por cima.",
+    "ERVILHA SOFRENDO",
+    "Nem encharcada, nem seca.",
+    "DICA DO ANDRÉ",
+    "Fava com vagem? Corte as pontas e o pulgão vai."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "10",
+    "DIAS",
+    "é o máximo que a semente de ervilha leva para germinar.",
+    "Às vezes nasce já em cinco.",
+    "E MAIS UMA",
+    "Na terra dele, a América Central, o feijão-trepador é perene."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Milho em bloco, 3 por 3",
+    "Um tipo só de milho verde",
+    "Muda pequena, raiz quieta",
+    "Composto na terra do feijão",
+    "Bambus firmes em tenda",
+    "Semear com a terra quente",
+    "Vagem colhida 2 vezes por semana",
+    "Milho colhido perto da panela",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se o seu milho encher espiga, me conta. E divide a colheita com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "064\tVOCÊ TEM",
+    "065",
+    "066",
+    "067",
+    "068",
+    "069",
+    "São 64 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 065 CENOURA E RAÍZES",
+    "Comente CENOURA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/feijao-e-milho/coringa-solo-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 235,
+     "alt": "Retrato do André na horta"
+    }
+   ]
+  }
+ ]
+}

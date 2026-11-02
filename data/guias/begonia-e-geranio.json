@@ -1,0 +1,439 @@
+{
+ "codigo": "TG069",
+ "slug": "begonia-e-geranio",
+ "titulo": "Begônia e Gerânio",
+ "capa": {
+  "src": "/guias/begonia-e-geranio/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Begônia e Gerânio"
+ },
+ "meta": {
+  "titulo": "Begônia e gerânio: guia grátis para a janela",
+  "descricao": "Como cuidar de begônia e gerânio na janela, com luz, rega certa e muda nova feita de uma folha só. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG069.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t069",
+    "COLEÇÃO TERRA GENTIL",
+    "BEGÔNIA",
+    "Begônia e Gerânio",
+    "Flor bonita na janela de casa.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/begonia-e-geranio/begonia-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 162,
+     "alt": "André com um vaso de begônia florida"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Begônia e gerânio enfeitam qualquer janela.",
+    "E uma folha de begônia já vira muda nova.",
+    "Aqui tem luz, rega, muda e flores de vaso.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache a janela clara sem sol direto.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/begonia-e-geranio/begonia-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 182,
+     "alt": "André olhando uma begônia na janela"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Luz clara, sem sol direto.",
+    "Pouca luz dá menos flor, e sol queima a folha.",
+    "REGAR",
+    "Terra úmida, nunca encharcada.",
+    "Gerânio no sol, com sombra leve no calor."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da begônia",
+    "06",
+    "CAPÍTULO 1",
+    "Luz e rega",
+    "08",
+    "CAPÍTULO 2",
+    "Muda de folha",
+    "12",
+    "CAPÍTULO 3",
+    "O gerânio",
+    "15",
+    "CAPÍTULO 4",
+    "Flores de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Begônia sem flor? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA BEGÔNIA",
+    "Antes de plantar",
+    "O que ela pede",
+    "LUZ",
+    "Clara, sem sol direto",
+    "REGA",
+    "Úmida, sem encharcar",
+    "TERRA",
+    "Levemente ácida",
+    "VASO",
+    "Novo todo ano, se jovem",
+    "FRIO",
+    "Seca um pouco entre regas",
+    "ENCHARCADO\tATENÇÃO",
+    "Terra molhada o tempo todo"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Luz e rega",
+    "01\tCerto e errado",
+    "02\tMuda de folha, passo a passo",
+    "03\tBegônia sem flor"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/begonia-e-geranio/begonia-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 159,
+     "alt": "André regando uma begônia no vaso"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Luz\tClara\tSol direto",
+    "Rega\tÚmida\tEncharcada",
+    "Semente\tPor cima\tCoberta",
+    "Asa-de-anjo\tCom tutor\tSem apoio",
+    "Begônia pode ter raiz fibrosa, rizoma ou tubérculo.",
+    "DICA DO ANDRÉ",
+    "Belisque a ponta da asa-de-anjo: ela ramifica."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Muda de folha",
+    "01\tMuda de folha, passo a passo",
+    "02\tRizoma e tubérculo",
+    "03\tBegônia sem flor"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/begonia-e-geranio/begonia-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 183,
+     "alt": "André segurando uma folha de begônia"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Muda de folha? Faça assim.",
+    "SERVE",
+    "Begônia-rex e outras",
+    "PEDAÇO",
+    "Quadrado de 3 cm",
+    "PRECISA",
+    "Uma folha e faca",
+    "1",
+    "CORTE",
+    "A folha em quadrados de 3 cm.",
+    "2",
+    "CONFIRA",
+    "Cada pedaço com nervura.",
+    "3",
+    "PLANTE",
+    "Os pedaços na terra.",
+    "DICA DO ANDRÉ",
+    "Até rizoma velho sem folha vira muda."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/begonia-e-geranio/beg-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 172,
+     "alt": "Mãos cortando uma folha de begônia em quadrados"
+    },
+    {
+     "src": "/guias/begonia-e-geranio/beg-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 232,
+     "alt": "Dedo mostrando a nervura num pedaço de folha de begônia"
+    },
+    {
+     "src": "/guias/begonia-e-geranio/beg-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 165,
+     "alt": "Mãos assentando pedaços de folha de begônia na terra"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MUDA",
+    "Rizoma e tubérculo",
+    "Rizoma: corte pedaços com ponta de crescimento.",
+    "Cada pedaço vai para o seu vaso.",
+    "Begônia de batata solta bolinhas que viram muda.",
+    "Tubérculo brota em caixa com turfa úmida.",
+    "Brotou? Passe para um vaso próprio."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Begônia sem flor?",
+    "1",
+    "O QUE PARECE",
+    "Falta de adubo.",
+    "O QUE PODE SER",
+    "Pouca luz.",
+    "COMO RESOLVER",
+    "Claridade, sem sol direto."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/begonia-e-geranio/beg-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 144,
+     "alt": "Begônia-asa-de-anjo comprida e quase sem flor num canto escuro"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "O gerânio",
+    "01\tMuda de gerânio",
+    "02\tChuva e alergia",
+    "03\tFlores de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/begonia-e-geranio/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André com mudas de gerânio"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · GERÂNIO",
+    "Muda de gerânio",
+    "TAMANHO",
+    "Ponta de 7,5 cm",
+    "QUANDO",
+    "Depois da florada",
+    "VOCÊ VAI PRECISAR",
+    "Turfa com areia grossa",
+    "Estaca de ponta",
+    "Raiz em 7 a 10 dias",
+    "Sol com sombra leve no calor",
+    "Cuidado",
+    "Frio a muda tomba",
+    "Pouca luz também tomba"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · CUIDADO",
+    "ATENÇÃO",
+    "Gerânio-real, de flor grande, estraga com chuva.",
+    "O vento também estraga a flor.",
+    "A folha do gerânio pode piorar alergia de pele.",
+    "FAÇA ASSIM",
+    "Gerânio-real em lugar protegido.",
+    "Tem alergia? Cuidado com a folha."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro flores",
+    "1",
+    "Crisântemo",
+    "Floresce o ano todo no vaso.",
+    "2",
+    "Gloxínia",
+    "Brasileira, flor de 8 semanas.",
+    "3",
+    "Ciclame",
+    "Flor de peteca, folha marmorizada.",
+    "4",
+    "Prímula",
+    "Estrelinha de olho amarelo.",
+    "CHAVE\tTerra úmida\tSem encharcar"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/begonia-e-geranio/beg-var-crisantemo.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 259,
+     "alt": "Vaso de crisântemo florido"
+    },
+    {
+     "src": "/guias/begonia-e-geranio/beg-var-gloxinia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 130,
+     "alt": "Gloxínia de flor aveludada num vaso"
+    },
+    {
+     "src": "/guias/begonia-e-geranio/beg-var-ciclame.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 119,
+     "alt": "Ciclame de folha marmorizada e flores para cima"
+    },
+    {
+     "src": "/guias/begonia-e-geranio/beg-var-primula.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 178,
+     "alt": "Prímula com rodelas de florzinhas de olho amarelo"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "MUDA DE GERÂNIO TOMBOU",
+    "Frio ou pouca luz.",
+    "PRAGA NO BEIJINHO",
+    "Ácaro, pulgão, mosca-branca.",
+    "CRISÂNTEMO COM PÓ BRANCO",
+    "Pode ser oídio.",
+    "CICLAME PAROU DE FLORIR",
+    "Menos água, lugar fresco.",
+    "DICA DO ANDRÉ",
+    "Ciclame volta com vaso limpo e terra nova."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "2,5",
+    "CM",
+    "tem cada florzinha do crisântemo charm.",
+    "E ele dá centenas delas, até em bonsai.",
+    "E MAIS UMA",
+    "Gerânio de varanda é Pelargonium. O Geranium é outra planta."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Janela clara, sem sol direto",
+    "Terra úmida, sem encharcar",
+    "Terra levemente ácida",
+    "Semente por cima, sem cobrir",
+    "Tutor na asa-de-anjo",
+    "Muda de folha em quadrados",
+    "Gerânio no sol",
+    "Estaca de ponta de gerânio",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua begônia florir na janela, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "069\tVOCÊ TEM",
+    "070",
+    "071",
+    "072",
+    "073",
+    "074",
+    "São 69 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 070 FÍCUS E HERA",
+    "Comente FÍCUS no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/begonia-e-geranio/begonia-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 105,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

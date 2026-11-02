@@ -1,0 +1,439 @@
+{
+ "codigo": "TG052",
+ "slug": "violeta-e-parentes",
+ "titulo": "Violeta e Parentes",
+ "capa": {
+  "src": "/guias/violeta-e-parentes/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Violeta e Parentes"
+ },
+ "meta": {
+  "titulo": "Violeta: guia grátis de flor o ano todo",
+  "descricao": "Como cuidar de violeta e das parentes dela, como a gloxínia, para ter flor o ano todo dentro de casa. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG052.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t052",
+    "COLEÇÃO TERRA GENTIL",
+    "VIOLETA",
+    "Violeta e Parentes",
+    "Flor o ano todo dentro de casa.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/violeta-e-parentes/violeta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 112,
+     "alt": "André com um vaso de violeta"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Violeta floresce o ano todo dentro de casa.",
+    "E tem parentes tão bonitos quanto ela.",
+    "Aqui tem violeta, gloxínia, estreptocarpo e mais.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache a janela clara sem sol direto.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/violeta-e-parentes/violeta-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 148,
+     "alt": "André olhando violetas na janela"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Claridade sem sol.",
+    "Violeta floresce o ano todo em lugar claro e úmido.",
+    "SEM VENTO",
+    "Nada de corrente de ar.",
+    "Folha seca."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da violeta",
+    "06",
+    "CAPÍTULO 1",
+    "Luz e umidade",
+    "08",
+    "CAPÍTULO 2",
+    "Muda de folha",
+    "12",
+    "CAPÍTULO 3",
+    "Rega e adubo",
+    "15",
+    "CAPÍTULO 4",
+    "Parentes de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Gloxínia secou? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA VIOLETA",
+    "Antes de comprar",
+    "O que ela pede",
+    "LUZ",
+    "Clara, sem sol direto",
+    "AR",
+    "Úmido",
+    "TERRA",
+    "Úmida, sem encharcar",
+    "ADUBO",
+    "Fraco, a cada 2 semanas",
+    "CALOR",
+    "Constante",
+    "FOLHA\tATENÇÃO",
+    "Regue sem molhar"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Luz e umidade",
+    "01\tCerto e errado",
+    "02\tMuda, passo a passo",
+    "03\tGloxínia secou"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/violeta-e-parentes/violeta-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 157,
+     "alt": "André com violetas perto da janela"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Luz\tClara\tSol direto",
+    "Rega\tNa terra\tNa folha",
+    "Terra\tÚmida\tEncharcada",
+    "Vento\tNenhum\tEncanado",
+    "A folha da violeta é meio suculenta e peludinha.",
+    "DICA DO ANDRÉ",
+    "Epísica serve de forração e de vaso pendurado."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Muda de folha",
+    "01\tMuda, passo a passo",
+    "02\tOutras mudas",
+    "03\tGloxínia secou"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/violeta-e-parentes/violeta-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 157,
+     "alt": "André separando uma folha de violeta"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Muda de folha? Faça assim.",
+    "QUANDO",
+    "Folha sadia",
+    "TEMPO",
+    "10 minutos",
+    "PRECISA",
+    "Folha, vasinho e areia",
+    "1",
+    "CORTE",
+    "Folha com cabinho de 3,5 cm.",
+    "2",
+    "ENTERRE",
+    "Só o cabinho, base logo acima.",
+    "3",
+    "TERRA",
+    "Turfa com areia grossa.",
+    "DICA DO ANDRÉ",
+    "Violeta variegada só pega dividindo."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/violeta-e-parentes/vio-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 150,
+     "alt": "Mãos cortando uma folha de violeta com um cabinho curto"
+    },
+    {
+     "src": "/guias/violeta-e-parentes/vio-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 176,
+     "alt": "Mãos enterrando o cabinho da folha de violeta num vasinho"
+    },
+    {
+     "src": "/guias/violeta-e-parentes/vio-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 238,
+     "alt": "Vasinho com folha de violeta e mudinhas novas nascendo na base"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MUDA",
+    "Outras mudas",
+    "Divida as rosetas: cada uma com raiz.",
+    "Roseta dividida floresce no mesmo ano.",
+    "Estreptocarpo sem caule pega de folha.",
+    "Epísica solta estolões com mudinha pronta.",
+    "Gloxínia: tubérculo em pedaços, cada um com broto."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Gloxínia secou depois da flor?",
+    "1",
+    "O QUE PARECE",
+    "Planta morta.",
+    "O QUE PODE SER",
+    "Ela está descansando.",
+    "COMO RESOLVER",
+    "Seque o tubérculo e guarde."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/violeta-e-parentes/vio-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 286,
+     "alt": "Gloxínia com folhas murchas e secas depois da florada"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Rega e adubo",
+    "01\tRega certa",
+    "02\tPraga dentro de casa",
+    "03\tParentes de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/violeta-e-parentes/violeta-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 126,
+     "alt": "André regando uma violeta"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · REGA",
+    "Rega certa",
+    "TERRA",
+    "Úmida o ano todo",
+    "ADUBO",
+    "A cada 2 semanas",
+    "VOCÊ VAI PRECISAR",
+    "Terra úmida, nunca encharcada",
+    "Adubo líquido fraco, quando cresce",
+    "Ar úmido em volta",
+    "Lugar sem vento encanado",
+    "Cuidado",
+    "Estreptocarpo sem molhar a folha",
+    "Planta-batom pouca água no frio"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · PRAGA",
+    "ATENÇÃO",
+    "Mosca-branca e cochonilha atacam em casa.",
+    "Ácaro-do-ciclâmen fica embaixo da folha.",
+    "A folha enruga e o botão cai torto.",
+    "FAÇA ASSIM",
+    "Olhe o verso das folhas.",
+    "Separe a planta com praga."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro parentes",
+    "1",
+    "Estreptocarpo",
+    "Falsa-violeta.",
+    "2",
+    "Gloxínia",
+    "Folha de veludo.",
+    "3",
+    "Planta-batom",
+    "Ótima pendurada.",
+    "4",
+    "Peixinho",
+    "Flor em tubo.",
+    "CHAVE\tLuz sem sol direto\tAr úmido"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/violeta-e-parentes/vio-var-estreptocarpo.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 281,
+     "alt": "Estreptocarpo de folhas compridas e flores lilás"
+    },
+    {
+     "src": "/guias/violeta-e-parentes/vio-var-gloxinia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 272,
+     "alt": "Gloxínia roxa de flor em funil e folha aveludada"
+    },
+    {
+     "src": "/guias/violeta-e-parentes/vio-var-batom.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 159,
+     "alt": "Planta-batom pendente com flores vermelhas em tubo"
+    },
+    {
+     "src": "/guias/violeta-e-parentes/vio-var-peixinho.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 187,
+     "alt": "Peixinho com ramos caindo e flores laranja"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "NÃO FLORESCE",
+    "Pouca luz.",
+    "FOLHA MANCHADA",
+    "Água na folha.",
+    "BOTÃO CAINDO",
+    "Ácaro.",
+    "PEIXINHO MURCHO",
+    "Terra seca na flor.",
+    "DICA DO ANDRÉ",
+    "Violeta não precisa trocar de vaso todo ano."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "38",
+    "CM",
+    "de largura passa a violeta grande.",
+    "A minúscula tem menos de 7,5 cm.",
+    "E MAIS UMA",
+    "Hoje a violeta-africana é do mesmo gênero do estreptocarpo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Janela clara",
+    "Sem sol direto",
+    "Ar úmido",
+    "Terra úmida",
+    "Rega na terra",
+    "Adubo fraco",
+    "Verso da folha",
+    "Muda de folha",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua violeta florir de novo, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "052\tVOCÊ TEM",
+    "053",
+    "054",
+    "055",
+    "056",
+    "057",
+    "São 52 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 053 FOLHAGEM COLORIDA",
+    "Comente CROTON no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/violeta-e-parentes/violeta-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 104,
+     "alt": "Retrato do André em casa"
+    }
+   ]
+  }
+ ]
+}

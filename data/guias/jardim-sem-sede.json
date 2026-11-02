@@ -1,0 +1,439 @@
+{
+ "codigo": "TG054",
+ "slug": "jardim-sem-sede",
+ "titulo": "Jardim sem Sede",
+ "capa": {
+  "src": "/guias/jardim-sem-sede/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Jardim sem Sede"
+ },
+ "meta": {
+  "titulo": "Jardim sem sede: guia grátis de pouca rega",
+  "descricao": "Como ter um jardim que quase não pede água, com a planta certa, rega funda e o chão sempre coberto. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG054.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t054",
+    "COLEÇÃO TERRA GENTIL",
+    "SECA",
+    "Jardim sem Sede",
+    "Verde mesmo quando não chove.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-sem-sede/agave-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 123,
+     "alt": "André num jardim de plantas de seca"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Dá para ter jardim que quase não pede água.",
+    "O segredo é planta certa e chão coberto.",
+    "Aqui tem rega funda, cobertura e pedrisco.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache o canto mais seco do quintal.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-sem-sede/agave-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 127,
+     "alt": "André olhando um canteiro seco"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Rega funda e rara.",
+    "Água que desce fundo leva a raiz junto.",
+    "COBRIR",
+    "Pelo menos 5 cm no chão.",
+    "Planta certa no lugar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da seca",
+    "06",
+    "CAPÍTULO 1",
+    "Planta certa",
+    "08",
+    "CAPÍTULO 2",
+    "Rega funda e rara",
+    "12",
+    "CAPÍTULO 3",
+    "Cobrir o chão",
+    "15",
+    "CAPÍTULO 4",
+    "Plantas de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Planta de seca morrendo? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA SECA",
+    "Antes de plantar",
+    "O que ele pede",
+    "TERRA",
+    "Pobre e arejada",
+    "REGA",
+    "Funda e rara",
+    "CHÃO",
+    "Coberto, 5 cm",
+    "PEDRISCO",
+    "Claro no sol forte",
+    "PLANTIO",
+    "Antes das chuvas",
+    "ENCHARCADO\tATENÇÃO",
+    "Mata a planta de seca"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Planta certa",
+    "01\tCerto e errado",
+    "02\tRega funda, passo a passo",
+    "03\tMorrendo de chuva"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-sem-sede/suculenta-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 138,
+     "alt": "André plantando suculentas"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Rega\tFunda\tPingada",
+    "Chão\tCoberto\tPelado",
+    "Cobertura\tGrossa\tRasinha",
+    "Pedra\tClara\tEscura",
+    "Planta de seca se protege com pelo, cera ou folha fina.",
+    "DICA DO ANDRÉ",
+    "Pedras embaixo da calha: a água não cava buraco."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Rega funda e rara",
+    "01\tRega funda, passo a passo",
+    "02\tÁgua que fica",
+    "03\tMorrendo de chuva"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-sem-sede/agave-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 116,
+     "alt": "André regando o pé de uma planta"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Rega funda? Faça assim.",
+    "QUANDO",
+    "No primeiro verão",
+    "DE NOVO",
+    "A cada 3 semanas",
+    "PRECISA",
+    "Mangueira ou balde",
+    "1",
+    "BACIA",
+    "Faça uma em volta do pé.",
+    "2",
+    "ENCHA",
+    "Até a água descer fundo.",
+    "3",
+    "ESPERE",
+    "Três semanas até a próxima.",
+    "DICA DO ANDRÉ",
+    "Gotejamento faz raiz rasa na planta de seca."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-sem-sede/sed-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 297,
+     "alt": "Mãos fazendo uma bacia de terra em volta do pé de uma planta"
+    },
+    {
+     "src": "/guias/jardim-sem-sede/sed-gesto-2.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 255,
+     "alt": "Mangueira enchendo de água a bacia em volta da planta"
+    },
+    {
+     "src": "/guias/jardim-sem-sede/sed-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 222,
+     "alt": "Mão afundando o dedo na terra úmida para conferir a rega"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · ÁGUA",
+    "Água que fica",
+    "Rega longa num lugar só leva a raiz fundo.",
+    "Rega rasa traz a raiz para cima, onde seca.",
+    "Junto do muro a chuva não chega.",
+    "Olla de barro enterrada solta água devagar.",
+    "Água de chuva no escuro não cria alga."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Planta de seca morrendo?",
+    "1",
+    "O QUE PARECE",
+    "Falta de água.",
+    "O QUE PODE SER",
+    "Chuva parada no pé.",
+    "COMO RESOLVER",
+    "Pedrisco na base, terra arejada."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-sem-sede/sed-sintoma-1.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 253,
+     "alt": "Planta de folha cinza apodrecendo na base numa terra encharcada"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Cobrir o chão",
+    "01\tCobertura certa",
+    "02\tPedrisco claro",
+    "03\tPlantas de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-sem-sede/cacto-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 134,
+     "alt": "André espalhando pedrisco no canteiro"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · COBRIR",
+    "Cobertura certa",
+    "GROSSURA",
+    "Pelo menos 5 cm",
+    "QUANDO",
+    "A qualquer hora",
+    "VOCÊ VAI PRECISAR",
+    "Composto bem curtido",
+    "Palha ou casca",
+    "Cavaco ou folha seca",
+    "Pedrisco uns 10 cm no sol forte",
+    "Cuidado",
+    "No tronco o caule adoece",
+    "Plástico solta química na terra"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · PEDRA",
+    "ATENÇÃO",
+    "Pedra escura esquenta a terra.",
+    "Pedrisco claro reflete o sol e refresca.",
+    "Pedra cobre, mas não aduba a terra.",
+    "FAÇA ASSIM",
+    "No sol forte, pedrisco claro.",
+    "Adubo vem do composto."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro plantas",
+    "1",
+    "Beldroega",
+    "Guarda água na folha.",
+    "2",
+    "Alcachofra",
+    "Folha peluda e cerosa.",
+    "3",
+    "Aspargo",
+    "Adulto aguenta seca.",
+    "4",
+    "Feijão-fava",
+    "Veio de terra seca.",
+    "CHAVE\tRega funda\tChão coberto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-sem-sede/sed-var-beldroega.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 251,
+     "alt": "Beldroega de folhas gordinhas rasteira no chão seco"
+    },
+    {
+     "src": "/guias/jardim-sem-sede/sed-var-alcachofra.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 267,
+     "alt": "Pé de alcachofra de folha prateada no sol"
+    },
+    {
+     "src": "/guias/jardim-sem-sede/sed-var-aspargo.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 276,
+     "alt": "Aspargo adulto de folhagem fina num canteiro"
+    },
+    {
+     "src": "/guias/jardim-sem-sede/sed-var-fava.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 236,
+     "alt": "Feijão-fava com vagens largas"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "RAIZ RASA",
+    "Rega pingada.",
+    "TERRA RACHADA",
+    "Seca: cubra o chão.",
+    "CANTO DO MURO SECO",
+    "Sombra de chuva.",
+    "CAULE DOENTE",
+    "Cobertura no tronco.",
+    "DICA DO ANDRÉ",
+    "Folha caída é cobertura de graça."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "1.000",
+    "ANOS",
+    "ou mais leva o plástico para sumir da terra.",
+    "Por isso, cobertura de palha.",
+    "E MAIS UMA",
+    "Quebra-vento bom protege até 10 vezes a altura dele."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Planta de seca no seco",
+    "Terra arejada",
+    "Bacia em volta do pé",
+    "Rega funda e rara",
+    "5 cm de cobertura",
+    "Longe do tronco",
+    "Pedrisco claro no sol",
+    "Água de chuva guardada",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se o seu jardim passar a seca verdinho, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "054\tVOCÊ TEM",
+    "055",
+    "056",
+    "057",
+    "058",
+    "059",
+    "São 54 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 055 FRUTÍFERA EM VASO",
+    "Comente FIGO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-sem-sede/agave-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 113,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

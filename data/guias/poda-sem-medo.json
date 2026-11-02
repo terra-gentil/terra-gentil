@@ -1,0 +1,439 @@
+{
+ "codigo": "TG058",
+ "slug": "poda-sem-medo",
+ "titulo": "Poda sem Medo",
+ "capa": {
+  "src": "/guias/poda-sem-medo/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Poda sem Medo"
+ },
+ "meta": {
+  "titulo": "Poda sem medo: guia grátis do corte certo",
+  "descricao": "Como podar sem medo: o corte certo, tirando todo ano o galho seco, o doente e o quebrado. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG058.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t058",
+    "COLEÇÃO TERRA GENTIL",
+    "PODA",
+    "Poda sem Medo",
+    "O corte certo, sem susto.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/poda-sem-medo/coringa-podar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André podando no jardim"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Poda dá medo, mas o corte certo é simples.",
+    "Todo ano, tire o seco, o doente e o quebrado.",
+    "Aqui tem tesoura, galho grosso e flor murcha.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Limpe e afie a sua tesoura de poda.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/poda-sem-medo/coringa-podar-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 210,
+     "alt": "André olhando os galhos de um arbusto"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Corte logo acima da gema.",
+    "Inclinado, para a água não empoçar.",
+    "PARA FORA",
+    "Gema virada para fora.",
+    "Toco comprido seca e atrai doença."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da poda",
+    "06",
+    "CAPÍTULO 1",
+    "Corte certo",
+    "08",
+    "CAPÍTULO 2",
+    "Galho grosso",
+    "12",
+    "CAPÍTULO 3",
+    "Tesoura limpa",
+    "15",
+    "CAPÍTULO 4",
+    "Plantas de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Galho doente na planta? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA PODA",
+    "Antes de cortar",
+    "O que ela pede",
+    "QUANDO",
+    "Todo ano",
+    "FLOR CEDO",
+    "Pode depois da flor",
+    "FLOR TARDE",
+    "Pode antes de brotar",
+    "CAROÇO",
+    "Na época quente",
+    "CORTE",
+    "Vários pequenos",
+    "SUJA\tATENÇÃO",
+    "Ferramenta leva doença"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Corte certo",
+    "01\tCerto e errado",
+    "02\tGalho grosso, passo a passo",
+    "03\tGalho doente"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/poda-sem-medo/coringa-podar-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 192,
+     "alt": "André podando um arbusto"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Toco\tCurto\tComprido",
+    "Gema\tPara fora\tPara dentro",
+    "Tesoura\tLâmina cruzada\tBigorna",
+    "Corte\tLimpo\tRasgado",
+    "Galhos que se cruzam se esfregam e abrem ferida.",
+    "DICA DO ANDRÉ",
+    "Galho quebrado: corte logo acima do colar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Galho grosso",
+    "01\tGalho grosso, passo a passo",
+    "02\tÁrvore e frutífera",
+    "03\tGalho doente"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/poda-sem-medo/coringa-ferramentas-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 153,
+     "alt": "André com o serrote de poda"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Galho grosso? Faça em 3 cortes.",
+    "MELHOR",
+    "Tirar enquanto é novo",
+    "AJUDA",
+    "Alguém segurando",
+    "PRECISA",
+    "Serrote bem afiado",
+    "1",
+    "POR BAIXO",
+    "Um corte a 15 cm do tronco.",
+    "2",
+    "POR CIMA",
+    "Um pouco mais longe.",
+    "3",
+    "O TOCO",
+    "Logo depois da ruga da casca.",
+    "DICA DO ANDRÉ",
+    "Não encoste no tronco: ele fecha sozinho."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/poda-sem-medo/pod-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 280,
+     "alt": "Mãos serrando o galho por baixo, perto do tronco"
+    },
+    {
+     "src": "/guias/poda-sem-medo/pod-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 235,
+     "alt": "Mãos serrando o galho por cima, um pouco mais longe"
+    },
+    {
+     "src": "/guias/poda-sem-medo/pod-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 284,
+     "alt": "Mãos tirando o toco logo depois da ruga da casca"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · ÁRVORE",
+    "Árvore e frutífera",
+    "Fora as frutíferas, quase toda árvore vive sem poda.",
+    "Frutífera sem poda dá cada vez menos.",
+    "Copa em taça, com quatro ou cinco galhos.",
+    "Muda sem forma: tire os galhos do terço de baixo.",
+    "Frutífera nova: tire as flores do 1º ano."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Galho doente na planta?",
+    "1",
+    "O QUE PARECE",
+    "Só um galho feio.",
+    "O QUE PODE SER",
+    "Doença descendo pelo caule.",
+    "COMO RESOLVER",
+    "Corte a parte atingida já."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/poda-sem-medo/pod-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 269,
+     "alt": "Galho com folhas secas e escuras num arbusto verde"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Tesoura limpa",
+    "01\tA tesoura certa",
+    "02\tFerramenta suja",
+    "03\tPlantas de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/poda-sem-medo/coringa-ferramentas-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 140,
+     "alt": "André limpando a tesoura de poda"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · TESOURA",
+    "A tesoura certa",
+    "LÂMINA",
+    "Cruzada, não bigorna",
+    "PEGADA",
+    "Leve na mão",
+    "VOCÊ VAI PRECISAR",
+    "Lâmina para raspar a seiva",
+    "Palha de aço para esfregar",
+    "Óleo contra a ferrugem",
+    "Escova para o serrote",
+    "Cuidado",
+    "Bigorna esmaga o galho",
+    "Serragem endurece no dente"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · LIMPEZA",
+    "ATENÇÃO",
+    "Tesoura suja leva doença de planta em planta.",
+    "Bactéria e vírus vão junto.",
+    "Cortou planta doente? Limpe antes da próxima.",
+    "FAÇA ASSIM",
+    "Lâmina na chama do fogão por 3 segundos.",
+    "Depois, óleo para não enferrujar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Plantas de perto",
+    "1",
+    "Roseira",
+    "Flor murcha sai com os dedos.",
+    "2",
+    "Suculenta",
+    "Uma poda de vez em quando.",
+    "3",
+    "Pessegueiro",
+    "Pode na época quente.",
+    "4",
+    "Topiaria",
+    "Comece pela ponta do meio.",
+    "CHAVE\tCorte limpo\tGema para fora"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/poda-sem-medo/pod-var-roseira.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 298,
+     "alt": "Roseira florida com algumas flores murchas"
+    },
+    {
+     "src": "/guias/poda-sem-medo/pod-var-suculenta.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 287,
+     "alt": "Suculenta crescida num vaso de barro"
+    },
+    {
+     "src": "/guias/poda-sem-medo/pod-var-pessegueiro.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 289,
+     "alt": "Pessegueiro jovem com folhas verdes no quintal"
+    },
+    {
+     "src": "/guias/poda-sem-medo/pod-var-topiaria.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 283,
+     "alt": "Arbusto podado em forma de cone num jardim"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "BROTO NO PÉ",
+    "Broto ladrão: tire.",
+    "BROTO DO CAVALO",
+    "Muda enxertada: arranque.",
+    "FALHA NA TOPIARIA",
+    "Espere o broto fechar.",
+    "POUCA FLOR NOVA",
+    "Tire a flor murcha.",
+    "DICA DO ANDRÉ",
+    "Broto mole: belisque a ponta."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "15",
+    "CM",
+    "do chão: é o corte da poda de renovação.",
+    "Vale para um quarto dos galhos mais velhos.",
+    "E MAIS UMA",
+    "Corte de dois terços nos brotos da perene florida dá mais flor."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Tesoura afiada e limpa",
+    "Óleo depois do uso",
+    "Corte acima da gema",
+    "Gema virada para fora",
+    "Galho grosso em 3 cortes",
+    "Tire o galho doente",
+    "Tire o broto ladrão",
+    "Seco e quebrado todo ano",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua planta brotar bonita depois da poda, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "058\tVOCÊ TEM",
+    "059",
+    "060",
+    "061",
+    "062",
+    "063",
+    "São 58 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 059 FUNGO NO JARDIM",
+    "Comente FUNGO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/poda-sem-medo/coringa-podar-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 252,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

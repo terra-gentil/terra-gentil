@@ -1,0 +1,439 @@
+{
+ "codigo": "TG057",
+ "slug": "adubo-caseiro",
+ "titulo": "Adubo Caseiro",
+ "capa": {
+  "src": "/guias/adubo-caseiro/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Adubo Caseiro"
+ },
+ "meta": {
+  "titulo": "Adubo caseiro: guia grátis feito em casa",
+  "descricao": "Como fazer adubo caseiro com esterco curtido, composto, cinza e casca de ovo para a planta do vaso. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG057.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t057",
+    "COLEÇÃO TERRA GENTIL",
+    "ADUBO",
+    "Adubo Caseiro",
+    "Comida de planta feita em casa.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/adubo-caseiro/coringa-adubar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 163,
+     "alt": "André adubando a horta"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Planta de vaso precisa de comida, sim.",
+    "Esterco curtido e composto cuidam da terra.",
+    "Aqui tem chorume, cinza e casca de ovo.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Descubra quem tem um pé de confrei.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/adubo-caseiro/coringa-adubar-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André olhando um vaso de horta"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Esterco só curtido.",
+    "Fresco é forte demais e queima a planta.",
+    "NA MEDIDA",
+    "Adubo demais não dá mais colheita.",
+    "Adube só quando ela cresce."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do adubo",
+    "06",
+    "CAPÍTULO 1",
+    "Adubar certo",
+    "08",
+    "CAPÍTULO 2",
+    "Chorume de confrei",
+    "12",
+    "CAPÍTULO 3",
+    "Cálcio e potássio",
+    "15",
+    "CAPÍTULO 4",
+    "Plantas que adubam",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Folha amarela e planta parada? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO ADUBO",
+    "Antes de adubar",
+    "O que ela pede",
+    "SUBSTRATO",
+    "Comida por 4 a 6 semanas",
+    "LÍQUIDO",
+    "Em geral, toda semana",
+    "ONDE",
+    "No pé da planta",
+    "QUANDO",
+    "Planta crescendo",
+    "ESTERCO",
+    "Só curtido",
+    "EXCESSO\tATENÇÃO",
+    "Faz tanto mal quanto a falta"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Adubar certo",
+    "01\tCerto e errado",
+    "02\tChorume, passo a passo",
+    "03\tPlanta amarela"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/adubo-caseiro/coringa-adubar-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 260,
+     "alt": "André adubando um vaso"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Esterco\tCurtido\tFresco",
+    "Adubos\tAlternados\tTodos juntos",
+    "Onde\tNo pé\tTerra vazia",
+    "Quando\tCrescendo\tDormente",
+    "Folha pede nitrogênio, fruto pede potássio.",
+    "DICA DO ANDRÉ",
+    "Raiz pede fósforo. Muda nova pede os três."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Chorume de confrei",
+    "01\tChorume, passo a passo",
+    "02\tMineral ou orgânico",
+    "03\tPlanta amarela"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/adubo-caseiro/coringa-adubar-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 169,
+     "alt": "André colhendo folhas para o chorume"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Chorume de confrei? Faça assim.",
+    "QUANDO",
+    "Na época de crescer",
+    "DE NOVO",
+    "Uma vez por semana",
+    "PRECISA",
+    "Balde com tampa",
+    "1",
+    "PIQUE",
+    "Corte as folhas de confrei.",
+    "2",
+    "MOLHO",
+    "Cubra de água por semanas.",
+    "3",
+    "DILUA",
+    "Uma parte para dez de água.",
+    "DICA DO ANDRÉ",
+    "Fede muito: balde longe da casa."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/adubo-caseiro/adu-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 256,
+     "alt": "Mãos picando folhas de confrei sobre uma tábua"
+    },
+    {
+     "src": "/guias/adubo-caseiro/adu-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 225,
+     "alt": "Mãos pondo as folhas picadas num balde com água"
+    },
+    {
+     "src": "/guias/adubo-caseiro/adu-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 167,
+     "alt": "Mão despejando o chorume no regador com água"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · ORGÂNICO",
+    "Mineral ou orgânico",
+    "O mineral é cápsula: alimenta na hora.",
+    "O orgânico dura mais e cuida da vida do solo.",
+    "Adubo líquido age rápido, mas dura pouco.",
+    "Húmus de minhoca e bokashi são fortes: pouco.",
+    "Cerca de metade do nitrogênio não chega à planta."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Folha amarela e planta parada?",
+    "1",
+    "O QUE PARECE",
+    "Falta de nitrogênio.",
+    "O QUE PODE SER",
+    "Falta de água na seca.",
+    "COMO RESOLVER",
+    "Regue antes de encher de adubo."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/adubo-caseiro/adu-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 266,
+     "alt": "Pé de horta no vaso com folhas amarelas e pequeno"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Cálcio e potássio",
+    "01\tCinza e casca de ovo",
+    "02\tTerra ácida",
+    "03\tPlantas que adubam"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/adubo-caseiro/coringa-adubar-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 186,
+     "alt": "André espalhando casca de ovo moída"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CÁLCIO",
+    "Cinza e casca de ovo",
+    "CASCA",
+    "Lavada e moída fina",
+    "CINZA",
+    "Só de lenha, fria",
+    "VOCÊ VAI PRECISAR",
+    "Casca de ovo solta cálcio por anos",
+    "Calcário corrige terra ácida",
+    "Dolomítico cálcio e magnésio",
+    "Cinza de lenha potássio para a fruta",
+    "Cuidado",
+    "Cinza de carvão nunca use",
+    "Borra de café acidifica o solo"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · TERRA ÁCIDA",
+    "ATENÇÃO",
+    "Terra ácida demais prende o nutriente.",
+    "Ele está lá, mas a planta não pega.",
+    "pH perto do ideal? Não mexa em nada.",
+    "FAÇA ASSIM",
+    "Calcário três semanas antes de plantar.",
+    "Máscara ao espalhar calcário ou cinza."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Plantas que adubam",
+    "1",
+    "Confrei",
+    "Mais potássio: flor e fruto.",
+    "2",
+    "Urtiga",
+    "Mais nitrogênio: puxa folha.",
+    "3",
+    "Trevo-vermelho",
+    "Adubo verde que a abelha adora.",
+    "4",
+    "Feijão",
+    "Deixa nitrogênio pela raiz.",
+    "CHAVE\tChorume diluído\tAdubo verde"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/adubo-caseiro/adu-var-confrei.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 270,
+     "alt": "Touceira de confrei de folhas largas e flores roxas"
+    },
+    {
+     "src": "/guias/adubo-caseiro/adu-var-urtiga.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 247,
+     "alt": "Pé de urtiga verde num canto do quintal"
+    },
+    {
+     "src": "/guias/adubo-caseiro/adu-var-trevo.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 214,
+     "alt": "Trevo-vermelho florido cobrindo um canteiro"
+    },
+    {
+     "src": "/guias/adubo-caseiro/adu-var-feijao.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 282,
+     "alt": "Pé de feijão com vagens num canteiro"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "FOLHA AMARELA",
+    "Falta de nitrogênio.",
+    "FRUTO SEM GOSTO",
+    "Falta de potássio.",
+    "PLANTA QUEIMADA",
+    "Esterco fresco.",
+    "NUTRIENTE EM FALTA",
+    "Outro em excesso.",
+    "DICA DO ANDRÉ",
+    "Casca de ovo em pó no vaso de sol."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "2,5",
+    "CM",
+    "no máximo: é quanto raspar da terra do vaso grande.",
+    "Depois, substrato novo e adubo lento.",
+    "E MAIS UMA",
+    "Trevo ou mostarda no canteiro vazio viram adubo verde."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Esterco só curtido",
+    "Adubo no pé da planta",
+    "Só quando ela cresce",
+    "Adubos alternados",
+    "Chorume 1 para 10",
+    "Casca de ovo moída",
+    "Cinza só de lenha",
+    "Água antes do adubo",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua planta voltar a crescer forte, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "057\tVOCÊ TEM",
+    "058",
+    "059",
+    "060",
+    "061",
+    "062",
+    "São 57 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 058 PODA SEM MEDO",
+    "Comente PODA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/adubo-caseiro/coringa-adubar-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 212,
+     "alt": "Retrato do André na horta"
+    }
+   ]
+  }
+ ]
+}

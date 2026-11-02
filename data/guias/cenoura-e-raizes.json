@@ -1,0 +1,439 @@
+{
+ "codigo": "TG065",
+ "slug": "cenoura-e-raizes",
+ "titulo": "Cenoura e Raízes",
+ "capa": {
+  "src": "/guias/cenoura-e-raizes/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Cenoura e Raízes"
+ },
+ "meta": {
+  "titulo": "Cenoura e raízes: guia grátis de horta",
+  "descricao": "Como plantar cenoura, rabanete, beterraba e batata em terra leve e fofa, semeando, desbastando e colhendo. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG065.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t065",
+    "COLEÇÃO TERRA GENTIL",
+    "CENOURA",
+    "Cenoura e Raízes",
+    "A horta que cresce para baixo.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cenoura-e-raizes/coringa-horta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André numa horta de raízes"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Raiz boa nasce de terra leve e fofa.",
+    "Cenoura, rabanete, beterraba e batata.",
+    "Aqui tem semear, desbastar e colher.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Afofe um canto de terra sem pedra.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cenoura-e-raizes/coringa-horta-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André olhando um canteiro de horta"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Semeie ralinho.",
+    "Menos desbaste, menos mosca-da-cenoura.",
+    "RALO",
+    "Semente bem espaçada.",
+    "Terra leve e sem pedra."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da cenoura",
+    "06",
+    "CAPÍTULO 1",
+    "Terra e espaço",
+    "08",
+    "CAPÍTULO 2",
+    "Semear e desbastar",
+    "12",
+    "CAPÍTULO 3",
+    "A mosca-da-cenoura",
+    "15",
+    "CAPÍTULO 4",
+    "Raízes de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Rabanete só de folha? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA CENOURA",
+    "Antes de semear",
+    "O que ela pede",
+    "TERRA",
+    "Leve e sem pedra",
+    "SEMENTE",
+    "1 a 2 cm de fundo",
+    "DESBASTE",
+    "4 a 8 cm",
+    "ADUBO",
+    "Pouco nitrogênio",
+    "PRONTA",
+    "9 a 12 semanas",
+    "MOSCA\tATENÇÃO",
+    "Voa rente ao chão"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Terra e espaço",
+    "01\tCerto e errado",
+    "02\tSemear, passo a passo",
+    "03\tRabanete só de folha"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cenoura-e-raizes/coringa-solo-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 215,
+     "alt": "André afofando a terra do canteiro"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Semente\tRalinha\tGrossa",
+    "Terra\tFofa\tDura",
+    "Rabanete\tPequeno\tGrande",
+    "Sol\tModerado\tO dia todo",
+    "Canteiro elevado, sem pedra, dá cenoura retinha.",
+    "DICA DO ANDRÉ",
+    "Cenoura redonda no vaso, comprida no canteiro."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Semear e desbastar",
+    "01\tSemear, passo a passo",
+    "02\tDesbaste que se come",
+    "03\tRabanete só de folha"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cenoura-e-raizes/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André semeando num sulco do canteiro"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Cenoura? Faça assim.",
+    "ONDE",
+    "Direto no lugar",
+    "PRONTA",
+    "Em 9 a 12 semanas",
+    "PRECISA",
+    "Semente e regador",
+    "1",
+    "SULCO",
+    "Abra um de 2 cm.",
+    "2",
+    "SEMEIE",
+    "Ralinho, cubra e regue.",
+    "3",
+    "DESBASTE",
+    "Deixe 4 cm entre elas.",
+    "DICA DO ANDRÉ",
+    "Molhe a terra antes de arrancar a cenoura."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cenoura-e-raizes/cen-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 266,
+     "alt": "Mãos abrindo um sulco raso na terra fofa"
+    },
+    {
+     "src": "/guias/cenoura-e-raizes/cen-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 207,
+     "alt": "Mãos soltando sementes de cenoura ralinhas no sulco"
+    },
+    {
+     "src": "/guias/cenoura-e-raizes/cen-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 218,
+     "alt": "Mãos tirando mudinhas de cenoura no desbaste"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · DESBASTE",
+    "Desbaste que se come",
+    "Mudinha de cenoura do desbaste é petisco.",
+    "A de rabanete tem gosto de agrião apimentado.",
+    "Microbeterraba sai com 2 ou 3 semanas.",
+    "Folha de beterraba é rica em ferro.",
+    "A rama da cenoura lembra salsinha."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Rabanete só de folha?",
+    "1",
+    "O QUE PARECE",
+    "Raiz que não quis crescer.",
+    "O QUE PODE SER",
+    "Sol forte o dia todo.",
+    "COMO RESOLVER",
+    "Sol moderado e terra leve."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cenoura-e-raizes/cen-sintoma-1.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 258,
+     "alt": "Rabanetes com muita folha e raiz fininha"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "A mosca-da-cenoura",
+    "01\tBarreira certa",
+    "02\tCheiro que confunde",
+    "03\tRaízes de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cenoura-e-raizes/coringa-praga-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 125,
+     "alt": "André cobrindo o canteiro com tela fina"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · MOSCA",
+    "Barreira certa",
+    "COMO VOA",
+    "Rente ao chão",
+    "PERIGO",
+    "Na hora do desbaste",
+    "VOCÊ VAI PRECISAR",
+    "Tela fina sobre a cenoura",
+    "Vaso erguido a 60 cm",
+    "Manta leve cobrindo a muda",
+    "Semente rala para desbastar menos",
+    "Cuidado",
+    "Salsinha a mosca ataca também",
+    "Mesmo canteiro troque por um ano"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · CHEIRO",
+    "ATENÇÃO",
+    "O cheiro da cenoura atrai a mosca.",
+    "Desbastar solta esse cheiro no ar.",
+    "Semente espaçada pede menos desbaste.",
+    "FAÇA ASSIM",
+    "Cebola ou alho-poró perto da cenoura.",
+    "O cheiro forte confunde a mosca."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro raízes",
+    "1",
+    "Beterraba",
+    "Folha e raiz se comem.",
+    "2",
+    "Batata-doce",
+    "Começa pela rama.",
+    "3",
+    "Cebola",
+    "Bulbinho pega mais.",
+    "4",
+    "Alho",
+    "Plante dente por dente.",
+    "CHAVE\tTerra fofa\tDesbaste certo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cenoura-e-raizes/cen-var-beterraba.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 269,
+     "alt": "Pés de beterraba com o ombro roxo aparecendo na terra"
+    },
+    {
+     "src": "/guias/cenoura-e-raizes/cen-var-batata-doce.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 160,
+     "alt": "Rama de batata-doce espalhada no canteiro"
+    },
+    {
+     "src": "/guias/cenoura-e-raizes/cen-var-cebola.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 285,
+     "alt": "Cebolas crescendo em fileira no canteiro"
+    },
+    {
+     "src": "/guias/cenoura-e-raizes/cen-var-alho.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 284,
+     "alt": "Pés de alho em fileira com folhas finas"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "BATATA VERDE",
+    "Pegou luz: chegue terra.",
+    "RABANETE DURO",
+    "Cresceu demais.",
+    "CEBOLA PARA FORA",
+    "Terra dura demais.",
+    "BULBO PEQUENO",
+    "Muda perto demais.",
+    "DICA DO ANDRÉ",
+    "Guarde beterraba em areia úmida."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "10",
+    "CM",
+    "entre uma beterraba e outra, depois do desbaste.",
+    "Cada \"semente\" dela traz até 5 sementes.",
+    "E MAIS UMA",
+    "Rabanete fica pronto em 4 a 6 semanas."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Terra fofa e sem pedra",
+    "Semente ralinha",
+    "Sulco de 2 cm",
+    "Desbaste a 4 cm",
+    "Tela fina contra a mosca",
+    "Rabanete a cada 10 dias",
+    "Batata com terra no pé",
+    "Coma o desbaste",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua primeira cenoura sair retinha, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "065\tVOCÊ TEM",
+    "066",
+    "067",
+    "068",
+    "069",
+    "070",
+    "São 65 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 066 COMIGO-NINGUÉM-PODE",
+    "Comente COMIGO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cenoura-e-raizes/coringa-horta-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 137,
+     "alt": "Retrato do André na horta"
+    }
+   ]
+  }
+ ]
+}

@@ -33,25 +33,25 @@ export const TEMAS: Tema[] = [
     id: 'horta',
     nome: 'Horta em casa',
     chamada: 'Da semente ao prato, no vaso, na varanda ou no canteiro.',
-    codigos: ['TG012', 'TG013', 'TG014', 'TG025', 'TG027', 'TG039', 'TG040', 'TG042', 'TG043', 'TG044', 'TG045'],
+    codigos: ['TG012', 'TG013', 'TG014', 'TG025', 'TG027', 'TG039', 'TG040', 'TG042', 'TG043', 'TG044', 'TG045', 'TG055', 'TG061', 'TG063', 'TG064', 'TG065', 'TG067', 'TG068'],
   },
   {
     id: 'dentro-de-casa',
     nome: 'Plantas dentro de casa',
     chamada: 'Folhagens e flores para pouca luz, com bicho em casa.',
-    codigos: ['TG008', 'TG009', 'TG033', 'TG034', 'TG035', 'TG036', 'TG037', 'TG038'],
+    codigos: ['TG008', 'TG009', 'TG033', 'TG034', 'TG035', 'TG036', 'TG037', 'TG038', 'TG051', 'TG052', 'TG053', 'TG066', 'TG069', 'TG070'],
   },
   {
     id: 'jardim',
     nome: 'Jardim e quintal',
     chamada: 'Começar do zero, chamar abelha e passarinho, árvore e flor.',
-    codigos: ['TG024', 'TG026', 'TG028', 'TG046'],
+    codigos: ['TG024', 'TG026', 'TG028', 'TG046', 'TG047', 'TG048', 'TG049', 'TG050', 'TG054', 'TG056', 'TG062'],
   },
   {
     id: 'cuidados',
     nome: 'Cuidados do dia a dia',
     chamada: 'Rega, terra, mudas de graça, praga e mato sem veneno.',
-    codigos: ['TG005', 'TG006', 'TG007', 'TG022', 'TG023', 'TG041'],
+    codigos: ['TG005', 'TG006', 'TG007', 'TG022', 'TG023', 'TG041', 'TG057', 'TG058', 'TG059', 'TG060'],
   },
 ];
 

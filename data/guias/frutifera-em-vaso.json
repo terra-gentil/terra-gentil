@@ -1,0 +1,439 @@
+{
+ "codigo": "TG055",
+ "slug": "frutifera-em-vaso",
+ "titulo": "Frutífera em Vaso",
+ "capa": {
+  "src": "/guias/frutifera-em-vaso/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Frutífera em Vaso"
+ },
+ "meta": {
+  "titulo": "Frutífera em vaso: guia grátis sem quintal",
+  "descricao": "Como plantar frutífera em vaso e colher limão, romã e amora mesmo sem quintal, no canto de mais sol. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG055.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t055",
+    "COLEÇÃO TERRA GENTIL",
+    "FIGO",
+    "Frutífera em Vaso",
+    "Fruta no pé, mesmo sem quintal.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/frutifera-em-vaso/limoeiro-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André ao lado de um limoeiro no vaso"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Dá para colher fruta sem ter quintal.",
+    "Limão, romã e amora cabem num vaso.",
+    "Aqui tem vaso, terra, colheita e tela.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache o canto de mais sol da casa.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/frutifera-em-vaso/limoeiro-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 165,
+     "alt": "André olhando os frutos de um limoeiro"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Sol e terra que escoe.",
+    "Figo, limão e romã pedem isso.",
+    "REGAR",
+    "Sempre, sem exagero.",
+    "Lugar abrigado e com sol."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da fruta",
+    "06",
+    "CAPÍTULO 1",
+    "Vaso e terra",
+    "08",
+    "CAPÍTULO 2",
+    "Plantio no vaso",
+    "12",
+    "CAPÍTULO 3",
+    "Colher e proteger",
+    "15",
+    "CAPÍTULO 4",
+    "Frutas de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Fruta rachando? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA FRUTA",
+    "Antes de plantar",
+    "O que ela pede",
+    "SOL",
+    "Pleno e abrigado",
+    "TERRA",
+    "Que escoe",
+    "REGA",
+    "Regular",
+    "VASO",
+    "Grande, uns 45 cm",
+    "MIRTILO",
+    "Terra ácida",
+    "REGA IRREGULAR\tATENÇÃO",
+    "O fruto racha"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Vaso e terra",
+    "01\tCerto e errado",
+    "02\tPlantio no vaso, passo a passo",
+    "03\tFruta rachada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/frutifera-em-vaso/jabuticabeira-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 164,
+     "alt": "André arrumando o vaso de uma frutífera"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Terra\tQue escoe\tEncharcada",
+    "Rega\tRegular\tPouca e muita",
+    "Muda\tEnxertada\tDe semente",
+    "Sol\tAos poucos\tDe uma vez",
+    "Muda enxertada dá fruto mais cedo e resiste a doença.",
+    "DICA DO ANDRÉ",
+    "Cavalo anão deixa a frutífera pequena, boa para vaso."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Plantio no vaso",
+    "01\tPlantio no vaso, passo a passo",
+    "02\tSol, água e flor",
+    "03\tFruta rachada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/frutifera-em-vaso/limoeiro-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 139,
+     "alt": "André plantando uma muda no vaso grande"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Muda no vaso? Faça assim.",
+    "QUANDO",
+    "Ao trocar de vaso",
+    "TERRA",
+    "Que escoe",
+    "PRECISA",
+    "Vaso velho e vaso novo",
+    "1",
+    "ENCAIXE",
+    "O vaso velho dentro do novo.",
+    "2",
+    "ENCHA",
+    "Terra em volta do vaso velho.",
+    "3",
+    "PLANTE",
+    "Tire o vaso velho e ponha a muda.",
+    "DICA DO ANDRÉ",
+    "Mirtilo vai em terra ácida, com água de chuva."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/frutifera-em-vaso/frt-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 233,
+     "alt": "Mãos encaixando um vaso velho dentro de um vaso novo maior"
+    },
+    {
+     "src": "/guias/frutifera-em-vaso/frt-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 144,
+     "alt": "Mãos enchendo de terra o espaço em volta do vaso velho"
+    },
+    {
+     "src": "/guias/frutifera-em-vaso/frt-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 269,
+     "alt": "Mãos pondo a muda de frutífera no buraco que ficou"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · SOL E ÁGUA",
+    "Sol, água e flor",
+    "Sem sol a uva não adoça.",
+    "Limoeiro que vivia dentro de casa vai ao sol aos poucos.",
+    "Água de torneira costuma ser alcalina para o mirtilo.",
+    "Mirtilo dá mais com outra variedade por perto.",
+    "A romã fecunda sozinha, mas outro pé perto ajuda."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Fruta rachando no vaso?",
+    "1",
+    "O QUE PARECE",
+    "Defeito da planta.",
+    "O QUE PODE SER",
+    "Rega pouca e depois muita.",
+    "COMO RESOLVER",
+    "Regue sempre, sem exagero."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/frutifera-em-vaso/frt-sintoma-1.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 278,
+     "alt": "Frutinhas rachadas no pé de uma frutífera em vaso"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Colher e proteger",
+    "01\tColheita certa",
+    "02\tPassarinho na fruta",
+    "03\tFrutas de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/frutifera-em-vaso/jabuticabeira-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 240,
+     "alt": "André colhendo frutas do pé"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · COLHER",
+    "Colheita certa",
+    "LIMÃO",
+    "Vários meses no pé",
+    "UVA",
+    "Tire alguns cachos",
+    "NA HORA DE COLHER",
+    "Figo mole e pesado de suco",
+    "Mirtilo rolando entre os dedos",
+    "Sobra de figo vira geleia",
+    "Limão dura semanas na geladeira",
+    "Cuidado",
+    "Romãzeira não se poda demais",
+    "Videira chora com seiva correndo"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · PASSARINHO",
+    "ATENÇÃO",
+    "Passarinho come o mirtilo assim que amadurece.",
+    "Plantou amoreira? Vai dividir com eles.",
+    "Tela fina por cima protege a fruta.",
+    "FAÇA ASSIM",
+    "Tela por cima quando a fruta amadurecer.",
+    "Umas frutinhas comidas são elogio."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro frutas",
+    "1",
+    "Figo",
+    "Folha perfumada que tempera.",
+    "2",
+    "Limão-meyer",
+    "Ótimo de vaso, flor cheirosa.",
+    "3",
+    "Mirtilo",
+    "Pede terra ácida.",
+    "4",
+    "Romã",
+    "Cresce devagar, cabe no vaso.",
+    "CHAVE\tSol pleno\tTerra que escoe"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/frutifera-em-vaso/frt-var-figo.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 288,
+     "alt": "Figueira em vaso com figos maduros"
+    },
+    {
+     "src": "/guias/frutifera-em-vaso/frt-var-limao.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 186,
+     "alt": "Limão-meyer em vaso com flores brancas e frutos"
+    },
+    {
+     "src": "/guias/frutifera-em-vaso/frt-var-mirtilo.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 268,
+     "alt": "Pé de mirtilo em vaso com frutinhas azuis"
+    },
+    {
+     "src": "/guias/frutifera-em-vaso/frt-var-roma.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 252,
+     "alt": "Romãzeira anã em vaso com romãs vermelhas"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "LIMOEIRO COM PRAGA",
+    "Ácaro ou cochonilha.",
+    "MIRTILO SEM FRUTA",
+    "Falta outro pé.",
+    "UVA SEM DOÇURA",
+    "Falta sol.",
+    "MUDA DE MAMÃO CAINDO",
+    "Tombamento, um fungo.",
+    "DICA DO ANDRÉ",
+    "Sem abelha? Pincel macio de flor em flor."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "7",
+    "ANOS",
+    "é mais ou menos o que o limão de semente leva para florir.",
+    "Por isso, muda enxertada.",
+    "E MAIS UMA",
+    "A videira dá pouco trabalho e produz por anos."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Canto de sol abrigado",
+    "Vaso de uns 45 cm",
+    "Terra que escoe",
+    "Muda enxertada",
+    "Rega regular",
+    "Sol aos poucos",
+    "Tela quando amadurecer",
+    "Poda leve",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se o seu vaso der a primeira fruta, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "055\tVOCÊ TEM",
+    "056",
+    "057",
+    "058",
+    "059",
+    "060",
+    "São 55 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 056 GRAMADO BONITO",
+    "Comente GRAMA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/frutifera-em-vaso/limoeiro-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 114,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

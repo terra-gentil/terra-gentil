@@ -1,0 +1,439 @@
+{
+ "codigo": "TG047",
+ "slug": "trepadeiras-floridas",
+ "titulo": "Trepadeiras Floridas",
+ "capa": {
+  "src": "/guias/trepadeiras-floridas/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Trepadeiras Floridas"
+ },
+ "meta": {
+  "titulo": "Trepadeira florida: guia grátis para o muro",
+  "descricao": "Como plantar trepadeira florida e transformar o muro sem graça em cortina de flor, com sol e suporte. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG047.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t047",
+    "COLEÇÃO TERRA GENTIL",
+    "JASMIM",
+    "Trepadeiras Floridas",
+    "Muro que vira cortina de flor.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/trepadeiras-floridas/buganvilia-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 157,
+     "alt": "André diante de uma buganvília florida"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Trepadeira transforma um muro sem graça.",
+    "Com sol e suporte, ela cobre muro e pérgola.",
+    "Aqui tem buganvília, jasmim, glicínia e mais.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Escolha o muro que vai ganhar flor.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/trepadeiras-floridas/buganvilia-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 183,
+     "alt": "André olhando um muro com trepadeira"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Suporte forte.",
+    "Quase nenhuma trepadeira se segura sozinha: amarre.",
+    "SOL",
+    "Buganvília e jasmim querem sol pleno.",
+    "Poda depois da flor."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da trepadeira",
+    "06",
+    "CAPÍTULO 1",
+    "Sol e suporte",
+    "08",
+    "CAPÍTULO 2",
+    "Amarrar e regar",
+    "12",
+    "CAPÍTULO 3",
+    "Poda certa",
+    "15",
+    "CAPÍTULO 4",
+    "Trepadeiras de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Buganvília só dá folha? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA TREPADEIRA",
+    "Antes de plantar",
+    "O que ela pede",
+    "SOL",
+    "Pleno, quase todas",
+    "TERRA",
+    "Fértil, que escoa",
+    "SUPORTE",
+    "Forte, desde cedo",
+    "REGA",
+    "Farta só crescendo",
+    "PODA",
+    "Depois da flor",
+    "GLICÍNIA\tATENÇÃO",
+    "Pesa muito"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Sol e suporte",
+    "01\tCerto e errado",
+    "02\tAmarrar, passo a passo",
+    "03\tSó dá folha"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/trepadeiras-floridas/buganvilia-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 197,
+     "alt": "André amarrando um ramo no suporte"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Suporte\tForte\tFraco",
+    "Ramos\tAmarrados\tSoltos",
+    "Glicínia\tEnxertada\tDe semente",
+    "Adubo\tPouco\tDemais",
+    "Hera verde aguenta sombra; a variegada pede luz.",
+    "DICA DO ANDRÉ",
+    "Hera leva um ano para pegar, depois dispara."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Amarrar e regar",
+    "01\tAmarrar, passo a passo",
+    "02\tSol e rega",
+    "03\tSó dá folha"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/trepadeiras-floridas/buganvilia-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 173,
+     "alt": "André conduzindo a trepadeira no muro"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Amarrar no suporte? Faça assim.",
+    "QUANDO",
+    "Desde a muda",
+    "TEMPO",
+    "15 minutos",
+    "PRECISA",
+    "Suporte e barbante",
+    "1",
+    "FIRME",
+    "Suporte forte desde o começo.",
+    "2",
+    "AMARRE",
+    "Os ramos, sem apertar.",
+    "3",
+    "DESBASTE",
+    "Os ramos embolados.",
+    "DICA DO ANDRÉ",
+    "Hera não precisa: gruda sozinha no muro."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/trepadeiras-floridas/tre-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 290,
+     "alt": "Mãos firmando uma treliça de madeira no muro"
+    },
+    {
+     "src": "/guias/trepadeiras-floridas/tre-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 230,
+     "alt": "Mãos amarrando de leve um ramo de buganvília na treliça com barbante"
+    },
+    {
+     "src": "/guias/trepadeiras-floridas/tre-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 293,
+     "alt": "Mãos com tesoura tirando ramos embolados de uma trepadeira"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · REGA",
+    "Sol e rega",
+    "Buganvília e jasmim querem sol pleno.",
+    "Alamanda e mandevila gostam de sombra leve.",
+    "Mandevila: rega farta só enquanto cresce.",
+    "Buganvília descansando quase não leva água.",
+    "No sol mais forte, um pouco de sombra ajuda."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Buganvília só dá folha?",
+    "1",
+    "O QUE PARECE",
+    "Planta doente.",
+    "O QUE PODE SER",
+    "Muda nova ou água demais.",
+    "COMO RESOLVER",
+    "Paciência e rega moderada."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/trepadeiras-floridas/tre-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 296,
+     "alt": "Buganvília cheia de folhas verdes e sem nenhuma cor"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Poda certa",
+    "01\tPoda de cada uma",
+    "02\tPeso e raiz",
+    "03\tTrepadeiras de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/trepadeiras-floridas/buganvilia-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 188,
+     "alt": "André podando a buganvília"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · PODA",
+    "Poda de cada uma",
+    "QUANDO",
+    "Depois da florada",
+    "GLICÍNIA",
+    "Duas podas no ano",
+    "COMO CORTAR",
+    "Buganvília toquinhos de 2 a 3 cm",
+    "Alamanda até 1 ou 2 nós",
+    "Jasmim ramos velhos fora",
+    "Jasmim-manga a ponta, para ramificar",
+    "Cuidado",
+    "Buganvília tem espinho no caule",
+    "Glicínia de semente demora anos a florir"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · PESO",
+    "ATENÇÃO",
+    "Glicínia pesa com a idade.",
+    "A raiz pode estragar alicerce.",
+    "Ela precisa de suporte bem forte.",
+    "FAÇA ASSIM",
+    "Suporte firme desde o começo.",
+    "Longe da parede da casa."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro trepadeiras",
+    "1",
+    "Buganvília",
+    "A cor é folha, não flor.",
+    "2",
+    "Jasmim",
+    "Flor branca perfumada.",
+    "3",
+    "Glicínia",
+    "Prefira muda enxertada.",
+    "4",
+    "Tumbérgia",
+    "Trompete azul.",
+    "CHAVE\tSol e suporte\tPoda depois da flor"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/trepadeiras-floridas/tre-var-buganvilia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 285,
+     "alt": "Buganvília magenta cobrindo um muro"
+    },
+    {
+     "src": "/guias/trepadeiras-floridas/tre-var-jasmim.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 291,
+     "alt": "Jasmim de flores brancas numa cerca"
+    },
+    {
+     "src": "/guias/trepadeiras-floridas/tre-var-glicinia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 285,
+     "alt": "Cachos lilás de glicínia pendendo de uma pérgola"
+    },
+    {
+     "src": "/guias/trepadeiras-floridas/tre-var-tumbergia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 283,
+     "alt": "Tumbérgia-azul com flores em trompete"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "GLICÍNIA SÓ COM FOLHA",
+    "Adubo demais.",
+    "BUGANVÍLIA SEM FLOR",
+    "Muda nova.",
+    "BICHINHO BRANCO",
+    "Mosca-branca.",
+    "RAMOS EMBOLADOS",
+    "Falta desbaste.",
+    "DICA DO ANDRÉ",
+    "Semente de ipomeia: 24 horas de molho antes."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "30",
+    "M",
+    "de altura pode alcançar a glicínia-chinesa.",
+    "Por isso o suporte forte.",
+    "E MAIS UMA",
+    "A batata-doce é uma ipomeia trepadeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Lugar de sol",
+    "Terra que escoa",
+    "Suporte forte",
+    "Ramos amarrados",
+    "Desbaste os embolados",
+    "Poda depois da flor",
+    "Glicínia sem adubo",
+    "Rega moderada",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se o seu muro ganhar flor, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "047\tVOCÊ TEM",
+    "048",
+    "049",
+    "050",
+    "051",
+    "052",
+    "São 47 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 048 AZALEIA E HORTÊNSIA",
+    "Comente AZALEIA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/trepadeiras-floridas/buganvilia-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 125,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

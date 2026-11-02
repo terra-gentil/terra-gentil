@@ -1,0 +1,439 @@
+{
+ "codigo": "TG056",
+ "slug": "gramado-bonito",
+ "titulo": "Gramado Bonito",
+ "capa": {
+  "src": "/guias/gramado-bonito/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Gramado Bonito"
+ },
+ "meta": {
+  "titulo": "Gramado bonito: guia grátis de grama fechada",
+  "descricao": "Como ter um gramado verde, fechado e sem mato, começando pelo chão bom, com plantio e corte certos. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG056.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t056",
+    "COLEÇÃO TERRA GENTIL",
+    "GRAMA",
+    "Gramado Bonito",
+    "Verde, fechado e sem mato.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/gramado-bonito/grama-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 189,
+     "alt": "André num gramado verde e fechado"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Gramado bonito começa embaixo da terra.",
+    "O segredo é chão bom e grama fechada.",
+    "Aqui tem plantio, corte e mato que avisa.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache o canto onde a grama falha.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/gramado-bonito/grama-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 147,
+     "alt": "André olhando o gramado do quintal"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Corte alto.",
+    "Deixe sempre no mínimo 5 cm de grama.",
+    "AREJAR",
+    "Garfo a cada 15 cm.",
+    "Lâmina sempre afiada."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do gramado",
+    "06",
+    "CAPÍTULO 1",
+    "Preparar o chão",
+    "08",
+    "CAPÍTULO 2",
+    "Plantar a grama",
+    "12",
+    "CAPÍTULO 3",
+    "Cortar e cuidar",
+    "15",
+    "CAPÍTULO 4",
+    "O mato que avisa",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Grama marrom? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO GRAMADO",
+    "Antes de plantar",
+    "O que ele pede",
+    "TERRENO",
+    "Nivelado, sem pedra",
+    "ADUBO",
+    "Húmus",
+    "ALTURA",
+    "No mínimo 5 cm",
+    "REGA",
+    "Manhã ou fim da tarde",
+    "PLACA",
+    "No dia que chega",
+    "PISOTEIO\tATENÇÃO",
+    "Compacta a terra"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Preparar o chão",
+    "01\tCerto e errado",
+    "02\tGrama em placa, passo a passo",
+    "03\tGrama marrom"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/gramado-bonito/grama-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 128,
+     "alt": "André nivelando a terra com o rastelo"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Terreno\tNivelado\tCom torrão",
+    "Adubo\tHúmus\tEsterco comum",
+    "Corte\tAlto\tRente",
+    "Lâmina\tAfiada\tCega",
+    "Solo bem preparado deixa o gramado anos sem replantar.",
+    "DICA DO ANDRÉ",
+    "Borda reta: pise numa tábua e corte rente a ela."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Plantar a grama",
+    "01\tGrama em placa, passo a passo",
+    "02\tGrama de semente",
+    "03\tGrama marrom"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/gramado-bonito/grama-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 215,
+     "alt": "André assentando placas de grama"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Grama em placa? Faça assim.",
+    "QUANDO",
+    "No dia que chega",
+    "ANTES",
+    "Rastele de leve",
+    "PRECISA",
+    "Placas e terra fina",
+    "1",
+    "ENCAIXE",
+    "Desencontre as emendas, como tijolo.",
+    "2",
+    "APERTE",
+    "A raiz tem que encostar na terra.",
+    "3",
+    "VARRA",
+    "Terra fina nas frestas.",
+    "DICA DO ANDRÉ",
+    "Espalhe montes de placas antes de começar."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/gramado-bonito/gra-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 274,
+     "alt": "Mãos encaixando placas de grama com as emendas desencontradas"
+    },
+    {
+     "src": "/guias/gramado-bonito/gra-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 234,
+     "alt": "Mãos apertando a placa de grama contra a terra"
+    },
+    {
+     "src": "/guias/gramado-bonito/gra-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 288,
+     "alt": "Mão varrendo terra fina nas frestas entre as placas"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · SEMENTE",
+    "Grama de semente",
+    "Metade da semente num sentido, metade cruzando.",
+    "Quadrados de 1 m com barbante deixam tudo por igual.",
+    "Cubra com só 1 a 2 mm de terra.",
+    "Grama nova pede rega sempre nos primeiros dias.",
+    "Primeiro corte com o cortador na altura máxima."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Grama marrom onde todo mundo pisa?",
+    "1",
+    "O QUE PARECE",
+    "Falta de água.",
+    "O QUE PODE SER",
+    "Chão compactado.",
+    "COMO RESOLVER",
+    "Areje com o garfo."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/gramado-bonito/gra-sintoma-1.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 279,
+     "alt": "Trilha de grama marrom e rala num gramado muito pisado"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Cortar e cuidar",
+    "01\tCorte certo",
+    "02\tMato no gramado",
+    "03\tO mato que avisa"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/gramado-bonito/grama-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 136,
+     "alt": "André cortando a grama do quintal"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CORTAR",
+    "Corte certo",
+    "ALTURA",
+    "No mínimo 5 cm",
+    "LÂMINA",
+    "Sempre afiada",
+    "VOCÊ VAI PRECISAR",
+    "Lâmina de metal para grama alta",
+    "Fio de nylon para gramado baixo",
+    "Rastelo para a grama cortada",
+    "Tábua e meia-lua para a borda",
+    "Cuidado",
+    "Folha seca tira a luz da grama",
+    "Rolo empilhado apodrece e amarela"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · MATO",
+    "ATENÇÃO",
+    "Mato aparece onde a grama não fechou.",
+    "Grama falhada vira porta para o mato.",
+    "Gramado fechado não dá mato.",
+    "FAÇA ASSIM",
+    "Adube, areje e semeie nas falhas.",
+    "No gramado, arranque o mato à mão."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O mato que avisa",
+    "1",
+    "Guanxuma",
+    "Solo compactado.",
+    "2",
+    "Tiririca",
+    "Chão pelado no sol forte.",
+    "3",
+    "Capim-carrapicho",
+    "Solo muito duro.",
+    "4",
+    "Samambaia",
+    "Solo ácido.",
+    "CHAVE\tLeia o mato\tCuide do chão"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/gramado-bonito/gra-var-guanxuma.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 258,
+     "alt": "Guanxuma nascendo num gramado de terra batida"
+    },
+    {
+     "src": "/guias/gramado-bonito/gra-var-tiririca.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 278,
+     "alt": "Tiririca brotando em chão pelado no sol"
+    },
+    {
+     "src": "/guias/gramado-bonito/gra-var-carrapicho.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 269,
+     "alt": "Capim-carrapicho com espigas espinhentas em solo duro"
+    },
+    {
+     "src": "/guias/gramado-bonito/gra-var-samambaia.webp",
+     "largura": 800,
+     "altura": 1071,
+     "kb": 265,
+     "alt": "Samambaia-das-taperas num barranco"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "MANCHA REDONDA AMARELA",
+    "Pode ser cupim.",
+    "GRAMA RASGADA",
+    "Lâmina cega.",
+    "TRILHA PELADA",
+    "Pisada no mesmo lugar.",
+    "FOLHA E RAIZ COMIDAS",
+    "Grilo ou paquinha.",
+    "DICA DO ANDRÉ",
+    "Círculo de cogumelo não faz mal à grama."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "4 a 6",
+    "DIAS",
+    "é o que o capim cortado com lâmina afiada leva para rebrotar.",
+    "Rasgado, demora 6 a 8 semanas.",
+    "E MAIS UMA",
+    "Semente coberta com 1 a 2 mm de terra brota em uma a duas semanas."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Terreno nivelado",
+    "Húmus no preparo",
+    "Placa no dia que chega",
+    "Emendas desencontradas",
+    "Corte acima de 5 cm",
+    "Lâmina afiada",
+    "Garfo onde compacta",
+    "Mato arrancado à mão",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se o seu gramado fechar bonito, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "056\tVOCÊ TEM",
+    "057",
+    "058",
+    "059",
+    "060",
+    "061",
+    "São 56 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 057 ADUBO CASEIRO",
+    "Comente ADUBO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/gramado-bonito/grama-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 105,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

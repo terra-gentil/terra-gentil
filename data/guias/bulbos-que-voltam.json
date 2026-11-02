@@ -1,0 +1,439 @@
+{
+ "codigo": "TG049",
+ "slug": "bulbos-que-voltam",
+ "titulo": "Bulbos que Voltam",
+ "capa": {
+  "src": "/guias/bulbos-que-voltam/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Bulbos que Voltam"
+ },
+ "meta": {
+  "titulo": "Bulbos: guia grátis de dália, amarílis e mais",
+  "descricao": "Como cuidar de bulbos como dália, amarílis e agapanto, plantas que somem, descansam e florescem de novo. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG049.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t049",
+    "COLEÇÃO TERRA GENTIL",
+    "BULBO",
+    "Bulbos que Voltam",
+    "Some, descansa e floresce de novo.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/bulbos-que-voltam/lirio-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 111,
+     "alt": "André com um vaso de lírio florido"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Bulbo é planta que volta todo ano.",
+    "Ela some, descansa e brota de novo.",
+    "Aqui tem dália, amarílis, agapanto e mais.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache um vaso de bulbo esquecido em casa.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/bulbos-que-voltam/lirio-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 139,
+     "alt": "André olhando um bulbo nas mãos"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Respeite o descanso.",
+    "Folha morreu não é fim: o bulbo está dormindo.",
+    "DIVIDIR",
+    "Touceira cheia vira muda nova.",
+    "Sol e terra que escoa."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do bulbo",
+    "06",
+    "CAPÍTULO 1",
+    "Plantar o bulbo",
+    "08",
+    "CAPÍTULO 2",
+    "Rega e descanso",
+    "12",
+    "CAPÍTULO 3",
+    "Dividir a touceira",
+    "15",
+    "CAPÍTULO 4",
+    "Bulbos de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Amarílis não floresceu? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO BULBO",
+    "Antes de plantar",
+    "O que ele pede",
+    "SOL",
+    "Pleno ou meia-sombra",
+    "TERRA",
+    "Que escoa bem",
+    "REGA",
+    "Farta crescendo",
+    "DESCANSO",
+    "Seco, sem rega",
+    "MUDA",
+    "Dividir a touceira",
+    "LÍRIO\tATENÇÃO",
+    "Não mexa depois de pegar"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Plantar o bulbo",
+    "01\tCerto e errado",
+    "02\tAmarílis, passo a passo",
+    "03\tNão floresceu"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/bulbos-que-voltam/lirio-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 101,
+     "alt": "André plantando um bulbo"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Amarílis\tMeio de fora\tEnterrado",
+    "Descanso\tSeco\tRegado",
+    "Dália\tCom tutor\tSolta",
+    "Guardar\tLimpo e seco\tCom terra",
+    "Hemerocale aguenta quase toda terra, menos encharcada.",
+    "DICA DO ANDRÉ",
+    "Dália não pede habilidade especial nenhuma."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Rega e descanso",
+    "01\tAmarílis, passo a passo",
+    "02\tRega e descanso",
+    "03\tNão floresceu"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/bulbos-que-voltam/lirio-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 123,
+     "alt": "André regando um vaso de bulbo"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Plantar amarílis? Faça assim.",
+    "QUANDO",
+    "Bulbo descansado",
+    "TEMPO",
+    "10 minutos",
+    "PRECISA",
+    "Vaso e terra que escoa",
+    "1",
+    "METADE",
+    "Do bulbo fica de fora.",
+    "2",
+    "LUZ",
+    "Sol ou meia-sombra.",
+    "3",
+    "REGA",
+    "Farta só quando crescer.",
+    "DICA DO ANDRÉ",
+    "Pouca luz estica a haste do filhote."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/bulbos-que-voltam/bul-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 178,
+     "alt": "Mãos segurando um bulbo grande de amarílis sobre um vaso"
+    },
+    {
+     "src": "/guias/bulbos-que-voltam/bul-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 271,
+     "alt": "Mãos plantando o bulbo de amarílis com a metade de cima para fora da terra"
+    },
+    {
+     "src": "/guias/bulbos-que-voltam/bul-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 230,
+     "alt": "Mãos regando o vaso do amarílis com o broto da haste aparecendo"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · REGA",
+    "Rega e descanso",
+    "Amarílis: rega farta crescendo, seca descansando.",
+    "Folha morreu? Deixe o bulbo secar e descansar.",
+    "Clívia: rega boa no calor, menos no frio.",
+    "Batata de dália guardada: limpa e bem seca.",
+    "Lírio que pegou não se mexe."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Amarílis não floresceu?",
+    "1",
+    "O QUE PARECE",
+    "Bulbo morto.",
+    "O QUE PODE SER",
+    "Faltou descanso, ou é filhote.",
+    "COMO RESOLVER",
+    "Folha morreu? Seque e espere."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/bulbos-que-voltam/bul-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 270,
+     "alt": "Vaso de amarílis só com folhas compridas e sem haste de flor"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Dividir a touceira",
+    "01\tDividir sem medo",
+    "02\tSemente não repete",
+    "03\tBulbos de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/bulbos-que-voltam/lirio-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 109,
+     "alt": "André dividindo uma touceira"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · DIVIDIR",
+    "Dividir sem medo",
+    "QUANDO",
+    "Depois da florada",
+    "IDADE",
+    "Touceira de 3 ou 4 anos",
+    "VOCÊ VAI PRECISAR",
+    "Dois garfos para abrir a touceira",
+    "Pedaços de 2 a 4 por pé",
+    "Dália um olho e uma batata",
+    "Terra que escoa bem",
+    "Cuidado",
+    "Raiz estragada tire antes de replantar",
+    "Agapanto velho demora a se firmar"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · SEMENTE",
+    "ATENÇÃO",
+    "Semente de variedade não repete a mãe.",
+    "Vale para agapanto, hemerocale e amarílis.",
+    "Para ter igual, divida a touceira.",
+    "FAÇA ASSIM",
+    "Igual à mãe: filhote ou divisão.",
+    "Semente: surpresa, flor em uns 3 anos."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro bulbos",
+    "1",
+    "Dália",
+    "Até 100 flores no pé.",
+    "2",
+    "Amarílis",
+    "Meio bulbo de fora.",
+    "3",
+    "Agapanto",
+    "Abre azul, puxa ao roxo.",
+    "4",
+    "Hemerocale",
+    "Flor de um dia só.",
+    "CHAVE\tDescanso\tDivisão"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/bulbos-que-voltam/bul-var-dalia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 278,
+     "alt": "Dália grande e colorida num canteiro com tutor"
+    },
+    {
+     "src": "/guias/bulbos-que-voltam/bul-var-amarilis.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 131,
+     "alt": "Amarílis vermelho florido num vaso"
+    },
+    {
+     "src": "/guias/bulbos-que-voltam/bul-var-agapanto.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 276,
+     "alt": "Agapanto azul florido num jardim"
+    },
+    {
+     "src": "/guias/bulbos-que-voltam/bul-var-hemerocale.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 215,
+     "alt": "Hemerocale laranja aberto no sol"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "HASTE ESTICADA",
+    "Pouca luz.",
+    "BATATA MOFADA",
+    "Guardou úmida.",
+    "FOLHA NOVA COMIDA",
+    "Lesma.",
+    "DÁLIA FRACA",
+    "Renove as mudas.",
+    "DICA DO ANDRÉ",
+    "Belisque a ponta da dália para ela encher."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "25",
+    "CM",
+    "tem a flor da dália gigante.",
+    "A dália-pompom não passa de 5 cm.",
+    "E MAIS UMA",
+    "Dália tem de quase todas as cores, menos azul."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Sol e terra que escoa",
+    "Amarílis meio de fora",
+    "Rega farta crescendo",
+    "Seco no descanso",
+    "Tutor na dália",
+    "Batata guardada seca",
+    "Dividir a touceira",
+    "Filhote repete a mãe",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se o seu bulbo esquecido florir de novo, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "049\tVOCÊ TEM",
+    "050",
+    "051",
+    "052",
+    "053",
+    "054",
+    "São 49 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 050 JARDIM TROPICAL",
+    "Comente TROPICAL no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/bulbos-que-voltam/lirio-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 99,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

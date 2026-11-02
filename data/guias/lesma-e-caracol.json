@@ -1,0 +1,439 @@
+{
+ "codigo": "TG060",
+ "slug": "lesma-e-caracol",
+ "titulo": "Lesma e Caracol",
+ "capa": {
+  "src": "/guias/lesma-e-caracol/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Lesma e Caracol"
+ },
+ "meta": {
+  "titulo": "Lesma e caracol: guia grátis sem veneno",
+  "descricao": "Como proteger a horta de lesma e caracol sem veneno nenhum, com ronda à noite, armadilha e bicho aliado. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG060.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t060",
+    "COLEÇÃO TERRA GENTIL",
+    "LESMA",
+    "Lesma e Caracol",
+    "Horta salva, sem veneno nenhum.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/lesma-e-caracol/alface-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 149,
+     "alt": "André na horta ao anoitecer"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Lesma e caracol saem à noite e com chuva.",
+    "E podem acabar com as mudas numa noite.",
+    "Aqui tem ronda, armadilha e bicho aliado.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache o canto mais úmido da horta.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/lesma-e-caracol/alface-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 123,
+     "alt": "André olhando um canteiro de folhas"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Ronda à noite.",
+    "Lanterna na mão, em noite úmida e amena.",
+    "SAPO",
+    "Atraia o caçador.",
+    "Sem veneno."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da lesma",
+    "06",
+    "CAPÍTULO 1",
+    "Conhecer a lesma",
+    "08",
+    "CAPÍTULO 2",
+    "Ronda e armadilha",
+    "12",
+    "CAPÍTULO 3",
+    "Proteger a muda",
+    "15",
+    "CAPÍTULO 4",
+    "Bicho aliado",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Muda sumiu numa noite? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA LESMA",
+    "Antes de plantar",
+    "Do que ela gosta",
+    "LUGAR",
+    "Fresco e úmido",
+    "HORA",
+    "Noite e chuva",
+    "COMIDA",
+    "Muda nova",
+    "CHEIRO",
+    "De cerveja",
+    "FAVORITAS",
+    "Hosta e pimenteira",
+    "VENENO\tATENÇÃO",
+    "Afasta o sapo"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Conhecer a lesma",
+    "01\tCerto e errado",
+    "02\tArmadilha, passo a passo",
+    "03\tMuda sumiu"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/lesma-e-caracol/coringa-horta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André olhando as mudas da horta"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Ronda\tÀ noite\tDe dia",
+    "Lesma catada\tComposto\tVizinho",
+    "Muda\tCrescida\tNovinha",
+    "Pote\tBorda acima\tRente ao chão",
+    "Nem toda lesma é praga: tem espécie que caça outras lesmas.",
+    "DICA DO ANDRÉ",
+    "Planta isca perto da preferida: a lesma come a isca."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Ronda e armadilha",
+    "01\tArmadilha, passo a passo",
+    "02\tOutras armadilhas",
+    "03\tMuda sumiu"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/lesma-e-caracol/coringa-horta-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André com uma lanterna na horta"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Armadilha da tábua? Faça assim.",
+    "QUANDO",
+    "À tarde",
+    "ONDE",
+    "Lado da sombra",
+    "PRECISA",
+    "Uma tábua",
+    "1",
+    "ENCOSTE",
+    "A tábua no canteiro.",
+    "2",
+    "ESPERE",
+    "Até a manhã seguinte.",
+    "3",
+    "CATE",
+    "E leve para a composteira.",
+    "DICA DO ANDRÉ",
+    "Casca de toranja virada também junta lesma."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/lesma-e-caracol/les-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 168,
+     "alt": "Mãos encostando uma tábua no canteiro, no lado da sombra"
+    },
+    {
+     "src": "/guias/lesma-e-caracol/les-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 253,
+     "alt": "Mãos levantando a tábua de manhã, com lesmas embaixo"
+    },
+    {
+     "src": "/guias/lesma-e-caracol/les-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 252,
+     "alt": "Mãos catando lesmas para um balde"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · RONDA",
+    "Outras armadilhas",
+    "Lesma vem pelo cheiro de fermento e açúcar da cerveja.",
+    "Enterre o pote com a borda um pouco acima do chão.",
+    "Assim o besouro do bem não cai.",
+    "Na horta de sombra, ronda com lanterna.",
+    "Depois da chuva ou ao anoitecer, vá olhar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Muda sumiu numa noite?",
+    "1",
+    "O QUE PARECE",
+    "Sumiu do nada.",
+    "O QUE PODE SER",
+    "Lesma ou caracol, à noite.",
+    "COMO RESOLVER",
+    "Ronda com lanterna, muda crescida."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/lesma-e-caracol/les-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 273,
+     "alt": "Muda nova roída por lesma na terra úmida"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Proteger a muda",
+    "01\tBarreiras",
+    "02\tSal e veneno",
+    "03\tAliados de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/lesma-e-caracol/coringa-horta-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 192,
+     "alt": "André protegendo uma muda no canteiro"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · BARREIRA",
+    "Barreiras",
+    "QUANDO",
+    "Na muda nova",
+    "ONDE",
+    "Vaso e canteiro",
+    "VOCÊ VAI PRECISAR",
+    "Fita de cobre em volta da jardineira",
+    "Garrafa PET sem fundo, na muda",
+    "Lã de ovelha sobre a terra do vaso",
+    "Cúpula de PET de noite, na muda",
+    "Cuidado",
+    "Broto novo a lesma adora",
+    "Ervilha só sai com uns 15 cm"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · SAL",
+    "ATENÇÃO",
+    "Sal é só na fita, nunca na terra.",
+    "Veneno espanta o sapo do quintal.",
+    "Tem verme do solo que mata lesma sem veneno.",
+    "FAÇA ASSIM",
+    "Fita dupla face rolada no sal, no vaso.",
+    "Vermes do solo, vendidos prontos."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · ALIADOS",
+    "Quatro aliados",
+    "1",
+    "Sapo",
+    "Come milhares numa temporada.",
+    "2",
+    "Besouro de chão",
+    "Caça lesma e caramujo.",
+    "3",
+    "Joaninha",
+    "A larva devora pulgão.",
+    "4",
+    "Libélula",
+    "Come centenas de mosquitinhos.",
+    "CHAVE\tSem veneno\tLaguinho"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/lesma-e-caracol/les-var-sapo.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 300,
+     "alt": "Sapo parado entre as folhas úmidas do canteiro"
+    },
+    {
+     "src": "/guias/lesma-e-caracol/les-var-besouro.webp",
+     "largura": 800,
+     "altura": 1071,
+     "kb": 268,
+     "alt": "Besouro de chão andando na terra da horta"
+    },
+    {
+     "src": "/guias/lesma-e-caracol/les-var-joaninha.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 111,
+     "alt": "Joaninha numa folha com pulgões"
+    },
+    {
+     "src": "/guias/lesma-e-caracol/les-var-libelula.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 180,
+     "alt": "Libélula pousada perto de um laguinho"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "MUDA SUMIU",
+    "Lesma: faça ronda.",
+    "LESMA VOLTOU",
+    "Ela sabe voltar para casa.",
+    "SAPO NÃO FICA",
+    "Tire o veneno, cubra o chão.",
+    "PULGÃO VOLTOU",
+    "Veneno matou a joaninha.",
+    "DICA DO ANDRÉ",
+    "Antes de borrifar, espere as larvas de joaninha."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "2.000",
+    "KM",
+    "ou mais voa a borboleta vanessa, que migra.",
+    "E pode parar no seu jardim para beber néctar.",
+    "E MAIS UMA",
+    "Um morceguinho come até 3.500 insetos numa noite."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Ronda à noite com lanterna",
+    "Tábua no lado da sombra",
+    "Pote com a borda acima",
+    "Muda só crescida",
+    "Garrafa PET em volta",
+    "Nada de veneno",
+    "Laguinho para o sapo",
+    "Casinha de sapo na sombra",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se aparecer um sapo no seu quintal, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "060\tVOCÊ TEM",
+    "061",
+    "062",
+    "063",
+    "064",
+    "065",
+    "São 60 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 061 LAVANDA E ALECRIM",
+    "Comente LAVANDA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/lesma-e-caracol/alface-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 92,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,439 @@
+{
+ "codigo": "TG059",
+ "slug": "fungo-no-jardim",
+ "titulo": "Fungo no Jardim",
+ "capa": {
+  "src": "/guias/fungo-no-jardim/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Fungo no Jardim"
+ },
+ "meta": {
+  "titulo": "Fungo no jardim: guia grátis sem susto",
+  "descricao": "Fungo no jardim quase sempre é amigo: veja qual ajuda a terra e as árvores e qual adoece a planta. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG059.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t059",
+    "COLEÇÃO TERRA GENTIL",
+    "FUNGO",
+    "Fungo no Jardim",
+    "O amigo escondido debaixo da terra.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/fungo-no-jardim/coringa-solo-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 215,
+     "alt": "André num canteiro de sombra"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Fungo no jardim quase sempre é amigo.",
+    "A maioria ajuda a terra e as árvores.",
+    "Aqui tem cogumelo no tronco e fungo que adoece.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache um cogumelo no quintal e só olhe.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/fungo-no-jardim/coringa-solo-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 148,
+     "alt": "André olhando a terra do canteiro"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Planta forte se defende.",
+    "Planta com sede ou com fome pega mais doença.",
+    "AREJAR",
+    "Deixe o ar passar.",
+    "Folha doente no lixo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do fungo",
+    "06",
+    "CAPÍTULO 1",
+    "Fungo do bem",
+    "08",
+    "CAPÍTULO 2",
+    "Cogumelo no tronco",
+    "12",
+    "CAPÍTULO 3",
+    "Fungo que adoece",
+    "15",
+    "CAPÍTULO 4",
+    "Fungos de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Mudinha tombou? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO FUNGO",
+    "Antes de mexer",
+    "O que ele pede",
+    "SOMBRA",
+    "Úmida, para cogumelo",
+    "TRONCO",
+    "Madeira dura e sã",
+    "PLANTA",
+    "Regada e nutrida",
+    "AR",
+    "Passando entre os pés",
+    "FOLHA DOENTE",
+    "Ensacada, no lixo",
+    "COGUMELO\tATENÇÃO",
+    "É para olhar, não comer"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Fungo do bem",
+    "01\tCerto e errado",
+    "02\tCogumelo, passo a passo",
+    "03\tMudinha tombou"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/fungo-no-jardim/coringa-solo-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 209,
+     "alt": "André mexendo na terra do canteiro"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Cogumelo\tOlhar\tComer",
+    "Galho e casca\tDeixar\tVarrer",
+    "Folha doente\tLixo\tComposteira",
+    "Pés\tEspaçados\tJuntos",
+    "O cogumelo é só o fruto; o corpo do fungo vive na terra.",
+    "DICA DO ANDRÉ",
+    "Doença todo ano? Troque por variedade resistente."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Cogumelo no tronco",
+    "01\tCogumelo, passo a passo",
+    "02\tO tronco certo",
+    "03\tMudinha tombou"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/fungo-no-jardim/coringa-compostagem-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 175,
+     "alt": "André com um tronco num canto de sombra"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Cogumelo no tronco? Faça assim.",
+    "QUANDO",
+    "Tronco recém-cortado",
+    "ONDE",
+    "Sombra úmida",
+    "PRECISA",
+    "Tarugo e cera de abelha",
+    "1",
+    "FURE",
+    "5 cm de fundo, a cada 10 cm.",
+    "2",
+    "ENCHA",
+    "Um tarugo em cada furo.",
+    "3",
+    "TAMPE",
+    "Cera de abelha por cima.",
+    "DICA DO ANDRÉ",
+    "Tronco não está pronto? Semente na geladeira."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/fungo-no-jardim/fun-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 293,
+     "alt": "Mãos furando um tronco de madeira"
+    },
+    {
+     "src": "/guias/fungo-no-jardim/fun-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 216,
+     "alt": "Mãos encaixando um tarugo de semente de cogumelo no furo"
+    },
+    {
+     "src": "/guias/fungo-no-jardim/fun-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 227,
+     "alt": "Mãos passando cera de abelha sobre os furos do tronco"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · TRONCO",
+    "O tronco certo",
+    "Madeira dura, recém-cortada, sem ferida na casca.",
+    "Um tipo de cogumelo por tronco: o mais forte toma conta.",
+    "Em pé na sombra, com 10 cm enterrados.",
+    "Os cogumelos saem em 9 a 12 meses.",
+    "Tronco velho e podre vira casa de besouro e sapo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Mudinha tombou?",
+    "1",
+    "O QUE PARECE",
+    "Caiu de uma noite para outra.",
+    "O QUE PODE SER",
+    "Tombamento, fungo do solo.",
+    "COMO RESOLVER",
+    "Vaso limpo, substrato novo, ar."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/fungo-no-jardim/fun-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 148,
+     "alt": "Mudinhas caídas pelo caule numa bandeja de semeadura"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Fungo que adoece",
+    "01\tContra o fungo",
+    "02\tMofo cinzento",
+    "03\tFungos de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/fungo-no-jardim/coringa-praga-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 125,
+     "alt": "André olhando folhas de perto"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · DOENÇA",
+    "Contra o fungo",
+    "QUANDO",
+    "Ao ver a mancha",
+    "ONDE",
+    "Folha e chão",
+    "VOCÊ VAI PRECISAR",
+    "Rega em dia, contra o oídio",
+    "Espaço para o ar passar",
+    "Tesoura para a parte doente",
+    "Saco para levar ao lixo",
+    "Cuidado",
+    "Composteira o esporo espalha",
+    "Flor morta no chão, junta mofo"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · MOFO",
+    "ATENÇÃO",
+    "O mofo cinzento ataca no úmido e abafado.",
+    "Muitas vezes começa com uma mancha marrom.",
+    "Pega folha, flor e fruto.",
+    "FAÇA ASSIM",
+    "Tire logo a parte atacada.",
+    "Recolha folha e flor morta do chão."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro fungos",
+    "1",
+    "Shiitake",
+    "Cresce em tora de madeira.",
+    "2",
+    "Cogumelo-ostra",
+    "Nasce em tronco na sombra.",
+    "3",
+    "Oídio",
+    "Pó branco na folha.",
+    "4",
+    "Ferrugem",
+    "Mancha laranja embaixo.",
+    "CHAVE\tAr passando\tPlanta regada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/fungo-no-jardim/fun-var-shiitake.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 288,
+     "alt": "Cogumelos shiitake saindo de uma tora de madeira"
+    },
+    {
+     "src": "/guias/fungo-no-jardim/fun-var-ostra.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 277,
+     "alt": "Cogumelo-ostra num tronco à sombra"
+    },
+    {
+     "src": "/guias/fungo-no-jardim/fun-var-oidio.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 155,
+     "alt": "Folha coberta de pó branco de oídio"
+    },
+    {
+     "src": "/guias/fungo-no-jardim/fun-var-ferrugem.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 184,
+     "alt": "Manchas laranja de ferrugem embaixo de uma folha"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "PLACA BRANCA",
+    "Armilária: não tem cura.",
+    "BRILHO DE PRATA",
+    "Fungo que entrou na poda.",
+    "FRUTA PODRE",
+    "Podridão-parda: tire todas.",
+    "FOLHA TORTA",
+    "Virose, o pulgão espalha.",
+    "DICA DO ANDRÉ",
+    "Bandeja reutilizada? Lave antes de semear."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "10",
+    "ANOS",
+    "é até quanto uma tora de madeira bem dura dá shiitake.",
+    "Madeira mole, uns 5.",
+    "E MAIS UMA",
+    "O shiitake pode dobrar de tamanho num dia."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Cogumelo só para olhar",
+    "Galho e casca no canteiro",
+    "Planta regada e nutrida",
+    "Espaço entre os pés",
+    "Folha doente no lixo",
+    "Bandeja lavada",
+    "Chão sem flor morta",
+    "Tronco de cogumelo na sombra",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se aparecer cogumelo no seu quintal, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "059\tVOCÊ TEM",
+    "060",
+    "061",
+    "062",
+    "063",
+    "064",
+    "São 59 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 060 LESMA E CARACOL",
+    "Comente LESMA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/fungo-no-jardim/coringa-solo-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 131,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

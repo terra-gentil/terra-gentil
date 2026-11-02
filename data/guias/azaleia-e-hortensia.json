@@ -1,0 +1,439 @@
+{
+ "codigo": "TG048",
+ "slug": "azaleia-e-hortensia",
+ "titulo": "Azaleia e Hortênsia",
+ "capa": {
+  "src": "/guias/azaleia-e-hortensia/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Azaleia e Hortênsia"
+ },
+ "meta": {
+  "titulo": "Azaleia e hortênsia: guia grátis de flor",
+  "descricao": "Como cuidar de azaleia, hortênsia, camélia e gardênia, flores bonitas que vivem longe do sol forte. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG048.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t048",
+    "COLEÇÃO TERRA GENTIL",
+    "AZALEIA",
+    "Azaleia e Hortênsia",
+    "Flor bonita longe do sol forte.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/azaleia-e-hortensia/coringa-adubar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 163,
+     "alt": "André com um vaso de flores de meia-sombra"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Tem flor que gosta de meia-sombra.",
+    "Elas florescem bonito longe do sol forte.",
+    "Aqui tem azaleia, camélia, hortênsia e gardênia.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache o canto de meia-sombra da casa.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/azaleia-e-hortensia/coringa-luz-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 106,
+     "alt": "André num canto de meia-sombra do jardim"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Terra ácida.",
+    "Azaleia, camélia e hortênsia azul pedem terra ácida.",
+    "SOMBRA",
+    "Meia-sombra ou sombra filtrada.",
+    "Plantio raso."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da meia-sombra",
+    "06",
+    "CAPÍTULO 1",
+    "Terra e sombra",
+    "08",
+    "CAPÍTULO 2",
+    "Plantar e regar",
+    "12",
+    "CAPÍTULO 3",
+    "Poda e muda",
+    "15",
+    "CAPÍTULO 4",
+    "Flores de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Folha amarela na azaleia? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA MEIA-SOMBRA",
+    "Antes de plantar",
+    "O que elas pedem",
+    "LUZ",
+    "Sombra filtrada",
+    "TERRA",
+    "Ácida, que escoa",
+    "PLANTIO",
+    "Raso",
+    "ÁGUA",
+    "Úmida, sem encharcar",
+    "PODA",
+    "Depois da flor",
+    "CALCÁRIO\tATENÇÃO",
+    "Nunca na terra"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Terra e sombra",
+    "01\tCerto e errado",
+    "02\tPlantar, passo a passo",
+    "03\tFolha amarela"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/azaleia-e-hortensia/coringa-adubar-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André preparando terra rica"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Terra\tÁcida\tCalcário",
+    "Plantio\tRaso\tFundo",
+    "Luz\tFiltrada\tSol forte",
+    "Água\tÚmida\tEncharcada",
+    "Folha amarela quase sempre é drenagem ruim.",
+    "DICA DO ANDRÉ",
+    "A azaleia de vaso pode viver dentro de casa."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Plantar e regar",
+    "01\tPlantar, passo a passo",
+    "02\tRega e adubo",
+    "03\tFolha amarela"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/azaleia-e-hortensia/coringa-luz-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 152,
+     "alt": "André plantando na meia-sombra"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Plantar azaleia? Faça assim.",
+    "QUANDO",
+    "Passou a florada",
+    "TEMPO",
+    "30 minutos",
+    "PRECISA",
+    "Terra ácida e rica",
+    "1",
+    "LUGAR",
+    "Com sombra filtrada.",
+    "2",
+    "RASO",
+    "Raiz rasa: nada de cova funda.",
+    "3",
+    "COBRIR",
+    "Terra nova por cima, 1 vez no ano.",
+    "DICA DO ANDRÉ",
+    "No vaso é mais fácil acertar o que ela pede."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/azaleia-e-hortensia/aza-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 221,
+     "alt": "Mãos tirando uma azaleia do vaso depois da florada"
+    },
+    {
+     "src": "/guias/azaleia-e-hortensia/aza-gesto-2.webp",
+     "largura": 800,
+     "altura": 1433,
+     "kb": 245,
+     "alt": "Mãos plantando a azaleia rasa numa cova larga à sombra de uma árvore"
+    },
+    {
+     "src": "/guias/azaleia-e-hortensia/aza-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 250,
+     "alt": "Mãos espalhando uma camada de terra rica em volta da azaleia"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · REGA",
+    "Rega e adubo",
+    "Azaleia florida: terra úmida e nada de adubo.",
+    "Hortênsia florida: adubo a cada 10 dias.",
+    "Hortênsia em lugar seco pede mais sombra.",
+    "Camélia não aceita terra encharcada.",
+    "Azaleia que pegou: adubo de vez em quando."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Folha amarela na azaleia?",
+    "1",
+    "O QUE PARECE",
+    "Falta de adubo.",
+    "O QUE PODE SER",
+    "Encharcou, cova funda ou calcário.",
+    "COMO RESOLVER",
+    "Terra ácida que escoa, raso."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/azaleia-e-hortensia/aza-sintoma-1.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 254,
+     "alt": "Azaleia com folhas amareladas num vaso de terra encharcada"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Poda e muda",
+    "01\tEstaca de hortênsia",
+    "02\tA cor da hortênsia",
+    "03\tFlores de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/azaleia-e-hortensia/coringa-adubar-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 260,
+     "alt": "André com mudas de hortênsia"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · MUDA",
+    "Estaca de hortênsia",
+    "DE ONDE",
+    "Ponta de ramo",
+    "ENRAÍZA EM",
+    "2 a 4 semanas",
+    "VOCÊ VAI PRECISAR",
+    "Ponta de ramo de hortênsia",
+    "Vasinho com terra úmida",
+    "Dedos para beliscar o broto",
+    "Paciência flor no 2º ano",
+    "Cuidado",
+    "Estaca de azaleia queima no sol",
+    "Mergulhia de camélia leva até 2 anos"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · COR",
+    "ATENÇÃO",
+    "A cor da hortênsia depende da terra.",
+    "Terra ácida deixa azul; alcalina, rosa.",
+    "O azul mais bonito vem com alumínio.",
+    "FAÇA ASSIM",
+    "Quer azul? Terra ácida.",
+    "Camélia: poda logo depois da flor."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro flores",
+    "1",
+    "Azaleia",
+    "Sombra filtrada.",
+    "2",
+    "Camélia",
+    "Vaso encostado no muro.",
+    "3",
+    "Hortênsia",
+    "Bola ou renda.",
+    "4",
+    "Gardênia",
+    "Perfume forte.",
+    "CHAVE\tTerra ácida\tMeia-sombra"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/azaleia-e-hortensia/aza-var-azaleia.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 300,
+     "alt": "Azaleia coberta de flores rosa num vaso"
+    },
+    {
+     "src": "/guias/azaleia-e-hortensia/aza-var-camelia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 145,
+     "alt": "Camélia vermelha dobrada perto de um muro"
+    },
+    {
+     "src": "/guias/azaleia-e-hortensia/aza-var-hortensia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 209,
+     "alt": "Hortênsia azul de flor em bola"
+    },
+    {
+     "src": "/guias/azaleia-e-hortensia/aza-var-gardenia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 283,
+     "alt": "Gardênia de flor branca cerosa"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "FOLHA AMARELA",
+    "Terra encharcada.",
+    "HORTÊNSIA ROSA",
+    "Terra alcalina.",
+    "FLOR DA CAMÉLIA FEIA",
+    "Chuva.",
+    "AZALEIA SEM FLOR",
+    "Muda nova.",
+    "DICA DO ANDRÉ",
+    "Tire a flor murcha: a energia vai para crescer."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "24",
+    "M",
+    "de altura chegam alguns parentes da azaleia na natureza.",
+    "É um dos maiores gêneros que existem.",
+    "E MAIS UMA",
+    "O gênero das azaleias tem mais de 1.000 espécies, de anãs a árvores."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Canto de meia-sombra",
+    "Terra ácida",
+    "Sem calcário",
+    "Plantio raso",
+    "Úmida, sem encharcar",
+    "Flor murcha fora",
+    "Poda depois da flor",
+    "Estaca de hortênsia",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua hortênsia ficar azul, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "048\tVOCÊ TEM",
+    "049",
+    "050",
+    "051",
+    "052",
+    "053",
+    "São 48 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 049 BULBOS QUE VOLTAM",
+    "Comente BULBO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/azaleia-e-hortensia/coringa-luz-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 128,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

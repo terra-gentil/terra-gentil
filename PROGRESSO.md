@@ -1,4 +1,12 @@
 ﻿# PROGRESSO Terra Gentil
+## SUPER REVISAO DE SEO (02/11/2026)
+- **Teia de links:** `lib/temas.ts` agrupa os livros em 7 temas. Cada livro indica os do mesmo tema e o proximo da colecao (link quando ja tem pagina). `/guias` tem uma secao por tema com ancora (`/guias#orquideas`...). Posts do blog indicam 3 livros cada. Teste `__tests__/lib/temas.test.ts` falha se livro novo ficar sem tema. **Livro novo: incluir o codigo no tema em `lib/temas.ts`.**
+- **Antigos x novos:** `PAGINA_DO_EBOOK_ANTIGO` (lib/temas.ts) liga 11 PDFs antigos as paginas novas do mesmo assunto; cards do `/guias` e botao das noticias levam a pagina. PDF antigo e Instagram nao mudaram.
+- **Dados estruturados:** autor Andre (Person `#andre`) e marca (`#organization`) como entidades unicas em `lib/seo.ts`; `/guias` como CollectionPage com os 43 livros; datas com fuso (`dataIso`). Teste de pesquisa aprimorada do Google: 3 itens validos, zero avisos. Corrigido bug do `JsonLd.tsx` (escape de "<" nao funcionava).
+- **IndexNow:** chave em `public/a1901618331b09c04c6d4c460109c10e.txt`; `node scripts/guias/indexnow.mjs [slug]` (sem argumento manda o sitemap todo). Enviado 02/11: 77 URLs, resposta 202.
+- **Search Console:** indexacao pedida para /guias + 9 livros em 01/11 e anturio em 02/11 (cota estourou, renova 24h depois). **Proximos pedidos:** samambaias, bromelias, morango-no-vaso, horta-na-varanda, temperos-da-janela, cactos-e-babosa, casa-com-pet, planta-sem-sol, orquidea-doente, cattleya-e-dendrobium. Em 09/11: abrir Indexacao > Paginas e ver quantos livros entraram.
+- **Roteiro de livro novo ganhou:** (8) codigo no tema em `lib/temas.ts`; (9) `node scripts/guias/indexnow.mjs slug`; (10) pedir indexacao no Search Console.
+
 ## PAGINAS DE LIVRO: TG 004 A 046 NO AR (02/11/2026, madrugada)
 - 43 paginas no ar (TG 004 a 046), conferidas uma a uma: pagina 200, botao, PDF pelo Worker, sitemap e QA de contraste (43 de 43 ok). `/guias` ganhou a secao "Colecao Terra Gentil: leia no site" com as capas, acima da lista antiga.
 - Bug corrigido: botao de baixar do fim da pagina saia ambar sobre laranja (`.bp-content a` vencia `.lv-botao`). Estilos `lv-` de link agora com prefixo `.lv-pag`. QA novo: `scripts/guias/qa-contraste.js` (rodar no Chrome com a pagina aberta).

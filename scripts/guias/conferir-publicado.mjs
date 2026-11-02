@@ -41,4 +41,4 @@ if (falhas.length) {
   for (const f of falhas) console.error(`FALHA ${f}`);
   process.exit(1);
 }
-console.log('Pagina publicada e conferida.');
+console.log('Pagina publicada e conferida. Falta o QA visual: abrir no Chrome e rodar scripts/guias/qa-contraste.js (tem que dar ok).');

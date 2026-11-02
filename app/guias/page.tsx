@@ -8,6 +8,7 @@ import { INSTAGRAM_URL } from '@/lib/constants';
 import Image from 'next/image';
 import Link from 'next/link';
 import { listarGuias, totalEbooks } from '@/lib/guias';
+import { TEMAS, temaDe } from '@/lib/temas';
 
 export const metadata: Metadata = pageMetadata({
   title: 'Ebooks',
@@ -108,24 +109,36 @@ export default function GuiasPage() {
             <p className="gu-livros-sub">
               {livros.length} livros curtos para ler aqui mesmo, com o PDF grátis para baixar no fim.
             </p>
-            <div className="gu-grid gu-grid--livros">
-              {livros.map((g) => (
-                <Link key={g.slug} className="gu-card" href={`/guias/${g.slug}`}>
-                  <div className="gu-cover gu-cover--livro">
-                    {g.capa && (
-                      <Image src={g.capa.src} alt={g.capa.alt} fill sizes="(max-width: 720px) 45vw, 180px" className="gu-cover-img" />
-                    )}
+            {TEMAS.map((t) => {
+              const doTema = livros.filter((g) => temaDe(g.codigo).id === t.id);
+              if (!doTema.length) return null;
+              return (
+                <section key={t.id} id={t.id} className="gu-tema" aria-labelledby={`tema-${t.id}`}>
+                  <h3 id={`tema-${t.id}`} className="gu-tema-titulo">
+                    {t.nome} <span className="gu-tema-n">{doTema.length}</span>
+                  </h3>
+                  <p className="gu-tema-chamada">{t.chamada}</p>
+                  <div className="gu-grid gu-grid--livros">
+                    {doTema.map((g) => (
+                      <Link key={g.slug} className="gu-card" href={`/guias/${g.slug}`}>
+                        <div className="gu-cover gu-cover--livro">
+                          {g.capa && (
+                            <Image src={g.capa.src} alt={g.capa.alt} fill sizes="(max-width: 720px) 45vw, 180px" className="gu-cover-img" />
+                          )}
+                        </div>
+                        <div className="gu-card-meta">
+                          <div className="gu-card-title">{g.titulo}</div>
+                          <div className="gu-card-row">
+                            <div className="gu-card-cat">{g.codigo.replace('TG', 'TG ')}</div>
+                            <div className="gu-card-dl">Ler →</div>
+                          </div>
+                        </div>
+                      </Link>
+                    ))}
                   </div>
-                  <div className="gu-card-meta">
-                    <div className="gu-card-title">{g.titulo}</div>
-                    <div className="gu-card-row">
-                      <div className="gu-card-cat">{g.codigo.replace('TG', 'TG ')}</div>
-                      <div className="gu-card-dl">Ler →</div>
-                    </div>
-                  </div>
-                </Link>
-              ))}
-            </div>
+                </section>
+              );
+            })}
           </div>
         </section>
       )}

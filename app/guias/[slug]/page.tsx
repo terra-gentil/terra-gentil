@@ -9,6 +9,7 @@ import JsonLd from '@/components/seo/JsonLd';
 import LivroTracker from '@/components/analytics/LivroTracker';
 import { PDF_BASE_URL, SITE_NAME, SITE_URL } from '@/lib/constants';
 import { lerGuia, listarGuias, montarGuia, textoDe, type Guia } from '@/lib/guias';
+import { temaDe } from '@/lib/temas';
 import { Blocos, Fotos, fotosNosPassos } from './Blocos';
 
 // Fontes do livro (as mesmas do PDF). Auto-hospedadas pelo Next, so carregam nesta rota.
@@ -99,7 +100,15 @@ export default async function GuiaPage({ params }: { params: Promise<{ slug: str
 
   const m = montarGuia(guia);
   const path = `/guias/${guia.slug}`;
-  const outros = listarGuias().filter((g) => g.slug !== guia.slug).slice(0, 3);
+  // Teia de links internos: livros do mesmo tema (os seguintes primeiro) e o proximo da colecao.
+  const todos = listarGuias();
+  const tema = temaDe(guia.codigo);
+  const outros = todos
+    .filter((g) => g.slug !== guia.slug && tema.codigos.includes(g.codigo))
+    .sort((a, b) => Number(a.codigo < guia.codigo) - Number(b.codigo < guia.codigo) || a.codigo.localeCompare(b.codigo))
+    .slice(0, 4);
+  const numProximo = m.proximo?.match(/TG\s*(\d{3})/)?.[1];
+  const proximoGuia = numProximo ? todos.find((g) => g.codigo === `TG${numProximo}`) : undefined;
 
   const artigo = {
     '@context': 'https://schema.org',
@@ -252,19 +261,34 @@ export default async function GuiaPage({ params }: { params: Promise<{ slug: str
             <h2>Leve o livro com você</h2>
             <p>Tudo isso em PDF, para ler no celular ou imprimir. De graça, como toda a coleção.</p>
             <CartaoBaixar guia={guia} posicao="fim" />
-            {m.proximo && <p>{m.proximo}</p>}
+            {m.proximo &&
+              (proximoGuia ? (
+                <p>
+                  <Link href={`/guias/${proximoGuia.slug}`}>{m.proximo} →</Link>
+                </p>
+              ) : (
+                <p>{m.proximo}</p>
+              ))}
           </section>
 
-          <ul className="lv-mais" aria-label="Veja também">
-            {outros.map((o) => (
-              <li key={o.slug}>
-                <Link href={`/guias/${o.slug}`}>Se gostou, leia: {o.titulo} →</Link>
+          <nav className="lv-mais-bloco" aria-labelledby="lv-mais-titulo">
+            <h2 id="lv-mais-titulo" className="lv-mais-titulo">
+              Mais livros de {tema.nome.toLowerCase()}
+            </h2>
+            <ul className="lv-mais">
+              {outros.map((o) => (
+                <li key={o.slug}>
+                  <Link href={`/guias/${o.slug}`}>{o.titulo} →</Link>
+                </li>
+              ))}
+              <li>
+                <Link href={`/guias#${tema.id}`}>Todos os livros de {tema.nome.toLowerCase()} →</Link>
               </li>
-            ))}
-            <li>
-              <Link href="/guias">Ver todos os ebooks da coleção →</Link>
-            </li>
-          </ul>
+              <li>
+                <Link href="/guias">Ver todos os ebooks da coleção →</Link>
+              </li>
+            </ul>
+          </nav>
         </div>
       </div>
     </article>

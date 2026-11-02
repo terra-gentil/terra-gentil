@@ -1,7 +1,7 @@
 # PROGRESSO Terra Gentil
 ## LEVA 6: TG 055 A 070 ESCRITOS, FOTOS NO FLOW EM ANDAMENTO (02/11/2026, tarde)
 - Ritmo combinado com o Andre: livros + fotos no mesmo dia, limitado pela cota do Flow (~190 fotos/dia nas duas contas = ~23 livros/dia). Estoque da biblia: ~60 livros novos possiveis (4.315 fatos livres, ~28 unicos por livro).
-- 16 livros escritos por 8 agentes em paralelo, 2 cada. Fatos divididos antes em `ebooksabrica\pools\pool-NNN-NNN.txt` (`pools\montar.mjs`: especie exclusiva por livro, compartilhadas em rodizio), brief em `pools\BRIEF.md`. Checado: zero fato repetido entre os 16 e os antigos.
+- 16 livros escritos por 8 agentes em paralelo, 2 cada. Fatos divididos antes em `ebooks\fabrica\pools\pool-NNN-NNN.txt` (`pools\montar.mjs`: especie exclusiva por livro, compartilhadas em rodizio), brief em `pools\BRIEF.md`. Checado: zero fato repetido entre os 16 e os antigos.
 - Todos: 19 paginas, sem estouro, `validar.mjs` ok, fila de 8 fotos em `gama-ebooksila-fotos-tgNNN.json` (2 com Gentileza, lugar dito).
 | TG | Titulo | Palavra | Prefixo |
 |---|---|---|---|

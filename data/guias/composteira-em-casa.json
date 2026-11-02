@@ -1,0 +1,439 @@
+{
+ "codigo": "TG022",
+ "slug": "composteira-em-casa",
+ "titulo": "Composteira em Casa",
+ "capa": {
+  "src": "/guias/composteira-em-casa/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Composteira em Casa"
+ },
+ "meta": {
+  "titulo": "Composteira em casa: guia grátis de compostagem",
+  "descricao": "Como fazer composteira em casa e transformar resto de cozinha em terra boa para as plantas. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG022.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t022",
+    "COLEÇÃO TERRA GENTIL",
+    "COMPOSTAGEM",
+    "Composteira em Casa",
+    "Resto de cozinha vira terra.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/composteira-em-casa/coringa-compostagem-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 175,
+     "alt": "André com uma composteira"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Metade do lixo da cozinha pode virar comida de planta.",
+    "O composto alimenta, segura água e protege a planta.",
+    "Aqui eu te mostro a conta, a montagem e o cheiro.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Separe num pote a casca e o resto de verdura do dia.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/composteira-em-casa/coringa-horta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André com um balde de restos de verdura"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Muito marrom, pouco verde.",
+    "Palha e folha seca em quantidade; resto de cozinha em pouca.",
+    "ÚMIDO, SEM PINGAR",
+    "Como esponja espremida: molhado ao toque, sem escorrer.",
+    "Fedeu? Faltou ar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do composto",
+    "06",
+    "CAPÍTULO 1",
+    "Verde e marrom",
+    "08",
+    "CAPÍTULO 2",
+    "Montar a composteira",
+    "12",
+    "CAPÍTULO 3",
+    "Quente ou fria",
+    "15",
+    "CAPÍTULO 4",
+    "De perto, sem confusão",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Composteira fedendo? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO COMPOSTO",
+    "Composteira",
+    "O que ela pede",
+    "MARROM",
+    "Muito: palha e folha seca",
+    "VERDE",
+    "Pouco: resto de cozinha",
+    "ÁGUA",
+    "Esponja espremida",
+    "PRONTO",
+    "Escuro, solto, cheiro de mata",
+    "TEMPO",
+    "Fria: um ano ou mais",
+    "PET\tATENÇÃO",
+    "Tampe bem: cão e gato reviram"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Verde e marrom",
+    "01\tO que entra",
+    "02\tMontar, passo a passo",
+    "03\tFedor"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/composteira-em-casa/coringa-compostagem-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 134,
+     "alt": "André separando restos"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O QUE ENTRA",
+    "Entra ou não entra?",
+    "MATERIAL\tENTRA?\tCUIDADO",
+    "Folha seca\tSim, muito\tNão empapar",
+    "Resto de cozinha\tSim, pouco\tCamada fina",
+    "Serragem\tPouca\tDeixa ácido",
+    "Carne e queijo\tMelhor não\tAtrai bicho",
+    "Quanto mais variado o que entra, melhor o composto.",
+    "DICA DO ANDRÉ",
+    "Com minhoca, deixe de fora cítrico e comida temperada."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Montar a composteira",
+    "01\tEm lasanha",
+    "02\tDe graça",
+    "03\tFedor"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/composteira-em-casa/coringa-compostagem-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 187,
+     "alt": "André montando uma composteira"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Montar em lasanha? Faça assim.",
+    "QUANDO",
+    "Qualquer época",
+    "TEMPO",
+    "30 minutos",
+    "PRECISA",
+    "Palha, resto verde e terra",
+    "1",
+    "PALHA EMBAIXO",
+    "Camada marrom primeiro.",
+    "2",
+    "VERDE FININHO",
+    "No máximo 2 a 3 cm.",
+    "3",
+    "TERRA POR CIMA",
+    "Uns 1 cm, e repita.",
+    "DICA DO ANDRÉ",
+    "Aperte um punhado: tem que parecer esponja espremida, sem pingar."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/composteira-em-casa/com-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 233,
+     "alt": "Mãos espalhando palha seca no fundo de uma composteira"
+    },
+    {
+     "src": "/guias/composteira-em-casa/com-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 166,
+     "alt": "Mão apertando um punhado de composto úmido"
+    },
+    {
+     "src": "/guias/composteira-em-casa/com-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 269,
+     "alt": "Mãos revirando o composto com um garfo de jardim"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · DE GRAÇA",
+    "Composteira de graça",
+    "Quatro paletes amarrados nos cantos já são uma composteira.",
+    "Com 10 paletes você faz três baias, uma ao lado da outra.",
+    "Para esquentar, ela precisa de pelo menos 90 cm de cada lado.",
+    "Caixas empilhadas com minhoca: cheia a do meio, use e troque.",
+    "Só folha seca? Monte, molhe e espere: vira terra de folha."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Composteira fedendo?",
+    "1",
+    "O QUE PARECE",
+    "Composteira é assim mesmo.",
+    "O QUE PODE SER",
+    "Falta de ar: verde demais e molhado.",
+    "COMO RESOLVER",
+    "Ponha mais material seco e revire para entrar ar."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/composteira-em-casa/com-sintoma-1.webp",
+     "largura": 700,
+     "altura": 1254,
+     "kb": 261,
+     "alt": "Composteira encharcada com grama cortada empapada"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Quente ou fria",
+    "01\tAntes de esquentar",
+    "02\tO que não pode",
+    "03\tQuatro de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/composteira-em-casa/coringa-solo-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 131,
+     "alt": "André com terra escura nas mãos"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · QUENTE",
+    "Antes de esquentar",
+    "QUANDO",
+    "Com muito material junto",
+    "DE NOVO EM",
+    "Quando a temperatura cair",
+    "VOCÊ VAI PRECISAR",
+    "Espaço de 90 cm de cada lado",
+    "Palha em quantidade",
+    "Resto verde de uma vez",
+    "Garfo para revirar",
+    "Cuidado",
+    "Água de esponja espremida",
+    "Mão para sentir o calor"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · QUENTE OU FRIA",
+    "ATENÇÃO",
+    "Mato com semente não vai para a composteira fria.",
+    "Nem raiz de capim que rebrota pela raiz.",
+    "Composto de lodo de esgoto pode ter metal pesado.",
+    "FAÇA ASSIM",
+    "Grama com herbicida? Fora da composteira.",
+    "Composto de cozinha sozinho não serve para vaso."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro de perto",
+    "1",
+    "De paletes",
+    "De graça, cabe muito.",
+    "2",
+    "Com minhoca",
+    "Caixas empilhadas.",
+    "3",
+    "Monte de folha",
+    "Vira terra de folha.",
+    "4",
+    "Composto pronto",
+    "Escuro e solto.",
+    "CHAVE\tMuito marrom\tÚmido, sem pingar"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/composteira-em-casa/com-var-paletes.webp",
+     "largura": 800,
+     "altura": 1071,
+     "kb": 262,
+     "alt": "Composteira feita de paletes de madeira"
+    },
+    {
+     "src": "/guias/composteira-em-casa/com-var-minhoca.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 231,
+     "alt": "Caixas empilhadas de minhocário"
+    },
+    {
+     "src": "/guias/composteira-em-casa/com-var-folhas.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 300,
+     "alt": "Monte de folhas secas no canto do quintal"
+    },
+    {
+     "src": "/guias/composteira-em-casa/com-var-pronto.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 172,
+     "alt": "Composto pronto, escuro e solto, nas mãos"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "CHEIRO DE PODRE",
+    "Falta ar. Seco e revire.",
+    "SEM LÍQUIDO",
+    "Seco demais. Resto úmido.",
+    "FOLHA EMPAPADA",
+    "Camada grossa. Misture.",
+    "GRAMA GOSMENTA",
+    "Camada de no máximo 3 cm.",
+    "DICA DO ANDRÉ",
+    "Quando a composteira quente esfria, é hora de revirar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "71",
+    "GRAUS",
+    "pode chegar a composteira quente em poucos dias.",
+    "É esse calor que mata semente de mato.",
+    "E MAIS UMA",
+    "Composto segura até seis vezes o próprio peso em água."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Separe o resto de cozinha",
+    "Junte folha seca e palha",
+    "Monte em lasanha",
+    "Verde em camada fina",
+    "Úmido como esponja",
+    "Fedeu? Seco e revire",
+    "Carne e queijo fora",
+    "Paletes viram composteira",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se o seu composto sair cheirando a mata, me conta. E dá um balde para alguém. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "022\tVOCÊ TEM",
+    "023",
+    "024",
+    "025",
+    "026",
+    "027",
+    "São 22 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 023 ARMADILHAS E ALIADOS",
+    "Comente ALIADO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/composteira-em-casa/coringa-adubar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 163,
+     "alt": "Retrato do André com um balde de composto"
+    }
+   ]
+  }
+ ]
+}

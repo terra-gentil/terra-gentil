@@ -1,0 +1,439 @@
+{
+ "codigo": "TG028",
+ "slug": "arvore-no-quintal",
+ "titulo": "Árvore no Quintal",
+ "capa": {
+  "src": "/guias/arvore-no-quintal/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Árvore no Quintal"
+ },
+ "meta": {
+  "titulo": "Árvore no quintal: guia grátis para escolher e plantar",
+  "descricao": "Como escolher a árvore certa para o seu quintal, plantar do jeito certo e ver crescer sem pressa. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG028.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t028",
+    "COLEÇÃO TERRA GENTIL",
+    "QUINTAL",
+    "Árvore no Quintal",
+    "Escolher, plantar e ver crescer.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arvore-no-quintal/jabuticabeira-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 164,
+     "alt": "André junto de uma árvore"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "A melhor hora de plantar uma árvore foi há 20 anos.",
+    "A segunda melhor hora é agora.",
+    "Aqui eu te mostro como escolher e plantar a sua, sem dor de cabeça.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Meça o espaço livre e anote onde bate sol.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arvore-no-quintal/jabuticabeira-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 161,
+     "alt": "André no quintal"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Escolha sem pressa.",
+    "Árvore errada vira anos de dor de cabeça e acaba cortada.",
+    "PENSE EM 20 ANOS",
+    "Altura, copa, sombra e a folha que vai cair.",
+    "Buraco largo, não fundo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da árvore",
+    "06",
+    "CAPÍTULO 1",
+    "Escolher certo",
+    "08",
+    "CAPÍTULO 2",
+    "Plantar",
+    "12",
+    "CAPÍTULO 3",
+    "O primeiro ano",
+    "15",
+    "CAPÍTULO 4",
+    "Árvore em vaso",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Árvore nova parada? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA ÁRVORE",
+    "Antes de cavar",
+    "O que ela pede",
+    "LUZ",
+    "Sol para flor e fruta",
+    "ESPAÇO",
+    "Copa adulta livre",
+    "RAIZ",
+    "Longe de cano e casa",
+    "BURACO",
+    "Largo, não fundo",
+    "COBERTURA",
+    "Composto longe do tronco",
+    "VIZINHO\tATENÇÃO",
+    "Converse antes de plantar"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Escolher certo",
+    "01\tMuda boa",
+    "02\tPlantar, passo a passo",
+    "03\tÁrvore parada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arvore-no-quintal/jabuticabeira-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 240,
+     "alt": "André escolhendo uma muda"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · A MUDA",
+    "Muda boa",
+    "O QUE\tCERTO\tERRO",
+    "Idade\t2 a 4 anos\tMuda velha",
+    "Raiz\tSolta no vaso\tTomando tudo",
+    "Cova\tTerra da cova\tCheia de esterco",
+    "Bicho\tNativa\tSó de fora",
+    "Pouca luz? Copa rala, de sombra pintada.",
+    "DICA DO ANDRÉ",
+    "Para chamar passarinho, plante árvore da sua região."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Plantar",
+    "01\tPlantar, passo a passo",
+    "02\tTutor e cobertura",
+    "03\tÁrvore parada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arvore-no-quintal/jabuticabeira-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 214,
+     "alt": "André com uma pá"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Plantar a árvore? Faça assim.",
+    "QUANDO",
+    "Com o torrão encharcado",
+    "TEMPO",
+    "1 hora",
+    "PRECISA",
+    "Pá, estaca e cabo de vassoura",
+    "1",
+    "BURACO",
+    "Quadrado, largo, raso.",
+    "2",
+    "NO NÍVEL",
+    "Torrão rente ao chão.",
+    "3",
+    "FIRME",
+    "Regue aos poucos e pise.",
+    "DICA DO ANDRÉ",
+    "Atravesse um cabo de vassoura no buraco para conferir o nível."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arvore-no-quintal/arv-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 273,
+     "alt": "Mãos cavando um buraco quadrado e largo"
+    },
+    {
+     "src": "/guias/arvore-no-quintal/arv-gesto-2.webp",
+     "largura": 800,
+     "altura": 1433,
+     "kb": 279,
+     "alt": "Cabo de vassoura atravessado sobre o buraco com o torrão"
+    },
+    {
+     "src": "/guias/arvore-no-quintal/arv-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 293,
+     "alt": "Mãos regando a terra em volta da árvore recém-plantada"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · TUTOR",
+    "Tutor e cobertura",
+    "Estaca do lado de onde vem o vento.",
+    "Sem tutor, o vento rasga as raízes novas.",
+    "Meia-calça velha amarra sem cortar a casca.",
+    "Afrouxe a amarra conforme o tronco engrossa.",
+    "Cubra em volta com composto, sem encostar no tronco."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Árvore nova parada?",
+    "1",
+    "O QUE PARECE",
+    "Falta de adubo.",
+    "O QUE PODE SER",
+    "Mato colado roubando água.",
+    "COMO RESOLVER",
+    "Círculo de 1 m sem mato em volta."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arvore-no-quintal/arv-sintoma-1.webp",
+     "largura": 700,
+     "altura": 1254,
+     "kb": 244,
+     "alt": "Árvore nova com mato e grama colados no tronco"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "O primeiro ano",
+    "01\tCuidado do primeiro ano",
+    "02\tRaiz e casa",
+    "03\tÁrvore em vaso"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arvore-no-quintal/jabuticabeira-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 204,
+     "alt": "André cuidando da árvore"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CUIDADO",
+    "Cuidado do primeiro ano",
+    "QUANDO",
+    "Logo depois de plantar",
+    "DE NOVO EM",
+    "Quando o tronco engrossar",
+    "VOCÊ VAI PRECISAR",
+    "Composto\t8 cm em volta",
+    "Meia-calça para amarrar",
+    "Tesoura para galho cruzado",
+    "Enxada para tirar o mato",
+    "Cuidado",
+    "Tronco livre do composto",
+    "Duas pontas tire a mais fraca"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · RAIZ",
+    "ATENÇÃO",
+    "Raiz não vai lá no fundo: fica nos primeiros 60 cm.",
+    "E se espalha até três vezes o raio da copa.",
+    "Árvore grande colada na casa pode entrar no cano.",
+    "FAÇA ASSIM",
+    "Árvore grande longe da casa e da calçada.",
+    "Na calçada? Fale antes com a prefeitura."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · EM VASO",
+    "Quatro de vaso",
+    "1",
+    "Limoeiro",
+    "Flor e fruta juntas.",
+    "2",
+    "Figueira",
+    "Raiz apertada dá figo.",
+    "3",
+    "Oliveira",
+    "Lenta e resistente.",
+    "4",
+    "Louro",
+    "Vaso grande e úmido.",
+    "CHAVE\tSol no vaso\tTerra nova todo ano"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arvore-no-quintal/arv-var-limoeiro.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 241,
+     "alt": "Limoeiro com flor e fruto num vaso grande"
+    },
+    {
+     "src": "/guias/arvore-no-quintal/arv-var-figueira.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 204,
+     "alt": "Figueira com figos num vaso"
+    },
+    {
+     "src": "/guias/arvore-no-quintal/arv-var-oliveira.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 292,
+     "alt": "Oliveira pequena num vaso de barro"
+    },
+    {
+     "src": "/guias/arvore-no-quintal/arv-var-louro.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 221,
+     "alt": "Loureiro podado num vaso"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "MUDA TOMBOU",
+    "Faltou tutor contra o vento.",
+    "FIGUEIRA SEM FIGO",
+    "Vaso grande demais.",
+    "LIMOEIRO GRUDENTO",
+    "Cochonilha. Olho vivo.",
+    "OLIVEIRA SÓ BROTO",
+    "Poda forte demais.",
+    "DICA DO ANDRÉ",
+    "Perto de árvore grande, evite cavar: você corta as raízes."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "2.000",
+    "ANOS",
+    "tem a oliveira mais velha que se conhece.",
+    "A média de vida dela é de 300 a 600 anos.",
+    "E MAIS UMA",
+    "A flor da figueira fica escondida dentro do figo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Pense na árvore adulta",
+    "Muda de 2 a 4 anos",
+    "Buraco largo e raso",
+    "Torrão no nível do chão",
+    "Tutor do lado do vento",
+    "Composto longe do tronco",
+    "Círculo de 1 m sem mato",
+    "Afrouxe a amarra",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua árvore pegar, me conta. E planta uma muda na praça, com licença. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "028\tVOCÊ TEM",
+    "029",
+    "030",
+    "031",
+    "032",
+    "033",
+    "São 28 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 029 ROSEIRA NO VASO",
+    "Comente ROSEIRA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arvore-no-quintal/jabuticabeira-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 116,
+     "alt": "Retrato do André no quintal"
+    }
+   ]
+  }
+ ]
+}

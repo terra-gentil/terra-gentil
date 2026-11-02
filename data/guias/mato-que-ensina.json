@@ -1,0 +1,439 @@
+{
+ "codigo": "TG006",
+ "slug": "mato-que-ensina",
+ "titulo": "O Mato que Ensina",
+ "capa": {
+  "src": "/guias/mato-que-ensina/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro O Mato que Ensina"
+ },
+ "meta": {
+  "titulo": "O mato que ensina: o que ele diz da sua terra",
+  "descricao": "Cada mato que nasce conta como está a sua terra. Aprenda a ler o chão e a não deixar ele pelado. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG006.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t006",
+    "COLEÇÃO TERRA GENTIL",
+    "CUIDADO",
+    "O Mato que Ensina",
+    "Ele conta como está a sua terra.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-que-ensina/coringa-mato-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 242,
+     "alt": "André olhando o mato no quintal"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Muita gente capina o quintal todo mês e o mato volta igualzinho.",
+    "Não é falta de força. O mato é um recado da terra.",
+    "Aqui eu te ensino a ler esse recado e tirar o mato sem veneno.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache o mato que mais aparece no seu quintal.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-que-ensina/coringa-mato-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 175,
+     "alt": "André agachado ao lado de um canteiro"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Não deixe o chão pelado.",
+    "O mato nasce quando a terra pega sol. Chão coberto de palha fica bem mais limpo.",
+    "O SEGREDO DA PALHA",
+    "Muita semente de mato precisa de luz. Debaixo de uma camada grossa de palha, ela não nasce.",
+    "Camada fina não adianta: a semente atravessa."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da tiririca",
+    "06",
+    "CAPÍTULO 1",
+    "O que o mato diz",
+    "08",
+    "CAPÍTULO 2",
+    "Tirar sem veneno",
+    "12",
+    "CAPÍTULO 3",
+    "Chão coberto",
+    "15",
+    "CAPÍTULO 4",
+    "De perto, sem confusão",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Cortou e voltou? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO MATO",
+    "Tiririca",
+    "A campeã de voltar depois da capina",
+    "ONDE",
+    "Canteiro, horta e quintal",
+    "COMO É",
+    "Caule de três quinas, liso, sem galho",
+    "SINAL",
+    "Volta igual depois de cortar",
+    "QUANDO",
+    "Nasce das batatinhas debaixo da terra",
+    "DIFICULDADE",
+    "Difícil: pede paciência",
+    "VENENO\tZERO",
+    "Arranque com a batatinha"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "O que o mato diz",
+    "01\tO mato que fala",
+    "02\tPor que ele nasce",
+    "03\tO fogo não limpa"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-que-ensina/coringa-mato-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 201,
+     "alt": "André observando o mato do terreno"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O RECADO",
+    "O que o seu mato diz?",
+    "MATO\tMUITO\tA TERRA",
+    "Guanxuma\tMuita\tSocada",
+    "Grama-seda\tMuita\tSocada",
+    "Sapé\tMuito\tÁcida e pobre",
+    "Samambaia\tNativa\tAlumínio alto",
+    "Guanxuma alta e forte é terra fértil. Pequena e torta, terra pobre.",
+    "DICA DO ANDRÉ",
+    "Mudou a terra, muda o mato. Ele é um retrato do chão."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Tirar sem veneno",
+    "01\tArrancar com a raiz",
+    "02\tO mato só nasce no sol",
+    "03\tCortou e voltou"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-que-ensina/coringa-mato-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 268,
+     "alt": "André tirando mato do canteiro"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Mato no canteiro? Faça assim.",
+    "QUANDO",
+    "Assim que der para ver",
+    "TEMPO",
+    "15 minutos",
+    "PRECISA",
+    "Mãos, luva e palha",
+    "1",
+    "MOLHE ANTES",
+    "Terra fofa solta a raiz inteira.",
+    "2",
+    "PUXE PELA BASE",
+    "Devagar, com raiz e tudo.",
+    "3",
+    "CUBRA O CHÃO",
+    "Palha grossa onde ficou pelado.",
+    "DICA DO ANDRÉ",
+    "Tire o mato antes de ele fazer semente. Mato tirado com raiz inteira não rebrota."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-que-ensina/mat-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 241,
+     "alt": "Mão regando o canteiro antes de tirar o mato"
+    },
+    {
+     "src": "/guias/mato-que-ensina/mat-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 291,
+     "alt": "Mão puxando o mato pela base com a raiz inteira"
+    },
+    {
+     "src": "/guias/mato-que-ensina/mat-gesto-3.webp",
+     "largura": 800,
+     "altura": 1433,
+     "kb": 249,
+     "alt": "Mãos espalhando palha sobre a terra"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · SEM VENENO",
+    "O mato só nasce no sol",
+    "Na natureza não existe chão pelado. A terra guarda semente esperando a vez.",
+    "Bateu sol no chão limpo, elas nascem. A capina chama mais mato.",
+    "Lona transparente na terra úmida, no sol, mata a maioria das sementes.",
+    "Mais fácil ainda: plante alguma coisa ou cubra com palha.",
+    "O susto: queimar parece adubar. Dura 1 ou 2 anos e a terra fica mais pobre."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Cortou e o mato voltou?",
+    "1",
+    "O QUE PARECE",
+    "Não arrancou direito.",
+    "O QUE PODE SER",
+    "Tiririca, grama-seda ou losna, que voltam da raiz.",
+    "COMO RESOLVER",
+    "Cortar a folha não basta. Cave e tire a batatinha da tiririca e os fios da raiz da grama-seda."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-que-ensina/mat-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 271,
+     "alt": "Tiririca brotando de novo no canteiro capinado"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Chão coberto",
+    "01\tAntes de começar",
+    "02\tFogo não limpa",
+    "03\tQuem nasce no seu chão"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-que-ensina/coringa-mato-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 277,
+     "alt": "André com a palha no canteiro"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CHÃO COBERTO",
+    "Antes de começar",
+    "QUANDO",
+    "Logo depois de tirar o mato",
+    "DE NOVO EM",
+    "Quando a palha afinar",
+    "VOCÊ VAI PRECISAR",
+    "Palha seca: folha, capim ou casca",
+    "Aparas de grama secas",
+    "Bagaço de cana ou serragem",
+    "Enxada para soltar a terra dura",
+    "Luva",
+    "Lona transparente , se quiser esquentar o chão",
+    "Mudas para cobrir o chão de vez"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · CHÃO COBERTO",
+    "ATENÇÃO",
+    "Não queime o mato.",
+    "O fogo deixa o chão duro, seco e pelado. E depois da queimada nasce ainda mais mato.",
+    "É barato hoje e muito caro depois.",
+    "FAÇA ASSIM",
+    "Corte, deixe o mato cortado no chão e cubra com palha.",
+    "Precisou de fogo para limpar? O jeito de cuidar do terreno está errado."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro de quintal",
+    "1",
+    "Tiririca",
+    "Caule de três quinas. Volta da batatinha.",
+    "2",
+    "Trapoeraba",
+    "Cada nó no chão vira planta nova.",
+    "3",
+    "Picão-preto",
+    "O carrapicho que gruda na roupa.",
+    "4",
+    "Beldroega",
+    "Rasteira e carnuda, de caule vermelho.",
+    "CHAVE\tVolta da raiz\tVolta da semente"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-que-ensina/mat-var-tiririca.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 284,
+     "alt": "Tiririca no canteiro"
+    },
+    {
+     "src": "/guias/mato-que-ensina/mat-var-trapoeraba.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 231,
+     "alt": "Trapoeraba no chão úmido"
+    },
+    {
+     "src": "/guias/mato-que-ensina/mat-var-picao.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 258,
+     "alt": "Picão-preto com as sementes de carrapicho"
+    },
+    {
+     "src": "/guias/mato-que-ensina/mat-var-beldroega.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 282,
+     "alt": "Beldroega na calçada"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Por onde ele volta",
+    "BATATINHA",
+    "Tiririca: tire a batatinha debaixo da terra.",
+    "FIO NA TERRA",
+    "Grama-seda corre por cima e por baixo do chão.",
+    "PEDAÇO DE RAMA",
+    "Trapoeraba: recolha tudo, nada fica no chão.",
+    "SEMENTE",
+    "Picão-preto: tire antes de soltar o carrapicho.",
+    "DICA DO ANDRÉ",
+    "Antes de combater, veja de onde ele veio: esterco e terra comprada trazem semente."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "MAIS",
+    "20 °C",
+    "na terra coberta com lona transparente no sol.",
+    "Esse calor mata a maioria das sementes de mato. Chama solarização.",
+    "E MAIS UMA",
+    "Guanxuma tem caule tão duro que já foi usada para fazer vassoura."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Tire o mato antes de fazer semente",
+    "Molhe a terra antes de arrancar",
+    "Cubra o chão com palha grossa",
+    "Tiririca? Cave e tire a batatinha",
+    "Nada de fogo para limpar",
+    "Desconfie da terra e do esterco com semente",
+    "Plante para o chão não ficar pelado",
+    "Repare qual mato mais aparece",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se o seu quintal ficar livre do mato sem veneno, me conta. E ensina o truque da palha. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "006\tVOCÊ TEM",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "São 11 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 007 MUDAS DE GRAÇA",
+    "Comente MUDA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-que-ensina/coringa-mato-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 275,
+     "alt": "Retrato do André no quintal"
+    }
+   ]
+  }
+ ]
+}

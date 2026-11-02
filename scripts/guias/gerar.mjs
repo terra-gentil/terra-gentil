@@ -24,17 +24,22 @@ const saidaFotos = join('public', 'guias', slug);
 mkdirSync(saidaFotos, { recursive: true });
 mkdirSync(join('data', 'guias'), { recursive: true });
 
-// Foto -> webp 1000px (qualidade 68). Nome do arquivo vem do original.
+// Foto -> webp 1000px (qualidade 68, ou menor se passar de 300 KB). Nome do arquivo vem do original.
 const feitas = new Map();
 async function otimizar(src) {
   if (feitas.has(src)) return feitas.get(src);
   const nome = `${basename(src, extname(src))}.webp`;
   const origem = join(pasta, src);
   if (!existsSync(origem)) throw new Error(`Foto ausente: ${origem}`);
-  const info = await sharp(origem)
-    .resize({ width: 1000, withoutEnlargement: true })
-    .webp({ quality: 68, effort: 6 })
-    .toFile(join(saidaFotos, nome));
+  // Foto 2K com muito detalhe passa de 300 KB: baixa a qualidade e depois a largura em degraus ate caber.
+  let info;
+  for (const [width, quality] of [[1000, 68], [1000, 58], [1000, 50], [900, 50], [800, 50], [700, 48]]) {
+    info = await sharp(origem)
+      .resize({ width, withoutEnlargement: true })
+      .webp({ quality, effort: 6 })
+      .toFile(join(saidaFotos, nome));
+    if (info.size <= 300 * 1024) break;
+  }
   const ref = { src: `/guias/${slug}/${nome}`, largura: info.width, altura: info.height, kb: Math.round(info.size / 1024) };
   feitas.set(src, ref);
   return ref;

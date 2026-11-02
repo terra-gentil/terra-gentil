@@ -1,0 +1,439 @@
+{
+ "codigo": "TG004",
+ "slug": "cactos-e-babosa",
+ "titulo": "Cactos e Babosa",
+ "capa": {
+  "src": "/guias/cactos-e-babosa/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Cactos e Babosa"
+ },
+ "meta": {
+  "titulo": "Cactos e babosa: guia grátis de sol e rega",
+  "descricao": "Como cuidar de cacto e babosa: quanto sol, quanta água e como mexer sem se espetar. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG004.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t004",
+    "COLEÇÃO TERRA GENTIL",
+    "ESPÉCIE",
+    "Cactos e Babosa",
+    "Sol, pouca água, nada de espinho.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cactos-e-babosa/cacto-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 126,
+     "alt": "André com um cacto no vaso"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Muita gente me conta que matou até cacto.",
+    "Calma. Quase sempre é carinho errado: sombra e água demais.",
+    "Aqui eu te mostro o sol, a rega e a muda sem espetar.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache o canto que mais pega sol na sua casa.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cactos-e-babosa/cacto-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 156,
+     "alt": "André segurando um vaso de cacto"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Ponha o seu cacto no sol.",
+    "Cacto e suculenta precisam de pelo menos 4 horas de sol direto por dia. Dentro de casa, longe da janela, ele definha.",
+    "O TESTE DA BULA",
+    "De dia, sem acender a luz, tente ler uma bula onde vai ficar o vaso. O branco ofusca? É lugar de sol.",
+    "Cacto fino e esticado está pedindo luz. Leve para o sol aos poucos."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do cacto",
+    "06",
+    "CAPÍTULO 1",
+    "Sol e água na medida",
+    "08",
+    "CAPÍTULO 2",
+    "Muda sem se espetar",
+    "12",
+    "CAPÍTULO 3",
+    "A babosa",
+    "15",
+    "CAPÍTULO 4",
+    "De perto, sem confusão",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Cacto mole na base? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA PLANTA",
+    "Cacto de vaso",
+    "O amigo de quem esquece de regar",
+    "LUZ",
+    "Sol direto, pelo menos 4 horas por dia",
+    "ÁGUA",
+    "Molhe bem e espere a terra secar de verdade",
+    "TERRA",
+    "Arenosa, com muita pedrinha, que escorra rápido",
+    "CLIMA",
+    "Calor e ar seco; chuva parada no vaso, não",
+    "DIFICULDADE",
+    "Fácil, se tiver sol",
+    "PET\tATENÇÃO",
+    "O espinho machuca, e a babosa é cautela para gato"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Sol e água na medida",
+    "01\tCada cacto, um canto",
+    "02\tA rega que não afoga",
+    "03\tNem todo cacto é de deserto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cactos-e-babosa/cacto-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 262,
+     "alt": "André olhando um cacto ao sol"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O SOL",
+    "Quanto sol cada um pede?",
+    "CACTO\tLUZ\tONDE EM CASA",
+    "Cacto-bola\tForte\tSol direto",
+    "Chapéu-de-bispo\tForte\t4 h de sol ou mais",
+    "Flor-de-maio\tMédia\tSol só da manhã",
+    "Ripsális\tPouca\tVaso suspenso",
+    "Flor-de-maio e ripsális vêm da mata brasileira: gostam de mais água.",
+    "DICA DO ANDRÉ",
+    "Molhe até escorrer. Regue de novo só com a terra seca."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Muda sem se espetar",
+    "01\tEstaca de cacto: o passo a passo",
+    "02\tOs filhotes em volta",
+    "03\tCacto mole na base"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cactos-e-babosa/cacto-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 144,
+     "alt": "André com luva mexendo num cacto"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Muda de cacto? Faça assim.",
+    "QUANDO",
+    "Na época quente",
+    "TEMPO",
+    "15 minutos",
+    "PRECISA",
+    "Jornal e faca limpa",
+    "1",
+    "SEGURE E CORTE",
+    "Jornal dobrado em volta, pedaço de 5 a 10 cm.",
+    "2",
+    "DEIXE CICATRIZAR",
+    "Corte para cima, na sombra, até secar.",
+    "3",
+    "ENTERRE UM TERÇO",
+    "Na terra arenosa, sem encharcar.",
+    "DICA DO ANDRÉ",
+    "Depois de plantar, regue por uns 30 dias sem encharcar. O corte ainda molhado apodrece."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cactos-e-babosa/cac-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 180,
+     "alt": "Mão segurando um cacto com jornal dobrado"
+    },
+    {
+     "src": "/guias/cactos-e-babosa/cac-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 216,
+     "alt": "Pedaços de cacto secando o corte na sombra"
+    },
+    {
+     "src": "/guias/cactos-e-babosa/cac-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 256,
+     "alt": "Mão enterrando a estaca de cacto na terra arenosa"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MUDAS",
+    "Os filhotes em volta",
+    "Os brotinhos em volta do cacto redondo viram muda. Tire e ponha na areia.",
+    "Babosa esconde filhotes embaixo das folhas secas. Destaque e plante.",
+    "Galho grosso de cacto pode esperar meses para ser plantado: cicatriza e dorme.",
+    "Para mudar de vaso: luva grossa e jornal amassado em volta.",
+    "O susto: o cacto \"Mickey\" parece fofo, mas cada pontinho espeta. Use pinça."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Cacto mole na base?",
+    "1",
+    "O QUE PARECE",
+    "Ele está com sede.",
+    "O QUE PODE SER",
+    "Raiz podre por água demais.",
+    "COMO RESOLVER",
+    "Corte a parte sadia, deixe cicatrizar e replante em terra nova. Jogue a terra velha fora e regue bem menos."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cactos-e-babosa/cac-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 215,
+     "alt": "Cacto com a base mole e escura"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "A babosa",
+    "01\tTirar o filhote",
+    "02\tEla fica vermelha",
+    "03\tBabosa ou agave?"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cactos-e-babosa/babosa-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 134,
+     "alt": "André com um vaso de babosa"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · A BABOSA",
+    "Tirar o filhote",
+    "QUANDO",
+    "A touceira encheu o vaso",
+    "DE NOVO EM",
+    "Quando nascerem mais filhotes",
+    "VOCÊ VAI PRECISAR",
+    "Faca limpa, para cortar rente ao chão",
+    "Vaso raso: a raiz da babosa é curta",
+    "Terra arenosa que escorra rápido",
+    "Pedrinhas para cobrir a terra",
+    "Luva",
+    "Tesoura para a ponta seca, em diagonal",
+    "Paciência: regue só depois de alguns dias"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · A BABOSA",
+    "ATENÇÃO",
+    "Babosa vermelha não é doença.",
+    "Frio, seca, sol forte ou terra pobre deixam muitas babosas avermelhadas. É estresse, e ela volta ao verde com água.",
+    "Babosa é remédio, mas não é segura para gato: o guia põe ela em cautela.",
+    "FAÇA ASSIM",
+    "Deixe o vaso onde o gato e o cachorro não alcançam.",
+    "Tire o filhote da borda da touceira, nunca do meio."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro de casa",
+    "1",
+    "Cacto-bola",
+    "Sol forte. Só floresce depois de anos.",
+    "2",
+    "Chapéu-de-bispo",
+    "Terra que escorre e 4 h de sol.",
+    "3",
+    "Flor-de-maio",
+    "Cacto brasileiro de sombra clara.",
+    "4",
+    "Babosa",
+    "Sol e rega rara. Na dúvida, menos.",
+    "CHAVE\tSol forte\tRega rara"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cactos-e-babosa/cac-var-bola.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 240,
+     "alt": "Cacto-bola em vaso de barro"
+    },
+    {
+     "src": "/guias/cactos-e-babosa/cac-var-bispo.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 199,
+     "alt": "Cacto chapéu-de-bispo"
+    },
+    {
+     "src": "/guias/cactos-e-babosa/cac-var-flor-de-maio.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 179,
+     "alt": "Flor-de-maio florida"
+    },
+    {
+     "src": "/guias/cactos-e-babosa/cac-var-babosa.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 158,
+     "alt": "Babosa em vaso"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Cacto ou suculenta?",
+    "ARÉOLA",
+    "O botãozinho de onde saem os espinhos: só cacto tem.",
+    "ESPINHO",
+    "É uma folha que mudou de função.",
+    "EUFÓRBIA",
+    "Parece cacto, mas o espinho não sai de um ponto só.",
+    "BABOSA",
+    "Tem gel e borda macia. A agave tem espinho duro como unha.",
+    "DICA DO ANDRÉ",
+    "Todo cacto é suculenta, mas nem toda suculenta é cacto."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "CERCA DE",
+    "14 ANOS",
+    "para o cacto-bola dar a primeira flor.",
+    "Ele só floresce com uns 35 cm. Tão comum nos jardins, está quase extinto na natureza: compre de produtor.",
+    "E MAIS UMA",
+    "Fruto de cacto pode ter de 3 a 3.000 sementes. O do mandacaru é doce."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Leve o cacto para o lugar de mais sol",
+    "Regue só com a terra bem seca",
+    "Troque a terra por uma bem arenosa",
+    "Use jornal dobrado para segurar",
+    "Deixe o corte da muda secar antes de plantar",
+    "Esvazie o pratinho depois da rega",
+    "Babosa longe do gato",
+    "Compre cacto de produtor, nunca do mato",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se o seu cacto florir, me conta. E quando ele soltar filhote, dá um para alguém. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "004\tVOCÊ TEM",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "São 11 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 005 REGA SEM AFOGAR",
+    "Comente REGAR no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cactos-e-babosa/cacto-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 105,
+     "alt": "Retrato do André com o cacto"
+    }
+   ]
+  }
+ ]
+}

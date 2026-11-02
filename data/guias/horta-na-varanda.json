@@ -1,0 +1,439 @@
+{
+ "codigo": "TG042",
+ "slug": "horta-na-varanda",
+ "titulo": "Horta na Varanda",
+ "capa": {
+  "src": "/guias/horta-na-varanda/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Horta na Varanda"
+ },
+ "meta": {
+  "titulo": "Horta na varanda: guia grátis em pouco espaço",
+  "descricao": "Como fazer horta na varanda e ter comida fresca em pouco espaço, contando as horas de sol. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG042.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t042",
+    "COLEÇÃO TERRA GENTIL",
+    "VARANDA",
+    "Horta na Varanda",
+    "Comida fresca em pouco espaço.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-na-varanda/coringa-jardim-vertical-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 200,
+     "alt": "André na varanda com vasos de horta"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Varanda pequena também vira horta.",
+    "O segredo é sol, peso e vento na medida certa.",
+    "Aqui tem jardineira, prateleira e rega.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Conte quantas horas de sol bate na varanda.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-na-varanda/manjericao-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 158,
+     "alt": "André colhendo manjericão na varanda"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Conte as horas de sol.",
+    "Fruto pede 6 horas de sol direto; folha se vira com 3.",
+    "ABRIGO",
+    "Canto sem vento é estufa de graça.",
+    "Planta pesada embaixo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da varanda",
+    "06",
+    "CAPÍTULO 1",
+    "Sol, peso e vento",
+    "08",
+    "CAPÍTULO 2",
+    "Jardineira na grade",
+    "12",
+    "CAPÍTULO 3",
+    "Prateleira e parede",
+    "15",
+    "CAPÍTULO 4",
+    "Hortaliças de varanda",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Folha com mancha seca? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA VARANDA",
+    "Antes de plantar",
+    "O que ela pede",
+    "SOL",
+    "6 horas para fruto",
+    "SOMBRA",
+    "3 horas para folha",
+    "VENTO",
+    "Planta baixa ou amarrada",
+    "PESO",
+    "Terra molhada pesa",
+    "REGA",
+    "Todo dia no calor",
+    "METAL\tATENÇÃO",
+    "Forre o vaso por dentro"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Sol, peso e vento",
+    "01\tCerto e errado",
+    "02\tJardineira, passo a passo",
+    "03\tFolha queimada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-na-varanda/coringa-jardim-vertical-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 131,
+     "alt": "André olhando o sol na varanda"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Planta alta\tAmarrada\tSolta",
+    "Vento\tTela vazada\tMuro fechado",
+    "Vaso metal\tForrado\tSem forro",
+    "Encher\t5 cm abaixo\tAté a borda",
+    "Varanda pega vento: amarre as plantas altas.",
+    "DICA DO ANDRÉ",
+    "Lavanda e sálvia na borda seguram o vento."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Jardineira na grade",
+    "01\tJardineira, passo a passo",
+    "02\tRega que não seca",
+    "03\tFolha queimada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-na-varanda/alface-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 162,
+     "alt": "André plantando alface na jardineira"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Jardineira na grade? Faça assim.",
+    "QUANDO",
+    "Com as mudas prontas",
+    "TEMPO",
+    "30 minutos",
+    "PRECISA",
+    "Jardineira e substrato",
+    "1",
+    "PRENDA",
+    "Bem firme, contra o vento.",
+    "2",
+    "ENCHA",
+    "Até 5 cm abaixo da borda.",
+    "3",
+    "PLANTE",
+    "Sol para fora, sombra para dentro.",
+    "DICA DO ANDRÉ",
+    "Regue antes de pendurar, para não pingar embaixo."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-na-varanda/vrd-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 195,
+     "alt": "Mãos prendendo uma jardineira na grade da varanda"
+    },
+    {
+     "src": "/guias/horta-na-varanda/vrd-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 186,
+     "alt": "Mãos enchendo a jardineira de substrato até perto da borda"
+    },
+    {
+     "src": "/guias/horta-na-varanda/vrd-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 198,
+     "alt": "Mãos plantando mudas de horta na jardineira da varanda"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · REGA",
+    "Rega que não seca",
+    "Bolso de parede seca rápido: confira todo dia.",
+    "No calor, regue cedo de manhã.",
+    "Vaso de baixo da prateleira não pega chuva.",
+    "Garrafa PET enterrada leva água à raiz.",
+    "Saco com furinho rega devagar por dias."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Folha com mancha seca?",
+    "1",
+    "O QUE PARECE",
+    "Doença na folha.",
+    "O QUE PODE SER",
+    "Queimadura de vento ou sol.",
+    "COMO RESOLVER",
+    "Tela ou planta contra o vento."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-na-varanda/vrd-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 217,
+     "alt": "Folhas de horta com bordas secas e marrons numa varanda de vento"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Prateleira e parede",
+    "01\tPrateleira de horta",
+    "02\tO peso da terra",
+    "03\tHortaliças de varanda"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-na-varanda/coringa-regar-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 234,
+     "alt": "André regando vasos na prateleira"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · PAREDE",
+    "Prateleira de horta",
+    "QUANDO",
+    "Pouco chão",
+    "LUGAR",
+    "Canto de sol abrigado",
+    "VOCÊ VAI PRECISAR",
+    "Prateleira bem presa na parede",
+    "Embaixo a planta pesada",
+    "Em cima pendente e pequena",
+    "Duas escadas e três tábuas servem",
+    "Cuidado",
+    "Vaso de baixo regue mesmo com chuva",
+    "Lesma sobe até o alto"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · PESO",
+    "ATENÇÃO",
+    "Terra molhada pesa muito.",
+    "Vaso demais sobrecarrega varanda e laje.",
+    "Bolsa funda na grade rasga com o peso.",
+    "FAÇA ASSIM",
+    "Prateleira e suporte bem presos.",
+    "Bolsa rasa, planta pesada embaixo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro hortaliças",
+    "1",
+    "Tomate",
+    "Pede 6 horas de sol.",
+    "2",
+    "Alface",
+    "Se vira com 3 horas.",
+    "3",
+    "Pimenta",
+    "Canto sem vento.",
+    "4",
+    "Gengibre",
+    "Vai bem na varanda.",
+    "CHAVE\tHoras de sol\tVaso bem preso"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-na-varanda/vrd-var-tomate.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 217,
+     "alt": "Tomateiro com frutos num vaso de varanda"
+    },
+    {
+     "src": "/guias/horta-na-varanda/vrd-var-alface.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 139,
+     "alt": "Alface crespa numa jardineira"
+    },
+    {
+     "src": "/guias/horta-na-varanda/vrd-var-pimenta.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 156,
+     "alt": "Pimenteira carregada num vaso"
+    },
+    {
+     "src": "/guias/horta-na-varanda/vrd-var-gengibre.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 290,
+     "alt": "Gengibre de folhas compridas num vaso grande"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "FOLHA QUEIMADA",
+    "Vento ou sol forte.",
+    "VASO DE BAIXO SECO",
+    "Não pega chuva.",
+    "TOMATE SEM FRUTO",
+    "Pouco sol.",
+    "BOLSA RASGOU",
+    "Funda demais.",
+    "DICA DO ANDRÉ",
+    "Vento leve espanta pulgão e mosca-branca."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "50",
+    "MIL",
+    "litros de chuva por ano um telhado de casa recolhe.",
+    "Um galpão pequeno, uns 5 mil.",
+    "E MAIS UMA",
+    "Uma barreira de vento protege até 5 vezes a altura dela."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Conte as horas de sol",
+    "Planta alta amarrada",
+    "Tela contra o vento",
+    "Cuidado com o peso",
+    "Jardineira bem presa",
+    "5 cm abaixo da borda",
+    "Pesada embaixo",
+    "Regue cedo no calor",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua varanda der a primeira salada, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "042\tVOCÊ TEM",
+    "043",
+    "044",
+    "045",
+    "046",
+    "047",
+    "São 42 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 043 CANTEIRO ELEVADO",
+    "Comente CANTEIRO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-na-varanda/coringa-jardim-vertical-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 159,
+     "alt": "Retrato do André na varanda"
+    }
+   ]
+  }
+ ]
+}

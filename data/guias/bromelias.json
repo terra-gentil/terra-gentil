@@ -1,0 +1,439 @@
+{
+ "codigo": "TG037",
+ "slug": "bromelias",
+ "titulo": "Bromélias",
+ "capa": {
+  "src": "/guias/bromelias/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Bromélias"
+ },
+ "meta": {
+  "titulo": "Bromélias: guia grátis de cor o ano todo",
+  "descricao": "Como cuidar de bromélias com meia-sombra e água mole, para ter cor o ano todo e filhotes. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG037.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t037",
+    "COLEÇÃO TERRA GENTIL",
+    "BROMÉLIA",
+    "Bromélias",
+    "Cor o ano todo, e filhotes.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/bromelias/bromelia-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 139,
+     "alt": "André com uma bromélia florida"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Bromélia não morre à toa depois de florir: ela deixa filhotes.",
+    "E muitas vivem em árvore, tirando o sustento da umidade do ar.",
+    "Aqui eu te mostro o copinho, a luz e como separar os filhotes.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Olhe a base da sua bromélia: já tem filhote?",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/bromelias/bromelia-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 147,
+     "alt": "André olhando o miolo da bromélia"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Meia-sombra e água mole.",
+    "Bromélia de vaso vai bem em meia-sombra, com rega moderada.",
+    "TERRA LEVE",
+    "Meio a meio: terra rica e casca de orquídea.",
+    "Pouca água no frio."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da bromélia",
+    "06",
+    "CAPÍTULO 1",
+    "Luz e copinho",
+    "08",
+    "CAPÍTULO 2",
+    "Os filhotes",
+    "12",
+    "CAPÍTULO 3",
+    "Adubo e dengue",
+    "15",
+    "CAPÍTULO 4",
+    "Bromélias de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "A mãe está morrendo? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA BROMÉLIA",
+    "Antes de plantar",
+    "O que ela pede",
+    "LUZ",
+    "Meia-sombra",
+    "ÁGUA",
+    "Mole e moderada",
+    "COPO",
+    "Com água ao crescer",
+    "AR",
+    "Borrifo frequente",
+    "ADUBO",
+    "Fraco, a cada 4 semanas",
+    "DENGUE\tATENÇÃO",
+    "Água nova toda semana"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Luz e copinho",
+    "01\tCerto e errado",
+    "02\tFilhote, passo a passo",
+    "03\tA mãe morrendo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/bromelias/bromelia-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 176,
+     "alt": "André com bromélias na varanda"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Água\tMole\tCom calcário",
+    "Rega\tModerada\tEncharcar",
+    "Frio\tPouca água\tRegar igual",
+    "Terra\tLeve, com casca\tPesada",
+    "O vaso-de-prata aguenta até luz plena.",
+    "DICA DO ANDRÉ",
+    "Bromélia gosta de ar úmido: borrife sempre."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Os filhotes",
+    "01\tFilhote, passo a passo",
+    "02\tDepois de plantar",
+    "03\tA mãe morrendo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/bromelias/bromelia-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 161,
+     "alt": "André separando um filhote"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Separar o filhote? Faça assim.",
+    "QUANDO",
+    "Com um terço da mãe",
+    "TEMPO",
+    "15 minutos",
+    "PRECISA",
+    "Faca afiada e um vaso",
+    "1",
+    "CORTE",
+    "Rente à base da mãe.",
+    "2",
+    "SEQUE",
+    "O corte, por 1 ou 2 dias.",
+    "3",
+    "PLANTE",
+    "Terra drenada e varetinha.",
+    "DICA DO ANDRÉ",
+    "Filhote recém-plantado tomba: a varetinha segura."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/bromelias/bro-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 275,
+     "alt": "Mãos cortando um filhote de bromélia rente à base da mãe"
+    },
+    {
+     "src": "/guias/bromelias/bro-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 295,
+     "alt": "Filhote de bromélia com o corte secando sobre um pano"
+    },
+    {
+     "src": "/guias/bromelias/bro-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 158,
+     "alt": "Mãos plantando o filhote num vaso com uma varetinha de apoio"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · FILHOTES",
+    "Depois de plantar",
+    "Água no copinho na época de crescer.",
+    "Borrife sempre: ela gosta de ar úmido.",
+    "Guzmânia que floriu: corte a velha a 5 cm da base.",
+    "Depois, separe os filhotes.",
+    "Vriésea troca de vaso a cada 3 anos."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "A mãe está morrendo?",
+    "1",
+    "O QUE PARECE",
+    "Você matou a bromélia.",
+    "O QUE PODE SER",
+    "Fim natural, depois da flor.",
+    "COMO RESOLVER",
+    "Cuide dos filhotes em volta."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/bromelias/bro-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 279,
+     "alt": "Bromélia velha secando depois da flor, com filhotes verdes na base"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Adubo e dengue",
+    "01\tAdubo no copo",
+    "02\tCopinho sem dengue",
+    "03\tBromélias de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/bromelias/bromelia-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 154,
+     "alt": "André borrifando a bromélia"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · ADUBO",
+    "Adubo no copo",
+    "QUANDO",
+    "Na época de crescer",
+    "DE NOVO EM",
+    "A cada 4 semanas",
+    "VOCÊ VAI PRECISAR",
+    "Adubo líquido bem fraco",
+    "Água mole com pouco calcário",
+    "Borrifador para o ar úmido",
+    "Casca na mistura da terra",
+    "Cuidado",
+    "Neoregélia a cada 5 semanas",
+    "Criptanto a cada 5 ou 6 semanas"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · DENGUE",
+    "ATENÇÃO",
+    "O copinho de água é a casa da bromélia.",
+    "Mas água parada também pode criar mosquito.",
+    "Os livros falam em trocar a cada 3 ou 4 semanas.",
+    "FAÇA ASSIM",
+    "No Brasil, troque toda semana.",
+    "Jogue fora a velha e ponha água nova."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro bromélias",
+    "1",
+    "Guzmânia",
+    "Vermelho por semanas.",
+    "2",
+    "Neoregélia",
+    "Miolo vermelho.",
+    "3",
+    "Vaso-de-prata",
+    "Aguenta mais sol.",
+    "4",
+    "Tilândsia",
+    "Vive sem terra.",
+    "CHAVE\tMeia-sombra\tÁgua mole"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/bromelias/bro-var-guzmania.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 131,
+     "alt": "Guzmânia com a haste vermelha num vaso"
+    },
+    {
+     "src": "/guias/bromelias/bro-var-neoregelia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 217,
+     "alt": "Neoregélia com o miolo de folhas vermelhas"
+    },
+    {
+     "src": "/guias/bromelias/bro-var-prata.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 234,
+     "alt": "Vaso-de-prata com folhas cinza listradas e flor rosa"
+    },
+    {
+     "src": "/guias/bromelias/bro-var-tilandsia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 163,
+     "alt": "Tilândsia presa num pedaço de madeira"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "FLORZINHA SUMIU",
+    "Normal: o vermelho fica.",
+    "MIOLO VERMELHO",
+    "Ela vai florir.",
+    "TILÂNDSIA SECA",
+    "Borrife mais vezes.",
+    "FRUTINHO AMARELO",
+    "Normal depois da flor.",
+    "DICA DO ANDRÉ",
+    "Tilândsia não se rega: borrife com água sem calcário."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "2",
+    "DIAS",
+    "é o tempo de deixar o corte do filhote secar antes de plantar.",
+    "Às vezes basta 1.",
+    "E MAIS UMA",
+    "A barba-de-velho também é bromélia e forma cachos de até 1 metro."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Meia-sombra",
+    "Água mole",
+    "Rega moderada",
+    "Copinho com água",
+    "Água nova toda semana",
+    "Borrifo frequente",
+    "Adubo fraco no mês",
+    "Filhote com um terço",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua bromélia der filhote, me conta. E dá um para a vizinha. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "037\tVOCÊ TEM",
+    "038",
+    "039",
+    "040",
+    "041",
+    "042",
+    "São 37 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 038 SAMAMBAIAS",
+    "Comente SAMAMBAIA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/bromelias/bromelia-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 93,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,439 @@
+{
+ "codigo": "TG041",
+ "slug": "mato-sem-veneno",
+ "titulo": "Mato sem Veneno",
+ "capa": {
+  "src": "/guias/mato-sem-veneno/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Mato sem Veneno"
+ },
+ "meta": {
+  "titulo": "Mato sem veneno: guia grátis de capina do jeito antigo",
+  "descricao": "Como tirar o mato sem veneno e ter o canteiro limpo do jeito antigo, antes da semente. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG041.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t041",
+    "COLEÇÃO TERRA GENTIL",
+    "CAPINA",
+    "Mato sem Veneno",
+    "Canteiro limpo do jeito antigo.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-sem-veneno/coringa-mato-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 242,
+     "alt": "André tirando mato do canteiro"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Mato não se vence com veneno, e sim com hora certa.",
+    "A terra guarda semente por anos, e cada revirada acorda mais.",
+    "Aqui tem enxada, cobertura, papelão e água quente.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache no canteiro um mato que ainda não deu flor.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-sem-veneno/coringa-mato-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 175,
+     "alt": "André olhando o canteiro"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Antes da semente.",
+    "Mato tirado antes de florir não enche a terra de semente.",
+    "COBRIR",
+    "8 cm de palha ou folha seca.",
+    "Enxada afiada."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do mato",
+    "06",
+    "CAPÍTULO 1",
+    "Entender o mato",
+    "08",
+    "CAPÍTULO 2",
+    "Enxada e mão",
+    "12",
+    "CAPÍTULO 3",
+    "Cobrir e abafar",
+    "15",
+    "CAPÍTULO 4",
+    "Matos de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "O mato voltou mais forte? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO MATO",
+    "Antes de capinar",
+    "O que funciona",
+    "QUANDO",
+    "Antes da semente",
+    "ENXADA",
+    "Afiada, dia de sol",
+    "COBERTURA",
+    "8 cm por cima",
+    "PERENE",
+    "Abafar com papelão",
+    "CALÇADA",
+    "Água fervendo",
+    "VENENO\tATENÇÃO",
+    "Não precisa de nenhum"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Entender o mato",
+    "01\tCerto e errado",
+    "02\tCanteiro falso",
+    "03\tMato que volta"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-sem-veneno/coringa-mato-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 201,
+     "alt": "André arrancando um mato com a mão"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Quando\tPequeno\tCom semente",
+    "Enxada\tAfiada\tCega",
+    "Semente\tPor cima\tEnterrada",
+    "Raiz\tInteira\tPicada",
+    "Terra pouco revirada dá menos mato anual.",
+    "DICA DO ANDRÉ",
+    "Mato com semente? Corte dentro de um balde."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Enxada e mão",
+    "01\tCanteiro falso",
+    "02\tEnxada na hora certa",
+    "03\tMato que volta"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-sem-veneno/coringa-ferramentas-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 153,
+     "alt": "André com a enxada"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Canteiro falso? Faça assim.",
+    "QUANDO",
+    "Antes de semear",
+    "TEMPO",
+    "Até o mato nascer",
+    "PRECISA",
+    "Enxada pequena",
+    "1",
+    "PREPARE",
+    "Deixe a terra pronta.",
+    "2",
+    "ESPERE",
+    "O mato nasce primeiro.",
+    "3",
+    "TIRE",
+    "Tudo pequeno, e só então semeie.",
+    "DICA DO ANDRÉ",
+    "Não revire de novo: a semente de baixo sobe."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-sem-veneno/cap-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 289,
+     "alt": "Mãos alisando a terra de um canteiro pronto para semear"
+    },
+    {
+     "src": "/guias/mato-sem-veneno/cap-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 208,
+     "alt": "Dedo apontando matinhos novos nascendo na terra"
+    },
+    {
+     "src": "/guias/mato-sem-veneno/cap-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 189,
+     "alt": "Mãos com enxada pequena tirando os matinhos novos"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · ENXADA",
+    "Enxada na hora certa",
+    "Pegue o mato pequeno, antes de dar semente.",
+    "Enxada funciona melhor em dia de sol e vento.",
+    "Corte rente, com a enxada afiada.",
+    "Dente-de-leão: puxe a raiz comprida inteira.",
+    "Picão arrancado sai do canteiro."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "O mato voltou mais forte?",
+    "1",
+    "O QUE PARECE",
+    "Mato que não morre.",
+    "O QUE PODE SER",
+    "Raiz picada ou enxada cega.",
+    "COMO RESOLVER",
+    "Enxada afiada, raiz inteira."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-sem-veneno/cap-sintoma-1.webp",
+     "largura": 800,
+     "altura": 1433,
+     "kb": 270,
+     "alt": "Canteiro tomado de mato rebrotando de pedaços de raiz"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Cobrir e abafar",
+    "01\tAbafar com papelão",
+    "02\tRaiz teimosa",
+    "03\tMatos de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-sem-veneno/coringa-solo-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 148,
+     "alt": "André cobrindo a terra com palha"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · COBRIR",
+    "Abafar com papelão",
+    "QUANDO",
+    "Antes de plantar",
+    "DURA",
+    "Uma temporada",
+    "VOCÊ VAI PRECISAR",
+    "Papelão em camadas grossas",
+    "Composto uns 15 cm por cima",
+    "Tijolo para segurar",
+    "Casca ou brita para esconder",
+    "Cuidado",
+    "Mato de bulbinho pede 10 cm por cima",
+    "Mato enterrado volta a nascer"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · RAIZ",
+    "ATENÇÃO",
+    "Raiz de mato perene não vai para a composteira.",
+    "Cada pedaço de raiz pode virar planta.",
+    "Ela viaja no vaso, na ferramenta e na bota.",
+    "FAÇA ASSIM",
+    "Raiz teimosa: abafe com papelão.",
+    "Ferramenta limpa entre canteiros."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro matos",
+    "1",
+    "Buva",
+    "Semente voa 100 metros.",
+    "2",
+    "Tiririca",
+    "Espalha por tubérculo.",
+    "3",
+    "Picão-branco",
+    "Solta semente no chão.",
+    "4",
+    "Corda-de-viola",
+    "Raiz picada vira planta.",
+    "CHAVE\tAntes da semente\tTerra coberta"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-sem-veneno/cap-var-buva.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 262,
+     "alt": "Pé de buva alto numa calçada"
+    },
+    {
+     "src": "/guias/mato-sem-veneno/cap-var-tiririca.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 255,
+     "alt": "Tiririca de folha fina num canteiro"
+    },
+    {
+     "src": "/guias/mato-sem-veneno/cap-var-picao.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 215,
+     "alt": "Picão-branco com flores brancas pequenas"
+    },
+    {
+     "src": "/guias/mato-sem-veneno/cap-var-corda.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 276,
+     "alt": "Corda-de-viola enrolada numa planta da horta"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "VOLTOU DA RAIZ",
+    "Abafe com papelão.",
+    "NASCEU DEPOIS DE CAVAR",
+    "Banco de sementes.",
+    "MATO NA CALÇADA",
+    "Água fervendo.",
+    "MATO SOB O COMEDOURO",
+    "Semente da ração.",
+    "DICA DO ANDRÉ",
+    "Plante no composto enquanto o mato morre embaixo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "25",
+    "MIL",
+    "sementes pode soltar um pé de tasneirinha esquecido.",
+    "O normal é 1.500.",
+    "E MAIS UMA",
+    "Semente de mato enterrada dorme e pode esperar décadas para nascer."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Mato antes da semente",
+    "Enxada afiada",
+    "Capinar em dia de sol",
+    "Canteiro falso",
+    "8 cm de cobertura",
+    "Papelão no mato teimoso",
+    "Raiz fora da composteira",
+    "Água quente na calçada",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se o seu canteiro ficar limpinho sem veneno, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "041\tVOCÊ TEM",
+    "042",
+    "043",
+    "044",
+    "045",
+    "046",
+    "São 41 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 042 HORTA NA VARANDA",
+    "Comente VARANDA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-sem-veneno/coringa-mato-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 268,
+     "alt": "Retrato do André no quintal"
+    }
+   ]
+  }
+ ]
+}

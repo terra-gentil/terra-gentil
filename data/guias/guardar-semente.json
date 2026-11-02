@@ -1,0 +1,439 @@
+{
+ "codigo": "TG045",
+ "slug": "guardar-semente",
+ "titulo": "Guardar Semente",
+ "capa": {
+  "src": "/guias/guardar-semente/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Guardar Semente"
+ },
+ "meta": {
+  "titulo": "Guardar semente: guia grátis de semente crioula",
+  "descricao": "Como guardar semente crioula da sua horta para o ano que vem, colhendo madura e seca. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG045.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t045",
+    "COLEÇÃO TERRA GENTIL",
+    "CRIOULA",
+    "Guardar Semente",
+    "A horta do ano que vem.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/guardar-semente/girassol-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 132,
+     "alt": "André com uma cabeça de girassol"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Toda planta que deu certo deixa semente.",
+    "Bem guardada, ela vira a horta do ano que vem.",
+    "Aqui tem colher, secar, guardar e trocar.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Deixe um fruto passar do ponto no pé.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/guardar-semente/tomate-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 213,
+     "alt": "André com um tomate bem maduro"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Madura e seca.",
+    "Semente verde não germina, e semente úmida mofa.",
+    "ENVELOPE",
+    "De papel, com nome e data.",
+    "Lugar escuro."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da semente",
+    "06",
+    "CAPÍTULO 1",
+    "Semente madura",
+    "08",
+    "CAPÍTULO 2",
+    "Secar e limpar",
+    "12",
+    "CAPÍTULO 3",
+    "Guardar e trocar",
+    "15",
+    "CAPÍTULO 4",
+    "Sementes de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Semente mofou no envelope? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA SEMENTE",
+    "Antes de colher",
+    "O que ela pede",
+    "PONTO",
+    "Seca no pé",
+    "TESTE",
+    "Quebra nos dedos",
+    "SECAR",
+    "Longe do calor",
+    "GUARDAR",
+    "Escuro e seco",
+    "ETIQUETA",
+    "Nome e data",
+    "F1\tATENÇÃO",
+    "Não sai igual"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Semente madura",
+    "01\tCerto e errado",
+    "02\tTomate, passo a passo",
+    "03\tSemente mofada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/guardar-semente/pimenta-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 184,
+     "alt": "André olhando pimentas maduras"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Colher\tSeca no pé\tVerde",
+    "Secar\tNo prato\tNo papel",
+    "Lugar\tFresco e escuro\tQuente",
+    "Variedade\tComum\tF1",
+    "Semente fresca é a que germina melhor.",
+    "DICA DO ANDRÉ",
+    "Arroz cru na caixa segura a umidade."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Secar e limpar",
+    "01\tTomate, passo a passo",
+    "02\tSecar sem pressa",
+    "03\tSemente mofada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/guardar-semente/tomate-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 194,
+     "alt": "André cortando um tomate maduro"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Semente de tomate? Faça assim.",
+    "QUANDO",
+    "Tomate bem maduro",
+    "TEMPO",
+    "2 dias no pote",
+    "PRECISA",
+    "Pote, peneira e prato",
+    "1",
+    "ESPREMA",
+    "A polpa num pote com água.",
+    "2",
+    "ESPERE",
+    "Formou mofo em cima, pronto.",
+    "3",
+    "LAVE",
+    "Na peneira, e seque no prato.",
+    "DICA DO ANDRÉ",
+    "No papel-toalha ela gruda: use prato."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/guardar-semente/gse-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 190,
+     "alt": "Mãos espremendo a polpa de um tomate maduro num pote de vidro"
+    },
+    {
+     "src": "/guias/guardar-semente/gse-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 172,
+     "alt": "Pote de vidro com polpa de tomate e uma camada de mofo branco em cima"
+    },
+    {
+     "src": "/guias/guardar-semente/gse-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 286,
+     "alt": "Mãos lavando sementes de tomate numa peneira fina"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · SECAR",
+    "Secar sem pressa",
+    "Seque em temperatura ambiente, longe do calor.",
+    "Na dúvida, deixe um ou dois dias a mais.",
+    "Flor seca: vire a cabeça num saco e sacuda.",
+    "Pimenta: deixe o fruto maduro secar devagar.",
+    "Feijão: arranque o pé e pendure."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Semente mofou no envelope?",
+    "1",
+    "O QUE PARECE",
+    "Semente ruim.",
+    "O QUE PODE SER",
+    "Guardou antes de secar.",
+    "COMO RESOLVER",
+    "Uns dias a mais secando."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/guardar-semente/gse-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 194,
+     "alt": "Sementes com mofo cinza dentro de um envelope aberto"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Guardar e trocar",
+    "01\tA caixa de sementes",
+    "02\tSemente F1",
+    "03\tSementes de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/guardar-semente/girassol-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 171,
+     "alt": "André com envelopes de semente"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · GUARDAR",
+    "A caixa de sementes",
+    "QUANDO",
+    "Semente bem seca",
+    "LUGAR",
+    "Fresco, seco e escuro",
+    "VOCÊ VAI PRECISAR",
+    "Envelope de papel",
+    "Caneta nome e data",
+    "Caixinha de queijo serve",
+    "Arroz cru contra a umidade",
+    "Cuidado",
+    "Nome depois escreva antes de encher",
+    "Calor estraga a semente"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · F1",
+    "ATENÇÃO",
+    "F1 no pacote quer dizer semente híbrida.",
+    "A semente do F1 não sai igual à mãe.",
+    "Tomate comum sai igual: vale guardar.",
+    "FAÇA ASSIM",
+    "Guarde de variedade comum ou crioula.",
+    "Troque com quem planta perto."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro sementes",
+    "1",
+    "Tomate",
+    "Fermenta 2 dias.",
+    "2",
+    "Pimenta",
+    "Seca no fruto maduro.",
+    "3",
+    "Feijão",
+    "Vagem amarela.",
+    "4",
+    "Calêndula",
+    "Cabeça seca no saco.",
+    "CHAVE\tMadura e seca\tNome e data"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/guardar-semente/gse-var-tomate.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 185,
+     "alt": "Sementes de tomate secando num prato"
+    },
+    {
+     "src": "/guias/guardar-semente/gse-var-pimenta.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 294,
+     "alt": "Pimentas maduras secando com as sementes à mostra"
+    },
+    {
+     "src": "/guias/guardar-semente/gse-var-feijao.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 129,
+     "alt": "Vagens amarelas e secas de feijão com grãos"
+    },
+    {
+     "src": "/guias/guardar-semente/gse-var-calendula.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 138,
+     "alt": "Cabeças secas de calêndula com sementes curvas"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "NÃO NASCEU",
+    "Colheu verde.",
+    "MOFOU",
+    "Faltou secar.",
+    "SAIU DIFERENTE",
+    "Era F1 ou cruzou.",
+    "POUCA SEMENTE",
+    "Flor dobrada.",
+    "DICA DO ANDRÉ",
+    "Ensaque a cabeça em papel para a semente não cair."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "50",
+    "ANOS",
+    "é a idade mínima de uma variedade crioula.",
+    "Ela passa de mão em mão.",
+    "E MAIS UMA",
+    "Muita semente crioula nem está à venda: circula nas trocas, sem dinheiro."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Fruto passado do ponto",
+    "Seca no pé",
+    "Teste nos dedos",
+    "Secar longe do calor",
+    "Envelope de papel",
+    "Nome e data",
+    "Arroz cru na caixa",
+    "Troque com o vizinho",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua semente guardada nascer no ano que vem, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "045\tVOCÊ TEM",
+    "046",
+    "047",
+    "048",
+    "049",
+    "050",
+    "São 45 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 046 FLORES DE VARANDA",
+    "Comente GERÂNIO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/guardar-semente/girassol-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 97,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

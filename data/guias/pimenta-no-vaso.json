@@ -1,0 +1,439 @@
+{
+ "codigo": "TG027",
+ "slug": "pimenta-no-vaso",
+ "titulo": "Pimenta no Vaso",
+ "capa": {
+  "src": "/guias/pimenta-no-vaso/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Pimenta no Vaso"
+ },
+ "meta": {
+  "titulo": "Pimenta no vaso: guia grátis da semente à réstia",
+  "descricao": "Como plantar pimenta no vaso: sol, calor e terra só úmida, da semente até a réstia. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG027.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t027",
+    "COLEÇÃO TERRA GENTIL",
+    "PIMENTA",
+    "Pimenta no Vaso",
+    "Da semente à réstia.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimenta-no-vaso/pimenta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 164,
+     "alt": "André com um pé de pimenta"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Uma pimenteira de vaso pode viver anos e dar o ano inteiro.",
+    "E existem cerca de 10 mil variedades para escolher.",
+    "Aqui eu te mostro como plantar, colher e guardar a sua.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache o canto mais quente e de mais sol da casa.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimenta-no-vaso/pimenta-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 178,
+     "alt": "André colhendo pimenta"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Sol e calor, terra só úmida.",
+    "Pimenta odeia terra encharcada: deixe a superfície secar entre as regas.",
+    "UM PÉ POR VASO",
+    "Vaso de 10 litros, 30 cm de boca e de altura.",
+    "Potássio quando florir."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da pimenta",
+    "06",
+    "CAPÍTULO 1",
+    "Semente no quente",
+    "08",
+    "CAPÍTULO 2",
+    "Vaso e flor",
+    "12",
+    "CAPÍTULO 3",
+    "Colher e guardar",
+    "15",
+    "CAPÍTULO 4",
+    "Pimentas de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Flor caindo sem fruto? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA PIMENTA",
+    "Antes de plantar",
+    "O que ela pede",
+    "LUZ",
+    "Sol forte e calor",
+    "ÁGUA",
+    "Só úmida, nunca encharcada",
+    "VASO",
+    "10 litros, um pé só",
+    "ADUBO",
+    "Potássio quando florir",
+    "VENTO",
+    "Abrigada, ele derruba flor",
+    "LUVA\tATENÇÃO",
+    "Ardida irrita pele e olho"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Semente no quente",
+    "01\tO começo certo",
+    "02\tVaso final, passo a passo",
+    "03\tFlor que cai"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimenta-no-vaso/pimenta-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 184,
+     "alt": "André com mudas de pimenta"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · COMEÇAR",
+    "O começo certo",
+    "O QUE\tCERTO\tERRO",
+    "Substrato\tDe semear\tComum, adubado",
+    "Terra\tNova e limpa\tDo quintal",
+    "Vaso\tPlástico\tBarro seca rápido",
+    "Água\tAntes de semear\tDepois, arrasta",
+    "Semente pede 21 graus e boa luz.",
+    "DICA DO ANDRÉ",
+    "Cubra com saquinho: segura a umidade."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Vaso e flor",
+    "01\tVaso final",
+    "02\tDesponte e flor",
+    "03\tFlor que cai"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimenta-no-vaso/pimenta-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 171,
+     "alt": "André com um vaso de pimenta"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Vaso final? Faça assim.",
+    "QUANDO",
+    "Raiz saindo pelo furo",
+    "TEMPO",
+    "15 minutos",
+    "PRECISA",
+    "Vaso de 10 litros e bambu",
+    "1",
+    "DRENAGEM",
+    "Camada no fundo do vaso.",
+    "2",
+    "MUDA REGADA",
+    "Dois dedos livres na borda.",
+    "3",
+    "TUTOR",
+    "Bambu amarrado em dois pontos.",
+    "DICA DO ANDRÉ",
+    "Vaso grande também segura o pé carregado."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimenta-no-vaso/pim-gesto-1.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 278,
+     "alt": "Mãos pondo camada de drenagem no fundo de um vaso grande"
+    },
+    {
+     "src": "/guias/pimenta-no-vaso/pim-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 202,
+     "alt": "Mãos assentando a muda de pimenta no vaso"
+    },
+    {
+     "src": "/guias/pimenta-no-vaso/pim-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 200,
+     "alt": "Mãos amarrando a pimenteira num bambu"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · FLOR",
+    "Desponte e flor",
+    "Com 30 cm, belisque a ponta: o pé enche de galhos.",
+    "Pimenta se autopoliniza: não precisa de pé macho.",
+    "Dentro de casa, sacuda o pé de leve quando florir.",
+    "Ou passe um cotonete por dentro de cada flor.",
+    "Borragem e capuchinha por perto chamam polinizador."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Flor caindo sem virar fruto?",
+    "1",
+    "O QUE PARECE",
+    "Pé doente.",
+    "O QUE PODE SER",
+    "Falta de polinização ou vento.",
+    "COMO RESOLVER",
+    "Sacuda a flor e tire do vento."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimenta-no-vaso/pim-sintoma-1.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 277,
+     "alt": "Pimenteira com flores caídas sobre a terra do vaso"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Colher e guardar",
+    "01\tVerde ou madura",
+    "02\tO ardido",
+    "03\tPimentas de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimenta-no-vaso/pimenta-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 189,
+     "alt": "André com pimentas colhidas"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · COLHER",
+    "Verde ou madura",
+    "QUANDO",
+    "As primeiras ainda verdes",
+    "DE NOVO EM",
+    "Quanto mais colhe, mais dá",
+    "VOCÊ VAI PRECISAR",
+    "Tesoura junto ao caule",
+    "Luva para a ardida",
+    "Agulha e linha da réstia",
+    "Pote fechado e escuro",
+    "Cuidado",
+    "Olho longe da mão ardida",
+    "Mancha escura vai para o lixo"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · O ARDIDO",
+    "ATENÇÃO",
+    "O ardido não está na semente.",
+    "Está na parte branca que segura as sementes.",
+    "E água não apaga: a capsaicina não dissolve nela.",
+    "FAÇA ASSIM",
+    "Para menos ardido, tire toda a parte branca.",
+    "Ardeu demais? Leite ou iogurte ajudam."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro espécies",
+    "1",
+    "Annuum",
+    "Jalapeño, rápida.",
+    "2",
+    "Chinense",
+    "Habanero, frutada.",
+    "3",
+    "Baccatum",
+    "A da América do Sul.",
+    "4",
+    "Frutescens",
+    "Fruto para cima.",
+    "CHAVE\tComece na annuum\tUm pé por vaso"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimenta-no-vaso/pim-var-annuum.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 157,
+     "alt": "Pé de jalapeño com frutos verdes"
+    },
+    {
+     "src": "/guias/pimenta-no-vaso/pim-var-chinense.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 177,
+     "alt": "Pimentas habanero laranja no pé"
+    },
+    {
+     "src": "/guias/pimenta-no-vaso/pim-var-baccatum.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 259,
+     "alt": "Pimentas dedo-de-moça vermelhas no pé"
+    },
+    {
+     "src": "/guias/pimenta-no-vaso/pim-var-frutescens.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 299,
+     "alt": "Pimenta malagueta com frutinhos para cima"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "FOLHA DE BAIXO CAI",
+    "Água demais. Só úmida.",
+    "FUNDO PRETO",
+    "Rega irregular. Sempre igual.",
+    "FRUTO TORTO",
+    "Polinização ruim.",
+    "NÃO AMADURECE",
+    "Regue um pouco menos.",
+    "DICA DO ANDRÉ",
+    "Esqueceu de regar? Mergulhe o vaso num balde até ela voltar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "10",
+    "MIL",
+    "variedades de pimenta existem no mundo.",
+    "E todas vieram da América.",
+    "E MAIS UMA",
+    "Passarinho não sente o ardido e planta pimenta pelo cocô."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Canto quente e de sol",
+    "Semeie no substrato fraco",
+    "Um pé por vaso de 10 L",
+    "Tutor desde o plantio",
+    "Belisque a ponta aos 30 cm",
+    "Potássio quando florir",
+    "Regue só a terra",
+    "Colha as primeiras verdes",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua pimenteira der a primeira pimenta, me conta. E leva umas para o vizinho. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "027\tVOCÊ TEM",
+    "028",
+    "029",
+    "030",
+    "031",
+    "032",
+    "São 27 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 028 ÁRVORE NO QUINTAL",
+    "Comente QUINTAL no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimenta-no-vaso/pimenta-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 116,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

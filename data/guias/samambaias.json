@@ -1,0 +1,439 @@
+{
+ "codigo": "TG038",
+ "slug": "samambaias",
+ "titulo": "Samambaias",
+ "capa": {
+  "src": "/guias/samambaias/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Samambaias"
+ },
+ "meta": {
+  "titulo": "Samambaias: guia grátis de verde na sombra",
+  "descricao": "Como cuidar de samambaia em casa para ficar verde o ano todo, com sombra e terra sempre úmida. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG038.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t038",
+    "COLEÇÃO TERRA GENTIL",
+    "SAMAMBAIA",
+    "Samambaias",
+    "Verde na sombra, o ano todo.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/samambaias/samambaia-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 224,
+     "alt": "André com uma samambaia pendurada"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Samambaia não é difícil de cultivar.",
+    "Ela vive muito e fica verde o ano inteiro, sem perder as folhas.",
+    "Aqui eu te mostro sombra, rega, divisão e até um terrário de pote.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Tire as folhas velhas e secas da sua samambaia.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/samambaias/samambaia-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 170,
+     "alt": "André limpando as folhas da samambaia"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Sombra e terra úmida.",
+    "No calor, rega farta e adubo fraco a cada 2 ou 3 semanas.",
+    "NO FRIO, MENOS",
+    "Terra só levemente úmida.",
+    "Folha velha fora."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da samambaia",
+    "06",
+    "CAPÍTULO 1",
+    "Sombra e rega",
+    "08",
+    "CAPÍTULO 2",
+    "Dividir e renovar",
+    "12",
+    "CAPÍTULO 3",
+    "Terrário e chifre",
+    "15",
+    "CAPÍTULO 4",
+    "Samambaias de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Bolinha marrom embaixo da folha? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA SAMAMBAIA",
+    "Antes de plantar",
+    "O que ela pede",
+    "LUZ",
+    "Sombra ou meia-sombra",
+    "ÁGUA",
+    "Farta no calor",
+    "FRIO",
+    "Terra levemente úmida",
+    "ADUBO",
+    "Fraco, 2 a 3 semanas",
+    "LIMPEZA",
+    "Folha velha fora",
+    "AVENCA\tATENÇÃO",
+    "Na dúvida, longe do gato"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Sombra e rega",
+    "01\tCerto e errado",
+    "02\tDividir, passo a passo",
+    "03\tBolinha marrom"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/samambaias/samambaia-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 252,
+     "alt": "André regando a samambaia"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Luz\tSombra\tSol forte",
+    "Calor\tRega farta\tTerra seca",
+    "Frio\tPouco úmida\tRega farta",
+    "Vaso grande\tTerra nova\tVaso maior",
+    "Avenca: meia-sombra e terra neutra a ácida.",
+    "DICA DO ANDRÉ",
+    "A samambaia-americana é ideal para dentro de casa."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Dividir e renovar",
+    "01\tDividir, passo a passo",
+    "02\tVaso cheio",
+    "03\tBolinha marrom"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/samambaias/samambaia-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 196,
+     "alt": "André com a samambaia fora do vaso"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Dividir a samambaia? Faça assim.",
+    "QUANDO",
+    "Touceira cheia demais",
+    "TEMPO",
+    "20 minutos",
+    "PRECISA",
+    "Faca e vasos com terra",
+    "1",
+    "LIMPE",
+    "Tire as folhas velhas.",
+    "2",
+    "DIVIDA",
+    "Pedaços não muito pequenos.",
+    "3",
+    "REPLANTE",
+    "Terra úmida, na sombra.",
+    "DICA DO ANDRÉ",
+    "Avenca cheia demais também se divide."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/samambaias/sam-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 272,
+     "alt": "Mãos tirando folhas velhas e secas de uma samambaia"
+    },
+    {
+     "src": "/guias/samambaias/sam-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 283,
+     "alt": "Mãos dividindo a touceira da samambaia em dois pedaços grandes"
+    },
+    {
+     "src": "/guias/samambaias/sam-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 245,
+     "alt": "Mãos replantando um pedaço da samambaia num vaso com terra úmida"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · O VASO",
+    "Vaso cheio",
+    "Samambaia em vaso grande não pede outro maior.",
+    "Solte um pouco da terra velha.",
+    "Volte para vaso do mesmo tamanho, com terra nova.",
+    "Pteris troca de vaso só a cada 3 ou 4 anos.",
+    "Asplênio gosta de musgo picado na mistura."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Bolinha marrom embaixo?",
+    "1",
+    "O QUE PARECE",
+    "Praga na folha.",
+    "O QUE PODE SER",
+    "Esporo, a semente dela.",
+    "COMO RESOLVER",
+    "Nada. Deixe a folha em paz."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/samambaias/sam-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 293,
+     "alt": "Avesso de uma folha de samambaia com fileiras de bolinhas marrons"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Terrário e chifre",
+    "01\tTerrário de pote",
+    "02\tChifre-de-veado",
+    "03\tSamambaias de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/samambaias/samambaia-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 195,
+     "alt": "André com um terrário de vidro"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · TERRÁRIO",
+    "Terrário de pote",
+    "QUANDO",
+    "Qualquer época",
+    "DE NOVO EM",
+    "Quase nunca: ele recicla",
+    "VOCÊ VAI PRECISAR",
+    "Pote de vidro, fechado",
+    "Cascalho no fundo",
+    "Carvão ativado uma pitada",
+    "Samambaia bem pequena",
+    "Cuidado",
+    "Sol direto nunca no pote",
+    "Lugar claro e fresco"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · CHIFRE",
+    "ATENÇÃO",
+    "Chifre-de-veado não quer terra.",
+    "Use substrato fibroso, quase sem terra nenhuma.",
+    "Ele vive melhor preso numa tábua ou pendurado.",
+    "FAÇA ASSIM",
+    "Lugar quente, úmido e de meia-sombra.",
+    "Muda: tire os brotinhos e plante."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro samambaias",
+    "1",
+    "Americana",
+    "A de casa.",
+    "2",
+    "Avenca",
+    "Cabinho preto.",
+    "3",
+    "Ninho",
+    "Folha em funil.",
+    "4",
+    "Chifre-de-veado",
+    "Presa na tábua.",
+    "CHAVE\tSombra\tTerra úmida"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/samambaias/sam-var-americana.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 246,
+     "alt": "Samambaia-americana cheia, pendurada na varanda"
+    },
+    {
+     "src": "/guias/samambaias/sam-var-avenca.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 285,
+     "alt": "Avenca de folhinhas delicadas em cabinhos pretos"
+    },
+    {
+     "src": "/guias/samambaias/sam-var-ninho.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 159,
+     "alt": "Ninho-de-passarinho com folhas largas formando um funil"
+    },
+    {
+     "src": "/guias/samambaias/sam-var-chifre.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 195,
+     "alt": "Chifre-de-veado preso numa tábua na parede"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "MUDINHA NA FOLHA",
+    "Asplênio-mãe: é muda.",
+    "SAMAMBAIA COM TRONCO",
+    "Blechnum faz tronco.",
+    "FOLHA NOVA COBRE",
+    "Avenca-rosa: normal.",
+    "NASCEU SOZINHA",
+    "Esporo de outra planta.",
+    "DICA DO ANDRÉ",
+    "Mudinha da folha: pressione num vaso de turfa e areia."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "150",
+    "CM",
+    "de largura: é o que passa o primo gigante do chifre-de-veado.",
+    "Uma samambaia do tamanho de uma mesa.",
+    "E MAIS UMA",
+    "Samambaias simples daqui já foram presente para reis da Europa."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Sombra ou meia-sombra",
+    "Rega farta no calor",
+    "Menos água no frio",
+    "Adubo fraco no calor",
+    "Folha velha fora",
+    "Dividir a touceira",
+    "Terra nova, mesmo vaso",
+    "Avenca longe do gato",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua samambaia encher de folha nova, me conta. E dá uma muda para alguém. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "038\tVOCÊ TEM",
+    "039",
+    "040",
+    "041",
+    "042",
+    "043",
+    "São 38 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 039 MORANGO NO VASO",
+    "Comente MORANGO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/samambaias/samambaia-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 115,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

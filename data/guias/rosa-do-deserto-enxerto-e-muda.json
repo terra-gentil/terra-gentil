@@ -1,0 +1,439 @@
+{
+ "codigo": "TG021",
+ "slug": "rosa-do-deserto-enxerto-e-muda",
+ "titulo": "Enxerto e Muda",
+ "capa": {
+  "src": "/guias/rosa-do-deserto-enxerto-e-muda/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Enxerto e Muda"
+ },
+ "meta": {
+  "titulo": "Rosa-do-deserto: guia grátis de enxerto e muda",
+  "descricao": "Como fazer muda de rosa-do-deserto por semente, estaca e enxerto, com ferramenta limpa. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG021.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t021",
+    "COLEÇÃO TERRA GENTIL",
+    "ROSA-DO-DESERTO",
+    "Enxerto e Muda",
+    "Semente, estaca e enxerto.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosa-do-deserto-enxerto-e-muda/rosa-do-deserto-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 157,
+     "alt": "André com uma rosa-do-deserto"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "A rosa-do-deserto sem nome no vaso quase sempre veio de semente.",
+    "A de flor bonita e famosa, quase sempre veio de enxerto.",
+    "Aqui eu te mostro os dois caminhos, e a estaca.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Olhe a base da sua e procure a marca de um enxerto.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosa-do-deserto-enxerto-e-muda/rosa-do-deserto-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 142,
+     "alt": "André com mudas de rosa-do-deserto"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Ferramenta limpa.",
+    "O vírus da rosa-do-deserto viaja na tesoura sem esterilizar.",
+    "E NADA DE ENCHARCAR",
+    "Excesso de água é das causas mais comuns de muda perdida.",
+    "Drenagem vale mais que receita."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da rosa",
+    "06",
+    "CAPÍTULO 1",
+    "Qual caminho",
+    "08",
+    "CAPÍTULO 2",
+    "Enxerto e estaca",
+    "12",
+    "CAPÍTULO 3",
+    "Semente",
+    "15",
+    "CAPÍTULO 4",
+    "De perto, sem confusão",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Broto abaixo do enxerto? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA ROSA",
+    "Rosa-do-deserto",
+    "O que ela pede",
+    "LUZ",
+    "Sol, o máximo possível",
+    "ÁGUA",
+    "No calor, sem encharcar",
+    "TERRA",
+    "Graúda, que drena",
+    "SEMENTE",
+    "Nasce em 5 dias a 30 graus",
+    "ENXERTO",
+    "Pega em 2 a 3 semanas",
+    "PET\tTÓXICA",
+    "Seiva tóxica: longe de cão e gato"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Qual caminho",
+    "01\tSemente, estaca ou enxerto",
+    "02\tEnxerto, passo a passo",
+    "03\tBroto abaixo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosa-do-deserto-enxerto-e-muda/rosa-do-deserto-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 159,
+     "alt": "André olhando uma rosa-do-deserto florida"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · QUAL CAMINHO",
+    "Semente, estaca ou enxerto?",
+    "JEITO\tDEMORA\tCUIDADO",
+    "Semente\t8 a 12 meses\tCalor",
+    "Estaca verde\tMais rápida\tPede atenção",
+    "Estaca seca\tMais lenta\tPega mais",
+    "Enxerto\t2 a 3 semanas\tEmenda seca",
+    "Semente dá surpresa. Enxerto copia a flor.",
+    "DICA DO ANDRÉ",
+    "Comprou sem nome? Quase sempre veio de semente."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Enxerto e estaca",
+    "01\tEnxerto, passo a passo",
+    "02\tEstaca de galho",
+    "03\tBroto abaixo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosa-do-deserto-enxerto-e-muda/coringa-podar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André com uma tesoura de poda"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Enxerto de fenda? Faça assim.",
+    "QUANDO",
+    "No calor, planta crescendo",
+    "TEMPO",
+    "20 minutos",
+    "PRECISA",
+    "Faca limpa, fita e saco plástico",
+    "1",
+    "GALHO EM CUNHA",
+    "Do ano, firme, 2 ou 3 gemas.",
+    "2",
+    "FENDA NO CAVALO",
+    "Encaixe a cunha no topo.",
+    "3",
+    "FITA E SACO",
+    "Calor, sombra, sem esbarrar.",
+    "DICA DO ANDRÉ",
+    "Galho fino em cavalo grosso? Na rosa-do-deserto costuma pegar."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosa-do-deserto-enxerto-e-muda/enx-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 207,
+     "alt": "Mãos cortando em cunha a base de um galho de rosa-do-deserto"
+    },
+    {
+     "src": "/guias/rosa-do-deserto-enxerto-e-muda/enx-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 145,
+     "alt": "Dedos encaixando a cunha na fenda do topo de uma muda"
+    },
+    {
+     "src": "/guias/rosa-do-deserto-enxerto-e-muda/enx-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 135,
+     "alt": "Mãos enrolando fita na emenda do enxerto"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · A ESTACA",
+    "Estaca de galho",
+    "Corte de 10 a 15 cm, limpo, sem flor.",
+    "Corte metade de cada folha.",
+    "Enterre de 2,5 a 5 cm em substrato que drena.",
+    "Com folha pega rápido; sem folha demora, mas pega mais.",
+    "O erro que mais mata estaca: água demais."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Broto abaixo do enxerto?",
+    "1",
+    "O QUE PARECE",
+    "Galho novo, que bom.",
+    "O QUE PODE SER",
+    "O cavalo querendo tomar a planta.",
+    "COMO RESOLVER",
+    "Tire logo, rente, com faca afiada e limpa."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosa-do-deserto-enxerto-e-muda/enx-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 214,
+     "alt": "Rosa-do-deserto com um broto saindo abaixo da emenda do enxerto"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Semente",
+    "01\tAntes de semear",
+    "02\tTire o plástico",
+    "03\tQuatro de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosa-do-deserto-enxerto-e-muda/coringa-muda-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André com uma sementeira"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · SEMENTE",
+    "Antes de semear",
+    "QUANDO",
+    "No calor, 27 a 32 graus",
+    "DE NOVO EM",
+    "Semente dura 2 anos seca",
+    "VOCÊ VAI PRECISAR",
+    "Recipiente de 8 a 12 cm de fundo",
+    "Substrato que drena",
+    "Areia grossa para cobrir",
+    "Plástico só até nascer",
+    "Cuidado",
+    "Envelope longe de peso",
+    "Lugar quente fora do sol forte"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · SEMENTE",
+    "ATENÇÃO",
+    "Semente vai deitada, nunca enterrada fundo.",
+    "Poucos milímetros de terra e areia grossa por cima.",
+    "Nasceu? Tire o plástico na hora: ele chama doença.",
+    "FAÇA ASSIM",
+    "A 30 graus, semente fresca nasce em uns 5 dias.",
+    "Nada de plástico no sol quente."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro de perto",
+    "1",
+    "Obesum",
+    "A mais vendida.",
+    "2",
+    "Arabicum",
+    "Teimosa, rebrota.",
+    "3",
+    "Socotranum",
+    "Cresce muito devagar.",
+    "4",
+    "Swazicum",
+    "Bom cavalo de enxerto.",
+    "CHAVE\tFerramenta limpa\tEmenda seca"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosa-do-deserto-enxerto-e-muda/enx-var-obesum.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 177,
+     "alt": "Rosa-do-deserto obesum florida"
+    },
+    {
+     "src": "/guias/rosa-do-deserto-enxerto-e-muda/enx-var-arabicum.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 283,
+     "alt": "Rosa-do-deserto arabicum"
+    },
+    {
+     "src": "/guias/rosa-do-deserto-enxerto-e-muda/enx-var-socotranum.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 288,
+     "alt": "Rosa-do-deserto de Socotra com cáudice grosso"
+    },
+    {
+     "src": "/guias/rosa-do-deserto-enxerto-e-muda/enx-var-swazicum.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 277,
+     "alt": "Rosa-do-deserto swazicum florida"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "ENXERTO ESCURO",
+    "Água na emenda. Regue só a terra.",
+    "MUDINHA TOMBANDO",
+    "Plástico demais. Tire.",
+    "FLOR PEQUENA E PÁLIDA",
+    "Calor forte demais.",
+    "GALHO MOLE CAINDO",
+    "Amarre frouxo e balance.",
+    "DICA DO ANDRÉ",
+    "Balançar a planta imita o vento: o caule engrossa e fica de pé sozinho."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "8",
+    "MESES",
+    "pode levar uma semente selecionada para dar a primeira flor.",
+    "Às vezes, até antes disso.",
+    "E MAIS UMA",
+    "A flor comum tem 6 a 7 cm; as seleções novas já passam de 10 cm."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Limpe a tesoura e a faca",
+    "Ache a marca do enxerto",
+    "Emenda sempre seca",
+    "Broto abaixo? Tire rente",
+    "Estaca de 10 a 15 cm",
+    "Semente deitada, no calor",
+    "Nasceu? Tire o plástico",
+    "Galho mole? Balance",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se o seu enxerto pegar, me conta. E dá uma muda para alguém. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "021\tVOCÊ TEM",
+    "022",
+    "023",
+    "024",
+    "025",
+    "026",
+    "São 21 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 022 COMPOSTEIRA EM CASA",
+    "Comente COMPOSTO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosa-do-deserto-enxerto-e-muda/rosa-do-deserto-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 186,
+     "alt": "Retrato do André com uma rosa-do-deserto"
+    }
+   ]
+  }
+ ]
+}

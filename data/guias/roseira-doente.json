@@ -1,0 +1,439 @@
+{
+ "codigo": "TG030",
+ "slug": "roseira-doente",
+ "titulo": "Roseira Doente",
+ "capa": {
+  "src": "/guias/roseira-doente/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Roseira Doente"
+ },
+ "meta": {
+  "titulo": "Roseira doente: guia grátis de praga e fungo sem veneno",
+  "descricao": "Como tratar roseira doente com praga e fungo sem veneno, regando o pé e não a folha. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG030.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t030",
+    "COLEÇÃO TERRA GENTIL",
+    "ROSA",
+    "Roseira Doente",
+    "Praga e fungo sem veneno.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/roseira-doente/roseira-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 205,
+     "alt": "André com uma roseira"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Roseira forte quase não adoece.",
+    "Bem alimentada, com ar e sol, ela pega menos praga e menos fungo.",
+    "Aqui eu te mostro quem é quem, e o que fazer sem exagerar no produto.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Vire 5 folhas da sua roseira e olhe o avesso.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/roseira-doente/roseira-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 191,
+     "alt": "André olhando as folhas da roseira"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Regue o pé, não a folha.",
+    "Folha molhada por muitas horas abre a porta para a mancha-preta.",
+    "ROSEIRA FORTE",
+    "Bem alimentada, ela pega menos praga e doença.",
+    "Ar entre os vasos."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da roseira sadia",
+    "06",
+    "CAPÍTULO 1",
+    "As pragas",
+    "08",
+    "CAPÍTULO 2",
+    "Os fungos",
+    "12",
+    "CAPÍTULO 3",
+    "Fome e vírus",
+    "15",
+    "CAPÍTULO 4",
+    "Inimigos de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Folha amarela e caindo? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA ROSEIRA SADIA",
+    "Antes de tratar",
+    "O que ela pede",
+    "REGA",
+    "No pé, nunca na folha",
+    "AR",
+    "Vasos sem aperto",
+    "LIMPEZA",
+    "Folha doente fora",
+    "TESOURA",
+    "Limpa a cada roseira",
+    "PRODUTO",
+    "Só quando precisar",
+    "VÍRUS\tATENÇÃO",
+    "Mosaico amarelo não tem cura"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "As pragas",
+    "01\tQuem é quem",
+    "02\tMancha-preta, passo a passo",
+    "03\tFolha amarela"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/roseira-doente/roseira-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 158,
+     "alt": "André examinando um botão de rosa"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · AS PRAGAS",
+    "Quem é quem",
+    "O QUE\tSINAL\tSAÍDA",
+    "Pulgão\tBroto grudento\tÓleo de nim",
+    "Ácaro\tTeia no avesso\tJato de água",
+    "Tripes\tTempo seco\tFita amarela",
+    "Lagarta\tFuro em L\tCatar à noite",
+    "Formiga subindo? Procure pulgão ou cochonilha.",
+    "DICA DO ANDRÉ",
+    "Compre muda sadia, de produtor de confiança."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Os fungos",
+    "01\tMancha-preta, passo a passo",
+    "02\tPó branco e ferrugem",
+    "03\tFolha amarela"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/roseira-doente/roseira-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 178,
+     "alt": "André cuidando da roseira"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Mancha-preta? Faça assim.",
+    "QUANDO",
+    "Na primeira mancha",
+    "TEMPO",
+    "20 minutos",
+    "PRECISA",
+    "Tesoura limpa e um saco",
+    "1",
+    "ARRANQUE",
+    "Folha manchada fora.",
+    "2",
+    "RECOLHA",
+    "As caídas no chão também.",
+    "3",
+    "REGUE O PÉ",
+    "Nunca molhe a folha.",
+    "DICA DO ANDRÉ",
+    "O fungo pula de folha em folha com o respingo da chuva."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/roseira-doente/rod-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 161,
+     "alt": "Mãos tirando uma folha de roseira com manchas pretas"
+    },
+    {
+     "src": "/guias/roseira-doente/rod-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 274,
+     "alt": "Mãos recolhendo folhas caídas da terra do vaso"
+    },
+    {
+     "src": "/guias/roseira-doente/rod-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 243,
+     "alt": "Mão regando o pé da roseira, sem molhar as folhas"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · FUNGOS",
+    "Pó branco e ferrugem",
+    "Pó branco na folha e no botão é oídio.",
+    "Ele gosta de dia seco e noite úmida.",
+    "Contra o oídio, enxofre funciona bem.",
+    "Pozinho laranja embaixo da folha é ferrugem.",
+    "Mofo cinza na pétala? Tire a flor velha."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Folha amarela e caindo?",
+    "1",
+    "O QUE PARECE",
+    "Fungo na roseira.",
+    "O QUE PODE SER",
+    "Falta de ferro ou magnésio.",
+    "COMO RESOLVER",
+    "Adubo certo e terra levemente ácida."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/roseira-doente/rod-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 177,
+     "alt": "Folha de roseira amarela com as nervuras verdes"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Fome e vírus",
+    "01\tO que falta na terra",
+    "02\tDoença sem cura",
+    "03\tInimigos de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/roseira-doente/roseira-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 172,
+     "alt": "André mexendo na terra do vaso"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · A TERRA",
+    "O que falta na terra",
+    "QUANDO",
+    "A folha mudou de cor",
+    "DE NOVO EM",
+    "Olhe as folhas toda semana",
+    "VOCÊ VAI PRECISAR",
+    "Calcário contra falta de cálcio",
+    "Gesso também dá cálcio",
+    "Torta de nim contra nematoide",
+    "Água boa sem sal na rega",
+    "Cuidado",
+    "Água salobra queima a borda",
+    "Terra alcalina trava o ferro"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · VÍRUS",
+    "ATENÇÃO",
+    "Desenho amarelo em mosaico ou anel na folha é vírus.",
+    "Vírus de roseira não tem cura.",
+    "Ele passa por tesoura suja e por enxerto de planta doente.",
+    "FAÇA ASSIM",
+    "Descarte a roseira com vírus.",
+    "Limpe a tesoura entre uma roseira e outra."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro inimigos",
+    "1",
+    "Pulgão",
+    "Broto novo.",
+    "2",
+    "Mancha-preta",
+    "Borda esfiapada.",
+    "3",
+    "Oídio",
+    "Pó branco.",
+    "4",
+    "Cochonilha",
+    "Crosta no galho.",
+    "CHAVE\tOlhar toda semana\tAr circulando"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/roseira-doente/rod-var-pulgao.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 118,
+     "alt": "Pulgões verdes num broto de rosa"
+    },
+    {
+     "src": "/guias/roseira-doente/rod-var-manchapreta.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 107,
+     "alt": "Folha de roseira com manchas pretas redondas"
+    },
+    {
+     "src": "/guias/roseira-doente/rod-var-oidio.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 137,
+     "alt": "Botão de rosa coberto de pó branco"
+    },
+    {
+     "src": "/guias/roseira-doente/rod-var-cochonilha.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 232,
+     "alt": "Crostas marrons de cochonilha num galho de roseira"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "MURCHOU DE REPENTE",
+    "Olhe a raiz: cupim.",
+    "CAROÇO NO PÉ",
+    "Galha. Compre muda sadia.",
+    "FOLHA PONTILHADA",
+    "Cigarrinha. Mais sol.",
+    "MANCHA VERMELHA",
+    "Antracnose, nas chuvas.",
+    "DICA DO ANDRÉ",
+    "Pulverizar demais faz mais mal que a falta."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "3",
+    "MIL",
+    "anos depois, as rosas secas do túmulo de Tutancâmon ainda tinham perfume.",
+    "Estavam em caixas de ouro.",
+    "E MAIS UMA",
+    "A larva do bicho-lixeiro come até 425 pulgões por semana."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Regue o pé, não a folha",
+    "Olhe o avesso da folha",
+    "Folha manchada no lixo",
+    "Recolha as folhas caídas",
+    "Tesoura limpa",
+    "Nim só quando precisar",
+    "Enxofre contra oídio",
+    "Adubo em dia",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua roseira sarar, me conta. E ensina o truque para a vizinha. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "030\tVOCÊ TEM",
+    "031",
+    "032",
+    "033",
+    "034",
+    "035",
+    "São 30 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 031 PODA DE ROSEIRA",
+    "Comente PODA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/roseira-doente/roseira-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 124,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

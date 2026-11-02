@@ -1,0 +1,439 @@
+{
+ "codigo": "TG025",
+ "slug": "horta-de-semente",
+ "titulo": "Horta de Semente",
+ "capa": {
+  "src": "/guias/horta-de-semente/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Horta de Semente"
+ },
+ "meta": {
+  "titulo": "Horta de semente: guia grátis do pacotinho ao prato",
+  "descricao": "Como plantar horta a partir da semente, do pacotinho ao prato, lendo o verso do pacote. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG025.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t025",
+    "COLEÇÃO TERRA GENTIL",
+    "SEMENTE",
+    "Horta de Semente",
+    "Do pacotinho ao prato.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-de-semente/coringa-horta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André na horta"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Um pacotinho de semente custa menos que uma muda.",
+    "E traz muito mais variedade do que o viveiro tem.",
+    "Aqui eu te mostro como acordar a semente e levar para o prato.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Escolha 3 pacotes e leia o verso de cada um.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-de-semente/coringa-muda-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 206,
+     "alt": "André com uma muda nas mãos"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Leia o verso do pacote.",
+    "Profundidade, dias para nascer e espaço entre os pés.",
+    "ÚMIDA, NUNCA ENCHARCADA",
+    "Semente precisa de água e de ar ao mesmo tempo.",
+    "Semeie 20% a mais."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da semente",
+    "06",
+    "CAPÍTULO 1",
+    "O pacote fala",
+    "08",
+    "CAPÍTULO 2",
+    "Da bandeja ao vaso",
+    "12",
+    "CAPÍTULO 3",
+    "Cuidar da muda",
+    "15",
+    "CAPÍTULO 4",
+    "Hortaliças de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Muda comprida e torta? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA SEMENTE",
+    "Antes de semear",
+    "O que ela pede",
+    "TERRA",
+    "Leve, fina, sem torrão",
+    "LUZ",
+    "Lugar claro ao nascer",
+    "ÁGUA",
+    "Úmida, nunca encharcada",
+    "CALOR",
+    "Estável, sem sobe e desce",
+    "ADUBO",
+    "Só depois das folhas",
+    "PET\tATENÇÃO",
+    "Tela contra gato que cisca"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "O pacote fala",
+    "01\tLer o verso",
+    "02\tSemear, passo a passo",
+    "03\tMuda torta"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-de-semente/coringa-horta-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André lendo um pacote"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O PACOTE",
+    "O pacote fala",
+    "NO PACOTE\tCERTO\tERRO",
+    "Fundura\tDo tamanho dela\tFundo demais",
+    "Validade\tNo prazo\tVencida",
+    "F1\tComprar novo\tReplantar",
+    "Data\tRespeitar\tSemear antes",
+    "Semente miúda vai só por cima.",
+    "DICA DO ANDRÉ",
+    "Um pacote de cada dá para o ano."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Da bandeja ao vaso",
+    "01\tSemear no vasinho",
+    "02\tEstufinha de graça",
+    "03\tMuda torta"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-de-semente/coringa-muda-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 174,
+     "alt": "André com mudinhas"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Semear no vasinho? Faça assim.",
+    "QUANDO",
+    "Na data do pacote",
+    "TEMPO",
+    "10 minutos",
+    "PRECISA",
+    "Vasinho, substrato e borrifador",
+    "1",
+    "TERRA LEVE",
+    "Encha sem apertar.",
+    "2",
+    "DUAS SEMENTES",
+    "Furo com o dedo, raso.",
+    "3",
+    "DESBASTE",
+    "Corte a mais fraca com tesoura.",
+    "DICA DO ANDRÉ",
+    "Marque nome e data: você não vai lembrar."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-de-semente/sem-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 269,
+     "alt": "Mãos enchendo uma bandeja de células com substrato"
+    },
+    {
+     "src": "/guias/horta-de-semente/sem-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 150,
+     "alt": "Dedos pondo duas sementes num vasinho"
+    },
+    {
+     "src": "/guias/horta-de-semente/sem-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 203,
+     "alt": "Tesoura cortando a mudinha que sobrou"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · ESTUFINHA",
+    "Estufinha de graça",
+    "Duas caixinhas transparentes de fruta viram uma estufinha.",
+    "Dentro, rolinho de papel higiênico vai inteiro para a terra.",
+    "Garrafa PET cortada vira cúpula para a semente no canteiro.",
+    "Dia de sol? Abra a tampa para não cozinhar as mudas.",
+    "Muda abafada tomba: deixe entrar ar a cada dois dias."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Muda comprida e torta?",
+    "1",
+    "O QUE PARECE",
+    "Falta de adubo.",
+    "O QUE PODE SER",
+    "Pouca luz, vinda de um lado só.",
+    "COMO RESOLVER",
+    "Lugar claro e gire a bandeja todo dia."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-de-semente/sem-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 252,
+     "alt": "Mudinhas compridas e tortas viradas para a janela"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Cuidar da muda",
+    "01\tRega de muda",
+    "02\tIr para fora",
+    "03\tHortaliças de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-de-semente/coringa-regar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 182,
+     "alt": "André regando de leve"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · REGA",
+    "Rega de muda",
+    "QUANDO",
+    "Terra começando a secar",
+    "DE NOVO EM",
+    "Quando secar por cima",
+    "VOCÊ VAI PRECISAR",
+    "Borrifador para a semente",
+    "Bacia rasa para regar por baixo",
+    "Regador de bico fino",
+    "Água morna para a muda",
+    "Cuidado",
+    "Terra úmida, nunca encharcada",
+    "Vasinho em cima de tijolo"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · IR PARA FORA",
+    "ATENÇÃO",
+    "Muda criada dentro de casa estranha o sol e o vento.",
+    "Ir direto para o canteiro é um susto para ela.",
+    "Segure sempre pela folha, nunca pelo caule.",
+    "FAÇA ASSIM",
+    "Uma semana saindo de dia e entrando à noite.",
+    "Raiz saindo pelo furo? Hora do vaso maior."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro de semente",
+    "1",
+    "Beterraba",
+    "Uma semente, várias mudas.",
+    "2",
+    "Cenoura",
+    "Direto no lugar.",
+    "3",
+    "Abobrinha",
+    "Semente de lado.",
+    "4",
+    "Vagem anã",
+    "Vaso, sem tutor.",
+    "CHAVE\tLeia o pacote\tSemeie pouco e sempre"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-de-semente/sem-var-beterraba.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 232,
+     "alt": "Mudas de beterraba de nervura vermelha"
+    },
+    {
+     "src": "/guias/horta-de-semente/sem-var-cenoura.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 275,
+     "alt": "Cenouras pequenas recém-colhidas"
+    },
+    {
+     "src": "/guias/horta-de-semente/sem-var-abobrinha.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 155,
+     "alt": "Pé de abobrinha com flor e fruto"
+    },
+    {
+     "src": "/guias/horta-de-semente/sem-var-vagem.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 276,
+     "alt": "Vagem anã num vaso"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "NÃO NASCEU",
+    "Terra fria ou semente vencida.",
+    "MUDA TOMBOU",
+    "Abafada. Deixe entrar ar.",
+    "CENOURA RACHADA",
+    "Terra pesada. Afofe.",
+    "50 ALFACES JUNTAS",
+    "Semeie pouco e sempre.",
+    "DICA DO ANDRÉ",
+    "Cenoura leva até 21 dias para nascer: tenha paciência."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "2",
+    "SEMANAS",
+    "e o microverde já está pronto para cortar com tesoura.",
+    "Use aquela sobra de meio pacote de semente.",
+    "E MAIS UMA",
+    "As duas folhinhas redondas que nascem primeiro são a reserva da semente."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Leia o verso do pacote",
+    "Escolha substrato leve",
+    "Duas sementes por vasinho",
+    "Marque nome e data",
+    "Úmida, nunca encharcada",
+    "Gire a bandeja todo dia",
+    "Desbaste com tesoura",
+    "Uma semana para acostumar",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua primeira semente nascer, me conta. E dá umas mudinhas para o vizinho. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "025\tVOCÊ TEM",
+    "026",
+    "027",
+    "028",
+    "029",
+    "030",
+    "São 25 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 026 ABELHA E PASSARINHO",
+    "Comente ABELHA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-de-semente/coringa-solo-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 215,
+     "alt": "Retrato do André na horta"
+    }
+   ]
+  }
+ ]
+}

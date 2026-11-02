@@ -1,0 +1,439 @@
+{
+ "codigo": "TG040",
+ "slug": "microverdes",
+ "titulo": "Microverdes",
+ "capa": {
+  "src": "/guias/microverdes/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Microverdes"
+ },
+ "meta": {
+  "titulo": "Microverdes: guia grátis de salada na bandeja",
+  "descricao": "Como plantar microverdes em casa: salada que nasce na bandeja, com semente bem junta. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG040.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t040",
+    "COLEÇÃO TERRA GENTIL",
+    "BROTO",
+    "Microverdes",
+    "Salada que nasce na bandeja.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/microverdes/coringa-horta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André com uma bandeja de brotos"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Microverde não é uma planta: é um jeito de cultivar.",
+    "Rúcula, rabanete e mostarda viram microverde em poucas semanas.",
+    "Aqui tem bandeja, semente, rega e broto de ervilha.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Separe uma embalagem de comida para virar bandeja.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/microverdes/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André olhando uma bandeja de mudinhas"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Semente bem junta.",
+    "Cada broto é parte da colheita: semeie bem denso.",
+    "COM TESOURA",
+    "Corte com 1 a 3 cm de altura.",
+    "Uma bandeja por semana."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do microverde",
+    "06",
+    "CAPÍTULO 1",
+    "Bandeja e semente",
+    "08",
+    "CAPÍTULO 2",
+    "Semear e regar",
+    "12",
+    "CAPÍTULO 3",
+    "Broto de ervilha",
+    "15",
+    "CAPÍTULO 4",
+    "Microverdes de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Broto mofado ou podre? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO MICROVERDE",
+    "Antes de semear",
+    "O que ele pede",
+    "TERRA",
+    "1 a 2 cm na bandeja",
+    "SEMENTE",
+    "Bem junta",
+    "ÁGUA",
+    "No borrifador",
+    "LUZ",
+    "Lugar claro",
+    "COLHER",
+    "Com 1 a 3 cm",
+    "MOFO\tATENÇÃO",
+    "Úmido, nunca encharcado"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Bandeja e semente",
+    "01\tCerto e errado",
+    "02\tSemear, passo a passo",
+    "03\tBroto mofado"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/microverdes/coringa-horta-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André separando sementes"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Semente\tBem junta\tEspalhada",
+    "Rega\tBorrifador\tJato forte",
+    "Terra\tÚmida\tEncharcada",
+    "Colher\tCom tesoura\tArrancando",
+    "Cada tipo de microverde na sua bandeja: eles nascem em ritmos diferentes.",
+    "DICA DO ANDRÉ",
+    "Embalagem de comida lavada, com furos, vira bandeja de graça."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Semear e regar",
+    "01\tSemear, passo a passo",
+    "02\tRega e luz",
+    "03\tBroto mofado"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/microverdes/coringa-muda-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André semeando numa bandeja"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Microverde? Faça assim.",
+    "QUANDO",
+    "Uma bandeja por semana",
+    "TEMPO",
+    "10 minutos",
+    "PRECISA",
+    "Bandeja, terra e semente",
+    "1",
+    "TERRA",
+    "1 a 2 cm, molhada e escorrida.",
+    "2",
+    "SEMENTE",
+    "Bem junta, por cima de tudo.",
+    "3",
+    "COBRIR",
+    "Uma camada fina de terra.",
+    "DICA DO ANDRÉ",
+    "Plástico por cima até nascer, sem encostar na terra."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/microverdes/mic-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 143,
+     "alt": "Mãos espalhando uma camada fina de substrato numa bandeja"
+    },
+    {
+     "src": "/guias/microverdes/mic-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 210,
+     "alt": "Mãos espalhando sementes bem juntas na bandeja"
+    },
+    {
+     "src": "/guias/microverdes/mic-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 191,
+     "alt": "Mãos cobrindo as sementes com uma camada fina de terra"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · REGA",
+    "Rega e luz",
+    "Borrifador é mais fácil que regador.",
+    "Molhe por baixo: bandeja dentro de outra com água.",
+    "Plástico por cima até nascer, depois tire.",
+    "Lugar claro, sem sol forte direto.",
+    "Gire a bandeja para o broto não entortar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Broto mofado ou podre?",
+    "1",
+    "O QUE PARECE",
+    "Semente estragada.",
+    "O QUE PODE SER",
+    "Água demais, sem escorrer.",
+    "COMO RESOLVER",
+    "Úmido, nunca encharcado."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/microverdes/mic-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 267,
+     "alt": "Bandeja de microverde com mofo branco e brotos caídos"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Broto de ervilha",
+    "01\tErvilha na bandeja",
+    "02\tCorte e rebrota",
+    "03\tMicroverdes de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/microverdes/coringa-luz-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 113,
+     "alt": "André com brotos perto da janela"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · ERVILHA",
+    "Ervilha na bandeja",
+    "QUANDO",
+    "De molho uma noite",
+    "DE NOVO EM",
+    "Rebrota 2 ou 3 vezes",
+    "VOCÊ VAI PRECISAR",
+    "Ervilha seca de supermercado",
+    "Bandeja com furo no fundo",
+    "Substrato só 1 a 2 cm",
+    "Tesoura para colher",
+    "Cuidado",
+    "Passou do ponto fica cheio de amido",
+    "Bandeja parada espicha para um lado"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · COLHER",
+    "ATENÇÃO",
+    "Broto de ervilha cortado rebrota.",
+    "Corte acima das folhas de baixo, com 10 a 15 cm.",
+    "Ele dá mais 2 ou 3 colheitas.",
+    "FAÇA ASSIM",
+    "Corte só os 5 a 8 cm de cima.",
+    "Depois de 3 vezes, terra nova."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro microverdes",
+    "1",
+    "Ervilha",
+    "Pronto em 2 a 4 semanas.",
+    "2",
+    "Rúcula",
+    "O desbaste vira microverde.",
+    "3",
+    "Pak choi",
+    "Também dá microverde.",
+    "4",
+    "Feijão",
+    "Broto em 7 a 10 dias.",
+    "CHAVE\tSemente junta\tColher cedo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/microverdes/mic-var-ervilha.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 154,
+     "alt": "Broto de ervilha verde e alto numa bandeja"
+    },
+    {
+     "src": "/guias/microverdes/mic-var-rucula.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 172,
+     "alt": "Microverde de rúcula com folhinhas novas"
+    },
+    {
+     "src": "/guias/microverdes/mic-var-pakchoi.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 197,
+     "alt": "Microverde de pak choi numa bandeja"
+    },
+    {
+     "src": "/guias/microverdes/mic-var-feijao.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 256,
+     "alt": "Broto de feijão num pote de vidro"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "NASCEU TORTO",
+    "Gire a bandeja.",
+    "BROTO DURO",
+    "Passou do ponto.",
+    "UM TIPO NÃO NASCEU",
+    "Um tipo por bandeja.",
+    "GOSTO FORTE",
+    "Prove antes de colher.",
+    "DICA DO ANDRÉ",
+    "Ervilha seca de supermercado serve de semente barata."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "10",
+    "DIAS",
+    "e o broto de feijão fica pronto, com uns 5 cm.",
+    "Dá para fazer num pote de vidro.",
+    "E MAIS UMA",
+    "Broto de ervilha nasce até em algodão ou papel-toalha, sem terra."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Bandeja com furo",
+    "1 a 2 cm de terra",
+    "Semente bem junta",
+    "Plástico até nascer",
+    "Borrifador na rega",
+    "Lugar claro",
+    "Gire a bandeja",
+    "Tesoura com 1 a 3 cm",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua primeira bandeja ficar verdinha, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "040\tVOCÊ TEM",
+    "041",
+    "042",
+    "043",
+    "044",
+    "045",
+    "São 40 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 041 MATO SEM VENENO",
+    "Comente CAPINA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/microverdes/coringa-horta-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 192,
+     "alt": "Retrato do André na horta"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,439 @@
+{
+ "codigo": "TG031",
+ "slug": "poda-de-roseira",
+ "titulo": "Poda de Roseira",
+ "capa": {
+  "src": "/guias/poda-de-roseira/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Poda de Roseira"
+ },
+ "meta": {
+  "titulo": "Poda de roseira: guia grátis para florir mais",
+  "descricao": "Como podar roseira sem medo e florir mais, cortando acima da gema que olha para fora. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG031.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t031",
+    "COLEÇÃO TERRA GENTIL",
+    "PODA",
+    "Poda de Roseira",
+    "Cortar sem medo, florir mais.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/poda-de-roseira/roseira-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 207,
+     "alt": "André com uma tesoura de poda"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Poda dá medo em muita gente.",
+    "Mas a roseira aguenta, e no calor ela pede uma poda média.",
+    "Aqui eu te mostro onde cortar, quanto tirar e como cuidar do corte.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache uma gema virada para fora em cada galho.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/poda-de-roseira/roseira-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 158,
+     "alt": "André olhando os galhos da roseira"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Corte acima da gema para fora.",
+    "O galho novo cresce para fora e o meio da roseira fica aberto.",
+    "EM DIAGONAL",
+    "Corte inclinado, uns 45 graus, machuca menos.",
+    "Tesoura afiada."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da poda",
+    "06",
+    "CAPÍTULO 1",
+    "Onde cortar",
+    "08",
+    "CAPÍTULO 2",
+    "A poda do ano",
+    "12",
+    "CAPÍTULO 3",
+    "Flor murcha e ladrão",
+    "15",
+    "CAPÍTULO 4",
+    "Quatro podas",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Galho secando da ponta? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA PODA",
+    "Antes de cortar",
+    "O que ela pede",
+    "ÉPOCA",
+    "O ano todo, no clima ameno",
+    "CORTE",
+    "Diagonal, uns 45 graus",
+    "GEMA",
+    "Virada para fora",
+    "GALHOS",
+    "Fique com 5 ou 6",
+    "ADUBO",
+    "10 dias depois da poda",
+    "TESOURA\tATENÇÃO",
+    "Afiada e limpa com álcool"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Onde cortar",
+    "01\tForte ou leve",
+    "02\tPoda média, passo a passo",
+    "03\tGalho secando"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/poda-de-roseira/roseira-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 178,
+     "alt": "André diante da roseira"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · A PODA",
+    "Forte ou leve",
+    "O QUE\tFORTE\tLEVE",
+    "Gemas\t3 ou 4\tUmas 7",
+    "Rosas\tMenos\tMais",
+    "Tamanho\tMaiores\tMenores",
+    "Florada\tMais tarde\tMais cedo",
+    "No calor, a melhor é a do meio: galho pela metade.",
+    "DICA DO ANDRÉ",
+    "Poda que abre o meio deixa o ar passar e evita fungo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "A poda do ano",
+    "01\tPoda média, passo a passo",
+    "02\tO corte certo",
+    "03\tGalho secando"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/poda-de-roseira/roseira-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 171,
+     "alt": "André podando a roseira"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Poda média? Faça assim.",
+    "QUANDO",
+    "Clima ameno: o ano todo",
+    "TEMPO",
+    "30 minutos",
+    "PRECISA",
+    "Tesoura afiada e álcool",
+    "1",
+    "LIMPE",
+    "Galho morto e cruzado fora.",
+    "2",
+    "PELA METADE",
+    "Corte o galho do ano anterior.",
+    "3",
+    "GEMA PARA FORA",
+    "Corte logo acima dela.",
+    "DICA DO ANDRÉ",
+    "Antes de cortar, afaste-se e olhe a roseira inteira."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/poda-de-roseira/por-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 214,
+     "alt": "Mãos com tesoura cortando um galho seco da roseira"
+    },
+    {
+     "src": "/guias/poda-de-roseira/por-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 130,
+     "alt": "Mãos cortando um galho de roseira pela metade"
+    },
+    {
+     "src": "/guias/poda-de-roseira/por-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 187,
+     "alt": "Tesoura fazendo um corte inclinado logo acima de uma gema"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · O CORTE",
+    "O corte certo",
+    "Corte em diagonal, uns 45 graus.",
+    "Tesoura cega amassa o galho, que pode secar.",
+    "Cubra o corte grosso para não entrar praga.",
+    "Álcool 70% na lâmina entre uma planta e outra.",
+    "Adube só 10 dias depois de podar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Galho secando da ponta?",
+    "1",
+    "O QUE PARECE",
+    "Roseira com sede.",
+    "O QUE PODE SER",
+    "Seca dos ponteiros, pelo corte.",
+    "COMO RESOLVER",
+    "Corte até a parte sadia e proteja."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/poda-de-roseira/por-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 186,
+     "alt": "Galho de roseira escurecido a partir do corte da poda"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Flor murcha e ladrão",
+    "01\tDepois da florada",
+    "02\tO broto ladrão",
+    "03\tQuatro podas"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/poda-de-roseira/roseira-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 172,
+     "alt": "André colhendo uma rosa"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · FLOR MURCHA",
+    "Depois da florada",
+    "QUANDO",
+    "A rosa murchou",
+    "DE NOVO EM",
+    "Cada florada",
+    "VOCÊ VAI PRECISAR",
+    "Tesoura afiada e limpa",
+    "Folha de cinco corte logo acima",
+    "Álcool 70% na lâmina",
+    "Balde para recolher tudo",
+    "Cuidado",
+    "Cortar só a flor desça 2 ou 3 folhas",
+    "Galho velho fica na trepadeira de cacho"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · LADRÃO",
+    "ATENÇÃO",
+    "Broto que nasce abaixo do enxerto é o ladrão.",
+    "Ele vem do cavalo e pode tomar conta da roseira.",
+    "A pista é o broto diferente, saindo do pé.",
+    "FAÇA ASSIM",
+    "Arranque logo que aparecer.",
+    "Na arvorezinha, tire todo broto do tronco."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro podas",
+    "1",
+    "Flor grande",
+    "30 a 37 cm do chão.",
+    "2",
+    "Floribunda",
+    "45 a 50 cm.",
+    "3",
+    "Minirrosa",
+    "Pela metade.",
+    "4",
+    "Trepadeira",
+    "Só as pontas.",
+    "CHAVE\tGema para fora\tMeio aberto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/poda-de-roseira/por-var-grande.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 292,
+     "alt": "Roseira de flor grande recém-podada, galhos baixos"
+    },
+    {
+     "src": "/guias/poda-de-roseira/por-var-floribunda.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 295,
+     "alt": "Roseira floribunda podada em forma de arbusto"
+    },
+    {
+     "src": "/guias/poda-de-roseira/por-var-mini.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 183,
+     "alt": "Minirrosa aparada num vaso"
+    },
+    {
+     "src": "/guias/poda-de-roseira/por-var-trepadeira.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 286,
+     "alt": "Roseira trepadeira num muro, com as pontas aparadas"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "SÓ FOLHA, POUCA ROSA",
+    "Adubo forte demais.",
+    "ROSA DE CABO CURTO",
+    "Corte acima da folha de 5.",
+    "TREPADEIRA SEM FLOR",
+    "Poda pesada demais.",
+    "FLORADA ATRASADA",
+    "Podou tarde demais.",
+    "DICA DO ANDRÉ",
+    "Todo ano, tire um galho velho rente à base."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "45",
+    "CM",
+    "do chão e 4 galhos: assim a rosa Super Star deu mais flor, maior e mais cedo.",
+    "Poda curta nem sempre é melhor.",
+    "E MAIS UMA",
+    "Envergar o galho, em vez de cortar, deu mais galhos com flor."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Tesoura afiada",
+    "Álcool 70% na lâmina",
+    "Galho morto fora",
+    "Galho pela metade",
+    "Corte acima da gema para fora",
+    "Corte em diagonal",
+    "Ladrão arrancado",
+    "Flor murcha cortada",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua roseira brotar depois da poda, me conta. E ajuda a vizinha a podar a dela. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "031\tVOCÊ TEM",
+    "032",
+    "033",
+    "034",
+    "035",
+    "036",
+    "São 31 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 032 MUDA DE ROSA",
+    "Comente ESTACA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/poda-de-roseira/roseira-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 124,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

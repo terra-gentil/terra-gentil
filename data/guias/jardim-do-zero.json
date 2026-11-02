@@ -1,0 +1,439 @@
+{
+ "codigo": "TG024",
+ "slug": "jardim-do-zero",
+ "titulo": "Jardim do Zero",
+ "capa": {
+  "src": "/guias/jardim-do-zero/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Jardim do Zero"
+ },
+ "meta": {
+  "titulo": "Jardim do zero: guia grátis para começar o jardim",
+  "descricao": "Como começar um jardim do zero, do entulho à primeira muda, com a planta certa no lugar certo. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG024.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t024",
+    "COLEÇÃO TERRA GENTIL",
+    "JARDIM",
+    "Jardim do Zero",
+    "Do entulho à primeira muda.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-do-zero/coringa-gramado-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 182,
+     "alt": "André num quintal vazio"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Um quintal de terra batida pode virar jardim.",
+    "Planta refresca a casa e deixa a chuva entrar no chão.",
+    "Aqui eu te mostro por onde começar, sem gastar à toa.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Anote onde bate sol de manhã e onde é sombra.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-do-zero/coringa-luz-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 152,
+     "alt": "André olhando o sol no quintal"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Planta certa no lugar certo.",
+    "Sol ou sombra, terra certa e rega na frequência certa.",
+    "CHÃO SEMPRE COBERTO",
+    "A chuva que serve é a que entra na terra, não a que escorre.",
+    "Nada de terra pelada."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do terreno",
+    "06",
+    "CAPÍTULO 1",
+    "Limpar e pensar",
+    "08",
+    "CAPÍTULO 2",
+    "Plantar a muda",
+    "12",
+    "CAPÍTULO 3",
+    "Terra que bebe",
+    "15",
+    "CAPÍTULO 4",
+    "De perto, sem confusão",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Planta fraca só na beira? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO TERRENO",
+    "Antes de plantar",
+    "O que ele pede",
+    "LIMPO",
+    "Sem entulho nem pedra",
+    "LUZ",
+    "Sol ou sombra, anote",
+    "TERRA",
+    "Fofa, que a água entra",
+    "PALHA",
+    "Chão sempre coberto",
+    "REGA",
+    "Manhã ou fim de tarde",
+    "PET\tATENÇÃO",
+    "Escolha planta segura para pet"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Limpar e pensar",
+    "01\tOs quatro pilares",
+    "02\tPlantar, passo a passo",
+    "03\tBeira fraca"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-do-zero/coringa-ferramentas-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 162,
+     "alt": "André limpando o quintal"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · OS PILARES",
+    "Os quatro pilares",
+    "PILAR\tCERTO\tERRO",
+    "Lugar\tSol ou sombra\tPlanta no lugar errado",
+    "Terra\tLimpa e fofa\tEntulho de obra",
+    "Rega\tManhã ou tarde\tSol do meio-dia",
+    "Cuidado\tSempre um pouco\tLargar e refazer",
+    "Entulho da limpeza vai para a caçamba, não para o canto.",
+    "DICA DO ANDRÉ",
+    "Jardim cuidado aos poucos sai mais barato que refazer."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Plantar a muda",
+    "01\tSem desmanchar o torrão",
+    "02\tSemente e rizoma",
+    "03\tBeira fraca"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-do-zero/coringa-muda-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 174,
+     "alt": "André com uma muda no saquinho"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Plantar uma muda? Faça assim.",
+    "QUANDO",
+    "Manhã ou fim de tarde",
+    "TEMPO",
+    "15 minutos",
+    "PRECISA",
+    "Cavadeira, tutor e palha",
+    "1",
+    "TORRÃO INTEIRO",
+    "Não desmanche a raiz.",
+    "2",
+    "APERTE E AMARRE",
+    "Terra firme e um tutor.",
+    "3",
+    "PALHA E ÁGUA",
+    "Regue bastante até pegar.",
+    "DICA DO ANDRÉ",
+    "Pegou? Aí as regas podem ir ficando mais espaçadas."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-do-zero/zer-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 271,
+     "alt": "Mãos pondo uma muda com o torrão inteiro na cova"
+    },
+    {
+     "src": "/guias/jardim-do-zero/zer-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 194,
+     "alt": "Mãos amarrando uma muda num tutor de bambu"
+    },
+    {
+     "src": "/guias/jardim-do-zero/zer-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 284,
+     "alt": "Mãos espalhando palha em volta da muda recém-plantada"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · SEMENTE",
+    "Semente e rizoma",
+    "Semente vai coberta com terra do tamanho dela.",
+    "Semente fininha, tipo pó, só por cima.",
+    "Sementeira pede rega duas a três vezes por dia.",
+    "Helicônia e agapanto viram muda por pedaço do rizoma com broto.",
+    "Depois da seca, a rega faz brotar raizinhas brancas novas."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Planta fraca só na beira?",
+    "1",
+    "O QUE PARECE",
+    "Planta ruim ou doença.",
+    "O QUE PODE SER",
+    "Chão compactado onde se pisa.",
+    "COMO RESOLVER",
+    "Faça um caminho e deixe a raiz e a palha afofarem o resto."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-do-zero/zer-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 296,
+     "alt": "Canteiro com plantas fracas só na beira, junto de uma trilha pisada"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Terra que bebe",
+    "01\tAntes de cobrir",
+    "02\tChão pelado",
+    "03\tQuatro de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-do-zero/coringa-solo-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 148,
+     "alt": "André com terra fofa nas mãos"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · COBRIR",
+    "Antes de cobrir",
+    "QUANDO",
+    "Logo depois de plantar",
+    "DE NOVO EM",
+    "Quando a palha sumir",
+    "VOCÊ VAI PRECISAR",
+    "Palha ou folha seca",
+    "Grama cortada já seca",
+    "Ancinho para espalhar",
+    "Regador para a primeira rega",
+    "Cuidado",
+    "Chão nunca pelado",
+    "Rega de manhã cedo"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · TERRA QUE BEBE",
+    "ATENÇÃO",
+    "Terra revirada e pelada perde a estrutura.",
+    "Até a pata de uma formiga desmancha o chão descoberto.",
+    "A gota de chuva bate e forma uma crosta dura.",
+    "FAÇA ASSIM",
+    "Cubra o chão com palha logo depois de plantar.",
+    "Até um tule a 5 cm do chão quebra a gota."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro ferramentas",
+    "1",
+    "Enxada",
+    "Capina e abre leira.",
+    "2",
+    "Cavadeira",
+    "Cova funda e reta.",
+    "3",
+    "Ancinho",
+    "Espalha palha.",
+    "4",
+    "Forcado",
+    "Revira sem cortar.",
+    "CHAVE\tComece com pouco\tSerra só no grosso"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-do-zero/zer-var-enxada.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 295,
+     "alt": "Enxada encostada num muro do quintal"
+    },
+    {
+     "src": "/guias/jardim-do-zero/zer-var-cavadeira.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 177,
+     "alt": "Cavadeira articulada fincada na terra"
+    },
+    {
+     "src": "/guias/jardim-do-zero/zer-var-ancinho.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 295,
+     "alt": "Ancinho espalhando palha num canteiro"
+    },
+    {
+     "src": "/guias/jardim-do-zero/zer-var-forcado.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 279,
+     "alt": "Forcado fincado num monte de palha"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "BEIRA RAQUÍTICA",
+    "Chão pisado. Faça caminho.",
+    "ÁGUA ESCORRE",
+    "Terra dura. Palha e raiz.",
+    "TERRA RACHADA",
+    "Faltam poros, não água.",
+    "MUDA MURCHOU",
+    "Torrão desmanchado.",
+    "DICA DO ANDRÉ",
+    "Depois de uma seca, a rega faz nascer raiz nova: não desista da planta."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "7",
+    "MINUTOS",
+    "levou a água para entrar no solo de mata, num teste.",
+    "No solo capinado e gradeado, a mesma água levou 240.",
+    "E MAIS UMA",
+    "Os incas contam que Cuzco nasceu onde o bastão afundou numa terra fofa."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Anote sol e sombra",
+    "Tire entulho e pedra",
+    "Planta certa no lugar certo",
+    "Torrão sempre inteiro",
+    "Tutor e palha na muda",
+    "Chão nunca pelado",
+    "Regue de manhã ou à tarde",
+    "Faça um caminho para pisar",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua primeira muda pegar, me conta. E planta uma na calçada. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "024\tVOCÊ TEM",
+    "025",
+    "026",
+    "027",
+    "028",
+    "029",
+    "São 24 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 025 HORTA DE SEMENTE",
+    "Comente SEMENTE no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-do-zero/coringa-gramado-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 220,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

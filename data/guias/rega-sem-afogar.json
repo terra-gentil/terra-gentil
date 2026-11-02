@@ -1,0 +1,439 @@
+{
+ "codigo": "TG005",
+ "slug": "rega-sem-afogar",
+ "titulo": "Rega sem Afogar",
+ "capa": {
+  "src": "/guias/rega-sem-afogar/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Rega sem Afogar"
+ },
+ "meta": {
+  "titulo": "Rega sem afogar: guia grátis de rega e troca de vaso",
+  "descricao": "Quando regar a planta sem afogar a raiz, tocando a terra antes, e como trocar de vaso sem drama. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG005.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t005",
+    "COLEÇÃO TERRA GENTIL",
+    "CUIDADO",
+    "Rega sem Afogar",
+    "E a troca de vaso sem drama.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rega-sem-afogar/coringa-regar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 182,
+     "alt": "André regando as plantas"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Muita gente rega um pouquinho todo dia, com todo o amor.",
+    "E a planta morre mesmo assim. Não é culpa sua.",
+    "Aqui eu te mostro quando regar, quanto e como trocar de vaso.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Enfie o dedo na terra de um vaso antes de regar.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rega-sem-afogar/coringa-regar-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 234,
+     "alt": "André com o regador na mão"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Toque a terra antes de regar.",
+    "Seca no dedo, regue. Úmida, espere. Esse teste salva mais planta que qualquer adubo.",
+    "O TESTE DA COR",
+    "Terra clara na superfície pede água. Terra escura provavelmente ainda está úmida.",
+    "Quando regar, molhe até a água sair pelo furo do vaso."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da rega",
+    "06",
+    "CAPÍTULO 1",
+    "Sede ou afogada?",
+    "08",
+    "CAPÍTULO 2",
+    "A rega que não vicia",
+    "12",
+    "CAPÍTULO 3",
+    "Trocar de vaso",
+    "15",
+    "CAPÍTULO 4",
+    "De perto, sem confusão",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Murcha com a terra molhada? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA REGA",
+    "Rega certa",
+    "O jeito que serve para quase todo vaso",
+    "QUANDO",
+    "Terra seca no dedo",
+    "QUANTO",
+    "Até a água sair pelo furo",
+    "HORA",
+    "Manhã cedo ou fim da tarde",
+    "ONDE",
+    "Na terra, não na folha",
+    "DIFICULDADE",
+    "Fácil, depois do teste do dedo",
+    "ÁGUA PARADA\tZERO",
+    "Esvazie o cachepô depois da rega"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Sede ou afogada?",
+    "01\tOs sinais da terra",
+    "02\tA rega que não vicia",
+    "03\tMurcha com terra molhada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rega-sem-afogar/coringa-regar-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 159,
+     "alt": "André olhando a terra do vaso"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · SINAIS",
+    "O que a planta está dizendo?",
+    "SINAL\tÉ\tFAÇA",
+    "Terra clara\tSede\tRegue bem",
+    "Mofo verde\tÁgua demais\tEspere secar",
+    "Cheiro ruim\tRaiz podre\tTroque a terra",
+    "Folha sem brilho\tSede\tRegue bem",
+    "No vaso de barro, bata de leve: som de sino pede água.",
+    "DICA DO ANDRÉ",
+    "A maior causa de morte de planta de casa é água: de menos ou de mais."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "A rega que não vicia",
+    "01\tA rega certa, passo a passo",
+    "02\tPouquinho todo dia vicia",
+    "03\tMurcha com terra molhada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rega-sem-afogar/coringa-regar-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 148,
+     "alt": "André regando um vaso"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Regar? Faça assim.",
+    "QUANDO",
+    "Terra seca no dedo",
+    "TEMPO",
+    "5 minutos",
+    "PRECISA",
+    "Regador e paciência",
+    "1",
+    "TOQUE A TERRA",
+    "Seca no dedo? Hora de regar.",
+    "2",
+    "MOLHE A TERRA",
+    "Devagar, até sair água pelo furo.",
+    "3",
+    "ESCORRA",
+    "Tire do cachepô até parar de pingar.",
+    "DICA DO ANDRÉ",
+    "Regue de manhã cedo ou no fim da tarde. Na hora quente, a água vai embora."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rega-sem-afogar/reg-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 177,
+     "alt": "Dedo tocando a terra do vaso"
+    },
+    {
+     "src": "/guias/rega-sem-afogar/reg-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 211,
+     "alt": "Regador molhando a terra até escorrer"
+    },
+    {
+     "src": "/guias/rega-sem-afogar/reg-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 182,
+     "alt": "Vaso tirado do cachepô escorrendo a água"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · A REGA",
+    "Pouquinho todo dia vicia",
+    "Rega pouca molha só em cima. A raiz sobe atrás da água e fica viciada.",
+    "Num dia de sol sem rega, essa raiz frita. Regue bastante e poucas vezes.",
+    "Borrifar refresca a folha, mas não molha a raiz. Não substitui a rega.",
+    "Quatro dedos de palha por cima da terra seguram a água por mais tempo.",
+    "O susto: o primeiro jato da mangueira sai quente. Jogue fora antes de regar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Murcha com a terra molhada?",
+    "1",
+    "O QUE PARECE",
+    "Ela está com sede.",
+    "O QUE PODE SER",
+    "Água demais: a raiz ficou sem ar.",
+    "COMO RESOLVER",
+    "Tire do vaso, enrole o torrão em papel toalha até secar um pouco e replante num vaso limpo."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rega-sem-afogar/reg-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 251,
+     "alt": "Planta murcha num vaso de terra encharcada"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Trocar de vaso",
+    "01\tAntes de começar",
+    "02\tO vaso só um pouco maior",
+    "03\tHora de trocar"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rega-sem-afogar/coringa-trocar-vaso-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 179,
+     "alt": "André trocando uma planta de vaso"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · TROCAR DE VASO",
+    "Antes de começar",
+    "QUANDO",
+    "Terra secando rápido mesmo regando",
+    "DE NOVO EM",
+    "Quando a raiz sair pelo furo",
+    "VOCÊ VAI PRECISAR",
+    "Vaso novo, só uns 2,5 cm maior",
+    "Pedrinha ou caco no fundo, sem tampar o furo",
+    "Substrato novo , do mesmo tipo do antigo",
+    "Tesoura limpa para a raiz enrolada",
+    "Jornal no chão",
+    "Rega na véspera : torrão seco pega mal",
+    "Dia nublado, de manhã ou à tardinha"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · TROCAR DE VASO",
+    "ATENÇÃO",
+    "Vaso grande demais afoga.",
+    "Planta pequena em vaso enorme fica com a terra encharcada, e a raiz apodrece.",
+    "Vaso acima de 15 cm pede só uns 5 cm a mais.",
+    "FAÇA ASSIM",
+    "Suba um número de vaso de cada vez.",
+    "Cachepô não é vaso: plante num vaso com furo e ponha dentro."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro jeitos de vaso",
+    "1",
+    "Barro",
+    "Respira e seca rápido. Rega mais.",
+    "2",
+    "Plástico",
+    "Leve e barato. Pede menos rega.",
+    "3",
+    "Cachepô",
+    "Bonito, sem furo. Esvazie a água.",
+    "4",
+    "Pavio",
+    "Cordão na terra e a ponta no pote.",
+    "CHAVE\tSeca rápido\tJunta água"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rega-sem-afogar/reg-var-barro.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 279,
+     "alt": "Vaso de barro com planta"
+    },
+    {
+     "src": "/guias/rega-sem-afogar/reg-var-plastico.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 214,
+     "alt": "Vaso de plástico com planta"
+    },
+    {
+     "src": "/guias/rega-sem-afogar/reg-var-cachepo.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 190,
+     "alt": "Cachepô com o vaso dentro"
+    },
+    {
+     "src": "/guias/rega-sem-afogar/reg-var-pavio.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 127,
+     "alt": "Vaso com pavio num pote de água"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Hora de trocar de vaso",
+    "RAIZ NO FURO",
+    "Muita raiz saindo por baixo: o vaso ficou pequeno.",
+    "SECA RÁPIDO",
+    "Terra que seca logo, mesmo regando sempre.",
+    "FOLHA AMARELA",
+    "Planta murcha e sem viço, sem motivo aparente.",
+    "SEDE O TEMPO TODO",
+    "Planta grande em vaso pequeno pede água sem parar.",
+    "DICA DO ANDRÉ",
+    "Quebrou raiz na troca? Siga em frente. Planta saudável logo faz raiz nova."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "SÓ",
+    "1 EM 35",
+    "bichinhos da terra resiste ao encharcado.",
+    "Minhoca e companhia precisam de ar. Água empoçada sufoca quem alimenta a planta.",
+    "E MAIS UMA",
+    "Batata em terra pobre bebe mais que o dobro de água."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Toque a terra antes de regar",
+    "Molhe até sair água pelo furo",
+    "Regue de manhã cedo ou no fim da tarde",
+    "Esvazie o cachepô 10 minutos depois",
+    "Cubra a terra com palha",
+    "Vaso novo só um pouco maior",
+    "Regue na véspera de trocar de vaso",
+    "Depois da troca, 2 ou 3 dias na meia-sombra",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua planta parar de murchar, me conta. E ensina o teste do dedo para alguém. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "005\tVOCÊ TEM",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "São 11 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 006 O MATO QUE ENSINA",
+    "Comente MATO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rega-sem-afogar/coringa-regar-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 188,
+     "alt": "Retrato do André com o regador"
+    }
+   ]
+  }
+ ]
+}

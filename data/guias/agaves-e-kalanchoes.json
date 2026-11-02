@@ -1,0 +1,439 @@
+{
+ "codigo": "TG019",
+ "slug": "agaves-e-kalanchoes",
+ "titulo": "Agaves e Kalanchoes",
+ "capa": {
+  "src": "/guias/agaves-e-kalanchoes/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Agaves e Kalanchoes"
+ },
+ "meta": {
+  "titulo": "Agaves e kalanchoes: guia grátis de suculentas",
+  "descricao": "Como cuidar de agave e kalanchoe: flor fácil, roseta forte e pouca água, não zero água. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG019.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t019",
+    "COLEÇÃO TERRA GENTIL",
+    "SUCULENTA",
+    "Agaves e Kalanchoes",
+    "Flor fácil e roseta forte.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/agaves-e-kalanchoes/suculenta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 116,
+     "alt": "André com um kalanchoe florido"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Todo mundo já ganhou um kalanchoe de supermercado.",
+    "Ele floresce até com pouca luz e a flor dura semanas.",
+    "Aqui eu te mostro a flor de novo, a muda e a agave.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache o kalanchoe da casa e veja se ele está esticado.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/agaves-e-kalanchoes/suculenta-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 133,
+     "alt": "André com um vaso de kalanchoe na janela"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Pouca água, não zero água.",
+    "Quando ela está crescendo, rega regular deixa a planta mais bonita.",
+    "LUZ FORTE, SEM ASSAR",
+    "Quatro horas de luz forte e sombra rala no pico do calor.",
+    "E longe do pet: kalanchoe é tóxico."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do kalanchoe",
+    "06",
+    "CAPÍTULO 1",
+    "Kalanchoe de flor",
+    "08",
+    "CAPÍTULO 2",
+    "Muda de folha",
+    "12",
+    "CAPÍTULO 3",
+    "Agave",
+    "15",
+    "CAPÍTULO 4",
+    "De perto, sem confusão",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Agave secando depois da flor? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO KALANCHOE",
+    "Kalanchoe de flor",
+    "O que ele pede",
+    "LUZ",
+    "Claridade, até meia-sombra",
+    "ÁGUA",
+    "Só com a terra seca",
+    "TERRA",
+    "Arenosa, que drena rápido",
+    "ADUBO",
+    "Uma vez por ano basta",
+    "FLOR",
+    "Dura 6 semanas ou mais",
+    "PET\tTÓXICO",
+    "Kalanchoe e agave: longe de cão e gato"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Kalanchoe de flor",
+    "01\tQual pede o quê",
+    "02\tMuda de folha",
+    "03\tFlorir de novo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/agaves-e-kalanchoes/suculenta-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 127,
+     "alt": "André com kalanchoes coloridos"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · QUAL PEDE O QUÊ",
+    "Cada uma do seu jeito",
+    "PLANTA\tLUZ\tCUIDADO",
+    "Kalanchoe\tMeia-sombra\tTóxico para pet",
+    "Calandiva\tClaridade\tFlor dobrada",
+    "Orelha-de-gato\tSol\tPincel, sem água",
+    "Agave\tSol pleno\tEspinho na ponta",
+    "Folha cinza, azul ou com espinho aguenta mais sol que a verde lisa.",
+    "DICA DO ANDRÉ",
+    "Orelha-de-gato suja de terra? Limpe com pincel macio, sem água."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Muda de folha",
+    "01\tFolha vira planta",
+    "02\tFlorir de novo",
+    "03\tAgave secando"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/agaves-e-kalanchoes/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André fazendo mudas de suculenta"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Muda de folha? Faça assim.",
+    "QUANDO",
+    "Com a planta crescendo",
+    "TEMPO",
+    "10 minutos",
+    "PRECISA",
+    "Folha inteira e terra arenosa",
+    "1",
+    "TIRE A FOLHA INTEIRA",
+    "Folha rasgada não enraíza.",
+    "2",
+    "ENTERRE SÓ UMA PARTE",
+    "Metade da folha fica de fora.",
+    "3",
+    "SOL DA MANHÃ",
+    "Só até a raiz pegar.",
+    "DICA DO ANDRÉ",
+    "Para mexer sem estragar, segure pelo caule, onde acaba a raiz."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/agaves-e-kalanchoes/aga-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 132,
+     "alt": "Mãos destacando uma folha inteira de kalanchoe"
+    },
+    {
+     "src": "/guias/agaves-e-kalanchoes/aga-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 219,
+     "alt": "Dedos enterrando metade de uma folha na terra arenosa"
+    },
+    {
+     "src": "/guias/agaves-e-kalanchoes/aga-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 181,
+     "alt": "Bandeja de mudas de folha no sol da manhã"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · FLORIR DE NOVO",
+    "Florir de novo",
+    "O kalanchoe de supermercado floresce a cada 6 meses.",
+    "Esticado depois de várias floradas? É desgaste normal.",
+    "Faça mudas de galho e renove o vaso.",
+    "No segundo ano a florada perde força: poda e adubo não recuperam.",
+    "Até a haste da flor vira muda: pedaços de 10 cm, metade na areia."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Agave secando depois da flor?",
+    "1",
+    "O QUE PARECE",
+    "Doença ou falta de água.",
+    "O QUE PODE SER",
+    "O fim natural: a maioria morre depois de florir.",
+    "COMO RESOLVER",
+    "Cortar a flor não salva. Guarde os filhotes e as mudinhas da haste."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/agaves-e-kalanchoes/aga-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 295,
+     "alt": "Agave com a roseta secando ao pé de uma haste de flor alta"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Agave",
+    "01\tAntes de plantar",
+    "02\tEspinho na passagem",
+    "03\tQuatro de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/agaves-e-kalanchoes/cacto-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 126,
+     "alt": "André ao lado de uma agave no quintal"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · AGAVE",
+    "Antes de plantar",
+    "QUANDO",
+    "Com a terra seca",
+    "DE NOVO EM",
+    "Só quando o vaso apertar",
+    "VOCÊ VAI PRECISAR",
+    "Vaso firme, que não tombe",
+    "Terra arenosa, nada de terra do jardim",
+    "Luva grossa por causa do espinho",
+    "Tesoura para a ponta",
+    "Espaço",
+    "Paciência para a flor",
+    "Lugar certo para quando ela morrer"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · AGAVE",
+    "ATENÇÃO",
+    "Agave na passagem fura quem passa.",
+    "Apare meio centímetro da ponta do espinho.",
+    "A agave-americana solta filhotes a 1 metro de distância.",
+    "FAÇA ASSIM",
+    "Em quintal pequeno, prefira um vaso firme.",
+    "Agave grande vira cerca viva e barreira contra fogo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro de perto",
+    "1",
+    "Kalanchoe de flor",
+    "Flor até com pouca luz.",
+    "2",
+    "Calandiva",
+    "Flor dobrada, parece rosinha.",
+    "3",
+    "Orelha-de-gato",
+    "Folha peluda, prateada.",
+    "4",
+    "Agave-dragão",
+    "Sem espinho, boa de vaso.",
+    "CHAVE\tTerra que drena\tLonge do pet"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/agaves-e-kalanchoes/aga-var-kalanchoe.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 296,
+     "alt": "Kalanchoe florido em vaso"
+    },
+    {
+     "src": "/guias/agaves-e-kalanchoes/aga-var-calandiva.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 201,
+     "alt": "Calandiva de flor dobrada"
+    },
+    {
+     "src": "/guias/agaves-e-kalanchoes/aga-var-orelha.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 250,
+     "alt": "Orelha-de-gato de folha peluda"
+    },
+    {
+     "src": "/guias/agaves-e-kalanchoes/aga-var-dragao.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 236,
+     "alt": "Agave-dragão em vaso na varanda"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "ESTICADO E VERDE",
+    "Falta sol. Mude aos poucos.",
+    "MANCHA BEGE NA FOLHA",
+    "Sol demais. Sombra clara.",
+    "ALGODÃO NA FOLHA",
+    "Cochonilha no encontro do caule.",
+    "ROSETA SECANDO",
+    "Depois da flor, é normal.",
+    "DICA DO ANDRÉ",
+    "Encostada no vidro da janela ela queima. Cortina fina resolve."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "25",
+    "ANOS",
+    "pode levar a agave-rainha-vitória para florir uma única vez.",
+    "A haste da flor chega a 4,5 metros de altura.",
+    "E MAIS UMA",
+    "Em algumas agaves, a haste vira milhares de mudinhas que caem no chão."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Ache o kalanchoe da casa",
+    "Pouca água, não zero água",
+    "Luz forte, sombra no pico",
+    "Faça uma muda de folha",
+    "Esticado? Renove com muda",
+    "Apare o espinho da agave",
+    "Guarde os filhotes da agave",
+    "Longe de cão e gato",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua muda de folha pegar, me conta. E dá uma para alguém. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "019\tVOCÊ TEM",
+    "020",
+    "021",
+    "022",
+    "023",
+    "024",
+    "São 19 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 020 SUCULENTA PENDENTE",
+    "Comente PENDENTE no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/agaves-e-kalanchoes/cacto-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 156,
+     "alt": "Retrato do André com suculentas"
+    }
+   ]
+  }
+ ]
+}

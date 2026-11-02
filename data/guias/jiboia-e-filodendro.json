@@ -1,0 +1,439 @@
+{
+ "codigo": "TG035",
+ "slug": "jiboia-e-filodendro",
+ "titulo": "Jiboia e Filodendro",
+ "capa": {
+  "src": "/guias/jiboia-e-filodendro/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Jiboia e Filodendro"
+ },
+ "meta": {
+  "titulo": "Jiboia e filodendro: guia grátis das trepadeiras",
+  "descricao": "Como cuidar de jiboia e filodendro, as trepadeiras de casa, com um apoio para subir. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG035.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t035",
+    "COLEÇÃO TERRA GENTIL",
+    "JIBOIA",
+    "Jiboia e Filodendro",
+    "As trepadeiras de casa.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jiboia-e-filodendro/jiboia-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 160,
+     "alt": "André com uma jiboia pendente"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Filodendro quer dizer amigo da árvore.",
+    "Jiboia e filodendro nasceram para subir, e com apoio a folha cresce muito.",
+    "Aqui eu te mostro luz, rega, tutor e muda pelo nó.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache um nó na rama da sua jiboia: é dali que sai a raiz.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jiboia-e-filodendro/jiboia-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 145,
+     "alt": "André olhando as ramas da jiboia"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Dê um apoio para ela subir.",
+    "Pendurada, a jiboia fica com folha de filhote. Subindo, a folha cresce.",
+    "ESTACA DE MUSGO",
+    "Um tutor com musgo é o tronco de casa.",
+    "Folha grande."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha das trepadeiras",
+    "06",
+    "CAPÍTULO 1",
+    "Luz e rega",
+    "08",
+    "CAPÍTULO 2",
+    "Muda pelo nó",
+    "12",
+    "CAPÍTULO 3",
+    "Adubo e tutor",
+    "15",
+    "CAPÍTULO 4",
+    "Trepadeiras de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Folha amarela e queimada? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DAS TREPADEIRAS",
+    "Antes de plantar",
+    "O que elas pedem",
+    "LUZ",
+    "Clara e filtrada",
+    "ÁGUA",
+    "Quase secar entre regas",
+    "ADUBO",
+    "Diluído, uma vez por mês",
+    "VASO",
+    "Jovem: troca todo ano",
+    "PET",
+    "Cautela com gato",
+    "PELE\tATENÇÃO",
+    "Mexa com luva"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Luz e rega",
+    "01\tCerto e errado",
+    "02\tMuda, passo a passo",
+    "03\tFolha queimada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jiboia-e-filodendro/jiboia-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 134,
+     "alt": "André perto da janela com a jiboia"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Luz\tClara, difusa\tSol demais",
+    "Rega\tQuase secar\tSempre molhada",
+    "Frio\tSegurar a rega\tRegar igual",
+    "Adubo\tDiluído\tExagerado",
+    "Borrife as folhas quando o ar estiver seco.",
+    "DICA DO ANDRÉ",
+    "A jiboia branca é mais fraca e cresce mais devagar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Muda pelo nó",
+    "01\tMuda, passo a passo",
+    "02\tEstaca ou mergulhia",
+    "03\tFolha queimada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jiboia-e-filodendro/jiboia-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 149,
+     "alt": "André cortando uma rama"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Muda de jiboia? Faça assim.",
+    "QUANDO",
+    "Na fase de crescimento",
+    "TEMPO",
+    "10 minutos",
+    "PRECISA",
+    "Tesoura limpa e um vaso",
+    "1",
+    "ACHE O NÓ",
+    "Onde sai a folha.",
+    "2",
+    "CORTE",
+    "Uns 10 cm, com o nó.",
+    "3",
+    "PLANTE",
+    "Quente, úmido, luz filtrada.",
+    "DICA DO ANDRÉ",
+    "Rama com raiz de ar pega muito fácil."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jiboia-e-filodendro/jib-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 154,
+     "alt": "Dedo apontando o nó numa rama de jiboia"
+    },
+    {
+     "src": "/guias/jiboia-e-filodendro/jib-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 129,
+     "alt": "Mãos cortando um pedaço de rama de uns 10 cm com o nó"
+    },
+    {
+     "src": "/guias/jiboia-e-filodendro/jib-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 289,
+     "alt": "Mãos plantando as estacas de jiboia num vaso"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MUDA",
+    "Estaca ou mergulhia",
+    "Estaca dá jiboia adulta em 2 a 3 anos.",
+    "Deitando a rama na terra, em 1 a 2.",
+    "Estaca de filodendro enraíza em 4 a 6 semanas.",
+    "O alporque dá filodendro grande em 12 a 18 meses.",
+    "Guaimbê não pega de estaca: só tem uma ponta."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Folha amarela e queimada?",
+    "1",
+    "O QUE PARECE",
+    "Falta de adubo.",
+    "O QUE PODE SER",
+    "Sol demais na folha.",
+    "COMO RESOLVER",
+    "Luz clara, mas difusa."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jiboia-e-filodendro/jib-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 191,
+     "alt": "Filodendro com folhas amareladas e partes secas perto de uma janela de sol forte"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Adubo e tutor",
+    "01\tAdubo sem exagero",
+    "02\tO tutor de musgo",
+    "03\tTrepadeiras de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jiboia-e-filodendro/jiboia-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 177,
+     "alt": "André cuidando das trepadeiras"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · ADUBO",
+    "Adubo sem exagero",
+    "QUANDO",
+    "Na fase de crescimento",
+    "DE NOVO EM",
+    "Uma vez por mês",
+    "VOCÊ VAI PRECISAR",
+    "Adubo bem diluído",
+    "Magnésio de vez em quando",
+    "Borrifador no ar seco",
+    "Regador rega farta ao crescer",
+    "Cuidado",
+    "Adubo forte ele come pouco",
+    "Época fria segure a rega"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · TUTOR",
+    "ATENÇÃO",
+    "Pendurada ou no chão, a jiboia fica com folha de filhote.",
+    "Subindo num apoio, a folha cresce.",
+    "Na mata, o filodendro sobe e solta raiz até o chão.",
+    "FAÇA ASSIM",
+    "Finque um tutor coberto de musgo no vaso.",
+    "Encoste as ramas nele."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro trepadeiras",
+    "1",
+    "Jiboia",
+    "Quase nunca dá flor.",
+    "2",
+    "Marble Queen",
+    "Branca, de 1935.",
+    "3",
+    "Cordato",
+    "A hera dos trópicos.",
+    "4",
+    "Singônio",
+    "Folha de seta.",
+    "CHAVE\tLuz filtrada\tApoio para subir"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jiboia-e-filodendro/jib-var-jiboia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 299,
+     "alt": "Jiboia verde e amarela subindo num tutor"
+    },
+    {
+     "src": "/guias/jiboia-e-filodendro/jib-var-marble.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 258,
+     "alt": "Jiboia Marble Queen com folhas brancas e verdes"
+    },
+    {
+     "src": "/guias/jiboia-e-filodendro/jib-var-cordato.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 102,
+     "alt": "Filodendro de folha em coração caindo de uma prateleira"
+    },
+    {
+     "src": "/guias/jiboia-e-filodendro/jib-var-singonio.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 244,
+     "alt": "Singônio de folha em seta num vaso"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "JIBOIA FICOU VERDE",
+    "Pode ser normal.",
+    "FILODENDRO SEM MANCHA",
+    "O branco pede mais luz.",
+    "SINGÔNIO MUDOU",
+    "Cresceu: a folha muda.",
+    "ESPALHOU DEMAIS",
+    "Não jogue no mato.",
+    "DICA DO ANDRÉ",
+    "Rama cortada vai para o lixo, nunca para a mata."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "80",
+    "CM",
+    "pode passar a folha da jiboia quando ela acha um tronco para subir.",
+    "Toda recortada.",
+    "E MAIS UMA",
+    "Existem mais de 500 espécies de filodendro, todas das Américas."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Luz clara e filtrada",
+    "Terra quase seca entre regas",
+    "Adubo diluído no mês",
+    "Tutor de musgo",
+    "Muda sempre com nó",
+    "Menos água no frio",
+    "Luva para mexer",
+    "Rama longe da mata",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua jiboia subir no tutor, me conta. E dá uma rama com nó para alguém. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "035\tVOCÊ TEM",
+    "036",
+    "037",
+    "038",
+    "039",
+    "040",
+    "São 35 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 036 LÍRIO-DA-PAZ",
+    "Comente PAZ no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jiboia-e-filodendro/jiboia-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 116,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

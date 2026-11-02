@@ -1,0 +1,439 @@
+{
+ "codigo": "TG012",
+ "slug": "horta-em-vaso",
+ "titulo": "Horta em Vaso",
+ "capa": {
+  "src": "/guias/horta-em-vaso/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Horta em Vaso"
+ },
+ "meta": {
+  "titulo": "Horta em vaso: guia grátis de salada na janela",
+  "descricao": "Como fazer horta em vaso e colher alface e salada na sua janela, mesmo sem quintal. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG012.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t012",
+    "COLEÇÃO TERRA GENTIL",
+    "COZINHA VERDE",
+    "Horta em Vaso",
+    "Salada colhida na sua janela.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-em-vaso/coringa-horta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André colhendo na horta"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Muita gente acha que horta precisa de quintal grande.",
+    "Não precisa. Um vaso de 20 cm já dá salada.",
+    "Aqui eu te mostro o que plantar, como colher e colher de novo.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache um canto com sol para um vaso de horta.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-em-vaso/coringa-horta-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André com um vaso de verduras"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Plante alface de folha.",
+    "É a mais fácil de todas: em cerca de um mês vai da semente à salada.",
+    "O CORTE QUE REBROTA",
+    "Corte a alface de folha a 2 ou 3 cm da terra. Ela volta e dá mais uma colheita.",
+    "Na horta, o que você não colhe a praga come."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da alface",
+    "06",
+    "CAPÍTULO 1",
+    "O que cabe no vaso",
+    "08",
+    "CAPÍTULO 2",
+    "Semear sem perder",
+    "12",
+    "CAPÍTULO 3",
+    "O morango",
+    "15",
+    "CAPÍTULO 4",
+    "De perto, sem confusão",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Alface amarga? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA PLANTA",
+    "Alface de folha",
+    "A mais fácil da horta",
+    "LUZ",
+    "Sol; no calor, um pouco de sombra",
+    "ÁGUA",
+    "Pouca, mas sempre",
+    "TERRA",
+    "Com composto antes de plantar",
+    "TEMPO",
+    "Cerca de um mês até a salada",
+    "DIFICULDADE",
+    "Fácil",
+    "COLHEITA\tDE NOVO",
+    "Corte e ela rebrota"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "O que cabe no vaso",
+    "01\tO vaso de cada uma",
+    "02\tA colheita que não acaba",
+    "03\tAlface amarga"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-em-vaso/coringa-horta-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 192,
+     "alt": "André com vasos de horta na varanda"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O VASO",
+    "O que plantar no vaso?",
+    "PLANTA\tPRONTA EM\tVASO",
+    "Rabanete\t28 dias\t20 cm",
+    "Rúcula\t3 semanas\tFloreira",
+    "Alface\t1 mês\t20 cm",
+    "Morango-alpino\tMeses\tVaso médio",
+    "Cenoura vai direto no lugar: se transplantar, a raiz entorta.",
+    "DICA DO ANDRÉ",
+    "Cebolinha e salsinha também cabem num vaso de 20 cm de altura."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Semear sem perder",
+    "01\tA sementeira, passo a passo",
+    "02\tA colheita que não acaba",
+    "03\tAlface amarga"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-em-vaso/coringa-horta-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 137,
+     "alt": "André semeando numa bandeja"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Semear? Faça assim.",
+    "QUANDO",
+    "Na época de cada semente",
+    "TEMPO",
+    "10 minutos",
+    "PRECISA",
+    "Bandeja de ovo e substrato",
+    "1",
+    "ENCHA A BANDEJA",
+    "Areia fina no fundo e substrato.",
+    "2",
+    "SEMENTE POR CIMA",
+    "Alface pede luz: cubra de leve.",
+    "3",
+    "MUDE NA HORA CERTA",
+    "Com 3 ou 4 pares de folhas.",
+    "DICA DO ANDRÉ",
+    "Semente junta demais e rega demais fazem a muda tombar. Espalhe bem."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-em-vaso/hor-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 148,
+     "alt": "Mãos enchendo uma bandeja de ovo com substrato"
+    },
+    {
+     "src": "/guias/horta-em-vaso/hor-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 195,
+     "alt": "Dedos espalhando sementes de alface por cima da terra"
+    },
+    {
+     "src": "/guias/horta-em-vaso/hor-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 210,
+     "alt": "Mão passando uma muda com quatro folhas para o vaso"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · SEMEAR",
+    "A colheita que não acaba",
+    "Colha a alface pelas folhas de fora. O miolo segue crescendo.",
+    "Cortou o pé a 2 ou 3 cm da terra? Ele rebrota.",
+    "Semeie de novo a cada 10 a 15 dias: sempre tem salada.",
+    "Minissalada: com 20 dias já dá para colher, com folha mais suave.",
+    "O susto: subiu um talo no meio? Ela vai florir e amargar. Colha tudo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Alface amarga?",
+    "1",
+    "O QUE PARECE",
+    "A semente era ruim.",
+    "O QUE PODE SER",
+    "Rega irregular ou começo de flor.",
+    "COMO RESOLVER",
+    "Regue pouco, mas sempre, e colha antes de subir o talo. Adubo demais também amarga a folha."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-em-vaso/hor-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 180,
+     "alt": "Pé de alface com talo subindo no meio"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "O morango",
+    "01\tAntes de plantar",
+    "02\tA muda do estolão",
+    "03\tQuatro de vaso"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-em-vaso/morango-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 179,
+     "alt": "André com um vaso de morango"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · O MORANGO",
+    "Antes de plantar",
+    "QUANDO",
+    "Muda nova de viveiro",
+    "DE NOVO EM",
+    "Renove todo ano",
+    "VOCÊ VAI PRECISAR",
+    "Muda de viveiro, livre de vírus",
+    "Vaso médio com terra adubada",
+    "Palha para forrar a terra",
+    "Tesoura para tirar as flores do 1º ano",
+    "Paciência",
+    "Sol boa parte do dia",
+    "Mão para tirar o mato"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · O MORANGO",
+    "ATENÇÃO",
+    "O estolão é muda de graça.",
+    "O morango solta ramas que viram plantas novas. Sem controle, toma o canteiro.",
+    "Corte a ligação com a mãe e plante com torrão, num buraco de 10 a 12 cm.",
+    "FAÇA ASSIM",
+    "Renove com estolão todo ano: a fruta da planta velha fica menor.",
+    "Muda de estolão do vizinho pode trazer vírus."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro de vaso",
+    "1",
+    "Alface",
+    "Corta e rebrota.",
+    "2",
+    "Rúcula",
+    "Pronta em três semanas.",
+    "3",
+    "Rabanete",
+    "28 dias. A folha também se come.",
+    "4",
+    "Morango-alpino",
+    "Pequeno, doce, ótimo em vaso.",
+    "CHAVE\tMeia-sombra\tRega sempre"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-em-vaso/hor-var-alface.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 232,
+     "alt": "Alface de folha em vaso"
+    },
+    {
+     "src": "/guias/horta-em-vaso/hor-var-rucula.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 207,
+     "alt": "Rúcula numa floreira"
+    },
+    {
+     "src": "/guias/horta-em-vaso/hor-var-rabanete.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 225,
+     "alt": "Rabanetes recém-colhidos"
+    },
+    {
+     "src": "/guias/horta-em-vaso/hor-var-morango.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 122,
+     "alt": "Morango-alpino em vaso"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "MUDA TOMBOU",
+    "É fungo. Jogue fora e use terra limpa.",
+    "NÃO NASCEU",
+    "A crosta da terra pode prender a plantinha.",
+    "CENOURA TORTA",
+    "Foi transplantada ou bateu em pedra.",
+    "RAIZ BIFURCADA",
+    "Bateu em terra dura e desviou.",
+    "DICA DO ANDRÉ",
+    "Terra que esfarela fácil e não suja os dedos é o ponto certo de mexer."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "QUATRO",
+    "VEZES",
+    "mais rápido a água entra na terra com minhoca.",
+    "Onde tem minhoca, a chuva não escorre: ela entra e fica para a raiz.",
+    "E MAIS UMA",
+    "A flor da rúcula também se come. Deixe uns pés florirem e jogue na salada."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Plante alface de folha",
+    "Semente de alface por cima da terra",
+    "Regue pouco, mas sempre",
+    "Colha pelas folhas de fora",
+    "Corte a 2 cm e espere rebrotar",
+    "Semeie de novo a cada 15 dias",
+    "Morango: tire as flores do 1º ano",
+    "Colha sem dó",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua primeira salada sair do vaso, me conta. E dá uma muda de morango para alguém. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "012\tVOCÊ TEM",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "São 12 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 013 TOMATE NO VASO",
+    "Comente TOMATE no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-em-vaso/coringa-horta-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 186,
+     "alt": "Retrato do André na horta"
+    }
+   ]
+  }
+ ]
+}

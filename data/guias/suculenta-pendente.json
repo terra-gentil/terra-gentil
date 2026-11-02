@@ -1,0 +1,439 @@
+{
+ "codigo": "TG020",
+ "slug": "suculenta-pendente",
+ "titulo": "Suculenta Pendente",
+ "capa": {
+  "src": "/guias/suculenta-pendente/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Suculenta Pendente"
+ },
+ "meta": {
+  "titulo": "Suculenta pendente: guia grátis de colar e rabo",
+  "descricao": "Como cuidar de suculenta pendente: colar, rabo e coração no alto, em terra que drena. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG020.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t020",
+    "COLEÇÃO TERRA GENTIL",
+    "SUCULENTA",
+    "Suculenta Pendente",
+    "Colar, rabo e coração no alto.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/suculenta-pendente/suculenta-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 127,
+     "alt": "André com uma suculenta pendente"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Suculenta pendente enfeita a casa como cortina viva.",
+    "Mas ela gosta de umidade no ar e odeia terra encharcada.",
+    "Aqui eu te mostro onde pendurar, a muda e a rega.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Enfie o dedo na terra antes de regar a sua.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/suculenta-pendente/suculenta-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 114,
+     "alt": "André com um vaso suspenso na varanda"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Terra que drena.",
+    "Ela gosta de ar úmido, mas raiz encharcada apodrece.",
+    "NEM SECA DEMAIS",
+    "Secar por completo entre regas pode matar as raízes finas.",
+    "Pouca água, não zero água."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da pendente",
+    "06",
+    "CAPÍTULO 1",
+    "Onde pendurar",
+    "08",
+    "CAPÍTULO 2",
+    "Muda de fio",
+    "12",
+    "CAPÍTULO 3",
+    "Rega sem apodrecer",
+    "15",
+    "CAPÍTULO 4",
+    "De perto, sem confusão",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Bolinha murcha e mole? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA PENDENTE",
+    "Colar-de-pérolas",
+    "O que ele pede",
+    "LUZ",
+    "Claridade, sol manso",
+    "ÁGUA",
+    "Pouca, nunca encharcar",
+    "TERRA",
+    "Arenosa, que drena rápido",
+    "ADUBO",
+    "Uma vez por ano basta",
+    "VIDRO",
+    "Longe: queima a folha",
+    "PET\tCUIDADO",
+    "Na dúvida, pendure longe do alcance"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Onde pendurar",
+    "01\tQual vai onde",
+    "02\tMuda de fio",
+    "03\tMais fácil que parece"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/suculenta-pendente/coringa-luz-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 113,
+     "alt": "André pendurando um vaso perto da janela"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · ONDE PENDURAR",
+    "Qual vai onde?",
+    "PLANTA\tLUZ\tCUIDADO",
+    "Colar-de-pérolas\tClaridade\tOdeia encharcar",
+    "Rabo-de-burro\tSol manso\tFolha solta fácil",
+    "Colar-de-corações\tSombra clara\tVaso suspenso",
+    "Flor-de-cera\tSombra clara\tVaso apertado",
+    "No vento ou na passagem, prefira crássula: a folha não solta fácil.",
+    "DICA DO ANDRÉ",
+    "Encostada no vidro da janela ela queima. Cortina fina resolve."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Muda de fio",
+    "01\tFio vira planta",
+    "02\tMais fácil que parece",
+    "03\tBolinha murcha"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/suculenta-pendente/coringa-muda-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 118,
+     "alt": "André fazendo mudas de suculenta"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Muda de fio? Faça assim.",
+    "QUANDO",
+    "Com a planta crescendo",
+    "TEMPO",
+    "10 minutos",
+    "PRECISA",
+    "Um fio sadio e terra arenosa",
+    "1",
+    "DEITE O FIO NA TERRA",
+    "Encostado, sem enterrar.",
+    "2",
+    "OU CORTE E ESPETE",
+    "Pedaço de caule na terra.",
+    "3",
+    "SOL DA MANHÃ",
+    "Só até a raiz pegar.",
+    "DICA DO ANDRÉ",
+    "Para mexer sem estragar, segure pelo caule, onde acaba a raiz."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/suculenta-pendente/pen-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 218,
+     "alt": "Mãos deitando um fio de colar-de-corações sobre a terra de um vaso"
+    },
+    {
+     "src": "/guias/suculenta-pendente/pen-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 207,
+     "alt": "Dedos espetando um pedaço de caule na terra arenosa"
+    },
+    {
+     "src": "/guias/suculenta-pendente/pen-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 160,
+     "alt": "Mãos pondo o vaso de mudas no sol da manhã"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MAIS FÁCIL",
+    "Mais fácil que parece",
+    "Medo do colar-de-pérolas? Comece pelo colar-de-bananas.",
+    "Ele aguenta sol e perdoa quem esquece a rega.",
+    "A flor-de-cera floresce melhor com o vaso apertado.",
+    "Rabo-de-burro: o burrito solta menos folha, e é o que se acha à venda.",
+    "Jardim vertical? Colar-de-pérolas, rabo-de-burro, flor-de-maio, ripsalis."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Bolinha murcha e mole?",
+    "1",
+    "O QUE PARECE",
+    "Sede: vou regar mais.",
+    "O QUE PODE SER",
+    "Água demais: a raiz apodreceu.",
+    "COMO RESOLVER",
+    "Pare a rega, salve os fios sadios e faça mudas em terra nova."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/suculenta-pendente/pen-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 140,
+     "alt": "Colar-de-pérolas com bolinhas murchas e moles perto da terra"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Rega sem apodrecer",
+    "01\tAntes de regar",
+    "02\tHora fresca",
+    "03\tQuatro de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/suculenta-pendente/coringa-regar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 182,
+     "alt": "André regando um vaso suspenso"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · A REGA",
+    "Antes de regar",
+    "QUANDO",
+    "Terra seca no dedo",
+    "DE NOVO EM",
+    "Quando secar de novo",
+    "VOCÊ VAI PRECISAR",
+    "Regador de bico fino",
+    "Terra arenosa, que drena",
+    "Vaso com furo , fora da chuva",
+    "Gancho firme para o peso",
+    "Atenção",
+    "Manhã , a hora fresca",
+    "Dedo para testar a terra"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · A REGA",
+    "ATENÇÃO",
+    "Calor com terra molhada apodrece a pendente.",
+    "Regue só na parte fresca do dia.",
+    "E não deixe secar por completo: a raiz fina morre.",
+    "FAÇA ASSIM",
+    "Vaso sem furo? Regue a metade das vezes.",
+    "E vaso sem furo nunca fica na chuva."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro de perto",
+    "1",
+    "Colar-de-pérolas",
+    "Bolinhas verdes em fio.",
+    "2",
+    "Rabo-de-burro",
+    "Folha gorda em trança.",
+    "3",
+    "Colar-de-corações",
+    "Folhinha de coração.",
+    "4",
+    "Flor-de-cera",
+    "Flor de porcelana.",
+    "CHAVE\tTerra que drena\tHora fresca"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/suculenta-pendente/pen-var-perolas.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 252,
+     "alt": "Colar-de-pérolas pendendo do vaso"
+    },
+    {
+     "src": "/guias/suculenta-pendente/pen-var-rabo.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 120,
+     "alt": "Rabo-de-burro pendente"
+    },
+    {
+     "src": "/guias/suculenta-pendente/pen-var-coracoes.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 166,
+     "alt": "Colar-de-corações em vaso suspenso"
+    },
+    {
+     "src": "/guias/suculenta-pendente/pen-var-cera.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 190,
+     "alt": "Flor-de-cera florida"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "FOLHA CAINDO NO TOQUE",
+    "Rabo-de-burro: prefira o burrito.",
+    "MANCHA BEGE NA FOLHA",
+    "Sol demais. Sombra clara.",
+    "ALGODÃO NO CAULE",
+    "Cochonilha no encontro da folha.",
+    "TEIA FINA",
+    "Ácaro: tempo quente e seco.",
+    "DICA DO ANDRÉ",
+    "Praga? Álcool isopropílico meio a meio com água, em spray, e mais ar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "2,5",
+    "CM",
+    "tem a flor do colar-de-corações, que parece um flamingo roxo.",
+    "Ela é pequena, então chegue perto para ver.",
+    "E MAIS UMA",
+    "A Hoya kerrii tem folha de coração tão bonita que a flor fica em segundo plano."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Dedo na terra antes de regar",
+    "Pouca água, não zero água",
+    "Longe do vidro da janela",
+    "Deite um fio para virar muda",
+    "Comece pelo colar-de-bananas",
+    "Flor-de-cera de vaso apertado",
+    "Regue na hora fresca",
+    "Praga? Álcool e água",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se o seu fio virar muda, me conta. E pendura uma na casa de alguém. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "020\tVOCÊ TEM",
+    "021",
+    "022",
+    "023",
+    "024",
+    "025",
+    "São 20 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 021 ENXERTO E MUDA",
+    "Comente ENXERTO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/suculenta-pendente/suculenta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 116,
+     "alt": "Retrato do André com uma suculenta pendente"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,439 @@
+{
+ "codigo": "TG044",
+ "slug": "ervas-secas",
+ "titulo": "Ervas Secas",
+ "capa": {
+  "src": "/guias/ervas-secas/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Ervas Secas"
+ },
+ "meta": {
+  "titulo": "Ervas secas: guia grátis para secar e guardar",
+  "descricao": "Como secar as ervas da horta e guardar o cheiro o ano todo, colhendo antes da flor. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG044.pdf",
+  "atualizado": "2026-11-02"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t044",
+    "COLEÇÃO TERRA GENTIL",
+    "ERVAS",
+    "Ervas Secas",
+    "O cheiro da horta o ano todo.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervas-secas/alecrim-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 164,
+     "alt": "André com um maço de alecrim"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Erva colhida em casa vale ouro na cozinha.",
+    "Seca do jeito certo, ela guarda o cheiro por um ano.",
+    "Aqui tem colher, secar, esfarelar e guardar.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Escolha a erva que você mais usa.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervas-secas/hortela-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 176,
+     "alt": "André colhendo hortelã"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Antes da flor.",
+    "A folha tem mais aroma logo antes de as flores abrirem.",
+    "SOMBRA",
+    "Seque longe do sol direto.",
+    "Pote escuro."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da erva seca",
+    "06",
+    "CAPÍTULO 1",
+    "Colher na hora",
+    "08",
+    "CAPÍTULO 2",
+    "Secar",
+    "12",
+    "CAPÍTULO 3",
+    "Guardar",
+    "15",
+    "CAPÍTULO 4",
+    "Ervas de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Pote suando por dentro? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA ERVA SECA",
+    "Antes de colher",
+    "O que ela pede",
+    "COLHER",
+    "Antes da flor",
+    "DIA",
+    "Seco, sem orvalho",
+    "SECAR",
+    "Na sombra",
+    "PONTO",
+    "Quebra nos dedos",
+    "POTE",
+    "Vidro escuro",
+    "PLÁSTICO\tATENÇÃO",
+    "Não guarda bem"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Colher na hora",
+    "01\tCerto e errado",
+    "02\tSecar, passo a passo",
+    "03\tPote suando"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervas-secas/manjericao-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 179,
+     "alt": "André colhendo manjericão"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Hora\tAntes da flor\tNa flor",
+    "Dia\tSeco\tCom orvalho",
+    "Secar\tSombra\tSol direto",
+    "Guardar\tVidro escuro\tPlástico",
+    "Colha só a parte que precisa: a planta se recupera.",
+    "DICA DO ANDRÉ",
+    "Erva de beira de estrada vem com fumaça."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Secar",
+    "01\tSecar, passo a passo",
+    "02\tPonto certo",
+    "03\tPote suando"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervas-secas/alecrim-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 177,
+     "alt": "André pendurando maços de erva"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Secar na bandeja? Faça assim.",
+    "QUANDO",
+    "Dia seco, sem orvalho",
+    "TEMPO",
+    "3 a 5 dias",
+    "PRECISA",
+    "Bandeja ou jornal",
+    "1",
+    "COLHA",
+    "Antes da flor abrir.",
+    "2",
+    "ESPALHE",
+    "Uma camada só, na sombra.",
+    "3",
+    "VIRE",
+    "Bastante nos primeiros dias.",
+    "DICA DO ANDRÉ",
+    "Colha só o que dá para secar na hora."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervas-secas/ers-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 252,
+     "alt": "Mãos cortando ramos de erva com tesoura numa manhã seca"
+    },
+    {
+     "src": "/guias/ervas-secas/ers-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 248,
+     "alt": "Mãos espalhando folhas de erva numa camada só sobre jornal"
+    },
+    {
+     "src": "/guias/ervas-secas/ers-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 254,
+     "alt": "Mãos virando as folhas de erva que estão secando na bandeja"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · SECAR",
+    "Ponto certo",
+    "Está seca quando quebra fácil entre os dedos.",
+    "Leva de três a cinco dias.",
+    "Maço solto pendurado na sombra também seca.",
+    "Nunca no sol: lugar ventilado e sombra.",
+    "Erva fresca longe da que já está secando."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Pote suando por dentro?",
+    "1",
+    "O QUE PARECE",
+    "Erva boa, pote ruim.",
+    "O QUE PODE SER",
+    "A secagem não terminou.",
+    "COMO RESOLVER",
+    "Volte a secar. Mofou, fora."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervas-secas/ers-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 283,
+     "alt": "Pote de vidro com erva seca e gotinhas de água por dentro"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Guardar",
+    "01\tEsfarelar e guardar",
+    "02\tPote escuro",
+    "03\tErvas de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervas-secas/lavanda-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 223,
+     "alt": "André com potes de erva seca"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · GUARDAR",
+    "Esfarelar e guardar",
+    "QUANDO",
+    "Erva bem seca",
+    "DE NOVO EM",
+    "Renove todo ano",
+    "VOCÊ VAI PRECISAR",
+    "Rolo de massa ou moedor de café",
+    "Peneira fina, o talo vai fora",
+    "Pote de vidro escuro, tampa de rosca",
+    "Etiqueta com nome e data",
+    "Cuidado",
+    "Ar livre a brisa leva tudo",
+    "Duas ervas o cheiro mistura"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · POTE",
+    "ATENÇÃO",
+    "Saquinho plástico não guarda erva seca.",
+    "A luz estraga o óleo que dá o aroma.",
+    "Pote suando é secagem que não terminou.",
+    "FAÇA ASSIM",
+    "Vidro escuro, tampa de rosca.",
+    "Nome da erva e data no pote."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro ervas",
+    "1",
+    "Orégano",
+    "Seca bem para guardar.",
+    "2",
+    "Hortelã",
+    "Seca, congela ou geleia.",
+    "3",
+    "Manjericão",
+    "Congele as folhas.",
+    "4",
+    "Salsinha",
+    "Congela picadinha.",
+    "CHAVE\tAntes da flor\tPote escuro"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervas-secas/ers-var-oregano.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 195,
+     "alt": "Maço de orégano secando pendurado"
+    },
+    {
+     "src": "/guias/ervas-secas/ers-var-hortela.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 259,
+     "alt": "Folhas de hortelã secas numa peneira"
+    },
+    {
+     "src": "/guias/ervas-secas/ers-var-manjericao.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 152,
+     "alt": "Folhas de manjericão num saquinho para congelar"
+    },
+    {
+     "src": "/guias/ervas-secas/ers-var-salsinha.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 189,
+     "alt": "Salsinha picada congelada num saco"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "POUCO CHEIRO",
+    "Colheu na flor.",
+    "MOFOU",
+    "Faltou secar.",
+    "CHEIRO MISTURADO",
+    "Uma erva por vez.",
+    "PLANTA FRACA",
+    "Colheu demais.",
+    "DICA DO ANDRÉ",
+    "Coentro congela bem, e se come até a raiz."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "70",
+    "%",
+    "de uma erva fresca é água.",
+    "Por isso ela encolhe tanto.",
+    "E MAIS UMA",
+    "Erva seca pesa só um oitavo da fresca."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Colher antes da flor",
+    "Dia seco",
+    "Camada única",
+    "Sombra e vento",
+    "Quebra nos dedos",
+    "Esfarelar dentro de casa",
+    "Vidro escuro",
+    "Nome e data",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se o seu primeiro pote de erva ficar cheiroso, me conta. E divide com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "044\tVOCÊ TEM",
+    "045",
+    "046",
+    "047",
+    "048",
+    "049",
+    "São 44 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 045 GUARDAR SEMENTE",
+    "Comente CRIOULA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervas-secas/alecrim-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 117,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

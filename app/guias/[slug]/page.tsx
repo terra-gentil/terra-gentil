@@ -262,11 +262,11 @@ export default async function GuiaPage({ params }: { params: Promise<{ slug: str
             <CartaoBaixar guia={guia} posicao="fim" />
             {m.proximo &&
               (proximoGuia ? (
-                <p>
+                <p className="lv-proximo">
                   <Link href={`/guias/${proximoGuia.slug}`}>{m.proximo} →</Link>
                 </p>
               ) : (
-                <p>{m.proximo}</p>
+                <p className="lv-proximo">{m.proximo}</p>
               ))}
           </section>
 

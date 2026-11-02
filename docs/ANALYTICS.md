@@ -28,6 +28,24 @@ separar as notícias do blog e do resto do site nos relatórios.
 3. **Conferir:** abra uma notícia com o Tempo real aberto no GA4 (ou o DebugView). Devem aparecer
    `news_view` na hora, `news_read_75` ao rolar e os cliques.
 
+## Onde fica (achado em 02/11/2026)
+
+- **Conta Google:** canalterragentil@gmail.com (no Chrome e a `authuser=2`).
+- **Propriedade certa:** "terragentil.com.br", id `536832814`, fluxo "Terra Gentil", `G-4BZ68B16BK`.
+  Link: https://analytics.google.com/analytics/web/?authuser=2#/a355749984p536832814/reports/intelligenthome
+- **Cuidado:** a mesma conta tem OUTRA propriedade com o mesmo nome (id `489675355`, `G-96E8QJJXGM`)
+  que nunca recebeu dados. Nao usar.
+- Feito em 02/11: `file_download` como evento principal; retencao de dados de evento em 14 meses;
+  Search Console (`https://terragentil.com.br/`) vinculado; dimensoes personalizadas `livro_codigo`,
+  `posicao`, `news_slug` e `livro`.
+- **Falta:** marcar `livro_download` e `cta_ebook_click` como evento principal (estrela em Admin >
+  Eventos > Eventos recentes) assim que aparecerem, depois do primeiro clique real.
+
+## Paginas de livro (/guias/[slug])
+
+`components/analytics/LivroTracker.tsx`: `livro_view`, `livro_read_75` e `livro_download` (evento-chave),
+com `livro_codigo`, `livro_slug`, `posicao` (topo ou fim) e grupo de conteudo `livros`.
+
 ## Como ler
 
 - Qual notícia traz mais gente: Relatórios > Engajamento > Páginas, filtrando `/noticias/`.

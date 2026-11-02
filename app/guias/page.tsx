@@ -4,11 +4,13 @@ import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
 import { ebooks } from '@/data/ebooks';
 import GuiasClient from './GuiasClient';
 import StatNum from '@/components/ui/StatNum';
-import { INSTAGRAM_URL } from '@/lib/constants';
+import { INSTAGRAM_URL, SITE_URL } from '@/lib/constants';
 import Image from 'next/image';
 import Link from 'next/link';
 import { listarGuias, totalEbooks } from '@/lib/guias';
 import { TEMAS, temaDe, paginaDoEbookAntigo } from '@/lib/temas';
+import JsonLd from '@/components/seo/JsonLd';
+import { COLECAO_ID, PUBLISHER } from '@/lib/seo';
 
 export const metadata: Metadata = pageMetadata({
   title: 'Ebooks',
@@ -54,6 +56,28 @@ export default function GuiasPage() {
   return (
     <>
       <BreadcrumbJsonLd crumbs={[{ name: 'Ebooks', path: '/guias' }]} />
+      <JsonLd
+        data={{
+          '@context': 'https://schema.org',
+          '@type': 'CollectionPage',
+          '@id': COLECAO_ID,
+          url: `${SITE_URL}/guias`,
+          name: 'Coleção Terra Gentil: livros grátis de jardinagem',
+          inLanguage: 'pt-BR',
+          isAccessibleForFree: true,
+          publisher: PUBLISHER,
+          mainEntity: {
+            '@type': 'ItemList',
+            numberOfItems: livros.length,
+            itemListElement: livros.map((g, i) => ({
+              '@type': 'ListItem',
+              position: i + 1,
+              url: `${SITE_URL}/guias/${g.slug}`,
+              name: g.titulo,
+            })),
+          },
+        }}
+      />
       <section className="gu-hero">
         <div className="gu-hero-inner">
           <div className="gu-hero-stack" aria-hidden="true">

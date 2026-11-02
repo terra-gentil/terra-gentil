@@ -10,6 +10,7 @@ import LivroTracker from '@/components/analytics/LivroTracker';
 import { PDF_BASE_URL, SITE_NAME, SITE_URL } from '@/lib/constants';
 import { lerGuia, listarGuias, montarGuia, textoDe, type Guia } from '@/lib/guias';
 import { temaDe } from '@/lib/temas';
+import { AUTOR, COLECAO_ID, PUBLISHER } from '@/lib/seo';
 import { Blocos, Fotos, fotosNosPassos } from './Blocos';
 
 // Fontes do livro (as mesmas do PDF). Auto-hospedadas pelo Next, so carregam nesta rota.
@@ -120,12 +121,10 @@ export default async function GuiaPage({ params }: { params: Promise<{ slug: str
     dateModified: guia.meta.atualizado,
     inLanguage: 'pt-BR',
     isAccessibleForFree: true,
-    author: { '@type': 'Person', name: 'André Zimermann' },
-    publisher: {
-      '@type': 'Organization',
-      name: SITE_NAME,
-      logo: { '@type': 'ImageObject', url: `${SITE_URL}/images/logo.png` },
-    },
+    author: AUTOR,
+    publisher: PUBLISHER,
+    articleSection: tema.nome,
+    isPartOf: { '@id': COLECAO_ID },
     mainEntityOfPage: { '@type': 'WebPage', '@id': `${SITE_URL}${path}` },
   };
 

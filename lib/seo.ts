@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { SITE_NAME, SITE_URL } from '@/lib/constants';
+import { INSTAGRAM_URL, SITE_NAME, SITE_URL, TIKTOK_URL, YOUTUBE_URL } from '@/lib/constants';
 
 // Imagem de previa padrao. Precisa ir explicita: quando a pagina define openGraph,
 // o Next deixa de herdar o app/opengraph-image.jpg da raiz.
@@ -33,6 +33,31 @@ export function pageMetadata(opts: { title: string; description: string; path: s
     twitter: { card: 'summary_large_image', title: fullTitle, description, images: [DEFAULT_IMAGE.url] },
   };
 }
+
+// Entidades do site para o JSON-LD. Todas as paginas apontam para os mesmos @id, assim o Google
+// junta tudo numa entidade so (a marca Terra Gentil e o autor André) em vez de varias soltas.
+export const ORG_ID = `${SITE_URL}/#organization`;
+export const AUTOR_ID = `${SITE_URL}/#andre`;
+export const COLECAO_ID = `${SITE_URL}/guias#colecao`;
+
+/** Editora/marca: referencia por @id com nome e logo (o Google pede os dois em Article). */
+export const PUBLISHER = {
+  '@type': 'Organization',
+  '@id': ORG_ID,
+  name: SITE_NAME,
+  url: SITE_URL,
+  logo: { '@type': 'ImageObject', url: `${SITE_URL}/images/logo.png` },
+};
+
+/** O André, autor dos livros e rosto do canal. */
+export const AUTOR = {
+  '@type': 'Person',
+  '@id': AUTOR_ID,
+  name: 'André Zimermann',
+  url: `${SITE_URL}/manifesto`,
+  sameAs: [YOUTUBE_URL, INSTAGRAM_URL, TIKTOK_URL],
+  worksFor: { '@id': ORG_ID },
+};
 
 /** Item da trilha de navegacao (BreadcrumbList). `path` relativo a raiz do site. */
 export interface Crumb {

@@ -1,4 +1,5 @@
 import { notFound } from 'next/navigation';
+import { PUBLISHER } from '@/lib/seo';
 import Link from 'next/link';
 import Image from 'next/image';
 import { ArrowLeft, ArrowUpRight } from 'lucide-react';
@@ -189,12 +190,8 @@ export default async function PostPage({
               image: heroImage
                 ? new URL(heroImage, SITE_URL).href
                 : `${SITE_URL}/images/logo/full.jpg`,
-              author: { '@type': 'Organization', name: SITE_NAME },
-              publisher: {
-                '@type': 'Organization',
-                name: SITE_NAME,
-                logo: { '@type': 'ImageObject', url: `${SITE_URL}/images/logo.png` },
-              },
+              author: PUBLISHER,
+              publisher: PUBLISHER,
               mainEntityOfPage: {
                 '@type': 'WebPage',
                 '@id': `${SITE_URL}/blog/${post.slug}`,

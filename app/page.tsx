@@ -1,4 +1,5 @@
 import Hero from '@/components/sections/Hero';
+import { AUTOR, AUTOR_ID } from '@/lib/seo';
 import Marquee from '@/components/sections/Marquee';
 import Videos from '@/components/sections/Videos';
 import Doutor from '@/components/sections/Doutor';
@@ -38,7 +39,9 @@ const jsonLd = {
       logo: `${SITE_URL}/images/logo.png`,
       email: CONTACT_EMAIL,
       sameAs: [YOUTUBE_URL, INSTAGRAM_URL, TIKTOK_URL],
+      founder: { '@id': AUTOR_ID },
     },
+    AUTOR,
     {
       '@type': 'WebSite',
       '@id': `${SITE_URL}/#website`,

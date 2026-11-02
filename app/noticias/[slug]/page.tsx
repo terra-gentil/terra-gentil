@@ -1,4 +1,5 @@
 import { notFound } from 'next/navigation';
+import { PUBLISHER } from '@/lib/seo';
 import Link from 'next/link';
 import Image from 'next/image';
 import type { Metadata } from 'next';
@@ -66,12 +67,8 @@ export default async function NoticiaPage({ params }: Props) {
     dateModified: noticia.dia,
     image: imagem,
     inLanguage: 'pt-BR',
-    author: { '@type': 'Organization', name: SITE_NAME },
-    publisher: {
-      '@type': 'Organization',
-      name: SITE_NAME,
-      logo: { '@type': 'ImageObject', url: `${SITE_URL}/images/logo.png` },
-    },
+    author: PUBLISHER,
+    publisher: PUBLISHER,
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },
   };
   const perguntas = {

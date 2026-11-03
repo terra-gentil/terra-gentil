@@ -1,0 +1,51 @@
+a8-001 | Para a autora, desmanchar os "grumos" da superfície do solo (a terra fofa em bolinhas) é coisa pequena que derruba povos inteiros: traz fome e miséria
+a8-002 | Raiz sem ar (terra encharcada ou socada) tira da comida da planta só 1/30 da energia que tiraria com oxigênio. A planta "fermenta" e cresce devagar
+a8-007 | Chão com sombra protege a raiz do calor: cobertura viva (plantas) ou cobertura morta (palha, folha seca)
+a8-010 | Na África há desertos em lugares com 2.800 mm de chuva por ano: a água escorre por cima de uma crosta dura e não entra no chão
+a8-018 | Planta raquítica só na beira, onde se pisa e manobra? Sinal de chão compactado
+a8-022 | A raiz só absorve forte enquanto cresce: o ponto que mais absorve fica 1 a 2 mm atrás da ponta. Depois de uma seca, a rega faz brotar muitas raizinhas brancas novas
+a8-023 | Raiz que dobra de comprimento explora 8 vezes mais terra, e recebe 8 vezes mais água e nutriente
+a8-027 | Arado de discos e enxada rotativa, máquinas que revolvem rápido, deixam o solo mais compactado que as outras
+a8-031 | Planta com sinal de falta de quase todos os nutrientes ao mesmo tempo? Quase com certeza falta ar no solo
+a8-040 | "O clima daqui não deixa a planta produzir." Para a autora, muito do que se põe na conta do clima é manejo errado do solo
+a8-046 | O problema não é tanto quanto nutriente há na terra, e sim quanto espaço a raiz consegue explorar
+a8-201 | Palha e folha seca inteira, ainda sem apodrecer, não melhoram a terra. O efeito aparece enquanto ela se decompõe: é aí que as bactérias soltam a "cola" que junta a terra em grumos
+a8-202 | Terra fofa é feita de grumos colados por uma geleia de bactérias que comem palha. A autora chama de "geleia bacteriana"
+a8-217 | Milhões de bichinhos vivem em cada metro quadrado de chão. Até 30 cm de fundura, a tabela do livro soma 619 gramas de bichos por metro quadrado, e uns 400 gramas são minhocas
+a8-218 | Sem nada para controlar, 1 miligrama de ameba do solo viraria 1 quilo em 12 dias. Quem segura são os outros bichos da terra
+a8-219 | A minhoca passa toda a camada de cima da terra pelo intestino a cada três anos. E tem glândulas de cálcio: o cocô dela, rico em cálcio, ajuda a neutralizar a acidez do chão
+a8-220 | Poucas minhocas? Elas não aguentam sol direto nem queimada. Aparecem sozinhas em terra coberta, se a terra tiver um mínimo de fósforo e cálcio: não precisa comprar minhoca, precisa dar casa para ela
+a8-231 | Numa colherinha de terra vivem de 100 a 200 milhões de micróbios
+a8-233 | Fungo na raiz é sempre ruim? Não. Quase toda planta vive com fungos amigos na raiz, as micorrizas, que buscam nutriente e água para ela
+a8-245 | O que faz a terra produzir é a estrutura viva: grumos de 0,5 a 2 mm que não se desmancham na água. Dependem da matéria orgânica e da vida do solo
+a8-248 | Teste dos dedos: um torrão de terra boa se desmancha em flocos com pouca pressão. Terra compactada só vira pó com força
+a8-249 | Teste da pá: a pazada de terra boa se desfaz em pedacinhos ao cair da pá. Onde a estrutura estragou, ela racha em blocos, e só as raízes seguram a terra junta
+a8-250 | Teste da água: ponha um torrão num prato com água. Terra boa fica inteira; terra fraca se desmancha
+a8-251 | Para a Primavesi, areia branca aparecendo na superfície da lavoura é sinal de terra compactada e de risco de praga
+a8-252 | Água em grão de arroz some entre os grãos. Na farinha, empoça. Terra com grumos é o arroz; terra compactada é a farinha
+a8-255 | Para destruir os grumos não precisa de trator: até as patas de uma saúva conseguem, e quanto mais úmido o chão, pior
+a8-259 | Com 5 cm de cobertura morta, entram 100 mm de chuva em 5 minutos, sem enxurrada nem erosão
+a8-261 | Erosão é coisa da natureza? Para a autora, é sintoma de solo doente: 95% dela vem da água que não consegue entrar na terra
+a8-268 | Os incas contam que Cuzco foi fundada onde o bastão do primeiro homem afundou numa terra macia e esponjosa. Saber que terra fofa é fértil é tão antigo quanto a agricultura
+a8-401 | O pH do solo é como a febre: não é a doença, é o sinal de que algo vai mal. Corrigir só o número não resolve a causa
+a8-402 | A planta não vive de tudo o que a terra tem, só do que a raiz alcança e consegue dissolver. É como dinheiro: vale o que está na sua conta, não o cofre do banco
+a8-407 | Em terra arenosa, um pH bonito (6,5) não garante comida: a planta pode passar fome mesmo com o número "certo"
+a8-420 | Terra arenosa sente o erro de adubo bem mais rápido. A matéria orgânica funciona como amortecedor dos erros de adubação
+a8-440 | Se adubo na terra não faz efeito mas o de folha faz, o recado é claro: a terra está em péssimo estado (dura, sem ar) e precisa ser recuperada
+a8-602 | Terra que não produz no trópico quase sempre está compactada, não necessariamente pobre: a raiz precisa descer, longe da superfície quente e seca
+a8-603 | Areia branca solta por cima da terra é sinal de que a estrutura do solo se desfez
+a8-604 | Chão compactado e sem nenhuma cobertura pode chegar a 70 °C debaixo do sol
+a8-608 | Revirar a terra e deixar pelada esperando: não convém deixar terreno lavrado sem vegetação
+a8-609 | Sinais de terra compactada: torrão que vira pó ao esfarelar, poeira ao trabalhar, rachaduras depois de uns dias de sol (terra argilosa) e raiz torta
+a8-610 | No solo nativo, a água entrou em 7 minutos. No solo capinado e gradeado, a mesma água levou 240 minutos
+a8-621 | Com capim seco por cima, a terra a 10 cm de fundura não passou de 31 °C. O solo pelado do lado estava a 35 °C
+a8-623 | Esquecer que palha seca pega fogo: cobertura morta sempre traz risco de incêndio; abra faixas sem palha de tempos em tempos
+a8-624 | Com o que cobrir o chão: capim alto ou baixo, palha de arroz ou milho, casca de café, de amendoim, bagaço de cana, serragem ou qualquer material orgânico
+a8-625 | Até um tule esticado 5 cm acima do chão protege como 5 cm de palha: ele quebra a força da gota de chuva
+a8-636 | Erosão, enchente e seca são sintomas do mesmo problema: solo que perdeu a estrutura e não deixa a água entrar
+a8-637 | Até a pata de uma formiga desmancha os grumos da superfície de um chão desprotegido
+a8-638 | Afofar terra compactada é como juntar cacos de vidro: o caco não volta a ser copo, e nenhuma máquina refaz o grumo destruído. Quem refaz, aos poucos, é raiz, matéria orgânica e vida do solo
+a8-639 | Passar e pisar sempre no mesmo chão: na borda da roça, onde as máquinas manobram, colhe-se até 3 vezes menos. Regra: passar o mínimo possível
+a8-646 | Muito cupinzeiro no pasto: quanto mais compacto e impermeável o solo, mais cupinzeiro aparece
+a8-647 | Onde cresce taquara a terra é mais produtiva: as raízes deixam o solo fofo e granulado
+a8-649 | Afofar com ferramenta não basta: o subsolador abre o solo, mas não o mantém aberto. Quem mantém é raiz e cobertura

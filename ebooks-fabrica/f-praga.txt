@@ -1,0 +1,95 @@
+n10-77 | Teia embaixo da folha e folha desbotada caindo antes da hora: sinal de ácaro sugando a seiva
+n10-78 | Cochonilha pode ter casquinha marrom ou esverdeada, ou ser branca e farinhenta; ataca raiz, caule e folha e mata a planta devagar
+n10-79 | Mosca-branca aparece com calor forte e ar seco; dá para perceber pela nuvem de mosquinhas que sobe quando mexe na planta
+n10-80 | Pulgão e mosca-branca soltam um melado doce que atrai formiga e faz nascer a fumagina, um fungo preto que suja a folha
+n10-81 | Folha nova descolorida e manchada perto das nervuras, depois com pontinhos mortos: tripes
+n10-83 | Toda borboleta é praga de jardim? Mito: muitas só embelezam. Observe quais estragam antes de combater
+n10-84 | Saúva e quenquém não comem a folha que cortam: usam como canteiro para o fungo que é a comida delas. E trabalham de noite: podem pelar uma árvore inteira numa noite
+n10-87 | Raiz cheia de caroços (galhas) e planta amarelando e definhando: nematoide, um verme microscópico
+n10-88 | Doença também entra por erro de quem cuida: poda exagerada ou fora de época, transplante descuidado e rega errada
+n10-89 | Pó branco em manchas redondas: oídio. Pó amarelo a avermelhado, cor de ferrugem: ferrugem. Mancha escura redonda que cresce: antracnose
+n10-90 | Virose deixa pontinhos amarelos e muda a cor e a forma da folha sem ferida grande; quando dá para notar, já está avançada
+n10-91 | Contra praga que suga: podar a parte atacada, deixar espaço para o vento passar, regar na medida, adubar certo, separar planta doente e tirar o resto dela do jardim
+n10-98 | O mato também esconde vírus de planta: tirar a invasora faz parte do controle de virose
+f11-02 | O "chorume de urtiga" caseiro quase sempre dava errado: segundo os autores, de cada 10, uns 8 tinham apodrecido em vez de fermentar
+f11-03 | Extrato que estimula se usa antes, de prevenção. Extrato que cura só entra quando a praga já apareceu. É o contrário da lógica do remédio comum: primeiro se tenta não adoecer
+f11-04 | O pulgão cria resistência ao inseticida químico, porque os que sobrevivem geram filhotes resistentes. Os autores afirmam que com o extrato de urtiga isso não acontece e que ele age igual depois de 10 anos, mas não citam teste
+f11-05 | Depois do extrato de urtiga, às vezes não aparece pulgão morto, mas segundo os autores ele agiu: no pulgão da macieira, trava a postura de ovos ou faz nascer pulgões com asas, que vão embora para outra planta
+f11-06 | Misturar no mesmo dia o extrato que cura com o que estimula: a planta doente sai do tratamento em choque e não aproveita o estímulo. Primeiro curar, alguns dias depois alimentar
+f11-07 | Extrato de planta resolve tudo? Não. Os próprios autores dizem que não há nada contra rato do campo e lesma, só repelentes de efeito curto e pouco alcance
+f11-35 | Chá de urtiga mata pulgão? Para os autores, a infusão é muito eficaz contra alguns pulgões, mas o efeito aparece mais em horta equilibrada. Em horta desregulada, eles mandam o extrato fermentado ou a decocção, que são mais fortes
+f11-38 | Horário certo: para estimular, folha de manhã ou rega no pé à tarde. Contra inseto, à tarde, quando eles estão mais sensíveis. Contra doença, a qualquer hora, mas nunca no sol forte
+f11-40 | Chuva ajuda: trate logo depois, quando as folhas escorreram. Se a previsão é de chuva ou tempestade, não pulverize, porque lava tudo
+f11-44 | Encharcar a planta até pingar é jogar extrato fora. A folha deve ficar só úmida. Em fungicida e inseticida, capriche embaixo da folha
+f11-45 | Bico do pulverizador entupindo? O aviso é a gota sair mais grossa. Pare, lave o bico com água limpa e sopre forte antes de rosquear de novo. Confira o filtrinho do começo da lança
+f11-48 | Urtiga sempre espanta pulgão? Às vezes ela tira os pulgões, mas enche a planta de nitrogênio, e novas gerações de pulgão se instalam
+f11-79 | Lesma na horta: folhas de confrei entre as fileiras de alface viram armadilha. Recolha as folhas com as lesmas de tempos em tempos
+s2-43 | Praga prefere planta fraca: ela pula a planta saudável para atacar a estressada
+s2-44 | Praga é sintoma, não a causa: ela avisa que alguma coisa na horta não vai bem (água, sol, terra)
+s2-45 | Plante onde bate sol de manhã e o vento circula: o orvalho seca rápido e a doença, que gosta de umidade, perde força
+s2-46 | Mexer na horta com as plantas molhadas espalha doença de um pé para o outro
+s2-47 | Esperar a planta murchar para regar: murcha, ela já está estressada e vira convite para praga
+s2-48 | Folha furada não é tragédia: furos num tomateiro ou feijoeiro adulto incomodam mais o dono que a planta
+s2-49 | O autor viu feijoeiros perderem mais da metade das folhas e mesmo assim darem boa colheita
+s2-60 | Sapo é aliado da horta: come lesma e lagarta à noite, até 15 mil pragas por ano
+s2-61 | Casinha de sapo: uma telha ou vaso de barro de boca para baixo, calçado com pedra, num canto sossegado
+s2-62 | Uma joaninha adulta come cerca de 5 mil pulgões na vida; a larva, 50 a 60 por dia
+s2-63 | Bicho preto com pintas laranja, cara de jacaré pequeno: é a larva da joaninha; não mate
+s2-64 | Soltar joaninha comprada aos milhares: elas limpam o pulgão e vão embora; atrair com flor é melhor
+s2-65 | A larva do crisopídeo é o "leão-dos-pulgões": come pulgão, cochonilha, ácaro e mosca-branca
+s2-66 | Louva-a-deus é o aliado mais superestimado: come pouco e pega abelha tanto quanto praga
+s2-67 | Catar à mão e jogar num pote com água e um pouco de detergente: o jeito com menos estrago; melhor de manhã cedo
+s2-68 | Achou uma praga adulta? Olhe embaixo de todas as folhas daquele pé atrás dos ovos e esmague: o autor faz isso com o besouro-da-batata e o percevejo-da-abóbora
+s2-69 | A filha do autor catou 450 besouros a meio centavo cada e comprou três patinhos
+s2-71 | Veneno natural ainda é veneno: piretro, rotenona e sabadilha são tão ruins quanto os sintéticos
+s2-76 | "Não existe pesticida": o veneno da praga mata também joaninha, abelha, minhoca e até o sapo que come o inseto envenenado
+s2-77 | Pulgão: bichinho em forma de pera, quase sempre verde, agarrado no broto e embaixo da folha nova, que fica deformada
+s2-78 | Nos meses quentes, a fêmea do pulgão dá à luz filhotes vivos sem precisar de macho: por isso "uns poucos" viram "demais" muito rápido
+s2-79 | Pulgão em muda de vaso: vire o vaso e dê um jato d'água embaixo das folhas; tire todos, senão volta
+s2-80 | Ácaro: folha pálida ou cheia de pontinhos amarelos; bata a folha sobre um papel branco e veja se os pontinhos andam
+s2-81 | Folha que parece peneira, cheia de furinhos: é o besouro-pulga, que pula como pulga quando você chega perto
+s2-82 | Furo de borda raspada e rastro de gosma: é lesma ou caracol, que come à noite e em dia nublado
+s2-83 | Caçar lesma: de lanterna à noite, ou deixe tábua, pedra ou vaso virado de armadilha e recolha de manhã
+s2-84 | Fita de cobre no canteiro dá um choquinho na lesma e ela desiste de passar; cinza de madeira em linha contínua também barra
+s2-85 | Mosca-branca: nuvem de bichinhos brancos que sobe quando você mexe na planta, como globo de neve
+s2-86 | Armadilha amarela adesiva pega mosca-branca adulta perto da planta
+s2-97 | Bolinha na raiz que não sai é nematoide (praga); a do feijão, que sai fácil, é boa: guarda nitrogênio
+s2-98 | Cravo-de-defunto contra nematoide: plante na terra infestada e incorpore quando começar a florir; dura cerca de um ano
+s2-99 | Planta murcha com a terra molhada e folha de baixo amarela: raiz podre (escura, mole, com mau cheiro); excesso de água
+q3-33 | Borrifar água com frequência ajuda a afastar o ácaro-rajado
+q3-49 | Prevenir é mais fácil que curar: compre de lugar confiável, olhe a planta antes e confira a raiz ao trocar de vaso
+q3-50 | Pulgão é a praga número um da planta de casa; o melado que ele solta atrai formiga e traz a fumagina (mofo preto)
+q3-52 | Cochonilha-farinhenta: bichinho branco de cera, em grupo, que amarela e deforma a folha; samambaia e palmeira são as preferidas
+q3-54 | Folha manchada e, se o ataque é forte, teia fininha: ácaro-rajado; a teia ainda tira a ventilação e dificulta o controle
+q3-55 | Plaquinhas marrons de cera grudadas e paradas no caule: é cochonilha de escama, com os filhotes embaixo
+q3-56 | Cochonilha de escama antiga é difícil de tirar: o livro diz que planta muito tomada é melhor descartar
+q3-57 | Riscos prateados na folha e na flor: tripes; terra seca piora o estrago, mantenha úmida
+q3-58 | Na Europa, larva gorda e branca de cabeça marrom comendo a raiz do vaso é o gorgulho-da-videira, praga séria; aqui, confira a espécie antes
+q3-60 | Mofo cinza peludo na flor e na folha nova (botrítis): corte a parte doente, tire a flor morta e evite ar parado e úmido
+q3-61 | Pó branco nas folhas (oídio): tire as partes mais tomadas, ventile e deixe o ar mais seco
+r6-35 | Suculenta apodrecendo na base? A causa mais comum é água demais: terra encharcada favorece os fungos e as bactérias que fazem a planta apodrecer. A prevenção é regar com moderação
+a8-215 | Lavoura em terra recém-desmatada quase não tem praga. Conforme o solo se degrada, as pragas aparecem; depois de 3 anos de cultivo intenso, como o de horta, as defesas acabam. Para a Primavesi, a saúde da planta está ligada à saúde do solo
+a8-216 | Para a Primavesi, planta que cresceu grande à força de adubo nitrogenado e água não é sadia. Sã é a que recebe todos os nutrientes de que precisa, num solo fofo, com ar e água
+a8-228 | Praga aparece do nada? Não. Em vez de perguntar como matar, pergunte o que no ambiente deixou ela se espalhar
+a8-617 | Queimar a palha acaba com a praga? Elimina só no momento e mantém as condições para ela voltar; a planta ainda fica mais suscetível
+k9-089 | Ácaro: aranhinha minúscula que suga a seiva, faz teia fina nas folhas novas e se esconde no verso da folha
+k9-090 | Cochonilha: parece verruguinha bege ou marrom no caule e na folha, ou algodão-doce branco grudento. Aparece onde falta ventilação
+k9-091 | Formiga comum faz mal à planta? Segundo a autora, não come a planta e algumas até protegem brotos. Mas, se ela sobe e desce muito, procure pulgão ou cochonilha: elas cuidam dessas pragas. Saúva e cortadeira são outra história
+k9-092 | Cupim aparece em pasto compactado, pobre, muito capinado e queimado. Ele cava e afofa a terra; a saída é encher o solo de matéria orgânica e palha
+k9-093 | Saúva e cortadeira usam as folhas para cultivar o fungo que comem e aparecem em terra batida, pelada e pobre. A autora sugere pôr matéria orgânica no solo e plantar gergelim
+k9-096 | Mosca-branca é difícil de controlar: muitas saem voando quando mexe na folha. Ela é atraída pelo amarelo, então tiras de pano amarelo com cola viram armadilha
+k9-097 | Mosca-das-frutas: garrafa PET com quatro furos da grossura de um lápis no gargalo e um pouco de refrigerante dentro, pendurada na árvore. A mosca entra e não sai
+k9-098 | Pulgão aparece em colônia quando a planta passa sede ou recebe adubo só de nitrogênio. Infestação: jato de água primeiro
+k9-099 | Uma joaninha come mais de 50 pulgões por dia. E a joaninha bebê é muito diferente da adulta: não confunda com praga
+k9-100 | Libélula come larva de mosquito, inclusive do mosquito da dengue, e aparece onde há água limpa correndo
+k9-104 | Passar inseticida, mesmo caseiro ou orgânico, como prevenção: mata também joaninha, minhoca e borboleta. Antes, adube direito e confira se a praga está mesmo fazendo estrago
+k9-106 | Praga ou doença? Praga é bicho, com perninha; doença é fungo, bactéria ou vírus. Remédio de um não serve para o outro, e aí muita gente se frustra
+k9-107 | Fungos adoram calor, umidade e pH ácido, segundo a autora; tirando um desses, eles crescem mal. Bactéria também adora calor e umidade
+k9-108 | Trazer vaso novo doente e pôr junto das outras: deixe a planta que chegou separada até resolver o problema
+k9-109 | Como saber o que é: pintinhas pela folha toda (cercospora), manchas pretas com borda amarela avançando (antracnose), pó marrom tipo ralado (ferrugem), camada branca aveludada (míldio e oídio). Podridão mole e fedida é bactéria
+k9-110 | Vírus de planta não tem cura e passa de uma planta para outra; para ter certeza, só exame de laboratório
+k9-298 | Planta carnívora caça mosca, mosquito e outros insetos, e a autora sugere ter uma perto da horta. Nasce na beira de rio, de solo pobre, e por isso aprendeu a caçar. Ela quer sol forte e vaso com esfagno sempre encharcado
+k9-316 | Tagetes e capuchinha protegem a horta, mas vivem pouco: semeie de novo assim que morrerem
+k9-317 | O boldinho, irmão menor do boldo, tem cheiro forte que afasta barata, formiga e pernilongo da horta e aceita meia-sombra
+k9-318 | A capuchinha funciona como isca: as borboletas preferem pôr ovos nela e deixam as outras plantas da horta em paz
+k9-319 | O tagetes (cravo-de-defunto) tem um cheiro que os pulgões parecem odiar. Sol forte e terra úmida

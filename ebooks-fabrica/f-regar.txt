@@ -1,0 +1,47 @@
+n10-46 | A microirrigação, como o gotejamento, é considerada o jeito mais eficiente e econômico de regar: a água vai direto na raiz, em horta, pomar e até em vaso
+n10-47 | Água demais também faz mal: excesso de rega, assim como falta, atrapalha a planta e abre caminho para doença
+n10-48 | Regar de manhã ou ao meio-dia? Nas primeiras horas da manhã ou no fim da tarde; nunca na hora mais quente
+n10-61 | Terra de vaso: sempre úmida, nunca encharcada. A frequência da rega muda conforme o lugar onde o vaso está
+f11-12 | Água da torneira direto no extrato: o cloro enfraquece as bactérias da fermentação. Deixe a água descansando num balde aberto e grande, mexendo de vez em quando
+f11-39 | Pulverizar planta com sede: não adianta. Em vaso ou jardineira seca, regue bem na véspera. O melhor é dia nublado ou depois da chuva
+q3-04 | Mofo verde na superfície da terra do vaso é sinal de rega demais
+q3-10 | Cachepô esconde água parada: uns 10 minutos depois de regar, tire o vaso e jogue fora a água do fundo
+q3-21 | A maior causa de morte de planta de casa é água: de menos ou de mais
+q3-22 | Rega por baixo: vaso numa vasilha rasa com água até a umidade subir na superfície; ideal para violeta e folha peluda
+q3-23 | Terra clara na superfície pede água; terra escura provavelmente ainda está úmida
+q3-24 | Truque antigo do vaso de barro: bata com um carretel vazio espetado numa vareta; som de sino pede água, som abafado não (não funciona no plástico)
+q3-25 | Medidor de umidade é preciso, mas espetar a sonda toda hora machuca a raiz
+q3-26 | Terra seca demais que não segura água: regue duas ou três vezes seguidas, ou deixe o vaso de molho numa vasilha
+q3-27 | Planta murcha com terra encharcada: tire do vaso, enrole o torrão em papel toalha até secar um pouco e replante em vaso limpo
+q3-28 | Água de chuva é ótima, mas não a parada no tambor nem a que escorreu de telhado sujo
+q3-46 | Viagem curta: plástico no chão no meio da sala, plantas juntas em cima e pratinhos cheios de água
+q3-47 | Rega por pavio: um cordão enfiado na terra e a outra ponta num pote de água mantém o vaso úmido
+q3-64 | Planta murcha quase sempre é sede, mas também pode ser água demais ou bicho comendo a raiz; olhe a terra antes
+r6-24 | Suculenta prefere faltar água a sobrar? Verdade: entre os dois erros, o excesso é o pior
+r6-26 | Suculenta em vaso: espere a terra secar e molhe só a terra, não a planta
+r6-27 | Molhar o cacto por cima dos espinhos: em alguns ele pode "melar", ou seja, apodrecer. Regue na terra
+a8-011 | Planta pode murchar de sede em terreno alagado: sem oxigênio, a raiz não consegue absorver a água
+a8-012 | Regar mais a terra socada: a rega não leva oxigênio para a raiz. Em solo compactado, mais água rende pouco
+a8-013 | Planta mal nutrida bebe mais água: a batata em solo pobre gasta mais que o dobro de água que em terra adubada. Regra do livro: planta mal nutrida consome mais água
+a8-026 | Em terra socada e seca a raiz não entra, e a rega pode nem molhar: num teste, a água desceu só pela parede do tubo
+a8-042 | A raiz aguenta tão mal o excesso de água quanto a falta. Quase nenhuma planta de cultivo, fora o arroz, cresce em terra saturada
+a8-044 | Não é a chuva que cai que faz a planta crescer, é a que entra na terra. A água que escorre não serve para nada
+a8-049 | Até água doce pode salgar a terra: toda água tem um pouco de sal. Em chão duro, onde a chuva não entra, a água sobe, evapora e o sal fica. Com os anos, o solo saliniza
+a8-225 | Deixar água empoçada: em terra encharcada vive só 1/35 dos bichinhos de uma terra bem drenada
+a8-247 | Terra que racha não precisa de mais rega: precisa recuperar os poros para a chuva conseguir entrar
+a8-416 | Planta amarelando depois de dias de seca? O primeiro a faltar na seca é o nitrogênio. Antes de encher de adubo, veja se falta água
+a8-442 | Planta com falta de manganês, zinco ou boro gasta muito mais água para crescer do que uma bem nutrida
+a8-445 | Não é a água que cai do céu que faz a planta crescer, é a água que entra na terra. Terra dura deixa a chuva escorrer
+k9-015 | Teste do dedo: toque a terra antes de regar. Seca, regue; úmida, espere
+k9-016 | Regue muito, até a água sair pelos furos do vaso: é melhor molhar bem poucas vezes na semana do que um pouquinho todo dia
+k9-017 | Borrifar substitui a rega? Mito: borrifar refresca e aumenta a umidade do ar num dia quente, mas não molha a raiz
+k9-019 | Hora certa da rega: de manhã cedo ou no fim da tarde. Economiza água, evita praga e a planta cresce melhor
+k9-020 | Para regar menos, cubra a terra com uns quatro dedos de palha: aparas de grama, casca de pínus, serragem ou bagaço de cana. A terra fica fresca, segura a água, dá menos praga e a cobertura vira adubo
+k9-021 | Vento seca a planta como seca a roupa no varal. Faça um quebra-vento com arbustos densos ou escolha plantas de folha pequena e brilhante, como alecrim, russélia e aspargo-alfinete
+k9-022 | Junte os vasos: o vapor que cada planta transpira forma uma nuvem de umidade que ajuda todas. É por isso que sombra de árvore é mais fresca que sombra de prédio
+k9-045 | Usa cachepô? Na hora de regar, tire o vaso, molhe, deixe escorrer até parar de pingar e só então devolva
+k9-241 | No sol forte a terra perde água e adubo depressa: uma camada grossa de palhinha sobre vasos e canteiros segura os dois
+k9-243 | Regar com o primeiro jato da mangueira: a água parada no esguicho pode estar quente mesmo no fim da tarde. Descarte antes de molhar as plantas
+k9-245 | Regar um pouquinho todo dia: a água molha só a superfície, a raiz cresce para cima, fica "viciada" e, num dia sem rega com sol, frita e a planta morre
+k9-246 | Regue bastante e poucas vezes por semana ou por mês: assim a raiz desce e fica protegida no escuro da terra
+k9-274 | Planta de sombra costuma ganhar cachepô bonito e sem furo. Antes de regar, confira se a superfície secou, para não formar uma "piscina" no fundo

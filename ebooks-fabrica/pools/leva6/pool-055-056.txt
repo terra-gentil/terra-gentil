@@ -1,0 +1,358 @@
+## EXCLUSIVOS DO TG 055
+b24-474 [maracujá|Você sabia?] A flor do maracujá tem uma coroa de fiozinhos no meio, que é a marca do gênero
+b24-475 [maracujá|5 cuidados] Maracujá vai no sol ou na meia-sombra, em terra fértil que escoe; regue bem quando cresce
+b24-476 [maracujá|5 cuidados] Maracujá precisa de suporte; desbaste os ramos embolados
+b24-477 [maracujá|5 cuidados] Maracujá pega de semente ou de estaca de ramo meio maduro
+b24-478 [maracujá|Você sabia?] O maracujá-doce (P. alata) tem caule quadrado e flor perfumada
+b24-568 [romã|Você sabia?] A romã só amadurece e fica boa de comer em clima quente
+b24-569 [romã|5 cuidados] Romãzeira quer lugar abrigado e ensolarado e terra que escoe
+b24-570 [limoeiro|Você sabia?] Fruta cítrica (limão, laranja) leva cerca de um ano para amadurecer no pé
+b24-571 [limoeiro|5 cuidados] Cítricos querem sol e terra úmida que escoe, neutra a levemente ácida
+b24-572 [limoeiro|3 erros] Ácaro, mosca-branca e cochonilha são as pragas dos cítricos em lugar fechado
+m33-055 [mamão|Você sabia?] O mamoeiro é, na verdade, uma erva com jeito de árvore
+m33-056 [mamão|Você sabia?] Para dar mamão, precisa de pé macho e pé fêmea, ou de um pé que tenha os dois sexos
+m33-057 [mamão|5 cuidados] Semente de mamão vai fresca, de preferência em copinho, para não mexer na raiz depois
+m33-058 [mamão|3 erros] Muda de mamão é sensível ao tombamento (fungo que derruba a plantinha)
+m33-073 [limoeiro|Você sabia?] Semente de limão e laranja tem vários embriões, e alguns saem clones da mãe
+m33-074 [limoeiro|5 cuidados] Das mudinhas de semente de citros, tire as fracas e as fortes demais: as que ficam são clones da mãe
+m33-075 [limoeiro|Você sabia?] Pé de limão de semente leva uns sete anos para florir
+m33-076 [limoeiro|Você sabia?] Citros de viveiro é enxertado para ter força, resistir a doença e produzir mais cedo
+m33-077 [limoeiro|5 cuidados] O limão é dos citros que mais fácil pega de estaca
+m33-200 [bananeira|Você sabia?] A bananeira parece árvore, mas é uma erva
+m33-201 [bananeira|Passo a passo] Muda de bananeira: afaste a terra, corte o filhote para baixo com faca, levando o máximo de raiz
+m33-202 [bananeira|5 cuidados] Tire as folhas grandes ou estragadas do filhote de bananeira para ele perder menos água
+m33-203 [bananeira|Você sabia?] Bananeira nova pode crescer 3 metros num ano
+m33-210 [maracujá|5 cuidados] Maracujá pega muito fácil de qualquer estaca de ramo verde; enraíza em 3 a 4 semanas no úmido
+m33-211 [maracujá|Passo a passo] Semente de maracujá: guarde o fruto maduro 14 dias, amasse e deixe a polpa 3 dias fermentando; isso mata o fusário
+m33-212 [maracujá|5 cuidados] Depois de lavar e secar, deixe a semente de maracujá 24 horas de molho em água quente para amolecer a casca
+m33-213 [maracujá|Você sabia?] Maracujá novo floresce e dá fruto com fartura depois de três anos
+m33-220 [abacate|Você sabia?] Abacate de caroço sai quase igual à mãe
+m33-221 [abacate|5 cuidados] Deixe a muda de abacate chegar a 30 ou 40 cm antes de ir para a terra
+m33-222 [abacate|Você sabia?] Abacateiro de viveiro é enxertado para resistir a doença e dar fruto com regularidade
+m33-223 [abacate|5 cuidados] Caroço de abacate vai de molho antes de plantar, para evitar a podridão da raiz
+m33-247 [pitaia|Você sabia?] A pitaia de flor grande é a "rainha-da-noite"
+m33-248 [pitaia|X ou Y?] Semente ou estaca na pitaia? A semente leva 5 a 10 anos para florir; a estaca dá planta adulta em 2 a 5
+m33-249 [pitaia|5 cuidados] Estaca de pitaia: pedaço de 6 a 10 cm do caule, enraíza em 3 a 6 semanas
+m33-270 [uva|5 cuidados] Estaca de videira: 8 cm com três nós, de ramo fino; enraíza em umas quatro semanas
+m33-271 [uva|3 erros] Na estaca lenhosa de uva, confira se o meio do ramo ainda está verde
+m33-272 [uva|Você sabia?] Videira enxertada ganha força e resistência a praga
+m33-279 [amora|5 cuidados] Amoreira pega de estaca lenhosa, até de pedaço grosso de galho de 2 a 4 anos, direto no chão
+q3-410 [limoeiro|Você sabia?] O calamondin (laranjinha-kinkan de vaso) dá fruto ainda pequenininho e floresce o ano todo
+q3-411 [limoeiro|Você sabia?] O limão-meyer é ótimo de vaso, com flor branca tingida de vermelho e muito perfumada
+q3-412 [limoeiro|3 erros] Limão de vaso tem paciência: o fruto leva vários meses para amadurecer
+q3-636 [abacaxi|Você sabia?] O abacaxi é bromélia; em vaso dentro de casa fica com metade da altura e raramente dá fruta
+q3-637 [abacaxi|Você sabia?] A folha do abacaxi fica avermelhada quando pega sol forte
+q3-638 [abacaxi|5 cuidados] Abacaxi em vaso: deixe a terra secar um pouco entre as regas e adube a cada 4 semanas no calor
+q3-639 [abacaxi|Passo a passo] Muda de abacaxi: corte os filhotes da base, deixe secar um dia e plante no vaso
+q3-640 [abacaxi|Você sabia?] Existe abacaxi variegado, menor, com folha verde, branca, amarela e rosa
+h35-148 [mirtilo|5 cuidados] Mirtilo em vaso pede terra ácida e água de chuva: a água de torneira costuma ser alcalina
+h35-149 [mirtilo|Passo a passo] Truque do vaso molde: encaixe o vaso velho no novo, encha em volta, tire e plante a muda no buraco
+h35-150 [mirtilo|Você sabia?] Passarinho adora mirtilo e come assim que começa a amadurecer: proteja com tela fina
+h35-151 [mirtilo|Você sabia?] A maioria dos mirtilos precisa de dois pés para polinizar e dar fruto
+h35-273 [amora|Você sabia?] Amora-preta dá fruto no ramo de dois anos; depois de produzir, corte esse ramo na base e deixe os novos
+h35-274 [amora|Você sabia?] Existem amoras compactas e sem espinho que dão em vaso grande
+h35-275 [mirtilo|5 cuidados] Mirtilo: terra ácida que drena, sempre úmida com água de chuva; depois de 2 anos, pode tirando um ou dois ramos velhos por ano
+g32-128 [figo|Passo a passo] Figueira: sol, terra que drena e composto ou esterco curtido na cova
+g32-129 [figo|Dica do Andre] Figueira no chão cresce muito: forre as laterais da cova com placas de piso para segurar o tamanho
+g32-130 [figo|Passo a passo] Muda de figueira: estaca de galho maduro ou galho baixo que enraíza encostado na terra
+g32-131 [figo|5 cuidados] Figo se colhe mole e pesado de suco, e se come logo; sobra vira geleia, figo seco ou vai para o congelador
+g32-132 [figo|Você sabia?] Existe figo listrado de verde e creme
+g32-137 [uva|Você sabia?] A videira é robusta, dá pouco trabalho e produz por anos
+g32-138 [uva|5 cuidados] Uva de mesa: tire alguns cachos (e bagos) para os que ficam engrossarem
+g32-139 [uva|Você sabia?] Folha nova de uva se come recheada, como no charutinho
+g32-140 [uva|Você sabia?] Sem sol a uva não adoça; vento ela aguenta
+g32-141 [uva|3 erros] Podar a videira com seiva correndo faz ela "chorar"; espere as folhas caírem
+g32-241 [mirtilo|5 cuidados] Mirtilo: terra que drena mas segura umidade, matéria orgânica ácida e cobertura grossa no chão
+g32-242 [mirtilo|Você sabia?] Mirtilo produz sozinho, mas dá mais com outra variedade plantada perto
+g32-243 [mirtilo|Passo a passo] Colha o mirtilo bem colorido, rolando a frutinha entre o polegar e o indicador
+g32-244 [mirtilo|Socorro] Passarinho comendo o mirtilo: gaiola de tela por cima do pé quando as frutas amadurecem
+g32-245 [mirtilo|Dica do Andre] Terra calcária? Plante o mirtilo no vaso com substrato ácido
+g32-246 [mirtilo|Passo a passo] Muda de mirtilo: estaca do ramo do ano anterior, tirada na poda
+g32-247 [mirtilo|Você sabia?] Tem mirtilo de fruta cor-de-rosa
+g32-419 [limoeiro|5 cuidados] Limoeiro de vaso: substrato que segura nutriente mas drena, rega regular e ar úmido quando está crescendo
+g32-420 [limoeiro|Socorro] Limoeiro no vaso: fique de olho no ácaro-rajado e na cochonilha
+g32-421 [limoeiro|3 erros] Limoeiro de semente varia na qualidade e demora anos para dar fruto
+g32-422 [limoeiro|5 cuidados] Limoeiro que estava dentro de casa: acostume aos poucos antes de deixar no sol pleno
+g32-423 [limoeiro|Você sabia?] Existe o limão-caviar, de fruta comprida com bolinhas por dentro, e o limão-kaffir, de folha muito cheirosa
+g32-424 [limoeiro|Você sabia?] Limão e laranja guardados na geladeira duram semanas
+g32-431 [romã|Você sabia?] Romãzeira cresce devagar e cabe em vaso; tem romã anã e romã sem semente
+g32-432 [romã|5 cuidados] Romã no vaso: terra que drena e é fértil, muita água no crescimento e adubo rico em potássio a cada 15 dias
+g32-433 [romã|Você sabia?] Nem toda flor de romã vira fruta; ela fecunda sozinha, mas outra planta perto ajuda
+g32-434 [romã|3 erros] Não pode demais a romãzeira: tire só galho seco e o que embola
+t37-072 [nêspera|Você sabia?] A nêspera-de-bronze tem folha de couro de até 30 cm, com o verso quase branco, e copa fechada que serve de cortina
+t37-073 [nêspera|Você sabia?] A nespereira-de-bronze é compacta e vai bem em vaso
+t37-076 [oliveira|Você sabia?] A oliveira é polinizada pelo vento e, com sorte, começa a dar azeitona em três a cinco anos
+t37-077 [oliveira|Passo a passo] Azeitona colhida é amarga: deixe de molho em água dez dias, trocando a água todo dia, e depois umas quatro semanas em salmoura
+t37-079 [oliveira|Dica do Andre] Poda da oliveira: abra o centro em forma de tigela para a luz e o ar chegarem no fruto
+t37-080 [ameixa|Dica do Andre] Antes de comprar pé de ameixa, veja se a variedade dá fruto sozinha ou precisa de outra ameixeira por perto
+t37-081 [ameixa|Você sabia?] A flor da ameixeira alimenta abelha e a fruta alimenta passarinho e inseto
+t37-082 [pêssego|Você sabia?] O pessegueiro não passa de 4 metros e vive uns 20 anos: boa árvore para quintal pequeno
+t37-083 [pêssego|Você sabia?] O pêssego leva "Pérsia" no nome científico, mas nasceu na China
+t37-084 [pêssego|Dica do Andre] Pessegueiro florindo sem abelha por perto: passe um pincel macio de flor em flor para polinizar
+t37-085 [pêssego|X ou Y?] Pêssego ou nectarina? É quase a mesma fruta, só que a nectarina não tem a pele aveludada
+t37-087 [figo|Dica do Andre] Figueira no chão: enterre placas em volta do torrão para segurar a raiz e ela frutificar mais
+t37-089 [figo|Você sabia?] Em algumas figueiras, uma vespinha entra no figo para pôr ovos e poliniza a flor lá dentro; a fruta digere as vespas que ficam presas
+t37-091 [limoeiro|Você sabia?] Laranja, limão, lima e kinkan são todos do mesmo gênero, Citrus
+t37-094 [amora|Você sabia?] A amoreira-preta cresce devagar e pode levar sete anos para começar a dar fruta, mas depois dá muito por anos
+t37-095 [amora|Você sabia?] A amora é fonte de ferro e vitamina C
+t37-096 [amora|Você sabia?] Plantou amoreira? Vai ter que dividir com os passarinhos
+v19-065 [amora|5 cuidados] Amoreira-preta: terra boa e lugar quente, protegido do vento. Cresce devagar
+i36-099 [maracujá|Você sabia?] Maracujá-azul dá flor branca com fios roxos e azuis, depois fruto laranja, e cresce rápido
+i36-100 [maracujá|Dica do Andre] Maracujá-azul vai bem em vaso, encostado em muro ou cerca
+i36-247 [amora|Passo a passo] Amora e framboesa: corte rente ao chão a vara que já deu fruta. A vara nova dá a próxima colheita
+i36-248 [amora|Você sabia?] Existe amora sem espinho, mais compacta e de fruta maior: a melhor para vaso de 45 cm
+i36-249 [amora|3 erros] Erro comum: regar pouco e depois muito a frutinha no vaso. O fruto racha. Regue sempre, sem exagero
+i36-250 [mirtilo|Você sabia?] Mirtilo gosta de solo ácido: em vaso de 38 cm com substrato para planta ácida ele vai bem, no sol ou meia-sombra
+q34-145 [figo|Você sabia?] A folha da figueira é perfumada e serve para dar sabor à comida
+q34-152 [uva|Você sabia?] Videira sobe por gavinha e pede sol e lugar abrigado
+q34-154 [maracujá|Você sabia?] Maracujá-azul dá fruto laranja comestível, mas sem graça perto do maracujá-azedo
+w31-040 [uva|Você sabia?] Viticultor põe pedra branca embaixo da parreira: a luz refletida apressa o amadurecimento da uva
+w31-042 [pitaia|Passo a passo] Cacto de pitaia: tire sementes da fruta, deixe secar umas horas, espalhe no vaso com terra e ponha na janela de sol
+w31-043 [pitaia|Você sabia?] Pitaia é um cacto tropical e cresce devagar. Em poucas semanas a semente já brota
+w31-182 [uva|Dica do Andre] Guarda-sol velho sem pano, fincado no chão, vira caramanchão de parreira em dois ou três anos
+## EXCLUSIVOS DO TG 056
+n10-01 [grama|X ou Y?] Aparador de grama: lâmina de metal para grama alta, fio de nylon para gramado baixo. Na escolha também pesam o tamanho e o desnível do terreno e a espécie da grama
+n10-20 [grama|Você sabia?] Grama, forração e muitos arbustos quase não dão semente: a muda sai de um pedaço da própria planta
+n10-35 [grama|5 cuidados] Para o gramado fechar bonito, o terreno tem que ficar o mais nivelado possível, sem torrão nem pedra
+n10-39 [grama|Você sabia?] Preparar o solo é uma das etapas mais importantes do gramado: depois de plantado, ele fica muitos anos sem precisar replantar
+n10-40 [grama|3 erros] Esterco comum no gramado: vem cheio de semente de mato. Prefira húmus ou esterco industrializado
+n10-44 [grama|5 cuidados] Grama em placa: rastele de leve, encaixe as placas intercaladas sem deixar buraco, aperte para a raiz encostar na terra, nivele e regue
+n10-45 [grama|Você sabia?] Truque do plantio de placa: espalhar montes de placas pelo terreno com o carrinho antes de começar, para não ficar indo e voltando por cima
+n10-54 [grama|Mito ou verdade] Cortar a grama bem rente rende mais tempo sem cortar? Mito: corte drástico tira a folha que faz a fotossíntese e a grama demora a rebrotar. O SENAR manda nunca tirar a folha toda e deixar a grama com no mínimo 5 cm de altura
+n10-55 [grama|5 cuidados] Para o SENAR, depois do corte o certo é rastelar bem a grama cortada que ficou por cima: evita fungo e faz o gramado brotar mais. Grama que cresce rápido pede corte mais frequente
+n10-70 [grama|Você sabia?] A grama-seda, que em alguns lugares é até usada como gramado, aparece na lista de plantas invasoras do jardim do SENAR
+n10-73 [grama|X ou Y?] Arrancar à mão ou capinar? No gramado, arranque à mão: tira o mato sem estragar a grama em volta. Em área grande tomada, aí sim capina
+n10-82 [grama|Socorro] Grilo, gafanhoto e paquinha comem folha, broto e raiz, e o maior estrago costuma ser no gramado
+n10-86 [grama|Socorro] Manchas redondas de grama amarela que morre (reboleiras): pode ser cupim comendo a raiz
+a8-036 [grama|Você sabia?] Leguminosas (mucuna, guandu, feijão-caupi, kudzu) recuperam o solo e fixam nitrogênio. Gramas baixas que fecham o chão, como a grama-batatais, melhoram a estrutura quando bem cortadas
+a8-211 [grama|Você sabia?] Capim de pasto com a raiz crescendo livre é o jeito mais seguro de enriquecer o solo com húmus. Para a autora, pasto bem manejado é o melhor recuperador da terra; o mal manejado destrói o solo
+a8-265 [grama|Socorro] Pisoteio sempre no mesmo lugar rasga o gramado, ainda mais com chão úmido, e abre espaço para a chuva escavar a terra pelada
+a8-266 [grama|Você sabia?] Ditado do campo: quando o capim vai diminuindo, o mato vai aparecendo. Grama falhada vira porta para o mato
+a8-640 [grama|Socorro] Queimada mata a grama que se espalha rasteira por estolões; sobram as de touceira
+a8-641 [grama|Você sabia?] Gramado fechado não dá mato. Quando o mato aparece, é sinal de que a grama não fechou e deixou manchas de chão à mostra, e de que falta algum nutriente que favorece o mato e enfraquece a grama
+a8-642 [grama|X ou Y?] Lâmina afiada ou cega? Capim cortado rebrota em 4 a 6 dias; rasgado e amassado leva 6 a 8 semanas
+k9-084 [grama|Você sabia?] O mato fala: guanxuma nascendo bonita avisa que o solo está compactado, com pouco ar
+k9-085 [grama|Você sabia?] Tiririca nascendo é sinal de solo pelado no sol forte, sem cobertura
+k9-086 [grama|Você sabia?] Capim-carrapicho indica solo extremamente duro
+k9-087 [grama|Você sabia?] Samambaia-das-taperas no terreno indica solo ácido, com alumínio demais e pouco cálcio; folha grande sugere terra fértil, folha pequena, terra pobre
+k9-088 [grama|Você sabia?] Sapê e mãe-de-sapê aparecem em solo bem ácido; beldroega, em solo fértil que segura pouca água; dente-de-leão, em solo argiloso e fértil
+b24-191 [trapoeraba|5 cuidados] Tradescantia (trapoeraba-roxa, lambari) vai no sol ou na meia-sombra, em terra fértil
+b24-192 [trapoeraba|5 cuidados] Tradescantia pendente ficou rala? Corte ou faça muda nova de ponta
+b24-194 [trapoeraba|Você sabia?] O abacaxi-roxo (moisés-no-berço) é uma tradescantia com flor branca escondida numa "canoinha"
+b24-552 [trapoeraba|5 cuidados] Callisia (dinheiro-em-penca) quer claridade sem sol direto e terra fértil; refaça de estaca quando ficar rala
+b24-553 [trapoeraba|Você sabia?] A callisia-corrente (C. navicularis) tem folhinhas em duas fileiras que abraçam o caule
+x23-138 [gramado|Você sabia?] Muito gramado de praça está cheio de flor do campo que o cortador decepa toda semana; mudar o corte faz florir quase na hora
+x23-139 [gramado|Você sabia?] Se só 10 por cento da grama cortada rente pudesse florir, a cidade teria muito mais borboleta
+e22-022 [grama|Você sabia?] O cortador de grama acaba com o mato espinhento, mas o mato em roseta rente ao chão escapa
+e22-069 [grama|Socorro] Trevinho no gramado: rastele para arrancar e adube a grama para ela abafar o resto
+e22-074 [grama|Você sabia?] A grama-de-pisoteio aguenta pisada, mas amarela na seca e deixa o gramado feio
+e22-075 [grama|Socorro] Grama-de-pisoteio no gramado: corte baixo, recolha a grama cortada e semeie grama boa por cima
+e22-092 [grama|Socorro] Verônica no gramado resiste a herbicida: adube a grama, rastele para levantar e corte
+e22-098 [grama|Socorro] Mil-folhas tomando o gramado seco: adube, areje, regue na seca e corte com frequência
+e22-105 [grama|Passo a passo] Margaridinha no gramado: tire a roseta com faca, tampe o buraco com terra peneirada e semeie grama
+e22-106 [grama|5 cuidados] Gramado forte expulsa o mato: adubo, escarificar, arejar e semear grama nas falhas
+e22-110 [grama|Você sabia?] Virou gramado? O cortador elimina a corda-de-viola em dois anos
+e22-128 [grama|Socorro] Tanchagem no gramado: areje a terra, adube e arranque a raiz inteira com a mão
+e22-141 [grama|Dica do Andre] Gramado com sagina: corte a parte infestada por último e limpe o cortador
+t37-025 [grama|Mito ou verdade] Mito: o círculo de cogumelos no gramado faz mal. O fungo do "círculo de fadas" alimenta a grama e melhora a saúde dela
+i36-059 [grama|3 erros] Erro comum: deixar o rolo de grama empilhado. Ele apodrece e amarela. Plante no dia que chega
+i36-060 [grama|Passo a passo] Grama em placa: encoste bem as bordas e desencontre as emendas, como tijolo
+i36-061 [grama|Passo a passo] Depois de assentar a grama, varra terra fina nas frestas
+i36-062 [grama|5 cuidados] Grama nova: regue sempre nos primeiros dias. Primeiro corte com o cortador na altura máxima
+i36-063 [grama|Passo a passo] Semear grama: espalhe metade da semente num sentido e a outra metade cruzando
+i36-064 [grama|Você sabia?] Semente de grama coberta com só 1 a 2 mm de terra brota em uma a duas semanas
+i36-065 [grama|Dica do Andre] Divida a área em quadrados de 1 m com barbante e pese a semente de cada um: fica tudo por igual
+i36-066 [grama|Mito ou verdade] Mito ou verdade: gramado formado precisa de rega na seca? Mito. Ele amarela e volta quando a chuva vem
+i36-067 [grama|Dica do Andre] Regue a grama de manhã ou no fim da tarde: perde menos água no vapor
+i36-069 [grama|Passo a passo] Grama compactada: espete o garfo a cada 10 cm, uns 8 a 10 cm de fundo, balançando para abrir
+i36-070 [grama|Dica do Andre] Cobertura caseira de gramado: areia, terra e composto na proporção 3:3:1, varrida para os furos
+i36-071 [grama|Passo a passo] Pedaço de grama estragado: corte um quadrado, afofe o fundo e encaixe uma placa nova do mesmo tamanho
+i36-072 [grama|3 erros] Erro comum: deixar folha seca em cima da grama. Tira a luz e mata o gramado. Junte e faça composto
+w31-129 [grama|Dica do Andre] Borda reta no gramado: pise numa tábua sobre a borda e corte com a meia-lua rente a ela
+w31-149 [grama|Você sabia?] Gramado muito pisado compacta: a raiz não respira, não pega água e a grama fica marrom
+w31-150 [grama|Passo a passo] Arejar a grama: enfie o garfo 10 cm, balance o cabo e repita a cada 15 cm
+w31-176 [grama|Dica do Andre] Para desenhar canteiro curvo, estique a mangueira no chão. Deixe no sol antes para ficar mole
+b24-193 [trapoeraba|Você sabia?] A folha da tradescantia pode irritar a pele
+## COMPARTILHADOS (so estes, de qualquer dos dois livros)
+b1-11 [outra|Mito ou verdade] Raiz de yucca (planta ornamental) não é a mandioca: a confusão vem do nome parecido (yuca)
+b7-36 [outra|Você sabia?] Yucca-baioneta: galho serrado e enterrado vira árvore pronta; aguenta areia e maresia
+f11-21 [outra|Mito ou verdade?] Extrato de urtiga tem que feder? Não. Bem feito e parado na hora certa, cheira a xixi de vaca saudável. Fedor forte é sinal de que apodreceu
+f11-88 [outra|5 cuidados] Quer saber se o extrato funciona? Divida as plantas em dois lotes e deixe um sem nada, para comparar. Anote datas, pese a colheita e repita o teste
+t13-14 [outra|Você sabia?] Caládio, tinhorão e coração-de-jesus são a mesma planta, a de folha em coração pintada de branco, verde, rosa ou vermelho. E é tóxica para cão e gato
+p14-03 [outra|Você sabia?] Clorofito (gravatinha) está na lista de plantas não tóxicas para cão e gato da ASPCA
+v15-09 [outra|Mito ou verdade] Planta de horta não faz mal ao pet? A lista de tóxicas para cão e gato traz o gênero da cebola e do alho (Allium) e o da uva (Vitis)
+v15-37 [outra|Você sabia?] No narciso, o veneno se concentra no bulbo: alcaloides como a licorina, que dão vômito e diarreia, e cristais de oxalato que irritam
+g16-39 [outra|X ou Y?] Calêndula ou cravo-de-defunto (Tagetes)? Os dois são chamados de marigold em inglês, mas para gato a calêndula é segura e o cravo-de-defunto é cautela
+s2-18 [outra|Mito ou verdade] Manjerona mimada perde sabor: em terra rica e com água sempre, o aroma não se desenvolve
+q3-01 [outra|3 erros] Comprar planta exposta na calçada da loja: pega frio ou sol forte e a de flor é a que mais sofre
+q3-90 [outra|Você sabia?] A calateia-pavão (Calathea makoyana) mudou de nome na botânica: hoje é Goeppertia makoyana, e antes já foi Maranta makoyana
+k9-007 [outra|5 cuidados] Na dúvida sobre como cuidar, pesquise pelo nome científico: ele é a impressão digital da planta, e saber de onde ela vem ajuda a imitar o clima dela em casa
+k9-027 [outra|X ou Y?] Solo arenoso ou argiloso? O arenoso é leve e arejado, mas a chuva leva os nutrientes; o argiloso é pesado, areja mal, mas segura água e nutriente e é mais fértil
+k9-073 [outra|Você sabia?] Planta morta não acaba: a raiz do feijão segue deixando nitrogênio no solo, e uma árvore seca vira casa de bromélias, orquídeas, musgos e passarinhos
+k9-083 [outra|Socorro] Mancha em zigue-zague ou desenho de labirinto na folha: larva minadora, que vive dentro da folha
+k9-240 [outra|5 cuidados] Antes de comprar planta, observe o canto por alguns dias: bate sol o dia todo ou só umas horas? Venta? E veja a altitude da cidade: quanto mais alta, mais seca
+k9-256 [outra|5 cuidados] Jardim vertical que dá pouco trabalho na rega: uma colher de vermiculita misturada ao substrato de cada vasinho
+k9-287 [outra|Mito ou verdade] Árvore-da-felicidade "macho" e "fêmea" precisam ficar juntas? Mito: são duas espécies e cada uma vive bem sozinha. É conversa para vender as duas
+k9-369 [outra|Você sabia?] Beija-flor é briguento e disputa o néctar da sanquésia no tapa. Para evitar a guerra, plante várias
+w18-032 [outra|Você sabia?] Algumas aráceas esquentam a própria flor; quem dispara esse calor é o ácido salicílico, a mesma substância da aspirina
+w18-154 [outra|Você sabia?] A maior inflorescência do mundo é de uma arácea de Sumatra, o "titã": passa de 2 metros, cheira a carniça e lá se chama "flor-cadáver"
+w18-191 [outra|5 cuidados] Arácea de tubérculo vai bem em vaso de barro, que deixa a raiz fresca e respirando; uma camada de areia embaixo do tubérculo ajuda a não apodrecer
+q3-332 [outra|Passo a passo] Muda de saxífraga: prenda o filhote na terra de um vaso ao lado
+q3-408 [outra|Você sabia?] A ardísia solta florzinha branca perfumada e depois um monte de bolinhas vermelhas que duram muito
+q3-445 [outra|Você sabia?] A violeta-persa (exacum) tem flor roxa perfumada com miolo amarelo
+g32-415 [outra|Passo a passo] Muda de capim-limão: talo comprado na feira também enraíza
+g32-429 [outra|5 cuidados] Gengibre come bastante: adube toda semana enquanto cresce, e regue menos quando ele dormir
+s28-054 [outra|5 cuidados] Canteiro bonito: plantas em número ímpar (3, 5), curvas em vez de fileiras, espaço para o tamanho adulto e uma ou duas plantas grandes no meio das pequenas
+s28-072 [outra|Dica do Andre] Jardim com criança: comece cedo. Quem tem lembrança boa do jardim volta a plantar quando cresce
+s28-169 [outra|Dica do Andre] Brócolis-ramoso: colha antes de as florzinhas abrirem
+v19-023 [outra|Você sabia?] O estragão-russo é rústico e aguenta qualquer terra
+v19-059 [outra|5 cuidados] Confrei aguenta quase tudo, mas em terra seca pede rega regular. Multiplica por divisão ou pedaço de raiz
+i36-017 [outra|5 cuidados] Fuja de muda com folha murcha ou manchada e com mato nascendo no vaso
+i36-038 [outra|Dica do Andre] Arrume as mudas ainda no vaso dentro do vasão para ver como fica, e só depois plante
+i36-050 [outra|Passo a passo] Canteiro novo: espalhe 5 cm de esterco curtido ou composto e misture na terra
+i36-104 [outra|Dica do Andre] Plante o arbusto com o lado mais bonito virado para onde você mais olha
+i36-126 [outra|5 cuidados] Muitas coníferas não rebrotam da madeira velha: apare a cerca pelo menos duas vezes por ano
+i36-143 [outra|5 cuidados] Capim de folha dura corta a pele: use luva ou tesourão de cabo longo
+i36-209 [outra|3 erros] Erro comum: regar demais a semente fina. A água arrasta tudo para um canto do vaso
+i36-226 [outra|Socorro] Socorro, a estaca dobra quando enfio! Ela está nova demais ou a terra está grossa demais
+q34-004 [outra|Você sabia?] Microclima é o clima de um cantinho que difere do resto, como um poço de luz ou um quintal murado
+q34-039 [outra|Você sabia?] Vento forte queima folha e pode matar planta delicada. Planta baixinha e torta é sinal de vento
+q34-088 [outra|Dica do Andre] Cerca viva nova: enquanto cresce, ponha uma tela de bambu na frente. Ela se desfaz quando a cerca fecha
+q34-133 [outra|Você sabia?] Papoula-da-califórnia se semeia sozinha até em fresta de piso e muro
+w31-049 [outra|Dica do Andre] Cabo de pá quebrada vira chuço para abrir cova de alho e batata
+w31-169 [outra|Dica do Andre] Nó de porco (volta do fiel) prende tutor e planta e afrouxa fácil
+f11-53 [horta|Você sabia?] Capuchinha atrai pulgão, que adora a planta, e isso não é motivo de susto. Para os autores, plantada perto de frutíferas, tomate, rabanete, batata e abóbora, ela faz bem às vizinhas
+s2-94 [horta|Você sabia?] A requeima da batata causou a grande fome da Irlanda em 1845; o nome do fungo quer dizer "destruidor de plantas"
+s2-159 [horta|5 cuidados] Quando pôr composto? Sempre: é a melhor comida da minhoca e da planta
+a8-035 [horta|Você sabia?] Variedade mais produtiva é variedade mais exigente: costuma ter raiz mais fraca e pede solo melhor
+k9-066 [horta|5 cuidados] Truque da muda alta: em vez de ir direto para o canteiro, a muda passa uns 20 dias num saquinho de uns 15 cm, em sol fraco. Ela se adapta melhor e escapa de praga e doença, bom para tomate
+x23-050 [horta|5 cuidados] O segredo da horta orgânica é devolver bastante composto à terra a cada colheita
+x23-072 [horta|5 cuidados] Abobrinha e tomate ficam em vaso, longe da lesma, até ficarem fortes para aguentar uma mordida
+h35-013 [horta|Dica do Andre] Fotografe seu quintal em vários horários do dia para descobrir onde bate sol e onde é sombra
+h35-054 [horta|Dica do Andre] Verdura colhida bebê pode ser plantada mais junta, mas aí precisa de mais rega
+h35-066 [horta|Dica do Andre] Alface embaixo do milho: planta baixa aproveita o espaço da planta alta
+h35-127 [horta|5 cuidados] Gire os vasos de vez em quando para cada lado pegar sol e a planta crescer reta
+h35-160 [horta|Dica do Andre] Ervas rasteiras entre as pedras do caminho soltam cheiro quando a gente pisa
+h35-202 [horta|5 cuidados] Funcho pendoa se é mexido, se passa frio ou se falta água
+h35-246 [horta|Passo a passo] Alho-poró: plante a muda da grossura de um lápis num buraco de 15 cm e só regue, sem encher de terra
+h35-262 [horta|Você sabia?] O pak choi (acelga chinesa) é gostoso em qualquer fase, do desbaste ao pé formado
+h35-294 [horta|Você sabia?] Endro tem raiz comprida e vai melhor semeado direto no lugar; flor e semente também se comem
+g32-005 [horta|X ou Y?] Tomate e berinjela no sol dão fartura; espinafre no sol forte espiga logo e prefere sombra fresca
+g32-018 [horta|Passo a passo] Mapa de sol do quintal: tire fotos do mesmo lugar em várias horas do dia e marque onde é sol pleno e onde é sombra o dia todo
+g32-041 [horta|Você sabia?] Corredor estreito vira túnel de vento; o canto do terreno costuma ser o lugar mais abrigado
+g32-104 [horta|Você sabia?] A goiaba-serrana (feijoa) é da América do Sul, aguenta vento e tem pétala carnuda que se come
+g32-121 [horta|Passo a passo] Beldroega: colha beliscando as pontas; ela solta brotos do lado e fica cheia
+g32-143 [horta|5 cuidados] Alcachofra pede 1 m quadrado por planta e esterco curtido; colha o botão antes das escamas abrirem
+g32-162 [horta|Você sabia?] Abobrinha, abóbora, melão e pepino crescem a olho nu com sol, calor e umidade
+g32-211 [horta|Você sabia?] O yacon é dos Andes e dá tubérculos grandes e crocantes
+g32-248 [horta|Passo a passo] Alho-poró: a muda vai num buraco de 12 a 15 cm, com 20 cm entre plantas
+g32-261 [horta|Dica do Andre] Para cerca viva, prefira mudas pequenas: são mais baratas e vão se fechando com os anos
+g32-280 [horta|Você sabia?] O sabugueiro é quase indestrutível, dá flor que vira bebida e geleia e cachos de frutinhas
+g32-302 [horta|Passo a passo] Semente de pimenta-de-sichuan: misture com substrato úmido e deixe 1 mês na geladeira antes de semear
+g32-321 [horta|Você sabia?] A beldroega-de-inverno (alface-de-mineiro) tem folha redonda atravessada pelo talo e aguenta 20 graus negativos
+g32-338 [horta|3 erros] Folha de diabelha no sol forte fica dura e amarga: prefira sombra
+g32-354 [horta|Você sabia?] Até a sombra seca debaixo de árvore tem comida: amora, morango-silvestre, urtiga, raiz-forte e bambu
+g32-366 [horta|Você sabia?] A amora-japonesa (wineberry) tem ramo coberto de pelinhos vermelhos e fruta vermelha brilhante
+g32-376 [horta|Dica do Andre] Urtiga fibrosa? Corte a touceira a cada 6 semanas para sair folha nova
+g32-404 [horta|Você sabia?] Dá microverde de rúcula, erva-doce, mostarda, hortelã, cebolinha, rabanete, beterraba e amaranto
+s28-125 [horta|Você sabia?] Horta de quintal: a comida viaja só os metros entre o canteiro e a cozinha, sem resíduo de veneno
+s28-150 [horta|Você sabia?] Criança costuma comer o que ajudou a plantar
+i36-177 [horta|Passo a passo] Segure a muda de horta pelo torrão, nunca pela folha, e deixe o topo do torrão logo abaixo da terra
+i36-246 [horta|Passo a passo] Poda de frutífera: deixe um ou dois brotos novos a cada 30 cm e abra o centro para o ar passar
+w31-075 [horta|Você sabia?] Aspargo e ruibarbo ficam anos no mesmo lugar e não entram na rotação
+f11-54 [mato|3 erros] Plantar confrei achando que é fácil tirar depois: ele é muito invasor e, em solo rico e fundo, difícil de arrancar de vez
+z7-03 [mato|Você sabia?] Estima-se que, no Brasil, o mato tire de 20 a 30% da produção das lavouras
+z7-16 [mato|Você sabia?] Trapoeraba tem folha larga, mas é monocotiledônea, do mesmo grande grupo dos capins e do milho. Já a tiririca, de folha fina, parece capim e não é: é de outra família, a das ciperáceas
+z7-31 [mato|Você sabia?] Capim-carrapicho (timbete) tem espiga cheia de espinhos que grudam na roupa e no pelo do cachorro
+z7-51 [mato|Socorro] Trevinho azedo que não acaba no canteiro? Uma espécie corre rasteira por estolão e semente. A outra, de folhas em pé a 20 ou 30 cm, só se espalha por bulbinhos escamosos debaixo da terra
+a8-616 [mato|5 cuidados] Os 5 estragos da queimada sem controle: não devolve matéria orgânica, deixa o chão exposto à chuva, compacta, deixa o solo repelente à água e cria um mato próprio do fogo
+g32-220 [mato|Dica do Andre] Mato que invade do vizinho: enterre uma placa de piso ou tábua de 50 cm na divisa
+e22-007 [mato|Dica do Andre] Canteiro vazio? Semeie adubo verde: ele segura o mato e protege a terra
+e22-020 [mato|Você sabia?] Tem mato de jardim que um dia foi planta ornamental, como a balsamina-do-himalaia
+e22-032 [mato|Você sabia?] A semente da ambrósia pode dormir 40 anos na terra; o pólen dela dá muita alergia
+e22-045 [mato|Socorro] Buva na calçada: raspe ou jogue água fervendo na planta nova
+e22-058 [mato|Você sabia?] A vagem da balsamina explode e joga semente a 7 metros
+e22-071 [mato|Você sabia?] A erva-de-bicho (Persicaria) tem uma mancha escura no meio da folha e flor rosa que chama borboleta e abelha
+e22-086 [mato|Você sabia?] A morugem (erva-de-passarinho) tem até três gerações por ano e a semente dura mais de cinco anos
+e22-095 [mato|3 erros] Terra comprada de obra e esterco fresco trazem muita semente de mato: composte o esterco antes
+e22-108 [mato|Você sabia?] Semente de corda-de-viola pode durar 40 anos na terra
+e22-119 [mato|Você sabia?] A cavalinha é parente das samambaias e existe há 325 milhões de anos
+e22-132 [mato|Você sabia?] O botão-de-ouro rasteiro corre por estolão, principalmente quando chove muito
+e22-142 [mato|Você sabia?] Existem mais de 200 tipos de dente-de-leão quase iguais
+e22-155 [mato|Passo a passo] Canteiro falso: prepare a terra, deixe sem semear, espere o mato nascer e corte raso com enxada sem revirar; depois semeie
+w31-123 [mato|Você sabia?] Corda-de-viola volta mais forte de qualquer pedacinho de raiz que fica na terra
+m33-349 [muda|Você sabia?] Planta da mesma família costuma se multiplicar do mesmo jeito: as da família da violeta pegam de folha
+m33-357 [muda|Você sabia?] A maior flor do mundo é a rafflésia, sem folha, que nasce da raiz de outra planta e mede até 80 cm
+m33-365 [muda|5 cuidados] Aclimate a muda antes de ir para fora: leva de 2 a 3 semanas e não dá para apressar
+h35-076 [muda|Passo a passo] Sementeira: cubra com saco plástico transparente, em lugar claro e quente, e tire assim que nascer
+s28-002 [muda|Você sabia?] Tem semente que precisa de luz para germinar e tem semente que não precisa: o pacote avisa
+s28-028 [muda|5 cuidados] Vasinho de barro serve para semear, mas seca rápido: fique de olho na umidade
+s28-082 [muda|Dica do Andre] Semente que precisa de frio para acordar: duas semanas da bandeja na geladeira ajudam a germinar
+i36-021 [muda|Passo a passo] Semear direto no canteiro: afofe, tire pedra e mato e deixe a terra fina e nivelada
+i36-078 [muda|5 cuidados] Pegue a muda pela folha, nunca pelo caulezinho, que é frágil
+i36-223 [muda|Dica do Andre] Firme a muda apertando a terra de lado contra a raiz, não empurrando o torrão para baixo
+w31-008 [muda|3 erros] Erro comum: usar qualquer palete na horta. Só o tratado a calor, nunca o tratado com químico
+w31-021 [muda|Dica do Andre] Plaquinha escrita a lápis dá para apagar e usar de novo. Caneta permanente é para o que pega chuva
+n10-78 [praga|Socorro] Cochonilha pode ter casquinha marrom ou esverdeada, ou ser branca e farinhenta; ataca raiz, caule e folha e mata a planta devagar
+f11-35 [praga|Mito ou verdade?] Chá de urtiga mata pulgão? Para os autores, a infusão é muito eficaz contra alguns pulgões, mas o efeito aparece mais em horta equilibrada. Em horta desregulada, eles mandam o extrato fermentado ou a decocção, que são mais fortes
+q3-58 [praga|Socorro] Na Europa, larva gorda e branca de cabeça marrom comendo a raiz do vaso é o gorgulho-da-videira, praga séria; aqui, confira a espécie antes
+k9-093 [praga|Socorro] Saúva e cortadeira usam as folhas para cultivar o fungo que comem e aparecem em terra batida, pelada e pobre. A autora sugere pôr matéria orgânica no solo e plantar gergelim
+h35-096 [praga|Dica do Andre] Cebolinha e alho perto da cenoura disfarçam o cheiro dela para a mosca-da-cenoura
+h35-310 [praga|Socorro] Gato e cachorro cavando a horta: proteja com tela e barreira
+g32-464 [praga|5 cuidados] Tenha três telas: 2 cm contra passarinho, 5 mm contra borboleta da lagarta e 0,8 mm contra mosquinha
+g32-498 [praga|Socorro] Mosca-das-frutas: quando a fruta estiver grande e ainda verde, cubra o galho com tela fina
+i36-286 [praga|3 erros] Erro comum: plantar a mesma coisa no mesmo lugar por anos. A praga se acostuma e cresce
+p29-103 [praga|Você sabia?] Pulgão suga a seiva, pode passar vírus e solta um melado que atrai a fumagina preta
+p29-113 [praga|Você sabia?] Cochonilha-farinhenta se esconde na junção do galho com o caule e é difícil de acabar
+a8-001 [solo|Você sabia?] Para a autora, desmanchar os "grumos" da superfície do solo (a terra fofa em bolinhas) é coisa pequena que derruba povos inteiros: traz fome e miséria
+a8-218 [solo|Você sabia?] Sem nada para controlar, 1 miligrama de ameba do solo viraria 1 quilo em 12 dias. Quem segura são os outros bichos da terra
+a8-420 [solo|Você sabia?] Terra arenosa sente o erro de adubo bem mais rápido. A matéria orgânica funciona como amortecedor dos erros de adubação
+h35-027 [solo|Dica do Andre] Em vez de enterrar o composto, espalhe por cima: as minhocas puxam para dentro da terra
+g32-047 [solo|X ou Y?] Terra argilosa ou arenosa? A argilosa é rica mas encharca e racha; a arenosa esquenta rápido e drena, mas segura pouco adubo
+i36-002 [solo|Passo a passo] Teste de solo na mão: esfregue a terra entre os dedos. Se arranha e esfarela quando aperta, é arenoso
+i36-010 [solo|Mito ou verdade] Mito ou verdade: calcário e adubo químico juntos dão certo? Mito. Os dois não se misturam
+q34-012 [solo|Você sabia?] Terra boa de jardim (franca) mistura argila, areia e silte: fértil, drena e é fácil de trabalhar
+q34-020 [solo|Você sabia?] Solo ácido (pH 5 a 6) é o que azaleia e camélia adoram
+q34-168 [solo|Dica do Andre] Serragem e casca curtida, de madeira sem tratamento da sua região, viram cobertura barata que segura água
+n10-46 [regar|Você sabia?] A microirrigação, como o gotejamento, é considerada o jeito mais eficiente e econômico de regar: a água vai direto na raiz, em horta, pomar e até em vaso
+q3-28 [regar|3 erros] Água de chuva é ótima, mas não a parada no tambor nem a que escorreu de telhado sujo
+a8-049 [regar|3 erros] Até água doce pode salgar a terra: toda água tem um pouco de sal. Em chão duro, onde a chuva não entra, a água sobe, evapora e o sal fica. Com os anos, o solo saliniza
+h35-016 [regar|5 cuidados] Cubra a terra do vaso com palha ou folha seca para a água não evaporar
+g32-455 [regar|Passo a passo] Mangueira porosa enterrada 5 a 8 cm e coberta com palha leva a água direto na raiz
+i36-108 [regar|Dica do Andre] Sem crivo no regador? Despeje a água sobre um caco de vaso: ela espalha e não descobre a raiz
+q34-034 [regar|Você sabia?] Até 2050, 5 bilhões de pessoas podem sofrer com falta de água. Regar com água tratada já é luxo em muito lugar
+w31-141 [regar|Passo a passo] Rega de férias com barbante: balde acima dos vasos, barbante molhado de um até a terra de cada vaso
+w31-170 [regar|Dica do Andre] Olla: vaso de barro sem verniz, furo tapado com rolha, enterrado ao lado da planta e cheio de água
+f11-55 [compostagem|Você sabia?] Folha fresca de confrei acelera o composto. E, como cobertura entre os canteiros, vira esconderijo de lesma: é só recolher
+g32-387 [compostagem|5 cuidados] Revire o monte de composto pelo menos quatro vezes por ano: o meio é a parte mais quente
+g32-479 [compostagem|Passo a passo] Chorume do minhocário: 1 parte para 10 de água e vira adubo líquido
+i36-266 [compostagem|Passo a passo] Encheu a composteira? Vire tudo no chão, misture e volte. Sem pôr mais nada, fica pronto em poucos meses
+q34-055 [compostagem|Você sabia?] Composteira muito pequena (menos de 1 metro cúbico) funciona pior que a grande
+q34-063 [compostagem|Você sabia?] Composteira: de um quarto à metade de material verde. O resto é marrom: galho, papelão, palha, folha seca
+w31-100 [compostagem|Dica do Andre] O líquido do minhocário vira adubo: uma parte para dez de água
+w31-112 [compostagem|Dica do Andre] Pique o material antes de pôr na composteira: quanto menor, mais rápido vira composto
+x23-006 [jardim-vivo|5 cuidados] Corte algumas flores murchas para a planta florir de novo, mas deixe outras darem semente
+x23-130 [jardim-vivo|Você sabia?] Bicho e planta precisam circular para achar comida e par; quando o verde fica picado em pedaços, sobreviver fica difícil
+x23-145 [jardim-vivo|5 cuidados] Copie a mata: plantas em camadas, da árvore ao forro de flor no chão
+t37-056 [jardim-vivo|Você sabia?] Árvore velha também é casa: na rachadura da casca o inseto se abriga, no oco o passarinho faz ninho
+q34-107 [jardim-vivo|Você sabia?] Tronco morto no quintal não é sujeira: é comida e casa para inseto, fungo e muito bicho
+x23-004 [passarinho|5 cuidados] Deixe algumas flores secarem com semente no pé: vira comida de passarinho
+x23-109 [passarinho|5 cuidados] Casinha de frente aberta fica mais segura na parede do que na árvore, onde ladrão de ovo sobe fácil
+g32-311 [passarinho|Dica do Andre] Passarinho comeu umas frutinhas? Encare como elogio; a horta não precisa virar fortaleza de tela
+s28-076 [passarinho|Dica do Andre] Girassol secou? Pendure a cabeça inteira no jardim: vira comedouro natural para passarinho
+q34-096 [passarinho|Você sabia?] Passarinho come lesma, caracol e lagarta, principalmente quando está criando filhote
+x23-082 [abelha|Você sabia?] A mamangava precisa de buraco seco para fazer ninho, às vezes até casinha de passarinho
+g32-145 [abelha|Você sabia?] A flor roxa da alcachofra, se você deixar abrir, é festa para as abelhas
+e22-144 [abelha|Dica do Andre] Se puder, deixe o dente-de-leão: a flor é muito valiosa para os polinizadores
+q34-132 [abelha|Você sabia?] Sálvia-dos-bálcãs, de flor roxa, é das queridas das abelhas
+n10-06 [trocar-vaso|Você sabia?] Substrato é qualquer meio em que a planta cresce fora do chão: segura a planta de pé e às vezes ainda dá nutriente. Fibra de coco, casca de arroz, perlita e até isopor entram na conta
+k9-048 [trocar-vaso|Você sabia?] Truque da autora: marque com fita-crepe o lado da planta virado para o Norte e mantenha esse lado para o Norte no vaso novo; ela diz que a adaptação fica mais fácil
+h35-044 [trocar-vaso|Você sabia?] Substrato comum segura bem a água, mas se desmancha com o tempo; terra mais pesada mantém planta grande firme
+w31-023 [trocar-vaso|Passo a passo] Buraco do tamanho certo no vaso novo: assente o vaso velho no substrato, preencha em volta e tire. Ficou o molde
+t37-001 [arvore|Você sabia?] O desmatamento hoje acontece mais nos trópicos, como no Brasil, puxado pela procura de carne barata
+t37-016 [arvore|Você sabia?] A casca da árvore segura a umidade e protege contra bactéria e fungo; muitas têm tanino, que o bicho não gosta de comer
+t37-035 [arvore|Dica do Andre] Na cidade, vale mais um grupinho de árvores num terreno vazio ou praça do que árvore sozinha na calçada
+t37-050 [arvore|Mito ou verdade] Mito: amêndoa e noz são castanhas de verdade. Botanicamente são frutos de caroço; a parte que se come é a semente
+t37-064 [arvore|Passo a passo] Cerca viva: mudas a cada 30 cm e poda a cada um ou dois anos. Fileira simples para cerca fina, dupla para cerca grossa
+t37-142 [arvore|Você sabia?] Muda enxertada: a raiz (o cavalo) controla o tamanho da árvore. Cavalo "anão" deixa a frutífera pequena, boa para vaso
+i36-163 [arvore|5 cuidados] Árvore arrancada: enrole a raiz em pano molhado ou saco velho e replante o quanto antes

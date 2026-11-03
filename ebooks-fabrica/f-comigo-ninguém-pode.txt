@@ -1,0 +1,6 @@
+t13-33 | Na comigo-ninguém-pode, o tóxico está na folha, no caule e na seiva [PET:UFG]
+t13-34 | A comigo-ninguém-pode intoxica de três jeitos: pelo olho, pela pele e pela boca [PET:UFG]
+v15-11 | O veneno da comigo-ninguém-pode são cristais de oxalato de cálcio, ácido oxálico e uma enzima que irrita a boca e solta histamina. A seiva é tóxica [PET:Ancara]
+v15-12 | Os cristais em agulha da comigo-ninguém-pode ficam guardados em células próprias e só saem quando a folha é mastigada, esfregada ou cortada [PET:Ancara]
+v15-13 | A comigo-ninguém-pode é tóxica inteira, principalmente caule e folha. O cão se intoxica comendo ou com a seiva no olho, e cão e gato são os mais atingidos [PET:Ancara]
+g16-16 | Comigo-ninguém-pode, todas as variedades: cautela para gato no guia inglês [PET:Cats Protection]

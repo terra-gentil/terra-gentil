@@ -1,0 +1,31 @@
+g16-36 | O pé de tomate está em perigo raro para gato, junto com pessegueiro, cerejeira, ameixeira e damasqueiro (Prunus) e a ervilha-de-cheiro [PET:Cats Protection]
+s2-59 | Milho e tomate juntos: a lagarta da espiga e a do tomate são o mesmo bicho; deixe os dois longe
+s2-87 | Lagarta grande e verde no tomateiro, com um "chifre" no rabo, come a planta em um ou dois dias
+s2-88 | Lagarta do tomateiro coberta de bolinhas brancas: deixe. É uma vespinha que parasita a lagarta e acaba com ela
+s2-89 | Fundo preto no tomate (podridão apical) não é bicho nem fungo: é falta de cálcio e terra que alterna encharcada e seca
+s2-90 | Contra o fundo preto: cobertura morta para manter a umidade igual, adubo sem exagero e calcário se a terra for ácida
+s2-91 | Tomate rachado: mudança rápida de terra seca para molhada; cobertura morta e rega na seca evitam
+s2-100 | O vírus do mosaico passa pela mão: quem fuma deve lavar as mãos antes de mexer no tomateiro
+s2-146 | Tomateiro enorme, verde-escuro e sem fruto: nitrogênio demais, muitas vezes por esterco demais
+s2-148 | Folha ou talo arroxeado no tomateiro é sinal fácil de falta de fósforo
+s2-161 | Esterco ou adubo de nitrogênio demais dá tomateiro lindo e quase sem tomate
+s2-162 | Tomate quer o lugar com mais horas de sol direto da casa; em vaso grande também dá, se não faltar água
+s2-163 | Semear tomate com terra do quintal chama o tombamento da muda: use substrato próprio para semente
+s2-164 | Semente de tomate gosta de calor para nascer, perto de 29 °C; em cima da geladeira costuma dar certo
+s2-165 | Muda de tomate pode ser enterrada fundo: o caule enterrado solta raiz nova e a planta fica mais firme
+s2-166 | Na muda de tomate, lâmpada a 2-5 cm da planta evita muda fina e esticada
+s2-167 | Comprar muda de tomate grande, esticada, já com flor ou fruto: sofre mais no plantio; prefira nova, em vaso de 10 cm
+s2-168 | Muda "barata" em bandeja pequena não é barata: raiz enrolada já é planta estressada; vire o vaso e veja se sai raiz pelo furo
+s2-169 | Antes de ir para o canteiro, acostume a muda ao tempo: um pouco mais de rua a cada dia, por duas semanas
+s2-170 | O tomate é sul-americano: veio de onde a estação é mais longa e quente que na maior parte dos EUA
+s2-172 | Plantio fundo: deixe só uns 10 cm da muda para fora; raiz funda aguenta melhor seca e calor
+s2-173 | Palha no pé do tomateiro segura a umidade e evita doença de terra que respinga na folha com a chuva
+s2-174 | Em clima quente, até o tomate passa calor: aí cobertura morta e planta companheira ajudam
+s2-175 | Tire o "ladrão" (broto entre o caule e a folha) toda semana no tomate de crescimento contínuo; senão vira outro caule e rouba força do fruto
+s2-176 | Colha o tomate quando a casca ceder um pouco ao dedo; o "ombro" é o último a mudar de cor
+s2-177 | Tomate verde colhido com o ombro já amarelando termina de amadurecer dentro de casa
+s2-178 | Para amarrar tomateiro, o autor diz que o melhor é meia-calça velha
+s2-179 | Tomate de crescimento determinado ou indeterminado: o primeiro é moita, para de crescer e é o melhor para vaso; o segundo é trepadeira, dá mais e pede tutor e poda
+s2-180 | Na dúvida da variedade, pergunte aos vizinhos que plantam o que dá certo na região
+a8-235 | Tomate, batata e quase toda planta cultivada ou espontânea se beneficiam das micorrizas, fungos que vivem dentro da raiz. A exceção mais conhecida é a família da couve
+a8-635 | Terra "cansada" de tomate: plantar sempre no mesmo lugar multiplica nematoides, que sobrevivem desidratados até 35 anos. O rodízio leva 3 a 5 anos para eles

@@ -1,0 +1,194 @@
+b1-01 | Suculenta guarda água nas folhas e no caule: não murcha se você esquecer de regar
+b1-03 | A maioria precisa de proteção do sol que queima no verão e prefere ambiente seco a chuvoso ou úmido
+b1-04 | Vaso é a saída para quem mora em lugar chuvoso: dá para tirar a planta da chuva, do frio e do calor
+b1-05 | Mãe e filhotes: em algumas suculentas, como a sempre-viva e muitas echeverias, a roseta grande solta rosetas pequenas; é só soltar um filhote e replantar
+b1-12 | Ponta vermelha nem sempre é doença: muita suculenta muda de cor com seca ou sol, e volta ao verde com água
+b1-13 | Algumas ficam vermelhas de propósito com muito sol (ex.: crassula 'Campfire')
+b1-15 | Kalanchoe de supermercado é suculenta e é das poucas que gostam de sombra
+b1-16 | Suculenta cristada (forma ondulada) queima fácil no sol e sofre com excesso de água
+b1-20 | Jade (planta-jade): regar quando a folha fica sem brilho e enrugada; em um dia ela volta [PET:Cats Protection]
+b1-21 | Folha enrugada na ponta e roseta fechada: é a planta poupando água, não morte; com água volta a encher
+b1-22 | Quanto mais gorda a suculenta, mais tempo ela pode (e deve) ficar sem rega
+b1-23 | Mito: toda suculenta rega pouco. As de folha fina guardam menos água e pedem rega mais frequente
+b1-25 | Esticada e comprida = falta luz. Mancha bege = luz demais. Cochonilha = pouca ventilação
+b1-28 | Suculentas pendentes para jardim vertical: colar-de-pérolas, rabo-de-burro, flor-de-maio, ripsalis
+b1-29 | Suculenta demora a pegar fogo e não espalha a chama: é usada como barreira contra queimada
+b1-30 | Agave com espinho embaixo da janela já foi usada como proteção contra ladrão
+b1-31 | Em barranco, suculenta rasteira que enraiza enquanto cresce segura a terra contra erosão
+b1-32 | Existe suculenta invasora: na Califórnia, o Carpobrotus edulis se espalhou pelo litoral e não deixa as plantas nativas crescerem (nome popular no Brasil a confirmar)
+b2-01 | Temperatura ideal da maioria: 7 a 29 graus. Aguenta até 0 e acima de 38 se tiver sombra
+b2-02 | Mito: toda suculenta gosta de deserto. Pequena, ela precisa de proteção do sol forte acima de 32 graus
+b2-03 | Verde liso ou rajada clara queima mais fácil; vermelha, cinza, azul ou cheia de espinho aguenta mais sol
+b2-04 | Dentro de casa, não encostar no vidro da janela: o vidro aumenta o sol e queima a folha. Cortina fina resolve
+b2-05 | No vaso ela fica pequena, como peixe no aquário; no chão cresce até o tamanho real
+b2-06 | Adubo: líquido equilibrado diluído pela metade, quando ela volta a crescer. Uma vez por ano basta
+b2-07 | Saiu da sombra? Leve ao sol aos poucos, senão queima
+b2-08 | Muda nova: copie onde ela estava na loja (sol, meia-sombra ou estufa) e mude aos poucos, meia hora a mais por dia
+b2-09 | Regra de luz: pelo menos 4 horas de luz forte por dia (manhã ou fim de tarde) e sombra rala no pico do calor
+b2-10 | Guarde a etiqueta que veio no vaso: é o jeito mais fácil de saber o que a planta pede
+b2-11 | Parede clara reflete luz com metade da força do sol direto
+b2-12 | Teste da sombra: sombra borrada = luz boa; sombra bem marcada = sol forte demais
+b2-13 | Pegando sol de um lado só? Gire o vaso uma vez por semana para ela não entortar
+b2-14 | Suculenta vermelha ou laranja pode estar saudável: é o "estresse bonito" de mais sol e menos água
+b2-15 | O vermelho vem das antocianinas, o mesmo pigmento das frutas vermelhas
+b2-16 | Em algumas, como a Crassula pubescens, só a parte que pega sol fica vermelha, como papel fotográfico; a de baixo continua verde
+b2-17 | Pouca água, não zero água: a maioria fica mais bonita com rega regular quando está crescendo
+b2-18 | Deixar a terra secar por completo entre regas pode secar as raízes finas
+b2-20 | Ao regar, encharque até escorrer pelo furo: isso lava o sal da terra
+b2-21 | A terra perto da raiz deve ficar como esponja torcida
+b2-22 | Água demais mata mais que água de menos: água parada no fundo apodrece a raiz
+b2-23 | Caule mole = raiz podre. Salve: corte a parte sadia, deixe cicatrizar e replante. Jogue a terra velha fora
+b2-25 | Clima úmido: plantada no chão, regue menos. Umidade constante traz praga e mofo
+b2-26 | Muitos cactos tropicais vêm das florestas tropicais do Brasil e gostam de mais água que os de deserto
+b2-27 | Vaso sem furo pode, se regar pouco: metade das vezes do vaso com furo, de preferência com água destilada
+b2-28 | Sinal de sede: folha perde o brilho e aparecem rugas finas na ponta
+b2-29 | Vaso sem furo nunca fica na chuva ou no regador automático
+b2-30 | Elefante na África quebra galho de suculenta e o galho cria raiz: muda não precisa de laboratório
+b2-31 | Muda de galho: corte 5 a 8 cm da ponta, tire as folhas de baixo, deixe cicatrizar uns dias na sombra e plante
+b2-32 | Semente é demorada demais: quase toda suculenta pega fácil por galho ou filhote
+b2-33 | Muda sem raiz murcha e perde brilho: é normal. Em 4 a 6 semanas enraiza
+b2-34 | Folha seca na base da roseta é normal e protege o caule do frio e do sol
+b2-35 | Muda de folha: deixe a folha em cima da terra, sem molhar e sem enterrar; ela solta raiz sozinha
+b2-36 | A plantinha nova se alimenta da folha até ela secar como uva-passa
+b2-37 | Kalanchoe "mãe-de-milhares" solta mudinhas na borda da folha, que caem e enraizam
+b2-38 | Echeveria com caule comprido e torto: corte uns 2,5 cm abaixo da roseta e replante; o toco pode soltar rosetas novas
+b2-40 | A maioria das agaves morre depois de florir; no eônio e na sempre-viva, morre só a roseta que floriu. Cortar a flor não salva
+b2-41 | Em algumas agaves, a haste da flor vira milhares de mudinhas que caem e continuam o ciclo
+b2-42 | Terra do jardim no vaso: pesada demais e pode trazer semente de mato e doença
+b2-43 | Substrato caseiro: metade substrato comum para vaso, metade pedra-pomes ou perlita
+b2-44 | Quanto mais gorda a planta, mais pedra no substrato: cacto 70% pedra, sedum de folha fina 70% terra
+b2-45 | Misturou gorda com fina no mesmo vaso? Monte um morrinho: a que pede mais água embaixo, a que pede menos no alto
+b2-46 | Raiz enrolada no vaso novo: desembarace e apare as compridas antes de plantar
+b2-48 | Folha seca e terra no meio da roseta juntam bicho e apodrecem: tire com pinça
+b2-49 | Mancha branca na folha escura é mineral da água que secou: limpe com pano macio e água destilada
+b2-50 | Não passe o dedo no pó branco da folha: ele não volta e a planta fica verde opaca
+b2-51 | Ponta de folha queimada (babosa, agave): corte em diagonal, seguindo o formato da folha, não reto [PET:Ancara]
+b2-52 | Caracol e lesma: catar à mão é a saída mais limpa; folha roída fica feia por anos
+b2-53 | Cochonilha parece algodão e se esconde onde a folha encontra o caule
+b2-54 | Ácaro-vermelho: teia e pontinhos como pimenta caiena; gosta de tempo quente e seco
+b2-55 | Contra pulgão, cochonilha e ácaro: álcool isopropílico misturado meio a meio com água, em spray, e mais ventilação
+b2-56 | Cochonilha na raiz (algodão nas raízes): jogue a terra fora, lave o vaso e recomece com muda em terra nova
+b2-57 | Calombos marrons no caule são cochonilha de carapaça: raspe com faca de plástico e lave com sabão neutro
+b2-58 | Cochonilha de carapaça: depois de lavar e replantar, deixe a planta isolada por alguns meses e olhe as vizinhas
+b2-62 | Roseta fechada no calor não é doença: ela se protege do sol
+b2-63 | Mancha bege é queimadura de sol: raramente mata, mas a folha queimada não volta
+b2-64 | Vaso pequeno e de barro seca mais rápido
+b2-65 | Mancha clara, bege ou escura: sol demais. Leve para sombra clara
+b2-67 | Esticada, roseta achatada ou virada para baixo: falta luz. Aumente o sol aos poucos
+b2-68 | Perdeu o vermelho e ficou verde? É mimo demais: menos água, mais sol, terra mais pobre, sem adubo
+b2-69 | Roseta fechada ou murcha: calor, seca, frio ou só dormência. Se for dormência, deixe quieta
+b3-01 | Pedra por cima da terra esconde a terra, impede o mato de nascer e segura a erosão
+b3-02 | Pedra grande no jardim esquenta em volta e segura a umidade da terra
+b3-03 | Pedra do jardim: prefira a parecida com as pedras da região; branca ou colorida chama atenção demais
+b3-04 | Areia fina entre a terra e o pedrisco evita que a terra suba quando você rega
+b3-05 | Terra caiu na folha? Sopre, use pincel macio ou regue de leve
+b3-06 | Sempre-viva passando de vermelha a verde e folhas de baixo curvando: falta luz
+b3-07 | Quadro vivo de suculenta: depois de montar, deite em sombra clara; murchar um pouco antes de enraizar é normal
+b3-08 | Quadro vivo: espere uma semana, levante uma roseta; com raiz, regue só para umedecer. No dia seguinte ela está gordinha
+b3-09 | Só pendure o quadro quando um puxão leve não soltar as plantas; lugar ventilado, sol da manhã ou sombra rala
+b3-10 | Companheiras de suculenta precisam do mesmo: terra que drena, pouca água, pouca chuva e umidade
+b5-15 | Agave na passagem: apare meio centímetro da ponta do espinho para ninguém se furar
+b5-16 | A agave-americana solta filhotes por baixo da terra que podem nascer a 1 metro ou mais de distância: em quintal pequeno, prefira um vaso firme
+b5-17 | Antes de plantar agave, pense onde ela vai estar quando florir e morrer: tirar uma grande é trabalhoso
+b5-18 | No vaso a agave demora muito mais para florir que no chão
+b5-20 | Agave-dragão vira muda de tronco: corte 15 a 20 cm abaixo das folhas, enterre 15 cm e mantenha úmido
+b5-21 | A agave-rainha-vitória leva 20 a 25 anos para florir e a haste chega a 4,5 metros
+b5-22 | Agave grande serve de cerca viva e de barreira contra fogo
+b5-23 | Eônio com caule pelado e roseta no alto é normal: decapite e replante a roseta
+b5-25 | Eônio preto que fica verde no meio e esticado: falta sol
+b5-31 | Suculentas para criança (aguentam mão e esquecimento): babosas anãs, colar-de-corações, orelha-de-gato (Kalanchoe tomentosa), haworthia-zebra, mãe-de-milhares, sempre-viva-teia-de-aranha [PET:Ancara]
+b6-01 | Colar-de-corações (Ceropegia): sombra clara ou dentro de casa, em vaso suspenso
+b6-02 | Muda de colar-de-corações: deite um fio sobre um vaso de terra e deixe as bolinhas do caule enraizarem
+b6-03 | A flor do colar-de-corações parece um flamingo roxo de 2,5 cm
+b6-04 | Jade x cotilédone (orelha-de-porco) se confundem; a flor entrega: jade tem estrelinhas, cotilédone tem sininhos laranja [PET:Cats Protection]
+b6-05 | A jade se poda sozinha: o galho amolece, cai e o galho caído cria raiz [PET:Cats Protection]
+b6-06 | Jade vira bonsai e pode ser podada em arvorezinha [PET:Cats Protection]
+b6-07 | Jade colorida (amarela, tricolor) voltou ao verde? Falta sol pleno [PET:Cats Protection]
+b6-08 | Vaso pendurado em lugar de vento ou passagem: crassula empilhada, porque a folha não solta fácil
+b6-11 | Echeveria (rosa-de-pedra) babadinha: vaso, meia-sombra, algumas horas de sol da manhã e girar o vaso meia volta por semana
+b6-12 | Echeveria escura com mancha de água: regue com água destilada ou limpe a folha com ela
+b6-13 | Quanto mais sol (sem queimar), mais vermelha fica a borda da echeveria 'Lipstick'
+b6-14 | Uma rosa-azul (Echeveria imbricata) no meio de um vaso de 45 cm enche o vaso de filhotes em um ano
+b6-19 | Bico-de-papagaio (poinsétia) é da mesma família das eufórbias suculentas [PET:UFG]
+b6-20 | Coroa-de-cristo: o que parece flor são brácteas, e ela quase nunca para de florir [PET:UFG]
+b6-21 | Obesa (eufórbia-bola) ensina a regra: quanto mais gorda, menos água e mais fácil apodrecer. Uma chuva matou a da autora
+b6-22 | Em 1925 uma obesa custava 27,50 dólares, uma fortuna para planta na época
+b6-24 | Boca-de-tigre (Faucaria) parece planta carnívora, mas não morde; vai bem na janela
+b6-25 | Gasteria tem esse nome porque a flor parece um estômago cor-de-rosa
+b6-26 | Folha de gasteria quebrou? Enfie na terra que pode virar planta nova
+b6-27 | Planta-fantasma (Graptopetalum paraguayense) não é do Paraguai, é do México; é das mais fáceis de fazer muda
+b6-28 | Planta-fantasma muda de cor: rosada no calor seco, azulada na meia-sombra com água
+b6-29 | Haworthia é a suculenta para apartamento: vive com pouca luz
+b6-30 | Haworthia na janela também queima: o vidro aumenta o sol. E ao levar para fora, nada de sol direto de uma vez
+b6-31 | Haworthia-janela tem a ponta da folha transparente, como gelatina verde
+b6-32 | Flor-de-cera (Hoya): acima de 10 graus, sombra clara, terra comum com 30% de substrato de orquídea, mais para seca
+b6-33 | Flor-de-cera floresce melhor com o vaso apertado de raiz: não tenha pressa de trocar por vaso maior
+b6-34 | A Hoya kerrii tem folha em forma de coração, tão bonita que a flor fica em segundo plano
+b6-35 | Flor de "ice plant" (rasteira) abre no sol e fecha com pouca luz; nenhuma aguenta pisada
+b7-01 | Kalanchoe é planta nova no comércio: só entrou nos viveiros na segunda metade do século 20
+b7-02 | Kalanchoe de supermercado floresce até com pouca luz, a cada 6 meses, e a flor dura 6 semanas ou mais
+b7-03 | Kalanchoe esticado depois de várias floradas é desgaste normal: faça mudas de galho para renovar
+b7-04 | Calandiva é um kalanchoe de flor dobrada, que parece rosinha [PET:UFG]
+b7-05 | Kalanchoe-panqueca (K. luciae): sol pleno deixa a folha vermelha; a roseta pode morrer depois de florir
+b7-06 | Suculenta peluda (orelha-de-gato) suja de terra: limpe com pincel macio
+b7-07 | Pedra-viva (Lithops) parece pedrinha para se esconder dos animais que pastam
+b7-08 | A pedra-viva "come" as folhas velhas: o par novo cresce se alimentando do antigo
+b7-09 | Pedra-viva: na dúvida, não regue. Só com rugas por vários dias, e no máximo a cada 2 semanas
+b7-10 | Pedra-viva tem raiz comprida: vaso de pelo menos 15 cm de fundo e terra bem drenada
+b7-16 | Peperomia 'Ruby' vem da floresta do Equador: gosta de calor, umidade e luz forte sem sol direto
+b7-17 | Jade x portulacaria (árvore-da-fortuna): parecidas, mas a portulacaria tem folha menor e caule duro de cortar [PET:Cats Protection]
+b7-28 | Sedum de folha pequena aguenta mais frio e menos sol forte; é usado em telhado verde
+b7-29 | Sedum burrito x Sedum morganianum: o burrito solta menos folha, por isso é o que se acha à venda (nomes populares a conferir)
+b7-30 | Sempre-viva (Sempervivum) quer dizer "sempre vivo"; na Inglaterra cresce em telhado
+b7-32 | Senecio no verão: regue só na parte fresca do dia; com calor e água ele apodrece
+b7-33 | Colar-de-pérolas gosta de sombra rala e de 10 a 27 graus; é mais difícil que o colar-de-bananas
+b7-34 | Quer o efeito do colar-de-pérolas sem sofrer? Colar-de-bananas ('Fish Hooks') aguenta sol e é fácil
+t13-19 | O kalanchoe (folha-da-fortuna) é tóxico para cão e gato, e não é só uma espécie: vale para o de flor de vaso, para a mãe-de-milhares e outras do gênero [PET:UFG]
+t13-20 | O veneno do kalanchoe age no coração: força a batida e pode lesar o músculo. Está na planta toda, mais na folha [PET:UFG]
+t13-22 | Achar que toda suculenta é segura para pet: o kalanchoe, suculenta de flor fácil de cultivar, está na lista de tóxicas para cão e gato [PET:UFG]
+t13-45 | A coroa-de-cristo (ou bem-casados) veio de Madagascar, tem espinhos de até 3 cm e aqui vira cerca viva [PET:UFG]
+t13-46 | O leite da coroa-de-cristo corre na folha, no espinho e no caule: é cáustico (queima), irritante e purgante (solta o intestino) [PET:UFG]
+p14-06 | Toda suculenta é perigosa para pet? Mito: a echeveria (rosa-de-pedra) está na lista de não tóxicas da ASPCA. Mas há suculentas tóxicas (ver alertas PET do Baldwin) [PET:ASPCA]
+g16-20 | Achar que suculenta é sempre segura: jade (Crassula ovata), kalanchoe, agave e aveloz (Euphorbia tirucalli) estão em cautela para gato [PET:Cats Protection]
+g16-32 | Toda suculenta faz mal ao gato? Mito: haworthia (zebrinha), sedum e flor-de-maio (Schlumbergera) estão entre as seguras [PET:Cats Protection]
+r6-01 | As suculentas se defendem da seca com os mesmos truques: menos área de folha, água guardada dentro do corpo e uma pele com pelo, cera ou espinho para não perder água
+r6-12 | Suculenta não é família de planta: são umas 50 famílias, mais de 600 gêneros e milhares de espécies, e muitas delas vêm de lugares de sol forte, principalmente da África
+r6-13 | Nas Américas, as suculentas nativas que mais aparecem são de três famílias: a das crássulas (como a echeveria, do México), a das agaves e a dos cactos
+r6-16 | Para vaso grande na varanda ou no pátio, as mais indicadas são a agave-dragão (Agave attenuata), as kalanchoes e as crássulas [PET:ASPCA]
+r6-17 | A Kalanchoe tomentosa, a orelha-de-gato de folha peluda, é das que o autor recomenda para vaso de varanda [PET:ASPCA]
+r6-18 | A Lampranthus cobre o chão de flor e, com as raízes, ajuda a segurar a terra no lugar. Apesar de um dos nomes populares ser cacto-margarida, ela não é cacto
+r6-20 | Muro de pedra com buraco vira jardim: as falhas entre as pedras podem ser preenchidas com echeveria, sedum e sempre-viva (Sempervivum)
+r6-22 | Vaso de suculenta pode ser de barro, cerâmica, plástico, fibra ou metal, sempre com uma camada de 1 a 2 cm de cascalho por cima da terra
+r6-23 | Terra de suculenta é arenosa: arejada e drena rápido
+r6-30 | Duas vezes por mês dê uma olhada na suculenta: tire a poeira e as folhas mortas. É nessa olhada que se pega praga cedo
+r6-33 | Suculenta aguenta uma faixa larga de acidez de terra: pH de 5,5 a 8,5
+r6-39 | Touceira de crássula se divide assim: arranque a moita, separe as plantas uma a uma com a terra grudada na raiz e plante em terra própria
+r6-43 | Muda de folha: tire uma folha inteira de uma crassulácea (como echeveria, jade ou kalanchoe) e enterre só uma parte dela na areia ou em terra arenosa. Quando nascer a plantinha, passe para outro vaso [PET:ASPCA]
+r6-44 | Até a haste da flor vira muda: corte antes de a flor acabar, divida em pedaços de 10 cm e enterre até a metade na areia
+r6-50 | A tequila sai de uma suculenta: a agave
+k9-001 | Pouco tempo para cuidar? Comece por planta que aguenta semanas sem água: cactos, suculentas, pata-de-elefante e rosa-do-deserto
+k9-008 | Samambaia que cresce para um lado e suculenta fininha e comprida tombando o vaso: as plantas percebem onde está a luz e crescem na direção dela
+k9-046 | Suculenta plantada direto numa xícara sem furo e você esquece de virar a xícara depois da rega: a água empoça e a planta apodrece
+k9-201 | O nome suculenta vem do "suco": como o camelo, a planta guarda água e nutrientes no caule, na folha e na raiz para atravessar a seca
+k9-203 | O erro clássico com suculenta: a planta levou milhões de anos se preparando para a seca e a gente rega demais, até encharcar
+k9-204 | Toda suculenta é de deserto e odeia água? Mito: o cacto-macarrão e a flor-de-maio são suculentas da Mata Atlântica, de sombra e umidade
+k9-205 | Coleção de suculentas: ponha uma plaquinha com o nome de cada uma e junte no mesmo canto só as que pedem a mesma luz e a mesma água
+k9-206 | Cacto e suculenta precisam de pelo menos 4 horas de sol direto por dia; algumas espécies querem sol o dia inteiro
+k9-207 | Rega de suculenta: molhe bem, depois espere a superfície da terra ficar BEM seca antes da próxima. Pode levar dias ou semanas, conforme vaso, espécie e clima
+k9-208 | Isopor esfarelado misturado à terra deixa o substrato mais poroso e arejado: é o substituto caseiro da perlita, difícil de achar
+k9-212 | Fazer muda de suculenta comprida é fácil: pedaços de folha ou de caule espetados em substrato fértil enraízam
+k9-215 | Berçário de mudas de suculenta: deixe num lugar com sol da manhã até enraizar e só então passe para o vaso definitivo
+k9-216 | Suculenta fina e espichada está pedindo sol. O nome disso é estiolamento: leve o vaso aos poucos para um lugar mais ensolarado e ela volta a florir
+k9-224 | Caíram as folhinhas do dedo-de-moça? Não jogue fora: deitadas sobre a terra úmida, elas enraízam fácil e viram mudas
+k9-225 | A rosa-de-pedra (Echeveria) aceita meia-sombra, desde que pegue algumas horas de sol, de preferência da manhã; com substrato adubado, solta uma haste de flor curva como cabo de guarda-chuva
+k9-226 | O cacto-estrela (Stapelia) tem flor do tamanho de um pires com cheiro de carniça, feita para atrair moscas varejeiras, que são suas polinizadoras
+k9-227 | O calanchoê vive muitos anos, mas no Brasil é cultivado como planta de um ano só: no segundo ano a florada perde a força e nem poda nem adubo recuperam [PET:UFG]
+k9-228 | Flor-de-maio é suculenta nativa da sombra do Sudeste: quer muita claridade sem sol forte, enche de flores no outono e no inverno e um pedaço de ramo vira muda
+k9-230 | A Aloe aristata avisa a sede: as pontas das folhas afinam como pelos e, se a falta de água continua, a roseta quase se fecha [PET:Ancara]
+k9-231 | O colar-de-pérola gosta de umidade no ar, mas odeia terra encharcada. Aceita claridade ou sol, protegido nas horas mais quentes
+k9-232 | Regra de ouro: quanto mais gordinha a suculenta, maior o risco de apodrecer. Substrato bem poroso leva o excesso de água para o fundo, longe da raiz
+k9-233 | Regar demais a pata-de-gato: ela gosta de sol e não de água, e o excesso apodrece as "patinhas"
+k9-234 | Plantar suculenta em travessa ou peça sem furo e regar como vaso comum: sem dreno, a rega tem de ser mínima e o excesso precisa ser escorrido virando o vaso
+k9-235 | Para mexer em suculenta sem estragar, segure pelo caule, no ponto onde acabam as raízes e começam as folhas
+k9-236 | Regar o arranjo de suculentas por cima das plantas: mire o bico do regador num espaço sem planta, molhe até escorrer pelos furos e deixe drenar
+k9-277 | Terrário de suculenta dá certo? Mito: terrário é fechado, úmido e sem sol, e a suculenta apodrece em poucas semanas

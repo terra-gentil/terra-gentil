@@ -1,0 +1,280 @@
+## EXCLUSIVOS DO TG 075
+f11-55 [compostagem|Você sabia?] Folha fresca de confrei acelera o composto. E, como cobertura entre os canteiros, vira esconderijo de lesma: é só recolher
+s2-125 [compostagem|Você sabia?] Em clima quente o composto some mais rápido da terra: no calor, a horta pede o dobro ou o triplo por ano
+h35-026 [compostagem|Passo a passo] Terra de folha: guarde folhas secas molhadas em sacos por dois anos e está pronta
+h35-029 [compostagem|Passo a passo] Composteira: vá alternando camadas de folha, galhinho e resto de cozinha para o ar circular
+h35-030 [compostagem|Passo a passo] Revire a composteira de vez em quando com o garfo: entra ar e acelera
+h35-031 [compostagem|Você sabia?] O composto está pronto quando fica escuro e esfarelando; o que não desmanchou volta para a composteira
+g32-385 [compostagem|Passo a passo] Composto: vá juntando verde (folha fresca) e marrom (galho, folha seca) misturados, não em camadas separadas
+g32-386 [compostagem|5 cuidados] Pique galho e material lenhoso antes de botar na composteira
+g32-387 [compostagem|5 cuidados] Revire o monte de composto pelo menos quatro vezes por ano: o meio é a parte mais quente
+g32-388 [compostagem|Você sabia?] Composto está pronto quando fica marrom-escuro e não dá mais para reconhecer nada, em 9 a 12 meses
+g32-389 [compostagem|5 cuidados] Use o composto como cobertura de pelo menos 5 cm no canteiro
+g32-474 [compostagem|Você sabia?] Composteira de três baias: uma maturando, uma enchendo e uma livre para virar o material
+g32-475 [compostagem|Você sabia?] Monte de composto de 1 metro cúbico ou mais esquenta o bastante para matar semente de mato
+g32-476 [compostagem|Você sabia?] Minhocário serve para varanda e quintal pequeno; bokashi fica na bancada da cozinha
+g32-477 [compostagem|3 erros] Não ponha na composteira semente de mato, raiz de mato perene nem planta com doença de solo
+g32-478 [compostagem|Dica do Andre] Peneire o composto numa tela de galinheiro para tirar os pedaços de pau
+g32-479 [compostagem|Passo a passo] Chorume do minhocário: 1 parte para 10 de água e vira adubo líquido
+e22-130 [compostagem|Você sabia?] A samambaia-das-taperas, arrancada nova, vira ótimo composto
+i36-049 [compostagem|Dica do Andre] Placa de grama tirada do canteiro: empilhe com a grama para baixo. Em meses vira terra boa
+i36-262 [compostagem|5 cuidados] Composteira: fundo aberto direto na terra, tampa e espaço para revirar
+i36-263 [compostagem|Você sabia?] Composteira na terra, não no piso: os bichinhos que fazem o composto entram por baixo
+i36-264 [compostagem|3 erros] Erro comum: pôr comida cozida na composteira. Atrai rato
+i36-265 [compostagem|Dica do Andre] Misture o verde e o seco na composteira em vez de fazer camadas grossas: o ar e a umidade circulam
+i36-266 [compostagem|Passo a passo] Encheu a composteira? Vire tudo no chão, misture e volte. Sem pôr mais nada, fica pronto em poucos meses
+i36-267 [compostagem|Você sabia?] O meio da pilha de composto é quente e úmido e decompõe mais rápido que as bordas. Por isso se revira
+i36-268 [compostagem|Passo a passo] Terra de folha: folha seca úmida num saco plástico fechado e furado, na sombra, por dois anos
+i36-269 [compostagem|Você sabia?] Bokashi fermenta até carne, peixe e laticínio, sem cheiro, num balde fechado: dá para fazer dentro de casa
+i36-270 [compostagem|Você sabia?] Minhocário é composteira para quem tem pouco lixo: minhocas em caixa ventilada viram tudo adubo
+i36-306 [compostagem|Você sabia?] Minhoca vermelha da composteira é menor e mais vermelha que a da terra, e transforma resto de verdura em adubo rápido
+q34-053 [compostagem|Dica do Andre] Composteira em lugar de sombra: o composto gosta de temperatura e umidade sem altos e baixos
+q34-054 [compostagem|Dica do Andre] Composteira sobre piso? Ponha uma camada de terra do jardim no fundo para trazer os bichinhos do solo
+q34-055 [compostagem|Você sabia?] Composteira muito pequena (menos de 1 metro cúbico) funciona pior que a grande
+q34-056 [compostagem|3 erros] Erro comum: nunca revirar a composteira. Sem ar o composto empaca. Revire uma vez por mês
+q34-057 [compostagem|Você sabia?] Composto caseiro fica pronto de seis meses a dois anos, conforme o calor e a umidade
+q34-058 [compostagem|Você sabia?] Composto pronto é marrom-escuro, solto como terra e tem cheiro de chão de mata molhado
+q34-059 [compostagem|Socorro] Socorro, meu composto está melado e fedendo! É água demais e pouco ar: cubra e ponha mais material seco
+q34-060 [compostagem|Socorro] Socorro, meu composto está seco e não apodrece! Falta verde: ponha resto de verdura, grama ou esterco fresco
+q34-061 [compostagem|Dica do Andre] Mosca na composteira: cubra o resto de cozinha com uma camada de folha ou poda
+q34-062 [compostagem|3 erros] Erro comum: encher a composteira só de grama cortada. Vira uma papa melada
+q34-063 [compostagem|Você sabia?] Composteira: de um quarto à metade de material verde. O resto é marrom: galho, papelão, palha, folha seca
+q34-101 [compostagem|Você sabia?] Hugelkultur: tronco podre enterrado num monte de terra esquenta, aduba e segura água por anos
+q34-102 [compostagem|Passo a passo] Monte hugelkultur: tronco caído há 2 ou 3 anos embaixo, galho e cavaco nos vãos, grama virada, e terra com composto por cima
+q34-103 [compostagem|Dica do Andre] No hugelkultur, ponha a placa de grama de cabeça para baixo: dá nitrogênio e a grama não brota
+q34-104 [compostagem|3 erros] Erro comum: plantar alecrim e lavanda no monte hugelkultur. A terra é rica e úmida demais para ervas de lugar seco
+w31-097 [compostagem|Passo a passo] Minhocário de dois baldes: um furado em cima de tijolos dentro do outro. O líquido escorre para o de baixo
+w31-098 [compostagem|3 erros] Erro comum: pôr minhoca comum de jardim no minhocário. Use a vermelha de compostagem
+w31-099 [compostagem|5 cuidados] Minhocário na sombra, entre 5 e 20 graus, úmido mas não encharcado
+w31-100 [compostagem|Dica do Andre] O líquido do minhocário vira adubo: uma parte para dez de água
+w31-101 [compostagem|Passo a passo] Composto de folhas: ensaque as folhas secas, fure o fundo e esqueça por um ano. Vira terra fofa
+w31-102 [compostagem|Você sabia?] Composto de folhas é pobre em nutriente, mas é ótimo condicionador de solo e cobertura
+w31-103 [compostagem|Dica do Andre] Passe o cortador de grama sobre as folhas antes de ensacar: picadas, apodrecem bem mais rápido
+w31-108 [compostagem|Passo a passo] Sem espaço para composteira: enterre os restos da cozinha num buraco de 30 a 40 cm no canteiro e espere uns meses
+w31-109 [compostagem|3 erros] Erro comum: pôr carne, peixe, laticínio, óleo e cocô de cachorro no composto
+w31-110 [compostagem|Dica do Andre] Composteira sobre tela fina de galinheiro: rato não entra por baixo e minhoca entra
+w31-111 [compostagem|5 cuidados] Casca de cítrico e cebola são ácidas e atrapalham o composto. Ponha pouco
+w31-112 [compostagem|Dica do Andre] Pique o material antes de pôr na composteira: quanto menor, mais rápido vira composto
+w31-113 [compostagem|Dica do Andre] Quem quer começar a jardinar deve começar pela composteira
+w31-114 [compostagem|Passo a passo] Baia de composto: três paletes tratados a calor amarrados em U, um atrás e dois dos lados
+w31-115 [compostagem|5 cuidados] Composto fedido e melado tem verde demais. Equilibre meio a meio com marrom: papelão, folha seca, serragem
+w31-116 [compostagem|Você sabia?] Material verde como grama cortada e resto de verdura é rico em nitrogênio, e é ele que deixa o composto melado
+w31-118 [compostagem|5 cuidados] Revire o composto para entrar ar: decompõe mais rápido
+## EXCLUSIVOS DO TG 076
+b24-474 [maracujá|Você sabia?] A flor do maracujá tem uma coroa de fiozinhos no meio, que é a marca do gênero
+b24-475 [maracujá|5 cuidados] Maracujá vai no sol ou na meia-sombra, em terra fértil que escoe; regue bem quando cresce
+b24-476 [maracujá|5 cuidados] Maracujá precisa de suporte; desbaste os ramos embolados
+b24-477 [maracujá|5 cuidados] Maracujá pega de semente ou de estaca de ramo meio maduro
+b24-478 [maracujá|Você sabia?] O maracujá-doce (P. alata) tem caule quadrado e flor perfumada
+m33-055 [mamão|Você sabia?] O mamoeiro é, na verdade, uma erva com jeito de árvore
+m33-056 [mamão|Você sabia?] Para dar mamão, precisa de pé macho e pé fêmea, ou de um pé que tenha os dois sexos
+m33-057 [mamão|5 cuidados] Semente de mamão vai fresca, de preferência em copinho, para não mexer na raiz depois
+m33-200 [bananeira|Você sabia?] A bananeira parece árvore, mas é uma erva
+m33-201 [bananeira|Passo a passo] Muda de bananeira: afaste a terra, corte o filhote para baixo com faca, levando o máximo de raiz
+m33-202 [bananeira|5 cuidados] Tire as folhas grandes ou estragadas do filhote de bananeira para ele perder menos água
+m33-203 [bananeira|Você sabia?] Bananeira nova pode crescer 3 metros num ano
+m33-210 [maracujá|5 cuidados] Maracujá pega muito fácil de qualquer estaca de ramo verde; enraíza em 3 a 4 semanas no úmido
+m33-211 [maracujá|Passo a passo] Semente de maracujá: guarde o fruto maduro 14 dias, amasse e deixe a polpa 3 dias fermentando; isso mata o fusário
+m33-212 [maracujá|5 cuidados] Depois de lavar e secar, deixe a semente de maracujá 24 horas de molho em água quente para amolecer a casca
+m33-213 [maracujá|Você sabia?] Maracujá novo floresce e dá fruto com fartura depois de três anos
+m33-220 [abacate|Você sabia?] Abacate de caroço sai quase igual à mãe
+m33-221 [abacate|5 cuidados] Deixe a muda de abacate chegar a 30 ou 40 cm antes de ir para a terra
+m33-222 [abacate|Você sabia?] Abacateiro de viveiro é enxertado para resistir a doença e dar fruto com regularidade
+m33-223 [abacate|5 cuidados] Caroço de abacate vai de molho antes de plantar, para evitar a podridão da raiz
+m33-247 [pitaia|Você sabia?] A pitaia de flor grande é a "rainha-da-noite"
+m33-248 [pitaia|X ou Y?] Semente ou estaca na pitaia? A semente leva 5 a 10 anos para florir; a estaca dá planta adulta em 2 a 5
+m33-249 [pitaia|5 cuidados] Estaca de pitaia: pedaço de 6 a 10 cm do caule, enraíza em 3 a 6 semanas
+m33-270 [uva|5 cuidados] Estaca de videira: 8 cm com três nós, de ramo fino; enraíza em umas quatro semanas
+m33-271 [uva|3 erros] Na estaca lenhosa de uva, confira se o meio do ramo ainda está verde
+m33-272 [uva|Você sabia?] Videira enxertada ganha força e resistência a praga
+m33-279 [amora|5 cuidados] Amoreira pega de estaca lenhosa, até de pedaço grosso de galho de 2 a 4 anos, direto no chão
+q3-636 [abacaxi|Você sabia?] O abacaxi é bromélia; em vaso dentro de casa fica com metade da altura e raramente dá fruta
+q3-637 [abacaxi|Você sabia?] A folha do abacaxi fica avermelhada quando pega sol forte
+q3-638 [abacaxi|5 cuidados] Abacaxi em vaso: deixe a terra secar um pouco entre as regas e adube a cada 4 semanas no calor
+q3-639 [abacaxi|Passo a passo] Muda de abacaxi: corte os filhotes da base, deixe secar um dia e plante no vaso
+q3-640 [abacaxi|Você sabia?] Existe abacaxi variegado, menor, com folha verde, branca, amarela e rosa
+h35-273 [amora|Você sabia?] Amora-preta dá fruto no ramo de dois anos; depois de produzir, corte esse ramo na base e deixe os novos
+g32-139 [uva|Você sabia?] Folha nova de uva se come recheada, como no charutinho
+t37-094 [amora|Você sabia?] A amoreira-preta cresce devagar e pode levar sete anos para começar a dar fruta, mas depois dá muito por anos
+t37-095 [amora|Você sabia?] A amora é fonte de ferro e vitamina C
+v19-065 [amora|5 cuidados] Amoreira-preta: terra boa e lugar quente, protegido do vento. Cresce devagar
+i36-099 [maracujá|Você sabia?] Maracujá-azul dá flor branca com fios roxos e azuis, depois fruto laranja, e cresce rápido
+i36-100 [maracujá|Dica do Andre] Maracujá-azul vai bem em vaso, encostado em muro ou cerca
+i36-247 [amora|Passo a passo] Amora e framboesa: corte rente ao chão a vara que já deu fruta. A vara nova dá a próxima colheita
+q34-152 [uva|Você sabia?] Videira sobe por gavinha e pede sol e lugar abrigado
+q34-154 [maracujá|Você sabia?] Maracujá-azul dá fruto laranja comestível, mas sem graça perto do maracujá-azedo
+w31-040 [uva|Você sabia?] Viticultor põe pedra branca embaixo da parreira: a luz refletida apressa o amadurecimento da uva
+w31-042 [pitaia|Passo a passo] Cacto de pitaia: tire sementes da fruta, deixe secar umas horas, espalhe no vaso com terra e ponha na janela de sol
+w31-043 [pitaia|Você sabia?] Pitaia é um cacto tropical e cresce devagar. Em poucas semanas a semente já brota
+w31-182 [uva|Dica do Andre] Guarda-sol velho sem pano, fincado no chão, vira caramanchão de parreira em dois ou três anos
+## COMPARTILHADOS (so estes, de qualquer dos dois livros)
+b5-29 [outra|Você sabia?] Pata-de-elefante não é palmeira e a folha nem é suculenta: a água fica no tronco gordinho
+n10-28 [outra|Você sabia?] No enxerto, o "cavalo" é a planta que dá a raiz e o "cavaleiro" é a parte de cima, tirada da variedade que se quer copiar. Na roseira o comum é a borbulha
+f11-23 [outra|5 cuidados] Coar o extrato antes de pulverizar, senão entope o bico. Vale peneira dupla, coador de cozinha, pano velho ou toalha. Filtro de café não, porque entope na hora
+h12-01 [outra|Você sabia?] O nome popular de uma planta muda de uma região para outra: não confie só no nome nem só na foto para saber que planta é
+t13-23 [outra|Você sabia?] Bico-de-papagaio, flor-de-natal e poinsétia são a mesma planta. O colorido são folhas em volta de florzinhas amarelas
+p14-11 [outra|Você sabia?] Flores de jardim seguras para cão e gato pela ASPCA: gérbera, rosa, girassol, zínia, calêndula, boca-de-leão, beijo (Impatiens) e hibisco-da-síria
+v15-20 [outra|3 erros] Deixar o cão brincar com frutinho de cinamomo caído: o fruto é muito tóxico (folha, caule e flor, pouco), e os casos acontecem mais em cachorro
+g16-22 [outra|Você sabia?] Mais folhagens de casa em cautela para gato: ficus (benjamina, lira e falsa-seringueira), dracena, cheflera, café-de-salão (Aglaonema), iúca, tinhorão (Caladium) e orelha-de-elefante (Alocasia)
+g16-45 [outra|Você sabia?] No mato do quintal, o trevo-azedinho (Oxalis) está em perigo raro para gato, e a margarida e o trevo-branco (Trifolium) em cautela. Já o dente-de-leão é seguro
+s2-27 [outra|3 erros] Orégano que floresce perde sabor: corte rente, a uns 5 cm do chão, antes da flor
+q3-48 [outra|5 cuidados] Antes de viajar: feche a porta (sem corrente de ar e sem o pet derrubar vaso), cortina fechada no lado do sol
+k9-003 [outra|3 erros] Começar com mais vasos do que dá para cuidar sozinho, ou dividir a rega entre várias pessoas: um acha que o outro não regou e a planta morre afogada
+k9-023 [outra|Você sabia?] As plantas conversam pela raiz: uma árvore pode avisar as vizinhas que tem praga por perto e soltar substâncias que impedem outras plantas de crescer junto dela
+k9-043 [outra|Você sabia?] O alumínio é tóxico para muitas plantas, mas importante para as do cerrado
+k9-079 [outra|Socorro] Pó branco tipo bolor em folha e caule é oídio, um fungo comum
+k9-220 [outra|Você sabia?] O agave-dragão, o agave mais vendido no Brasil e sem espinhos, solta uma haste de flor de quase 3 m. Depois de florir, a planta-mãe seca e morre, mas deixa várias mudas em volta
+k9-252 [outra|Socorro] Primavera (buganvília) com folhas doentes e manchadas? É água demais: ela aguenta calor, mas reclama de excesso de rega
+k9-264 [outra|Você sabia?] Azul é uma cor rara entre as plantas; muitas não conseguem produzir esse tom. O agapanto consegue e floresce azul ou branco o verão todo
+k9-301 [outra|Socorro] Lavanda murcha com a terra molhada? NÃO regue: provavelmente ela sofreu com a umidade do ar, e mais água só piora
+w18-003 [outra|Você sabia?] As aráceas são a família mais usada como planta de casa porque têm folhagem linda e aguentam bem a luz e o ar de casa e escritório
+w18-053 [outra|Você sabia?] A anúbia de aquário também é uma arácea: vive bem dentro da água, mas só floresce com a "cabeça" para fora
+w18-159 [outra|Você sabia?] A flor-cadáver não é a maior flor do mundo: é a maior inflorescência sem galhos. A maior flor única é a rafflésia, da mesma mata de Sumatra
+q3-301 [outra|Você sabia?] O ofiopogo (barba-de-serpente) tem folha de capim, dura e curvada; o mais vendido é listrado
+q3-370 [outra|Passo a passo] A cúfea-charuto vive pouco: refaça por estaca de ponta ou semente
+q3-424 [outra|Você sabia?] A aquimene tem flores em trombeta que duram pouco, mas logo vem outra no lugar
+g32-332 [outra|Você sabia?] A hosta, planta de sombra de folhagem, é toda comestível: o broto enrolado se come na primavera
+g32-426 [outra|Passo a passo] Gengibre e cúrcuma: rizoma raso em vaso de pelo menos 25 cm, com adubo; aumente a rega conforme cresce
+g32-450 [outra|Você sabia?] A erva-luísa (lúcia-lima) tem folha com cheiro de limão para bebida e sobremesa
+s28-065 [outra|Dica do Andre] Tutor de trepadeira: use pelo menos cinco varas; para tutor mais alto, sete
+s28-147 [outra|Você sabia?] A azedinha é erva e folha de salada ao mesmo tempo, perene, com gosto de limão
+v19-002 [outra|Você sabia?] Raiz de erva se colhe no fim da época de crescer, quando ela está cheia de reserva
+v19-055 [outra|Dica do Andre] Azedinha: tire as flores para render folha e regue bem no calor. Aguenta meia-sombra
+i36-015 [outra|5 cuidados] Na loja, tire a planta do vaso: raiz branca e saudável é bom sinal
+i36-036 [outra|5 cuidados] Vaso velho guardado pode ter praga e lesminha. Lave com detergente antes de usar
+i36-045 [outra|5 cuidados] Corte as flores que murcham na jardineira para ela continuar florindo
+i36-103 [outra|Passo a passo] Arbusto: buraco de duas a três vezes a largura do vaso. Ponha um bambu atravessado para conferir a altura
+i36-125 [outra|3 erros] Erro comum: esticar o corpo na escada para alcançar a cerca viva. Desça e mude a escada de lugar
+i36-141 [outra|Dica do Andre] Capim cheio de folha seca no meio: penteie a touceira com um rastelo de dentes finos
+i36-208 [outra|3 erros] Erro comum: soltar a semente de alto. Ela pula e some
+i36-225 [outra|Dica do Andre] Faça uma estaca de cada vez: ramo cortado esperando murcha e estraga
+q34-003 [outra|Você sabia?] Entre prédios altos o vento corre mais rápido: é o corredor de vento
+q34-037 [outra|Dica do Andre] Para saber o sol do quintal, observe onde bate a sombra de manhã, ao meio-dia e à tarde
+q34-087 [outra|Passo a passo] Cerca viva quebra-vento: compre muda pequena e nova, que pega melhor, e plante a 30 a 90 cm uma da outra
+q34-130 [outra|Você sabia?] Nepeta (erva-dos-gatos) forma tapete perfumado de flor lilás: boa para borda de caminho
+w31-046 [outra|Dica do Andre] Palete na parede do galpão vira suporte para enxada, rastelo e vassoura
+w31-166 [outra|Dica do Andre] Unha limpa no jardim: arranhe um sabonete antes. O sabão embaixo da unha não deixa a terra entrar
+s2-52 [horta|Mito ou verdade] Planta que espanta praga: a prova é pouca e quase só de relato; o próprio autor pede para testar com um pé atrás
+s2-102 [horta|Mito ou verdade] Repelente caseiro: cabelo de barbearia em volta da horta e sabonete preso em estaca são usados contra bicho grande
+s2-207 [horta|5 cuidados] A couve fica mais gostosa quando cresce rápido: ponha composto na terra pelo menos um mês antes de semear
+a8-227 [horta|3 erros] Plantar sempre a mesma coisa no mesmo lugar: é a monocultura que cria os parasitas que acabam com ela. Variar as plantas muda os bichos do solo
+k9-322 [horta|5 cuidados] Alho brotando vira muda: cada dente gera uma cabeça. Plante em terra adubada, no sol, com um pedaço do dente para fora da terra para não apodrecer; colha em uns 4 meses
+x23-052 [horta|3 erros] Prenda bem a beirada da rede de proteção para nenhum bicho ficar preso
+h35-001 [horta|Passo a passo] Horta em pouco espaço em 3 regras: conheça seu cantinho, escolha o que dá nele e não deixe espaço vazio
+h35-041 [horta|Você sabia?] Broto de ervilha e cenoura redondinha crescem até em vaso pequeno
+h35-056 [horta|Você sabia?] Para cantinho de sombra: alface, acelga, mostarda, espinafre, azedinha, rúcula, salsinha, hortelã e coentro
+h35-068 [horta|Você sabia?] Quanto mais você colhe, mais a planta repõe folha e fruto (menos a de raiz)
+h35-138 [horta|Você sabia?] A planta só precisa de terra, luz e água: quase qualquer coisa vira vaso
+h35-165 [horta|Você sabia?] De 4 a 5 pés de alface bastam para ter folha à vontade
+h35-210 [horta|5 cuidados] Corte as ervas com frequência para não florirem cedo
+h35-248 [horta|Passo a passo] Couve-rábano: colha do tamanho de bola de tênis, ou de bola de golfe na versão mini
+h35-264 [horta|5 cuidados] Couve: colha as folhas de fora e deixe as do miolo crescendo
+h35-297 [horta|5 cuidados] Tomilho novo: tire poucas folhas até ele firmar; depois da flor, pode forte
+g32-007 [horta|Dica do Andre] Plantar pouco de muita coisa evita aquela época em que sobra abobrinha e falta todo o resto
+g32-029 [horta|Você sabia?] Árvore grande bebe muita água da terra no verão e compete com a horta
+g32-081 [horta|Você sabia?] A bertalha é uma trepadeira que cresce muito no calor; a folha é macia crua e murcha bem na panela
+g32-106 [horta|Você sabia?] O tomatillo, tomate mexicano de casca de papel, é a base do molho verde mexicano
+g32-123 [horta|Você sabia?] A beldroega rasteira de folha miúda cobre o chão em lugar seco
+g32-146 [horta|Passo a passo] Alcachofra: divida a touceira de tempos em tempos para ela continuar produzindo
+g32-175 [horta|5 cuidados] Brócolis chinês: colha algumas folhas e deixe o bastante para rebrotar; o talo de flor sai antes de abrir
+g32-215 [horta|Você sabia?] O shissô (perila) tem sabor entre manjericão e hortelã e a folha serve de "prato" na comida asiática
+g32-250 [horta|Você sabia?] Pode semear 3 ou 4 sementes de alho-poró juntas e plantar o tufo, a 25 cm um do outro
+g32-274 [horta|Você sabia?] Tem framboesa anã de 50 cm que vai em vaso
+g32-282 [horta|3 erros] Fruta de sabugueiro é melhor cozida, que tira o amargo
+g32-310 [horta|Passo a passo] Canteiro de frutinhas: arrume os vasos no lugar, fotografe, cave covas um pouco maiores que o torrão e cubra tudo com 4 a 5 cm de cobertura
+g32-323 [horta|Dica do Andre] Colhendo muita frutinha de arbusto baixo? Sente do lado do pé: poupa costas e joelhos
+g32-341 [horta|Você sabia?] O cerefólio, erva de folha de pena, se espalha sozinho em lugar úmido e sombreado
+g32-360 [horta|Passo a passo] Raiz-forte se planta por pedaço de raiz, a 30 x 30 cm; na colheita deixe parte da raiz para ela voltar
+g32-368 [horta|Você sabia?] A aliária tem folha com gosto de mostarda e alho, suave quando nova e mais forte depois
+g32-379 [horta|Dica do Andre] Bambu que alastra: vaso grande ou barreira funda e grossa em volta
+g32-461 [horta|Você sabia?] Luz vermelha puxa flor, luz azul puxa folha; LED gasta pouco e quase não esquenta
+s28-127 [horta|Dica do Andre] No pacote, procure variedades "anã", "baby" ou "mini": foram feitas para vaso e costumam ficar prontas mais rápido
+s28-152 [horta|Dica do Andre] Horta da receita: escolha um prato com a criança (molho de tomate, salsa de milho) e plantem juntos os ingredientes para cozinhar depois
+i36-192 [horta|Passo a passo] Prepare a terra do feijão de vara com bastante composto pelo menos duas semanas antes
+q34-144 [horta|Você sabia?] Agrofloresta no quintal: plantas de várias alturas, quase tudo comestível, num espaço pequeno, e cheio de bicho
+w31-185 [horta|Dica do Andre] Mangueira velha trançada em estacas vira canteiro redondo. Furada e ligada à torneira, ainda rega sozinha
+f11-64 [mato|Você sabia?] Dente-de-leão colado demais em outra planta pode atrapalhar o crescimento da vizinha
+z7-05 [mato|Mito ou verdade] Dá para acabar de vez com o mato? Só em área pequena: tirar toda semente e toda raiz que rebrota é caro demais para uma fazenda, mas possível em jardim, vaso e horta caseira
+z7-24 [mato|Você sabia?] O caruru-de-mancha costuma ter uma mancha roxa no meio da folha, o que explica o nome
+z7-40 [mato|Você sabia?] Joá-bravo tem espinho até nas nervuras da folha
+z7-54 [mato|Você sabia?] Carrapicho-de-carneiro é mato espinhento de até 1 m, muito ramificado
+a8-644 [mato|Você sabia?] Mato alto e grosso é um campo ótimo para carrapato e parasita: quanto pior o pasto, mais parasita
+g32-495 [mato|Dica do Andre] Terreno com mato perene: plante só hortaliça de ciclo curto até limpar todos os pedaços de raiz
+e22-010 [mato|Você sabia?] Muita semente de mato só nasce quando "sente" a luz, sinal de que está na superfície
+e22-024 [mato|Você sabia?] É preciso impedir mais de 95% do mato anual de soltar semente só para a coisa não piorar
+e22-037 [mato|Você sabia?] A bolsa-de-pastor solta 5 mil sementes por pé e a semente atrai e mata nematoide: tecnicamente é carnívora
+e22-047 [mato|Você sabia?] A flor da buva chama abelha e mariposa, e a semente alimenta passarinho
+e22-060 [mato|Você sabia?] Um pé de alface-brava solta 15 mil sementes; a flor amarela é festa para as abelhas
+e22-073 [mato|Você sabia?] A grama-de-pisoteio (Poa annua) está quase sempre florida e fecha o ciclo em 6 semanas
+e22-088 [mato|Passo a passo] Morugem: carpa em dia seco e quente; a velha embolada sai com rastelo
+e22-099 [mato|Você sabia?] O podagrária se espalha pelo rizoma e chega ao quintal em terra e resto de jardim contaminados
+e22-111 [mato|Dica do Andre] Barreira de plástico grosso enterrada na vertical segura a corda-de-viola do vizinho
+e22-121 [mato|Você sabia?] A cavalinha não aguenta terra revirada, sombra de árvore nem gramado cortado
+e22-134 [mato|Você sabia?] No Japão a sanguinária-japonesa é tímida porque tem inimigos naturais; fora de lá vira praga que nem o veneno segura
+e22-145 [mato|3 erros] Enxada no dente-de-leão só espalha pedaço de raiz e faz nascer mais: tire a raiz inteira com garfo
+i36-279 [mato|Você sabia?] Mato é só uma planta no lugar errado
+w31-126 [mato|5 cuidados] Cobertura no chão abafa o mato, segura a umidade e evita erosão
+m33-351 [muda|X ou Y?] Semente ou estaca? Estaca, divisão e mergulhia dão planta igual à mãe; a semente mistura os pais e pode sair diferente
+m33-359 [muda|5 cuidados] Enraizador: ponha um pouco numa tampinha e jogue fora a sobra, para não contaminar o vidro
+m33-367 [muda|5 cuidados] Vento seco estressa a muda no canteiro: faça quebra-vento do lado de onde ele vem
+h35-078 [muda|Passo a passo] Aclimatar a muda: 10 dias fora de dia e dentro à noite antes de plantar de vez
+s28-005 [muda|Você sabia?] Quando abrem as primeiras folhas, a muda começa a fazer fotossíntese e para de depender da reserva da semente
+s28-030 [muda|Dica do Andre] Qualquer pote com furo no fundo serve para semear: copo de café, pote de iogurte
+s28-093 [muda|Dica do Andre] Semente achatada: enterre de lado, não deitada
+i36-023 [muda|Passo a passo] Semente miúda: ponha na palma da mão e deixe escorrer pela dobra enquanto passa a mão na fileira
+i36-168 [muda|Passo a passo] Firme o substrato da bandeja apertando com outra bandeja por cima: tira o ar sem afundar demais
+w31-002 [muda|Dica do Andre] Vaso de papelão ou jornal vai inteiro para a terra: o fundo se desfaz e a raiz da muda não sofre
+w31-015 [muda|Passo a passo] Estufinha de galão de leite: fure o fundo, corte na metade deixando um lado de dobradiça, encha de substrato e semeie
+w31-026 [muda|Dica do Andre] Caixa organizadora de plástico de cabeça para baixo vira mini estufa. Calce um lado com tijolo para o ar circular
+n10-87 [praga|Socorro] Raiz cheia de caroços (galhas) e planta amarelando e definhando: nematoide, um verme microscópico
+s2-97 [praga|Você sabia?] Bolinha na raiz que não sai é nematoide (praga); a do feijão, que sai fácil, é boa: guarda nitrogênio
+r6-35 [praga|Socorro] Suculenta apodrecendo na base? A causa mais comum é água demais: terra encharcada favorece os fungos e as bactérias que fazem a planta apodrecer. A prevenção é regar com moderação
+k9-298 [praga|Você sabia?] Planta carnívora caça mosca, mosquito e outros insetos, e a autora sugere ter uma perto da horta. Nasce na beira de rio, de solo pobre, e por isso aprendeu a caçar. Ela quer sol forte e vaso com esfagno sempre encharcado
+h35-130 [praga|Você sabia?] Oídio é um pó branco na folha que aparece muito quando falta água; tire as folhas atacadas logo
+h35-319 [praga|Socorro] Ferrugem: pústulas laranja na folha; evite adubo com muito nitrogênio e limpe os restos do canteiro
+g32-490 [praga|Socorro] Pulguinha (furinhos na couve): tela e plante a muda já grande
+t37-144 [praga|Dica do Andre] Bicho na maçã? Corte a fruta e coma em volta do túnel. Melhor que veneno
+w31-065 [praga|Dica do Andre] Pulgão preto no caule: enrole fita adesiva nos dedos, cola para fora, e passe pelo ramo
+p29-110 [praga|Socorro] Socorro, folha da pimenta pintadinha de amarelo e com teia fina! É ácaro-vermelho, que gosta de calor seco
+a8-023 [solo|Você sabia?] Raiz que dobra de comprimento explora 8 vezes mais terra, e recebe 8 vezes mais água e nutriente
+a8-251 [solo|Socorro] Para a Primavesi, areia branca aparecendo na superfície da lavoura é sinal de terra compactada e de risco de praga
+a8-636 [solo|Você sabia?] Erosão, enchente e seca são sintomas do mesmo problema: solo que perdeu a estrutura e não deixa a água entrar
+h35-038 [solo|Você sabia?] Minhoca come matéria orgânica, puxa para o fundo, areja a terra e solta nutriente para a planta
+g32-051 [solo|Você sabia?] Terra viva tem minhoca, ácaro, fungo e bactéria que soltam o alimento das plantas; elas gostam de terra arejada
+i36-004 [solo|Você sabia?] Solo arenoso perde adubo com chuva forte: a água leva os nutrientes embora
+q34-006 [solo|Dica do Andre] Antes de escolher a terra, descubra onde a planta vive na natureza e em que chão ela cresce
+q34-014 [solo|Você sabia?] Todo solo fervilha de fungos, algas e bactérias que entregam mineral para a planta
+q34-022 [solo|Você sabia?] Solo alcalino prende o ferro e a folha amarela com nervura verde (clorose)
+w31-105 [solo|Você sabia?] A terra do montinho de toupeira já vem esfarelada e serve de substrato de graça
+n10-61 [regar|5 cuidados] Terra de vaso: sempre úmida, nunca encharcada. A frequência da rega muda conforme o lugar onde o vaso está
+r6-24 [regar|Mito ou verdade] Suculenta prefere faltar água a sobrar? Verdade: entre os dois erros, o excesso é o pior
+k9-021 [regar|Você sabia?] Vento seca a planta como seca a roupa no varal. Faça um quebra-vento com arbustos densos ou escolha plantas de folha pequena e brilhante, como alecrim, russélia e aspargo-alfinete
+h35-086 [regar|5 cuidados] Planta grande se rega no pé, sem molhar as folhas
+s28-056 [regar|3 erros] Erro comum com flor em vaso: esquecer que vaso precisa de rega frequente
+i36-258 [regar|Mito ou verdade] Mito ou verdade: aspersor rega bem o canteiro? Mito. Muita água evapora ou bate na folha e não chega à raiz
+q34-085 [regar|Você sabia?] Pavio puxa a água de baixo para cima na terra seca, por capilaridade, sem bomba
+w31-144 [regar|5 cuidados] 5 cm de cobertura no vaso ajuda a planta a aguentar a viagem do dono
+q34-033 [regar|5 cuidados] Água do banho e da pia pode regar, mas teste primeiro numa planta só: produto de limpeza pode matar
+x23-038 [jardim-vivo|Você sabia?] Tirar a flor murcha faz a planta florir mais: ela insiste até conseguir fazer semente
+x23-137 [jardim-vivo|Você sabia?] Terreno baldio com cardo e mato grosso atrai nuvens de borboleta e bando de passarinho de semente
+s28-067 [jardim-vivo|Você sabia?] Até um vaso de janela com as flores certas vira posto de comida e abrigo para os insetos
+q34-050 [jardim-vivo|Dica do Andre] Para saber que bicho visita o quintal: procure pegada, cocô, folha roída e furinho no chão
+w31-147 [jardim-vivo|Você sabia?] Dente-de-leão dá semente e néctar para passarinho, borboleta e abelha
+x23-091 [passarinho|5 cuidados] Alguns passarinhos só comem no chão: deixe um pedaço de chão livre em volta do comedouro
+x23-113 [passarinho|Você sabia?] O tamanho do furo da casinha decide quem mora: quanto maior o furo, mais espécies cabem, e o maior passarinho ganha
+e22-078 [passarinho|Você sabia?] A semente da tasneirinha (Senecio) é comida de pardal e outros passarinhos
+t37-030 [passarinho|Você sabia?] Na Inglaterra, metade das florestas novas foi plantada por um passarinho, o gaio, que enterra bolota e esquece onde enterrou
+w31-078 [passarinho|Dica do Andre] Pimenta em pó na ração do comedouro espanta esquilo. Passarinho quase não sente o ardido
+x23-084 [abelha|Você sabia?] A flor de onde vem o pólen dá o sabor do mel, como a lavanda
+g32-473 [abelha|Você sabia?] A facélia é adubo verde e ainda chama muita abelha
+s28-090 [abelha|Você sabia?] A centáurea é cheia de pólen e néctar: festa para abelha e borboleta
+n10-58 [trocar-vaso|5 cuidados] Montagem do vaso na ordem: drenagem, manta, um pouco de substrato, muda, resto do substrato, manta de novo, acabamento e rega
+k9-051 [trocar-vaso|5 cuidados] Drenagem barata: isopor picado (até de bandeja) no fundo do vaso, dois dedos em vaso pequeno e o dobro em vaso de mais de 40 cm, com jornal por cima para a raiz não descer até ele. Não tampe os furos
+h35-050 [trocar-vaso|Passo a passo] Furo do vaso: cubra com caco de vaso ou isopor quebrado para a terra não entupir
+t37-003 [arvore|Você sabia?] O mundo derruba cerca de 10 milhões de hectares de floresta por ano: a cada década, uma área do tamanho de Portugal
+t37-028 [arvore|Mito ou verdade] Mito: plantar árvore em qualquer lugar é sempre bom. Campo, brejo e turfa não eram floresta e guardam carbono do jeito deles
+t37-039 [arvore|Você sabia?] Árvore só cresce pelas pontas e pelas bordas: ponta do galho, ponta da raiz e a camada logo abaixo da casca
+t37-052 [arvore|Você sabia?] Quando a árvore para de fazer clorofila, o verde some primeiro e as outras cores aparecem
+t37-066 [arvore|Você sabia?] Cerca viva quebra o vento: salvação em quintal muito exposto
+i36-150 [arvore|Passo a passo] Tutor da árvore: crave inclinado a 45 graus, para não ferir a raiz, virado para o lado do vento
+q34-118 [arvore|Você sabia?] Árvore refresca o quintal com sombra rendada

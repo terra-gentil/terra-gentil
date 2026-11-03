@@ -1,0 +1,42 @@
+n10-08 | Adubo orgânico (esterco de boi, de galinha, composto) melhora o solo por inteiro, da estrutura à vida que mora nele. Para a cartilha, é para usar sempre
+n10-09 | Usar esterco fresco: só depois de curtido, senão ele queima partes da planta
+n10-10 | Nitrogênio, fósforo e potássio são o que a planta mais consome; boro, cobre, ferro, zinco e outros entram em pouca quantidade, mas a falta de qualquer um pode deixar a planta fraca
+f11-01 | Extrato de urtiga é adubo? Para os autores, não: a maioria dos extratos de planta não alimenta, estimula o crescimento e as defesas da planta (bioestimulante)
+s2-50 | Adubo com nitrogênio demais atrai pulgão, ácaro e mosca-branca
+s2-132 | Carbono, hidrogênio e oxigênio vêm de graça do ar e da água; nitrogênio, fósforo e potássio faltam em quase toda terra
+s2-133 | Mais adubo é sempre melhor? Não: nutriente demais faz tanto mal quanto de menos
+s2-134 | Amostra de terra para análise: tire de pelo menos 10 pontos da horta e misture
+s2-135 | Coletar terra para análise até duas semanas depois de adubar estraga o resultado
+s2-137 | Com terra ácida ou alcalina demais, o nutriente está lá mas não dissolve, e a planta não consegue pegar
+s2-139 | pH a até meio ponto do ideal da planta: não precisa mexer em nada
+s2-140 | Calcário corrige terra ácida: aplique pelo menos três semanas antes de plantar, porque o pH demora a mudar
+s2-142 | Use máscara ao espalhar calcário ou cinza; precisa de cerca de 30% mais cinza que calcário para o mesmo efeito
+s2-143 | Folha verde-clara ou amarela e planta que não cresce: suspeite de falta de nitrogênio
+s2-145 | Composto cru ou adubo verde recém-enterrado "prende" o nitrogênio por um tempo (no adubo verde, uma ou duas semanas): espere antes de plantar
+s2-149 | Falta de potássio quase não aparece: a planta fica só um pouco menor, com fruto pequeno e sem gosto, e atrai mais praga
+s2-150 | Cinza de madeira dá potássio mas sobe o pH e pode queimar planta: só em terra testada e sem nada plantado
+s2-160 | Segundo o autor, adubo químico deixa sal na terra e espanta os bichos do solo: nos EUA, o tordo (robin) quase não aparece no gramado adubado com químico, porque lá tem pouca minhoca
+q3-14 | Composto de cozinha (da composteira) não serve sozinho para plantar em vaso dentro de casa
+q3-36 | Adubar terra seca queima a raiz: molhe antes de pôr o adubo
+q3-37 | Adubo fraco é mais seguro que forte: o forte demais estraga a raiz
+q3-38 | Adubo líquido ou de palito: o palito concentra a comida num ponto e a raiz cresce torta; o líquido espalha pela terra toda
+q3-40 | Vaso grande demais para trocar: raspe a terra de cima (no máximo 2,5 cm, sem ferir a raiz) e complete com substrato novo e adubo de liberação lenta
+a8-238 | Planta amarelando depois de muita chuva? A chuva longa lava o nitrogênio do solo
+a8-403 | Mito: terra bem adubada sempre dá planta forte. Se o solo está sem ar (compactado ou encharcado), a planta não consegue usar o adubo que está ali
+a8-418 | Excesso de um nutriente vira falta de outro: nutriente demais atrapalha a planta de pegar o que estava em equilíbrio com ele
+a8-425 | Adubo moderado é o que mais rende, assim como é a chuva mansa que dá as melhores colheitas
+a8-426 | Adubo em excesso não fica na terra: a chuva leva para rios e lagos, que se enchem de algas e a água fica viscosa
+a8-427 | Frase que a autora cita de Voisin: o adubo é um instrumento maravilhoso quando bem aplicado e um perigo grave quando mal usado
+a8-433 | Cerca de metade do nitrogênio do adubo nunca chega à planta: vai para o ar, desce com a água, ou a raiz não alcança por causa da terra dura
+a8-437 | Nutriente é como engrenagem de relógio: tira a peça menor e o relógio para. Nenhum nutriente funciona sozinho
+a8-651 | Adubo de curral, pela definição da autora: esterco misturado com 4 partes de palha e fermentado abafado, sem ar, por 3 meses
+k9-032 | "Na natureza ninguém aduba"? Mito: na mata caem folhas, galhos, frutos e bichos que viram comida o tempo todo. No vaso limpinho isso não acontece, então é preciso adubar
+k9-033 | Somar vários adubos de uma vez, mesmo orgânicos: em excesso eles podem matar a planta. Prefira alternar ao longo dos meses (um tempo de bokashi, depois húmus)
+k9-034 | Adubar terra seca: o adubo não é absorvido. Regue antes e evite o sol forte, adubando de manhã cedo ou à tardinha
+k9-035 | Adubo mineral ou orgânico? O mineral (NPK) é como cápsula: alimenta na hora. O orgânico (esterco, húmus, tortas, farinhas, bokashi) precisa ser "mastigado" por fungos e bactérias, mas alimenta a planta e a vida do solo por mais tempo
+k9-037 | O que é o NPK do adubo: N de nitrogênio, P de fósforo (phosphorus em grego) e K de potássio (kalium)
+k9-038 | Nitrogênio deixa a planta grande e verde; fósforo ajuda semente a brotar e dá força a raiz, flor e fruto; potássio deixa a planta firme e resistente a vento, praga e doença
+k9-039 | Feijão e outras leguminosas deixam nitrogênio no solo pela raiz, mesmo depois de morrer
+k9-041 | Casca de ovo, pó de concha e calcário dão cálcio; o calcário dolomítico traz cálcio e magnésio juntos
+k9-242 | Planta de sol forte gasta muito mais cálcio que planta de sombra: casca de ovo em pó no vaso ajuda a repor
+k9-297 | Horta de vaso com legume miúdo é falta de adubo: mesmo num vasinho, adube sempre, com regularidade, como produtor grande

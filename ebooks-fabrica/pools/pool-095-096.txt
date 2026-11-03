@@ -1,0 +1,431 @@
+## EXCLUSIVOS DO TG 095
+x23-004 [passarinho|5 cuidados] Deixe algumas flores secarem com semente no pé: vira comida de passarinho
+x23-006 [jardim-vivo|5 cuidados] Corte algumas flores murchas para a planta florir de novo, mas deixe outras darem semente
+x23-030 [jardim-vivo|5 cuidados] Fruta que você não colhe no pé fica para alimentar os passarinhos
+x23-038 [jardim-vivo|Você sabia?] Tirar a flor murcha faz a planta florir mais: ela insiste até conseguir fazer semente
+x23-039 [jardim-vivo|Você sabia?] Um pacotinho de semente de flor anual dá pelo menos uns 2 metros quadrados de cor
+x23-078 [passarinho|Você sabia?] Muda que nasce sozinha embaixo da árvore costuma ser semente que o passarinho comeu em outro lugar e soltou ali
+x23-088 [jardim-vivo|Você sabia?] Planta nativa e folha apodrecendo são a matéria-prima do jardim para bicho
+x23-091 [passarinho|5 cuidados] Alguns passarinhos só comem no chão: deixe um pedaço de chão livre em volta do comedouro
+x23-092 [passarinho|5 cuidados] Ponha o comedouro onde você enxergue da janela e com caminho fácil, assim fica mais fácil manter a rotina
+x23-101 [passarinho|X ou Y?] Semente ou comida mole? Passarinho de bico grosso quebra semente; o de bico fino, que come inseto, precisa de comida mole
+x23-105 [passarinho|Você sabia?] Passarinho aprende com o vizinho: quando um descobre uma comida nova, o truque se espalha
+x23-106 [passarinho|Você sabia?] Muito passarinho faz ninho em oco de árvore; como a cidade tira toda árvore e galho morto, a casinha faz falta
+x23-107 [morcego|Você sabia?] O morcego também usa oco de árvore para dormir e criar filhote, por isso casinha de morcego ajuda muito
+x23-108 [passarinho|Passo a passo] Ninho de bandeja: uma tábua de 10 a 15 cm com beirada de 3 cm, presa a um metro do chão, escondida atrás de trepadeira
+x23-109 [passarinho|5 cuidados] Casinha de frente aberta fica mais segura na parede do que na árvore, onde ladrão de ovo sobe fácil
+x23-111 [passarinho|5 cuidados] Casinha de passarinho boa é discreta: madeira crua, sem tinta e sem verniz; camuflagem, não propaganda
+x23-113 [passarinho|Você sabia?] O tamanho do furo da casinha decide quem mora: quanto maior o furo, mais espécies cabem, e o maior passarinho ganha
+x23-114 [passarinho|Você sabia?] Muito passarinho bica em volta do furo da casinha antes de mudar: é como marcar território
+x23-115 [passarinho|Você sabia?] Tem passarinho que estreita o furo grande demais da casinha com um anel de barro
+x23-116 [andorinhão|Você sabia?] O filhote de andorinhão salta do ninho sem treino e pode passar dois anos sem pousar, até dormindo no ar
+x23-117 [andorinhão|Você sabia?] Os pais do andorinhão guardam os insetos que caçam numa bolinha grudenta na garganta para levar ao filhote
+x23-126 [jardim-vivo|Você sabia?] Contato com a natureza ajuda a aguentar o estresse da vida moderna, e o jardim é o lugar mais perto de casa para isso
+x23-127 [jardim-vivo|Passo a passo] Safári de quintal: estique um barbante por um canto de mato, fique de joelhos e vá seguindo com uma lupa
+x23-128 [jardim-vivo|Você sabia?] Paisagem boa para bichinho é boa para gente; a que é hostil aos bichos não pode ser saudável para morar
+x23-130 [jardim-vivo|Você sabia?] Bicho e planta precisam circular para achar comida e par; quando o verde fica picado em pedaços, sobreviver fica difícil
+x23-135 [jardim-vivo|Você sabia?] Rio, linha de trem, beira de estrada e árvore de rua formam corredores verdes por onde o bicho chega ao seu quintal
+x23-136 [passarinho|Você sabia?] Passarinho que come fruta solta a semente pronta para germinar, e logo nasce um matinho de arbusto embaixo do poleiro
+x23-137 [jardim-vivo|Você sabia?] Terreno baldio com cardo e mato grosso atrai nuvens de borboleta e bando de passarinho de semente
+x23-140 [jardim-vivo|Você sabia?] Uma fileira de quintais com árvore e cerca viva já vira um corredor importante para os bichos
+x23-141 [jardim-vivo|5 cuidados] Planta de fora estica a época de néctar, mas reserve espaço para a nativa: muito inseto depende dela para comer
+x23-142 [jardim-vivo|5 cuidados] Convença o vizinho a plantar cerca viva, usar menos veneno e parar de queimar folha seca: logo aparece mais passarinho e borboleta
+x23-143 [jardim-vivo|Você sabia?] Somados, os quintais da Grã-Bretanha ocupam mais terra que todas as reservas naturais oficiais juntas
+x23-145 [jardim-vivo|5 cuidados] Copie a mata: plantas em camadas, da árvore ao forro de flor no chão
+x23-146 [jardim-vivo|Você sabia?] Folha caída, tronco apodrecendo e um pouco de bagunça deixam o bicho tímido à vontade
+x23-153 [passarinho|5 cuidados] Variedade de comida atrai variedade de passarinho: semente dura no comedouro e fruta mole caída no chão
+g32-259 [passarinho|Você sabia?] Cerca viva de frutinhas dá abrigo para passarinho e flor para abelha, e a fruta que você não colhe alimenta as aves
+g32-355 [passarinho|3 erros] Para proteger fruta de passarinho, prefira gaiola de tela de arame: rede mole enrosca a ave
+e22-017 [passarinho|Você sabia?] Alpiste e mistura para passarinho podem trazer semente de mato de outros países
+e22-078 [passarinho|Você sabia?] A semente da tasneirinha (Senecio) é comida de pardal e outros passarinhos
+e22-082 [passarinho|Você sabia?] Passarinho come a frutinha da maria-pretinha e espalha a semente nas fezes
+e22-127 [passarinho|Você sabia?] A espiga seca da tanchagem fica no pé e alimenta passarinho
+e22-149 [passarinho|Dica do Andre] Muda de árvore nascida sozinha pode virar cerca viva de graça, o tipo de divisa que mais ajuda os bichos
+e22-150 [passarinho|Você sabia?] Semente de árvore viaja pelo vento, pelo passarinho e pelo esquilo que enterra e esquece
+s28-067 [jardim-vivo|Você sabia?] Até um vaso de janela com as flores certas vira posto de comida e abrigo para os insetos
+s28-068 [jardim-vivo|Passo a passo] Cantinho dos insetos: 4 ou 5 flores amigas, plantadas bem juntas, e depois deixe quieto. Só tire as flores murchas para vir flor nova
+s28-069 [jardim-vivo|Você sabia?] Ajudar os insetos ajuda quem come inseto: sapo e passarinho também ganham
+s28-076 [passarinho|Dica do Andre] Girassol secou? Pendure a cabeça inteira no jardim: vira comedouro natural para passarinho
+s28-104 [passarinho|Você sabia?] Deixe umas flores de girassol secarem no pé: os passarinhos vêm comer as sementes cheias de óleo
+t37-007 [jardim-vivo|Você sabia?] Uma árvore é uma cidade: casa de centenas de bichos, do tripes à lagarta e ao passarinho
+t37-008 [jardim-vivo|Você sabia?] Quintais com plantas viram "pedras de travessia": abelha, borboleta e sapo conseguem atravessar a cidade cinza de um verde a outro
+t37-017 [passarinho|Você sabia?] A maioria das frutas evoluiu para ser comida por passarinho e bicho, que espalham a semente pelas fezes
+t37-018 [jardim-vivo|Você sabia?] Árvore nativa floresce quando o polinizador precisa e dá fruto quando o passarinho precisa: a parceria já vem pronta
+t37-030 [passarinho|Você sabia?] Na Inglaterra, metade das florestas novas foi plantada por um passarinho, o gaio, que enterra bolota e esquece onde enterrou
+t37-056 [jardim-vivo|Você sabia?] Árvore velha também é casa: na rachadura da casca o inseto se abriga, no oco o passarinho faz ninho
+i36-135 [passarinho|Você sabia?] Cotoneaster cobre muro e chão, e a florzinha branca e a frutinha vermelha chamam bicho
+i36-136 [passarinho|Você sabia?] Piracanta tem espinho, flor branca e cacho de fruta laranja ou vermelha, no sol ou meia-sombra
+i36-251 [passarinho|Dica do Andre] Passarinho gosta de fruta tanto quanto você: ponha a rede antes de a fruta começar a amadurecer
+i36-303 [jardim-vivo|Você sabia?] A mosca-das-flores parece abelha: o adulto poliniza e a larva come praga
+q34-050 [jardim-vivo|Dica do Andre] Para saber que bicho visita o quintal: procure pegada, cocô, folha roída e furinho no chão
+q34-080 [jardim-vivo|Você sabia?] Jardim orgânico não é tudo ou nada: dá para começar deixando a grama crescer um mês ou deixando a joaninha achar o pulgão
+q34-090 [passarinho|Você sabia?] Cerca viva misturada, com flor e fruta, alimenta mais bichos que uma cerca de uma espécie só
+q34-091 [jardim-vivo|Você sabia?] Até caminho de pedrisco é casa de bicho: inseto mora no vão entre as pedras
+q34-092 [jardim-vivo|Dica do Andre] Galho que não cabe na composteira: empilhe como cerca morta. Vira quebra-vento e abrigo de bicho
+q34-093 [jardim-vivo|Passo a passo] Hotel de bicho: estrutura de madeira ou palete com casca, bambu furado, folha seca, telha e papelão ondulado
+q34-096 [passarinho|Você sabia?] Passarinho come lesma, caracol e lagarta, principalmente quando está criando filhote
+q34-107 [jardim-vivo|Você sabia?] Tronco morto no quintal não é sujeira: é comida e casa para inseto, fungo e muito bicho
+q34-160 [jardim-vivo|Você sabia?] Pomar em agrofloresta abrigou mais bichinhos que uma mata replantada: variedade importa tanto quanto ser nativa
+w31-067 [passarinho|Dica do Andre] Espantalho antigo: batata cheia de penas pendurada sobre a horta parece um pássaro grande e dança no vento
+w31-068 [passarinho|3 erros] Erro comum: arrancar pena de bicho vivo para o espantalho. Pena se acha no chão de praça e beira de lago
+w31-078 [passarinho|Dica do Andre] Pimenta em pó na ração do comedouro espanta esquilo. Passarinho quase não sente o ardido
+w31-079 [passarinho|3 erros] Erro comum: vaselina no poste do comedouro perto de onde a ave come. Estraga as penas
+w31-147 [jardim-vivo|Você sabia?] Dente-de-leão dá semente e néctar para passarinho, borboleta e abelha
+w31-148 [jardim-vivo|Passo a passo] Dente-de-leão de propósito: pique a raiz em pedaços de 2 cm e plante a 15 cm um do outro
+w31-161 [jardim-vivo|5 cuidados] Deixe algumas flores secas virarem semente: alimentam o passarinho no frio
+w31-177 [jardim-vivo|Passo a passo] Cerca morta: duas fileiras de estacas a 40 cm e galhos de poda socados no meio. Esconde a bagunça e abriga bicho
+w31-178 [jardim-vivo|Você sabia?] Cerca morta de galhos não precisa de poda e atrai muita vida para o quintal
+w31-181 [passarinho|Passo a passo] Comedouro de rolo: rolo de papel higiênico com pasta de amendoim, rolado em alpiste e pendurado no galho
+p29-012 [passarinho|Você sabia?] Os pássaros são os principais plantadores de pimenta na natureza
+## EXCLUSIVOS DO TG 096
+r20-001 [roseira|Você sabia?] Nas rosas, o perfume não vem só da flor: em algumas, folha e cabinho da flor também são perfumados
+r20-005 [roseira|Você sabia?] Para cada rosa nova que chega à venda, milhares de mudas de semente foram testadas e jogadas fora
+r20-007 [roseira|Você sabia?] Nunca se achou rosa selvagem nativa no hemisfério sul: as rosas do Brasil vieram de fora, e mesmo assim florescem muito bem aqui
+r20-008 [roseira|Você sabia?] Os botânicos contam umas 150 espécies verdadeiras de rosa; as milhares de rosas de jardim são cruzamentos delas
+r20-009 [roseira|Você sabia?] A roseira faz papel de quase tudo no jardim: arvorezinha, arbusto, trepadeira, cerca viva, borda de canteiro, vaso e até cesta pendurada
+r20-011 [roseira|Você sabia?] Mexer com roseira no jardim traz calma e ajuda a baixar o estresse; ela é usada em terapia com plantas
+r20-012 [roseira|Você sabia?] Fóssil de rosa tem folha, pedaço de caule e espinho, mas nunca se achou uma flor de rosa fossilizada
+r20-013 [roseira|Você sabia?] Confúcio contou uns 600 livros sobre rosa na biblioteca do imperador da China
+r20-014 [roseira|Você sabia?] Na China antiga havia tanto jardim e parque que faltou terra para plantar comida, e o governo mandou fechar muitos deles
+r20-015 [roseira|Você sabia?] Um livro chinês de 1621 descreve rosas vermelhas, cor-de-rosa e brancas, muitas dobradas e perfumadas, mas nenhuma amarela
+r20-016 [roseira|Você sabia?] Lenda persa: cada vez que alguém colhia uma rosa, o rouxinol gritava em protesto
+r20-017 [roseira|Você sabia?] Na Pérsia antiga, a rosa era símbolo de segredo
+r20-018 [roseira|Você sabia?] A pintura de rosa mais antiga está no palácio de Cnossos, em Creta (uns 4 mil anos), e o artista errou: pintou 6 pétalas em vez de 5
+r20-020 [roseira|Você sabia?] Heródoto conta que o rei Midas tinha uma rosa de 60 pétalas, a mais perfumada da época
+r20-021 [roseira|Mito ou verdade] O grego Plutarco ensinava a plantar alho perto da roseira para deixar a rosa mais perfumada
+r20-023 [roseira|Você sabia?] Os egípcios faziam rosa artificial de lasca de madeira, papel e pano, perfumada com óleo de rosa, e vendiam para Grécia e Roma
+r20-024 [roseira|Você sabia?] Sêneca, em Roma, já descrevia como adiantar a flor da roseira com água morna e casa aquecida: uma estufa de 2 mil anos atrás
+r20-025 [roseira|Você sabia?] O imperador Nero gastou 4 milhões de sestércios em rosas para um só banquete; em festas romanas, a chuva de pétalas chegava a sufocar convidados
+r20-026 [roseira|Você sabia?] Plínio conta que a Inglaterra antiga, Albion, ganhou o nome de "ilha das rosas brancas"
+r20-027 [roseira|Você sabia?] A Guerra das Rosas, na Inglaterra, opôs a rosa vermelha de Lancaster à rosa branca de York, e acabou num casamento entre as duas casas
+r20-028 [roseira|Você sabia?] A imperatriz Josefina, mulher de Napoleão, juntou mais de 250 variedades no jardim de Malmaison, a primeira grande coleção de rosas
+r20-029 [roseira|Você sabia?] A rosa "Souvenir de la Malmaison" foi batizada em memória de Josefina, a pedido de um grão-duque russo que visitou o jardim dela
+r20-032 [roseira|Você sabia?] A rosa virou flor nacional da Inglaterra no século 15, durante a Guerra das Rosas
+r20-033 [roseira|Você sabia?] O primeiro livro só de rosas, de Mary Lawrance, saiu em 1799
+r20-034 [roseira|Você sabia?] O imperador Babur, apaixonado por rosas, deu nome de rosa a várias filhas
+r20-035 [roseira|Você sabia?] Conta-se que a imperatriz Nur Jahan, da Índia, descobriu o óleo de rosas (o "attar")
+r20-036 [roseira|Você sabia?] A Bulgária é a grande produtora e exportadora de óleo de rosa para perfume
+r20-037 [roseira|Você sabia?] O amarelo das rosas modernas veio de uma rosa selvagem da Ásia (Rosa foetida) cuja flor tem cheiro ruim
+r20-038 [roseira|Você sabia?] A rosa "Austrian Copper" é laranja-cobre, mas às vezes volta ao amarelo, e as duas cores aparecem na mesma planta
+r20-039 [roseira|Você sabia?] Existe rosa de 4 pétalas: a Rosa sericea, do Himalaia, é a única do gênero assim
+r20-040 [roseira|Você sabia?] Tem rosa com folha cheirando a incenso: a Rosa primula, da Ásia
+r20-041 [roseira|Você sabia?] O "musgo" da rosa-musgo não é musgo: são pelinhos duros grudados no caule e no botão, com cheiro de resina
+r20-042 [roseira|Você sabia?] Os holandeses lançaram mais de 200 variedades de rosa centifólia entre 1580 e 1710
+r20-043 [roseira|Você sabia?] A rosa centifólia é tão dobrada que não consegue formar semente sozinha: só se multiplica por muda
+r20-044 [roseira|3 erros] Algumas rosas seguram a flor velha no galho: precisa cortar a murcha, porque ela não cai sozinha
+r20-045 [roseira|Você sabia?] A rosa "Kazanlik", dos campos da Bulgária, é uma das usadas para fazer óleo de rosa, e é ótima para potpourri
+r20-046 [roseira|Você sabia?] Na Inglaterra cresce uma roseira nascida de semente colhida no túmulo do poeta persa Omar Khayyam
+r20-047 [roseira|Você sabia?] A rosa-canina (dog rose), roseira selvagem da Europa, foi por muito tempo o "pé" mais usado para enxertar as rosas de jardim
+r20-049 [roseira|Você sabia?] A rosa-mosqueta-europeia (eglantéria) tem folha perfumada; a ponta nova é a que mais cheira, por isso se apara todo ano
+r20-050 [roseira|Você sabia?] A Rosa glauca é plantada pela folhagem arroxeada: um ou dois pés dão folha para arranjo o ano todo
+r20-051 [roseira|5 cuidados] Rosa-musgo miniatura (como a "Dresden Doll") vai bem em vaso e até em jardineira de janela
+r20-052 [roseira|Você sabia?] O fruto da Rosa moyesii tem forma de garrafinha com uma coroa de 5 pontas, feita das sépalas que ficaram
+r20-053 [roseira|Você sabia?] A rosa rugosa e suas híbridas são saudáveis, crescem em quase qualquer lugar e florescem a temporada toda: viram cerca viva até em beira de estrada
+r20-054 [roseira|Você sabia?] A roseira trepadeira Rosa filipes chega a 9 metros e parece uma árvore
+r20-055 [roseira|Você sabia?] A rosa "Seven Sisters" ganhou o nome porque um mesmo cacho mostra até sete cores diferentes
+r20-057 [roseira|5 cuidados] A rosa arbustiva "Ballerina" vai bem em vaso e em canteiro, coberta de florzinhas rosa de miolo branco
+r20-058 [roseira|Você sabia?] A "Crimson Rambler", trepadeira famosa de 1893, sumiu dos jardins porque pegava doença com facilidade
+r20-059 [roseira|Você sabia?] O alemão Kordes usou uma roseira (Rosa x kordesii) para criar trepadeiras cujas filhas resistem a doença
+r20-060 [roseira|X ou Y?] Cortar a flor murcha ou deixar? Em algumas roseiras, quem não corta ganha um enfeite de frutinhos (hips) depois
+r20-061 [roseira|Você sabia?] Existe rosa verde: a Viridiflora não tem pétala, só folhinhas verdes e marrons no lugar, é fácil de cultivar e boa para arranjo
+r20-063 [roseira|X ou Y?] Trepadeira vermelha que não desbota no sol forte: a "Cramoisi Superieur" trepadeira guarda a cor mesmo no calor
+r20-065 [roseira|5 cuidados] Rosa-chá vai bem em vaso grande e floresce melhor com poda leve; a forma trepadeira quase não se poda
+r20-066 [roseira|Você sabia?] Quase todas as rosas populares de hoje descendem da rosa-da-China, que trouxe a florada o ano todo e chegou à Europa passando pela Índia
+r20-067 [roseira|Você sabia?] A rosa Bourbon nasceu de um cruzamento natural na ilha da Reunião, no oceano Índico, entre a rosa-da-China e a damascena
+r20-068 [roseira|Você sabia?] A rosa-banksia (Lady Banks) é uma trepadeira chinesa de até 7 m, quase ou totalmente sem espinho
+r20-069 [roseira|5 cuidados] A rosa-banksia amarela floresce melhor em lugar ensolarado e protegido do vento
+r20-070 [roseira|Você sabia?] A "rosa Cherokee", símbolo do estado americano da Geórgia, na verdade veio da China e se naturalizou nos Estados Unidos
+r20-071 [roseira|Você sabia?] A "rosa-castanha" (Rosa roxburghii) tem fruto coberto de cerdas duras, parecendo ouriço de castanha, e casca do tronco que descasca
+r20-072 [roseira|Você sabia?] As minirrosas descendem de uma rosinha achada na Suíça (Rouletii) que quase se extinguiu antes de virar mãe da turma toda
+r20-073 [roseira|X ou Y?] Trepadeira ou "rambler"? A rambler tem galho mole que se debruça; a trepadeira de verdade tem galho mais duro
+r20-074 [roseira|Você sabia?] A rosa híbrida-de-chá, a de flor grande e cabo longo, veio do cruzamento da rosa-chá com a híbrida perpétua; a floribunda, de cacho, cruza a híbrida-de-chá com a polianta
+r20-076 [roseira|Você sabia?] Um criador inglês contou que em 12 anos tirou só 5 rosas de primeira de várias centenas de milhares de mudas
+r20-077 [roseira|Você sabia?] A Índia criou uma rosa cor de chocolate, a "Mohini", e uma rosa indiana ("Mrinalini") já foi estampa de selo
+r20-078 [roseira|Você sabia?] Rosa azul de verdade ainda é sonho dos criadores: nenhum cruzamento chegou nela
+r20-079 [roseira|Você sabia?] Rosa que não pega doença num país pode pegar em outro: resistência depende do clima
+r20-080 [roseira|Você sabia?] Na natureza, quem poliniza a rosa são os insetos, principalmente as abelhas, atraídas pela cor e pelo perfume
+r20-081 [roseira|Você sabia?] Às vezes um galho da roseira nasce diferente (mutação): feito muda desse galho, vira variedade nova, como a "Chicago Peace", filha da "Peace"
+r20-082 [roseira|Você sabia?] Semente de rosa demora a germinar: tem casca dura e uma substância que deixa a semente dormindo
+r20-083 [roseira|5 cuidados] Para cruzar duas rosas em casa: de manhã cedo, tire as pétalas e todas as anteras do botão quase abrindo da rosa "mãe", para ela não se polinizar sozinha
+r20-084 [roseira|5 cuidados] No dia seguinte, passe o pólen da rosa "pai" no centro da rosa "mãe" com a ponta do dedo ou um pincel macio, cubra com saquinho de papel e amarre uma etiqueta com o nome das duas
+r20-085 [roseira|Você sabia?] Se o cruzamento pegou, o frutinho da rosa começa a inchar depois da segunda semana e amadurece em 3 a 5 meses
+r20-086 [roseira|5 cuidados] Semente de rosa germina melhor depois de um frio: 6 a 8 semanas em temperatura ambiente e mais 6 a 8 semanas num pacotinho na geladeira
+r20-087 [roseira|5 cuidados] Semeie a rosa a 1,5 ou 2 cm de fundo, 3 cm entre as sementes, cubra com areia e terra de folha; ela começa a nascer em umas 3 semanas e vai para vaso próprio com 4 folhas
+r20-089 [roseira|Você sabia?] A florada o ano todo das rosas de hoje veio de um gene das rosas chinesas; antes disso, as rosas europeias floresciam uma vez por ano
+r20-090 [roseira|Você sabia?] Uma rosa de origem chinesa, a "Lee", floresceu dois anos seguidos sem parar na Austrália
+r20-091 [roseira|Você sabia?] Rosa laranja-vivo é novidade: não existia nas rosas de jardim antes de 1930
+r20-092 [roseira|Mito ou verdade] Na Índia testaram 166 rosas híbridas-de-chá contra a mancha-preta e nenhuma era resistente; já a rugosa e a Rosa bracteata parecem imunes
+r20-093 [roseira|Você sabia?] Rosa resistir à mancha-preta não depende só da variedade: depende também de como e onde ela é cultivada
+r20-094 [roseira|Você sabia?] A trepadeira "Lamarque" (de flor branca) é considerada uma das melhores para clima quente
+r20-095 [roseira|Você sabia?] As rosas listradas e bicolores muitas vezes nasceram de mutação
+r20-096 [roseira|Você sabia?] Rosa de floricultura de hoje costuma cheirar menos que as rosas antigas
+r20-098 [roseira|X ou Y?] Num estudo, a rosa vermelha grande e perfumada durou pouco no vaso, e a amarela pequena sem cheiro durou muito
+r20-099 [roseira|Mito ou verdade] Rosa azul natural não existe: a roseira não fabrica o pigmento azul. A "rosa azul" de laboratório usou um gene de petúnia
+r20-101 [roseira|5 cuidados] Colha o frutinho da rosa quando ficar rosado ou amarelo, deixe secar 2 dias e só então abra para tirar as sementes
+r20-102 [roseira|5 cuidados] Truque da geladeira: guarde a semente de rosa num saquinho fechado com musgo ou vermiculita úmida, a 3 ou 4 °C, por 2 a 3 meses, antes de semear
+r20-104 [roseira|5 cuidados] Mudinha de rosa de semente solta o primeiro botão com 3 a 4 meses e uns 10 cm: belisque esse botão para ela crescer primeiro
+r20-106 [roseira|Você sabia?] Muita roseira vendida é enxertada: a variedade bonita vai em cima de um "cavalo", a raiz de outra rosa mais forte
+r20-107 [roseira|Você sabia?] Para lugar muito quente e de terra seca, o melhor cavalo de roseira é a Rosa odorata, que aguenta calor extremo
+r20-108 [roseira|Você sabia?] O cavalo Rosa indica odorata aguenta terra seca demais ou molhada demais e terra alcalina
+r20-125 [roseira|5 cuidados] Rosa-musgo e rosa escocesa soltam muito broto da raiz: arranque o broto com um pedaço de raiz e você tem muda nova
+r20-126 [roseira|Você sabia?] O enxerto de borbulha em "T" é o mais usado em roseira: uma gema só vira uma planta nova, e gasta menos galho que o enxerto comum
+r20-127 [roseira|5 cuidados] Na borbulha de roseira, quando o broto novo tiver uns 10 cm, corte o cavalo logo acima do enxerto e tire a fita; a gema pega em 21 a 30 dias
+r20-128 [roseira|3 erros] Borbulha de roseira falha com cavalo "parado": a seiva tem que estar correndo, a faca bem afiada e o trabalho rápido
+r20-130 [roseira|Você sabia?] Enxerto de garfo em roseira cola em 5 a 8 semanas
+r20-131 [roseira|Você sabia?] Os holandeses inventaram o "stenting": enxertar a rosa numa estaca que ainda vai enraizar, tudo de uma vez, para a muda ficar pronta mais rápido
+r20-134 [roseira|Socorro] Roseira não aguenta terra encharcada nem por pouco tempo
+r20-135 [roseira|Você sabia?] A raiz da roseira só desce até onde a terra é boa: por isso vale caprichar na camada de cima
+r20-138 [roseira|3 erros] Roseira é sensível a sal na terra: não é planta para terra salgada
+r20-139 [roseira|5 cuidados] Terra muito barrenta? Misture cascalho e areia no canteiro da roseira para a água escorrer
+r20-141 [roseira|5 cuidados] Em lugar quente, uma sombrinha na parte da tarde, quando o sol está mais forte, faz bem à roseira
+r20-142 [roseira|5 cuidados] Plante a roseira longe de corredor de vento quente ou frio
+r20-143 [roseira|Mito ou verdade] Mito: rosa boa só no frio. No clima tropical dá para colher rosa de altíssima qualidade
+r20-145 [roseira|X ou Y?] Lugar de pouca chuva e verão quente? Prefira as roseiras anãs
+r20-149 [roseira|Você sabia?] Do broto novo até a rosa pronta para colher passam uns 50 a 60 dias
+r20-150 [roseira|Você sabia?] Rosa do calor sai com cabo mais curto e fino e folha menor que a rosa da época fresca
+r20-152 [roseira|X ou Y?] No calor a roseira cresce e dá mais flor, mas a rosa sai pior; no fresco dá menos flor, só que mais bonita e de cor mais forte
+r20-154 [roseira|Você sabia?] Rosa colhida em dia muito quente dura menos no vaso: a flor gasta a reserva rápido
+r20-158 [roseira|5 cuidados] No jardim pequeno, plante roseiras em grupos de 3 ou 5, no meio de outras plantas que valorizam a flor
+r20-159 [roseira|5 cuidados] Contra muro ou cerca, escolha rosa de cor que contraste com o fundo
+r20-161 [roseira|5 cuidados] Receita de cova para roseira em terra barrenta: 2,5 cm de areia no fundo e o resto com 40% de terra, 10% de areia e 50% de esterco curtido
+r20-163 [roseira|3 erros] Ao desembalar muda de roseira, não puxe nem torça: o enxerto novo arranca com facilidade
+r20-171 [roseira|Mito ou verdade] Roseira pode mudar de lugar até florindo, mas o melhor é na época fresca, quando ela está mais parada
+r20-172 [roseira|5 cuidados] Para mudar a roseira de lugar: regue 1 ou 2 dias antes, tire com bastante terra na raiz, pode os galhos como na poda e tire as folhas
+r20-178 [roseira|X ou Y?] Roseira apertada dá mais rosa por canteiro, mas cada pé dá menos e a flor sai pior e dura menos
+r20-181 [roseira|5 cuidados] Quer rosa grande? Deixe só um, no máximo dois botões por haste e tire os outros
+r20-182 [roseira|5 cuidados] Na floribunda, tire o botão do meio do cacho, que abre antes dos outros, e o cacho floresce todo junto
+r20-186 [roseira|5 cuidados] Boas companheiras para forrar o chão do canteiro de rosas: violas e amores-perfeitos
+r20-187 [roseira|3 erros] Não plante forração junto de roseira recém-plantada: a raiz das outras plantas atrapalha ela pegar
+r20-188 [roseira|Você sabia?] Roseira rasteira também serve para cobrir barranco, monte feio e até tampa de bueiro
+r20-189 [roseira|5 cuidados] No calor, proteja a roseira do sol da tarde e do vento quente, e regue o canteiro a cada 2 ou 3 dias
+r20-191 [roseira|5 cuidados] Contra cupim na roseira, regue o chão e o pé com torta de nim dissolvida na água
+r20-192 [roseira|5 cuidados] Roseira de vaso no calor: rega todo dia, e as mais delicadas vão para baixo de tela de sombreamento
+r20-193 [roseira|5 cuidados] Na época das chuvas, levante o canteiro da roseira se a água empoçar, e tire e descarte folha e galho doentes
+r20-194 [roseira|Você sabia?] Na chuvarada a rosa sai menor e de cor mais fraca: é normal da época
+r20-195 [roseira|5 cuidados] Roseira de vaso nas chuvas: leve para o sol, desentupa o furo e troque os 5 a 7,5 cm de cima da terra por esterco bem curtido
+r20-197 [roseira|3 erros] Não deixe a roseira formar fruto depois da flor na época de florada: ele gasta força que iria para rosas novas
+r20-198 [roseira|Socorro] Roseira no mesmo canteiro há muitos anos enfraquece ("terra cansada"): troque os 30 cm de cima por terra boa nova
+r20-199 [roseira|Socorro] Roseira velha e abandonada: cave uma valeta de 30 cm em volta, misture esterco na terra e regue bem; cortar raiz na valeta faz brotar raiz nova e ela revigora
+r20-212 [roseira|5 cuidados] Na polianta, a ideia é manter a mesma altura: tire o galho velho e apare só a ponta do galho que já floriu
+r20-214 [roseira|X ou Y?] Trepadeira rústica de cacho pequeno aguenta poda forte, porque solta galho novo todo ano; trepadeira de flor grande floresce em galho de 2 ou 3 anos e só leva poda leve
+r20-216 [roseira|3 erros] Roseira antiga e arbustiva não gosta de poda exagerada: se ela floresce em galho velho e novo, deixe o máximo de galhos
+r20-223 [roseira|Socorro] Ponta do broto da roseira morrendo, borda do folíolo seca e pétala com pinta marrom na beirada: sinal de falta de cálcio, comum em terra ácida
+r20-226 [roseira|3 erros] Potássio demais atrapalha a roseira a pegar magnésio, principalmente em terra arenosa
+r20-230 [roseira|Socorro] Roseira murchando com a terra molhada, flor deformada e folha caindo antes da hora pode ser falta de boro, típica de terra alcalina
+r20-233 [roseira|Você sabia?] Potássio deixa o galho da roseira maduro e firme, mais resistente a praga e doença
+r20-235 [roseira|X ou Y?] Nitrogênio aumenta a produção de rosas, mas pode deixar a cor da flor mais fraca
+r20-236 [roseira|5 cuidados] Adubo foliar na roseira: borrife cedo de manhã, mirando as folhas novas, que absorvem melhor
+r20-237 [roseira|3 erros] Adubo foliar forte demais queima a folha da roseira: respeite a dose
+r20-238 [roseira|Mito ou verdade] Adubo foliar não substitui o adubo na terra: na roseira ele é só um reforço para casos especiais
+r20-239 [roseira|5 cuidados] Dividir o adubo nitrogenado da roseira em três vezes no ano, em vez de uma só, deu mais flor e menos galho secando da ponta
+r20-240 [roseira|5 cuidados] A melhor hora de pôr esterco na roseira é logo depois da poda: afaste um pouco de terra do pé, espalhe o adubo, misture e devolva a terra
+r20-241 [roseira|5 cuidados] Roseira em terra arenosa precisa de mais esterco e com mais frequência do que em terra barrenta
+r20-242 [roseira|5 cuidados] Antes de fazer o canteiro de rosas, plante adubo verde, como crotalária, e incorpore na terra
+r20-243 [roseira|5 cuidados] Dose prática por roseira: 4 a 5 kg de esterco curtido ou composto e 25 g de farinha de osso, no plantio e na poda
+r20-245 [roseira|Você sabia?] Esterco de galinha e de outras aves é o mais forte de todos: misture com terra e deixe curtir coberto antes de usar
+r20-246 [roseira|3 erros] Esterco de ovelha é rico, mas costuma vir cheio de semente de mato
+r20-247 [roseira|Você sabia?] Farinha de osso solta o fósforo bem devagar: o efeito dura anos
+r20-248 [roseira|5 cuidados] Adubo orgânico líquido (esterco curtido na água) vai bem diluído, em terra já molhada, umas 2 a 3 semanas antes da florada que você quer
+r20-249 [roseira|5 cuidados] Roseira gosta de bastante água, mas não de encharcar; em terra arenosa a rega é mais frequente que em terra barrenta
+r20-252 [roseira|Você sabia?] Uma roseira de flor grande perde uns 135 litros de água pelas folhas numa temporada; uma trepadeira grande, uns 450 litros
+r20-254 [roseira|5 cuidados] Cobertura no canteiro de rosas (palha, folha seca, serragem, casca) deixa a terra fresca e úmida e segura o mato
+r20-255 [roseira|Você sabia?] Cobertura vegetal no pé da roseira vira adubo com o tempo e chama minhoca e micróbio bom
+r20-257 [roseira|Você sabia?] Folha de mangueira usada como cobertura segurou a tiririca e a grama-seda num canteiro de rosas
+r20-258 [roseira|Você sabia?] Palha de arroz como cobertura aumentou a produção de rosas num teste
+r20-259 [roseira|3 erros] Grama cortada como cobertura da roseira pode trazer semente de capim para o canteiro
+r20-260 [roseira|Você sabia?] Mato sem controle derrubou em 60% a produção de rosas num teste; e a capina na mão foi melhor que herbicida
+r20-267 [roseira|Você sabia?] Rosas indicadas para vaso por especialistas indianos: Iceberg, Double Delight, Montezuma, Super Star, Fragrant Cloud, Christian Dior e Rumba
+r20-271 [roseira|5 cuidados] Para minirrosa em vaso: 1 parte de terra, 1 de turfa e 1 de perlita (ou areia)
+r20-286 [roseira|5 cuidados] Para o vaso de água, corte a rosa ainda em botão, quando 1 ou 2 pétalas começam a soltar na ponta: fechada demais não abre, aberta demais murcha logo
+r20-288 [roseira|5 cuidados] Ponha a rosa na água logo depois de cortar
+r20-289 [roseira|Você sabia?] Rosa de cabo mais comprido costuma durar mais no vaso e beber mais água
+r20-291 [roseira|Mito ou verdade] Água da torneira boa deixou a rosa durar mais no vaso do que água destilada
+r20-292 [roseira|Você sabia?] Bactéria e fungo na água do vaso entopem o cabo e fazem a rosa murchar antes: troque a água
+r20-293 [roseira|Você sabia?] Açúcar na água do vaso alimenta a rosa cortada: ela abre melhor, fica maior e com cor mais viva
+r20-294 [roseira|Mito ou verdade] Açúcar sozinho não basta: os melhores conservantes de rosa juntam açúcar com algo que segura a bactéria da água
+r20-295 [roseira|Socorro] Rosa cortada muito murcha: deixe a flor inteira mergulhada na água por uma hora e depois ponha no vaso com água morna
+r20-296 [roseira|Você sabia?] Num teste, um bom conservante na água fez a rosa durar 17 dias no vaso, contra 7 só com água
+r20-298 [roseira|Você sabia?] Conta a lenda que a imperatriz Nur Jahan viu gotas de óleo boiando no tanque de água de rosas do banho; esse óleo chegou a valer 5 vezes o peso em ouro
+r20-301 [roseira|Você sabia?] De 70% a 80% do óleo de rosa do mundo sai do "Vale das Rosas", na Bulgária
+r20-302 [roseira|Você sabia?] O óleo de rosa é tão forte que uma agulha molhada nele perfuma um lenço por um mês, mesmo depois de lavado
+r20-304 [roseira|Você sabia?] Quando Saladino tomou Jerusalém, em 1187, mandou 500 camelos carregados de água de rosas para lavar a mesquita
+r20-306 [roseira|5 cuidados] Saquinho de pétalas de rosa secas com cravo e alecrim perfuma gaveta e armário
+r20-309 [roseira|5 cuidados] Ao pulverizar a roseira, aponte o bico de baixo para cima para molhar o avesso da folha, de manhã cedo e sem vento; no calor seco o produto queima a folha
+r20-313 [roseira|Socorro] Pétala de rosa com pontinhos e riscos claros que depois escurecem e apodrecem, e folha prateada: é tripes
+r20-317 [roseira|Socorro] Algodãozinho branco no cabo da flor e no botão, que não abre e seca: é cochonilha-farinhenta
+r20-320 [roseira|5 cuidados] Besouro que come flor de rosa: cate com a mão durante o dia; a larva dele, branca e gorda, fica na terra comendo raiz
+r20-325 [roseira|3 erros] Esterco cru no canteiro de rosas chama cupim; use esterco curtido e torta de nim, que espanta
+r20-327 [roseira|Você sabia?] A mancha-preta da roseira é pior em lugar úmido de litoral, e num canteiro ao ar livre pode virar epidemia
+r20-333 [roseira|X ou Y?] Minirrosa resiste bem ao oídio; as de flor grande e as floribundas são as que mais pegam
+r20-336 [roseira|Você sabia?] Roseira velha é mais sensível à seca dos ponteiros do que roseira nova
+r20-344 [roseira|Você sabia?] Lançar uma rosa nova leva de 9 a 12 anos e uns 50 a 60 mil cruzamentos planejados
+r20-345 [roseira|Você sabia?] A rosa é a planta ornamental com mais patentes nos Estados Unidos: em 1994, 127 das 498 patentes de planta foram de rosas
+r20-346 [roseira|Você sabia?] A rosa "Peace", chamada de rosa do século, é amarela com borda rosada e com poda leve vira um arbusto de 2 metros
+r20-347 [roseira|Você sabia?] A muda original da famosa rosa "Peace" era uma plantinha fraca
+r20-348 [roseira|Você sabia?] A rosa "Super Star" (ou "Tropicana"), vermelho-alaranjada e perfumada, causou sensação quando foi lançada, em 1960
+x23-027 [roseira|Você sabia?] A abelha-cortadeira recorta círculos certinhos na folha da roseira para forrar o ninho
+x23-028 [roseira|Você sabia?] Roseira de flor simples dá muito pólen e depois frutinhos para passarinho
+x23-029 [roseira|Você sabia?] O pulgão no broto da roseira vira comida dos insetos que caçam pulgão
+g32-258 [roseira|Você sabia?] A rosa-canina faz cerca viva, a flor chama abelha e o fruto tem muita vitamina C
+i36-080 [roseira|Passo a passo] Roseira trepadeira: plante a 30 cm do pé do arco, inclinada a 45 graus para ele
+i36-081 [roseira|5 cuidados] Roseira enxertada: o calo do enxerto fica uns 2,5 cm abaixo da terra
+i36-083 [roseira|Passo a passo] Poda da roseira trepadeira: tire o morto e o cruzado, depois corte cada haste que floriu em dois terços
+i36-109 [roseira|Passo a passo] Roseira de raiz nua: corte as raízes grossas em um terço e espalhe bem as raízes no buraco
+i36-115 [roseira|Passo a passo] Roseira de canteiro (híbrida de chá): poda forte, deixando os galhos a 15 cm do chão
+r20-297 [roseira|Você sabia?] Para fazer água de rosas, as melhores são as vermelho-escuras e bem perfumadas
+r20-303 [roseira|Você sabia?] Na Segunda Guerra, sem laranja, a Inglaterra pediu ao povo para colher fruto de roseira para fazer xarope de vitamina C
+r20-088 [roseira|Você sabia?] A semente de rosa germina melhor no fresco, entre uns 7 e 18 °C
+r20-144 [roseira|Você sabia?] No clima subtropical a roseira não tem um descanso de verdade e pode perder o vigor em poucos anos
+r20-146 [roseira|Você sabia?] Em região quente a roseira floresce melhor no inverno; na serra fria, no verão
+r20-151 [roseira|Você sabia?] A roseira rende mais de dia entre 20 e 28 °C; abaixo de 13 °C ou acima de 30 °C a flor cai em número e qualidade
+r20-174 [roseira|Você sabia?] Em clima tropical ameno, com cuidado, a roseira pode ser plantada em qualquer época do ano
+r20-250 [roseira|Você sabia?] Roseira no canteiro: rega uma vez por semana no frio e duas no calor
+## COMPARTILHADOS (so estes, de qualquer dos dois livros)
+b6-09 [outra|Você sabia?] Dragoeiro (Dracaena draco): a resina vermelha que escorre do tronco é o "sangue de dragão" que deu o nome
+n10-67 [outra|Você sabia?] Mato de jardim se divide em dois grupos: folha estreita (capins, tiririca) e folha larga (picão, caruru, beldroega)
+f11-23 [outra|5 cuidados] Coar o extrato antes de pulverizar, senão entope o bico. Vale peneira dupla, coador de cozinha, pano velho ou toalha. Filtro de café não, porque entope na hora
+f11-90 [outra|Você sabia?] Na França houve a Guerra da Urtiga: uma lei passou a exigir homologação cara de todo produto para planta, e jardineiros se mobilizaram até arrancar uma pequena exceção para os preparados naturais simples. Na época do livro, esses preparados ainda eram só tolerados
+t13-17 [outra|Mito ou verdade] Taioba faz mal ao cachorro? Verdade: a cartilha põe taioba e mangarito entre os nomes do gênero Xanthosoma, que tem oxalato de cálcio e irrita boca e pele do pet. Não deixe o bicho mastigar a planta
+p14-11 [outra|Você sabia?] Flores de jardim seguras para cão e gato pela ASPCA: gérbera, rosa, girassol, zínia, calêndula, boca-de-leão, beijo (Impatiens) e hibisco-da-síria
+v15-20 [outra|3 erros] Deixar o cão brincar com frutinho de cinamomo caído: o fruto é muito tóxico (folha, caule e flor, pouco), e os casos acontecem mais em cachorro
+g16-22 [outra|Você sabia?] Mais folhagens de casa em cautela para gato: ficus (benjamina, lira e falsa-seringueira), dracena, cheflera, café-de-salão (Aglaonema), iúca, tinhorão (Caladium) e orelha-de-elefante (Alocasia)
+g16-45 [outra|Você sabia?] No mato do quintal, o trevo-azedinho (Oxalis) está em perigo raro para gato, e a margarida e o trevo-branco (Trifolium) em cautela. Já o dente-de-leão é seguro
+s2-26 [outra|3 erros] Orégano vai bem em vaso com furo, mas não em vaso autoirrigável
+q3-07 [outra|5 cuidados] Planta nova em casa: tire o plástico logo, deixe uns dias num canto sem sol forte e só depois leve para o lugar dela
+q3-121 [outra|3 erros] Carnívora não é fácil em casa: pede água de chuva limpa, ar úmido e luz indireta
+k9-011 [outra|Socorro] A folha fala: pálida, amarelada ou com grandes áreas brancas é sol demais; orquídea de folha verde-garrafa bonita que nunca mais floresceu está tomando sol de menos
+k9-029 [outra|Você sabia?] A maioria das plantas gosta de pH entre 5,5 e 6,5. A hortênsia muda de cor com ele: azul em solo ácido, rosa em solo alcalino
+k9-075 [outra|Socorro] Primeiros socorros da autora: vaso maior com substrato adubado e palha por cima, luz ajustada aos poucos, rega farta no dia da troca e depois só com a terra seca. E esperar observando alguns dias
+k9-101 [outra|Você sabia?] Jataí, mandaçaia e outras abelhas sem ferrão são nativas do Brasil. Deixar o manjericão florir já ajuda a alimentá-las
+k9-240 [outra|5 cuidados] Antes de comprar planta, observe o canto por alguns dias: bate sol o dia todo ou só umas horas? Venta? E veja a altitude da cidade: quanto mais alta, mais seca
+k9-255 [outra|3 erros] Plantar iuca junto de muro e calçada: a raiz destrói piso e encanamento
+k9-267 [outra|Você sabia?] O "camarão" do camarão-vermelho não é flor: são brácteas, folhas especiais que chamam o polinizador. A flor de verdade é branca e pequena, e o beija-flor adora
+k9-301 [outra|Socorro] Lavanda murcha com a terra molhada? NÃO regue: provavelmente ela sofreu com a umidade do ar, e mais água só piora
+w18-001 [outra|Você sabia?] Costela-de-adão, lírio-da-paz, antúrio, copo-de-leite, jiboia, filodendro e comigo-ninguém-pode são todos da mesma família: as aráceas
+w18-045 [outra|Você sabia?] Tem arácea que muda de sexo de um ano para o outro: se o ano foi bom e ela guardou reserva, vira fêmea; se foi médio, macho; se foi ruim, só dá folha
+w18-156 [outra|Você sabia?] A flor-cadáver floresce só a cada 2 ou 3 anos e por poucos dias; por isso é tão difícil ela fazer semente
+w18-208 [outra|5 cuidados] Tubérculo grande de arácea que vai florir pode ficar sem raiz até a flor murchar: mantenha a terra mais seca até as folhas novas aparecerem
+q3-338 [outra|Você sabia?] A tolmia solta filhotinhos onde o cabo encontra a folha, como "mãe carregando filho nas costas"
+q3-408 [outra|Você sabia?] A ardísia solta florzinha branca perfumada e depois um monte de bolinhas vermelhas que duram muito
+q3-441 [outra|5 cuidados] Érica de vaso pede água sem calcário e terra úmida sem encharcar
+g32-413 [outra|Você sabia?] Um só pé de capim-limão dá para a casa inteira
+g32-426 [outra|Passo a passo] Gengibre e cúrcuma: rizoma raso em vaso de pelo menos 25 cm, com adubo; aumente a rega conforme cresce
+g32-447 [outra|Você sabia?] A estévia é um adoçante natural que nasce fácil de semente; belisque para encher
+s28-061 [outra|Dica do Andre] No canteiro de corte, deixe tudo ao alcance da mão pela borda, sem pisar na terra
+s28-101 [outra|Dica do Andre] Cortou a primeira espiga da dedaleira acima das folhas? Saem espigas menores dos lados e ela floresce de novo
+s28-201 [outra|Você sabia?] O pepininho (Melothria scabra) é uma trepadeira do México com frutinho do tamanho de azeitona, cara de melancia em miniatura e gosto de pepino com limão
+v19-031 [outra|Passo a passo] Alcachofra: plante o broto da base com um pedaço da planta-mãe, a 75 cm, em terra rica e úmida, com muita água
+v19-064 [outra|5 cuidados] Violeta-de-cheiro: sombra, terra rica e umidade
+i36-018 [outra|3 erros] Erro comum: levar planta com raiz saindo pelo furo do vaso. Ela está enovelada e vai crescer mal
+i36-038 [outra|Dica do Andre] Arrume as mudas ainda no vaso dentro do vasão para ver como fica, e só depois plante
+i36-048 [outra|Passo a passo] Canteiro curvo: desenhe a borda no chão com a mangueira de jardim antes de cortar a grama
+i36-103 [outra|Passo a passo] Arbusto: buraco de duas a três vezes a largura do vaso. Ponha um bambu atravessado para conferir a altura
+i36-125 [outra|3 erros] Erro comum: esticar o corpo na escada para alcançar a cerca viva. Desça e mude a escada de lugar
+i36-140 [outra|Socorro] Socorro, a folha do capim enrolou como canudo! No seco é sede; na terra encharcada é raiz molhada demais
+i36-206 [outra|Você sabia?] Vermiculita é um mineral que segura água e adubo e protege a semente
+i36-215 [outra|Dica do Andre] Vaso pendurado de ervas: escolha as que você mais usa. Deixe de fora as grandes e lenhosas, como louro e alecrim
+i36-235 [outra|Socorro] Socorro, minha erva ficou comprida e pelada! Enterre a planta funda num vaso maior, até a base das folhas: o caule solta raiz
+q34-028 [outra|Você sabia?] Planta exótica pode virar praga invasora e trazer doença. Planta nativa às vezes dá pouca cor. A mistura das duas é o meio-termo
+q34-042 [outra|Dica do Andre] Cerca viva ou cerca trançada de bambu segura o vento sem cair. Faça mais larga que a área a proteger
+q34-089 [outra|Você sabia?] Para segurar poeira da rua: planta de folha o ano todo, áspera ou peluda e bem cheia
+q34-133 [outra|Você sabia?] Papoula-da-califórnia se semeia sozinha até em fresta de piso e muro
+w31-046 [outra|Dica do Andre] Palete na parede do galpão vira suporte para enxada, rastelo e vassoura
+w31-163 [outra|Dica do Andre] Meião velho sem a ponta vira manga protetora contra urtiga e folha que irrita a pele
+s2-55 [horta|3 erros] Plantar tudo em fileira da mesma planta é um "bufê" para a praga; misturar espécies no canteiro confunde o inseto
+s2-138 [horta|Você sabia?] O mato conta como é a terra: onde nasce mirtilo e azaleia sozinhos, a terra é ácida
+s2-210 [horta|Você sabia?] Couve quase não tem praga. O besouro-pulga gosta dela; se ele atacar, cubra com manta até a planta ficar grande e resistente
+a8-267 [horta|5 cuidados] Mexeu na terra? Cubra rápido. A autora manda semear logo uma leguminosa que nasça depressa, antes de a chuva bater no chão pelado
+k9-322 [horta|5 cuidados] Alho brotando vira muda: cada dente gera uma cabeça. Plante em terra adubada, no sol, com um pedaço do dente para fora da terra para não apodrecer; colha em uns 4 meses
+x23-051 [horta|5 cuidados] Rede sobre a frutífera por uma ou duas semanas protege a colheita do passarinho sem machucar ninguém
+x23-072 [horta|5 cuidados] Abobrinha e tomate ficam em vaso, longe da lesma, até ficarem fortes para aguentar uma mordida
+h35-013 [horta|Dica do Andre] Fotografe seu quintal em vários horários do dia para descobrir onde bate sol e onde é sombra
+h35-053 [horta|5 cuidados] Distância entre plantas: tomate de moita 45 a 90 cm, pimentão 45 a 60 cm, alface 15 a 35 cm, rabanete 1 cm
+h35-063 [horta|Você sabia?] Alface, rabanete, cebolinha, mostarda, vagem e morango-silvestre dão em só 15 cm de terra, com rega em dia
+h35-082 [horta|Você sabia?] Consórcio: rabanete e rúcula crescem no vão de planta lenta ou alta, como milho e brócolis
+h35-141 [horta|Dica do Andre] No palete, planta pendente em cima e erva de sombra embaixo
+h35-169 [horta|Você sabia?] Ervilha-torta é cara no mercado e muito fácil de plantar
+h35-210 [horta|5 cuidados] Corte as ervas com frequência para não florirem cedo
+h35-247 [horta|Você sabia?] Funcho é chato: mudança de temperatura ou falta de água fazem ele pendoar e o bulbo não engorda
+h35-262 [horta|Você sabia?] O pak choi (acelga chinesa) é gostoso em qualquer fase, do desbaste ao pé formado
+h35-293 [horta|Você sabia?] O estragão-francês tem sabor; o russo parece igual, cresce mais e tem menos gosto
+g32-001 [horta|Você sabia?] Cada hortaliça nasceu num lugar: figo gosta de sol forte, salsão de brejo e beterraba descende de uma planta de praia
+g32-014 [horta|Você sabia?] Planta de sombra costuma ter folha grande, para pegar o máximo de luz
+g32-033 [horta|Você sabia?] Na cidade, asfalto e parede guardam o calor do sol e soltam ar quente: é a ilha de calor
+g32-082 [horta|Você sabia?] Tem bertalha de folha verde-clara e flor branca e bertalha de talo e flor vermelhos
+g32-106 [horta|Você sabia?] O tomatillo, tomate mexicano de casca de papel, é a base do molho verde mexicano
+g32-122 [horta|Você sabia?] Deixou a beldroega florir? Ela semeia sozinha e você não precisa plantar de novo
+g32-143 [horta|5 cuidados] Alcachofra pede 1 m quadrado por planta e esterco curtido; colha o botão antes das escamas abrirem
+g32-160 [horta|5 cuidados] Árvore nova em lugar de vento: duas estacas fincadas 40 cm, travessa em cima e amarrilho que você afrouxa quando o tronco engrossa
+g32-185 [horta|Dica do Andre] Brócolis no vaso: três plantas num vaso de 40 cm
+g32-238 [horta|Você sabia?] Depois de colher o repolho, deixe o toco na terra: ele solta umas folhas soltas para mais uma colheita
+g32-252 [horta|Você sabia?] Nabo e couve-rábano novinhos são os mais macios
+g32-275 [horta|Você sabia?] Tem framboesa amarela
+g32-282 [horta|3 erros] Fruta de sabugueiro é melhor cozida, que tira o amargo
+g32-309 [horta|Você sabia?] A mashua, parente andina da capuchinha, é trepadeira de flor laranja e dá tubérculos com muita proteína
+g32-321 [horta|Você sabia?] A beldroega-de-inverno (alface-de-mineiro) tem folha redonda atravessada pelo talo e aguenta 20 graus negativos
+g32-337 [horta|Você sabia?] A diabelha (erba stella) é uma tanchagem de praia que vira salada e verdura no vapor
+g32-345 [horta|Você sabia?] O wasabi é um rizoma que nasce na beira de riacho na mata e cresce devagar; rale e coma na hora
+g32-363 [horta|Você sabia?] A folha da raiz-forte não se come de tão ardida; a flor branca chama polinizador
+g32-371 [horta|3 erros] A labaça (Rumex) tem ácido oxálico: não coma muito crua; cozida diminui bastante
+g32-380 [horta|Você sabia?] Folha caída do bambu tem sílica que fortalece a planta: use como cobertura
+g32-461 [horta|Você sabia?] Luz vermelha puxa flor, luz azul puxa folha; LED gasta pouco e quase não esquenta
+s28-126 [horta|X ou Y?] Canteiro ou vaso? Guarde o chão para milho, feijão e ervilha de trepar e abóbora grande; beterraba, tomate, acelga, abobrinha e cenoura pequena vão bem em vaso grande
+s28-150 [horta|Você sabia?] Criança costuma comer o que ajudou a plantar
+i36-176 [horta|5 cuidados] Muda comprada: plante ou passe de vaso logo, para ela não parar de crescer
+i36-244 [horta|5 cuidados] Use luva ao mexer com adubo
+w31-072 [horta|Você sabia?] Rotação de culturas: praga e doença ficam no solo. Sem a planta hospedeira no ano seguinte, elas somem
+w31-193 [horta|Você sabia?] Horta buraco de fechadura nasceu no Lesoto, na África, para plantar comida em solo pobre e seco
+f11-75 [mato|Você sabia?] Urtiga, rúmex, catinga-de-mulata e dente-de-leão aparecem em canto de quintal largado. Os autores pedem para não passar roçadeira neles quando servem de matéria-prima de extrato
+z7-06 [mato|5 cuidados] O melhor controle de mato começa antes: não deixar a semente entrar e se espalhar num lugar que ainda está limpo. Para o autor, a peça-chave disso é a própria pessoa
+z7-24 [mato|Você sabia?] O caruru-de-mancha costuma ter uma mancha roxa no meio da folha, o que explica o nome
+z7-33 [mato|Você sabia?] A corda-de-viola sobe enrolada no que encontra, sem gavinha nem ventosa: é trepadeira "volúvel". Algumas dão flor azul muito bonita
+z7-51 [mato|Socorro] Trevinho azedo que não acaba no canteiro? Uma espécie corre rasteira por estolão e semente. A outra, de folhas em pé a 20 ou 30 cm, só se espalha por bulbinhos escamosos debaixo da terra
+a8-243 [mato|Você sabia?] Mesmo em terra com pouco cálcio, a tanchagem puxa tanto que, onde cai uma folha seca dela, o chão fica mais rico em cálcio do que onde cai uma folha de chicória
+g32-216 [mato|Você sabia?] Um só pé de erva-de-passarinho (morugem) pode soltar 2.500 sementes em 10 semanas
+e22-003 [mato|Você sabia?] Mato é oportunista: ocupa o espaço que a gente abre na terra
+e22-015 [mato|Você sabia?] Rizoma é um caule que cresce para baixo, para o lado e depois sobe com broto novo
+e22-025 [mato|Mito ou verdade] Mito: dá para acabar com todo o mato. O possível é manter num nível aceitável, e quem decide o nível é você
+e22-037 [mato|Você sabia?] A bolsa-de-pastor solta 5 mil sementes por pé e a semente atrai e mata nematoide: tecnicamente é carnívora
+e22-046 [mato|Você sabia?] A buva não aguenta terra revirada, e a semente precisa de luz: cobertura funciona bem
+e22-058 [mato|Você sabia?] A vagem da balsamina explode e joga semente a 7 metros
+e22-070 [mato|Dica do Andre] Planta nova chegou? Confira se não veio trevinho no vaso antes de levar para o canteiro
+e22-084 [mato|Você sabia?] A semente da serralha voa até 7 metros e já está pronta uma semana depois da flor
+e22-091 [mato|5 cuidados] Plantio bem fechado faz sombra no mato e ele solta muito menos semente
+e22-102 [mato|Você sabia?] O alho-selvagem tem folha com gosto de alho e se espalha pelos bulbinhos
+e22-113 [mato|Você sabia?] O cardo-rasteiro se espalha pela raiz, e só 3% das sementes dele nascem
+e22-121 [mato|Você sabia?] A cavalinha não aguenta terra revirada, sombra de árvore nem gramado cortado
+e22-133 [mato|Dica do Andre] Melhorar a drenagem segura o botão-de-ouro rasteiro
+e22-142 [mato|Você sabia?] Existem mais de 200 tipos de dente-de-leão quase iguais
+e22-154 [mato|Você sabia?] O banco de sementes de mato fica nos primeiros 25 cm da terra
+i36-283 [mato|Você sabia?] Labaça tem raiz funda que quebra fácil: se ficar um pedaço, rebrota
+e22-048 [mato|3 erros] O estramônio (figueira-do-inferno) é tóxico e narcótico: arranque de luva e não deixe soltar semente
+n10-90 [praga|Você sabia?] Virose deixa pontinhos amarelos e muda a cor e a forma da folha sem ferida grande; quando dá para notar, já está avançada
+s2-99 [praga|Socorro] Planta murcha com a terra molhada e folha de baixo amarela: raiz podre (escura, mole, com mau cheiro); excesso de água
+r6-35 [praga|Socorro] Suculenta apodrecendo na base? A causa mais comum é água demais: terra encharcada favorece os fungos e as bactérias que fazem a planta apodrecer. A prevenção é regar com moderação
+k9-110 [praga|Você sabia?] Vírus de planta não tem cura e passa de uma planta para outra; para ter certeza, só exame de laboratório
+h35-098 [praga|Dica do Andre] Vaso de hortelã perto da horta ajuda a afastar pulgão
+h35-316 [praga|Socorro] Míldio: mancha marrom em cima e mofo claro embaixo da folha; não molhe a folha e deixe o ar circular
+g32-488 [praga|Socorro] Lagarta-rosca (corta a muda rente ao chão): tela e revirar a terra para os bichos que comem a lagarta acharem
+g32-500 [praga|Socorro] Pulgão-lanígero (algodãozinho no galho): pode o galho fino ou escove com escova dura
+i36-288 [praga|Dica do Andre] Pulgão em pouca quantidade: esmague entre os dedos. Lesma e caracol, cate com a mão
+p29-103 [praga|Você sabia?] Pulgão suga a seiva, pode passar vírus e solta um melado que atrai a fumagina preta
+q3-22 [regar|5 cuidados] Rega por baixo: vaso numa vasilha rasa com água até a umidade subir na superfície; ideal para violeta e folha peluda
+a8-026 [regar|Você sabia?] Em terra socada e seca a raiz não entra, e a rega pode nem molhar: num teste, a água desceu só pela parede do tubo
+w18-048 [regar|3 erros] Terra encharcada mata por falta de ar: o oxigênio anda mais de mil vezes mais devagar na água, e sem ele a raiz apodrece e a planta "se afoga"
+h35-106 [regar|3 erros] Vaso suspenso quase não recebe chuva: regue mesmo quando chove
+s28-056 [regar|3 erros] Erro comum com flor em vaso: esquecer que vaso precisa de rega frequente
+i36-257 [regar|3 erros] Erro comum: jato forte de mangueira na terra. Ele lava o solo e descobre a raiz. Regue devagar, no pé
+q34-082 [regar|Você sabia?] Jardim de chuva é uma valeta rasa com planta que segura a água da chuva e solta devagar
+w31-141 [regar|Passo a passo] Rega de férias com barbante: balde acima dos vasos, barbante molhado de um até a terra de cada vaso
+w31-153 [regar|3 erros] Erro comum: regar no meio do dia. Muita água evapora antes de chegar à raiz
+t37-012 [arvore|Você sabia?] Árvore existe na Terra há uns 400 milhões de anos; o ginkgo e a araucária-chilena são chamados de fósseis vivos
+t37-029 [arvore|Você sabia?] Proteger a mata que já existe vale mais que plantar mata nova, que demora para guardar carbono
+t37-040 [arvore|Você sabia?] Os anéis do tronco contam a idade da árvore: cada ano a camada sob a casca faz madeira nova
+t37-052 [arvore|Você sabia?] Quando a árvore para de fazer clorofila, o verde some primeiro e as outras cores aparecem
+t37-066 [arvore|Você sabia?] Cerca viva quebra o vento: salvação em quintal muito exposto
+i36-150 [arvore|Passo a passo] Tutor da árvore: crave inclinado a 45 graus, para não ferir a raiz, virado para o lado do vento
+q34-118 [arvore|Você sabia?] Árvore refresca o quintal com sombra rendada
+x23-132 [abelha|Você sabia?] Veneno, perda de flor do campo, agricultura intensiva e mudança do clima estão por trás do sumiço das abelhas
+e22-027 [abelha|Você sabia?] Trevo no gramado e urtiga perto da composteira ajudam muito os bichos do jardim
+s28-090 [abelha|Você sabia?] A centáurea é cheia de pólen e néctar: festa para abelha e borboleta
+q34-135 [abelha|Você sabia?] Équio (Echium) faz espigas de flor azul-elétrica que são ímã de abelha

@@ -1,0 +1,58 @@
+f11-53 | Capuchinha atrai pulgão, que adora a planta, e isso não é motivo de susto. Para os autores, plantada perto de frutíferas, tomate, rabanete, batata e abóbora, ela faz bem às vizinhas
+f11-61 | Regar semente de horta com chá ou extrato de hortelã, melissa ou sálvia: eles freiam a germinação
+p14-14 | Na horta, morango, pepino, abobrinha, abóbora, melão, cenoura e bananeira estão na lista de não tóxicas da ASPCA [PET:ASPCA]
+s2-52 | Planta que espanta praga: a prova é pouca e quase só de relato; o próprio autor pede para testar com um pé atrás
+s2-53 | Cebola, alho e cebolinha no meio da horta: diz-se que o cheiro forte deixa as vizinhas menos atacadas por inseto (prova fraca, quase só relato de horteiro)
+s2-54 | Cravo-de-defunto (tagetes) ajuda contra pulgão e mosca-branca; alecrim afasta a mariposa da couve
+s2-55 | Plantar tudo em fileira da mesma planta é um "bufê" para a praga; misturar espécies no canteiro confunde o inseto
+s2-56 | Canteiro misturado também aguenta melhor a seca que o canteiro de uma planta só
+s2-58 | Não plante a mesma coisa no mesmo lugar dois anos seguidos: o fungo da murcha fica na terra mais de um ano
+s2-92 | Muda que tomba e apodrece no pé (tombamento) é fungo: jogue fora, lave o vaso e use substrato limpo
+s2-93 | Semente muito junta, rega demais e tampa fechada depois de nascer: os três chamam o tombamento da muda
+s2-94 | A requeima da batata causou a grande fome da Irlanda em 1845; o nome do fungo quer dizer "destruidor de plantas"
+s2-101 | Com impulso de corrida, um veado adulto pula uma cerca de 2,4 m; mesmo assim, há 25 anos o autor segura os veados com uma cerca elétrica na altura do focinho deles, uns 90 cm
+s2-102 | Repelente caseiro: cabelo de barbearia em volta da horta e sabonete preso em estaca são usados contra bicho grande
+s2-131 | Dito antigo: jardineiro ruim cultiva mato, bom cultiva legume, e o muito bom cultiva a terra
+s2-136 | Terra linda, escura e cheia de matéria orgânica e mesmo assim o tomate parou em 22 cm: o problema era o pH 4,5
+s2-138 | O mato conta como é a terra: onde nasce mirtilo e azaleia sozinhos, a terra é ácida [PET:UFG]
+s2-141 | Teste do dedo: esfregue terra úmida; áspera é arenosa, lisa como farinha é siltosa, grudenta como manteiga é argilosa
+s2-151 | Raiz nunca para de crescer: os pelinhos que comem o nutriente duram poucos dias e nascem de novo na ponta
+s2-152 | Revirar demais a terra: o autor passou o motocultivador três vezes por ano por 20 anos e ganhou mais mato e terra pior
+s2-153 | Terra fofa de enxada rotativa não dura: até o fim da estação ela endurece; quanto mais revira, mais precisa revirar
+s2-154 | Terra com minhoca absorve água quatro vezes mais rápido que terra sem minhoca
+s2-157 | Contou 60 minhocas no bloco? São cerca de 24 mil trabalhando numa horta de 6 x 6 m
+s2-158 | Comprar minhoca resolve? Raramente: se o canteiro não tem comida e umidade, elas vão embora
+s2-159 | Quando pôr composto? Sempre: é a melhor comida da minhoca e da planta
+s2-201 | Rúcula tem raiz pequena e compacta: vai bem em vaso, floreira ou bandeja na janela com sol
+s2-202 | Rúcula fica pronta rápido: duas ou três semanas depois de nascer, com folhas de 5 a 7 cm
+s2-203 | A flor da rúcula também se come: deixe alguns pés florirem e jogue as flores na salada
+s2-207 | A couve fica mais gostosa quando cresce rápido: ponha composto na terra pelo menos um mês antes de semear
+s2-208 | Colha a couve folha por folha com tesoura ou faca, para não rasgar o talo
+s2-209 | Couve congela bem: congele as folhas e esfarele direto na sopa, no fim do cozimento
+s2-210 | Couve quase não tem praga. O besouro-pulga gosta dela; se ele atacar, cubra com manta até a planta ficar grande e resistente
+a8-005 | Semente pesada e cheia de reserva germina melhor: puxa água rápido e escapa dos fungos. Semente que não nasce apodrece na terra
+a8-017 | Plantar espaçado ou mais junto? Nos trópicos, mais junto: as plantas fazem sombra no chão. Com muito espaço, a terra perde mais água
+a8-025 | Raiz de beterraba bifurcada e torta: ela bateu numa camada compactada e só passou pelas rachaduras
+a8-028 | Semeou e não nasceu? Nem sempre é semente ruim: a crosta da primeira chuva pode impedir a plantinha de furar o chão
+a8-029 | Esfarelar a terra até virar pó achando que ficou fofa: terra pulverizada encrosta na primeira chuva. A boa é a grumosa, que aguenta água
+a8-035 | Variedade mais produtiva é variedade mais exigente: costuma ter raiz mais fraca e pede solo melhor
+a8-207 | Semear logo depois de pôr palha nova: no começo da decomposição, alguns fungos soltam substâncias que atrasam a germinação, sobretudo em terra arenosa. Espere uma chuva forte lavar a palha antes de plantar
+a8-227 | Plantar sempre a mesma coisa no mesmo lugar: é a monocultura que cria os parasitas que acabam com ela. Variar as plantas muda os bichos do solo
+a8-267 | Mexeu na terra? Cubra rápido. A autora manda semear logo uma leguminosa que nasça depressa, antes de a chuva bater no chão pelado
+a8-444 | Semente de planta mal nutrida pode dar planta mal nutrida, que nem responde ao adubo: no livro, couve-flor com falta de molibdênio seguiu deformada mesmo adubada, e a semente de planta bem adubada deu planta normal até em terra pobre. Por isso vale tirar semente da planta mais bonita e bem cuidada
+a8-606 | Cavar fundo demais: a camada viva da terra raramente passa de 18 cm. Revirar abaixo dela enterra a terra boa e traz a "morta" para cima. Regra: no máximo 2 cm abaixo da camada fofa
+a8-607 | Ponto certo de umidade para mexer na terra: ela esfarela fácil e não suja os dedos. Molhada demais, a ferramenta alisa e cria uma camada dura por baixo
+k9-060 | Semeie na época certa: até a menor alface sabe quando é verão. Pesquise a época e o clima de cada semente antes de plantar
+k9-061 | Semente muito dura, como a do flamboyant, precisa ser lixada para brotar (escarificação). Na natureza quem faz isso é o ácido do estômago dos bichos
+k9-062 | Sementes duras e secas, como beterraba e grão-de-bico, brotam mais rápido se ficarem de molho em água de um dia para o outro
+k9-064 | Sementeira caseira: bandeja de ovo ou de isopor com uma camada bem fina de areia no fundo e substrato para mudas, semente coberta só com uma pitada de terra, borrifada e coberta com filme plástico furado, na claridade sem sol direto
+k9-066 | Truque da muda alta: em vez de ir direto para o canteiro, a muda passa uns 20 dias num saquinho de uns 15 cm, em sol fraco. Ela se adapta melhor e escapa de praga e doença, bom para tomate
+k9-067 | Alface e manjericão que começam a florir mudam o gosto: a folha perde o perfume e fica leitosa ou amarga, porque a planta põe tudo na flor. Colha antes
+k9-294 | Ficar com dó de colher: na horta, o que você não colhe a praga come
+k9-295 | Muda ou semente? A muda já vem crescida, perdoa uns dias sem rega e colhe rápido. A semente é frágil como bebê e morre fácil se a terra secar
+k9-296 | Semeie em lugar protegido e só passe a muda para o vaso definitivo quando ela tiver 3 ou 4 pares de folhas
+k9-306 | Vaso ou jardineira de 20 cm de altura basta para cebolinha, rabanete e salsinha
+k9-308 | Rabanete fica pronto em 28 dias, e as folhas novas também se comem, crocantes
+k9-310 | A cenourinha baby do pacotinho é uma variedade pequena? Mito: é cenoura grande cortada em pedaços e torneada
+k9-311 | Transplantar cenoura: ela deve ser semeada no lugar definitivo, senão a raiz entorta. Terra sem pedras também evita cenoura torta
+k9-322 | Alho brotando vira muda: cada dente gera uma cabeça. Plante em terra adubada, no sol, com um pedaço do dente para fora da terra para não apodrecer; colha em uns 4 meses

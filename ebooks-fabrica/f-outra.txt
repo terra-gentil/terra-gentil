@@ -1,0 +1,237 @@
+b1-11 | Raiz de yucca (planta ornamental) não é a mandioca: a confusão vem do nome parecido (yuca)
+b1-33 | Nome popular engana: a "palmeira" pata-de-elefante (Beaucarnea) não é palmeira
+b5-29 | Pata-de-elefante não é palmeira e a folha nem é suculenta: a água fica no tronco gordinho
+b5-30 | Pata-de-elefante é das poucas árvores suculentas que vivem bem dentro de casa
+b6-09 | Dragoeiro (Dracaena draco): a resina vermelha que escorre do tronco é o "sangue de dragão" que deu o nome
+b6-10 | Dracena-dragão: regue pouco e fundo, sem deixar a raiz encharcada
+b7-15 | Palmeira-de-madagascar (Pachypodium) não é palmeira; o tronco se divide em galhos depois que ela floresce
+b7-35 | Yucca não é para perto de casa: a base engrossa e quebra cano, empurra fundação e racha muro
+b7-36 | Yucca-baioneta: galho serrado e enterrado vira árvore pronta; aguenta areia e maresia
+n10-02 | O aparador de cerca viva deixa o corte certinho e bonito, mas não dá conta de galho grosso: para isso a ferramenta é a serra
+n10-03 | Soprador ou vassoura? O soprador compensa em área grande, onde limpar folha e resto de poda à mão fica pesado. Em quintal pequeno a própria cartilha diz que não vale
+n10-05 | O kit básico do jardineiro na cartilha do SENAR: ancinho, pá, sacho, enxada, cavadeira, vassoura, forcado, tesoura, faca e facão, serrote, machado e foice
+n10-17 | Planta na cidade baixa a temperatura, aumenta a umidade do ar, reduz a poluição e, no lugar do chão cimentado, deixa a chuva entrar na terra e diminui alagamento
+n10-18 | Semente se cobre com uma camada de substrato do tamanho dela. Semente fininha, tipo pó, só se espalha por cima, sem cobrir
+n10-19 | Sementeira pede rega duas a três vezes por dia até a hora de passar a muda para o lugar definitivo
+n10-21 | Amarílis e lírio nascem de bulbo, que não morre depois da flor; os bulbinhos que aparecem em volta viram mudas novas
+n10-22 | Helicônia, estrelítzia, agapanto, alpínia e gengibre ornamental se multiplicam por pedaço do rizoma, desde que o pedaço tenha pelo menos um broto (gema)
+n10-24 | Melhor hora de tirar estaca: depois da florada ou quando a planta está em descanso
+n10-25 | Estaca boa tem duas ou mais gemas e corte em bisel (na diagonal), que ajuda a enraizar e evita doença
+n10-27 | Plantar a estaca de cabeça para baixo: ela não enraíza. Confira qual lado é a base antes de enterrar
+n10-28 | No enxerto, o "cavalo" é a planta que dá a raiz e o "cavaleiro" é a parte de cima, tirada da variedade que se quer copiar. Na roseira o comum é a borbulha
+n10-29 | Alporque: tire um anel de casca do galho, envolva com musgo ou palha úmida e feche com plástico amarrado nas pontas. Em 30 a 60 dias aparecem raízes; aí corte o galho e plante
+n10-30 | O alporque serve para planta que não enraíza bem de estaca; camélia e jasmim-arbóreo são exemplos clássicos
+n10-31 | Mergulhia: dobre um galho flexível até o chão e enterre um trecho, raspando um pouco da casca. Enraizou? Corte da planta-mãe. Serve para trepadeira e arbusto de galho baixo
+n10-32 | Primeiro passo de qualquer jardim: tirar entulho, pedra, resto de obra e torrão de cima do terreno
+n10-33 | Largar o entulho da limpeza em qualquer canto: separe e mande para a caçamba, que é o descarte certo
+n10-34 | Terra dura? Solte com enxada e rastelo uns 5 cm; onde estiver muito compactada, vá até 10 cm
+n10-38 | Palhada (folha seca e resto de planta) por cima do canteiro segura a umidade e abafa o mato
+n10-42 | Desmanchar o torrão ao tirar a embalagem da muda: o estrago na raiz pode matar a planta
+n10-43 | Plantou árvore ou arbusto? Aperte a terra em volta do torrão, ponha um tutor, cubra com palhada e regue bastante até pegar; depois as regas podem espaçar
+n10-67 | Mato de jardim se divide em dois grupos: folha estreita (capins, tiririca) e folha larga (picão, caruru, beldroega)
+n10-68 | Os campeões de folha estreita na lista do SENAR: braquiária, capim-pé-de-galinha, grama-seda e tiririca
+n10-69 | Os campeões de folha larga: beldroega, caruru, picão-preto e trevo
+n10-71 | Mato: tire assim que nascer e der para ver, antes de fazer semente; se deixar, ele se espalha pela área
+n10-72 | Parte do mato chega no adubo: esterco com semente ou terra já cheia de semente. Antes de combater, veja de onde ele veio
+n10-74 | Terra fofa ajuda a arrancar o mato com a raiz inteira, e mato tirado com raiz inteira não rebrota
+n10-75 | Capinar e largar o chão pelado: o mato volta. Depois da capina, solte a terra, desmanche os torrões, adube e replante grama para cobrir
+n10-99 | Os três pilares do jardim para o SENAR: planta certa no lugar certo (sol ou sombra), substrato certo e rega na frequência certa
+n10-100 | Jardim largado custa caro: refazer dá trabalho e dinheiro, e manutenção constante sai mais barato. Jardim cuidado muitas vezes ainda valoriza o imóvel
+f11-14 | Balde de madeira ou de metal: madeira vaza quando seca e solta tanino; metal só se for inox. O melhor é plástico grosso
+f11-18 | Mexa todo dia e olhe a espuma fina de bolhinhas que sobe do fundo. Quando ela some (sem confundir com as bolhas grandes da mexida), é a hora de coar e guardar num galão cheio, sem ar
+f11-21 | Extrato de urtiga tem que feder? Não. Bem feito e parado na hora certa, cheira a xixi de vaca saudável. Fedor forte é sinal de que apodreceu
+f11-22 | Pulverizar extrato vai deixar o jardim fedendo? Uma jardineira que recebe visitas o verão todo pulveriza bem cedo e conta que em poucos minutos o cheiro some
+f11-23 | Coar o extrato antes de pulverizar, senão entope o bico. Vale peneira dupla, coador de cozinha, pano velho ou toalha. Filtro de café não, porque entope na hora
+f11-25 | Galão de extrato estufou? Ele voltou a fermentar. Abra a tampa para soltar o gás e feche de novo. Se perceber logo, não estraga. Depois de aberto, use tudo em até 2 meses
+f11-30 | Os erros que mais estragam a decocção: ferver tempo demais e ferver sem tampa. As substâncias boas vão embora com o vapor
+f11-31 | Extrato fermentado ou decocção? A decocção fica pronta no mesmo dia, mas dura só uma ou duas horas. Depois disso ela fermenta e tem que ser usada como fermentado
+f11-34 | Fazer infusão para guardar: ela não se armazena. O que sobrar aguenta só alguns dias na geladeira, numa garrafa PET
+f11-87 | Extrato caseiro mal feito: no teste, o comprado teve efeito maior que o caseiro em 10 de 15 casos. Os próprios jardineiros concluíram que falta rigor no preparo
+f11-88 | Quer saber se o extrato funciona? Divida as plantas em dois lotes e deixe um sem nada, para comparar. Anote datas, pese a colheita e repita o teste
+f11-90 | Na França houve a Guerra da Urtiga: uma lei passou a exigir homologação cara de todo produto para planta, e jardineiros se mobilizaram até arrancar uma pequena exceção para os preparados naturais simples. Na época do livro, esses preparados ainda eram só tolerados
+h12-01 | O nome popular de uma planta muda de uma região para outra: não confie só no nome nem só na foto para saber que planta é
+h12-03 | Colher erva na beira de estrada, em lavoura com agrotóxico, perto de esterqueira ou de água parada: a planta vem contaminada
+h12-04 | Na colheita, escolha a planta inteira e bonita, sem fungo nem doença aparente
+h12-06 | Secar erva em lugar ventilado e à sombra, nunca no sol; as partes duras se picam antes, para secar por igual
+h12-07 | Pote de erva seca suando por dentro? A secagem não terminou. Volte a secar; se mofar, jogue fora
+h12-08 | Guarde a erva seca em saco de papel grosso ou pote bem fechado, com o nome da planta e a data, e renove o estoque todo ano
+t13-01 | Para a veterinária, planta tóxica não é qualquer planta suspeita: é a que foi testada e provou fazer mal, e que o bicho come de verdade no dia a dia, com sinais de doença ou morte [PET:UFG]
+t13-02 | O jeito mais comum de cão e gato se intoxicar com planta é comendo a folha [PET:UFG]
+t13-03 | Planta de enfeite costuma ficar ao alcance do bicho dentro de casa, e a intoxicação pode vir de morder ou só de encostar [PET:UFG]
+t13-04 | A melhor prevenção é simples: planta tóxica fica onde o cão e o gato não alcançam [PET:UFG]
+t13-06 | Achar que planta de vaso é inofensiva: jiboia, espada-de-são-jorge, costela-de-adão e comigo-ninguém-pode estão entre as principais plantas tóxicas para cão e gato no Brasil, segundo a cartilha da UFG [PET:UFG]
+t13-07 | Várias tóxicas de casa são da mesma família, a das aráceas: jiboia, tinhorão, orelha-de-elefante, comigo-ninguém-pode e costela-de-adão. Todas têm cristais de oxalato de cálcio [PET:UFG]
+t13-08 | O oxalato de cálcio forma cristais em agulha: furam a boca e a garganta do bicho e causam dor e inchaço [PET:UFG]
+t13-09 | A azaleia, tão bonita no outono e inverno, intoxica cão e gato e também cabra e ovelha. O veneno se chama graianotoxina [PET:UFG]
+t13-14 | Caládio, tinhorão e coração-de-jesus são a mesma planta, a de folha em coração pintada de branco, verde, rosa ou vermelho. E é tóxica para cão e gato [PET:UFG]
+t13-16 | Orelha-de-elefante é o apelido das espécies gigantes de Xanthosoma, de folha em forma de guarda-chuva, vinda da América Central [PET:UFG]
+t13-17 | Taioba faz mal ao cachorro? Verdade: a cartilha põe taioba e mangarito entre os nomes do gênero Xanthosoma, que tem oxalato de cálcio e irrita boca e pele do pet. Não deixe o bicho mastigar a planta [PET:UFG]
+t13-23 | Bico-de-papagaio, flor-de-natal e poinsétia são a mesma planta. O colorido são folhas em volta de florzinhas amarelas [PET:UFG]
+t13-27 | Natal com pet: bico-de-papagaio na mesa baixa ou fora do alcance? Fora do alcance de verdade, lembrando que gato sobe em móvel: a planta da época está na lista de tóxicas [PET:UFG]
+t13-28 | Da dedaleira, planta europeia de flor em forma de dedal, sai a digoxina, remédio de coração para gente. No pet, a mesma substância intoxica [PET:UFG]
+t13-38 | O manacá-de-cheiro (ou beije-me-rápido) é tóxico na planta toda: o veneno mexe no sistema nervoso e deixa o coração do animal disparado [PET:UFG]
+t13-42 | Espirradeira (oleandro, loureiro-rosa, flor-de-são-josé) é tóxica em todas as partes, para gente e para bicho [PET:UFG]
+t13-44 | Espirradeira na cerca do quintal onde o cão fica solto: folha e flor são justamente o que intoxica quando comidas [PET:UFG]
+t13-54 | Lírio (Lilium) e hemerocale são perigosos sobretudo para o gato: a planta toda ataca o rim [PET:UFG]
+t13-56 | Buquê de lírio na casa com gato: flor de festa e de presente aumenta a exposição. Lírio só onde o gato não alcança de jeito nenhum, e gato sobe em móvel e mesa [PET:UFG]
+p14-01 | Antes de levar planta nova para casa com cão ou gato, pesquise o nome popular e o científico numa lista de toxicidade (a da ASPCA é a mais usada). Na dúvida, deixe fora do alcance [PET:ASPCA]
+p14-03 | Clorofito (gravatinha) está na lista de plantas não tóxicas para cão e gato da ASPCA [PET:ASPCA]
+p14-05 | Palmeira-camedórea (Chamaedorea elegans) e pata-de-elefante (Beaucarnea) são não tóxicas para cão e gato, segundo a ASPCA [PET:ASPCA]
+p14-10 | Peperômia (Peperomia obtusifolia) e bambu-dourado estão na lista de não tóxicas da ASPCA [PET:ASPCA]
+p14-11 | Flores de jardim seguras para cão e gato pela ASPCA: gérbera, rosa, girassol, zínia, calêndula, boca-de-leão, beijo (Impatiens) e hibisco-da-síria [PET:ASPCA]
+p14-12 | Jasmim-estrela (Trachelospermum jasminoides) é não tóxico para pet pela ASPCA, mesmo sendo da família da espirradeira e da rosa-do-deserto, que são tóxicas [PET:ASPCA]
+v15-01 | Nos Estados Unidos, 12% das intoxicações de cães e gatos de casa vêm de planta [PET:Ancara]
+v15-02 | Por que o pet mastiga planta? Tédio quando fica preso sozinho em casa, curiosidade e, no filhote, a troca dos dentes [PET:Ancara]
+v15-03 | Cachorro come capim para vomitar? Na maioria das vezes, não: num estudo, 79% dos cães saudáveis comiam capim e 87% não vomitavam depois [PET:Ancara]
+v15-04 | O gato tem menos tendência a comer planta do que o cachorro [PET:Ancara]
+v15-05 | A mesma planta pode fazer mais ou menos mal: depende de quanto o bicho comeu, de qual parte, da fase da planta, e da idade e saúde do animal. Até estação, clima e solo mudam o veneno [PET:Ancara]
+v15-07 | Achar que planta de vaso é segura: a lista de tóxicas para cão e gato da revisão inclui babosa, begônia, costela-de-adão e lírio-da-paz [PET:Ancara]
+v15-08 | Plantas de muro e quintal que também estão na lista de tóxicas para cão e gato: espirradeira, azaleia, manacá-de-cheiro, dama-da-noite e dedaleira [PET:Ancara]
+v15-09 | Planta de horta não faz mal ao pet? A lista de tóxicas para cão e gato traz o gênero da cebola e do alho (Allium) e o da uva (Vitis) [PET:Ancara]
+v15-18 | O cinamomo (Melia azedarach) é árvore de rua e de casa no mundo todo: cresce rápido, perde a folha no inverno e tem frutinhos amarelos quando maduros [PET:Ancara]
+v15-19 | O veneno do cinamomo, as meliatoxinas, fica concentrado no fruto e ataca o intestino e os nervos [PET:Ancara]
+v15-20 | Deixar o cão brincar com frutinho de cinamomo caído: o fruto é muito tóxico (folha, caule e flor, pouco), e os casos acontecem mais em cachorro [PET:Ancara]
+v15-26 | Na mamona, a planta toda é tóxica, principalmente a semente, rica em óleo e em ricina [PET:Ancara]
+v15-27 | A ricina da mamona está entre os venenos mais fortes de origem vegetal: trava a fabricação de proteína dentro das células. Todo animal é muito sensível a ela [PET:Ancara]
+v15-32 | A seiva leitosa do bico-de-papagaio é o que irrita: tem ésteres de forbol e substâncias parecidas com sabão [PET:Ancara]
+v15-36 | Os casos com bico-de-papagaio aparecem justamente na época das folhas vermelhas, o Natal [PET:Ancara]
+v15-37 | No narciso, o veneno se concentra no bulbo: alcaloides como a licorina, que dão vômito e diarreia, e cristais de oxalato que irritam [PET:Ancara]
+v15-38 | Deixar o pet beber a água do vaso de narciso: a intoxicação vem de comer a planta e também dessa água [PET:Ancara]
+v15-45 | Menos planta mordida: mais exercício e brincadeira, menos tédio, e mais tempo do dono junto do cão e do gato [PET:Ancara]
+g16-01 | Planta venenosa e gato na mesma frase assusta, mas o guia pede contexto: separa as plantas em quatro grupos. Perigo (doença grave ou morte, evitar), perigo raro (grave, mas o gato quase não come ou precisa comer muito), cautela (vômito, diarreia, irritação na boca e na pele) e segura [PET:Cats Protection]
+g16-02 | Planta segura para gato pode ser comida à vontade? Mito: segura quer dizer sem toxina conhecida, mas ainda pode dar dor de barriga se o gato comer [PET:Cats Protection]
+g16-04 | O gato não precisa morder o lírio: basta roçar na flor, o pólen cai no pelo e ele engole ao se lamber. Toda a planta é tóxica, até a água do vaso [PET:Cats Protection]
+g16-05 | Trocar a flor e esquecer a água do vaso: em lírio, lírio-do-vale, espirradeira e dedaleira, a própria água do vaso pode intoxicar o gato [PET:Cats Protection]
+g16-06 | Gato costuma ser exigente com o que come, e isso o protege, mas tem gato que mordisca tudo. No quintal ele se distrai e vai mais no capim conhecido; dentro de casa, entediado, mordisca mais e de tudo, inclusive vaso e buquê [PET:Cats Protection]
+g16-09 | Casa com gato: recolha logo galho podado e fruto caído, jogue longe do bicho e guarde bulbo fora do alcance [PET:Cats Protection]
+g16-10 | Plante grama para gato e erva-dos-gatos (Nepeta cataria) para distrair o gato das outras plantas. Esconderijo, prateleira alta e brincadeira frequente, sobretudo para gato que não sai de casa, também ajudam [PET:Cats Protection]
+g16-12 | Cica (Cycas revoluta) é a única planta de dentro de casa na categoria Perigo do guia: doença grave ou morte para o gato [PET:Cats Protection]
+g16-22 | Mais folhagens de casa em cautela para gato: ficus (benjamina, lira e falsa-seringueira), dracena, cheflera, café-de-salão (Aglaonema), iúca, tinhorão (Caladium) e orelha-de-elefante (Alocasia) [PET:Cats Protection]
+g16-24 | Bico-de-papagaio: cautela para gato, e a seiva pode irritar a pele só no contato. Trapoeraba-roxa e coração-roxo (Tradescantia) também irritam a pele [PET:Cats Protection]
+g16-25 | Manacá-de-jardim (Brunfelsia pauciflora), que lá fora chamam de "beije-me rápido" e de "árvore-da-chuva-do-Brasil": cautela para gato no guia [PET:Cats Protection]
+g16-31 | Plantas de casa seguras para gato: clorofito (gravatinha), peperômia, pilea, hoya (flor-de-cera), pachira (árvore-do-dinheiro), aspidistra, colar-de-corações (Ceropegia woodii) e ésquinanto (planta-batom). Palmeiras seguras: camedórea (Chamaedorea elegans), kentia e coqueiro; e a bananeira-anã [PET:Cats Protection]
+g16-33 | Espirradeira, dedaleira e lírio-do-vale estão em Perigo para gato no jardim, e nos três até a água do vaso com a flor cortada pode intoxicar [PET:Cats Protection]
+g16-34 | Todo lírio de verdade (Lilium) e o hemerocale são Perigo para gato, no jardim e no buquê: asiático, oriental, lírio-tigre, lírio-de-páscoa e afins [PET:Cats Protection]
+g16-35 | Azaleia e crisântemo estão em perigo raro para gato: podem causar doença grave, mas o gato quase nunca come o bastante. O crisântemo tem piretrina, a mesma substância de antipulgas de cachorro [PET:Cats Protection]
+g16-37 | Flores comuns em cautela para gato, no jardim e no buquê: hortênsia, gerânio, lantana (cambará), dália, cravo, mosquitinho, agapanto, gardênia, tulipa, narciso, ciclame e lavanda [PET:Cats Protection]
+g16-38 | Toda planta chamada lírio mata gato? Mito: copo-de-leite, amarílis e alstroeméria (lírio-peruano) são cautela, e o lírio-d'água (ninfeia), que nem é lírio, é seguro. O perigo é o Lilium e o hemerocale [PET:Cats Protection]
+g16-39 | Calêndula ou cravo-de-defunto (Tagetes)? Os dois são chamados de marigold em inglês, mas para gato a calêndula é segura e o cravo-de-defunto é cautela [PET:Cats Protection]
+g16-40 | Erva-dos-gatos ou nêveda-de-jardim? A erva-dos-gatos (Nepeta cataria) é segura; a prima ornamental Nepeta mussinii fica em cautela [PET:Cats Protection]
+g16-41 | Flores seguras para gato, no jardim e no buquê: rosa, girassol, gérbera, zínia, cosmos, amor-perfeito, petúnia, beijo (Impatiens), capuchinha, boca-de-leão, celósia, gazânia, frésia, lisianto, limônio (sempre-viva), camélia, jasmim e magnólia [PET:Cats Protection]
+g16-45 | No mato do quintal, o trevo-azedinho (Oxalis) está em perigo raro para gato, e a margarida e o trevo-branco (Trifolium) em cautela. Já o dente-de-leão é seguro [PET:Cats Protection]
+s2-08 | Borragem é tão amada pelas abelhas que ganhou o apelido de "pão de abelha"; folha nova e flor têm gosto de pepino
+s2-13 | Coentro e "coriander" são a mesma planta: o nome muda se você quer a folha ou a semente
+s2-14 | Coentro não gosta de ser transplantado nem de terra seca: os dois fazem ele florescer cedo; semeie direto no lugar
+s2-16 | Coentro perde o sabor seco, congelado ou dias na geladeira: colha só o que vai usar
+s2-17 | Endro (dill) atrai insetos que comem pragas, como vespas e moscas predadoras: plante no meio da horta
+s2-18 | Manjerona mimada perde sabor: em terra rica e com água sempre, o aroma não se desenvolve
+s2-19 | Manjerona e orégano de muda: mesmo da mesma semente, cada pé tem cheiro diferente; cheire antes de comprar
+s2-20 | Deixar a manjerona florir deixa a folha amarga: vá podando para segurar a flor
+s2-25 | Orégano fica mais gostoso com um pouco de sofrimento: nada de adubo e água só em seca de verdade
+s2-26 | Orégano vai bem em vaso com furo, mas não em vaso autoirrigável
+s2-27 | Orégano que floresce perde sabor: corte rente, a uns 5 cm do chão, antes da flor
+s2-39 | Sálvia não gosta de pé molhado nem de adubo: o sabor fica mais forte sem comida demais
+s2-40 | Estragão: não compre semente; o estragão francês, o da cozinha, só vem de muda; o russo não tem gosto
+s2-41 | Tomilho cresce melhor no descaso: terra pobre, arenosa e pouca água
+s2-42 | Tomilho quase não tem praga; o problema dele é fungo por água demais ou terra que não escoa
+q3-01 | Comprar planta exposta na calçada da loja: pega frio ou sol forte e a de flor é a que mais sofre
+q3-03 | Planta de flor: compre com muito botão por abrir; a que já está toda florida dura pouco
+q3-06 | Carro fechado é armadilha para a planta recém-comprada: no frio gela, no calor cozinha
+q3-07 | Planta nova em casa: tire o plástico logo, deixe uns dias num canto sem sol forte e só depois leve para o lugar dela
+q3-17 | A 2,4 m da janela chega só 5% a 10% da luz que bate no parapeito
+q3-18 | Gire o vaso um quarto de volta a cada poucos dias: a planta entorta procurando a luz
+q3-19 | Planta de flor pede mais luz que a de folhagem; mudar de repente do escuro para o sol forte faz mal
+q3-20 | Vidro limpo e parede clara dão mais luz para a planta, ainda mais no inverno
+q3-29 | Ar seco demais: ponta da folha enrola e seca, botão cai, folha perde o brilho
+q3-30 | Para dar umidade: junte as plantas em grupo ou ponha o vaso numa bandeja de pedrinhas com água abaixo do topo das pedras
+q3-31 | Borrifar à noite ou no sol: borrife de manhã; folha molhada à noite chama doença e a gota no sol queima
+q3-41 | Folha grande empoeirada recebe menos luz: limpe com pano úmido, nunca com a planta no sol
+q3-48 | Antes de viajar: feche a porta (sem corrente de ar e sem o pet derrubar vaso), cortina fechada no lado do sol
+q3-65 | Folha amarelando e caindo aos poucos: rega demais ou falta de adubo
+q3-66 | Botão de flor caindo: corrente de ar, ar seco, friagem ou a planta levou uma batida
+q3-67 | Mancha cor de palha na folha, principalmente na peluda: gota d'água que ficou e queimou no sol
+q3-78 | Mergulhia: dobre um ramo comprido sem quebrar e prenda na terra de outro vaso; onde aperta, solta raiz
+q3-82 | Clorofito (gravatinha): prenda o filhote da ponta do estolão num vaso vizinho e só corte quando ele brotar
+q3-90 | A calateia-pavão (Calathea makoyana) mudou de nome na botânica: hoje é Goeppertia makoyana, e antes já foi Maranta makoyana
+q3-91 | Clorofito apertado demais: a raiz incha e empurra a planta para fora do vaso, e a rega fica difícil
+q3-120 | Planta carnívora vive onde a raiz não acha nutriente: por isso caça inseto
+q3-121 | Carnívora não é fácil em casa: pede água de chuva limpa, ar úmido e luz indireta
+q3-122 | A dioneia fecha a "boca" quando o inseto encosta nos pelinhos de gatilho, digere e depois abre de novo
+k9-002 | Teste da bula: de dia, sem acender a luz, tente ler uma bula de remédio onde vai ficar o vaso. Leu fácil, cabe planta; o branco ofusca, é lugar de sol; precisou acender a luz, nenhuma planta de verdade vai viver ali
+k9-003 | Começar com mais vasos do que dá para cuidar sozinho, ou dividir a rega entre várias pessoas: um acha que o outro não regou e a planta morre afogada
+k9-004 | Antes de comprar, descubra o nome da planta, o tamanho que ela vai ter, se vai bem na sua cidade e se precisa de sol
+k9-006 | Tem planta do cerrado que floresce linda depois de pegar fogo: elas estão acostumadas com a seca e as queimadas da região
+k9-007 | Na dúvida sobre como cuidar, pesquise pelo nome científico: ele é a impressão digital da planta, e saber de onde ela vem ajuda a imitar o clima dela em casa
+k9-009 | Sol, meia-sombra ou sombra? Planta de sol pede umas oito horas de sol por dia; meia-sombra, umas quatro; sombra vive só de luz clara sem sol, que não é breu
+k9-010 | Em apartamento, deixe os vasos a no máximo três metros da janela ou da luz natural
+k9-011 | A folha fala: pálida, amarelada ou com grandes áreas brancas é sol demais; orquídea de folha verde-garrafa bonita que nunca mais floresceu está tomando sol de menos
+k9-012 | Levar o vaso do supermercado direto para o sol forte. Mesmo planta de sol fica uns dias só na claridade, e toda mudança de lugar é aos poucos, ao longo de semanas
+k9-013 | Sem água a raiz desce, bate no fundo do vaso, dá voltas na parede de dentro, onde há mais umidade, e às vezes sai do vaso atrás do vapor do ar
+k9-014 | Regar tanto que a água empoça no fundo: a terra vira pântano, a raiz fica sem ar, apodrece e abre a porta para doenças
+k9-023 | As plantas conversam pela raiz: uma árvore pode avisar as vizinhas que tem praga por perto e soltar substâncias que impedem outras plantas de crescer junto dela
+k9-024 | Quase toda planta cresce melhor em terra misturada com areia e composto orgânico: a areia deixa leve e porosa, o composto alimenta e enche de vida. Essa mistura se chama substrato
+k9-026 | Teste do solo com a mão: molhe um punhado de terra e tente fazer uma cobrinha e depois um anel. Nem fez a cobrinha, é arenoso; o anel ficou perfeito sem rachar, é argiloso
+k9-027 | Solo arenoso ou argiloso? O arenoso é leve e arejado, mas a chuva leva os nutrientes; o argiloso é pesado, areja mal, mas segura água e nutriente e é mais fértil
+k9-028 | Se um grão de areia fosse uma bola de futebol, o grão de argila seria do tamanho de um ponto-final
+k9-029 | A maioria das plantas gosta de pH entre 5,5 e 6,5. A hortênsia muda de cor com ele: azul em solo ácido, rosa em solo alcalino
+k9-030 | Teste caseiro do pH: dois copos com terra até a metade. Num, vinagre: se borbulhar, solo alcalino. No outro, bicarbonato e água: se borbulhar, solo ácido. Nada nos dois, solo perto do neutro. É um teste grosseiro: só mostra os extremos
+k9-031 | A terra do vaso baixa porque a planta "comeu"? Mito: fungos, bactérias, minhocas e outros bichinhos desmontam a matéria orgânica em nutrientes, e o volume diminui
+k9-043 | O alumínio é tóxico para muitas plantas, mas importante para as do cerrado
+k9-055 | Kit de jardinagem que você já tem: talher velho vira pazinha, palito de churrasco ou hashi vira tutor, palito de sorvete vira plaquinha, arame de saco de pão prende caule, meia-calça rasgada segura orquídea no tronco
+k9-069 | Muda de planta lenhosa: corte pontas saudáveis de uns 15 cm, em diagonal, e espete no substrato
+k9-070 | Confira as folhas por cima e por baixo com frequência, para ser mais rápido que a praga
+k9-071 | Touceira gigante sufoca a própria raiz: divida em mudas menores, com mais espaço. Dica boa para o capim-limão
+k9-073 | Planta morta não acaba: a raiz do feijão segue deixando nitrogênio no solo, e uma árvore seca vira casa de bromélias, orquídeas, musgos e passarinhos
+k9-074 | Planta doente? Não faça tudo junto (remédio, receita caseira, mudar de lugar, mais rega). Uma coisa por vez, com calma, para não piorar
+k9-075 | Primeiros socorros da autora: vaso maior com substrato adubado e palha por cima, luz ajustada aos poucos, rega farta no dia da troca e depois só com a terra seca. E esperar observando alguns dias
+k9-076 | Folha amarelou do dia para a noite? Pode ser intoxicação por adubo, remédio ou mata-mato
+k9-077 | Folha verde com grandes áreas secas: queimadura de sol. Folha esbranquiçada: sol demais ou falta de ferro
+k9-078 | Folha mordida na borda: lesma, caracol, lagarta ou formiga-cortadeira. Folha com furos: grilo, tesourinha ou besouro
+k9-079 | Pó branco tipo bolor em folha e caule é oídio, um fungo comum
+k9-080 | Folha secando a partir da ponta: vento demais ou ar muito seco. Folha e raiz moles com cheiro ruim: água demais e falta de ar no solo
+k9-081 | Flor caindo ainda em botão: corrente de vento ou mudança brusca de temperatura
+k9-082 | Formiguinha só nos botões estraga a flor? Não, segundo a autora: elas querem as gotinhas de açúcar que o botão solta. Se estiverem pela planta toda, procure pulgão
+k9-083 | Mancha em zigue-zague ou desenho de labirinto na folha: larva minadora, que vive dentro da folha
+k9-101 | Jataí, mandaçaia e outras abelhas sem ferrão são nativas do Brasil. Deixar o manjericão florir já ajuda a alimentá-las
+k9-102 | Só três espécies de morcego sugam sangue; as outras comem frutas, insetos e ratinhos, e um morcego pode espalhar mais de 500 sementes numa noite
+k9-103 | Sabiá e bem-te-vi comem muita praga. Água e fruta fresca no jardim atraem esses ajudantes
+k9-111 | Nem toda mancha é praga ou doença: mordida de cachorro, xixi de gato, pancada no transporte, sol e corrente de ar também marcam a folha
+k9-114 | A lua manda na plantação? A maioria dos cientistas diz que não, mas no campo ninguém corta bambu e madeira na lua cheia porque "enche de broca". A autora sugere testar em casa
+k9-220 | O agave-dragão, o agave mais vendido no Brasil e sem espinhos, solta uma haste de flor de quase 3 m. Depois de florir, a planta-mãe seca e morre, mas deixa várias mudas em volta
+k9-237 | Sol ou calor? Não são a mesma coisa: lugar com vento fica fresco mesmo com sol o dia todo, e janela virada para o oeste esquenta muito mesmo sem sol na manhã
+k9-238 | Sol pleno, de verdade, é lugar com cerca de 8 horas de sol direto por dia
+k9-240 | Antes de comprar planta, observe o canto por alguns dias: bate sol o dia todo ou só umas horas? Venta? E veja a altitude da cidade: quanto mais alta, mais seca
+k9-244 | Adubo e rega compensam a falta de sol? Mito: planta de sol forte não fica bonita na sombra, nem com carinho. Escolha a espécie que combina com a luz que você tem
+k9-247 | Planta de sol que "dá muita flor" costuma viver pouco: florir sem parar esgota a planta, que morre em meses, mas deixa muitas sementes
+k9-248 | Grama ou grama-amendoim? A grama-amendoim é brasileira, não é grama nem dá amendoim, dispensa poda e dá flor. Só não aguenta pisoteio
+k9-249 | Cada flor do lírio-de-um-dia dura 24 horas; no dia seguinte abre outro botão e a touceira segue florida [PET:UFG]
+k9-250 | Roseira não gosta de umidade e quanto mais podada, mais flor: tire flor seca e galho torto o ano todo e faça a poda forte, a uns 20 cm do chão, no fim do outono
+k9-252 | Primavera (buganvília) com folhas doentes e manchadas? É água demais: ela aguenta calor, mas reclama de excesso de rega
+k9-253 | Jabuticabeira é beberrona: quanto mais água, mais fruta. Em vaso, não deixe faltar adubo orgânico e proteja do vento
+k9-255 | Plantar iuca junto de muro e calçada: a raiz destrói piso e encanamento
+k9-256 | Jardim vertical que dá pouco trabalho na rega: uma colher de vermiculita misturada ao substrato de cada vasinho
+k9-258 | Não sabe se a planta nova é de sol ou de sombra? Vá mudando o vaso aos poucos para lugares mais ou menos ensolarados e observe
+k9-259 | Cróton é planta de sombra? Mito: é nativo de lugares ensolarados da Índia e da Malásia. Aqui é produzido em estufa sombreada, mas volta ao sol se for acostumado aos poucos
+k9-260 | Rustificação é acostumar aos poucos uma planta criada na sombra a voltar para o sol. Muita "planta de meia-sombra" de loja é, no fundo, de sol (e algumas, de sombra)
+k9-261 | Mudando a planta de lugar? Um pouco por semana. Se aparecer problema, não recomece: volte só um passo
+k9-262 | Planta variegada (folha com partes brancas ou amarelas) nasceu de uma mutação e precisa de mais luz que a versão toda verde
+k9-263 | Falso-íris ou orquídea? A flor azul dá a pista: orquídea azul de verdade é raríssima. O falso-íris dá flor o ano todo com terra fértil e úmida e 4 a 8 h de sol
+k9-264 | Azul é uma cor rara entre as plantas; muitas não conseguem produzir esse tom. O agapanto consegue e floresce azul ou branco o verão todo
+k9-267 | O "camarão" do camarão-vermelho não é flor: são brácteas, folhas especiais que chamam o polinizador. A flor de verdade é branca e pequena, e o beija-flor adora
+k9-275 | Folhagem de sombra mirrada e com ponta seca? Tire do vento e do ar-condicionado: a folha larga e fina foi feita para lugar úmido
+k9-276 | O primeiro terrário nasceu em 1830, quando o inglês Nathaniel Ward fechou terra e casulos num vidro e, meses depois, achou um matinho crescendo dentro
+k9-287 | Árvore-da-felicidade "macho" e "fêmea" precisam ficar juntas? Mito: são duas espécies e cada uma vive bem sozinha. É conversa para vender as duas
+k9-290 | Montar terrário em vidro reciclado ou esverdeado: ele trinca com a diferença de temperatura entre dentro e fora
+k9-291 | Usar areia da praia no terrário ou no vaso: ela tem sal
+k9-292 | Rega do terrário: duas ou três seringas de água escorrendo pelo vidro, na parte com musgo ou menos plantas, para evitar doença
+k9-293 | Terrário pronto fica tampado, num lugar com muita claridade e sem sol direto
+k9-301 | Lavanda murcha com a terra molhada? NÃO regue: provavelmente ela sofreu com a umidade do ar, e mais água só piora
+k9-320 | Caroço de abacate no copo: lave, deixe meio entalado no copo com só uma parte na água e tenha paciência, as folhas levam meses
+k9-321 | Coroa de abacaxi: tire as folhas de 1 cm da base, ponha num copo com água e ela enraíza em poucas semanas. Depois vai para o vaso, no sol
+k9-323 | Esquecer de trocar a água do copo do abacate ou do abacaxi: troque todo dia para não apodrecer nem cheirar mal
+k9-365 | Plantar dama-da-noite (Cestrum) perto da janela do quarto: o perfume noturno é tão forte que pode dar dor de cabeça
+k9-366 | Dama-da-noite é nome de duas plantas bem diferentes: um arbusto perfumado (Cestrum) e um cacto trepador de flor branca grande (Epiphyllum). Na dúvida, confira o nome científico
+k9-369 | Beija-flor é briguento e disputa o néctar da sanquésia no tapa. Para evitar a guerra, plante várias
+k9-370 | O Brasil tem pelo menos 330 espécies de abelhas nativas. As sem ferrão se defendem fazendo barulho ou se enroscando no cabelo
+k9-371 | Astrapeia, arbusto com cheiro de coco que ajuda as abelhas: tire as flores secas, que atraem moscas, e adube bem nos meses quentes para florir mais no inverno
+k9-372 | Borboleteira atrai borboleta? Mito: a flor parece uma borboleta azul, mas quem visita são as mamangavas

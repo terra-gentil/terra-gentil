@@ -1,0 +1,321 @@
+## EXCLUSIVOS DO TG 097
+n10-06 [trocar-vaso|Você sabia?] Substrato é qualquer meio em que a planta cresce fora do chão: segura a planta de pé e às vezes ainda dá nutriente. Fibra de coco, casca de arroz, perlita e até isopor entram na conta
+n10-10 [adubar|Você sabia?] Nitrogênio, fósforo e potássio são o que a planta mais consome; boro, cobre, ferro, zinco e outros entram em pouca quantidade, mas a falta de qualquer um pode deixar a planta fraca
+n10-56 [trocar-vaso|5 cuidados] Planta de vaso precisa de três coisas: substrato leve e bem drenado, água na medida e vaso de material certo para o lugar onde vai ficar
+n10-58 [trocar-vaso|5 cuidados] Montagem do vaso na ordem: drenagem, manta, um pouco de substrato, muda, resto do substrato, manta de novo, acabamento e rega
+n10-59 [trocar-vaso|Você sabia?] Pedrinha ou casca de pinus por cima da terra do vaso não é só enfeite: protege o solo e faz a água evaporar mais devagar
+n10-64 [trocar-vaso|Socorro] O torrão não sai do vaso de jeito nenhum? A cartilha manda quebrar o vaso para não machucar a planta
+f11-01 [adubar|Mito ou verdade?] Extrato de urtiga é adubo? Para os autores, não: a maioria dos extratos de planta não alimenta, estimula o crescimento e as defesas da planta (bioestimulante)
+s2-134 [adubar|5 cuidados] Amostra de terra para análise: tire de pelo menos 10 pontos da horta e misture
+s2-135 [adubar|3 erros] Coletar terra para análise até duas semanas depois de adubar estraga o resultado
+s2-145 [adubar|3 erros] Composto cru ou adubo verde recém-enterrado "prende" o nitrogênio por um tempo (no adubo verde, uma ou duas semanas): espere antes de plantar
+s2-150 [adubar|3 erros] Cinza de madeira dá potássio mas sobe o pH e pode queimar planta: só em terra testada e sem nada plantado
+s2-160 [adubar|Mito ou verdade] Segundo o autor, adubo químico deixa sal na terra e espanta os bichos do solo: nos EUA, o tordo (robin) quase não aparece no gramado adubado com químico, porque lá tem pouca minhoca
+q3-12 [trocar-vaso|3 erros] Terra do quintal no vaso: varia demais e pode trazer praga, doença e semente de mato; use substrato próprio
+q3-13 [trocar-vaso|3 erros] Areia fina (a macia, de reboco) no substrato compacta quando molha e não deixa o ar entrar; use areia grossa lavada
+q3-15 [trocar-vaso|X ou Y?] Substrato com turfa é leve e limpo, mas seca mais rápido e custa a molhar de novo; o de terra é mais pesado e segura mais
+a8-001 [solo|Você sabia?] Para a autora, desmanchar os "grumos" da superfície do solo (a terra fofa em bolinhas) é coisa pequena que derruba povos inteiros: traz fome e miséria
+a8-010 [solo|Você sabia?] Na África há desertos em lugares com 2.800 mm de chuva por ano: a água escorre por cima de uma crosta dura e não entra no chão
+a8-023 [solo|Você sabia?] Raiz que dobra de comprimento explora 8 vezes mais terra, e recebe 8 vezes mais água e nutriente
+a8-027 [solo|X ou Y?] Arado de discos e enxada rotativa, máquinas que revolvem rápido, deixam o solo mais compactado que as outras
+a8-040 [solo|Mito ou verdade] "O clima daqui não deixa a planta produzir." Para a autora, muito do que se põe na conta do clima é manejo errado do solo
+a8-046 [solo|Você sabia?] O problema não é tanto quanto nutriente há na terra, e sim quanto espaço a raiz consegue explorar
+a8-202 [solo|Você sabia?] Terra fofa é feita de grumos colados por uma geleia de bactérias que comem palha. A autora chama de "geleia bacteriana"
+a8-217 [solo|Você sabia?] Milhões de bichinhos vivem em cada metro quadrado de chão. Até 30 cm de fundura, a tabela do livro soma 619 gramas de bichos por metro quadrado, e uns 400 gramas são minhocas
+a8-218 [solo|Você sabia?] Sem nada para controlar, 1 miligrama de ameba do solo viraria 1 quilo em 12 dias. Quem segura são os outros bichos da terra
+a8-233 [solo|Mito ou verdade] Fungo na raiz é sempre ruim? Não. Quase toda planta vive com fungos amigos na raiz, as micorrizas, que buscam nutriente e água para ela
+a8-251 [solo|Socorro] Para a Primavesi, areia branca aparecendo na superfície da lavoura é sinal de terra compactada e de risco de praga
+a8-255 [solo|Você sabia?] Para destruir os grumos não precisa de trator: até as patas de uma saúva conseguem, e quanto mais úmido o chão, pior
+a8-261 [solo|Mito ou verdade] Erosão é coisa da natureza? Para a autora, é sintoma de solo doente: 95% dela vem da água que não consegue entrar na terra
+a8-401 [solo|Você sabia?] O pH do solo é como a febre: não é a doença, é o sinal de que algo vai mal. Corrigir só o número não resolve a causa
+a8-402 [solo|Você sabia?] A planta não vive de tudo o que a terra tem, só do que a raiz alcança e consegue dissolver. É como dinheiro: vale o que está na sua conta, não o cofre do banco
+a8-407 [solo|Você sabia?] Em terra arenosa, um pH bonito (6,5) não garante comida: a planta pode passar fome mesmo com o número "certo"
+a8-420 [solo|Você sabia?] Terra arenosa sente o erro de adubo bem mais rápido. A matéria orgânica funciona como amortecedor dos erros de adubação
+a8-426 [adubar|Você sabia?] Adubo em excesso não fica na terra: a chuva leva para rios e lagos, que se enchem de algas e a água fica viscosa
+a8-427 [adubar|Você sabia?] Frase que a autora cita de Voisin: o adubo é um instrumento maravilhoso quando bem aplicado e um perigo grave quando mal usado
+a8-440 [solo|Socorro] Se adubo na terra não faz efeito mas o de folha faz, o recado é claro: a terra está em péssimo estado (dura, sem ar) e precisa ser recuperada
+a8-636 [solo|Você sabia?] Erosão, enchente e seca são sintomas do mesmo problema: solo que perdeu a estrutura e não deixa a água entrar
+a8-646 [solo|Socorro] Muito cupinzeiro no pasto: quanto mais compacto e impermeável o solo, mais cupinzeiro aparece
+a8-647 [solo|Você sabia?] Onde cresce taquara a terra é mais produtiva: as raízes deixam o solo fofo e granulado
+a8-651 [adubar|Você sabia?] Adubo de curral, pela definição da autora: esterco misturado com 4 partes de palha e fermentado abafado, sem ar, por 3 meses
+k9-048 [trocar-vaso|Você sabia?] Truque da autora: marque com fita-crepe o lado da planta virado para o Norte e mantenha esse lado para o Norte no vaso novo; ela diz que a adaptação fica mais fácil
+k9-050 [trocar-vaso|5 cuidados] Terminou a troca de vaso? Regue muito, até molhar tudo. Nos dias seguintes, a terra só úmida na superfície, nunca encharcada; folha murcha é o primeiro sinal de falta de água
+k9-051 [trocar-vaso|5 cuidados] Drenagem barata: isopor picado (até de bandeja) no fundo do vaso, dois dedos em vaso pequeno e o dobro em vaso de mais de 40 cm, com jornal por cima para a raiz não descer até ele. Não tampe os furos
+k9-052 [trocar-vaso|5 cuidados] Para tirar a muda do vaso velho, aperte as bordas e puxe pelo caule, perto da terra: o torrão sai inteiro, e é mais fácil se estiver seco
+k9-053 [trocar-vaso|3 erros] Plantar fundo demais ou alto demais: o colo (onde raiz encontra caule) fica alguns dedos abaixo da borda, para caber a cobertura de palha
+k9-054 [trocar-vaso|5 cuidados] Plantou? Regue devagar até sair bastante água pelos furos e deixe uns dias em lugar arejado e sem sol antes de levar para o lugar definitivo
+k9-297 [adubar|3 erros] Horta de vaso com legume miúdo é falta de adubo: mesmo num vasinho, adube sempre, com regularidade, como produtor grande
+b24-600 [trocar-vaso|3 erros] Vaso de barro é poroso e seca rápido: forre por dentro com plástico-bolha antes de plantar
+b24-601 [trocar-vaso|5 cuidados] Pendure o vaso de flor na altura da cabeça, para ver as cores de perto
+h35-021 [solo|Você sabia?] Terra boa segura água e nutriente, mas deixa o excesso escorrer
+h35-022 [solo|Passo a passo] Teste da terra na mão: argila gruda e faz bolinha, areia arranha e esfarela, terra boa é sedosa e molda
+h35-023 [solo|Você sabia?] A maioria das hortaliças gosta de terra levemente ácida
+h35-025 [adubar|3 erros] Esterco só curtido, nunca fresco
+h35-027 [solo|Dica do Andre] Em vez de enterrar o composto, espalhe por cima: as minhocas puxam para dentro da terra
+h35-028 [solo|Você sabia?] Matéria orgânica abre a terra de argila e funciona como esponja na terra de areia
+h35-044 [trocar-vaso|Você sabia?] Substrato comum segura bem a água, mas se desmancha com o tempo; terra mais pesada mantém planta grande firme
+h35-046 [trocar-vaso|Passo a passo] Substrato usado poucas semanas (microverdes) dá para reaproveitar: tire os restos, misture adubo e complete
+h35-048 [adubar|5 cuidados] Tomate e abobrinha em vaso são comilões: adubo líquido toda semana
+h35-050 [trocar-vaso|Passo a passo] Furo do vaso: cubra com caco de vaso ou isopor quebrado para a terra não entupir
+h35-072 [solo|Você sabia?] Terra boa é terra ocupada: a raiz das plantas abre o solo e atrai fungos e bactérias do bem
+h35-103 [trocar-vaso|Passo a passo] Raiz enrolada no vaso: solte com os dedos antes de plantar, para ela crescer na terra nova
+h35-126 [trocar-vaso|5 cuidados] Ao mudar muda de vaso, mantenha o colo da planta na mesma altura em que estava
+h35-162 [adubar|5 cuidados] Ervas: regue com frequência, mas adube só uma vez por mês
+g32-004 [adubar|3 erros] Esterco demais onde não precisa é dinheiro jogado fora, e o que sobra escorre para a água do subsolo
+g32-021 [solo|Passo a passo] Canto que encharca: faça um poço de brita no ponto mais baixo para puxar a água
+g32-044 [solo|Mito ou verdade] Mito: precisa mudar a terra do quintal toda. Melhor é escolher planta que gosta da terra que você tem
+g32-045 [solo|Você sabia?] Planta do terreno conta como é a terra: urtiga mostra terra rica, trevo mostra terra pobre em nitrogênio
+g32-046 [solo|Passo a passo] Esfregue a terra nos dedos: se arranha é arenosa, se gruda é argilosa
+g32-047 [solo|X ou Y?] Terra argilosa ou arenosa? A argilosa é rica mas encharca e racha; a arenosa esquenta rápido e drena, mas segura pouco adubo
+g32-048 [solo|3 erros] Não pise nem mexa na terra encharcada: ela compacta e a raiz não consegue entrar
+g32-049 [adubar|Você sabia?] Colher tira nutriente da terra e quebra o ciclo da natureza; por isso a horta pede adubo
+g32-051 [solo|Você sabia?] Terra viva tem minhoca, ácaro, fungo e bactéria que soltam o alimento das plantas; elas gostam de terra arejada
+g32-052 [solo|Você sabia?] Terra arenosa vai ficando mais ácida com o tempo porque perde cálcio
+g32-458 [solo|Você sabia?] Na natureza quase não existe terra pelada: a cobertura segura a água junto da raiz
+g32-494 [adubar|3 erros] Nitrogênio demais favorece a ferrugem no alho-poró
+s28-045 [adubar|Dica do Andre] Muda que vai ficar mais tempo no vasinho: adubo líquido fraco, um terço da dose normal, uma vez por semana
+s28-135 [solo|Passo a passo] Preparar o canteiro: quebre os torrões com garfo, tire pedra e mato, misture composto curtido e passe o rastelo várias vezes nos dois sentidos
+s28-136 [solo|Dica do Andre] Ao passar o rastelo, ande de costas para não pisar na terra que você acabou de afofar
+s28-158 [adubar|Dica do Andre] Horta no vaso: adubo líquido equilibrado a cada duas semanas
+s28-245 [solo|Você sabia?] O substrato de semear é estéril: protege a semente dos fungos, mas não tem comida para a planta crescer
+i36-002 [solo|Passo a passo] Teste de solo na mão: esfregue a terra entre os dedos. Se arranha e esfarela quando aperta, é arenoso
+i36-003 [solo|Passo a passo] Teste do argiloso: faça uma salsicha de terra úmida e dobre num anel. Se não racha, o solo é de argila
+i36-004 [solo|Você sabia?] Solo arenoso perde adubo com chuva forte: a água leva os nutrientes embora
+i36-005 [solo|Você sabia?] Solo de argila é o mais fértil, mas encharca na chuva e vira tijolo rachado na seca
+i36-006 [solo|3 erros] Erro comum: pisar no barro molhado. Você estraga a estrutura do solo e piora a drenagem
+i36-007 [solo|Dica do Andre] Terra de cima é escura e rica; a de baixo é clara e pobre. Ao cavar, não traga a de baixo para cima
+i36-008 [solo|Passo a passo] Solo arenoso: cubra com uma camada de 10 cm de esterco curtido ou composto. Segura água e dá adubo
+i36-009 [solo|3 erros] Erro comum: usar areia de praia para drenar. Use só pedrisco ou areia lavada, sem sal
+i36-010 [solo|Mito ou verdade] Mito ou verdade: calcário e adubo químico juntos dão certo? Mito. Os dois não se misturam
+i36-011 [adubar|Você sabia?] Planta em vaso precisa de adubo depois de umas seis semanas: o adubo do substrato acaba
+i36-130 [trocar-vaso|Você sabia?] Arbusto em vaso pede vaso maior a cada dois anos, com terra nova
+i36-131 [trocar-vaso|Dica do Andre] Planta presa no vaso: deite o vaso e passe uma faca comprida rente à parede para soltar o torrão
+i36-132 [trocar-vaso|Passo a passo] Na troca de vaso, corte as raízes grossas em até um terço e deixe as finas: elas é que bebem água
+q34-005 [solo|3 erros] Erro comum: comprar terra preta rica para planta de clima seco. Planta de lugar seco não aguenta terra úmida
+q34-006 [solo|Dica do Andre] Antes de escolher a terra, descubra onde a planta vive na natureza e em que chão ela cresce
+q34-007 [solo|Você sabia?] Terreno em barranco perde terra na chuva forte, na enxurrada e no sol que racha
+q34-008 [solo|Você sabia?] O solo tem camadas: a terra de cima é escura de matéria orgânica, a de baixo é mais clara e dura, e embaixo vem a pedra
+q34-009 [solo|Dica do Andre] Cave um buraco de teste no quintal: a parede mostra as camadas do seu solo
+q34-010 [solo|Você sabia?] Solo argiloso é fértil porque o adubo gruda na argila, mas drena devagar e compacta se pisar molhado
+q34-011 [solo|Você sabia?] Solo arenoso esquenta rápido e drena fácil, mas a água leva o adubo e ele fica seco, pobre e ácido
+q34-012 [solo|Você sabia?] Terra boa de jardim (franca) mistura argila, areia e silte: fértil, drena e é fácil de trabalhar
+q34-013 [solo|3 erros] Erro comum: deixar solo siltoso descoberto. Chuva e vento levam embora. Cubra com planta ou palha
+q34-014 [solo|Você sabia?] Todo solo fervilha de fungos, algas e bactérias que entregam mineral para a planta
+q34-015 [solo|Passo a passo] Teste caseiro: pingue vinagre num punhado de terra. Se borbulhar, tem calcário
+q34-016 [solo|3 erros] Erro comum: testar o pH logo depois de pôr calcário ou adubo. Espere uns três meses
+q34-017 [solo|Mito ou verdade] Mito ou verdade: dá para mudar o pH do solo de vez? Mito. Gasta muito produto e o solo volta ao que era. Melhor escolher planta que goste dele
+q34-018 [solo|Socorro] Socorro, a folha amarelou e a colheita falhou várias vezes? Teste o solo: pode ser o pH
+q34-019 [solo|Você sabia?] pH 6,5 é o melhor para a maioria das plantas: o adubo fica disponível e a minhoca trabalha mais
+q34-020 [solo|Você sabia?] Solo ácido (pH 5 a 6) é o que azaleia e camélia adoram
+q34-021 [solo|Você sabia?] Em solo muito ácido, abaixo de pH 4,7, a bactéria não decompõe a matéria orgânica
+q34-022 [solo|Você sabia?] Solo alcalino prende o ferro e a folha amarela com nervura verde (clorose)
+q34-023 [solo|5 cuidados] Contra erosão: chão sempre coberto de planta o ano todo
+q34-024 [solo|Dica do Andre] Barranco que perde terra: estenda tela de juta ou fibra de coco e plante pelos furos. A tela se desfaz quando a planta pega
+q34-025 [solo|Dica do Andre] Embaixo de árvore onde nada pega, cubra o chão com casca ou cavaco para proteger o solo
+q34-064 [adubar|Você sabia?] A planta tira carbono, oxigênio e hidrogênio do ar. Do solo, o principal é nitrogênio, fósforo e potássio
+q34-078 [solo|Dica do Andre] Manta de tecido no canteiro: use só a que deixa a água passar, senão a chuva escorre e não chega à raiz
+q34-081 [solo|Você sabia?] Solo bem cuidado faz o resto do jardim ir junto: a saúde do solo é a base do cultivo orgânico
+q34-143 [adubar|Você sabia?] Confrei vira chá de adubo orgânico para a horta
+q34-167 [adubar|Você sabia?] Lã de ovelha no solo segura água, solta nitrogênio devagar e abafa o mato
+q34-168 [solo|Dica do Andre] Serragem e casca curtida, de madeira sem tratamento da sua região, viram cobertura barata que segura água
+q34-169 [solo|Você sabia?] Acícula de pinheiro como cobertura vira uma manta que o vento não leva, mas quase não aduba nem segura água
+w31-093 [adubar|Passo a passo] Chorume de urtiga: pique, cubra de água num balde, segure no fundo com um tijolo e espere umas semanas
+w31-105 [solo|Você sabia?] A terra do montinho de toupeira já vem esfarelada e serve de substrato de graça
+w31-127 [solo|Você sabia?] Cobertura orgânica como casca e cavaco se desfaz na terra e precisa de reposição. Pedra e cascalho não
+w31-130 [solo|Mito ou verdade] Mito ou verdade: cavar o canteiro todo ano é obrigatório? Mito. Cavar estraga a estrutura do solo
+w31-132 [solo|Passo a passo] Canteiro sem cavar: corte o mato rente, cubra de papelão, molhe e ponha 10 cm de composto curtido por cima
+w31-133 [solo|Você sabia?] No canteiro sem cavar o mato que nasce sai fácil com a mão, porque o composto é fofo
+w31-168 [trocar-vaso|Dica do Andre] Pedaço de meia-calça no fundo do vaso segura a terra e deixa a água sair. Filtro de café também serve
+## EXCLUSIVOS DO TG 098
+d5-01 [rosa-do-deserto|Você sabia?] A rosa-do-deserto junta duas coisas raras numa planta só: forma de escultura e muita flor por uma temporada longa. Quase nenhuma outra planta cultivada tem as duas
+d5-04 [rosa-do-deserto|Você sabia?] Na África e na Arábia ela tem vários nomes: rosa-do-deserto, lírio-impala, estrela-de-sabi e rosa-do-karoo
+d5-05 [rosa-do-deserto|Você sabia?] A rosa-do-deserto é novata na jardinagem: em 2009 fazia só uns 25 anos que era vendida em larga escala, e em pouco tempo as plantas selvagens foram muito melhoradas
+d5-08 [rosa-do-deserto|Você sabia?] Aquela base gorda da rosa-do-deserto se chama cáudice: é raiz ou caule inchado que funciona como a caixa-d'água da planta
+d5-09 [rosa-do-deserto|Você sabia?] As linhas vermelhas dentro da flor da rosa-do-deserto são guias de néctar: apontam o caminho até a recompensa para o polinizador
+d5-10 [rosa-do-deserto|Você sabia?] Depois da flor, a rosa-do-deserto faz um par de "chifres" de semente. Eles abrem no comprimento e soltam sementes com um tufo de pelos nas duas pontas, que voam com o vento
+d5-11 [rosa-do-deserto|Você sabia?] Em clima tropical quente o ano todo, a rosa-do-deserto pode crescer duas vezes mais rápido que no deserto do Arizona, onde os autores cultivam
+d5-14 [rosa-do-deserto|Você sabia?] Pétala de cor sólida e garganta escura é pista de que a sua rosa-do-deserto é híbrida com outra espécie (swazicum): a obesum pura sempre clareia perto do centro
+d5-18 [rosa-do-deserto|5 cuidados] A raiz gorda da rosa-do-deserto engrossa em poucos anos: na troca de vaso dá para subir a planta e deixar parte dela de fora, para ficar mais bonita
+d5-23 [rosa-do-deserto|Você sabia?] Para os autores, criar uma rosa-do-deserto de Socotra do tamanho das selvagens é projeto "para gente jovem e paciente"
+d5-26 [rosa-do-deserto|Você sabia?] A Tailândia cultiva rosa-do-deserto pelo menos desde os anos 1940; lá, até a varanda de prédio alto é cheia de plantas
+d5-27 [rosa-do-deserto|Você sabia?] Em 2009, quando o livro saiu, Taiwan era o centro mundial do melhoramento da rosa-do-deserto, com centenas de hectares plantados
+d5-28 [rosa-do-deserto|Você sabia?] Nos anos 1970, as rosas-do-deserto à venda tinham todas flor rosa, com um pico de floração de só dois a três meses. As cores e a flor quase o ano todo vieram do melhoramento
+d5-29 [rosa-do-deserto|Você sabia?] A 'Crimson Star', criada em 1985 por um dos autores, talvez tenha sido a primeira rosa-do-deserto não rosa no mercado, e florescia de 10 a 12 meses por ano
+d5-33 [rosa-do-deserto|Você sabia?] Na natureza toda rosa-do-deserto cresce na estação das chuvas de verão e descansa na seca, muitas vezes florindo justamente nesse descanso
+d5-45 [rosa-do-deserto|Você sabia?] Quando chegou aos EUA, nos anos 1970, a rosa-do-deserto ganhou fama de crescer devagar porque era tratada como planta de deserto, com pouca água. Na natureza ela vive em savana com chuva farta no verão
+d5-48 [rosa-do-deserto|3 erros] Tratar a rosa-do-deserto grande e antiga como muda: quanto maior e mais preciosa a planta, mais cauteloso deve ser na rega
+d5-63 [rosa-do-deserto|Você sabia?] Na Índia, a mesma variedade de rosa-do-deserto para de florir no verão do interior quente e continua florindo no litoral mais fresco de Mumbai
+d5-67 [rosa-do-deserto|Você sabia?] Nitrogênio puxa folha e segura a flor. Em excesso, deixa a rosa-do-deserto fraca, quebradiça e mais exposta a praga e doença; fósforo e potássio fazem caule e raiz fortes
+d5-71 [rosa-do-deserto|Você sabia?] O mesmo adubo pode ter números diferentes no rótulo: a fórmula americana mede os óxidos (P2O5, K2O) e a europeia mede o elemento puro
+d5-74 [rosa-do-deserto|Você sabia?] Os autores já cultivaram rosa-do-deserto em pedra-pomes pura e em turfa pura; um viveiro da Índia usa só fibra de coco grossa para tudo, de rosa-do-deserto a orquídea
+d5-76 [rosa-do-deserto|3 erros] Usar fibra de coco fina, tipo pó, na rosa-do-deserto: vira uma massa encharcada que sufoca a raiz. Use a fibra grossa
+d5-77 [rosa-do-deserto|5 cuidados] Antes de usar fibra de coco na rosa-do-deserto, deixe de molho alguns dias para sair o sal e o tanino
+d5-78 [rosa-do-deserto|3 erros] Plantar rosa-do-deserto em vaso de cerâmica caro: a raiz cresce até deformar e rachar o vaso. Só use se aceitar perder o vaso
+d5-79 [rosa-do-deserto|X ou Y?] Quer a rosa-do-deserto grande logo? Vaso maior a cada um ou dois anos, com água e adubo à vontade. Quer manter o tamanho? Vaso apertado, mais seca e pouco adubo; ela aguenta bem ficar apertada
+d5-81 [rosa-do-deserto|Socorro] A raiz rachou o vaso fora de época? Enrole o vaso com fita silver tape e espere a época certa de trocar: a fita aguenta um ano ou mais
+d5-82 [rosa-do-deserto|5 cuidados] Na troca de vaso da rosa-do-deserto não precisa desmanchar o torrão: é só passar inteiro para o vaso maior, completar com substrato novo e regar logo em seguida
+d5-83 [rosa-do-deserto|5 cuidados] Ao replantar a rosa-do-deserto mais alta, para mostrar a base gorda (o cáudice), deixe pelo menos metade das raízes finas de cima em contato com o substrato. A parte que estava enterrada é clara e queima no sol: proteja do sol pleno por algumas semanas até escurecer
+d5-84 [rosa-do-deserto|Você sabia?] Tem rosa-do-deserto de 20 anos ainda pequena: o segredo é vaso apertado e cultivo "duro", com menos água e adubo
+d5-85 [rosa-do-deserto|Você sabia?] Ao ar livre e no calor a rosa-do-deserto quase não tem praga. O problema aparece dentro de casa e em estufa, sobretudo em coleção grande
+d5-93 [rosa-do-deserto|Você sabia?] Rosa-do-deserto pode ter vírus (como o mosaico do pepino) sem mostrar sintoma, e mesmo assim passar para outras plantas por inseto ou por tesoura suja
+d5-99 [rosa-do-deserto|Mito ou verdade] Rosa-do-deserto precisa de poda para ficar com cara de bonsai? Depende: com boa luz e sem exagero de água e adubo, muitas ganham esse jeito sozinhas. Mas a obesum e seus híbridos, que são a maioria das vendidas, pedem mais poda e tendem a ficar com galho mole se não forem cultivadas no duro
+d5-103 [rosa-do-deserto|Você sabia?] A rosa-do-deserto poda a si mesma: galho morto de frio, ou sem luz e água, se separa com uma camada própria e não leva podridão para o resto. Depois de seco, sai com a mão
+d5-104 [rosa-do-deserto|X ou Y?] Cultivo generoso ou duro? Generoso (muita água, adubo e vaso grande) dá crescimento rápido, mas o caule cresce mais que o cáudice. Duro (sol máximo, menos água e adubo, vaso apertado) dá galho curto e firme, tecido mais resistente e cáudice proporcionalmente maior
+d5-105 [rosa-do-deserto|5 cuidados] O meio-termo dos autores: cultivo generoso até a rosa-do-deserto chegar quase ao tamanho desejado; depois, poda e cultivo duro para mantê-la compacta e não perder a planta já valiosa
+d5-106 [rosa-do-deserto|3 erros] Insistir numa rosa-do-deserto que não floresce mesmo bem cuidada: os autores mostram uma de três anos, fraca e sem flor, e dizem que o lugar dela é o lixo. Troque a planta ou enxerte uma variedade que floresça
+d5-107 [rosa-do-deserto|Você sabia?] Algumas variedades de rosa-do-deserto foram selecionadas para florir de 9 a 12 meses por ano; as melhores, com calor e luz, florescem quase o ano todo
+d5-110 [rosa-do-deserto|Você sabia?] Em clima tropical a rosa-do-deserto pode ir para o chão como planta de jardim: na Austrália tem uma num canteiro do meio da rua
+d5-111 [rosa-do-deserto|Você sabia?] A temporada de flor da rosa-do-deserto aumenta conforme a planta cresce: exemplar grande pode florir o dobro do tempo de uma planta de poucos anos
+d5-112 [rosa-do-deserto|Mito ou verdade] Um tempinho seco faz a rosa-do-deserto florir? Parece que sim, em muitas espécies e híbridos, mas os autores avisam que isso ainda não foi bem estudado
+d5-118 [rosa-do-deserto|Você sabia?] Tem gente cultivando rosa-do-deserto até em Kiev, na Ucrânia, com inverno de 24 graus negativos: fora no verão, dentro de casa aquecida no frio
+d5-138 [rosa-do-deserto|Você sabia?] Um dos vírus que atacam a rosa-do-deserto, o do mosaico do tabaco, passa por contato e pode chegar pela mão de quem fuma
+d5-147 [rosa-do-deserto|Você sabia?] O alporque é usado há milhares de anos, talvez primeiro na China; por isso também é chamado de "marcotagem chinesa"
+d5-148 [rosa-do-deserto|Você sabia?] Só uma rosa-do-deserto é conhecida por se multiplicar sozinha na natureza com o galho que encosta no chão e solta raiz (mergulhia, prima do alporque): a espécie ainda sem nome de Omã
+d5-149 [rosa-do-deserto|Você sabia?] Na cultura de tecidos (muda feita em laboratório), um pedacinho de planta pode, em teoria, virar milhões de mudas em um ano: em outras espécies, cada pedaço vira de 4 a 12 a cada 6 a 8 semanas. Na rosa-do-deserto o método ainda é pouco usado
+## COMPARTILHADOS (so estes, de qualquer dos dois livros)
+b6-10 [outra|5 cuidados] Dracena-dragão: regue pouco e fundo, sem deixar a raiz encharcada
+n10-68 [outra|Você sabia?] Os campeões de folha estreita na lista do SENAR: braquiária, capim-pé-de-galinha, grama-seda e tiririca
+f11-25 [outra|Socorro] Galão de extrato estufou? Ele voltou a fermentar. Abra a tampa para soltar o gás e feche de novo. Se perceber logo, não estraga. Depois de aberto, use tudo em até 2 meses
+h12-01 [outra|Você sabia?] O nome popular de uma planta muda de uma região para outra: não confie só no nome nem só na foto para saber que planta é
+t13-23 [outra|Você sabia?] Bico-de-papagaio, flor-de-natal e poinsétia são a mesma planta. O colorido são folhas em volta de florzinhas amarelas
+p14-12 [outra|Você sabia?] Jasmim-estrela (Trachelospermum jasminoides) é não tóxico para pet pela ASPCA, mesmo sendo da família da espirradeira e da rosa-do-deserto, que são tóxicas
+v15-26 [outra|Você sabia?] Na mamona, a planta toda é tóxica, principalmente a semente, rica em óleo e em ricina
+g16-25 [outra|Você sabia?] Manacá-de-jardim (Brunfelsia pauciflora), que lá fora chamam de "beije-me rápido" e de "árvore-da-chuva-do-Brasil": cautela para gato no guia
+s2-08 [outra|Você sabia?] Borragem é tão amada pelas abelhas que ganhou o apelido de "pão de abelha"; folha nova e flor têm gosto de pepino
+s2-27 [outra|3 erros] Orégano que floresce perde sabor: corte rente, a uns 5 cm do chão, antes da flor
+q3-48 [outra|5 cuidados] Antes de viajar: feche a porta (sem corrente de ar e sem o pet derrubar vaso), cortina fechada no lado do sol
+q3-122 [outra|Você sabia?] A dioneia fecha a "boca" quando o inseto encosta nos pelinhos de gatilho, digere e depois abre de novo
+k9-013 [outra|Você sabia?] Sem água a raiz desce, bate no fundo do vaso, dá voltas na parede de dentro, onde há mais umidade, e às vezes sai do vaso atrás do vapor do ar
+k9-030 [outra|Você sabia?] Teste caseiro do pH: dois copos com terra até a metade. Num, vinagre: se borbulhar, solo alcalino. No outro, bicarbonato e água: se borbulhar, solo ácido. Nada nos dois, solo perto do neutro. É um teste grosseiro: só mostra os extremos
+k9-076 [outra|Socorro] Folha amarelou do dia para a noite? Pode ser intoxicação por adubo, remédio ou mata-mato
+k9-103 [outra|Você sabia?] Sabiá e bem-te-vi comem muita praga. Água e fruta fresca no jardim atraem esses ajudantes
+k9-247 [outra|Você sabia?] Planta de sol que "dá muita flor" costuma viver pouco: florir sem parar esgota a planta, que morre em meses, mas deixa muitas sementes
+k9-256 [outra|5 cuidados] Jardim vertical que dá pouco trabalho na rega: uma colher de vermiculita misturada ao substrato de cada vasinho
+k9-276 [outra|Você sabia?] O primeiro terrário nasceu em 1830, quando o inglês Nathaniel Ward fechou terra e casulos num vidro e, meses depois, achou um matinho crescendo dentro
+k9-365 [outra|3 erros] Plantar dama-da-noite (Cestrum) perto da janela do quarto: o perfume noturno é tão forte que pode dar dor de cabeça
+w18-003 [outra|Você sabia?] As aráceas são a família mais usada como planta de casa porque têm folhagem linda e aguentam bem a luz e o ar de casa e escritório
+w18-046 [outra|Você sabia?] Uma arácea europeia imita um cogumelo dentro da flor: o mosquito põe ovo achando que é fungo, e de quebra leva o pólen
+w18-157 [outra|Você sabia?] Quando a flor-cadáver abriu num jardim da Flórida em 1998, o segurança usou máscara de gás e o jardineiro passou óleo de gaultéria para segurar o enjoo
+q3-267 [outra|Você sabia?] A fatsia é confundida com a mamona, mas são plantas diferentes
+q3-339 [outra|Passo a passo] Muda de tolmia: corte a folha com o filhote e prenda sobre a terra; quando enraizar, vaso próprio
+q3-414 [outra|Você sabia?] A nertera forma tapetinho de folha e se cobre de bolinhas laranja brilhantes
+q3-445 [outra|Você sabia?] A violeta-persa (exacum) tem flor roxa perfumada com miolo amarelo
+g32-414 [outra|Passo a passo] Capim-limão: colha o talo quando a base tiver a grossura de um lápis
+g32-427 [outra|Você sabia?] Gengibre gosta de sombra ou meia-sombra, coisa rara entre as plantas de comer
+g32-450 [outra|Você sabia?] A erva-luísa (lúcia-lima) tem folha com cheiro de limão para bebida e sobremesa
+s28-064 [outra|Passo a passo] Tutor de bambu em tenda: 5 a 7 varas grossas cravadas em círculo, amarradas no alto, e galhos finos trançados em volta na base e no meio
+s28-144 [outra|Dica do Andre] Endro (dill): semeie direto no lugar. As flores amarelas em guarda-chuva atraem polinizador
+s28-202 [outra|Dica do Andre] Pepininho demora para germinar: até três semanas é normal. Tenha paciência
+v19-032 [outra|Você sabia?] A alcachofra produz melhor no terceiro ano e deve ser trocada no quinto
+i36-012 [outra|Passo a passo] Fibra de coco em bloco: deixe de molho uns 20 minutos antes de usar
+i36-019 [outra|Você sabia?] Planta torta na loja é porque ninguém girou o vaso para o sol. Escolha a que cresceu por igual
+i36-039 [outra|5 cuidados] Deixe 5 cm entre a terra e a borda do vaso: espaço para a rega e para o pedrisco
+i36-050 [outra|Passo a passo] Canteiro novo: espalhe 5 cm de esterco curtido ou composto e misture na terra
+i36-104 [outra|Dica do Andre] Plante o arbusto com o lado mais bonito virado para onde você mais olha
+i36-126 [outra|5 cuidados] Muitas coníferas não rebrotam da madeira velha: apare a cerca pelo menos duas vezes por ano
+i36-141 [outra|Dica do Andre] Capim cheio de folha seca no meio: penteie a touceira com um rastelo de dentes finos
+i36-207 [outra|Passo a passo] Semente de erva: cubra com mistura de metade vermiculita e metade substrato fino, em lugar quente e claro
+i36-217 [outra|5 cuidados] Vaso pendurado molhado pesa muito: use gancho forte e regue antes de pendurar
+q34-001 [outra|Você sabia?] Jardim na praia sofre com vento forte e sal do mar. Olhe o que cresce bem na vizinhança
+q34-029 [outra|Você sabia?] Nome entre aspas simples, como 'Golden Showers', é cultivar: uma variedade criada pelo homem
+q34-047 [outra|Dica do Andre] Fuligem preta nas superfícies do quintal mostra que o ar está poluído
+q34-106 [outra|Dica do Andre] Deixe vãos no piso do quintal: a chuva entra no chão e você ainda planta neles
+q34-136 [outra|Você sabia?] Margaridinha-mexicana (Erigeron) forma tapete de florzinha branca que fica rosa, e se semeia muito
+w31-049 [outra|Dica do Andre] Cabo de pá quebrada vira chuço para abrir cova de alho e batata
+w31-166 [outra|Dica do Andre] Unha limpa no jardim: arranhe um sabonete antes. O sabão embaixo da unha não deixa a terra entrar
+s2-56 [horta|Você sabia?] Canteiro misturado também aguenta melhor a seca que o canteiro de uma planta só
+s2-141 [horta|5 cuidados] Teste do dedo: esfregue terra úmida; áspera é arenosa, lisa como farinha é siltosa, grudenta como manteiga é argilosa
+a8-005 [horta|Você sabia?] Semente pesada e cheia de reserva germina melhor: puxa água rápido e escapa dos fungos. Semente que não nasce apodrece na terra
+a8-444 [horta|Você sabia?] Semente de planta mal nutrida pode dar planta mal nutrida, que nem responde ao adubo: no livro, couve-flor com falta de molibdênio seguiu deformada mesmo adubada, e a semente de planta bem adubada deu planta normal até em terra pobre. Por isso vale tirar semente da planta mais bonita e bem cuidada
+x23-045 [horta|Você sabia?] Não tem regra que separe comida e flor: abobrinha e fava ficam lindas no canteiro de flores
+x23-052 [horta|3 erros] Prenda bem a beirada da rede de proteção para nenhum bicho ficar preso
+x23-074 [horta|5 cuidados] Para não precisar de veneno, evite as hortaliças mais difíceis e escolha as que a praga não procura
+h35-040 [horta|Você sabia?] Horta em vaso tem uma vantagem: dá para mudar o vaso de lugar atrás do sol ou da sombra
+h35-054 [horta|Dica do Andre] Verdura colhida bebê pode ser plantada mais junta, mas aí precisa de mais rega
+h35-065 [horta|Você sabia?] Nove vasos espalhados pelo quintal somam o mesmo espaço de plantio de um canteiro
+h35-116 [horta|Você sabia?] Plantando para cima, um espaço pequeno pode render o dobro ou o triplo
+h35-153 [horta|Dica do Andre] Jardineira de madeira com pezinhos: a água escorre e a base não apodrece no parapeito molhado
+h35-172 [horta|Você sabia?] Qualquer ervilha seca serve para broto de ervilha
+h35-213 [horta|Você sabia?] Fruta e hortaliça não crescem na sombra total: no mínimo meia-sombra
+h35-248 [horta|Passo a passo] Couve-rábano: colha do tamanho de bola de tênis, ou de bola de golfe na versão mini
+h35-263 [horta|Dica do Andre] Escarola menos amarga: cubra o pé com um prato ou amarre fechado por 10 dias antes de colher
+h35-294 [horta|Você sabia?] Endro tem raiz comprida e vai melhor semeado direto no lugar; flor e semente também se comem
+g32-002 [horta|3 erros] Erro comum: botar a horta onde sobra espaço, e não onde cada planta gosta de viver
+g32-015 [horta|Você sabia?] Tem sombra clara, meia-sombra e sombra fechada; atrás da garagem, onde o sol nunca bate, é sombra fechada
+g32-036 [horta|3 erros] Cuidar demais da planta deixa ela mole e espichada, mais fácil para praga e doença
+g32-083 [horta|5 cuidados] Bertalha: 30 cm entre plantas, composto farto e uma vara ou barbante de pelo menos 2 metros para subir
+g32-107 [horta|Você sabia?] A physalis é do Peru; a fruta madura cai dentro da casquinha de papel e dura semanas guardada
+g32-123 [horta|Você sabia?] A beldroega rasteira de folha miúda cobre o chão em lugar seco
+g32-144 [horta|Você sabia?] Alcachofra de semente leva mais de um ano para dar botão; muda comprada é mais rápida
+g32-162 [horta|Você sabia?] Abobrinha, abóbora, melão e pepino crescem a olho nu com sol, calor e umidade
+g32-186 [horta|Socorro] Lagarta e passarinho no brócolis: tela de 5 mm, afastada das folhas
+g32-239 [horta|Dica do Andre] Tela contra borboleta precisa ficar longe das folhas; ajuste conforme a couve cresce
+g32-253 [horta|Socorro] Lagarta na couve-rábano: cubra com tela de 5 mm
+g32-276 [horta|X ou Y?] Framboesa de verão dá no ramo do ano anterior, que depois morre; a de outono dá no ramo do próprio ano
+g32-290 [horta|Você sabia?] A murta-do-chile (Ugni) dá frutinha com gosto de abacaxi e morango e vai na sombra
+g32-310 [horta|Passo a passo] Canteiro de frutinhas: arrume os vasos no lugar, fotografe, cave covas um pouco maiores que o torrão e cubra tudo com 4 a 5 cm de cobertura
+g32-322 [horta|Você sabia?] A groselha-preta dá fruto no ramo novo, de 1 a 3 anos; vá tirando os ramos velhos
+g32-338 [horta|3 erros] Folha de diabelha no sol forte fica dura e amarga: prefira sombra
+g32-346 [horta|Você sabia?] A alcachofra-chinesa (Stachys) dá tubérculos e aguenta sombra
+g32-364 [horta|Dica do Andre] Galho podado vira tutor de feijão, e graveto vira cerquinha trançada
+g32-372 [horta|Dica do Andre] Folha que endurece: corte a touceira rente de tempos em tempos e ela volta macia
+g32-381 [horta|3 erros] Bambu vai em quase toda terra, menos a encharcada
+g32-463 [horta|Você sabia?] Galho de bambu, de poda ou de árvore do quintal vira tutor de feijão e de tomate de graça
+s28-127 [horta|Dica do Andre] No pacote, procure variedades "anã", "baby" ou "mini": foram feitas para vaso e costumam ficar prontas mais rápido
+s28-151 [horta|Dica do Andre] Para criança pequena, escolha o que se come direto do pé, como bala: tomate-cereja e ervilha-torta. Rabanete ela mesma colhe
+i36-177 [horta|Passo a passo] Segure a muda de horta pelo torrão, nunca pela folha, e deixe o topo do torrão logo abaixo da terra
+i36-245 [horta|Mito ou verdade] Mito ou verdade: podar muito a frutífera dá mais fruta? Mito. Ela responde com muita folha e pouca fruta
+w31-073 [horta|Passo a passo] Rotação em três canteiros: batata e raízes, depois feijão e ervilha, depois couve e repolho. Gira um por ano
+w31-194 [horta|Passo a passo] Horta fechadura: canteiro redondo com cesto de tela no centro para o composto. Terra mais alta no meio que na borda
+f11-76 [mato|3 erros] Deixar mato no pé da frutífera: a concorrência por nutriente atrapalha, e muito problema some limpando a coroa. Cuidado com a roçadeira, que machuca a raiz que aflora
+z7-08 [mato|Você sabia?] A capina com enxada talvez seja o jeito de tirar mato mais usado na agricultura brasileira, mesmo com a mão de obra cara
+z7-26 [mato|Você sabia?] Guanxuma (vassourinha) tem caule tão fibroso que já foi usada para fazer vassoura
+z7-40 [mato|Você sabia?] Joá-bravo tem espinho até nas nervuras da folha
+z7-53 [mato|Você sabia?] Balãozinho é trepadeira de 3 a 5 m, de rama fina e listrada
+a8-616 [mato|5 cuidados] Os 5 estragos da queimada sem controle: não devolve matéria orgânica, deixa o chão exposto à chuva, compacta, deixa o solo repelente à água e cria um mato próprio do fogo
+g32-219 [mato|Você sabia?] Mato perene tem raiz teimosa: a cavalinha chega a 2 metros de fundura
+e22-004 [mato|Mito ou verdade] Mito: todo mato é ruim. Muitos alimentam inseto e passarinho, e a urtiga até vira sopa
+e22-016 [mato|Você sabia?] Estolão é um caule que corre por cima da terra e solta plantas novas
+e22-026 [mato|Você sabia?] O "tapete" de mato na terra pelada protege o solo e segura nutriente que a chuva levaria
+e22-038 [mato|Você sabia?] O agrião-bravo (Cardamine) tem vagem que explode e joga semente a 1 metro
+e22-047 [mato|Você sabia?] A flor da buva chama abelha e mariposa, e a semente alimenta passarinho
+e22-059 [mato|Você sabia?] A alface-brava vira a folha de cima seguindo o sol: chamam de "planta-bússola"
+e22-071 [mato|Você sabia?] A erva-de-bicho (Persicaria) tem uma mancha escura no meio da folha e flor rosa que chama borboleta e abelha
+e22-085 [mato|Você sabia?] Um pé de serralha pode soltar 20 mil sementes
+e22-093 [mato|Você sabia?] Mato perene que some no frio imita o aspargo e o morango: por isso é tão difícil de tirar
+e22-103 [mato|5 cuidados] Bulbinho de mato rebrota fácil: descarte com cuidado
+e22-114 [mato|Você sabia?] A grama-de-ponta (Elymus) solta brotos em fileira porque o rizoma cresce em linha reta
+e22-122 [mato|3 erros] Cavalinha chega ao quintal na terra comprada: peça terra de fornecedor de confiança
+e22-134 [mato|Você sabia?] No Japão a sanguinária-japonesa é tímida porque tem inimigos naturais; fora de lá vira praga que nem o veneno segura
+e22-143 [mato|Você sabia?] Um pé de dente-de-leão vive mais de 10 anos e cada "relógio" solta umas 5 mil sementes
+e22-155 [mato|Passo a passo] Canteiro falso: prepare a terra, deixe sem semear, espere o mato nascer e corte raso com enxada sem revirar; depois semeie
+w31-090 [mato|Você sabia?] Mato é só planta no lugar errado. Muito mato bom serve à fauna
+e22-051 [mato|3 erros] Leiteiro (Euphorbia) tem seiva que irrita pele, boca e olhos: arranque de luva e lave as mãos
+n10-98 [praga|Você sabia?] O mato também esconde vírus de planta: tirar a invasora faz parte do controle de virose
+q3-49 [praga|5 cuidados] Prevenir é mais fácil que curar: compre de lugar confiável, olhe a planta antes e confira a raiz ao trocar de vaso
+a8-215 [praga|Você sabia?] Lavoura em terra recém-desmatada quase não tem praga. Conforme o solo se degrada, as pragas aparecem; depois de 3 anos de cultivo intenso, como o de horta, as defesas acabam. Para a Primavesi, a saúde da planta está ligada à saúde do solo
+k9-298 [praga|Você sabia?] Planta carnívora caça mosca, mosquito e outros insetos, e a autora sugere ter uma perto da horta. Nasce na beira de rio, de solo pobre, e por isso aprendeu a caçar. Ela quer sol forte e vaso com esfagno sempre encharcado
+h35-130 [praga|Você sabia?] Oídio é um pó branco na folha que aparece muito quando falta água; tire as folhas atacadas logo
+h35-317 [praga|X ou Y?] Míldio vem com tempo úmido; oídio, o pó branco, vem com seca e planta estressada
+g32-489 [praga|Socorro] Míldio: plante espaçado para o ar correr, regue de manhã e tire as folhas doentes logo
+s28-168 [praga|Dica do Andre] Muda de brócolis e couve: cubra com tela para lagarta e passarinho não comerem
+i36-289 [praga|Você sabia?] Planta atacada pela praga pode se recuperar sozinha se você tirar a parte comida
+p29-104 [praga|Dica do Andre] Pulgão sai com a mão ou com jato fraco de mangueira
+q3-25 [regar|3 erros] Medidor de umidade é preciso, mas espetar a sonda toda hora machuca a raiz
+a8-042 [regar|Mito ou verdade] A raiz aguenta tão mal o excesso de água quanto a falta. Quase nenhuma planta de cultivo, fora o arroz, cresce em terra saturada
+h35-004 [regar|3 erros] Muro e cerca seguram a chuva: a planta encostada neles pode ficar seca mesmo depois de chover
+h35-140 [regar|Passo a passo] Antes de plantar, mergulhe o vaso da muda num balde até parar de sair bolha
+s28-077 [regar|Dica do Andre] Antes de regar o vaso, cave uns 5 cm com o dedo: só regue se estiver seco lá embaixo
+i36-258 [regar|Mito ou verdade] Mito ou verdade: aspersor rega bem o canteiro? Mito. Muita água evapora ou bate na folha e não chega à raiz
+q34-084 [regar|Dica do Andre] Caixa de chuva com ladrão: quando enche, o cano manda o excesso para um canteiro em vez de transbordar
+w31-142 [regar|5 cuidados] Antes de viajar: vasos na sombra, sobre toalha úmida e bem regados
+w31-170 [regar|Dica do Andre] Olla: vaso de barro sem verniz, furo tapado com rolha, enterrado ao lado da planta e cheio de água
+t37-013 [arvore|Você sabia?] A nogueira-preta solta pela raiz uma substância que atrapalha as plantas em volta
+t37-031 [arvore|Você sabia?] Cidade é mais quente que o campo: calçada, asfalto e parede guardam o calor do sol como um aquecedor
+t37-041 [arvore|Você sabia?] Seca forte ou calor extremo fazem a árvore parar de crescer
+t37-053 [arvore|Você sabia?] A árvore "solta" a folha por uma camada de células no cabinho, sem deixar ferida
+t37-067 [arvore|Você sabia?] Árvore frutífera conduzida em leque ou em andares na parede ou na cerca dá muita fruta em pouco espaço
+i36-151 [arvore|Mito ou verdade] Mito ou verdade: encher o buraco da árvore de composto ajuda? Mito, salvo em solo pobre ou arenoso: a raiz não sai procurando comida
+h35-088 [abelha|Você sabia?] Abobrinha e morango só dão fruto se um inseto polinizar a flor
+e22-061 [abelha|Você sabia?] O lâmio-roxo (urtiga-morta) dá néctar cedo, quando as abelhas estão fazendo ninho
+t37-044 [abelha|Você sabia?] Debaixo de uma árvore frutífera florida só se ouve o zumbido das abelhas

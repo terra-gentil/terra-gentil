@@ -1,0 +1,14 @@
+﻿{
+    "livro":  "TG 047",
+    "estilo":  "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+    "fotos":  [
+                  {
+                      "id":  "tre-var-tumbergia",
+                      "especie":  "blue thunbergia",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Blue trumpet vine (Thunbergia grandiflora) in bloom",
+                      "mascote":  false
+                  }
+              ]
+}

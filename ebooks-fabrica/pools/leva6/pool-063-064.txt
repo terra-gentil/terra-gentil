@@ -1,0 +1,324 @@
+## EXCLUSIVOS DO TG 063
+m33-250 [berinjela|5 cuidados] Semente de berinjela germina melhor se ficar 24 horas de molho em água morna
+m33-251 [berinjela|5 cuidados] Berinjela vai para o canteiro com 8 a 10 cm, no sol pleno, com 60 a 75 cm entre os pés
+m33-284 [quiabo|5 cuidados] Semente de quiabo fica 24 horas de molho antes de plantar para germinar melhor
+m33-285 [quiabo|Você sabia?] O quiabo se colhe de 8 a 11 semanas depois de plantado
+m33-286 [quiabo|5 cuidados] Desbaste o quiabo deixando 20 cm entre as mudas
+m33-305 [melancia|Passo a passo] Para ajudar a melancia a dar fruto, passe o pólen da flor macho para a fêmea, que tem uma melancia miudinha na base
+m33-306 [melancia|Você sabia?] A melancia se colhe de 11 a 14 semanas depois da polinização
+m33-307 [melancia|5 cuidados] Melancia: duas sementes por cova a 90 cm, depois deixe só a muda mais forte
+m33-308 [pepino|3 erros] Muda de pepino não gosta de transplante: em lugar quente, semeie direto
+m33-309 [pepino|5 cuidados] Semente de pepino a 2 cm, num montinho de terra para a raiz ficar quente e drenada
+m33-310 [pepino|5 cuidados] Pepino quer terra rica, que segure umidade e escoe bem
+m33-311 [abóbora|5 cuidados] Semente de abóbora germina mais rápido se ficar a noite de molho
+m33-312 [abóbora|Passo a passo] Abóbora: 2 ou 3 sementes por copinho e deixe só a mais forte antes de levar para o montinho de terra
+m33-313 [abobrinha|Você sabia?] Abobrinha, abóbora e moranga são todas do mesmo gênero, a Cucurbita
+h35-117 [pepino|Passo a passo] Pepino em vaso: três bambus amarrados em tenda e barbante enrolado de baixo para cima para ele subir
+h35-118 [pepino|5 cuidados] Pepino é sedento: terra sempre úmida
+h35-119 [pepino|Você sabia?] Cada pé de pepino dá até uma dúzia de frutos no verão
+h35-129 [pepino|Dica do Andre] Roda velha de bicicleta presa no muro vira treliça: a gavinha do pepino se agarra nos raios
+h35-132 [pepino|5 cuidados] Pepino fica melhor colhido com 20 a 25 cm, de casca macia; colher sempre faz a planta dar mais
+h35-143 [abobrinha|Dica do Andre] Sacola retornável de mercado vira vaso de abobrinha: uma planta por sacola
+h35-144 [abobrinha|Você sabia?] Um pé de abobrinha bem regado e adubado dá até 20 frutos: muitas vezes um basta
+h35-145 [abobrinha|5 cuidados] Abobrinha: colha nova, de casca fina; ela fica gigante assim que você vira as costas
+h35-154 [abobrinha|Dica do Andre] Abóbora sobe em treliça: amarre os ramos com barbante macio e ganhe espaço
+h35-155 [abobrinha|5 cuidados] Afaste as folhas que fazem sombra no fruto da abóbora para ele amadurecer por inteiro
+h35-189 [abobrinha|Você sabia?] Flor de abóbora é iguaria: colha a flor macho de cabo comprido e deixe a fêmea virar fruto
+h35-190 [abobrinha|3 erros] Abobrinha é vigorosa: uma por cova, não plante duas
+h35-200 [berinjela|5 cuidados] Berinjela com 25 cm: belisque a ponta para ela ramificar; adube toda semana depois da flor
+h35-201 [berinjela|3 erros] Berinjela não gosta que mexam na raiz: semeie uma por vasinho
+h35-221 [abobrinha|5 cuidados] Abobrinha se rega no pé e se colhe com 13 a 15 cm, sem machucar o caule
+h35-222 [abobrinha|Você sabia?] Abobrinha fica pronta em 8 a 12 semanas e precisa de uns 90 cm de espaço
+h35-223 [berinjela|5 cuidados] Berinjela quer terra rica, calor e umidade; quando tiver 4 a 6 frutos, corte a ponta principal
+h35-224 [berinjela|Você sabia?] Berinjela é demorada: 24 a 28 semanas da semente à colheita
+h35-225 [abobrinha|3 erros] Abóbora é comilona e sedenta, mas apodrece fácil: molhe a terra, não as folhas e o caule
+h35-226 [abobrinha|Dica do Andre] Abóbora subindo na vara poupa espaço e o fruto não encosta na terra para apodrecer
+h35-227 [pepino|Você sabia?] Pepino precisa de calor, muita água, terra rica e tempo: 16 a 20 semanas
+h35-228 [pepino|3 erros] Pepino de estufa: tire a flor macho (a sem pepininho no cabo) para o fruto não ficar amargo
+g32-008 [abóbora|Você sabia?] Abobrinha e abóbora adoram crescer ao lado do monte de composto
+g32-019 [abobrinha|Você sabia?] Abobrinha, pepino e abóbora são uns 95% água: por isso pedem rega farta
+g32-093 [berinjela|5 cuidados] Berinjela vai melhor em vaso de 30 cm, amarrada numa vara firme, úmida mas nunca encharcada
+g32-094 [berinjela|3 erros] Berinjela passou do ponto quando a casca perde o brilho e enruga: colha antes
+g32-095 [berinjela|Socorro] Ácaro-rajado na berinjela: borrife água nas folhas para espantar
+g32-096 [berinjela|Você sabia?] Tem berinjela branca, roxa e até roxa listrada de branco
+g32-097 [berinjela|5 cuidados] Berinjela florindo: adubo rico em potássio a cada 6 a 10 dias
+g32-163 [abóbora|5 cuidados] Abóbora: muito esterco curtido na cova, 1 metro entre plantas e rega farta nas primeiras semanas
+g32-164 [abóbora|Dica do Andre] Enterre uma garrafa de boca para baixo ao lado da abóbora: vira reservatório e ainda ajuda contra o oídio
+g32-165 [abóbora|Dica do Andre] Pouco espaço? Faça a abóbora subir num tripé ou num arco
+g32-166 [abóbora|Passo a passo] Colha a abóbora madura com um pedaço do cabo e deixe a casca curar no sol antes de guardar
+g32-167 [abóbora|Você sabia?] Da abóbora se come também a ponta do ramo no vapor e a flor recheada e frita
+g32-168 [abóbora|Você sabia?] A abóbora foi domesticada na América Central
+g32-176 [abobrinha|Você sabia?] Um ou dois pés de abobrinha bastam para a casa toda a temporada inteira
+g32-177 [abobrinha|5 cuidados] Abobrinha: composto farto, 1 metro entre plantas e rega na seca
+g32-178 [abobrinha|3 erros] Abobrinha deixada crescer demais perde sabor e a planta dá menos: colha pequena
+g32-179 [abobrinha|Dica do Andre] Corte a abobrinha com faca afiada para não machucar o pé
+g32-180 [abobrinha|Você sabia?] Tem abobrinha amarela, listrada e em forma de disco
+g32-181 [abobrinha|Você sabia?] Tem abobrinha que sobe em tutor, boa para quintal pequeno
+g32-212 [pepino|5 cuidados] Pepino gosta de abrigo e de terra úmida mas que drena
+s28-153 [abóbora|5 cuidados] Abóbora: sol, terra bem adubada, um montinho de terra com a muda no meio e rega em volta do monte, não em cima da planta
+s28-154 [abóbora|Dica do Andre] Abóbora crescendo: apoie numa telha ou pedra chata para não encostar na terra úmida e apodrecer
+s28-155 [abóbora|Dica do Andre] Semente achatada de abóbora vai de lado no vasinho, uma por vaso
+s28-177 [pepino|Dica do Andre] Pepino com três pares de folhas: belisque a ponta
+s28-178 [pepino|5 cuidados] Pepino trepa: precisa de tutor ou rede, vaso de pelo menos 30 cm e rega na base, nunca por cima
+s28-179 [pepino|Você sabia?] O pepino nasce atrás da flor fêmea
+s28-180 [pepino|Dica do Andre] Pepino tem mais sabor quando não está grande demais: colha com uns 15 cm
+s28-181 [abobrinha|Você sabia?] Abobrinha produz muito: um pé por pessoa já dá abobrinha a temporada toda
+s28-183 [abobrinha|3 erros] Erro comum: molhar as folhas da abobrinha. Regue em volta da base: folha molhada pega oídio
+s28-184 [abobrinha|Dica do Andre] Colha a abobrinha pequena, com uns 10 cm, para a planta continuar produzindo; a flor também se come
+s28-185 [abobrinha|Você sabia?] O susto de quem planta abobrinha pela primeira vez: dá para colher várias a cada poucos dias
+s28-186 [abóbora|Dica do Andre] Abóbora espalha: até a pequena precisa de 90 cm em volta. Espete um palito do lado da muda para achar o meio na hora de regar
+s28-187 [abóbora|Você sabia?] Abóbora de guardar está pronta quando a casca fica dura e o cabo começa a secar; corte deixando o cabo comprido
+s28-188 [abóbora|Dica do Andre] Ponha palha embaixo da abóbora para ela não encostar na terra úmida
+w31-069 [abobrinha|Você sabia?] Oídio parece açúcar de confeiteiro polvilhado na folha. Na abobrinha ele ataca quando a raiz seca
+w31-071 [abobrinha|5 cuidados] Regue a raiz da abobrinha sempre: raiz seca deixa o pé fraco para o oídio
+w31-180 [abóbora|Dica do Andre] A abóbora cresce para o lado oposto da primeira folha verdadeira. Aponte essa folha para longe do suporte
+w31-070 [abobrinha|Dica do Andre] Contra oídio: tire as folhas atacadas e borrife uma parte de leite para duas de água, também embaixo da folha
+## EXCLUSIVOS DO TG 064
+m33-293 [amendoim|Você sabia?] No amendoim, a flor fecundada solta um broto que entra na terra, e é lá embaixo que o amendoim se forma
+m33-294 [amendoim|3 erros] Chuva ou rega durante a florada atrapalha a polinização do amendoim e diminui a colheita
+m33-295 [amendoim|5 cuidados] Amendoim quer terra arenosa, que escoe e com pouco nitrogênio; semente a 5 cm de fundura
+m33-321 [feijão|3 erros] Calor forte com umidade alta faz a flor do feijão cair e estraga a colheita
+m33-322 [feijão|5 cuidados] Feijão come muito: prepare a terra com bastante composto curtido meses antes
+m33-324 [ervilha|5 cuidados] Deixe a ervilha de molho uma noite antes de plantar
+m33-325 [ervilha|3 erros] Ervilha sofre na terra fria e encharcada e também na seca
+m33-326 [ervilha|Você sabia?] Semente de ervilha fica dormindo no calor forte
+m33-336 [milho|3 erros] Plante um tipo só de milho verde: o cruzamento estraga o sabor, principalmente do superdoce
+m33-337 [milho|5 cuidados] Plante milho em bloco, não em fileira única: a polinização melhora
+m33-338 [milho|Você sabia?] Milho verde leva de 70 a 110 dias para ficar pronto
+h35-109 [milho|5 cuidados] Milho em vaso: plante em bloco, não em fileira, para o vento polinizar e a espiga encher
+h35-110 [milho|Você sabia?] Milho cresce devagar e faz pouca sombra: dá para plantar beterraba, alface ou rúcula no pé dele
+h35-111 [milho|3 erros] Milho não gosta de ser mudado: não deixe a muda crescer demais antes de plantar
+h35-112 [milho|Passo a passo] Milho verde mais doce: colha quando o cabelo da espiga começar a ficar marrom e coma em até 24 horas
+h35-113 [milho|Você sabia?] Espiga que passa do ponto troca o açúcar por amido
+h35-133 [feijão|Dica do Andre] Arco de vagem: dois vasos compridos dos lados da porta e varas cruzadas no alto
+h35-134 [feijão|5 cuidados] Enquanto o feijão-trepador tiver flor, vem mais vagem: continue colhendo
+h35-135 [feijão|Você sabia?] Feijão-trepador chega a 2,5 m e pede suporte firme
+h35-136 [feijão|Passo a passo] Plante 2 ou 3 sementes de feijão no pé de cada vara; a que falhar, semeie de novo semanas depois
+h35-137 [feijão|5 cuidados] Colha a vagem nova a cada 2 ou 3 dias para não parar de produzir
+h35-233 [feijão|Passo a passo] Vagem: 2 ou 3 sementes no pé de cada tutor; quando chegar no topo, corte a ponta
+h35-234 [feijão|Você sabia?] Fava tem raiz comprida: semeie em tubo fundo ou canteiro fundo
+h35-235 [feijão|Dica do Andre] Fava: quando aparecerem as primeiras vagens, corte as pontas; a vagem cresce e o pulgão vai embora
+h35-265 [milho|Você sabia?] Existe milho bebê (minimilho), colhido novinho, ótimo para espaço pequeno
+h35-266 [milho|5 cuidados] Milho: muita água na floração e quando a espiga se forma
+g32-011 [milho|Você sabia?] Milho-verde e ervilha perdem o doce logo depois de colhidos: o açúcar vira amido
+g32-032 [milho|Você sabia?] Milho e girassol aguentam muito tempo acima de 30 graus sem perder colheita
+g32-035 [milho|Você sabia?] Milho é polinizado pelo vento: é ele que sacode o pólen da flor de cima e enche a espiga
+g32-064 [feijão|Passo a passo] Feijão-trepador: semeie a 3 cm de fundura e plante junto de varas com 40 cm entre elas
+g32-065 [feijão|3 erros] Feijão de vagem deixado no pé até a semente engordar faz a planta parar de dar vagem: colha todas novinhas
+g32-066 [feijão|5 cuidados] Feijão-trepador sobe alto: a vara precisa ser firme e ter uns 3 metros
+g32-067 [feijão|Você sabia?] O feijão-trepador é perene na terra dele, a América Central, mas é plantado como anual
+g32-103 [feijão|Você sabia?] Feijão-de-metro tem esse nome porque a vagem fica comprida; colha novinha
+g32-126 [feijão|3 erros] Não semeie feijão em terra fria ou encharcada: espere esquentar
+g32-127 [feijão|Dica do Andre] Feijão-fava seco: deixe de molho, ferva forte 20 minutos e depois cozinhe em fogo baixo
+g32-169 [feijão|5 cuidados] Feijão-vagem anão: 30 cm entre plantas; o trepador vai a 20 cm, em roda ou fileira dupla, um pé por vara de 2,5 m
+g32-170 [feijão|X ou Y?] Vagem anã ou trepadeira? A anã dá tudo de uma vez; a trepadeira produz aos poucos a temporada inteira
+g32-171 [feijão|3 erros] Terra fria e encharcada apodrece a raiz do feijão
+g32-172 [feijão|Dica do Andre] Semeie outra leva de vagem anã para entrar quando a primeira cansar
+g32-173 [feijão|Passo a passo] Feijão seco: deixe de molho de um dia para o outro, ferva forte 20 minutos e depois cozinhe até amaciar
+g32-208 [milho|5 cuidados] Milho: água farta quando aparecem o cabelo e o pendão, para encher a espiga
+g32-209 [feijão|Você sabia?] O feijão-lablabe é uma trepadeira tropical de flor lilás perfumada; a vagem se come novinha e cozida
+g32-257 [ervilha|Você sabia?] Ervilha de semente lisa aguenta mais o frio que a de semente enrugada
+g32-397 [ervilha|Passo a passo] Corte o broto de ervilha com tesoura quando tiver 8 a 12 cm e coma logo
+g32-484 [feijão|Socorro] Ferrugem do feijão: lugar aberto e arejado, tire folhas para baixar a umidade e não molhe por cima
+s28-031 [feijão|Dica do Andre] Feijão e ervilha-de-cheiro não gostam de ter a raiz mexida: semeie em vaso que vai inteiro para a terra
+s28-205 [feijão|Você sabia?] Semente de vagem germina em até dez dias
+s28-206 [feijão|Dica do Andre] Vagem: colha sempre que tiver uns 10 cm. Quanto mais você colhe, mais o pé produz
+s28-207 [feijão|Dica do Andre] Sobrou vagem demais? Deixe umas secarem no pé e guarde como feijão seco, ou congele
+s28-208 [ervilha|Dica do Andre] Primeira vez com ervilha? Comece pela ervilha-torta: planta pequena, produz bem e cabe em vaso
+s28-209 [ervilha|Você sabia?] Semente de ervilha germina em cinco a dez dias
+s28-210 [ervilha|Dica do Andre] Semeie ervilha em círculo: fica mais fácil pôr o tutor depois
+s28-211 [ervilha|Dica do Andre] Tutor simples para ervilha: três varas amarradas no alto, em tripé
+s28-212 [ervilha|Dica do Andre] Colha a ervilha-torta nova: se ficar muito no pé a vagem cresce, mas endurece
+s28-221 [milho|Você sabia?] Milho é polinizado pelo vento: o pólen cai das flores de cima (pendão) nas de baixo, que viram espiga
+s28-222 [milho|3 erros] Erro comum: plantar milho em uma fileira só. Plante em bloco, no mínimo 9 pés (3 por 3), para o pólen pegar de um pé no outro
+s28-223 [milho|Você sabia?] Cada pé de milho dá em média duas espigas: 9 pés, umas 18 espigas
+s28-224 [milho|Dica do Andre] Muda de milho odeia ter a raiz mexida: semeie em vaso um pouco maior, de 12 a 15 cm
+s28-225 [milho|Dica do Andre] Milho está no ponto quando o cabelo da espiga fica marrom. Colha pouco antes de cozinhar
+i36-187 [feijão|Passo a passo] Feijão de vara: tenda de 8 bambus de 2,2 m, a 30 cm um do outro, amarrados no alto e no meio
+i36-188 [feijão|Passo a passo] Feijão de vara: duas sementes a 5 cm de fundo em cada bambu, e depois fique só com a muda mais forte
+i36-189 [feijão|Você sabia?] Feijão de vara só nasce bem com o solo a pelo menos 12 graus
+i36-191 [feijão|5 cuidados] Colha a vagem pelo menos duas vezes por semana, novinha. Vagem velha trava as flores novas
+w31-037 [ervilha|Dica do Andre] Ervilha na calha: fure a calha, encha de substrato e semeie em zigue-zague. Com 12 cm, escorregue tudo para o sulco
+w31-038 [ervilha|Você sabia?] Ervilha é trepadeira e precisa de galhinhos ou rede para subir
+w31-039 [ervilha|Dica do Andre] Brotinho de ervilha é caro no mercado. Belisque a ponta com 20 cm, coma na salada e o pé produz mais
+w31-074 [feijão|Você sabia?] Raiz de feijão e ervilha fixa nitrogênio e deixa o canteiro bom para couve, que é exigente
+w31-173 [ervilha|Dica do Andre] Galhinhos de poda com um metro, fincados na fileira, viram suporte de ervilha. Depois vão para o composto
+w31-179 [milho|Você sabia?] Três irmãs dos povos indígenas da América: milho de suporte, feijão dando nitrogênio, abóbora cobrindo o chão
+## COMPARTILHADOS (so estes, de qualquer dos dois livros)
+b6-09 [outra|Você sabia?] Dragoeiro (Dracaena draco): a resina vermelha que escorre do tronco é o "sangue de dragão" que deu o nome
+n10-68 [outra|Você sabia?] Os campeões de folha estreita na lista do SENAR: braquiária, capim-pé-de-galinha, grama-seda e tiririca
+f11-30 [outra|3 erros] Os erros que mais estragam a decocção: ferver tempo demais e ferver sem tampa. As substâncias boas vão embora com o vapor
+h12-04 [outra|5 cuidados] Na colheita, escolha a planta inteira e bonita, sem fungo nem doença aparente
+t13-28 [outra|Você sabia?] Da dedaleira, planta europeia de flor em forma de dedal, sai a digoxina, remédio de coração para gente. No pet, a mesma substância intoxica
+p14-12 [outra|Você sabia?] Jasmim-estrela (Trachelospermum jasminoides) é não tóxico para pet pela ASPCA, mesmo sendo da família da espirradeira e da rosa-do-deserto, que são tóxicas
+v15-26 [outra|Você sabia?] Na mamona, a planta toda é tóxica, principalmente a semente, rica em óleo e em ricina
+g16-25 [outra|Você sabia?] Manacá-de-jardim (Brunfelsia pauciflora), que lá fora chamam de "beije-me rápido" e de "árvore-da-chuva-do-Brasil": cautela para gato no guia
+s2-08 [outra|Você sabia?] Borragem é tão amada pelas abelhas que ganhou o apelido de "pão de abelha"; folha nova e flor têm gosto de pepino
+s2-27 [outra|3 erros] Orégano que floresce perde sabor: corte rente, a uns 5 cm do chão, antes da flor
+q3-48 [outra|5 cuidados] Antes de viajar: feche a porta (sem corrente de ar e sem o pet derrubar vaso), cortina fechada no lado do sol
+q3-122 [outra|Você sabia?] A dioneia fecha a "boca" quando o inseto encosta nos pelinhos de gatilho, digere e depois abre de novo
+k9-014 [outra|3 erros] Regar tanto que a água empoça no fundo: a terra vira pântano, a raiz fica sem ar, apodrece e abre a porta para doenças
+k9-031 [outra|Mito ou verdade] A terra do vaso baixa porque a planta "comeu"? Mito: fungos, bactérias, minhocas e outros bichinhos desmontam a matéria orgânica em nutrientes, e o volume diminui
+k9-078 [outra|Socorro] Folha mordida na borda: lesma, caracol, lagarta ou formiga-cortadeira. Folha com furos: grilo, tesourinha ou besouro
+k9-114 [outra|Mito ou verdade] A lua manda na plantação? A maioria dos cientistas diz que não, mas no campo ninguém corta bambu e madeira na lua cheia porque "enche de broca". A autora sugere testar em casa
+k9-250 [outra|5 cuidados] Roseira não gosta de umidade e quanto mais podada, mais flor: tire flor seca e galho torto o ano todo e faça a poda forte, a uns 20 cm do chão, no fim do outono
+k9-263 [outra|X ou Y?] Falso-íris ou orquídea? A flor azul dá a pista: orquídea azul de verdade é raríssima. O falso-íris dá flor o ano todo com terra fértil e úmida e 4 a 8 h de sol
+k9-293 [outra|5 cuidados] Terrário pronto fica tampado, num lugar com muita claridade e sem sol direto
+w18-001 [outra|Você sabia?] Costela-de-adão, lírio-da-paz, antúrio, copo-de-leite, jiboia, filodendro e comigo-ninguém-pode são todos da mesma família: as aráceas
+w18-046 [outra|Você sabia?] Uma arácea europeia imita um cogumelo dentro da flor: o mosquito põe ovo achando que é fungo, e de quebra leva o pólen
+w18-158 [outra|Você sabia?] Quando a flor-cadáver abriu em Nova York em 1937, ela virou a flor oficial do Bronx
+q3-268 [outra|Passo a passo] Muda de fatsia: na troca de vaso, separe os brotos que saem do pé e plante cada um
+q3-369 [outra|Você sabia?] A cúfea-charuto solta montes de florzinhas vermelhas em tubo, como charutinhos acesos
+q3-423 [outra|3 erros] Planta de flor comprada em vaso costuma ir para o lixo depois da flor; quem tenta fazer florir de novo muitas vezes se decepciona
+q3-471 [outra|Passo a passo] A smithiantha se multiplica pela divisão dos rizomas na hora de plantar, ou por folha
+g32-425 [outra|Você sabia?] Gengibre, cúrcuma, galanga e cardamomo são todos da mesma família e vêm da Índia
+g32-447 [outra|Você sabia?] A estévia é um adoçante natural que nasce fácil de semente; belisque para encher
+s28-061 [outra|Dica do Andre] No canteiro de corte, deixe tudo ao alcance da mão pela borda, sem pisar na terra
+s28-101 [outra|Dica do Andre] Cortou a primeira espiga da dedaleira acima das folhas? Saem espigas menores dos lados e ela floresce de novo
+s28-202 [outra|Dica do Andre] Pepininho demora para germinar: até três semanas é normal. Tenha paciência
+v19-046 [outra|Dica do Andre] Manjerona: semeie em terra bem fofa e desbaste deixando 25 cm entre as plantas
+i36-013 [outra|Dica do Andre] Fibra de coco é pobre em adubo: misture 1 parte de fibra para 2 de substrato comum
+i36-034 [outra|3 erros] Erro comum: vaso sem furo. A água não sai e a planta apodrece. Fure o fundo com broca
+i36-042 [outra|Dica do Andre] No vaso pendurado, enterre um copinho de plástico no meio e regue por ele: a água vai direto à raiz
+i36-073 [outra|Passo a passo] Trepadeira no muro: plante a 30 a 40 cm da cerca, inclinada para ela, com bambus em leque
+i36-122 [outra|Passo a passo] Cerca viva: cave uma faixa de 1 m de largura e plante uma muda a cada 50 a 60 cm, seguindo um barbante
+i36-138 [outra|Você sabia?] Regar a muda depois de plantar não é só dar água: a água encosta a terra na raiz
+i36-147 [outra|Você sabia?] Grama-preta (Ophiopogon) é uma das poucas plantas de folha quase preta. Dá borda moderna e vai bem em vaso
+i36-215 [outra|Dica do Andre] Vaso pendurado de ervas: escolha as que você mais usa. Deixe de fora as grandes e lenhosas, como louro e alecrim
+i36-235 [outra|Socorro] Socorro, minha erva ficou comprida e pelada! Enterre a planta funda num vaso maior, até a base das folhas: o caule solta raiz
+q34-029 [outra|Você sabia?] Nome entre aspas simples, como 'Golden Showers', é cultivar: uma variedade criada pelo homem
+q34-048 [outra|Você sabia?] Parque e jardim são pulmões verdes: as folhas seguram a poeira e filtram o ar da cidade
+q34-120 [outra|Você sabia?] Planta que aguenta vento tem folha fina ou cerosa e caule que dobra sem quebrar
+q34-140 [outra|Você sabia?] Planta refresca o ar com sombra e com a água que transpira, isola a casa e abafa o barulho
+w31-085 [outra|Dica do Andre] Para cortar arame com a tesoura de poda use o dentinho na base da lâmina, não o fio
+q3-269 [outra|5 cuidados] Fatsia não gosta de calor forte: prefira canto claro, sem sol direto
+s2-54 [horta|Você sabia?] Cravo-de-defunto (tagetes) ajuda contra pulgão e mosca-branca; alecrim afasta a mariposa da couve
+s2-138 [horta|Você sabia?] O mato conta como é a terra: onde nasce mirtilo e azaleia sozinhos, a terra é ácida
+s2-210 [horta|Você sabia?] Couve quase não tem praga. O besouro-pulga gosta dela; se ele atacar, cubra com manta até a planta ficar grande e resistente
+a8-444 [horta|Você sabia?] Semente de planta mal nutrida pode dar planta mal nutrida, que nem responde ao adubo: no livro, couve-flor com falta de molibdênio seguiu deformada mesmo adubada, e a semente de planta bem adubada deu planta normal até em terra pobre. Por isso vale tirar semente da planta mais bonita e bem cuidada
+x23-046 [horta|Você sabia?] Horta e jardim para bicho combinam: os bichos amigos comem as pragas e a colheita melhora
+x23-055 [horta|Você sabia?] Flor no meio da horta ajuda de três jeitos: algumas espantam praga, todas chamam polinizador e muitas ainda têm pétala de comer
+h35-003 [horta|Dica do Andre] Muro branco em volta da horta rebate luz para as plantas
+h35-049 [horta|Passo a passo] Vaso grande: arrume no lugar antes de encher de terra
+h35-060 [horta|Você sabia?] A flor macho da abobrinha também se come
+h35-080 [horta|3 erros] Repetir a mesma planta no mesmo lugar todo ano gasta a terra e chama a praga dela
+h35-141 [horta|Dica do Andre] No palete, planta pendente em cima e erva de sombra embaixo
+h35-172 [horta|Você sabia?] Qualquer ervilha seca serve para broto de ervilha
+h35-230 [horta|Você sabia?] O pepino-melão (cucamelon) parece melancia em miniatura, tem gosto azedinho de pepino e se colhe do tamanho de um ovo
+h35-251 [horta|Passo a passo] Alho: plante o dente com a pontinha aparecendo e colha quando as folhas amarelarem
+h35-276 [horta|3 erros] Azedinha: tire as flores, senão ela semeia e vira praga
+h35-304 [horta|Você sabia?] Amor-perfeito se ressemeia: muitas vezes basta comprar uma vez; a flor vai na salada
+g32-013 [horta|Mito ou verdade] Mito: sombra é sempre ruim para a horta. Muita folha cresce mais macia e verde na sombra
+g32-033 [horta|Você sabia?] Na cidade, asfalto e parede guardam o calor do sol e soltam ar quente: é a ilha de calor
+g32-083 [horta|5 cuidados] Bertalha: 30 cm entre plantas, composto farto e uma vara ou barbante de pelo menos 2 metros para subir
+g32-108 [horta|Você sabia?] Crisântemo-de-comer (shungiku) tem folha cheirosa e flor amarela que chama abelha
+g32-133 [horta|Você sabia?] O agretti, verdura italiana de folha de agulha, aguenta seca e até melhora terra salgada
+g32-157 [horta|Você sabia?] O espinafre-da-nova-zelândia nasce em duna de praia e cobre o chão com folhas carnudas; belisque as pontas
+g32-183 [horta|Você sabia?] Depois da cabeça do brócolis saem brotinhos do lado: é a segunda colheita
+g32-237 [horta|5 cuidados] Couve e repolho: pelo menos 60 cm entre plantas e tela de 5 mm contra a borboleta da lagarta
+g32-252 [horta|Você sabia?] Nabo e couve-rábano novinhos são os mais macios
+g32-276 [horta|X ou Y?] Framboesa de verão dá no ramo do ano anterior, que depois morre; a de outono dá no ramo do próprio ano
+g32-296 [horta|Você sabia?] A couve-etíope cresce no sol e na sombra; na sombra a folha fica mais suave
+g32-313 [horta|Você sabia?] O goji e a aronia são frutinhas que aguentam meia-sombra
+g32-334 [horta|Você sabia?] Mizuna e mibuna são folhas japonesas picantinhas; poucos pés bastam para uma casa
+g32-343 [horta|Você sabia?] O mitsuba, salsinha japonesa, tem gosto entre cerefólio e salsão
+g32-362 [horta|Dica do Andre] Raiz-forte se espalha: plante num vaso grande enterrado
+g32-371 [horta|3 erros] A labaça (Rumex) tem ácido oxálico: não coma muito crua; cozida diminui bastante
+g32-381 [horta|3 erros] Bambu vai em quase toda terra, menos a encharcada
+g32-466 [horta|Você sabia?] Estufa na meia-sombra esquenta menos no verão e é mais fácil de controlar
+s28-130 [horta|Dica do Andre] Planeje com o pacote na mão: data de semear, dias para germinar e dias até colher. Vira sua lista de tarefas do mês
+s28-157 [horta|Dica do Andre] Horta em vaso pede vaso grande e fundo: banheira velha ou balde grande servem, é só furar o fundo
+i36-242 [horta|Passo a passo] Frutífera no vaso: cacos no furo, terra com adubo de liberação lenta e o torrão 5 cm abaixo da borda
+q34-159 [horta|Dica do Andre] Agrofloresta se monta de cima para baixo: primeiro as árvores, depois os arbustos, por último o chão
+w31-186 [horta|Dica do Andre] Sapateira de porta vira horta de ervas vertical: salsinha, coentro, manjericão e tomilho vão bem
+f11-75 [mato|Você sabia?] Urtiga, rúmex, catinga-de-mulata e dente-de-leão aparecem em canto de quintal largado. Os autores pedem para não passar roçadeira neles quando servem de matéria-prima de extrato
+z7-08 [mato|Você sabia?] A capina com enxada talvez seja o jeito de tirar mato mais usado na agricultura brasileira, mesmo com a mão de obra cara
+z7-27 [mato|Você sabia?] Capim-colchão forma touceira densa e enraíza nos nós que encostam na terra
+z7-47 [mato|Você sabia?] Mentrasto (catinga-de-bode) tem caule com pelo branco, quase sempre arroxeado, e cheiro forte
+z7-57 [mato|Você sabia?] O capim-massambará (sorgo-de-alepo) chega a 2 m e é fortemente rizomatoso: se espalha por rizoma e por semente
+h35-324 [mato|Você sabia?] A bolsa-de-pastor tem sementinha em forma de coração: arranque antes de formar
+e22-002 [mato|Você sabia?] Das 370 mil plantas do mundo, só 3% se comportam como mato
+e22-015 [mato|Você sabia?] Rizoma é um caule que cresce para baixo, para o lado e depois sobe com broto novo
+e22-026 [mato|Você sabia?] O "tapete" de mato na terra pelada protege o solo e segura nutriente que a chuva levaria
+e22-039 [mato|Você sabia?] O agrião-bravo, antes de florir, vira salada de gosto picante
+e22-050 [mato|Você sabia?] Estramônio adora terra muito adubada, perto de monte de esterco e composto
+e22-066 [mato|Você sabia?] Um pé de trevinho-amarelo (Oxalis corniculata) pode soltar 26 mil sementes, lançadas pela vagem que explode
+e22-077 [mato|Você sabia?] Semente de sanguinária só nasce quando a terra é revirada e ela vê luz: canteiro sem revirar ajuda
+e22-090 [mato|Você sabia?] A urtiga-miúda queima a mão de quem colhe sem luva, mas dá semente para passarinho e substitui o espinafre
+e22-102 [mato|Você sabia?] O alho-selvagem tem folha com gosto de alho e se espalha pelos bulbinhos
+e22-114 [mato|Você sabia?] A grama-de-ponta (Elymus) solta brotos em fileira porque o rizoma cresce em linha reta
+e22-123 [mato|Você sabia?] A celidônia-menor se espalha por bulbinhos que nascem até no pé da folha
+e22-136 [mato|Você sabia?] A língua-de-vaca (Rumex) tem raiz comprida, solta 7 mil sementes e elas duram mais de cinco anos
+e22-147 [mato|3 erros] Muda de árvore que nasce sozinha: tire nova. Cortar no frio faz rebrotar mais forte
+i36-281 [mato|Socorro] Socorro, corda-de-viola tomou o canteiro! Qualquer pedacinho de raiz rebrota: cave tudo ou corte e cubra com lona escura por 12 a 18 meses
+w31-131 [mato|Você sabia?] Cavar traz semente de mato dormente para cima e picar raiz de dente-de-leão multiplica a planta
+m33-353 [muda|Você sabia?] Divisão de touceira é ainda mais garantida do que semente
+m33-361 [muda|5 cuidados] Reaproveite vaso plástico preto ano após ano: ele não se recicla
+m33-377 [muda|Passo a passo] Abafamento: cubra o vaso de estacas com saco plástico preso com elástico, sem encostar nas folhas
+g32-161 [muda|Passo a passo] Ao plantar muda de vaso, solte com cuidado as raízes que estão enroladas
+s28-012 [muda|Você sabia?] Existe fita de semente: você estica no sulco, cobre com terra e as sementes já ficam no espaço certo
+s28-039 [muda|Você sabia?] Tem semente que só acorda depois de passar um tempo no frio, como na natureza: isso se chama estratificação
+s28-241 [muda|Você sabia?] Semente orgânica vem de planta cultivada sem agrotóxico nem adubo químico
+i36-026 [muda|Passo a passo] Muda nascida em casa: antes de ir para fora, deixe o vaso lá fora de dia por umas semanas para acostumar
+i36-170 [muda|Mito ou verdade] Mito ou verdade: água de chuva guardada é a melhor para mudinha? Mito. Água parada pode trazer o fungo do tombamento
+w31-004 [muda|5 cuidados] Na hora de repicar, segure a mudinha pela folha, nunca pelo caule. Folha quebrada a muda refaz, caule não
+w31-017 [muda|Dica do Andre] Galão de leite sem fundo vira campânula para proteger muda do frio. Tire a tampinha nos dias quentes
+n10-90 [praga|Você sabia?] Virose deixa pontinhos amarelos e muda a cor e a forma da folha sem ferida grande; quando dá para notar, já está avançada
+q3-49 [praga|5 cuidados] Prevenir é mais fácil que curar: compre de lugar confiável, olhe a planta antes e confira a raiz ao trocar de vaso
+a8-215 [praga|Você sabia?] Lavoura em terra recém-desmatada quase não tem praga. Conforme o solo se degrada, as pragas aparecem; depois de 3 anos de cultivo intenso, como o de horta, as defesas acabam. Para a Primavesi, a saúde da planta está ligada à saúde do solo
+h35-092 [praga|Você sabia?] A mosca-sirfídea parece vespa: o adulto poliniza e a larva come pulgão
+h35-306 [praga|Socorro] Lagarta comendo couve até o esqueleto da folha: tela na planta impede a borboleta de pôr ovo
+h35-317 [praga|X ou Y?] Míldio vem com tempo úmido; oídio, o pó branco, vem com seca e planta estressada
+g32-489 [praga|Socorro] Míldio: plante espaçado para o ar correr, regue de manhã e tire as folhas doentes logo
+t37-143 [praga|Mito ou verdade] Mito: todo bicho na árvore é praga. Pulgão, lagarta e companhia fazem parte da cadeia e alimentam passarinho; só vira praga quando faz estrago de verdade
+i36-302 [praga|Mito ou verdade] Mito ou verdade: veneno orgânico só mata a praga? Mito. A maioria mata também o bicho que ajuda
+p29-109 [praga|3 erros] Erro comum: soltar inimigo natural e aplicar veneno junto. O veneno mata o aliado também
+a8-040 [solo|Mito ou verdade] "O clima daqui não deixa a planta produzir." Para a autora, muito do que se põe na conta do clima é manejo errado do solo
+a8-261 [solo|Mito ou verdade] Erosão é coisa da natureza? Para a autora, é sintoma de solo doente: 95% dela vem da água que não consegue entrar na terra
+a8-647 [solo|Você sabia?] Onde cresce taquara a terra é mais produtiva: as raízes deixam o solo fofo e granulado
+g32-021 [solo|Passo a passo] Canto que encharca: faça um poço de brita no ponto mais baixo para puxar a água
+g32-458 [solo|Você sabia?] Na natureza quase não existe terra pelada: a cobertura segura a água junto da raiz
+i36-006 [solo|3 erros] Erro comum: pisar no barro molhado. Você estraga a estrutura do solo e piora a drenagem
+q34-008 [solo|Você sabia?] O solo tem camadas: a terra de cima é escura de matéria orgânica, a de baixo é mais clara e dura, e embaixo vem a pedra
+q34-016 [solo|3 erros] Erro comum: testar o pH logo depois de pôr calcário ou adubo. Espere uns três meses
+q34-024 [solo|Dica do Andre] Barranco que perde terra: estenda tela de juta ou fibra de coco e plante pelos furos. A tela se desfaz quando a planta pega
+w31-130 [solo|Mito ou verdade] Mito ou verdade: cavar o canteiro todo ano é obrigatório? Mito. Cavar estraga a estrutura do solo
+f11-39 [regar|3 erros] Pulverizar planta com sede: não adianta. Em vaso ou jardineira seca, regue bem na véspera. O melhor é dia nublado ou depois da chuva
+a8-012 [regar|3 erros] Regar mais a terra socada: a rega não leva oxigênio para a raiz. Em solo compactado, mais água rende pouco
+w18-047 [regar|Você sabia?] Uma planta de terra perde até 98% da água que bebe pela transpiração das folhas
+h35-106 [regar|3 erros] Vaso suspenso quase não recebe chuva: regue mesmo quando chove
+s28-077 [regar|Dica do Andre] Antes de regar o vaso, cave uns 5 cm com o dedo: só regue se estiver seco lá embaixo
+i36-259 [regar|Você sabia?] Mangueira porosa (gotejamento) deitada entre as plantas solta água devagar direto no chão
+q34-086 [regar|Você sabia?] Água guardada no quintal alivia o esgoto na chuva forte e ainda traz som, reflexo e bicho
+w31-145 [regar|Dica do Andre] Galão de leite com furinhos na tampa vira regador de chuveirinho para muda delicada
+i36-255 [regar|Dica do Andre] Água do banho e da pia pode regar o jardim, desde que sem detergente nem produto de limpeza
+h35-030 [compostagem|Passo a passo] Revire a composteira de vez em quando com o garfo: entra ar e acelera
+g32-475 [compostagem|Você sabia?] Monte de composto de 1 metro cúbico ou mais esquenta o bastante para matar semente de mato
+i36-262 [compostagem|5 cuidados] Composteira: fundo aberto direto na terra, tampa e espaço para revirar
+i36-270 [compostagem|Você sabia?] Minhocário é composteira para quem tem pouco lixo: minhocas em caixa ventilada viram tudo adubo
+q34-059 [compostagem|Socorro] Socorro, meu composto está melado e fedendo! É água demais e pouco ar: cubra e ponha mais material seco
+q34-104 [compostagem|3 erros] Erro comum: plantar alecrim e lavanda no monte hugelkultur. A terra é rica e úmida demais para ervas de lugar seco
+w31-108 [compostagem|Passo a passo] Sem espaço para composteira: enterre os restos da cozinha num buraco de 30 a 40 cm no canteiro e espere uns meses
+w31-116 [compostagem|Você sabia?] Material verde como grama cortada e resto de verdura é rico em nitrogênio, e é ele que deixa o composto melado
+x23-088 [jardim-vivo|Você sabia?] Planta nativa e folha apodrecendo são a matéria-prima do jardim para bicho
+x23-141 [jardim-vivo|5 cuidados] Planta de fora estica a época de néctar, mas reserve espaço para a nativa: muito inseto depende dela para comer
+s28-069 [jardim-vivo|Você sabia?] Ajudar os insetos ajuda quem come inseto: sapo e passarinho também ganham
+q34-091 [jardim-vivo|Você sabia?] Até caminho de pedrisco é casa de bicho: inseto mora no vão entre as pedras
+w31-161 [jardim-vivo|5 cuidados] Deixe algumas flores secas virarem semente: alimentam o passarinho no frio
+x23-101 [passarinho|X ou Y?] Semente ou comida mole? Passarinho de bico grosso quebra semente; o de bico fino, que come inseto, precisa de comida mole
+x23-115 [passarinho|Você sabia?] Tem passarinho que estreita o furo grande demais da casinha com um anel de barro
+e22-082 [passarinho|Você sabia?] Passarinho come a frutinha da maria-pretinha e espalha a semente nas fezes
+i36-135 [passarinho|Você sabia?] Cotoneaster cobre muro e chão, e a florzinha branca e a frutinha vermelha chamam bicho
+w31-079 [passarinho|3 erros] Erro comum: vaselina no poste do comedouro perto de onde a ave come. Estraga as penas
+x23-132 [abelha|Você sabia?] Veneno, perda de flor do campo, agricultura intensiva e mudança do clima estão por trás do sumiço das abelhas
+e22-061 [abelha|Você sabia?] O lâmio-roxo (urtiga-morta) dá néctar cedo, quando as abelhas estão fazendo ninho
+t37-046 [abelha|Você sabia?] Cada polinizador tem uma língua de tamanho diferente, e as flores evoluíram formatos para cada boca
+n10-64 [trocar-vaso|Socorro] O torrão não sai do vaso de jeito nenhum? A cartilha manda quebrar o vaso para não machucar a planta
+k9-053 [trocar-vaso|3 erros] Plantar fundo demais ou alto demais: o colo (onde raiz encontra caule) fica alguns dedos abaixo da borda, para caber a cobertura de palha
+h35-126 [trocar-vaso|5 cuidados] Ao mudar muda de vaso, mantenha o colo da planta na mesma altura em que estava
+t37-012 [arvore|Você sabia?] Árvore existe na Terra há uns 400 milhões de anos; o ginkgo e a araucária-chilena são chamados de fósseis vivos
+t37-031 [arvore|Você sabia?] Cidade é mais quente que o campo: calçada, asfalto e parede guardam o calor do sol como um aquecedor
+t37-041 [arvore|Você sabia?] Seca forte ou calor extremo fazem a árvore parar de crescer
+t37-054 [arvore|Você sabia?] Olhar a árvore mudar ao longo do ano acalma e faz bem para a saúde mental
+t37-110 [arvore|X ou Y?] Muda de raiz nua ou de vaso? A de raiz nua é mais barata e tem mais variedade; a de vaso pega mais rápido e se planta o ano todo
+i36-151 [arvore|Mito ou verdade] Mito ou verdade: encher o buraco da árvore de composto ajuda? Mito, salvo em solo pobre ou arenoso: a raiz não sai procurando comida

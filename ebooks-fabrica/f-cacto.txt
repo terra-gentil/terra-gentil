@@ -1,0 +1,53 @@
+b1-09 | Pitaya é fruta de cacto: um cacto tropical que sobe como trepadeira
+b1-17 | O cacto colorido (rosa, laranja, amarelo) não tem clorofila: vive enxertado em outro cacto verde
+b1-18 | Cacto colorido enxertado: luz suficiente, mas sem sol que queime a parte colorida
+b1-24 | Mudar cacto de vaso: luva grossa de couro e jornal amassado em volta da planta
+b2-24 | Cacto e eufórbia gordinha são os mais sensíveis a excesso de água
+b2-39 | Galho grosso de cacto pode esperar meses para ser plantado: cicatriza e dorme
+b2-47 | Não precisa regar logo depois de mudar de vaso: espere alguns dias para a raiz cicatrizar
+b5-26 | Cacto-rabo-de-rato (pendente, da América Latina) vive em árvore: terra úmida e bastante água no verão
+b5-27 | Cacto-estrela (Astrophytum) quase não tem espinho e vive bem dentro de casa com luz forte
+b5-28 | No cacto-estrela, não mexa nas escamas brancas: são frágeis
+b6-15 | O cacto-bola (assento-de-sogra) é comum nos jardins mas está quase extinto na natureza
+b6-16 | O cacto-bola só floresce com 35 cm, o que leva uns 14 anos
+b6-17 | Cacto x eufórbia: no cacto os espinhos saem de um ponto central (aréola); na eufórbia não. Cacto é das Américas, eufórbia da África
+b7-11 | Mamilaria, o maior grupo de cacto-bola, tem esse nome por causa dos biquinhos debaixo dos espinhos
+b7-12 | A palma 'Burbank', quase sem espinho, foi criada para alimentar gado, e o gado não quis
+b7-13 | Em toda palma (Opuntia), a base da flor incha e vira um fruto em forma de ovo
+b7-14 | O Pachycereus marginatus (nome popular a conferir) cresce até cerca de 1 metro por ano alternando rega funda com terra seca
+b7-18 | Ripsalis é cacto que vive em árvore, da América do Sul, principalmente do Brasil; espinho fino como cabelo ou nenhum
+b7-19 | Ripsalis: temperatura de casa o ano todo, menos água no frio; vai bem em vaso suspenso com pouca luz
+b7-24 | Flor-de-maio (Schlumbergera) é cacto brasileiro; o que parece folha é caule achatado
+b7-26 | Flor-de-maio: luz forte indireta mais 1 ou 2 horas de sol da manhã ou fim da tarde; rega boa sem encharcar
+p14-08 | Flor-de-maio (Schlumbergera) é não tóxica para cão e gato, segundo a ASPCA [PET:ASPCA]
+q3-76 | Plantar a estaca de cacto ou de suculenta com o corte molhado: deixe secar um dia antes
+r6-02 | Cacto é só planta de deserto? Mito: existe do sul do Canadá até a Patagônia, em pradaria, deserto e até floresta tropical
+r6-03 | São cerca de 100 gêneros e uns 2.000 tipos de cacto, quase todos nativos das Américas. A única exceção natural é uma espécie de Rhipsalis, que também nasce na África. Já muitas das outras suculentas são de lugares de sol forte, principalmente da África
+r6-04 | Cacto ou suculenta? Todo cacto é suculenta, mas nem toda suculenta é cacto. O que denuncia o cacto é a aréola, o "botão" de onde saem os espinhos
+r6-05 | No cacto, quem faz a fotossíntese é o caule, que também é a caixa d'água da planta. O formato muda: bola, árvore, raquete achatada, coluna ou rasteiro
+r6-06 | Espinho de cacto é folha que mudou de função. Tem dois tipos: os radiais, em maior número em volta da aréola, e os centrais, mais grossos e em menor número
+r6-07 | Espinho de cacto vem em toda cor, do branco ao preto, e pode ser duro ou mole como cabelo
+r6-08 | Cacto não tem folha? Meia verdade: quase todos não têm, mas a Pereskia, o gênero da ora-pro-nóbis, tem folha de verdade, e algumas palmas soltam folhinhas finas que caem logo
+r6-09 | Flor de cacto dura pouco, mas vem em todo tamanho, cor e formato. Quem poliniza são principalmente os animais
+r6-10 | Aquele "chapéu" de lã no alto da coroa-de-frade (Melocactus) se chama cefálio, e é dali que saem as flores
+r6-11 | Fruto de cacto pode ter de 3 a 3.000 sementes. A maioria é carnuda e doce, como o fruto do mandacaru
+r6-37 | Cacto de semente cresce devagar, mas rende muita muda num espaço pequeno
+r6-38 | Semente de cacto: semeie em caixa ou pote com areia e, quando a muda tiver 1 a 2 cm, passe para o vaso
+r6-40 | Estaca de cacto: corte pedaços de 5 a 10 cm, deixe o corte cicatrizar e enterre um terço na terra arenosa
+r6-41 | Plantar a estaca de cacto com o corte ainda fresco: espere cicatrizar antes. Depois, regue por uns 30 dias sem encharcar
+r6-42 | Para cortar cacto sem se espetar, segure com jornal dobrado
+r6-45 | Os brotinhos que nascem em volta do cacto redondo ou cilíndrico viram muda: tire e ponha na areia para enraizar. Os melhores têm de 5 a 10 cm de diâmetro
+r6-46 | Enxerto de cacto: o de baixo (cavalo) tem 15 a 20 cm e é cortado a 3 cm do topo; o de cima recebe um corte reto na base e é encostado em cima
+r6-47 | Muito cacto corre risco de sumir da natureza, por coleta e por destruição de onde ele vive. Compre de produtor, nunca arrancado do mato
+r6-48 | Espinho de cacto já foi palito, agulha e pente
+r6-49 | A palma (Opuntia) vira comida de gado e álcool. E é nela que vive a cochonilha usada para fazer corante vermelho
+k9-202 | Todo cacto é suculenta? Verdade. Mas o contrário não vale: muitas suculentas não são cacto
+k9-209 | A cochonilha que ataca cactos vira corante: 1 kg do inseto esmagado rende 50 g de ácido carmínico, o vermelho de batons e iogurtes. Existe até palma cultivada só para criar a praga
+k9-211 | Comprar cacto com flor que dura meses: é flor seca tingida (sempre-viva) espetada pelo produtor. Fura o cacto, atrai doença e ainda tira a sempre-viva da natureza
+k9-217 | O cacto "Mickey Mouse" parece fofo, mas cada pontinho é um tufo de espinhos minúsculos que irritam a pele. Mude de vaso com pinça ou com uma tira de papelão
+k9-218 | A torre-amarela é um cacto gaúcho de verdade: chega a 1 m, dá coroa de flores amarelas no verão e aguenta geada
+k9-219 | Chapéu-de-bispo com terra encharcada por muito tempo apodrece rápido e morre. Solo bem drenado e pelo menos 4 h de sol por dia
+k9-223 | O cacto-macarrão nasce pendurado em árvore: quer meia-sombra, substrato leve um pouco úmido e serve para janela que não pega sol o dia todo
+k9-272 | Por que tanta gente mata cacto? Porque tenta criar dentro de casa, num lugar sem sol
+k9-367 | A dama-da-noite cacto (Epiphyllum) abre a flor à noite e fecha de manhã. Um pedaço de caule na terra vira muda
+k9-374 | O xique-xique protege com espinhos de até 10 cm os frutos de polpa pink que, no verão, matam a sede do sertanejo e dos bichos

@@ -2,7 +2,7 @@
 
 Gera as fotos do miolo dos ebooks (gesto do passo a passo, sintoma, variedades). Irmã da
 "Capas TG" (`capas/FERRAMENTA-FLOW.md`), com as lições dela já aplicadas. Uma ferramenta por conta
-(Pamela e eng.andrehz): o 2K só baixa na conta que gerou. Criar não gasta crédito; gerar gasta.
+(Pamela, eng.andrehz e Marca Registrada): o 2K só baixa na conta que gerou. Criar não gasta crédito; gerar gasta.
 
 ## O que muda em relação à Capas TG
 
@@ -58,6 +58,7 @@ Keep everything as it is. Per ready row "Baixar <id>" (download once per click, 
 |---|---|---|
 | eng.andrehz | CRIADA 31/10, `/project/db0dc6c0-4e26-452d-9c3d-bbfa4ac6f70d/tool/7fab2c63-e6ed-49c5-b319-30466abdbdd8`, fixada na barra; fila de 8 testada (Total 8); painel Mascote e campo `mascote` (rodadas 6 e 7, 31/10 tarde) | Gentileza subido no projeto como `image.png`; Elenco (4 fotos) e Mascote escolhidos pela "Imagem do projeto" (ctrl+clique marca varias), mas **somem ao recarregar a pagina** nesta conta: montar de novo antes de cada geracao |
 | Pamela (u/5) | CRIADA 31/10, `/u/5/project/9a9b36e1-8266-4dd7-8245-c86cc2a40829/tool/d39226f8-3f50-4ca3-8fc3-29158da6a89e`, fixada; icones trocados por SVG na rodada 5; fila de 8 testada; painel Mascote e campo `mascote` (rodadas 6 e 7, 31/10) | 4 fotos do Andre (andre-rua-1/2, bone, camiseta) + Mascote: Gentileza acenando, salvos |
+| Marca Registrada (u/4, canalregistradamarca, PRO liberada pelo Andre em 03/11) | CRIADA 03/11, `/u/4/project/b3fe07f1-66c2-4b4a-89fe-081e974a4139/tool/c658a771-32bc-4758-8513-6e615e971d6c`, fixada; rodadas 1 a 7 numa leva so (rodada 2 ja sem nova tentativa); **sufixo do mascote novo**: aparece UMA vez, exatamente onde a cena diz (corrige o Gentileza duplicado da prateleira) | 4 fotos do Andre (camiseta, rua-2, bone, rua-1) + Gentileza acenando, subidos por ctrl+v na caixa do projeto (1a vez pede Concordo em Direitos de uso, ok do Andre 03/11) |
 
 Licoes da criacao (31/10): na tela de Criar ferramenta da Pamela o clique pela ref perdeu o texto, o clique por coordenada no campo funcionou (o contrario da conta eng.andrehz); enviar pela seta. Na caixa da fila, ctrl+a e ctrl+v na mesma chamada viram a letra 'a': mandar ctrl+a, Delete e ctrl+v em chamadas separadas. A fila vai pelo clipboard (Set-Clipboard).
 

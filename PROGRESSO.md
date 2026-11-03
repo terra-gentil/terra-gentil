@@ -1,4 +1,11 @@
 # PROGRESSO Terra Gentil
+## 3a CONTA DO FLOW: MARCA REGISTRADA PRONTA (03/11/2026, ~18h30)
+- canalregistradamarca@gmail.com virou Google PRO; Andre liberou usar como limite extra e trocar de conta a vontade. No Chrome e a /u/4.
+- Projeto `flow.google.com/u/4/project/b3fe07f1-66c2-4b4a-89fe-081e974a4139`, ferramenta Fotos Ebook TG `.../tool/c658a771-32bc-4758-8513-6e615e971d6c` (rodadas 1 a 7, detalhes em `gama-ebooks/FERRAMENTA-FOTOS.md`). Elenco (4 fotos do Andre) e Gentileza acenando montados.
+- Sufixo do mascote nesta conta ja corrigido: Gentileza aparece UMA vez, onde a cena diz (nas outras duas ainda e "shelf or windowsill").
+- Cota agora: 3 contas, ~290 fotos/dia. As 240 da leva 7 e 8 cabem num dia so.
+- Indexacao 03/11: 10 conferidos (8 ja no Google, 2 pedidos), faltam 24 na `scripts/guias/fila-indexacao.json`.
+
 ## LEVA 8: TG 087 A 100 ESCRITOS, 100 LIVROS NA COLECAO, FOTOS DO FLOW PENDENTES (02/11/2026, noite)
 - 14 livros por 7 agentes (2 cada). Pools em `ebooks\fabrica\pools\pool-087-088.txt` a `pool-099-100.txt` (temas escolhidos pela contagem de fatos livres: 3.166 antes da leva), brief em `pools\BRIEF.md` com a regra nova "titulo honesto". Leva 7 guardada em `pools\leva7\`.
 - Conferido: 14 de 14 com `validar.mjs` ok, `estouro.mjs` sem estouro, zero fato repetido com qualquer livro (corrigi i36-034 que o 087 e o 088 usavam: no 088 virou g32-189, linha "Na colheita: garfo ao lado"), sem travessao, encadeamento PROXIMO/Comente/"Sao N livros" certo do 086 ao 100. Filas em `gama-ebooks\fila-fotos-tg087.json` a `tg100.json` (112 fotos, 2 com Gentileza cada). Previas provisorias em `ebooks\TG0NN-previa.pdf`.

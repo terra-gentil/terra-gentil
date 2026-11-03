@@ -1,16 +1,6 @@
 {
  "_leia": "Fila de pedidos de indexacao no Search Console (propriedade https://terragentil.com.br/, conta eng.andrehz). A rotina diaria pede ate 10 por dia (cota do Google), tira da fila e grava em 'feitos'. Livro novo: acrescentar o slug no fim da fila.",
  "fila": [
-  "samambaias",
-  "bromelias",
-  "morango-no-vaso",
-  "horta-na-varanda",
-  "temperos-da-janela",
-  "cactos-e-babosa",
-  "casa-com-pet",
-  "planta-sem-sol",
-  "orquidea-doente",
-  "cattleya-e-dendrobium",
   "rega-sem-afogar",
   "mato-que-ensina",
   "mudas-de-graca",
@@ -76,6 +66,46 @@
   {
    "url": "/guias/anturio",
    "dia": "2026-11-02"
+  },
+  {
+   "url": "/guias/samambaias",
+   "dia": "2026-11-03"
+  },
+  {
+   "url": "/guias/bromelias",
+   "dia": "2026-11-03"
+  },
+  {
+   "url": "/guias/morango-no-vaso",
+   "dia": "2026-11-03"
+  },
+  {
+   "url": "/guias/horta-na-varanda",
+   "dia": "2026-11-03"
+  },
+  {
+   "url": "/guias/temperos-da-janela",
+   "dia": "2026-11-03"
+  },
+  {
+   "url": "/guias/cactos-e-babosa",
+   "dia": "2026-11-03"
+  },
+  {
+   "url": "/guias/casa-com-pet",
+   "dia": "2026-11-03"
+  },
+  {
+   "url": "/guias/planta-sem-sol",
+   "dia": "2026-11-03"
+  },
+  {
+   "url": "/guias/orquidea-doente",
+   "dia": "2026-11-03"
+  },
+  {
+   "url": "/guias/cattleya-e-dendrobium",
+   "dia": "2026-11-03"
   }
  ]
 }

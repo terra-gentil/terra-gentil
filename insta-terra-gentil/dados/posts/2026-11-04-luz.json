@@ -1,0 +1,224 @@
+{
+  "dia": "2026-11-04",
+  "palavra": "LUZ",
+  "especie": "Epipremnum aureum",
+  "nome": "Jiboia",
+  "tema": "luz",
+  "serie": "3 erros",
+  "gancho": "Seu problema com a planta pode não ser a rega, e sim a luz do lugar onde ela está.",
+  "resumo": "Três erros de luz que parecem culpa sua, e dois passos simples para achar o lugar certo da planta.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Luz",
+      "linha1": "Sua planta sofre",
+      "linha2": "por falta de",
+      "linha3": "ou excesso de",
+      "destaque": "luz"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Culpar a rega",
+      "linha2": "e esquecer a",
+      "destaque": "luz",
+      "texto": "A luz é a comida da planta e a água é a bebida. Comida errada faz qualquer um sofrer.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Deixar a planta",
+      "linha2": "com sol",
+      "destaque": "demais",
+      "texto": "Folha muito pálida ou sem as manchas claras pode ser luz demais. Recue o vaso.",
+      "nota": "Um gesto pequeno resolve."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Deixar a planta",
+      "linha2": "com fome de",
+      "destaque": "luz",
+      "texto": "Folhas escuras e galhos finos e compridos, com espaços grandes entre as folhas, pedem mais luz.",
+      "nota": "Ela só está pedindo ajuda."
+    },
+    {
+      "linha1": "Descubra a luz",
+      "linha2": "da sua",
+      "destaque": "varanda",
+      "texto": "Dá para ler um livro sem acender a lâmpada, mas o sol nunca encosta? É sombra iluminada.",
+      "dica": "Primeiro descubra a luz do lugar. Depois escolha a planta certa para ela."
+    },
+    {
+      "linha1": "Escolha o lugar",
+      "linha2": "e deixe lá por",
+      "destaque": "1 mês",
+      "texto": "Não troque a planta de lugar toda hora. Observe como ela reage e só mude com critério.",
+      "dica": "Folha queimada? Recue o vaso para um lugar com luz indireta."
+    },
+    {
+      "tarja": "Mito",
+      "linha1": "Eu tenho",
+      "linha2": "mão ruim para",
+      "destaque": "plantas",
+      "texto": "Não. Você não é um assassino de plantas. Quase sempre a planta só está no lugar errado.",
+      "nota": "Observe mais, a planta avisa."
+    },
+    {
+      "texto": "Olhe a luz com calma e a planta agradece em folhas verdes. Salve este post para quando a dúvida bater.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "A luz é a comida da planta e a água é a bebida. Luz demais ou de menos faz a planta passar fome ou sofrer.",
+      "pagina": 2,
+      "trecho": "A luz é a comida delas. A água é a bebida.",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 2"
+    },
+    {
+      "texto": "Sol pleno é a varanda com sol direto por pelo menos 6 horas por dia.",
+      "pagina": 3,
+      "trecho": "por pelo menos 6 horas por dia (geralmente entre 10h e 16h)",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 3"
+    },
+    {
+      "texto": "Sombra iluminada é a varanda clara, onde dá para ler um livro sem acender a lâmpada, mas o sol nunca encosta na planta.",
+      "pagina": 3,
+      "trecho": "dá para ler um livro tranquilamente sem acender a lâmpada",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 3"
+    },
+    {
+      "texto": "Primeiro descubra a luz da sua varanda. Depois escolha a planta certa para aquela luz.",
+      "pagina": 14,
+      "trecho": "Primeiro, descubra a luz da sua varanda. Depois, escolha a planta certa para aquela luz.",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 14"
+    },
+    {
+      "texto": "Folhas escuras e galhos finos e compridos, com espaço grande entre as folhas, são sinal de fome de luz.",
+      "pagina": 8,
+      "trecho": "os galhos crescem finos e compridos, com espaços grandes entre as folhas",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 8"
+    },
+    {
+      "texto": "Planta queimada pelo sol: recue o vaso para um lugar com luz indireta.",
+      "pagina": 8,
+      "trecho": "Recue o vaso para um lugar com luz indireta",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 8"
+    },
+    {
+      "texto": "Escolha um lugar para a planta e deixe ela lá por pelo menos 1 mês, sem trocar toda hora.",
+      "pagina": 14,
+      "trecho": "Escolha um lugar e deixe ela lá por pelo menos 1 mês",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 14"
+    },
+    {
+      "texto": "Na jiboia, folhas muito pálidas ou que perdem as manchas claras podem ser sinal de luz demais.",
+      "pagina": 6,
+      "trecho": "Se as folhas começarem a ficar muito pálidas ou perderem as manchas brancas/amarelas, pode ser luz demais",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 6"
+    },
+    {
+      "texto": "Você não é um assassino de plantas. O problema costuma ser o lugar errado.",
+      "pagina": 2,
+      "trecho": "Você não é um assassino de plantas.",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 2"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "fontes": [
+    "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 2",
+    "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 3",
+    "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 14",
+    "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 8",
+    "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 6"
+  ],
+  "materia": {
+    "slug": "jiboia-luz-certa-sem-culpa",
+    "titulo": "Jiboia e a luz: como achar o lugar certo",
+    "descricao": "Folha pálida, galho comprido ou borda queimada? Pode ser a luz. Veja como descobrir a luz da sua varanda e escolher o lugar certo para a jiboia. Sem culpa.",
+    "introducao": "Se a sua jiboia anda estranha, respire. Muita gente culpa a rega, a terra ou a própria mão, quando o problema está na luz do lugar onde a planta foi colocada. O ebook do André diz que a luz é a comida da planta, e comida errada faz qualquer um sofrer. Neste texto, a gente conversa sobre como ler a luz da sua casa, quais sinais a jiboia dá e o que fazer sem pressa e sem culpa. Quem já perdeu planta sabe como dói, e é por isso que vale ir com calma, um passo de cada vez.",
+    "secoes": [
+      {
+        "titulo": "A luz é a comida da planta",
+        "paragrafos": [
+          "O André gosta de lembrar que planta não é enfeite parado, como uma almofada ou um quadro. Ela é um ser vivo, e a luz é a comida dela. A água é a bebida. Quando a gente dá luz demais ou luz de menos, a planta passa fome ou sofre, e muitas vezes a gente pensa que errou no cuidado.",
+          "Por isso o primeiro passo não é comprar adubo nem mudar a rega. É olhar para o lugar. Antes de culpar a si mesmo, vale perguntar: será que a luz aqui combina com a minha planta?"
+        ],
+        "fatosUsados": [
+          0,
+          8
+        ]
+      },
+      {
+        "titulo": "Como saber a luz da sua varanda",
+        "paragrafos": [
+          "O livro explica a luz na linguagem do dia a dia. Sol pleno é aquele sol direto, que bate na planta por pelo menos 6 horas por dia. É um sol forte, que pede planta guerreira.",
+          "Já a sombra iluminada é a varanda clara, onde dá para ler um livro sem acender a lâmpada, mas o sol nunca encosta direto na planta. Entre os dois fica a meia-sombra, um solzinho mais gentil, só um pouquinho de manhã ou no fim da tarde. Se você tem dúvida, observe o lugar durante o dia e anote quando o sol aparece."
+        ],
+        "fatosUsados": [
+          1,
+          2
+        ]
+      },
+      {
+        "titulo": "O que a jiboia mostra quando tem luz demais",
+        "paragrafos": [
+          "A jiboia é uma planta fácil e versátil, mas ela também avisa. Se as folhas começarem a ficar muito pálidas ou perderem as manchas claras, pode ser luz demais. O livro sugere recuar um pouco o vaso.",
+          "Se a folha chegou a queimar, a orientação é a mesma: recue o vaso para um lugar com luz indireta. A boa notícia é que um gesto pequeno, de mudar o vaso de lugar, costuma ajudar bastante."
+        ],
+        "fatosUsados": [
+          7,
+          5
+        ]
+      },
+      {
+        "titulo": "E quando falta luz",
+        "paragrafos": [
+          "O sinal da falta de luz é outro. A planta fica com as folhas mais escuras e os galhos crescem finos e compridos, com espaços grandes entre as folhas. É como se ela estivesse esticando o pescoço em busca de luz.",
+          "Nesse caso, o caminho é aproximar a planta de uma fonte de luz. Faça isso aos poucos e observe como ela responde."
+        ],
+        "fatosUsados": [
+          4
+        ]
+      },
+      {
+        "titulo": "Escolha um lugar e dê tempo",
+        "paragrafos": [
+          "Depois de descobrir a luz da sua varanda, escolha a planta certa para aquela luz, e não o contrário. O livro lembra que beleza vem da planta saudável, não da planta no lugar errado.",
+          "Escolhido o lugar, deixe a planta lá por pelo menos 1 mês, sem ficar trocando toda hora. Assim você consegue ver como ela reage e decidir com calma se precisa mudar."
+        ],
+        "fatosUsados": [
+          3,
+          6
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Quantas horas de sol a jiboia precisa por dia?",
+        "resposta": "O livro não dá um número de horas para a jiboia. Ele descreve a meia-sombra como sol fraco da manhã ou claridade forte, e pede para observar a folha: pálida demais pode ser luz demais."
+      },
+      {
+        "pergunta": "Posso trocar a jiboia de lugar toda semana para testar?",
+        "resposta": "Melhor não. O livro pede para deixar a planta no mesmo lugar por pelo menos 1 mês e só mudar com critério se ela estiver sofrendo."
+      },
+      {
+        "pergunta": "Folha queimada volta ao normal?",
+        "resposta": "O livro orienta recuar o vaso para um lugar com luz indireta. Sobre a folha já danificada, ele não promete que ela se recupere, e as folhas novas tendem a nascer saudáveis no lugar certo."
+      }
+    ],
+    "conclusao": "A luz não é um mistério, é uma conversa. Olhe o seu lugar, leia os sinais da jiboia e mude o vaso com calma quando precisar. Você não é um assassino de plantas, só estava com a planta no lugar errado. Salve este texto para a próxima vez que a dúvida bater e conte para quem também cuida de planta com medo de errar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

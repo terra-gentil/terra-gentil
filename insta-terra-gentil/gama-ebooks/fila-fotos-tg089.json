@@ -1,0 +1,70 @@
+{
+  "livro": "TG 089",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "bet-gesto-1",
+      "especie": "beetroot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands dropping knobbly beetroot seeds into a glass of water to soak overnight, on a wooden garden table",
+      "mascote": false
+    },
+    {
+      "id": "bet-gesto-2",
+      "especie": "beetroot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sowing beetroot seeds about 1 cm deep in a shallow furrow of a vegetable bed; the small mascot figurine stands on the soil at the end of the furrow",
+      "mascote": true
+    },
+    {
+      "id": "bet-gesto-3",
+      "especie": "beetroot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands using small scissors to snip the extra seedlings from a cluster of young beetroot seedlings, leaving only one",
+      "mascote": false
+    },
+    {
+      "id": "bet-sintoma-1",
+      "especie": "beetroot",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Crowded row of beetroot plants with small undersized roots pressed against each other in a vegetable bed",
+      "mascote": false
+    },
+    {
+      "id": "bet-var-listrada",
+      "especie": "chioggia beetroot",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Chioggia beetroot cut in half showing pink and white concentric rings inside, next to whole beets with leaves",
+      "mascote": false
+    },
+    {
+      "id": "bet-var-acelga-colorida",
+      "especie": "rainbow chard",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Rainbow Swiss chard with red, yellow and orange stalks growing among flowers in a garden bed; the small mascot figurine sits on the edging stone of the bed",
+      "mascote": true
+    },
+    {
+      "id": "bet-var-aspargo-branco",
+      "especie": "white asparagus",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Bunch of white asparagus spears beside a bunch of green asparagus on a rustic wooden table",
+      "mascote": false
+    },
+    {
+      "id": "bet-var-microverde",
+      "especie": "beet microgreens",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tray of beet microgreens with small green leaves and bright red stems and veins on a sunny windowsill",
+      "mascote": false
+    }
+  ]
+}

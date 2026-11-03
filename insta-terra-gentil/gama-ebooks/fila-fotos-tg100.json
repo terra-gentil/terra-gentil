@@ -1,0 +1,70 @@
+{
+  "livro": "TG 100",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "gen-gesto-1",
+      "especie": "spider plant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands picking a small plantlet at the tip of a long arching stem of a spider plant",
+      "mascote": false
+    },
+    {
+      "id": "gen-gesto-2",
+      "especie": "spider plant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a spider plant plantlet from its stem with small scissors, leaving a little piece of stem attached",
+      "mascote": false
+    },
+    {
+      "id": "gen-gesto-3",
+      "especie": "spider plant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting a spider plant plantlet into a small pot with drainage holes; the small mascot figurine sits on the rim of the pot",
+      "mascote": true
+    },
+    {
+      "id": "gen-sintoma-1",
+      "especie": "coleus",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Old leggy coleus plant in a pot with thin flower spikes on top and faded sparse leaves",
+      "mascote": false
+    },
+    {
+      "id": "gen-var-aspidistra",
+      "especie": "cast iron plant",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Aspidistra with broad dark green upright leaves in a pot in a shady corner of a house; the small mascot figurine stands on the floor beside the pot",
+      "mascote": true
+    },
+    {
+      "id": "gen-var-cissus-uva",
+      "especie": "cissus Ellen Danica",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cissus Ellen Danica with glossy three-lobed leaves in a pot indoors",
+      "mascote": false
+    },
+    {
+      "id": "gen-var-abacaxi-roxo",
+      "especie": "moses-in-the-cradle",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tradescantia spathacea with stiff leaves dark green on top and purple underneath, in a pot",
+      "mascote": false
+    },
+    {
+      "id": "gen-var-planta-batom",
+      "especie": "lipstick plant",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Lipstick plant trailing from a hanging pot with red tubular flowers with yellowish mouths",
+      "mascote": false
+    }
+  ]
+}

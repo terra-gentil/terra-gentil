@@ -1,0 +1,550 @@
+{
+  "livro": "TG 088",
+  "titulo": "Batata e Inhame",
+  "serie": "#5B4630",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "088",
+        "COLEÇÃO TERRA GENTIL",
+        "BATATA",
+        "Batata e Inhame",
+        "Batata, batata-doce, inhame e taioba.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-A-1.jpg",
+          "alt": "André na horta do quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "h35-146",
+        "g32-187"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Batata, batata-doce, inhame e taioba.",
+        "Batata dá até num saco de terra.",
+        "Aqui tem plantio, muda, colheita e história.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Deixe uma batata brotar num lugar claro.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 088 BATATA E INHAME",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-B-1.jpg",
+          "alt": "André olhando a horta"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "g32-187",
+        "i36-198"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Brote a batata antes.",
+        "Brotada num lugar claro, ela dá colheita mais cedo.",
+        "BROTO",
+        "Plante com broto de 2 cm.",
+        "Olhos para cima, na caixa de ovo.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 088 BATATA E INHAME",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da batata",
+        "06",
+        "CAPÍTULO 1",
+        "Batata: o básico",
+        "08",
+        "CAPÍTULO 2",
+        "Plantar e multiplicar",
+        "12",
+        "CAPÍTULO 3",
+        "Colher e guardar",
+        "15",
+        "CAPÍTULO 4",
+        "Outros da terra",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Folha de inhame manchada? Vá para a página 11.",
+        "Na próxima: a ficha da batata",
+        "→",
+        "TG 088 BATATA E INHAME",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "g32-188",
+        "i36-204",
+        "i36-198",
+        "h35-242"
+      ],
+      "textos": [
+        "FICHA DA BATATA",
+        "Antes de plantar",
+        "O que ela pede",
+        "ESPAÇO",
+        "30 a 40 cm",
+        "VASO",
+        "Um pé por 30 cm",
+        "REGA",
+        "Úmida, sem encharcar",
+        "BROTO",
+        "2 cm antes",
+        "TERRA",
+        "Chegue no pé",
+        "DE BATATA-SEMENTE",
+        "ATENÇÃO",
+        "Coberta, não esverdeia",
+        "Na próxima: batata: o básico",
+        "→",
+        "TG 088 BATATA E INHAME",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Batata: o básico",
+        "01",
+        "Certo e errado",
+        "02",
+        "Batata no balde, passo a passo",
+        "03",
+        "Folha de inhame manchada",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 088 BATATA E INHAME",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-A-1.jpg",
+          "alt": "André mexendo na terra"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "i36-197",
+        "g32-187",
+        "h35-242",
+        "g32-189",
+        "i36-199",
+        "h35-241"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Batata-semente",
+        "Certificada",
+        "Sem garantia",
+        "Antes de plantar",
+        "Brotar no claro",
+        "Sem brotar",
+        "Batata crescendo",
+        "Terra no pé",
+        "Batata à mostra",
+        "Na colheita",
+        "Garfo ao lado",
+        "Garfo no pé",
+        "Na terra: covas de 10 cm, a cada 30 cm, broto para cima.",
+        "DICA DO ANDRÉ",
+        "Pouco espaço? A batata precoce é a melhor.",
+        "Na próxima: plantar e multiplicar",
+        "→",
+        "TG 088 BATATA E INHAME",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Plantar e multiplicar",
+        "01",
+        "Batata no balde, passo a passo",
+        "02",
+        "Inhame e taioba",
+        "03",
+        "Folha de inhame manchada",
+        "Na próxima: batata no balde, passo a passo",
+        "→",
+        "TG 088 BATATA E INHAME",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-A-1.jpg",
+          "alt": "André plantando no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "i36-201",
+        "i36-204",
+        "i36-203"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Batata no balde? Faça assim.",
+        "BALDE",
+        "Furo no fundo",
+        "BATATAS",
+        "Até cinco",
+        "TERRA",
+        "Úmida, sem encharcar",
+        "1",
+        "FUNDO",
+        "Um terço de terra no balde.",
+        "2",
+        "BATATAS",
+        "Até cinco, com 15 cm de terra.",
+        "3",
+        "COMPLETE",
+        "Ponha terra conforme cresce.",
+        "DICA DO ANDRÉ",
+        "Cave com a mão e tire só o que vai usar.",
+        "Na próxima: inhame e taioba",
+        "→",
+        "TG 088 BATATA E INHAME",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bat-gesto-1.jpg",
+          "alt": "Mãos enchendo um terço do balde com terra"
+        },
+        {
+          "src": "bat-gesto-2.jpg",
+          "alt": "Mãos pondo batatas brotadas dentro do balde"
+        },
+        {
+          "src": "bat-gesto-3.jpg",
+          "alt": "Mãos completando com terra em volta dos brotos de batata"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "w18-165",
+        "w18-173",
+        "m33-082"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · MUDA",
+        "Inhame e taioba",
+        "Inhame: plante o filhote, o tubérculo pequeno.",
+        "Ou a cabeça: o topo com um pedaço do talo.",
+        "Taioba: filhote, pedaço do tubérculo ou do talo.",
+        "Nos dois, o pedaço com talo rende mais.",
+        "Pedem calor, umidade e terra rica.",
+        "Na próxima: folha de inhame manchada",
+        "→",
+        "TG 088 BATATA E INHAME",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "w18-166"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Folha de inhame manchada?",
+        "1",
+        "O QUE PARECE",
+        "Manchas claras em pena nas nervuras.",
+        "O QUE PODE SER",
+        "Vírus do mosaico, levado por pulgão.",
+        "COMO RESOLVER",
+        "Não tem cura: tire a planta e replante muda sadia.",
+        "Na próxima: colher e guardar",
+        "→",
+        "TG 088 BATATA E INHAME",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bat-sintoma-1.jpg",
+          "alt": "Folha de inhame com manchas claras ao longo das nervuras"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Colher e guardar",
+        "01",
+        "Hora de colher",
+        "02",
+        "Água e requeima",
+        "03",
+        "Outros da terra",
+        "Na próxima: hora de colher",
+        "→",
+        "TG 088 BATATA E INHAME",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-C-1.jpg",
+          "alt": "André colhendo na horta"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "h35-147",
+        "m33-085",
+        "i36-202",
+        "w18-172",
+        "g32-102",
+        "g32-190"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · COLHEITA",
+        "Hora de colher",
+        "BATATA",
+        "Depois da flor",
+        "INHAME",
+        "16 a 24 semanas",
+        "QUANDO COLHER",
+        "Batata",
+        " quando a rama começar a murchar",
+        "Precoce",
+        " olhe com 10 a 12 semanas",
+        "Taioba",
+        " de 9 a 12 meses depois do plantio",
+        "Batata-doce",
+        " quando a rama amarelar",
+        "Cuidado",
+        "Para guardar",
+        " seque a batata umas horas",
+        "Batata-doce",
+        " cure a casca uns dias no quente",
+        "Na próxima: água e requeima",
+        "→",
+        "TG 088 BATATA E INHAME",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "s2-94",
+        "w18-164",
+        "i36-204"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "A requeima da batata causou a grande fome da Irlanda, em 1845.",
+        "O nome do fungo quer dizer \"destruidor de plantas\".",
+        "O inhame ama água, mas não aguenta água parada.",
+        "FAÇA ASSIM",
+        "Na roça, faça valeta para a água correr.",
+        "No balde, terra úmida e furo no fundo.",
+        "Na próxima: outros da terra",
+        "→",
+        "TG 088 BATATA E INHAME",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "g32-101",
+        "m33-290",
+        "v19-019",
+        "v19-066"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro da terra",
+        "1",
+        "Batata-doce",
+        "Folha e broto também se comem.",
+        "2",
+        "Cebola",
+        "Sol pleno e terra rica.",
+        "3",
+        "Alho",
+        "Branco, rosa ou roxo.",
+        "4",
+        "Gengibre",
+        "Pedaço do rizoma em terra solta.",
+        "CHAVE",
+        "Terra rica",
+        "Que escorra bem",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 088 BATATA E INHAME",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bat-var-batata-doce.jpg",
+          "alt": "Rama de batata-doce com batatas recém-colhidas"
+        },
+        {
+          "src": "bat-var-cebola.jpg",
+          "alt": "Cebolas com a casca seca sobre a mesa"
+        },
+        {
+          "src": "bat-var-alho.jpg",
+          "alt": "Cabeças de alho branco, rosa e roxo"
+        },
+        {
+          "src": "bat-var-gengibre.jpg",
+          "alt": "Pedaços de gengibre brotando na terra solta"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "g32-224",
+        "g32-481",
+        "g32-100",
+        "h35-252",
+        "g32-099"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "CEBOLA FRACA",
+        "Terra ácida: calcário antes.",
+        "MOSCA NA CEBOLA",
+        "Tela de 0,8 mm em arcos.",
+        "BATATA-DOCE",
+        "Plante atravessando um papelão.",
+        "ALHO SEM CABEÇA",
+        "Ele precisa de um tempo de frio.",
+        "DICA DO ANDRÉ",
+        "Rama de graça: deixe uma batata-doce brotar no quente.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 088 BATATA E INHAME",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "w18-160",
+        "w18-161"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "10",
+        "MIL",
+        "anos, e até mais, que o inhame é plantado na Ásia, antes até do arroz.",
+        "É a planta cultivada mais antiga do mundo.",
+        "E MAIS UMA",
+        "O inhame chegou às Américas nos navios negreiros, como comida da viagem.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 088 BATATA E INHAME",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "g32-187",
+        "i36-198",
+        "i36-201",
+        "h35-242",
+        "w18-164",
+        "g32-224",
+        "h35-147",
+        "g32-190"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Batata brotando num lugar claro",
+        "Broto de 2 cm, olhos para cima",
+        "Balde com furo e um terço de terra",
+        "Terra no pé até 10 cm da ponta",
+        "Inhame sem água parada",
+        "Cebola em terra corrigida",
+        "Batata colhida depois da flor",
+        "Batata seca antes de guardar",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 088 BATATA E INHAME",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua batata der um balde cheio, me conta. E divide uma batata brotada com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "088",
+        "VOCÊ TEM",
+        "089",
+        "090",
+        "091",
+        "092",
+        "093",
+        "São 88 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 089 BETERRABA E ACELGA",
+        "Comente BETERRABA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 088 BATATA E INHAME",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

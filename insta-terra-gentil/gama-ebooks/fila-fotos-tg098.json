@@ -1,0 +1,70 @@
+{
+  "livro": "TG 098",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "rdf-gesto-1",
+      "especie": "desert rose",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands moving the whole intact root ball of a desert rose with a swollen caudex into a larger pot, without breaking it apart",
+      "mascote": false
+    },
+    {
+      "id": "rdf-gesto-2",
+      "especie": "desert rose",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands filling fresh potting mix around the root ball of a desert rose in its new larger pot; the small mascot figurine sits on the rim of the pot",
+      "mascote": true
+    },
+    {
+      "id": "rdf-gesto-3",
+      "especie": "desert rose",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands watering a freshly repotted desert rose with a watering can",
+      "mascote": false
+    },
+    {
+      "id": "rdf-sintoma-1",
+      "especie": "desert rose",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Ceramic pot cracked and deformed by the thick swollen roots of a desert rose growing inside it",
+      "mascote": false
+    },
+    {
+      "id": "rdf-var-crimson-star",
+      "especie": "desert rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Desert rose with deep crimson red flowers on a potted plant in full sun",
+      "mascote": false
+    },
+    {
+      "id": "rdf-var-obesum",
+      "especie": "desert rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Close-up of a pink Adenium obesum flower that fades lighter toward the center, with red nectar guide lines in the throat",
+      "mascote": false
+    },
+    {
+      "id": "rdf-var-hibrida",
+      "especie": "desert rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Close-up of a hybrid desert rose flower with solid color petals and a dark throat",
+      "mascote": false
+    },
+    {
+      "id": "rdf-var-socotra",
+      "especie": "Socotra desert rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Socotra desert rose with a huge swollen bottle-shaped caudex and few branches in a wide pot; the small mascot figurine stands on the ground at the foot of the pot",
+      "mascote": true
+    }
+  ]
+}

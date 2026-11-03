@@ -1,0 +1,558 @@
+{
+  "livro": "TG 091",
+  "titulo": "Pepino e Berinjela",
+  "serie": "#3A4F1A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "091",
+        "COLEÇÃO TERRA GENTIL",
+        "PEPINO",
+        "Pepino e Berinjela",
+        "Pepino, berinjela, quiabo e abóbora.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-A-1.jpg",
+          "alt": "André na horta com os pés de pepino e berinjela"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "h35-227",
+        "m33-250",
+        "h35-117"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Pepino e berinjela, do vaso à colheita.",
+        "Pepino pede calor, muita água e tempo.",
+        "Aqui tem rega, semente, vaso e colheita.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ponha uma semente de berinjela de molho.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 091 PEPINO E BERINJELA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-B-1.jpg",
+          "alt": "André olhando um canteiro de horta"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "h35-117",
+        "h35-129",
+        "m33-310"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Dê apoio para o pepino subir.",
+        "Bambu em tenda ou roda de bicicleta.",
+        "APOIO",
+        "Barbante de baixo para cima.",
+        "Terra rica, que escoe.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 091 PEPINO E BERINJELA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do pepino",
+        "06",
+        "CAPÍTULO 1",
+        "Sol e rega",
+        "08",
+        "CAPÍTULO 2",
+        "Da semente à muda",
+        "12",
+        "CAPÍTULO 3",
+        "Cuidado no vaso",
+        "15",
+        "CAPÍTULO 4",
+        "Colheita de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Broto murcho? Vá para a página 11.",
+        "Na próxima: a ficha do pepino",
+        "→",
+        "TG 091 PEPINO E BERINJELA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "h35-227",
+        "m33-310",
+        "g32-212",
+        "h35-117"
+      ],
+      "textos": [
+        "FICHA DO PEPINO",
+        "Antes de plantar",
+        "O que ele pede",
+        "CALOR",
+        "Precisa muito",
+        "TERRA",
+        "Rica, que escoe",
+        "ÁGUA",
+        "Muita",
+        "LUGAR",
+        "Abrigado",
+        "TEMPO",
+        "16 a 20 semanas",
+        "DA HORTA",
+        "ATENÇÃO",
+        "Terra úmida que drena",
+        "Na próxima: sol e rega",
+        "→",
+        "TG 091 PEPINO E BERINJELA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Sol e rega",
+        "01",
+        "Certo e errado",
+        "02",
+        "Pepino no vaso, passo a passo",
+        "03",
+        "Broto murcho?",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 091 PEPINO E BERINJELA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-regar-A-1.jpg",
+          "alt": "André regando a horta"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "m33-251",
+        "g32-093",
+        "h35-085",
+        "g32-212",
+        "i36-138"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Berinjela",
+        "Sol pleno",
+        "Sombra",
+        "Rega da berinjela",
+        "Terra úmida",
+        "Encharcada",
+        "Muda nova",
+        "Crivo fino",
+        "Jato forte",
+        "Pepino",
+        "Lugar abrigado",
+        "Exposto",
+        "Regar a muda encosta a terra na raiz.",
+        "DICA DO ANDRÉ",
+        "Crivo fino não derruba a muda.",
+        "Na próxima: da semente à muda",
+        "→",
+        "TG 091 PEPINO E BERINJELA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Da semente à muda",
+        "01",
+        "Pepino no vaso, passo a passo",
+        "02",
+        "Berinjela e cia.",
+        "03",
+        "Broto murcho?",
+        "Na próxima: pepino no vaso, passo a passo",
+        "→",
+        "TG 091 PEPINO E BERINJELA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-A-1.jpg",
+          "alt": "André com mudas de horta nas mãos"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "m33-309",
+        "m33-310",
+        "h35-117",
+        "s28-177"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Pepino no vaso? Faça assim.",
+        "SEMENTE",
+        "A 2 cm",
+        "TERRA",
+        "Rica e úmida",
+        "APOIO",
+        "Tenda de bambu",
+        "1",
+        "SEMEIE",
+        "Num montinho, a 2 cm de fundo.",
+        "2",
+        "MONTE",
+        "Três bambus amarrados em tenda.",
+        "3",
+        "ENROLE",
+        "Barbante de baixo para cima.",
+        "DICA DO ANDRÉ",
+        "Três pares de folhas? Belisque a ponta.",
+        "Na próxima: berinjela e cia.",
+        "→",
+        "TG 091 PEPINO E BERINJELA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "pep-gesto-1.jpg",
+          "alt": "Mãos pondo semente de pepino a 2 cm num montinho de terra no vaso"
+        },
+        {
+          "src": "pep-gesto-2.jpg",
+          "alt": "Mãos amarrando três bambus em tenda sobre o vaso"
+        },
+        {
+          "src": "pep-gesto-3.jpg",
+          "alt": "Mãos enrolando barbante de baixo para cima no bambu, com a muda de pepino"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "m33-250",
+        "h35-201",
+        "m33-284",
+        "s28-155",
+        "w31-180"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · SEMENTE",
+        "Berinjela e cia.",
+        "Berinjela: semente 24 horas em água morna.",
+        "Berinjela: uma por vasinho, sem mexer na raiz.",
+        "Quiabo: 24 horas de molho antes de plantar.",
+        "Abóbora: semente achatada vai de lado.",
+        "Abóbora: 1ª folha virada para longe do apoio.",
+        "Na próxima: broto murcho?",
+        "→",
+        "TG 091 PEPINO E BERINJELA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "w31-066"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Broto murcho?",
+        "1",
+        "O QUE PARECE",
+        "Folha e broto murchando.",
+        "O QUE PODE SER",
+        "Pulgão preto sugando a seiva.",
+        "COMO RESOLVER",
+        "Procure embaixo da folha e no broto novo.",
+        "Na próxima: cuidado no vaso",
+        "→",
+        "TG 091 PEPINO E BERINJELA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "pep-sintoma-1.jpg",
+          "alt": "Pulgão preto embaixo da folha e no broto novo de um pé de pepino"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Cuidado no vaso",
+        "01",
+        "Berinjela no vaso",
+        "02",
+        "Tela na horta",
+        "03",
+        "Colheita de perto",
+        "Na próxima: berinjela no vaso",
+        "→",
+        "TG 091 PEPINO E BERINJELA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-adubar-A-1.jpg",
+          "alt": "André adubando um vaso da horta"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "m33-251",
+        "g32-093",
+        "h35-200",
+        "g32-097",
+        "h35-201",
+        "h35-224"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · VASO",
+        "Berinjela no vaso",
+        "LUZ",
+        "Sol pleno",
+        "TERRA",
+        "Úmida, sem encharcar",
+        "O QUE ELA PEDE",
+        "Vaso",
+        " de 30 cm",
+        "Vara",
+        " firme para amarrar",
+        "Com 25 cm",
+        " belisque a ponta",
+        "Flor",
+        " adubo com potássio a cada 6 a 10 dias",
+        "Cuidado",
+        "Raiz",
+        " não gosta que mexam",
+        "Paciência",
+        " colheita em 24 a 28 semanas",
+        "Na próxima: tela na horta",
+        "→",
+        "TG 091 PEPINO E BERINJELA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "p29-112",
+        "h35-310",
+        "w31-066",
+        "g32-464",
+        "g32-498"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · TELA",
+        "ATENÇÃO",
+        "Lagarta come a folha à noite.",
+        "Gato e cachorro cavam a horta.",
+        "Pulgão preto suga a seiva do broto.",
+        "FAÇA ASSIM",
+        "Tela de 5 mm contra a borboleta da lagarta.",
+        "Fruta grande e verde: tela fina no galho.",
+        "Na próxima: colheita de perto",
+        "→",
+        "TG 091 PEPINO E BERINJELA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "m33-251",
+        "m33-286",
+        "m33-306",
+        "g32-167",
+        "h35-224"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro da horta",
+        "1",
+        "Berinjela",
+        "Sol pleno, 60 a 75 cm entre pés.",
+        "2",
+        "Quiabo",
+        "Deixe 20 cm entre as mudas.",
+        "3",
+        "Melancia",
+        "Colhe 11 a 14 semanas após polinizar.",
+        "4",
+        "Abóbora",
+        "Come até a flor, recheada e frita.",
+        "CHAVE",
+        "Paciência",
+        "Até a colheita",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 091 PEPINO E BERINJELA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "pep-var-berinjela.jpg",
+          "alt": "Pé de berinjela com frutos roxos no sol"
+        },
+        {
+          "src": "pep-var-quiabo.jpg",
+          "alt": "Pé de quiabo com quiabos verdes e uma flor amarela"
+        },
+        {
+          "src": "pep-var-melancia.jpg",
+          "alt": "Melancia madura no chão da horta"
+        },
+        {
+          "src": "pep-var-abobora.jpg",
+          "alt": "Abóbora com flor amarela grande e ramos no chão"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "i36-301",
+        "i36-233",
+        "n10-87",
+        "a8-207",
+        "s28-132"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "FLOR SEM FRUTO",
+        "Ponha flores para a abelha.",
+        "MUDA ESPICHADA",
+        "Falta sol ou sobra adubo.",
+        "RAIZ COM CAROÇO",
+        "Nematoide, um verme miúdo.",
+        "SEMENTE ATRASOU",
+        "Palha nova? Espere a chuva.",
+        "DICA DO ANDRÉ",
+        "Anote o que deu errado.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 091 PEPINO E BERINJELA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "h35-119",
+        "s28-179",
+        "g32-168"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "1",
+        "DÚZIA",
+        "de frutos pode dar cada pé de pepino no verão.",
+        "E cada pepino nasce atrás da flor fêmea.",
+        "E MAIS UMA",
+        "A abóbora foi domesticada na América Central.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 091 PEPINO E BERINJELA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "m33-250",
+        "m33-309",
+        "h35-117",
+        "s28-177",
+        "g32-093",
+        "g32-097",
+        "g32-498",
+        "i36-301"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Semente de berinjela 24 h em água morna",
+        "Pepino a 2 cm, num montinho",
+        "Tenda de bambu com barbante",
+        "Ponta do pepino beliscada",
+        "Berinjela em vaso de 30 cm",
+        "Adubo com potássio na flor",
+        "Tela fina na fruta verde",
+        "Flores na horta para a abelha",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 091 PEPINO E BERINJELA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se o seu pepino subir na tenda de bambu, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "091",
+        "VOCÊ TEM",
+        "092",
+        "093",
+        "094",
+        "095",
+        "096",
+        "São 91 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 092 FLORES CHEIROSAS",
+        "Comente JASMIM no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 091 PEPINO E BERINJELA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-C-1.jpg",
+          "alt": "Retrato do André na horta"
+        }
+      ]
+    }
+  ]
+}

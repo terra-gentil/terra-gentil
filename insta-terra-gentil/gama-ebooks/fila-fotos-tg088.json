@@ -1,0 +1,70 @@
+{
+  "livro": "TG 088",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "bat-gesto-1",
+      "especie": "potato",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pouring soil into a plastic bucket with drainage holes in the bottom, until it is one third full",
+      "mascote": false
+    },
+    {
+      "id": "bat-gesto-2",
+      "especie": "potato",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing sprouted seed potatoes, shoots facing up, on the soil inside the bucket; the small mascot figurine sits on the rim of the bucket",
+      "mascote": true
+    },
+    {
+      "id": "bat-gesto-3",
+      "especie": "potato",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands adding soil around young green potato shoots growing inside the bucket",
+      "mascote": false
+    },
+    {
+      "id": "bat-sintoma-1",
+      "especie": "taro",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Taro leaf with pale, feather-shaped mottled patches along the veins (dasheen mosaic virus)",
+      "mascote": false
+    },
+    {
+      "id": "bat-var-batata-doce",
+      "especie": "sweet potato",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Sweet potato vine with heart-shaped leaves next to freshly dug sweet potatoes on the soil",
+      "mascote": false
+    },
+    {
+      "id": "bat-var-cebola",
+      "especie": "onion",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Harvested onions with dry papery outer skins on a wooden table in a sunny backyard",
+      "mascote": false
+    },
+    {
+      "id": "bat-var-alho",
+      "especie": "garlic",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Garlic heads of different sizes with white, pink and purple skins on a rustic wooden table; the small mascot figurine stands on the table next to them",
+      "mascote": true
+    },
+    {
+      "id": "bat-var-gengibre",
+      "especie": "ginger",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Pieces of ginger rhizome with green shoots planted in loose, rich, well-drained soil",
+      "mascote": false
+    }
+  ]
+}

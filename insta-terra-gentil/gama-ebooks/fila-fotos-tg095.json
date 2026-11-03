@@ -1,0 +1,70 @@
+{
+  "livro": "TG 095",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "nin-gesto-1",
+      "especie": "wooden nesting tray",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands measuring a small raw unpainted wooden board, about 10 to 15 cm wide, with a tape measure on a garden workbench",
+      "mascote": false
+    },
+    {
+      "id": "nin-gesto-2",
+      "especie": "wooden nesting tray",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands fixing a low 3 cm raw wooden rim around the edges of a small square wooden tray",
+      "mascote": false
+    },
+    {
+      "id": "nin-gesto-3",
+      "especie": "climbing plant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands fixing a small raw wooden nesting tray to a garden wall about one meter above the ground, half hidden behind the leaves of a climbing plant; the small mascot figurine sits on the edge of the wooden tray",
+      "mascote": true
+    },
+    {
+      "id": "nin-sintoma-1",
+      "especie": "fruit shrub",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Soft loose plastic netting carelessly draped over a fruiting shrub in a home garden, with saggy folds and loose ends hanging, no birds",
+      "mascote": false
+    },
+    {
+      "id": "nin-var-girassol",
+      "especie": "sunflower",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dry sunflower head full of ripe seeds, still on the plant in the garden; the small mascot figurine stands on the soil at the foot of the sunflower stem",
+      "mascote": true
+    },
+    {
+      "id": "nin-var-piracanta",
+      "especie": "pyracantha",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Pyracantha shrub with thorny branches loaded with clusters of bright orange berries",
+      "mascote": false
+    },
+    {
+      "id": "nin-var-cotoneaster",
+      "especie": "cotoneaster",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cotoneaster covering a low garden wall with small leaves and many tiny red berries",
+      "mascote": false
+    },
+    {
+      "id": "nin-var-maria-pretinha",
+      "especie": "black nightshade",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Black nightshade plant (Solanum americanum) with small white flowers and clusters of ripe shiny black berries",
+      "mascote": false
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 087",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "tcj-gesto-1",
+      "especie": "tomato",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands filling a wide pot, at least 25 cm across, with dark rich soil",
+      "mascote": false
+    },
+    {
+      "id": "tcj-gesto-2",
+      "especie": "tomato",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting a young tomato seedling deep in the pot, burying the stem up to just below the first leaves; the small mascot figurine sits on the rim of the pot",
+      "mascote": true
+    },
+    {
+      "id": "tcj-gesto-3",
+      "especie": "tomato",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands gently winding a young tomato stem around a vertical string tied to an overhead support",
+      "mascote": false
+    },
+    {
+      "id": "tcj-sintoma-1",
+      "especie": "tomato",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Tomatoes on the plant with black, sunken, rotten patches on the bottom of the fruit (blossom end rot)",
+      "mascote": false
+    },
+    {
+      "id": "tcj-var-cascata",
+      "especie": "trailing cherry tomato",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Trailing cherry tomato plant cascading from a hanging pot, full of small ripe red tomatoes; the small mascot figurine stands on the balcony floor beneath the hanging pot",
+      "mascote": true
+    },
+    {
+      "id": "tcj-var-cereja",
+      "especie": "cherry tomato",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cherry tomato plant growing outdoors with clusters of small ripe red tomatoes",
+      "mascote": false
+    },
+    {
+      "id": "tcj-var-anao",
+      "especie": "dwarf tomato",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Compact dwarf tomato plant with red fruit growing in a small hanging basket",
+      "mascote": false
+    },
+    {
+      "id": "tcj-var-colorido",
+      "especie": "tomato varieties",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Yellow, green, purple and pear-shaped tomatoes harvested side by side in a wicker basket",
+      "mascote": false
+    }
+  ]
+}

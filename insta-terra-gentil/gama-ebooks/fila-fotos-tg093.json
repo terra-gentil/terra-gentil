@@ -1,0 +1,70 @@
+{
+  "livro": "TG 093",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "fsm-gesto-1",
+      "especie": "impatiens",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting an 8 to 10 cm tip cutting from a flowering impatiens plant with small pruning shears",
+      "mascote": false
+    },
+    {
+      "id": "fsm-gesto-2",
+      "especie": "impatiens",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pushing an impatiens tip cutting into a small pot of peat mixed with coarse sand; the small mascot figurine sits on the rim of the pot",
+      "mascote": true
+    },
+    {
+      "id": "fsm-gesto-3",
+      "especie": "impatiens",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing a small pot with an impatiens cutting in a bright corner away from strong direct sun",
+      "mascote": false
+    },
+    {
+      "id": "fsm-sintoma-1",
+      "especie": "impatiens",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Young impatiens seedlings collapsed and fallen over at the base of the stem in a small pot of damp soil",
+      "mascote": false
+    },
+    {
+      "id": "fsm-var-boca-de-leao",
+      "especie": "snapdragon",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Snapdragon with tall spikes of pink, yellow and white flowers in a sunny garden bed",
+      "mascote": false
+    },
+    {
+      "id": "fsm-var-perpetua",
+      "especie": "globe amaranth",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Gomphrena globosa with round purple and pink flower heads in a sunny garden bed",
+      "mascote": false
+    },
+    {
+      "id": "fsm-var-alisso",
+      "especie": "sweet alyssum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Sweet alyssum with tiny white flowers forming a low carpet along the edge of a garden bed; the small mascot figurine stands on the garden path next to it",
+      "mascote": true
+    },
+    {
+      "id": "fsm-var-nigela",
+      "especie": "love-in-a-mist",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Nigella damascena with pale blue flowers and inflated striped seed pods among feathery leaves",
+      "mascote": false
+    }
+  ]
+}

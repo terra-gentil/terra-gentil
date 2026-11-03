@@ -1,0 +1,70 @@
+{
+  "livro": "TG 097",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "sub-gesto-1",
+      "especie": "potted plant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands squeezing the edges of a small plastic pot and pulling the plant out by the stem near the soil, the root ball coming out whole",
+      "mascote": false
+    },
+    {
+      "id": "sub-gesto-2",
+      "especie": "potted plant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands gently loosening circling roots of a root ball with the fingers before planting; the small mascot figurine sits on the rim of the new pot",
+      "mascote": true
+    },
+    {
+      "id": "sub-gesto-3",
+      "especie": "potted plant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands settling a plant into a new pot with fresh potting mix, keeping the base of the stem at the same height it was before",
+      "mascote": false
+    },
+    {
+      "id": "sub-sintoma-1",
+      "especie": "potted plant",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Pot-bound plant whose root ball is stuck inside a tight pot, roots pressed against the pot wall, a long kitchen knife lying beside it",
+      "mascote": false
+    },
+    {
+      "id": "sub-var-argila",
+      "especie": "clay soil",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Handful of moist clay soil molded into a sticky smooth ball in a palm",
+      "mascote": false
+    },
+    {
+      "id": "sub-var-areia",
+      "especie": "sandy soil",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Sandy soil crumbling between fingers over a garden bed",
+      "mascote": false
+    },
+    {
+      "id": "sub-var-franca",
+      "especie": "loam soil",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dark crumbly loam soil in a garden bed, soft and well structured; the small mascot figurine stands on the garden path next to it",
+      "mascote": true
+    },
+    {
+      "id": "sub-var-fibra-de-coco",
+      "especie": "coconut coir",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Compressed coconut coir brick soaking in a bucket of water, starting to expand",
+      "mascote": false
+    }
+  ]
+}

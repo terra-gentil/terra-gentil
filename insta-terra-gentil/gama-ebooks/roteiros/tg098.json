@@ -1,0 +1,554 @@
+{
+  "livro": "TG 098",
+  "titulo": "Rosa-do-deserto em Flor",
+  "serie": "#6A1F4A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "098",
+        "COLEÇÃO TERRA GENTIL",
+        "FLORADA",
+        "Rosa-do-deserto",
+        "Em flor: raiz, vaso e cultivo.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "rosa-do-deserto-A-1.jpg",
+          "alt": "André com uma rosa-do-deserto florida"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "d5-01",
+        "d5-107",
+        "d5-08"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "A rosa-do-deserto é escultura e flor.",
+        "As melhores florem quase o ano todo.",
+        "Aqui tem flor, raiz, vaso e cultivo duro.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Olhe de perto a base gorda da sua planta.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 098 ROSA-DO-DESERTO EM FLOR",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rosa-do-deserto-B-1.jpg",
+          "alt": "André olhando a base gorda de uma rosa-do-deserto"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "d5-104",
+        "d5-67"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Sol máximo, menos água e adubo.",
+        "Galho curto e cáudice grande.",
+        "NITROGÊNIO",
+        "Em excesso, ele segura a flor.",
+        "Fósforo e potássio dão força.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 098 ROSA-DO-DESERTO EM FLOR",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da rosa-do-deserto",
+        "06",
+        "CAPÍTULO 1",
+        "A flor",
+        "08",
+        "CAPÍTULO 2",
+        "Vaso e raiz",
+        "12",
+        "CAPÍTULO 3",
+        "Cultivo duro",
+        "15",
+        "CAPÍTULO 4",
+        "Flores de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Raiz rachou o vaso? Vá para a página 11.",
+        "Na próxima: a ficha da rosa-do-deserto",
+        "→",
+        "TG 098 ROSA-DO-DESERTO EM FLOR",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "d5-104",
+        "d5-76",
+        "d5-79",
+        "d5-67",
+        "d5-08",
+        "d5-45",
+        "d5-48"
+      ],
+      "textos": [
+        "FICHA DA ROSA-DO-DESERTO",
+        "Antes de plantar",
+        "O que ela pede",
+        "LUZ",
+        "Sol máximo",
+        "TERRA",
+        "Fibra de coco grossa",
+        "VASO",
+        "Aguenta apertado",
+        "ADUBO",
+        "Nitrogênio sem exagero",
+        "RAIZ",
+        "Cáudice, a caixa-d'água",
+        "DE SAVANA",
+        "ATENÇÃO",
+        "Planta grande, rega cautelosa",
+        "Na próxima: a flor",
+        "→",
+        "TG 098 ROSA-DO-DESERTO EM FLOR",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "A flor",
+        "01",
+        "Certo e errado",
+        "02",
+        "Troca de vaso, passo a passo",
+        "03",
+        "Raiz rachou o vaso",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 098 ROSA-DO-DESERTO EM FLOR",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rosa-do-deserto-C-1.jpg",
+          "alt": "André olhando as flores de uma rosa-do-deserto"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "d5-76",
+        "d5-77",
+        "d5-48",
+        "d5-67",
+        "d5-78",
+        "d5-33",
+        "d5-112"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Fibra de coco",
+        "Grossa, de molho",
+        "Fina, tipo pó",
+        "Planta grande",
+        "Rega cautelosa",
+        "Rega de muda",
+        "Nitrogênio",
+        "Na medida",
+        "Em excesso",
+        "Vaso",
+        "Que pode perder",
+        "Cerâmica cara",
+        "Na natureza ela flore muitas vezes no descanso da seca.",
+        "DICA DO ANDRÉ",
+        "Tempo seco parece ajudar, mas falta estudo.",
+        "Na próxima: vaso e raiz",
+        "→",
+        "TG 098 ROSA-DO-DESERTO EM FLOR",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Vaso e raiz",
+        "01",
+        "Troca de vaso, passo a passo",
+        "02",
+        "Cáudice à mostra",
+        "03",
+        "Raiz rachou o vaso",
+        "Na próxima: troca de vaso, passo a passo",
+        "→",
+        "TG 098 ROSA-DO-DESERTO EM FLOR",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rosa-do-deserto-D-1.jpg",
+          "alt": "André segurando um vaso de rosa-do-deserto"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "d5-82",
+        "d5-77"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Troca de vaso? Faça assim.",
+        "TORRÃO",
+        "Inteiro",
+        "VASO",
+        "Maior",
+        "REGA",
+        "Logo em seguida",
+        "1",
+        "PASSE",
+        "O torrão inteiro, sem desmanchar.",
+        "2",
+        "COMPLETE",
+        "Substrato novo em volta.",
+        "3",
+        "REGUE",
+        "Logo em seguida.",
+        "DICA DO ANDRÉ",
+        "Fibra de coco de molho alguns dias antes.",
+        "Na próxima: cáudice à mostra",
+        "→",
+        "TG 098 ROSA-DO-DESERTO EM FLOR",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rdf-gesto-1.jpg",
+          "alt": "Mãos passando o torrão inteiro de uma rosa-do-deserto para um vaso maior"
+        },
+        {
+          "src": "rdf-gesto-2.jpg",
+          "alt": "Mãos completando o vaso com substrato novo em volta do torrão"
+        },
+        {
+          "src": "rdf-gesto-3.jpg",
+          "alt": "Mãos regando a rosa-do-deserto logo depois da troca de vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "d5-18",
+        "d5-83"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · RAIZ",
+        "Cáudice à mostra",
+        "A raiz gorda engrossa em poucos anos.",
+        "Na troca, dá para subir a planta.",
+        "Metade das raízes finas no substrato.",
+        "A parte que era enterrada queima no sol.",
+        "Proteja do sol pleno até escurecer.",
+        "Na próxima: raiz rachou o vaso",
+        "→",
+        "TG 098 ROSA-DO-DESERTO EM FLOR",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "d5-78",
+        "d5-81"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Raiz rachou o vaso?",
+        "1",
+        "O QUE PARECE",
+        "Vaso trincado.",
+        "O QUE PODE SER",
+        "A raiz cresceu e deformou o vaso.",
+        "COMO RESOLVER",
+        "Silver tape em volta; troque na época certa.",
+        "Na próxima: cultivo duro",
+        "→",
+        "TG 098 ROSA-DO-DESERTO EM FLOR",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rdf-sintoma-1.jpg",
+          "alt": "Vaso de cerâmica rachado pela raiz gorda de uma rosa-do-deserto"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Cultivo duro",
+        "01",
+        "Generoso ou duro",
+        "02",
+        "Vírus e praga",
+        "03",
+        "Flores de perto",
+        "Na próxima: generoso ou duro",
+        "→",
+        "TG 098 ROSA-DO-DESERTO EM FLOR",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rosa-do-deserto-E-1.jpg",
+          "alt": "André cuidando de uma rosa-do-deserto no sol"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "d5-104",
+        "d5-105",
+        "d5-79",
+        "d5-84",
+        "d5-99"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CULTIVO",
+        "Generoso ou duro",
+        "GENEROSO",
+        "Cresce rápido",
+        "DURO",
+        "Galho firme",
+        "O QUE CADA UM FAZ",
+        "Generoso",
+        " o caule cresce mais que o cáudice",
+        "Duro",
+        " cáudice maior e tecido resistente",
+        "Meio-termo",
+        " generoso, depois poda e duro",
+        "Vaso apertado",
+        " segura o tamanho da planta",
+        "Cuidado",
+        "20 anos",
+        " e ainda pequena, no cultivo duro",
+        "Galho mole",
+        " na obesum, falta cultivo duro",
+        "Na próxima: vírus e praga",
+        "→",
+        "TG 098 ROSA-DO-DESERTO EM FLOR",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "d5-93",
+        "p14-12",
+        "d5-138",
+        "d5-85"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · VÍRUS",
+        "ATENÇÃO",
+        "Pode ter vírus sem mostrar sintoma.",
+        "Passa por inseto ou por tesoura suja.",
+        "E a planta é tóxica, como a espirradeira.",
+        "FAÇA ASSIM",
+        "Tesoura sempre limpa.",
+        "Cultive ao ar livre: lá quase não tem praga.",
+        "Na próxima: flores de perto",
+        "→",
+        "TG 098 ROSA-DO-DESERTO EM FLOR",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "d5-29",
+        "d5-14",
+        "d5-23",
+        "d5-09"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro rosas",
+        "1",
+        "Crimson Star",
+        "De 1985, flor de 10 a 12 meses.",
+        "2",
+        "Obesum pura",
+        "Clareia perto do centro.",
+        "3",
+        "Híbrida",
+        "Cor sólida e garganta escura.",
+        "4",
+        "De Socotra",
+        "Para gente jovem e paciente.",
+        "CHAVE",
+        "Linhas vermelhas",
+        "Guias de néctar",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 098 ROSA-DO-DESERTO EM FLOR",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rdf-var-crimson-star.jpg",
+          "alt": "Rosa-do-deserto de flor vermelha intensa"
+        },
+        {
+          "src": "rdf-var-obesum.jpg",
+          "alt": "Flor de rosa-do-deserto que clareia perto do centro"
+        },
+        {
+          "src": "rdf-var-hibrida.jpg",
+          "alt": "Flor de rosa-do-deserto de cor sólida e garganta escura"
+        },
+        {
+          "src": "rdf-var-socotra.jpg",
+          "alt": "Rosa-do-deserto de Socotra com cáudice enorme"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "d5-106",
+        "d5-63",
+        "d5-103",
+        "d5-111",
+        "d5-107"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "NUNCA FLORESCE",
+        "Troque ou enxerte outra.",
+        "PAROU NO CALOR",
+        "Verão quente pode parar a flor.",
+        "GALHO SECO",
+        "Ela mesma solta; tire com a mão.",
+        "POUCA FLOR",
+        "Planta nova: a temporada cresce com ela.",
+        "DICA DO ANDRÉ",
+        "Calor e luz: as melhores florem o ano quase todo.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 098 ROSA-DO-DESERTO EM FLOR",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "d5-11",
+        "d5-26"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "2",
+        "VEZES",
+        "mais rápido ela pode crescer no clima tropical quente.",
+        "Comparando com o deserto do Arizona, onde os autores cultivam.",
+        "E MAIS UMA",
+        "Na Tailândia, até varanda de prédio alto é cheia de rosa-do-deserto.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 098 ROSA-DO-DESERTO EM FLOR",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "d5-76",
+        "d5-77",
+        "d5-67",
+        "d5-82",
+        "d5-83",
+        "d5-48",
+        "d5-93",
+        "d5-105"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Fibra de coco grossa, de molho",
+        "Nitrogênio sem exagero",
+        "Torrão inteiro no vaso maior",
+        "Metade das raízes finas no substrato",
+        "Base clara longe do sol pleno",
+        "Rega cautelosa na planta grande",
+        "Tesoura sempre limpa",
+        "Cultivo duro no tamanho certo",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 098 ROSA-DO-DESERTO EM FLOR",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Abriu a primeira flor? Me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "098",
+        "VOCÊ TEM",
+        "099",
+        "100",
+        "101",
+        "102",
+        "103",
+        "São 98 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 099 ORQUÍDEA NO DIA A DIA",
+        "Comente ROTINA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 098 ROSA-DO-DESERTO EM FLOR",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rosa-do-deserto-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

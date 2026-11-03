@@ -1,0 +1,554 @@
+{
+  "livro": "TG 094",
+  "titulo": "Alporquia e Estaca",
+  "serie": "#2E4A3A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "094",
+        "COLEÇÃO TERRA GENTIL",
+        "ALPORQUIA",
+        "Alporquia e Estaca",
+        "Alporquia, mergulhia e estaca.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-A-1.jpg",
+          "alt": "André junto de uma árvore no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "m33-369",
+        "m33-370",
+        "m33-371"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Alporquia é a mergulhia feita no alto.",
+        "Galho de 1 a 2 anos solta raiz mais fácil.",
+        "Aqui tem alporquia, mergulhia, estaca e muda.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Escolha um galho reto para a alporquia.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 094 ALPORQUIA E ESTACA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-B-1.jpg",
+          "alt": "André olhando os galhos de uma planta"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "m33-372",
+        "m33-373",
+        "m33-369",
+        "m33-375"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Anel de casca e musgo úmido.",
+        "Serve quando o galho não desce ao chão.",
+        "RAIZ",
+        "Abra o plástico de vez em quando para ver.",
+        "Paciência: até um ano.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 094 ALPORQUIA E ESTACA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da alporquia",
+        "06",
+        "CAPÍTULO 1",
+        "Galho e raiz",
+        "08",
+        "CAPÍTULO 2",
+        "Alporquia",
+        "12",
+        "CAPÍTULO 3",
+        "Muda que pega",
+        "15",
+        "CAPÍTULO 4",
+        "Outros jeitos",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Muda tombou? Vá para a página 11.",
+        "Na próxima: a ficha da alporquia",
+        "→",
+        "TG 094 ALPORQUIA E ESTACA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "m33-370",
+        "m33-372",
+        "m33-373",
+        "m33-374",
+        "m33-375"
+      ],
+      "textos": [
+        "FICHA DA ALPORQUIA",
+        "Antes de cortar",
+        "O que ela pede",
+        "GALHO",
+        "De 1 a 2 anos",
+        "ANEL",
+        "0,5 a 1,2 cm",
+        "MUSGO",
+        "Úmido",
+        "PLÁSTICO",
+        "Preto, amarrado",
+        "RAIZ",
+        "Em até um ano",
+        "NO GALHO",
+        "ATENÇÃO",
+        "Plástico preto evita limo",
+        "Na próxima: galho e raiz",
+        "→",
+        "TG 094 ALPORQUIA E ESTACA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Galho e raiz",
+        "01",
+        "Certo e errado",
+        "02",
+        "Alporquia, passo a passo",
+        "03",
+        "Muda que tomba",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 094 ALPORQUIA E ESTACA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-podar-A-1.jpg",
+          "alt": "André escolhendo um galho na planta"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "m33-374",
+        "g32-161",
+        "i36-078",
+        "m33-365",
+        "i36-223"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Capa da alporquia",
+        "Preto ou alumínio",
+        "Com limo",
+        "Raiz enrolada",
+        "Solte com cuidado",
+        "Plantar assim",
+        "Pegar a muda",
+        "Pela folha",
+        "Pelo caule",
+        "Muda para fora",
+        "Aclimatar antes",
+        "Direto",
+        "Aclimatar leva de 2 a 3 semanas e não dá para apressar.",
+        "DICA DO ANDRÉ",
+        "Firme a terra de lado contra a raiz.",
+        "Na próxima: alporquia",
+        "→",
+        "TG 094 ALPORQUIA E ESTACA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Alporquia",
+        "01",
+        "Alporquia, passo a passo",
+        "02",
+        "Mergulhia no chão",
+        "03",
+        "Muda que tomba",
+        "Na próxima: alporquia, passo a passo",
+        "→",
+        "TG 094 ALPORQUIA E ESTACA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-A-1.jpg",
+          "alt": "André preparando musgo e plástico para a muda"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "m33-371",
+        "m33-372",
+        "m33-373",
+        "m33-376"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Alporquia? Faça assim.",
+        "CAULE",
+        "30 cm limpo",
+        "ANEL",
+        "0,5 a 1,2 cm",
+        "MUSGO",
+        "Úmido, no plástico",
+        "1",
+        "LIMPE",
+        "Tire as folhas de 30 cm do galho.",
+        "2",
+        "ANEL",
+        "Tire um anel de casca em volta.",
+        "3",
+        "ENVOLVA",
+        "Musgo úmido e plástico preto.",
+        "DICA DO ANDRÉ",
+        "Com raiz, corte abaixo do anel e plante.",
+        "Na próxima: mergulhia no chão",
+        "→",
+        "TG 094 ALPORQUIA E ESTACA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "alp-gesto-1.jpg",
+          "alt": "Mãos tirando as folhas de um galho reto"
+        },
+        {
+          "src": "alp-gesto-2.jpg",
+          "alt": "Mãos tirando um anel de casca em volta do galho"
+        },
+        {
+          "src": "alp-gesto-3.jpg",
+          "alt": "Mãos amarrando o plástico preto com musgo em volta do corte"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "i36-095",
+        "i36-096",
+        "i36-098"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · MERGULHIA",
+        "Mergulhia no chão",
+        "Enterre um vaso com terra perto da planta.",
+        "Deite um ramo baixo por cima do vaso.",
+        "Corte embaixo do ramo, entre duas folhas.",
+        "Prenda no vaso com arame em U.",
+        "Pegou raiz? Corte o ramo perto da mãe.",
+        "Na próxima: muda que tomba",
+        "→",
+        "TG 094 ALPORQUIA E ESTACA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "m33-362",
+        "m33-363",
+        "h35-314"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Muda que tomba?",
+        "1",
+        "O QUE PARECE",
+        "Anel marrom no pé do caule.",
+        "O QUE PODE SER",
+        "Fungo do tombamento.",
+        "COMO RESOLVER",
+        "Substrato novo e sementeira arejada.",
+        "Na próxima: muda que pega",
+        "→",
+        "TG 094 ALPORQUIA E ESTACA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "alp-sintoma-1.jpg",
+          "alt": "Mudinhas tombadas com anel marrom no pé do caule"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Muda que pega",
+        "01",
+        "Estaca abafada",
+        "02",
+        "Clone e doença",
+        "03",
+        "Outros jeitos",
+        "Na próxima: estaca abafada",
+        "→",
+        "TG 094 ALPORQUIA E ESTACA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-B-1.jpg",
+          "alt": "André olhando um vaso de estacas"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "m33-377",
+        "m33-359",
+        "m33-350"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ESTACA",
+        "Estaca abafada",
+        "SACO",
+        "Plástico, com elástico",
+        "FOLHAS",
+        "Sem encostar",
+        "O QUE ELA PEDE",
+        "Saco",
+        " preso no vaso com elástico",
+        "Folha",
+        " sem encostar no plástico",
+        "Enraizador",
+        " um pouco numa tampinha",
+        "Sobra",
+        " fora, para não sujar o vidro",
+        "Cuidado",
+        "Sálvia",
+        " enraíza fácil de estaca",
+        "Hortelã",
+        " e a família dela também",
+        "Na próxima: clone e doença",
+        "→",
+        "TG 094 ALPORQUIA E ESTACA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "m33-352",
+        "w18-044",
+        "g32-499"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CLONE",
+        "ATENÇÃO",
+        "Planta toda igual pega a mesma doença.",
+        "O olmo inglês, de poucos clones, morreu em massa.",
+        "Muda de broto sai igualzinha à mãe.",
+        "FAÇA ASSIM",
+        "Virose? Arranque a planta doente.",
+        "Depois, desinfete a ferramenta.",
+        "Na próxima: outros jeitos",
+        "→",
+        "TG 094 ALPORQUIA E ESTACA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "i36-097",
+        "m33-353",
+        "m33-349",
+        "q3-332"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Outros jeitos",
+        "1",
+        "Mergulhia em série",
+        "Vários cortes, várias mudas.",
+        "2",
+        "Divisão de touceira",
+        "Mais garantida que semente.",
+        "3",
+        "Violeta",
+        "A família dela pega de folha.",
+        "4",
+        "Saxífraga",
+        "Filhote preso no vaso ao lado.",
+        "CHAVE",
+        "Raiz",
+        "Antes de cortar",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 094 ALPORQUIA E ESTACA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "alp-var-mergulhia.jpg",
+          "alt": "Ramo baixo preso na terra em vários pontos"
+        },
+        {
+          "src": "alp-var-touceira.jpg",
+          "alt": "Touceira dividida em pedaços com raiz"
+        },
+        {
+          "src": "alp-var-violeta.jpg",
+          "alt": "Folha de violeta enraizando num vasinho"
+        },
+        {
+          "src": "alp-var-saxifraga.jpg",
+          "alt": "Filhote de saxífraga preso num vaso ao lado da mãe"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "g32-459",
+        "g32-460",
+        "i36-027",
+        "m33-367",
+        "i36-029"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "MUDA ESPICHADA",
+        "Gire o vaso a cada poucos dias.",
+        "RAIZ ENROLADA",
+        "Desembarace antes de plantar.",
+        "MUDA NO VENTO",
+        "Quebra-vento do lado dele.",
+        "ÁGUA ESCORRE",
+        "Terra em volta como bacia.",
+        "DICA DO ANDRÉ",
+        "Papelão branco atrás da muda devolve a luz.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 094 ALPORQUIA E ESTACA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "m33-357",
+        "m33-356"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "80",
+        "CM",
+        "pode medir a rafflésia, a maior flor do mundo.",
+        "Ela não tem folha e nasce da raiz de outra planta.",
+        "E MAIS UMA",
+        "A palmeira talipot floresce uma vez só e depois morre.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 094 ALPORQUIA E ESTACA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "m33-370",
+        "m33-371",
+        "m33-372",
+        "m33-373",
+        "m33-375",
+        "i36-096",
+        "m33-377",
+        "m33-365",
+        "g32-460"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Galho reto de 1 a 2 anos escolhido",
+        "Anel de casca de 0,5 a 1,2 cm",
+        "Musgo úmido no plástico preto",
+        "Plástico aberto de vez em quando",
+        "Ramo baixo preso no vaso com arame",
+        "Estacas abafadas no saco plástico",
+        "Muda aclimatada antes de ir para fora",
+        "Vaso girado a cada poucos dias",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 094 ALPORQUIA E ESTACA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua alporquia soltar raiz, me conta. E divide a muda com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "094",
+        "VOCÊ TEM",
+        "095",
+        "096",
+        "097",
+        "098",
+        "099",
+        "São 94 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 095 COMEDOURO E NINHO",
+        "Comente NINHO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 094 ALPORQUIA E ESTACA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

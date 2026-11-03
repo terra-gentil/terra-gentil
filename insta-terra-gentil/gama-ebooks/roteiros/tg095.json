@@ -1,0 +1,557 @@
+{
+  "livro": "TG 095",
+  "titulo": "Comedouro e Ninho",
+  "serie": "#3A4A1F",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "095",
+        "COLEÇÃO TERRA GENTIL",
+        "NINHO",
+        "Comedouro e Ninho",
+        "Comida e casinha para passarinho.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "girassol-A-1.jpg",
+          "alt": "André no jardim perto dos girassóis"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "x23-092",
+        "w31-181",
+        "x23-108"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Comedouro na janela e ninho no muro.",
+        "Ponha o comedouro onde você enxergue.",
+        "Aqui tem comida, casinha, cerca viva e bicho.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Escolha o canto do comedouro.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 095 COMEDOURO E NINHO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-B-1.jpg",
+          "alt": "André olhando o quintal de perto"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "x23-092",
+        "x23-091",
+        "x23-153"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Um comedouro à vista da janela.",
+        "E chão livre em volta dele.",
+        "CHÃO",
+        "Tem passarinho que só come no chão.",
+        "Semente dura e fruta mole.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 095 COMEDOURO E NINHO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do comedouro",
+        "06",
+        "CAPÍTULO 1",
+        "Comida",
+        "08",
+        "CAPÍTULO 2",
+        "Feito em casa",
+        "12",
+        "CAPÍTULO 3",
+        "Jardim que alimenta",
+        "15",
+        "CAPÍTULO 4",
+        "Bichos de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Rede na frutífera? Vá para a página 11.",
+        "Na próxima: a ficha do comedouro",
+        "→",
+        "TG 095 COMEDOURO E NINHO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "x23-092",
+        "x23-101",
+        "x23-153",
+        "x23-091"
+      ],
+      "textos": [
+        "FICHA DO COMEDOURO",
+        "Antes de pendurar",
+        "O que ele pede",
+        "LUGAR",
+        "À vista da janela",
+        "CAMINHO",
+        "Fácil de chegar",
+        "BICO GROSSO",
+        "Semente dura",
+        "BICO FINO",
+        "Comida mole",
+        "FRUTA",
+        "Mole, no chão",
+        "NO QUINTAL",
+        "ATENÇÃO",
+        "Chão livre em volta",
+        "Na próxima: comida",
+        "→",
+        "TG 095 COMEDOURO E NINHO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Comida",
+        "01",
+        "Certo e errado",
+        "02",
+        "Ninho de bandeja, passo a passo",
+        "03",
+        "Rede na frutífera",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 095 COMEDOURO E NINHO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "girassol-C-1.jpg",
+          "alt": "André cuidando das flores do quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "x23-091",
+        "x23-153",
+        "q34-090",
+        "x23-111",
+        "x23-092",
+        "e22-149"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Comedouro",
+        "Chão livre",
+        "Chão tomado",
+        "Comida",
+        "Semente e fruta",
+        "Um tipo só",
+        "Cerca viva",
+        "Misturada",
+        "Uma espécie só",
+        "Casinha",
+        "Madeira crua",
+        "Tinta e verniz",
+        "Com caminho fácil até o comedouro, a rotina fica fácil.",
+        "DICA DO ANDRÉ",
+        "Muda de árvore nascida sozinha vira cerca viva de graça.",
+        "Na próxima: feito em casa",
+        "→",
+        "TG 095 COMEDOURO E NINHO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Feito em casa",
+        "01",
+        "Ninho de bandeja, passo a passo",
+        "02",
+        "Comedouro e casinha",
+        "03",
+        "Rede na frutífera",
+        "Na próxima: ninho de bandeja, passo a passo",
+        "→",
+        "TG 095 COMEDOURO E NINHO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-ferramentas-A-1.jpg",
+          "alt": "André separando ferramentas para um trabalho de madeira"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "x23-108",
+        "x23-111"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Ninho de bandeja? Faça assim.",
+        "TÁBUA",
+        "10 a 15 cm",
+        "BEIRADA",
+        "3 cm",
+        "ALTURA",
+        "1 metro do chão",
+        "1",
+        "TÁBUA",
+        "Uma tábua de 10 a 15 cm.",
+        "2",
+        "BEIRADA",
+        "Com uma beirada de 3 cm.",
+        "3",
+        "PRENDA",
+        "A um metro, atrás da trepadeira.",
+        "DICA DO ANDRÉ",
+        "Escondido é melhor: camuflagem, não propaganda.",
+        "Na próxima: comedouro e casinha",
+        "→",
+        "TG 095 COMEDOURO E NINHO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "nin-gesto-1.jpg",
+          "alt": "Mãos medindo uma tábua pequena de madeira crua"
+        },
+        {
+          "src": "nin-gesto-2.jpg",
+          "alt": "Mãos prendendo uma beirada baixa em volta da tábua"
+        },
+        {
+          "src": "nin-gesto-3.jpg",
+          "alt": "Mãos fixando o ninho de bandeja atrás de uma trepadeira, a um metro do chão"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "w31-181",
+        "s28-076",
+        "x23-113",
+        "x23-109",
+        "x23-107"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · FEITO EM CASA",
+        "Comedouro e casinha",
+        "Rolo: papel com pasta de amendoim e alpiste.",
+        "Girassol seco: pendure a cabeça inteira.",
+        "Casinha: o tamanho do furo decide quem mora.",
+        "Frente aberta: na parede, não na árvore.",
+        "Morcego: casinha ajuda, ele dorme em oco.",
+        "Na próxima: rede na frutífera",
+        "→",
+        "TG 095 COMEDOURO E NINHO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "g32-355"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Rede na frutífera?",
+        "1",
+        "O QUE PARECE",
+        "Fruta bem protegida.",
+        "O QUE PODE SER",
+        "Rede mole enrosca a ave.",
+        "COMO RESOLVER",
+        "Prefira gaiola de tela de arame.",
+        "Na próxima: jardim que alimenta",
+        "→",
+        "TG 095 COMEDOURO E NINHO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "nin-sintoma-1.jpg",
+          "alt": "Rede mole de plástico jogada sobre um arbusto de frutinhas"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Jardim que alimenta",
+        "01",
+        "Flor que vira semente",
+        "02",
+        "Cuidado com o bicho",
+        "03",
+        "Bichos de perto",
+        "Na próxima: flor que vira semente",
+        "→",
+        "TG 095 COMEDOURO E NINHO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-mato-B-1.jpg",
+          "alt": "André olhando um canto de mato no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "s28-104",
+        "x23-030",
+        "x23-004",
+        "w31-161",
+        "e22-127",
+        "w31-147",
+        "x23-006",
+        "g32-259"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · COMIDA",
+        "Flor que vira semente",
+        "GIRASSOL",
+        "Seque no pé",
+        "FRUTA",
+        "Uma parte fica",
+        "O QUE ELE COME",
+        "Semente",
+        " das flores secas no pé",
+        "No frio",
+        " as flores secas alimentam",
+        "Espiga",
+        " seca da tanchagem fica no pé",
+        "Dente-de-leão",
+        " semente e néctar",
+        "Cuidado",
+        "Flor murcha",
+        " corte umas, deixe outras",
+        "Cerca viva",
+        " de frutinhas dá abrigo e comida",
+        "Na próxima: cuidado com o bicho",
+        "→",
+        "TG 095 COMEDOURO E NINHO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "w31-079",
+        "w31-068",
+        "g32-355",
+        "w31-078"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CUIDADO",
+        "ATENÇÃO",
+        "Vaselina no poste do comedouro estraga as penas.",
+        "Não arranque pena de bicho vivo para o espantalho.",
+        "Rede mole enrosca a ave.",
+        "FAÇA ASSIM",
+        "Contra esquilo, pimenta em pó na ração.",
+        "Pena para espantalho: chão de praça e beira de lago.",
+        "Na próxima: bichos de perto",
+        "→",
+        "TG 095 COMEDOURO E NINHO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "s28-104",
+        "i36-136",
+        "i36-135",
+        "e22-082",
+        "x23-030"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro que alimentam",
+        "1",
+        "Girassol",
+        "Semente cheia de óleo.",
+        "2",
+        "Piracanta",
+        "Cacho de fruta laranja ou vermelha.",
+        "3",
+        "Cotoneaster",
+        "Flor branca e frutinha vermelha.",
+        "4",
+        "Maria-pretinha",
+        "O passarinho espalha a semente.",
+        "CHAVE",
+        "Flor e fruta",
+        "No pé",
+        "Na próxima: o que o bicho deixou",
+        "→",
+        "TG 095 COMEDOURO E NINHO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "nin-var-girassol.jpg",
+          "alt": "Cabeça de girassol seca, cheia de sementes, no pé"
+        },
+        {
+          "src": "nin-var-piracanta.jpg",
+          "alt": "Piracanta com cachos de frutinhas laranja"
+        },
+        {
+          "src": "nin-var-cotoneaster.jpg",
+          "alt": "Cotoneaster cobrindo um muro com frutinhas vermelhas"
+        },
+        {
+          "src": "nin-var-maria-pretinha.jpg",
+          "alt": "Maria-pretinha com frutinhas pretas maduras"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "x23-078",
+        "x23-136",
+        "x23-114",
+        "x23-115",
+        "q34-050"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que o bicho deixou?",
+        "MUDA SOZINHA",
+        "Semente que o passarinho soltou.",
+        "MATINHO NO POLEIRO",
+        "Passarinho de fruta passou.",
+        "FURO BICADO",
+        "Ele está marcando a casinha.",
+        "ANEL DE BARRO",
+        "Ele estreitou o furo grande.",
+        "DICA DO ANDRÉ",
+        "Procure pegada, cocô, folha roída e furinho no chão.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 095 COMEDOURO E NINHO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "x23-116",
+        "t37-030"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "2",
+        "ANOS",
+        "é o tempo que o filhote de andorinhão pode passar sem pousar.",
+        "Ele salta do ninho sem treino e dorme até no ar.",
+        "E MAIS UMA",
+        "Na Inglaterra, metade das florestas novas foi plantada pelo gaio, que enterra bolota e esquece.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 095 COMEDOURO E NINHO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "x23-092",
+        "x23-091",
+        "x23-153",
+        "x23-111",
+        "x23-108",
+        "x23-004",
+        "s28-076",
+        "g32-355"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Comedouro à vista da janela",
+        "Chão livre em volta dele",
+        "Semente dura e fruta mole",
+        "Casinha de madeira crua",
+        "Ninho de bandeja atrás da trepadeira",
+        "Flores secas com semente no pé",
+        "Cabeça de girassol pendurada",
+        "Gaiola de arame, não rede mole",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 095 COMEDOURO E NINHO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se um passarinho fizer ninho no seu quintal, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "095",
+        "VOCÊ TEM",
+        "096",
+        "097",
+        "098",
+        "099",
+        "100",
+        "São 95 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 096 ROSEIRA NO JARDIM",
+        "Comente ROSEIRA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 095 COMEDOURO E NINHO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

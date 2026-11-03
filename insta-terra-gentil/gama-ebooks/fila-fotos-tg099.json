@@ -1,0 +1,70 @@
+{
+  "livro": "TG 099",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "odd-gesto-1",
+      "especie": "phalaenopsis orchid",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pushing one finger a few centimeters into the dry bark substrate of a potted phalaenopsis orchid",
+      "mascote": false
+    },
+    {
+      "id": "odd-gesto-2",
+      "especie": "phalaenopsis orchid",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands holding a potted phalaenopsis orchid in a kitchen sink, wetting the leaves and bark substrate with the sink spray hose, flowers kept dry",
+      "mascote": false
+    },
+    {
+      "id": "odd-gesto-3",
+      "especie": "phalaenopsis orchid",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands lifting a potted phalaenopsis orchid over the sink while water drains out of the holes at the bottom of the pot; the small mascot figurine sits on the edge of the sink",
+      "mascote": true
+    },
+    {
+      "id": "odd-sintoma-1",
+      "especie": "phalaenopsis orchid",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Wilted phalaenopsis orchid with limp leaves taken out of its pot, showing brown mushy dead roots on a table",
+      "mascote": false
+    },
+    {
+      "id": "odd-var-phalaenopsis",
+      "especie": "phalaenopsis orchid",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "White phalaenopsis orchid in bloom with broad flat leaves, in a pot near a bright window; the small mascot figurine stands on the windowsill next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "odd-var-mini-cattleya",
+      "especie": "mini cattleya orchid",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Compact mini cattleya orchid about 20 cm tall in bloom, in a small pot on an indoor shelf",
+      "mascote": false
+    },
+    {
+      "id": "odd-var-miltonia",
+      "especie": "miltonia orchid",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Brazilian miltonia orchid in bloom with flat open flowers, in a pot in bright shade",
+      "mascote": false
+    },
+    {
+      "id": "odd-var-micro-orquidea",
+      "especie": "miniature orchid",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tiny miniature orchid with small flowers in a little pot held next to a teacup for scale",
+      "mascote": false
+    }
+  ]
+}

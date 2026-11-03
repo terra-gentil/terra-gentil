@@ -1,0 +1,557 @@
+{
+  "livro": "TG 089",
+  "titulo": "Beterraba e Acelga",
+  "serie": "#4A1A2C",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "089",
+        "COLEÇÃO TERRA GENTIL",
+        "BETERRABA",
+        "Beterraba e Acelga",
+        "Raiz e folha da mesma planta.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-A-1.jpg",
+          "alt": "André com um maço de beterrabas colhidas"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "m33-296",
+        "m33-297",
+        "k9-062"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Beterraba e acelga são a mesma espécie.",
+        "E a acelga é de corta e volta.",
+        "Aqui tem beterraba, acelga, salsão e aspargo.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Deixe semente de beterraba de molho.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 089 BETERRABA E ACELGA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-B-1.jpg",
+          "alt": "André olhando um canteiro de beterraba e acelga"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "g32-233",
+        "s28-161",
+        "g32-235"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Desbaste a beterraba.",
+        "Cada semente dá várias mudas.",
+        "UMA",
+        "Deixe uma muda por cova.",
+        "Terra que não encharque.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 089 BETERRABA E ACELGA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da beterraba",
+        "06",
+        "CAPÍTULO 1",
+        "Beterraba no ponto",
+        "08",
+        "CAPÍTULO 2",
+        "Semear e colher",
+        "12",
+        "CAPÍTULO 3",
+        "Salsão e aspargo",
+        "15",
+        "CAPÍTULO 4",
+        "Raiz e folha de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Beterraba pequena? Vá para a página 11.",
+        "Na próxima: a ficha da beterraba",
+        "→",
+        "TG 089 BETERRABA E ACELGA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "g32-232",
+        "g32-054",
+        "s28-162",
+        "h35-194",
+        "g32-235"
+      ],
+      "textos": [
+        "FICHA DA BETERRABA",
+        "Antes de plantar",
+        "O que ela pede",
+        "SEMENTE",
+        "A 1 cm de fundura",
+        "TERRA",
+        "pH entre 6 e 8",
+        "ESPAÇO",
+        "12 a 20 cm",
+        "COLHEITA",
+        "6 a 12 semanas",
+        "PONTO",
+        "Ombro aparecendo",
+        "ENCHARCADA",
+        "ATENÇÃO",
+        "Ela não aguenta",
+        "Na próxima: beterraba no ponto",
+        "→",
+        "TG 089 BETERRABA E ACELGA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Beterraba no ponto",
+        "01",
+        "Certo e errado",
+        "02",
+        "Beterraba, passo a passo",
+        "03",
+        "Beterraba pequena",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 089 BETERRABA E ACELGA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-C-1.jpg",
+          "alt": "André olhando o ombro da beterraba acima da terra"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "h35-244",
+        "g32-235",
+        "s28-162",
+        "m33-298"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Beterraba grande",
+        "Espaçada",
+        "Toda junta",
+        "Terra",
+        "Que drena",
+        "Encharcada",
+        "Raiz pequena",
+        "Espere 2 semanas",
+        "Arrancar já",
+        "Acelga no calor",
+        "Bem regada",
+        "Com sede",
+        "Juntinha, a beterraba dá raiz bebê.",
+        "DICA DO ANDRÉ",
+        "Terra que não drena? Canteiro elevado.",
+        "Na próxima: semear e colher",
+        "→",
+        "TG 089 BETERRABA E ACELGA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Semear e colher",
+        "01",
+        "Beterraba, passo a passo",
+        "02",
+        "Acelga e cia.",
+        "03",
+        "Beterraba pequena",
+        "Na próxima: beterraba, passo a passo",
+        "→",
+        "TG 089 BETERRABA E ACELGA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-F-1.jpg",
+          "alt": "André semeando no canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "k9-062",
+        "g32-232",
+        "g32-233",
+        "s28-161"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Beterraba? Faça assim.",
+        "MOLHO",
+        "Uma noite",
+        "FUNDURA",
+        "A 1 cm",
+        "DESBASTE",
+        "12 a 20 cm",
+        "1",
+        "MOLHE",
+        "De um dia para o outro.",
+        "2",
+        "SEMEIE",
+        "A 1 cm de fundura.",
+        "3",
+        "DESBASTE",
+        "Uma muda por cachinho.",
+        "DICA DO ANDRÉ",
+        "Quer várias pequenas? Deixe todas.",
+        "Na próxima: acelga e cia.",
+        "→",
+        "TG 089 BETERRABA E ACELGA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bet-gesto-1.jpg",
+          "alt": "Mãos pondo sementes de beterraba de molho num copo de água"
+        },
+        {
+          "src": "bet-gesto-2.jpg",
+          "alt": "Mãos semeando beterraba a 1 cm de fundura no canteiro"
+        },
+        {
+          "src": "bet-gesto-3.jpg",
+          "alt": "Mãos cortando com tesoura as mudas extras de um cachinho de beterraba"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "s28-165",
+        "s28-164",
+        "g32-273",
+        "m33-331"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · COLHEITA",
+        "Acelga e cia.",
+        "Acelga: corte o talo na base, folha por folha.",
+        "Folha nova logo toma o lugar.",
+        "Acelga quase não pendoa como o espinafre.",
+        "Espinafre no vaso: semeie pouco e sempre.",
+        "Espinafre dá colheita em 6 a 8 semanas.",
+        "Na próxima: beterraba pequena",
+        "→",
+        "TG 089 BETERRABA E ACELGA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "s28-162",
+        "h35-244",
+        "s28-161"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Beterraba pequena?",
+        "1",
+        "O QUE PARECE",
+        "Raiz miúda na colheita.",
+        "O QUE PODE SER",
+        "Cedo demais, ou mudas juntas.",
+        "COMO RESOLVER",
+        "Espere 2 semanas; uma muda por cova.",
+        "Na próxima: salsão e aspargo",
+        "→",
+        "TG 089 BETERRABA E ACELGA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bet-sintoma-1.jpg",
+          "alt": "Beterrabas miúdas apertadas umas contra as outras no canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Salsão e aspargo",
+        "01",
+        "Salsão",
+        "02",
+        "Aspargo sem pressa",
+        "03",
+        "Raiz e folha de perto",
+        "Na próxima: salsão",
+        "→",
+        "TG 089 BETERRABA E ACELGA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-G-1.jpg",
+          "alt": "André cuidando de um canteiro de horta"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "m33-291",
+        "m33-292",
+        "g32-315",
+        "g32-316",
+        "g32-318"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · SALSÃO",
+        "Salsão",
+        "LUZ",
+        "Para germinar",
+        "TERRA",
+        "Funda, rica e úmida",
+        "O QUE ELE PEDE",
+        "Semente",
+        " rasa, sem enterrar fundo",
+        "Paciência",
+        " nasce em 3 a 4 semanas",
+        "Espaço",
+        " 30 cm entre plantas",
+        "Rega",
+        " constante",
+        "Cuidado",
+        "Muda enovelada",
+        " trava: plante antes",
+        "Chão",
+        " com cobertura",
+        "Na próxima: aspargo sem pressa",
+        "→",
+        "TG 089 BETERRABA E ACELGA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "g32-110",
+        "g32-113",
+        "g32-114",
+        "g32-111",
+        "g32-112"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ASPARGO",
+        "ATENÇÃO",
+        "Aspargo demora 2 ou 3 anos para começar.",
+        "Não colha o ano todo: deixe a rama crescer.",
+        "Plante em canteiro limpo, sem mato.",
+        "FAÇA ASSIM",
+        "Coroa numa vala de 10 cm, a 40 cm.",
+        "Corte o broto quando tiver 20 a 25 cm.",
+        "Na próxima: raiz e folha de perto",
+        "→",
+        "TG 089 BETERRABA E ACELGA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "g32-231",
+        "x23-061",
+        "g32-116",
+        "s28-139",
+        "m33-296"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro de perto",
+        "1",
+        "Beterraba listrada",
+        "Roxa e branca por dentro.",
+        "2",
+        "Acelga colorida",
+        "Vai até no canteiro de flor.",
+        "3",
+        "Aspargo branco",
+        "O mesmo, crescido sem luz.",
+        "4",
+        "Microverde",
+        "De beterraba, nervura vermelha.",
+        "CHAVE",
+        "Mesma espécie",
+        "Raiz ou folha",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 089 BETERRABA E ACELGA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bet-var-listrada.jpg",
+          "alt": "Beterraba cortada ao meio, listrada de roxo e branco por dentro"
+        },
+        {
+          "src": "bet-var-acelga-colorida.jpg",
+          "alt": "Acelga de talos coloridos num canteiro de flores"
+        },
+        {
+          "src": "bet-var-aspargo-branco.jpg",
+          "alt": "Maço de aspargos brancos ao lado de aspargos verdes"
+        },
+        {
+          "src": "bet-var-microverde.jpg",
+          "alt": "Bandeja de microverde de beterraba com nervuras vermelhas"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "g32-318",
+        "m33-291",
+        "g32-113",
+        "h35-131",
+        "g32-272"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "SALSÃO TRAVOU",
+        "Plante antes de enovelar.",
+        "SALSÃO NÃO NASCEU",
+        "Semeie raso: quer luz.",
+        "ASPARGO FRACO",
+        "Pare de colher um tempo.",
+        "MUDA APODRECEU",
+        "Não enterre o pescoço.",
+        "DICA DO ANDRÉ",
+        "Sobrou espinafre? Murche, aperte e congele.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 089 BETERRABA E ACELGA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "g32-110",
+        "g32-230"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "10",
+        "ANOS",
+        "ou mais de colheita dá o aspargo, depois que começa.",
+        "Ele só demora 2 ou 3 anos para começar.",
+        "E MAIS UMA",
+        "A beterraba foi domesticada no Egito pelas folhas, não pela raiz.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 089 BETERRABA E ACELGA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "k9-062",
+        "g32-232",
+        "s28-161",
+        "g32-235",
+        "s28-165",
+        "g32-273",
+        "m33-291",
+        "g32-113"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Semente de beterraba de molho",
+        "Beterraba a 1 cm de fundura",
+        "Uma muda por cachinho",
+        "Canteiro que não encharque",
+        "Acelga colhida folha a folha",
+        "Espinafre semeado pouco e sempre",
+        "Salsão semeado raso",
+        "Aspargo com pausa na colheita",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 089 BETERRABA E ACELGA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua beterraba mostrar o ombro, me conta. E divide a acelga com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "089",
+        "VOCÊ TEM",
+        "090",
+        "091",
+        "092",
+        "093",
+        "094",
+        "São 89 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 090 ERVILHA E FEIJÃO",
+        "Comente ERVILHA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 089 BETERRABA E ACELGA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-H-1.jpg",
+          "alt": "Retrato do André na horta"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 094",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "alp-gesto-1",
+      "especie": "fig tree",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands stripping the leaves from a straight young fig branch to leave about 30 cm of clean stem",
+      "mascote": false
+    },
+    {
+      "id": "alp-gesto-2",
+      "especie": "fig tree",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands using a small knife to remove a narrow ring of bark around a fig branch with two shallow cuts",
+      "mascote": false
+    },
+    {
+      "id": "alp-gesto-3",
+      "especie": "fig tree",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands wrapping damp moss around the cut on a fig branch inside black plastic, tying it with string below and above; the small mascot figurine sits on the branch just above the wrap",
+      "mascote": true
+    },
+    {
+      "id": "alp-sintoma-1",
+      "especie": "seedlings",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Seedling tray with several young seedlings fallen over, each with a brown shriveled ring at the base of the stem, damp soil",
+      "mascote": false
+    },
+    {
+      "id": "alp-var-mergulhia",
+      "especie": "jasmine",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A low jasmine branch laid along the ground and pinned into the soil at several points with U-shaped wire",
+      "mascote": false
+    },
+    {
+      "id": "alp-var-touceira",
+      "especie": "clumping perennial",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A clump of a leafy perennial plant divided into several rooted pieces lying on soil next to a garden fork; the small mascot figurine stands on the soil beside the pieces",
+      "mascote": true
+    },
+    {
+      "id": "alp-var-violeta",
+      "especie": "african violet",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "An African violet leaf with its stalk pushed into a small pot of moist soil, tiny new leaves sprouting at the base",
+      "mascote": false
+    },
+    {
+      "id": "alp-var-saxifraga",
+      "especie": "strawberry begonia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Saxifraga stolonifera mother plant with a runner plantlet pinned into the soil of a small pot placed next to it",
+      "mascote": false
+    }
+  ]
+}

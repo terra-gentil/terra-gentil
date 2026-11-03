@@ -1,0 +1,70 @@
+{
+  "livro": "TG 091",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "pep-gesto-1",
+      "especie": "cucumber",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pressing a cucumber seed 2 cm deep into a small mound of rich soil in a large pot",
+      "mascote": false
+    },
+    {
+      "id": "pep-gesto-2",
+      "especie": "cucumber",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands tying three bamboo canes together at the top to form a tepee over a large pot with a young cucumber plant; the small mascot figurine sits on the rim of the pot",
+      "mascote": true
+    },
+    {
+      "id": "pep-gesto-3",
+      "especie": "cucumber",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands winding garden twine from the bottom up around a bamboo cane so a young cucumber vine can climb it",
+      "mascote": false
+    },
+    {
+      "id": "pep-sintoma-1",
+      "especie": "cucumber",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Cluster of black aphids on the underside of a cucumber leaf and on a wilting new shoot",
+      "mascote": false
+    },
+    {
+      "id": "pep-var-berinjela",
+      "especie": "eggplant",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Eggplant plant in full sun with glossy purple fruits, tied to a firm stake",
+      "mascote": false
+    },
+    {
+      "id": "pep-var-quiabo",
+      "especie": "okra",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Okra plant with green pods and a pale yellow flower in a vegetable bed",
+      "mascote": false
+    },
+    {
+      "id": "pep-var-melancia",
+      "especie": "watermelon",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Ripe striped watermelon resting on straw among its vines in a vegetable garden",
+      "mascote": false
+    },
+    {
+      "id": "pep-var-abobora",
+      "especie": "squash",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Squash plant with a big yellow flower and large leaves spreading on the ground next to a compost heap; the small mascot figurine stands on the ground beside a squash leaf",
+      "mascote": true
+    }
+  ]
+}

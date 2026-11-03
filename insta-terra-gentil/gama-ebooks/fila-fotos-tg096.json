@@ -1,0 +1,70 @@
+{
+  "livro": "TG 096",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "rjd-gesto-1",
+      "especie": "grafted rose",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands gently unwrapping a young grafted rose plant from its packaging, without pulling or twisting it",
+      "mascote": false
+    },
+    {
+      "id": "rjd-gesto-2",
+      "especie": "climbing rose",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting a young climbing rose in the soil about 30 cm from the foot of a metal garden arch; the small mascot figurine stands on the soil next to the arch post",
+      "mascote": true
+    },
+    {
+      "id": "rjd-gesto-3",
+      "especie": "climbing rose",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands leaning a newly planted climbing rose at a 45 degree angle toward a metal garden arch",
+      "mascote": false
+    },
+    {
+      "id": "rjd-sintoma-1",
+      "especie": "rose",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Old weak rose bush with few leaves and thin stems in a tired old garden bed",
+      "mascote": false
+    },
+    {
+      "id": "rjd-var-rugosa",
+      "especie": "rugosa rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Rosa rugosa hedge with wrinkled leaves and pink single flowers along a roadside edge",
+      "mascote": false
+    },
+    {
+      "id": "rjd-var-banksia",
+      "especie": "banksia rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Yellow Lady Banks rose, almost thornless, covering a garden fence with clusters of small double yellow flowers",
+      "mascote": false
+    },
+    {
+      "id": "rjd-var-ballerina",
+      "especie": "Ballerina rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Ballerina shrub rose in a garden bed covered in small single pink flowers with white centers; the small mascot figurine stands on the garden path next to it",
+      "mascote": true
+    },
+    {
+      "id": "rjd-var-filipes",
+      "especie": "Rosa filipes",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Huge Rosa filipes climbing rose grown up into a tall tree shape, covered in clusters of small white flowers",
+      "mascote": false
+    }
+  ]
+}

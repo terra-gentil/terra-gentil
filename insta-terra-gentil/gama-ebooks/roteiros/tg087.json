@@ -1,0 +1,560 @@
+{
+  "livro": "TG 087",
+  "titulo": "Tomate Cereja",
+  "serie": "#8A2A1E",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "087",
+        "COLEÇÃO TERRA GENTIL",
+        "CEREJA",
+        "Tomate Cereja",
+        "Do vaso à cesta pendurada.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "tomate-A-1.jpg",
+          "alt": "André com um pé de tomate carregado"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "h35-188",
+        "i36-183",
+        "g32-076",
+        "i36-034"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "O tomate-cereja amadurece mais rápido.",
+        "E amadurece bem ao ar livre.",
+        "Aqui tem semente, muda, vaso e colheita.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Separe um vaso de 30 cm com furo no fundo.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 087 TOMATE CEREJA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tomate-B-1.jpg",
+          "alt": "André olhando os tomates no pé"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "h35-185",
+        "h35-312",
+        "m33-252",
+        "h35-016"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Regue sempre igual.",
+        "Rega irregular racha o tomate e apodrece o fundo.",
+        "REGA",
+        "Terra úmida e rica, com sol.",
+        "Palha por cima segura a água.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 087 TOMATE CEREJA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do tomate",
+        "06",
+        "CAPÍTULO 1",
+        "Semente e muda",
+        "08",
+        "CAPÍTULO 2",
+        "Plantar no vaso",
+        "12",
+        "CAPÍTULO 3",
+        "Flor e colheita",
+        "15",
+        "CAPÍTULO 4",
+        "Cereja e cia.",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Tomate de fundo preto? Vá para a página 11.",
+        "Na próxima: a ficha do tomate",
+        "→",
+        "TG 087 TOMATE CEREJA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "m33-252",
+        "h35-185",
+        "g32-076",
+        "s28-196",
+        "g32-077",
+        "h35-186"
+      ],
+      "textos": [
+        "FICHA DO TOMATE",
+        "Antes de plantar",
+        "O que ele pede",
+        "LUZ",
+        "Sol",
+        "TERRA",
+        "Úmida e rica",
+        "REGA",
+        "Sempre igual",
+        "VASO",
+        "30 cm ou mais",
+        "ADUBO",
+        "Potássio na flor",
+        "DE SEMENTE",
+        "ATENÇÃO",
+        "Seiva irrita a pele",
+        "Na próxima: semente e muda",
+        "→",
+        "TG 087 TOMATE CEREJA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Semente e muda",
+        "01",
+        "Certo e errado",
+        "02",
+        "Muda no vaso, passo a passo",
+        "03",
+        "Tomate de fundo preto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 087 TOMATE CEREJA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tomate-C-1.jpg",
+          "alt": "André cuidando de um pé de tomate"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "s2-163",
+        "s2-164",
+        "s2-166",
+        "h35-219",
+        "m33-334",
+        "g32-394"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Terra da semente",
+        "Substrato próprio",
+        "Terra do quintal",
+        "Calor da semente",
+        "Perto de 29 °C",
+        "Canto frio",
+        "Luz da muda",
+        "Lâmpada a 2-5 cm",
+        "Lâmpada longe",
+        "Muda no vaso",
+        "Mais funda",
+        "Na mesma altura",
+        "Muda com uns 2,5 cm vai para copinho próprio.",
+        "DICA DO ANDRÉ",
+        "No quentinho, nasce em 7 a 10 dias.",
+        "Na próxima: plantar no vaso",
+        "→",
+        "TG 087 TOMATE CEREJA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Plantar no vaso",
+        "01",
+        "Muda no vaso, passo a passo",
+        "02",
+        "Haste única ou moita",
+        "03",
+        "Tomate de fundo preto",
+        "Na próxima: muda no vaso, passo a passo",
+        "→",
+        "TG 087 TOMATE CEREJA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-A-1.jpg",
+          "alt": "André plantando uma muda"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "i36-182",
+        "h35-219",
+        "w31-164"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Muda de tomate no vaso? Faça assim.",
+        "VASO",
+        "25 cm ou mais",
+        "MUDA",
+        "Bem funda",
+        "APOIO",
+        "Barbante",
+        "1",
+        "VASO",
+        "Pelo menos 25 cm de largura.",
+        "2",
+        "ENTERRE",
+        "Até logo abaixo das primeiras folhas.",
+        "3",
+        "ENROLE",
+        "O pé no barbante, ao crescer.",
+        "DICA DO ANDRÉ",
+        "O caule enterrado solta raiz.",
+        "Na próxima: haste única ou moita",
+        "→",
+        "TG 087 TOMATE CEREJA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tcj-gesto-1.jpg",
+          "alt": "Mãos enchendo de terra um vaso largo"
+        },
+        {
+          "src": "tcj-gesto-2.jpg",
+          "alt": "Mãos enterrando a muda de tomate até as primeiras folhas"
+        },
+        {
+          "src": "tcj-gesto-3.jpg",
+          "alt": "Mãos enrolando o pé de tomate num barbante"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "h35-220",
+        "s28-194",
+        "s28-196",
+        "w31-165"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · VASO",
+        "Haste única ou moita",
+        "Haste única: tutor e tire os brotos.",
+        "Moita: deixe os brotos e apoie cada um.",
+        "Começando? A moita é mais fácil.",
+        "Moita no vaso: 30 cm. No saco, três pés.",
+        "Na terra: 35 cm entre as mudas.",
+        "Na próxima: tomate de fundo preto",
+        "→",
+        "TG 087 TOMATE CEREJA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "h35-312",
+        "h35-185",
+        "h35-016"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Tomate de fundo preto?",
+        "1",
+        "O QUE PARECE",
+        "Doença no fruto.",
+        "O QUE PODE SER",
+        "Rega irregular. Não é doença.",
+        "COMO RESOLVER",
+        "Regue sempre igual e cubra a terra com palha.",
+        "Na próxima: flor e colheita",
+        "→",
+        "TG 087 TOMATE CEREJA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tcj-sintoma-1.jpg",
+          "alt": "Tomates com o fundo preto e podre"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Flor e colheita",
+        "01",
+        "Tomate florindo",
+        "02",
+        "Seiva e requeima",
+        "03",
+        "Cereja e cia.",
+        "Na próxima: tomate florindo",
+        "→",
+        "TG 087 TOMATE CEREJA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tomate-D-1.jpg",
+          "alt": "André olhando as flores do tomate"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "m33-252",
+        "g32-077",
+        "s28-197",
+        "i36-186",
+        "g32-078"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · FLOR",
+        "Tomate florindo",
+        "LUZ",
+        "Sol",
+        "TERRA",
+        "Úmida e rica",
+        "O QUE ELE PEDE",
+        "Adubo",
+        " de potássio a cada 6 a 10 dias",
+        "Folhas",
+        " tire umas para o sol chegar no fruto",
+        "Maduro",
+        " sai fácil com uma torcida",
+        "Fim da safra",
+        " regue menos",
+        "Cuidado",
+        "Ponta da haste",
+        " corte no fim da safra",
+        "Tomatinho atrasado",
+        " tire, para os outros amadurecerem",
+        "Na próxima: seiva e requeima",
+        "→",
+        "TG 087 TOMATE CEREJA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "h35-186",
+        "h35-313",
+        "g32-492"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "A seiva do pé de tomate pode irritar a pele.",
+        "Requeima: manchas marrons e folha murcha de repente.",
+        "Vem no tempo quente e úmido, no tomate e na batata.",
+        "FAÇA ASSIM",
+        "Lave a mão depois de mexer no pé.",
+        "Arranque logo a planta com requeima.",
+        "Na próxima: cereja e cia.",
+        "→",
+        "TG 087 TOMATE CEREJA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "s28-200",
+        "h35-188",
+        "i36-183",
+        "g32-079",
+        "h35-191"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro tomates",
+        "1",
+        "Cereja em cascata",
+        "Vai bem em vaso pendurado.",
+        "2",
+        "Tomate-cereja",
+        "Rápido e bom ao ar livre.",
+        "3",
+        "Tomate anão",
+        "Cabe em cesta pendurada.",
+        "4",
+        "Tomate colorido",
+        "Amarelo, verde, roxo ou pera.",
+        "CHAVE",
+        "Mesmo plantio",
+        "Do vermelho",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 087 TOMATE CEREJA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tcj-var-cascata.jpg",
+          "alt": "Tomate-cereja caindo em cascata de um vaso pendurado"
+        },
+        {
+          "src": "tcj-var-cereja.jpg",
+          "alt": "Pé de tomate-cereja com cachos maduros ao ar livre"
+        },
+        {
+          "src": "tcj-var-anao.jpg",
+          "alt": "Tomate anão com frutos vermelhos numa cesta pendurada"
+        },
+        {
+          "src": "tcj-var-colorido.jpg",
+          "alt": "Tomates amarelo, verde, roxo e pera lado a lado"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "s2-166",
+        "h35-185",
+        "g32-393",
+        "w31-120",
+        "s28-198"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "MUDA ESTICADA",
+        "Lâmpada a 2-5 cm.",
+        "TOMATE RACHADO",
+        "Rega irregular.",
+        "ANÃO PAROU",
+        "Semeie em levas.",
+        "VERDE NO FIM",
+        "Saco de papel com banana.",
+        "DICA DO ANDRÉ",
+        "Sobrou verde? Vira picles ou chutney.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 087 TOMATE CEREJA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "s2-164",
+        "g32-080"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "29",
+        "°C",
+        "é mais ou menos o calor que a semente de tomate gosta para nascer.",
+        "Em cima da geladeira costuma dar certo.",
+        "E MAIS UMA",
+        "O tomate vem das terras altas e quentes do México e das Américas.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 087 TOMATE CEREJA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "s2-163",
+        "s2-164",
+        "h35-219",
+        "g32-076",
+        "i36-034",
+        "h35-185",
+        "h35-016",
+        "g32-077",
+        "h35-186"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Semente em substrato próprio",
+        "Semente no quentinho, perto de 29 °C",
+        "Muda plantada bem funda",
+        "Vaso de 30 cm com furo",
+        "Rega sempre igual",
+        "Palha por cima da terra",
+        "Adubo de potássio na flor",
+        "Mão lavada depois de mexer no pé",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 087 TOMATE CEREJA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se o seu tomate-cereja encher de cacho, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "087",
+        "VOCÊ TEM",
+        "088",
+        "089",
+        "090",
+        "091",
+        "092",
+        "São 87 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 088 BATATA E INHAME",
+        "Comente BATATA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 087 TOMATE CEREJA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "tomate-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

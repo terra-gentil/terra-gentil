@@ -1,0 +1,559 @@
+{
+  "livro": "TG 096",
+  "titulo": "Roseira no Jardim",
+  "serie": "#4D1F33",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "096",
+        "COLEÇÃO TERRA GENTIL",
+        "ROSEIRA",
+        "Roseira no Jardim",
+        "Canteiro, cerca e trepadeira no arco.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-A-1.jpg",
+          "alt": "André com uma roseira florida no jardim"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "r20-009",
+        "r20-134",
+        "r20-193"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Roseira vira cerca, arbusto e trepadeira.",
+        "Mas ela não aguenta terra encharcada.",
+        "Aqui tem canteiro, cova, adubo e rosas de perto.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Veja se a água empoça no canteiro.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 096 ROSEIRA NO JARDIM",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-B-1.jpg",
+          "alt": "André olhando as rosas de perto"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "r20-134",
+        "r20-139",
+        "r20-193"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Terra que não encharque.",
+        "Roseira não aguenta água parada.",
+        "ÁGUA",
+        "Barro? Misture cascalho e areia.",
+        "Empoçou? Levante o canteiro.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 096 ROSEIRA NO JARDIM",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da roseira",
+        "06",
+        "CAPÍTULO 1",
+        "Lugar e terra",
+        "08",
+        "CAPÍTULO 2",
+        "Plantar",
+        "12",
+        "CAPÍTULO 3",
+        "Cuidado no canteiro",
+        "15",
+        "CAPÍTULO 4",
+        "Rosas de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Roseira velha e fraca? Vá para a página 11.",
+        "Na próxima: a ficha da roseira",
+        "→",
+        "TG 096 ROSEIRA NO JARDIM",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "r20-141",
+        "r20-139",
+        "r20-250",
+        "r20-243",
+        "r20-254",
+        "r20-134"
+      ],
+      "textos": [
+        "FICHA DA ROSEIRA",
+        "Antes de plantar",
+        "O que ela pede",
+        "CALOR",
+        "Sombra à tarde",
+        "TERRA",
+        "Que escoe bem",
+        "REGA",
+        "1 no frio, 2 no calor",
+        "ADUBO",
+        "Esterco e osso",
+        "CHÃO",
+        "Coberto de palha",
+        "NO CANTEIRO",
+        "ATENÇÃO",
+        "Nada de terra encharcada",
+        "Na próxima: lugar e terra",
+        "→",
+        "TG 096 ROSEIRA NO JARDIM",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Lugar e terra",
+        "01",
+        "Certo e errado",
+        "02",
+        "Trepadeira no arco, passo a passo",
+        "03",
+        "Roseira velha e fraca",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 096 ROSEIRA NO JARDIM",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-C-1.jpg",
+          "alt": "André cuidando de um canteiro de rosas"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "r20-142",
+        "r20-178",
+        "r20-187",
+        "r20-325",
+        "r20-158",
+        "r20-141"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Vento",
+        "Lugar abrigado",
+        "Corredor de vento",
+        "Espaço",
+        "Pé com folga",
+        "Apertada",
+        "Forração",
+        "Depois que pegou",
+        "Junto da muda nova",
+        "Esterco",
+        "Curtido",
+        "Cru",
+        "Em jardim pequeno, plante em grupos de 3 ou 5.",
+        "DICA DO ANDRÉ",
+        "Em lugar quente, uma sombrinha à tarde faz bem.",
+        "Na próxima: plantar",
+        "→",
+        "TG 096 ROSEIRA NO JARDIM",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Plantar",
+        "01",
+        "Trepadeira no arco, passo a passo",
+        "02",
+        "Roseira e cia.",
+        "03",
+        "Roseira velha e fraca",
+        "Na próxima: trepadeira no arco, passo a passo",
+        "→",
+        "TG 096 ROSEIRA NO JARDIM",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-D-1.jpg",
+          "alt": "André separando a muda de roseira para plantar"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "i36-080",
+        "i36-081",
+        "r20-163"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Trepadeira no arco? Faça assim.",
+        "DISTÂNCIA",
+        "30 cm do arco",
+        "ÂNGULO",
+        "45 graus",
+        "ENXERTO",
+        "2,5 cm abaixo",
+        "1",
+        "DESEMBALE",
+        "Sem puxar nem torcer a muda.",
+        "2",
+        "PLANTE",
+        "A 30 cm do pé do arco.",
+        "3",
+        "INCLINE",
+        "A 45 graus, virada para o arco.",
+        "DICA DO ANDRÉ",
+        "O calo do enxerto fica uns 2,5 cm abaixo da terra.",
+        "Na próxima: roseira e cia.",
+        "→",
+        "TG 096 ROSEIRA NO JARDIM",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rjd-gesto-1.jpg",
+          "alt": "Mãos tirando com cuidado a embalagem de uma muda de roseira enxertada"
+        },
+        {
+          "src": "rjd-gesto-2.jpg",
+          "alt": "Mãos plantando a muda de roseira a 30 cm do pé de um arco de jardim"
+        },
+        {
+          "src": "rjd-gesto-3.jpg",
+          "alt": "Mãos inclinando a roseira recém-plantada a 45 graus para o arco"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "r20-161",
+        "r20-172",
+        "r20-125",
+        "r20-171",
+        "r20-187"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · PLANTAR",
+        "Roseira e cia.",
+        "Cova no barro: areia no fundo, depois terra e esterco.",
+        "Mudar de lugar: regue 1 ou 2 dias antes.",
+        "Melhor época de mudar: a fresca, mais parada.",
+        "Rosa-musgo: broto da raiz, com raiz, vira muda.",
+        "Forração: só depois que a roseira pegou.",
+        "Na próxima: roseira velha e fraca",
+        "→",
+        "TG 096 ROSEIRA NO JARDIM",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "r20-198"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Roseira velha e fraca?",
+        "1",
+        "O QUE PARECE",
+        "Roseira fraca no mesmo canteiro há anos.",
+        "O QUE PODE SER",
+        "Terra cansada.",
+        "COMO RESOLVER",
+        "Troque os 30 cm de cima por terra boa nova.",
+        "Na próxima: cuidado no canteiro",
+        "→",
+        "TG 096 ROSEIRA NO JARDIM",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rjd-sintoma-1.jpg",
+          "alt": "Roseira velha e fraca, de poucas folhas, num canteiro antigo"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Cuidado no canteiro",
+        "01",
+        "Rega e adubo",
+        "02",
+        "Bicho na roseira",
+        "03",
+        "Rosas de perto",
+        "Na próxima: rega e adubo",
+        "→",
+        "TG 096 ROSEIRA NO JARDIM",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-H-1.jpg",
+          "alt": "André regando o canteiro de rosas"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "r20-141",
+        "r20-139",
+        "r20-250",
+        "r20-240",
+        "r20-243",
+        "r20-254",
+        "r20-181",
+        "r20-193"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CANTEIRO",
+        "Rega e adubo",
+        "TARDE",
+        "Sombrinha no calor",
+        "TERRA",
+        "Barro com cascalho",
+        "O QUE ELA PEDE",
+        "Água",
+        " uma vez por semana no frio, duas no calor",
+        "Esterco",
+        " logo depois da poda",
+        "Dose",
+        " 4 a 5 kg de esterco e 25 g de farinha de osso",
+        "Cobertura",
+        " palha ou folha seca segura o mato",
+        "Cuidado",
+        "Rosa grande",
+        " um ou dois botões por haste",
+        "Chuva",
+        " empoçou, levante o canteiro",
+        "Na próxima: bicho na roseira",
+        "→",
+        "TG 096 ROSEIRA NO JARDIM",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "r20-134",
+        "r20-325",
+        "r20-237",
+        "r20-191",
+        "r20-193"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · BICHO",
+        "ATENÇÃO",
+        "Esterco cru no canteiro chama cupim.",
+        "Adubo foliar forte demais queima a folha.",
+        "Roseira não aguenta terra encharcada.",
+        "FAÇA ASSIM",
+        "Cupim: torta de nim dissolvida na água, no pé.",
+        "Nas chuvas, tire e descarte folha e galho doentes.",
+        "Na próxima: rosas de perto",
+        "→",
+        "TG 096 ROSEIRA NO JARDIM",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "r20-053",
+        "r20-068",
+        "r20-057",
+        "r20-054"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro roseiras",
+        "1",
+        "Rosa rugosa",
+        "Cerca viva até em beira de estrada.",
+        "2",
+        "Rosa-banksia",
+        "Trepadeira de até 7 m, quase sem espinho.",
+        "3",
+        "Ballerina",
+        "Florzinha rosa de miolo branco.",
+        "4",
+        "Rosa filipes",
+        "Trepadeira de 9 m, parece árvore.",
+        "CHAVE",
+        "Cada uma",
+        "No seu lugar",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 096 ROSEIRA NO JARDIM",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rjd-var-rugosa.jpg",
+          "alt": "Rosa rugosa formando cerca viva florida"
+        },
+        {
+          "src": "rjd-var-banksia.jpg",
+          "alt": "Rosa-banksia amarela cobrindo uma cerca"
+        },
+        {
+          "src": "rjd-var-ballerina.jpg",
+          "alt": "Roseira Ballerina coberta de florzinhas rosa de miolo branco"
+        },
+        {
+          "src": "rjd-var-filipes.jpg",
+          "alt": "Roseira trepadeira Rosa filipes enorme, cheia de cachos brancos"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "r20-313",
+        "r20-317",
+        "r20-223",
+        "r20-194"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "PÉTALA RISCADA",
+        "Pode ser tripes.",
+        "BOTÃO COM ALGODÃO",
+        "Cochonilha-farinhenta.",
+        "PONTA MORRENDO",
+        "Falta de cálcio.",
+        "ROSA MIÚDA NA CHUVA",
+        "É normal da época.",
+        "DICA DO ANDRÉ",
+        "Na dúvida, olhe a pétala, o botão e a ponta.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 096 ROSEIRA NO JARDIM",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "r20-296",
+        "r20-007"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "17",
+        "DIAS",
+        "durou a rosa no vaso de água com um bom conservante, num teste.",
+        "Só com água, foram 7 dias.",
+        "E MAIS UMA",
+        "Nunca se achou rosa selvagem nativa no hemisfério sul. As do Brasil vieram de fora e florescem muito bem aqui.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 096 ROSEIRA NO JARDIM",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "r20-193",
+        "r20-139",
+        "i36-080",
+        "i36-081",
+        "r20-240",
+        "r20-254",
+        "r20-141",
+        "r20-181"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Canteiro onde a água não empoça",
+        "Barro com cascalho e areia",
+        "Trepadeira a 30 cm do arco",
+        "Enxerto 2,5 cm abaixo da terra",
+        "Esterco logo depois da poda",
+        "Palha cobrindo o canteiro",
+        "Sombrinha no sol da tarde",
+        "Um ou dois botões por haste",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 096 ROSEIRA NO JARDIM",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Se a sua roseira subir no arco, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "096",
+        "VOCÊ TEM",
+        "097",
+        "098",
+        "099",
+        "100",
+        "101",
+        "São 96 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 097 SUBSTRATO E VASO",
+        "Comente SUBSTRATO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 096 ROSEIRA NO JARDIM",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-jardim-vertical-C-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

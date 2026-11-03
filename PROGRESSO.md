@@ -1,4 +1,29 @@
 # PROGRESSO Terra Gentil
+## LEVA 8: TG 087 A 100 ESCRITOS, 100 LIVROS NA COLECAO, FOTOS DO FLOW PENDENTES (02/11/2026, noite)
+- 14 livros por 7 agentes (2 cada). Pools em `ebooks\fabrica\pools\pool-087-088.txt` a `pool-099-100.txt` (temas escolhidos pela contagem de fatos livres: 3.166 antes da leva), brief em `pools\BRIEF.md` com a regra nova "titulo honesto". Leva 7 guardada em `pools\leva7\`.
+- Conferido: 14 de 14 com `validar.mjs` ok, `estouro.mjs` sem estouro, zero fato repetido com qualquer livro (corrigi i36-034 que o 087 e o 088 usavam: no 088 virou g32-189, linha "Na colheita: garfo ao lado"), sem travessao, encadeamento PROXIMO/Comente/"Sao N livros" certo do 086 ao 100. Filas em `gama-ebooks\fila-fotos-tg087.json` a `tg100.json` (112 fotos, 2 com Gentileza cada). Previas provisorias em `ebooks\TG0NN-previa.pdf`.
+- Corrigido por mim: TG 090 p11 "Tire o vaso da corrente de vento" (deducao) virou "Proteja do vento e da mudanca brusca" (k9-081).
+| TG | Titulo | Palavra | Prefixo |
+|---|---|---|---|
+| 087 | Tomate Cereja | CEREJA | tcj |
+| 088 | Batata e Inhame | BATATA | bat |
+| 089 | Beterraba e Acelga | BETERRABA | bet |
+| 090 | Ervilha e Feijao | ERVILHA | erv |
+| 091 | Pepino e Berinjela | PEPINO | pep |
+| 092 | Flores Cheirosas | JASMIM | jas |
+| 093 | Flores de Semente | COSMOS | fsm |
+| 094 | Alporquia e Estaca | ALPORQUIA | alp |
+| 095 | Comedouro e Ninho | NINHO | nin |
+| 096 | Roseira no Jardim | ROSEIRA | rjd |
+| 097 | Substrato e Vaso | SUBSTRATO | sub |
+| 098 | Rosa-do-deserto em Flor | FLORADA | rdf |
+| 099 | Orquidea no Dia a Dia | ROTINA | odd |
+| 100 | Jardim Gentil | GENTIL | gen |
+- TG 100 promete o TG 101 PLANTAS CARNIVORAS (palavra CARNIVORA; so ~10 fatos de carnivora livres, conferir antes).
+- **Para o Andre decidir (leva 8):** (a) TG 094: so 3 fatos de estaca x 4 de mergulhia; "Alporquia e Mergulhia" seria mais fiel (muda o PROXIMO do 093). (b) TG 098: capa mostra so "Rosa-do-deserto" (titulo inteiro estourava 94 px) e lembra o TG 011; alternativa "Deserto em Flor" (muda o PROXIMO do 097). (c) TG 096 p17 "17 DIAS" e de rosa cortada no vaso, foge do jardim. (d) TG 088 p17 "10 MIL" (fato diz "mais de 10 mil anos", texto diz "e ate mais"). (e) TG 087 so 3 fatos de cereja; resto e tomate em geral. (f) TG 090 usa milho em 4 lugares. (g) TG 095 sem bebedouro (nenhum fato de agua). Fatos contraditorios: escolhido um lado em beterraba (6 a 12 sem), feijao (varas a 40 cm), cosmos (ate 2 m), berinjela (adubo 6 a 10 dias), orquidea (vaso 1x por ano), tradescantia (luz indireta), cissus.
+- Fotos provisorias: banco nao tem batata, inhame, pepino, jasmim; 088 e 092 todos coringa.
+- **Proximo:** fotos do Flow da leva 7 (128) e da leva 8 (112) = 240 fotos, ~1,3 dia de cota nas duas contas. Pamela reabre ~17h de 03/11, eng.andrehz ~17h15. Enquanto o Flow gera: preparar paginas do site do 071 ao 100 sem publicar; cada uma sobe quando o livro fechar 8/8 em 2K. Antes de subir 073, 076, 084, 086, 094 e 098: Andre decide titulo (slug muda).
+
 ## LEVA 7: TG 071 A 086 ESCRITOS, FOTOS DO FLOW PENDENTES (02/11/2026, noite)
 - 16 livros por 8 agentes (2 cada; pararam no limite de 5h e retomaram as ~20h50). Pools em `ebooksabrica\pools\pool-071-072.txt` a `pool-085-086.txt` (`montar.mjs` novo; compostagem saiu dos compartilhados e virou exclusiva do 075), brief em `pools\BRIEF.md`. Leva 6 guardada em `pools\leva6\`.
 - Conferido: 16 de 16 com `validar.mjs` ok, `estouro.mjs` sem estouro, zero fato repetido com qualquer livro, sem travessao, encadeamento PROXIMO/Comente/"Sao N livros" certo do 071 ao 086. Filas em `gama-ebooksila-fotos-tg071.json` a `tg086.json` (8 fotos, 2 com Gentileza cada). Previas com fotos provisorias em `ebooks\TG0NN-previa.pdf`.

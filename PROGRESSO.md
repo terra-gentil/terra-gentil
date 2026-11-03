@@ -1,4 +1,8 @@
 # PROGRESSO Terra Gentil
+## FOTOS DA LEVA 7 E 8: TG 071 E 072 FECHADOS EM 2K, SEGUE O 073 (03/11/2026, ~19h30)
+- Feitos na Marca Registrada (/u/4): TG 071 e TG 072 com 8/8 em 2K e previa remontada (1 aviso em cada, vai para o pos). Faltam 28 livros (TG 073 a 100, 224 fotos). Fila do TG 073 ja esta no clipboard (recopiar com `Get-Content ...fila-fotos-tg073.json -Raw -Encoding utf8 | Set-Clipboard`).
+- **Esteira desta conta (~15 min por livro):** aba da ferramenta (`.../tool/c658a771-32bc-4758-8513-6e615e971d6c`): clicar na caixa da fila (640,400), ctrl+a, Delete, ctrl+v (chamadas separadas), Carregar fila (1170,440), Gerar selecionadas (1226,104), Confirmar Geracao (1022,533); acompanhar pelo zoom do cabecalho [250,70,1340,140]; ~7 min; Baixar todas prontas (1010,104); conferir 8 `<id>.jpg` em Downloads. Outra aba na galeria do projeto: recarregar, `eval(localStorage.b2k)` e laco `__baixar2k(i,i)` so nas posicoes IMPARES 1,3,...,15 (a galeria duplica cada foto). Depois, SEM `esperar.py` (os 2K desta conta saem `<id>_<hash>.jpg` e ele espera para sempre): `python -I casar2k.py TGNNN`, `node fazer.mjs curtos/tgNNN.mjs`, copiar a fila do proximo. Nunca Stop-Process em todos os python (bloqueado).
+
 ## 3a CONTA DO FLOW: MARCA REGISTRADA PRONTA (03/11/2026, ~18h30)
 - canalregistradamarca@gmail.com virou Google PRO; Andre liberou usar como limite extra e trocar de conta a vontade. No Chrome e a /u/4.
 - Projeto `flow.google.com/u/4/project/b3fe07f1-66c2-4b4a-89fe-081e974a4139`, ferramenta Fotos Ebook TG `.../tool/c658a771-32bc-4758-8513-6e615e971d6c` (rodadas 1 a 7, detalhes em `gama-ebooks/FERRAMENTA-FOTOS.md`). Elenco (4 fotos do Andre) e Gentileza acenando montados.

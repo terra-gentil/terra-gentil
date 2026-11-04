@@ -1,0 +1,196 @@
+{
+  "dia": "2026-11-05",
+  "palavra": "PET",
+  "especie": "Nephrolepis exaltata",
+  "nome": "Samambaia",
+  "tema": null,
+  "serie": "5 cuidados",
+  "gancho": "A samambaia perdoa esquecimento, mas pede cinco cuidados simples.",
+  "resumo": "Luz de meia-sombra, terra úmida sem encharcar, substrato com boa drenagem, umidade nas folhas e temperatura amena.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Samambaia",
+      "linha1": "Samambaia viva",
+      "linha2": "e bonita com",
+      "linha3": "5 cuidados",
+      "destaque": "simples"
+    },
+    {
+      "tarja": "Cuidado 1: Luz",
+      "linha1": "Sol direto",
+      "linha2": "queima a",
+      "destaque": "folha delicada",
+      "texto": "A samambaia se adapta bem à meia-sombra. O sol direto pode queimar as folhas dela.",
+      "nota": "Calma, tem solução fácil."
+    },
+    {
+      "tarja": "Cuidado 2: Água",
+      "linha1": "Terra sempre",
+      "linha2": "úmida, nunca",
+      "destaque": "encharcada",
+      "texto": "Ela gosta da terra úmida, mas sem encharcar. É um equilíbrio que se aprende com o tempo.",
+      "nota": "Quase todo mundo erra aqui."
+    },
+    {
+      "tarja": "Cuidado 3: Terra",
+      "linha1": "Substrato rico",
+      "linha2": "e com",
+      "destaque": "boa drenagem",
+      "texto": "Use terra rica em matéria orgânica e com boa drenagem. É a base de tudo.",
+      "nota": "Um bom começo ajuda muito."
+    },
+    {
+      "linha1": "Aumente a",
+      "linha2": "umidade com",
+      "destaque": "pulverização",
+      "texto": "Pulverize as folhas regularmente para aumentar a umidade ao redor dela.",
+      "dica": "Banheiro e cozinha aproveitam a umidade natural. Na cozinha, longe do fogão."
+    },
+    {
+      "linha1": "Escolha um lugar",
+      "linha2": "entre",
+      "destaque": "18°C e 24°C",
+      "texto": "Ela prefere temperatura amena e fica melhor longe de correntes de ar frias.",
+      "dica": "Fuja do ponto onde bate vento frio."
+    },
+    {
+      "tarja": "Boa notícia",
+      "linha1": "Esqueceu de",
+      "linha2": "cuidar um dia?",
+      "destaque": "ela perdoa",
+      "texto": "A samambaia é naturalmente resistente e perdoa esquecimentos e momentos de distração.",
+      "nota": "Respire e recomece com calma."
+    },
+    {
+      "texto": "Cuide com calma e ela devolve em folhas verdes. Salve este post para a próxima vez que a dúvida bater.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "A samambaia se adapta bem à meia-sombra. O sol direto pode queimar as folhas delicadas dela.",
+      "pagina": 9,
+      "trecho": "Adapta-se bem a meia-sombra. Evite sol direto que pode queimar suas folhas delicadas",
+      "fonte": "Pets e Plantas: Guia de Segurança, p. 9"
+    },
+    {
+      "texto": "A terra deve ficar sempre úmida, mas nunca encharcada.",
+      "pagina": 9,
+      "trecho": "Mantenha o solo sempre úmido, mas nunca encharcado",
+      "fonte": "Pets e Plantas: Guia de Segurança, p. 9"
+    },
+    {
+      "texto": "Pulverizar as folhas com regularidade ajuda a aumentar a umidade ao redor da planta.",
+      "pagina": 9,
+      "trecho": "Pulverize as folhas regularmente para aumentar a umidade",
+      "fonte": "Pets e Plantas: Guia de Segurança, p. 9"
+    },
+    {
+      "texto": "O substrato ideal é rico em matéria orgânica e tem boa drenagem.",
+      "pagina": 9,
+      "trecho": "Utilize substrato rico em matéria orgânica e com boa drenagem",
+      "fonte": "Pets e Plantas: Guia de Segurança, p. 9"
+    },
+    {
+      "texto": "Ela prefere ambientes entre 18°C e 24°C, longe de correntes de ar frias.",
+      "pagina": 9,
+      "trecho": "Prefere ambientes entre 18°C e 24°C, longe de correntes de ar frias",
+      "fonte": "Pets e Plantas: Guia de Segurança, p. 9"
+    },
+    {
+      "texto": "A samambaia é naturalmente resistente e perdoa esquecimentos e momentos de distração.",
+      "pagina": 9,
+      "trecho": "Ela perdoa seus esquecimentos e momentos de distração, sendo naturalmente resistente",
+      "fonte": "Pets e Plantas: Guia de Segurança, p. 9"
+    },
+    {
+      "texto": "Banheiros e cozinhas, longe do fogão, aproveitam a umidade natural do ambiente.",
+      "pagina": 9,
+      "trecho": "Banheiros: aproveitam naturalmente a umidade do ambiente. Cozinha: longe do fogão",
+      "fonte": "Pets e Plantas: Guia de Segurança, p. 9"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "fontes": [
+    "Pets e Plantas: Guia de Segurança, p. 9"
+  ],
+  "materia": {
+    "slug": "samambaia-cuidados-simples-para-ela-ficar-viva",
+    "titulo": "Samambaia: 5 cuidados simples para ela viver",
+    "descricao": "A samambaia perdoa esquecimentos, mas pede luz suave, terra úmida sem encharcar e um ambiente fresco. Veja os cuidados simples que ajudam a manter o verde.",
+    "introducao": "Se a sua samambaia já ficou com as pontas secas ou perdeu folhas, respire fundo. Isso acontece com muita gente, e quase sempre tem conserto. A boa notícia é que ela é uma planta naturalmente resistente e costuma perdoar os nossos deslizes. Neste texto, a gente conversa sobre os cuidados básicos que o ebook do André traz: a luz, a água, a terra, a umidade, a temperatura e o melhor lugar da casa. Sem receita complicada e sem culpa. Quem já perdeu planta sabe como dói, e é por isso que vale ir com calma, um passo de cada vez, e olhar para ela com carinho.",
+    "secoes": [
+      {
+        "titulo": "Que luz a samambaia gosta de receber?",
+        "paragrafos": [
+          "A samambaia se adapta bem à meia-sombra. Isso quer dizer um lugar claro, mas sem aquele sol forte batendo direto nas folhas. Pense em um cantinho da casa onde a luz chega suave, sem queimar.",
+          "O motivo é simples: as folhas dela são delicadas, e o sol direto pode queimá-las. Se você notou que as folhas ficaram marrons depois de uma tarde de sol forte na janela, talvez seja esse o caso. Não é culpa sua. É só trocar a planta de lugar para um ponto mais protegido e deixar que ela se recupere aos poucos."
+        ],
+        "fatosUsados": [
+          0
+        ]
+      },
+      {
+        "titulo": "Como regar sem encharcar a terra?",
+        "paragrafos": [
+          "O ebook pede uma coisa bem direta: mantenha a terra sempre úmida, mas nunca encharcada. Parece um equilíbrio difícil, e de fato é um jeito de cuidar que pede atenção. A samambaia não gosta de terra seca por muito tempo, mas também não gosta de ficar com os pés na água.",
+          "Por isso, a ideia é observar a planta e a terra com carinho, em vez de seguir um calendário. Se a terra está sempre úmida, você está no caminho certo. Se ela está empapada, é sinal de que passou do ponto, e vale dar uma pausa antes da próxima rega."
+        ],
+        "fatosUsados": [
+          1
+        ]
+      },
+      {
+        "titulo": "Qual terra ajuda a samambaia a ficar bem?",
+        "paragrafos": [
+          "O livro indica um substrato rico em matéria orgânica e com boa drenagem. Em outras palavras, uma terra fofa e nutritiva, que segura a umidade que a planta gosta, mas deixa o excesso escoar.",
+          "Essa combinação ajuda a manter a terra úmida sem virar um lamaçal. É um cuidado que você faz uma vez, na hora de plantar ou trocar de vaso, e que depois trabalha a seu favor no dia a dia."
+        ],
+        "fatosUsados": [
+          3
+        ]
+      },
+      {
+        "titulo": "Como aumentar a umidade e escolher o lugar certo?",
+        "paragrafos": [
+          "A samambaia gosta de ar com umidade. O ebook sugere pulverizar as folhas regularmente para aumentar a umidade ao redor dela. É um gesto simples, que muita gente até acha relaxante.",
+          "Na casa, o livro lembra que banheiros e cozinhas aproveitam naturalmente a umidade do ambiente. Na cozinha, o cuidado é deixá-la longe do fogão. Quanto à temperatura, ela prefere ambientes entre 18°C e 24°C, longe de correntes de ar frias. Então vale evitar o ponto onde o vento gelado bate direto.",
+          "E se você esqueceu de cuidar por uns dias, calma. Ela perdoa seus esquecimentos e momentos de distração, sendo naturalmente resistente. Você não precisa ser perfeito para ter uma samambaia bonita."
+        ],
+        "fatosUsados": [
+          2,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "A samambaia pode ficar no sol?",
+        "resposta": "O livro recomenda meia-sombra e pede para evitar o sol direto, que pode queimar as folhas delicadas dela."
+      },
+      {
+        "pergunta": "Quantas vezes por semana devo regar a samambaia?",
+        "resposta": "O livro não dá um número de vezes. Ele pede para manter a terra sempre úmida, mas nunca encharcada. Observe a terra e ajuste a rega a partir disso."
+      },
+      {
+        "pergunta": "Qual temperatura a samambaia prefere?",
+        "resposta": "Ela prefere ambientes entre 18°C e 24°C, longe de correntes de ar frias."
+      }
+    ],
+    "conclusao": "Cuidar da samambaia é menos sobre fazer muito e mais sobre fazer o simples com constância: luz suave, terra úmida sem encharcar, um substrato com boa drenagem, folhas pulverizadas e um lugar fresco, longe do vento frio. Se esquecer um dia, ela perdoa. Salve este texto para a próxima vez que a dúvida bater e conte para quem também cuida de planta com medo de errar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

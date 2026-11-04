@@ -1,16 +1,6 @@
 {
  "_leia": "Fila de pedidos de indexacao no Search Console (propriedade https://terragentil.com.br/, conta eng.andrehz). A rotina diaria pede ate 10 por dia (cota do Google), tira da fila e grava em 'feitos'. Livro novo: acrescentar o slug no fim da fila.",
  "fila": [
-  "rega-sem-afogar",
-  "mato-que-ensina",
-  "mudas-de-graca",
-  "vaso-de-orquidea",
-  "agaves-e-kalanchoes",
-  "suculenta-pendente",
-  "rosa-do-deserto-enxerto-e-muda",
-  "composteira-em-casa",
-  "armadilhas-e-aliados",
-  "jardim-do-zero",
   "horta-de-semente",
   "abelha-e-passarinho",
   "pimenta-no-vaso",
@@ -106,6 +96,46 @@
   {
    "url": "/guias/cattleya-e-dendrobium",
    "dia": "2026-11-03"
+  },
+  {
+   "url": "/guias/rega-sem-afogar",
+   "dia": "2026-11-04"
+  },
+  {
+   "url": "/guias/mato-que-ensina",
+   "dia": "2026-11-04"
+  },
+  {
+   "url": "/guias/mudas-de-graca",
+   "dia": "2026-11-04"
+  },
+  {
+   "url": "/guias/vaso-de-orquidea",
+   "dia": "2026-11-04"
+  },
+  {
+   "url": "/guias/agaves-e-kalanchoes",
+   "dia": "2026-11-04"
+  },
+  {
+   "url": "/guias/suculenta-pendente",
+   "dia": "2026-11-04"
+  },
+  {
+   "url": "/guias/rosa-do-deserto-enxerto-e-muda",
+   "dia": "2026-11-04"
+  },
+  {
+   "url": "/guias/composteira-em-casa",
+   "dia": "2026-11-04"
+  },
+  {
+   "url": "/guias/armadilhas-e-aliados",
+   "dia": "2026-11-04"
+  },
+  {
+   "url": "/guias/jardim-do-zero",
+   "dia": "2026-11-04"
   }
  ]
 }

@@ -1,7 +1,7 @@
 # PROGRESSO Terra Gentil
 **Backup da fabrica no git (03/11/2026):** `ebooks-fabrica/` tem os roteiros, pools e scripts (so texto) de `DocumentsTerra Gentilebooksabrica`. Fotos 2K e PDFs ficam so no computador. Se mudar de maquina/conta, copiar a pasta de volta (ver LEIA.md dela).
-## FOTOS DA LEVA 7 E 8: TG 071 A 079 FECHADOS EM 2K, SEGUE O 080 (03/11/2026, ~22h30)
-- TG 073 a 079 com 8/8 em 2K e previa remontada (sem estouro). Faltam 21 livros (TG 080 a 100). Proximo: `fila-fotos-tg080.json` (prefixo oar); as filas ficam em `insta-terra-gentil/gama-ebooks/fila-fotos-tgNNN.json` e os scripts em `ebooks-fabrica\` (`casar2k.py`, `fazer.mjs`).
+## FOTOS DA LEVA 7 E 8: TG 071 A 080 FECHADOS EM 2K, SEGUE O 081 (03/11/2026, ~23h)
+- TG 073 a 080 com 8/8 em 2K e previa remontada (sem estouro). Faltam 20 livros (TG 081 a 100). Proximo: `fila-fotos-tg081.json` (prefixo rpe); as filas ficam em `insta-terra-gentil/gama-ebooks/fila-fotos-tgNNN.json` e os scripts em `ebooks-fabrica\` (`casar2k.py`, `fazer.mjs`).
 - **Mudancas da esteira (sessao nova):** o Chrome da sessao abre a ferramenta SEM elenco e SEM mascote. Montar antes: Elenco > Imagens do projeto > aba Envios > ctrl+clique nas 4 `image.png` com o Andre (desmarcar a pre-selecionada); Mascote > Imagens do projeto > `image.png` da Gentileza. URL da ferramenta: `/u/4/project/b3fe07f1-.../tool/c658a771-...` (sem `/project/` da 404). Caixa da fila fica em (640,305) com a pagina rolada ate ela; Carregar fila (1170,345).
 - Os 2K saem com nome do prompt (`Man_cutting_..._2K.jpg`), nao `<id>_<hash>`; `casar2k.py TGNNN` casa certo. Laco `__baixar2k` disparado sem await e conferido por `window.__fim`.
 

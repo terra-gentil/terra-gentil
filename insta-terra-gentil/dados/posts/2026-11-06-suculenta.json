@@ -1,0 +1,214 @@
+{
+  "dia": "2026-11-06",
+  "palavra": "SUCULENTA",
+  "especie": "Echeveria elegans",
+  "nome": "Suculenta",
+  "tema": "regar",
+  "serie": "3 erros",
+  "gancho": "Os 3 erros que mais afogam a suculenta, e o teste do dedo que evita todos.",
+  "resumo": "Três erros que apodrecem a suculenta (regar todo dia, vaso sem furo e borrifar) e dois gestos simples: o teste do dedo e regar até sair pelo furo.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Rega",
+      "linha1": "3 erros que mais",
+      "linha2": "afogam a",
+      "linha3": "sua suculenta",
+      "destaque": "sem querer"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Regar todo dia",
+      "linha2": "só um",
+      "destaque": "pouquinho",
+      "texto": "Molhar só a superfície engana. A água não chega na raiz profunda, e a terra nunca seca direito.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Vaso bonito",
+      "linha2": "sem",
+      "destaque": "furo",
+      "texto": "Ele serve só para esconder o vaso de plástico que tem furo. Use como capa e não plante direto nele.",
+      "nota": "Um gesto pequeno resolve."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Borrifar água",
+      "linha2": "nas",
+      "destaque": "folhas",
+      "texto": "A água fica acumulada no meio das folhas e cria fungos. Molhe a terra, não a planta.",
+      "nota": "Muita gente faz isso."
+    },
+    {
+      "linha1": "Enfie o dedo",
+      "linha2": "na terra e",
+      "destaque": "sinta",
+      "texto": "Saiu sujo de terra úmida? Não regue e vá fazer outra coisa. Planta não tem calendário.",
+      "dica": "Na dúvida, não regue hoje. Espere até amanhã."
+    },
+    {
+      "linha1": "Hora de regar?",
+      "linha2": "Regue até sair",
+      "destaque": "pelo furo",
+      "texto": "Regue bastante, até a água sair pelos furos, mas poucas vezes, só quando a terra secar.",
+      "dica": "Deixe escorrer bem antes de devolver ao lugar."
+    },
+    {
+      "tarja": "Sinal de alerta",
+      "linha1": "Folha mole e",
+      "linha2": "transparente",
+      "destaque": "pare de regar",
+      "texto": "É sinal de excesso de água. É mais fácil salvar uma suculenta seca do que uma que apodreceu.",
+      "nota": "Dá para cuidar com calma."
+    },
+    {
+      "texto": "Cuide com calma e ela devolve em folhas firmes. Salve este post para a próxima rega.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "Regar todo dia só um pouquinho engana: molha só a superfície e não chega na raiz profunda.",
+      "pagina": 7,
+      "trecho": "Molhar só a superfície engana você e não hidrata a raiz profunda",
+      "fonte": "Suculentas: O Guia para Não Matar Afogada, p. 7"
+    },
+    {
+      "texto": "Vaso decorativo sem furo serve só para esconder o vaso de plástico que tem furo. Não se planta direto nele.",
+      "pagina": 7,
+      "trecho": "servem apenas para esconder o vaso feio de plástico que tem furo",
+      "fonte": "Suculentas: O Guia para Não Matar Afogada, p. 7"
+    },
+    {
+      "texto": "Borrifar água nas folhas é ruim para suculenta: a água fica acumulada no meio das folhas e cria fungos.",
+      "pagina": 7,
+      "trecho": "A água acumula no meio das folhas e cria fungos",
+      "fonte": "Suculentas: O Guia para Não Matar Afogada, p. 7"
+    },
+    {
+      "texto": "Teste do dedo: enfie o dedo na terra. Saiu sujo de terra úmida, não regue.",
+      "pagina": 6,
+      "trecho": "Saiu sujo de terra úmida? NÃO REGUE",
+      "fonte": "Suculentas: O Guia para Não Matar Afogada, p. 6"
+    },
+    {
+      "texto": "Quando regar, regue bastante, até a água sair pelos furos, mas poucas vezes, só quando a terra secar.",
+      "pagina": 7,
+      "trecho": "Regue bastante, até a água sair pelos furos, mas faça isso poucas vezes",
+      "fonte": "Suculentas: O Guia para Não Matar Afogada, p. 7"
+    },
+    {
+      "texto": "Folhas moles, amareladas e transparentes são sinal de excesso de água. Pare de regar.",
+      "pagina": 6,
+      "trecho": "Folhas moles, amareladas e transparentes: S.O.S! Excesso de água",
+      "fonte": "Suculentas: O Guia para Não Matar Afogada, p. 6"
+    },
+    {
+      "texto": "É bem mais fácil salvar uma suculenta seca, dando água, do que uma que apodreceu. Na dúvida, espere até amanhã.",
+      "pagina": 6,
+      "trecho": "É muito mais fácil salvar uma suculenta seca (dando água)",
+      "fonte": "Suculentas: O Guia para Não Matar Afogada, p. 6"
+    },
+    {
+      "texto": "Planta não tem calendário: o clima muda de semana em semana, então a rega também muda.",
+      "pagina": 6,
+      "trecho": "Planta não tem calendário. O clima muda",
+      "fonte": "Suculentas: O Guia para Não Matar Afogada, p. 6"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "fontes": [
+    "Suculentas: O Guia para Não Matar Afogada, p. 7",
+    "Suculentas: O Guia para Não Matar Afogada, p. 6"
+  ],
+  "materia": {
+    "slug": "suculenta-3-erros-de-rega-que-apodrecem-a-planta",
+    "titulo": "Suculenta: 3 erros de rega que afogam",
+    "descricao": "Regar todo dia, usar vaso sem furo e borrifar as folhas são erros comuns com suculenta. Veja o teste do dedo e como regar sem apodrecer a raiz da planta.",
+    "introducao": "Se a sua suculenta amoleceu, amarelou ou apodreceu, respire fundo. Isso acontece com muita gente, e quase sempre não é falta de jeito. É excesso de cuidado. A suculenta guarda água dentro da própria folha, e por isso ela sofre mais com água demais do que com água de menos. Neste texto, a gente conversa sobre três erros comuns, um teste simples para saber a hora certa de regar e o que fazer quando a dúvida bater. Tudo com base no ebook de suculentas do André, sem receita complicada e sem culpa. Vamos com calma, um passo de cada vez, como quem toma um café na varanda.",
+    "secoes": [
+      {
+        "titulo": "Erro 1: regar todo dia só um pouquinho",
+        "paragrafos": [
+          "Parece o gesto mais carinhoso do mundo: um golinho de água todos os dias, para a planta nunca passar sede. Só que o livro avisa que esse hábito é um erro que prejudica muito a suculenta. Molhar só a superfície engana você, porque a terra de cima fica úmida e parece que está tudo certo, mas a água não hidrata a raiz profunda.",
+          "E tem mais um detalhe. Quando a terra nunca seca, a umidade constante acaba apodrecendo a planta. O ebook ensina o caminho contrário: em vez de muitos golinhos, uma rega generosa de vez em quando, só quando a terra secar. É melhor um banho bom de vez em quando do que um gole todo dia."
+        ],
+        "fatosUsados": [
+          0
+        ]
+      },
+      {
+        "titulo": "Erro 2: vaso bonito, mas sem furo",
+        "paragrafos": [
+          "Vasos decorativos lindos, sem furo embaixo, são uma tentação. O livro conta que eles servem apenas para esconder o vaso de plástico que tem furo. Ou seja, a suculenta não deve ser plantada direto neles, porque a água fica parada no fundo e a raiz sofre.",
+          "O jeito certo é usar o vaso decorativo como uma capa. Na hora de regar, tire o vaso de plástico de dentro, regue na pia e deixe escorrer bem. Depois, é só devolver para o lugar. Dá um pouquinho de trabalho, mas é um gesto pequeno que faz toda a diferença para a raiz."
+        ],
+        "fatosUsados": [
+          1
+        ]
+      },
+      {
+        "titulo": "Erro 3: borrifar água nas folhas",
+        "paragrafos": [
+          "Muita gente acha chique borrifar água nas folhas, e o borrifador até combina com a decoração. Mas o ebook diz que, para suculentas, isso é ruim. A água fica acumulada no meio das folhas e cria fungos.",
+          "O que o livro recomenda é molhar a terra, e não a cabeça da planta. Um regador de bico fino ou uma garrafinha resolvem bem. Se você gosta do ritual de borrifar, tudo bem, mas não conte com ele para a suculenta ficar saudável."
+        ],
+        "fatosUsados": [
+          2
+        ]
+      },
+      {
+        "titulo": "Como saber a hora certa de regar",
+        "paragrafos": [
+          "Esqueça o calendário. O livro lembra que planta não tem calendário, e que o clima muda de uma semana para outra. Quem manda na hora de regar é a terra. Para saber, use o teste do dedo: enfie o dedo na terra. Se saiu sujo de terra úmida, não regue e vá fazer outra coisa.",
+          "Quando chegar a hora, regue bastante, até a água sair pelos furos do vaso, mas faça isso poucas vezes, só quando a terra secar. Assim a água alcança a raiz e a terra tem tempo de respirar antes da próxima rega.",
+          "O livro não dá um número fixo de vezes por semana para esse caso, e é de propósito: o teste do dedo é o seu guia."
+        ],
+        "fatosUsados": [
+          3,
+          4,
+          7
+        ]
+      },
+      {
+        "titulo": "E se a planta já está sofrendo?",
+        "paragrafos": [
+          "Fique de olho nas folhas. Quando elas ficam moles, amareladas e transparentes, é sinal de excesso de água. O livro pede para parar de regar. Calma, ainda dá para cuidar com gentileza.",
+          "Uma ideia que acalma: é muito mais fácil salvar uma suculenta seca, dando água, do que uma que apodreceu. Por isso, na dúvida, espere. Se hoje você ficou em dúvida, espere até amanhã e faça o teste do dedo de novo."
+        ],
+        "fatosUsados": [
+          5,
+          6
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Quantas vezes por semana devo regar a suculenta?",
+        "resposta": "O livro não dá um número fixo para essa pergunta, e de propósito: ele pede para esquecer o calendário. Use o teste do dedo e regue só quando a terra estiver seca, até a água sair pelos furos."
+      },
+      {
+        "pergunta": "Posso plantar a suculenta direto num vaso bonito sem furo?",
+        "resposta": "O livro diz que esse tipo de vaso serve apenas para esconder o vaso de plástico que tem furo. Use como capa e, na hora de regar, tire o vaso de dentro, regue na pia e deixe escorrer."
+      },
+      {
+        "pergunta": "As folhas da minha suculenta estão moles e amareladas. O que faço?",
+        "resposta": "Folhas moles, amareladas e transparentes são sinal de excesso de água. Pare de regar e, na dúvida, espere mais um dia antes de molhar de novo."
+      }
+    ],
+    "conclusao": "Cuidar bem da suculenta é menos sobre quantidade de carinho e mais sobre o momento certo. Faça o teste do dedo, regue até a água sair pelos furos e espere a terra secar de novo. Na dúvida, espere até amanhã. A planta agradece, e você ganha tranquilidade. Salve este texto para a próxima vez que a dúvida bater e conte para quem também tem medo de errar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

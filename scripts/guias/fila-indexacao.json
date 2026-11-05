@@ -1,16 +1,6 @@
 {
  "_leia": "Fila de pedidos de indexacao no Search Console (propriedade https://terragentil.com.br/, conta eng.andrehz). A rotina diaria pede ate 10 por dia (cota do Google), tira da fila e grava em 'feitos'. Livro novo: acrescentar o slug no fim da fila.",
  "fila": [
-  "horta-de-semente",
-  "abelha-e-passarinho",
-  "pimenta-no-vaso",
-  "arvore-no-quintal",
-  "roseira-no-vaso",
-  "roseira-doente",
-  "poda-de-roseira",
-  "muda-de-rosa",
-  "microverdes",
-  "mato-sem-veneno",
   "canteiro-elevado",
   "ervas-secas",
   "guardar-semente",
@@ -136,6 +126,46 @@
   {
    "url": "/guias/jardim-do-zero",
    "dia": "2026-11-04"
+  },
+  {
+   "url": "/guias/horta-de-semente",
+   "dia": "2026-11-05"
+  },
+  {
+   "url": "/guias/abelha-e-passarinho",
+   "dia": "2026-11-05"
+  },
+  {
+   "url": "/guias/pimenta-no-vaso",
+   "dia": "2026-11-05"
+  },
+  {
+   "url": "/guias/arvore-no-quintal",
+   "dia": "2026-11-05"
+  },
+  {
+   "url": "/guias/roseira-no-vaso",
+   "dia": "2026-11-05"
+  },
+  {
+   "url": "/guias/roseira-doente",
+   "dia": "2026-11-05"
+  },
+  {
+   "url": "/guias/poda-de-roseira",
+   "dia": "2026-11-05"
+  },
+  {
+   "url": "/guias/muda-de-rosa",
+   "dia": "2026-11-05"
+  },
+  {
+   "url": "/guias/microverdes",
+   "dia": "2026-11-05"
+  },
+  {
+   "url": "/guias/mato-sem-veneno",
+   "dia": "2026-11-05"
   }
  ]
 }

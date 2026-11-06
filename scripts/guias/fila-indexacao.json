@@ -1,11 +1,6 @@
 {
  "_leia": "Fila de pedidos de indexacao no Search Console (propriedade https://terragentil.com.br/, conta eng.andrehz). A rotina diaria pede ate 10 por dia (cota do Google), tira da fila e grava em 'feitos'. Livro novo: acrescentar o slug no fim da fila.",
- "fila": [
-  "canteiro-elevado",
-  "ervas-secas",
-  "guardar-semente",
-  "flores-de-varanda"
- ],
+ "fila": [],
  "feitos": [
   {
    "url": "/guias",
@@ -166,6 +161,22 @@
   {
    "url": "/guias/mato-sem-veneno",
    "dia": "2026-11-05"
+  },
+  {
+   "url": "/guias/canteiro-elevado",
+   "dia": "2026-11-06"
+  },
+  {
+   "url": "/guias/ervas-secas",
+   "dia": "2026-11-06"
+  },
+  {
+   "url": "/guias/guardar-semente",
+   "dia": "2026-11-06"
+  },
+  {
+   "url": "/guias/flores-de-varanda",
+   "dia": "2026-11-06"
   }
  ]
 }

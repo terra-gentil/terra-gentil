@@ -1,0 +1,202 @@
+{
+  "dia": "2026-11-07",
+  "palavra": "DESERTO",
+  "especie": "Adenium obesum",
+  "nome": "Rosa do deserto",
+  "tema": null,
+  "serie": "3 erros",
+  "gancho": "Calma, não é culpa sua: o que mais mata a rosa do deserto é água demais.",
+  "resumo": "Três erros de rega que afogam a rosa do deserto e o gesto simples do dedo na terra.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Rega",
+      "linha1": "O que mais afoga",
+      "linha2": "a rosa do deserto",
+      "linha3": "é a sua",
+      "destaque": "boa intenção"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Regar um",
+      "linha2": "pouquinho",
+      "destaque": "todo dia",
+      "texto": "A terra fica sempre úmida em cima, mas a água não chega às raízes profundas.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Pratinho",
+      "linha2": "cheio de",
+      "destaque": "água",
+      "texto": "A raiz não foi feita para ficar de molho. Esvazie o pratinho uns 10 minutos depois de regar.",
+      "nota": "Um gesto pequeno resolve."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Terra que",
+      "linha2": "empoça",
+      "destaque": "a água",
+      "texto": "Se a água demora a descer, a terra está errada e sufoca a raiz.",
+      "nota": "Quase toda planta de loja começa assim."
+    },
+    {
+      "linha1": "Enfie o dedo",
+      "linha2": "na terra:",
+      "destaque": "sujo, não rega",
+      "texto": "Saiu sujo ou úmido? Não regue. Saiu limpo e seco? Pode regar.",
+      "dica": "Esqueça o calendário. Quem manda é a terra."
+    },
+    {
+      "linha1": "Terra seca?",
+      "linha2": "Regue até sair",
+      "destaque": "pelos furos",
+      "texto": "Regue com vontade, até a água sair pelo fundo. Depois, deixe a planta em paz até secar de novo.",
+      "dica": "Ela gosta de seca total seguida de chuva abundante."
+    },
+    {
+      "tarja": "Sinal de alerta",
+      "linha1": "Caudex mole",
+      "linha2": "ao",
+      "destaque": "toque",
+      "texto": "Base escurecida e cheiro desagradável: pare de regar na hora. Ela não morre de sede, morre afogada.",
+      "nota": "Observar já é cuidar."
+    },
+    {
+      "texto": "Menos água, mais calma. Salve este post para a próxima rega.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "Regar um pouquinho todo dia deixa a terra sempre úmida, mas a água nunca chega às raízes profundas.",
+      "pagina": 6,
+      "trecho": "Jogar um copinho de água todo dia mantém a terra sempre úmida, mas nunca molha as raízes profundas",
+      "fonte": "Rosa do Deserto: Segredos do Caudex, p. 6"
+    },
+    {
+      "texto": "Se usa pratinho embaixo do vaso, esvazie a água uns 10 minutos depois de regar.",
+      "pagina": 6,
+      "trecho": "esvazie-o 10 minutos depois de regar",
+      "fonte": "Rosa do Deserto: Segredos do Caudex, p. 6"
+    },
+    {
+      "texto": "Se a água empoça em cima e demora a descer, a terra está errada e sufoca a raiz.",
+      "pagina": 6,
+      "trecho": "Se a água empoça em cima da terra quando você rega e demora a descer, sua terra está errada",
+      "fonte": "Rosa do Deserto: Segredos do Caudex, p. 6"
+    },
+    {
+      "texto": "Teste do dedo: enfie o dedo na terra. Saiu sujo ou úmido, não regue. Saiu limpo e seco, pode regar.",
+      "pagina": 5,
+      "trecho": "Enfie o dedo indicador na terra. Saiu sujo/úmido? NÃO REGUE.",
+      "fonte": "Rosa do Deserto: Segredos do Caudex, p. 5"
+    },
+    {
+      "texto": "Com a terra seca, regue com vontade, até a água sair pelos furos do fundo.",
+      "pagina": 5,
+      "trecho": "Quando a terra estiver seca, regue com vontade! Jogue água até ver ela saindo pelos furos do fundo",
+      "fonte": "Rosa do Deserto: Segredos do Caudex, p. 5"
+    },
+    {
+      "texto": "Caudex mole ao toque, base escurecida e cheiro desagradável são sinais de podridão. Pare de regar na hora.",
+      "pagina": 9,
+      "trecho": "Caudex mole ao toque, escurecimento da base, cheiro desagradável",
+      "fonte": "Rosa do Deserto: Segredos do Caudex, p. 9"
+    },
+    {
+      "texto": "A planta não morre de sede: o excesso de água tira o ar da terra e ela morre afogada.",
+      "pagina": 2,
+      "trecho": "A planta não morre de sede; ela morre afogada.",
+      "fonte": "Rosa do Deserto: Segredos do Caudex, p. 2"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "fontes": [
+    "Rosa do Deserto: Segredos do Caudex, p. 6",
+    "Rosa do Deserto: Segredos do Caudex, p. 5",
+    "Rosa do Deserto: Segredos do Caudex, p. 9",
+    "Rosa do Deserto: Segredos do Caudex, p. 2"
+  ],
+  "materia": {
+    "slug": "rosa-do-deserto-3-erros-de-rega-que-afogam-a-planta",
+    "titulo": "Rosa do deserto: 3 erros de rega que afogam",
+    "descricao": "Sua rosa do deserto amoleceu? Veja 3 erros de rega que afogam a planta, o teste do dedo e o que fazer quando o caudex fica mole. Sem culpa e sem bronca.",
+    "introducao": "Se a sua rosa do deserto amoleceu, perdeu as folhas ou morreu depois de tanto cuidado, respire fundo. Não é culpa sua. É falta de explicação, e ela ninguém dá quando a gente compra a planta. A Rosa do Deserto fala outra língua: ela vem de lugar seco e quase nunca morre de sede. Neste texto, a gente conversa sobre três erros de rega bem comuns, o jeito simples de saber a hora de regar e o que observar quando a planta pede socorro. Tudo com base no ebook do André, em linguagem de varanda e sem receita complicada. Um passo de cada vez, com calma.",
+    "secoes": [
+      {
+        "titulo": "Erro 1: regar um pouquinho todo dia",
+        "paragrafos": [
+          "Quem cuida com amor quer dar água sempre. Parece o gesto mais gentil do mundo: um copinho por dia, para a planta nunca ficar com sede. Só que esse é o erro clássico com a Rosa do Deserto.",
+          "O livro explica o motivo. Esse copinho diário deixa a terra sempre úmida, mas nunca molha as raízes profundas. Ou seja, a superfície vive molhada e a raiz de baixo não recebe a água direito. A planta fica no meio do caminho: encharcada em cima e sem rega de verdade embaixo.",
+          "O que fazer, então? Em vez de muitos golinhos, uma rega generosa de vez em quando, só depois que a terra secar. O ebook não diz um número de dias, e isso é de propósito. Quem manda é a terra, não o calendário."
+        ],
+        "fatosUsados": [
+          0
+        ]
+      },
+      {
+        "titulo": "Erro 2: pratinho com água embaixo do vaso",
+        "paragrafos": [
+          "Muita gente usa o pratinho para não molhar o móvel. É uma preocupação justa, e dá para resolver sem machucar a planta. O cuidado que o livro pede é simples: se você usa pratinho, esvazie a água uns 10 minutos depois de regar.",
+          "Por que isso importa? Porque a raiz da Rosa do Deserto não foi feita para ficar de molho. Se a água fica parada embaixo, a planta continua com os pés molhados mesmo depois da rega. Esvaziar o pratinho é um gesto pequeno, leva alguns segundos e protege a raiz.",
+          "Vale lembrar também do vaso em si. Ele precisa ter furos, para a água entrar e sair livremente. Vaso bonito sem furo pode ser usado como capa, mas a planta deve ficar num vaso furado dentro dele."
+        ],
+        "fatosUsados": [
+          1
+        ]
+      },
+      {
+        "titulo": "Erro 3: terra pesada que empoça água",
+        "paragrafos": [
+          "O terceiro erro não está na rega, está na terra. Aquela terra preta comum, que fica dura quando seca, segura água demais. O livro dá um teste fácil: regue e observe. Se a água empoça em cima e demora a descer, a terra está errada.",
+          "Nesse caso, a terra sufoca a raiz, porque a água não escorre e o ar não entra. A Rosa do Deserto precisa de um solo soltinho, por onde a água passe correndo. O ebook sugere trocar por uma mistura com areia, e traz a receita com a proporção certa no capítulo de materiais.",
+          "Não precisa se culpar se a terra do vaso estava assim. Quase toda planta de loja vem em terra pesada. O importante é perceber e corrigir."
+        ],
+        "fatosUsados": [
+          2
+        ]
+      },
+      {
+        "titulo": "Como saber a hora de regar: o teste do dedo",
+        "paragrafos": [
+          "Esqueça o calendário. Não existe regar toda segunda e quarta, porque a planta não sabe que dia é hoje. Use o dedo: enfie o dedo indicador na terra. Saiu sujo ou úmido? Não regue, vá dar uma volta. Saiu limpo e seco? Pode regar.",
+          "Quando for a hora, regue com vontade. Jogue água até ver ela saindo pelos furos do fundo. Depois, deixe a planta em paz até a terra secar tudo de novo. O livro diz que ela gosta desse ciclo de seca total seguido de chuva abundante.",
+          "Se algo parecer errado, olhe o caudex, aquele tronco gordinho. Se ele estiver mole ao toque, com a base escurecida e cheiro desagradável, é sinal de podridão. O primeiro passo é parar de regar. Lembre que a planta não morre de sede: o excesso de água tira o ar da terra e ela morre afogada. Entender isso já resolve metade do problema."
+        ],
+        "fatosUsados": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Quantas vezes por semana devo regar a rosa do deserto?",
+        "resposta": "O livro não dá um número fixo, e de propósito: ele pede para esquecer o calendário. Faça o teste do dedo e regue só quando a terra estiver seca, até a água sair pelos furos."
+      },
+      {
+        "pergunta": "Meu pratinho pode ficar com água?",
+        "resposta": "Não é o ideal. O ebook pede para esvaziar o pratinho uns 10 minutos depois de regar, porque a raiz não foi feita para ficar de molho."
+      },
+      {
+        "pergunta": "O caudex está mole, e agora?",
+        "resposta": "Caudex mole ao toque, base escurecida e cheiro desagradável indicam podridão. O primeiro passo que o livro dá é parar de regar imediatamente."
+      }
+    ],
+    "conclusao": "Cuidar da Rosa do Deserto é, quase sempre, o exercício de não fazer demais. Faça o teste do dedo, regue com vontade só quando a terra estiver seca, esvazie o pratinho e confira se a água escorre. Na dúvida, espere mais um dia. A planta agradece, e você ganha tranquilidade. Salve este texto para a próxima vez que a dúvida bater e conte para quem também cuida de planta com medo de errar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

@@ -1,0 +1,220 @@
+{
+  "dia": "2026-11-09",
+  "palavra": "MORANGO",
+  "especie": "Fragaria ananassa",
+  "nome": "Morango",
+  "tema": null,
+  "serie": "3 erros",
+  "gancho": "Morango pequeno e azedo? Quase sempre é um destes três erros de plantio.",
+  "resumo": "Três erros comuns ao plantar morango em vaso (coroa enterrada, vaso sem furo, pouco sol) e dois gestos simples: o teste do dedo e regar só na terra.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Plantio",
+      "linha1": "Morango pequeno",
+      "linha2": "e azedo? Veja",
+      "linha3": "os 3 erros",
+      "destaque": "mais comuns"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Enterrar a",
+      "linha2": "coroa da",
+      "destaque": "muda",
+      "texto": "Aquele nózinho de onde saem as folhas apodrece se ficar coberto de terra. Raízes embaixo, coroa para fora.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Vaso bonito",
+      "linha2": "sem",
+      "destaque": "furo",
+      "texto": "Sem furo, a água fica parada e a raiz não respira. Faça muitos furos no fundo do recipiente.",
+      "nota": "Quase todo mundo começa assim."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Pouco sol,",
+      "linha2": "fruta pequena e",
+      "destaque": "azeda",
+      "texto": "O morango precisa de pelo menos 6 a 8 horas de sol direto por dia. Se a fruta sai azeda, a planta pede mais luz.",
+      "nota": "Um gesto pequeno resolve."
+    },
+    {
+      "linha1": "Enfie o dedo",
+      "linha2": "na terra antes de",
+      "destaque": "regar",
+      "texto": "Saiu sujo de terra úmida? Não regue. Saiu seco e limpo? Aí pode regar.",
+      "dica": "Esqueça o calendário fixo. Quem manda é a terra."
+    },
+    {
+      "linha1": "Na hora de regar,",
+      "linha2": "molhe só a",
+      "destaque": "terra",
+      "texto": "Evite molhar folhas e frutos. A umidade constante nas folhas pode atrair fungos.",
+      "dica": "Muda de lugar o vaso se a fruta sair azeda: ela quer mais sol."
+    },
+    {
+      "tarja": "Mito",
+      "linha1": "Precisa de",
+      "linha2": "quintal",
+      "destaque": "enorme?",
+      "texto": "Não. O morango cresce em vasos, em jardineiras e até em garrafas recicladas.",
+      "nota": "Se cabe um vaso, cabe morango."
+    },
+    {
+      "texto": "Cuide com calma e ele devolve em fruta doce. Salve este post para a hora de plantar.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "Enterrar o centro da muda, de onde saem as folhas, faz esse ponto apodrecer.",
+      "pagina": 5,
+      "trecho": "Se você cobrir o miolo com terra, ele vai apodrecer",
+      "fonte": "Morangos do Coração: Colha Doçura, p. 5"
+    },
+    {
+      "texto": "A regra do plantio: raízes embaixo da terra e a coroa, o miolinho, para fora.",
+      "pagina": 5,
+      "trecho": "raízes embaixo da terra, miolinho (coroa) para fora",
+      "fonte": "Morangos do Coração: Colha Doçura, p. 5"
+    },
+    {
+      "texto": "O recipiente precisa de muitos furos no fundo para a água escorrer e a raiz respirar.",
+      "pagina": 4,
+      "trecho": "Faça muitos furos no fundo do seu recipiente",
+      "fonte": "Morangos do Coração: Colha Doçura, p. 4"
+    },
+    {
+      "texto": "O morango precisa de pelo menos 6 a 8 horas de sol direto por dia para ficar doce.",
+      "pagina": 6,
+      "trecho": "Ele precisa de pelo menos 6 a 8 horas de sol direto por dia",
+      "fonte": "Morangos do Coração: Colha Doçura, p. 6"
+    },
+    {
+      "texto": "Morango pequeno e azedo é sinal de que a planta quer mais sol. Mude o vaso de lugar.",
+      "pagina": 7,
+      "trecho": "Isso é sinal de que a planta quer mais sol",
+      "fonte": "Morangos do Coração: Colha Doçura, p. 7"
+    },
+    {
+      "texto": "Teste do dedo: enfie o dedo na terra. Saiu sujo de terra úmida, não regue.",
+      "pagina": 6,
+      "trecho": "Saiu sujo de terra úmida? NÃO REGUE",
+      "fonte": "Morangos do Coração: Colha Doçura, p. 6"
+    },
+    {
+      "texto": "Regue sempre na terra. Molhar folhas e frutos com frequência pode atrair fungos.",
+      "pagina": 6,
+      "trecho": "Evite molhar as folhas e os frutos, pois a umidade constante nas folhas pode atrair fungos",
+      "fonte": "Morangos do Coração: Colha Doçura, p. 6"
+    },
+    {
+      "texto": "Não precisa de quintal enorme: o morango cresce em vasos, jardineiras e até garrafas recicladas.",
+      "pagina": 2,
+      "trecho": "Ele cresce em vasos, em jardineiras e até em garrafas recicladas",
+      "fonte": "Morangos do Coração: Colha Doçura, p. 2"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "fontes": [
+    "Morangos do Coração: Colha Doçura, p. 5",
+    "Morangos do Coração: Colha Doçura, p. 4",
+    "Morangos do Coração: Colha Doçura, p. 6",
+    "Morangos do Coração: Colha Doçura, p. 7",
+    "Morangos do Coração: Colha Doçura, p. 2"
+  ],
+  "materia": {
+    "slug": "morango-em-vaso-3-erros-que-deixam-a-fruta-azeda",
+    "titulo": "Morango em vaso: 3 erros e como acertar",
+    "descricao": "Morango pequeno, azedo ou apodrecendo no vaso? Veja os 3 erros mais comuns do plantio e como acertar com calma, sem culpa, até numa varanda bem pequena.",
+    "introducao": "Se o seu morangueiro deu folha bonita e pouca fruta, ou frutinhas pequenas e azedas, respire. Isso acontece com muita gente, e quase sempre tem conserto. O morango é uma planta generosa, e na maioria das vezes ele só precisa de três ajustes: plantar do jeito certo, ter um vaso que escoa a água e ficar num lugar com bastante sol. Neste texto, a gente conversa sobre cada um desses pontos, mais o jeito simples de saber a hora de regar. Tudo com base no ebook Morangos do Coração, do André, sem receita complicada e sem culpa. Quem já perdeu planta sabe como dói, então vamos com calma, um passo de cada vez.",
+    "secoes": [
+      {
+        "titulo": "Erro 1: enterrar a coroa da muda",
+        "paragrafos": [
+          "Na hora de plantar, a vontade é cobrir tudo de terra para a muda ficar firme. Só que a muda de morango tem um ponto central, de onde saem todas as folhas. Parece um nózinho. É a coroa, e ela não gosta de ficar enterrada.",
+          "O livro é direto: se você cobrir o miolo com terra, ele vai apodrecer. A regra é simples de lembrar: raízes embaixo da terra e o miolinho, a coroa, para fora. Ao plantar, faça um buraquinho no centro, coloque a muda e complete com terra ao redor, apertando de leve com a ponta dos dedos, como num abraço.",
+          "Se você já enterrou a coroa sem saber, calma. Agora você sabe, e da próxima muda vai acertar. Ninguém nasce sabendo."
+        ],
+        "fatosUsados": [
+          0,
+          1
+        ]
+      },
+      {
+        "titulo": "Erro 2: vaso sem furo no fundo",
+        "paragrafos": [
+          "Aquela xícara linda ou a lata de biscoitos antiga fazem um vaso charmoso. Mas, sem furo, a água fica parada no fundo, e a raiz não consegue respirar.",
+          "A orientação do livro é fazer muitos furos no fundo do recipiente. Se você quer usar uma lata ou uma xícara, peça para alguém fazer o furinho com furadeira, ou com prego e martelo. Isso vale para qualquer recipiente, até os que você já tem em casa.",
+          "O ebook também lembra que o morango gosta de espaço para os lados, então um recipiente com boca larga é bem-vindo. O importante é a água poder ir embora, deixando a terra úmida, mas nunca encharcada."
+        ],
+        "fatosUsados": [
+          2
+        ]
+      },
+      {
+        "titulo": "Erro 3: pouco sol e fruta azeda",
+        "paragrafos": [
+          "O morango só fica vermelhinho e doce se receber luz. O livro fala em pelo menos 6 a 8 horas de sol direto por dia, e o sol da manhã é o melhor.",
+          "Quando as frutas saem pequenas e azedas, o livro explica que é sinal de que a planta quer mais sol. A solução é tentar mudar o vaso de lugar, para um canto mais iluminado da varanda ou da janela.",
+          "Se a luz da sua casa é fraca, o livro avisa com sinceridade: o morango vai crescer folhas lindas, mas raramente dará frutos. Não é falta de jeito seu. É só a planta pedindo luz."
+        ],
+        "fatosUsados": [
+          3,
+          4
+        ]
+      },
+      {
+        "titulo": "Como saber a hora de regar",
+        "paragrafos": [
+          "Esqueça o calendário fixo. O livro conta que o clima muda, e a sede da planta também. Para saber a hora certa, enfie o dedo na terra, ou um palito de churrasco. Saiu sujo de terra úmida? Não regue e vá fazer outra coisa. Saiu seco e limpo? Aí pode regar.",
+          "Na hora de regar, molhe sempre a terra. O ebook pede para evitar molhar as folhas e os frutos, porque a umidade constante nas folhas pode atrair fungos.",
+          "Esse jeito de regar, junto com o vaso furado, evita boa parte dos sustos. A planta bebe o que precisa e o resto escorre."
+        ],
+        "fatosUsados": [
+          5,
+          6
+        ]
+      },
+      {
+        "titulo": "Mito: sem quintal não dá para plantar morango",
+        "paragrafos": [
+          "Muita gente acha que, para colher morango, precisa de uma fazenda ou de um quintal enorme. O livro diz que isso é mito. O morango cresce em vasos, em jardineiras e até em garrafas recicladas.",
+          "Então, se a sua casa é pequena ou você mora em apartamento, ainda dá para ter o seu morangueiro. Comece com uma muda e um vaso bem furado, num lugar com sol. O resto vem com a observação do dia a dia."
+        ],
+        "fatosUsados": [
+          7
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Por que meus morangos saem pequenos e azedos?",
+        "resposta": "Segundo o livro, é sinal de que a planta quer mais sol. Ele precisa de pelo menos 6 a 8 horas de sol direto por dia. Tente mudar o vaso de lugar."
+      },
+      {
+        "pergunta": "Quantas vezes por semana devo regar o morangueiro?",
+        "resposta": "O livro não dá um número fixo, e de propósito: ele pede para esquecer regras como regar toda segunda-feira. Use o teste do dedo e regue só quando a terra sair seca e limpa, sempre na terra."
+      },
+      {
+        "pergunta": "Posso plantar morango sem quintal?",
+        "resposta": "Pode. O livro diz que precisar de quintal enorme é mito, e que o morango cresce em vasos, jardineiras e até em garrafas recicladas."
+      }
+    ],
+    "conclusao": "Morango bom não depende de sorte nem de dedo verde. Depende de plantar com a coroa para fora, de um vaso com muitos furos, de bastante sol e de regar só quando a terra pedir. Se algum desses pontos falhou até agora, tudo bem: dá para ajustar com calma. Salve este texto para a hora do plantio e conte para quem também sonha com morango na varanda. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

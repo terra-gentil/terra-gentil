@@ -1,4 +1,11 @@
 # PROGRESSO Terra Gentil
+## SEO: ACOES DA CONFERENCIA DE 09/11/2026
+- **Os 33 nao indexados, detalhados:** 404 (6) sao URLs do WordPress antigo (`/shop/`, `/games/`, `/pt-portfolio/...`, `/photographer-2/`): inofensivas, saem sozinhas. Redirecionamento (6) e so a versao com barra final (`/videos/` para `/videos`): normal. Detectadas e nao indexadas (15): 12 historias do `/blog`, `/doutor`, `/equipamentos` e **`/guias/begonia-e-geranio`**. Rastreadas e nao indexadas (6): 1 noticia (rosa-do-deserto-3-erros), `/sobre`, home (variante) e 2 historias do blog.
+- **Correcao:** o sitemap tem 67 livros e 66 estao indexados. Faltava so o `begonia-e-geranio`, indexacao pedida hoje (registrado em `fila-indexacao.json`).
+- **Achado:** as buscas de espada-de-sao-jorge caem em `/noticias/` (135 impressoes em `espada-de-sao-jorge-como-regar-sem-excesso`), nao nos guias. Existem duas noticias do mesmo tema que competem entre si. Titulo e descricao das duas foram diferenciados: a de 01/11 mira "como regar, quando e quantas vezes" (o texto responde: so com a terra seca, sem numero fixo) e a de 28/10 mira "erros de rega mais comuns". Slugs nao mudaram.
+- **Ideia aberta:** nao ha guia (livro) de espada-de-sao-jorge; so e citada em `casa-com-pet`. A busca existe, vale um livro novo, e ele pode receber link das duas noticias.
+- **Repetir a conferencia em 7 dias** (16/11): ver se as duas noticias de espada sobem de posicao e se begonia-e-geranio entrou.
+
 ## CONFERENCIA DE SEO (Search Console, 09/11/2026)
 - **Indexacao:** 87 paginas indexadas, 33 nao. Motivos: Detectada mas nao indexada 15, Nao encontrado (404) 6, Pagina com redirecionamento 6, Rastreada mas nao indexada 6. Entre as indexadas: 66 sao /guias/<slug> (o sitemap lista 66 livros mais o indice /guias, ou seja, todos os livros ja entraram), 10 /noticias/, 11 paginas institucionais e blog.
 - **Desempenho, 7 dias (01 a 07/11):** 0 cliques, 356 impressoes, posicao media 10,5. So /guias: 114 impressoes, 0 cliques, posicao media 18,7, 27 consultas.

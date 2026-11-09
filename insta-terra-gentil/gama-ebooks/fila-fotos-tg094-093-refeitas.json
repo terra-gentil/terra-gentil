@@ -1,0 +1,158 @@
+﻿{
+    "livro":  "TG 094, 093 e 3 refeitas do 091",
+    "estilo":  "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+    "fotos":  [
+                  {
+                      "id":  "alp-gesto-1",
+                      "especie":  "fig tree",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands stripping the leaves from a straight young fig branch to leave about 30 cm of clean stem",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "alp-gesto-2",
+                      "especie":  "fig tree",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands using a small knife to remove a narrow ring of bark around a fig branch with two shallow cuts",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "alp-gesto-3",
+                      "especie":  "fig tree",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands wrapping damp moss around the cut on a fig branch inside black plastic, tying it with string below and above; the small mascot figurine sits on the branch just above the wrap",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "alp-sintoma-1",
+                      "especie":  "seedlings",
+                      "proporcao":  "9:16",
+                      "elenco":  false,
+                      "cena":  "Seedling tray with several young seedlings fallen over, each with a brown shriveled ring at the base of the stem, damp soil",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "alp-var-mergulhia",
+                      "especie":  "jasmine",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "A low jasmine branch laid along the ground and pinned into the soil at several points with U-shaped wire",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "alp-var-touceira",
+                      "especie":  "clumping perennial",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "A clump of a leafy perennial plant divided into several rooted pieces lying on soil next to a garden fork; the small mascot figurine stands on the soil beside the pieces",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "alp-var-violeta",
+                      "especie":  "african violet",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "An African violet leaf with its stalk pushed into a small pot of moist soil, tiny new leaves sprouting at the base",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "alp-var-saxifraga",
+                      "especie":  "strawberry begonia",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Saxifraga stolonifera mother plant with a runner plantlet pinned into the soil of a small pot placed next to it",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "fsm-gesto-1",
+                      "especie":  "impatiens",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands cutting an 8 to 10 cm tip cutting from a flowering impatiens plant with small pruning shears",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "fsm-gesto-2",
+                      "especie":  "impatiens",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands pushing an impatiens tip cutting into a small pot of peat mixed with coarse sand; the small mascot figurine sits on the rim of the pot",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "fsm-gesto-3",
+                      "especie":  "impatiens",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands placing a small pot with an impatiens cutting in a bright corner away from strong direct sun",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "fsm-sintoma-1",
+                      "especie":  "impatiens",
+                      "proporcao":  "9:16",
+                      "elenco":  false,
+                      "cena":  "Young impatiens seedlings collapsed and fallen over at the base of the stem in a small pot of damp soil",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "fsm-var-boca-de-leao",
+                      "especie":  "snapdragon",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Snapdragon with tall spikes of pink, yellow and white flowers in a sunny garden bed",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "fsm-var-perpetua",
+                      "especie":  "globe amaranth",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Gomphrena globosa with round purple and pink flower heads in a sunny garden bed",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "fsm-var-alisso",
+                      "especie":  "sweet alyssum",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Sweet alyssum with tiny white flowers forming a low carpet along the edge of a garden bed; the small mascot figurine stands on the garden path next to it",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "fsm-var-nigela",
+                      "especie":  "love-in-a-mist",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Nigella damascena with pale blue flowers and inflated striped seed pods among feathery leaves",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "pep-gesto-1",
+                      "especie":  "cucumber",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands pressing a cucumber seed 2 cm deep into a small mound of rich soil in a large pot",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "pep-gesto-2",
+                      "especie":  "cucumber",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands tying three bamboo canes together at the top to form a tepee over a large pot with a young cucumber plant; the small mascot figurine sits on the rim of the pot",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "pep-gesto-3",
+                      "especie":  "cucumber",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands winding garden twine from the bottom up around a bamboo cane so a young cucumber vine can climb it",
+                      "mascote":  false
+                  }
+              ]
+}

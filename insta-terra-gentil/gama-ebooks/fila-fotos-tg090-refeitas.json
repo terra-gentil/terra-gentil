@@ -1,0 +1,110 @@
+﻿{
+    "livro":  "TG 090 e 5 refeitas do 088",
+    "estilo":  "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+    "fotos":  [
+                  {
+                      "id":  "erv-gesto-1",
+                      "especie":  "pole bean",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands pushing a tall bamboo pole into the soil of a vegetable bed, with other poles already standing about 40 cm apart",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "erv-gesto-2",
+                      "especie":  "pole bean",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands placing two or three bean seeds in the soil at the foot of a bamboo pole; the small mascot figurine stands on the soil leaning against the pole",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "erv-gesto-3",
+                      "especie":  "pole bean",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands sowing a new bean seed at the foot of a bamboo pole where no seedling came up, next to poles with young bean plants",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "erv-sintoma-1",
+                      "especie":  "green bean",
+                      "proporcao":  "9:16",
+                      "elenco":  false,
+                      "cena":  "Fallen bean flowers scattered on the soil under a green bean plant with few pods",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "erv-var-ervilha-torta",
+                      "especie":  "snow pea",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Snow pea plant in a pot climbing a small tripod of sticks, with flat green pods hanging; the small mascot figurine sits on the rim of the pot",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "erv-var-lablabe",
+                      "especie":  "hyacinth bean",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Hyacinth bean vine (Lablab purpureus) climbing a garden fence with lilac flowers and young pods",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "erv-var-amendoim",
+                      "especie":  "peanut",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Peanut plant freshly pulled from sandy soil, with peanut pods hanging from the roots",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "erv-var-minimilho",
+                      "especie":  "baby corn",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Freshly harvested baby corn ears, some still in their green husks, on a wooden table",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bat-gesto-1",
+                      "especie":  "potato",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands pouring soil into a plastic bucket with drainage holes in the bottom, until it is one third full",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bat-gesto-2",
+                      "especie":  "potato",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands placing sprouted seed potatoes, shoots facing up, on the soil inside the bucket; the small mascot figurine sits on the rim of the bucket",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "bat-gesto-3",
+                      "especie":  "potato",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands adding soil around young green potato shoots growing inside the bucket",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bat-var-batata-doce",
+                      "especie":  "sweet potato",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Sweet potato vine with heart-shaped leaves next to freshly dug sweet potatoes on the soil",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bat-var-cebola",
+                      "especie":  "onion",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Harvested onions with dry papery outer skins on a wooden table in a sunny backyard",
+                      "mascote":  false
+                  }
+              ]
+}

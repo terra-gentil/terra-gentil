@@ -1,0 +1,158 @@
+﻿{
+    "livro":  "TG 088, 089 e 3 refeitas",
+    "estilo":  "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+    "fotos":  [
+                  {
+                      "id":  "bat-gesto-1",
+                      "especie":  "potato",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands pouring soil into a plastic bucket with drainage holes in the bottom, until it is one third full",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bat-gesto-2",
+                      "especie":  "potato",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands placing sprouted seed potatoes, shoots facing up, on the soil inside the bucket; the small mascot figurine sits on the rim of the bucket",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "bat-gesto-3",
+                      "especie":  "potato",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands adding soil around young green potato shoots growing inside the bucket",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bat-sintoma-1",
+                      "especie":  "taro",
+                      "proporcao":  "9:16",
+                      "elenco":  false,
+                      "cena":  "Taro leaf with pale, feather-shaped mottled patches along the veins (dasheen mosaic virus)",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bat-var-batata-doce",
+                      "especie":  "sweet potato",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Sweet potato vine with heart-shaped leaves next to freshly dug sweet potatoes on the soil",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bat-var-cebola",
+                      "especie":  "onion",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Harvested onions with dry papery outer skins on a wooden table in a sunny backyard",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bat-var-alho",
+                      "especie":  "garlic",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Garlic heads of different sizes with white, pink and purple skins on a rustic wooden table; the small mascot figurine stands on the table next to them",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "bat-var-gengibre",
+                      "especie":  "ginger",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Pieces of ginger rhizome with green shoots planted in loose, rich, well-drained soil",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bet-gesto-1",
+                      "especie":  "beetroot",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands dropping knobbly beetroot seeds into a glass of water to soak overnight, on a wooden garden table",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bet-gesto-2",
+                      "especie":  "beetroot",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands sowing beetroot seeds about 1 cm deep in a shallow furrow of a vegetable bed; the small mascot figurine stands on the soil at the end of the furrow",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "bet-gesto-3",
+                      "especie":  "beetroot",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands using small scissors to snip the extra seedlings from a cluster of young beetroot seedlings, leaving only one",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bet-sintoma-1",
+                      "especie":  "beetroot",
+                      "proporcao":  "9:16",
+                      "elenco":  false,
+                      "cena":  "Crowded row of beetroot plants with small undersized roots pressed against each other in a vegetable bed",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bet-var-listrada",
+                      "especie":  "chioggia beetroot",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Chioggia beetroot cut in half showing pink and white concentric rings inside, next to whole beets with leaves",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bet-var-acelga-colorida",
+                      "especie":  "rainbow chard",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Rainbow Swiss chard with red, yellow and orange stalks growing among flowers in a garden bed; the small mascot figurine sits on the edging stone of the bed",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "bet-var-aspargo-branco",
+                      "especie":  "white asparagus",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Bunch of white asparagus spears beside a bunch of green asparagus on a rustic wooden table",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bet-var-microverde",
+                      "especie":  "beet microgreens",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Tray of beet microgreens with small green leaves and bright red stems and veins on a sunny windowsill",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bor-var-hot-lips",
+                      "especie":  "Salvia Hot Lips",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Salvia \u0027Hot Lips\u0027 shrub with two-colored flowers, white upper lip and red lower lip",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "inv-gesto-1",
+                      "especie":  "Christmas cactus",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands twisting off a cutting of two or three flat segments from a Christmas cactus (Schlumbergera)",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "inv-gesto-3",
+                      "especie":  "Christmas cactus",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands planting two Christmas cactus cuttings back to back in a small pot of peat mixed with coarse sand",
+                      "mascote":  false
+                  }
+              ]
+}

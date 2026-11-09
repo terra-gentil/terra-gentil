@@ -1,0 +1,38 @@
+﻿{
+    "livro":  "TG 083",
+    "estilo":  "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+    "fotos":  [
+                  {
+                      "id":  "lir-var-agapanto",
+                      "especie":  "agapanthus",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Agapanthus with round clusters of blue flowers on tall stems in a sunny garden bed; the small mascot figurine stands on the garden path next to it",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "lir-var-hemerocale",
+                      "especie":  "daylily",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Orange daylily (Hemerocallis) flower fully open among long arching leaves",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "lir-var-amarilis",
+                      "especie":  "amaryllis",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Hippeastrum amaryllis with large red trumpet flowers on a tall stem in a pot",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "lir-var-clivia",
+                      "especie":  "clivia",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Clivia with clusters of orange flowers and dark green strap leaves in partial shade",
+                      "mascote":  false
+                  }
+              ]
+}

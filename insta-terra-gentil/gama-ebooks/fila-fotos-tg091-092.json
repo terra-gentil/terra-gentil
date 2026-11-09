@@ -1,0 +1,134 @@
+﻿{
+    "livro":  "TG 091 e 092",
+    "estilo":  "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+    "fotos":  [
+                  {
+                      "id":  "pep-gesto-1",
+                      "especie":  "cucumber",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands pressing a cucumber seed 2 cm deep into a small mound of rich soil in a large pot",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "pep-gesto-2",
+                      "especie":  "cucumber",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands tying three bamboo canes together at the top to form a tepee over a large pot with a young cucumber plant; the small mascot figurine sits on the rim of the pot",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "pep-gesto-3",
+                      "especie":  "cucumber",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands winding garden twine from the bottom up around a bamboo cane so a young cucumber vine can climb it",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "pep-sintoma-1",
+                      "especie":  "cucumber",
+                      "proporcao":  "9:16",
+                      "elenco":  false,
+                      "cena":  "Cluster of black aphids on the underside of a cucumber leaf and on a wilting new shoot",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "pep-var-berinjela",
+                      "especie":  "eggplant",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Eggplant plant in full sun with glossy purple fruits, tied to a firm stake",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "pep-var-quiabo",
+                      "especie":  "okra",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Okra plant with green pods and a pale yellow flower in a vegetable bed",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "pep-var-melancia",
+                      "especie":  "watermelon",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Ripe striped watermelon resting on straw among its vines in a vegetable garden",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "pep-var-abobora",
+                      "especie":  "squash",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Squash plant with a big yellow flower and large leaves spreading on the ground next to a compost heap; the small mascot figurine stands on the ground beside a squash leaf",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "jas-gesto-1",
+                      "especie":  "hoya",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands cutting a hoya stem cutting with three or four nodes just below a leaf, using small pruning shears",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "jas-gesto-2",
+                      "especie":  "hoya",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands holding a fresh hoya cutting while a drop of milky sap dries at the cut end",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "jas-gesto-3",
+                      "especie":  "hoya",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands dipping the end of a hoya cutting into rooting powder beside a small pot; the small mascot figurine sits on the rim of the pot",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "jas-sintoma-1",
+                      "especie":  "frangipani",
+                      "proporcao":  "9:16",
+                      "elenco":  false,
+                      "cena":  "Frangipani plant in a pot with no leaves at all, only thick bare grey branches, resting in a dry spot",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "jas-var-jasmim-manga",
+                      "especie":  "frangipani",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Frangipani branch with a cluster of fragrant flowers and long leaves in full sun",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "jas-var-estefanotis",
+                      "especie":  "stephanotis",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Stephanotis vine on a support with a cluster of waxy white star-shaped flowers",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "jas-var-tuberosa",
+                      "especie":  "tuberose",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Tuberose with tall spikes of pure white flowers in a summer garden bed; the small mascot figurine stands on the garden path next to it",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "jas-var-jasmim-dos-poetas",
+                      "especie":  "poet\u0027s jasmine",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Poet\u0027s jasmine with pink buds opening into white star-shaped flowers on a climbing stem",
+                      "mascote":  false
+                  }
+              ]
+}

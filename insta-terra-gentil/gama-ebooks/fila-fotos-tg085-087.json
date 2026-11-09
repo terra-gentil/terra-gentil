@@ -1,0 +1,198 @@
+﻿{
+    "livro":  "TG 085 a 087",
+    "estilo":  "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+    "fotos":  [
+                  {
+                      "id":  "bor-gesto-1",
+                      "especie":  "sage",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands cutting the tip of a sage stem with small pruning shears in a sunny garden bed",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bor-gesto-2",
+                      "especie":  "sage",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands pushing a sage tip cutting into loose, free-draining soil in a small pot; the small mascot figurine sits on the rim of the pot",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "bor-gesto-3",
+                      "especie":  "sage",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands placing a small pot with a sage cutting in a warm, sunny spot on a garden wall",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bor-sintoma-1",
+                      "especie":  "pentas",
+                      "proporcao":  "9:16",
+                      "elenco":  false,
+                      "cena":  "Pentas plant with red star-shaped flowers, a cloud of tiny whiteflies rising from its leaves as a branch is brushed",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bor-var-budleia",
+                      "especie":  "butterfly bush",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Butterfly bush with long fragrant purple flower clusters covered with butterflies and bees",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bor-var-hot-lips",
+                      "especie":  "Salvia Hot Lips",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Salvia \u0027Hot Lips\u0027 shrub with two-colored flowers, white upper lip and red lower lip",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "bor-var-salvia-abacaxi",
+                      "especie":  "pineapple sage",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Pineapple sage with bright green leaves and tubular red flowers in a garden bed; the small mascot figurine stands on the garden path next to it",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "bor-var-flor-de-fumo",
+                      "especie":  "flowering tobacco",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "White flowering tobacco (Nicotiana) with long trumpet flowers open at dusk in a garden bed",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "inv-gesto-1",
+                      "especie":  "Christmas cactus",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands twisting off a cutting of two or three flat segments from a Christmas cactus (Schlumbergera)",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "inv-gesto-2",
+                      "especie":  "Christmas cactus",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands laying Christmas cactus segment cuttings on a sheet of paper to let the cut ends dry; the small mascot figurine sits on the corner of the paper",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "inv-gesto-3",
+                      "especie":  "Christmas cactus",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands planting two Christmas cactus cuttings back to back in a small pot of peat mixed with coarse sand",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "inv-sintoma-1",
+                      "especie":  "camellia",
+                      "proporcao":  "9:16",
+                      "elenco":  false,
+                      "cena":  "Camellia leaves infested with aphids and scale insects, potted plant in a closed, dim indoor corner",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "inv-var-camelia",
+                      "especie":  "camellia",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Camellia japonica shrub with glossy dark leaves and double red flowers against a sheltered wall; the small mascot figurine stands on the ground at the foot of the wall",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "inv-var-crisantemo",
+                      "especie":  "pompon chrysanthemum",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Low pompon chrysanthemum plant covered with dozens of small round flowers in a pot",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "inv-var-bico-de-papagaio",
+                      "especie":  "poinsettia",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Potted poinsettia with large bright red bracts around tiny yellow flowers",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "inv-var-coroa-de-cristo",
+                      "especie":  "crown of thorns",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Crown of thorns (Euphorbia milii) with spiny stems and small red bract flowers in a sunny pot",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "tcj-gesto-1",
+                      "especie":  "tomato",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands filling a wide pot, at least 25 cm across, with dark rich soil",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "tcj-gesto-2",
+                      "especie":  "tomato",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands planting a young tomato seedling deep in the pot, burying the stem up to just below the first leaves; the small mascot figurine sits on the rim of the pot",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "tcj-gesto-3",
+                      "especie":  "tomato",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands gently winding a young tomato stem around a vertical string tied to an overhead support",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "tcj-sintoma-1",
+                      "especie":  "tomato",
+                      "proporcao":  "9:16",
+                      "elenco":  false,
+                      "cena":  "Tomatoes on the plant with black, sunken, rotten patches on the bottom of the fruit (blossom end rot)",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "tcj-var-cascata",
+                      "especie":  "trailing cherry tomato",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Trailing cherry tomato plant cascading from a hanging pot, full of small ripe red tomatoes; the small mascot figurine stands on the balcony floor beneath the hanging pot",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "tcj-var-cereja",
+                      "especie":  "cherry tomato",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Cherry tomato plant growing outdoors with clusters of small ripe red tomatoes",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "tcj-var-anao",
+                      "especie":  "dwarf tomato",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Compact dwarf tomato plant with red fruit growing in a small hanging basket",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "tcj-var-colorido",
+                      "especie":  "tomato varieties",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Yellow, green, purple and pear-shaped tomatoes harvested side by side in a wicker basket",
+                      "mascote":  false
+                  }
+              ]
+}

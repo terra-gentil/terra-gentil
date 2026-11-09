@@ -1,4 +1,11 @@
 # PROGRESSO Terra Gentil
+## CONFERENCIA DE SEO (Search Console, 09/11/2026)
+- **Indexacao:** 87 paginas indexadas, 33 nao. Motivos: Detectada mas nao indexada 15, Nao encontrado (404) 6, Pagina com redirecionamento 6, Rastreada mas nao indexada 6. Entre as indexadas: 66 sao /guias/<slug> (o sitemap lista 66 livros mais o indice /guias, ou seja, todos os livros ja entraram), 10 /noticias/, 11 paginas institucionais e blog.
+- **Desempenho, 7 dias (01 a 07/11):** 0 cliques, 356 impressoes, posicao media 10,5. So /guias: 114 impressoes, 0 cliques, posicao media 18,7, 27 consultas.
+- **Consultas que mais aparecem:** "como regar espada de sao jorge" (8 impr.), "comigo ninguem pode" (5, mais variacoes), "rega espada de sao jorge", "espada de sao jorge molhar quantas vezes", "que planta e essa", "como comecar um jardim do zero".
+- **O que melhorou:** fila de indexacao zerada (44 guias pedidos ou conferidos); todos os 66 livros indexados; guias ja aparecem em buscas reais de rega e comigo-ninguem-pode.
+- **Fazer a seguir:** (1) abrir os 6 de "Rastreada mas nao indexada" e os 15 de "Detectada mas nao indexada" e ver quais sao /guias ou /noticias; (2) conferir os 6 de 404 e os 6 de redirecionamento (provavelmente URLs antigas, corrigir ou deixar sair sozinhas); (3) cliques ainda zerados: melhorar titulo e descricao SEO dos guias que ja tem impressao (espada de sao jorge, comigo-ninguem-pode), pois a posicao media de /guias e 18,7 (2a pagina); (4) repetir esta conferencia em 7 dias.
+
 **Backup da fabrica no git (03/11/2026):** `ebooks-fabrica/` tem os roteiros, pools e scripts (so texto) de `DocumentsTerra Gentilebooksabrica`. Fotos 2K e PDFs ficam so no computador. Se mudar de maquina/conta, copiar a pasta de volta (ver LEIA.md dela).
 ## FOTOS DA LEVA 7 E 8: TG 082 FECHADO, TG 083 COM 4 DE 8 (03/11/2026, noite)
 - TG 082 com 8/8 em 2K e previa remontada (sem estouro, 2 avisos vao para o pos). TG 083: 4 de 8 em 2K casadas (`lir-gesto-1..3`, `lir-sintoma-1`); a conta Marca Registrada (/u/4) bateu o LIMITE DO FLOW e faltam `lir-var-agapanto`, `lir-var-hemerocale`, `lir-var-amarilis`, `lir-var-clivia`. Faltam 18 livros (TG 083 parcial, 084 a 100).

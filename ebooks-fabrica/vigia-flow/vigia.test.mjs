@@ -31,6 +31,8 @@ test("laco de 2K mantem as travas aprendidas", () => {
   assert.match(t, /seguidas >= 2/, "trava de 2 falhas sumiu");
   assert.match(t, /catch \(e\)/, "try/catch por posicao sumiu");
   assert.match(t, /passo = 2/, "passo de 2 (galeria duplica foto) sumiu");
+  assert.match(t, /x\.height > 100/, "filtro por altura sumiu: blocos de retrato (~92 px) saem do indice e a posicao nao bate com a grade");
+  assert.doesNotMatch(t, /x\.width > 100\)/, "filtro por largura > 100 pula blocos de retrato");
 });
 
 test("vigia do 2K tem folga para aba em segundo plano", () => {

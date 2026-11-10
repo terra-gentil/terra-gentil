@@ -3,7 +3,8 @@
 // __baixar2k(3, 37) sem await (o laco segue rodando na pagina). Progresso em document.documentElement.dataset.b2k
 // (JSON: i, ok, falhas, seguidas, fim, parou) que a extensao vigia le. Regras (cada uma nasceu de um erro real):
 // faixa maxima 38 (a galeria descarrega o topo e os indices deslizam); try/catch por posicao; 2 falhas de 2K
-// seguidas = para (limite da conta, insistir so gasta tempo).
+// seguidas = para (limite da conta, insistir so gasta tempo); blocos de retrato tem so ~92 px de largura, entao o
+// filtro de imagem usa altura (> 100) e nao largura, senao pula fotos e os indices nao batem com a grade.
 window.__baixar2k = async (a, b, passo = 2) => {
   if (b - a > 38) throw new Error('faixa grande demais: maximo 38 posicoes por rodada');
   const espera = ms => new Promise(r => setTimeout(r, ms));
@@ -20,7 +21,7 @@ window.__baixar2k = async (a, b, passo = 2) => {
     est.i = i; salva();
     try {
       for (let t = 0; t < 10 && falhou(); t++) await espera(500);
-      const img = [...document.querySelectorAll('img')].filter(x => x.width > 100)[i];
+      const img = [...document.querySelectorAll('img')].filter(x => x.width > 60 && x.height > 100)[i];
       if (!img) { log.push(i + ':sem imagem'); continue; }
       img.scrollIntoView({block: 'center'}); await espera(800);
       const r = img.getBoundingClientRect();

@@ -1,0 +1,134 @@
+﻿{
+    "livro":  "TG 099",
+    "estilo":  "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+    "fotos":  [
+                  {
+                      "id":  "odd-gesto-1",
+                      "especie":  "phalaenopsis orchid",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands pushing one finger a few centimeters into the dry bark substrate of a potted phalaenopsis orchid",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "odd-gesto-2",
+                      "especie":  "phalaenopsis orchid",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands holding a potted phalaenopsis orchid in a kitchen sink, wetting the leaves and bark substrate with the sink spray hose, flowers kept dry",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "odd-gesto-3",
+                      "especie":  "phalaenopsis orchid",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands lifting a potted phalaenopsis orchid over the sink while water drains out of the holes at the bottom of the pot; the small mascot figurine sits on the edge of the sink",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "odd-sintoma-1",
+                      "especie":  "phalaenopsis orchid",
+                      "proporcao":  "9:16",
+                      "elenco":  false,
+                      "cena":  "Wilted phalaenopsis orchid with limp leaves taken out of its pot, showing brown mushy dead roots on a table",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "odd-var-phalaenopsis",
+                      "especie":  "phalaenopsis orchid",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "White phalaenopsis orchid in bloom with broad flat leaves, in a pot near a bright window; the small mascot figurine stands on the windowsill next to the pot",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "odd-var-mini-cattleya",
+                      "especie":  "mini cattleya orchid",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Compact mini cattleya orchid about 20 cm tall in bloom, in a small pot on an indoor shelf",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "odd-var-miltonia",
+                      "especie":  "miltonia orchid",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Brazilian miltonia orchid in bloom with flat open flowers, in a pot in bright shade",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "odd-var-micro-orquidea",
+                      "especie":  "miniature orchid",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Tiny miniature orchid with small flowers in a little pot held next to a teacup for scale",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "gen-gesto-1",
+                      "especie":  "spider plant",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands picking a small plantlet at the tip of a long arching stem of a spider plant",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "gen-gesto-2",
+                      "especie":  "spider plant",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands cutting a spider plant plantlet from its stem with small scissors, leaving a little piece of stem attached",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "gen-gesto-3",
+                      "especie":  "spider plant",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands planting a spider plant plantlet into a small pot with drainage holes; the small mascot figurine sits on the rim of the pot",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "gen-sintoma-1",
+                      "especie":  "coleus",
+                      "proporcao":  "9:16",
+                      "elenco":  false,
+                      "cena":  "Old leggy coleus plant in a pot with thin flower spikes on top and faded sparse leaves",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "gen-var-aspidistra",
+                      "especie":  "cast iron plant",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Aspidistra with broad dark green upright leaves in a pot in a shady corner of a house; the small mascot figurine stands on the floor beside the pot",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "gen-var-cissus-uva",
+                      "especie":  "cissus Ellen Danica",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Cissus Ellen Danica with glossy three-lobed leaves in a pot indoors",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "gen-var-abacaxi-roxo",
+                      "especie":  "moses-in-the-cradle",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Tradescantia spathacea with stiff leaves dark green on top and purple underneath, in a pot",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "gen-var-planta-batom",
+                      "especie":  "lipstick plant",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Lipstick plant trailing from a hanging pot with red tubular flowers with yellowish mouths",
+                      "mascote":  false
+                  }
+              ]
+}

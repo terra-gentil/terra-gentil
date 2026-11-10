@@ -1,0 +1,158 @@
+﻿{
+    "livro":  "TG 097 + 098 + 3 nin",
+    "estilo":  "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+    "fotos":  [
+                  {
+                      "id":  "sub-gesto-1",
+                      "especie":  "potted plant",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands squeezing the edges of a small plastic pot and pulling the plant out by the stem near the soil, the root ball coming out whole",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "sub-gesto-2",
+                      "especie":  "potted plant",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands gently loosening circling roots of a root ball with the fingers before planting; the small mascot figurine sits on the rim of the new pot",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "sub-gesto-3",
+                      "especie":  "potted plant",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands settling a plant into a new pot with fresh potting mix, keeping the base of the stem at the same height it was before",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "sub-sintoma-1",
+                      "especie":  "potted plant",
+                      "proporcao":  "9:16",
+                      "elenco":  false,
+                      "cena":  "Pot-bound plant whose root ball is stuck inside a tight pot, roots pressed against the pot wall, a long kitchen knife lying beside it",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "rdf-gesto-1",
+                      "especie":  "desert rose",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands moving the whole intact root ball of a desert rose with a swollen caudex into a larger pot, without breaking it apart",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "rdf-gesto-2",
+                      "especie":  "desert rose",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands filling fresh potting mix around the root ball of a desert rose in its new larger pot; the small mascot figurine sits on the rim of the pot",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "rdf-gesto-3",
+                      "especie":  "desert rose",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands watering a freshly repotted desert rose with a watering can",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "rdf-sintoma-1",
+                      "especie":  "desert rose",
+                      "proporcao":  "9:16",
+                      "elenco":  false,
+                      "cena":  "Ceramic pot cracked and deformed by the thick swollen roots of a desert rose growing inside it",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "nin-gesto-1",
+                      "especie":  "wooden nesting tray",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands measuring a small raw unpainted wooden board, about 10 to 15 cm wide, with a tape measure on a garden workbench",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "nin-gesto-3",
+                      "especie":  "climbing plant",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands fixing a small raw wooden nesting tray to a garden wall about one meter above the ground, half hidden behind the leaves of a climbing plant; the small mascot figurine sits on the edge of the wooden tray",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "nin-sintoma-1",
+                      "especie":  "fruit shrub",
+                      "proporcao":  "9:16",
+                      "elenco":  false,
+                      "cena":  "Soft loose plastic netting carelessly draped over a fruiting shrub in a home garden, with saggy folds and loose ends hanging, no birds",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "odd-gesto-1",
+                      "especie":  "phalaenopsis orchid",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands pushing one finger a few centimeters into the dry bark substrate of a potted phalaenopsis orchid",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "odd-gesto-2",
+                      "especie":  "phalaenopsis orchid",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands holding a potted phalaenopsis orchid in a kitchen sink, wetting the leaves and bark substrate with the sink spray hose, flowers kept dry",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "odd-gesto-3",
+                      "especie":  "phalaenopsis orchid",
+                      "proporcao":  "9:16",
+                      "elenco":  true,
+                      "cena":  "Close-up of a man\u0027s hands lifting a potted phalaenopsis orchid over the sink while water drains out of the holes at the bottom of the pot; the small mascot figurine sits on the edge of the sink",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "odd-sintoma-1",
+                      "especie":  "phalaenopsis orchid",
+                      "proporcao":  "9:16",
+                      "elenco":  false,
+                      "cena":  "Wilted phalaenopsis orchid with limp leaves taken out of its pot, showing brown mushy dead roots on a table",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "odd-var-phalaenopsis",
+                      "especie":  "phalaenopsis orchid",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "White phalaenopsis orchid in bloom with broad flat leaves, in a pot near a bright window; the small mascot figurine stands on the windowsill next to the pot",
+                      "mascote":  true
+                  },
+                  {
+                      "id":  "odd-var-mini-cattleya",
+                      "especie":  "mini cattleya orchid",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Compact mini cattleya orchid about 20 cm tall in bloom, in a small pot on an indoor shelf",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "odd-var-miltonia",
+                      "especie":  "miltonia orchid",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Brazilian miltonia orchid in bloom with flat open flowers, in a pot in bright shade",
+                      "mascote":  false
+                  },
+                  {
+                      "id":  "odd-var-micro-orquidea",
+                      "especie":  "miniature orchid",
+                      "proporcao":  "3:4",
+                      "elenco":  false,
+                      "cena":  "Tiny miniature orchid with small flowers in a little pot held next to a teacup for scale",
+                      "mascote":  false
+                  }
+              ]
+}

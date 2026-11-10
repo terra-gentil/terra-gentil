@@ -1,0 +1,70 @@
+{
+  "livro": "TG 105",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "hbi-gesto-1",
+      "especie": "bug hotel",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands assembling the frame of a bug hotel from wooden pallets",
+      "mascote": false
+    },
+    {
+      "id": "hbi-gesto-2",
+      "especie": "bug hotel",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands filling a bug hotel with hollow bamboo, bark and roof tiles",
+      "mascote": false
+    },
+    {
+      "id": "hbi-gesto-3",
+      "especie": "dead hedge",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands stacking pruned branches into a low dead hedge; the small mascot figurine sits on the ground beside the pile",
+      "mascote": true
+    },
+    {
+      "id": "hbi-sintoma-1",
+      "especie": "aphids on rose",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Rose shoot covered with aphids in a very tidy bare garden bed with no fallen leaves",
+      "mascote": false
+    },
+    {
+      "id": "hbi-var-cenoura",
+      "especie": "flowering carrot",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Carrot gone to flower with white flower umbels and small insects on them",
+      "mascote": false
+    },
+    {
+      "id": "hbi-var-salsinha",
+      "especie": "flowering parsley",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Parsley in flower with small insects on the yellow-green flowers",
+      "mascote": false
+    },
+    {
+      "id": "hbi-var-alisso",
+      "especie": "sweet alyssum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "White sweet alyssum forming a carpet with small insects on the flowers; the small mascot figurine stands among the flowers",
+      "mascote": true
+    },
+    {
+      "id": "hbi-var-girassol",
+      "especie": "sunflower",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Open sunflower with a bee on the flower",
+      "mascote": false
+    }
+  ]
+}

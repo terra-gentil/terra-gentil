@@ -47,6 +47,16 @@ const LIVROS = {
     ['pcn-var-endro', 'dill', 'Dill with feathery leaves and yellow umbrella flowers in a vegetable garden', false],
     ['pcn-var-hortela', 'flowering mint', 'Flowering mint with lilac flowers and a butterfly on it', false],
   ],
+  '105': [
+    ['hbi-gesto-1', 'bug hotel', `${H} assembling the frame of a bug hotel from wooden pallets`, false],
+    ['hbi-gesto-2', 'bug hotel', `${H} filling a bug hotel with hollow bamboo, bark and roof tiles`, false],
+    ['hbi-gesto-3', 'dead hedge', `${H} stacking pruned branches into a low dead hedge; ${M} sits on the ground beside the pile`, true],
+    ['hbi-sintoma-1', 'aphids on rose', 'Rose shoot covered with aphids in a very tidy bare garden bed with no fallen leaves', false],
+    ['hbi-var-cenoura', 'flowering carrot', 'Carrot gone to flower with white flower umbels and small insects on them', false],
+    ['hbi-var-salsinha', 'flowering parsley', 'Parsley in flower with small insects on the yellow-green flowers', false],
+    ['hbi-var-alisso', 'sweet alyssum', `White sweet alyssum forming a carpet with small insects on the flowers; ${M} stands among the flowers`, true],
+    ['hbi-var-girassol', 'sunflower', 'Open sunflower with a bee on the flower', false],
+  ],
 };
 for (const [n, lista] of Object.entries(LIVROS)) {
   const fotos = lista.map(([id, especie, cena, mascote]) => ({

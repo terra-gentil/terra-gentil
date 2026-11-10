@@ -1,0 +1,70 @@
+{
+  "livro": "TG 102",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "cvv-gesto-1",
+      "especie": "hedge planting strip",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands stretching a string between two bamboo stakes along a strip of bare soil",
+      "mascote": false
+    },
+    {
+      "id": "cvv-gesto-2",
+      "especie": "hedge seedling",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting a small hedge seedling in the soil beside the string; the small mascot figurine sits on the edge of the strip",
+      "mascote": true
+    },
+    {
+      "id": "cvv-gesto-3",
+      "especie": "young tree",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands tying a young tree to two wooden stakes with a soft tie",
+      "mascote": false
+    },
+    {
+      "id": "cvv-sintoma-1",
+      "especie": "wind-burned plant",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Low twisted shrub with scorched brown leaf edges in a windy exposed spot",
+      "mascote": false
+    },
+    {
+      "id": "cvv-var-hibisco",
+      "especie": "hibiscus hedge",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Red hibiscus hedge in bloom with large flowers along a garden wall",
+      "mascote": false
+    },
+    {
+      "id": "cvv-var-escova",
+      "especie": "bottlebrush",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Bottlebrush with red brush-shaped flowers in a dense row; the small mascot figurine stands on the ground in front of it",
+      "mascote": true
+    },
+    {
+      "id": "cvv-var-tupinambo",
+      "especie": "jerusalem artichoke",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tall Jerusalem artichoke with yellow flowers growing as a windbreak at the edge of a vegetable garden",
+      "mascote": false
+    },
+    {
+      "id": "cvv-var-rosa-canina",
+      "especie": "dog rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dog rose with simple pink flowers in a country hedge",
+      "mascote": false
+    }
+  ]
+}

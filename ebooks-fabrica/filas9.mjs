@@ -17,6 +17,16 @@ const LIVROS = {
     ['slv-var-cobertura', 'mulched plant', `Straw mulch around a vegetable plant with a small gap around the stem; ${M} stands on the straw next to it`, true],
     ['slv-var-barranco', 'jute net slope', 'A slope covered with jute netting and small plants growing through the holes', false],
   ],
+  '102': [
+    ['cvv-gesto-1', 'hedge planting strip', `${H} stretching a string between two bamboo stakes along a strip of bare soil`, false],
+    ['cvv-gesto-2', 'hedge seedling', `${H} planting a small hedge seedling in the soil beside the string; ${M} sits on the edge of the strip`, true],
+    ['cvv-gesto-3', 'young tree', `${H} tying a young tree to two wooden stakes with a soft tie`, false],
+    ['cvv-sintoma-1', 'wind-burned plant', 'Low twisted shrub with scorched brown leaf edges in a windy exposed spot', false],
+    ['cvv-var-hibisco', 'hibiscus hedge', 'Red hibiscus hedge in bloom with large flowers along a garden wall', false],
+    ['cvv-var-escova', 'bottlebrush', `Bottlebrush with red brush-shaped flowers in a dense row; ${M} stands on the ground in front of it`, true],
+    ['cvv-var-tupinambo', 'jerusalem artichoke', 'Tall Jerusalem artichoke with yellow flowers growing as a windbreak at the edge of a vegetable garden', false],
+    ['cvv-var-rosa-canina', 'dog rose', 'Dog rose with simple pink flowers in a country hedge', false],
+  ],
 };
 for (const [n, lista] of Object.entries(LIVROS)) {
   const fotos = lista.map(([id, especie, cena, mascote]) => ({

@@ -92,7 +92,7 @@ export default {
     { t: ['ATÉ O PRÓXIMO LIVRO',
       'Raiz inteira fora, mato menos teimoso. Tente e me conta. Gentileza gera gentileza.',
       'Com carinho, André', '103', 'VOCÊ TEM', '104', '105', '106', '107', '108',
-      'São 103 livros na coleção, todos de graça.', 'PRÓXIMO: TG 104 PLANTAS COMPANHEIRAS',
+      'São 103 livros na coleção, todos de graça.', 'PRÓXIMO: TG 104 HORTA COMPANHEIRA',
       'Comente COMPANHEIRA no @canalterragentil e ele chega no seu direct, de graça.'],
       p: [['coringa-ferramentas-F-1.jpg', 'Retrato do André no jardim']] },
   ],

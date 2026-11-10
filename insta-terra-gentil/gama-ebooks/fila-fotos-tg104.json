@@ -1,0 +1,70 @@
+{
+  "livro": "TG 104",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "pcn-gesto-1",
+      "especie": "basil and tomato",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting a basil seedling next to a tomato plant in a vegetable bed",
+      "mascote": false
+    },
+    {
+      "id": "pcn-gesto-2",
+      "especie": "dill seeds",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sowing dill seeds directly in the soil of a vegetable bed; the small mascot figurine sits on the wooden edge of the bed",
+      "mascote": true
+    },
+    {
+      "id": "pcn-gesto-3",
+      "especie": "mint in clay pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands burying a terracotta pot with mint up to its rim in a garden bed",
+      "mascote": false
+    },
+    {
+      "id": "pcn-sintoma-1",
+      "especie": "mint overgrown",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Mint spreading over a vegetable bed and hiding the other plants",
+      "mascote": false
+    },
+    {
+      "id": "pcn-var-borragem",
+      "especie": "borage",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Borage with blue hanging flowers and a bee on one of them",
+      "mascote": false
+    },
+    {
+      "id": "pcn-var-calendula",
+      "especie": "calendula",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Orange calendula flowers among vegetables in a garden bed; the small mascot figurine stands on the soil next to them",
+      "mascote": true
+    },
+    {
+      "id": "pcn-var-endro",
+      "especie": "dill",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dill with feathery leaves and yellow umbrella flowers in a vegetable garden",
+      "mascote": false
+    },
+    {
+      "id": "pcn-var-hortela",
+      "especie": "flowering mint",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Flowering mint with lilac flowers and a butterfly on it",
+      "mascote": false
+    }
+  ]
+}

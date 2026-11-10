@@ -37,6 +37,16 @@ const LIVROS = {
     ['mte-var-corda-de-viola', 'bindweed', `Field bindweed with white flowers twining on a garden fence; ${M} stands on the ground at the foot of the fence`, true],
     ['mte-var-capim-colonicao', 'guinea grass', 'Tall dense clump of guinea grass in an abandoned lot', false],
   ],
+  '104': [
+    ['pcn-gesto-1', 'basil and tomato', `${H} planting a basil seedling next to a tomato plant in a vegetable bed`, false],
+    ['pcn-gesto-2', 'dill seeds', `${H} sowing dill seeds directly in the soil of a vegetable bed; ${M} sits on the wooden edge of the bed`, true],
+    ['pcn-gesto-3', 'mint in clay pot', `${H} burying a terracotta pot with mint up to its rim in a garden bed`, false],
+    ['pcn-sintoma-1', 'mint overgrown', 'Mint spreading over a vegetable bed and hiding the other plants', false],
+    ['pcn-var-borragem', 'borage', 'Borage with blue hanging flowers and a bee on one of them', false],
+    ['pcn-var-calendula', 'calendula', `Orange calendula flowers among vegetables in a garden bed; ${M} stands on the soil next to them`, true],
+    ['pcn-var-endro', 'dill', 'Dill with feathery leaves and yellow umbrella flowers in a vegetable garden', false],
+    ['pcn-var-hortela', 'flowering mint', 'Flowering mint with lilac flowers and a butterfly on it', false],
+  ],
 };
 for (const [n, lista] of Object.entries(LIVROS)) {
   const fotos = lista.map(([id, especie, cena, mascote]) => ({

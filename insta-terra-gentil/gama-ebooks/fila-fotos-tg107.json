@@ -1,0 +1,70 @@
+{
+  "livro": "TG 107",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "sem-gesto-1",
+      "especie": "paper pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands rolling a strip of newspaper around a soda can to make a seedling pot",
+      "mascote": false
+    },
+    {
+      "id": "sem-gesto-2",
+      "especie": "seed pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sowing seeds into a yogurt cup with a drainage hole filled with seed-starting mix; the small mascot figurine sits on the work table next to the cup",
+      "mascote": true
+    },
+    {
+      "id": "sem-gesto-3",
+      "especie": "seedling transplant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands holding a tiny seedling by its leaf with a teaspoon underneath to transplant it",
+      "mascote": false
+    },
+    {
+      "id": "sem-sintoma-1",
+      "especie": "tangled seedlings",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Seedlings tangled together in a single seed tray without cells, hard to separate",
+      "mascote": false
+    },
+    {
+      "id": "sem-var-girassol",
+      "especie": "sunflower seedlings",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Sunflower seedlings with first leaves in small pots on a windowsill",
+      "mascote": false
+    },
+    {
+      "id": "sem-var-rabanete",
+      "especie": "radish seedlings",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Radish seedlings in a straight row sown directly in a garden bed",
+      "mascote": false
+    },
+    {
+      "id": "sem-var-pimenta",
+      "especie": "chili seedlings",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Chili pepper seedlings in a small pot on a warm sunny windowsill; the small mascot figurine sits on the windowsill next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "sem-var-capuchinha",
+      "especie": "nasturtium seedlings",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Nasturtium seedlings with round leaves in a small pot",
+      "mascote": false
+    }
+  ]
+}

@@ -67,6 +67,16 @@ const LIVROS = {
     ['mic-var-cerca-vazada', 'slatted fence', 'Slatted wooden fence with garden plants behind it, filtering the wind', false],
     ['mic-var-pet', 'bottle cloche', 'Young seedling protected by a cut plastic bottle placed over it in a garden bed', false],
   ],
+  '107': [
+    ['sem-gesto-1', 'paper pot', `${H} rolling a strip of newspaper around a soda can to make a seedling pot`, false],
+    ['sem-gesto-2', 'seed pot', `${H} sowing seeds into a yogurt cup with a drainage hole filled with seed-starting mix; ${M} sits on the work table next to the cup`, true],
+    ['sem-gesto-3', 'seedling transplant', `${H} holding a tiny seedling by its leaf with a teaspoon underneath to transplant it`, false],
+    ['sem-sintoma-1', 'tangled seedlings', 'Seedlings tangled together in a single seed tray without cells, hard to separate', false],
+    ['sem-var-girassol', 'sunflower seedlings', 'Sunflower seedlings with first leaves in small pots on a windowsill', false],
+    ['sem-var-rabanete', 'radish seedlings', 'Radish seedlings in a straight row sown directly in a garden bed', false],
+    ['sem-var-pimenta', 'chili seedlings', `Chili pepper seedlings in a small pot on a warm sunny windowsill; ${M} sits on the windowsill next to the pot`, true],
+    ['sem-var-capuchinha', 'nasturtium seedlings', 'Nasturtium seedlings with round leaves in a small pot', false],
+  ],
 };
 for (const [n, lista] of Object.entries(LIVROS)) {
   const fotos = lista.map(([id, especie, cena, mascote]) => ({

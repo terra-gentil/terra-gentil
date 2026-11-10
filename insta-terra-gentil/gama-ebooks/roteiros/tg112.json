@@ -1,0 +1,561 @@
+{
+  "livro": "TG 112",
+  "titulo": "Orquídea de Pedra",
+  "serie": "#4A3A2A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "112",
+        "COLEÇÃO TERRA GENTIL",
+        "TOUCEIRA",
+        "Orquídea de Pedra",
+        "Orquídea que vive de pouco.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-A-1.jpg",
+          "alt": "André olhando uma orquídea em touceira com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "c4-158",
+        "c4-155",
+        "c4-1"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Tem orquídea que vive em pedra.",
+        "Aguenta sol forte, calor e seca.",
+        "Aqui tem pedra, touceira, vaso e flor.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Olhe se o vaso tem pratinho no fundo.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 112 ORQUÍDEA DE PEDRA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-B-1.jpg",
+          "alt": "André examinando as raízes de uma orquídea com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "c4-98",
+        "c4-50"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Tire o pratinho do fundo do vaso.",
+        "Ele corta muito a entrada de ar.",
+        "SUBSTRATO",
+        "Um só tipo por coleção.",
+        "Cada um seca num ritmo.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 112 ORQUÍDEA DE PEDRA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da orquídea",
+        "06",
+        "CAPÍTULO 1",
+        "Pedra e touceira",
+        "08",
+        "CAPÍTULO 2",
+        "Raiz e vaso",
+        "12",
+        "CAPÍTULO 3",
+        "Água e adubo",
+        "15",
+        "CAPÍTULO 4",
+        "Flor de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Ponta seca na folha? Vá para a página 11.",
+        "Na próxima: a ficha da orquídea",
+        "→",
+        "TG 112 ORQUÍDEA DE PEDRA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "c4-158",
+        "c4-157",
+        "c4-15",
+        "c4-103",
+        "c4-98",
+        "c4-50"
+      ],
+      "textos": [
+        "FICHA DA ORQUÍDEA",
+        "Antes de agir",
+        "O que olhar",
+        "TOUCEIRA",
+        "Broto após broto",
+        "PEDRA",
+        "Sol forte e seca",
+        "TRONCO",
+        "Sombra e musgo",
+        "GALHO",
+        "Cattleya deitada",
+        "VASO",
+        "Pratinho corta ar",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Pedra e sal: só água pura",
+        "Na próxima: pedra e touceira",
+        "→",
+        "TG 112 ORQUÍDEA DE PEDRA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Pedra e touceira",
+        "01",
+        "Certo e errado",
+        "02",
+        "Touceira, passo a passo",
+        "03",
+        "Touceira de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 112 ORQUÍDEA DE PEDRA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-C-1.jpg",
+          "alt": "André olhando uma orquídea presa numa pedra"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "c4-98",
+        "c4-50",
+        "c4-207",
+        "c4-78",
+        "c4-130",
+        "c4-103"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Vaso",
+        "Sem pratinho",
+        "Pratinho encaixado",
+        "Substrato",
+        "Um só tipo",
+        "Vários tipos",
+        "Muda",
+        "De viveiro",
+        "Arrancada da mata",
+        "Adubo",
+        "Bem leve",
+        "Pesado",
+        "Pedra e argila pedem água pura.",
+        "DICA DO ANDRÉ",
+        "Compre só muda de viveiro.",
+        "Na próxima: touceira, passo a passo",
+        "→",
+        "TG 112 ORQUÍDEA DE PEDRA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Raiz e vaso",
+        "01",
+        "Touceira, passo a passo",
+        "02",
+        "Touceira de perto",
+        "03",
+        "Ponta seca",
+        "Na próxima: touceira, passo a passo",
+        "→",
+        "TG 112 ORQUÍDEA DE PEDRA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-D-1.jpg",
+          "alt": "André olhando as raízes de uma orquídea no vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "c4-134",
+        "c4-105",
+        "c4-28",
+        "c4-143"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Touceira? Faça assim.",
+        "BULBOS",
+        "Dobre e puxe",
+        "BARRO",
+        "Molho e broca",
+        "RIPAS",
+        "Vão de 2 cm",
+        "1",
+        "DOBRE",
+        "Bulbos novos em ângulo reto.",
+        "2",
+        "FURE",
+        "Barro de molho, broca de parede.",
+        "3",
+        "ARME",
+        "Ripa de 2,5 cm, vão de 2 cm.",
+        "DICA DO ANDRÉ",
+        "Muitas ripas finas espalham melhor.",
+        "Na próxima: touceira de perto",
+        "→",
+        "TG 112 ORQUÍDEA DE PEDRA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "otc-gesto-1.jpg",
+          "alt": "Mãos dobrando em ângulo reto o grupo de bulbos novos de uma orquídea Stanhopea para separar"
+        },
+        {
+          "src": "otc-gesto-2.jpg",
+          "alt": "Mãos furando com broca de parede um vaso de barro que ficou de molho"
+        },
+        {
+          "src": "otc-gesto-3.jpg",
+          "alt": "Mãos pregando ripas de madeira com vão pequeno para fazer um ripado caseiro"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "c4-15",
+        "c4-143",
+        "c4-157",
+        "c4-155",
+        "c4-201"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · TOUCEIRA",
+        "Touceira de perto",
+        "Cattleya e Oncidium: broto após broto.",
+        "Phalaenopsis e Vanda: caule só para cima.",
+        "Sapatinho: separar dois leques solta um leque novo.",
+        "Cada orquídea tem seu andar na árvore.",
+        "Orquídea de galho é coisa dos trópicos.",
+        "Na próxima: ponta seca",
+        "→",
+        "TG 112 ORQUÍDEA DE PEDRA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "c4-195",
+        "c4-130"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Ponta seca?",
+        "1",
+        "O QUE PARECE",
+        "Sal na ponta da folha.",
+        "O QUE PODE SER",
+        "Antracnose.",
+        "COMO CONFERIR",
+        "Fileira de pontinhos bege na divisa.",
+        "Na próxima: água e adubo",
+        "→",
+        "TG 112 ORQUÍDEA DE PEDRA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "otc-sintoma-1.jpg",
+          "alt": "Folha de orquídea com a ponta seca e uma fileira de pontinhos bege na divisa com a parte verde"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Água e adubo",
+        "01",
+        "Água e adubo",
+        "02",
+        "Sal e substrato",
+        "03",
+        "Flor de perto",
+        "Na próxima: água e adubo",
+        "→",
+        "TG 112 ORQUÍDEA DE PEDRA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-E-1.jpg",
+          "alt": "André regando orquídeas com água de chuva"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "c4-67",
+        "c4-72",
+        "c4-79",
+        "c4-113",
+        "c4-130",
+        "c4-126",
+        "c4-158",
+        "c4-78"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CUIDADO",
+        "Água e adubo",
+        "CHUVA",
+        "Água de chuva e orvalho",
+        "TELHADO",
+        "Quase 2.500 litros",
+        "O QUE ELA PEDE",
+        "Adubo",
+        " é vitamina, não comida",
+        "Esfagno",
+        " lave com água de chuva",
+        "Argila",
+        " só com água pura",
+        "Torneira",
+        " tem mais sal que a chuva",
+        "Bom saber",
+        "Bagaço",
+        " drena, mas se decompõe",
+        "Bifrenaria",
+        " cresce em rocha ao sol",
+        "Na próxima: sal e substrato",
+        "→",
+        "TG 112 ORQUÍDEA DE PEDRA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "c4-113",
+        "c4-108",
+        "c4-130",
+        "c4-67",
+        "c4-121"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Esfagno guarda sal se não for lavado.",
+        "Hepática no vaso barra água e ar.",
+        "Argila e pedra vulcânica guardam sal.",
+        "FAÇA ASSIM",
+        "Lave com água de chuva.",
+        "Tire a hepática com pinça.",
+        "Na próxima: flor de perto",
+        "→",
+        "TG 112 ORQUÍDEA DE PEDRA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "c4-158",
+        "c4-157",
+        "c4-15",
+        "c4-1"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · NA ÁRVORE E NA PEDRA",
+        "Quatro orquídeas",
+        "1",
+        "Laelia pequena",
+        "Rupícola, aguenta sol e seca.",
+        "2",
+        "Bifrenaria",
+        "Cresce em rocha ao sol.",
+        "3",
+        "Cattleya",
+        "Nos galhos grossos deitados.",
+        "4",
+        "Falenopse",
+        "No tronco com sombra e musgo.",
+        "CHAVE",
+        "Orquídea",
+        "Onde ela vive",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 112 ORQUÍDEA DE PEDRA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "otc-var-laelia.jpg",
+          "alt": "Laelia pequena florida presa numa pedra ao sol"
+        },
+        {
+          "src": "otc-var-bifrenaria.jpg",
+          "alt": "Bifrenaria harrisoniae florida crescendo numa rocha a pleno sol"
+        },
+        {
+          "src": "otc-var-cattleya.jpg",
+          "alt": "Cattleya florida deitada num galho grosso de árvore"
+        },
+        {
+          "src": "otc-var-phalaenopsis.jpg",
+          "alt": "Phalaenopsis branca no tronco sombreado de uma árvore coberto de musgo"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "c4-208",
+        "c4-209",
+        "c4-210",
+        "c4-211",
+        "c4-212"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Flor de perto",
+        "LÁBIO",
+        "A pétala de baixo, placa do inseto.",
+        "COLUNA",
+        "Parte masculina e feminina numa peça.",
+        "CABINHO TORCIDO",
+        "O botão dá meia-volta ao abrir.",
+        "PÓLEN",
+        "Pacotinhos amarelos, com cola.",
+        "DICA DO ANDRÉ",
+        "Cada flor é feita sob medida para um inseto.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 112 ORQUÍDEA DE PEDRA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "c4-1",
+        "c4-205"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "25",
+        "MIL",
+        "a 35 mil espécies de orquídea existem no mundo.",
+        "Fora uns 40 mil híbridos.",
+        "E MAIS UMA",
+        "Orquídea é parente distante do lírio.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 112 ORQUÍDEA DE PEDRA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "c4-98",
+        "c4-50",
+        "c4-207",
+        "c4-78",
+        "c4-28",
+        "c4-113",
+        "c4-108",
+        "c4-134"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Pratinho encaixado tirado do vaso",
+        "Um só tipo de substrato",
+        "Muda só de viveiro",
+        "Adubo bem leve",
+        "Ripas com vão de 2 cm",
+        "Esfagno lavado com água de chuva",
+        "Hepática tirada com pinça",
+        "Bulbos novos dobrados e puxados",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 112 ORQUÍDEA DE PEDRA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Orquídea de pedra pede pouco e dá flor. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "112",
+        "VOCÊ TEM",
+        "113",
+        "114",
+        "115",
+        "116",
+        "117",
+        "São 112 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 113 PIMENTA NO CANTEIRO",
+        "Comente CANTEIRO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 112 ORQUÍDEA DE PEDRA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

@@ -117,6 +117,16 @@ const LIVROS = {
     ['pul-var-pulgao-preto', 'black aphids on fava', `Black aphids gathered at the tip of a fava bean plant; ${M} stands on the soil beside the plant`, true],
     ['pul-var-sirfidea', 'hoverfly', 'Hoverfly resembling a wasp resting on a flower', false],
   ],
+  '112': [
+    ['otc-gesto-1', 'stanhopea orchid', `${H} bending a cluster of new pseudobulbs of a Stanhopea orchid at a right angle to split the clump`, false],
+    ['otc-gesto-2', 'clay pot', `${H} drilling an extra hole in a terracotta orchid pot with a masonry drill bit, the pot soaked in a bucket nearby`, false],
+    ['otc-gesto-3', 'orchid shade slats', `${H} nailing thin wooden slats with narrow gaps to build a homemade shade frame over orchids; ${M} sits on a stone wall beside the work`, true],
+    ['otc-sintoma-1', 'orchid leaf tip', 'Orchid leaf with a dry brown tip and a row of small beige dots at the border between dead and living tissue', false],
+    ['otc-var-laelia', 'rupicolous laelia', 'Small rupicolous Laelia orchid in bloom growing on a sunny rock', false],
+    ['otc-var-bifrenaria', 'bifrenaria harrisoniae', `Bifrenaria harrisoniae orchid in bloom growing on a rock in full sun; ${M} stands on the rock beside it`, true],
+    ['otc-var-cattleya', 'cattleya orchid', 'Cattleya orchid in bloom lying on a thick tree branch', false],
+    ['otc-var-phalaenopsis', 'phalaenopsis orchid', 'White Phalaenopsis orchid on a shaded mossy tree trunk', false],
+  ],
 };
 for (const [n, lista] of Object.entries(LIVROS)) {
   const fotos = lista.map(([id, especie, cena, mascote]) => ({

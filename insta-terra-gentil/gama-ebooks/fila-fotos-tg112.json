@@ -1,0 +1,70 @@
+{
+  "livro": "TG 112",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "otc-gesto-1",
+      "especie": "stanhopea orchid",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands bending a cluster of new pseudobulbs of a Stanhopea orchid at a right angle to split the clump",
+      "mascote": false
+    },
+    {
+      "id": "otc-gesto-2",
+      "especie": "clay pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands drilling an extra hole in a terracotta orchid pot with a masonry drill bit, the pot soaked in a bucket nearby",
+      "mascote": false
+    },
+    {
+      "id": "otc-gesto-3",
+      "especie": "orchid shade slats",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands nailing thin wooden slats with narrow gaps to build a homemade shade frame over orchids; the small mascot figurine sits on a stone wall beside the work",
+      "mascote": true
+    },
+    {
+      "id": "otc-sintoma-1",
+      "especie": "orchid leaf tip",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Orchid leaf with a dry brown tip and a row of small beige dots at the border between dead and living tissue",
+      "mascote": false
+    },
+    {
+      "id": "otc-var-laelia",
+      "especie": "rupicolous laelia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Small rupicolous Laelia orchid in bloom growing on a sunny rock",
+      "mascote": false
+    },
+    {
+      "id": "otc-var-bifrenaria",
+      "especie": "bifrenaria harrisoniae",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Bifrenaria harrisoniae orchid in bloom growing on a rock in full sun; the small mascot figurine stands on the rock beside it",
+      "mascote": true
+    },
+    {
+      "id": "otc-var-cattleya",
+      "especie": "cattleya orchid",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cattleya orchid in bloom lying on a thick tree branch",
+      "mascote": false
+    },
+    {
+      "id": "otc-var-phalaenopsis",
+      "especie": "phalaenopsis orchid",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "White Phalaenopsis orchid on a shaded mossy tree trunk",
+      "mascote": false
+    }
+  ]
+}

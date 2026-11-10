@@ -87,6 +87,16 @@ const LIVROS = {
     ['hss-var-hosta', 'hosta', `Hosta with broad leaves in a shady bed with curled shoots; ${M} stands among the leaves`, true],
     ['hss-var-gengibre', 'ginger', 'Ginger plant with long leaves in a pot in partial shade', false],
   ],
+  '109': [
+    ['fho-gesto-1', 'kale', `${H} picking the outer leaves of a kale plant and leaving the center leaves growing`, false],
+    ['fho-gesto-2', 'lettuce thinning', `${H} pulling tiny lettuce seedlings out of a crowded row to eat them as baby greens; ${M} sits on the edge of the bed`, true],
+    ['fho-gesto-3', 'cabbage seedling', `${H} placing a round cardboard collar around a young cabbage seedling`, false],
+    ['fho-sintoma-1', 'kale with holes', 'Kale leaf full of tiny shot holes made by flea beetles', false],
+    ['fho-var-couve', 'kale', 'Kale with large dark green leaves in a vegetable bed', false],
+    ['fho-var-alface', 'romaine lettuce', `Romaine lettuce with long leaves in a garden bed; ${M} stands on the soil next to it`, true],
+    ['fho-var-rucula', 'arugula', 'Arugula with lobed leaves ready to cut in a garden bed', false],
+    ['fho-var-brocolis', 'broccoli', 'Broccoli plant with a formed head and tightly closed buds', false],
+  ],
 };
 for (const [n, lista] of Object.entries(LIVROS)) {
   const fotos = lista.map(([id, especie, cena, mascote]) => ({

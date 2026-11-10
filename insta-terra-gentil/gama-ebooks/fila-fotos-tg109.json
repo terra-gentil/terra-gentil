@@ -1,0 +1,70 @@
+{
+  "livro": "TG 109",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "fho-gesto-1",
+      "especie": "kale",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands picking the outer leaves of a kale plant and leaving the center leaves growing",
+      "mascote": false
+    },
+    {
+      "id": "fho-gesto-2",
+      "especie": "lettuce thinning",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pulling tiny lettuce seedlings out of a crowded row to eat them as baby greens; the small mascot figurine sits on the edge of the bed",
+      "mascote": true
+    },
+    {
+      "id": "fho-gesto-3",
+      "especie": "cabbage seedling",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing a round cardboard collar around a young cabbage seedling",
+      "mascote": false
+    },
+    {
+      "id": "fho-sintoma-1",
+      "especie": "kale with holes",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Kale leaf full of tiny shot holes made by flea beetles",
+      "mascote": false
+    },
+    {
+      "id": "fho-var-couve",
+      "especie": "kale",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Kale with large dark green leaves in a vegetable bed",
+      "mascote": false
+    },
+    {
+      "id": "fho-var-alface",
+      "especie": "romaine lettuce",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Romaine lettuce with long leaves in a garden bed; the small mascot figurine stands on the soil next to it",
+      "mascote": true
+    },
+    {
+      "id": "fho-var-rucula",
+      "especie": "arugula",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Arugula with lobed leaves ready to cut in a garden bed",
+      "mascote": false
+    },
+    {
+      "id": "fho-var-brocolis",
+      "especie": "broccoli",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Broccoli plant with a formed head and tightly closed buds",
+      "mascote": false
+    }
+  ]
+}

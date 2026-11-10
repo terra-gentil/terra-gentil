@@ -1,0 +1,56 @@
+# TG 109 Folhas da Horta: 55 fatos (so estes)
+s2-203 [horta|Você sabia?] A flor da rúcula também se come: deixe alguns pés florirem e jogue as flores na salada
+s2-209 [horta|Você sabia?] Couve congela bem: congele as folhas e esfarele direto na sopa, no fim do cozimento
+s2-210 [horta|Você sabia?] Couve quase não tem praga. O besouro-pulga gosta dela; se ele atacar, cubra com manta até a planta ficar grande e resistente
+s2-211 [alface|Você sabia?] O segredo da alface mais doce é um só, qualquer que seja o tipo: crescer rápido
+s2-221 [alface|X ou Y?] Alface romana aguenta melhor o calor e demora mais a florir; as de cabeça pedem mais espaço que as de folha
+h35-053 [horta|5 cuidados] Distância entre plantas: tomate de moita 45 a 90 cm, pimentão 45 a 60 cm, alface 15 a 35 cm, rabanete 1 cm
+h35-063 [horta|Você sabia?] Alface, rabanete, cebolinha, mostarda, vagem e morango-silvestre dão em só 15 cm de terra, com rega em dia
+h35-066 [horta|Dica do Andre] Alface embaixo do milho: planta baixa aproveita o espaço da planta alta
+h35-082 [horta|Você sabia?] Consórcio: rabanete e rúcula crescem no vão de planta lenta ou alta, como milho e brócolis
+h35-121 [horta|Passo a passo] Microverde: semeie manjericão, mostarda, couve ou rúcula; colheu, semeie de novo a cada poucas semanas
+h35-139 [horta|Dica do Andre] Palete de madeira com bolsos de manta vira parede de horta: morango, alface, tomate e ervas
+h35-165 [horta|Você sabia?] De 4 a 5 pés de alface bastam para ter folha à vontade
+h35-168 [alface|Você sabia?] Alface dá para colher como folha bebê ou como pé formado em 9 a 12 semanas
+h35-183 [horta|Dica do Andre] Não jogue fora o desbaste: alface tirada no desbaste é verdura bebê
+h35-206 [alface|5 cuidados] Alface bem regada demora mais a pendoar
+h35-248 [horta|Passo a passo] Couve-rábano: colha do tamanho de bola de tênis, ou de bola de golfe na versão mini
+h35-249 [horta|3 erros] Couve-rábano é da família da couve: não plante onde couve, repolho ou brócolis estiveram há pouco
+h35-255 [horta|Você sabia?] Radicchio e escarola-pão-de-açúcar se plantam como alface, mas aguentam mais o frio
+h35-258 [horta|Você sabia?] Mostarda fica mais ardida conforme cresce; fica pronta em 6 a 8 semanas
+h35-261 [rúcula|Você sabia?] Rúcula se corta em 2 semanas como folhinha que rebrota, ou se colhe inteira com 4 semanas
+h35-264 [horta|5 cuidados] Couve: colha as folhas de fora e deixe as do miolo crescendo
+h35-267 [horta|Você sabia?] Brócolis-ramoso é demorado: 34 a 38 semanas da semente à colheita
+h35-276 [horta|3 erros] Azedinha: tire as flores, senão ela semeia e vira praga
+h35-277 [horta|5 cuidados] Azedinha com terra seca e quente fica amarga: cubra o chão e regue bem
+h35-302 [horta|Você sabia?] O trevo-roxo (Oxalis triangularis) tem folha azedinha de limão: coma pouco, na salada
+h35-307 [praga|Você sabia?] Passarinho depena muda nova de couve e bica fruta madura: a tela tem que ir até o chão
+h35-321 [mato|Você sabia?] O agrião-bravo (cardamine) dispara as sementes longe e floresce em poucas semanas: arranque antes da flor
+g32-037 [horta|Você sabia?] Alface, tomilho e beldroega crescem em montinho para o vento passar por cima
+g32-053 [batata|Você sabia?] A sarna da batata aparece mais em terra alcalina; a hérnia do repolho, em terra ácida
+g32-157 [horta|Você sabia?] O espinafre-da-nova-zelândia nasce em duna de praia e cobre o chão com folhas carnudas; belisque as pontas
+g32-174 [horta|Você sabia?] O brócolis chinês (choy sum, kai-lan) fica pronto em menos de dois meses
+g32-175 [horta|5 cuidados] Brócolis chinês: colha algumas folhas e deixe o bastante para rebrotar; o talo de flor sai antes de abrir
+g32-182 [horta|5 cuidados] Brócolis: 30 cm entre plantas e 40 cm entre fileiras; colha a cabeça com os botões ainda fechados
+g32-183 [horta|Você sabia?] Depois da cabeça do brócolis saem brotinhos do lado: é a segunda colheita
+g32-184 [horta|Você sabia?] O talo do brócolis se come: descasque e coma cru
+g32-185 [horta|Dica do Andre] Brócolis no vaso: três plantas num vaso de 40 cm
+g32-192 [alface|Você sabia?] A alface começou a ser cultivada no norte da África
+g32-238 [horta|Você sabia?] Depois de colher o repolho, deixe o toco na terra: ele solta umas folhas soltas para mais uma colheita
+g32-239 [horta|Dica do Andre] Tela contra borboleta precisa ficar longe das folhas; ajuste conforme a couve cresce
+g32-240 [horta|Socorro] Mosca da raiz na couve: ponha um colar de papelão em volta da muda
+g32-252 [horta|Você sabia?] Nabo e couve-rábano novinhos são os mais macios
+g32-255 [horta|Você sabia?] Mostarda de folha cresce rápido e gosta de tempo fresco e úmido; tem até uma com gosto de wasabi
+g32-268 [rúcula|Dica do Andre] Rúcula em bandeja na janela vira microverde de corta-e-volta
+g32-269 [rúcula|Você sabia?] Deixe a rúcula sementear sozinha pela horta e não precisa plantar de novo
+g32-270 [rúcula|Você sabia?] A rúcula-selvagem é perene e dá colheita por muito tempo
+g32-297 [abelha|Dica do Andre] Couve que floriu: deixe a flor, que se come e chama inseto amigo
+g32-321 [horta|Você sabia?] A beldroega-de-inverno (alface-de-mineiro) tem folha redonda atravessada pelo talo e aguenta 20 graus negativos
+g32-344 [horta|Você sabia?] Azedinha e trevo-azedo (Oxalis) têm folha de gosto de limão
+g32-356 [horta|Você sabia?] Fruta azedinha como a groselha não precisa de muito sol
+g32-368 [horta|Você sabia?] A aliária tem folha com gosto de mostarda e alho, suave quando nova e mais forte depois
+g32-404 [horta|Você sabia?] Dá microverde de rúcula, erva-doce, mostarda, hortelã, cebolinha, rabanete, beterraba e amaranto
+g32-446 [outra|Você sabia?] O trevo-roxo (Oxalis triangularis) tem folha azedinha que se come, flor branca e raiz carnuda
+g32-451 [horta|Você sabia?] Estante com lâmpada de LED vira horta dentro do apartamento: alface, rúcula, manjericão, salsinha e até rabanete
+g32-486 [horta|Socorro] Mosca da raiz da couve: colar de papelão de 15 cm em volta da muda
+g32-490 [praga|Socorro] Pulguinha (furinhos na couve): tela e plante a muda já grande

@@ -1,0 +1,109 @@
+# TG 107 Sementeira e Repicagem: 108 fatos (so estes)
+m33-002 [abutilon|Você sabia?] Lanterninha-japonesa também sai de semente tirada da vagem seca; a muda leva uns dois anos para florir
+m33-004 [aeônio|Você sabia?] Semente de aeônio é pó: uma pitadinha fresca dá centenas de mudas
+m33-005 [aeônio|3 erros] Semente velha de aeônio quase não nasce: guardada, a germinação cai para 1 ou 2 por cento
+m33-006 [aeônio|5 cuidados] Para semear aeônio, misture a semente com um pouco de areia fina
+m33-016 [agave|Você sabia?] Agave de semente leva 2 a 3 anos para virar uma plantinha pequena
+m33-017 [agave|5 cuidados] Semente de agave é grande e chata: cubra com uma camada fina de pedrisco
+m33-020 [alstroeméria|3 erros] A batatinha da alstroeméria é delicada e quebra fácil: espécie se multiplica melhor por semente
+m33-021 [alstroeméria|Você sabia?] A cápsula da alstroeméria explode e espalha a semente; um saquinho de pano em volta pega tudo
+m33-024 [amarílis|Você sabia?] Semente de amarílis às vezes germina ainda presa na haste: colha logo e plante na hora
+m33-028 [antúrio|Você sabia?] Semente de antúrio pode levar meses para germinar, e a muda leva anos até florir
+m33-030 [araucária|Você sabia?] A araucária macho tem pinha comprida de pólen; a fêmea tem a pinha redonda que se desmancha e solta a semente
+m33-034 [cacto-estrela|Você sabia?] Semente boa de cacto-estrela não afunda na água: ela tem bolsinhas de ar
+m33-035 [cacto-estrela|Você sabia?] Semente fresca de cacto-estrela germina em 4 a 5 dias
+m33-048 [caládio|Você sabia?] Caládio quase não dá semente em casa: a muda vem da batata
+m33-051 [camélia|5 cuidados] Semente de camélia é dura: plante fresca ou deixe de molho em água quente antes
+m33-053 [cana-da-índia|5 cuidados] Semente de cana-da-índia é dura: lixe ou dê banho de água quente antes de plantar
+m33-054 [cana-da-índia|Você sabia?] Cana-da-índia dividida floresce no mesmo ano; a de semente costuma florir no segundo
+m33-057 [mamão|5 cuidados] Semente de mamão vai fresca, de preferência em copinho, para não mexer na raiz depois
+m33-071 [crisântemo|Você sabia?] Semente de crisântemo germina em duas semanas e a planta floresce no mesmo ano
+m33-073 [limoeiro|Você sabia?] Semente de limão e laranja tem vários embriões, e alguns saem clones da mãe
+m33-074 [limoeiro|5 cuidados] Das mudinhas de semente de citros, tire as fracas e as fortes demais: as que ficam são clones da mãe
+m33-083 [inhame|Você sabia?] Semente de inhame é rara: a muda vem do próprio tubérculo ou de broto
+m33-086 [jade|Você sabia?] Semente de crassula é pó e germina de forma imprevisível: estaca é o jeito mais fácil
+m33-108 [equinopsis|Você sabia?] O fruto do equinopsis leva 2 a 4 meses para amadurecer e racha mostrando a semente
+m33-111 [flor-de-baile|Você sabia?] Flor-de-baile de semente leva 4 a 7 anos para florir; estaca enraíza em 3 a 6 semanas
+m33-116 [lírio-do-amazonas|Você sabia?] O lírio-do-amazonas quase não dá semente em vaso: a muda vem do filhote do bulbo
+m33-121 [coroa-de-cristo|Você sabia?] A cápsula da eufórbia explode quando madura: amarre um saquinho de papel para pegar a semente
+m33-132 [morango|Você sabia?] Alguns morangos silvestres não soltam estolão e só se multiplicam por semente ou divisão
+m33-135 [gastéria|Você sabia?] Gastéria de semente leva uns três anos para virar uma planta pequena
+m33-144 [gloriosa|Você sabia?] Gloriosa de batata floresce em dois anos; de semente, em 3 a 4
+m33-146 [haworthia|3 erros] Semente de haworthia perde força depois de seis meses: plante fresca
+m33-152 [girassol|Você sabia?] Girassol germina em 7 a 10 dias e floresce de 16 a 20 semanas depois
+m33-154 [girassol|Você sabia?] A cabeça do girassol pode ter até 30 cm, e a semente colhida em casa pode sair diferente da mãe
+m33-156 [hemerocale|Você sabia?] Hemerocale de semente floresce a partir do segundo ano
+m33-165 [hoia|Você sabia?] Semente fresca de hoia, com penugem, pode germinar em poucos dias
+m33-175 [ipomeia|Você sabia?] Glória-da-manhã germina em 7 a 10 dias e floresce em 16 semanas
+m33-181 [kalanchoe|Você sabia?] A mãe-de-milhares solta mudinhas na borda da folha que pegam em qualquer lugar
+m33-182 [kalanchoe|Você sabia?] Mudinha da borda da folha de kalanchoe vira planta nova em 3 a 6 meses
+m33-185 [lavanda|Você sabia?] Lavanda de semente sai com forma e cor de flor variadas
+m33-187 [pedra-viva|3 erros] Pedra-viva (lithops) apodrece fácil: o difícil é a mudinha não apodrecer
+m33-188 [pedra-viva|Você sabia?] Pedra-viva de semente leva 2 a 3 anos para virar planta
+m33-190 [mamilária|Você sabia?] Semente de mamilária dura de 5 a 10 anos guardada
+m33-216 [gerânio|Você sabia?] Semente de gerânio híbrido F1 nasce em 7 a 10 dias e floresce rápido
+m33-224 [petúnia|Você sabia?] Petúnia é perene, mas costuma ser plantada de semente como anual; germina em dez dias e floresce na mesma estação
+m33-225 [petúnia|5 cuidados] Petúnia pendente que não vende semente se multiplica por estaca de ponta
+m33-232 [ripsális|Passo a passo] Semente de ripsális: lave em água morna com um tiquinho de sabão, seque e plante na hora
+m33-253 [jasmim-de-madagascar|Você sabia?] Jasmim-de-madagascar (stephanotis) pega fácil de estaca ou semente e floresce em 2 a 3 anos
+m33-262 [tradescântia|Você sabia?] Tradescântia variegada de semente não sai com a mancha
+m33-264 [capuchinha|Você sabia?] Capuchinha se espalha sozinha pela semente e sai bem parecida com a mãe
+m33-266 [capuchinha|5 cuidados] Semente de capuchinha germina em sete dias; colha uma por uma quando madura e seque antes de guardar
+m33-278 [lírio-do-vento|Você sabia?] A semente do lírio-do-vento é preta, chata e fica muito tempo na cápsula; muda nova floresce em dois anos
+m33-301 [pimenta|Você sabia?] Semente de pimenta germina em sete dias e a planta começa a dar fruto de 16 a 20 semanas depois
+m33-303 [pimenta|Você sabia?] Pimentão e pimenta se polinizam sozinhos; plantados longe de outros tipos, a semente de casa sai parecida
+m33-317 [alface|3 erros] Semente de alface não germina no calor forte, e muita alface espiga no verão: escolha variedade de verão
+m33-344 [amaranto|Você sabia?] A semente do amaranto fica escondida dentro do pendão; dá para "ordenhar" o cacho para colher
+m33-345 [amaranto|Passo a passo] Para limpar semente de amaranto, jogue na tigela e sopre de leve: a palha sobe e a semente fica no fundo
+m33-354 [muda|Você sabia?] A semente consegue dormir em tempo ruim, como seca, e só germina quando a hora é boa
+m33-364 [muda|3 erros] Rato come semente de ervilha, feijão e milho no canteiro; firme bem a terra por cima ou semeie dentro de casa
+s28-002 [muda|Você sabia?] Tem semente que precisa de luz para germinar e tem semente que não precisa: o pacote avisa
+s28-003 [muda|Você sabia?] Na germinação sai primeiro a raizinha, que desce para a terra, e só depois o broto
+s28-005 [muda|Você sabia?] Quando abrem as primeiras folhas, a muda começa a fazer fotossíntese e para de depender da reserva da semente
+s28-011 [muda|Dica do Andre] Semente peletizada (com capinha, tipo comprimido): regue bem depois de semear para a capa dissolver
+s28-012 [muda|Você sabia?] Existe fita de semente: você estica no sulco, cobre com terra e as sementes já ficam no espaço certo
+s28-017 [muda|Você sabia?] Algumas sementes vão direto no lugar definitivo porque a muda não gosta de ser mudada depois de nascer
+s28-020 [muda|Dica do Andre] Estufa improvisada: envolva o vaso ou a bandeja num saco plástico transparente, sem apertar
+s28-027 [muda|X ou Y?] Bandeja inteira ou de células? Na inteira as mudinhas embolam e fica difícil separar na hora de trocar de vaso
+s28-028 [muda|5 cuidados] Vasinho de barro serve para semear, mas seca rápido: fique de olho na umidade
+s28-029 [muda|Você sabia?] A pastilha de fibra de coco vem seca e achatada: uma hora de molho e ela vira um cilindro pronto para semear
+s28-030 [muda|Dica do Andre] Qualquer pote com furo no fundo serve para semear: copo de café, pote de iogurte
+s28-032 [muda|Passo a passo] Vaso de jornal: corte uma tira de 30 por 20 cm, enrole numa lata de refrigerante, dobre o fundo em quatro dobras e tire a lata
+s28-040 [muda|Você sabia?] A maioria das sementes germina em até duas semanas; algumas brotam em cinco ou seis dias
+s28-052 [outra|Você sabia?] Anual é a planta que nasce, cresce, floresce, dá semente e morre no mesmo ano; bienal faz isso em dois anos
+s28-058 [muda|Você sabia?] Híbrido não é mais difícil de plantar, mas a semente é mais cara pelo trabalho de cruzamento
+s28-092 [muda|Dica do Andre] Semente achatada de papel (como a da cobeia): uma hora de molho antes de semear ajuda a grudar no substrato e germinar mais rápido
+s28-093 [muda|Dica do Andre] Semente achatada: enterre de lado, não deitada
+s28-100 [outra|Dica do Andre] A dedaleira precisa de luz para germinar: não cubra a semente
+s28-129 [horta|X ou Y?] Semear em lotes ou de uma vez? Tomate, pimenta, pimentão e berinjela são lentos: semeie uma vez só, cedo
+s28-130 [horta|Dica do Andre] Planeje com o pacote na mão: data de semear, dias para germinar e dias até colher. Vira sua lista de tarefas do mês
+s28-133 [horta|X ou Y?] Primeira vez? Se o pacote deixa escolher entre semear dentro de casa ou direto na terra, escolha dentro: você controla a germinação
+s28-163 [beterraba|Você sabia?] Beterraba dourada ou listrada é cara no mercado, mas fácil de plantar de semente
+s28-172 [pimenta|Você sabia?] Semente de pimenta germina em uns dez dias no quentinho
+s28-195 [tomate|Você sabia?] Semente de tomate germina em cerca de uma semana
+s28-202 [outra|Dica do Andre] Pepininho demora para germinar: até três semanas é normal. Tenha paciência
+s28-214 [rabanete|Dica do Andre] Rabanete vai direto no lugar: mudar a mudinha racha a raiz
+s28-216 [rabanete|Você sabia?] Semente de rabanete germina em sete a dez dias e ele fica pronto umas três semanas depois
+s28-237 [muda|Dica do Andre] Organize a caixa de sementes com divisórias: flores, hortaliças e ervas
+s28-241 [muda|Você sabia?] Semente orgânica vem de planta cultivada sem agrotóxico nem adubo químico
+s28-242 [muda|Passo a passo] Bomba de semente: 2 partes de substrato, 1 de argila em pó, um pouco de água e as sementes. Faça bolinhas do tamanho de uma bola de tênis e seque uns dias no jornal
+s28-243 [muda|3 erros] Erro comum na bomba de semente: usar semente de fora. Use só semente de flor que você mesmo plantou, para não espalhar planta invasora
+s28-244 [muda|Você sabia?] Pendoar é quando a planta sobe para semente antes da hora e encerra a colheita. Fora do sol forte e com terra mais úmida ela pendoa menos
+s28-245 [solo|Você sabia?] O substrato de semear é estéril: protege a semente dos fungos, mas não tem comida para a planta crescer
+w31-001 [muda|Passo a passo] Vaso de papelão: molhe o papelão num balde, enrole num copo, amasse a ponta para fazer o fundo e deixe secar
+w31-002 [muda|Dica do Andre] Vaso de papelão ou jornal vai inteiro para a terra: o fundo se desfaz e a raiz da muda não sofre
+w31-003 [muda|Dica do Andre] Semente miudinha como a de cenoura: misture com areia num potinho, chacoalhe e espalhe no sulco
+w31-004 [muda|5 cuidados] Na hora de repicar, segure a mudinha pela folha, nunca pelo caule. Folha quebrada a muda refaz, caule não
+w31-005 [muda|Dica do Andre] Costas doendo? Semeie em pé: faça o buraco com um cabo e role a semente por um cano até ele
+w31-006 [muda|5 cuidados] Semente grande como de abóbora e melão vai de lado, em pé na terra: a água escorre e ela não apodrece
+w31-007 [muda|Dica do Andre] Bandeja de semear de madeira de palete segura mais a umidade que a de plástico
+w31-015 [muda|Passo a passo] Estufinha de galão de leite: fure o fundo, corte na metade deixando um lado de dobradiça, encha de substrato e semeie
+w31-019 [muda|3 erros] Erro comum: deixar a borda do vaso de papelão para fora da terra. Ela puxa a água e seca o solo
+w31-020 [muda|3 erros] Erro comum: achar que vai lembrar o que semeou. Semanas depois ninguém sabe que mudinha é aquela
+w31-042 [pitaia|Passo a passo] Cacto de pitaia: tire sementes da fruta, deixe secar umas horas, espalhe no vaso com terra e ponha na janela de sol
+w31-043 [pitaia|Você sabia?] Pitaia é um cacto tropical e cresce devagar. Em poucas semanas a semente já brota
+w31-050 [outra|Dica do Andre] Para repicar mudinha uma colher de chá faz o serviço
+w31-131 [mato|Você sabia?] Cavar traz semente de mato dormente para cima e picar raiz de dente-de-leão multiplica a planta
+w31-132 [solo|Passo a passo] Canteiro sem cavar: corte o mato rente, cubra de papelão, molhe e ponha 10 cm de composto curtido por cima
+s28-099 [outra|Você sabia?] A semente da dedaleira é miúda como poeira e faz mal se engolida: mexa com cuidado
+m33-174 [ipomeia|Você sabia?] A semente da glória-da-manhã faz mal se for engolida

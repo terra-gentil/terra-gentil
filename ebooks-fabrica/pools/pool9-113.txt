@@ -1,0 +1,59 @@
+# TG 113 Pimenta no Canteiro: 58 fatos (so estes)
+p29-002 [pimenta|Você sabia?] Pimenta não é parente da pimenta-do-reino. O nome veio de Colombo, que achou o ardido parecido
+p29-003 [pimenta|Você sabia?] Na natureza a pimenteira é um arbusto perene das Américas
+p29-007 [pimenta|Você sabia?] Foram os portugueses que levaram a pimenta para a Ásia: Goa, China, Indonésia e Japão
+p29-008 [pimenta|Você sabia?] Hoje a Índia é a maior produtora, consumidora e exportadora de pimenta do mundo
+p29-009 [pimenta|Você sabia?] O ardido vem da capsaicina, que cutuca os sensores de dor da boca. Ela não queima de verdade
+p29-010 [pimenta|Você sabia?] Quem come pimenta todo dia vai ficando resistente: a jalapeño logo parece sem graça
+p29-012 [passarinho|Você sabia?] Os pássaros são os principais plantadores de pimenta na natureza
+p29-013 [pimenta|Você sabia?] Pé de pimenta com pouca água dá fruto mais ardido, mas a planta fica fraca e produz menos
+p29-014 [pimenta|Você sabia?] Quanto mais calor durante o cultivo, mais ardida fica a pimenta
+p29-015 [pimenta|Mito ou verdade] Mito ou verdade: quanto menor a pimenta, mais ardida? Geralmente sim, mas tem exceção. Vá com calma
+p29-016 [pimenta|Você sabia?] Pimentas do mesmo pé podem ter ardidos diferentes
+p29-019 [pimenta|Você sabia?] A escala Scoville nasceu em 1912: provadores tomavam pimenta diluída em calda até não sentir mais ardido
+p29-020 [pimenta|Você sabia?] Hoje o ardido se mede em laboratório por cromatografia, mais confiável que a língua
+p29-027 [pimenta|Você sabia?] Muda enxertada de pimenta custa mais, mas tem raiz forte, resiste a doença e frutifica antes
+p29-028 [pimenta|X ou Y?] Pimenta de muda ou de semente? Semente é mais barata e tem muito mais variedade para escolher
+p29-029 [pimenta|Dica do Andre] Pimenta para vaso ou janela: escolha variedade compacta, criada para vaso
+p29-037 [pimenta|5 cuidados] Pimenta carregada no calor: confira a terra do vaso todo dia
+p29-038 [pimenta|Você sabia?] O adubo do substrato acaba em umas seis semanas. No vaso final, misture adubo de liberação lenta
+p29-043 [pimenta|Você sabia?] Pimenta dá flor uns 40 dias depois de semeada e fruto a partir de uns 50
+p29-044 [pimenta|Você sabia?] O fruto amadurece de 60 a 120 dias depois da semeadura, conforme a variedade
+p29-049 [pimenta|5 cuidados] Semeie pimenta em vaso limpo: terra velha que sobrou pode guardar doença
+p29-051 [pimenta|Passo a passo] Semente de pimenta vai a meio centímetro de fundo, poucas por vaso, todas da mesma variedade
+p29-052 [pimenta|Passo a passo] Repique a mudinha quando tiver duas folhas verdadeiras, segurando pela folha e não pelo caule
+p29-055 [pimenta|5 cuidados] No canteiro, plante a pimenta na mesma altura em que estava no vaso
+p29-060 [pimenta|Você sabia?] Pimenta não precisa de poda durante a temporada. Só o desponte aos 30 cm
+p29-061 [pimenta|Dica do Andre] Desponte é mais importante na annuum, como jalapeño e caiena, que tende a esticar em vez de encorpar
+p29-067 [pimenta|5 cuidados] Vai guardar semente? Lave o pincel entre uma variedade e outra para não cruzar
+p29-068 [praga|Dica do Andre] No calor seco, borrife a pimenta ou ponha o vaso sobre bandeja com pedrinhas e água contra o ácaro-vermelho
+p29-069 [pimenta|Passo a passo] Muda de dentro para fora: uma semana a dez dias saindo de dia e voltando à noite
+p29-070 [pimenta|Dica do Andre] Plante a pimenta no canteiro de manhã: ela tem o dia inteiro para se acomodar
+p29-072 [pimenta|Você sabia?] Quase toda pimenta nasce verde e depois fica vermelha, amarela, roxa ou até preta. Pode comer em qualquer fase
+p29-073 [pimenta|Mito ou verdade] Mito ou verdade: pimenta vermelha arde mais que a verde? Mito. A verde é a mais ardida; a madura fica mais doce
+p29-077 [pimenta|3 erros] Erro comum: guardar semente de pimenta híbrida F1. O que nasce é uma loteria
+p29-078 [pimenta|3 erros] Erro comum: tirar semente de pimenta verde. Ela ainda não está madura
+p29-085 [pimenta|Dica do Andre] Brotou de novo depois do frio: adubo rico em nitrogênio para soltar folha nova
+p29-086 [pimenta|5 cuidados] Deixe uns 40 cm entre os pés de pimenta e um pé só por vaso
+p29-096 [pimenta|Você sabia?] Vírus da pimenta passa por pulgão, mão suja e ferramenta. Arranque o pé doente logo
+p29-103 [praga|Você sabia?] Pulgão suga a seiva, pode passar vírus e solta um melado que atrai a fumagina preta
+p29-104 [praga|Dica do Andre] Pulgão sai com a mão ou com jato fraco de mangueira
+p29-105 [joaninha|Você sabia?] Joaninha, larva de crisopa e de mosca-das-flores comem pulgão. Flores por perto chamam esses aliados
+p29-109 [praga|3 erros] Erro comum: soltar inimigo natural e aplicar veneno junto. O veneno mata o aliado também
+p29-110 [praga|Socorro] Socorro, folha da pimenta pintadinha de amarelo e com teia fina! É ácaro-vermelho, que gosta de calor seco
+p29-111 [praga|5 cuidados] Contra ácaro-vermelho: aumente a umidade, molhando o chão nos dias quentes
+p29-113 [praga|Você sabia?] Cochonilha-farinhenta se esconde na junção do galho com o caule e é difícil de acabar
+p29-114 [pimenta|Você sabia?] Tem pimenta ornamental criada só para enfeite: muita cor e quase nenhum ardido
+p29-115 [pimenta|Dica do Andre] Pimenta ornamental: quanto mais você colhe, mais frutos aparecem e o vaso continua bonito
+p29-116 [pimenta|Dica do Andre] Pimenta no canteiro combina com dália, cosmos, rudbéquia e cana-da-índia
+p29-117 [pimenta|Dica do Andre] Pimenta escura fica linda com coleus e zínia rosa no mesmo vaso
+p29-118 [pimenta|Dica do Andre] Vaso de salsa pronta: pimenta compacta no meio, cebolinha e coentro em volta
+p29-124 [pimenta|Você sabia?] A dorset naga é de queima lenta: o ardido chega depois. Espere antes da segunda mordida
+p29-125 [pimenta|Você sabia?] Bhut jolokia passa de 1 milhão de Scoville e o ardido dura horas
+p29-127 [pimenta|Você sabia?] A ají amarillo foi domesticada no Peru há 2.500 anos
+p29-135 [pimenta|Você sabia?] Pimenta em pó perde o aroma bem mais rápido que a inteira seca
+p29-136 [pimenta|5 cuidados] Moendo pimenta muito ardida: máscara e óculos
+p29-138 [pimenta|Dica do Andre] Na réstia use pimenta já vermelha: a verde pode não mudar de cor
+p29-141 [pimenta|Dica do Andre] Pimenta picada em forminha de gelo com água: cubos prontos para a panela
+p29-144 [pimenta|Dica do Andre] Para tirar a semente sem tocar no ardido: corte a tampa e role a pimenta na mão até as sementes caírem
+p29-145 [pimenta|Você sabia?] Enxerto é a raiz de uma planta unida ao galho de outra. Pimenta, tomate e berinjela enxertados ficam mais fortes

@@ -1,0 +1,62 @@
+# TG 104 Plantas Companheiras: 61 fatos (so estes)
+s2-01 [manjericão|Você sabia?] Manjericão plantado perto do tomate: o cheiro forte pode confundir as pragas que atacam o tomateiro
+s2-07 [manjericão|Você sabia?] Manjericão fresco dura num copo d'água fora da geladeira; também dá para congelar batido com água ou como pesto
+s2-08 [outra|Você sabia?] Borragem é tão amada pelas abelhas que ganhou o apelido de "pão de abelha"; folha nova e flor têm gosto de pepino
+s2-17 [outra|Você sabia?] Endro (dill) atrai insetos que comem pragas, como vespas e moscas predadoras: plante no meio da horta
+s2-21 [hortelã|3 erros] Hortelã invade e domina o canteiro todo: plante num vaso ou num canto bem separado
+s2-24 [hortelã|Mito ou verdade] Hortelã gosta de terra fértil, mas tem fama de ficar com gosto mais forte em terra só medianamente fértil
+s2-52 [horta|Mito ou verdade] Planta que espanta praga: a prova é pouca e quase só de relato; o próprio autor pede para testar com um pé atrás
+s2-57 [hortelã|3 erros] Hortelã tem fama de afastar praga, mas plante em vaso de barro enterrado no canteiro, senão ela mesma vira a praga
+s2-160 [adubar|Mito ou verdade] Segundo o autor, adubo químico deixa sal na terra e espanta os bichos do solo: nos EUA, o tordo (robin) quase não aparece no gramado adubado com químico, porque lá tem pouca minhoca
+s2-174 [tomate|Você sabia?] Em clima quente, até o tomate passa calor: aí cobertura morta e planta companheira ajudam
+x23-013 [borragem|Você sabia?] A flor da borragem pende para baixo, e a abelha bebe o néctar de cabeça para baixo
+x23-018 [alecrim|Você sabia?] Flor de alecrim é boa para abelha; lavanda atrai borboleta
+x23-022 [hortelã|Você sabia?] Hortelã florida está entre as melhores plantas para borboleta, e é das mais fáceis de plantar
+x23-023 [hortelã|5 cuidados] Deixe a hortelã, a sálvia e a erva-cidreira florirem de vez em quando
+x23-026 [budleia|Você sabia?] Tem budleia de flor amarela que se espalha menos e ainda atrai borboleta, como a B. sellowiana, sul-americana
+x23-033 [flor-de-fumo|Você sabia?] A flor-de-fumo (nicotiana) perfuma a noite e traz mariposas para perto de casa
+x23-054 [calêndula|5 cuidados] Calêndula e cravo-de-defunto no meio da horta atraem mosquinha-das-flores e vespa, que caçam as pragas
+x23-055 [horta|Você sabia?] Flor no meio da horta ajuda de três jeitos: algumas espantam praga, todas chamam polinizador e muitas ainda têm pétala de comer
+x23-060 [horta|Você sabia?] Hortelã perto da ervilha: diz a tradição que espanta rato; não há prova, mas mal não faz
+x23-084 [abelha|Você sabia?] A flor de onde vem o pólen dá o sabor do mel, como a lavanda
+x23-126 [jardim-vivo|Você sabia?] Contato com a natureza ajuda a aguentar o estresse da vida moderna, e o jardim é o lugar mais perto de casa para isso
+h35-055 [horta|Você sabia?] Para quintal de sol: tomate, abobrinha, berinjela, pimenta, pimentão, morango, funcho e manjericão
+h35-072 [solo|Você sabia?] Terra boa é terra ocupada: a raiz das plantas abre o solo e atrai fungos e bactérias do bem
+h35-090 [abelha|Você sabia?] Borragem parece o paraíso da abelha
+h35-096 [praga|Dica do Andre] Cebolinha e alho perto da cenoura disfarçam o cheiro dela para a mosca-da-cenoura
+h35-101 [tomate|Dica do Andre] Tomate verde no fim da safra amadurece na fruteira junto com maçã e banana
+h35-208 [horta|3 erros] Alecrim, tomilho e sálvia não gostam de terra molhada: não plante mais fundo do que estavam no vaso
+h35-209 [alecrim|Você sabia?] Alecrim pega de estaca
+h35-285 [lavanda|3 erros] Lavanda: pode os ramos floridos, mas nunca corte na madeira velha, que não rebrota
+h35-287 [alecrim|Você sabia?] Folha nova de alecrim é mais macia; o pé adulto dá folha o ano inteiro
+h35-288 [manjericão|Você sabia?] O manjericão-africano é perene, não faz semente e só se multiplica por estaca; a abelha adora a flor roxa
+h35-289 [manjericão|Passo a passo] Estaca de manjericão-africano: 10 a 15 cm em terra com areia, pouca água; enraíza em poucas semanas
+h35-294 [horta|Você sabia?] Endro tem raiz comprida e vai melhor semeado direto no lugar; flor e semente também se comem
+h35-301 [capuchinha|Você sabia?] Capuchinha cresce até em terra pobre e se ressemeia sozinha
+g32-008 [abóbora|Você sabia?] Abobrinha e abóbora adoram crescer ao lado do monte de composto
+g32-056 [manjericão|Passo a passo] Manjericão: semeie 3 ou 4 sementes juntas por célula e passe o tufo inteiro para vaso de 9 cm
+g32-062 [manjericão|Você sabia?] Manjericão como microverde fica pronto para colher em 3 semanas
+g32-063 [manjericão|Você sabia?] Existe manjericão perene em forma de arbusto, o manjericão-cravo (Ocimum gratissimum)
+g32-214 [horta|Você sabia?] O endro (dill) tem folha de pena com cheiro de anis; dá flor amarela e semente que se come
+g32-215 [horta|Você sabia?] O shissô (perila) tem sabor entre manjericão e hortelã e a folha serve de "prato" na comida asiática
+g32-283 [hortelã|Você sabia?] Tem hortelã de todo tipo: hortelã-pimenta, hortelã-de-folha-graúda, hortelã-maçã e até hortelã-d'água para brejo
+g32-286 [hortelã|5 cuidados] Hortelã vai muito bem em vaso, desde que a rega não falte
+g32-309 [horta|Você sabia?] A mashua, parente andina da capuchinha, é trepadeira de flor laranja e dá tubérculos com muita proteína
+g32-458 [solo|Você sabia?] Na natureza quase não existe terra pelada: a cobertura segura a água junto da raiz
+g32-497 [lesma|Socorro] Lesma e caramujo: atraia sapo, passarinho e besouro, e faça ronda à noite
+s28-144 [outra|Dica do Andre] Endro (dill): semeie direto no lugar. As flores amarelas em guarda-chuva atraem polinizador
+s28-149 [manjericão|Você sabia?] O manjericão roxo é mais perfumado que o verde, e o tailandês tem gosto mais picante
+s28-152 [horta|Dica do Andre] Horta da receita: escolha um prato com a criança (molho de tomate, salsa de milho) e plantem juntos os ingredientes para cozinhar depois
+s28-156 [horta|Passo a passo] Horta num vaso só: a planta alta atrás com tutor (ervilha ou pimenta), a mais encorpada no meio (couve ou acelga) e as baixas na frente caindo pela borda (capuchinha, cebolinha)
+q34-081 [solo|Você sabia?] Solo bem cuidado faz o resto do jardim ir junto: a saúde do solo é a base do cultivo orgânico
+q34-104 [compostagem|3 erros] Erro comum: plantar alecrim e lavanda no monte hugelkultur. A terra é rica e úmida demais para ervas de lugar seco
+w31-032 [alecrim|Passo a passo] Muda de alecrim: ramo reto sem flor de 15 cm, corte logo abaixo de um nó, 5 cm na água, perto da janela sem sol direto
+w31-067 [passarinho|Dica do Andre] Espantalho antigo: batata cheia de penas pendurada sobre a horta parece um pássaro grande e dança no vento
+w31-152 [regar|X ou Y?] Regar de manhã ou à noite? Manhã. À noite atrai lesma e deixa a terra encharcada até cedo
+w31-160 [podar|Dica do Andre] Tirar flor murcha evita que planta que se espalha sozinha, como nigela e borragem, tome o canteiro
+w31-170 [regar|Dica do Andre] Olla: vaso de barro sem verniz, furo tapado com rolha, enterrado ao lado da planta e cheio de água
+w31-178 [jardim-vivo|Você sabia?] Cerca morta de galhos não precisa de poda e atrai muita vida para o quintal
+w31-186 [horta|Dica do Andre] Sapateira de porta vira horta de ervas vertical: salsinha, coentro, manjericão e tomilho vão bem
+w31-187 [hortelã|5 cuidados] Hortelã em bolso de sapateira precisa de rega frequente: não gosta de secar
+w31-188 [alecrim|3 erros] Erro comum: alecrim e sálvia na sapateira de ervas. Crescem demais para o bolso
+w31-199 [horta|Você sabia?] Na horta francesa, a potager, horta e jardim bonito sempre andaram juntos

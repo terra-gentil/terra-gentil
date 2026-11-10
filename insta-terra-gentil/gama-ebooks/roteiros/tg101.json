@@ -1,0 +1,560 @@
+{
+  "livro": "TG 101",
+  "titulo": "Solo Vivo",
+  "serie": "#4A3321",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "101",
+        "COLEÇÃO TERRA GENTIL",
+        "SOLO",
+        "Solo Vivo",
+        "Terra fofa, planta forte.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-A-1.jpg",
+          "alt": "André com um punhado de terra escura na mão"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "a8-202",
+        "a8-046",
+        "i36-002"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Terra boa é terra fofa e cheia de vida.",
+        "Aqui tem teste, conserto e cobertura.",
+        "A raiz precisa de grumo e de espaço.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Esfregue a terra do seu vaso entre os dedos.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 101 SOLO VIVO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-B-1.jpg",
+          "alt": "André olhando a terra do canteiro com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "i36-002",
+        "i36-003"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Faça o teste da terra na mão.",
+        "Arranha e esfarela? É terra arenosa.",
+        "ARGILA",
+        "Salsicha úmida que não racha no anel.",
+        "E anote o resultado.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 101 SOLO VIVO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do solo",
+        "06",
+        "CAPÍTULO 1",
+        "Terra fofa",
+        "08",
+        "CAPÍTULO 2",
+        "Teste e conserto",
+        "12",
+        "CAPÍTULO 3",
+        "Cobertura e vaso",
+        "15",
+        "CAPÍTULO 4",
+        "Solo de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Água que escorre? Vá para a página 11.",
+        "Na próxima: a ficha do solo",
+        "→",
+        "TG 101 SOLO VIVO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "a8-202",
+        "a8-046",
+        "a8-636",
+        "a8-217",
+        "i36-006",
+        "a8-012"
+      ],
+      "textos": [
+        "FICHA DO SOLO",
+        "Antes de plantar",
+        "O que ele pede",
+        "GRUMOS",
+        "Terra fofa, não pó",
+        "ESPAÇO",
+        "Para a raiz explorar",
+        "ÁGUA",
+        "Entra, não escorre",
+        "VIDA",
+        "Minhoca e bactéria",
+        "PISAR",
+        "Barro molhado, nunca",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Terra socada: mais água rende pouco",
+        "Na próxima: terra fofa",
+        "→",
+        "TG 101 SOLO VIVO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Terra fofa",
+        "01",
+        "Certo e errado",
+        "02",
+        "Teste do solo, passo a passo",
+        "03",
+        "Água que escorre",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 101 SOLO VIVO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-adubar-A-1.jpg",
+          "alt": "André mexendo na terra do canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "i36-006",
+        "i36-007",
+        "i36-257",
+        "i36-105"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Barro molhado",
+        "Não pisar",
+        "Pisar",
+        "Terra de baixo",
+        "Fica embaixo",
+        "Vir para cima",
+        "Mangueira",
+        "Devagar, no pé",
+        "Jato forte",
+        "Cobertura",
+        "Folga no caule",
+        "Encostada no caule",
+        "Pisar no barro molhado estraga a estrutura do solo.",
+        "DICA DO ANDRÉ",
+        "Ao cavar, não traga a terra de baixo para cima.",
+        "Na próxima: teste e conserto",
+        "→",
+        "TG 101 SOLO VIVO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Teste e conserto",
+        "01",
+        "Teste do solo, passo a passo",
+        "02",
+        "Areia e argila",
+        "03",
+        "Água que escorre",
+        "Na próxima: teste do solo, passo a passo",
+        "→",
+        "TG 101 SOLO VIVO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-C-1.jpg",
+          "alt": "André examinando a terra com as mãos"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "i36-002",
+        "i36-003",
+        "i36-008",
+        "i36-007"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Qual é a sua terra? Teste.",
+        "ARENOSA",
+        "Arranha e esfarela",
+        "ARGILA",
+        "Salsicha que não racha",
+        "COBERTURA",
+        "Esterco curtido, 10 cm",
+        "1",
+        "ESFREGUE",
+        "A terra entre os dedos.",
+        "2",
+        "DOBRE",
+        "Salsicha de terra úmida em anel.",
+        "3",
+        "COBRE",
+        "Arenoso? Esterco curtido, 10 cm.",
+        "DICA DO ANDRÉ",
+        "A terra de cima é escura e rica.",
+        "Na próxima: areia e argila",
+        "→",
+        "TG 101 SOLO VIVO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "slv-gesto-1.jpg",
+          "alt": "Mãos esfregando um punhado de terra entre os dedos para sentir se arranha"
+        },
+        {
+          "src": "slv-gesto-2.jpg",
+          "alt": "Mãos dobrando uma salsicha de terra úmida em forma de anel"
+        },
+        {
+          "src": "slv-gesto-3.jpg",
+          "alt": "Mãos espalhando esterco curtido sobre a terra arenosa de um canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "i36-004",
+        "i36-005",
+        "q34-013",
+        "i36-053"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · TERRA",
+        "Areia e argila",
+        "Arenosa: a chuva forte leva o adubo embora.",
+        "Argila: fértil, mas encharca na chuva.",
+        "Argila seca: vira tijolo rachado.",
+        "Terra siltosa: não deixe descoberta.",
+        "Canteiro elevado ajuda a argila a drenar.",
+        "Na próxima: água que escorre",
+        "→",
+        "TG 101 SOLO VIVO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "a8-010",
+        "a8-636",
+        "i36-257",
+        "q34-023"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Água que não entra?",
+        "1",
+        "O QUE PARECE",
+        "A chuva molha e escorre.",
+        "O QUE PODE SER",
+        "Crosta dura: a água não entra.",
+        "COMO RESOLVER",
+        "Regue devagar, no pé, e cubra o chão.",
+        "Na próxima: cobertura que segura",
+        "→",
+        "TG 101 SOLO VIVO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "slv-sintoma-1.jpg",
+          "alt": "Água empoçada sobre terra dura e rachada depois da chuva"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Cobertura e vaso",
+        "01",
+        "Cobertura que segura",
+        "02",
+        "Cuidado com a terra",
+        "03",
+        "Solo de perto",
+        "Na próxima: cobertura que segura",
+        "→",
+        "TG 101 SOLO VIVO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-regar-A-1.jpg",
+          "alt": "André regando devagar no pé da planta"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "q34-168",
+        "q34-167",
+        "q34-169",
+        "q34-078",
+        "q34-024",
+        "q34-025",
+        "i36-105"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · COBERTURA",
+        "Cobertura morta",
+        "SERVE",
+        "Segura a água",
+        "FOLGA",
+        "Longe do caule",
+        "O QUE ELA PEDE",
+        "Serragem",
+        " e casca curtida, sem tratamento",
+        "Lã de ovelha",
+        " segura água e abafa o mato",
+        "Acícula",
+        " de pinheiro: o vento não leva",
+        "Manta",
+        " de tecido só se a água passar",
+        "Bom saber",
+        "Juta",
+        " ou fibra de coco seguram barranco",
+        "Casca",
+        " ou cavaco protegem sob a árvore",
+        "Na próxima: cuidado com a terra",
+        "→",
+        "TG 101 SOLO VIVO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "q34-005",
+        "i36-006",
+        "a8-049",
+        "q34-006",
+        "i36-007"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · TERRA",
+        "ATENÇÃO",
+        "Terra preta rica não serve para planta de clima seco.",
+        "Pisar no barro molhado estraga o solo.",
+        "Água doce também pode salgar a terra dura.",
+        "FAÇA ASSIM",
+        "Antes de escolher a terra, veja onde a planta vive.",
+        "A terra de baixo é clara e pobre: deixe embaixo.",
+        "Na próxima: solo de perto",
+        "→",
+        "TG 101 SOLO VIVO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "a8-202",
+        "a8-217",
+        "q34-023",
+        "i36-105",
+        "q34-024"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro cantos do solo",
+        "1",
+        "Grumos",
+        "Terra fofa, colada por bactérias.",
+        "2",
+        "Minhocas",
+        "Uns 400 g por metro quadrado.",
+        "3",
+        "Cobertura",
+        "Chão coberto, com folga do caule.",
+        "4",
+        "Barranco",
+        "Tela de juta e planta nos furos.",
+        "CHAVE",
+        "Terra",
+        "Fofa e coberta",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 101 SOLO VIVO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "slv-var-grumos.jpg",
+          "alt": "Terra escura e fofa em grumos num canteiro de jardim"
+        },
+        {
+          "src": "slv-var-minhoca.jpg",
+          "alt": "Minhocas se mexendo num punhado de terra escura e úmida"
+        },
+        {
+          "src": "slv-var-cobertura.jpg",
+          "alt": "Palha cobrindo o chão em volta de uma planta, com folga do caule"
+        },
+        {
+          "src": "slv-var-barranco.jpg",
+          "alt": "Barranco coberto com tela de juta e plantinhas nascendo nos furos"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "a8-251",
+        "a8-440",
+        "q34-018",
+        "q34-013",
+        "a8-046"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "AREIA BRANCA NA SUPERFÍCIE",
+        "Pode ser terra compactada.",
+        "ADUBO NÃO FAZ EFEITO",
+        "Terra em mau estado: dura, sem ar.",
+        "FOLHA AMARELA",
+        "Teste o solo: pode ser o pH.",
+        "TERRA DESCOBERTA",
+        "Cubra com planta ou palha.",
+        "DICA DO ANDRÉ",
+        "Sem espaço para a raiz, a terra não rende.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 101 SOLO VIVO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "a8-261",
+        "a8-233"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "95",
+        "%",
+        "da erosão vem da água que não consegue entrar na terra.",
+        "Terra fofa deixa a água entrar.",
+        "E MAIS UMA",
+        "Fungo na raiz nem sempre é ruim: muita planta vive com fungos amigos.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 101 SOLO VIVO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "i36-002",
+        "i36-003",
+        "i36-008",
+        "i36-105",
+        "q34-168",
+        "q34-024",
+        "a8-202",
+        "i36-006"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Terra esfregada entre os dedos",
+        "Salsicha de argila testada",
+        "Esterco curtido, se a terra for arenosa",
+        "Cobertura com folga do caule",
+        "Serragem ou casca no chão",
+        "Tela de juta no barranco",
+        "Terra de cima mantida em cima",
+        "Barro molhado sem pisar",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 101 SOLO VIVO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Terra fofa, raiz feliz. Faça o teste, cubra o chão e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "101",
+        "VOCÊ TEM",
+        "102",
+        "103",
+        "104",
+        "105",
+        "106",
+        "São 101 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 102 CERCA VIVA E VENTO",
+        "Comente CERCA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 101 SOLO VIVO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

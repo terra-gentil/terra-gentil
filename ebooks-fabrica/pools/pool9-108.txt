@@ -1,0 +1,38 @@
+# TG 108 Horta de Sol e de Sombra: 37 fatos (so estes)
+h35-011 [horta|Você sabia?] A maioria das hortaliças de folha prefere um pouco de sombra: no sol pleno a folha pode queimar
+h35-013 [horta|Dica do Andre] Fotografe seu quintal em vários horários do dia para descobrir onde bate sol e onde é sombra
+h35-040 [horta|Você sabia?] Horta em vaso tem uma vantagem: dá para mudar o vaso de lugar atrás do sol ou da sombra
+h35-056 [horta|Você sabia?] Para cantinho de sombra: alface, acelga, mostarda, espinafre, azedinha, rúcula, salsinha, hortelã e coentro
+h35-141 [horta|Dica do Andre] No palete, planta pendente em cima e erva de sombra embaixo
+h35-155 [abobrinha|5 cuidados] Afaste as folhas que fazem sombra no fruto da abóbora para ele amadurecer por inteiro
+h35-213 [horta|Você sabia?] Fruta e hortaliça não crescem na sombra total: no mínimo meia-sombra
+h35-298 [coentro|X ou Y?] Coentro na meia-sombra dá folha mais saborosa; no sol pleno, semente
+g32-001 [horta|Você sabia?] Cada hortaliça nasceu num lugar: figo gosta de sol forte, salsão de brejo e beterraba descende de uma planta de praia
+g32-005 [horta|X ou Y?] Tomate e berinjela no sol dão fartura; espinafre no sol forte espiga logo e prefere sombra fresca
+g32-009 [horta|Você sabia?] Fruta no sol forte fica mais doce: uva e figo podem chegar a 16% de açúcar
+g32-013 [horta|Mito ou verdade] Mito: sombra é sempre ruim para a horta. Muita folha cresce mais macia e verde na sombra
+g32-014 [horta|Você sabia?] Planta de sombra costuma ter folha grande, para pegar o máximo de luz
+g32-015 [horta|Você sabia?] Tem sombra clara, meia-sombra e sombra fechada; atrás da garagem, onde o sol nunca bate, é sombra fechada
+g32-016 [salsinha|Você sabia?] Salsinha e salsão gostam de terra fresca e úmida da sombra
+g32-017 [horta|Você sabia?] Fruta azedinha aguenta sombra; guarde o sol para as frutas doces
+g32-018 [horta|Passo a passo] Mapa de sol do quintal: tire fotos do mesmo lugar em várias horas do dia e marque onde é sol pleno e onde é sombra o dia todo
+g32-085 [horta|Você sabia?] A bertalha vem das matas úmidas da Ásia tropical e aguenta meia-sombra
+g32-149 [amaranto|X ou Y?] Folha ou grão? Para folha, belisque sempre as pontas; para grão, pare de beliscar e deixe espigar
+g32-204 [erva-doce|3 erros] Erva-doce não gosta de transplante: muda de vaso tende a espigar
+g32-262 [horta|Você sabia?] Rúcula, coentro e espinafre espigam no calor seco; na meia-sombra eles duram mais
+g32-263 [hortelã|Você sabia?] Hortelã gosta de raiz fresca e úmida, na meia-sombra
+g32-290 [horta|Você sabia?] A murta-do-chile (Ugni) dá frutinha com gosto de abacaxi e morango e vai na sombra
+g32-296 [horta|Você sabia?] A couve-etíope cresce no sol e na sombra; na sombra a folha fica mais suave
+g32-299 [horta|3 erros] Pak choi espiga rápido no calor seco: semeie no tempo fresco
+g32-308 [capuchinha|Você sabia?] Capuchinha cobre o chão na meia-sombra e semeia sozinha depois que pega
+g32-312 [horta|Você sabia?] Fruta plantada na sombra fica mais azedinha: ótima para geleia
+g32-313 [horta|Você sabia?] O goji e a aronia são frutinhas que aguentam meia-sombra
+g32-332 [outra|Você sabia?] A hosta, planta de sombra de folhagem, é toda comestível: o broto enrolado se come na primavera
+g32-335 [horta|3 erros] Mizuna no calor fica picante demais: sombra é melhor
+g32-338 [horta|3 erros] Folha de diabelha no sol forte fica dura e amarga: prefira sombra
+g32-346 [horta|Você sabia?] A alcachofra-chinesa (Stachys) dá tubérculos e aguenta sombra
+g32-354 [horta|Você sabia?] Até a sombra seca debaixo de árvore tem comida: amora, morango-silvestre, urtiga, raiz-forte e bambu
+g32-382 [horta|Você sabia?] Amora-preta sobe por árvore e arbusto atrás da luz e aguenta sombra seca
+g32-427 [outra|Você sabia?] Gengibre gosta de sombra ou meia-sombra, coisa rara entre as plantas de comer
+g32-436 [agave|5 cuidados] Agave no vaso: metade substrato e metade areia grossa, sol pleno e pouca água
+g32-466 [horta|Você sabia?] Estufa na meia-sombra esquenta menos no verão e é mais fácil de controlar

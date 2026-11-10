@@ -1,0 +1,42 @@
+# TG 105 Hotel de Bicho: 41 fatos (so estes)
+x23-019 [orégano|Você sabia?] O orégano está entre as melhores ervas para atrair inseto amigo
+x23-020 [cenoura|Você sabia?] Cenoura que passa do ponto cresce até o peito e dá muita florzinha branca cheia de inseto
+x23-021 [salsinha|5 cuidados] Salsinha que não é cortada floresce, e muito inseto gosta da flor; no segundo ano ela floresce com força
+x23-027 [roseira|Você sabia?] A abelha-cortadeira recorta círculos certinhos na folha da roseira para forrar o ninho
+x23-028 [roseira|Você sabia?] Roseira de flor simples dá muito pólen e depois frutinhos para passarinho
+x23-035 [álisso|5 cuidados] Álisso branco plantado a 20 cm um do outro vira um tapete cheio de inseto bebendo néctar
+x23-043 [girassol|Passo a passo] Se não der para deixar o girassol de pé, corte a cabeça e pendure: vira comedouro natural de passarinho
+x23-044 [girassol|Você sabia?] Semente de girassol é a comida preferida de muito passarinho de jardim
+x23-046 [horta|Você sabia?] Horta e jardim para bicho combinam: os bichos amigos comem as pragas e a colheita melhora
+x23-047 [horta|Você sabia?] Os bichos que comem praga, como joaninha, controlam as pragas da horta muito bem
+x23-048 [horta|3 erros] O primeiro veneno da estação mata também os bichos amigos, e aí a praga volta mais rápido que eles: vira um ciclo
+x23-051 [horta|5 cuidados] Rede sobre a frutífera por uma ou duas semanas protege a colheita do passarinho sem machucar ninguém
+x23-052 [horta|3 erros] Prenda bem a beirada da rede de proteção para nenhum bicho ficar preso
+x23-053 [horta|3 erros] Espantalho com roupa velha quase não assusta passarinho; o que balança e faz barulho funciona melhor
+x23-079 [inseto|Você sabia?] Tem aranha que muda de cor conforme a flor e espera, quase invisível, o inseto pousar
+x23-081 [inseto|Você sabia?] Bicho de cor berrante costuma ser venenoso ou ruim de comer, e a cor avisa o passarinho
+x23-082 [abelha|Você sabia?] A mamangava precisa de buraco seco para fazer ninho, às vezes até casinha de passarinho
+x23-087 [abelha|Você sabia?] Abelha solitária cava ninho em terra fofa ou usa talo oco e buraquinho de parede
+x23-088 [jardim-vivo|Você sabia?] Planta nativa e folha apodrecendo são a matéria-prima do jardim para bicho
+x23-104 [girassol|Você sabia?] Comedouro que não atrai passarinho costuma mudar com semente de girassol descascada
+x23-105 [passarinho|Você sabia?] Passarinho aprende com o vizinho: quando um descobre uma comida nova, o truque se espalha
+x23-106 [passarinho|Você sabia?] Muito passarinho faz ninho em oco de árvore; como a cidade tira toda árvore e galho morto, a casinha faz falta
+x23-117 [andorinhão|Você sabia?] Os pais do andorinhão guardam os insetos que caçam numa bolinha grudenta na garganta para levar ao filhote
+x23-128 [jardim-vivo|Você sabia?] Paisagem boa para bichinho é boa para gente; a que é hostil aos bichos não pode ser saudável para morar
+x23-130 [jardim-vivo|Você sabia?] Bicho e planta precisam circular para achar comida e par; quando o verde fica picado em pedaços, sobreviver fica difícil
+x23-135 [jardim-vivo|Você sabia?] Rio, linha de trem, beira de estrada e árvore de rua formam corredores verdes por onde o bicho chega ao seu quintal
+x23-137 [jardim-vivo|Você sabia?] Terreno baldio com cardo e mato grosso atrai nuvens de borboleta e bando de passarinho de semente
+x23-140 [jardim-vivo|Você sabia?] Uma fileira de quintais com árvore e cerca viva já vira um corredor importante para os bichos
+x23-141 [jardim-vivo|5 cuidados] Planta de fora estica a época de néctar, mas reserve espaço para a nativa: muito inseto depende dela para comer
+x23-142 [jardim-vivo|5 cuidados] Convença o vizinho a plantar cerca viva, usar menos veneno e parar de queimar folha seca: logo aparece mais passarinho e borboleta
+x23-146 [jardim-vivo|Você sabia?] Folha caída, tronco apodrecendo e um pouco de bagunça deixam o bicho tímido à vontade
+q34-086 [regar|Você sabia?] Água guardada no quintal alivia o esgoto na chuva forte e ainda traz som, reflexo e bicho
+q34-091 [jardim-vivo|Você sabia?] Até caminho de pedrisco é casa de bicho: inseto mora no vão entre as pedras
+q34-092 [jardim-vivo|Dica do Andre] Galho que não cabe na composteira: empilhe como cerca morta. Vira quebra-vento e abrigo de bicho
+q34-093 [jardim-vivo|Passo a passo] Hotel de bicho: estrutura de madeira ou palete com casca, bambu furado, folha seca, telha e papelão ondulado
+q34-101 [compostagem|Você sabia?] Hugelkultur: tronco podre enterrado num monte de terra esquenta, aduba e segura água por anos
+q34-102 [compostagem|Passo a passo] Monte hugelkultur: tronco caído há 2 ou 3 anos embaixo, galho e cavaco nos vãos, grama virada, e terra com composto por cima
+q34-107 [jardim-vivo|Você sabia?] Tronco morto no quintal não é sujeira: é comida e casa para inseto, fungo e muito bicho
+q34-144 [horta|Você sabia?] Agrofloresta no quintal: plantas de várias alturas, quase tudo comestível, num espaço pequeno, e cheio de bicho
+q34-147 [girassol|Você sabia?] Girassol chama abelha e a semente depois alimenta passarinho
+q34-160 [jardim-vivo|Você sabia?] Pomar em agrofloresta abrigou mais bichinhos que uma mata replantada: variedade importa tanto quanto ser nativa

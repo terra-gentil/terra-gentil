@@ -1,0 +1,34 @@
+# TG 103 Mato Teimoso: 33 fatos (so estes)
+z7-05 [mato|Mito ou verdade] Dá para acabar de vez com o mato? Só em área pequena: tirar toda semente e toda raiz que rebrota é caro demais para uma fazenda, mas possível em jardim, vaso e horta caseira
+z7-10 [mato|Você sabia?] Água parada mata mato: em inundação longa, até tiririca, grama-seda e quicuio morrem, porque a raiz fica sem oxigênio
+z7-16 [mato|Você sabia?] Trapoeraba tem folha larga, mas é monocotiledônea, do mesmo grande grupo dos capins e do milho. Já a tiririca, de folha fina, parece capim e não é: é de outra família, a das ciperáceas
+z7-27 [mato|Você sabia?] Capim-colchão forma touceira densa e enraíza nos nós que encostam na terra
+z7-28 [mato|Você sabia?] Capim-pé-de-galinha forma touceira fechada de colmo duro e só se espalha por semente
+z7-29 [mato|Socorro] Capim-amargoso voltou depois da limpeza? Ele é perene, forma pequenas touceiras e se espalha por semente e por rizomas curtos
+z7-30 [mato|Você sabia?] Capim-colonião faz touceiras enormes de 1 a 2 m e se espalha por semente e rizoma: é o capinzal alto do terreno abandonado
+z7-31 [mato|Você sabia?] Capim-carrapicho (timbete) tem espiga cheia de espinhos que grudam na roupa e no pelo do cachorro
+z7-44 [mato|Você sabia?] Dente-de-leão tem raiz forte, que desce reta, e folhas em roseta no chão; solta leite quando quebra
+z7-50 [mato|Socorro] Losna-brava voltando no canteiro? Ela se espalha principalmente por rizomas brancos debaixo da terra, e a muda nova nasce deles
+z7-51 [mato|Socorro] Trevinho azedo que não acaba no canteiro? Uma espécie corre rasteira por estolão e semente. A outra, de folhas em pé a 20 ou 30 cm, só se espalha por bulbinhos escamosos debaixo da terra
+z7-56 [mato|Você sabia?] Capim-quicuio corre até 2 m de comprimento e se espalha por rizoma, estolão e semente
+z7-57 [mato|Você sabia?] O capim-massambará (sorgo-de-alepo) chega a 2 m e é fortemente rizomatoso: se espalha por rizoma e por semente
+z7-58 [mato|Socorro] Capim-angola tomando a parte úmida do terreno? Ele se espalha por rizoma e estolão; o livro nem cita semente, e a muda da foto nasceu de rizoma
+e22-015 [mato|Você sabia?] Rizoma é um caule que cresce para baixo, para o lado e depois sobe com broto novo
+e22-016 [mato|Você sabia?] Estolão é um caule que corre por cima da terra e solta plantas novas
+e22-031 [mato|Passo a passo] Aliária sai fácil na mão e não rebrota da raiz
+e22-076 [mato|Você sabia?] A sanguinária (Polygonum) forma um tapete de caule duro com raiz que não sai fácil
+e22-093 [mato|Você sabia?] Mato perene que some no frio imita o aspargo e o morango: por isso é tão difícil de tirar
+e22-094 [mato|Dica do Andre] Antes de plantar planta perene, limpe o mato; às vezes vale deixar o canteiro vazio uma temporada
+e22-099 [mato|Você sabia?] O podagrária se espalha pelo rizoma e chega ao quintal em terra e resto de jardim contaminados
+e22-103 [mato|5 cuidados] Bulbinho de mato rebrota fácil: descarte com cuidado
+e22-107 [mato|Você sabia?] A corda-de-viola (Calystegia) quase não dá semente, mas o rizoma branco vai a 30 cm de fundura e um pedacinho rebrota
+e22-113 [mato|Você sabia?] O cardo-rasteiro se espalha pela raiz, e só 3% das sementes dele nascem
+e22-114 [mato|Você sabia?] A grama-de-ponta (Elymus) solta brotos em fileira porque o rizoma cresce em linha reta
+e22-125 [mato|Você sabia?] A tanchagem gosta de terra pisada; a raiz forte quebra o chão duro e até tira poluente da terra
+e22-128 [grama|Socorro] Tanchagem no gramado: areje a terra, adube e arranque a raiz inteira com a mão
+e22-132 [mato|Você sabia?] O botão-de-ouro rasteiro corre por estolão, principalmente quando chove muito
+e22-136 [mato|Você sabia?] A língua-de-vaca (Rumex) tem raiz comprida, solta 7 mil sementes e elas duram mais de cinco anos
+e22-137 [mato|Passo a passo] Língua-de-vaca grande: cave e tire pelo menos a metade de cima da raiz, que é a parte que rebrota
+e22-139 [mato|Você sabia?] A sagina parece musgo, mas tem raiz e dá flor; musgo não tem nenhum dos dois
+e22-145 [mato|3 erros] Enxada no dente-de-leão só espalha pedaço de raiz e faz nascer mais: tire a raiz inteira com garfo
+e22-147 [mato|3 erros] Muda de árvore que nasce sozinha: tire nova. Cortar no frio faz rebrotar mais forte

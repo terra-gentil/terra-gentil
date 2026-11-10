@@ -1,0 +1,79 @@
+# TG 114 Arvore e Raiz: 78 fatos (so estes)
+t37-001 [arvore|Você sabia?] O desmatamento hoje acontece mais nos trópicos, como no Brasil, puxado pela procura de carne barata
+t37-002 [arvore|Você sabia?] Pela primeira vez, a Amazônia pode estar soltando mais gás carbônico do que consegue absorver
+t37-003 [arvore|Você sabia?] O mundo derruba cerca de 10 milhões de hectares de floresta por ano: a cada década, uma área do tamanho de Portugal
+t37-006 [arvore|Você sabia?] Cada gota de água que a raiz da árvore bebe é uma gota a menos na enxurrada
+t37-007 [jardim-vivo|Você sabia?] Uma árvore é uma cidade: casa de centenas de bichos, do tripes à lagarta e ao passarinho
+t37-008 [jardim-vivo|Você sabia?] Quintais com plantas viram "pedras de travessia": abelha, borboleta e sapo conseguem atravessar a cidade cinza de um verde a outro
+t37-012 [arvore|Você sabia?] Árvore existe na Terra há uns 400 milhões de anos; o ginkgo e a araucária-chilena são chamados de fósseis vivos
+t37-013 [arvore|Você sabia?] A nogueira-preta solta pela raiz uma substância que atrapalha as plantas em volta
+t37-014 [arvore|Você sabia?] Folha grande pega mais luz, mas perde mais água e queima no sol forte
+t37-015 [arvore|Você sabia?] Folha pequena, em agulha, cerosa ou brilhante é truque da planta para não perder água
+t37-016 [arvore|Você sabia?] A casca da árvore segura a umidade e protege contra bactéria e fungo; muitas têm tanino, que o bicho não gosta de comer
+t37-017 [passarinho|Você sabia?] A maioria das frutas evoluiu para ser comida por passarinho e bicho, que espalham a semente pelas fezes
+t37-018 [jardim-vivo|Você sabia?] Árvore nativa floresce quando o polinizador precisa e dá fruto quando o passarinho precisa: a parceria já vem pronta
+t37-021 [fungo|Você sabia?] Os fios de fungo ligam a raiz da árvore à terra e ajudam a puxar água e nutriente
+t37-022 [fungo|Você sabia?] Pelo fungo, as raízes de árvores diferentes ficam ligadas numa rede, chamada de "internet do bosque"
+t37-023 [fungo|Você sabia?] Em algumas espécies, a árvore saudável passa nutriente para a mais fraca pela rede de fungos
+t37-024 [fungo|Você sabia?] A árvore paga o fungo com açúcar: fungo não faz fotossíntese
+t37-026 [fungo|Você sabia?] Quanto mais tipos de fungo em volta da árvore, mais saudável ela fica
+t37-027 [arvore|Você sabia?] A Costa Rica dobrou sua cobertura de floresta em só 30 anos
+t37-028 [arvore|Mito ou verdade] Mito: plantar árvore em qualquer lugar é sempre bom. Campo, brejo e turfa não eram floresta e guardam carbono do jeito deles
+t37-029 [arvore|Você sabia?] Proteger a mata que já existe vale mais que plantar mata nova, que demora para guardar carbono
+t37-031 [arvore|Você sabia?] Cidade é mais quente que o campo: calçada, asfalto e parede guardam o calor do sol como um aquecedor
+t37-032 [arvore|Você sabia?] Até o ar-condicionado esquenta a cidade: é a "ilha de calor"
+t37-034 [arvore|Você sabia?] Árvore de calçada sofre: raiz presa, copa podada e longe de outras árvores. Estudos mostram que ela absorve menos gás carbônico
+t37-035 [arvore|Dica do Andre] Na cidade, vale mais um grupinho de árvores num terreno vazio ou praça do que árvore sozinha na calçada
+t37-038 [arvore|Você sabia?] O miolo do tronco (cerne) não está vivo, mas é a parte mais forte; só as camadas de dentro da casca estão vivas
+t37-039 [arvore|Você sabia?] Árvore só cresce pelas pontas e pelas bordas: ponta do galho, ponta da raiz e a camada logo abaixo da casca
+t37-040 [arvore|Você sabia?] Os anéis do tronco contam a idade da árvore: cada ano a camada sob a casca faz madeira nova
+t37-041 [arvore|Você sabia?] Seca forte ou calor extremo fazem a árvore parar de crescer
+t37-042 [arvore|X ou Y?] Arbusto ou árvore? Arbusto tem vários caules e forma arredondada; árvore é mais alta e de um caule só. A poda decide em qual dos dois a planta vira
+t37-044 [abelha|Você sabia?] Debaixo de uma árvore frutífera florida só se ouve o zumbido das abelhas
+t37-046 [abelha|Você sabia?] Cada polinizador tem uma língua de tamanho diferente, e as flores evoluíram formatos para cada boca
+t37-047 [abelha|Você sabia?] A abelha melífera e a mamangava penteiam o pólen do corpo para "cestinhas" nas patas de trás
+t37-048 [arvore|Você sabia?] Muita macieira tem flor macho e fêmea juntas, mas mesmo assim precisa de outra árvore por perto para dar fruto
+t37-049 [arvore|Você sabia?] O coco flutua e pode começar uma planta nova em outra praia
+t37-050 [arvore|Mito ou verdade] Mito: amêndoa e noz são castanhas de verdade. Botanicamente são frutos de caroço; a parte que se come é a semente
+t37-051 [arvore|Você sabia?] O amarelo e o laranja da folha de outono estão lá o ano todo, escondidos pelo verde da clorofila
+t37-052 [arvore|Você sabia?] Quando a árvore para de fazer clorofila, o verde some primeiro e as outras cores aparecem
+t37-053 [arvore|Você sabia?] A árvore "solta" a folha por uma camada de células no cabinho, sem deixar ferida
+t37-054 [arvore|Você sabia?] Olhar a árvore mudar ao longo do ano acalma e faz bem para a saúde mental
+t37-055 [arvore|Dica do Andre] Árvore cresce melhor em grupinho: as raízes se ligam e trocam alimento pelo fungo. Tem espaço? Plante mais de uma
+t37-056 [jardim-vivo|Você sabia?] Árvore velha também é casa: na rachadura da casca o inseto se abriga, no oco o passarinho faz ninho
+t37-063 [arvore|Você sabia?] Árvore que aguenta seca tem raiz menor: depende menos de água
+t37-064 [arvore|Passo a passo] Cerca viva: mudas a cada 30 cm e poda a cada um ou dois anos. Fileira simples para cerca fina, dupla para cerca grossa
+t37-065 [arvore|Você sabia?] Cerca viva segura mais poluição que árvore: ela fica na altura do escapamento dos carros
+t37-066 [arvore|Você sabia?] Cerca viva quebra o vento: salvação em quintal muito exposto
+t37-067 [arvore|Você sabia?] Árvore frutífera conduzida em leque ou em andares na parede ou na cerca dá muita fruta em pouco espaço
+t37-070 [hera|Você sabia?] Sem espaço para árvore? A hera segura poluição e dá casa para bicho
+t37-072 [nêspera|Você sabia?] A nêspera-de-bronze tem folha de couro de até 30 cm, com o verso quase branco, e copa fechada que serve de cortina
+t37-073 [nêspera|Você sabia?] A nespereira-de-bronze é compacta e vai bem em vaso
+t37-076 [oliveira|Você sabia?] A oliveira é polinizada pelo vento e, com sorte, começa a dar azeitona em três a cinco anos
+t37-077 [oliveira|Passo a passo] Azeitona colhida é amarga: deixe de molho em água dez dias, trocando a água todo dia, e depois umas quatro semanas em salmoura
+t37-079 [oliveira|Dica do Andre] Poda da oliveira: abra o centro em forma de tigela para a luz e o ar chegarem no fruto
+t37-080 [ameixa|Dica do Andre] Antes de comprar pé de ameixa, veja se a variedade dá fruto sozinha ou precisa de outra ameixeira por perto
+t37-081 [ameixa|Você sabia?] A flor da ameixeira alimenta abelha e a fruta alimenta passarinho e inseto
+t37-082 [pêssego|Você sabia?] O pessegueiro não passa de 4 metros e vive uns 20 anos: boa árvore para quintal pequeno
+t37-083 [pêssego|Você sabia?] O pêssego leva "Pérsia" no nome científico, mas nasceu na China
+t37-085 [pêssego|X ou Y?] Pêssego ou nectarina? É quase a mesma fruta, só que a nectarina não tem a pele aveludada
+t37-087 [figo|Dica do Andre] Figueira no chão: enterre placas em volta do torrão para segurar a raiz e ela frutificar mais
+t37-089 [figo|Você sabia?] Em algumas figueiras, uma vespinha entra no figo para pôr ovos e poliniza a flor lá dentro; a fruta digere as vespas que ficam presas
+t37-091 [limoeiro|Você sabia?] Laranja, limão, lima e kinkan são todos do mesmo gênero, Citrus
+t37-095 [amora|Você sabia?] A amora é fonte de ferro e vitamina C
+t37-106 [palmeira|Mito ou verdade] Mito: palmeira não precisa de água. Na seca, não deixe a terra em volta secar
+t37-107 [palmeira|Você sabia?] O butiá dá uma fruta usada para fazer geleia, e por isso tem o apelido de "palmeira-da-geleia"
+t37-108 [palmeira|Você sabia?] O butiá é das melhores palmeiras para vaso: cresce devagar e gosta de raiz apertada
+t37-110 [arvore|X ou Y?] Muda de raiz nua ou de vaso? A de raiz nua é mais barata e tem mais variedade; a de vaso pega mais rápido e se planta o ano todo
+t37-116 [arvore|Passo a passo] Plantar árvore 3: solte com cuidado as raízes que estão dando volta no vaso e corte as machucadas
+t37-122 [regar|5 cuidados] Árvore nova: regue toda semana nos primeiros seis meses, um ou dois regadores cheios, encharcando bem. Depois espace
+t37-123 [regar|3 erros] Erro comum: regar demais a árvore. A raiz fica rasa e a árvore sofre mais na seca e tomba com vento
+t37-124 [regar|Dica do Andre] Na dúvida, cave 5 cm com a pá: terra seca e poeirenta, regue; úmida, espere mais uma semana
+t37-128 [arvore|Dica do Andre] Embaixo da árvore a terra é mais seca e sombreada: plante a 1 ou 2 m do tronco e do lado mais ensolarado
+t37-131 [podar|Dica do Andre] Amoreira e nogueira choram muito seiva no corte: só pode na época certa
+t37-135 [palmeira|3 erros] Erro comum: cortar folha verde da palmeira. Só tire as secas e penduradas; tirar folha verde estressa a planta
+t37-143 [praga|Mito ou verdade] Mito: todo bicho na árvore é praga. Pulgão, lagarta e companhia fazem parte da cadeia e alimentam passarinho; só vira praga quando faz estrago de verdade
+t37-144 [praga|Dica do Andre] Bicho na maçã? Corte a fruta e coma em volta do túnel. Melhor que veneno
+t37-145 [praga|Você sabia?] O pulgão solta um melado doce onde cresce a fumagina, um mofo preto que tampa a folha
+t37-146 [fungo|Socorro] Cancro bacteriano em ameixeira e pessegueiro: casca afundada soltando goma e furinhos na folha. Corte 10 a 15 cm abaixo, em madeira sadia, e desinfete a ferramenta
+t37-150 [palmeira|Você sabia?] Fusariose em palmeira: folhas escurecem de baixo para cima. Passa pela terra e pela ferramenta de poda; esterilize sempre

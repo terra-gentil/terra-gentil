@@ -1,0 +1,91 @@
+# TG 106 Microclima do Quintal: 90 fatos (so estes)
+q3-01 [outra|3 erros] Comprar planta exposta na calçada da loja: pega frio ou sol forte e a de flor é a que mais sofre
+q3-06 [outra|3 erros] Carro fechado é armadilha para a planta recém-comprada: no frio gela, no calor cozinha
+q3-07 [outra|5 cuidados] Planta nova em casa: tire o plástico logo, deixe uns dias num canto sem sol forte e só depois leve para o lugar dela
+a8-017 [horta|X ou Y?] Plantar espaçado ou mais junto? Nos trópicos, mais junto: as plantas fazem sombra no chão. Com muito espaço, a terra perde mais água
+a8-026 [regar|Você sabia?] Em terra socada e seca a raiz não entra, e a rega pode nem molhar: num teste, a água desceu só pela parede do tubo
+q3-214 [aspargo|5 cuidados] Aspargo-rabo-de-gato: pouca água no frio, água à vontade no calor e adubo líquido fraco a cada 2 semanas
+q3-219 [aspargo|5 cuidados] Aspargo-plumoso gosta de luz indireta ou meia-sombra leve no calor
+q3-266 [hera|5 cuidados] Fatshedera: se esquentar no frio, aumente a água
+q3-334 [cheflera|5 cuidados] Cheflera: terra úmida moderada no frio, mais água e adubo a cada 3 ou 4 semanas quando cresce
+q3-347 [iúca|5 cuidados] Iúca gosta de sol pleno e terra quase seca no frio
+q3-398 [carnívora|5 cuidados] Carnívora gosta de meia-sombra leve e terra só levemente úmida, sempre com água de chuva limpa
+q3-484 [agave|Passo a passo] Filhote de agave: tire, deixe secar uns dias e só então plante em vaso pequeno, com sombra leve até pegar
+q3-488 [suculenta|5 cuidados] Aloe-tigre: no calor, mais água, mas deixe a terra secar um pouco entre as regas
+q3-507 [suculenta|3 erros] Crássula-hélice no frio: terra quase seca, mas sem deixar secar de vez
+q3-532 [haworthia|5 cuidados] Haworthia: no calor, terra úmida mas secando entre regas; no frio, quase seca
+q3-548 [parodia|5 cuidados] Parodia: terra seca no frio; no calor, água à vontade e adubo líquido fraco a cada 2 semanas
+q3-565 [sedum|5 cuidados] Rabo-de-burro: água à vontade no calor, deixando secar um pouco entre regas
+q3-584 [palmeira|5 cuidados] Palmeira-leque-anã aguenta sol pleno; no calor, rega farta sem encharcar
+q3-597 [palmeira|5 cuidados] Tamareira-anã: no frio, terra quase seca sem secar de vez; no calor, rega farta com boa drenagem
+q3-638 [abacaxi|5 cuidados] Abacaxi em vaso: deixe a terra secar um pouco entre as regas e adube a cada 4 semanas no calor
+q3-670 [samambaia|5 cuidados] Ninho-de-passarinho: luz indireta ou meia-sombra e adubo líquido fraco a cada 3 semanas no calor
+q3-688 [samambaia|Você sabia?] A Didymochlaena cresce bem em sombra densa
+h35-003 [horta|Dica do Andre] Muro branco em volta da horta rebate luz para as plantas
+h35-004 [regar|3 erros] Muro e cerca seguram a chuva: a planta encostada neles pode ficar seca mesmo depois de chover
+h35-009 [horta|Você sabia?] Com calor demais, a hortaliça de folha pode "pendoar": solta flor de repente e a folha fica amarga
+h35-076 [muda|Passo a passo] Sementeira: cubra com saco plástico transparente, em lugar claro e quente, e tire assim que nascer
+h35-156 [horta|Dica do Andre] Calha de chuva presa no muro vira canteiro de microverde e broto de ervilha
+h35-202 [horta|5 cuidados] Funcho pendoa se é mexido, se passa frio ou se falta água
+h35-236 [abelha|Você sabia?] Flor de feijão que abre com frio demais para a abelha não é polinizada e não vira vagem
+h35-318 [horta|Você sabia?] Pendoar: a verdura floresce de repente e logo morre; vem de calor ou falta de água
+g32-021 [solo|Passo a passo] Canto que encharca: faça um poço de brita no ponto mais baixo para puxar a água
+g32-033 [horta|Você sabia?] Na cidade, asfalto e parede guardam o calor do sol e soltam ar quente: é a ilha de calor
+g32-038 [horta|X ou Y?] Muro ou cerca vazada contra o vento? A cerca vazada e a cerca viva filtram o vento; o muro cria redemoinho
+g32-041 [horta|Você sabia?] Corredor estreito vira túnel de vento; o canto do terreno costuma ser o lugar mais abrigado
+g32-081 [horta|Você sabia?] A bertalha é uma trepadeira que cresce muito no calor; a folha é macia crua e murcha bem na panela
+g32-090 [pimenta|Você sabia?] Pimenta aguenta muito calor e vai bem em verão quente
+g32-147 [amaranto|Você sabia?] Caruru (amaranto) cresce rápido no calor, tem folhas coloridas e, se florir, dá grãos ricos em proteína
+g32-162 [horta|Você sabia?] Abobrinha, abóbora, melão e pepino crescem a olho nu com sol, calor e umidade
+g32-314 [horta|Você sabia?] Canto úmido e sombreado não é perdido: ali a folha cresce sem queimar e sem levar vento
+g32-387 [compostagem|5 cuidados] Revire o monte de composto pelo menos quatro vezes por ano: o meio é a parte mais quente
+g32-461 [horta|Você sabia?] Luz vermelha puxa flor, luz azul puxa folha; LED gasta pouco e quase não esquenta
+g32-475 [compostagem|Você sabia?] Monte de composto de 1 metro cúbico ou mais esquenta o bastante para matar semente de mato
+s28-039 [muda|Você sabia?] Tem semente que só acorda depois de passar um tempo no frio, como na natureza: isso se chama estratificação
+s28-056 [regar|3 erros] Erro comum com flor em vaso: esquecer que vaso precisa de rega frequente
+s28-082 [muda|Dica do Andre] Semente que precisa de frio para acordar: duas semanas da bandeja na geladeira ajudam a germinar
+s28-095 [ipomeia|Você sabia?] A ipomeia azul abre a flor com o sol da manhã
+s28-170 [outra|Dica do Andre] Acelga-chinesa (pak choi) pendoa no sol forte: prefere meia-sombra
+i36-014 [outra|Você sabia?] Fibra de coco deixa o vaso leve: boa para jardineira de janela, vaso de parede e varanda
+i36-057 [gerânio|Você sabia?] Gerânio pode viver anos se não pegar geada, mas muita gente trata como planta de uma estação
+i36-073 [outra|Passo a passo] Trepadeira no muro: plante a 30 a 40 cm da cerca, inclinada para ela, com bambus em leque
+i36-076 [ipomeia|Você sabia?] Ipomeia (glória-da-manhã) gosta de sol, mas sol forte demais queima. Ideal é sol da tarde
+i36-090 [glicínia|Passo a passo] Glicínia, segunda poda: no frio, encurte aqueles mesmos ramos para 8 a 10 cm, com 2 ou 3 gemas
+i36-091 [glicínia|Você sabia?] Glicínia podada e presa no muro floresce mais no ano seguinte
+i36-133 [outra|Você sabia?] Arália-japonesa (Fatsia) aguenta poluição: ótima para jardim de cidade, no sol ou meia-sombra
+i36-178 [horta|Dica do Andre] Garrafa PET cortada vira campânula: protege a muda nova de vento, frio e lesma
+i36-207 [outra|Passo a passo] Semente de erva: cubra com mistura de metade vermiculita e metade substrato fino, em lugar quente e claro
+i36-209 [outra|3 erros] Erro comum: regar demais a semente fina. A água arrasta tudo para um canto do vaso
+i36-256 [regar|Você sabia?] Planta perene plantada na época fresca enraíza antes do calor e quase não pede rega no verão
+i36-267 [compostagem|Você sabia?] O meio da pilha de composto é quente e úmido e decompõe mais rápido que as bordas. Por isso se revira
+i36-268 [compostagem|Passo a passo] Terra de folha: folha seca úmida num saco plástico fechado e furado, na sombra, por dois anos
+i36-285 [praga|Dica do Andre] Uns troncos num canto do jardim abrigam besouros e bichos que comem lesma
+q34-002 [outra|Você sabia?] Ilha de calor: a cidade pode ficar até 5 graus mais quente que o campo em volta
+q34-004 [outra|Você sabia?] Microclima é o clima de um cantinho que difere do resto, como um poço de luz ou um quintal murado
+q34-009 [solo|Dica do Andre] Cave um buraco de teste no quintal: a parede mostra as camadas do seu solo
+q34-035 [outra|Você sabia?] Sol pleno é mais de seis horas de sol direto por dia. Meia-sombra, de três a seis
+q34-036 [outra|Você sabia?] Sombra fechada é menos de duas horas de sol por dia
+q34-037 [outra|Dica do Andre] Para saber o sol do quintal, observe onde bate a sombra de manhã, ao meio-dia e à tarde
+q34-038 [arvore|Dica do Andre] Trepadeira e árvore de crescimento rápido fazem sombra mais barata e ecológica que um pergolado coberto
+q34-040 [outra|Mito ou verdade] Mito ou verdade: muro fechado é o melhor quebra-vento? Mito. O vento pula por cima e bate do outro lado
+q34-049 [outra|Você sabia?] Parede verde de hera e capim pode reduzir a poluição da rua bem mais do que se pensava
+q34-053 [compostagem|Dica do Andre] Composteira em lugar de sombra: o composto gosta de temperatura e umidade sem altos e baixos
+q34-057 [compostagem|Você sabia?] Composto caseiro fica pronto de seis meses a dois anos, conforme o calor e a umidade
+q34-110 [fungo|Passo a passo] Shiitake em tora: tora sã de 1 m e 10 a 20 cm de grossura, guardada duas semanas na sombra antes de furar
+q34-112 [fungo|3 erros] Erro comum: cera muito quente no furo do shiitake. Mata o fungo. Use cera de soja, que derrete fácil
+q34-118 [arvore|Você sabia?] Árvore refresca o quintal com sombra rendada
+q34-133 [outra|Você sabia?] Papoula-da-califórnia se semeia sozinha até em fresta de piso e muro
+q34-140 [outra|Você sabia?] Planta refresca o ar com sombra e com a água que transpira, isola a casa e abafa o barulho
+q34-164 [camomila|Você sabia?] Camomila-romana forma tapete perfumado e aguenta telhado verde no sol ou meia-sombra
+w31-008 [muda|3 erros] Erro comum: usar qualquer palete na horta. Só o tratado a calor, nunca o tratado com químico
+w31-012 [muda|Você sabia?] Algumas sementes precisam de frio antes de germinar. Dá para fazer na geladeira, num saquinho com terra, por umas semanas
+w31-016 [muda|5 cuidados] Na estufinha de garrafa ou pote, abra a tampa nos dias quentes para a muda não cozinhar
+w31-017 [muda|Dica do Andre] Galão de leite sem fundo vira campânula para proteger muda do frio. Tire a tampinha nos dias quentes
+w31-041 [tomate|Dica do Andre] Pedrinha branca sobre a terra do vaso de tomate, berinjela e frutífera reflete luz e ainda segura a umidade
+w31-046 [outra|Dica do Andre] Palete na parede do galpão vira suporte para enxada, rastelo e vassoura
+w31-086 [outra|Dica do Andre] Gato usando o canteiro de banheiro: plante erva-dos-gatos num canto esquecido. Vira ímã e ele larga o resto
+w31-114 [compostagem|Passo a passo] Baia de composto: três paletes tratados a calor amarrados em U, um atrás e dois dos lados
+w31-128 [mato|Dica do Andre] No calor, deixe o mato capinado no chão: seca no sol e vira matéria orgânica
+w31-142 [regar|5 cuidados] Antes de viajar: vasos na sombra, sobre toalha úmida e bem regados
+q3-269 [outra|5 cuidados] Fatsia não gosta de calor forte: prefira canto claro, sem sol direto
+q3-341 [tradescântia|5 cuidados] Tradescântia prefere luz indireta e não gosta de calor forte

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 101",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "slv-gesto-1",
+      "especie": "garden soil",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands rubbing a pinch of garden soil between the fingers to feel if it is sandy",
+      "mascote": false
+    },
+    {
+      "id": "slv-gesto-2",
+      "especie": "garden soil",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands bending a rolled sausage of moist soil into a ring",
+      "mascote": false
+    },
+    {
+      "id": "slv-gesto-3",
+      "especie": "sandy soil bed",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands spreading a 10 cm layer of cured manure over sandy soil in a garden bed; the small mascot figurine sits on the wooden edge of the bed",
+      "mascote": true
+    },
+    {
+      "id": "slv-sintoma-1",
+      "especie": "compacted soil",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Rainwater pooling on hard cracked bare garden soil after a storm, with a pale sandy crust",
+      "mascote": false
+    },
+    {
+      "id": "slv-var-grumos",
+      "especie": "crumbly soil",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dark crumbly garden soil made of small round clumps in a bed",
+      "mascote": false
+    },
+    {
+      "id": "slv-var-minhoca",
+      "especie": "earthworms",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Earthworms wriggling in a handful of dark moist soil",
+      "mascote": false
+    },
+    {
+      "id": "slv-var-cobertura",
+      "especie": "mulched plant",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Straw mulch around a vegetable plant with a small gap around the stem; the small mascot figurine stands on the straw next to it",
+      "mascote": true
+    },
+    {
+      "id": "slv-var-barranco",
+      "especie": "jute net slope",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A slope covered with jute netting and small plants growing through the holes",
+      "mascote": false
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+# TG 101 Solo Vivo: 69 fatos (so estes)
+a8-001 [solo|Você sabia?] Para a autora, desmanchar os "grumos" da superfície do solo (a terra fofa em bolinhas) é coisa pequena que derruba povos inteiros: traz fome e miséria
+a8-005 [horta|Você sabia?] Semente pesada e cheia de reserva germina melhor: puxa água rápido e escapa dos fungos. Semente que não nasce apodrece na terra
+a8-010 [solo|Você sabia?] Na África há desertos em lugares com 2.800 mm de chuva por ano: a água escorre por cima de uma crosta dura e não entra no chão
+a8-012 [regar|3 erros] Regar mais a terra socada: a rega não leva oxigênio para a raiz. Em solo compactado, mais água rende pouco
+a8-027 [solo|X ou Y?] Arado de discos e enxada rotativa, máquinas que revolvem rápido, deixam o solo mais compactado que as outras
+a8-035 [horta|Você sabia?] Variedade mais produtiva é variedade mais exigente: costuma ter raiz mais fraca e pede solo melhor
+a8-036 [grama|Você sabia?] Leguminosas (mucuna, guandu, feijão-caupi, kudzu) recuperam o solo e fixam nitrogênio. Gramas baixas que fecham o chão, como a grama-batatais, melhoram a estrutura quando bem cortadas
+a8-040 [solo|Mito ou verdade] "O clima daqui não deixa a planta produzir." Para a autora, muito do que se põe na conta do clima é manejo errado do solo
+a8-045 [mato|Mito ou verdade] Deixar a terra descansar sob mata, sem cultivo, recupera a estrutura do solo
+a8-046 [solo|Você sabia?] O problema não é tanto quanto nutriente há na terra, e sim quanto espaço a raiz consegue explorar
+a8-049 [regar|3 erros] Até água doce pode salgar a terra: toda água tem um pouco de sal. Em chão duro, onde a chuva não entra, a água sobe, evapora e o sal fica. Com os anos, o solo saliniza
+a8-202 [solo|Você sabia?] Terra fofa é feita de grumos colados por uma geleia de bactérias que comem palha. A autora chama de "geleia bacteriana"
+a8-211 [grama|Você sabia?] Capim de pasto com a raiz crescendo livre é o jeito mais seguro de enriquecer o solo com húmus. Para a autora, pasto bem manejado é o melhor recuperador da terra; o mal manejado destrói o solo
+a8-215 [praga|Você sabia?] Lavoura em terra recém-desmatada quase não tem praga. Conforme o solo se degrada, as pragas aparecem; depois de 3 anos de cultivo intenso, como o de horta, as defesas acabam. Para a Primavesi, a saúde da planta está ligada à saúde do solo
+a8-216 [praga|3 erros] Para a Primavesi, planta que cresceu grande à força de adubo nitrogenado e água não é sadia. Sã é a que recebe todos os nutrientes de que precisa, num solo fofo, com ar e água
+a8-217 [solo|Você sabia?] Milhões de bichinhos vivem em cada metro quadrado de chão. Até 30 cm de fundura, a tabela do livro soma 619 gramas de bichos por metro quadrado, e uns 400 gramas são minhocas
+a8-218 [solo|Você sabia?] Sem nada para controlar, 1 miligrama de ameba do solo viraria 1 quilo em 12 dias. Quem segura são os outros bichos da terra
+a8-227 [horta|3 erros] Plantar sempre a mesma coisa no mesmo lugar: é a monocultura que cria os parasitas que acabam com ela. Variar as plantas muda os bichos do solo
+a8-233 [solo|Mito ou verdade] Fungo na raiz é sempre ruim? Não. Quase toda planta vive com fungos amigos na raiz, as micorrizas, que buscam nutriente e água para ela
+a8-235 [tomate|Você sabia?] Tomate, batata e quase toda planta cultivada ou espontânea se beneficiam das micorrizas, fungos que vivem dentro da raiz. A exceção mais conhecida é a família da couve
+a8-251 [solo|Socorro] Para a Primavesi, areia branca aparecendo na superfície da lavoura é sinal de terra compactada e de risco de praga
+a8-255 [solo|Você sabia?] Para destruir os grumos não precisa de trator: até as patas de uma saúva conseguem, e quanto mais úmido o chão, pior
+a8-261 [solo|Mito ou verdade] Erosão é coisa da natureza? Para a autora, é sintoma de solo doente: 95% dela vem da água que não consegue entrar na terra
+a8-402 [solo|Você sabia?] A planta não vive de tudo o que a terra tem, só do que a raiz alcança e consegue dissolver. É como dinheiro: vale o que está na sua conta, não o cofre do banco
+a8-407 [solo|Você sabia?] Em terra arenosa, um pH bonito (6,5) não garante comida: a planta pode passar fome mesmo com o número "certo"
+a8-420 [solo|Você sabia?] Terra arenosa sente o erro de adubo bem mais rápido. A matéria orgânica funciona como amortecedor dos erros de adubação
+a8-440 [solo|Socorro] Se adubo na terra não faz efeito mas o de folha faz, o recado é claro: a terra está em péssimo estado (dura, sem ar) e precisa ser recuperada
+a8-616 [mato|5 cuidados] Os 5 estragos da queimada sem controle: não devolve matéria orgânica, deixa o chão exposto à chuva, compacta, deixa o solo repelente à água e cria um mato próprio do fogo
+a8-636 [solo|Você sabia?] Erosão, enchente e seca são sintomas do mesmo problema: solo que perdeu a estrutura e não deixa a água entrar
+a8-646 [solo|Socorro] Muito cupinzeiro no pasto: quanto mais compacto e impermeável o solo, mais cupinzeiro aparece
+a8-647 [solo|Você sabia?] Onde cresce taquara a terra é mais produtiva: as raízes deixam o solo fofo e granulado
+i36-002 [solo|Passo a passo] Teste de solo na mão: esfregue a terra entre os dedos. Se arranha e esfarela quando aperta, é arenoso
+i36-003 [solo|Passo a passo] Teste do argiloso: faça uma salsicha de terra úmida e dobre num anel. Se não racha, o solo é de argila
+i36-004 [solo|Você sabia?] Solo arenoso perde adubo com chuva forte: a água leva os nutrientes embora
+i36-005 [solo|Você sabia?] Solo de argila é o mais fértil, mas encharca na chuva e vira tijolo rachado na seca
+i36-006 [solo|3 erros] Erro comum: pisar no barro molhado. Você estraga a estrutura do solo e piora a drenagem
+i36-007 [solo|Dica do Andre] Terra de cima é escura e rica; a de baixo é clara e pobre. Ao cavar, não traga a de baixo para cima
+i36-008 [solo|Passo a passo] Solo arenoso: cubra com uma camada de 10 cm de esterco curtido ou composto. Segura água e dá adubo
+i36-037 [outra|Você sabia?] Vaso de barro forrado por dentro com plástico não mancha: o sal da terra não atravessa
+i36-053 [outra|Você sabia?] Canteiro elevado resolve solo de argila: a terra de cima drena melhor
+i36-069 [grama|Passo a passo] Grama compactada: espete o garfo a cada 10 cm, uns 8 a 10 cm de fundo, balançando para abrir
+i36-070 [grama|Dica do Andre] Cobertura caseira de gramado: areia, terra e composto na proporção 3:3:1, varrida para os furos
+i36-105 [outra|3 erros] Erro comum: encostar a cobertura morta no caule. Deixe uma folga em volta do tronco
+i36-116 [hortênsia|Você sabia?] Hortênsia muda de cor pelo solo: azul no ácido, lilás no neutro, rosa no alcalino. A branca fica branca
+i36-151 [arvore|Mito ou verdade] Mito ou verdade: encher o buraco da árvore de composto ajuda? Mito, salvo em solo pobre ou arenoso: a raiz não sai procurando comida
+i36-155 [magnólia|Você sabia?] Muita magnólia é compacta: serve para jardim pequeno e até para vaso grande
+i36-170 [muda|Mito ou verdade] Mito ou verdade: água de chuva guardada é a melhor para mudinha? Mito. Água parada pode trazer o fungo do tombamento
+i36-257 [regar|3 erros] Erro comum: jato forte de mangueira na terra. Ele lava o solo e descobre a raiz. Regue devagar, no pé
+q34-005 [solo|3 erros] Erro comum: comprar terra preta rica para planta de clima seco. Planta de lugar seco não aguenta terra úmida
+q34-006 [solo|Dica do Andre] Antes de escolher a terra, descubra onde a planta vive na natureza e em que chão ela cresce
+q34-007 [solo|Você sabia?] Terreno em barranco perde terra na chuva forte, na enxurrada e no sol que racha
+q34-008 [solo|Você sabia?] O solo tem camadas: a terra de cima é escura de matéria orgânica, a de baixo é mais clara e dura, e embaixo vem a pedra
+q34-010 [solo|Você sabia?] Solo argiloso é fértil porque o adubo gruda na argila, mas drena devagar e compacta se pisar molhado
+q34-013 [solo|3 erros] Erro comum: deixar solo siltoso descoberto. Chuva e vento levam embora. Cubra com planta ou palha
+q34-014 [solo|Você sabia?] Todo solo fervilha de fungos, algas e bactérias que entregam mineral para a planta
+q34-018 [solo|Socorro] Socorro, a folha amarelou e a colheita falhou várias vezes? Teste o solo: pode ser o pH
+q34-021 [solo|Você sabia?] Em solo muito ácido, abaixo de pH 4,7, a bactéria não decompõe a matéria orgânica
+q34-023 [solo|5 cuidados] Contra erosão: chão sempre coberto de planta o ano todo
+q34-024 [solo|Dica do Andre] Barranco que perde terra: estenda tela de juta ou fibra de coco e plante pelos furos. A tela se desfaz quando a planta pega
+q34-025 [solo|Dica do Andre] Embaixo de árvore onde nada pega, cubra o chão com casca ou cavaco para proteger o solo
+q34-054 [compostagem|Dica do Andre] Composteira sobre piso? Ponha uma camada de terra do jardim no fundo para trazer os bichinhos do solo
+q34-064 [adubar|Você sabia?] A planta tira carbono, oxigênio e hidrogênio do ar. Do solo, o principal é nitrogênio, fósforo e potássio
+q34-078 [solo|Dica do Andre] Manta de tecido no canteiro: use só a que deixa a água passar, senão a chuva escorre e não chega à raiz
+q34-111 [fungo|Passo a passo] Shiitake: furos de 1 cm por 4 cm a cada 10 a 15 cm, em losango, umas 50 cavilhas por tora, e vela derretida por cima
+q34-113 [fungo|Você sabia?] A tora de shiitake leva de 6 a 36 meses incubando antes de dar cogumelo
+q34-114 [fungo|Passo a passo] Tora pronta (fungo marrom e cheiro de terra): bata a tora no chão e deixe um ou dois dias na água fria. Ela frutifica
+q34-167 [adubar|Você sabia?] Lã de ovelha no solo segura água, solta nitrogênio devagar e abafa o mato
+q34-168 [solo|Dica do Andre] Serragem e casca curtida, de madeira sem tratamento da sua região, viram cobertura barata que segura água
+q34-169 [solo|Você sabia?] Acícula de pinheiro como cobertura vira uma manta que o vento não leva, mas quase não aduba nem segura água

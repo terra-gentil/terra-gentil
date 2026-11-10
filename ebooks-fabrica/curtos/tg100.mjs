@@ -88,8 +88,8 @@ export default {
     { t: ['ATÉ O PRÓXIMO LIVRO',
       'Chegamos a 100 livros, todos de graça. Faça uma muda, dê para alguém e me conta. Gentileza gera gentileza.',
       'Com carinho, André', '100', 'VOCÊ TEM', '101', '102', '103', '104', '105',
-      'São 100 livros na coleção, todos de graça.', 'PRÓXIMO: TG 101 PLANTAS CARNÍVORAS',
-      'Comente CARNÍVORA no @canalterragentil e ele chega no seu direct, de graça.'],
+      'São 100 livros na coleção, todos de graça.', 'PRÓXIMO: TG 101 SOLO VIVO',
+      'Comente SOLO no @canalterragentil e ele chega no seu direct, de graça.'],
       p: [['jiboia-F-1.jpg', 'Retrato do André no jardim']] },
   ],
 };

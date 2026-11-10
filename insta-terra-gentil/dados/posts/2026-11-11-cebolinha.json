@@ -1,0 +1,215 @@
+{
+  "dia": "2026-11-11",
+  "palavra": "CEBOLINHA",
+  "especie": "Allium fistulosum",
+  "nome": "Cebolinha",
+  "tema": null,
+  "serie": "3 erros",
+  "gancho": "3 erros que fazem a cebolinha morrer e como evitar cada um com um gesto simples.",
+  "resumo": "Regar todo dia um pouquinho, vaso sem furo e pouca luz são os erros. O dedômetro e a tesoura ajudam.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Cebolinha",
+      "linha1": "3 erros que",
+      "linha2": "matam a",
+      "linha3": "cebolinha",
+      "destaque": "e a saída"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Regar todo dia",
+      "linha2": "só um",
+      "destaque": "pouquinho",
+      "texto": "Isso confunde a planta. O solo encharca e a raiz pode apodrecer. Rega boa é de vez em quando.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Vaso bonito",
+      "linha2": "sem",
+      "destaque": "furo",
+      "texto": "Sem furo, a água não sai. Use o vaso bonito como capa e plante num de plástico furado.",
+      "nota": "Um gesto pequeno resolve."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Cantinho",
+      "linha2": "sem",
+      "destaque": "luz",
+      "texto": "Cebolinha não sobrevive sem sol. Pia de cozinha escura não serve.",
+      "nota": "Quase todo mundo começa assim."
+    },
+    {
+      "linha1": "Enfie o dedo",
+      "linha2": "na terra e veja",
+      "destaque": "a 2 cm",
+      "texto": "Terra seca a 2 cm de fundura? Hora de regar. Dedo úmido? Espere mais um pouco.",
+      "dica": "Regue até a água sair pelos furos de baixo e deixe escorrer na pia."
+    },
+    {
+      "linha1": "Colha com",
+      "linha2": "tesoura, perto",
+      "destaque": "da base",
+      "texto": "Use uma tesoura afiada e corte as folhas perto da base. Puxar a raiz com a mão mata a planta.",
+      "dica": "Teste da luz: a sombra da sua mão tem que estar nítida e escura."
+    },
+    {
+      "tarja": "Sinal",
+      "linha1": "Esqueceu de",
+      "linha2": "regar um dia?",
+      "destaque": "Relaxe",
+      "texto": "A cebolinha perdoa o esquecimento e espera com paciência. O perigo maior é o excesso de água.",
+      "nota": "Menos ansiedade, mais planta."
+    },
+    {
+      "texto": "Cuide com calma e ela devolve em tempero fresco. Salve este post para a próxima rega.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "Regar todo dia só um pouquinho confunde a planta. A água em excesso encharca e pode apodrecer as raízes. Melhor regar bem de vez em quando.",
+      "pagina": 10,
+      "trecho": "evitando o encharcamento que pode causar o apodrecimento das raízes",
+      "fonte": "Cebolinha Infinita: Adeus Mercado, p. 10"
+    },
+    {
+      "texto": "Vaso decorativo sem furo serve só como capa. Na hora de regar, tire o vaso de plástico de dentro, regue na pia, deixe escorrer e devolva.",
+      "pagina": 10,
+      "trecho": "tire o vaso de plástico de dentro, regue na pia, deixe escorrer e devolva",
+      "fonte": "Cebolinha Infinita: Adeus Mercado, p. 10"
+    },
+    {
+      "texto": "Cebolinha não sobrevive sem sol. Lugar com pouca luz, como a pia da cozinha, não serve.",
+      "pagina": 10,
+      "trecho": "Locais com pouca luz, como pias de cozinha, não são adequados",
+      "fonte": "Cebolinha Infinita: Adeus Mercado, p. 10"
+    },
+    {
+      "texto": "Teste do dedo: enfie o dedo na terra. Se ela estiver seca a 2 cm de profundidade, é hora de regar.",
+      "pagina": 6,
+      "trecho": "se estiver seca a uma profundidade de 2 cm, é hora de regar",
+      "fonte": "Cebolinha Infinita: Adeus Mercado, p. 6"
+    },
+    {
+      "texto": "Para colher, use uma tesoura afiada e corte as folhas perto da base, sem machucar a planta.",
+      "pagina": 10,
+      "trecho": "Use uma tesoura afiada e corte as folhas próximas à base, evitando danificar a planta",
+      "fonte": "Cebolinha Infinita: Adeus Mercado, p. 10"
+    },
+    {
+      "texto": "Arrancar a cebolinha com a mão, puxando a raiz, mata a planta.",
+      "pagina": 10,
+      "trecho": "Arrancar a cebolinha com a mão, puxando a raiz, mata a planta",
+      "fonte": "Cebolinha Infinita: Adeus Mercado, p. 10"
+    },
+    {
+      "texto": "Se você esquecer de regar um dia, ela perdoa e espera com paciência.",
+      "pagina": 3,
+      "trecho": "Se você esquecer de regar um dia, ela vai te perdoar e esperar pacientemente",
+      "fonte": "Cebolinha Infinita: Adeus Mercado, p. 3"
+    },
+    {
+      "texto": "Teste da sombra: coloque a mão na parede onde ficará o vaso. Se a sombra não estiver nítida e escura, falta luz ali.",
+      "pagina": 4,
+      "trecho": "Se a sombra da sua mão não estiver nítida e escura, ali não tem luz suficiente",
+      "fonte": "Cebolinha Infinita: Adeus Mercado, p. 4"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "fontes": [
+    "Cebolinha Infinita: Adeus Mercado, p. 10",
+    "Cebolinha Infinita: Adeus Mercado, p. 6",
+    "Cebolinha Infinita: Adeus Mercado, p. 3",
+    "Cebolinha Infinita: Adeus Mercado, p. 4"
+  ],
+  "materia": {
+    "slug": "cebolinha-3-erros-que-matam-e-como-evitar",
+    "titulo": "Cebolinha: 3 erros que matam e como evitar",
+    "descricao": "Regar todo dia um pouquinho, usar vaso sem furo e deixar sem sol matam a cebolinha. Veja como evitar cada erro com gestos simples, sem bronca e sem culpa.",
+    "introducao": "Se a sua cebolinha amarelou, deitou ou sumiu, respire. Quase nunca é falta de jeito, e quase sempre é um detalhe pequeno que dá para ajeitar. O ebook do André lista os erros que mais matam cebolinha, e ele deixa claro que a ideia não é dar bronca, é trazer luz. Neste texto, a gente conversa sobre três deles: a rega todo dia, o vaso sem furo e o lugar sem sol. No fim, você ainda aprende o teste do dedo e o jeito certo de colher. Tudo com calma, no seu ritmo, sem receita complicada e sem culpa por qualquer planta que já se foi.",
+    "secoes": [
+      {
+        "titulo": "Regar todo dia só um pouquinho",
+        "paragrafos": [
+          "Parece cuidado, né? Um golinho de água por dia para a cebolinha nunca passar sede. Só que o livro explica que isso confunde a planta. A rega precisa manter o solo úmido, mas sem encharcar, porque o encharcamento pode causar o apodrecimento das raízes.",
+          "O caminho é regar bem de vez em quando, em vez de dar uns goles todo dia. E se você já fez do jeito errado, tudo bem. Agora você sabe, e a cebolinha costuma dar nova chance."
+        ],
+        "fatosUsados": [
+          0
+        ]
+      },
+      {
+        "titulo": "Vaso bonito, mas sem furo",
+        "paragrafos": [
+          "Aquela xícara linda ou aquele vaso decorativo sem furo tem um problema: a água não tem para onde ir. O livro diz que esse tipo de vaso serve só como capa. Quem planta direto nele acaba com a raiz mergulhada na água.",
+          "A solução é simples. Plante num vaso de plástico com furos e use o bonito só para enfeitar. Na hora de regar, tire o vaso de plástico de dentro, regue na pia, deixe escorrer bem e devolva para o lugar. Dá um pouquinho de trabalho, mas salva a planta."
+        ],
+        "fatosUsados": [
+          1
+        ]
+      },
+      {
+        "titulo": "Cantinho sem luz",
+        "paragrafos": [
+          "O terceiro erro é achar que a cebolinha se vira na sombra. Segundo o livro, cebolinha não sobrevive sem sol, e lugares com pouca luz, como a pia da cozinha, não são adequados.",
+          "Quer saber se o cantinho serve? Coloque a mão na parede onde pretende deixar o vaso. Se a sombra da mão não estiver nítida e escura, ali não tem luz suficiente. Então procure o lugar mais iluminado da casa, como uma varanda ou uma janela que pega sol."
+        ],
+        "fatosUsados": [
+          2,
+          7
+        ]
+      },
+      {
+        "titulo": "Como saber a hora de regar",
+        "paragrafos": [
+          "O livro ensina o teste do dedo, também chamado de dedômetro. Enfie o dedo na terra. Se ela estiver seca a 2 cm de profundidade, é hora de regar. Se o dedo sair úmido, espere.",
+          "O livro não dá um número fixo de regas, porque o clima muda. Por isso o teste do dedo vale mais do que o calendário. E se você esquecer de regar um dia, calma: a cebolinha perdoa e espera com paciência."
+        ],
+        "fatosUsados": [
+          3,
+          6
+        ]
+      },
+      {
+        "titulo": "Colher sem machucar",
+        "paragrafos": [
+          "Tem mais um erro que passa batido: a colheita. Arrancar a cebolinha com a mão, puxando a raiz, mata a planta. É um gesto automático de quem está com pressa, e quase todo mundo já fez.",
+          "O certo é usar uma tesoura afiada e cortar as folhas perto da base, sem machucar a planta. Assim ela continua viva e volta a dar tempero fresco para o seu feijão e para o seu ovo mexido."
+        ],
+        "fatosUsados": [
+          4,
+          5
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Quantas vezes por semana devo regar a cebolinha?",
+        "resposta": "O livro não traz um número fixo de regas por semana. Ele ensina o teste do dedo: se a terra estiver seca a 2 cm de profundidade, é hora de regar. Se o dedo sair úmido, espere."
+      },
+      {
+        "pergunta": "Posso deixar a cebolinha na pia da cozinha?",
+        "resposta": "Só se tiver sol direto. O livro diz que locais com pouca luz, como pias de cozinha, não são adequados, porque cebolinha não sobrevive sem sol."
+      },
+      {
+        "pergunta": "Esqueci de regar a cebolinha por um dia. Ela morreu?",
+        "resposta": "Calma. Segundo o livro, se você esquecer de regar um dia, ela vai te perdoar e esperar pacientemente. O risco maior está no excesso de água."
+      }
+    ],
+    "conclusao": "Cuidar de cebolinha é menos sobre perfeição e mais sobre atenção. Fure o vaso, escolha um lugar com luz, use o dedo para decidir a rega e colha com tesoura. Se algum erro já aconteceu por aí, não se cobre, a gente aprende fazendo. Salve este texto para a próxima vez que a dúvida bater e conte para quem também quer um tempero fresco na janela. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

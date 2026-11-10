@@ -1,0 +1,439 @@
+{
+ "codigo": "TG081",
+ "slug": "rosas-perfumadas",
+ "titulo": "Rosas Perfumadas",
+ "capa": {
+  "src": "/guias/rosas-perfumadas/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Rosas Perfumadas"
+ },
+ "meta": {
+  "titulo": "Rosas perfumadas: guia grátis de roseira",
+  "descricao": "Como plantar e cuidar de rosas perfumadas, com terra boa, plantio certo e a história do perfume da roseira. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG081.pdf",
+  "atualizado": "2026-11-10"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t081",
+    "COLEÇÃO TERRA GENTIL",
+    "PERFUME",
+    "Rosas Perfumadas",
+    "O perfume e a história da roseira.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosas-perfumadas/roseira-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 158,
+     "alt": "André cheirando uma rosa no jardim"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "A rosa é mais velha que o ser humano.",
+    "E não é planta só para especialista.",
+    "Aqui tem terra, plantio, perfume e rosas.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Cheire uma rosa quase toda aberta.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosas-perfumadas/roseira-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 178,
+     "alt": "André olhando uma roseira florida"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Escolha a rosa pelo perfume.",
+    "Vermelho-escura, laranja ou rosa cheiram mais.",
+    "LUZ",
+    "Luz deixa a cor da rosa mais forte.",
+    "Terra funda que escorra a chuva."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da roseira",
+    "06",
+    "CAPÍTULO 1",
+    "Terra e sol",
+    "08",
+    "CAPÍTULO 2",
+    "Plantar a roseira",
+    "12",
+    "CAPÍTULO 3",
+    "O perfume da rosa",
+    "15",
+    "CAPÍTULO 4",
+    "Rosas de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Roseira florindo mal? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA ROSEIRA",
+    "Antes de plantar",
+    "O que ela pede",
+    "LUZ",
+    "Bastante luz",
+    "TERRA",
+    "Funda, 45 cm ou mais",
+    "pH",
+    "6,0 a 6,5",
+    "RAIZ",
+    "Úmida e fresca",
+    "COVA",
+    "30 por 30 cm",
+    "ÁGUA DA CHUVA\tATENÇÃO",
+    "Precisa escorrer"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Terra e sol",
+    "01\tCerto e errado",
+    "02\tPlantar roseira, passo a passo",
+    "03\tRoseira florindo mal"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosas-perfumadas/roseira-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 171,
+     "alt": "André cuidando da terra de um canteiro de rosas"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Terra\tFunda e úmida\tArenosa e seca",
+    "Capina\tAté 5 cm\tFunda",
+    "Rega\tGota a gota\tAspersor",
+    "Cobertura\tGrossa\tFininha",
+    "A raiz da roseira fica rasa, perto da superfície.",
+    "DICA DO ANDRÉ",
+    "Luz deixa a cor da rosa mais forte."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Plantar a roseira",
+    "01\tPlantar roseira, passo a passo",
+    "02\tDepois de plantar",
+    "03\tRoseira florindo mal"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosas-perfumadas/roseira-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 207,
+     "alt": "André com uma muda de roseira na mão"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Plantar roseira? Faça assim.",
+    "DE MOLHO",
+    "Umas 6 horas",
+    "COVA",
+    "30 por 30 cm",
+    "ENXERTO",
+    "Fora da terra",
+    "1",
+    "MOLHE",
+    "Raiz nua na água umas 6 horas.",
+    "2",
+    "CAVE",
+    "Cova de 30 cm de fundo.",
+    "3",
+    "PLANTE",
+    "Enxerto 2,5 a 5 cm acima.",
+    "DICA DO ANDRÉ",
+    "Plante no fim da tarde e regue bem."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosas-perfumadas/rpe-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 166,
+     "alt": "Mãos pondo a raiz nua de uma muda de roseira num balde de água"
+    },
+    {
+     "src": "/guias/rosas-perfumadas/rpe-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 273,
+     "alt": "Mãos cavando uma cova de 30 cm no canteiro"
+    },
+    {
+     "src": "/guias/rosas-perfumadas/rpe-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 245,
+     "alt": "Mãos firmando a roseira na cova com o enxerto acima da terra"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · PLANTIO",
+    "Depois de plantar",
+    "Prepare o canteiro e espere uns 15 dias.",
+    "Chegue terra nos galhos até uns 20 cm.",
+    "Não enterre o calombo do enxerto.",
+    "Roseiras de flor grande: 60 cm entre elas.",
+    "Trepadeira a 15 ou 20 cm do muro."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Roseira florindo mal?",
+    "1",
+    "O QUE PARECE",
+    "Planta doente.",
+    "O QUE PODE SER",
+    "Terra arenosa e seca.",
+    "COMO RESOLVER",
+    "Matéria orgânica na terra."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosas-perfumadas/rpe-sintoma-1.webp",
+     "largura": 700,
+     "altura": 1254,
+     "kb": 236,
+     "alt": "Roseira fraca com poucas flores em terra arenosa e seca"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "O perfume da rosa",
+    "01\tPotpourri de rosa",
+    "02\tRosa sem cheiro",
+    "03\tRosas de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosas-perfumadas/roseira-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 172,
+     "alt": "André colhendo pétalas de rosa"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · PERFUME",
+    "Potpourri de rosa",
+    "SECAR",
+    "Na sombra, numa tela",
+    "NO SOL",
+    "Perde o perfume",
+    "VOCÊ VAI PRECISAR",
+    "Pétalas bem perfumadas",
+    "Lugar arejado e na sombra",
+    "Tela para espalhar as pétalas",
+    "Rosa quase toda aberta",
+    "Cuidado",
+    "Perfume mora no lado de dentro da pétala",
+    "Sol seca rápido, mas tira o cheiro"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · CHEIRO",
+    "ATENÇÃO",
+    "Muita rosa moderna tem pouco cheiro.",
+    "Quem cria rosa nova quase nunca escolhe pelo cheiro.",
+    "O perfume chega no auge com a flor quase aberta.",
+    "FAÇA ASSIM",
+    "Procure Fragrant Cloud ou Papa Meilland.",
+    "Ou rosa vermelho-escura, laranja ou cor-de-rosa."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro rosas",
+    "1",
+    "Double Delight",
+    "Baunilha com morango.",
+    "2",
+    "Rosa-chá",
+    "Cheiro de chá recém-aberto.",
+    "3",
+    "Damascena",
+    "Nome da cidade de Damasco.",
+    "4",
+    "Mutabilis",
+    "Abre amarela, acaba vermelha.",
+    "CHAVE\tBastante luz\tTerra funda"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosas-perfumadas/rpe-var-double-delight.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 140,
+     "alt": "Rosa Double Delight creme com borda vermelho-morango"
+    },
+    {
+     "src": "/guias/rosas-perfumadas/rpe-var-rosa-cha.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 288,
+     "alt": "Rosa-chá de pétalas suaves num arbusto"
+    },
+    {
+     "src": "/guias/rosas-perfumadas/rpe-var-damascena.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 298,
+     "alt": "Rosa damascena cor-de-rosa bem dobrada"
+    },
+    {
+     "src": "/guias/rosas-perfumadas/rpe-var-mutabilis.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 278,
+     "alt": "Rosa Mutabilis com flores amarelas, laranja e vermelhas no mesmo pé"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "FOLHA NOVA CLARINHA",
+    "Pode ser falta de enxofre.",
+    "BORDA MARROM",
+    "Ar seco demais.",
+    "ROSA DESBOTADA",
+    "Calor forte desbota.",
+    "ROSA CAÍDA NO VASO",
+    "Corte o cabo dentro da água.",
+    "DICA DO ANDRÉ",
+    "Cobertura grossa no pé segura a umidade."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "2",
+    "MIL",
+    "rosas, mais ou menos, para tirar 1 grama de óleo.",
+    "Quase todo o perfume da rosa está nas pétalas.",
+    "E MAIS UMA",
+    "A rosa foi a primeira flor usada para fazer perfume."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Roseira com bastante luz",
+    "Terra funda, pH 6 a 6,5",
+    "Raiz de molho umas 6 horas",
+    "Enxerto acima da terra",
+    "Cobertura grossa no pé",
+    "Rega por gotejamento",
+    "Pétalas secas na sombra",
+    "Cheire a rosa quase aberta",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua roseira florir perfumada, me conta. E divide uma rosa com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "081\tVOCÊ TEM",
+    "082",
+    "083",
+    "084",
+    "085",
+    "086",
+    "São 81 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 082 ALOCÁSIA E FILODENDRO",
+    "Comente ALOCASIA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosas-perfumadas/roseira-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 124,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,439 @@
+{
+ "codigo": "TG092",
+ "slug": "flores-cheirosas",
+ "titulo": "Flores Cheirosas",
+ "capa": {
+  "src": "/guias/flores-cheirosas/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Flores Cheirosas"
+ },
+ "meta": {
+  "titulo": "Flores cheirosas: guia grátis de perfume",
+  "descricao": "Como cultivar jasmim, gardênia, hoia e tuberosa perto de casa, com rega, muda e vaso certo para cada uma. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG092.pdf",
+  "atualizado": "2026-11-10"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t092",
+    "COLEÇÃO TERRA GENTIL",
+    "JASMIM",
+    "Flores Cheirosas",
+    "Jasmim, gardênia, hoia e tuberosa.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-cheirosas/lirio-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 111,
+     "alt": "André com um vaso de flor branca perfumada"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Jasmim, gardênia e hoia perto de casa.",
+    "Jasmim com botão pede mais água.",
+    "Aqui tem rega, muda, vaso e flores de perto.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Procure um ramo meio maduro de jasmim.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-cheirosas/lirio-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 139,
+     "alt": "André cheirando uma flor branca"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Botão apareceu? Mais água.",
+    "E adubo a cada 2 semanas.",
+    "BOTÃO",
+    "Vaso novo depois da flor.",
+    "Na hoia, terra rica que escoe."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da gardênia",
+    "06",
+    "CAPÍTULO 1",
+    "Luz e rega",
+    "08",
+    "CAPÍTULO 2",
+    "Mudas de graça",
+    "12",
+    "CAPÍTULO 3",
+    "Cuidado no vaso",
+    "15",
+    "CAPÍTULO 4",
+    "Flores de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Jasmim-manga sem folha? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA GARDÊNIA",
+    "Antes de plantar",
+    "O que ela pede",
+    "LUZ",
+    "Meia-sombra",
+    "TERRA",
+    "Rica, que escoe",
+    "PH",
+    "Neutra a ácida",
+    "PODA",
+    "Depois da flor",
+    "PRAGA",
+    "Cochonilha",
+    "JASMIM-DO-CABO\tATENÇÃO",
+    "Olho na mosca-branca"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Luz e rega",
+    "01\tCerto e errado",
+    "02\tMuda de hoia, passo a passo",
+    "03\tJasmim-manga sem folha?"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-cheirosas/coringa-regar-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 234,
+     "alt": "André regando um vaso de flor"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Jasmim com botão\tMais água\tRega igual",
+    "Jasmim-manga\tSol pleno\tSombra",
+    "Plumeria sem folha\tSeca\tRegada",
+    "Ervilha-de-cheiro\tMuda no fresco\tMuda no quente",
+    "Trepadeira gosta de raiz na sombra e galho no sol.",
+    "DICA DO ANDRÉ",
+    "Hoia fora do crescimento: pouca água."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Mudas de graça",
+    "01\tMuda de hoia, passo a passo",
+    "02\tJasmim e cia.",
+    "03\tJasmim-manga sem folha?"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-cheirosas/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André separando ramos para fazer muda"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Muda de hoia? Faça assim.",
+    "ESTACA",
+    "3 ou 4 nós",
+    "RAIZ",
+    "Em 2 a 6 semanas",
+    "FLOR",
+    "Em 1 a 2 anos",
+    "1",
+    "CORTE",
+    "Logo abaixo de uma folha.",
+    "2",
+    "ESPERE",
+    "Até o leite parar de sair.",
+    "3",
+    "ENRAÍZE",
+    "Só então, o enraizador.",
+    "DICA DO ANDRÉ",
+    "Use ramo meio maduro."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-cheirosas/jas-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 105,
+     "alt": "Mãos cortando uma estaca de hoia com 3 ou 4 nós, logo abaixo de uma folha"
+    },
+    {
+     "src": "/guias/flores-cheirosas/jas-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 116,
+     "alt": "Mãos segurando a estaca de hoia esperando o leite parar de sair"
+    },
+    {
+     "src": "/guias/flores-cheirosas/jas-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 189,
+     "alt": "Mãos passando a ponta da estaca de hoia no pó enraizador"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MUDA",
+    "Jasmim e cia.",
+    "Jasmim: estaca de ramo meio maduro.",
+    "Jasmim com raiz de ar: faça mergulhia.",
+    "Madagascar: estaca de 10 cm de galho lateral.",
+    "Madagascar: sombra e borrifo no calor.",
+    "Ervilha-de-cheiro: a ponta enraíza no copo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Jasmim-manga sem folha?",
+    "1",
+    "O QUE PARECE",
+    "Planta morta, só o galho.",
+    "O QUE PODE SER",
+    "Ela está descansando.",
+    "COMO RESOLVER",
+    "Deixe seco até brotar de novo."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-cheirosas/jas-sintoma-1.webp",
+     "largura": 700,
+     "altura": 1254,
+     "kb": 255,
+     "alt": "Jasmim-manga sem nenhuma folha, só os galhos grossos, num vaso"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Cuidado no vaso",
+    "01\tHoia no vaso",
+    "02\tLeite do jasmim-manga",
+    "03\tFlores de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-cheirosas/coringa-trocar-vaso-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 179,
+     "alt": "André trocando uma planta de vaso"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · VASO",
+    "Hoia no vaso",
+    "LUZ",
+    "Meia-sombra no sol forte",
+    "TERRA",
+    "Rica, que escoe",
+    "O QUE ELA PEDE",
+    "Água moderada quando cresce",
+    "Fora disso pouca água",
+    "Nova enrolada num aro",
+    "Adulta suporte mais forte",
+    "Cuidado",
+    "Vaso novo só com a raiz apertada",
+    "Troca a cada 2 ou 3 anos"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · LEITE",
+    "ATENÇÃO",
+    "O leite do jasmim-manga faz mal se engolido.",
+    "Ácaro pode atacar o jasmim-manga.",
+    "A hoia também solta leite no corte.",
+    "FAÇA ASSIM",
+    "Estaca de hoia: espere o leite parar.",
+    "Jasmim-manga sem folha: deixe seco."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro perfumes",
+    "1",
+    "Jasmim-manga",
+    "Perfume forte, vira árvore de 7 m.",
+    "2",
+    "Estefanótis",
+    "Cachos de até 8 flores cerosas.",
+    "3",
+    "Tuberosa",
+    "Flor branca pura no verão.",
+    "4",
+    "Jasmim-dos-poetas",
+    "Botão rosa, flor branca.",
+    "CHAVE\tSuporte\tPara a trepadeira"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-cheirosas/jas-var-jasmim-manga.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 185,
+     "alt": "Jasmim-manga com cacho de flores"
+    },
+    {
+     "src": "/guias/flores-cheirosas/jas-var-estefanotis.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 146,
+     "alt": "Estefanótis com cacho de flores brancas cerosas"
+    },
+    {
+     "src": "/guias/flores-cheirosas/jas-var-tuberosa.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 291,
+     "alt": "Tuberosa com flores brancas na haste"
+    },
+    {
+     "src": "/guias/flores-cheirosas/jas-var-jasmim-dos-poetas.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 183,
+     "alt": "Jasmim-dos-poetas com botões rosa e flores brancas"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "ERVILHA PAROU",
+    "Colha a flor, tire a vagem.",
+    "MUDA ESPICHOU",
+    "Palito para ela se agarrar.",
+    "JASMIM SEM FLOR",
+    "Leva uns três anos.",
+    "GARDÊNIA SEM FORMA",
+    "Encurte após a florada.",
+    "DICA DO ANDRÉ",
+    "Rolinho de papel é vaso de ervilha-de-cheiro."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "15",
+    "CM",
+    "tem o tapetinho do jasmim anão, o J. parkeri.",
+    "E ele dá florzinhas amarelas.",
+    "E MAIS UMA",
+    "A flor do jasmim-branco perfuma chá."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Estaca de hoia com 3 ou 4 nós",
+    "Mais água no jasmim com botão",
+    "Jasmim no vaso novo após a flor",
+    "Gardênia na meia-sombra",
+    "Jasmim-manga sem folha, no seco",
+    "Hoia nova enrolada num aro",
+    "Flor da ervilha-de-cheiro colhida",
+    "Muda de ervilha-de-cheiro no fresco",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se o seu jasmim encher de botão, me conta. E divide uma estaca com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "092\tVOCÊ TEM",
+    "093",
+    "094",
+    "095",
+    "096",
+    "097",
+    "São 92 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 093 FLORES DE SEMENTE",
+    "Comente COSMOS no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-cheirosas/lavanda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 184,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

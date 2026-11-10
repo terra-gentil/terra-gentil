@@ -1,0 +1,439 @@
+{
+ "codigo": "TG100",
+ "slug": "jardim-gentil",
+ "titulo": "Jardim Gentil",
+ "capa": {
+  "src": "/guias/jardim-gentil/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Jardim Gentil"
+ },
+ "meta": {
+  "titulo": "Jardim gentil: guia grátis de folhagem fácil",
+  "descricao": "Como cuidar de folhagens fáceis que viram muda, como o clorofito, e espalhar gentileza com plantas de graça. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG100.pdf",
+  "atualizado": "2026-11-10"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t100",
+    "COLEÇÃO TERRA GENTIL",
+    "GENTIL",
+    "Jardim Gentil",
+    "Folhagens fáceis que viram muda.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-gentil/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André com mudas de folhagem para dar"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Chegamos a 100 livros, todos de graça.",
+    "Aqui, folhagem fácil que vira muda.",
+    "Muda boa se divide: gentileza gera gentileza.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Separe um filhote de clorofito para alguém.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-gentil/jiboia-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 160,
+     "alt": "André olhando uma folhagem pendente com carinho"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Faça uma muda de ponta.",
+    "Coleus, confete e tradescântia pegam fácil.",
+    "PONTA",
+    "Estaca de 5 a 10 cm, conforme a planta.",
+    "E dê de presente."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do cróton",
+    "06",
+    "CAPÍTULO 1",
+    "Luz e rega",
+    "08",
+    "CAPÍTULO 2",
+    "Mudas de graça",
+    "12",
+    "CAPÍTULO 3",
+    "Cuidado no vaso",
+    "15",
+    "CAPÍTULO 4",
+    "Folhagens de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Coleus sem graça? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO CRÓTON",
+    "Antes de plantar",
+    "O que ele pede",
+    "LUZ",
+    "Forte, até sol",
+    "TERRA",
+    "Vaso que escoe",
+    "REGA",
+    "Mais no calor",
+    "FRIO",
+    "Quase seca",
+    "MUDA",
+    "Estaca de 7,5 cm",
+    "EM VASO\tATENÇÃO",
+    "Pode piorar alergia de pele"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Luz e rega",
+    "01\tCerto e errado",
+    "02\tMuda de clorofito, passo a passo",
+    "03\tColeus sem graça"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-gentil/coringa-luz-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 113,
+     "alt": "André levando uma folhagem para a claridade"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Cróton\tLuz forte\tPouca luz",
+    "Coleus\tSol mais brando\tSol do meio-dia",
+    "Clorofito\tFarta ao crescer\tFarta o ano todo",
+    "Cissus no frio\tTerra só úmida\tÁgua à vontade",
+    "Cróton precisa de luz forte para manter a cor.",
+    "DICA DO ANDRÉ",
+    "Rega farta só quando a planta está crescendo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Mudas de graça",
+    "01\tMuda de clorofito, passo a passo",
+    "02\tEstaca de cada uma",
+    "03\tColeus sem graça"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-gentil/coringa-muda-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André separando mudas para dar"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Muda de clorofito? Faça assim.",
+    "FILHOTE",
+    "Na ponta da haste",
+    "RAIZ",
+    "Às vezes já vem",
+    "PEGA",
+    "Em uns dez dias",
+    "1",
+    "ESCOLHA",
+    "Um filhote na ponta da haste.",
+    "2",
+    "CORTE",
+    "Com um pedacinho da haste.",
+    "3",
+    "PLANTE",
+    "Num vaso que escoe bem.",
+    "DICA DO ANDRÉ",
+    "Quer planta adulta mais rápido? Divida a touceira."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-gentil/gen-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 165,
+     "alt": "Mãos escolhendo um filhote na ponta da haste do clorofito"
+    },
+    {
+     "src": "/guias/jardim-gentil/gen-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 169,
+     "alt": "Mãos cortando o filhote de clorofito com um pedacinho da haste"
+    },
+    {
+     "src": "/guias/jardim-gentil/gen-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 236,
+     "alt": "Mãos plantando o filhote de clorofito num vaso pequeno"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MUDA",
+    "Estaca de cada uma",
+    "Coleus: estaca de ponta de 8 a 10 cm.",
+    "Tradescântia: estaca de ponta de 5 a 7,5 cm.",
+    "Cróton: carvão em pó no corte, contra o leite.",
+    "Cissus: estaca de 6 a 8 cm, em qualquer época.",
+    "Abacaxi-roxo: brotos de 8 a 10 cm do pé."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Coleus sem graça?",
+    "1",
+    "O QUE PARECE",
+    "Planta cansada.",
+    "O QUE PODE SER",
+    "Florzinha aberta ou coleus velho.",
+    "COMO RESOLVER",
+    "Belisque a flor; se envelheceu, faça estaca nova."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-gentil/gen-sintoma-1.webp",
+     "largura": 800,
+     "altura": 1433,
+     "kb": 289,
+     "alt": "Coleus velho e sem graça com espigas de florzinha no alto"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Cuidado no vaso",
+    "01\tConfete",
+    "02\tFolha que irrita",
+    "03\tFolhagens de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-gentil/coringa-trocar-vaso-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 179,
+     "alt": "André trocando uma folhagem de vaso"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · VASO",
+    "Confete",
+    "LUZ",
+    "Claridade forte",
+    "TERRA",
+    "Que escoe bem",
+    "O QUE ELA PEDE",
+    "Rega frequente quando cresce",
+    "Ramo esticado corte fora",
+    "Muda de estaca de ponta",
+    "Semente também pega",
+    "Bom saber",
+    "Folha pintadinha de branco a rosa",
+    "Vermelha tem variedade também"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · FOLHA",
+    "ATENÇÃO",
+    "A folha da tradescântia pode irritar a pele.",
+    "A do cróton pode piorar alergia de pele.",
+    "Capim de folha dura corta a pele.",
+    "FAÇA ASSIM",
+    "Capim duro: luva ou tesourão de cabo longo.",
+    "Seguras para gato: clorofito e aspidistra."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro folhagens",
+    "1",
+    "Aspidistra",
+    "A \"planta-de-ferro fundido\".",
+    "2",
+    "Cissus-uva",
+    "Menos invasivo, bom para vaso.",
+    "3",
+    "Abacaxi-roxo",
+    "Verde por cima, roxo por baixo.",
+    "4",
+    "Planta-batom",
+    "Flor como batom saindo do estojo.",
+    "CHAVE\tFolhagem\tPara dentro de casa"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-gentil/gen-var-aspidistra.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 161,
+     "alt": "Aspidistra de folhas largas verde-escuras num vaso"
+    },
+    {
+     "src": "/guias/jardim-gentil/gen-var-cissus-uva.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 127,
+     "alt": "Cissus-uva de folha em 3 partes num vaso dentro de casa"
+    },
+    {
+     "src": "/guias/jardim-gentil/gen-var-abacaxi-roxo.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 200,
+     "alt": "Abacaxi-roxo de folhas verdes por cima e roxas por baixo"
+    },
+    {
+     "src": "/guias/jardim-gentil/gen-var-planta-batom.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 187,
+     "alt": "Planta-batom pendente com flores vermelhas em tubo"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "TRADESCÂNTIA RALA",
+    "Corte ou faça muda de ponta.",
+    "CALLISIA RALA",
+    "Refaça de estaca.",
+    "CRÓTON SEM COR",
+    "Mais luz, até sol.",
+    "CONFETE ESTICADO",
+    "Corte os ramos compridos.",
+    "DICA DO ANDRÉ",
+    "Planta rala? Muda nova de ponta resolve."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "3",
+    "M",
+    "de altura o cróton chega a ter na estufa.",
+    "Novinho e em vaso pequeno, enfeita a casa.",
+    "E MAIS UMA",
+    "O filhote do clorofito solta raiz ainda na mãe."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Filhote de clorofito plantado",
+    "Estaca de coleus de 8 a 10 cm",
+    "Florzinha do coleus beliscada",
+    "Cróton na luz forte",
+    "Cissus com terra só úmida no frio",
+    "Tradescântia rala cortada",
+    "Aspidistra dividida com raiz",
+    "Uma muda dada de presente",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Chegamos a 100 livros, todos de graça. Faça uma muda, dê para alguém e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "100\tVOCÊ TEM",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "São 100 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 101 PLANTAS CARNÍVORAS",
+    "Comente CARNÍVORA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/jardim-gentil/jiboia-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 116,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

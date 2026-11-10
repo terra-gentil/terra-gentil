@@ -1,0 +1,439 @@
+{
+ "codigo": "TG079",
+ "slug": "pimentas-do-mundo",
+ "titulo": "Pimentas do Mundo",
+ "capa": {
+  "src": "/guias/pimentas-do-mundo/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Pimentas do Mundo"
+ },
+ "meta": {
+  "titulo": "Pimentas do mundo: guia grátis de cultivo",
+  "descricao": "Como cultivar pimentas do México ao Peru no quintal, entendendo o ardido, a semente e a pimenta seca. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG079.pdf",
+  "atualizado": "2026-11-10"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t079",
+    "COLEÇÃO TERRA GENTIL",
+    "HABANERO",
+    "Pimentas do Mundo",
+    "Do México ao Peru, no seu quintal.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimentas-do-mundo/pimenta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 164,
+     "alt": "André com um pé de pimenta carregado"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Tem mais de 3 mil pimentas pelo mundo.",
+    "E todas saem de só cinco espécies.",
+    "Aqui tem ardido, semente e pimenta seca.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Escolha uma pimenta do mundo para plantar.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimentas-do-mundo/pimenta-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 178,
+     "alt": "André olhando as pimentas no pé"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Semeie a pimenta cedo.",
+    "Quanto antes nasce, mais colheita.",
+    "CALMA",
+    "Quanto mais ardida, mais demora.",
+    "Habanero leva uns 200 dias."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da pimenta",
+    "06",
+    "CAPÍTULO 1",
+    "Do pé ao ardido",
+    "08",
+    "CAPÍTULO 2",
+    "Semente de casa",
+    "12",
+    "CAPÍTULO 3",
+    "Secar e guardar",
+    "15",
+    "CAPÍTULO 4",
+    "Pimentas do mundo",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Pimenta sem fruto no calor? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA PIMENTA",
+    "Antes de plantar",
+    "O que ela pede",
+    "FAMÍLIA",
+    "A do tomate",
+    "ESPÉCIES",
+    "Cinco domesticadas",
+    "VARIEDADES",
+    "Mais de 3 mil",
+    "NASCE",
+    "10 dias a 5 semanas",
+    "COLHEITA",
+    "Verde ou madura",
+    "CALORÃO\tATENÇÃO",
+    "Acima de 30 graus, menos fruto"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Do pé ao ardido",
+    "01\tCerto e errado",
+    "02\tSemente guardada, passo a passo",
+    "03\tPimenta sem fruto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimentas-do-mundo/pimenta-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 184,
+     "alt": "André colhendo pimentas no pé"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Menos ardida\tColha nova\tDeixar no pé",
+    "Pé com 30 cm\tBelisque a ponta\tDeixar esticar",
+    "Florida\tAdubo com potássio\tSem adubo",
+    "Rega\tNo pé\tNa folha",
+    "Quanto mais ardida a pimenta, mais tempo leva no pé.",
+    "DICA DO ANDRÉ",
+    "Colhida verde, ela fica vermelha na janela de sol."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Semente de casa",
+    "01\tSemente guardada, passo a passo",
+    "02\tDe um ano para o outro",
+    "03\tPimenta sem fruto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimentas-do-mundo/pimenta-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 171,
+     "alt": "André separando pimentas maduras"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Guardar semente? Faça assim.",
+    "FRUTO",
+    "Bem maduro",
+    "SECAGEM",
+    "Duas semanas",
+    "DURA",
+    "Uns dois anos",
+    "1",
+    "ESCOLHA",
+    "Pé saudável, fruto maduro.",
+    "2",
+    "SEQUE",
+    "No papel toalha, lugar quente.",
+    "3",
+    "ANOTE",
+    "Nome e data no envelope.",
+    "DICA DO ANDRÉ",
+    "Use luva: a semente irrita a pele."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimentas-do-mundo/pmm-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 205,
+     "alt": "Mãos colhendo uma pimenta bem madura de um pé saudável"
+    },
+    {
+     "src": "/guias/pimentas-do-mundo/pmm-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 177,
+     "alt": "Mãos de luva espalhando sementes de pimenta no papel toalha"
+    },
+    {
+     "src": "/guias/pimentas-do-mundo/pmm-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 164,
+     "alt": "Mãos escrevendo nome e data num envelope de sementes"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · SEMENTE",
+    "De um ano para o outro",
+    "Pimenteira é perene: no ano seguinte dá mais.",
+    "No frio, corte os galhos a 5 cm e tire os frutos.",
+    "Troque o substrato e regue só o necessário.",
+    "Brotou de novo? Ela floresce ainda mais.",
+    "Habanero e tabasco são as que mais valem a pena."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Pimenta sem fruto no calor?",
+    "1",
+    "O QUE PARECE",
+    "Planta preguiçosa.",
+    "O QUE PODE SER",
+    "Calor acima de uns 30 graus.",
+    "COMO RESOLVER",
+    "Prefira as ardidas, que aguentam mais."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimentas-do-mundo/pmm-sintoma-1.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 299,
+     "alt": "Pé de pimenta no sol forte, com flores caindo e quase sem fruto"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Secar e guardar",
+    "01\tPimenta seca",
+    "02\tCuidado com o ardido",
+    "03\tPimentas do mundo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimentas-do-mundo/pimenta-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 189,
+     "alt": "André com pimentas vermelhas para secar"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · SECAR",
+    "Pimenta seca",
+    "CASCA",
+    "Fina, como a caiena",
+    "PRONTA",
+    "Quebra mas ainda dobra",
+    "NO FORNO",
+    "Assadeira com fatias",
+    "Fogo bem baixo",
+    "Porta entreaberta",
+    "Pote sem umidade dentro",
+    "Cuidado",
+    "Jalapeño melhor defumada",
+    "Pimenta seca arde mais, grama por grama"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ARDIDO",
+    "ATENÇÃO",
+    "Semente de pimenta irrita a pele.",
+    "Pimenta fresca no óleo fora da geladeira pode dar botulismo.",
+    "Pimenta seca com umidade apodrece.",
+    "FAÇA ASSIM",
+    "Use luva para tirar a semente.",
+    "Congele: lave, seque bem e ponha em saquinho."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro pimentas",
+    "1",
+    "Habanero",
+    "Uns 200 dias até madurar.",
+    "2",
+    "Jalapeño",
+    "Nome da cidade de Xalapa.",
+    "3",
+    "Tabasco",
+    "Até 100 frutos por pé.",
+    "4",
+    "Rocoto",
+    "Semente preta, folha peluda.",
+    "CHAVE\tSemeie cedo\tArdida demora mais"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimentas-do-mundo/pmm-var-habanero.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 233,
+     "alt": "Pé de habanero com frutos laranja enrugados"
+    },
+    {
+     "src": "/guias/pimentas-do-mundo/pmm-var-jalapeno.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 139,
+     "alt": "Jalapeños verdes e lisos pendurados no pé"
+    },
+    {
+     "src": "/guias/pimentas-do-mundo/pmm-var-tabasco.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 202,
+     "alt": "Pé de tabasco cheio de pimentinhas em pé"
+    },
+    {
+     "src": "/guias/pimentas-do-mundo/pmm-var-rocoto.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 259,
+     "alt": "Rocoto vermelho aberto mostrando as sementes pretas"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "JALAPEÑO RISCADA",
+    "É sinal de madura.",
+    "HABANERO NÃO NASCEU",
+    "Espere duas semanas.",
+    "PADRÓN ARDIDA",
+    "Roleta-russa: é normal.",
+    "FOLHA MANCHADA",
+    "Regue só no pé.",
+    "DICA DO ANDRÉ",
+    "Chipotle não é variedade: é jalapeño seca na fumaça."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "6",
+    "MIL",
+    "anos atrás, no México, a pimenta já ia para a comida.",
+    "É uma das plantas cultivadas mais antigas das Américas.",
+    "E MAIS UMA",
+    "A caiena leva o nome de um rio da Guiana Francesa."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Semeie cedo",
+    "Menos ardida? Colha nova",
+    "Belisque a ponta aos 30 cm",
+    "Potássio quando florir",
+    "Regue só no pé",
+    "Semente de fruto maduro",
+    "Nome e data no envelope",
+    "Luva para tirar a semente",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua pimenta do mundo der fruto, me conta. E divide umas sementes com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "079\tVOCÊ TEM",
+    "080",
+    "081",
+    "082",
+    "083",
+    "084",
+    "São 79 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 080 ORQUÍDEA NA ÁRVORE",
+    "Comente TRONCO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimentas-do-mundo/pimenta-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 116,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

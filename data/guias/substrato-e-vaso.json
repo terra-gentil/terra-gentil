@@ -1,0 +1,439 @@
+{
+ "codigo": "TG097",
+ "slug": "substrato-e-vaso",
+ "titulo": "Substrato e Vaso",
+ "capa": {
+  "src": "/guias/substrato-e-vaso/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Substrato e Vaso"
+ },
+ "meta": {
+  "titulo": "Substrato e vaso: guia grátis de terra",
+  "descricao": "Como escolher substrato leve, drenagem, pH, adubo e o vaso certo, e como fazer a troca de vaso sem susto. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG097.pdf",
+  "atualizado": "2026-11-10"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t097",
+    "COLEÇÃO TERRA GENTIL",
+    "SUBSTRATO",
+    "Substrato e Vaso",
+    "Terra, drenagem e troca de vaso.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/substrato-e-vaso/coringa-trocar-vaso-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 179,
+     "alt": "André trocando uma planta de vaso"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Planta de vaso pede três coisas.",
+    "Substrato leve, água na medida e vaso certo.",
+    "Aqui tem terra, drenagem, pH e adubo.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Confira se o furo do seu vaso está livre.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/substrato-e-vaso/coringa-trocar-vaso-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 170,
+     "alt": "André olhando o fundo de um vaso"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Terra do quintal fora do vaso.",
+    "Use substrato próprio.",
+    "FURO",
+    "Nunca tampe o furo do vaso.",
+    "Areia, só a grossa lavada."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do substrato",
+    "06",
+    "CAPÍTULO 1",
+    "Terra e drenagem",
+    "08",
+    "CAPÍTULO 2",
+    "Troca de vaso",
+    "12",
+    "CAPÍTULO 3",
+    "pH e adubo",
+    "15",
+    "CAPÍTULO 4",
+    "Terra de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Torrão preso no vaso? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO SUBSTRATO",
+    "Antes de plantar",
+    "O que o vaso pede",
+    "BASE",
+    "Leve e drenada",
+    "AREIA",
+    "Grossa e lavada",
+    "FUNDO",
+    "Drenagem e manta",
+    "BORDA",
+    "5 cm livres",
+    "ADUBO",
+    "Após umas 6 semanas",
+    "SUBSTRATO PRÓPRIO\tATENÇÃO",
+    "Nada de areia de praia"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Terra e drenagem",
+    "01\tCerto e errado",
+    "02\tTroca de vaso, passo a passo",
+    "03\tTorrão preso no vaso"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/substrato-e-vaso/coringa-solo-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 215,
+     "alt": "André com um punhado de terra na mão"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Areia\tGrossa lavada\tFina de reboco",
+    "Terra do vaso\tSubstrato próprio\tDo quintal",
+    "Esterco\tCurtido\tFresco",
+    "Drenagem\tPedrisco\tAreia de praia",
+    "Vaso de barro seca rápido: forre com plástico-bolha.",
+    "DICA DO ANDRÉ",
+    "Deixe 5 cm livres na borda do vaso."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Troca de vaso",
+    "01\tTroca de vaso, passo a passo",
+    "02\tMontagem e cuidados",
+    "03\tTorrão preso no vaso"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/substrato-e-vaso/coringa-trocar-vaso-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 196,
+     "alt": "André tirando uma planta do vaso velho"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Troca de vaso? Faça assim.",
+    "TORRÃO",
+    "Sai fácil seco",
+    "RAIZ",
+    "Solte a enrolada",
+    "COLO",
+    "Na mesma altura",
+    "1",
+    "TIRE",
+    "Aperte a borda e puxe pelo caule.",
+    "2",
+    "SOLTE",
+    "Raiz enrolada, abra com os dedos.",
+    "3",
+    "PLANTE",
+    "Colo na mesma altura de antes.",
+    "DICA DO ANDRÉ",
+    "Regue até sair água pelos furos."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/substrato-e-vaso/sub-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 139,
+     "alt": "Mãos apertando a borda do vaso e puxando a planta pelo caule"
+    },
+    {
+     "src": "/guias/substrato-e-vaso/sub-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 249,
+     "alt": "Mãos soltando com os dedos a raiz enrolada do torrão"
+    },
+    {
+     "src": "/guias/substrato-e-vaso/sub-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 199,
+     "alt": "Mãos ajeitando a planta no vaso novo com o colo na mesma altura"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · VASO",
+    "Montagem e cuidados",
+    "Ordem: drenagem, manta, substrato, muda.",
+    "Isopor picado no fundo, sem tampar o furo.",
+    "Raiz grossa: corte até um terço, deixe as finas.",
+    "No fim, regue até molhar tudo.",
+    "Depois, uns dias arejado e sem sol."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Torrão preso no vaso?",
+    "1",
+    "O QUE PARECE",
+    "Torrão que não sai.",
+    "O QUE PODE SER",
+    "Planta presa no vaso.",
+    "COMO RESOLVER",
+    "Faca comprida rente à parede; se não der, quebre o vaso."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/substrato-e-vaso/sub-sintoma-1.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 252,
+     "alt": "Planta com o torrão preso num vaso apertado"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "pH e adubo",
+    "01\tO pH na prática",
+    "02\tAdubo com cuidado",
+    "03\tTerra de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/substrato-e-vaso/coringa-adubar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 163,
+     "alt": "André adubando um vaso"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · pH",
+    "O pH na prática",
+    "IDEAL",
+    "pH 6,5",
+    "MINHOCA",
+    "Trabalha mais",
+    "O QUE O pH DIZ",
+    "Vinagre borbulhou na terra, tem calcário",
+    "Azaleia e camélia adoram solo ácido",
+    "Folha amarela de nervura verde, solo alcalino",
+    "Febre o pH é o sinal, não a doença",
+    "Cuidado",
+    "Mudar de vez mito: escolha a planta certa",
+    "Pós-calcário espere uns três meses para testar"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ADUBO",
+    "ATENÇÃO",
+    "Cinza de madeira sobe o pH e pode queimar.",
+    "Esterco fresco, nunca: só o curtido.",
+    "Calcário e adubo químico não se misturam.",
+    "FAÇA ASSIM",
+    "No vaso, adube após umas seis semanas.",
+    "Cinza só em terra testada e vazia."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro terras",
+    "1",
+    "Argilosa",
+    "Rica, mas encharca e racha.",
+    "2",
+    "Arenosa",
+    "Drena, mas perde adubo.",
+    "3",
+    "Franca",
+    "Argila, areia e silte.",
+    "4",
+    "Fibra de coco",
+    "Bloco de molho uns 20 minutos.",
+    "CHAVE\tTeste na mão\tArranha ou gruda"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/substrato-e-vaso/sub-var-argila.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 118,
+     "alt": "Terra argilosa úmida grudando na mão"
+    },
+    {
+     "src": "/guias/substrato-e-vaso/sub-var-areia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 279,
+     "alt": "Terra arenosa esfarelando entre os dedos"
+    },
+    {
+     "src": "/guias/substrato-e-vaso/sub-var-franca.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 219,
+     "alt": "Terra franca escura e fofa num canteiro"
+    },
+    {
+     "src": "/guias/substrato-e-vaso/sub-var-fibra-de-coco.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 184,
+     "alt": "Bloco de fibra de coco de molho num balde"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "MURCHOU NA TROCA",
+    "Faltou água nos dias seguintes.",
+    "NERVURA VERDE",
+    "Solo alcalino prende o ferro.",
+    "TERRA DO QUINTAL",
+    "Trouxe praga e mato.",
+    "SUBSTRATO DURO",
+    "Areia fina compactou.",
+    "DICA DO ANDRÉ",
+    "Pedrinha por cima segura a umidade."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "8",
+    "VEZES",
+    "mais terra explora a raiz que dobra de comprimento.",
+    "E recebe 8 vezes mais água e nutriente.",
+    "E MAIS UMA",
+    "Fibra de coco, casca de arroz e até isopor contam como substrato."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Substrato próprio no vaso",
+    "Areia grossa lavada, nunca a fina",
+    "Furo do vaso sempre livre",
+    "Colo na mesma altura de antes",
+    "Raiz enrolada solta com os dedos",
+    "Rega farta depois da troca",
+    "Adubo após umas seis semanas",
+    "Esterco só curtido",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Pegou no vaso novo? Me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "097\tVOCÊ TEM",
+    "098",
+    "099",
+    "100",
+    "101",
+    "102",
+    "São 97 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 098 ROSA-DO-DESERTO EM FLOR",
+    "Comente FLORADA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/substrato-e-vaso/coringa-regar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 182,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

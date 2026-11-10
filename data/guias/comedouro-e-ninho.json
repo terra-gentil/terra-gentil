@@ -1,0 +1,439 @@
+{
+ "codigo": "TG095",
+ "slug": "comedouro-e-ninho",
+ "titulo": "Comedouro e Ninho",
+ "capa": {
+  "src": "/guias/comedouro-e-ninho/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Comedouro e Ninho"
+ },
+ "meta": {
+  "titulo": "Comedouro e ninho: guia grátis para pássaros",
+  "descricao": "Como fazer comedouro na janela e ninho no muro para passarinho, com comida, casinha e cerca viva. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG095.pdf",
+  "atualizado": "2026-11-10"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t095",
+    "COLEÇÃO TERRA GENTIL",
+    "NINHO",
+    "Comedouro e Ninho",
+    "Comida e casinha para passarinho.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/comedouro-e-ninho/girassol-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 132,
+     "alt": "André no jardim perto dos girassóis"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Comedouro na janela e ninho no muro.",
+    "Ponha o comedouro onde você enxergue.",
+    "Aqui tem comida, casinha, cerca viva e bicho.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Escolha o canto do comedouro.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/comedouro-e-ninho/jabuticabeira-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 161,
+     "alt": "André olhando o quintal de perto"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Um comedouro à vista da janela.",
+    "E chão livre em volta dele.",
+    "CHÃO",
+    "Tem passarinho que só come no chão.",
+    "Semente dura e fruta mole."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do comedouro",
+    "06",
+    "CAPÍTULO 1",
+    "Comida",
+    "08",
+    "CAPÍTULO 2",
+    "Feito em casa",
+    "12",
+    "CAPÍTULO 3",
+    "Jardim que alimenta",
+    "15",
+    "CAPÍTULO 4",
+    "Bichos de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Rede na frutífera? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO COMEDOURO",
+    "Antes de pendurar",
+    "O que ele pede",
+    "LUGAR",
+    "À vista da janela",
+    "CAMINHO",
+    "Fácil de chegar",
+    "BICO GROSSO",
+    "Semente dura",
+    "BICO FINO",
+    "Comida mole",
+    "FRUTA",
+    "Mole, no chão",
+    "NO QUINTAL\tATENÇÃO",
+    "Chão livre em volta"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Comida",
+    "01\tCerto e errado",
+    "02\tNinho de bandeja, passo a passo",
+    "03\tRede na frutífera"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/comedouro-e-ninho/girassol-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 178,
+     "alt": "André cuidando das flores do quintal"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Comedouro\tChão livre\tChão tomado",
+    "Comida\tSemente e fruta\tUm tipo só",
+    "Cerca viva\tMisturada\tUma espécie só",
+    "Casinha\tMadeira crua\tTinta e verniz",
+    "Com caminho fácil até o comedouro, a rotina fica fácil.",
+    "DICA DO ANDRÉ",
+    "Muda de árvore nascida sozinha vira cerca viva de graça."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Feito em casa",
+    "01\tNinho de bandeja, passo a passo",
+    "02\tComedouro e casinha",
+    "03\tRede na frutífera"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/comedouro-e-ninho/coringa-ferramentas-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 153,
+     "alt": "André separando ferramentas para um trabalho de madeira"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Ninho de bandeja? Faça assim.",
+    "TÁBUA",
+    "10 a 15 cm",
+    "BEIRADA",
+    "3 cm",
+    "ALTURA",
+    "1 metro do chão",
+    "1",
+    "TÁBUA",
+    "Uma tábua de 10 a 15 cm.",
+    "2",
+    "BEIRADA",
+    "Com uma beirada de 3 cm.",
+    "3",
+    "PRENDA",
+    "A um metro, atrás da trepadeira.",
+    "DICA DO ANDRÉ",
+    "Escondido é melhor: camuflagem, não propaganda."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/comedouro-e-ninho/nin-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 280,
+     "alt": "Mãos medindo uma tábua pequena de madeira crua"
+    },
+    {
+     "src": "/guias/comedouro-e-ninho/nin-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 239,
+     "alt": "Mãos prendendo uma beirada baixa em volta da tábua"
+    },
+    {
+     "src": "/guias/comedouro-e-ninho/nin-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 186,
+     "alt": "Mãos fixando o ninho de bandeja atrás de uma trepadeira, a um metro do chão"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · FEITO EM CASA",
+    "Comedouro e casinha",
+    "Rolo: papel com pasta de amendoim e alpiste.",
+    "Girassol seco: pendure a cabeça inteira.",
+    "Casinha: o tamanho do furo decide quem mora.",
+    "Frente aberta: na parede, não na árvore.",
+    "Morcego: casinha ajuda, ele dorme em oco."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Rede na frutífera?",
+    "1",
+    "O QUE PARECE",
+    "Fruta bem protegida.",
+    "O QUE PODE SER",
+    "Rede mole enrosca a ave.",
+    "COMO RESOLVER",
+    "Prefira gaiola de tela de arame."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/comedouro-e-ninho/nin-sintoma-1.webp",
+     "largura": 700,
+     "altura": 1254,
+     "kb": 232,
+     "alt": "Rede mole de plástico jogada sobre um arbusto de frutinhas"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Jardim que alimenta",
+    "01\tFlor que vira semente",
+    "02\tCuidado com o bicho",
+    "03\tBichos de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/comedouro-e-ninho/coringa-mato-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 175,
+     "alt": "André olhando um canto de mato no quintal"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · COMIDA",
+    "Flor que vira semente",
+    "GIRASSOL",
+    "Seque no pé",
+    "FRUTA",
+    "Uma parte fica",
+    "O QUE ELE COME",
+    "Semente das flores secas no pé",
+    "No frio as flores secas alimentam",
+    "Espiga seca da tanchagem fica no pé",
+    "Dente-de-leão semente e néctar",
+    "Cuidado",
+    "Flor murcha corte umas, deixe outras",
+    "Cerca viva de frutinhas dá abrigo e comida"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · CUIDADO",
+    "ATENÇÃO",
+    "Vaselina no poste do comedouro estraga as penas.",
+    "Não arranque pena de bicho vivo para o espantalho.",
+    "Rede mole enrosca a ave.",
+    "FAÇA ASSIM",
+    "Contra esquilo, pimenta em pó na ração.",
+    "Pena para espantalho: chão de praça e beira de lago."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro que alimentam",
+    "1",
+    "Girassol",
+    "Semente cheia de óleo.",
+    "2",
+    "Piracanta",
+    "Cacho de fruta laranja ou vermelha.",
+    "3",
+    "Cotoneaster",
+    "Flor branca e frutinha vermelha.",
+    "4",
+    "Maria-pretinha",
+    "O passarinho espalha a semente.",
+    "CHAVE\tFlor e fruta\tNo pé"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/comedouro-e-ninho/nin-var-girassol.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 299,
+     "alt": "Cabeça de girassol seca, cheia de sementes, no pé"
+    },
+    {
+     "src": "/guias/comedouro-e-ninho/nin-var-piracanta.webp",
+     "largura": 800,
+     "altura": 1071,
+     "kb": 246,
+     "alt": "Piracanta com cachos de frutinhas laranja"
+    },
+    {
+     "src": "/guias/comedouro-e-ninho/nin-var-cotoneaster.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 291,
+     "alt": "Cotoneaster cobrindo um muro com frutinhas vermelhas"
+    },
+    {
+     "src": "/guias/comedouro-e-ninho/nin-var-maria-pretinha.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 195,
+     "alt": "Maria-pretinha com frutinhas pretas maduras"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que o bicho deixou?",
+    "MUDA SOZINHA",
+    "Semente que o passarinho soltou.",
+    "MATINHO NO POLEIRO",
+    "Passarinho de fruta passou.",
+    "FURO BICADO",
+    "Ele está marcando a casinha.",
+    "ANEL DE BARRO",
+    "Ele estreitou o furo grande.",
+    "DICA DO ANDRÉ",
+    "Procure pegada, cocô, folha roída e furinho no chão."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "2",
+    "ANOS",
+    "é o tempo que o filhote de andorinhão pode passar sem pousar.",
+    "Ele salta do ninho sem treino e dorme até no ar.",
+    "E MAIS UMA",
+    "Na Inglaterra, metade das florestas novas foi plantada pelo gaio, que enterra bolota e esquece."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Comedouro à vista da janela",
+    "Chão livre em volta dele",
+    "Semente dura e fruta mole",
+    "Casinha de madeira crua",
+    "Ninho de bandeja atrás da trepadeira",
+    "Flores secas com semente no pé",
+    "Cabeça de girassol pendurada",
+    "Gaiola de arame, não rede mole",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se um passarinho fizer ninho no seu quintal, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "095\tVOCÊ TEM",
+    "096",
+    "097",
+    "098",
+    "099",
+    "100",
+    "São 95 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 096 ROSEIRA NO JARDIM",
+    "Comente ROSEIRA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/comedouro-e-ninho/jabuticabeira-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 116,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

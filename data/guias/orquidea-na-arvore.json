@@ -1,0 +1,439 @@
+{
+ "codigo": "TG080",
+ "slug": "orquidea-na-arvore",
+ "titulo": "Orquídea na Árvore",
+ "capa": {
+  "src": "/guias/orquidea-na-arvore/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Orquídea na Árvore"
+ },
+ "meta": {
+  "titulo": "Orquídea na árvore: guia grátis de cultivo",
+  "descricao": "Como prender orquídea no tronco de uma árvore, com placa, raiz no ar e rega certa, e por que ela não é parasita. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG080.pdf",
+  "atualizado": "2026-11-10"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t080",
+    "COLEÇÃO TERRA GENTIL",
+    "TRONCO",
+    "Orquídea na Árvore",
+    "Raiz no ar, flor no galho.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/orquidea-na-arvore/orquidea-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 103,
+     "alt": "André com uma orquídea presa num tronco"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Orquídea na árvore não é parasita.",
+    "Ela só se apoia no galho para pegar luz.",
+    "Aqui tem placa, Vanda, raiz no ar e rega.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache a sombra salpicada de uma árvore.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/orquidea-na-arvore/orquidea-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 138,
+     "alt": "André olhando orquídeas presas nos galhos"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Raiz de orquídea precisa de ar.",
+    "Na terra que abafa, ela definha.",
+    "AR",
+    "Raiz sem gotinha? Regue de novo.",
+    "Nada de enterrar raiz aérea comprida."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da epífita",
+    "06",
+    "CAPÍTULO 1",
+    "Vida na árvore",
+    "08",
+    "CAPÍTULO 2",
+    "Vanda e placa",
+    "12",
+    "CAPÍTULO 3",
+    "Raiz no ar",
+    "15",
+    "CAPÍTULO 4",
+    "Orquídeas de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Ponta de raiz morrendo na placa? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA EPÍFITA",
+    "Antes de montar",
+    "O que ela pede",
+    "LUZ",
+    "Sombra salpicada",
+    "SUPORTE",
+    "Placa de cortiça",
+    "REGA",
+    "Raiz com gotinha",
+    "ADUBO",
+    "Fraco, toda semana",
+    "CHUVA",
+    "Água ótima",
+    "ÁGUA GELADA\tATENÇÃO",
+    "Choca a orquídea"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Vida na árvore",
+    "01\tCerto e errado",
+    "02\tVanda pernalta, passo a passo",
+    "03\tRaiz morrendo na placa"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/orquidea-na-arvore/vanda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 125,
+     "alt": "André regando uma Vanda pendurada"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Rega\tFolha seca à noite\tÀ noite",
+    "Água\tFresca ou morna\tGelada",
+    "Mudar de lugar\tAos poucos\tDe uma vez",
+    "Raiz aérea\tAparar a 10 cm\tEnterrar",
+    "Epífita só se apoia no galho, sem sugar a árvore.",
+    "DICA DO ANDRÉ",
+    "Água de chuva é ótima para orquídea."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Vanda e placa",
+    "01\tVanda pernalta, passo a passo",
+    "02\tPlaca de cortiça",
+    "03\tRaiz morrendo na placa"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/orquidea-na-arvore/vanda-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 168,
+     "alt": "André olhando as raízes de uma Vanda"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Vanda pernalta? Faça assim.",
+    "RAIZ",
+    "A cada 2,5 a 5 cm",
+    "TAMANHO",
+    "Do comprimento da folha",
+    "LÂMINA",
+    "Nova a cada planta",
+    "1",
+    "ESPERE",
+    "A base soltar broto e raiz.",
+    "2",
+    "CORTE",
+    "Logo acima deles.",
+    "3",
+    "CUIDE",
+    "Murchou? Saco transparente.",
+    "DICA DO ANDRÉ",
+    "O topo vira planta nova e a base brota."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/orquidea-na-arvore/oar-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 129,
+     "alt": "Mãos conferindo os brotos e raízes novas na base de uma Vanda alta"
+    },
+    {
+     "src": "/guias/orquidea-na-arvore/oar-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 248,
+     "alt": "Mãos cortando o caule da Vanda logo acima dos brotos com estilete novo"
+    },
+    {
+     "src": "/guias/orquidea-na-arvore/oar-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 150,
+     "alt": "Mãos pondo o topo da Vanda cortado num saco plástico transparente"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · PLACA",
+    "Placa de cortiça",
+    "Cortiça como placa quase não apodrece.",
+    "Picada dentro do vaso, vira papa e mata a raiz.",
+    "Madeira que apodrece fácil não dura.",
+    "Nogueira solta química que inibe outras plantas.",
+    "Já houve Laelia pumila 17 anos na mesma placa."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Ponta de raiz morrendo?",
+    "1",
+    "O QUE PARECE",
+    "Raiz doente.",
+    "O QUE PODE SER",
+    "Sal acumulado na placa.",
+    "COMO RESOLVER",
+    "Placa boiando 1 hora em água destilada."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/orquidea-na-arvore/oar-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 294,
+     "alt": "Orquídea numa placa de cortiça com pontas de raiz marrons e secas"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Raiz no ar",
+    "01\tRaiz aérea",
+    "02\tSal e água",
+    "03\tOrquídeas de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/orquidea-na-arvore/orquidea-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 116,
+     "alt": "André olhando raízes aéreas de perto"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · RAIZ",
+    "Raiz aérea",
+    "VIVA",
+    "Firme, estala",
+    "MOLHADA",
+    "Fica verde",
+    "O QUE ELA FAZ",
+    "Velame chupa a água",
+    "Clorofila faz fotossíntese",
+    "Gotinha presa depois da rega",
+    "Ponta quebrada quase sempre refaz",
+    "Cuidado",
+    "Raiz morta cinza-marrom e mole",
+    "Enterrada em geral apodrece"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ÁGUA",
+    "ATENÇÃO",
+    "Água de abrandador é cheia de sódio.",
+    "Água mineral pode ter mais sal que a da torneira.",
+    "Sal na placa mata a ponta da raiz.",
+    "FAÇA ASSIM",
+    "Regue até jorrar, e regue de novo.",
+    "Água de chuva tem só 10 a 20 ppm de sal."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro orquídeas",
+    "1",
+    "Vanda",
+    "Raiz enorme no ar.",
+    "2",
+    "Brassavola nodosa",
+    "Perfume forte à noite.",
+    "3",
+    "Angraecum",
+    "Perfume que chama mariposa.",
+    "4",
+    "Baunilha",
+    "Sobe no tronco da árvore.",
+    "CHAVE\tRaiz com ar\tSombra salpicada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/orquidea-na-arvore/oar-var-vanda.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 225,
+     "alt": "Vanda florida com raízes longas soltas no ar"
+    },
+    {
+     "src": "/guias/orquidea-na-arvore/oar-var-brassavola.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 235,
+     "alt": "Brassavola nodosa de flores brancas presa num galho"
+    },
+    {
+     "src": "/guias/orquidea-na-arvore/oar-var-angraecum.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 194,
+     "alt": "Angraecum sesquipedale com flor branca em estrela e espora comprida"
+    },
+    {
+     "src": "/guias/orquidea-na-arvore/oar-var-baunilha.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 257,
+     "alt": "Baunilha trepadeira subindo pelo tronco de uma árvore"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "FOLHA ENRUGADA",
+    "Phalaenopsis com sede.",
+    "BROTO MENOR",
+    "Falta luz ou adubo.",
+    "FOLHA VELHA CAINDO",
+    "Natural após 1 a 3 anos.",
+    "TOPO MURCHO",
+    "Saco plástico transparente.",
+    "DICA DO ANDRÉ",
+    "Confira as folhas por cima e por baixo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "30",
+    "CM",
+    "de espora de néctar tem a Angraecum sesquipedale.",
+    "Darwin deduziu uma mariposa de língua igual.",
+    "E MAIS UMA",
+    "A baunilha é uma orquídea trepadeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Raiz sempre com ar",
+    "Sombra salpicada",
+    "Mude de lugar aos poucos",
+    "Água fresca, nunca gelada",
+    "Adubo fraco, toda semana",
+    "Placa de cortiça",
+    "Gotinha na raiz após a rega",
+    "Placa com sal? Água destilada",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua orquídea agarrar no tronco, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "080\tVOCÊ TEM",
+    "081",
+    "082",
+    "083",
+    "084",
+    "085",
+    "São 80 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 081 ROSAS PERFUMADAS",
+    "Comente PERFUME no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/orquidea-na-arvore/orquidea-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 120,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

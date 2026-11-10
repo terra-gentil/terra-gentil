@@ -1,0 +1,439 @@
+{
+ "codigo": "TG090",
+ "slug": "ervilha-e-feijao",
+ "titulo": "Ervilha e Feijão",
+ "capa": {
+  "src": "/guias/ervilha-e-feijao/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Ervilha e Feijão"
+ },
+ "meta": {
+  "titulo": "Ervilha e feijão: guia grátis de quintal",
+  "descricao": "Como plantar ervilha-torta e feijão-trepador no quintal ou em vaso, de broto, vagem e grão. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG090.pdf",
+  "atualizado": "2026-11-10"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t090",
+    "COLEÇÃO TERRA GENTIL",
+    "ERVILHA",
+    "Ervilha e Feijão",
+    "Vagem, broto e grão no quintal.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervilha-e-feijao/coringa-horta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André com um punhado de vagens colhidas"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Comece pela ervilha-torta: cabe em vaso.",
+    "Feijão-trepador com flor dá mais vagem.",
+    "Aqui tem ervilha, feijão, broto e vagem.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Deixe a ervilha de molho uma noite.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervilha-e-feijao/coringa-horta-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André olhando um pé de ervilha subindo no tutor"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Colha sempre.",
+    "A vagem nova, a cada 2 ou 3 dias.",
+    "COLHER",
+    "Colhendo, o pé não para.",
+    "Ervilha-torta colhida nova."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da ervilha",
+    "06",
+    "CAPÍTULO 1",
+    "Ervilha no vaso",
+    "08",
+    "CAPÍTULO 2",
+    "Feijão na vara",
+    "12",
+    "CAPÍTULO 3",
+    "Broto e grão",
+    "15",
+    "CAPÍTULO 4",
+    "Vagens de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Flor do feijão caindo? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA ERVILHA",
+    "Antes de plantar",
+    "O que ela pede",
+    "SEMENTE",
+    "De molho uma noite",
+    "COMEÇO",
+    "Ervilha-torta",
+    "TUTOR",
+    "Tripé de varas",
+    "REGA",
+    "Na flor e na vagem",
+    "COLHEITA",
+    "Sempre, nova",
+    "CALOR FORTE\tATENÇÃO",
+    "A semente dorme"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Ervilha no vaso",
+    "01\tCerto e errado",
+    "02\tFeijão na vara, passo a passo",
+    "03\tFlor do feijão caindo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervilha-e-feijao/coringa-horta-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 192,
+     "alt": "André cuidando de um vaso de ervilha"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Ervilha-torta\tColhida nova\tEsquecida no pé",
+    "Semear ervilha\tSem calor forte\tNo calorão",
+    "Ervilha no frio\tSemente lisa\tSemente enrugada",
+    "Rega\tFarta na flor\tSeca na vagem",
+    "Semeie em círculo: o tutor entra fácil.",
+    "DICA DO ANDRÉ",
+    "Anã dá de uma vez; trepadeira, a temporada toda."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Feijão na vara",
+    "01\tFeijão na vara, passo a passo",
+    "02\tVagem sem parar",
+    "03\tFlor do feijão caindo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervilha-e-feijao/coringa-horta-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 137,
+     "alt": "André fincando varas na horta"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Feijão-trepador? Faça assim.",
+    "FUNDURA",
+    "3 cm",
+    "VARAS",
+    "A 40 cm",
+    "POR VARA",
+    "2 ou 3 sementes",
+    "1",
+    "FINQUE",
+    "Varas a 40 cm uma da outra.",
+    "2",
+    "SEMEIE",
+    "2 ou 3 sementes, a 3 cm.",
+    "3",
+    "REPITA",
+    "A que falhar, semeie de novo.",
+    "DICA DO ANDRÉ",
+    "Arco de vagem: dois vasos e varas cruzadas."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervilha-e-feijao/erv-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 245,
+     "alt": "Mãos fincando varas de bambu na terra, a 40 cm uma da outra"
+    },
+    {
+     "src": "/guias/ervilha-e-feijao/erv-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 262,
+     "alt": "Mãos pondo 2 ou 3 sementes de feijão no pé de uma vara"
+    },
+    {
+     "src": "/guias/ervilha-e-feijao/erv-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 227,
+     "alt": "Mãos semeando de novo no pé de uma vara onde a semente falhou"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · VAGEM",
+    "Vagem sem parar",
+    "Feijão-trepador com flor ainda dá vagem.",
+    "Colha a vagem nova a cada 2 ou 3 dias.",
+    "Semeie outra leva de anã para revezar.",
+    "Vagem é das que mais rendem no espaço.",
+    "Lablabe: trepadeira de flor lilás perfumada."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Flor do feijão caindo?",
+    "1",
+    "O QUE PARECE",
+    "Flor no chão, pouca vagem.",
+    "O QUE PODE SER",
+    "Calor úmido, vento ou frio de repente.",
+    "COMO RESOLVER",
+    "Proteja do vento e da mudança brusca."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervilha-e-feijao/erv-sintoma-1.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 298,
+     "alt": "Flores de feijão caídas no chão embaixo de um pé de vagem"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Broto e grão",
+    "01\tErvilha na calha",
+    "02\tFeijão seco",
+    "03\tVagens de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervilha-e-feijao/coringa-horta-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 152,
+     "alt": "André colhendo na horta"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CALHA",
+    "Ervilha na calha",
+    "CALHA",
+    "Furada",
+    "TERRA",
+    "Substrato",
+    "O QUE ELA PEDE",
+    "Semente em zigue-zague",
+    "Com 12 cm escorregue tudo para o sulco",
+    "Suporte galhinhos de poda de um metro",
+    "Depois galhos para o composto",
+    "Broto de comer",
+    "Corte com 8 a 12 cm e coma logo",
+    "Ponta belisque com 20 cm"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · GRÃO",
+    "ATENÇÃO",
+    "Feijão seco pede molho e fervura forte.",
+    "Ferva forte 20 minutos antes de amaciar.",
+    "Vale também para o feijão-fava seco.",
+    "FAÇA ASSIM",
+    "Molho de um dia para o outro.",
+    "Fervura forte, depois fogo baixo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro de perto",
+    "1",
+    "Ervilha-torta",
+    "Pequena e cabe em vaso.",
+    "2",
+    "Feijão-lablabe",
+    "Flor lilás perfumada.",
+    "3",
+    "Amendoim",
+    "Terra arenosa, semente a 5 cm.",
+    "4",
+    "Minimilho",
+    "Milho colhido novinho.",
+    "CHAVE\tColha sempre\tVagem nova"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervilha-e-feijao/erv-var-ervilha-torta.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 274,
+     "alt": "Pé de ervilha-torta num vaso, com vagens achatadas"
+    },
+    {
+     "src": "/guias/ervilha-e-feijao/erv-var-lablabe.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 220,
+     "alt": "Feijão-lablabe trepando numa cerca, com flores lilás"
+    },
+    {
+     "src": "/guias/ervilha-e-feijao/erv-var-amendoim.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 230,
+     "alt": "Pé de amendoim arrancado da terra arenosa, com as vagens na raiz"
+    },
+    {
+     "src": "/guias/ervilha-e-feijao/erv-var-minimilho.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 227,
+     "alt": "Espigas de minimilho colhidas novinhas sobre uma mesa"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "FURINHO NA FOLHA",
+    "Parece pior do que é.",
+    "ERVILHA NÃO NASCEU",
+    "No calor forte, ela dorme.",
+    "VAGEM DURA",
+    "Colha a ervilha-torta nova.",
+    "ESPIGA SEM ENCHER",
+    "Água farta no cabelo e no pendão.",
+    "DICA DO ANDRÉ",
+    "Plante milho em bloco: poliniza melhor."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "20",
+    "CM",
+    "e a ponta da ervilha já pode ir para a salada.",
+    "Belisque a ponta: o pé ainda produz mais.",
+    "E MAIS UMA",
+    "O milho é polinizado pelo vento: o pólen cai do pendão na espiga."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Ervilha de molho uma noite",
+    "Ervilha-torta no vaso",
+    "Tripé de varas como tutor",
+    "Feijão a 3 cm, junto da vara",
+    "Vagem colhida a cada 2 ou 3 dias",
+    "Água farta na flor da ervilha",
+    "Feijão seco: molho e fervura",
+    "Milho plantado em bloco",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua ervilha subir no tripé, me conta. E divide a vagem com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "090\tVOCÊ TEM",
+    "091",
+    "092",
+    "093",
+    "094",
+    "095",
+    "São 90 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 091 PEPINO E BERINJELA",
+    "Comente PEPINO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervilha-e-feijao/coringa-horta-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 186,
+     "alt": "Retrato do André na horta"
+    }
+   ]
+  }
+ ]
+}

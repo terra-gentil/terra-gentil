@@ -1,0 +1,439 @@
+{
+ "codigo": "TG072",
+ "slug": "flores-comestiveis",
+ "titulo": "Flores que se Comem",
+ "capa": {
+  "src": "/guias/flores-comestiveis/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Flores que se Comem"
+ },
+ "meta": {
+  "titulo": "Flores que se comem: guia grátis",
+  "descricao": "Como cultivar capuchinha e outras flores comestíveis de semente, com cuidado e salada para o prato. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG072.pdf",
+  "atualizado": "2026-11-10"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t072",
+    "COLEÇÃO TERRA GENTIL",
+    "CAPUCHINHA",
+    "Flores que se Comem",
+    "Flor no jardim e no prato.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-comestiveis/coringa-horta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André colhendo flores na horta"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Tem flor que enfeita e também se come.",
+    "E muitas nascem fácil de semente.",
+    "Aqui tem semente, cuidado e salada.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache um canto de sol para semear.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-comestiveis/coringa-horta-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André olhando um canteiro florido"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Capuchinha no sol, em terra que escoe.",
+    "Sem adubo: terra pobre basta.",
+    "SOL",
+    "Folha, flor e semente verde se comem.",
+    "Gosto apimentado na salada."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da capuchinha",
+    "06",
+    "CAPÍTULO 1",
+    "Sol e terra",
+    "08",
+    "CAPÍTULO 2",
+    "Da semente",
+    "12",
+    "CAPÍTULO 3",
+    "Borragem",
+    "15",
+    "CAPÍTULO 4",
+    "Flores de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Capuchinha com pulgão? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA CAPUCHINHA",
+    "Antes de plantar",
+    "O que ela pede",
+    "LUZ",
+    "Sol",
+    "TERRA",
+    "Pobre, que escoe",
+    "ADUBO",
+    "Não precisa",
+    "FLOR",
+    "12 a 16 semanas",
+    "CRESCE",
+    "De 1 a 3 m",
+    "TREPADEIRA\tATENÇÃO",
+    "Dê cerca ou treliça"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Sol e terra",
+    "01\tCerto e errado",
+    "02\tSemear capuchinha, passo a passo",
+    "03\tCapuchinha com pulgão"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-comestiveis/coringa-horta-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 192,
+     "alt": "André afofando a terra de um canteiro de flores"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Capuchinha\tTerra pobre\tMuito adubo",
+    "Borragem\tTerra pobre\tTerra rica",
+    "Centáurea\tSem adubo\tAdubada",
+    "Malva-rosa\tNo chão\tEm vaso",
+    "Calêndula aguenta qualquer terra no sol.",
+    "DICA DO ANDRÉ",
+    "Malva-rosa no fundo do canteiro: passa de 3 m."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Da semente",
+    "01\tSemear capuchinha, passo a passo",
+    "02\tSementes rápidas",
+    "03\tCapuchinha com pulgão"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-comestiveis/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André separando sementes para semear"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Semear capuchinha? Faça assim.",
+    "FURO",
+    "De 1 a 2 cm",
+    "SEMENTES",
+    "Duas por furo",
+    "NASCE",
+    "Em até 2 semanas",
+    "1",
+    "FURE",
+    "Um furo de 1 a 2 cm.",
+    "2",
+    "SEMEIE",
+    "Duas sementes no furo.",
+    "3",
+    "DESBASTE",
+    "Nasceram as duas? Tire a menor.",
+    "DICA DO ANDRÉ",
+    "A semente parece uma ervilhinha enrugada."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-comestiveis/fco-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 231,
+     "alt": "Mãos fazendo um furo raso na terra com o dedo"
+    },
+    {
+     "src": "/guias/flores-comestiveis/fco-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 209,
+     "alt": "Mãos pondo duas sementes de capuchinha no furo"
+    },
+    {
+     "src": "/guias/flores-comestiveis/fco-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 139,
+     "alt": "Mãos tirando a muda menor de capuchinha"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · SEMENTE",
+    "Sementes rápidas",
+    "Tagetes nasce em 7 dias e flora em 8 a 12 semanas.",
+    "Calêndula nasce em 7 dias e flora em 10 a 12.",
+    "Borragem nasce fácil de semente.",
+    "Amor-perfeito: divida a touceira em 2 a 4.",
+    "Capuchinha também pega de estaca na areia."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Capuchinha cheia de pulgão?",
+    "1",
+    "O QUE PARECE",
+    "Planta perdida.",
+    "O QUE PODE SER",
+    "Pulgão adora capuchinha.",
+    "COMO RESOLVER",
+    "Sem susto: ela faz bem às vizinhas."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-comestiveis/fco-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 206,
+     "alt": "Folhas redondas de capuchinha com pulgões pretos"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Borragem",
+    "01\tBorragem",
+    "02\tCuidado com o tagetes",
+    "03\tFlores de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-comestiveis/lavanda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 184,
+     "alt": "André no canteiro com flores azuis"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · BORRAGEM",
+    "Borragem",
+    "LUZ",
+    "Sol pleno",
+    "TERRA",
+    "Comum, que escorra",
+    "O QUE ELA DÁ",
+    "Folha nova gosto leve de pepino",
+    "Flor azul na salada e na bebida",
+    "Gelo flor no cubinho",
+    "Abelha vem de longe procurar",
+    "Cuidado",
+    "Semente se espalha sozinha",
+    "Terra rica faz ela espichar"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · CUIDADO",
+    "ATENÇÃO",
+    "A folha do tagetes pode piorar alergia de pele.",
+    "Isso vale para quem já tem alergia.",
+    "O tagetes não está entre as flores do prato.",
+    "FAÇA ASSIM",
+    "Quem tem alergia, mexa com cuidado.",
+    "No canteiro, ele ajuda a espantar mosca-branca."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro flores",
+    "1",
+    "Amor-perfeito",
+    "O bravo vai na salada e no bolo.",
+    "2",
+    "Calêndula",
+    "Pétala vai na salada.",
+    "3",
+    "Centáurea-azul",
+    "Doce e picante de cravo.",
+    "4",
+    "Capuchinha",
+    "Vermelha, laranja ou amarela.",
+    "CHAVE\tFácil de semente\tFlorescem muito"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-comestiveis/fco-var-amor-perfeito.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 280,
+     "alt": "Amor-perfeito-bravo de flor roxa, amarela e branca"
+    },
+    {
+     "src": "/guias/flores-comestiveis/fco-var-calendula.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 288,
+     "alt": "Calêndula de flores laranja"
+    },
+    {
+     "src": "/guias/flores-comestiveis/fco-var-centaurea.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 296,
+     "alt": "Centáurea-azul florida"
+    },
+    {
+     "src": "/guias/flores-comestiveis/fco-var-capuchinha.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 286,
+     "alt": "Capuchinha com flores vermelhas, laranja e amarelas"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "BORRAGEM ESPICHOU",
+    "Terra rica demais.",
+    "CENTÁUREA PAROU",
+    "Corte acima de um nó.",
+    "CALÊNDULA COM MOSQUINHA",
+    "É a mosquinha-das-flores.",
+    "BORRAGEM EM TODO LADO",
+    "Não deixe sementear.",
+    "DICA DO ANDRÉ",
+    "Semente de capuchinha no vinagre substitui alcaparra."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "3",
+    "M",
+    "é quanto a capuchinha comum pode crescer.",
+    "E ela cresce rápido.",
+    "E MAIS UMA",
+    "A borragem é chamada de \"pão de abelha\"."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Capuchinha no sol",
+    "Nada de adubo",
+    "Furo de 1 a 2 cm",
+    "Duas sementes, tire a menor",
+    "Pulgão na capuchinha, sem susto",
+    "Borragem em terra pobre",
+    "Flor de borragem no gelo",
+    "Tagetes longe de quem tem alergia",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua capuchinha florir, me conta. E divide umas sementes com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "072\tVOCÊ TEM",
+    "073",
+    "074",
+    "075",
+    "076",
+    "077",
+    "São 72 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 073 PLANTAS DE BANHEIRO",
+    "Comente AVENCA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-comestiveis/girassol-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 166,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

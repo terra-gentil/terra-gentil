@@ -1,0 +1,439 @@
+{
+ "codigo": "TG082",
+ "slug": "alocasia-e-filodendro",
+ "titulo": "Alocásia e Filodendro",
+ "capa": {
+  "src": "/guias/alocasia-e-filodendro/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Alocásia e Filodendro"
+ },
+ "meta": {
+  "titulo": "Alocásia e filodendro: guia grátis",
+  "descricao": "Como cuidar de alocásia e filodendro dentro de casa, com luz, rega, muda de estaca e outras aráceas. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG082.pdf",
+  "atualizado": "2026-11-10"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t082",
+    "COLEÇÃO TERRA GENTIL",
+    "ALOCASIA",
+    "Alocásia e Filodendro",
+    "Folhas grandes que enfeitam a casa.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/alocasia-e-filodendro/costela-de-adao-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 122,
+     "alt": "André com um vaso de folhagem grande na sala"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "A alocasia-amazônica nem é da Amazônia.",
+    "E o filodendro vira muda de estaca.",
+    "Aqui tem luz, rega, muda e outras aráceas.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache um canto de meia-sombra na casa.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/alocasia-e-filodendro/costela-de-adao-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 142,
+     "alt": "André olhando uma folhagem grande perto da janela"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Meia-sombra e ar úmido.",
+    "Terra rica que escorra bem.",
+    "FRIO",
+    "Abaixo de uns 7 graus, ela dorme.",
+    "Rega farta no calor."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da alocasia",
+    "06",
+    "CAPÍTULO 1",
+    "Luz e rega",
+    "08",
+    "CAPÍTULO 2",
+    "Mudas de graça",
+    "12",
+    "CAPÍTULO 3",
+    "Guaimbê",
+    "15",
+    "CAPÍTULO 4",
+    "Aráceas de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Caládio sumiu do vaso? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA ALOCASIA",
+    "Antes de plantar",
+    "O que ela pede",
+    "LUZ",
+    "Meia-sombra",
+    "TERRA",
+    "Rica, que escorra",
+    "REGA",
+    "Bastante no calor",
+    "ADUBO",
+    "A cada 2 ou 3 semanas",
+    "AR",
+    "Úmido",
+    "FRIO FORTE\tATENÇÃO",
+    "Abaixo de 7 graus, dorme"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Luz e rega",
+    "01\tCerto e errado",
+    "02\tMuda de filodendro, passo a passo",
+    "03\tCaládio sumiu"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/alocasia-e-filodendro/costela-de-adao-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 146,
+     "alt": "André regando uma folhagem no vaso"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Guaimbê\tLuz forte\tCanto escuro",
+    "Alocasia\tAr úmido\tAr seco",
+    "Aglaonema\tVaso em 3 ou 4 anos\tTodo ano",
+    "Cordato\tCom luva\tMão nua",
+    "Aglaonema quer mais água no calor.",
+    "DICA DO ANDRÉ",
+    "Arácea de tubérculo gosta de vaso de barro."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Mudas de graça",
+    "01\tMuda de filodendro, passo a passo",
+    "02\tMais mudas",
+    "03\tCaládio sumiu"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/alocasia-e-filodendro/costela-de-adao-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 126,
+     "alt": "André separando ramos para fazer muda"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Muda de filodendro? Faça assim.",
+    "MUDA",
+    "Estaca ou ponta",
+    "LUGAR",
+    "Quente e úmido",
+    "OU",
+    "Alporque",
+    "1",
+    "CORTE",
+    "Estaca de caule ou de ponta.",
+    "2",
+    "PLANTE",
+    "Num vaso com terra.",
+    "3",
+    "GUARDE",
+    "Em lugar quente e úmido.",
+    "DICA DO ANDRÉ",
+    "Filodendro solta raiz pelo caule: pega fácil."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/alocasia-e-filodendro/alo-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 171,
+     "alt": "Mãos cortando uma estaca de caule de filodendro"
+    },
+    {
+     "src": "/guias/alocasia-e-filodendro/alo-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 231,
+     "alt": "Mãos plantando a estaca de filodendro num vaso"
+    },
+    {
+     "src": "/guias/alocasia-e-filodendro/alo-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 273,
+     "alt": "Mãos pondo o vaso da estaca num canto quente e úmido"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MUDA",
+    "Mais mudas",
+    "Alocasia: divida o rizoma ou separe filhotes.",
+    "Faça isso no começo da fase de crescer.",
+    "Aglaonema: caule de 5 a 8 cm deitado na terra.",
+    "Ou um broto da base com 3 ou 4 folhas.",
+    "Singônio pega rápido com raiz aérea."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Caládio sumiu do vaso?",
+    "1",
+    "O QUE PARECE",
+    "Planta morta.",
+    "O QUE PODE SER",
+    "Batata dormindo na terra.",
+    "COMO RESOLVER",
+    "Não deixe a batata secar de vez."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/alocasia-e-filodendro/alo-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 242,
+     "alt": "Vaso de caládio com as folhas murchas e caídas sobre a terra"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Guaimbê",
+    "01\tGuaimbê",
+    "02\tMexa com luva",
+    "03\tAráceas de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/alocasia-e-filodendro/costela-de-adao-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 157,
+     "alt": "André ao lado de uma folhagem recortada"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · GUAIMBÊ",
+    "Guaimbê",
+    "LUZ",
+    "Forte, perto da janela",
+    "NA NATUREZA",
+    "Até em sol pleno",
+    "O QUE ELE TEM",
+    "Muda por semente",
+    "Folha recortada quando adulto",
+    "Raiz grossa e forte",
+    "Fruto de macaco e morcego",
+    "Cuidado",
+    "Vaso grande renove só a terra de cima",
+    "Raiz de cima não pode ser ferida"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · LUVA",
+    "ATENÇÃO",
+    "Alguns filodendros-cordatos dão alergia na pele.",
+    "Costela-de-adão é tóxica para cão e gato.",
+    "Lírio-da-paz também está nessa lista.",
+    "FAÇA ASSIM",
+    "Mexa no filodendro de luva.",
+    "Não ache que planta de vaso é segura."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro aráceas",
+    "1",
+    "Alocasia-zebra",
+    "Cabo listrado de zebra.",
+    "2",
+    "Alocasia-cobre",
+    "Folha de metal polido.",
+    "3",
+    "Prince of Orange",
+    "Folha nova laranja.",
+    "4",
+    "Moonlight",
+    "Folha nova amarela.",
+    "CHAVE\tMeia-sombra\tAr úmido"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/alocasia-e-filodendro/alo-var-zebra.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 141,
+     "alt": "Alocasia-zebra com cabos listrados de zebra num vaso"
+    },
+    {
+     "src": "/guias/alocasia-e-filodendro/alo-var-cobre.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 252,
+     "alt": "Alocasia-cobre de folha brilhante como metal polido"
+    },
+    {
+     "src": "/guias/alocasia-e-filodendro/alo-var-prince.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 259,
+     "alt": "Filodendro Prince of Orange com folha nova laranja"
+    },
+    {
+     "src": "/guias/alocasia-e-filodendro/alo-var-moonlight.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 180,
+     "alt": "Filodendro Moonlight com folha nova amarela-limão"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "FOLHA PAROU NO FRIO",
+    "Dorme abaixo de 7 graus.",
+    "AGLAONEMA FICOU VERDE",
+    "Algumas só são pintadas jovens.",
+    "CALÁDIO DE OUTRA COR",
+    "A cor certa vem em meses.",
+    "TUBÉRCULO MURCHO",
+    "Folha nova gasta a reserva.",
+    "DICA DO ANDRÉ",
+    "Areia embaixo do tubérculo ajuda a não apodrecer."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "4",
+    "M",
+    "pode chegar a ter a folha de uma alocasia de Bornéu.",
+    "Ela costuma ter uns 2 metros de comprimento.",
+    "E MAIS UMA",
+    "A flor do guaimbê esquenta ao anoitecer e cheira a canela."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Alocasia em meia-sombra",
+    "Ar úmido e rega farta no calor",
+    "Adubo a cada 2 ou 3 semanas",
+    "Estaca de filodendro no quente",
+    "Guaimbê perto da janela clara",
+    "Aglaonema: vaso a cada 3 ou 4 anos",
+    "Batata de caládio sem secar",
+    "Luva no filodendro-cordato",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua alocasia soltar folha nova, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "082\tVOCÊ TEM",
+    "083",
+    "084",
+    "085",
+    "086",
+    "087",
+    "São 82 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 083 LÍRIOS DE JARDIM",
+    "Comente LÍRIO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/alocasia-e-filodendro/costela-de-adao-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 135,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

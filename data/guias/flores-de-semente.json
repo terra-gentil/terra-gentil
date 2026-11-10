@@ -1,0 +1,439 @@
+{
+ "codigo": "TG093",
+ "slug": "flores-de-semente",
+ "titulo": "Flores de Semente",
+ "capa": {
+  "src": "/guias/flores-de-semente/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Flores de Semente"
+ },
+ "meta": {
+  "titulo": "Flores de semente: guia grátis de canteiro",
+  "descricao": "Como cultivar cosmos, zínia, celósia e boca-de-leão de semente, com muda, cuidado e flor de perto. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG093.pdf",
+  "atualizado": "2026-11-10"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t093",
+    "COLEÇÃO TERRA GENTIL",
+    "COSMOS",
+    "Flores de Semente",
+    "Cosmos, zínia e boca-de-leão.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-de-semente/girassol-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 132,
+     "alt": "André com um canteiro de flores"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Cosmos, zínia e celósia saem de semente.",
+    "A semente de zínia nasce em 7 a 10 dias.",
+    "Aqui tem semente, muda, cuidado e flor de perto.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache um cantinho de sol para o cosmos.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-de-semente/girassol-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 139,
+     "alt": "André olhando um canteiro de flores"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Sol e terra que escoe.",
+    "Cosmos, tagetes e perpétua agradecem.",
+    "MURCHA",
+    "Tire a flor murcha: ela continua florindo.",
+    "Semente miúda, coberta de leve."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do cosmos",
+    "06",
+    "CAPÍTULO 1",
+    "Semear e nascer",
+    "08",
+    "CAPÍTULO 2",
+    "Muda e semente",
+    "12",
+    "CAPÍTULO 3",
+    "Cuidado no canteiro",
+    "15",
+    "CAPÍTULO 4",
+    "Flores de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Muda tombou? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO COSMOS",
+    "Antes de semear",
+    "O que ele pede",
+    "LUZ",
+    "Sol",
+    "TERRA",
+    "Úmida, que escoe",
+    "ALTURA",
+    "Até 2 m",
+    "FLOR",
+    "Rosa, roxa ou branca",
+    "CORTE",
+    "Flor murcha fora",
+    "DE SEMENTE\tATENÇÃO",
+    "Terra úmida, sem encharcar"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Semear e nascer",
+    "01\tCerto e errado",
+    "02\tMuda de beijinho, passo a passo",
+    "03\tMuda que tomba"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-de-semente/coringa-horta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André semeando num canteiro"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Boca-de-leão\tQuase à mostra\tEnterrada funda",
+    "Flor-de-fumo\tSem cobrir\tCoberta de terra",
+    "Crista-de-galo\tMuda cedo\tMexer na raiz",
+    "Beijinho\tTerra úmida\tEncharcada",
+    "Boca-de-leão precisa de bastante calor para germinar.",
+    "DICA DO ANDRÉ",
+    "Semente miúda pede só um véu de terra."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Muda e semente",
+    "01\tMuda de beijinho, passo a passo",
+    "02\tQuanto tempo leva",
+    "03\tMuda que tomba"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-de-semente/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André separando pontas para fazer muda"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Muda de beijinho? Faça assim.",
+    "ESTACA",
+    "Ponta de 8 a 10 cm",
+    "TERRA",
+    "Turfa e areia grossa",
+    "SOL",
+    "Nada de sol forte",
+    "1",
+    "CORTE",
+    "Uma ponta de 8 a 10 cm.",
+    "2",
+    "PLANTE",
+    "Na turfa com areia grossa.",
+    "3",
+    "PROTEJA",
+    "Longe do sol forte.",
+    "DICA DO ANDRÉ",
+    "O caule quebra fácil: pegue com jeito."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-de-semente/fsm-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 181,
+     "alt": "Mãos cortando uma ponta de beijinho de 8 a 10 cm"
+    },
+    {
+     "src": "/guias/flores-de-semente/fsm-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 190,
+     "alt": "Mãos plantando a estaca de beijinho na turfa com areia grossa"
+    },
+    {
+     "src": "/guias/flores-de-semente/fsm-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 153,
+     "alt": "Mãos pondo o vasinho de beijinho num canto sem sol forte"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · SEMENTE",
+    "Quanto tempo leva",
+    "Zínia: a semente nasce em 7 a 10 dias.",
+    "Cravina: a semente nasce em 10 a 14 dias.",
+    "Cravina anual: flor em 16 semanas.",
+    "Crista-de-galo: flor 12 a 14 semanas após semear.",
+    "Beijinho de semente: 12 a 16 semanas até a flor."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Muda de beijinho tombou?",
+    "1",
+    "O QUE PARECE",
+    "Mudinha caída.",
+    "O QUE PODE SER",
+    "Fungo, ou sol forte demais.",
+    "COMO RESOLVER",
+    "Tire do sol forte; terra úmida, sem encharcar."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-de-semente/fsm-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 189,
+     "alt": "Mudas de beijinho tombadas num vaso"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Cuidado no canteiro",
+    "01\tCelósia",
+    "02\tSemente que cruza",
+    "03\tFlores de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-de-semente/girassol-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 178,
+     "alt": "André cuidando de um canteiro de flores"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CANTEIRO",
+    "Celósia",
+    "LUZ",
+    "Sol, abrigado",
+    "TERRA",
+    "Fértil, que escoe",
+    "O QUE ELA PEDE",
+    "Semente é como ela começa",
+    "Muda vai cedo para o lugar",
+    "Raiz não gosta de ser mexida",
+    "Nome crista-de-galo",
+    "Cuidado",
+    "Plumosa espigas fofas como pluma",
+    "Cores rosa, amarela, vermelha ou âmbar"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · SEMENTE",
+    "ATENÇÃO",
+    "Cravo e cravina cruzam muito fácil.",
+    "A semente colhida em casa dá flor variada.",
+    "Tagetes também cruza, e costuma agradar.",
+    "FAÇA ASSIM",
+    "Quer igual? Faça estaca de cravo.",
+    "Cravina também pega fácil de estaca."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro flores",
+    "1",
+    "Boca-de-leão",
+    "Abre e fecha quando você aperta.",
+    "2",
+    "Perpétua",
+    "Boa para corte e para secar.",
+    "3",
+    "Alisso",
+    "Florzinha branca perfumada.",
+    "4",
+    "Nigela",
+    "Cápsula bonita para arranjo.",
+    "CHAVE\tFlor murcha\tFora"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-de-semente/fsm-var-boca-de-leao.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 270,
+     "alt": "Boca-de-leão florida em espigas"
+    },
+    {
+     "src": "/guias/flores-de-semente/fsm-var-perpetua.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 239,
+     "alt": "Perpétua de flores redondinhas"
+    },
+    {
+     "src": "/guias/flores-de-semente/fsm-var-alisso.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 285,
+     "alt": "Alisso de florzinha branca na borda do canteiro"
+    },
+    {
+     "src": "/guias/flores-de-semente/fsm-var-nigela.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 279,
+     "alt": "Nigela com flor e cápsula de semente"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "BOCA-DE-LEÃO PAROU",
+    "Tire a espiga murcha.",
+    "ALISSO PAROU",
+    "Tire as flores secas.",
+    "BEIJINHO COMPRIDO",
+    "Renove todo ano.",
+    "NIGELA ACABOU",
+    "Semeie de novo a cada 2 semanas.",
+    "DICA DO ANDRÉ",
+    "Semente de beijinho: saquinho de papel na cápsula."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "14",
+    "DIAS",
+    "para a semente de gazânia nascer.",
+    "E ela já floresce na mesma estação.",
+    "E MAIS UMA",
+    "A cápsula do beijinho estoura e joga a semente a metros."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Cosmos no sol, em terra que escoe",
+    "Semente de boca-de-leão quase sem cobrir",
+    "Flor-de-fumo sem terra por cima",
+    "Estaca de beijinho de 8 a 10 cm",
+    "Crista-de-galo transplantada cedo",
+    "Espiga murcha da boca-de-leão fora",
+    "Nigela semeada a cada 2 semanas",
+    "Saquinho de papel na cápsula do beijinho",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se o seu cosmos encher de flor, me conta. E divide a semente com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "093\tVOCÊ TEM",
+    "094",
+    "095",
+    "096",
+    "097",
+    "098",
+    "São 93 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 094 ALPORQUIA E ESTACA",
+    "Comente ALPORQUIA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-de-semente/girassol-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 97,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

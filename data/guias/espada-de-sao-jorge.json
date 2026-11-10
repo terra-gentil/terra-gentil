@@ -1,0 +1,439 @@
+{
+ "codigo": "TG074",
+ "slug": "espada-de-sao-jorge",
+ "titulo": "Espada-de-são-jorge",
+ "capa": {
+  "src": "/guias/espada-de-sao-jorge/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Espada-de-são-jorge"
+ },
+ "meta": {
+  "titulo": "Espada-de-são-jorge: guia grátis de cuidado",
+  "descricao": "Como cuidar da espada-de-são-jorge, zamioculca, iúca e palma, com sol, rega e muda de um pedaço de folha. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG074.pdf",
+  "atualizado": "2026-11-10"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t074",
+    "COLEÇÃO TERRA GENTIL",
+    "ESPADA",
+    "Espada-de-são-jorge",
+    "Aguenta sol e sombra, sem drama.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/espada-de-sao-jorge/espada-de-sao-jorge-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 111,
+     "alt": "André com um vaso de espada-de-são-jorge"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "A espada aguenta sol e sombra.",
+    "E vira muda de um pedaço de folha.",
+    "Aqui tem espada, zamioculca, iúca e palma.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Veja se a terra do vaso já secou um pouco.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/espada-de-sao-jorge/espada-de-sao-jorge-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 147,
+     "alt": "André olhando uma espada-de-são-jorge na varanda"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Molhe bem e deixe secar um pouco.",
+    "No frio, quase nada de água.",
+    "SEM ENCHARCAR",
+    "A espada vai em quase qualquer terra.",
+    "Desde que ela não encharque."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da espada",
+    "06",
+    "CAPÍTULO 1",
+    "Rega e luz",
+    "08",
+    "CAPÍTULO 2",
+    "Mudas de graça",
+    "12",
+    "CAPÍTULO 3",
+    "Palma no vaso",
+    "15",
+    "CAPÍTULO 4",
+    "Folhagens de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Espada perdeu a borda amarela? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA ESPADA",
+    "Antes de plantar",
+    "O que ela pede",
+    "LUZ",
+    "Sol pleno ou sombra",
+    "TERRA",
+    "Quase qualquer uma",
+    "REGA",
+    "Molhe e deixe secar",
+    "FRIO",
+    "Quase nada de água",
+    "VASO",
+    "A cada 2 ou 3 anos",
+    "ENCHARCAR\tATENÇÃO",
+    "A terra não pode encharcar"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Rega e luz",
+    "01\tCerto e errado",
+    "02\tMuda de espada, passo a passo",
+    "03\tBorda amarela sumindo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/espada-de-sao-jorge/espada-de-sao-jorge-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 128,
+     "alt": "André regando uma espada-de-são-jorge"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Espada no frio\tQuase seca\tRega farta",
+    "Dracena no frio\tMenos água\tMuita água",
+    "Iúca\tSol pleno\tTerra encharcada",
+    "Palma no vaso\tPouca água\tRega farta",
+    "A espada só troca de vaso quando a raiz enche tudo.",
+    "DICA DO ANDRÉ",
+    "Iúca no canteiro: pedra no fundo do buraco."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Mudas de graça",
+    "01\tMuda de espada, passo a passo",
+    "02\tOutras mudas fáceis",
+    "03\tBorda amarela sumindo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/espada-de-sao-jorge/espada-de-sao-jorge-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 116,
+     "alt": "André separando folhas de espada para fazer muda"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Muda de folha de espada? Faça assim.",
+    "CORTE",
+    "Na horizontal",
+    "TERRA",
+    "Só úmida",
+    "LUZ",
+    "Clara, sem sol direto",
+    "1",
+    "CORTE",
+    "A folha em pedaços, na horizontal.",
+    "2",
+    "PLANTE",
+    "Com a ponta de baixo na terra.",
+    "3",
+    "CUIDE",
+    "Terra só úmida e sem cobrir.",
+    "DICA DO ANDRÉ",
+    "Espada dividida: vaso pequeno, no quente, pouca rega."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/espada-de-sao-jorge/esp-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 147,
+     "alt": "Mãos cortando uma folha de espada em pedaços na horizontal"
+    },
+    {
+     "src": "/guias/espada-de-sao-jorge/esp-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 219,
+     "alt": "Mãos plantando os pedaços de folha com a ponta de baixo na terra"
+    },
+    {
+     "src": "/guias/espada-de-sao-jorge/esp-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 152,
+     "alt": "Mãos pondo o vaso de estacas de espada num canto claro sem sol direto"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MUDA",
+    "Outras mudas fáceis",
+    "Zamioculca: uma folhinha basta para virar muda.",
+    "Dracena: corte o caule em pedaços de 1 ou 2 nós.",
+    "Abra cada pedaço ao meio: rende mais mudas.",
+    "Iúca: pedaços de tronco de 10 cm, enterrados.",
+    "Palma: a raquete cortada seca 2 a 3 dias."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Borda amarela sumindo?",
+    "1",
+    "O QUE PARECE",
+    "Planta doente.",
+    "O QUE PODE SER",
+    "Muda feita de folha volta verde.",
+    "COMO RESOLVER",
+    "Para manter o amarelo, divida."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/espada-de-sao-jorge/esp-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 295,
+     "alt": "Muda de espada toda verde ao lado da planta-mãe de borda amarela"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Palma no vaso",
+    "01\tA palma pede",
+    "02\tEspinho da palma",
+    "03\tFolhagens de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/espada-de-sao-jorge/cacto-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 126,
+     "alt": "André com um vaso de palma no sol"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · PALMA",
+    "A palma pede",
+    "SOL",
+    "Pleno",
+    "RAIZ",
+    "Em 2 a 6 semanas",
+    "O QUE ELA PEDE",
+    "Terra metade areia grossa",
+    "Água pouca",
+    "Muda pela raquete",
+    "Corte cicatrizado antes de plantar",
+    "Cuidado",
+    "Semente até 2 anos para nascer",
+    "Planta boa em 2 a 3 anos"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ESPINHO",
+    "ATENÇÃO",
+    "Além dos espinhos grandes, tem pelinhos farpados.",
+    "Na orelha-de-coelho, a cerda amarela tem farpa.",
+    "A raquete nova tem espinho mais mole.",
+    "FAÇA ASSIM",
+    "Luva grossa e colarinho de papel no corte.",
+    "Tirar espinho: faca afiada passada no fogo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro folhagens",
+    "1",
+    "Zamioculca",
+    "Folha dividida como pena.",
+    "2",
+    "Dracena",
+    "Folha fina de borda vermelha.",
+    "3",
+    "Cordiline",
+    "Folha em lança vermelha.",
+    "4",
+    "Iúca-elefante",
+    "Tufo de folha no alto.",
+    "CHAVE\tTerra que escoe\tRega moderada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/espada-de-sao-jorge/esp-var-zamioculca.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 221,
+     "alt": "Zamioculca de folhas divididas como pena num vaso"
+    },
+    {
+     "src": "/guias/espada-de-sao-jorge/esp-var-dracena.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 238,
+     "alt": "Dracena-de-madagascar de folha fina com borda vermelha"
+    },
+    {
+     "src": "/guias/espada-de-sao-jorge/esp-var-cordiline.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 144,
+     "alt": "Cordiline vermelha de folha em lança"
+    },
+    {
+     "src": "/guias/espada-de-sao-jorge/esp-var-iuca.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 283,
+     "alt": "Iúca-elefante com tufos de folha no alto do tronco"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "DRACENA SEM FLOR",
+    "Normal na de madagascar.",
+    "HASTE SECA NA IÚCA",
+    "Tire depois que secar.",
+    "IÚCA DE PÉ MOLHADO",
+    "Pedra no fundo do buraco.",
+    "ESTACA PERDE ÁGUA",
+    "Corte a folha pela metade.",
+    "DICA DO ANDRÉ",
+    "Cordiline: vaso novo a cada 2 ou 3 anos."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "1,2",
+    "M",
+    "chega a espada de folha redonda (S. cylindrica).",
+    "A folha dela é redonda, como um cano.",
+    "E MAIS UMA",
+    "Em inglês, a espada é a \"língua-de-sogra\"."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Deixe a terra secar um pouco",
+    "Quase nada de água no frio",
+    "Terra que não encharque",
+    "Pedaço de folha na terra",
+    "Borda amarela? Divida",
+    "Folhinha de zamioculca",
+    "Palma com areia grossa",
+    "Haste seca da iúca fora",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se o pedaço de folha da sua espada pegar, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "074\tVOCÊ TEM",
+    "075",
+    "076",
+    "077",
+    "078",
+    "079",
+    "São 74 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 075 MINHOCÁRIO",
+    "Comente MINHOCA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/espada-de-sao-jorge/espada-de-sao-jorge-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 199,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

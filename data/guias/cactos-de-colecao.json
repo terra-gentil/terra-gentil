@@ -1,0 +1,439 @@
+{
+ "codigo": "TG077",
+ "slug": "cactos-de-colecao",
+ "titulo": "Cactos de Coleção",
+ "capa": {
+  "src": "/guias/cactos-de-colecao/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Cactos de Coleção"
+ },
+ "meta": {
+  "titulo": "Cactos de coleção: guia grátis de cuidado",
+  "descricao": "Como cuidar de cactos de deserto e de floresta, com rega certa, muda de filhote, enxerto e muita cor. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG077.pdf",
+  "atualizado": "2026-11-10"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t077",
+    "COLEÇÃO TERRA GENTIL",
+    "MANDACARU",
+    "Cactos de Coleção",
+    "Cacto bonito, de muda e de enxerto.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cactos-de-colecao/cacto-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 126,
+     "alt": "André com um vaso de cacto na varanda"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Tem cacto de deserto e de floresta.",
+    "E um filhote vira cacto novo, de graça.",
+    "Aqui tem rega, muda, enxerto e cor.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Veja se o seu cacto cabe no vaso.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cactos-de-colecao/cacto-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 156,
+     "alt": "André olhando os cactos perto da janela"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Regue a terra, não o cacto.",
+    "No frio, terra seca.",
+    "VASO",
+    "Só um pouquinho maior.",
+    "Mudou de vaso? Espere uns dias."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do cacto",
+    "06",
+    "CAPÍTULO 1",
+    "Rega e vaso",
+    "08",
+    "CAPÍTULO 2",
+    "Mudas de cacto",
+    "12",
+    "CAPÍTULO 3",
+    "Enxerto e cor",
+    "15",
+    "CAPÍTULO 4",
+    "Cactos de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Flor que não murcha nunca? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO CACTO",
+    "Antes de plantar",
+    "O que ele pede",
+    "TERRA",
+    "Arenosa",
+    "REGA",
+    "Na terra",
+    "FRIO",
+    "Terra seca",
+    "CALOR",
+    "Rega, secando entre uma e outra",
+    "VASO",
+    "Só um pouco maior",
+    "TROCOU DE VASO\tATENÇÃO",
+    "Espere alguns dias para regar"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Rega e vaso",
+    "01\tCerto e errado",
+    "02\tEstaca, passo a passo",
+    "03\tFlor que não murcha"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cactos-de-colecao/cacto-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 262,
+     "alt": "André regando a terra de um cacto no vaso"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Rega\tNa terra\tNos espinhos",
+    "Vaso\tPouco maior\tBem grande",
+    "Frio\tTerra seca\tRega farta",
+    "Estaca\tSeca antes\tFresca na terra",
+    "Cacto jovem troca de vaso todo ano; adulto, a cada 2 ou 3.",
+    "DICA DO ANDRÉ",
+    "Mudou de vaso? Espere uns dias para regar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Mudas de cacto",
+    "01\tEstaca, passo a passo",
+    "02\tFilhotes e sementes",
+    "03\tFlor que não murcha"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cactos-de-colecao/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André separando pedaços de cacto para fazer muda"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Estaca de cacto? Faça assim.",
+    "PROTEÇÃO",
+    "Luva grossa e pano",
+    "SECAGEM",
+    "3 a 6 semanas",
+    "CEREUS",
+    "Raiz em 1 a 12 meses",
+    "1",
+    "CORTE",
+    "Pano na coluna, corte o topo.",
+    "2",
+    "SEQUE",
+    "Deixe o corte cicatrizar.",
+    "3",
+    "PLANTE",
+    "Em terra arenosa.",
+    "DICA DO ANDRÉ",
+    "Corte maior demora mais para cicatrizar."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cactos-de-colecao/ccl-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 228,
+     "alt": "Mãos com luva grossa e pano cortando o topo de um cacto colunar"
+    },
+    {
+     "src": "/guias/cactos-de-colecao/ccl-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 151,
+     "alt": "Mãos deixando a estaca de cacto secar num lugar arejado"
+    },
+    {
+     "src": "/guias/cactos-de-colecao/ccl-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 163,
+     "alt": "Mãos plantando a estaca seca em terra arenosa"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MUDA",
+    "Filhotes e sementes",
+    "Cacto-amendoim solta filhote só de encostar.",
+    "Filhote de mamilária: corte, seque e plante.",
+    "Semente na areia; com 1 a 2 cm, vai ao vaso.",
+    "Parodia quase não solta filhote: vá de semente.",
+    "Semente rende muita muda em pouco espaço."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Cacto com flor que dura meses?",
+    "1",
+    "O QUE PARECE",
+    "Um cacto florido.",
+    "O QUE PODE SER",
+    "Flor seca tingida, espetada.",
+    "COMO RESOLVER",
+    "Não compre: ela fura o cacto."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cactos-de-colecao/ccl-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 220,
+     "alt": "Cacto com uma flor seca tingida espetada no topo"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Enxerto e cor",
+    "01\tCacto colorido",
+    "02\tEnxerto rápido",
+    "03\tCactos de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cactos-de-colecao/cacto-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 144,
+     "alt": "André com cactos coloridos na bancada"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · COR",
+    "Cacto colorido",
+    "LUZ",
+    "Boa, sem sol que queime",
+    "VIVE",
+    "Enxertado num verde",
+    "O QUE ELE TEM",
+    "Cor rosa, laranja ou amarela",
+    "Clorofila nenhuma na parte colorida",
+    "Base um cacto verde de 15 a 20 cm",
+    "Corte da base a 3 cm do topo",
+    "Cuidado",
+    "Sol forte queima a parte colorida",
+    "Na rega molhe a terra, não o cacto"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ENXERTO",
+    "ATENÇÃO",
+    "A seiva seca em 15 a 30 segundos.",
+    "Seca, ela não cola mais.",
+    "O de cima leva um corte reto na base.",
+    "FAÇA ASSIM",
+    "Corte os dois e encoste rápido.",
+    "O de cima vai bem em cima da base."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro cactos",
+    "1",
+    "Cacto-estrela",
+    "Ouriço sem espinho, com pintinhas.",
+    "2",
+    "Coroa-de-frade",
+    "Chapéu de lã de onde sai a flor.",
+    "3",
+    "Rabo-de-rato",
+    "Ramos que caem, flor magenta.",
+    "4",
+    "Mamilária-bocasana",
+    "Um pompom de espinho branco.",
+    "CHAVE\tTerra seca no frio\tRega na terra"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cactos-de-colecao/ccl-var-estrela.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 184,
+     "alt": "Cacto-estrela sem espinho, com oito gomos e pintinhas brancas"
+    },
+    {
+     "src": "/guias/cactos-de-colecao/ccl-var-coroa-de-frade.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 189,
+     "alt": "Coroa-de-frade com o chapéu de lã no alto"
+    },
+    {
+     "src": "/guias/cactos-de-colecao/ccl-var-rabo-de-rato.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 222,
+     "alt": "Cacto-rabo-de-rato com ramos caindo do vaso e flor magenta"
+    },
+    {
+     "src": "/guias/cactos-de-colecao/ccl-var-bocasana.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 232,
+     "alt": "Mamilária-bocasana coberta de espinho branco e pelo sedoso"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "SEM BOTÃO",
+    "Amendoim em lugar quente no frio.",
+    "SEM FLOR",
+    "Cadeira-de-sogra pequena ou sem sol.",
+    "ESCAMA SOLTA",
+    "Cacto-estrela: não mexa nelas.",
+    "PELUDO SEM FLOR",
+    "Cabeça-de-velho em casa quase não floresce.",
+    "DICA DO ANDRÉ",
+    "Cacto-estrela: um pouco de calcário ajuda a raiz nova."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "1,2",
+    "M",
+    "cresce o cereus em um ano.",
+    "Uma estaca só já vira planta bonita.",
+    "E MAIS UMA",
+    "Pitaya é fruta de cacto que sobe como trepadeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Regue a terra, não o cacto",
+    "Terra seca no frio",
+    "Vaso só um pouco maior",
+    "Trocou de vaso? Espere",
+    "Estaca seca antes de plantar",
+    "Luva e pano na estaca",
+    "Enxerto rápido, antes da seiva secar",
+    "Fuja da flor espetada",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se o seu cacto soltar um filhote, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "077\tVOCÊ TEM",
+    "078",
+    "079",
+    "080",
+    "081",
+    "082",
+    "São 77 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 078 SUCULENTAS COLORIDAS",
+    "Comente ECHEVERIA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cactos-de-colecao/cacto-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 105,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

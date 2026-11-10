@@ -1,0 +1,439 @@
+{
+ "codigo": "TG083",
+ "slug": "lirios-de-jardim",
+ "titulo": "Lírios de Jardim",
+ "capa": {
+  "src": "/guias/lirios-de-jardim/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Lírios de Jardim"
+ },
+ "meta": {
+  "titulo": "Lírios de jardim: guia grátis de flor",
+  "descricao": "Como cultivar lírios de jardim e hemerocale, de bulbo, vaso ou semente, com o cuidado de cada um deles. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG083.pdf",
+  "atualizado": "2026-11-10"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t083",
+    "COLEÇÃO TERRA GENTIL",
+    "LÍRIO",
+    "Lírios de Jardim",
+    "Flor bonita no quintal.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/lirios-de-jardim/lirio-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 111,
+     "alt": "André com um vaso de lírio florido"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Tem lírio de verdade e lírio só no nome.",
+    "O hemerocale ganhou o nome pela flor.",
+    "Aqui tem bulbo, vaso, semente e cuidado.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache um canto de sol no seu quintal.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/lirios-de-jardim/lirio-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 139,
+     "alt": "André olhando um canteiro de lírios"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Terra que escoe bem.",
+    "Agapanto e hemerocale gostam de sol.",
+    "SOMBRA",
+    "Clívia vai melhor na meia-sombra.",
+    "Amarílis: pouca água até brotar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do lírio",
+    "06",
+    "CAPÍTULO 1",
+    "Luz e terra",
+    "08",
+    "CAPÍTULO 2",
+    "Lírio em vaso",
+    "12",
+    "CAPÍTULO 3",
+    "Bulbo que volta",
+    "15",
+    "CAPÍTULO 4",
+    "Lírios de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Borda da dália comida? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO LÍRIO",
+    "Antes de plantar",
+    "O que ele pede",
+    "LUZ",
+    "Mais luz aos poucos",
+    "VASO",
+    "Um bulbo por vaso",
+    "INÍCIO",
+    "No escuro até enraizar",
+    "HASTE",
+    "Uma por bulbo",
+    "MUDA",
+    "Escama ou bulbinho",
+    "PERFUME\tATENÇÃO",
+    "Oriental tem, asiático quase não"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Luz e terra",
+    "01\tCerto e errado",
+    "02\tLírio em vaso, passo a passo",
+    "03\tBorda comida"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/lirios-de-jardim/lirio-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 99,
+     "alt": "André regando um canteiro de lírios"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Agapanto\tSol pleno\tSombra",
+    "Hemerocale\tTerra úmida\tTerra seca",
+    "Amarílis sem broto\tPouca água\tRega farta",
+    "Lírio brotou\tLuz aos poucos\tSol de uma vez",
+    "Clívia vai melhor na meia-sombra.",
+    "DICA DO ANDRÉ",
+    "No calor, muda de agapanto pode florir em 12 meses."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Lírio em vaso",
+    "01\tLírio em vaso, passo a passo",
+    "02\tBulbo e semente",
+    "03\tBorda comida"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/lirios-de-jardim/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André separando bulbos para plantar"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Lírio em vaso? Faça assim.",
+    "VASO",
+    "Um bulbo por vaso",
+    "INÍCIO",
+    "No escuro",
+    "BROTOU",
+    "Meia-sombra",
+    "1",
+    "PLANTE",
+    "Um bulbo em cada vaso.",
+    "2",
+    "REGUE",
+    "E deixe no escuro até a raiz pegar.",
+    "3",
+    "CLAREIE",
+    "Meia-sombra, depois mais luz.",
+    "DICA DO ANDRÉ",
+    "Alguns lírios soltam raiz no caule, logo acima do bulbo."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/lirios-de-jardim/lir-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 237,
+     "alt": "Mãos pondo um bulbo de lírio num vaso com terra"
+    },
+    {
+     "src": "/guias/lirios-de-jardim/lir-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 264,
+     "alt": "Mãos regando o vaso do bulbo recém plantado"
+    },
+    {
+     "src": "/guias/lirios-de-jardim/lir-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 171,
+     "alt": "Mãos levando o vaso de lírio brotado para a meia-sombra"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MUDA",
+    "Bulbo e semente",
+    "Lírio: escama do bulbo ou bulbinho do caule.",
+    "Amarílis: bulbinhos do lado da mãe.",
+    "Semente de amarílis: uma por vaso.",
+    "Alstroeméria: semente fresca na terra.",
+    "Alstroeméria com nome: só por divisão."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Borda da dália comida?",
+    "1",
+    "O QUE PARECE",
+    "Doença na flor.",
+    "O QUE PODE SER",
+    "Tesourinha.",
+    "COMO RESOLVER",
+    "Vaso com palha num bambu."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/lirios-de-jardim/lir-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 184,
+     "alt": "Flor de dália com a borda das pétalas comida"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Bulbo que volta",
+    "01\tAmarílis de novo",
+    "02\tSeiva e bicho",
+    "03\tLírios de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/lirios-de-jardim/coringa-trocar-vaso-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 179,
+     "alt": "André com um vaso de amarílis"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · BULBO",
+    "Amarílis de novo",
+    "VASO",
+    "13 cm, um bulbo",
+    "BULBO",
+    "Metade para fora",
+    "O QUE ELA PEDE",
+    "Água pouca até brotar",
+    "Depois rega farta",
+    "Adubo líquido fraco a cada 10 dias",
+    "Muda bulbinhos do lado",
+    "Cuidado",
+    "Depois da flor menos água",
+    "Folha amarela pare de regar"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · SEIVA",
+    "ATENÇÃO",
+    "Amarílis, clívia e crino fazem mal se comidos.",
+    "A seiva da clívia e do crino irrita a pele.",
+    "Dália e agapanto pedem cautela com gato.",
+    "FAÇA ASSIM",
+    "Bulbo e flor fora do alcance do bicho.",
+    "Comer a folha é o jeito mais comum de intoxicar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro lírios",
+    "1",
+    "Agapanto",
+    "Também é o lírio-africano.",
+    "2",
+    "Hemerocale",
+    "Cada flor dura um dia.",
+    "3",
+    "Amarílis",
+    "Tem flor de 20 cm.",
+    "4",
+    "Clívia",
+    "Tem até de flor amarela.",
+    "CHAVE\tSol ou meia-sombra\tTerra que escoe"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/lirios-de-jardim/lir-var-agapanto.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 278,
+     "alt": "Agapanto de flor azul no canteiro"
+    },
+    {
+     "src": "/guias/lirios-de-jardim/lir-var-hemerocale.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 131,
+     "alt": "Hemerocale de flor laranja aberta"
+    },
+    {
+     "src": "/guias/lirios-de-jardim/lir-var-amarilis.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 276,
+     "alt": "Amarílis de flor vermelha grande"
+    },
+    {
+     "src": "/guias/lirios-de-jardim/lir-var-clivia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 183,
+     "alt": "Clívia de flor laranja na meia-sombra"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "PLAQUINHA NA CLÍVIA",
+    "É cochonilha.",
+    "FLOR SUMIU",
+    "Hemerocale: uma flor por dia.",
+    "LÍRIO-DA-CHUVA SEM FLOR",
+    "Seca, depois rega farta.",
+    "TOUCEIRA APERTADA",
+    "Lírio-do-vento: divida.",
+    "DICA DO ANDRÉ",
+    "Agapanto de semente pode sair diferente da mãe."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "2",
+    "ANOS",
+    "leva o filhote de lírio-do-amazonas para florir.",
+    "O de semente leva de 3 a 4.",
+    "E MAIS UMA",
+    "O lírio-de-madona dá de 5 a 20 flores numa haste."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Agapanto no sol pleno",
+    "Clívia na meia-sombra",
+    "Um bulbo de lírio por vaso",
+    "Lírio no escuro até enraizar",
+    "Amarílis: pouca água até brotar",
+    "Menos água depois da flor",
+    "Semente de alstroeméria fresca",
+    "Armadilha de palha na dália",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua amarílis florir de novo, me conta. E divide um bulbinho com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "083\tVOCÊ TEM",
+    "084",
+    "085",
+    "086",
+    "087",
+    "088",
+    "São 83 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 084 ÁRVORE NA CALÇADA",
+    "Comente IPÊ no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/lirios-de-jardim/lirio-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 176,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,439 @@
+{
+ "codigo": "TG088",
+ "slug": "batata-e-inhame",
+ "titulo": "Batata e Inhame",
+ "capa": {
+  "src": "/guias/batata-e-inhame/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Batata e Inhame"
+ },
+ "meta": {
+  "titulo": "Batata e inhame: guia grátis de plantio",
+  "descricao": "Como plantar batata, batata-doce, inhame e taioba, até em saco de terra, com muda, colheita e história. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG088.pdf",
+  "atualizado": "2026-11-10"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t088",
+    "COLEÇÃO TERRA GENTIL",
+    "BATATA",
+    "Batata e Inhame",
+    "Batata, batata-doce, inhame e taioba.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/batata-e-inhame/coringa-horta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André na horta do quintal"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Batata, batata-doce, inhame e taioba.",
+    "Batata dá até num saco de terra.",
+    "Aqui tem plantio, muda, colheita e história.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Deixe uma batata brotar num lugar claro.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/batata-e-inhame/coringa-horta-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André olhando a horta"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Brote a batata antes.",
+    "Brotada num lugar claro, ela dá colheita mais cedo.",
+    "BROTO",
+    "Plante com broto de 2 cm.",
+    "Olhos para cima, na caixa de ovo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da batata",
+    "06",
+    "CAPÍTULO 1",
+    "Batata: o básico",
+    "08",
+    "CAPÍTULO 2",
+    "Plantar e multiplicar",
+    "12",
+    "CAPÍTULO 3",
+    "Colher e guardar",
+    "15",
+    "CAPÍTULO 4",
+    "Outros da terra",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Folha de inhame manchada? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA BATATA",
+    "Antes de plantar",
+    "O que ela pede",
+    "ESPAÇO",
+    "30 a 40 cm",
+    "VASO",
+    "Um pé por 30 cm",
+    "REGA",
+    "Úmida, sem encharcar",
+    "BROTO",
+    "2 cm antes",
+    "TERRA",
+    "Chegue no pé",
+    "DE BATATA-SEMENTE\tATENÇÃO",
+    "Coberta, não esverdeia"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Batata: o básico",
+    "01\tCerto e errado",
+    "02\tBatata no balde, passo a passo",
+    "03\tFolha de inhame manchada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/batata-e-inhame/coringa-solo-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 215,
+     "alt": "André mexendo na terra"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Batata-semente\tCertificada\tSem garantia",
+    "Antes de plantar\tBrotar no claro\tSem brotar",
+    "Batata crescendo\tTerra no pé\tBatata à mostra",
+    "Na colheita\tGarfo ao lado\tGarfo no pé",
+    "Na terra: covas de 10 cm, a cada 30 cm, broto para cima.",
+    "DICA DO ANDRÉ",
+    "Pouco espaço? A batata precoce é a melhor."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Plantar e multiplicar",
+    "01\tBatata no balde, passo a passo",
+    "02\tInhame e taioba",
+    "03\tFolha de inhame manchada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/batata-e-inhame/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André plantando no quintal"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Batata no balde? Faça assim.",
+    "BALDE",
+    "Furo no fundo",
+    "BATATAS",
+    "Até cinco",
+    "TERRA",
+    "Úmida, sem encharcar",
+    "1",
+    "FUNDO",
+    "Um terço de terra no balde.",
+    "2",
+    "BATATAS",
+    "Até cinco, com 15 cm de terra.",
+    "3",
+    "COMPLETE",
+    "Ponha terra conforme cresce.",
+    "DICA DO ANDRÉ",
+    "Cave com a mão e tire só o que vai usar."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/batata-e-inhame/bat-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 147,
+     "alt": "Mãos enchendo um terço do balde com terra"
+    },
+    {
+     "src": "/guias/batata-e-inhame/bat-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 171,
+     "alt": "Mãos pondo batatas brotadas dentro do balde"
+    },
+    {
+     "src": "/guias/batata-e-inhame/bat-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 259,
+     "alt": "Mãos completando com terra em volta dos brotos de batata"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MUDA",
+    "Inhame e taioba",
+    "Inhame: plante o filhote, o tubérculo pequeno.",
+    "Ou a cabeça: o topo com um pedaço do talo.",
+    "Taioba: filhote, pedaço do tubérculo ou do talo.",
+    "Nos dois, o pedaço com talo rende mais.",
+    "Pedem calor, umidade e terra rica."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Folha de inhame manchada?",
+    "1",
+    "O QUE PARECE",
+    "Manchas claras em pena nas nervuras.",
+    "O QUE PODE SER",
+    "Vírus do mosaico, levado por pulgão.",
+    "COMO RESOLVER",
+    "Não tem cura: tire a planta e replante muda sadia."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/batata-e-inhame/bat-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 236,
+     "alt": "Folha de inhame com manchas claras ao longo das nervuras"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Colher e guardar",
+    "01\tHora de colher",
+    "02\tÁgua e requeima",
+    "03\tOutros da terra"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/batata-e-inhame/coringa-horta-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 192,
+     "alt": "André colhendo na horta"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · COLHEITA",
+    "Hora de colher",
+    "BATATA",
+    "Depois da flor",
+    "INHAME",
+    "16 a 24 semanas",
+    "QUANDO COLHER",
+    "Batata quando a rama começar a murchar",
+    "Precoce olhe com 10 a 12 semanas",
+    "Taioba de 9 a 12 meses depois do plantio",
+    "Batata-doce quando a rama amarelar",
+    "Cuidado",
+    "Para guardar seque a batata umas horas",
+    "Batata-doce cure a casca uns dias no quente"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "A requeima da batata causou a grande fome da Irlanda, em 1845.",
+    "O nome do fungo quer dizer \"destruidor de plantas\".",
+    "O inhame ama água, mas não aguenta água parada.",
+    "FAÇA ASSIM",
+    "Na roça, faça valeta para a água correr.",
+    "No balde, terra úmida e furo no fundo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro da terra",
+    "1",
+    "Batata-doce",
+    "Folha e broto também se comem.",
+    "2",
+    "Cebola",
+    "Sol pleno e terra rica.",
+    "3",
+    "Alho",
+    "Branco, rosa ou roxo.",
+    "4",
+    "Gengibre",
+    "Pedaço do rizoma em terra solta.",
+    "CHAVE\tTerra rica\tQue escorra bem"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/batata-e-inhame/bat-var-batata-doce.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 257,
+     "alt": "Rama de batata-doce com batatas recém-colhidas"
+    },
+    {
+     "src": "/guias/batata-e-inhame/bat-var-cebola.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 190,
+     "alt": "Cebolas com a casca seca sobre a mesa"
+    },
+    {
+     "src": "/guias/batata-e-inhame/bat-var-alho.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 183,
+     "alt": "Cabeças de alho branco, rosa e roxo"
+    },
+    {
+     "src": "/guias/batata-e-inhame/bat-var-gengibre.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 284,
+     "alt": "Pedaços de gengibre brotando na terra solta"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "CEBOLA FRACA",
+    "Terra ácida: calcário antes.",
+    "MOSCA NA CEBOLA",
+    "Tela de 0,8 mm em arcos.",
+    "BATATA-DOCE",
+    "Plante atravessando um papelão.",
+    "ALHO SEM CABEÇA",
+    "Ele precisa de um tempo de frio.",
+    "DICA DO ANDRÉ",
+    "Rama de graça: deixe uma batata-doce brotar no quente."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "10",
+    "MIL",
+    "anos, e até mais, que o inhame é plantado na Ásia, antes até do arroz.",
+    "É a planta cultivada mais antiga do mundo.",
+    "E MAIS UMA",
+    "O inhame chegou às Américas nos navios negreiros, como comida da viagem."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Batata brotando num lugar claro",
+    "Broto de 2 cm, olhos para cima",
+    "Balde com furo e um terço de terra",
+    "Terra no pé até 10 cm da ponta",
+    "Inhame sem água parada",
+    "Cebola em terra corrigida",
+    "Batata colhida depois da flor",
+    "Batata seca antes de guardar",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua batata der um balde cheio, me conta. E divide uma batata brotada com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "088\tVOCÊ TEM",
+    "089",
+    "090",
+    "091",
+    "092",
+    "093",
+    "São 88 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 089 BETERRABA E ACELGA",
+    "Comente BETERRABA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/batata-e-inhame/coringa-horta-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 137,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

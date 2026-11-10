@@ -1,0 +1,439 @@
+{
+ "codigo": "TG099",
+ "slug": "orquidea-no-dia-a-dia",
+ "titulo": "Orquídea no Dia a Dia",
+ "capa": {
+  "src": "/guias/orquidea-no-dia-a-dia/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Orquídea no Dia a Dia"
+ },
+ "meta": {
+  "titulo": "Orquídea no dia a dia: guia grátis de rotina",
+  "descricao": "Como cuidar da orquídea na rotina, acertando a rega e a luz, com adubo, vaso e socorro quando algo falha. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG099.pdf",
+  "atualizado": "2026-11-10"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t099",
+    "COLEÇÃO TERRA GENTIL",
+    "ROTINA",
+    "Orquídea no Dia a Dia",
+    "Rega, luz, adubo e vaso.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/orquidea-no-dia-a-dia/orquidea-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 103,
+     "alt": "André com um vaso de orquídea florida"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Orquídea pede rotina, não mistério.",
+    "Acerte primeiro a rega e a luz.",
+    "Aqui tem rega, luz, adubo, vaso e socorro.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Olhe a cor da folha da sua orquídea.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/orquidea-no-dia-a-dia/orquidea-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 138,
+     "alt": "André olhando as folhas de uma orquídea"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Regue quando o substrato secar.",
+    "Na pia, até a água escorrer pelos furos.",
+    "DEDO",
+    "Enfie o dedo uns centímetros antes.",
+    "E sinta o peso do vaso."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da Phalaenopsis",
+    "06",
+    "CAPÍTULO 1",
+    "Rega e luz",
+    "08",
+    "CAPÍTULO 2",
+    "Mãos na rega",
+    "12",
+    "CAPÍTULO 3",
+    "Adubo e vaso",
+    "15",
+    "CAPÍTULO 4",
+    "Orquídeas de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Orquídea com cara de seca? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA PHALAENOPSIS",
+    "Antes de comprar",
+    "O que ela pede",
+    "LUZ",
+    "Janela clara",
+    "TERRA",
+    "Que drene bem",
+    "REGA",
+    "Quando secar",
+    "UMIDADE",
+    "40% a 50%",
+    "ADUBO",
+    "Bem pouco",
+    "NA LOJA\tATENÇÃO",
+    "Folha nova com faixa clara"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Rega e luz",
+    "01\tCerto e errado",
+    "02\tRega na pia, passo a passo",
+    "03\tOrquídea com cara de seca"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/orquidea-no-dia-a-dia/orquidea-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 116,
+     "alt": "André levando uma orquídea para perto da janela"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Quando regar\tSubstrato seco\tRegra dos 200 ml",
+    "Onde regar\tNa pia\tÁgua no miolo",
+    "Onde morar\tJanela clara\tLonge da luz",
+    "Ar da casa\t40% a 50% de umidade\tAr-condicionado",
+    "Mude de lugar aos poucos: folha da sombra queima no sol.",
+    "DICA DO ANDRÉ",
+    "Ela gosta de água, só não de raiz encharcada."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Mãos na rega",
+    "01\tRega na pia, passo a passo",
+    "02\tCada uma no seu ritmo",
+    "03\tOrquídea com cara de seca"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/orquidea-no-dia-a-dia/coringa-regar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 182,
+     "alt": "André regando uma orquídea na pia"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Rega da orquídea? Faça assim.",
+    "QUANDO",
+    "Substrato seco e claro",
+    "ONDE",
+    "Na pia, com chuveirinho",
+    "QUANTO",
+    "Até escorrer nos furos",
+    "1",
+    "OLHE",
+    "Dedo no substrato e peso do vaso.",
+    "2",
+    "MOLHE",
+    "Folhas e todo o substrato.",
+    "3",
+    "ESCORRA",
+    "Deixe escorrer antes de voltar.",
+    "DICA DO ANDRÉ",
+    "Poupe as flores e não deixe água no miolo."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/orquidea-no-dia-a-dia/odd-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 300,
+     "alt": "Mãos enfiando o dedo no substrato de uma orquídea"
+    },
+    {
+     "src": "/guias/orquidea-no-dia-a-dia/odd-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 165,
+     "alt": "Mãos molhando uma orquídea com o chuveirinho da pia"
+    },
+    {
+     "src": "/guias/orquidea-no-dia-a-dia/odd-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 170,
+     "alt": "Mãos segurando o vaso da orquídea enquanto a água escorre pelos furos"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · REGA",
+    "Cada uma no seu ritmo",
+    "Com pseudobulbo ou folha grossa: aguenta esquecer.",
+    "Sem reserva de água: rega mais constante.",
+    "Micro-orquídea: não deixe secar de todo.",
+    "Viagem de uma semana: úmida num saco plástico.",
+    "Na dormência: borrifo forte a cada 5 a 10 dias."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Orquídea com cara de seca?",
+    "1",
+    "O QUE PARECE",
+    "Falta de água.",
+    "O QUE PODE SER",
+    "Água demais, que matou a raiz.",
+    "COMO RESOLVER",
+    "Tire do vaso e olhe: raiz marrom e molhada é morta."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/orquidea-no-dia-a-dia/odd-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 261,
+     "alt": "Orquídea murcha fora do vaso com raízes marrons e moles"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Adubo e vaso",
+    "01\tAdubo na medida",
+    "02\tSubstrato com cuidado",
+    "03\tOrquídeas de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/orquidea-no-dia-a-dia/orquidea-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 120,
+     "alt": "André olhando o vaso de uma orquídea de perto"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · ADUBO",
+    "Adubo na medida",
+    "LUZ",
+    "Janela clara",
+    "TERRA",
+    "Que drene bem",
+    "O QUE ELA PEDE",
+    "Adubo bem menos que planta de casa",
+    "Em descanso nada de adubo",
+    "Vaso novo uma vez por ano, para começar",
+    "Troca antes de precisar, com ela crescendo",
+    "Cuidado",
+    "Esfagno troque mais ou menos todo ano",
+    "Caco no fundo só sem tampar o furo"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · SUBSTRATO",
+    "ATENÇÃO",
+    "Esfagno junta sal do adubo.",
+    "O pó da perlita irrita pulmão e garganta.",
+    "Xaxim vem de mata ameaçada: não use.",
+    "FAÇA ASSIM",
+    "Molhe o saco de perlita antes de usar.",
+    "Teste substrato novo em poucas plantas."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro orquídeas",
+    "1",
+    "Phalaenopsis",
+    "Das que mais aguentam sombra.",
+    "2",
+    "Mini-cattleya",
+    "De 15 a 30 cm, boa para casa.",
+    "3",
+    "Miltônia",
+    "Nativa, com cheiro de limão.",
+    "4",
+    "Micro-orquídea",
+    "Não aguenta passar sede.",
+    "CHAVE\tLuz certa\tFolha verde-média"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/orquidea-no-dia-a-dia/odd-var-phalaenopsis.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 125,
+     "alt": "Phalaenopsis branca florida num vaso"
+    },
+    {
+     "src": "/guias/orquidea-no-dia-a-dia/odd-var-mini-cattleya.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 106,
+     "alt": "Mini-cattleya baixinha florida num vaso pequeno"
+    },
+    {
+     "src": "/guias/orquidea-no-dia-a-dia/odd-var-miltonia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 230,
+     "alt": "Miltônia florida num vaso à meia-sombra"
+    },
+    {
+     "src": "/guias/orquidea-no-dia-a-dia/odd-var-micro-orquidea.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 175,
+     "alt": "Micro-orquídea pequenina num vasinho"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "PONTA SECA",
+    "Sal da água de rega.",
+    "RAIZ NOVA MORREU",
+    "Água demais ou sal.",
+    "FOLHA QUEIMADA",
+    "Mudou de lugar de uma vez.",
+    "FOLHA NOVA SEM FAIXA",
+    "Pode estar em choque.",
+    "DICA DO ANDRÉ",
+    "Raiz viva e planta murcha? Banho de 30 minutos."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "95",
+    "%",
+    "da luz, no máximo, passa por um vidro limpo.",
+    "Sujo, com tela ou vidro duplo, passa bem menos.",
+    "E MAIS UMA",
+    "Muitas orquídeas fazem fotossíntese até pela raiz."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Rega quando o substrato clarear",
+    "Na pia, até escorrer pelos furos",
+    "Nada de água no miolo das folhas",
+    "Morar perto de janela clara",
+    "Mudança de lugar aos poucos",
+    "Nada de adubo no descanso",
+    "Longe do ar-condicionado",
+    "Na compra, raiz de ponta verde",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua orquídea soltar um broto maior que o anterior, me conta. E ensina a rega para quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "099\tVOCÊ TEM",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "São 99 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 100 JARDIM GENTIL",
+    "Comente GENTIL no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/orquidea-no-dia-a-dia/orquidea-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 95,
+     "alt": "Retrato do André com suas orquídeas"
+    }
+   ]
+  }
+ ]
+}

@@ -107,6 +107,16 @@ const LIVROS = {
     ['rae-var-bourbon', 'bourbon rose', `Full fragrant Bourbon rose on a shrub in a garden; ${M} stands on the ground in front of it`, true],
     ['rae-var-banksia', 'banksia rose', 'Yellow banksia rose in clusters climbing a sunny wall', false],
   ],
+  '111': [
+    ['pul-gesto-1', 'aphids on rose', `${H} squashing aphids between the fingers on a rose shoot`, false],
+    ['pul-gesto-2', 'aphids on stem', `${H} running sticky tape, sticky side out, along a stem covered with black aphids`, false],
+    ['pul-gesto-3', 'kale seedlings', `${H} covering young kale seedlings with fine mesh raised away from the leaves; ${M} sits on the soil at the edge of the bed`, true],
+    ['pul-sintoma-1', 'mealybugs on roots', 'Roots of a potted succulent covered with white cotton-like mealybugs', false],
+    ['pul-var-farinhenta', 'mealybugs on fern', 'White waxy mealybugs clustered on a fern frond', false],
+    ['pul-var-escama', 'scale insects', 'Small brown wax plaques of scale insects stuck on a plant stem', false],
+    ['pul-var-pulgao-preto', 'black aphids on fava', `Black aphids gathered at the tip of a fava bean plant; ${M} stands on the soil beside the plant`, true],
+    ['pul-var-sirfidea', 'hoverfly', 'Hoverfly resembling a wasp resting on a flower', false],
+  ],
 };
 for (const [n, lista] of Object.entries(LIVROS)) {
   const fotos = lista.map(([id, especie, cena, mascote]) => ({

@@ -1,0 +1,561 @@
+{
+  "livro": "TG 111",
+  "titulo": "Pulgão e Cochonilha",
+  "serie": "#4A3A2A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "111",
+        "COLEÇÃO TERRA GENTIL",
+        "PULGÃO",
+        "Pulgão e Cochonilha",
+        "Praga pequena, jeito certo.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-compostagem-B-1.jpg",
+          "alt": "André olhando um broto de perto atrás de pulgão"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "x23-029",
+        "i36-288",
+        "h35-092"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Pulgão pouco se esmaga entre os dedos.",
+        "Muito bicho vira comida de outro bicho.",
+        "Aqui tem pulgão, cochonilha e lagarta.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Olhe o broto da sua planta de perto.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 111 PULGÃO E COCHONILHA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-compostagem-C-1.jpg",
+          "alt": "André examinando as folhas de uma planta com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "i36-288",
+        "w31-065"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Esmague o pulgão entre os dedos.",
+        "Se for pouco, você dá conta.",
+        "FITA",
+        "Fita adesiva, cola para fora, no ramo.",
+        "Serve para pulgão preto no caule.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 111 PULGÃO E COCHONILHA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da praga",
+        "06",
+        "CAPÍTULO 1",
+        "Pulgão",
+        "08",
+        "CAPÍTULO 2",
+        "Cochonilha",
+        "12",
+        "CAPÍTULO 3",
+        "Lagarta e fungo",
+        "15",
+        "CAPÍTULO 4",
+        "Pragas de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Algodão nas raízes? Vá para a página 11.",
+        "Na próxima: a ficha da praga",
+        "→",
+        "TG 111 PULGÃO E COCHONILHA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "i36-288",
+        "q3-52",
+        "q3-55",
+        "h35-306",
+        "h35-317",
+        "q3-56"
+      ],
+      "textos": [
+        "FICHA DA PRAGA",
+        "Antes de agir",
+        "O que olhar",
+        "PULGÃO",
+        "Pouco: esmague",
+        "FARINHENTA",
+        "Bicho branco de cera",
+        "ESCAMA",
+        "Plaquinha marrom parada",
+        "LAGARTA",
+        "Tela na planta",
+        "OÍDIO",
+        "Pó branco, seca",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Escama antiga: melhor descartar",
+        "Na próxima: pulgão",
+        "→",
+        "TG 111 PULGÃO E COCHONILHA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Pulgão",
+        "01",
+        "Certo e errado",
+        "02",
+        "Pulgão e fita, passo a passo",
+        "03",
+        "Algodão nas raízes",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 111 PULGÃO E COCHONILHA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-compostagem-F-1.jpg",
+          "alt": "André olhando folhas de perto atrás de praga"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "h35-316",
+        "h35-130",
+        "g32-229",
+        "g32-186",
+        "h35-317",
+        "i36-288"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Míldio",
+        "Folha seca",
+        "Folha molhada",
+        "Oídio",
+        "Tirar a folha",
+        "Deixar a folha",
+        "Pulgão na fava",
+        "Quebrar a ponta",
+        "Deixar a ponta",
+        "Tela",
+        "Longe da folha",
+        "Colada na folha",
+        "Míldio vem com tempo úmido; oídio, com seca.",
+        "DICA DO ANDRÉ",
+        "Pulgão pouco: esmague entre os dedos.",
+        "Na próxima: pulgão e fita",
+        "→",
+        "TG 111 PULGÃO E COCHONILHA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Cochonilha",
+        "01",
+        "Pulgão e fita, passo a passo",
+        "02",
+        "Cochonilha de perto",
+        "03",
+        "Algodão nas raízes",
+        "Na próxima: pulgão e fita, passo a passo",
+        "→",
+        "TG 111 PULGÃO E COCHONILHA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-compostagem-G-1.jpg",
+          "alt": "André tirando pulgão de um broto com cuidado"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "i36-288",
+        "w31-065",
+        "g32-186",
+        "s28-168"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Pulgão? Faça assim.",
+        "DEDOS",
+        "Pouco pulgão: esmague",
+        "FITA",
+        "Cola para fora",
+        "TELA",
+        "Cobre a couve",
+        "1",
+        "ESMAGUE",
+        "O pulgão entre os dedos.",
+        "2",
+        "PASSE",
+        "Fita adesiva pelo ramo preto.",
+        "3",
+        "COBRA",
+        "Couve nova com tela de 5 mm.",
+        "DICA DO ANDRÉ",
+        "Tela longe das folhas.",
+        "Na próxima: cochonilha de perto",
+        "→",
+        "TG 111 PULGÃO E COCHONILHA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "pul-gesto-1.jpg",
+          "alt": "Mãos esmagando pulgões entre os dedos num broto de roseira"
+        },
+        {
+          "src": "pul-gesto-2.jpg",
+          "alt": "Mãos passando fita adesiva com a cola para fora por um ramo cheio de pulgão preto"
+        },
+        {
+          "src": "pul-gesto-3.jpg",
+          "alt": "Mãos cobrindo mudas de couve com tela fina afastada das folhas"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "q3-52",
+        "q3-55",
+        "b2-56",
+        "b2-58",
+        "q3-56"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · COCHONILHA",
+        "Cochonilha de perto",
+        "Farinhenta: bicho branco de cera, em grupo.",
+        "Escama: plaquinhas marrons paradas no caule.",
+        "Na raiz: algodão. Jogue a terra e lave o vaso.",
+        "Carapaça: isole a planta e olhe as vizinhas.",
+        "Escama muito antiga: melhor descartar a planta.",
+        "Na próxima: algodão nas raízes",
+        "→",
+        "TG 111 PULGÃO E COCHONILHA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "b2-56",
+        "b2-58"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Algodão nas raízes?",
+        "1",
+        "O QUE PARECE",
+        "Raiz coberta de algodão.",
+        "O QUE PODE SER",
+        "Cochonilha na raiz.",
+        "COMO RESOLVER",
+        "Terra fora, vaso lavado, terra nova.",
+        "Na próxima: lagarta e tela",
+        "→",
+        "TG 111 PULGÃO E COCHONILHA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "pul-sintoma-1.jpg",
+          "alt": "Raízes de uma suculenta cobertas de cochonilhas brancas parecendo algodão"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Lagarta e fungo",
+        "01",
+        "Lagarta e tela",
+        "02",
+        "Oídio e míldio",
+        "03",
+        "Pragas de perto",
+        "Na próxima: lagarta e tela",
+        "→",
+        "TG 111 PULGÃO E COCHONILHA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-compostagem-H-1.jpg",
+          "alt": "André cobrindo as mudas de couve com tela"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "h35-306",
+        "g32-237",
+        "g32-488",
+        "g32-317",
+        "g32-496",
+        "g32-489",
+        "h35-319",
+        "g32-500"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CUIDADO",
+        "Lagarta e tela",
+        "LAGARTA",
+        "Tela impede ovo",
+        "COUVE",
+        "Tela de 5 mm",
+        "O QUE ELA PEDE",
+        "Lagarta-rosca",
+        " tela e revirar a terra",
+        "Minadora",
+        " tire a folha com sinal",
+        "Oídio",
+        " espaço, poda e água",
+        "Míldio",
+        " regue de manhã, ar circulando",
+        "Bom saber",
+        "Ferrugem",
+        " menos nitrogênio, limpe restos",
+        "Pulgão-lanígero",
+        " pode o galho fino ou escove",
+        "Na próxima: oídio e míldio",
+        "→",
+        "TG 111 PULGÃO E COCHONILHA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "h35-306",
+        "g32-494",
+        "n10-78",
+        "g32-186",
+        "h35-319"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Borboleta pode pôr ovo na couve.",
+        "Nitrogênio demais favorece ferrugem no alho-poró.",
+        "Cochonilha mata a planta devagar.",
+        "FAÇA ASSIM",
+        "Tela de 5 mm afastada das folhas.",
+        "Limpe os restos do canteiro.",
+        "Na próxima: pragas de perto",
+        "→",
+        "TG 111 PULGÃO E COCHONILHA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "q3-52",
+        "q3-55",
+        "g32-229",
+        "h35-092"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Quatro pragas",
+        "1",
+        "Farinhenta",
+        "Branca e de cera, em grupo.",
+        "2",
+        "Escama",
+        "Plaquinha marrom parada.",
+        "3",
+        "Pulgão-preto",
+        "Se junta na ponta da fava.",
+        "4",
+        "Mosca-sirfídea",
+        "A larva come pulgão.",
+        "CHAVE",
+        "Praga",
+        "Olhar de perto",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 111 PULGÃO E COCHONILHA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "pul-var-farinhenta.jpg",
+          "alt": "Cochonilhas-farinhentas brancas em grupo numa folha de samambaia"
+        },
+        {
+          "src": "pul-var-escama.jpg",
+          "alt": "Plaquinhas marrons de cochonilha de escama grudadas num caule"
+        },
+        {
+          "src": "pul-var-pulgao-preto.jpg",
+          "alt": "Pulgões pretos juntos na ponta de uma planta de fava"
+        },
+        {
+          "src": "pul-var-sirfidea.jpg",
+          "alt": "Mosca-sirfídea parecida com vespa pousada numa flor"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "k9-083",
+        "n10-81",
+        "k9-082",
+        "k9-079",
+        "x23-029"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "O que deu errado?",
+        "FOLHA COM RISQUINHOS",
+        "Larva-minadora dentro da folha.",
+        "FOLHA NOVA MANCHADA",
+        "Pode ser tripes.",
+        "FORMIGA NO BOTÃO",
+        "Quer as gotinhas de açúcar.",
+        "PÓ BRANCO",
+        "Oídio, um fungo comum.",
+        "DICA DO ANDRÉ",
+        "Pulgão no broto vira comida de outros insetos.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 111 PULGÃO E COCHONILHA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "k9-209",
+        "r6-49"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "50",
+        "G",
+        "de ácido carmínico saem de 1 kg de cochonilha esmagada.",
+        "É o vermelho que vira corante.",
+        "E MAIS UMA",
+        "A palma é onde vive a cochonilha do corante vermelho.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 111 PULGÃO E COCHONILHA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "i36-288",
+        "w31-065",
+        "g32-186",
+        "h35-316",
+        "h35-130",
+        "b2-56",
+        "b2-58",
+        "x23-029"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Broto olhado de perto",
+        "Pulgão pouco esmagado",
+        "Fita no ramo com pulgão preto",
+        "Tela de 5 mm na couve",
+        "Míldio: folha seca e ar circulando",
+        "Oídio: folha atacada tirada",
+        "Cochonilha na raiz: terra nova",
+        "Planta isolada e vizinhas olhadas",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 111 PULGÃO E COCHONILHA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Olhar de perto resolve muita praga. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "111",
+        "VOCÊ TEM",
+        "112",
+        "113",
+        "114",
+        "115",
+        "116",
+        "São 111 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 112 ORQUÍDEA DE PEDRA",
+        "Comente TOUCEIRA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 111 PULGÃO E COCHONILHA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-praga-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

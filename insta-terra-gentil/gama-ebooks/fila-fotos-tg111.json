@@ -1,0 +1,70 @@
+{
+  "livro": "TG 111",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "pul-gesto-1",
+      "especie": "aphids on rose",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands squashing aphids between the fingers on a rose shoot",
+      "mascote": false
+    },
+    {
+      "id": "pul-gesto-2",
+      "especie": "aphids on stem",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands running sticky tape, sticky side out, along a stem covered with black aphids",
+      "mascote": false
+    },
+    {
+      "id": "pul-gesto-3",
+      "especie": "kale seedlings",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands covering young kale seedlings with fine mesh raised away from the leaves; the small mascot figurine sits on the soil at the edge of the bed",
+      "mascote": true
+    },
+    {
+      "id": "pul-sintoma-1",
+      "especie": "mealybugs on roots",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Roots of a potted succulent covered with white cotton-like mealybugs",
+      "mascote": false
+    },
+    {
+      "id": "pul-var-farinhenta",
+      "especie": "mealybugs on fern",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "White waxy mealybugs clustered on a fern frond",
+      "mascote": false
+    },
+    {
+      "id": "pul-var-escama",
+      "especie": "scale insects",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Small brown wax plaques of scale insects stuck on a plant stem",
+      "mascote": false
+    },
+    {
+      "id": "pul-var-pulgao-preto",
+      "especie": "black aphids on fava",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Black aphids gathered at the tip of a fava bean plant; the small mascot figurine stands on the soil beside the plant",
+      "mascote": true
+    },
+    {
+      "id": "pul-var-sirfidea",
+      "especie": "hoverfly",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Hoverfly resembling a wasp resting on a flower",
+      "mascote": false
+    }
+  ]
+}

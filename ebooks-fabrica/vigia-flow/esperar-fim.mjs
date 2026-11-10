@@ -13,7 +13,8 @@ const arg = (nome, padrao) => {
 };
 const quieto = arg("quieto", 60), semSinal = arg("sem-sinal", 300), maximo = arg("maximo", 3000);
 const inicio = Date.now();
-const idade = () => { try { return (Date.now() - statSync(arq).mtimeMs) / 1000; } catch { return Infinity; } };
+// sem arquivo, a idade conta desde o inicio (Infinity encerrava o vigia na primeira volta)
+const idade = () => { try { return (Date.now() - statSync(arq).mtimeMs) / 1000; } catch { return (Date.now() - inicio) / 1000; } };
 const ler = () => { try { return JSON.parse(readFileSync(arq, "utf8")); } catch { return null; } };
 const vazio = (v) => v === "" || v === null || v === undefined || v === 0 || v === "0";
 

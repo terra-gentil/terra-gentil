@@ -45,6 +45,10 @@ test("vigia do 2K nao depende de campo quando vindo da pagina", () => {
   assert.doesNotMatch(ler("esperar-2k.mjs"), /s\.quando/, "POST injetado na pagina nao tem quando: limite virava sem-sinal");
 });
 
+test("vigia da geracao nao encerra na primeira volta quando nao ha arquivo", () => {
+  assert.doesNotMatch(ler("esperar-fim.mjs"), /catch \{ return Infinity/, "idade infinita dispara sem-sinal na hora");
+});
+
 test("receptor separa a galeria e manda recarregar so uma vez", async () => {
   const saida = mkdtempSync(join(tmpdir(), "vigia-"));
   const porta = 47900 + Math.floor(Math.random() * 90);

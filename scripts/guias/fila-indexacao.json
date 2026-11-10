@@ -1,6 +1,21 @@
 {
  "_leia": "Fila de pedidos de indexacao no Search Console (propriedade https://terragentil.com.br/, conta eng.andrehz). A rotina diaria pede ate 10 por dia (cota do Google), tira da fila e grava em 'feitos'. Livro novo: acrescentar o slug no fim da fila.",
- "fila": [],
+ "fila": [
+  "lirios-de-jardim",
+  "jardim-de-borboleta",
+  "tomate-cereja",
+  "batata-e-inhame",
+  "beterraba-e-acelga",
+  "ervilha-e-feijao",
+  "pepino-e-berinjela",
+  "flores-cheirosas",
+  "flores-de-semente",
+  "comedouro-e-ninho",
+  "roseira-no-jardim",
+  "substrato-e-vaso",
+  "orquidea-no-dia-a-dia",
+  "jardim-gentil"
+ ],
  "feitos": [
   {
    "url": "/guias",
@@ -181,6 +196,46 @@
   {
    "url": "/guias/begonia-e-geranio",
    "dia": "2026-11-09"
+  },
+  {
+   "url": "/guias/hibisco-e-primavera",
+   "dia": "2026-11-10"
+  },
+  {
+   "url": "/guias/flores-comestiveis",
+   "dia": "2026-11-10"
+  },
+  {
+   "url": "/guias/espada-de-sao-jorge",
+   "dia": "2026-11-10"
+  },
+  {
+   "url": "/guias/minhocario-em-casa",
+   "dia": "2026-11-10"
+  },
+  {
+   "url": "/guias/cactos-de-colecao",
+   "dia": "2026-11-10"
+  },
+  {
+   "url": "/guias/suculentas-coloridas",
+   "dia": "2026-11-10"
+  },
+  {
+   "url": "/guias/pimentas-do-mundo",
+   "dia": "2026-11-10"
+  },
+  {
+   "url": "/guias/orquidea-na-arvore",
+   "dia": "2026-11-10"
+  },
+  {
+   "url": "/guias/rosas-perfumadas",
+   "dia": "2026-11-10"
+  },
+  {
+   "url": "/guias/alocasia-e-filodendro",
+   "dia": "2026-11-10"
   }
  ]
 }

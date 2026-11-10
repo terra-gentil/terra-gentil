@@ -57,6 +57,16 @@ const LIVROS = {
     ['hbi-var-alisso', 'sweet alyssum', `White sweet alyssum forming a carpet with small insects on the flowers; ${M} stands among the flowers`, true],
     ['hbi-var-girassol', 'sunflower', 'Open sunflower with a bee on the flower', false],
   ],
+  '106': [
+    ['mic-gesto-1', 'seedling', `${H} placing a cut plastic bottle over a young seedling like a small bell cover`, false],
+    ['mic-gesto-2', 'garden corner', `${H} pouring gravel into a hole at the lowest corner of a waterlogged garden; ${M} sits on the grass nearby`, true],
+    ['mic-gesto-3', 'new plant', `${H} taking the plastic sleeve off a newly bought potted plant`, false],
+    ['mic-sintoma-1', 'bolting lettuce', 'Lettuce that has bolted with a tall stem and small flowers under strong sun', false],
+    ['mic-var-muro-branco', 'white wall garden', 'White wall around a vegetable garden reflecting light onto healthy plants', false],
+    ['mic-var-canto-umido', 'shady damp corner', `Damp shaded corner of a backyard with lush green leafy plants; ${M} stands among the leaves`, true],
+    ['mic-var-cerca-vazada', 'slatted fence', 'Slatted wooden fence with garden plants behind it, filtering the wind', false],
+    ['mic-var-pet', 'bottle cloche', 'Young seedling protected by a cut plastic bottle placed over it in a garden bed', false],
+  ],
 };
 for (const [n, lista] of Object.entries(LIVROS)) {
   const fotos = lista.map(([id, especie, cena, mascote]) => ({

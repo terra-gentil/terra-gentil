@@ -1,0 +1,70 @@
+{
+  "livro": "TG 110",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "rae-gesto-1",
+      "especie": "rose rootstock",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands making a T-shaped cut in the bark of a rose rootstock stem with a sharp budding knife",
+      "mascote": false
+    },
+    {
+      "id": "rae-gesto-2",
+      "especie": "rose budding",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sliding a single bud under the bark flaps of a rose rootstock and wrapping it with grafting tape; the small mascot figurine sits on a wooden crate beside the work",
+      "mascote": true
+    },
+    {
+      "id": "rae-gesto-3",
+      "especie": "rose graft",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a rose rootstock just above a new green bud and removing the tape",
+      "mascote": false
+    },
+    {
+      "id": "rae-sintoma-1",
+      "especie": "black spot rose",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Rose leaves with round black spots of black spot disease",
+      "mascote": false
+    },
+    {
+      "id": "rae-var-centifolia",
+      "especie": "centifolia rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Very double pale pink centifolia rose in bloom on a shrub",
+      "mascote": false
+    },
+    {
+      "id": "rae-var-musgo",
+      "especie": "moss rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Moss rose with hard mossy hairs on the bud and stem",
+      "mascote": false
+    },
+    {
+      "id": "rae-var-bourbon",
+      "especie": "bourbon rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Full fragrant Bourbon rose on a shrub in a garden; the small mascot figurine stands on the ground in front of it",
+      "mascote": true
+    },
+    {
+      "id": "rae-var-banksia",
+      "especie": "banksia rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Yellow banksia rose in clusters climbing a sunny wall",
+      "mascote": false
+    }
+  ]
+}

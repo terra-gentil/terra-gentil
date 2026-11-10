@@ -97,6 +97,16 @@ const LIVROS = {
     ['fho-var-rucula', 'arugula', 'Arugula with lobed leaves ready to cut in a garden bed', false],
     ['fho-var-brocolis', 'broccoli', 'Broccoli plant with a formed head and tightly closed buds', false],
   ],
+  '110': [
+    ['rae-gesto-1', 'rose rootstock', `${H} making a T-shaped cut in the bark of a rose rootstock stem with a sharp budding knife`, false],
+    ['rae-gesto-2', 'rose budding', `${H} sliding a single bud under the bark flaps of a rose rootstock and wrapping it with grafting tape; ${M} sits on a wooden crate beside the work`, true],
+    ['rae-gesto-3', 'rose graft', `${H} cutting a rose rootstock just above a new green bud and removing the tape`, false],
+    ['rae-sintoma-1', 'black spot rose', 'Rose leaves with round black spots of black spot disease', false],
+    ['rae-var-centifolia', 'centifolia rose', 'Very double pale pink centifolia rose in bloom on a shrub', false],
+    ['rae-var-musgo', 'moss rose', 'Moss rose with hard mossy hairs on the bud and stem', false],
+    ['rae-var-bourbon', 'bourbon rose', `Full fragrant Bourbon rose on a shrub in a garden; ${M} stands on the ground in front of it`, true],
+    ['rae-var-banksia', 'banksia rose', 'Yellow banksia rose in clusters climbing a sunny wall', false],
+  ],
 };
 for (const [n, lista] of Object.entries(LIVROS)) {
   const fotos = lista.map(([id, especie, cena, mascote]) => ({

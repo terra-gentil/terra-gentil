@@ -1,0 +1,70 @@
+{
+  "livro": "TG 113",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "pic-gesto-1",
+      "especie": "pepper seeds",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing a few chili seeds half a centimeter deep in a clean pot of fresh soil",
+      "mascote": false
+    },
+    {
+      "id": "pic-gesto-2",
+      "especie": "pepper seedling",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands transplanting a small chili seedling holding it by a leaf and not by the stem; the small mascot figurine sits on the edge of the potting table",
+      "mascote": true
+    },
+    {
+      "id": "pic-gesto-3",
+      "especie": "pepper topping",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pinching the top off a 30 cm chili plant with small scissors",
+      "mascote": false
+    },
+    {
+      "id": "pic-sintoma-1",
+      "especie": "spider mites on pepper",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Chili pepper leaf spotted with yellow dots and fine webbing of red spider mites",
+      "mascote": false
+    },
+    {
+      "id": "pic-var-bhut",
+      "especie": "bhut jolokia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Wrinkled red bhut jolokia ghost peppers hanging on a plant",
+      "mascote": false
+    },
+    {
+      "id": "pic-var-dorset",
+      "especie": "dorset naga",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Wrinkled red Dorset Naga chili peppers on a plant; the small mascot figurine stands on the soil beside the pot",
+      "mascote": true
+    },
+    {
+      "id": "pic-var-aji",
+      "especie": "aji amarillo",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Orange-yellow aji amarillo chili peppers hanging on a plant",
+      "mascote": false
+    },
+    {
+      "id": "pic-var-ornamental",
+      "especie": "ornamental pepper",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Ornamental chili pepper in a pot with small fruits of many colors",
+      "mascote": false
+    }
+  ]
+}

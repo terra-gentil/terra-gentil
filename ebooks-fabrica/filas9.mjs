@@ -127,6 +127,26 @@ const LIVROS = {
     ['otc-var-cattleya', 'cattleya orchid', 'Cattleya orchid in bloom lying on a thick tree branch', false],
     ['otc-var-phalaenopsis', 'phalaenopsis orchid', 'White Phalaenopsis orchid on a shaded mossy tree trunk', false],
   ],
+  '113': [
+    ['pic-gesto-1', 'pepper seeds', `${H} placing a few chili seeds half a centimeter deep in a clean pot of fresh soil`, false],
+    ['pic-gesto-2', 'pepper seedling', `${H} transplanting a small chili seedling holding it by a leaf and not by the stem; ${M} sits on the edge of the potting table`, true],
+    ['pic-gesto-3', 'pepper topping', `${H} pinching the top off a 30 cm chili plant with small scissors`, false],
+    ['pic-sintoma-1', 'spider mites on pepper', 'Chili pepper leaf spotted with yellow dots and fine webbing of red spider mites', false],
+    ['pic-var-bhut', 'bhut jolokia', 'Wrinkled red bhut jolokia ghost peppers hanging on a plant', false],
+    ['pic-var-dorset', 'dorset naga', `Wrinkled red Dorset Naga chili peppers on a plant; ${M} stands on the soil beside the pot`, true],
+    ['pic-var-aji', 'aji amarillo', 'Orange-yellow aji amarillo chili peppers hanging on a plant', false],
+    ['pic-var-ornamental', 'ornamental pepper', 'Ornamental chili pepper in a pot with small fruits of many colors', false],
+  ],
+  '114': [
+    ['arv-gesto-1', 'tree seedling roots', `${H} gently loosening the circling roots of a young potted tree seedling before planting`, false],
+    ['arv-gesto-2', 'watering young tree', `${H} pouring water from a watering can to soak the soil around a newly planted young tree; ${M} sits on the grass nearby`, true],
+    ['arv-gesto-3', 'soil test', `${H} digging five centimeters into the soil beside a young tree with a small trowel to check moisture`, false],
+    ['arv-sintoma-1', 'peach bark canker', 'Sunken bark of a peach tree trunk oozing gum, with leaves full of small shot holes', false],
+    ['arv-var-oliveira', 'olive tree', 'Olive tree branch full of green olives in a backyard', false],
+    ['arv-var-figueira', 'fig tree', `Fig tree with ripe figs and wide leaves; ${M} stands on the ground at the foot of the tree`, true],
+    ['arv-var-nespera', 'loquat tree', 'Loquat tree with large leathery leaves and clusters of yellow fruit', false],
+    ['arv-var-butia', 'butia palm', 'Short butia palm with clusters of orange fruit', false],
+  ],
 };
 for (const [n, lista] of Object.entries(LIVROS)) {
   const fotos = lista.map(([id, especie, cena, mascote]) => ({

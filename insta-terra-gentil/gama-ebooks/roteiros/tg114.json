@@ -1,0 +1,561 @@
+{
+  "livro": "TG 114",
+  "titulo": "Árvore e Raiz",
+  "serie": "#4A3A2A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "114",
+        "COLEÇÃO TERRA GENTIL",
+        "ARVORE",
+        "Árvore e Raiz",
+        "Quem planta, colhe sombra.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-A-1.jpg",
+          "alt": "André abraçando o tronco de uma árvore no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "t37-007",
+        "t37-021",
+        "t37-040"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Uma árvore é uma cidade de bichos.",
+        "Debaixo dela, fungo liga as raízes.",
+        "Aqui tem plantio, rega, poda e fruta.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Olhe o tronco da sua árvore de perto.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 114 ÁRVORE E RAIZ",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-B-1.jpg",
+          "alt": "André olhando a casca de uma árvore com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "t37-122",
+        "t37-123"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Regue toda semana a árvore nova.",
+        "Por seis meses, depois espace.",
+        "SEM EXAGERO",
+        "Regar demais deixa a raiz rasa.",
+        "Ela tomba com o vento.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 114 ÁRVORE E RAIZ",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da árvore",
+        "06",
+        "CAPÍTULO 1",
+        "Plantio e rega",
+        "08",
+        "CAPÍTULO 2",
+        "Raiz e fungo",
+        "12",
+        "CAPÍTULO 3",
+        "Frutíferas",
+        "15",
+        "CAPÍTULO 4",
+        "Árvore de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Casca afundada com goma? Vá para a página 11.",
+        "Na próxima: a ficha da árvore",
+        "→",
+        "TG 114 ÁRVORE E RAIZ",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "t37-110",
+        "t37-116",
+        "t37-122",
+        "t37-124",
+        "t37-128",
+        "t37-064"
+      ],
+      "textos": [
+        "FICHA DA ÁRVORE",
+        "Antes de agir",
+        "O que olhar",
+        "MUDA",
+        "Raiz nua ou vaso",
+        "RAIZ",
+        "Solte as que dão volta",
+        "REGA",
+        "Toda semana no começo",
+        "TESTE",
+        "Cave 5 cm com a pá",
+        "LUGAR",
+        "A 1 ou 2 m do tronco",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Cerca viva: muda a cada 30 cm",
+        "Na próxima: plantio e rega",
+        "→",
+        "TG 114 ÁRVORE E RAIZ",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Plantio e rega",
+        "01",
+        "Certo e errado",
+        "02",
+        "Plantio, passo a passo",
+        "03",
+        "Raiz de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 114 ÁRVORE E RAIZ",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-C-1.jpg",
+          "alt": "André cavando um buraco para plantar uma árvore"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "t37-123",
+        "t37-135",
+        "t37-131",
+        "t37-143",
+        "t37-050",
+        "t37-035"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Rega",
+        "Sem exagero",
+        "Toda hora",
+        "Palmeira",
+        "Só folha seca",
+        "Folha verde",
+        "Poda",
+        "Na época certa",
+        "Amora no inverno",
+        "Bicho",
+        "Faz parte",
+        "Sempre praga",
+        "Amoreira e nogueira choram seiva no corte.",
+        "DICA DO ANDRÉ",
+        "Em grupinho, a árvore cresce melhor.",
+        "Na próxima: plantio, passo a passo",
+        "→",
+        "TG 114 ÁRVORE E RAIZ",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Raiz e fungo",
+        "01",
+        "Plantio, passo a passo",
+        "02",
+        "Raiz de perto",
+        "03",
+        "Casca afundada",
+        "Na próxima: plantio, passo a passo",
+        "→",
+        "TG 114 ÁRVORE E RAIZ",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-D-1.jpg",
+          "alt": "André olhando as raízes de uma árvore nova"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "t37-116",
+        "t37-122",
+        "t37-124",
+        "t37-128"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Árvore? Faça assim.",
+        "RAIZ",
+        "Solte as voltas",
+        "REGA",
+        "Um ou dois regadores",
+        "TESTE",
+        "Cave 5 cm",
+        "1",
+        "SOLTE",
+        "As raízes que dão volta no vaso.",
+        "2",
+        "REGUE",
+        "Encharcando bem toda semana.",
+        "3",
+        "CAVE",
+        "5 cm: seca e poeirenta, regue.",
+        "DICA DO ANDRÉ",
+        "Plante do lado mais ensolarado.",
+        "Na próxima: raiz de perto",
+        "→",
+        "TG 114 ÁRVORE E RAIZ",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "arv-gesto-1.jpg",
+          "alt": "Mãos soltando com cuidado as raízes que dão volta no torrão de uma muda de árvore"
+        },
+        {
+          "src": "arv-gesto-2.jpg",
+          "alt": "Mãos regando com regador uma árvore recém-plantada encharcando a terra"
+        },
+        {
+          "src": "arv-gesto-3.jpg",
+          "alt": "Mãos cavando cinco centímetros com uma pá pequena ao pé de uma árvore para testar a terra"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "t37-021",
+        "t37-022",
+        "t37-023",
+        "t37-024",
+        "t37-026"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · RAIZ E FUNGO",
+        "Raiz de perto",
+        "Fios de fungo ligam a raiz à terra.",
+        "Por eles, as árvores formam uma rede.",
+        "A árvore forte pode passar nutriente à fraca.",
+        "A árvore paga o fungo com açúcar.",
+        "Mais tipos de fungo, árvore mais saudável.",
+        "Na próxima: casca afundada",
+        "→",
+        "TG 114 ÁRVORE E RAIZ",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "t37-146",
+        "t37-145"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Casca afundada?",
+        "1",
+        "O QUE PARECE",
+        "Casca com goma e furinhos na folha.",
+        "O QUE PODE SER",
+        "Cancro bacteriano.",
+        "COMO RESOLVER",
+        "Corte 10 cm abaixo e desinfete.",
+        "Na próxima: frutíferas",
+        "→",
+        "TG 114 ÁRVORE E RAIZ",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "arv-sintoma-1.jpg",
+          "alt": "Casca afundada de um pessegueiro soltando goma e folhas com furinhos"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Frutíferas",
+        "01",
+        "Frutíferas",
+        "02",
+        "Poda e cuidado",
+        "03",
+        "Árvore de perto",
+        "Na próxima: frutíferas",
+        "→",
+        "TG 114 ÁRVORE E RAIZ",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-E-1.jpg",
+          "alt": "André colhendo frutas de uma árvore no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "t37-080",
+        "t37-081",
+        "t37-082",
+        "t37-089",
+        "t37-091",
+        "t37-079",
+        "t37-077",
+        "t37-067"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CUIDADO",
+        "Frutíferas",
+        "AMEIXA",
+        "Veja se dá fruto sozinha",
+        "PÊSSEGO",
+        "Até 4 metros, 20 anos",
+        "O QUE ELA PEDE",
+        "Oliveira",
+        " poda em tigela, centro aberto",
+        "Azeitona",
+        " molho de dez dias",
+        "Figueira",
+        " vespinha polinizadora",
+        "Citrus",
+        " laranja, limão e lima",
+        "Bom saber",
+        "Leque",
+        " muita fruta em pouco espaço",
+        "Pêssego",
+        " nasceu na China",
+        "Na próxima: poda e cuidado",
+        "→",
+        "TG 114 ÁRVORE E RAIZ",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "t37-146",
+        "t37-150",
+        "t37-131",
+        "t37-135",
+        "t37-145"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Cancro: casca afundada soltando goma.",
+        "Fusariose escurece a palmeira de baixo.",
+        "Pulgão solta melado e vem a fumagina.",
+        "FAÇA ASSIM",
+        "Esterilize a ferramenta.",
+        "Pode amora e noz na época.",
+        "Na próxima: árvore de perto",
+        "→",
+        "TG 114 ÁRVORE E RAIZ",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "t37-076",
+        "t37-087",
+        "t37-072",
+        "t37-108"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · FRUTA E SOMBRA",
+        "Quatro árvores",
+        "1",
+        "Oliveira",
+        "Azeitona em três a cinco anos.",
+        "2",
+        "Figueira",
+        "Placas em volta seguram a raiz.",
+        "3",
+        "Nêspera",
+        "Compacta e boa em vaso.",
+        "4",
+        "Butiá",
+        "A palmeira da geleia.",
+        "CHAVE",
+        "Árvore",
+        "O que ela dá",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 114 ÁRVORE E RAIZ",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "arv-var-oliveira.jpg",
+          "alt": "Oliveira com azeitonas verdes numa árvore de quintal"
+        },
+        {
+          "src": "arv-var-figueira.jpg",
+          "alt": "Figueira com figos maduros e folhas largas"
+        },
+        {
+          "src": "arv-var-nespera.jpg",
+          "alt": "Nespereira-de-bronze com folhas grandes de couro e frutos amarelos"
+        },
+        {
+          "src": "arv-var-butia.jpg",
+          "alt": "Butiá, palmeira baixa com cachos de frutos alaranjados"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "t37-038",
+        "t37-039",
+        "t37-040",
+        "t37-041",
+        "t37-056"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Árvore de perto",
+        "CERNE",
+        "O miolo não está vivo, mas é o mais forte.",
+        "CRESCE",
+        "Só pelas pontas e pelas bordas.",
+        "ANÉIS",
+        "Cada ano faz uma camada de madeira.",
+        "SECA",
+        "Calor extremo para o crescimento.",
+        "DICA DO ANDRÉ",
+        "Árvore velha é casa de bicho.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 114 ÁRVORE E RAIZ",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "t37-012",
+        "t37-003"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "400",
+        "MI",
+        "de anos é a idade das árvores na Terra.",
+        "O ginkgo e a araucária-chilena são fósseis vivos.",
+        "E MAIS UMA",
+        "O mundo derruba 10 milhões de hectares por ano.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 114 ÁRVORE E RAIZ",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "t37-122",
+        "t37-124",
+        "t37-116",
+        "t37-128",
+        "t37-110",
+        "t37-055",
+        "t37-146",
+        "t37-035"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Árvore nova regada toda semana",
+        "Teste de 5 cm antes de regar",
+        "Raízes soltas no plantio",
+        "Planta a 1 ou 2 m do tronco",
+        "Muda de raiz nua ou de vaso",
+        "Mais de uma árvore em grupo",
+        "Ferramenta desinfetada",
+        "Pelo menos um grupinho na praça",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 114 ÁRVORE E RAIZ",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Árvore pede paciência e água na medida. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "114",
+        "VOCÊ TEM",
+        "115",
+        "116",
+        "117",
+        "118",
+        "119",
+        "São 114 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 115 EXTRATOS E CHÁS DE PLANTA",
+        "Comente EXTRATOS no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 114 ÁRVORE E RAIZ",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jabuticabeira-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

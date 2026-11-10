@@ -1,0 +1,70 @@
+{
+  "livro": "TG 114",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "arv-gesto-1",
+      "especie": "tree seedling roots",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands gently loosening the circling roots of a young potted tree seedling before planting",
+      "mascote": false
+    },
+    {
+      "id": "arv-gesto-2",
+      "especie": "watering young tree",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pouring water from a watering can to soak the soil around a newly planted young tree; the small mascot figurine sits on the grass nearby",
+      "mascote": true
+    },
+    {
+      "id": "arv-gesto-3",
+      "especie": "soil test",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands digging five centimeters into the soil beside a young tree with a small trowel to check moisture",
+      "mascote": false
+    },
+    {
+      "id": "arv-sintoma-1",
+      "especie": "peach bark canker",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Sunken bark of a peach tree trunk oozing gum, with leaves full of small shot holes",
+      "mascote": false
+    },
+    {
+      "id": "arv-var-oliveira",
+      "especie": "olive tree",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Olive tree branch full of green olives in a backyard",
+      "mascote": false
+    },
+    {
+      "id": "arv-var-figueira",
+      "especie": "fig tree",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Fig tree with ripe figs and wide leaves; the small mascot figurine stands on the ground at the foot of the tree",
+      "mascote": true
+    },
+    {
+      "id": "arv-var-nespera",
+      "especie": "loquat tree",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Loquat tree with large leathery leaves and clusters of yellow fruit",
+      "mascote": false
+    },
+    {
+      "id": "arv-var-butia",
+      "especie": "butia palm",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Short butia palm with clusters of orange fruit",
+      "mascote": false
+    }
+  ]
+}

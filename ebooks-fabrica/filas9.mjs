@@ -27,6 +27,16 @@ const LIVROS = {
     ['cvv-var-tupinambo', 'jerusalem artichoke', 'Tall Jerusalem artichoke with yellow flowers growing as a windbreak at the edge of a vegetable garden', false],
     ['cvv-var-rosa-canina', 'dog rose', 'Dog rose with simple pink flowers in a country hedge', false],
   ],
+  '103': [
+    ['mte-gesto-1', 'dandelion', `${H} pushing a garden fork under the root of a dandelion in a garden bed`, false],
+    ['mte-gesto-2', 'curled dock', `${H} pulling the top half of a long curled dock root out of a dug hole`, false],
+    ['mte-gesto-3', 'garlic mustard', `${H} pulling a garlic mustard weed out of a flower bed; ${M} sits on a stone at the edge of the bed`, true],
+    ['mte-sintoma-1', 'weedy bed', 'Garden bed with weed shoots sprouting from white rhizomes in loose soil', false],
+    ['mte-var-dente-de-leao', 'dandelion', 'Dandelion with a flat rosette of leaves and a yellow flower at the edge of a lawn', false],
+    ['mte-var-lingua-de-vaca', 'curled dock', 'Curled dock with broad leaves and tall reddish seed stalks beside a path', false],
+    ['mte-var-corda-de-viola', 'bindweed', `Field bindweed with white flowers twining on a garden fence; ${M} stands on the ground at the foot of the fence`, true],
+    ['mte-var-capim-colonicao', 'guinea grass', 'Tall dense clump of guinea grass in an abandoned lot', false],
+  ],
 };
 for (const [n, lista] of Object.entries(LIVROS)) {
   const fotos = lista.map(([id, especie, cena, mascote]) => ({

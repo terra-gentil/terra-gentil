@@ -1,0 +1,70 @@
+{
+  "livro": "TG 103",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "mte-gesto-1",
+      "especie": "dandelion",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pushing a garden fork under the root of a dandelion in a garden bed",
+      "mascote": false
+    },
+    {
+      "id": "mte-gesto-2",
+      "especie": "curled dock",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pulling the top half of a long curled dock root out of a dug hole",
+      "mascote": false
+    },
+    {
+      "id": "mte-gesto-3",
+      "especie": "garlic mustard",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pulling a garlic mustard weed out of a flower bed; the small mascot figurine sits on a stone at the edge of the bed",
+      "mascote": true
+    },
+    {
+      "id": "mte-sintoma-1",
+      "especie": "weedy bed",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Garden bed with weed shoots sprouting from white rhizomes in loose soil",
+      "mascote": false
+    },
+    {
+      "id": "mte-var-dente-de-leao",
+      "especie": "dandelion",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dandelion with a flat rosette of leaves and a yellow flower at the edge of a lawn",
+      "mascote": false
+    },
+    {
+      "id": "mte-var-lingua-de-vaca",
+      "especie": "curled dock",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Curled dock with broad leaves and tall reddish seed stalks beside a path",
+      "mascote": false
+    },
+    {
+      "id": "mte-var-corda-de-viola",
+      "especie": "bindweed",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Field bindweed with white flowers twining on a garden fence; the small mascot figurine stands on the ground at the foot of the fence",
+      "mascote": true
+    },
+    {
+      "id": "mte-var-capim-colonicao",
+      "especie": "guinea grass",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tall dense clump of guinea grass in an abandoned lot",
+      "mascote": false
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+ "codigo": "TG113",
+ "slug": "pimenta-no-canteiro",
+ "titulo": "Pimenta no Canteiro",
+ "capa": {
+  "src": "/guias/pimenta-no-canteiro/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Pimenta no Canteiro"
+ },
+ "meta": {
+  "titulo": "Pimenta no canteiro: guia grátis de plantio",
+  "descricao": "Como plantar pimenta da semente ao canteiro, com repique, desponte, pulgão, ácaro e o ardido de cada uma. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG113.pdf",
+  "atualizado": "2026-11-11"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t113",
+    "COLEÇÃO TERRA GENTIL",
+    "CANTEIRO",
+    "Pimenta no Canteiro",
+    "Do vaso ao canteiro.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimenta-no-canteiro/pimenta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 164,
+     "alt": "André olhando um pé de pimenta carregado com carinho"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Pimenta não é parente da do reino.",
+    "O ardido vem da capsaicina.",
+    "Aqui tem semente, muda, canteiro e pragas.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Veja se a sua pimenta tem pulgão.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimenta-no-canteiro/pimenta-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 178,
+     "alt": "André examinando as folhas de uma pimenteira com carinho"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Plante de manhã no canteiro.",
+    "Ela tem o dia inteiro para se acomodar.",
+    "ALTURA",
+    "Mesma altura do vaso.",
+    "Sem enterrar o caule."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da pimenta",
+    "06",
+    "CAPÍTULO 1",
+    "Semente e muda",
+    "08",
+    "CAPÍTULO 2",
+    "Do vaso ao canteiro",
+    "12",
+    "CAPÍTULO 3",
+    "Pulgão e ácaro",
+    "15",
+    "CAPÍTULO 4",
+    "Ardido e colheita",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Folha pintada e com teia? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA PIMENTA",
+    "Antes de agir",
+    "O que olhar",
+    "SEMENTE",
+    "Meio centímetro de fundo",
+    "REPIQUE",
+    "Duas folhas verdadeiras",
+    "FLOR",
+    "Uns 40 dias",
+    "FRUTO",
+    "De 60 a 120 dias",
+    "ESPAÇO",
+    "Uns 40 cm entre pés",
+    "NA PRÁTICA\tATENÇÃO",
+    "Desponte aos 30 cm"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Semente e muda",
+    "01\tCerto e errado",
+    "02\tDesponte, passo a passo",
+    "03\tMuda de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimenta-no-canteiro/pimenta-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 184,
+     "alt": "André olhando mudas de pimenta num vaso limpo"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Vaso\tVaso limpo\tTerra velha",
+    "Semente\tHíbrida? Compre\tGuardar a F1",
+    "Fruto\tSemente madura\tTirar da verde",
+    "Cor\tVerde arde mais\tVermelha arde mais",
+    "Pouca água dá fruto mais ardido, mas planta fraca.",
+    "DICA DO ANDRÉ",
+    "Para vaso, escolha variedade compacta."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Do vaso ao canteiro",
+    "01\tDesponte, passo a passo",
+    "02\tMuda de perto",
+    "03\tÁcaro-vermelho"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimenta-no-canteiro/coringa-horta-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 192,
+     "alt": "André levando mudas de pimenta para o canteiro"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Pimenta? Faça assim.",
+    "SEMENTE",
+    "Meio centímetro",
+    "REPIQUE",
+    "Pegue pela folha",
+    "DESPONTE",
+    "Aos 30 cm",
+    "1",
+    "SEMEIE",
+    "A meio centímetro de fundo.",
+    "2",
+    "REPIQUE",
+    "Segure pela folha, não pelo caule.",
+    "3",
+    "DESPONTE",
+    "A ponta aos 30 cm de altura.",
+    "DICA DO ANDRÉ",
+    "Desponte pesa na caiena e na jalapeño."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimenta-no-canteiro/pic-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 143,
+     "alt": "Mãos pondo sementes de pimenta a meio centímetro de fundo num vaso limpo"
+    },
+    {
+     "src": "/guias/pimenta-no-canteiro/pic-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 258,
+     "alt": "Mãos repicando uma mudinha de pimenta segurando pela folha e não pelo caule"
+    },
+    {
+     "src": "/guias/pimenta-no-canteiro/pic-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 202,
+     "alt": "Mãos despontando a ponta de uma pimenteira de uns 30 cm com tesoura"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MUDA DE PERTO",
+    "Muda de perto",
+    "Muda de dentro para fora, de dia.",
+    "Volte com ela para dentro à noite.",
+    "Plante de manhã, na mesma altura do vaso.",
+    "Adubo de liberação lenta no vaso final.",
+    "Um pé só por vaso."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Folha pintada?",
+    "1",
+    "O QUE PARECE",
+    "Pintinhas amarelas e teia fina.",
+    "O QUE PODE SER",
+    "Ácaro-vermelho.",
+    "COMO RESOLVER",
+    "Molhe o chão nos dias quentes."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimenta-no-canteiro/pic-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 159,
+     "alt": "Folha de pimenta pintada de amarelo com teia fina de ácaro-vermelho"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Pulgão e ácaro",
+    "01\tPulgão e ácaro",
+    "02\tAliados e cuidado",
+    "03\tArdido e colheita"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimenta-no-canteiro/pimenta-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 171,
+     "alt": "André tirando pulgão de uma pimenteira com a mão"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CUIDADO",
+    "Pulgão e ácaro",
+    "PULGÃO",
+    "Suga a seiva",
+    "JATO",
+    "Mão ou mangueira fraca",
+    "O QUE ELA PEDE",
+    "Joaninha come pulgão, chame com flores",
+    "Veneno mata o aliado também",
+    "Vírus arranque o pé doente logo",
+    "Farinhenta se esconde na junção do galho",
+    "Bom saber",
+    "Calor seco borrife ou bandeja com pedrinhas",
+    "Calor deixa a pimenta mais ardida"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Vírus passa por pulgão, mão suja e ferramenta.",
+    "Veneno com inimigo natural mata os dois.",
+    "Farinhenta é difícil de acabar.",
+    "FAÇA ASSIM",
+    "Arranque o pé doente.",
+    "Chame joaninha com flores."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · ARDIDO",
+    "Quatro pimentas",
+    "1",
+    "Bhut jolokia",
+    "Passa de 1 milhão de Scoville.",
+    "2",
+    "Dorset naga",
+    "Ardido de queima lenta.",
+    "3",
+    "Ají amarillo",
+    "Domesticada no Peru há 2.500 anos.",
+    "4",
+    "Ornamental",
+    "Muita cor, quase sem ardido.",
+    "CHAVE\tPimenta\tO que ela tem"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimenta-no-canteiro/pic-var-bhut.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 195,
+     "alt": "Pimentas bhut jolokia vermelhas e enrugadas num pé"
+    },
+    {
+     "src": "/guias/pimenta-no-canteiro/pic-var-dorset.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 244,
+     "alt": "Pimentas dorset naga vermelhas e enrugadas num pé"
+    },
+    {
+     "src": "/guias/pimenta-no-canteiro/pic-var-aji.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 210,
+     "alt": "Pimentas ají amarillo amarelo-alaranjadas num pé"
+    },
+    {
+     "src": "/guias/pimenta-no-canteiro/pic-var-ornamental.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 257,
+     "alt": "Pimenta ornamental em vaso com frutos pequenos de várias cores"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Ardido de perto",
+    "SCOVILLE",
+    "Nasceu em 1912 com provadores.",
+    "LABORATÓRIO",
+    "Hoje mede por cromatografia.",
+    "MESMO PÉ",
+    "Os ardidos podem variar.",
+    "MENOR É MAIS?",
+    "Geralmente sim. Vá com calma.",
+    "DICA DO ANDRÉ",
+    "Quem come todo dia fica resistente."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "1",
+    "MI",
+    "de Scoville passam a bhut jolokia, e o ardido dura horas.",
+    "Os portugueses levaram a pimenta à Ásia.",
+    "E MAIS UMA",
+    "Hoje a Índia é a maior produtora do mundo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Pimenta plantada de manhã",
+    "Mesma altura do vaso",
+    "Uns 40 cm entre pés",
+    "Vaso limpo na semeadura",
+    "Desponte aos 30 cm",
+    "Pulgão saindo com a mão",
+    "Máscara e óculos ao moer",
+    "Pimenta picada em cubos de gelo",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Pimenta no canteiro pede manhã e cuidado. Tente e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "113\tVOCÊ TEM",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "São 113 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 114 ÁRVORE E RAIZ",
+    "Comente ARVORE no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pimenta-no-canteiro/pimenta-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 116,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

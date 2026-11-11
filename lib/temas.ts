@@ -15,7 +15,7 @@ export const TEMAS: Tema[] = [
     id: 'orquideas',
     nome: 'Orquídeas',
     chamada: 'Fazer florir de novo, tratar, replantar e conhecer as espécies.',
-    codigos: ['TG015', 'TG016', 'TG017', 'TG018', 'TG080', 'TG099'],
+    codigos: ['TG015', 'TG016', 'TG017', 'TG018', 'TG080', 'TG099', 'TG112'],
   },
   {
     id: 'suculentas',
@@ -27,13 +27,13 @@ export const TEMAS: Tema[] = [
     id: 'rosas',
     nome: 'Roseiras',
     chamada: 'Rosa no vaso, poda, doença e muda de estaca.',
-    codigos: ['TG029', 'TG030', 'TG031', 'TG032', 'TG081', 'TG096'],
+    codigos: ['TG029', 'TG030', 'TG031', 'TG032', 'TG081', 'TG096', 'TG110'],
   },
   {
     id: 'horta',
     nome: 'Horta em casa',
     chamada: 'Da semente ao prato, no vaso, na varanda ou no canteiro.',
-    codigos: ['TG012', 'TG013', 'TG014', 'TG025', 'TG027', 'TG039', 'TG040', 'TG042', 'TG043', 'TG044', 'TG045', 'TG055', 'TG061', 'TG063', 'TG064', 'TG065', 'TG067', 'TG068', 'TG079', 'TG087', 'TG088', 'TG089', 'TG090', 'TG091'],
+    codigos: ['TG012', 'TG013', 'TG014', 'TG025', 'TG027', 'TG039', 'TG040', 'TG042', 'TG043', 'TG044', 'TG045', 'TG055', 'TG061', 'TG063', 'TG064', 'TG065', 'TG067', 'TG068', 'TG079', 'TG087', 'TG088', 'TG089', 'TG090', 'TG091', 'TG104', 'TG107', 'TG109', 'TG113'],
   },
   {
     id: 'dentro-de-casa',
@@ -45,13 +45,13 @@ export const TEMAS: Tema[] = [
     id: 'jardim',
     nome: 'Jardim e quintal',
     chamada: 'Começar do zero, chamar abelha e passarinho, árvore e flor.',
-    codigos: ['TG024', 'TG026', 'TG028', 'TG046', 'TG047', 'TG048', 'TG049', 'TG050', 'TG054', 'TG056', 'TG062', 'TG071', 'TG072', 'TG083', 'TG085', 'TG092', 'TG093', 'TG095'],
+    codigos: ['TG024', 'TG026', 'TG028', 'TG046', 'TG047', 'TG048', 'TG049', 'TG050', 'TG054', 'TG056', 'TG062', 'TG071', 'TG072', 'TG083', 'TG085', 'TG092', 'TG093', 'TG095', 'TG102', 'TG105', 'TG106', 'TG108', 'TG114'],
   },
   {
     id: 'cuidados',
     nome: 'Cuidados do dia a dia',
     chamada: 'Rega, terra, mudas de graça, praga e mato sem veneno.',
-    codigos: ['TG005', 'TG006', 'TG007', 'TG022', 'TG023', 'TG041', 'TG057', 'TG058', 'TG059', 'TG060', 'TG075', 'TG097'],
+    codigos: ['TG005', 'TG006', 'TG007', 'TG022', 'TG023', 'TG041', 'TG057', 'TG058', 'TG059', 'TG060', 'TG075', 'TG097', 'TG101', 'TG103', 'TG111'],
   },
 ];
 

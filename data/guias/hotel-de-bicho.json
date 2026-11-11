@@ -1,0 +1,439 @@
+{
+ "codigo": "TG105",
+ "slug": "hotel-de-bicho",
+ "titulo": "Hotel de Bicho",
+ "capa": {
+  "src": "/guias/hotel-de-bicho/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Hotel de Bicho"
+ },
+ "meta": {
+  "titulo": "Hotel de bicho: guia grátis para o quintal",
+  "descricao": "Como montar um hotel de insetos e dar casa, abrigo e comida para os bichos úteis do seu jardim. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG105.pdf",
+  "atualizado": "2026-11-11"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t105",
+    "COLEÇÃO TERRA GENTIL",
+    "HOTEL",
+    "Hotel de Bicho",
+    "Casa e comida para bicho amigo.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/hotel-de-bicho/coringa-compostagem-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 161,
+     "alt": "André ao lado de um hotel de bicho no quintal"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Bicho amigo come praga e a colheita melhora.",
+    "Tronco, folha e galho viram casa para ele.",
+    "Aqui tem hotel, comida e abrigo.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Deixe um canto do quintal sem arrumar.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/hotel-de-bicho/coringa-compostagem-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 148,
+     "alt": "André olhando um canto de quintal com folhas e troncos"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Monte um hotel de bicho.",
+    "Madeira ou palete, casca, bambu furado e telha.",
+    "VENENO",
+    "O primeiro veneno mata os bichos amigos.",
+    "E a praga volta mais rápido."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do hotel",
+    "06",
+    "CAPÍTULO 1",
+    "Casa e abrigo",
+    "08",
+    "CAPÍTULO 2",
+    "Hotel passo a passo",
+    "12",
+    "CAPÍTULO 3",
+    "Comida e cuidado",
+    "15",
+    "CAPÍTULO 4",
+    "Bicho de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Praga voltou? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO HOTEL",
+    "Antes de montar",
+    "O que ele leva",
+    "MADEIRA",
+    "Palete ou estrutura",
+    "BAMBU",
+    "Furado",
+    "TELHA",
+    "E papelão ondulado",
+    "TRONCO",
+    "Morto não é sujeira",
+    "COMIDA",
+    "Girassol para passarinho",
+    "NA PRÁTICA\tATENÇÃO",
+    "O primeiro veneno mata os amigos"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Casa e abrigo",
+    "01\tCerto e errado",
+    "02\tHotel de bicho, passo a passo",
+    "03\tPraga que voltou"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/hotel-de-bicho/coringa-compostagem-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 110,
+     "alt": "André deixando folhas e troncos no canto do quintal"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Veneno\tEvitar\tO primeiro da estação",
+    "Rede\tBeirada bem presa\tBeirada solta",
+    "Espantalho\tBalança e faz barulho\tRoupa velha",
+    "Folha seca\tDeixar cair\tQueimar",
+    "O primeiro veneno mata também os bichos amigos.",
+    "DICA DO ANDRÉ",
+    "Prenda a beirada da rede: bicho não pode ficar preso."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Hotel passo a passo",
+    "01\tHotel de bicho, passo a passo",
+    "02\tCerca morta e tronco",
+    "03\tPraga que voltou"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/hotel-de-bicho/coringa-compostagem-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 134,
+     "alt": "André montando um hotel de bicho com madeira e bambu"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Hotel de bicho? Faça assim.",
+    "ESTRUTURA",
+    "Madeira ou palete",
+    "RECHEIO",
+    "Casca, bambu e telha",
+    "CERCA MORTA",
+    "Galho que sobra",
+    "1",
+    "MONTE",
+    "A estrutura de madeira ou palete.",
+    "2",
+    "ENCHA",
+    "Casca, bambu furado e folha seca.",
+    "3",
+    "EMPILHE",
+    "Galho como cerca morta.",
+    "DICA DO ANDRÉ",
+    "Tronco morto é comida e casa de bicho."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/hotel-de-bicho/hbi-gesto-1.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 253,
+     "alt": "Mãos montando a estrutura de um hotel de bicho com paletes de madeira"
+    },
+    {
+     "src": "/guias/hotel-de-bicho/hbi-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 268,
+     "alt": "Mãos enchendo o hotel de bicho com bambu furado, casca e telha"
+    },
+    {
+     "src": "/guias/hotel-de-bicho/hbi-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 273,
+     "alt": "Mãos empilhando galhos de poda como uma cerca morta"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · ABRIGO",
+    "Cerca morta e tronco",
+    "Mamangava precisa de buraco seco para o ninho.",
+    "Abelha solitária cava ninho em terra fofa ou talo oco.",
+    "Muito passarinho faz ninho em oco de árvore.",
+    "Tronco morto: comida e casa de inseto, fungo e bicho.",
+    "Caminho de pedrisco também é casa de inseto."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Praga que voltou?",
+    "1",
+    "O QUE PARECE",
+    "Jardim limpo e sem bicho.",
+    "O QUE PODE SER",
+    "Veneno matou os bichos amigos.",
+    "COMO RESOLVER",
+    "Evite o primeiro veneno da estação."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/hotel-de-bicho/hbi-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 185,
+     "alt": "Broto de roseira coberto de pulgão num canteiro limpo e sem folhas caídas"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Comida e cuidado",
+    "01\tComida para o bicho",
+    "02\tRede e espantalho",
+    "03\tBicho de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/hotel-de-bicho/coringa-compostagem-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 187,
+     "alt": "André pendurando comida para passarinho"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · COMIDA",
+    "Comida para o bicho",
+    "GIRASSOL",
+    "Semente para passarinho",
+    "SALSINHA",
+    "Floresce se não cortar",
+    "O QUE ELE PEDE",
+    "Álisso branco: tapete de néctar",
+    "Cenoura florida atrai inseto",
+    "Orégano atrai inseto amigo",
+    "Roseira de flor simples dá pólen e fruto",
+    "Bom saber",
+    "Comedouro sem visita? Girassol descascado",
+    "Girassol cortado e pendurado: comedouro"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "O primeiro veneno mata também os bichos amigos.",
+    "Espantalho com roupa velha quase não assusta.",
+    "Rede mal presa pode prender bicho.",
+    "FAÇA ASSIM",
+    "Use o que balança e faz barulho.",
+    "Prenda bem a beirada da rede."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro comidas de bicho",
+    "1",
+    "Cenoura",
+    "Passada do ponto, florzinha branca.",
+    "2",
+    "Salsinha",
+    "Floresce com força no 2º ano.",
+    "3",
+    "Álisso branco",
+    "Tapete de néctar a 20 cm.",
+    "4",
+    "Girassol",
+    "Abelha na flor, semente para passarinho.",
+    "CHAVE\tBicho\tCom casa e comida"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/hotel-de-bicho/hbi-var-cenoura.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 293,
+     "alt": "Cenoura passada do ponto com florzinhas brancas e insetos"
+    },
+    {
+     "src": "/guias/hotel-de-bicho/hbi-var-salsinha.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 274,
+     "alt": "Salsinha florida com insetos nas flores"
+    },
+    {
+     "src": "/guias/hotel-de-bicho/hbi-var-alisso.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 240,
+     "alt": "Álisso branco formando um tapete de flores com insetos"
+    },
+    {
+     "src": "/guias/hotel-de-bicho/hbi-var-girassol.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 141,
+     "alt": "Girassol aberto com uma abelha na flor"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "PASSARINHO NÃO VEM",
+    "Girassol descascado ajuda.",
+    "FRUTA COMIDA",
+    "Rede por uma ou duas semanas.",
+    "BICHO TÍMIDO SUMIU",
+    "Deixe folha caída e um pouco de bagunça.",
+    "SÓ O SEU QUINTAL",
+    "Vizinho com cerca viva ajuda.",
+    "DICA DO ANDRÉ",
+    "Aranha muda de cor com a flor e espera o inseto."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "20",
+    "CM",
+    "é a distância do álisso branco para formar tapete.",
+    "Ele vira um tapete cheio de inseto bebendo néctar.",
+    "E MAIS UMA",
+    "Os pais do andorinhão levam insetos numa bolinha na garganta."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Hotel de bicho montado",
+    "Bambu furado e telha no hotel",
+    "Cerca morta com o galho que sobra",
+    "Girassol cortado e pendurado",
+    "Rede com a beirada bem presa",
+    "Veneno guardado",
+    "Canto sem arrumar no quintal",
+    "Vizinho convencido a plantar cerca viva",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Casa e comida para o bicho amigo, praga sob controle. Monte o seu hotel e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "105\tVOCÊ TEM",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "São 105 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 106 CLIMA DO QUINTAL",
+    "Comente MICROCLIMA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/hotel-de-bicho/coringa-praga-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 133,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,439 @@
+{
+ "codigo": "TG109",
+ "slug": "folhas-da-horta",
+ "titulo": "Folhas da Horta",
+ "capa": {
+  "src": "/guias/folhas-da-horta/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Folhas da Horta"
+ },
+ "meta": {
+  "titulo": "Folhas da horta: guia grátis de couve",
+  "descricao": "Como plantar, colher e semear alface, couve e outras folhas da horta, com cuidado e os erros comuns. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG109.pdf",
+  "atualizado": "2026-11-11"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t109",
+    "COLEÇÃO TERRA GENTIL",
+    "FOLHA",
+    "Folhas da Horta",
+    "Couve, alface, rúcula e brócolis.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/folhas-da-horta/coringa-horta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André colhendo folhas na horta"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "De 4 a 5 pés de alface bastam para ter folha.",
+    "Couve quase não tem praga.",
+    "Aqui tem alface, couve, rúcula e brócolis.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Escolha uma folha para semear esta semana.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/folhas-da-horta/coringa-horta-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André olhando as verduras da horta com carinho"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Colha as folhas de fora da couve.",
+    "Deixe as do miolo crescendo.",
+    "DESBASTE",
+    "Alface do desbaste é verdura bebê.",
+    "E não jogue nada fora."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da folha",
+    "06",
+    "CAPÍTULO 1",
+    "Alface e couve",
+    "08",
+    "CAPÍTULO 2",
+    "Colher e semear",
+    "12",
+    "CAPÍTULO 3",
+    "Cuidado e erros",
+    "15",
+    "CAPÍTULO 4",
+    "Folhas de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Furinhos na couve? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA FOLHA",
+    "Antes de plantar",
+    "O que ela pede",
+    "ALFACE",
+    "15 a 35 cm entre pés",
+    "COLHEITA",
+    "Folha bebê ou pé formado",
+    "REGA",
+    "Bem regada pendoa menos",
+    "COUVE",
+    "Colha as de fora",
+    "BRÓCOLIS",
+    "30 cm entre plantas",
+    "NA PRÁTICA\tATENÇÃO",
+    "Couve-rábano não vai onde teve couve"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Alface e couve",
+    "01\tCerto e errado",
+    "02\tColher e semear, passo a passo",
+    "03\tFurinhos na couve"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/folhas-da-horta/coringa-horta-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 192,
+     "alt": "André plantando alface na horta"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Couve\tColher de fora\tCortar o miolo",
+    "Brócolis\tBotão fechado\tBotão aberto",
+    "Couve-rábano\tLonge de couve\tOnde teve couve",
+    "Tela\tLonge das folhas\tColada na folha",
+    "Colha a cabeça com os botões fechados.",
+    "DICA DO ANDRÉ",
+    "Os brotinhos do lado são a segunda colheita."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Colher e semear",
+    "01\tColher e semear, passo a passo",
+    "02\tRúcula e brócolis",
+    "03\tFurinhos na couve"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/folhas-da-horta/coringa-horta-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 137,
+     "alt": "André colhendo couve na horta"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Couve? Colha assim.",
+    "FORA",
+    "As folhas de fora",
+    "MIOLO",
+    "Deixe crescendo",
+    "TOCO",
+    "Do repolho, na terra",
+    "1",
+    "COLHA",
+    "As folhas de fora da couve.",
+    "2",
+    "DESBASTE",
+    "Alface vira verdura bebê.",
+    "3",
+    "PROTEJA",
+    "Colar de papelão na muda.",
+    "DICA DO ANDRÉ",
+    "Toco de repolho dá mais uma colheita."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/folhas-da-horta/fho-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 296,
+     "alt": "Mãos colhendo as folhas de fora de uma couve e deixando o miolo"
+    },
+    {
+     "src": "/guias/folhas-da-horta/fho-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 147,
+     "alt": "Mãos tirando mudinhas de alface do desbaste para comer como verdura bebê"
+    },
+    {
+     "src": "/guias/folhas-da-horta/fho-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 241,
+     "alt": "Mãos pondo um colar de papelão em volta de uma muda de couve"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · SEMEAR",
+    "Rúcula e brócolis",
+    "Rúcula: folhinha em 2 semanas ou inteira com 4.",
+    "Deixe a rúcula sementear sozinha pela horta.",
+    "Rúcula-selvagem é perene e dá colheita por muito tempo.",
+    "Brócolis: segunda colheita nos brotinhos do lado.",
+    "Brócolis no vaso: três plantas num vaso de 40 cm."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Furinhos na couve?",
+    "1",
+    "O QUE PARECE",
+    "Folha cheia de furinhos.",
+    "O QUE PODE SER",
+    "Pulguinha, o besouro-pulga.",
+    "COMO RESOLVER",
+    "Tela e muda já grande."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/folhas-da-horta/fho-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 299,
+     "alt": "Folha de couve cheia de furinhos pequenos feitos por besouro-pulga"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Cuidado e erros",
+    "01\tAlface e azedinha",
+    "02\tMosca e passarinho",
+    "03\tFolhas de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/folhas-da-horta/coringa-horta-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 152,
+     "alt": "André cuidando das folhas da horta"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CUIDADO",
+    "Alface e azedinha",
+    "ALFACE",
+    "Doce se crescer rápido",
+    "AZEDINHA",
+    "Tire as flores",
+    "O QUE ELA PEDE",
+    "Rúcula a flor também se come",
+    "Mostarda fica ardida conforme cresce",
+    "Couve que floriu: deixe a flor",
+    "Romana aguenta mais o calor",
+    "Bom saber",
+    "Radicchio aguenta mais o frio",
+    "Azedinha amarga se a terra seca e esquenta"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Passarinho depena muda nova de couve.",
+    "Mosca da raiz ataca a couve.",
+    "Azedinha solta flor e vira praga.",
+    "FAÇA ASSIM",
+    "Tela até o chão.",
+    "Colar de papelão de 15 cm na muda."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro folhas",
+    "1",
+    "Couve",
+    "Colha de fora.",
+    "2",
+    "Alface romana",
+    "Aguenta mais o calor.",
+    "3",
+    "Rúcula",
+    "Folhinha em 2 semanas.",
+    "4",
+    "Brócolis",
+    "Cabeça e depois brotinhos.",
+    "CHAVE\tFolha\tColhe e rebrota"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/folhas-da-horta/fho-var-couve.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 279,
+     "alt": "Couve de folhas grandes e escuras num canteiro"
+    },
+    {
+     "src": "/guias/folhas-da-horta/fho-var-alface.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 206,
+     "alt": "Alface romana de folhas compridas num canteiro"
+    },
+    {
+     "src": "/guias/folhas-da-horta/fho-var-rucula.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 242,
+     "alt": "Rúcula de folhas recortadas pronta para cortar"
+    },
+    {
+     "src": "/guias/folhas-da-horta/fho-var-brocolis.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 209,
+     "alt": "Brócolis com a cabeça formada e botões ainda fechados"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "AZEDINHA AMARGA",
+    "Terra seca e quente: cubra e regue.",
+    "COUVE-RÁBANO",
+    "Não plante onde teve couve.",
+    "MOSTARDA FORTE",
+    "Fica mais ardida ao crescer.",
+    "ALFACE PENDOANDO",
+    "Regue bem para atrasar.",
+    "DICA DO ANDRÉ",
+    "Só 15 cm de terra já dão alface e rabanete."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "15",
+    "CM",
+    "de terra bastam para alface, rabanete e mostarda.",
+    "Com a rega em dia.",
+    "E MAIS UMA",
+    "O talo do brócolis se come: descasque e coma cru."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Folhas de fora da couve colhidas",
+    "Desbaste de alface comido como bebê",
+    "Colar de papelão na muda de couve",
+    "Tela longe das folhas",
+    "Azedinha sem flor",
+    "Rúcula deixada sementear",
+    "Brócolis com 30 cm entre plantas",
+    "Couve-rábano longe da couve",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Folha que rebrota e verdura bebê: horta farta. Colha e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "109\tVOCÊ TEM",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "São 109 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 110 ROSAS ANTIGAS",
+    "Comente ENXERTO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/folhas-da-horta/coringa-horta-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 186,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

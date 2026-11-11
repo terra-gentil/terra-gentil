@@ -1,0 +1,439 @@
+{
+ "codigo": "TG101",
+ "slug": "solo-vivo",
+ "titulo": "Solo Vivo",
+ "capa": {
+  "src": "/guias/solo-vivo/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Solo Vivo"
+ },
+ "meta": {
+  "titulo": "Solo vivo: guia grátis de terra fofa",
+  "descricao": "Como cuidar da terra viva do quintal, com minhoca, grumos e cobertura, e testar e consertar o solo sem gastar. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG101.pdf",
+  "atualizado": "2026-11-11"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t101",
+    "COLEÇÃO TERRA GENTIL",
+    "SOLO",
+    "Solo Vivo",
+    "Terra fofa, planta forte.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/solo-vivo/coringa-solo-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 215,
+     "alt": "André com um punhado de terra escura na mão"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Terra boa é terra fofa e cheia de vida.",
+    "Aqui tem teste, conserto e cobertura.",
+    "A raiz precisa de grumo e de espaço.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Esfregue a terra do seu vaso entre os dedos.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/solo-vivo/coringa-solo-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 148,
+     "alt": "André olhando a terra do canteiro com carinho"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Faça o teste da terra na mão.",
+    "Arranha e esfarela? É terra arenosa.",
+    "ARGILA",
+    "Salsicha úmida que não racha no anel.",
+    "E anote o resultado."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do solo",
+    "06",
+    "CAPÍTULO 1",
+    "Terra fofa",
+    "08",
+    "CAPÍTULO 2",
+    "Teste e conserto",
+    "12",
+    "CAPÍTULO 3",
+    "Cobertura e vaso",
+    "15",
+    "CAPÍTULO 4",
+    "Solo de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Água que escorre? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO SOLO",
+    "Antes de plantar",
+    "O que ele pede",
+    "GRUMOS",
+    "Terra fofa, não pó",
+    "ESPAÇO",
+    "Para a raiz explorar",
+    "ÁGUA",
+    "Entra, não escorre",
+    "VIDA",
+    "Minhoca e bactéria",
+    "PISAR",
+    "Barro molhado, nunca",
+    "NA PRÁTICA\tATENÇÃO",
+    "Terra socada: mais água rende pouco"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Terra fofa",
+    "01\tCerto e errado",
+    "02\tTeste do solo, passo a passo",
+    "03\tÁgua que escorre"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/solo-vivo/coringa-adubar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 163,
+     "alt": "André mexendo na terra do canteiro"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Barro molhado\tNão pisar\tPisar",
+    "Terra de baixo\tFica embaixo\tVir para cima",
+    "Mangueira\tDevagar, no pé\tJato forte",
+    "Cobertura\tFolga no caule\tEncostada no caule",
+    "Pisar no barro molhado estraga a estrutura do solo.",
+    "DICA DO ANDRÉ",
+    "Ao cavar, não traga a terra de baixo para cima."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Teste e conserto",
+    "01\tTeste do solo, passo a passo",
+    "02\tAreia e argila",
+    "03\tÁgua que escorre"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/solo-vivo/coringa-solo-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 209,
+     "alt": "André examinando a terra com as mãos"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Qual é a sua terra? Teste.",
+    "ARENOSA",
+    "Arranha e esfarela",
+    "ARGILA",
+    "Salsicha que não racha",
+    "COBERTURA",
+    "Esterco curtido, 10 cm",
+    "1",
+    "ESFREGUE",
+    "A terra entre os dedos.",
+    "2",
+    "DOBRE",
+    "Salsicha de terra úmida em anel.",
+    "3",
+    "COBRE",
+    "Arenoso? Esterco curtido, 10 cm.",
+    "DICA DO ANDRÉ",
+    "A terra de cima é escura e rica."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/solo-vivo/slv-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 108,
+     "alt": "Mãos esfregando um punhado de terra entre os dedos para sentir se arranha"
+    },
+    {
+     "src": "/guias/solo-vivo/slv-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 157,
+     "alt": "Mãos dobrando uma salsicha de terra úmida em forma de anel"
+    },
+    {
+     "src": "/guias/solo-vivo/slv-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 249,
+     "alt": "Mãos espalhando esterco curtido sobre a terra arenosa de um canteiro"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · TERRA",
+    "Areia e argila",
+    "Arenosa: a chuva forte leva o adubo embora.",
+    "Argila: fértil, mas encharca na chuva.",
+    "Argila seca: vira tijolo rachado.",
+    "Terra siltosa: não deixe descoberta.",
+    "Canteiro elevado ajuda a argila a drenar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Água que não entra?",
+    "1",
+    "O QUE PARECE",
+    "A chuva molha e escorre.",
+    "O QUE PODE SER",
+    "Crosta dura: a água não entra.",
+    "COMO RESOLVER",
+    "Regue devagar, no pé, e cubra o chão."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/solo-vivo/slv-sintoma-1.webp",
+     "largura": 700,
+     "altura": 1254,
+     "kb": 230,
+     "alt": "Água empoçada sobre terra dura e rachada depois da chuva"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Cobertura e vaso",
+    "01\tCobertura que segura",
+    "02\tCuidado com a terra",
+    "03\tSolo de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/solo-vivo/coringa-regar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 182,
+     "alt": "André regando devagar no pé da planta"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · COBERTURA",
+    "Cobertura morta",
+    "SERVE",
+    "Segura a água",
+    "FOLGA",
+    "Longe do caule",
+    "O QUE ELA PEDE",
+    "Serragem e casca curtida, sem tratamento",
+    "Lã de ovelha segura água e abafa o mato",
+    "Acícula de pinheiro: o vento não leva",
+    "Manta de tecido só se a água passar",
+    "Bom saber",
+    "Juta ou fibra de coco seguram barranco",
+    "Casca ou cavaco protegem sob a árvore"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · TERRA",
+    "ATENÇÃO",
+    "Terra preta rica não serve para planta de clima seco.",
+    "Pisar no barro molhado estraga o solo.",
+    "Água doce também pode salgar a terra dura.",
+    "FAÇA ASSIM",
+    "Antes de escolher a terra, veja onde a planta vive.",
+    "A terra de baixo é clara e pobre: deixe embaixo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro cantos do solo",
+    "1",
+    "Grumos",
+    "Terra fofa, colada por bactérias.",
+    "2",
+    "Minhocas",
+    "Uns 400 g por metro quadrado.",
+    "3",
+    "Cobertura",
+    "Chão coberto, com folga do caule.",
+    "4",
+    "Barranco",
+    "Tela de juta e planta nos furos.",
+    "CHAVE\tTerra\tFofa e coberta"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/solo-vivo/slv-var-grumos.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 203,
+     "alt": "Terra escura e fofa em grumos num canteiro de jardim"
+    },
+    {
+     "src": "/guias/solo-vivo/slv-var-minhoca.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 166,
+     "alt": "Minhocas se mexendo num punhado de terra escura e úmida"
+    },
+    {
+     "src": "/guias/solo-vivo/slv-var-cobertura.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 236,
+     "alt": "Palha cobrindo o chão em volta de uma planta, com folga do caule"
+    },
+    {
+     "src": "/guias/solo-vivo/slv-var-barranco.webp",
+     "largura": 700,
+     "altura": 938,
+     "kb": 234,
+     "alt": "Barranco coberto com tela de juta e plantinhas nascendo nos furos"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "AREIA BRANCA NA SUPERFÍCIE",
+    "Pode ser terra compactada.",
+    "ADUBO NÃO FAZ EFEITO",
+    "Terra em mau estado: dura, sem ar.",
+    "FOLHA AMARELA",
+    "Teste o solo: pode ser o pH.",
+    "TERRA DESCOBERTA",
+    "Cubra com planta ou palha.",
+    "DICA DO ANDRÉ",
+    "Sem espaço para a raiz, a terra não rende."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "95",
+    "%",
+    "da erosão vem da água que não consegue entrar na terra.",
+    "Terra fofa deixa a água entrar.",
+    "E MAIS UMA",
+    "Fungo na raiz nem sempre é ruim: muita planta vive com fungos amigos."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Terra esfregada entre os dedos",
+    "Salsicha de argila testada",
+    "Esterco curtido, se a terra for arenosa",
+    "Cobertura com folga do caule",
+    "Serragem ou casca no chão",
+    "Tela de juta no barranco",
+    "Terra de cima mantida em cima",
+    "Barro molhado sem pisar",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Terra fofa, raiz feliz. Faça o teste, cubra o chão e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "101\tVOCÊ TEM",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "São 101 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 102 CERCA VIVA E VENTO",
+    "Comente CERCA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/solo-vivo/coringa-solo-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 131,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,158 @@
+{
+  "livro": "Leva 9 lote 2",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "mte-sintoma-1",
+      "especie": "weedy bed",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Garden bed with weed shoots sprouting from white rhizomes in loose soil",
+      "mascote": false
+    },
+    {
+      "id": "mte-var-dente-de-leao",
+      "especie": "dandelion",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dandelion with a flat rosette of leaves and a yellow flower at the edge of a lawn",
+      "mascote": false
+    },
+    {
+      "id": "mte-var-lingua-de-vaca",
+      "especie": "curled dock",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Curled dock with broad leaves and tall reddish seed stalks beside a path",
+      "mascote": false
+    },
+    {
+      "id": "mte-var-corda-de-viola",
+      "especie": "bindweed",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Field bindweed with white flowers twining on a garden fence; the small mascot figurine stands on the ground at the foot of the fence",
+      "mascote": true
+    },
+    {
+      "id": "mte-var-capim-colonicao",
+      "especie": "guinea grass",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tall dense clump of guinea grass in an abandoned lot",
+      "mascote": false
+    },
+    {
+      "id": "pcn-gesto-1",
+      "especie": "basil and tomato",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting a basil seedling next to a tomato plant in a vegetable bed",
+      "mascote": false
+    },
+    {
+      "id": "pcn-gesto-2",
+      "especie": "dill seeds",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sowing dill seeds directly in the soil of a vegetable bed; the small mascot figurine sits on the wooden edge of the bed",
+      "mascote": true
+    },
+    {
+      "id": "pcn-gesto-3",
+      "especie": "mint in clay pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands burying a terracotta pot with mint up to its rim in a garden bed",
+      "mascote": false
+    },
+    {
+      "id": "pcn-sintoma-1",
+      "especie": "mint overgrown",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Mint spreading over a vegetable bed and hiding the other plants",
+      "mascote": false
+    },
+    {
+      "id": "pcn-var-borragem",
+      "especie": "borage",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Borage with blue hanging flowers and a bee on one of them",
+      "mascote": false
+    },
+    {
+      "id": "pcn-var-calendula",
+      "especie": "calendula",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Orange calendula flowers among vegetables in a garden bed; the small mascot figurine stands on the soil next to them",
+      "mascote": true
+    },
+    {
+      "id": "pcn-var-endro",
+      "especie": "dill",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dill with feathery leaves and yellow umbrella flowers in a vegetable garden",
+      "mascote": false
+    },
+    {
+      "id": "pcn-var-hortela",
+      "especie": "flowering mint",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Flowering mint with lilac flowers and a butterfly on it",
+      "mascote": false
+    },
+    {
+      "id": "hbi-gesto-1",
+      "especie": "bug hotel",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands assembling the frame of a bug hotel from wooden pallets",
+      "mascote": false
+    },
+    {
+      "id": "hbi-gesto-2",
+      "especie": "bug hotel",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands filling a bug hotel with hollow bamboo, bark and roof tiles",
+      "mascote": false
+    },
+    {
+      "id": "hbi-gesto-3",
+      "especie": "dead hedge",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands stacking pruned branches into a low dead hedge; the small mascot figurine sits on the ground beside the pile",
+      "mascote": true
+    },
+    {
+      "id": "hbi-sintoma-1",
+      "especie": "aphids on rose",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Rose shoot covered with aphids in a very tidy bare garden bed with no fallen leaves",
+      "mascote": false
+    },
+    {
+      "id": "hbi-var-cenoura",
+      "especie": "flowering carrot",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Carrot gone to flower with white flower umbels and small insects on them",
+      "mascote": false
+    },
+    {
+      "id": "hbi-var-salsinha",
+      "especie": "flowering parsley",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Parsley in flower with small insects on the yellow-green flowers",
+      "mascote": false
+    }
+  ]
+}

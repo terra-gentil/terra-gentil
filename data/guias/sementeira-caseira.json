@@ -1,0 +1,439 @@
+{
+ "codigo": "TG107",
+ "slug": "sementeira-caseira",
+ "titulo": "Sementeira Caseira",
+ "capa": {
+  "src": "/guias/sementeira-caseira/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Sementeira Caseira"
+ },
+ "meta": {
+  "titulo": "Sementeira caseira: guia grátis de semente",
+  "descricao": "Como fazer sementeira em casa, com pote e substrato certos, semear passo a passo e cuidar da muda. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG107.pdf",
+  "atualizado": "2026-11-11"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t107",
+    "COLEÇÃO TERRA GENTIL",
+    "SEMENTEIRA",
+    "Sementeira Caseira",
+    "Semear em casa, com pote e jornal.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sementeira-caseira/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André com potes de semear numa bancada"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Qualquer pote com furo serve para semear.",
+    "A maioria das sementes germina em duas semanas.",
+    "Aqui tem pote, estufa e repicagem.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Separe um pote com furo no fundo.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sementeira-caseira/coringa-muda-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André olhando as mudinhas nascendo com carinho"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Marque o que você semeou.",
+    "Semanas depois ninguém lembra que mudinha é aquela.",
+    "VASO DE JORNAL",
+    "Vai inteiro para a terra.",
+    "E semeie num pote com furo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da sementeira",
+    "06",
+    "CAPÍTULO 1",
+    "Pote e substrato",
+    "08",
+    "CAPÍTULO 2",
+    "Semear, passo a passo",
+    "12",
+    "CAPÍTULO 3",
+    "Cuidado e erros",
+    "15",
+    "CAPÍTULO 4",
+    "Sementes de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Mudas embolando? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA SEMENTEIRA",
+    "Antes de semear",
+    "O que ela pede",
+    "POTE",
+    "Qualquer um com furo",
+    "SUBSTRATO",
+    "Estéril, sem comida",
+    "ESTUFA",
+    "Saco plástico transparente",
+    "PRAZO",
+    "Quase tudo em 2 semanas",
+    "REPICAR",
+    "Pela folha, não pelo caule",
+    "NA PRÁTICA\tATENÇÃO",
+    "Bandeja inteira embola as mudas"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Pote e substrato",
+    "01\tCerto e errado",
+    "02\tVaso de jornal, passo a passo",
+    "03\tMudas embolando"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sementeira-caseira/coringa-muda-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 219,
+     "alt": "André preparando potes com substrato para semear"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Repicar\tPela folha\tPelo caule",
+    "Borda do papelão\tDentro da terra\tPara fora",
+    "Bandeja\tDe células\tInteira",
+    "Semente achatada\tDe lado\tDeitada",
+    "Folha quebrada a muda refaz; caule, não.",
+    "DICA DO ANDRÉ",
+    "Uma colher de chá basta para repicar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Semear, passo a passo",
+    "01\tVaso de jornal, passo a passo",
+    "02\tEstufa e fibra de coco",
+    "03\tMudas embolando"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sementeira-caseira/coringa-muda-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 118,
+     "alt": "André enrolando jornal para fazer um vaso de semear"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Vaso de jornal? Faça assim.",
+    "TIRA",
+    "30 por 20 cm",
+    "LATA",
+    "Enrole e dobre o fundo",
+    "DEPOIS",
+    "Vai inteiro para a terra",
+    "1",
+    "ENROLE",
+    "A tira numa lata de refrigerante.",
+    "2",
+    "SEMEIE",
+    "Num pote com furo e substrato.",
+    "3",
+    "REPIQUE",
+    "Pela folha, com uma colher.",
+    "DICA DO ANDRÉ",
+    "Marque o que semeou."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sementeira-caseira/sem-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 204,
+     "alt": "Mãos enrolando uma tira de jornal numa lata de refrigerante para fazer um vaso"
+    },
+    {
+     "src": "/guias/sementeira-caseira/sem-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 198,
+     "alt": "Mãos semeando num pote de iogurte com furo no fundo cheio de substrato"
+    },
+    {
+     "src": "/guias/sementeira-caseira/sem-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 145,
+     "alt": "Mãos segurando uma mudinha pela folha com uma colher de chá para repicar"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · SEMEAR",
+    "Estufa e fibra de coco",
+    "Estufa improvisada: saco plástico transparente, sem apertar.",
+    "Pastilha de fibra de coco: uma hora de molho vira cilindro.",
+    "Estufinha de galão de leite: fure o fundo.",
+    "Semente miúda, como a de cenoura, vai misturada com areia.",
+    "Substrato de semear é estéril: sem comida para crescer."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Mudas embolando?",
+    "1",
+    "O QUE PARECE",
+    "Mudas grudadas na bandeja.",
+    "O QUE PODE SER",
+    "Bandeja inteira, sem células.",
+    "COMO RESOLVER",
+    "Use células e repique com colher."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sementeira-caseira/sem-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 271,
+     "alt": "Mudinhas embolando umas nas outras numa bandeja de semear sem células"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Cuidado e erros",
+    "01\tSementes que pedem jeito",
+    "02\tRato e semente miúda",
+    "03\tSementes de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sementeira-caseira/coringa-muda-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 206,
+     "alt": "André cuidando das mudinhas com cuidado"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CUIDADO",
+    "Sementes que pedem jeito",
+    "ALFACE",
+    "Não germina no calor forte",
+    "DEDALEIRA",
+    "Precisa de luz: não cubra",
+    "O QUE ELA PEDE",
+    "Pepininho demora até 3 semanas",
+    "Rabanete vai direto no lugar",
+    "Hoia fresca germina em poucos dias",
+    "Haworthia perde força depois de seis meses",
+    "Bom saber",
+    "Cana-da-índia dura: lixe ou água quente",
+    "Aeônio velho quase não nasce"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Rato come semente de ervilha, feijão e milho.",
+    "A semente da dedaleira faz mal se for engolida.",
+    "A da glória-da-manhã também faz mal engolida.",
+    "FAÇA ASSIM",
+    "Firme a terra por cima ou semeie dentro de casa.",
+    "Mexa com cuidado nas sementes miúdas."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro sementes",
+    "1",
+    "Girassol",
+    "Germina em 7 a 10 dias.",
+    "2",
+    "Rabanete",
+    "Direto no lugar, pronto em 3 semanas.",
+    "3",
+    "Pimenta",
+    "Germina em uns 10 dias, no quentinho.",
+    "4",
+    "Capuchinha",
+    "Germina em 7 dias.",
+    "CHAVE\tSemente\tEm casa, no pote"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sementeira-caseira/sem-var-girassol.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 202,
+     "alt": "Mudinhas de girassol com as primeiras folhas num pote"
+    },
+    {
+     "src": "/guias/sementeira-caseira/sem-var-rabanete.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 259,
+     "alt": "Rabanetes nascendo em fileira direto no canteiro"
+    },
+    {
+     "src": "/guias/sementeira-caseira/sem-var-pimenta.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 137,
+     "alt": "Mudinhas de pimenta num pote quentinho numa janela"
+    },
+    {
+     "src": "/guias/sementeira-caseira/sem-var-capuchinha.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 221,
+     "alt": "Mudinhas de capuchinha de folhas redondas num pote"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "SEMENTE NÃO NASCEU",
+    "Velha? Aeônio cai para 1 ou 2%.",
+    "ALFACE NO CALOR",
+    "Não germina e espiga no verão.",
+    "SEMENTE SUMIU",
+    "Rato come ervilha, feijão e milho.",
+    "NÃO SEI O QUE É",
+    "Marque o que semeou.",
+    "DICA DO ANDRÉ",
+    "Semente peletizada: regue bem para a capa dissolver."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "30",
+    "CM",
+    "é o tamanho que a cabeça do girassol chega a ter.",
+    "Girassol germina em 7 a 10 dias.",
+    "E MAIS UMA",
+    "Primeiro sai a raizinha; só depois o broto."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Pote com furo separado",
+    "Vaso de jornal enrolado na lata",
+    "Semente marcada com o nome",
+    "Saco plástico como estufa",
+    "Bandeja de células em vez de inteira",
+    "Repicagem pela folha, com colher",
+    "Semente achatada de lado",
+    "Pacote lido antes de semear",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Pote, jornal e paciência: a sementeira é sua. Semeie e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "107\tVOCÊ TEM",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "São 107 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 108 SOL E SOMBRA",
+    "Comente SOMBRA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sementeira-caseira/coringa-muda-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 174,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

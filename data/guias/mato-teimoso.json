@@ -1,0 +1,439 @@
+{
+ "codigo": "TG103",
+ "slug": "mato-teimoso",
+ "titulo": "Mato Teimoso",
+ "capa": {
+  "src": "/guias/mato-teimoso/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Mato Teimoso"
+ },
+ "meta": {
+  "titulo": "Mato teimoso: guia grátis para tirar a raiz",
+  "descricao": "Como acabar com o mato que volta, entendendo rizoma e estolão e tirando a raiz sem veneno nem susto. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG103.pdf",
+  "atualizado": "2026-11-11"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t103",
+    "COLEÇÃO TERRA GENTIL",
+    "RIZOMA",
+    "Mato Teimoso",
+    "Raiz que rebrota, mato que volta.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-teimoso/coringa-mato-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 242,
+     "alt": "André arrancando mato do canteiro"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Tem mato que volta mesmo depois de limpar.",
+    "Muitas vezes ele volta pela raiz.",
+    "Aqui tem rizoma, estolão e jeito de tirar.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Procure um mato que volta no seu canteiro.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-teimoso/coringa-mato-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 175,
+     "alt": "André olhando um mato teimoso com paciência"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Tire a raiz inteira.",
+    "Enxada no dente-de-leão faz nascer mais.",
+    "GARFO",
+    "Garfo tira a raiz inteira.",
+    "Língua-de-vaca: pelo menos a metade de cima."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do rizoma",
+    "06",
+    "CAPÍTULO 1",
+    "Rizoma e estolão",
+    "08",
+    "CAPÍTULO 2",
+    "Tirar a raiz",
+    "12",
+    "CAPÍTULO 3",
+    "Mato que volta",
+    "15",
+    "CAPÍTULO 4",
+    "Mato de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Mato que voltou? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO RIZOMA",
+    "Antes de capinar",
+    "O que ele faz",
+    "RIZOMA",
+    "Caule que corre embaixo",
+    "ESTOLÃO",
+    "Caule que corre por cima",
+    "PEDACINHO",
+    "Corda-de-viola rebrota",
+    "SEMENTE",
+    "Perene também semeia",
+    "ACABAR",
+    "Só em área pequena",
+    "NA PRÁTICA\tATENÇÃO",
+    "Enxada espalha pedaço de raiz"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Rizoma e estolão",
+    "01\tCerto e errado",
+    "02\tTirar a raiz, passo a passo",
+    "03\tMato que voltou"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-teimoso/coringa-mato-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 201,
+     "alt": "André examinando a raiz de um mato"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Dente-de-leão\tGarfo, raiz inteira\tEnxada",
+    "Muda de árvore\tTirar nova\tCortar no frio",
+    "Perene\tLimpar antes\tPlantar sem limpar",
+    "Bulbinho\tDescartar\tDeixar no chão",
+    "Cortar no frio faz a muda rebrotar mais forte.",
+    "DICA DO ANDRÉ",
+    "Às vezes vale deixar o canteiro vazio."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Tirar a raiz",
+    "01\tTirar a raiz, passo a passo",
+    "02\tRizoma e estolão",
+    "03\tMato que voltou"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-teimoso/coringa-ferramentas-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 153,
+     "alt": "André com o garfo de jardim para tirar a raiz"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Raiz grande? Faça assim.",
+    "DENTE-DE-LEÃO",
+    "Raiz inteira",
+    "LÍNGUA-DE-VACA",
+    "Metade de cima",
+    "ALIÁRIA",
+    "Não rebrota",
+    "1",
+    "GARFO",
+    "Sob a raiz do dente-de-leão.",
+    "2",
+    "CAVE",
+    "Metade de cima da língua-de-vaca.",
+    "3",
+    "ARRANQUE",
+    "Aliária sai fácil na mão.",
+    "DICA DO ANDRÉ",
+    "Limpe o mato antes de plantar perene."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-teimoso/mte-gesto-1.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 275,
+     "alt": "Mãos enfiando um garfo de jardim sob a raiz de um dente-de-leão"
+    },
+    {
+     "src": "/guias/mato-teimoso/mte-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 229,
+     "alt": "Mãos tirando a parte de cima da raiz comprida de uma língua-de-vaca"
+    },
+    {
+     "src": "/guias/mato-teimoso/mte-gesto-3.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 270,
+     "alt": "Mãos arrancando uma aliária do canteiro, só com a mão"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · RAIZ",
+    "Rizoma e estolão",
+    "Rizoma: caule que corre para baixo e sobe com broto.",
+    "Estolão: caule que corre por cima e solta planta nova.",
+    "Água parada longa mata até tiririca e quicuio.",
+    "Podagrária chega em terra e resto de jardim contaminados.",
+    "Perene que some no frio volta como aspargo e morango."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Mato que voltou?",
+    "1",
+    "O QUE PARECE",
+    "Capina que não adiantou.",
+    "O QUE PODE SER",
+    "Rizoma ou estolão no chão.",
+    "COMO RESOLVER",
+    "Tire a raiz toda e o pedaço que rebrota."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-teimoso/mte-sintoma-1.webp",
+     "largura": 800,
+     "altura": 1433,
+     "kb": 298,
+     "alt": "Canteiro com brotos de mato nascendo de rizomas brancos na terra solta"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Mato que volta",
+    "01\tPerene que rebrota",
+    "02\tErros e cuidados",
+    "03\tMato de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-teimoso/coringa-mato-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 268,
+     "alt": "André limpando o canteiro antes de plantar"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · MATO",
+    "Perene que rebrota",
+    "LIMPEZA",
+    "Antes de plantar perene",
+    "CANTEIRO",
+    "Às vezes, vazio uma temporada",
+    "O QUE ELE PEDE",
+    "Língua-de-vaca cave e tire a metade de cima da raiz",
+    "Losna-brava vem de rizomas brancos",
+    "Corda-de-viola rizoma a 30 cm de fundura",
+    "Tanchagem arranque a raiz inteira e areje",
+    "Bom saber",
+    "Trevinho uma espécie corre por estolão",
+    "Cardo-rasteiro se espalha pela raiz"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Enxada no dente-de-leão faz nascer mais.",
+    "Língua-de-vaca solta 7 mil sementes que duram mais de 5 anos.",
+    "Bulbinho de mato rebrota fácil.",
+    "FAÇA ASSIM",
+    "Garfo e raiz inteira.",
+    "Descarte os bulbinhos com cuidado."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro matos teimosos",
+    "1",
+    "Dente-de-leão",
+    "Raiz reta e roseta no chão.",
+    "2",
+    "Língua-de-vaca",
+    "Raiz comprida e 7 mil sementes.",
+    "3",
+    "Corda-de-viola",
+    "Rizoma branco a 30 cm.",
+    "4",
+    "Capim-colonião",
+    "Touceira de 1 a 2 m.",
+    "CHAVE\tMato\tQue volta pela raiz"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-teimoso/mte-var-dente-de-leao.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 250,
+     "alt": "Dente-de-leão com folhas em roseta no chão e flor amarela"
+    },
+    {
+     "src": "/guias/mato-teimoso/mte-var-lingua-de-vaca.webp",
+     "largura": 800,
+     "altura": 1071,
+     "kb": 261,
+     "alt": "Língua-de-vaca de folhas largas e espiga de sementes avermelhadas"
+    },
+    {
+     "src": "/guias/mato-teimoso/mte-var-corda-de-viola.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 271,
+     "alt": "Corda-de-viola de flor branca enrolada numa cerca do quintal"
+    },
+    {
+     "src": "/guias/mato-teimoso/mte-var-capim-colonicao.webp",
+     "largura": 800,
+     "altura": 1071,
+     "kb": 253,
+     "alt": "Capim-colonião alto em touceira grande num terreno"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "LOSNA-BRAVA VOLTANDO",
+    "Rizomas brancos debaixo da terra.",
+    "TREVINHO QUE NÃO ACABA",
+    "Estolão, semente ou bulbinho.",
+    "CAPIM-AMARGOSO",
+    "Perene, semente e rizoma curto.",
+    "TANCHAGEM NO GRAMADO",
+    "Areje, adube e arranque a raiz.",
+    "DICA DO ANDRÉ",
+    "Água parada longa mata até tiririca."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "3",
+    "%",
+    "das sementes do cardo-rasteiro nascem.",
+    "Ele se espalha mesmo é pela raiz.",
+    "E MAIS UMA",
+    "A sagina parece musgo, mas tem raiz e flor."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Mato que volta identificado",
+    "Raiz inteira tirada com garfo",
+    "Metade de cima da língua-de-vaca fora",
+    "Bulbinhos descartados com cuidado",
+    "Mato limpo antes da perene",
+    "Muda de árvore tirada nova",
+    "Aliária tirada na mão",
+    "Tanchagem arrancada com a raiz",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Raiz inteira fora, mato menos teimoso. Tente e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "103\tVOCÊ TEM",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "São 103 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 104 HORTA COMPANHEIRA",
+    "Comente COMPANHEIRA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/mato-teimoso/coringa-ferramentas-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 140,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

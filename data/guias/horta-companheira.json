@@ -1,0 +1,439 @@
+{
+ "codigo": "TG104",
+ "slug": "horta-companheira",
+ "titulo": "Horta Companheira",
+ "capa": {
+  "src": "/guias/horta-companheira/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Horta Companheira"
+ },
+ "meta": {
+  "titulo": "Horta companheira: guia grátis de plantio",
+  "descricao": "Como plantar flores e ervas junto da horta para chamar aliados e afastar praga, com os erros mais comuns. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG104.pdf",
+  "atualizado": "2026-11-11"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t104",
+    "COLEÇÃO TERRA GENTIL",
+    "COMPANHEIRA",
+    "Horta Companheira",
+    "Flor e erva no meio da horta.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-companheira/coringa-horta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André com flores e ervas no meio da horta"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Flor no meio da horta ajuda de três jeitos.",
+    "Mas a prova de que espantam praga é pouca.",
+    "Aqui tem o que ajuda e o que testar.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Escolha uma flor para o meio da horta.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-companheira/coringa-horta-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André olhando as flores entre as hortaliças com carinho"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Ponha flor no meio da horta.",
+    "Calêndula e cravo-de-defunto chamam quem caça praga.",
+    "CENOURA",
+    "Cebolinha e alho disfarçam o cheiro dela.",
+    "E teste com um pé atrás."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da companheira",
+    "06",
+    "CAPÍTULO 1",
+    "Flor na horta",
+    "08",
+    "CAPÍTULO 2",
+    "Ervas e plantio",
+    "12",
+    "CAPÍTULO 3",
+    "Cuidado e erros",
+    "15",
+    "CAPÍTULO 4",
+    "Companheiras de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Hortelã tomando tudo? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA COMPANHEIRA",
+    "Antes de plantar",
+    "O que ela faz",
+    "FLOR",
+    "Chama polinizador",
+    "CRAVO",
+    "Atrai quem caça praga",
+    "MANJERICÃO",
+    "Perto do tomate",
+    "ENDRO",
+    "No meio da horta",
+    "HORTELÃ",
+    "Em vaso enterrado",
+    "NA PRÁTICA\tATENÇÃO",
+    "Prova de espantar praga é pouca"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Flor na horta",
+    "01\tCerto e errado",
+    "02\tPlantar junto, passo a passo",
+    "03\tHortelã tomando tudo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-companheira/coringa-horta-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 192,
+     "alt": "André plantando uma flor entre as hortaliças"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Hortelã\tVaso ou canto\tSolta no canteiro",
+    "Alecrim\tMesma fundura\tMais fundo",
+    "Flor murcha\tTirar a tempo\tDeixar semear",
+    "Rega\tDe manhã\tÀ noite",
+    "Hortelã invade e domina o canteiro todo.",
+    "DICA DO ANDRÉ",
+    "Alecrim, tomilho e sálvia não gostam de terra molhada."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Ervas e plantio",
+    "01\tPlantar junto, passo a passo",
+    "02\tEndro e borragem",
+    "03\tHortelã tomando tudo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-companheira/coringa-horta-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 137,
+     "alt": "André semeando ervas direto no canteiro"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Companheira? Plante assim.",
+    "MANJERICÃO",
+    "Perto do tomate",
+    "ENDRO",
+    "Semeado no lugar",
+    "HORTELÃ",
+    "Vaso de barro enterrado",
+    "1",
+    "PLANTE",
+    "Manjericão perto do tomate.",
+    "2",
+    "SEMEIE",
+    "Endro direto no lugar.",
+    "3",
+    "ENTERRE",
+    "Vaso de barro com a hortelã.",
+    "DICA DO ANDRÉ",
+    "Flor de calêndula no meio da horta."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-companheira/pcn-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 234,
+     "alt": "Mãos plantando uma muda de manjericão ao lado de um pé de tomate"
+    },
+    {
+     "src": "/guias/horta-companheira/pcn-gesto-2.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 257,
+     "alt": "Mãos semeando endro direto na terra do canteiro"
+    },
+    {
+     "src": "/guias/horta-companheira/pcn-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 283,
+     "alt": "Mãos enterrando um vaso de barro com hortelã no canteiro"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · PLANTIO",
+    "Endro e borragem",
+    "Endro atrai insetos que comem pragas, como vespas.",
+    "Endro tem folha de pena com cheiro de anis.",
+    "Borragem: a abelha bebe o néctar de cabeça para baixo.",
+    "Alecrim para abelha, lavanda para borboleta.",
+    "Hortelã florida está entre as melhores para borboleta."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Hortelã tomando tudo?",
+    "1",
+    "O QUE PARECE",
+    "Hortelã boa de crescer.",
+    "O QUE PODE SER",
+    "Ela invade e domina o canteiro.",
+    "COMO RESOLVER",
+    "Vaso de barro enterrado ou canto separado."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-companheira/pcn-sintoma-1.webp",
+     "largura": 700,
+     "altura": 1254,
+     "kb": 246,
+     "alt": "Hortelã tomando conta de um canteiro de horta e escondendo as outras plantas"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Cuidado e erros",
+    "01\tErvas com cuidado",
+    "02\tFlor murcha e rega",
+    "03\tCompanheiras de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-companheira/coringa-horta-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 152,
+     "alt": "André cuidando das ervas da horta"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CUIDADO",
+    "Ervas com cuidado",
+    "ALECRIM",
+    "Pega de estaca",
+    "HORTELÃ",
+    "Florir de vez em quando",
+    "O QUE ELA PEDE",
+    "Hortelã vai bem em vaso, sem faltar rega",
+    "Lavanda pode o ramo florido, não a madeira velha",
+    "Manjericão-africano só por estaca de 10 a 15 cm",
+    "Capuchinha cresce até em terra pobre",
+    "Bom saber",
+    "Borragem tire a flor murcha para não tomar o canteiro",
+    "Alecrim não vai em terra rica e úmida"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Prova de que planta espanta praga é pouca.",
+    "Para o autor, adubo químico espanta bicho do solo.",
+    "Alecrim e lavanda não vão em terra rica e úmida.",
+    "FAÇA ASSIM",
+    "Teste com um pé atrás.",
+    "Regue de manhã: à noite atrai lesma."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro companheiras",
+    "1",
+    "Borragem",
+    "Abelha bebe de cabeça para baixo.",
+    "2",
+    "Calêndula",
+    "Atrai quem caça praga.",
+    "3",
+    "Endro",
+    "Folha de pena, cheiro de anis.",
+    "4",
+    "Hortelã",
+    "Florida, chama borboleta.",
+    "CHAVE\tHorta\tCom flor no meio"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-companheira/pcn-var-borragem.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 130,
+     "alt": "Borragem de flores azuis pendentes com uma abelha"
+    },
+    {
+     "src": "/guias/horta-companheira/pcn-var-calendula.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 254,
+     "alt": "Calêndula de flores laranja no meio de uma horta"
+    },
+    {
+     "src": "/guias/horta-companheira/pcn-var-endro.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 291,
+     "alt": "Endro de folha fina e flor amarela em guarda-chuva"
+    },
+    {
+     "src": "/guias/horta-companheira/pcn-var-hortela.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 266,
+     "alt": "Hortelã florida de flores lilás com uma borboleta"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "HORTELÃ DOMINOU",
+    "Plante em vaso ou canto separado.",
+    "BORRAGEM TOMOU O CANTEIRO",
+    "Tire a flor murcha.",
+    "LESMA NA HORTA",
+    "Atraia sapo e passarinho.",
+    "TERRA ENCHARCADA",
+    "Regar à noite atrai lesma.",
+    "DICA DO ANDRÉ",
+    "Olla: vaso de barro sem verniz, enterrado e cheio de água."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "9",
+    "CM",
+    "é o vaso para passar o tufo de manjericão.",
+    "Semeie 3 ou 4 sementes juntas por célula.",
+    "E MAIS UMA",
+    "Como microverde, o manjericão fica pronto em 3 semanas."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Uma flor plantada no meio da horta",
+    "Manjericão perto do tomate",
+    "Endro semeado no lugar",
+    "Hortelã em vaso de barro enterrado",
+    "Flor murcha tirada a tempo",
+    "Rega de manhã",
+    "Alecrim na mesma fundura do vaso",
+    "Teste feito com um pé atrás",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Flor, erva e um pé atrás: horta mais viva. Teste e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "104\tVOCÊ TEM",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "São 104 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 105 HOTEL DE BICHO",
+    "Comente HOTEL no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-companheira/coringa-horta-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 186,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

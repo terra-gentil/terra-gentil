@@ -1,0 +1,158 @@
+{
+  "livro": "Leva 9 lote 4",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "hss-gesto-2",
+      "especie": "sun map",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands marking on a sheet of paper which corners of the garden get full sun and which stay shaded; the small mascot figurine sits on the paper's corner",
+      "mascote": true
+    },
+    {
+      "id": "hss-gesto-3",
+      "especie": "lettuce pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands moving a pot of lettuce into a shady corner of a patio",
+      "mascote": false
+    },
+    {
+      "id": "hss-sintoma-1",
+      "especie": "bolting spinach",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Spinach that has bolted with a tall flower stalk under strong sun",
+      "mascote": false
+    },
+    {
+      "id": "hss-var-alface",
+      "especie": "shade lettuce",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Soft green lettuce growing in the shade of a vegetable garden",
+      "mascote": false
+    },
+    {
+      "id": "hss-var-hortela",
+      "especie": "shade mint",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Lush mint in partial shade in a damp garden bed",
+      "mascote": false
+    },
+    {
+      "id": "hss-var-hosta",
+      "especie": "hosta",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Hosta with broad leaves in a shady bed with curled shoots; the small mascot figurine stands among the leaves",
+      "mascote": true
+    },
+    {
+      "id": "hss-var-gengibre",
+      "especie": "ginger",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Ginger plant with long leaves in a pot in partial shade",
+      "mascote": false
+    },
+    {
+      "id": "fho-gesto-1",
+      "especie": "kale",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands picking the outer leaves of a kale plant and leaving the center leaves growing",
+      "mascote": false
+    },
+    {
+      "id": "fho-gesto-2",
+      "especie": "lettuce thinning",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pulling tiny lettuce seedlings out of a crowded row to eat them as baby greens; the small mascot figurine sits on the edge of the bed",
+      "mascote": true
+    },
+    {
+      "id": "fho-gesto-3",
+      "especie": "cabbage seedling",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing a round cardboard collar around a young cabbage seedling",
+      "mascote": false
+    },
+    {
+      "id": "fho-sintoma-1",
+      "especie": "kale with holes",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Kale leaf full of tiny shot holes made by flea beetles",
+      "mascote": false
+    },
+    {
+      "id": "fho-var-couve",
+      "especie": "kale",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Kale with large dark green leaves in a vegetable bed",
+      "mascote": false
+    },
+    {
+      "id": "fho-var-alface",
+      "especie": "romaine lettuce",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Romaine lettuce with long leaves in a garden bed; the small mascot figurine stands on the soil next to it",
+      "mascote": true
+    },
+    {
+      "id": "fho-var-rucula",
+      "especie": "arugula",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Arugula with lobed leaves ready to cut in a garden bed",
+      "mascote": false
+    },
+    {
+      "id": "fho-var-brocolis",
+      "especie": "broccoli",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Broccoli plant with a formed head and tightly closed buds",
+      "mascote": false
+    },
+    {
+      "id": "rae-gesto-1",
+      "especie": "rose rootstock",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands making a T-shaped cut in the bark of a rose rootstock stem with a sharp budding knife",
+      "mascote": false
+    },
+    {
+      "id": "rae-gesto-2",
+      "especie": "rose budding",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sliding a single bud under the bark flaps of a rose rootstock and wrapping it with grafting tape; the small mascot figurine sits on a wooden crate beside the work",
+      "mascote": true
+    },
+    {
+      "id": "rae-gesto-3",
+      "especie": "rose graft",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a rose rootstock just above a new green bud and removing the tape",
+      "mascote": false
+    },
+    {
+      "id": "rae-sintoma-1",
+      "especie": "black spot rose",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Rose leaves with round black spots of black spot disease",
+      "mascote": false
+    }
+  ]
+}

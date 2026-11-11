@@ -1,0 +1,439 @@
+{
+ "codigo": "TG102",
+ "slug": "cerca-viva-e-vento",
+ "titulo": "Cerca Viva e Vento",
+ "capa": {
+  "src": "/guias/cerca-viva-e-vento/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Cerca Viva e Vento"
+ },
+ "meta": {
+  "titulo": "Cerca viva e vento: guia grátis de proteção",
+  "descricao": "Como plantar cerca viva que quebra o vento e protege o quintal, com a planta certa, o espaço e a poda. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG102.pdf",
+  "atualizado": "2026-11-11"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t102",
+    "COLEÇÃO TERRA GENTIL",
+    "CERCA",
+    "Cerca Viva e Vento",
+    "Planta que protege e enfeita.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cerca-viva-e-vento/coringa-podar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André aparando uma cerca viva no quintal"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Vento forte queima folha e derruba planta.",
+    "Cerca viva segura o vento e ainda enfeita.",
+    "Aqui tem plantio, cuidado e plantas fortes.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Veja de onde vem o vento no seu quintal.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cerca-viva-e-vento/coringa-podar-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 210,
+     "alt": "André olhando uma cerca viva com carinho"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Plante a cerca com mudas pequenas.",
+    "Elas pegam melhor e fecham com os anos.",
+    "DISTÂNCIA",
+    "De 30 a 90 cm uma da outra.",
+    "E tela de bambu na frente, enquanto cresce."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do vento",
+    "06",
+    "CAPÍTULO 1",
+    "Vento no quintal",
+    "08",
+    "CAPÍTULO 2",
+    "Plantar a cerca",
+    "12",
+    "CAPÍTULO 3",
+    "Cerca com cuidado",
+    "15",
+    "CAPÍTULO 4",
+    "Plantas de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Folha queimada? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO VENTO",
+    "Antes de plantar",
+    "O que ele faz",
+    "FOLHA",
+    "Fina ou cerosa",
+    "CAULE",
+    "Dobra sem quebrar",
+    "LARGURA",
+    "Mais larga que a área",
+    "MUDA",
+    "Pequena e nova",
+    "DISTÂNCIA",
+    "30 a 90 cm",
+    "NA PRÁTICA\tATENÇÃO",
+    "Vento forte queima folha"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Vento no quintal",
+    "01\tCerto e errado",
+    "02\tPlantar a cerca, passo a passo",
+    "03\tFolha queimada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cerca-viva-e-vento/coringa-luz-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 113,
+     "alt": "André olhando de onde vem o vento no quintal"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Largura\tMais larga que a área\tMais estreita",
+    "Altura da muda\tA mesma de antes\tMais funda",
+    "Escada\tMudar de lugar\tEsticar o corpo",
+    "Coníferas\tAparar 2 vezes ao ano\tCortar madeira velha",
+    "Muda de cerca viva fica na mesma altura em que estava.",
+    "DICA DO ANDRÉ",
+    "Na raiz nua, procure a mancha escura no caule."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Plantar a cerca",
+    "01\tPlantar a cerca, passo a passo",
+    "02\tCerca com cuidado",
+    "03\tFolha queimada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cerca-viva-e-vento/coringa-ferramentas-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 153,
+     "alt": "André com as ferramentas de jardim para plantar a cerca"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Cerca reta? Faça assim.",
+    "BAMBUS",
+    "Dois, nas pontas",
+    "BARBANTE",
+    "Na altura do corte",
+    "MUDAS",
+    "A cada 50 a 60 cm",
+    "1",
+    "ESTIQUE",
+    "Barbante entre dois bambus.",
+    "2",
+    "PLANTE",
+    "Na mesma altura do vaso.",
+    "3",
+    "AMARRE",
+    "Árvore nova: duas estacas.",
+    "DICA DO ANDRÉ",
+    "Tutor a 45 graus, virado para o vento."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cerca-viva-e-vento/cvv-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 283,
+     "alt": "Mãos esticando um barbante entre dois bambus ao longo da faixa de plantio"
+    },
+    {
+     "src": "/guias/cerca-viva-e-vento/cvv-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 199,
+     "alt": "Mãos plantando uma muda de cerca viva junto ao barbante, na mesma altura do vaso"
+    },
+    {
+     "src": "/guias/cerca-viva-e-vento/cvv-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 265,
+     "alt": "Mãos amarrando uma árvore nova em duas estacas com amarrilho"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · PLANTIO",
+    "Cerca com cuidado",
+    "Cerca comestível: vala do tamanho do torrão.",
+    "Adubo de liberação lenta no fundo.",
+    "Mudas pequenas a 30 cm umas das outras.",
+    "Tela de bambu na frente enquanto cresce.",
+    "Cerca morta: estacas e galhos de poda."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Folha queimada?",
+    "1",
+    "O QUE PARECE",
+    "Planta baixa e torta.",
+    "O QUE PODE SER",
+    "Vento forte no lugar.",
+    "COMO RESOLVER",
+    "Cerca viva larga segura o vento."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cerca-viva-e-vento/cvv-sintoma-1.webp",
+     "largura": 800,
+     "altura": 1433,
+     "kb": 290,
+     "alt": "Planta baixa e torta com folhas queimadas num lugar de vento forte"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Cerca com cuidado",
+    "01\tAparar sem susto",
+    "02\tVento no lugar",
+    "03\tPlantas de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cerca-viva-e-vento/coringa-podar-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 192,
+     "alt": "André aparando a cerca com cuidado"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CUIDADO",
+    "Aparar a cerca",
+    "POR ANO",
+    "Pelo menos 2 vezes",
+    "RETA",
+    "Barbante na altura",
+    "O QUE ELA PEDE",
+    "Coníferas não rebrotam de madeira velha",
+    "Cerca nova tela de bambu na frente",
+    "Escada mudar de lugar, sem esticar o corpo",
+    "Bambu também segura o vento sem cair",
+    "Bom saber",
+    "Cerca morta abriga bicho e esconde bagunça",
+    "Escolha mudas pequenas: fecham com os anos"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · VENTO",
+    "ATENÇÃO",
+    "Vento forte queima folha e mata planta delicada.",
+    "Entre prédios altos, o vento corre mais rápido.",
+    "Na praia, vento forte e sal do mar.",
+    "FAÇA ASSIM",
+    "Olhe o que cresce bem na vizinhança.",
+    "Folha fina ou cerosa aguenta mais."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro plantas de cerca",
+    "1",
+    "Hibisco",
+    "Cerca viva comum, flor de 10 cm.",
+    "2",
+    "Escova-de-garrafa",
+    "Densa, com folha o ano todo.",
+    "3",
+    "Tupinambo",
+    "Chega a 2 m e quebra o vento.",
+    "4",
+    "Rosa-canina",
+    "Faz cerca viva e chama abelha.",
+    "CHAVE\tCerca\tViva e protegida"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cerca-viva-e-vento/cvv-var-hibisco.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 284,
+     "alt": "Hibisco de flor vermelha grande numa cerca viva"
+    },
+    {
+     "src": "/guias/cerca-viva-e-vento/cvv-var-escova.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 245,
+     "alt": "Escova-de-garrafa densa de flores vermelhas em fileira no jardim"
+    },
+    {
+     "src": "/guias/cerca-viva-e-vento/cvv-var-tupinambo.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 275,
+     "alt": "Tupinambo alto de flores amarelas fazendo um quebra-vento"
+    },
+    {
+     "src": "/guias/cerca-viva-e-vento/cvv-var-rosa-canina.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 247,
+     "alt": "Rosa-canina de flores rosas simples numa cerca viva"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "PLANTA BAIXA E TORTA",
+    "Sinal de vento.",
+    "ÁRVORE NOVA BALANÇANDO",
+    "Duas estacas e amarrilho.",
+    "SOL MAS FRESCO",
+    "Lugar com vento esfria.",
+    "VENTO ENTRE PRÉDIOS",
+    "É o corredor de vento.",
+    "DICA DO ANDRÉ",
+    "Afrouxe o amarrilho quando o tronco engrossar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "2,4",
+    "M",
+    "é o pulo de um veado adulto com impulso de corrida.",
+    "O autor segura veado com cerca elétrica no focinho.",
+    "E MAIS UMA",
+    "Vento seca a planta como seca a roupa no varal."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Origem do vento descoberta",
+    "Largura da cerca definida",
+    "Mudas pequenas compradas",
+    "Barbante esticado entre bambus",
+    "Muda plantada na altura do vaso",
+    "Tela de bambu na frente",
+    "Duas aparas por ano marcadas",
+    "Árvore nova amarrada em duas estacas",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Vento domado, jardim mais calmo. Plante uma cerca e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "102\tVOCÊ TEM",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "São 102 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 103 MATO TEIMOSO",
+    "Comente RIZOMA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cerca-viva-e-vento/coringa-podar-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

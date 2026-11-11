@@ -88,5 +88,19 @@
  ["TG096", "roseira-no-jardim", "Roseira no jardim: guia grátis de canteiro", "Como plantar roseira no canteiro, na cerca ou no arco, com cova, adubo e terra que não encharca."],
  ["TG097", "substrato-e-vaso", "Substrato e vaso: guia grátis de terra", "Como escolher substrato leve, drenagem, pH, adubo e o vaso certo, e como fazer a troca de vaso sem susto."],
  ["TG099", "orquidea-no-dia-a-dia", "Orquídea no dia a dia: guia grátis de rotina", "Como cuidar da orquídea na rotina, acertando a rega e a luz, com adubo, vaso e socorro quando algo falha."],
- ["TG100", "jardim-gentil", "Jardim gentil: guia grátis de folhagem fácil", "Como cuidar de folhagens fáceis que viram muda, como o clorofito, e espalhar gentileza com plantas de graça."]
+ ["TG100", "jardim-gentil", "Jardim gentil: guia grátis de folhagem fácil", "Como cuidar de folhagens fáceis que viram muda, como o clorofito, e espalhar gentileza com plantas de graça."],
+ ["TG101", "solo-vivo", "Solo vivo: guia grátis de terra fofa", "Como cuidar da terra viva do quintal, com minhoca, grumos e cobertura, e testar e consertar o solo sem gastar."],
+ ["TG102", "cerca-viva-e-vento", "Cerca viva e vento: guia grátis de proteção", "Como plantar cerca viva que quebra o vento e protege o quintal, com a planta certa, o espaço e a poda."],
+ ["TG103", "mato-teimoso", "Mato teimoso: guia grátis para tirar a raiz", "Como acabar com o mato que volta, entendendo rizoma e estolão e tirando a raiz sem veneno nem susto."],
+ ["TG104", "horta-companheira", "Horta companheira: guia grátis de plantio", "Como plantar flores e ervas junto da horta para chamar aliados e afastar praga, com os erros mais comuns."],
+ ["TG105", "hotel-de-bicho", "Hotel de bicho: guia grátis para o quintal", "Como montar um hotel de insetos e dar casa, abrigo e comida para os bichos úteis do seu jardim."],
+ ["TG106", "clima-do-quintal", "Clima do quintal: guia grátis de cantinhos", "Como ler o vento, o muro e os cantos do quintal para plantar cada planta no lugar com o clima certo."],
+ ["TG107", "sementeira-caseira", "Sementeira caseira: guia grátis de semente", "Como fazer sementeira em casa, com pote e substrato certos, semear passo a passo e cuidar da muda."],
+ ["TG108", "sol-e-sombra", "Sol e sombra: guia grátis de lugar certo", "Como fazer o mapa de sol do seu espaço e saber que planta vai onde, no sol, na meia-sombra ou na sombra."],
+ ["TG109", "folhas-da-horta", "Folhas da horta: guia grátis de couve", "Como plantar, colher e semear alface, couve e outras folhas da horta, com cuidado e os erros comuns."],
+ ["TG110", "rosas-antigas", "Rosas antigas: guia grátis de cuidado", "Como conhecer rosas antigas, de onde vêm, como funciona a rosa enxertada e os cuidados certos."],
+ ["TG111", "pulgao-e-cochonilha", "Pulgão e cochonilha: guia grátis", "Como reconhecer e tratar pulgão, cochonilha, lagarta e fungo olhando de perto, sem veneno."],
+ ["TG112", "orquidea-de-pedra", "Orquídea de pedra: guia grátis de touceira", "Como cuidar de orquídea de pedra e de touceira, com vaso, substrato, água de chuva, sol e flor de perto."],
+ ["TG113", "pimenta-no-canteiro", "Pimenta no canteiro: guia grátis de plantio", "Como plantar pimenta da semente ao canteiro, com repique, desponte, pulgão, ácaro e o ardido de cada uma."],
+ ["TG114", "arvore-e-raiz", "Árvore e raiz: guia grátis de plantio e rega", "Como plantar e regar árvore nova, entender raiz e fungo, cuidar de frutíferas e evitar cancro e fusariose."]
 ]

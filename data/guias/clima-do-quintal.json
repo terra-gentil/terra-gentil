@@ -1,0 +1,439 @@
+{
+ "codigo": "TG106",
+ "slug": "clima-do-quintal",
+ "titulo": "Clima do Quintal",
+ "capa": {
+  "src": "/guias/clima-do-quintal/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Clima do Quintal"
+ },
+ "meta": {
+  "titulo": "Clima do quintal: guia grátis de cantinhos",
+  "descricao": "Como ler o vento, o muro e os cantos do quintal para plantar cada planta no lugar com o clima certo. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG106.pdf",
+  "atualizado": "2026-11-11"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t106",
+    "COLEÇÃO TERRA GENTIL",
+    "MICROCLIMA",
+    "Clima do Quintal",
+    "Cada canto tem o seu clima.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/clima-do-quintal/coringa-luz-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 115,
+     "alt": "André olhando o sol e o vento num canto do quintal"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Cada canto do quintal tem o seu clima.",
+    "Muro, cerca e cidade mudam sol, vento e calor.",
+    "Aqui tem canto abrigado, úmido e quente.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache o canto mais abrigado do seu quintal.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/clima-do-quintal/coringa-luz-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 139,
+     "alt": "André procurando o canto mais abrigado do quintal"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Descubra o seu canto abrigado.",
+    "O canto do terreno costuma ser o mais abrigado.",
+    "ÚMIDO",
+    "Canto úmido e sombreado não é perdido.",
+    "A folha cresce ali sem queimar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do canto",
+    "06",
+    "CAPÍTULO 1",
+    "Vento e muro",
+    "08",
+    "CAPÍTULO 2",
+    "Canto a canto",
+    "12",
+    "CAPÍTULO 3",
+    "Cuidado e erros",
+    "15",
+    "CAPÍTULO 4",
+    "Cantos de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Alface florindo? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO CANTO",
+    "Antes de plantar",
+    "O que ele muda",
+    "VENTO",
+    "Corredor vira túnel",
+    "MURO",
+    "Cria redemoinho",
+    "LUZ",
+    "Muro branco rebate",
+    "CHUVA",
+    "Encostada no muro, seca",
+    "CALOR",
+    "Asfalto guarda calor",
+    "NA PRÁTICA\tATENÇÃO",
+    "Cerca vazada filtra o vento"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Vento e muro",
+    "01\tCerto e errado",
+    "02\tGarrafa e brita, passo a passo",
+    "03\tAlface florindo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/clima-do-quintal/coringa-luz-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 106,
+     "alt": "André olhando um muro branco em volta da horta"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Vento\tCerca vazada\tMuro",
+    "Perto do muro\tOlhar se choveu\tAchar que molhou",
+    "Planta nova\tTirar do carro\tCarro fechado",
+    "Compra\tLoja abrigada\tCalçada da loja",
+    "Muro cria redemoinho; cerca vazada filtra o vento.",
+    "DICA DO ANDRÉ",
+    "Muro branco em volta da horta rebate luz."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Canto a canto",
+    "01\tGarrafa e brita, passo a passo",
+    "02\tCanto úmido e quente",
+    "03\tAlface florindo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/clima-do-quintal/coringa-luz-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 152,
+     "alt": "André cuidando de um canto difícil do quintal"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Canto difícil? Faça assim.",
+    "GARRAFA",
+    "PET cortada vira campânula",
+    "BRITA",
+    "Poço no ponto mais baixo",
+    "PLANTA NOVA",
+    "Plástico fora logo",
+    "1",
+    "CUBRA",
+    "A muda com a garrafa PET cortada.",
+    "2",
+    "ABRA",
+    "Poço de brita no canto que encharca.",
+    "3",
+    "TIRE",
+    "O plástico da planta nova.",
+    "DICA DO ANDRÉ",
+    "Deixe uns dias num canto sem sol forte."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/clima-do-quintal/mic-gesto-1.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 266,
+     "alt": "Mãos cobrindo uma muda nova com uma garrafa PET cortada ao meio"
+    },
+    {
+     "src": "/guias/clima-do-quintal/mic-gesto-2.webp",
+     "largura": 800,
+     "altura": 1433,
+     "kb": 260,
+     "alt": "Mãos despejando brita num buraco no ponto mais baixo de um canto encharcado"
+    },
+    {
+     "src": "/guias/clima-do-quintal/mic-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 170,
+     "alt": "Mãos tirando o plástico do vaso de uma planta recém-comprada"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · CANTOS",
+    "Canto úmido e quente",
+    "Canto úmido e sombreado: a folha cresce sem queimar.",
+    "Canto que encharca: poço de brita no ponto mais baixo.",
+    "Na cidade, asfalto e parede soltam ar quente.",
+    "Nos trópicos, plantas mais juntas fazem sombra no chão.",
+    "Perene plantada na época fresca enraíza antes do calor."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Alface florindo?",
+    "1",
+    "O QUE PARECE",
+    "Folha amarga de repente.",
+    "O QUE PODE SER",
+    "Pendoar por calor ou falta de água.",
+    "COMO RESOLVER",
+    "Dê água e alivie o calor."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/clima-do-quintal/mic-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 188,
+     "alt": "Alface que pendoou, com talo alto e flores, sob sol forte"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Cuidado e erros",
+    "01\tLuz e calor",
+    "02\tFrio e flor",
+    "03\tCantos de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/clima-do-quintal/coringa-luz-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 128,
+     "alt": "André regando uma planta no calor"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CUIDADO",
+    "Luz e calor",
+    "IPOMEIA",
+    "Sol da tarde",
+    "FUNCHO",
+    "Pendoa com frio ou sede",
+    "O QUE ELE PEDE",
+    "Pimenta aguenta muito calor",
+    "Abobrinha cresce com sol, calor e umidade",
+    "Gerânio vive anos se não pegar geada",
+    "Caruru cresce rápido no calor",
+    "Bom saber",
+    "Feijão com flor aberta no frio não vira vagem",
+    "Glicínia presa no muro floresce mais"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Carro fechado gela no frio e cozinha no calor.",
+    "Planta na calçada da loja pega frio ou sol forte.",
+    "Calor demais faz a hortaliça de folha pendoar.",
+    "FAÇA ASSIM",
+    "Deixe a planta nova uns dias sem sol forte.",
+    "Garrafa PET cortada protege a muda."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro cantos do quintal",
+    "1",
+    "Muro branco",
+    "Rebate luz para a horta.",
+    "2",
+    "Canto úmido",
+    "Folha cresce sem queimar.",
+    "3",
+    "Cerca vazada",
+    "Filtra o vento.",
+    "4",
+    "Garrafa PET",
+    "Campânula contra vento e frio.",
+    "CHAVE\tCanto\tCada um com seu clima"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/clima-do-quintal/mic-var-muro-branco.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 262,
+     "alt": "Muro branco em volta de uma horta com hortaliças bem iluminadas"
+    },
+    {
+     "src": "/guias/clima-do-quintal/mic-var-canto-umido.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 226,
+     "alt": "Canto úmido e sombreado de um quintal com folhas verdes e viçosas"
+    },
+    {
+     "src": "/guias/clima-do-quintal/mic-var-cerca-vazada.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 299,
+     "alt": "Cerca vazada de madeira com plantas atrás, sem redemoinho de vento"
+    },
+    {
+     "src": "/guias/clima-do-quintal/mic-var-pet.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 290,
+     "alt": "Muda nova protegida por uma garrafa PET cortada ao meio"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "FOLHA AMARGA",
+    "Pendoou: calor ou sede.",
+    "PLANTA SECA NO MURO",
+    "A chuva não chega encostado.",
+    "CANTO ENCHARCADO",
+    "Poço de brita no ponto baixo.",
+    "FEIJÃO SEM VAGEM",
+    "Flor aberta no frio não é polinizada.",
+    "DICA DO ANDRÉ",
+    "Canto úmido e sombreado também serve."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "4",
+    "X",
+    "é o mínimo de vezes por ano para revirar o composto.",
+    "O meio da pilha é a parte mais quente.",
+    "E MAIS UMA",
+    "Monte de 1 m³ ou mais esquenta e mata semente de mato."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Canto abrigado do quintal descoberto",
+    "Canto úmido e sombreado aproveitado",
+    "Cerca vazada no lugar do muro, se der",
+    "Planta encostada no muro regada",
+    "Poço de brita no canto que encharca",
+    "Garrafa PET cortada na muda nova",
+    "Plástico da planta nova tirado",
+    "Planta nova uns dias sem sol forte",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Cada canto com o seu clima, cada planta no lugar certo. Descubra o seu e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "106\tVOCÊ TEM",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "São 106 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 107 SEMENTEIRA CASEIRA",
+    "Comente SEMENTEIRA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/clima-do-quintal/coringa-luz-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 113,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,439 @@
+{
+ "codigo": "TG108",
+ "slug": "sol-e-sombra",
+ "titulo": "Sol e Sombra",
+ "capa": {
+  "src": "/guias/sol-e-sombra/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Sol e Sombra"
+ },
+ "meta": {
+  "titulo": "Sol e sombra: guia grátis de lugar certo",
+  "descricao": "Como fazer o mapa de sol do seu espaço e saber que planta vai onde, no sol, na meia-sombra ou na sombra. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG108.pdf",
+  "atualizado": "2026-11-11"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t108",
+    "COLEÇÃO TERRA GENTIL",
+    "SOMBRA",
+    "Sol e Sombra",
+    "Cada hortaliça no seu lugar.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sol-e-sombra/coringa-horta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André numa horta com um canto de sol e outro de sombra"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Sombra não é sempre ruim para a horta.",
+    "Muita folha cresce mais macia e verde nela.",
+    "Aqui tem mapa de sol, sombra e plantas.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Fotografe o quintal em vários horários.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sol-e-sombra/coringa-horta-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André olhando a horta à sombra com carinho"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Faça o mapa de sol do quintal.",
+    "Fotos do mesmo lugar em várias horas do dia.",
+    "SOMBRA",
+    "Alface, acelga, espinafre, rúcula e hortelã.",
+    "E ponha cada uma no seu lugar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da sombra",
+    "06",
+    "CAPÍTULO 1",
+    "Mapa de sol",
+    "08",
+    "CAPÍTULO 2",
+    "Quem vai onde",
+    "12",
+    "CAPÍTULO 3",
+    "Cuidado e erros",
+    "15",
+    "CAPÍTULO 4",
+    "Plantas de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Espinafre florindo? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA SOMBRA",
+    "Antes de plantar",
+    "O que ela pede",
+    "CLARA",
+    "Sombra clara",
+    "MEIA",
+    "Meia-sombra",
+    "FECHADA",
+    "Onde o sol nunca bate",
+    "FRUTA",
+    "No mínimo meia-sombra",
+    "AZEDINHA",
+    "Aguenta sombra",
+    "NA PRÁTICA\tATENÇÃO",
+    "Sombra total não dá fruta"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Mapa de sol",
+    "01\tCerto e errado",
+    "02\tMapa de sol, passo a passo",
+    "03\tEspinafre florindo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sol-e-sombra/coringa-horta-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 192,
+     "alt": "André olhando onde bate o sol na horta"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Espinafre\tSombra fresca\tSol forte",
+    "Verdura de folha\tUm pouco de sombra\tSol pleno",
+    "Fruta doce\tSol\tSombra",
+    "Abóbora\tAfastar as folhas\tFolha na sombra",
+    "No sol forte o espinafre espiga logo.",
+    "DICA DO ANDRÉ",
+    "Guarde o sol para as frutas doces."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Quem vai onde",
+    "01\tMapa de sol, passo a passo",
+    "02\tPlantas de sombra",
+    "03\tEspinafre florindo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sol-e-sombra/coringa-horta-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 137,
+     "alt": "André marcando o sol e a sombra do quintal"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Mapa de sol? Faça assim.",
+    "FOTOS",
+    "Do mesmo lugar",
+    "HORAS",
+    "Várias do dia",
+    "MARQUE",
+    "Sol pleno e sombra",
+    "1",
+    "FOTOGRAFE",
+    "O mesmo canto em várias horas.",
+    "2",
+    "MARQUE",
+    "Onde é sol pleno e onde é sombra.",
+    "3",
+    "MUDE",
+    "O vaso atrás do sol ou da sombra.",
+    "DICA DO ANDRÉ",
+    "Horta em vaso muda de lugar."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sol-e-sombra/hss-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 206,
+     "alt": "Mãos segurando um celular para fotografar o mesmo canto do quintal"
+    },
+    {
+     "src": "/guias/sol-e-sombra/hss-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 172,
+     "alt": "Mãos marcando num papel quais cantos do quintal têm sol pleno e quais têm sombra"
+    },
+    {
+     "src": "/guias/sol-e-sombra/hss-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 298,
+     "alt": "Mãos mudando um vaso de alface para um canto com sombra"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · PLANTAS",
+    "Plantas de sombra",
+    "Alface, acelga, mostarda e azedinha aceitam sombra.",
+    "Gengibre gosta de sombra ou meia-sombra.",
+    "Hosta é toda comestível: o broto enrolado se come.",
+    "Amora e morango-silvestre vão na sombra seca.",
+    "Fruta na sombra fica azedinha, ótima para geleia."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Espinafre florindo?",
+    "1",
+    "O QUE PARECE",
+    "Folha que some e sobe talo.",
+    "O QUE PODE SER",
+    "Espigou no sol forte ou calor seco.",
+    "COMO RESOLVER",
+    "Sombra fresca e semear no tempo fresco."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sol-e-sombra/hss-sintoma-1.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 262,
+     "alt": "Espinafre espigado com talo alto de flor sob sol forte"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Cuidado e erros",
+    "01\tSol, sombra e calor",
+    "02\tFrutas e folhas",
+    "03\tPlantas de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sol-e-sombra/coringa-horta-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 152,
+     "alt": "André cuidando das verduras na meia-sombra"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CUIDADO",
+    "Sol, sombra e calor",
+    "COENTRO",
+    "Sombra: folha; sol: semente",
+    "HORTELÃ",
+    "Raiz fresca na meia-sombra",
+    "O QUE ELA PEDE",
+    "Salsinha terra fresca e úmida",
+    "Mizuna no calor fica picante demais",
+    "Pak choi espiga rápido no calor seco",
+    "Diabelha no sol forte fica dura e amarga",
+    "Bom saber",
+    "Couve-etíope no sol ou na sombra; macia na sombra",
+    "Capuchinha cobre o chão na meia-sombra"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Sombra total não dá fruta nem hortaliça.",
+    "Erva-doce espiga se mudar de vaso.",
+    "Pak choi espiga rápido no calor seco.",
+    "FAÇA ASSIM",
+    "No mínimo, meia-sombra.",
+    "Estufa na meia-sombra esquenta menos."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro de sombra",
+    "1",
+    "Alface",
+    "Mais macia e verde na sombra.",
+    "2",
+    "Hortelã",
+    "Raiz fresca na meia-sombra.",
+    "3",
+    "Hosta",
+    "Toda comestível, até o broto.",
+    "4",
+    "Gengibre",
+    "Gosta de sombra ou meia-sombra.",
+    "CHAVE\tSombra\tTambém tem comida"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sol-e-sombra/hss-var-alface.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 250,
+     "alt": "Alface macia e verde crescendo na sombra de uma horta"
+    },
+    {
+     "src": "/guias/sol-e-sombra/hss-var-hortela.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 294,
+     "alt": "Hortelã viçosa na meia-sombra num canteiro úmido"
+    },
+    {
+     "src": "/guias/sol-e-sombra/hss-var-hosta.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 127,
+     "alt": "Hosta de folhas largas num canteiro de sombra com brotos enrolados"
+    },
+    {
+     "src": "/guias/sol-e-sombra/hss-var-gengibre.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 272,
+     "alt": "Gengibre de folhas compridas num vaso na meia-sombra"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "FOLHA DURA E AMARGA",
+    "Diabelha no sol forte.",
+    "PICANTE DEMAIS",
+    "Mizuna no calor.",
+    "ESPIGOU LOGO",
+    "Rúcula, coentro e espinafre no calor seco.",
+    "SEM FRUTA",
+    "Sombra total não serve.",
+    "DICA DO ANDRÉ",
+    "Afaste as folhas que sombreiam a abóbora."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "16",
+    "%",
+    "de açúcar podem chegar uva e figo no sol forte.",
+    "Fruta no sol forte fica mais doce.",
+    "E MAIS UMA",
+    "Hosta é toda comestível: o broto enrolado se come."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Quintal fotografado em várias horas",
+    "Mapa de sol marcado",
+    "Vaso movido atrás do sol ou da sombra",
+    "Verdura de folha na meia-sombra",
+    "Sol guardado para as frutas doces",
+    "Folhas afastadas do fruto da abóbora",
+    "Pak choi semeado no tempo fresco",
+    "Gengibre na sombra",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Sol para a fruta, sombra para a folha. Faça o mapa do seu quintal e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "108\tVOCÊ TEM",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "São 108 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 109 FOLHAS DA HORTA",
+    "Comente FOLHA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sol-e-sombra/coringa-horta-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 186,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

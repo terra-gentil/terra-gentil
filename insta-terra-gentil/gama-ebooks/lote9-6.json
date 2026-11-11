@@ -1,0 +1,142 @@
+{
+  "livro": "Leva 9 lote 6",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "otc-var-phalaenopsis",
+      "especie": "phalaenopsis orchid",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "White Phalaenopsis orchid on a shaded mossy tree trunk",
+      "mascote": false
+    },
+    {
+      "id": "pic-gesto-1",
+      "especie": "pepper seeds",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing a few chili seeds half a centimeter deep in a clean pot of fresh soil",
+      "mascote": false
+    },
+    {
+      "id": "pic-gesto-2",
+      "especie": "pepper seedling",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands transplanting a small chili seedling holding it by a leaf and not by the stem; the small mascot figurine sits on the edge of the potting table",
+      "mascote": true
+    },
+    {
+      "id": "pic-gesto-3",
+      "especie": "pepper topping",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pinching the top off a 30 cm chili plant with small scissors",
+      "mascote": false
+    },
+    {
+      "id": "pic-sintoma-1",
+      "especie": "spider mites on pepper",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Chili pepper leaf spotted with yellow dots and fine webbing of red spider mites",
+      "mascote": false
+    },
+    {
+      "id": "pic-var-bhut",
+      "especie": "bhut jolokia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Wrinkled red bhut jolokia ghost peppers hanging on a plant",
+      "mascote": false
+    },
+    {
+      "id": "pic-var-dorset",
+      "especie": "dorset naga",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Wrinkled red Dorset Naga chili peppers on a plant; the small mascot figurine stands on the soil beside the pot",
+      "mascote": true
+    },
+    {
+      "id": "pic-var-aji",
+      "especie": "aji amarillo",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Orange-yellow aji amarillo chili peppers hanging on a plant",
+      "mascote": false
+    },
+    {
+      "id": "pic-var-ornamental",
+      "especie": "ornamental pepper",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Ornamental chili pepper in a pot with small fruits of many colors",
+      "mascote": false
+    },
+    {
+      "id": "arv-gesto-1",
+      "especie": "tree seedling roots",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands gently loosening the circling roots of a young potted tree seedling before planting",
+      "mascote": false
+    },
+    {
+      "id": "arv-gesto-2",
+      "especie": "watering young tree",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pouring water from a watering can to soak the soil around a newly planted young tree; the small mascot figurine sits on the grass nearby",
+      "mascote": true
+    },
+    {
+      "id": "arv-gesto-3",
+      "especie": "soil test",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands digging five centimeters into the soil beside a young tree with a small trowel to check moisture",
+      "mascote": false
+    },
+    {
+      "id": "arv-sintoma-1",
+      "especie": "peach bark canker",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Sunken bark of a peach tree trunk oozing gum, with leaves full of small shot holes",
+      "mascote": false
+    },
+    {
+      "id": "arv-var-oliveira",
+      "especie": "olive tree",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Olive tree branch full of green olives in a backyard",
+      "mascote": false
+    },
+    {
+      "id": "arv-var-figueira",
+      "especie": "fig tree",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Fig tree with ripe figs and wide leaves; the small mascot figurine stands on the ground at the foot of the tree",
+      "mascote": true
+    },
+    {
+      "id": "arv-var-nespera",
+      "especie": "loquat tree",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Loquat tree with large leathery leaves and clusters of yellow fruit",
+      "mascote": false
+    },
+    {
+      "id": "arv-var-butia",
+      "especie": "butia palm",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Short butia palm with clusters of orange fruit",
+      "mascote": false
+    }
+  ]
+}

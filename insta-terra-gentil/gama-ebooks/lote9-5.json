@@ -1,0 +1,158 @@
+{
+  "livro": "Leva 9 lote 5",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "rae-var-centifolia",
+      "especie": "centifolia rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Very double pale pink centifolia rose in bloom on a shrub",
+      "mascote": false
+    },
+    {
+      "id": "rae-var-musgo",
+      "especie": "moss rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Moss rose with hard mossy hairs on the bud and stem",
+      "mascote": false
+    },
+    {
+      "id": "rae-var-bourbon",
+      "especie": "bourbon rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Full fragrant Bourbon rose on a shrub in a garden; the small mascot figurine stands on the ground in front of it",
+      "mascote": true
+    },
+    {
+      "id": "rae-var-banksia",
+      "especie": "banksia rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Yellow banksia rose in clusters climbing a sunny wall",
+      "mascote": false
+    },
+    {
+      "id": "pul-gesto-1",
+      "especie": "aphids on rose",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands squashing aphids between the fingers on a rose shoot",
+      "mascote": false
+    },
+    {
+      "id": "pul-gesto-2",
+      "especie": "aphids on stem",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands running sticky tape, sticky side out, along a stem covered with black aphids",
+      "mascote": false
+    },
+    {
+      "id": "pul-gesto-3",
+      "especie": "kale seedlings",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands covering young kale seedlings with fine mesh raised away from the leaves; the small mascot figurine sits on the soil at the edge of the bed",
+      "mascote": true
+    },
+    {
+      "id": "pul-sintoma-1",
+      "especie": "mealybugs on roots",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Roots of a potted succulent covered with white cotton-like mealybugs",
+      "mascote": false
+    },
+    {
+      "id": "pul-var-farinhenta",
+      "especie": "mealybugs on fern",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "White waxy mealybugs clustered on a fern frond",
+      "mascote": false
+    },
+    {
+      "id": "pul-var-escama",
+      "especie": "scale insects",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Small brown wax plaques of scale insects stuck on a plant stem",
+      "mascote": false
+    },
+    {
+      "id": "pul-var-pulgao-preto",
+      "especie": "black aphids on fava",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Black aphids gathered at the tip of a fava bean plant; the small mascot figurine stands on the soil beside the plant",
+      "mascote": true
+    },
+    {
+      "id": "pul-var-sirfidea",
+      "especie": "hoverfly",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Hoverfly resembling a wasp resting on a flower",
+      "mascote": false
+    },
+    {
+      "id": "otc-gesto-1",
+      "especie": "stanhopea orchid",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands bending a cluster of new pseudobulbs of a Stanhopea orchid at a right angle to split the clump",
+      "mascote": false
+    },
+    {
+      "id": "otc-gesto-2",
+      "especie": "clay pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands drilling an extra hole in a terracotta orchid pot with a masonry drill bit, the pot soaked in a bucket nearby",
+      "mascote": false
+    },
+    {
+      "id": "otc-gesto-3",
+      "especie": "orchid shade slats",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands nailing thin wooden slats with narrow gaps to build a homemade shade frame over orchids; the small mascot figurine sits on a stone wall beside the work",
+      "mascote": true
+    },
+    {
+      "id": "otc-sintoma-1",
+      "especie": "orchid leaf tip",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Orchid leaf with a dry brown tip and a row of small beige dots at the border between dead and living tissue",
+      "mascote": false
+    },
+    {
+      "id": "otc-var-laelia",
+      "especie": "rupicolous laelia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Small rupicolous Laelia orchid in bloom growing on a sunny rock",
+      "mascote": false
+    },
+    {
+      "id": "otc-var-bifrenaria",
+      "especie": "bifrenaria harrisoniae",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Bifrenaria harrisoniae orchid in bloom growing on a rock in full sun; the small mascot figurine stands on the rock beside it",
+      "mascote": true
+    },
+    {
+      "id": "otc-var-cattleya",
+      "especie": "cattleya orchid",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cattleya orchid in bloom lying on a thick tree branch",
+      "mascote": false
+    }
+  ]
+}

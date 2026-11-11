@@ -1,0 +1,439 @@
+{
+ "codigo": "TG110",
+ "slug": "rosas-antigas",
+ "titulo": "Rosas Antigas",
+ "capa": {
+  "src": "/guias/rosas-antigas/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Rosas Antigas"
+ },
+ "meta": {
+  "titulo": "Rosas antigas: guia grátis de cuidado",
+  "descricao": "Como conhecer rosas antigas, de onde vêm, como funciona a rosa enxertada e os cuidados certos. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG110.pdf",
+  "atualizado": "2026-11-11"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t110",
+    "COLEÇÃO TERRA GENTIL",
+    "ENXERTO",
+    "Rosas Antigas",
+    "Origem e roseira enxertada.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosas-antigas/coringa-jardim-vertical-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 200,
+     "alt": "André com uma roseira antiga de flores perfumadas"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Os botânicos contam umas 150 espécies de rosa.",
+    "As rosas de jardim são cruzamentos delas.",
+    "Aqui tem origem, enxerto e cuidado.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Veja se a sua roseira é enxertada.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosas-antigas/coringa-jardim-vertical-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 131,
+     "alt": "André olhando uma roseira com carinho"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Descubra o cavalo da sua roseira.",
+    "A variedade bonita vai em cima de outra raiz.",
+    "BORBULHA",
+    "Em T, com uma gema só.",
+    "Uma gema vira planta nova."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da rosa",
+    "06",
+    "CAPÍTULO 1",
+    "De onde vêm",
+    "08",
+    "CAPÍTULO 2",
+    "Rosa enxertada",
+    "12",
+    "CAPÍTULO 3",
+    "Cuidado e erros",
+    "15",
+    "CAPÍTULO 4",
+    "Rosas de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Mancha preta? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA ROSA",
+    "Antes de plantar",
+    "O que ela tem",
+    "ESPÉCIES",
+    "Umas 150 verdadeiras",
+    "FLORADA",
+    "Veio da rosa-da-China",
+    "CAVALO",
+    "Raiz de outra rosa",
+    "CALOR",
+    "Rosa odorata aguenta",
+    "BORBULHA",
+    "Em T, uma gema",
+    "NA PRÁTICA\tATENÇÃO",
+    "Algumas seguram a flor velha"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "De onde vêm",
+    "01\tCerto e errado",
+    "02\tBorbulha em T, passo a passo",
+    "03\tMancha preta"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosas-antigas/coringa-jardim-vertical-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 159,
+     "alt": "André observando as rosas do jardim"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Flor velha\tCortar a murcha\tEsperar cair",
+    "Borbulha\tSeiva correndo\tCavalo parado",
+    "Broto de 10 cm\tCortar o cavalo\tDeixar o cavalo",
+    "Rosa-chá\tPoda leve\tPoda pesada",
+    "Algumas rosas seguram a flor velha no galho.",
+    "DICA DO ANDRÉ",
+    "Faca bem afiada e trabalho rápido."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Rosa enxertada",
+    "01\tBorbulha em T, passo a passo",
+    "02\tCavalo e garfo",
+    "03\tMancha preta"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosas-antigas/coringa-jardim-vertical-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 149,
+     "alt": "André preparando a faca para enxertar uma roseira"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Rosa nova? Enxerte assim.",
+    "CAVALO",
+    "Seiva correndo",
+    "FACA",
+    "Bem afiada",
+    "GEMA",
+    "Uma só, em T",
+    "1",
+    "CORTE",
+    "Um T no cavalo.",
+    "2",
+    "ENCAIXE",
+    "Uma gema sob a casca.",
+    "3",
+    "LIBERE",
+    "Corte o cavalo acima do broto.",
+    "DICA DO ANDRÉ",
+    "Com 10 cm de broto, tire a fita."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosas-antigas/rae-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 140,
+     "alt": "Mãos fazendo um corte em T na casca do caule de um cavalo de roseira"
+    },
+    {
+     "src": "/guias/rosas-antigas/rae-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 188,
+     "alt": "Mãos encaixando uma gema sob a casca e amarrando com fita de enxerto"
+    },
+    {
+     "src": "/guias/rosas-antigas/rae-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 206,
+     "alt": "Mãos cortando o cavalo logo acima do broto novo e tirando a fita"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · ENXERTO",
+    "Cavalo e garfo",
+    "A rosa-canina foi por muito tempo o pé mais usado.",
+    "Para calor e terra seca, o melhor cavalo é a Rosa odorata.",
+    "Enxerto de garfo cola em 5 a 8 semanas.",
+    "Stenting: enxertar numa estaca que ainda vai enraizar.",
+    "A raiz só desce até onde a terra é boa."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Mancha preta?",
+    "1",
+    "O QUE PARECE",
+    "Folha manchada de preto.",
+    "O QUE PODE SER",
+    "Depende da variedade e do cultivo.",
+    "COMO RESOLVER",
+    "Escolha rosa que resista no seu clima."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosas-antigas/rae-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 169,
+     "alt": "Folhas de roseira com manchas pretas redondas"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Cuidado e erros",
+    "01\tFlor velha e poda",
+    "02\tTrepadeira ou rambler",
+    "03\tRosas de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosas-antigas/coringa-jardim-vertical-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 238,
+     "alt": "André cortando a flor murcha de uma roseira"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CUIDADO",
+    "Flor velha e poda",
+    "FLOR VELHA",
+    "Corte a murcha",
+    "FRUTINHO",
+    "Quem não corta ganha hips",
+    "O QUE ELA PEDE",
+    "Rosa-chá vaso grande e poda leve",
+    "Banksia sol e lugar sem vento",
+    "Rambler galho mole que se debruça",
+    "Trepadeira de verdade tem galho mais duro",
+    "Bom saber",
+    "Lamarque trepadeira para clima quente",
+    "Cramoisi trepadeira vermelha que não desbota"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Algumas rosas seguram a flor velha no galho.",
+    "Borbulha falha com cavalo parado.",
+    "Rosa resistente num país pega doença em outro.",
+    "FAÇA ASSIM",
+    "Corte a flor murcha.",
+    "Enxerte com a seiva correndo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro rosas",
+    "1",
+    "Centifólia",
+    "Tão dobrada que só dá muda.",
+    "2",
+    "Rosa-musgo",
+    "Pelinhos duros com cheiro de resina.",
+    "3",
+    "Bourbon",
+    "Nasceu na ilha da Reunião.",
+    "4",
+    "Banksia amarela",
+    "Sol e lugar sem vento.",
+    "CHAVE\tRosa\tAntiga e perfumada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosas-antigas/rae-var-centifolia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 170,
+     "alt": "Rosa centifólia muito dobrada de pétalas rosa-claro"
+    },
+    {
+     "src": "/guias/rosas-antigas/rae-var-musgo.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 115,
+     "alt": "Rosa-musgo com pelinhos duros no botão e no caule"
+    },
+    {
+     "src": "/guias/rosas-antigas/rae-var-bourbon.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 224,
+     "alt": "Rosa Bourbon de flor cheia e perfumada num arbusto"
+    },
+    {
+     "src": "/guias/rosas-antigas/rae-var-banksia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 268,
+     "alt": "Rosa-banksia amarela em cachos num muro ensolarado"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "FLOR VELHA FICOU",
+    "Algumas rosas não soltam sozinhas.",
+    "ENXERTO NÃO PEGOU",
+    "Cavalo parado ou faca sem fio.",
+    "TREPADEIRA DOENTE",
+    "A Crimson Rambler pegava doença fácil.",
+    "MANCHA PRETA",
+    "Depende do clima e do cultivo.",
+    "DICA DO ANDRÉ",
+    "Rosa-musgo miniatura vai bem em vaso."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "4",
+    "MIL",
+    "anos tem a pintura de rosa mais antiga, em Creta.",
+    "Está no palácio de Cnossos.",
+    "E MAIS UMA",
+    "Rosa azul de verdade ainda é sonho dos criadores."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Cavalo da roseira descoberto",
+    "Flor murcha cortada",
+    "Faca afiada preparada",
+    "Borbulha em T tentada",
+    "Broto de 10 cm liberado",
+    "Rosa-musgo miniatura em vaso",
+    "Variedade resistente no seu clima",
+    "Terra de cima caprichada",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Roseira com história e enxerto firme. Tente e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "110\tVOCÊ TEM",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "São 110 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 111 PULGÃO E COCHONILHA",
+    "Comente PULGÃO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosas-antigas/coringa-jardim-vertical-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 259,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

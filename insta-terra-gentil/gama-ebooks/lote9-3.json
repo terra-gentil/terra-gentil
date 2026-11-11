@@ -1,0 +1,158 @@
+{
+  "livro": "Leva 9 lote 3",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "hbi-var-alisso",
+      "especie": "sweet alyssum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "White sweet alyssum forming a carpet with small insects on the flowers; the small mascot figurine stands among the flowers",
+      "mascote": true
+    },
+    {
+      "id": "hbi-var-girassol",
+      "especie": "sunflower",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Open sunflower with a bee on the flower",
+      "mascote": false
+    },
+    {
+      "id": "mic-gesto-1",
+      "especie": "seedling",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing a cut plastic bottle over a young seedling like a small bell cover",
+      "mascote": false
+    },
+    {
+      "id": "mic-gesto-2",
+      "especie": "garden corner",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pouring gravel into a hole at the lowest corner of a waterlogged garden; the small mascot figurine sits on the grass nearby",
+      "mascote": true
+    },
+    {
+      "id": "mic-gesto-3",
+      "especie": "new plant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands taking the plastic sleeve off a newly bought potted plant",
+      "mascote": false
+    },
+    {
+      "id": "mic-sintoma-1",
+      "especie": "bolting lettuce",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Lettuce that has bolted with a tall stem and small flowers under strong sun",
+      "mascote": false
+    },
+    {
+      "id": "mic-var-muro-branco",
+      "especie": "white wall garden",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "White wall around a vegetable garden reflecting light onto healthy plants",
+      "mascote": false
+    },
+    {
+      "id": "mic-var-canto-umido",
+      "especie": "shady damp corner",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Damp shaded corner of a backyard with lush green leafy plants; the small mascot figurine stands among the leaves",
+      "mascote": true
+    },
+    {
+      "id": "mic-var-cerca-vazada",
+      "especie": "slatted fence",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Slatted wooden fence with garden plants behind it, filtering the wind",
+      "mascote": false
+    },
+    {
+      "id": "mic-var-pet",
+      "especie": "bottle cloche",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Young seedling protected by a cut plastic bottle placed over it in a garden bed",
+      "mascote": false
+    },
+    {
+      "id": "sem-gesto-1",
+      "especie": "paper pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands rolling a strip of newspaper around a soda can to make a seedling pot",
+      "mascote": false
+    },
+    {
+      "id": "sem-gesto-2",
+      "especie": "seed pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sowing seeds into a yogurt cup with a drainage hole filled with seed-starting mix; the small mascot figurine sits on the work table next to the cup",
+      "mascote": true
+    },
+    {
+      "id": "sem-gesto-3",
+      "especie": "seedling transplant",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands holding a tiny seedling by its leaf with a teaspoon underneath to transplant it",
+      "mascote": false
+    },
+    {
+      "id": "sem-sintoma-1",
+      "especie": "tangled seedlings",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Seedlings tangled together in a single seed tray without cells, hard to separate",
+      "mascote": false
+    },
+    {
+      "id": "sem-var-girassol",
+      "especie": "sunflower seedlings",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Sunflower seedlings with first leaves in small pots on a windowsill",
+      "mascote": false
+    },
+    {
+      "id": "sem-var-rabanete",
+      "especie": "radish seedlings",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Radish seedlings in a straight row sown directly in a garden bed",
+      "mascote": false
+    },
+    {
+      "id": "sem-var-pimenta",
+      "especie": "chili seedlings",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Chili pepper seedlings in a small pot on a warm sunny windowsill; the small mascot figurine sits on the windowsill next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "sem-var-capuchinha",
+      "especie": "nasturtium seedlings",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Nasturtium seedlings with round leaves in a small pot",
+      "mascote": false
+    },
+    {
+      "id": "hss-gesto-1",
+      "especie": "garden light",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands holding a phone to photograph the same corner of a backyard garden",
+      "mascote": false
+    }
+  ]
+}

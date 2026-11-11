@@ -1,0 +1,558 @@
+{
+  "livro": "TG 122",
+  "titulo": "Bulbos e Dálias",
+  "serie": "#7A3A3A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "122",
+        "COLEÇÃO TERRA GENTIL",
+        "BULBO",
+        "Bulbos e Dálias",
+        "Tudo começa debaixo da terra.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-A-1.jpg",
+          "alt": "André segurando um bulbo na palma da mão no jardim"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "q3-602",
+        "g32-198"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Bulbo é feito de folhas carnudas enroladas.",
+        "A dália vem das montanhas do México.",
+        "Aqui tem plantio, dália, lírio e cuidado.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Olhe um bulbo de perto, hoje.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 122 BULBOS E DÁLIAS",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-B-1.jpg",
+          "alt": "André olhando um bulbo recém-tirado da terra com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "i36-046",
+        "i36-047"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Plante a 3 vezes a altura.",
+        "Com a ponta para cima.",
+        "SEM EXAGERO",
+        "Bulbo encharcado apodrece.",
+        "No vaso, misture pedrisco.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 122 BULBOS E DÁLIAS",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do bulbo",
+        "06",
+        "CAPÍTULO 1",
+        "Plantio e vaso",
+        "08",
+        "CAPÍTULO 2",
+        "Dália",
+        "12",
+        "CAPÍTULO 3",
+        "Lírios e outros",
+        "15",
+        "CAPÍTULO 4",
+        "Bulbo de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Bicho cavando o bulbo? Vá para a página 11.",
+        "Na próxima: a ficha do bulbo",
+        "→",
+        "TG 122 BULBOS E DÁLIAS",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "i36-046",
+        "i36-047",
+        "w31-083",
+        "b24-364",
+        "i36-056",
+        "b24-408"
+      ],
+      "textos": [
+        "FICHA DO BULBO",
+        "Antes de agir",
+        "O que olhar",
+        "FUNDO",
+        "3 vezes a altura",
+        "VASO",
+        "1 de pedrisco para 3",
+        "TELA",
+        "Galinheiro por cima",
+        "CRINO",
+        "Sol pleno e abrigo",
+        "DÁLIA",
+        "Sol, sem vento",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Lírio: vírus, fungo e besouro",
+        "Na próxima: plantio e vaso",
+        "→",
+        "TG 122 BULBOS E DÁLIAS",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Plantio e vaso",
+        "01",
+        "Certo e errado",
+        "02",
+        "Plantio, passo a passo",
+        "03",
+        "Bulbo de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 122 BULBOS E DÁLIAS",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-C-1.jpg",
+          "alt": "André cavando um buraco para plantar bulbos"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "i36-046",
+        "i36-047",
+        "q3-619",
+        "q3-603",
+        "w31-083"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Fundo",
+        "3 vezes a altura",
+        "Bem raso",
+        "Ponta",
+        "Para cima",
+        "Para baixo",
+        "Vaso",
+        "Com pedrisco",
+        "Encharcado",
+        "Ano seguinte",
+        "Bulbo novo",
+        "Bulbo velho",
+        "Dália é tubérculo, frésia é cormo.",
+        "DICA DO ANDRÉ",
+        "Tela de galinheiro sobre a terra.",
+        "Na próxima: plantio, passo a passo",
+        "→",
+        "TG 122 BULBOS E DÁLIAS",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Dália",
+        "01",
+        "Plantio, passo a passo",
+        "02",
+        "Dália de perto",
+        "03",
+        "Bicho no bulbo",
+        "Na próxima: plantio, passo a passo",
+        "→",
+        "TG 122 BULBOS E DÁLIAS",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-D-1.jpg",
+          "alt": "André olhando um canteiro de bulbos recém-plantados"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "i36-046",
+        "i36-047",
+        "w31-083"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Bulbo? Faça assim.",
+        "FUNDO",
+        "3 vezes a altura",
+        "TELA",
+        "Galinheiro por cima",
+        "VASO",
+        "Pedrisco no substrato",
+        "1",
+        "MEÇA",
+        "Fundo de 3 vezes a altura do bulbo.",
+        "2",
+        "MISTURE",
+        "1 de pedrisco para 3 de substrato.",
+        "3",
+        "COBRA",
+        "Tela e 2 cm de substrato por cima.",
+        "DICA DO ANDRÉ",
+        "Plante com a ponta para cima.",
+        "Na próxima: dália de perto",
+        "→",
+        "TG 122 BULBOS E DÁLIAS",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "blb-gesto-1.jpg",
+          "alt": "Mãos medindo com uma régua a profundidade de um buraco ao lado de um bulbo com a ponta para cima"
+        },
+        {
+          "src": "blb-gesto-2.jpg",
+          "alt": "Mãos misturando pedrisco no substrato de um vaso; o pequeno boneco mascote fica sentado na borda do vaso"
+        },
+        {
+          "src": "blb-gesto-3.jpg",
+          "alt": "Mãos estendendo tela de galinheiro sobre a terra de um vaso recém-plantado com bulbos"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "g32-198",
+        "g32-197",
+        "b24-401",
+        "b24-402",
+        "b24-405"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · DÁLIA",
+        "Dália de perto",
+        "Vem das montanhas do México.",
+        "Foi cultivada primeiro pela batata que se come.",
+        "A flor é um monte de florzinhas juntas.",
+        "São 14 grupos pelo formato da flor.",
+        "Pega de semente, broto ou tubérculo.",
+        "Na próxima: bicho no bulbo",
+        "→",
+        "TG 122 BULBOS E DÁLIAS",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "w31-083",
+        "w31-084"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Bulbo sumindo?",
+        "1",
+        "O QUE PARECE",
+        "Terra revirada no vaso.",
+        "O QUE PODE SER",
+        "Bicho cavando o bulbo.",
+        "COMO RESOLVER",
+        "Tela de galinheiro e 2 cm de terra.",
+        "Na próxima: lírios e outros",
+        "→",
+        "TG 122 BULBOS E DÁLIAS",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "blb-sintoma-1.jpg",
+          "alt": "Vaso com terra revirada por um bicho, bulbos expostos e restos de terra em volta"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Lírios e outros",
+        "01",
+        "Lírios e outros",
+        "02",
+        "Cuidado de cada um",
+        "03",
+        "Bulbo de perto",
+        "Na próxima: lírios e outros",
+        "→",
+        "TG 122 BULBOS E DÁLIAS",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-E-1.jpg",
+          "alt": "André regando um vaso de lírios no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "b24-364",
+        "b24-535",
+        "b24-395",
+        "q3-429",
+        "q3-621",
+        "g32-426",
+        "q3-623",
+        "q3-470"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CUIDADO",
+        "Lírios e outros",
+        "CRINO",
+        "Sol pleno e lugar abrigado",
+        "LÍRIO-DA-CHUVA",
+        "Solo solto e úmido",
+        "O QUE ELES PEDEM",
+        "Alstroeméria",
+        " sol e terra que escoe",
+        "Begônia-tuberosa",
+        " adubo a cada 2 semanas",
+        "Scarborough",
+        " ponta do bulbo de fora",
+        "Gengibre",
+        " vaso de 25 cm",
+        "Bom saber",
+        "Veltheimia",
+        " folha seca sozinha",
+        "Gloxínia",
+        " tubérculo em turfa úmida",
+        "Na próxima: cuidado de cada um",
+        "→",
+        "TG 122 BULBOS E DÁLIAS",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "v15-37",
+        "b24-399",
+        "b24-396",
+        "g32-200",
+        "q3-467"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Narciso: veneno no bulbo.",
+        "Dália pega vírus fácil.",
+        "Alstroeméria pode irritar a pele.",
+        "FAÇA ASSIM",
+        "Dália: tubérculo seco em areia seca.",
+        "Gloxínia: tubérculo seco e arejado.",
+        "Na próxima: bulbo de perto",
+        "→",
+        "TG 122 BULBOS E DÁLIAS",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "q3-608",
+        "q3-625",
+        "k9-264",
+        "q3-428"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · FLOR E COR",
+        "Quatro bulbos",
+        "1",
+        "Amarílis",
+        "Pode florir em qualquer mês.",
+        "2",
+        "Lírio-abacaxi",
+        "Espiga cheia de flores verdes.",
+        "3",
+        "Agapanto",
+        "Azul ou branco o verão todo.",
+        "4",
+        "Begônia",
+        "Flor grande, parece rosa.",
+        "CHAVE",
+        "Bulbo",
+        "O que ele dá",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 122 BULBOS E DÁLIAS",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "blb-var-amarilis.jpg",
+          "alt": "Amarílis (Hippeastrum) de flores vermelhas grandes num vaso"
+        },
+        {
+          "src": "blb-var-abacaxi.jpg",
+          "alt": "Lírio-abacaxi (Eucomis) com espiga comprida de flores verdes"
+        },
+        {
+          "src": "blb-var-agapanto.jpg",
+          "alt": "Agapanto azul em touceira no canteiro"
+        },
+        {
+          "src": "blb-var-begonia.jpg",
+          "alt": "Begônia-tuberosa com flor grande parecida com rosa"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "q3-614",
+        "b24-349",
+        "b24-580",
+        "k9-249",
+        "q34-146"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Bulbo de perto",
+        "LÍRIO-BRANCO",
+        "Trombetas brancas e perfumadas.",
+        "AMARÍLIS",
+        "A de vaso é Hippeastrum.",
+        "ALSTROEMÉRIA",
+        "Lírio-dos-incas e lírio-papagaio.",
+        "HEMEROCALE",
+        "Cada flor dura 24 horas.",
+        "DICA DO ANDRÉ",
+        "A flor do lírio-de-um-dia vai na salada.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 122 BULBOS E DÁLIAS",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "q3-428",
+        "q3-622"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "15",
+        "CM",
+        "é a flor grande da begônia-tuberosa.",
+        "Parece uma rosa, de 7,5 a 15 cm.",
+        "E MAIS UMA",
+        "O filhote do lírio-de-scarborough leva até 3 anos para florir.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 122 BULBOS E DÁLIAS",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "i36-046",
+        "i36-047",
+        "w31-083",
+        "g32-199",
+        "i36-056",
+        "g32-200",
+        "q3-619",
+        "v15-37"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Bulbo a 3 vezes a altura",
+        "Pedrisco no vaso",
+        "Tela sobre a terra",
+        "Dália com tutor",
+        "Dália no sol e sem vento",
+        "Tubérculo guardado seco",
+        "Bulbo novo todo ano",
+        "Narciso: bulbo venenoso",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 122 BULBOS E DÁLIAS",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Bulbo pede fundo certo e paciência. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "122",
+        "VOCÊ TEM",
+        "123",
+        "124",
+        "125",
+        "126",
+        "127",
+        "São 122 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 123 ARBUSTOS FLORIDOS",
+        "Comente ARBUSTO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 122 BULBOS E DÁLIAS",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+# TG 125 Horta em Pouco Espaco: 99 fatos (so estes)
+h35-001 [horta|Passo a passo] Horta em pouco espaço em 3 regras: conheça seu cantinho, escolha o que dá nele e não deixe espaço vazio
+h35-002 [horta|Você sabia?] Quase toda hortaliça dá em vaso, desde que o vaso seja grande o bastante para ela
+h35-015 [regar|5 cuidados] Vaso maior seca mais devagar: na horta de vaso, quanto maior, menos rega
+h35-041 [horta|Você sabia?] Broto de ervilha e cenoura redondinha crescem até em vaso pequeno
+h35-044 [trocar-vaso|Você sabia?] Substrato comum segura bem a água, mas se desmancha com o tempo; terra mais pesada mantém planta grande firme
+h35-046 [trocar-vaso|Passo a passo] Substrato usado poucas semanas (microverdes) dá para reaproveitar: tire os restos, misture adubo e complete
+h35-048 [adubar|5 cuidados] Tomate e abobrinha em vaso são comilões: adubo líquido toda semana
+h35-049 [horta|Passo a passo] Vaso grande: arrume no lugar antes de encher de terra
+h35-050 [trocar-vaso|Passo a passo] Furo do vaso: cubra com caco de vaso ou isopor quebrado para a terra não entupir
+h35-065 [horta|Você sabia?] Nove vasos espalhados pelo quintal somam o mesmo espaço de plantio de um canteiro
+h35-067 [horta|Dica do Andre] Tenha muda pronta no vaso para plantar assim que colher: a horta nunca fica parada
+h35-073 [muda|Passo a passo] Semear no canteiro: tire mato e pedra, nivele, faça o sulco na fundura do pacote, semeie fino, cubra e regue com crivo fino
+h35-098 [praga|Dica do Andre] Vaso de hortelã perto da horta ajuda a afastar pulgão
+h35-100 [tomate|5 cuidados] Tomate de vaso: adubo líquido de tomate toda semana assim que aparecerem as primeiras flores
+h35-106 [regar|3 erros] Vaso suspenso quase não recebe chuva: regue mesmo quando chove
+h35-121 [horta|Passo a passo] Microverde: semeie manjericão, mostarda, couve ou rúcula; colheu, semeie de novo a cada poucas semanas
+h35-127 [horta|5 cuidados] Gire os vasos de vez em quando para cada lado pegar sol e a planta crescer reta
+h35-138 [horta|Você sabia?] A planta só precisa de terra, luz e água: quase qualquer coisa vira vaso
+h35-139 [horta|Dica do Andre] Palete de madeira com bolsos de manta vira parede de horta: morango, alface, tomate e ervas
+h35-140 [regar|Passo a passo] Antes de plantar, mergulhe o vaso da muda num balde até parar de sair bolha
+h35-141 [horta|Dica do Andre] No palete, planta pendente em cima e erva de sombra embaixo
+h35-143 [abobrinha|Dica do Andre] Sacola retornável de mercado vira vaso de abobrinha: uma planta por sacola
+h35-156 [horta|Dica do Andre] Calha de chuva presa no muro vira canteiro de microverde e broto de ervilha
+h35-161 [horta|Você sabia?] Muita erva gosta de terra seca e pobre: por isso vai bem em vaso suspenso
+h35-173 [tomate|5 cuidados] Tomate de haste única é o melhor para vaso: tire os brotos que saem do caule principal
+h35-175 [cenoura|Você sabia?] Cenoura curta ou redonda é a melhor para vaso
+h35-181 [morango|Passo a passo] No canteiro, plante o morango primeiro (ele fica o ano todo) e semeie o resto em volta
+h35-182 [morango|5 cuidados] Morango no canteiro: 30 a 40 cm entre plantas
+h35-216 [pimenta|Você sabia?] Pimenta anã dá até em vaso de 15 cm na janela de sol
+h35-231 [horta|Passo a passo] Ervilha não gosta de mexer na raiz: semeie em rolinho de papelão ou vaso biodegradável
+g32-024 [horta|Você sabia?] Semente plantada direto no canteiro aguenta mais a seca do que muda transplantada
+g32-042 [horta|Você sabia?] Horta pequena em vaso ou canteiro estreito tem menos mato para tirar
+g32-075 [tomate|Passo a passo] Tomate: semente a meio centímetro de fundura, muda para vaso de 9 cm e para o lugar final quando sair a primeira flor
+g32-087 [pimenta|Passo a passo] Pimenta e pimentão: semente a 1 cm de fundura, muda para vaso de 9 cm e depois vaso de 30 cm, com 40 cm entre plantas e tutor firme
+g32-165 [abóbora|Dica do Andre] Pouco espaço? Faça a abóbora subir num tripé ou num arco
+g32-169 [feijão|5 cuidados] Feijão-vagem anão: 30 cm entre plantas; o trepador vai a 20 cm, em roda ou fileira dupla, um pé por vara de 2,5 m
+g32-249 [horta|3 erros] Alho-poró perde para o mato porque cresce reto e fino: mantenha o canteiro limpo
+g32-268 [rúcula|Dica do Andre] Rúcula em bandeja na janela vira microverde de corta-e-volta
+g32-274 [horta|Você sabia?] Tem framboesa anã de 50 cm que vai em vaso
+g32-310 [horta|Passo a passo] Canteiro de frutinhas: arrume os vasos no lugar, fotografe, cave covas um pouco maiores que o torrão e cubra tudo com 4 a 5 cm de cobertura
+g32-359 [morango|Dica do Andre] A frutinha do morango-silvestre se esconde nas folhas; no vaso fica mais fácil achar
+g32-391 [tomate|Você sabia?] O tomate original é uma planta grande e esparramada; o tomate anão de vaso veio de seleção
+g32-392 [tomate|5 cuidados] Tomate anão: passe para o vaso final quando aparecer o primeiro cacho de flor; na dúvida, vaso maior
+g32-418 [outra|Você sabia?] Capim-limão aguenta vento: ótimo para varanda
+g32-432 [romã|5 cuidados] Romã no vaso: terra que drena e é fértil, muita água no crescimento e adubo rico em potássio a cada 15 dias
+g32-440 [pimenta|5 cuidados] Pimenta anã de vaso: vaso final de pelo menos 1 litro, adubo rico em potássio e rega boa
+g32-454 [regar|Dica do Andre] Horta cheia de vasos: gotejador com vazão regulável para cada planta
+s28-054 [outra|5 cuidados] Canteiro bonito: plantas em número ímpar (3, 5), curvas em vez de fileiras, espaço para o tamanho adulto e uma ou duas plantas grandes no meio das pequenas
+s28-055 [outra|Dica do Andre] Em vaso, misture uma planta que cai pela borda: fica com cara mais natural
+s28-056 [regar|3 erros] Erro comum com flor em vaso: esquecer que vaso precisa de rega frequente
+s28-059 [outra|Você sabia?] Um canteiro de 2 m², bem planejado, dá flor para cortar por vários meses
+s28-061 [outra|Dica do Andre] No canteiro de corte, deixe tudo ao alcance da mão pela borda, sem pisar na terra
+s28-067 [jardim-vivo|Você sabia?] Até um vaso de janela com as flores certas vira posto de comida e abrigo para os insetos
+s28-071 [álisso|Você sabia?] O álisso tapa buraquinho no canteiro e é ímã para todo tipo de inseto
+s28-077 [regar|Dica do Andre] Antes de regar o vaso, cave uns 5 cm com o dedo: só regue se estiver seco lá embaixo
+s28-078 [outra|Dica do Andre] Planta alta no vaso: deixe em lugar com luz de todos os lados, senão as hastes entortam
+s28-125 [horta|Você sabia?] Horta de quintal: a comida viaja só os metros entre o canteiro e a cozinha, sem resíduo de veneno
+s28-126 [horta|X ou Y?] Canteiro ou vaso? Guarde o chão para milho, feijão e ervilha de trepar e abóbora grande; beterraba, tomate, acelga, abobrinha e cenoura pequena vão bem em vaso grande
+s28-127 [horta|Dica do Andre] No pacote, procure variedades "anã", "baby" ou "mini": foram feitas para vaso e costumam ficar prontas mais rápido
+s28-135 [solo|Passo a passo] Preparar o canteiro: quebre os torrões com garfo, tire pedra e mato, misture composto curtido e passe o rastelo várias vezes nos dois sentidos
+s28-156 [horta|Passo a passo] Horta num vaso só: a planta alta atrás com tutor (ervilha ou pimenta), a mais encorpada no meio (couve ou acelga) e as baixas na frente caindo pela borda (capuchinha, cebolinha)
+s28-157 [horta|Dica do Andre] Horta em vaso pede vaso grande e fundo: banheira velha ou balde grande servem, é só furar o fundo
+s28-158 [adubar|Dica do Andre] Horta no vaso: adubo líquido equilibrado a cada duas semanas
+s28-176 [pimenta|Dica do Andre] Pimenta em vaso: dá para mudar de lugar atrás do sol
+s28-199 [tomate|Você sabia?] Tomate anão dá boa colheita ocupando pouquíssimo espaço
+s28-243 [muda|3 erros] Erro comum na bomba de semente: usar semente de fora. Use só semente de flor que você mesmo plantou, para não espalhar planta invasora
+w31-001 [muda|Passo a passo] Vaso de papelão: molhe o papelão num balde, enrole num copo, amasse a ponta para fazer o fundo e deixe secar
+w31-007 [muda|Dica do Andre] Bandeja de semear de madeira de palete segura mais a umidade que a de plástico
+w31-008 [muda|3 erros] Erro comum: usar qualquer palete na horta. Só o tratado a calor, nunca o tratado com químico
+w31-016 [muda|5 cuidados] Na estufinha de garrafa ou pote, abra a tampa nos dias quentes para a muda não cozinhar
+w31-036 [morango|Passo a passo] Morango no palete em pé: tire tábua sim, tábua não, grampeie manta de jardim atrás formando bolsos, encha e plante
+w31-041 [tomate|Dica do Andre] Pedrinha branca sobre a terra do vaso de tomate, berinjela e frutífera reflete luz e ainda segura a umidade
+w31-042 [pitaia|Passo a passo] Cacto de pitaia: tire sementes da fruta, deixe secar umas horas, espalhe no vaso com terra e ponha na janela de sol
+w31-046 [outra|Dica do Andre] Palete na parede do galpão vira suporte para enxada, rastelo e vassoura
+w31-051 [outra|Passo a passo] Ferramenta sem ferrugem: balde de areia com um fio de óleo. Enfie a parte de metal e guarde ali
+w31-073 [horta|Passo a passo] Rotação em três canteiros: batata e raízes, depois feijão e ervilha, depois couve e repolho. Gira um por ano
+w31-086 [outra|Dica do Andre] Gato usando o canteiro de banheiro: plante erva-dos-gatos num canto esquecido. Vira ímã e ele larga o resto
+w31-093 [adubar|Passo a passo] Chorume de urtiga: pique, cubra de água num balde, segure no fundo com um tijolo e espere umas semanas
+w31-114 [compostagem|Passo a passo] Baia de composto: três paletes tratados a calor amarrados em U, um atrás e dois dos lados
+w31-124 [mato|3 erros] Erro comum: jogar raiz de corda-de-viola na composteira. Ela pega e brota de novo. Afogue num balde até apodrecer
+w31-130 [solo|Mito ou verdade] Mito ou verdade: cavar o canteiro todo ano é obrigatório? Mito. Cavar estraga a estrutura do solo
+w31-132 [solo|Passo a passo] Canteiro sem cavar: corte o mato rente, cubra de papelão, molhe e ponha 10 cm de composto curtido por cima
+w31-133 [solo|Você sabia?] No canteiro sem cavar o mato que nasce sai fácil com a mão, porque o composto é fofo
+w31-141 [regar|Passo a passo] Rega de férias com barbante: balde acima dos vasos, barbante molhado de um até a terra de cada vaso
+w31-142 [regar|5 cuidados] Antes de viajar: vasos na sombra, sobre toalha úmida e bem regados
+w31-143 [regar|Dica do Andre] Gotejador de garrafa: dois furos com cotonete cortado, um na tampa e um embaixo. Mexer o da tampa muda a vazão
+w31-144 [regar|5 cuidados] 5 cm de cobertura no vaso ajuda a planta a aguentar a viagem do dono
+w31-155 [podar|Dica do Andre] Corte só metade das touceiras: o canteiro fica com a mesma planta em duas alturas e floresce por mais tempo
+w31-168 [trocar-vaso|Dica do Andre] Pedaço de meia-calça no fundo do vaso segura a terra e deixa a água sair. Filtro de café também serve
+w31-172 [regar|3 erros] Erro comum: usar vaso pintado ou esmaltado de olla. A água não atravessa
+w31-174 [outra|Você sabia?] Cores opostas no círculo cromático lado a lado dão o maior contraste no canteiro
+w31-176 [grama|Dica do Andre] Para desenhar canteiro curvo, estique a mangueira no chão. Deixe no sol antes para ficar mole
+w31-183 [horta|Dica do Andre] Canteiro de palete serve sobre grama ou terra, nunca no piso: é raso e a raiz precisa descer
+w31-184 [horta|Você sabia?] No canteiro raso de palete vão melhor morango, ervas e folhas de salada
+w31-185 [horta|Dica do Andre] Mangueira velha trançada em estacas vira canteiro redondo. Furada e ligada à torneira, ainda rega sozinha
+w31-186 [horta|Dica do Andre] Sapateira de porta vira horta de ervas vertical: salsinha, coentro, manjericão e tomilho vão bem
+w31-189 [suculenta|Dica do Andre] Bota e sapato velho viram vaso. Lembre de furar o fundo para drenar
+w31-194 [horta|Passo a passo] Horta fechadura: canteiro redondo com cesto de tela no centro para o composto. Terra mais alta no meio que na borda
+w31-198 [cebolinha|Dica do Andre] Cebolinha na frente do canteiro de flor: tempero e florzinha azul ao mesmo tempo

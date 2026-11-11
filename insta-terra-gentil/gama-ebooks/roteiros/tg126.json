@@ -1,0 +1,559 @@
+{
+  "livro": "TG 126",
+  "titulo": "Desenho do Jardim",
+  "serie": "#2E4A5A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "126",
+        "COLEÇÃO TERRA GENTIL",
+        "DESENHO",
+        "Desenho do Jardim",
+        "Todo jardim bonito começa no papel.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-gramado-A-1.jpg",
+          "alt": "André desenhando a borda de um canteiro curvo no gramado"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "q34-037",
+        "q34-035",
+        "q34-004"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Jardim bom começa no desenho.",
+        "Veja sol, solo e vento antes de plantar.",
+        "Aqui tem canteiro, piso, água e árvore.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Veja a sombra de manhã, meio-dia e tarde.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 126 DESENHO DO JARDIM",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-gramado-B-1.jpg",
+          "alt": "André observando a sombra de uma árvore no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "i36-051",
+        "q34-027"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Espalhe os vasos no chão.",
+        "Mude de lugar até gostar.",
+        "SEM FORÇAR",
+        "Planta no lugar errado",
+        "gasta água, tempo e dinheiro.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 126 DESENHO DO JARDIM",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do jardim",
+        "06",
+        "CAPÍTULO 1",
+        "Canteiro e piso",
+        "08",
+        "CAPÍTULO 2",
+        "Sol e solo",
+        "12",
+        "CAPÍTULO 3",
+        "Água e árvore",
+        "15",
+        "CAPÍTULO 4",
+        "Plantas do desenho",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Mosca no composto? Vá para a página 11.",
+        "Na próxima: a ficha do jardim",
+        "→",
+        "TG 126 DESENHO DO JARDIM",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "q34-035",
+        "q34-036",
+        "q34-009",
+        "q34-040",
+        "q34-026",
+        "q34-027"
+      ],
+      "textos": [
+        "FICHA DO JARDIM",
+        "Antes de agir",
+        "O que olhar",
+        "SOL",
+        "Mais de 6 horas é sol pleno",
+        "SOMBRA",
+        "Menos de 2 horas é fechada",
+        "SOLO",
+        "Cave um buraco de teste",
+        "VENTO",
+        "Muro fechado não resolve",
+        "PRAÇA",
+        "Veja o que vai bem lá",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Planta forçada no lugar errado",
+        "Na próxima: canteiro e piso",
+        "→",
+        "TG 126 DESENHO DO JARDIM",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Canteiro e piso",
+        "01",
+        "Certo e errado",
+        "02",
+        "Desenhar, passo a passo",
+        "03",
+        "Quintal de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 126 DESENHO DO JARDIM",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-gramado-C-1.jpg",
+          "alt": "André cortando a borda curva de um canteiro no gramado"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "q34-026",
+        "i36-051",
+        "i36-052",
+        "q34-106",
+        "i36-263",
+        "q34-118"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Planta",
+        "Vai bem na praça",
+        "Forçada no lugar",
+        "Vasos",
+        "Testados no chão",
+        "Plantados de cara",
+        "Madeira",
+        "Sem tratamento",
+        "Tratada",
+        "Piso",
+        "Com vãos",
+        "Fechado",
+        "Composteira vai na terra, não no piso.",
+        "DICA DO ANDRÉ",
+        "Árvore dá sombra rendada.",
+        "Na próxima: desenhar, passo a passo",
+        "→",
+        "TG 126 DESENHO DO JARDIM",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Sol e solo",
+        "01",
+        "Desenhar, passo a passo",
+        "02",
+        "Quintal de perto",
+        "03",
+        "Mosca no composto",
+        "Na próxima: desenhar, passo a passo",
+        "→",
+        "TG 126 DESENHO DO JARDIM",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-gramado-F-1.jpg",
+          "alt": "André olhando o sol batendo num canteiro do quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "i36-048",
+        "i36-051",
+        "q34-009",
+        "i36-038"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Desenhar? Faça assim.",
+        "BORDA",
+        "Mangueira no chão",
+        "VASOS",
+        "Espalhe antes",
+        "TESTE",
+        "Buraco no quintal",
+        "1",
+        "ESTICAR",
+        "A mangueira no chão e desenhe a borda curva.",
+        "2",
+        "ESPALHAR",
+        "Os vasos no chão, até gostar.",
+        "3",
+        "CAVAR",
+        "A parede do buraco mostra as camadas.",
+        "DICA DO ANDRÉ",
+        "Pense no tamanho adulto das plantas.",
+        "Na próxima: quintal de perto",
+        "→",
+        "TG 126 DESENHO DO JARDIM",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "dsj-gesto-1.jpg",
+          "alt": "Mãos esticando uma mangueira de jardim sobre a grama para desenhar a borda curva de um canteiro"
+        },
+        {
+          "src": "dsj-gesto-2.jpg",
+          "alt": "Mãos mudando vasos de planta de lugar no chão do quintal para testar a disposição"
+        },
+        {
+          "src": "dsj-gesto-3.jpg",
+          "alt": "Mãos apontando as camadas de terra na parede de um buraco de teste no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "q34-004",
+        "q34-002",
+        "q34-008",
+        "q34-007"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · SOL E SOLO",
+        "Quintal de perto",
+        "Microclima é o clima de um cantinho.",
+        "Cidade pode ser até 5 graus mais quente.",
+        "Terra de cima é escura; embaixo vem a pedra.",
+        "Barranco perde terra na chuva forte.",
+        "O poço de luz e o muro mudam tudo.",
+        "Na próxima: mosca no composto",
+        "→",
+        "TG 126 DESENHO DO JARDIM",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "q34-061",
+        "q34-053"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Mosca no composto?",
+        "1",
+        "O QUE PARECE",
+        "Moscas em volta da composteira.",
+        "O QUE PODE SER",
+        "Resto de cozinha à mostra.",
+        "COMO RESOLVER",
+        "Cubra com folha ou poda.",
+        "Na próxima: água e árvore",
+        "→",
+        "TG 126 DESENHO DO JARDIM",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "dsj-sintoma-1.jpg",
+          "alt": "Composteira com moscas em volta e restos de cozinha à mostra"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Água e árvore",
+        "01",
+        "Água e árvore",
+        "02",
+        "Cuidado com o peso",
+        "03",
+        "Desenho de perto",
+        "Na próxima: água e árvore",
+        "→",
+        "TG 126 DESENHO DO JARDIM",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-gramado-G-1.jpg",
+          "alt": "André plantando uma árvore pequena no jardim"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "q34-082",
+        "q34-084",
+        "i36-148",
+        "i36-152",
+        "i36-258",
+        "i36-259",
+        "i36-155",
+        "q34-142"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ÁGUA E ÁRVORE",
+        "Água e árvore",
+        "JARDIM DE CHUVA",
+        "Valeta rasa que solta a água devagar",
+        "CAIXA DE CHUVA",
+        "O ladrão manda o excesso a um canteiro",
+        "O QUE PEDEM",
+        "Árvore",
+        " buraco largo e só 30 cm de fundo",
+        "Tutor",
+        " frouxo, a 45 cm do chão",
+        "Aspersor",
+        " muita água evapora",
+        "Mangueira porosa",
+        " solta água devagar no chão",
+        "Bom saber",
+        "Magnólia",
+        " muita é compacta",
+        "Íris-amarela",
+        " toma conta de laguinho",
+        "Na próxima: cuidado com o peso",
+        "→",
+        "TG 126 DESENHO DO JARDIM",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "i36-217",
+        "i36-255",
+        "q34-163",
+        "q34-033"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Vaso pendurado molhado pesa muito.",
+        "Água de banho só sem detergente.",
+        "Telhado verde fundo pesa muito.",
+        "FAÇA ASSIM",
+        "Gancho forte e regue antes de pendurar.",
+        "Teste a água da pia numa planta só.",
+        "Na próxima: desenho de perto",
+        "→",
+        "TG 126 DESENHO DO JARDIM",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "i36-146",
+        "i36-147",
+        "i36-220",
+        "q34-124"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · PLANTAS DO DESENHO",
+        "Quatro de desenho",
+        "1",
+        "Capim-dos-pampas anão",
+        "Chega a 1,4 m, no sol.",
+        "2",
+        "Grama-preta",
+        "Borda moderna de folha escura.",
+        "3",
+        "Lavanda",
+        "Cerca com mudas a 30 ou 40 cm.",
+        "4",
+        "Peixinho",
+        "Folha peluda que forra o chão.",
+        "CHAVE",
+        "Planta",
+        "O que ela faz",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 126 DESENHO DO JARDIM",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "dsj-var-pampas.jpg",
+          "alt": "Capim-dos-pampas anão com plumas claras ao sol"
+        },
+        {
+          "src": "dsj-var-gramapreta.jpg",
+          "alt": "Grama-preta de folha quase negra formando borda de canteiro"
+        },
+        {
+          "src": "dsj-var-lavanda.jpg",
+          "alt": "Cerca baixa de lavanda florida ao longo de um caminho"
+        },
+        {
+          "src": "dsj-var-peixinho.jpg",
+          "alt": "Peixinho de folha grossa coberta de pelinho branco forrando o chão"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "q34-075",
+        "q34-105",
+        "q34-106",
+        "i36-213",
+        "i36-214"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Desenho de perto",
+        "PEDRISCO",
+        "Imita lugar seco e pedregoso.",
+        "TOMILHO",
+        "Entre as pedras aguenta pisada.",
+        "VÃOS",
+        "A chuva entra e você planta neles.",
+        "ERVAS",
+        "Canteiro em cruz, louro no meio.",
+        "DICA DO ANDRÉ",
+        "Louro em vaso pode ser podado em formato.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 126 DESENHO DO JARDIM",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "i36-148",
+        "q34-031"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "3",
+        "X",
+        "mais largo que o vaso deve ser o buraco da árvore.",
+        "Só 30 cm de fundo, porque a raiz vive em cima.",
+        "E MAIS UMA",
+        "Na cidade, grama e canteiro deixam a chuva entrar no chão.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 126 DESENHO DO JARDIM",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "i36-051",
+        "i36-048",
+        "q34-037",
+        "q34-009",
+        "q34-106",
+        "i36-263",
+        "i36-148",
+        "q34-026"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Vasos espalhados no chão",
+        "Borda curva com mangueira",
+        "Sol visto de manhã à tarde",
+        "Buraco de teste no quintal",
+        "Vão no piso para plantar",
+        "Composteira sobre a terra",
+        "Árvore em buraco largo e raso",
+        "Planta que vai bem na praça",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 126 DESENHO DO JARDIM",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Jardim bom nasce de olhar o quintal antes de plantar. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "126",
+        "VOCÊ TEM",
+        "127",
+        "128",
+        "129",
+        "130",
+        "131",
+        "São 126 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 127 FOLHA COLORIDA",
+        "Comente COLORIDA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 126 DESENHO DO JARDIM",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-gramado-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

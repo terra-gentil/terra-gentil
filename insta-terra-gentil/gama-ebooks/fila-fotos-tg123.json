@@ -1,0 +1,70 @@
+{
+  "livro": "TG 123",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "arb-gesto-1",
+      "especie": "shrub potting",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands filling a large pot with soil around a small pot placed inside as a mold",
+      "mascote": false
+    },
+    {
+      "id": "arb-gesto-2",
+      "especie": "shrub in pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands fitting a shrub into the hole left by the mold in a large pot; the small mascot figurine sits on the wooden edge of the garden bench beside the pot",
+      "mascote": true
+    },
+    {
+      "id": "arb-gesto-3",
+      "especie": "hydrangea",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a dry hydrangea flower with pruning shears just above a pair of healthy buds",
+      "mascote": false
+    },
+    {
+      "id": "arb-sintoma-1",
+      "especie": "abutilon leaf whitefly",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Underside of an abutilon leaf covered with tiny white whiteflies",
+      "mascote": false
+    },
+    {
+      "id": "arb-var-hortensia",
+      "especie": "hydrangea Hanabi",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Hydrangea with star-shaped flowers that look like fireworks",
+      "mascote": false
+    },
+    {
+      "id": "arb-var-azaleia",
+      "especie": "azalea",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Azalea in bloom with hose-in-hose flowers, one flower tube inside another; the small mascot figurine stands on the ground at the foot of the shrub",
+      "mascote": true
+    },
+    {
+      "id": "arb-var-abutilon",
+      "especie": "abutilon Golden Fleece",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Abutilon with yellow bell-shaped hanging flowers",
+      "mascote": false
+    },
+    {
+      "id": "arb-var-camelia",
+      "especie": "yellow camellia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Yellow camellia flower among glossy green leaves",
+      "mascote": false
+    }
+  ]
+}

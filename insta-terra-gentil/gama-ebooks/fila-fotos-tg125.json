@@ -1,0 +1,70 @@
+{
+  "livro": "TG 125",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "hpe-gesto-1",
+      "especie": "pot drainage hole",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands covering the drainage hole of an empty large pot with a broken pot shard before adding soil",
+      "mascote": false
+    },
+    {
+      "id": "hpe-gesto-2",
+      "especie": "seedling pot in bucket",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands dipping a small pot with a vegetable seedling into a bucket of water until the bubbles stop; the small mascot figurine sits on the rim of the bucket",
+      "mascote": true
+    },
+    {
+      "id": "hpe-gesto-3",
+      "especie": "soil finger test",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pushing a finger five centimeters into the soil of a vegetable pot to feel if it is dry",
+      "mascote": false
+    },
+    {
+      "id": "hpe-sintoma-1",
+      "especie": "leaning tomato seedling",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Tomato seedling in a pot on a windowsill, leaning to one side toward the window with a bent stem",
+      "mascote": false
+    },
+    {
+      "id": "hpe-var-tomate",
+      "especie": "dwarf tomato",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dwarf tomato plant in a pot full of small red tomatoes on a balcony",
+      "mascote": false
+    },
+    {
+      "id": "hpe-var-pimenta",
+      "especie": "dwarf chili pepper",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dwarf chili pepper in a 15 cm pot on a sunny windowsill with small colorful fruits; the small mascot figurine stands on the windowsill next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "hpe-var-cenoura",
+      "especie": "round carrot",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Short round carrots growing in a deep pot, orange tops showing above the soil",
+      "mascote": false
+    },
+    {
+      "id": "hpe-var-morango",
+      "especie": "wild strawberry",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Wild strawberry plant in a small pot with little red berries visible among the leaves",
+      "mascote": false
+    }
+  ]
+}

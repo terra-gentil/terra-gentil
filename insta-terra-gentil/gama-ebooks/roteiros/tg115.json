@@ -1,0 +1,548 @@
+{
+  "livro": "TG 115",
+  "titulo": "Extratos e Chás",
+  "serie": "#3F5A2E",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "115",
+        "COLEÇÃO TERRA GENTIL",
+        "EXTRATOS",
+        "Extratos e Chás",
+        "Planta forte, caldo caseiro.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-adubar-A-1.jpg",
+          "alt": "André mexendo um balde de extrato de planta no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "f11-01",
+        "f11-14",
+        "f11-12"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Extrato de planta não é adubo.",
+        "Ele estimula o crescimento e as defesas.",
+        "Aqui tem preparo, coar e teste.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Separe um balde de plástico grosso.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 115 EXTRATOS E CHÁS",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-adubar-B-1.jpg",
+          "alt": "André olhando um balde de plástico com plantas de molho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "f11-12",
+        "f11-21"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Deixe a água descansar no balde.",
+        "O cloro enfraquece a fermentação.",
+        "SEM ERRO",
+        "Fedor forte é sinal ruim.",
+        "Quer dizer que apodreceu.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 115 EXTRATOS E CHÁS",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do extrato",
+        "06",
+        "CAPÍTULO 1",
+        "Preparo e balde",
+        "08",
+        "CAPÍTULO 2",
+        "Coar e guardar",
+        "12",
+        "CAPÍTULO 3",
+        "Quando usar",
+        "15",
+        "CAPÍTULO 4",
+        "Mato de extrato",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Galão estufou? Vá para a página 11.",
+        "Na próxima: a ficha do extrato",
+        "→",
+        "TG 115 EXTRATOS E CHÁS",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "f11-12",
+        "f11-14",
+        "f11-18",
+        "f11-23",
+        "f11-39"
+      ],
+      "textos": [
+        "FICHA DO EXTRATO",
+        "Antes de agir",
+        "O que olhar",
+        "ÁGUA",
+        "Deixe descansar",
+        "BALDE",
+        "Plástico grosso",
+        "MEXER",
+        "Todo dia",
+        "COAR",
+        "Antes de pulverizar",
+        "PULVERIZAR",
+        "Dia nublado",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Filtro de café entope na hora",
+        "Na próxima: preparo e balde",
+        "→",
+        "TG 115 EXTRATOS E CHÁS",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Preparo e balde",
+        "01",
+        "Certo e erro",
+        "02",
+        "Passo a passo",
+        "03",
+        "Teste em casa",
+        "Na próxima: certo e erro",
+        "→",
+        "TG 115 EXTRATOS E CHÁS",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-adubar-C-1.jpg",
+          "alt": "André enchendo um balde grande com água para deixar descansar"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "f11-12",
+        "f11-14",
+        "f11-34",
+        "f11-39",
+        "f11-31",
+        "f11-18"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e erro",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Água",
+        "Parada",
+        "Direto da torneira",
+        "Balde",
+        "Plástico grosso",
+        "Madeira",
+        "Infusão",
+        "Na hora",
+        "Guardar",
+        "Planta",
+        "Regada na véspera",
+        "Com sede",
+        "A decocção dura só uma ou duas horas.",
+        "DICA DO ANDRÉ",
+        "Mexa todo dia e olhe a espuma.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 115 EXTRATOS E CHÁS",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Coar e guardar",
+        "01",
+        "Passo a passo",
+        "02",
+        "Espuma e galão",
+        "03",
+        "Galão estufou",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 115 EXTRATOS E CHÁS",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-praga-A-1.jpg",
+          "alt": "André coando um balde de extrato com um pano"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "f11-18",
+        "f11-23"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Extrato? Faça assim.",
+        "MEXER",
+        "Todo dia",
+        "ESPUMA",
+        "Some, hora de coar",
+        "GALÃO",
+        "Cheio, sem ar",
+        "1",
+        "MEXA",
+        "Todo dia, sem confundir com bolhas grandes.",
+        "2",
+        "COE",
+        "Pano, peneira dupla ou coador.",
+        "3",
+        "GUARDE",
+        "Num galão cheio, sem ar.",
+        "DICA DO ANDRÉ",
+        "Filtro de café não.",
+        "Na próxima: espuma e galão",
+        "→",
+        "TG 115 EXTRATOS E CHÁS",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ext-gesto-1.jpg",
+          "alt": "Mãos mexendo com uma vara um balde de plástico com extrato de urtiga fermentando e espuma fina"
+        },
+        {
+          "src": "ext-gesto-2.jpg",
+          "alt": "Mãos coando extrato de planta com um pano sobre um balde"
+        },
+        {
+          "src": "ext-gesto-3.jpg",
+          "alt": "Mãos enchendo até a boca um galão com extrato já coado"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "f11-25",
+        "f11-21",
+        "f11-22"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · COAR E GUARDAR",
+        "Galão e cheiro",
+        "Galão estufou? Voltou a fermentar.",
+        "Abra a tampa e solte o gás.",
+        "Depois de aberto, use em até 2 meses.",
+        "Bem feito, cheira a xixi de vaca.",
+        "O cheiro ao pulverizar some em minutos.",
+        "Na próxima: galão estufou",
+        "→",
+        "TG 115 EXTRATOS E CHÁS",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "f11-25"
+      ],
+      "textos": [
+        "SOCORRO",
+        "Galão estufou?",
+        "1",
+        "O QUE PARECE",
+        "Tampa estufada no galão.",
+        "O QUE ACONTECEU",
+        "Voltou a fermentar.",
+        "COMO RESOLVER",
+        "Abra a tampa e solte o gás.",
+        "Na próxima: frutíferas",
+        "→",
+        "TG 115 EXTRATOS E CHÁS",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ext-sintoma-1.jpg",
+          "alt": "Galão de plástico com a tampa estufada, cheio de extrato fermentado"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Quando usar",
+        "01",
+        "Quando usar",
+        "02",
+        "Chá e decocção",
+        "03",
+        "Praga e pulgão",
+        "Na próxima: frutíferas",
+        "→",
+        "TG 115 EXTRATOS E CHÁS",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-praga-B-1.jpg",
+          "alt": "André pulverizando extrato numa horta em dia nublado"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "f11-31",
+        "f11-34",
+        "f11-30",
+        "f11-35"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CHÁ E DECOCÇÃO",
+        "Quando usar cada um",
+        "DECOCÇÃO",
+        "Pronta no mesmo dia",
+        "INFUSÃO",
+        "Não se guarda",
+        "O QUE ELES PEDEM",
+        "Decocção",
+        " dura uma ou duas horas",
+        "Depois",
+        " vira fermentado",
+        "Infusão",
+        " sobra poucos dias na geladeira",
+        "Ferver",
+        " com tampa e sem exagero",
+        "Bom saber",
+        "Pulgão",
+        " a infusão de urtiga é eficaz contra alguns",
+        "Horta",
+        " desregulada pede o fermentado",
+        "Na próxima: chá e decocção",
+        "→",
+        "TG 115 EXTRATOS E CHÁS",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "f11-87",
+        "f11-21",
+        "f11-02",
+        "f11-88"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Extrato caseiro mal feito perde do comprado.",
+        "Fedor forte é sinal de que apodreceu.",
+        "Chorume de urtiga: uns 8 em 10 apodreciam.",
+        "FAÇA ASSIM",
+        "Teste em dois lotes, um sem nada.",
+        "Anote datas e pese a colheita.",
+        "Na próxima: atenção",
+        "→",
+        "TG 115 EXTRATOS E CHÁS",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "f11-75",
+        "f11-54",
+        "f11-64",
+        "f11-61"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · MATO E CHÁ",
+        "Quatro plantas",
+        "1",
+        "Urtiga",
+        "Nasce em canto largado.",
+        "2",
+        "Confrei",
+        "Invasor, difícil de arrancar.",
+        "3",
+        "Dente-de-leão",
+        "Colado, atrapalha a vizinha.",
+        "4",
+        "Hortelã",
+        "O chá freia a germinação.",
+        "CHAVE",
+        "Planta",
+        "O que cuidar",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 115 EXTRATOS E CHÁS",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ext-var-urtiga.jpg",
+          "alt": "Urtiga com folhas dentadas num canto de quintal"
+        },
+        {
+          "src": "ext-var-confrei.jpg",
+          "alt": "Confrei com folhas largas e flores roxas pendentes"
+        },
+        {
+          "src": "ext-var-dente.jpg",
+          "alt": "Dente-de-leão florido entre outras plantas"
+        },
+        {
+          "src": "ext-var-hortela.jpg",
+          "alt": "Hortelã com folhas verdes viçosas num canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "f11-90",
+        "f11-55",
+        "f11-76"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Mato de extrato",
+        "FRANÇA",
+        "A Guerra da Urtiga: lei exigia homologação cara.",
+        "CONFREI",
+        "Folha fresca acelera o composto.",
+        "COBERTURA",
+        "Entre canteiros vira esconderijo de lesma.",
+        "COROA",
+        "Mato no pé da frutífera atrapalha.",
+        "DICA DO ANDRÉ",
+        "A roçadeira machuca a raiz que aflora.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 115 EXTRATOS E CHÁS",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "f11-74",
+        "f11-59"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "20",
+        "M",
+        "de distância é o mínimo da estrada movimentada.",
+        "Colha com licença do dono do terreno.",
+        "E MAIS UMA",
+        "Hera não é parasita, só usa a árvore de garra.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 115 EXTRATOS E CHÁS",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "f11-12",
+        "f11-14",
+        "f11-18",
+        "f11-23",
+        "f11-39",
+        "f11-88",
+        "f11-25",
+        "f11-22"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Água descansando no balde aberto",
+        "Balde de plástico grosso",
+        "Mexer todo dia e olhar a espuma",
+        "Coar antes de pulverizar",
+        "Pulverizar em dia nublado",
+        "Dois lotes para comparar",
+        "Galão cheio e sem ar",
+        "Abrir a tampa se estufar",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 115 EXTRATOS E CHÁS",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Extrato pede água boa e paciência. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "115",
+        "VOCÊ TEM",
+        "116",
+        "117",
+        "118",
+        "119",
+        "120",
+        "São 115 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 116 ARÁCEAS DE CASA",
+        "Comente ARACEAS no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 115 EXTRATOS E CHÁS",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-adubar-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

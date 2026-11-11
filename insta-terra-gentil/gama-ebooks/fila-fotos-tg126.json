@@ -1,0 +1,70 @@
+{
+  "livro": "TG 126",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "dsj-gesto-1",
+      "especie": "garden hose curve",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands stretching a green garden hose on the lawn to mark the curved edge of a new flower bed",
+      "mascote": false
+    },
+    {
+      "id": "dsj-gesto-2",
+      "especie": "pots on the ground",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands moving potted plants around on the ground of a backyard to test the arrangement; the small mascot figurine stands on the grass beside the pots",
+      "mascote": true
+    },
+    {
+      "id": "dsj-gesto-3",
+      "especie": "soil test hole",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pointing at the dark top layer and the lighter layer below on the wall of a small test hole in the soil",
+      "mascote": false
+    },
+    {
+      "id": "dsj-sintoma-1",
+      "especie": "compost bin flies",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Open compost bin with kitchen scraps on top and small flies hovering above it",
+      "mascote": false
+    },
+    {
+      "id": "dsj-var-pampas",
+      "especie": "dwarf pampas grass",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dwarf pampas grass clump with pale feathery plumes in full sun",
+      "mascote": false
+    },
+    {
+      "id": "dsj-var-gramapreta",
+      "especie": "black mondo grass",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Black mondo grass with almost black leaves edging a garden bed; the small mascot figurine sits on a stone at the edge of the bed",
+      "mascote": true
+    },
+    {
+      "id": "dsj-var-lavanda",
+      "especie": "lavender hedge",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Low hedge of flowering lavender along a garden path",
+      "mascote": false
+    },
+    {
+      "id": "dsj-var-peixinho",
+      "especie": "lamb's ear",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Lamb's ear with thick silvery fuzzy leaves covering the ground",
+      "mascote": false
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 115",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "ext-gesto-1",
+      "especie": "fermenting nettle bucket",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands stirring a thick plastic bucket of fermenting nettle extract with a wooden stick, thin foam on top",
+      "mascote": false
+    },
+    {
+      "id": "ext-gesto-2",
+      "especie": "straining plant extract",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands straining green plant extract through a cloth over a plastic bucket; the small mascot figurine sits on the wooden edge of the garden bench nearby",
+      "mascote": true
+    },
+    {
+      "id": "ext-gesto-3",
+      "especie": "extract jug",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pouring strained plant extract into a plastic jug filled up to the brim",
+      "mascote": false
+    },
+    {
+      "id": "ext-sintoma-1",
+      "especie": "swollen extract jug",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Plastic jug of fermented plant extract with a bulging swollen lid on a garden shelf",
+      "mascote": false
+    },
+    {
+      "id": "ext-var-urtiga",
+      "especie": "stinging nettle",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Stinging nettle with toothed green leaves in a neglected corner of a backyard",
+      "mascote": false
+    },
+    {
+      "id": "ext-var-confrei",
+      "especie": "comfrey",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Comfrey with broad leaves and drooping purple flowers in a garden bed; the small mascot figurine stands on the soil at the foot of the plant",
+      "mascote": true
+    },
+    {
+      "id": "ext-var-dente",
+      "especie": "dandelion",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Yellow dandelion flowering among other garden plants",
+      "mascote": false
+    },
+    {
+      "id": "ext-var-hortela",
+      "especie": "mint",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Lush green mint leaves growing in a garden bed",
+      "mascote": false
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+# TG 127 Folha Colorida: 46 fatos (so estes)
+b3-03 [suculenta|Dica do Andre] Pedra do jardim: prefira a parecida com as pedras da região; branca ou colorida chama atenção demais
+b7-16 [suculenta|Você sabia?] Peperomia 'Ruby' vem da floresta do Equador: gosta de calor, umidade e luz forte sem sol direto
+t13-14 [outra|Você sabia?] Caládio, tinhorão e coração-de-jesus são a mesma planta, a de folha em coração pintada de branco, verde, rosa ou vermelho. E é tóxica para cão e gato
+t13-23 [outra|Você sabia?] Bico-de-papagaio, flor-de-natal e poinsétia são a mesma planta. O colorido são folhas em volta de florzinhas amarelas
+q3-86 [begônia|Você sabia?] Begônia rex de verdade quase não se planta: as coloridas que a gente vê são híbridos dela
+q3-90 [outra|Você sabia?] A calateia-pavão (Calathea makoyana) mudou de nome na botânica: hoje é Goeppertia makoyana, e antes já foi Maranta makoyana
+q3-100 [peperômia|Você sabia?] Peperômia se multiplica pela folha com o cabinho, igual à violeta
+b24-061 [begônia|Você sabia?] A begônia-cílio tem pelinhos na borda da folha, como cílios
+b24-062 [begônia|Você sabia?] Tem begônia de folha com pintas prateadas (B. albopicta) e begônia de folha igual à do bordo (B. dregei)
+b24-191 [trapoeraba|5 cuidados] Tradescantia (trapoeraba-roxa, lambari) vai no sol ou na meia-sombra, em terra fértil
+b24-194 [trapoeraba|Você sabia?] O abacaxi-roxo (moisés-no-berço) é uma tradescantia com flor branca escondida numa "canoinha"
+b24-233 [peperômia|5 cuidados] Peperômia pega de folha, de estaca de caule, por divisão ou semente
+b24-235 [peperômia|Você sabia?] Tem peperômia com folha de botãozinho de 1 cm, ótima para vaso pendurado (P. nummulariifolia)
+b24-236 [peperômia|Você sabia?] Em quase toda peperômia a flor não tem graça: ela é cultivada pela folha
+b24-243 [fitônia|Você sabia?] A fitônia é chamada em inglês de "planta-nervura", pelas veias coloridas da folha, e serve de forração
+b24-311 [coroa-de-cristo|Você sabia?] Nas euphorbias (coroa-de-cristo, bico-de-papagaio) a parte colorida são brácteas; as flores de verdade nem têm pétala
+q3-224 [aspidistra|Você sabia?] Existe aspidistra variegada, com listras creme na folha verde
+q3-225 [begônia|Você sabia?] A begônia-cílio tem folhinha verde pintada de marrom-chocolate e flor rosa-clara ou branca
+q3-229 [begônia|Você sabia?] A begônia-cruz-de-ferro tem folha enrugada com 4 ou 5 faixas cor de bronze saindo do centro, como uma cruz
+q3-231 [begônia|Você sabia?] A begônia-rex pura quase não é cultivada: as de folha colorida que a gente compra são híbridas
+q3-233 [calathea|Você sabia?] A calathea-pavão tem folha prateada desenhada de verde-escuro por cima e manchas vinho por baixo
+q3-251 [coleus|Você sabia?] O coleus se chama Solenostemon na botânica, mas continua sendo vendido como coleus
+q3-258 [maranta|Você sabia?] A ctenanthe é parente da maranta: folha verde riscada de prata por cima e roxa por baixo
+q3-279 [hera|Você sabia?] A hera-das-canárias variegada tem folha grande com centro prateado que vira branco na borda
+q3-288 [maranta|Você sabia?] A maranta-pé-de-coelho tem esse nome pelas manchas da folha
+q3-301 [outra|Você sabia?] O ofiopogo (barba-de-serpente) tem folha de capim, dura e curvada; o mais vendido é listrado
+q3-303 [peperômia|Você sabia?] A peperômia-caperata tem folha em coração brilhante e enrugada, e solta espigas brancas
+q3-305 [peperômia|5 cuidados] Peperômia pede pouco: adubo a cada 3 ou 4 semanas e vaso novo a cada 2 anos
+q3-321 [plectranto|Você sabia?] O plectranto variegado tem folha peluda em coração, verde-clara com borda branca, e escorre do vaso
+q3-325 [tradescântia|5 cuidados] Abacaxi-roxo quer terra úmida por igual e luz indireta
+q3-331 [outra|Você sabia?] A begônia-morango (saxífraga) não é begônia: solta filhotes na ponta de ramos finos que escorrem do vaso
+q3-340 [tradescântia|Você sabia?] A tradescântia verde é quase sempre vendida variegada: listrada de branco, amarelo ou rosa
+q3-349 [calathea|Você sabia?] A calathea-cascavel tem folha comprida de borda ondulada com faixas verde-escuras
+q3-353 [peperômia|Você sabia?] A peperômia-melancia tem folha lisa e cerosa com faixas prateadas e cabinho vermelho
+q3-383 [camarão|Você sabia?] No camarão, o "camarão" são brácteas coloridas; a flor de verdade é branquinha e quase some
+q3-475 [begônia|Você sabia?] A begônia-elatior tem flor de até 5 cm, maior que a das begônias de inverno parecidas
+q3-634 [bromélia|Você sabia?] A Aechmea fasciata tem folhas cinza listradas de prata e flores azul-claras que viram rosa
+q3-640 [abacaxi|Você sabia?] Existe abacaxi variegado, menor, com folha verde, branca, amarela e rosa
+q3-684 [samambaia|Você sabia?] A pteris variegada tem uma faixa branca no meio de cada folíolo
+g32-132 [figo|Você sabia?] Existe figo listrado de verde e creme
+g32-180 [abobrinha|Você sabia?] Tem abobrinha amarela, listrada e em forma de disco
+s28-163 [beterraba|Você sabia?] Beterraba dourada ou listrada é cara no mercado, mas fácil de plantar de semente
+i36-017 [outra|5 cuidados] Fuja de muda com folha murcha ou manchada e com mato nascendo no vaso
+i36-020 [outra|Dica do Andre] Na loja, olhe a planta contra a luz, dos dois lados da folha. Folha manchada pode ser falta de nutriente ou doença
+p29-117 [pimenta|Dica do Andre] Pimenta escura fica linda com coleus e zínia rosa no mesmo vaso
+q3-341 [tradescântia|5 cuidados] Tradescântia prefere luz indireta e não gosta de calor forte

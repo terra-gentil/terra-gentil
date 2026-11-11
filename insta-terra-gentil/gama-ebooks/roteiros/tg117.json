@@ -1,0 +1,558 @@
+{
+  "livro": "TG 117",
+  "titulo": "Agave e Companhia",
+  "serie": "#5A6A3A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "117",
+        "COLEÇÃO TERRA GENTIL",
+        "AGAVE",
+        "Agave e Companhia",
+        "Sol, areia e pouca água.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "agave-A-1.jpg",
+          "alt": "André ao lado de uma agave grande no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "b5-02",
+        "b24-174",
+        "g32-435"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Agave é das Américas, babosa é do Velho Mundo.",
+        "Muitas agaves morrem depois de florir.",
+        "Aqui tem agave, aloe, haworthia e iuca.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Olhe a ponta da folha da sua agave.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 117 AGAVE E COMPANHIA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "agave-B-1.jpg",
+          "alt": "André olhando de perto a roseta de uma agave com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "b24-175",
+        "g32-436"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Dê sol pleno e terra que escoe.",
+        "Agave pede isso.",
+        "SEM EXAGERO",
+        "No vaso, pouca água.",
+        "Metade areia grossa.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 117 AGAVE E COMPANHIA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da agave",
+        "06",
+        "CAPÍTULO 1",
+        "Agave e filhote",
+        "08",
+        "CAPÍTULO 2",
+        "Babosa e aloe",
+        "12",
+        "CAPÍTULO 3",
+        "Haworthia e iuca",
+        "15",
+        "CAPÍTULO 4",
+        "Agave de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Mancha preta na folha? Vá para a página 11.",
+        "Na próxima: a ficha da agave",
+        "→",
+        "TG 117 AGAVE E COMPANHIA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "b24-175",
+        "g32-436",
+        "g32-438",
+        "g32-439",
+        "b24-592"
+      ],
+      "textos": [
+        "FICHA DA AGAVE",
+        "Antes de agir",
+        "O que olhar",
+        "SOL",
+        "Pleno, sempre",
+        "TERRA",
+        "Que escoe muito bem",
+        "VASO",
+        "Metade areia grossa",
+        "MUDA",
+        "Filhote da base",
+        "LUGAR",
+        "Longe das crianças",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Espinho bravo na ponta",
+        "Na próxima: agave e filhote",
+        "→",
+        "TG 117 AGAVE E COMPANHIA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Agave e filhote",
+        "01",
+        "Certo e errado",
+        "02",
+        "Filhote, passo a passo",
+        "03",
+        "Agave de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 117 AGAVE E COMPANHIA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "agave-C-1.jpg",
+          "alt": "André separando um filhote da base de uma agave"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "b24-175",
+        "g32-436",
+        "q3-484",
+        "b24-594",
+        "g32-439"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Sol",
+        "Pleno",
+        "Sombra",
+        "Rega",
+        "Pouca",
+        "Toda hora",
+        "Filhote",
+        "Seca uns dias",
+        "Úmido",
+        "Terra",
+        "Escoa bem",
+        "Encharcada",
+        "Aloe não morre ao florir, muitas agaves sim.",
+        "DICA DO ANDRÉ",
+        "Agave longe das crianças.",
+        "Na próxima: filhote, passo a passo",
+        "→",
+        "TG 117 AGAVE E COMPANHIA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Babosa e aloe",
+        "01",
+        "Aloe de perto",
+        "02",
+        "Mancha preta",
+        "03",
+        "Haworthia e iuca",
+        "Na próxima: filhote, passo a passo",
+        "→",
+        "TG 117 AGAVE E COMPANHIA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "babosa-D-1.jpg",
+          "alt": "André olhando uma babosa com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "q3-484",
+        "q3-486",
+        "g32-436",
+        "g32-438"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Agave? Faça assim.",
+        "SOL",
+        "Pleno",
+        "AREIA",
+        "Metade e metade",
+        "ADUBO",
+        "Líquido fraco",
+        "1",
+        "TIRE",
+        "O filhote da base da agave.",
+        "2",
+        "SEQUE",
+        "Deixe uns dias ao ar.",
+        "3",
+        "PLANTE",
+        "Vaso pequeno, sombra leve.",
+        "DICA DO ANDRÉ",
+        "Corte os filhotes da base.",
+        "Na próxima: aloe de perto",
+        "→",
+        "TG 117 AGAVE E COMPANHIA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "agv-gesto-1.jpg",
+          "alt": "Mãos tirando um filhote da base de uma agave"
+        },
+        {
+          "src": "agv-gesto-2.jpg",
+          "alt": "Mãos deixando um filhote de agave secar sobre a bancada"
+        },
+        {
+          "src": "agv-gesto-3.jpg",
+          "alt": "Mãos plantando um filhote de agave em vaso pequeno com areia grossa"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "b5-04",
+        "b24-170",
+        "b24-171",
+        "b24-172",
+        "b24-595"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · BABOSA E ALOE",
+        "Aloe de perto",
+        "A folha em calha leva a chuva ao centro.",
+        "Pega de semente, estaca ou filhote.",
+        "Tem aloe que vira árvore de 2 a 4 m.",
+        "A folha avermelha quando falta água.",
+        "O miolo da roseta costuma ser oco.",
+        "Na próxima: mancha preta",
+        "→",
+        "TG 117 AGAVE E COMPANHIA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "b2-60"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Mancha preta?",
+        "1",
+        "O QUE PARECE",
+        "Mancha preta afundada na folha.",
+        "O QUE PODE SER",
+        "Bactéria na babosa.",
+        "COMO RESOLVER",
+        "Spray de canela com álcool.",
+        "Na próxima: haworthia e iuca",
+        "→",
+        "TG 117 AGAVE E COMPANHIA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "agv-sintoma-1.jpg",
+          "alt": "Folha de babosa com mancha preta afundada"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Haworthia e iuca",
+        "01",
+        "Haworthia e iuca",
+        "02",
+        "Cuidado e perigo",
+        "03",
+        "Agave de perto",
+        "Na próxima: haworthia e iuca",
+        "→",
+        "TG 117 AGAVE E COMPANHIA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "haworthia-E-1.jpg",
+          "alt": "André com uma haworthia na mão"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "b6-31",
+        "q3-531",
+        "q3-532",
+        "q3-533",
+        "b7-35",
+        "b7-36",
+        "b1-11",
+        "k9-255"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CUIDADO",
+        "Haworthia e iuca",
+        "JANELA",
+        "Ponta transparente",
+        "PÉROLA",
+        "Verruguinhas brancas",
+        "O QUE ELA PEDE",
+        "Calor",
+        " terra úmida, secando",
+        "Frio",
+        " terra quase seca",
+        "Filhote",
+        " tire, seque e plante",
+        "Iuca",
+        " longe de muro e cano",
+        "Bom saber",
+        "Baioneta",
+        " galho serrado vira árvore",
+        "Iuca",
+        " não é mandioca",
+        "Na próxima: cuidado e perigo",
+        "→",
+        "TG 117 AGAVE E COMPANHIA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "b7-35",
+        "b24-592",
+        "b2-59",
+        "k9-255"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Iuca engrossa e quebra cano.",
+        "Agave tem espinho afiado na ponta.",
+        "Ácaro deforma o caule da babosa.",
+        "FAÇA ASSIM",
+        "Corte a parte doente e limpe a ferramenta.",
+        "Iuca longe de muro e calçada.",
+        "Na próxima: agave de perto",
+        "→",
+        "TG 117 AGAVE E COMPANHIA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "k9-220",
+        "q3-483",
+        "q3-570",
+        "q3-487"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · ESPINHO E FLOR",
+        "Quatro plantas",
+        "1",
+        "Agave-dragão",
+        "Sem espinhos, haste de quase 3 m.",
+        "2",
+        "Agave-filifera",
+        "Fios brancos na borda.",
+        "3",
+        "Agave-americana",
+        "Variegada, a mais de vaso.",
+        "4",
+        "Aloe-tigre",
+        "Folha dura listrada de branco.",
+        "CHAVE",
+        "Planta",
+        "O que ela tem",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 117 AGAVE E COMPANHIA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "agv-var-dragao.jpg",
+          "alt": "Agave-dragão sem espinhos com folhas verdes em roseta"
+        },
+        {
+          "src": "agv-var-filifera.jpg",
+          "alt": "Agave-filifera com fios brancos soltando da borda das folhas"
+        },
+        {
+          "src": "agv-var-americana.jpg",
+          "alt": "Agave-americana variegada com faixas amarelas na borda"
+        },
+        {
+          "src": "agv-var-tigre.jpg",
+          "alt": "Aloe-tigre com folhas duras listradas de branco em fileiras"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "b24-176",
+        "b24-173",
+        "g32-437",
+        "g32-435",
+        "b24-593"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Agave de perto",
+        "FLOR",
+        "A haste da americana chega a 8 m.",
+        "ANOS",
+        "A pequena leva 5 a 10 para florir.",
+        "FIM",
+        "Com a haste, aquela roseta morre.",
+        "COMER",
+        "Come-se o coração assado e a flor.",
+        "DICA DO ANDRÉ",
+        "A mãe morre e deixa filhotes.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 117 AGAVE E COMPANHIA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "b24-176",
+        "k9-220",
+        "b24-173"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "8",
+        "M",
+        "chega a haste de flor da agave-americana.",
+        "Já a agave-dragão solta haste de quase 3 m.",
+        "E MAIS UMA",
+        "Agave pequena leva 5 a 10 anos para florir.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 117 AGAVE E COMPANHIA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "b24-175",
+        "g32-436",
+        "q3-484",
+        "g32-439",
+        "k9-255",
+        "b2-59",
+        "g32-438",
+        "q3-486"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Sol pleno para a agave",
+        "Terra que escoe muito bem",
+        "Metade areia grossa no vaso",
+        "Filhote seco antes de plantar",
+        "Espinho longe das crianças",
+        "Iuca longe de muro e calçada",
+        "Ferramenta limpa no corte",
+        "Adubo líquido fraco quando cresce",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 117 AGAVE E COMPANHIA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Agave pede sol e pouca água. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "117",
+        "VOCÊ TEM",
+        "118",
+        "119",
+        "120",
+        "121",
+        "122",
+        "São 117 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 118 PALMEIRAS E BAMBU",
+        "Comente PALMEIRA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 117 AGAVE E COMPANHIA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "agave-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "livro": "TG 116",
+  "titulo": "Aráceas de Casa",
+  "serie": "#2F6B4A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "116",
+        "COLEÇÃO TERRA GENTIL",
+        "ARACEAS",
+        "Aráceas de Casa",
+        "Folha bonita, casa viva.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "costela-de-adao-A-1.jpg",
+          "alt": "André ao lado de uma costela-de-adão grande na sala"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "w18-001",
+        "w18-003",
+        "w18-187"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Costela, jiboia e antúrio são primas.",
+        "Todas são aráceas, de folha linda.",
+        "Aqui tem luz, rega e cuidado.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Descubra de onde veio a sua planta.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 116 ARÁCEAS DE CASA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "costela-de-adao-B-1.jpg",
+          "alt": "André olhando as folhas de uma costela-de-adão com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "w18-187",
+        "w18-048"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Imite a casa da planta na natureza.",
+        "Luz, umidade, calor e chão.",
+        "SEM EXAGERO",
+        "Terra encharcada mata por falta de ar.",
+        "A raiz apodrece.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 116 ARÁCEAS DE CASA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da arácea",
+        "06",
+        "CAPÍTULO 1",
+        "Luz e rega",
+        "08",
+        "CAPÍTULO 2",
+        "Folhas e flores",
+        "12",
+        "CAPÍTULO 3",
+        "Cada planta",
+        "15",
+        "CAPÍTULO 4",
+        "Aráceas de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Tubérculo sem folha? Vá para a página 11.",
+        "Na próxima: a ficha da arácea",
+        "→",
+        "TG 116 ARÁCEAS DE CASA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "w18-187",
+        "w18-048",
+        "w18-195",
+        "w18-097",
+        "w18-075",
+        "w18-231"
+      ],
+      "textos": [
+        "FICHA DA ARÁCEA",
+        "Antes de agir",
+        "O que olhar",
+        "CASA",
+        "Imite a da natureza",
+        "REGA",
+        "Sem encharcar",
+        "ADUBO",
+        "Aglaonema, uma vez por mês",
+        "VASO",
+        "Bolinhas pedem mais fundo",
+        "JIBOIA",
+        "Luz clara e filtrada",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Zamioculca guarda água na base",
+        "Na próxima: luz e rega",
+        "→",
+        "TG 116 ARÁCEAS DE CASA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Luz e rega",
+        "01",
+        "Certo e erro",
+        "02",
+        "Passo a passo",
+        "03",
+        "Tubérculo dormindo",
+        "Na próxima: certo e erro",
+        "→",
+        "TG 116 ARÁCEAS DE CASA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "costela-de-adao-C-1.jpg",
+          "alt": "André regando com cuidado uma costela-de-adão"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "w18-048",
+        "w18-075",
+        "w18-097",
+        "w18-192",
+        "w18-050",
+        "w18-195"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e erro",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Terra",
+        "Úmida, com ar",
+        "Encharcada",
+        "Zamioculca",
+        "Rega rara",
+        "Rega toda hora",
+        "Aglaonema bolinhas",
+        "Ar úmido",
+        "Ar seco",
+        "Tubérculo",
+        "Rega menor no fim",
+        "Rega farta dormindo",
+        "Alface-d'água solta em lago vira praga.",
+        "DICA DO ANDRÉ",
+        "Adube a aglaonema na fase de crescimento.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 116 ARÁCEAS DE CASA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Folhas e flores",
+        "01",
+        "Passo a passo",
+        "02",
+        "Furos e folhas",
+        "03",
+        "Tubérculo sem folha",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 116 ARÁCEAS DE CASA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jiboia-A-1.jpg",
+          "alt": "André mostrando uma jiboia em um vaso suspenso"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "w18-213",
+        "w18-214"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Inhame ornamental? Faça assim.",
+        "VASO",
+        "Do tamanho do tubérculo",
+        "REGA",
+        "Pouca no começo",
+        "FASE",
+        "Forte? Vaso maior",
+        "1",
+        "PLANTE",
+        "Num vaso só do tamanho do tubérculo.",
+        "2",
+        "REGUE",
+        "Pouco no começo.",
+        "3",
+        "TROQUE",
+        "Vaso maior e rega farta se crescer forte.",
+        "DICA DO ANDRÉ",
+        "No fim, rega menor e tubérculo seco.",
+        "Na próxima: furos e folhas",
+        "→",
+        "TG 116 ARÁCEAS DE CASA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ara-gesto-1.jpg",
+          "alt": "Mãos plantando um tubérculo de inhame ornamental num vaso do tamanho dele"
+        },
+        {
+          "src": "ara-gesto-2.jpg",
+          "alt": "Mãos regando só um pouco um vaso com tubérculo recém-plantado"
+        },
+        {
+          "src": "ara-gesto-3.jpg",
+          "alt": "Mãos tocando com o dedo a terra seca de um vaso de arácea"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "w18-011",
+        "w18-128",
+        "w18-013",
+        "w18-129"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · FOLHAS E FLORES",
+        "Furos e folhas",
+        "Ninguém sabe ao certo por que a folha fura.",
+        "Uma ideia: refrescar com o vento.",
+        "Outra: abrir sem embolar na anterior.",
+        "A costela-de-adão trocou a aspidistra.",
+        "Virou a planta de casa do século 20.",
+        "Na próxima: tubérculo sem folha",
+        "→",
+        "TG 116 ARÁCEAS DE CASA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "w18-192",
+        "w18-208"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Tubérculo sem folha?",
+        "1",
+        "O QUE PARECE",
+        "Vaso só com terra, sem folhas.",
+        "O QUE PODE SER",
+        "O tubérculo está dormindo.",
+        "COMO RESOLVER",
+        "Corte a água até as folhas novas.",
+        "Na próxima: frutíferas",
+        "→",
+        "TG 116 ARÁCEAS DE CASA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ara-sintoma-1.jpg",
+          "alt": "Vaso de arácea de tubérculo só com terra, sem nenhuma folha"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Cada planta",
+        "01",
+        "Cada planta",
+        "02",
+        "Cuidados",
+        "03",
+        "Aráceas de perto",
+        "Na próxima: frutíferas",
+        "→",
+        "TG 116 ARÁCEAS DE CASA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "anturio-A-1.jpg",
+          "alt": "André com um antúrio florido na sala"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "w18-100",
+        "w18-075",
+        "w18-195",
+        "w18-231",
+        "w18-238",
+        "w18-242",
+        "w18-212"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CUIDADO",
+        "Cada planta",
+        "COMIGO-NINGUÉM-PODE",
+        "Amassada, cheira a gambá",
+        "ZAMIOCULCA",
+        "Guarda água na base",
+        "O QUE ELAS PEDEM",
+        "Aglaonema",
+        " adubo uma vez por mês",
+        "Jiboia-prateada",
+        " terra mais seca no frio",
+        "Taioba",
+        " esterco curtido e rega farta",
+        "Caládio",
+        " folha fantasia ou folha fita",
+        "Bom saber",
+        "Copo-de-leite",
+        " o Kiwi Blush é rosa-claro",
+        "Jiboia-prateada",
+        " luz clara e filtrada",
+        "Na próxima: cuidados",
+        "→",
+        "TG 116 ARÁCEAS DE CASA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "w18-099",
+        "w18-176",
+        "w18-050",
+        "w18-051"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Comigo-ninguém-pode: mastigar tira a voz.",
+        "A família arde na boca e na pele.",
+        "Alface-d'água solta em lago vira praga.",
+        "FAÇA ASSIM",
+        "Alface-d'água só em lago ornamental.",
+        "Ela limpa a água e abriga peixe.",
+        "Na próxima: atenção",
+        "→",
+        "TG 116 ARÁCEAS DE CASA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "w18-010",
+        "w18-056",
+        "w18-073",
+        "w18-079"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · FOLHA E FLOR",
+        "Quatro aráceas",
+        "1",
+        "Antúrio",
+        "Floresce por semanas.",
+        "2",
+        "Copo-de-leite",
+        "Cruzamento de duas africanas.",
+        "3",
+        "Singônio",
+        "White Butterfly fica 80% branca.",
+        "4",
+        "Zamioculca",
+        "Folhinha caída vira planta.",
+        "CHAVE",
+        "Planta",
+        "O que ela tem",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 116 ARÁCEAS DE CASA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ara-var-anturio.jpg",
+          "alt": "Antúrio com flor vermelha cerosa e folhas brilhantes"
+        },
+        {
+          "src": "ara-var-copo.jpg",
+          "alt": "Copo-de-leite com flor branca elegante e folhas verdes"
+        },
+        {
+          "src": "ara-var-singonio.jpg",
+          "alt": "Singônio White Butterfly com folhas claras de nervura branca"
+        },
+        {
+          "src": "ara-var-zamioculca.jpg",
+          "alt": "Zamioculca com ramos grossos e folhinhas verdes brilhantes"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "w18-154",
+        "w18-155",
+        "w18-116",
+        "w18-032",
+        "w18-156"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Aráceas de perto",
+        "TITÃ",
+        "Flor de mais de 2 metros, cheira a carniça.",
+        "TUBÉRCULO",
+        "O do titã já pesou 75 quilos.",
+        "RAIZ",
+        "A aérea desce até 30 metros.",
+        "FLOR",
+        "Algumas esquentam a própria flor.",
+        "DICA DO ANDRÉ",
+        "A flor-cadáver abre só por poucos dias.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 116 ARÁCEAS DE CASA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "w18-004",
+        "w18-047"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "400",
+        "M",
+        "de pessoas têm o taro, primo da taioba, na comida.",
+        "Ele cresce nos trópicos.",
+        "E MAIS UMA",
+        "Planta de terra perde até 98% da água pelas folhas.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 116 ARÁCEAS DE CASA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "w18-187",
+        "w18-192",
+        "w18-195",
+        "w18-097",
+        "w18-208",
+        "w18-231",
+        "w18-051",
+        "w18-099"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Imitar a casa da planta",
+        "Rega menor no fim do crescimento",
+        "Adubo mensal na aglaonema",
+        "Vaso fundo para a de bolinhas",
+        "Terra mais seca até as folhas novas",
+        "Luz clara para a jiboia-prateada",
+        "Alface-d'água só em lago",
+        "Não mastigar a comigo-ninguém-pode",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 116 ARÁCEAS DE CASA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Aráceas pedem a casa certa. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "116",
+        "VOCÊ TEM",
+        "117",
+        "118",
+        "119",
+        "120",
+        "121",
+        "São 116 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 117 AGAVE E COMPANHIA",
+        "Comente AGAVE no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 116 ARÁCEAS DE CASA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "costela-de-adao-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

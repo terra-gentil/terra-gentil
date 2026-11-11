@@ -1,0 +1,70 @@
+{
+  "livro": "TG 116",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "ara-gesto-1",
+      "especie": "ornamental taro tuber",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting a purple-leaf taro tuber in a small pot just the size of the tuber",
+      "mascote": false
+    },
+    {
+      "id": "ara-gesto-2",
+      "especie": "watering small pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pouring a little water from a small can into a pot with a freshly planted tuber; the small mascot figurine sits on the wooden edge of the windowsill beside the pot",
+      "mascote": true
+    },
+    {
+      "id": "ara-gesto-3",
+      "especie": "dry potting soil",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pressing a fingertip into the dry soil of a houseplant pot to feel the moisture",
+      "mascote": false
+    },
+    {
+      "id": "ara-sintoma-1",
+      "especie": "dormant tuber pot",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Pot of dormant aroid tuber with bare soil and no leaves on a windowsill",
+      "mascote": false
+    },
+    {
+      "id": "ara-var-anturio",
+      "especie": "anthurium",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Red waxy anthurium flower with glossy heart-shaped leaves indoors",
+      "mascote": false
+    },
+    {
+      "id": "ara-var-copo",
+      "especie": "calla lily",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "White calla lily flower with green leaves in a garden pot",
+      "mascote": false
+    },
+    {
+      "id": "ara-var-singonio",
+      "especie": "syngonium white butterfly",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Syngonium White Butterfly with pale leaves and white veins in a hanging pot",
+      "mascote": false
+    },
+    {
+      "id": "ara-var-zamioculca",
+      "especie": "zamioculca",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "ZZ plant with thick stems and glossy leaves in a living room; the small mascot figurine stands on the floor at the foot of the pot",
+      "mascote": true
+    }
+  ]
+}

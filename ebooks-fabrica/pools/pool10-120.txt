@@ -1,0 +1,134 @@
+# TG 120 Estaca de Jardim: 133 fatos (so estes)
+m33-001 [abutilon|5 cuidados] Lanterninha-japonesa (abutilon) pega de estaca de ramo verde em qualquer época do ano
+m33-002 [abutilon|Você sabia?] Lanterninha-japonesa também sai de semente tirada da vagem seca; a muda leva uns dois anos para florir
+m33-003 [abutilon|3 erros] Semente de lanterninha germina rápido, mas fique de olho na mosca-branca e no ácaro
+m33-004 [aeônio|Você sabia?] Semente de aeônio é pó: uma pitadinha fresca dá centenas de mudas
+m33-006 [aeônio|5 cuidados] Para semear aeônio, misture a semente com um pouco de areia fina
+m33-007 [aeônio|3 erros] Aeônio aguenta seco mas apodrece na umidade; a roseta que floresce costuma morrer
+m33-008 [aeônio|Passo a passo] Muda de aeônio: corte o caule de 8 a 30 cm abaixo da roseta, deixe cicatrizar e só então plante
+m33-013 [agave|Você sabia?] A roseta da agave morre depois de florir, mas quase todas soltam filhotes que viram muda
+m33-014 [agave|5 cuidados] Filhote de agave só sai da mãe quando tem a roseta completa: aí já tem raiz própria
+m33-015 [agave|3 erros] Agave tem espinho e dente de serra: use luva e manga comprida para dividir
+m33-016 [agave|Você sabia?] Agave de semente leva 2 a 3 anos para virar uma plantinha pequena
+m33-017 [agave|5 cuidados] Semente de agave é grande e chata: cubra com uma camada fina de pedrisco
+m33-020 [alstroeméria|3 erros] A batatinha da alstroeméria é delicada e quebra fácil: espécie se multiplica melhor por semente
+m33-021 [alstroeméria|Você sabia?] A cápsula da alstroeméria explode e espalha a semente; um saquinho de pano em volta pega tudo
+m33-024 [amarílis|Você sabia?] Semente de amarílis às vezes germina ainda presa na haste: colha logo e plante na hora
+m33-028 [antúrio|Você sabia?] Semente de antúrio pode levar meses para germinar, e a muda leva anos até florir
+m33-030 [araucária|Você sabia?] A araucária macho tem pinha comprida de pólen; a fêmea tem a pinha redonda que se desmancha e solta a semente
+m33-032 [cacto-estrela|3 erros] Cacto-estrela (astrophytum) cresce devagar e tem raiz fraca: é difícil de multiplicar
+m33-034 [cacto-estrela|Você sabia?] Semente boa de cacto-estrela não afunda na água: ela tem bolsinhas de ar
+m33-035 [cacto-estrela|Você sabia?] Semente fresca de cacto-estrela germina em 4 a 5 dias
+m33-039 [begônia|Você sabia?] Begônia de canteiro (semperflorens) floresce 3 a 6 meses depois de semeada
+m33-047 [caládio|Passo a passo] Corte a batata do caládio em quatro ou mais pedaços, cada um com um olho, e deixe secar alguns dias antes de plantar
+m33-048 [caládio|Você sabia?] Caládio quase não dá semente em casa: a muda vem da batata
+m33-049 [camélia|Você sabia?] Estaca de camélia é difícil no frio, mas fácil em lugar quente
+m33-050 [camélia|5 cuidados] Estaca de ponta de camélia dá planta com flor mais rápido, em 3 a 4 anos
+m33-051 [camélia|5 cuidados] Semente de camélia é dura: plante fresca ou deixe de molho em água quente antes
+m33-054 [cana-da-índia|Você sabia?] Cana-da-índia dividida floresce no mesmo ano; a de semente costuma florir no segundo
+m33-055 [mamão|Você sabia?] O mamoeiro é, na verdade, uma erva com jeito de árvore
+m33-056 [mamão|Você sabia?] Para dar mamão, precisa de pé macho e pé fêmea, ou de um pé que tenha os dois sexos
+m33-057 [mamão|5 cuidados] Semente de mamão vai fresca, de preferência em copinho, para não mexer na raiz depois
+m33-060 [mandacaru|Você sabia?] A flor do cereus abre à noite e é polinizada por mariposa
+m33-064 [colar-de-corações|Passo a passo] Colar-de-corações (ceropegia): enrole a rama sobre a terra, com 1 ou 2 bolinhas, para virar muda
+m33-069 [crisântemo|5 cuidados] Crisântemo dividido e replantado em terra boa floresce na mesma estação, com mais força
+m33-071 [crisântemo|Você sabia?] Semente de crisântemo germina em duas semanas e a planta floresce no mesmo ano
+m33-073 [limoeiro|Você sabia?] Semente de limão e laranja tem vários embriões, e alguns saem clones da mãe
+m33-074 [limoeiro|5 cuidados] Das mudinhas de semente de citros, tire as fracas e as fortes demais: as que ficam são clones da mãe
+m33-077 [limoeiro|5 cuidados] O limão é dos citros que mais fácil pega de estaca
+m33-078 [coração-sangrento|5 cuidados] Clerodendro pega fácil de estaca, enraizando em 3 a 6 semanas
+m33-080 [cróton|Você sabia?] Para fazer só uma ou duas mudas de cróton, a alporquia dá planta de bom tamanho em um ano
+m33-081 [cróton|Você sabia?] Estaca de cróton enraíza em 4 a 6 semanas e vira planta adulta em dois anos
+m33-083 [inhame|Você sabia?] Semente de inhame é rara: a muda vem do próprio tubérculo ou de broto
+m33-084 [inhame|5 cuidados] Tubérculo grande de inhame pode ser cortado em pedaços, desde que cada um tenha um olho bom
+m33-086 [jade|Você sabia?] Semente de crassula é pó e germina de forma imprevisível: estaca é o jeito mais fácil
+m33-088 [jade|3 erros] Tire algumas folhas da estaca de jade para o caule não tombar com o peso enquanto enraíza
+m33-089 [jade|X ou Y?] Estaca de caule ou de folha na crassula? A de folha pega, mas é bem mais lenta
+m33-091 [colar-de-pérolas|Passo a passo] Mais fácil ainda: prenda um fio do colar-de-pérolas na terra de um vaso ao lado e, quando enraizar, corte da mãe
+m33-094 [dália|Você sabia?] Existem poucas espécies de dália cultivadas, mas milhares de híbridos de jardim
+m33-102 [echeveria|5 cuidados] Echeveria que solta filhote se multiplica pela rosetinha; a que não solta, por folha
+m33-105 [echeveria|Você sabia?] A Echeveria agavoides solta tanto filhote que vira um montinho de rosetas
+m33-108 [equinopsis|Você sabia?] O fruto do equinopsis leva 2 a 4 meses para amadurecer e racha mostrando a semente
+m33-109 [flor-de-baile|5 cuidados] O jeito mais fácil de multiplicar o cacto-orquídea (epiphyllum) é estaca da folha chata, de 15 a 23 cm
+m33-110 [flor-de-baile|3 erros] Estaca muito curta de flor-de-baile leva 1 a 2 anos a mais para florir
+m33-111 [flor-de-baile|Você sabia?] Flor-de-baile de semente leva 4 a 7 anos para florir; estaca enraíza em 3 a 6 semanas
+m33-114 [epíscia|Você sabia?] A epíscia solta filhotes na ponta das ramas, que já florescem na mesma estação
+m33-115 [epíscia|5 cuidados] Estaca de epíscia: tire de ramo sem flor
+m33-116 [lírio-do-amazonas|Você sabia?] O lírio-do-amazonas quase não dá semente em vaso: a muda vem do filhote do bulbo
+m33-117 [lírio-do-amazonas|5 cuidados] Tire a haste de flor do filhote de lírio-do-amazonas até o bulbo ter uns 8 cm
+m33-121 [coroa-de-cristo|Você sabia?] A cápsula da eufórbia explode quando madura: amarre um saquinho de papel para pegar a semente
+m33-122 [coroa-de-cristo|5 cuidados] Estaca de eufórbia suculenta cicatriza 1 a 2 semanas e enraíza em 1 a 6 meses
+m33-123 [ficus|Você sabia?] Para fazer uma ou duas mudas de ficus, a alporquia é o caminho fácil
+m33-125 [ficus|Você sabia?] Estaca de figo pode ter até 90 cm e enraizar direto no chão
+m33-129 [morango|Passo a passo] Para o morango soltar mais mudas, tire todas as flores e prenda os estolões na terra
+m33-131 [morango|Você sabia?] Morango que quase não solta estolão se multiplica dividindo a touceira; dá fruto no ano seguinte
+m33-132 [morango|Você sabia?] Alguns morangos silvestres não soltam estolão e só se multiplicam por semente ou divisão
+m33-133 [gastéria|3 erros] Evite multiplicar a gastéria enquanto ela está florindo
+m33-134 [gastéria|5 cuidados] Corte do filhote de gastéria fica dois dias secando em lugar arejado antes de ir para o vaso
+m33-135 [gastéria|Você sabia?] Gastéria de semente leva uns três anos para virar uma planta pequena
+m33-136 [gastéria|X ou Y?] Filhote ou folha na gastéria? A folha pega, mas falha às vezes e é lenta; o filhote do início do ano vira planta boa em um ano
+m33-137 [gazânia|Você sabia?] Estaca de gazânia pega fácil, até na água
+m33-139 [gazânia|3 erros] Tire o botão de flor da estaca de gazânia e use terra que escoe, senão apodrece
+m33-140 [palma-de-santa-rita|Você sabia?] Gladíolo tem poucas espécies cultivadas, mas milhares de híbridos de jardim
+m33-141 [palma-de-santa-rita|Você sabia?] O bulbo do gladíolo solta muitos bulbinhos que viram muda; florescem no segundo ano
+m33-142 [palma-de-santa-rita|3 erros] Gladíolo pega mofo e podridão fácil
+m33-144 [gloriosa|Você sabia?] Gloriosa de batata floresce em dois anos; de semente, em 3 a 4
+m33-145 [gloriosa|5 cuidados] Replante a batata da gloriosa logo abaixo da superfície da terra
+m33-147 [haworthia|Você sabia?] Haworthia de folha pega, mas devagar: 1 a 2 anos até virar planta
+m33-156 [hemerocale|Você sabia?] Hemerocale de semente floresce a partir do segundo ano
+m33-175 [ipomeia|Você sabia?] Glória-da-manhã germina em 7 a 10 dias e floresce em 16 semanas
+m33-176 [batata-doce|5 cuidados] Batata-doce quer terra arenosa e bem adubada; em lugar quente, planta-se da rama ou da batata
+m33-180 [kalanchoe|5 cuidados] Tire a estaca de kalanchoe depois que ela florir para ter planta florida na próxima estação
+m33-181 [kalanchoe|Você sabia?] A mãe-de-milhares solta mudinhas na borda da folha que pegam em qualquer lugar
+m33-182 [kalanchoe|Você sabia?] Mudinha da borda da folha de kalanchoe vira planta nova em 3 a 6 meses
+m33-185 [lavanda|Você sabia?] Lavanda de semente sai com forma e cor de flor variadas
+m33-187 [pedra-viva|3 erros] Pedra-viva (lithops) apodrece fácil: o difícil é a mudinha não apodrecer
+m33-188 [pedra-viva|Você sabia?] Pedra-viva de semente leva 2 a 3 anos para virar planta
+m33-189 [pedra-viva|5 cuidados] Filhote de pedra-viva vai em pedrisco, levemente úmido e nunca molhado
+m33-190 [mamilária|Você sabia?] Semente de mamilária dura de 5 a 10 anos guardada
+m33-191 [mamilária|Você sabia?] O fruto da mamilária, vermelho e comprido como uma velinha, leva até um ano para formar
+m33-200 [bananeira|Você sabia?] A bananeira parece árvore, mas é uma erva
+m33-201 [bananeira|Passo a passo] Muda de bananeira: afaste a terra, corte o filhote para baixo com faca, levando o máximo de raiz
+m33-202 [bananeira|5 cuidados] Tire as folhas grandes ou estragadas do filhote de bananeira para ele perder menos água
+m33-203 [bananeira|Você sabia?] Bananeira nova pode crescer 3 metros num ano
+m33-215 [gerânio|Você sabia?] Em lugar frio, o gerânio passa de ano para ano por estaca, e a planta-mãe é descartada
+m33-216 [gerânio|Você sabia?] Semente de gerânio híbrido F1 nasce em 7 a 10 dias e floresce rápido
+m33-221 [abacate|5 cuidados] Deixe a muda de abacate chegar a 30 ou 40 cm antes de ir para a terra
+m33-222 [abacate|Você sabia?] Abacateiro de viveiro é enxertado para resistir a doença e dar fruto com regularidade
+m33-223 [abacate|5 cuidados] Caroço de abacate vai de molho antes de plantar, para evitar a podridão da raiz
+m33-224 [petúnia|Você sabia?] Petúnia é perene, mas costuma ser plantada de semente como anual; germina em dez dias e floresce na mesma estação
+m33-225 [petúnia|5 cuidados] Petúnia pendente que não vende semente se multiplica por estaca de ponta
+m33-229 [filodendro|Passo a passo] Alporquia: faça dois cortes em anel a 1 cm um do outro e tire a casca entre eles, sem cortar fundo
+m33-230 [ripsális|Você sabia?] O fruto da ripsális é uma bolinha que leva uns seis meses para amadurecer e fica grudenta
+m33-231 [ripsális|5 cuidados] Estaca de ripsális: corte o fio na junta em pedaços de 10 a 15 cm; enraíza em 3 a 6 semanas
+m33-232 [ripsális|Passo a passo] Semente de ripsális: lave em água morna com um tiquinho de sabão, seque e plante na hora
+m33-235 [azaleia|Você sabia?] Estaca de azaleia leva 8 a 10 semanas para enraizar
+m33-245 [flor-de-maio|Você sabia?] Flor-de-maio enxertada em cacto alto vira uma arvorezinha em 2 a 3 anos
+m33-246 [sedum|5 cuidados] Sedum é fácil de multiplicar; o jeito depende do formato da planta
+m33-253 [jasmim-de-madagascar|Você sabia?] Jasmim-de-madagascar (stephanotis) pega fácil de estaca ou semente e floresce em 2 a 3 anos
+m33-262 [tradescântia|Você sabia?] Tradescântia variegada de semente não sai com a mancha
+m33-263 [tradescântia|5 cuidados] Tradescântia de lugar quente costuma ser feita de estaca, em qualquer época
+m33-264 [capuchinha|Você sabia?] Capuchinha se espalha sozinha pela semente e sai bem parecida com a mãe
+m33-276 [lírio-do-vento|Você sabia?] O zephyranthes é chamado de lírio-da-chuva ou lírio-do-vento
+m33-278 [lírio-do-vento|Você sabia?] A semente do lírio-do-vento é preta, chata e fica muito tempo na cápsula; muda nova floresce em dois anos
+m33-280 [dracena|5 cuidados] Dracena variegada se mantém só por estaca
+m33-282 [dracena|Você sabia?] Estaca de dracena enraíza em 8 a 12 semanas; planta de bom tamanho leva 3 a 5 anos
+m33-287 [cebola|3 erros] Cebola, alho e alho-poró pegam doença do solo: troque o canteiro de lugar a cada plantio
+m33-301 [pimenta|Você sabia?] Semente de pimenta germina em sete dias e a planta começa a dar fruto de 16 a 20 semanas depois
+m33-302 [pimenta|Você sabia?] No cruzamento, o ardido da pimenta domina: pimentão cruzado com pimenta dá muda mais ardida
+m33-303 [pimenta|Você sabia?] Pimentão e pimenta se polinizam sozinhos; plantados longe de outros tipos, a semente de casa sai parecida
+m33-313 [abobrinha|Você sabia?] Abobrinha, abóbora e moranga são todas do mesmo gênero, a Cucurbita
+m33-320 [alface|Você sabia?] Alface é ótima para plantar no meio de outra cultura que demora mais
+m33-327 [rabanete|5 cuidados] Rabanete pequeno se planta direto, em lotes a cada dez dias
+m33-328 [rabanete|Você sabia?] Rabanete redondo pode ir no meio de cultura que demora, aproveitando o espaço
+m33-335 [tomate|Você sabia?] Tomate de mesa dá para colher a partir de 7 a 8 semanas depois de ir para o canteiro
+m33-344 [amaranto|Você sabia?] A semente do amaranto fica escondida dentro do pendão; dá para "ordenhar" o cacho para colher
+m33-345 [amaranto|Passo a passo] Para limpar semente de amaranto, jogue na tigela e sopre de leve: a palha sobe e a semente fica no fundo
+m33-354 [muda|Você sabia?] A semente consegue dormir em tempo ruim, como seca, e só germina quando a hora é boa
+m33-355 [muda|Você sabia?] A rosa-do-deserto de Socotorá só existe nessa ilha, separada do continente há 1,6 milhão de anos
+m33-358 [muda|Você sabia?] Algumas orquídeas imitam a forma e o cheiro da fêmea de um inseto para atrair o macho e levar o pólen
+m33-360 [muda|Você sabia?] Vasinho de fibra de coco deixa a raiz atravessar a parede e entrar na terra, sem mexer na muda
+m33-361 [muda|5 cuidados] Reaproveite vaso plástico preto ano após ano: ele não se recicla
+m33-366 [muda|Você sabia?] Na aclimatação, a cera da folha muda de forma e grossura para a muda perder menos água
+m33-368 [muda|5 cuidados] Para regar canteiro de muda no calor, mangueira porosa ao pé das plantas funciona bem
+m33-143 [gloriosa|3 erros] Cuidado ao mexer na batata da gloriosa: ela irrita a pele

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 119",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "rpm-gesto-1",
+      "especie": "rose bud",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a rose bud with one or two petals loosening using small pruning shears",
+      "mascote": false
+    },
+    {
+      "id": "rpm-gesto-2",
+      "especie": "cut rose in vase",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing a freshly cut rose into a glass vase of water; the small mascot figurine sits on the wooden table next to the vase",
+      "mascote": true
+    },
+    {
+      "id": "rpm-gesto-3",
+      "especie": "dried rose petals",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands filling a small cloth sachet with dried rose petals, clove and rosemary",
+      "mascote": false
+    },
+    {
+      "id": "rpm-sintoma-1",
+      "especie": "rose eaten by beetle",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Rose flower with petals chewed by a beetle sitting on the bloom",
+      "mascote": false
+    },
+    {
+      "id": "rpm-var-peace",
+      "especie": "Peace rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Peace rose, yellow with pink edges, on a garden shrub",
+      "mascote": false
+    },
+    {
+      "id": "rpm-var-superstar",
+      "especie": "Super Star rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Super Star rose, orange-red in full bloom; the small mascot figurine sits on the soil at the base of the rose bush",
+      "mascote": true
+    },
+    {
+      "id": "rpm-var-viridiflora",
+      "especie": "green rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Viridiflora green rose with small green leaflets instead of petals",
+      "mascote": false
+    },
+    {
+      "id": "rpm-var-seven",
+      "especie": "Seven Sisters rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cluster of Seven Sisters rose with flowers of several colors",
+      "mascote": false
+    }
+  ]
+}

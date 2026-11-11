@@ -1,0 +1,52 @@
+# TG 123 Arbustos Floridos: 51 fatos (so estes)
+n10-20 [grama|Você sabia?] Grama, forração e muitos arbustos quase não dão semente: a muda sai de um pedaço da própria planta
+t13-42 [outra|Você sabia?] Espirradeira (oleandro, loureiro-rosa, flor-de-são-josé) é tóxica em todas as partes, para gente e para bicho
+p14-11 [outra|Você sabia?] Flores de jardim seguras para cão e gato pela ASPCA: gérbera, rosa, girassol, zínia, calêndula, boca-de-leão, beijo (Impatiens) e hibisco-da-síria
+v15-08 [outra|3 erros] Plantas de muro e quintal que também estão na lista de tóxicas para cão e gato: espirradeira, azaleia, manacá-de-cheiro, dama-da-noite e dedaleira
+g16-25 [outra|Você sabia?] Manacá-de-jardim (Brunfelsia pauciflora), que lá fora chamam de "beije-me rápido" e de "árvore-da-chuva-do-Brasil": cautela para gato no guia
+g16-41 [outra|Você sabia?] Flores seguras para gato, no jardim e no buquê: rosa, girassol, gérbera, zínia, cosmos, amor-perfeito, petúnia, beijo (Impatiens), capuchinha, boca-de-leão, celósia, gazânia, frésia, lisianto, limônio (sempre-viva), camélia, jasmim e magnólia
+s2-138 [horta|Você sabia?] O mato conta como é a terra: onde nasce mirtilo e azaleia sozinhos, a terra é ácida
+k9-029 [outra|Você sabia?] A maioria das plantas gosta de pH entre 5,5 e 6,5. A hortênsia muda de cor com ele: azul em solo ácido, rosa em solo alcalino
+k9-366 [outra|X ou Y?] Dama-da-noite é nome de duas plantas bem diferentes: um arbusto perfumado (Cestrum) e um cacto trepador de flor branca grande (Epiphyllum). Na dúvida, confira o nome científico
+k9-371 [outra|5 cuidados] Astrapeia, arbusto com cheiro de coco que ajuda as abelhas: tire as flores secas, que atraem moscas, e adube bem nos meses quentes para florir mais no inverno
+b24-084 [lantana|3 erros] Ácaro e mosca-branca são as pragas da lantana
+b24-086 [pingo-de-ouro|5 cuidados] Duranta cresce rápido: pode quando precisar para segurar o tamanho
+b24-087 [pingo-de-ouro|5 cuidados] Duranta quer luz plena e terra fértil; no vaso, rega farta enquanto cresce
+b24-088 [pingo-de-ouro|3 erros] Mosca-branca pode atacar a duranta
+b24-089 [espirradeira|5 cuidados] Espirradeira quer sol pleno e terra que escoe; no vaso, rega moderada
+b24-090 [espirradeira|5 cuidados] Belisque a ponta da espirradeira nova para ela ramificar
+b24-100 [camélia|5 cuidados] Camélia se multiplica por estaca ou por enxerto
+b24-103 [camélia|Você sabia?] Existe camélia de flor amarela (C. chrysantha), coisa rara no gênero
+b24-105 [azaleia|X ou Y?] Azaleia ou rododendro? Botanicamente é tudo Rhododendron; "azaleia" é o nome das de flor pequena e numerosa
+b24-111 [azaleia|5 cuidados] Azaleia pega por mergulhia (enterrar um galho ainda preso à mãe) ou por estaca
+b24-113 [azaleia|Você sabia?] Tem azaleia de flor "dentro da outra": um tubo de flor encaixado dentro de outro
+b24-154 [kalanchoe|Você sabia?] Tem kalanchoe que vira arbusto de 4 metros, com folha coberta de pelinho marrom (K. beharensis)
+b24-158 [suculenta|Você sabia?] Crássula vai de 2 cm a arbusto de 5 metros, e a maioria é fácil de cultivar
+b24-303 [manacá|5 cuidados] Manacá-de-jardim (Brunfelsia) quer meia-sombra e terra rica que escoe; onde não gela, vai direto no canteiro
+b24-315 [bico-de-papagaio|Você sabia?] O bico-de-papagaio (poinsétia) é uma euphorbia que vira arbusto de 3 a 4 metros
+b24-467 [lanterninha|5 cuidados] Abutilon (lanterninha) vai no sol ou na meia-sombra, em terra fértil que escoe
+b24-468 [lanterninha|5 cuidados] Belisque a ponta do abutilon novo; no adulto, encurte bem os ramos da última temporada
+b24-469 [lanterninha|3 erros] Mosca-branca e ácaro atacam o abutilon
+b24-470 [lanterninha|Você sabia?] O abutilon "Golden Fleece" tem flor amarela pendente, em forma de sininho
+b24-501 [hortênsia|Você sabia?] Tem hortênsia de flor em cone (H. paniculata) que dá cachos maiores quando é podada forte
+b24-502 [hortênsia|Você sabia?] A hortênsia "Hanabi" tem flor em forma de estrela que parece fogo de artifício
+q3-264 [hera|Você sabia?] A fatshedera é um cruzamento de hera com fatsia: arbusto que depois se espalha e sobe
+q3-375 [hibisco|Você sabia?] Tem hibisco anão de folha variegada, o Cooperi, ótimo para dentro de casa
+q3-425 [azaleia|Você sabia?] A azaleia de vaso é forçada no viveiro para florir fora de época
+q3-446 [hortênsia|Você sabia?] Hortênsia tem dois tipos: a de bola (a de vaso) e a de "renda", com a flor aberta e chata
+q3-448 [hortênsia|Dica do Andre] Hortênsia de vaso passou a flor? Vai para o jardim
+q3-571 [cacto|Você sabia?] O cacto-bola-de-neve fica coberto de pelos brancos de lã
+g32-063 [manjericão|Você sabia?] Existe manjericão perene em forma de arbusto, o manjericão-cravo (Ocimum gratissimum)
+g32-323 [horta|Dica do Andre] Colhendo muita frutinha de arbusto baixo? Sente do lado do pé: poupa costas e joelhos
+g32-382 [horta|Você sabia?] Amora-preta sobe por árvore e arbusto atrás da luz e aguenta sombra seca
+t37-042 [arvore|X ou Y?] Arbusto ou árvore? Arbusto tem vários caules e forma arredondada; árvore é mais alta e de um caule só. A poda decide em qual dos dois a planta vira
+i36-104 [outra|Dica do Andre] Plante o arbusto com o lado mais bonito virado para onde você mais olha
+i36-106 [outra|Passo a passo] Arbusto no vaso: encha o vasão com o vasinho dentro como molde, tire o vasinho e encaixe a planta no buraco
+i36-116 [hortênsia|Você sabia?] Hortênsia muda de cor pelo solo: azul no ácido, lilás no neutro, rosa no alcalino. A branca fica branca
+i36-117 [hortênsia|3 erros] Erro comum: podar a hortênsia muito forte. Você tira os botões que já estavam prontos para florir
+i36-118 [hortênsia|Passo a passo] Hortênsia: corte a flor seca até o primeiro par de gemas boas, sem descer mais
+i36-130 [trocar-vaso|Você sabia?] Arbusto em vaso pede vaso maior a cada dois anos, com terra nova
+q34-138 [outra|Você sabia?] Folha brilhante de arbusto como o cotoneaster prende a poeira da rua
+q34-159 [horta|Dica do Andre] Agrofloresta se monta de cima para baixo: primeiro as árvores, depois os arbustos, por último o chão
+p29-003 [pimenta|Você sabia?] Na natureza a pimenteira é um arbusto perene das Américas
+b24-500 [hortênsia|Você sabia?] A hortênsia faz mal se for comida e a folha pode piorar alergia de pele

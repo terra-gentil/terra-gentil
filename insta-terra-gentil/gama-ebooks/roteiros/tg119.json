@@ -1,0 +1,556 @@
+{
+  "livro": "TG 119",
+  "titulo": "Rosa Pelo Mundo",
+  "serie": "#7A3A4A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "119",
+        "COLEÇÃO TERRA GENTIL",
+        "PETALA",
+        "Rosa Pelo Mundo",
+        "Uma flor, muitas histórias.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-A-1.jpg",
+          "alt": "André cheirando uma rosa no jardim"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "r20-017",
+        "r20-036",
+        "r20-288"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Na Pérsia, a rosa era símbolo de segredo.",
+        "A Bulgária é a grande produtora de óleo.",
+        "Aqui tem cuidado, óleo, semente e história.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ponha a rosa na água logo ao cortar.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 119 ROSA PELO MUNDO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-B-1.jpg",
+          "alt": "André olhando uma roseira florida com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "r20-286"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Corte a rosa ainda em botão.",
+        "Com 1 ou 2 pétalas soltando.",
+        "DOIS ERROS",
+        "Fechada demais, ela não abre.",
+        "Aberta demais, murcha logo.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 119 ROSA PELO MUNDO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da rosa",
+        "06",
+        "CAPÍTULO 1",
+        "Cuidado básico",
+        "08",
+        "CAPÍTULO 2",
+        "Óleo e perfume",
+        "12",
+        "CAPÍTULO 3",
+        "Rosa de semente",
+        "15",
+        "CAPÍTULO 4",
+        "Rosa na história",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Flor da rosa comida? Vá para a página 11.",
+        "Na próxima: a ficha da rosa",
+        "→",
+        "TG 119 ROSA PELO MUNDO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "r20-249",
+        "r20-255",
+        "r20-239",
+        "r20-286",
+        "r20-151",
+        "r20-292"
+      ],
+      "textos": [
+        "FICHA DA ROSA",
+        "Antes de agir",
+        "O que olhar",
+        "ÁGUA",
+        "Bastante, sem encharcar",
+        "COBERTURA",
+        "Vira adubo com o tempo",
+        "ADUBO",
+        "Em três vezes no ano",
+        "CORTE",
+        "Botão com 1 ou 2 pétalas",
+        "CLIMA",
+        "Rende de 20 a 28 °C",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Troque a água do vaso",
+        "Na próxima: cuidado básico",
+        "→",
+        "TG 119 ROSA PELO MUNDO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Cuidado básico",
+        "01",
+        "Certo e errado",
+        "02",
+        "Corte, passo a passo",
+        "03",
+        "O óleo de rosa",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 119 ROSA PELO MUNDO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-C-1.jpg",
+          "alt": "André cortando uma rosa em botão com tesoura"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "r20-099",
+        "r20-143",
+        "r20-294",
+        "r20-138",
+        "r20-291",
+        "r20-289"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Rosa azul",
+        "De laboratório",
+        "Natural",
+        "Clima",
+        "Tropical serve",
+        "Só no frio",
+        "Açúcar",
+        "Com aditivo",
+        "Sozinho",
+        "Terra",
+        "Sem sal",
+        "Salgada",
+        "Água da torneira boa serve no vaso.",
+        "DICA DO ANDRÉ",
+        "Cabo longo dura mais no vaso.",
+        "Na próxima: corte, passo a passo",
+        "→",
+        "TG 119 ROSA PELO MUNDO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Óleo e perfume",
+        "01",
+        "Corte, passo a passo",
+        "02",
+        "O óleo de rosa",
+        "03",
+        "Flor comida",
+        "Na próxima: corte, passo a passo",
+        "→",
+        "TG 119 ROSA PELO MUNDO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-D-1.jpg",
+          "alt": "André segurando rosas recém-cortadas"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "r20-286",
+        "r20-288",
+        "r20-306",
+        "r20-292"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Rosa? Faça assim.",
+        "CORTE",
+        "No botão",
+        "ÁGUA",
+        "Logo depois do corte",
+        "PERFUME",
+        "Pétalas secas",
+        "1",
+        "CORTE",
+        "Com 1 ou 2 pétalas soltando.",
+        "2",
+        "ÁGUA",
+        "Ponha logo no vaso.",
+        "3",
+        "GAVETA",
+        "Pétalas, cravo e alecrim.",
+        "DICA DO ANDRÉ",
+        "Troque a água do vaso.",
+        "Na próxima: o óleo de rosa",
+        "→",
+        "TG 119 ROSA PELO MUNDO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rpm-gesto-1.jpg",
+          "alt": "Mãos cortando com tesoura uma rosa em botão com uma ou duas pétalas soltando"
+        },
+        {
+          "src": "rpm-gesto-2.jpg",
+          "alt": "Mãos colocando uma rosa recém-cortada num vaso com água"
+        },
+        {
+          "src": "rpm-gesto-3.jpg",
+          "alt": "Mãos enchendo um saquinho de pano com pétalas secas de rosa, cravo e alecrim"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "r20-036",
+        "r20-301",
+        "r20-302",
+        "r20-304",
+        "r20-297"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · ÓLEO E PERFUME",
+        "O óleo de rosa",
+        "A Bulgária é a grande produtora de óleo.",
+        "Do Vale das Rosas sai 70% a 80% do óleo.",
+        "Uma agulha molhada perfuma um lenço por um mês.",
+        "Saladino levou 500 camelos de água de rosas.",
+        "Para água de rosas, as vermelho-escuras.",
+        "Na próxima: flor comida",
+        "→",
+        "TG 119 ROSA PELO MUNDO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "r20-320"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Flor comida?",
+        "1",
+        "O QUE PARECE",
+        "Pétalas da rosa roídas.",
+        "O QUE PODE SER",
+        "Besouro na flor.",
+        "COMO RESOLVER",
+        "Cate com a mão, de dia.",
+        "Na próxima: rosa de semente",
+        "→",
+        "TG 119 ROSA PELO MUNDO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rpm-sintoma-1.jpg",
+          "alt": "Rosa com pétalas roídas por um besouro que está sobre a flor"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Rosa de semente",
+        "01",
+        "Cruzar e semear",
+        "02",
+        "Rosas famosas",
+        "03",
+        "Rosa na história",
+        "Na próxima: rosa de semente",
+        "→",
+        "TG 119 ROSA PELO MUNDO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-E-1.jpg",
+          "alt": "André olhando o frutinho vermelho de uma roseira"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "r20-101",
+        "r20-086",
+        "r20-087",
+        "r20-104",
+        "r20-344"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · SEMENTE",
+        "Rosa de semente",
+        "FRUTINHO",
+        "Rosado ou amarelo",
+        "SECAR",
+        "Dois dias, depois abra",
+        "O QUE ELA PEDE",
+        "Frio",
+        " 6 a 8 semanas na geladeira",
+        "Fundo",
+        " 1,5 a 2 cm",
+        "Nasce",
+        " em umas 3 semanas",
+        "Vaso",
+        " próprio, com 4 folhas",
+        "Bom saber",
+        "Botão",
+        " belisque o primeiro",
+        "Rosa nova",
+        " leva de 9 a 12 anos",
+        "Na próxima: cruzar e semear",
+        "→",
+        "TG 119 ROSA PELO MUNDO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "r20-082",
+        "r20-086",
+        "r20-083",
+        "r20-084",
+        "r20-085"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CRUZAMENTO",
+        "ATENÇÃO",
+        "A semente tem casca dura.",
+        "Uma substância a deixa dormindo.",
+        "Ela germina melhor após o frio.",
+        "FAÇA ASSIM",
+        "Tire pétalas e anteras da mãe.",
+        "Passe o pólen do pai com pincel.",
+        "Na próxima: rosas famosas",
+        "→",
+        "TG 119 ROSA PELO MUNDO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "r20-346",
+        "r20-348",
+        "r20-061",
+        "r20-055"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · ROSAS FAMOSAS",
+        "Quatro rosas",
+        "1",
+        "Peace",
+        "Amarela com borda rosada.",
+        "2",
+        "Super Star",
+        "Vermelho-alaranjada e perfumada.",
+        "3",
+        "Viridiflora",
+        "Só folhinhas verdes.",
+        "4",
+        "Seven Sisters",
+        "Um cacho mostra sete cores.",
+        "CHAVE",
+        "Rosa",
+        "O que ela tem",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 119 ROSA PELO MUNDO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rpm-var-peace.jpg",
+          "alt": "Rosa Peace amarela com borda rosada num arbusto de jardim"
+        },
+        {
+          "src": "rpm-var-superstar.jpg",
+          "alt": "Rosa Super Star vermelho-alaranjada em plena flor"
+        },
+        {
+          "src": "rpm-var-viridiflora.jpg",
+          "alt": "Rosa Viridiflora com folhinhas verdes no lugar das pétalas"
+        },
+        {
+          "src": "rpm-var-seven.jpg",
+          "alt": "Cacho da rosa Seven Sisters com flores de várias cores"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "r20-017",
+        "r20-027",
+        "r20-028",
+        "r20-023",
+        "r20-154"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · NA HISTÓRIA",
+        "Rosa pelo mundo",
+        "PÉRSIA",
+        "Era símbolo de segredo.",
+        "INGLATERRA",
+        "A Guerra das Rosas acabou em casamento.",
+        "FRANÇA",
+        "Josefina juntou 250 variedades.",
+        "EGITO",
+        "Fazia rosa de pano e vendia a Roma.",
+        "DICA DO ANDRÉ",
+        "Rosa colhida no calor dura menos.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 119 ROSA PELO MUNDO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "r20-025",
+        "r20-020"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "4",
+        "M",
+        "de sestércios: o que Nero gastou em rosas num banquete.",
+        "Em festas romanas, a chuva de pétalas sufocava convidados.",
+        "E MAIS UMA",
+        "Heródoto conta que Midas tinha uma rosa de 60 pétalas.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 119 ROSA PELO MUNDO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "r20-288",
+        "r20-292",
+        "r20-286",
+        "r20-255",
+        "r20-239",
+        "r20-249",
+        "r20-306",
+        "r20-138"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Rosa na água logo ao cortar",
+        "Água do vaso trocada",
+        "Corte em botão com pétalas soltando",
+        "Cobertura no pé da roseira",
+        "Adubo dividido em três vezes",
+        "Rega sem encharcar",
+        "Pétalas secas na gaveta",
+        "Roseira longe de terra salgada",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 119 ROSA PELO MUNDO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Rosa pede boa água e curiosidade. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "119",
+        "VOCÊ TEM",
+        "120",
+        "121",
+        "122",
+        "123",
+        "124",
+        "São 119 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 120 ESTACA DE JARDIM",
+        "Comente ESTACA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 119 ROSA PELO MUNDO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-F-1.jpg",
+          "alt": "Retrato do André no jardim de rosas"
+        }
+      ]
+    }
+  ]
+}

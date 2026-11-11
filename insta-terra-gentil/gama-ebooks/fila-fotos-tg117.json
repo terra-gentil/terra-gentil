@@ -1,0 +1,70 @@
+{
+  "livro": "TG 117",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "agv-gesto-1",
+      "especie": "agave offset",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pulling a small offset pup away from the base of a large agave",
+      "mascote": false
+    },
+    {
+      "id": "agv-gesto-2",
+      "especie": "agave offset",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands laying an agave offset on a wooden potting bench to dry; the small mascot figurine sits on the wooden edge of the bench",
+      "mascote": true
+    },
+    {
+      "id": "agv-gesto-3",
+      "especie": "agave offset",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting an agave offset in a small pot filled with coarse sand mix",
+      "mascote": false
+    },
+    {
+      "id": "agv-sintoma-1",
+      "especie": "aloe vera black spot",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Aloe vera leaf with a sunken black spot on the surface",
+      "mascote": false
+    },
+    {
+      "id": "agv-var-dragao",
+      "especie": "dragon tree agave",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Spineless dragon tree agave rosette with soft green leaves in a garden bed",
+      "mascote": false
+    },
+    {
+      "id": "agv-var-filifera",
+      "especie": "agave filifera",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Agave filifera with long white threads peeling from the leaf edges; the small mascot figurine stands on the gravel at the foot of the plant",
+      "mascote": true
+    },
+    {
+      "id": "agv-var-americana",
+      "especie": "variegated agave americana",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Variegated agave americana with yellow stripes on the leaf edges in a large pot",
+      "mascote": false
+    },
+    {
+      "id": "agv-var-tigre",
+      "especie": "tiger aloe",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tiger aloe with hard triangular leaves striped in white, set in neat rows",
+      "mascote": false
+    }
+  ]
+}

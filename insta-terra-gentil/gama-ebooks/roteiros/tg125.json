@@ -1,0 +1,557 @@
+{
+  "livro": "TG 125",
+  "titulo": "Horta em Pouco Espaço",
+  "serie": "#3F5A2E",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "125",
+        "COLEÇÃO TERRA GENTIL",
+        "ESPACO",
+        "Horta em Pouco Espaço",
+        "Pouco chão, muita colheita.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-A-1.jpg",
+          "alt": "André com vasos de horta numa varanda pequena"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "h35-002",
+        "h35-138",
+        "h35-001"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Quase toda hortaliça dá em vaso.",
+        "O vaso só precisa ser grande o bastante.",
+        "Aqui tem vaso, parede e colheita.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Veja o que em casa pode virar vaso.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 125 HORTA EM POUCO ESPAÇO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-B-1.jpg",
+          "alt": "André olhando um balde que vai virar vaso de horta"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "h35-001",
+        "h35-067"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Conheça o seu cantinho.",
+        "Escolha o que dá nele.",
+        "NÃO DEIXE VAZIO",
+        "Tenha muda pronta no vaso.",
+        "Plante assim que colher.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 125 HORTA EM POUCO ESPAÇO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da horta",
+        "06",
+        "CAPÍTULO 1",
+        "Vaso e terra",
+        "08",
+        "CAPÍTULO 2",
+        "Luz e rega",
+        "12",
+        "CAPÍTULO 3",
+        "Parede e palete",
+        "15",
+        "CAPÍTULO 4",
+        "Horta de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Haste torta? Vá para a página 11.",
+        "Na próxima: a ficha da horta",
+        "→",
+        "TG 125 HORTA EM POUCO ESPAÇO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "h35-002",
+        "h35-050",
+        "h35-048",
+        "s28-077",
+        "h35-127",
+        "h35-106"
+      ],
+      "textos": [
+        "FICHA DA HORTA",
+        "Antes de agir",
+        "O que olhar",
+        "VASO",
+        "Grande e furado",
+        "FURO",
+        "Caco ou isopor",
+        "COMILÕES",
+        "Tomate e abobrinha: adubo semanal",
+        "TESTE",
+        "Cave 5 cm com o dedo",
+        "LUZ",
+        "Gire os vasos",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Vaso suspenso: regue mesmo na chuva",
+        "Na próxima: vaso e terra",
+        "→",
+        "TG 125 HORTA EM POUCO ESPAÇO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Vaso e terra",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Vaso de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 125 HORTA EM POUCO ESPAÇO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-C-1.jpg",
+          "alt": "André arrumando vasos grandes numa varanda"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "h35-002",
+        "h35-050",
+        "w31-008",
+        "h35-127",
+        "h35-106",
+        "h35-067"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Vaso",
+        "Grande o bastante",
+        "Pequeno demais",
+        "Furo",
+        "Com caco por cima",
+        "Terra entupida",
+        "Palete",
+        "Tratado a calor",
+        "Tratado com química",
+        "Luz",
+        "Gira de vez em quando",
+        "Sempre de um lado",
+        "Vaso suspenso quase não recebe chuva.",
+        "DICA DO ANDRÉ",
+        "Tenha muda pronta ao colher.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 125 HORTA EM POUCO ESPAÇO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Luz e rega",
+        "01",
+        "Passo a passo",
+        "02",
+        "Vaso de perto",
+        "03",
+        "Haste torta",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 125 HORTA EM POUCO ESPAÇO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-F-1.jpg",
+          "alt": "André regando vasos de horta numa janela"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "h35-050",
+        "h35-140",
+        "s28-077",
+        "h35-049"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Horta de vaso? Faça assim.",
+        "FURO",
+        "Cubra com caco",
+        "MUDA",
+        "Mergulhe no balde",
+        "TESTE",
+        "Cave 5 cm",
+        "1",
+        "COBRIR",
+        "Caco ou isopor no furo do vaso.",
+        "2",
+        "MERGULHAR",
+        "O vaso da muda no balde, até parar a bolha.",
+        "3",
+        "CAVAR",
+        "5 cm: seco lá embaixo, regue.",
+        "DICA DO ANDRÉ",
+        "Arrume o vaso grande antes de encher.",
+        "Na próxima: vaso de perto",
+        "→",
+        "TG 125 HORTA EM POUCO ESPAÇO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "hpe-gesto-1.jpg",
+          "alt": "Mãos cobrindo o furo de um vaso com um caco de vaso antes de colocar a terra"
+        },
+        {
+          "src": "hpe-gesto-2.jpg",
+          "alt": "Mãos mergulhando o vaso de uma muda de horta num balde de água até parar de sair bolha"
+        },
+        {
+          "src": "hpe-gesto-3.jpg",
+          "alt": "Mãos enfiando o dedo cinco centímetros na terra de um vaso de horta para testar se está seco"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "h35-015",
+        "h35-044",
+        "h35-046"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · VASO E TERRA",
+        "Vaso de perto",
+        "Vaso maior seca mais devagar.",
+        "Quanto maior, menos rega.",
+        "Substrato comum se desmancha com o tempo.",
+        "Terra mais pesada firma planta grande.",
+        "Substrato de microverde dá para reaproveitar.",
+        "Na próxima: haste torta",
+        "→",
+        "TG 125 HORTA EM POUCO ESPAÇO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "h35-127",
+        "s28-078"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Haste torta?",
+        "1",
+        "O QUE PARECE",
+        "Planta inclinada para um lado.",
+        "O QUE PODE SER",
+        "Luz só de um lado.",
+        "COMO RESOLVER",
+        "Gire os vasos de vez em quando.",
+        "Na próxima: parede e palete",
+        "→",
+        "TG 125 HORTA EM POUCO ESPAÇO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "hpe-sintoma-1.jpg",
+          "alt": "Muda de tomate num vaso inclinada para o lado da janela, com a haste torta"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Parede e palete",
+        "01",
+        "Parede e palete",
+        "02",
+        "Palete e cuidado",
+        "03",
+        "Horta de perto",
+        "Na próxima: parede e palete",
+        "→",
+        "TG 125 HORTA EM POUCO ESPAÇO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-G-1.jpg",
+          "alt": "André montando uma horta vertical num palete de madeira"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "h35-139",
+        "h35-156",
+        "h35-141",
+        "w31-186",
+        "w31-185",
+        "h35-143",
+        "w31-184",
+        "w31-008"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · PAREDE",
+        "Parede e palete",
+        "PALETE",
+        "Bolsos de manta com morango e ervas",
+        "CALHA",
+        "Microverde e broto de ervilha",
+        "O QUE ELE PEDE",
+        "Pendente",
+        " em cima, erva de sombra embaixo",
+        "Sapateira",
+        " ervas de cozinha",
+        "Mangueira",
+        " vira canteiro redondo",
+        "Sacola",
+        " uma abobrinha por sacola",
+        "Bom saber",
+        "Raso",
+        " morango, ervas e salada",
+        "Cuidado",
+        " só palete tratado a calor",
+        "Na próxima: palete e cuidado",
+        "→",
+        "TG 125 HORTA EM POUCO ESPAÇO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "w31-008",
+        "w31-183",
+        "h35-106"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Palete só tratado a calor.",
+        "Canteiro de palete não vai no piso.",
+        "Vaso suspenso quase não recebe chuva.",
+        "FAÇA ASSIM",
+        "Ponha sobre grama ou terra.",
+        "Regue o suspenso mesmo na chuva.",
+        "Na próxima: horta de perto",
+        "→",
+        "TG 125 HORTA EM POUCO ESPAÇO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "s28-199",
+        "h35-216",
+        "h35-175",
+        "g32-359"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · PEQUENAS DE VASO",
+        "Quatro de vaso",
+        "1",
+        "Tomate anão",
+        "Boa colheita em pouco espaço.",
+        "2",
+        "Pimenta anã",
+        "Dá até em vaso de 15 cm.",
+        "3",
+        "Cenoura redonda",
+        "Curta ou redonda, a melhor.",
+        "4",
+        "Morango-silvestre",
+        "No vaso, a fruta fica à vista.",
+        "CHAVE",
+        "Planta",
+        "O que ela dá",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 125 HORTA EM POUCO ESPAÇO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "hpe-var-tomate.jpg",
+          "alt": "Tomate anão num vaso com tomatinhos vermelhos"
+        },
+        {
+          "src": "hpe-var-pimenta.jpg",
+          "alt": "Pimenta anã em vaso pequeno com frutinhas coloridas"
+        },
+        {
+          "src": "hpe-var-cenoura.jpg",
+          "alt": "Cenouras curtas e redondas num vaso fundo"
+        },
+        {
+          "src": "hpe-var-morango.jpg",
+          "alt": "Morango-silvestre num vaso com frutinhas vermelhas à vista"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "s28-126",
+        "s28-127",
+        "s28-156",
+        "g32-165"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Horta de perto",
+        "CHÃO",
+        "Guarde para milho, feijão, ervilha e abóbora.",
+        "VASO",
+        "Tomate, beterraba, acelga e abobrinha vão bem.",
+        "PACOTE",
+        "Procure anã, baby ou mini.",
+        "VASO ÚNICO",
+        "Alta atrás e baixas na frente.",
+        "DICA DO ANDRÉ",
+        "Abóbora sobe em tripé ou arco.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 125 HORTA EM POUCO ESPAÇO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "h35-182",
+        "h35-065",
+        "g32-042"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "30",
+        "CM",
+        "a 40 cm entre plantas de morango no canteiro.",
+        "Nove vasos somam o espaço de um canteiro.",
+        "E MAIS UMA",
+        "Horta pequena tem menos mato para tirar.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 125 HORTA EM POUCO ESPAÇO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "h35-002",
+        "h35-050",
+        "s28-077",
+        "h35-127",
+        "h35-048",
+        "h35-067",
+        "w31-008",
+        "h35-121"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Vaso grande o bastante",
+        "Caco ou isopor no furo",
+        "Teste de 5 cm antes de regar",
+        "Vasos girados de vez em quando",
+        "Adubo líquido semanal no tomate",
+        "Muda pronta para cada colheita",
+        "Palete tratado a calor",
+        "Microverde semeado de novo",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 125 HORTA EM POUCO ESPAÇO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Horta pequena pede vaso certo e rega na medida. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "125",
+        "VOCÊ TEM",
+        "126",
+        "127",
+        "128",
+        "129",
+        "130",
+        "São 125 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 126 DESENHO DO JARDIM",
+        "Comente DESENHO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 125 HORTA EM POUCO ESPAÇO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

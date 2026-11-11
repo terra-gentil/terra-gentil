@@ -1,0 +1,70 @@
+{
+  "livro": "TG 121",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "trp-gesto-1",
+      "especie": "garden trellis",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands fitting a small trellis into the bottom of an empty clay pot before adding soil",
+      "mascote": false
+    },
+    {
+      "id": "trp-gesto-2",
+      "especie": "climbing vine",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands tying a young vine stem to a wooden stake with twine in a figure eight; the small mascot figurine sits on the rim of the clay pot nearby",
+      "mascote": true
+    },
+    {
+      "id": "trp-gesto-3",
+      "especie": "vine seedling",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting a small vine seedling at the foot of a bamboo pole in a garden bed",
+      "mascote": false
+    },
+    {
+      "id": "trp-sintoma-1",
+      "especie": "bougainvillea leaf spots",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Bougainvillea with sick spotted leaves next to pink bracts, from overwatering",
+      "mascote": false
+    },
+    {
+      "id": "trp-var-tumbergia",
+      "especie": "black-eyed Susan vine",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Thunbergia alata with orange and yellow flowers with dark centers covering a fence",
+      "mascote": false
+    },
+    {
+      "id": "trp-var-mandevila",
+      "especie": "mandevilla",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Mandevilla with pink trumpet flowers in clusters on a trellis; the small mascot figurine stands on the ground at the foot of the trellis",
+      "mascote": true
+    },
+    {
+      "id": "trp-var-cobeia",
+      "especie": "cup and saucer vine",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Purple Cobaea scandens bell flowers climbing over a garden arch",
+      "mascote": false
+    },
+    {
+      "id": "trp-var-ipomeia",
+      "especie": "blue morning glory",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Blue morning glory flowers wide open in the morning sun on a fence",
+      "mascote": false
+    }
+  ]
+}

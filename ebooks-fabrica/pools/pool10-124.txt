@@ -1,0 +1,33 @@
+# TG 124 Horta Diferente: 32 fatos (so estes)
+g32-082 [horta|Você sabia?] Tem bertalha de folha verde-clara e flor branca e bertalha de talo e flor vermelhos
+g32-083 [horta|5 cuidados] Bertalha: 30 cm entre plantas, composto farto e uma vara ou barbante de pelo menos 2 metros para subir
+g32-084 [horta|Você sabia?] A folha da bertalha continua macia mesmo velha e quase não tem praga nem doença
+g32-085 [horta|Você sabia?] A bertalha vem das matas úmidas da Ásia tropical e aguenta meia-sombra
+g32-086 [horta|Passo a passo] Guarde semente de bertalha: colha das plantas maduras e deixe secar
+g32-108 [horta|Você sabia?] Crisântemo-de-comer (shungiku) tem folha cheirosa e flor amarela que chama abelha
+g32-148 [amaranto|Passo a passo] Caruru: semeie sem cobrir a semente, 30 cm entre linhas e 20 cm entre plantas; colha beliscando as pontas
+g32-149 [amaranto|X ou Y?] Folha ou grão? Para folha, belisque sempre as pontas; para grão, pare de beliscar e deixe espigar
+g32-150 [amaranto|Você sabia?] O grão de amaranto era alimento dos astecas
+g32-151 [amaranto|Passo a passo] Grão de amaranto: deixe de molho e enxágue até parar de fazer espuma, para tirar a saponina
+g32-152 [amaranto|Você sabia?] Caruru que não é colhido semeia sozinho e se espalha
+g32-153 [amaranto|Você sabia?] A semente de caruru também serve para fazer broto e tem muito nutriente
+g32-206 [erva-doce|Você sabia?] Erva-doce espigou? A folha e a flor continuam comestíveis, e a flor chama polinizadores
+g32-241 [mirtilo|5 cuidados] Mirtilo: terra que drena mas segura umidade, matéria orgânica ácida e cobertura grossa no chão
+g32-245 [mirtilo|Dica do Andre] Terra calcária? Plante o mirtilo no vaso com substrato ácido
+g32-246 [mirtilo|Passo a passo] Muda de mirtilo: estaca do ramo do ano anterior, tirada na poda
+g32-247 [mirtilo|Você sabia?] Tem mirtilo de fruta cor-de-rosa
+g32-256 [chicória|Você sabia?] Chicória e escarola amarram menos se ficarem um tempo sem luz antes da colheita
+g32-280 [horta|Você sabia?] O sabugueiro é quase indestrutível, dá flor que vira bebida e geleia e cachos de frutinhas
+g32-281 [horta|Passo a passo] Flor de sabugueiro: colha assim que abrir, use no mesmo dia e deixe umas horas parada para os insetos saírem
+g32-282 [horta|3 erros] Fruta de sabugueiro é melhor cozida, que tira o amargo
+g32-319 [horta|3 erros] Ruibarbo: não colha no primeiro ano, deixe a touceira formar; e tire a haste de flor
+g32-320 [horta|Passo a passo] Talo de ruibarbo se colhe deslizando os dedos até a base e torcendo
+g32-360 [horta|Passo a passo] Raiz-forte se planta por pedaço de raiz, a 30 x 30 cm; na colheita deixe parte da raiz para ela voltar
+g32-361 [horta|3 erros] Molho de raiz-forte não vai ao fogo: rale e use na hora, senão perde a ardência
+g32-362 [horta|Dica do Andre] Raiz-forte se espalha: plante num vaso grande enterrado
+g32-363 [horta|Você sabia?] A folha da raiz-forte não se come de tão ardida; a flor branca chama polinizador
+g32-390 [horta|Você sabia?] Sem quintal dá para plantar dentro de casa: broto de ervilha, microverde, capim-limão, gengibre, cúrcuma e limão
+g32-404 [horta|Você sabia?] Dá microverde de rúcula, erva-doce, mostarda, hortelã, cebolinha, rabanete, beterraba e amaranto
+g32-425 [outra|Você sabia?] Gengibre, cúrcuma, galanga e cardamomo são todos da mesma família e vêm da Índia
+g32-428 [outra|Dica do Andre] Gengibre comprado na feira vira muda: plante um pedaço saudável
+g32-429 [outra|5 cuidados] Gengibre come bastante: adube toda semana enquanto cresce, e regue menos quando ele dormir

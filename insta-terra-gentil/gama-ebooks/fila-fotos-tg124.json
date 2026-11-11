@@ -1,0 +1,70 @@
+{
+  "livro": "TG 124",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "hdi-gesto-1",
+      "especie": "horseradish root",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting a piece of horseradish root in garden soil",
+      "mascote": false
+    },
+    {
+      "id": "hdi-gesto-2",
+      "especie": "rhubarb stalk",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sliding the fingers down a rhubarb stalk to its base and twisting it to harvest; the small mascot figurine sits on the wooden edge of the raised bed",
+      "mascote": true
+    },
+    {
+      "id": "hdi-gesto-3",
+      "especie": "amaranth seeds",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands scattering amaranth seeds on bare soil without covering them",
+      "mascote": false
+    },
+    {
+      "id": "hdi-sintoma-1",
+      "especie": "rhubarb flower stalk",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Rhubarb clump with a flower stalk rising among large leaves",
+      "mascote": false
+    },
+    {
+      "id": "hdi-var-bertalha",
+      "especie": "malabar spinach",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Malabar spinach with soft green leaves climbing a string",
+      "mascote": false
+    },
+    {
+      "id": "hdi-var-caruru",
+      "especie": "amaranth",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Amaranth plant with red seed spikes in a vegetable garden",
+      "mascote": false
+    },
+    {
+      "id": "hdi-var-shungiku",
+      "especie": "garland chrysanthemum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Edible garland chrysanthemum with cut leaves and yellow flowers",
+      "mascote": false
+    },
+    {
+      "id": "hdi-var-gengibre",
+      "especie": "ginger",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Ginger sprouting from a rhizome piece in a pot; the small mascot figurine stands on the ground beside the pot",
+      "mascote": true
+    }
+  ]
+}

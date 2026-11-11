@@ -1,0 +1,556 @@
+{
+  "livro": "TG 124",
+  "titulo": "Horta Diferente",
+  "serie": "#3F5A2E",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "124",
+        "COLEÇÃO TERRA GENTIL",
+        "DIFERENTE",
+        "Horta Diferente",
+        "Folha, raiz e flor fora do comum.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-A-1.jpg",
+          "alt": "André abraçando uma cesta de verduras diferentes na horta"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "g32-082",
+        "g32-108",
+        "g32-360",
+        "g32-428"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Tem planta que se come da folha, da flor ou da raiz.",
+        "Bertalha, shungiku e raiz-forte também são horta.",
+        "Aqui tem ervas e frutinhas fora do comum.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Compre um gengibre na feira para plantar.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 124 HORTA DIFERENTE",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-B-1.jpg",
+          "alt": "André olhando folhas diferentes num canteiro da horta"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "g32-428",
+        "g32-429"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Plante um pedaço de gengibre.",
+        "Pode ser um saudável da feira.",
+        "SEM EXAGERO",
+        "Adube toda semana enquanto cresce.",
+        "Quando ele dormir, regue menos.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 124 HORTA DIFERENTE",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da horta",
+        "06",
+        "CAPÍTULO 1",
+        "Erros comuns",
+        "08",
+        "CAPÍTULO 2",
+        "Raiz, talo e folha",
+        "12",
+        "CAPÍTULO 3",
+        "Flor e fruta",
+        "15",
+        "CAPÍTULO 4",
+        "Quatro novidades",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Ruibarbo sem vingar? Vá para a página 11.",
+        "Na próxima: a ficha da horta",
+        "→",
+        "TG 124 HORTA DIFERENTE",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "g32-083",
+        "g32-148",
+        "g32-241",
+        "g32-319",
+        "g32-362",
+        "g32-282"
+      ],
+      "textos": [
+        "FICHA DA HORTA",
+        "Antes de agir",
+        "O que olhar",
+        "BERTALHA",
+        "Vara de 2 m para subir",
+        "CARURU",
+        "Semeie sem cobrir",
+        "MIRTILO",
+        "Terra ácida e cobertura",
+        "RUIBARBO",
+        "Sem colher no 1º ano",
+        "RAIZ-FORTE",
+        "Vaso grande enterrado",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Fruta de sabugueiro, só cozida",
+        "Na próxima: erros comuns",
+        "→",
+        "TG 124 HORTA DIFERENTE",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Erros comuns",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Bertalha de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 124 HORTA DIFERENTE",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-C-1.jpg",
+          "alt": "André colhendo folhas diferentes na horta"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "g32-319",
+        "g32-361",
+        "g32-282",
+        "g32-149",
+        "g32-256",
+        "g32-206"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Ruibarbo",
+        "Deixa formar",
+        "Colhe já",
+        "Molho",
+        "Rale na hora",
+        "Leva ao fogo",
+        "Sabugueiro",
+        "Fruta cozida",
+        "Fruta crua",
+        "Folha de caruru",
+        "Belisca as pontas",
+        "Deixa espigar",
+        "Chicória amarra menos com um tempo sem luz.",
+        "DICA DO ANDRÉ",
+        "Erva-doce espigou? Folha e flor se comem.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 124 HORTA DIFERENTE",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Raiz, talo e folha",
+        "01",
+        "Passo a passo",
+        "02",
+        "Bertalha de perto",
+        "03",
+        "Ruibarbo fraco",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 124 HORTA DIFERENTE",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-A-1.jpg",
+          "alt": "André olhando a terra de um canteiro de raízes"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "g32-360",
+        "g32-320",
+        "g32-148"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Planta diferente? Faça assim.",
+        "RAIZ-FORTE",
+        "30 x 30 cm",
+        "CARURU",
+        "20 cm entre plantas",
+        "RUIBARBO",
+        "Torça na base",
+        "1",
+        "PLANTE",
+        "Um pedaço de raiz-forte.",
+        "2",
+        "TORÇA",
+        "O talo de ruibarbo, na base.",
+        "3",
+        "SEMEIE",
+        "Caruru, sem cobrir a semente.",
+        "DICA DO ANDRÉ",
+        "Na colheita, deixe parte da raiz.",
+        "Na próxima: bertalha de perto",
+        "→",
+        "TG 124 HORTA DIFERENTE",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "hdi-gesto-1.jpg",
+          "alt": "Mãos plantando um pedaço de raiz de raiz-forte na terra do canteiro"
+        },
+        {
+          "src": "hdi-gesto-2.jpg",
+          "alt": "Mãos deslizando os dedos até a base de um talo de ruibarbo e torcendo para colher"
+        },
+        {
+          "src": "hdi-gesto-3.jpg",
+          "alt": "Mãos espalhando sementes de caruru sobre a terra sem cobrir"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "g32-082",
+        "g32-084",
+        "g32-085"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · RAIZ, TALO E FOLHA",
+        "Bertalha de perto",
+        "Tem de folha clara e flor branca.",
+        "Tem de talo e flor vermelhos.",
+        "Vem das matas úmidas da Ásia tropical.",
+        "Aguenta meia-sombra.",
+        "A folha fica macia mesmo velha.",
+        "Na próxima: ruibarbo fraco",
+        "→",
+        "TG 124 HORTA DIFERENTE",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "g32-319",
+        "g32-320"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Ruibarbo fraco?",
+        "1",
+        "O QUE PARECE",
+        "Haste de flor subindo na touceira.",
+        "O QUE FAZER",
+        "Tire a haste de flor.",
+        "COMO RESOLVER",
+        "Sem colher no primeiro ano.",
+        "Na próxima: flor e fruta",
+        "→",
+        "TG 124 HORTA DIFERENTE",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "hdi-sintoma-1.jpg",
+          "alt": "Touceira de ruibarbo com uma haste de flor subindo no meio das folhas"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Flor e fruta",
+        "01",
+        "Flor e fruta",
+        "02",
+        "Atenção na cozinha",
+        "03",
+        "Horta de perto",
+        "Na próxima: flor e fruta",
+        "→",
+        "TG 124 HORTA DIFERENTE",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-A-1.jpg",
+          "alt": "André diante de um sabugueiro florido"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "g32-280",
+        "g32-241",
+        "g32-245",
+        "g32-281",
+        "g32-206",
+        "g32-247"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CUIDADO",
+        "Flor e fruta",
+        "SABUGUEIRO",
+        "Quase indestrutível",
+        "MIRTILO",
+        "Drena e segura água",
+        "O QUE ELES PEDEM",
+        "Mirtilo",
+        " cobertura grossa no chão",
+        "Terra calcária",
+        " mirtilo em vaso ácido",
+        "Sabugueiro",
+        " flor colhida e usada no dia",
+        "Erva-doce",
+        " flor e folha se comem",
+        "Bom saber",
+        "Mirtilo",
+        " tem de fruta cor-de-rosa",
+        "Sabugueiro",
+        " flor vira bebida e geleia",
+        "Na próxima: atenção na cozinha",
+        "→",
+        "TG 124 HORTA DIFERENTE",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "g32-282",
+        "g32-361",
+        "g32-363",
+        "g32-281"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Fruta de sabugueiro é melhor cozida.",
+        "Molho de raiz-forte no fogo perde a ardência.",
+        "A folha da raiz-forte é ardida demais.",
+        "FAÇA ASSIM",
+        "Rale a raiz-forte e use na hora.",
+        "Flor de sabugueiro pede umas horas parada.",
+        "Na próxima: horta de perto",
+        "→",
+        "TG 124 HORTA DIFERENTE",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "g32-083",
+        "g32-150",
+        "g32-108",
+        "g32-428"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · FOLHA, GRÃO E RAIZ",
+        "Quatro novidades",
+        "1",
+        "Bertalha",
+        "Sobe numa vara de 2 metros.",
+        "2",
+        "Caruru",
+        "O grão dos astecas.",
+        "3",
+        "Shungiku",
+        "Flor amarela que chama abelha.",
+        "4",
+        "Gengibre",
+        "Da feira vira muda.",
+        "CHAVE",
+        "Planta",
+        "O que ela dá",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 124 HORTA DIFERENTE",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "hdi-var-bertalha.jpg",
+          "alt": "Bertalha de folhas verdes e macias subindo num barbante"
+        },
+        {
+          "src": "hdi-var-caruru.jpg",
+          "alt": "Caruru com espigas de amaranto na horta"
+        },
+        {
+          "src": "hdi-var-shungiku.jpg",
+          "alt": "Shungiku com folhas recortadas e flores amarelas"
+        },
+        {
+          "src": "hdi-var-gengibre.jpg",
+          "alt": "Gengibre brotando de um pedaço de raiz num vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "g32-390",
+        "g32-404",
+        "g32-425",
+        "g32-152",
+        "g32-153"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Horta de perto",
+        "CASA",
+        "Dá para plantar sem quintal.",
+        "MICROVERDE",
+        "Rúcula, mostarda, rabanete e mais.",
+        "FAMÍLIA",
+        "Gengibre, cúrcuma, galanga e cardamomo.",
+        "ÍNDIA",
+        "Todos vêm de lá.",
+        "DICA DO ANDRÉ",
+        "Caruru que ninguém colhe semeia sozinho.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 124 HORTA DIFERENTE",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "g32-083",
+        "g32-150"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "2",
+        "M",
+        "é a vara mínima para a bertalha subir.",
+        "Com composto farto e 30 cm entre plantas.",
+        "E MAIS UMA",
+        "Os astecas já comiam o grão de amaranto.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 124 HORTA DIFERENTE",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "g32-428",
+        "g32-083",
+        "g32-319",
+        "g32-362",
+        "g32-245",
+        "g32-151",
+        "g32-390",
+        "g32-281"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Gengibre da feira plantado",
+        "Bertalha com vara de 2 metros",
+        "Ruibarbo sem colher no 1º ano",
+        "Raiz-forte em vaso enterrado",
+        "Mirtilo em vaso ácido, se a terra é calcária",
+        "Grão de amaranto de molho",
+        "Microverde em casa",
+        "Flor de sabugueiro usada no dia",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 124 HORTA DIFERENTE",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Horta diferente pede curiosidade e vontade de provar. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "124",
+        "VOCÊ TEM",
+        "125",
+        "126",
+        "127",
+        "128",
+        "129",
+        "São 124 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 125 HORTA EM POUCO ESPAÇO",
+        "Comente ESPACO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 124 HORTA DIFERENTE",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,559 @@
+{
+  "livro": "TG 127",
+  "titulo": "Folha Colorida",
+  "serie": "#7A2E4A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "127",
+        "COLEÇÃO TERRA GENTIL",
+        "COLORIDA",
+        "Folha Colorida",
+        "Quem planta cor, colhe alegria.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "maranta-A-1.jpg",
+          "alt": "André admirando uma planta de folhas coloridas no jardim"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "t13-14",
+        "t13-23",
+        "i36-020"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Caládio tem folha pintada de rosa.",
+        "Bico-de-papagaio colore com folhas.",
+        "Aqui tem begônia, maranta e peperômia.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Olhe a folha contra a luz.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 127 FOLHA COLORIDA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "maranta-B-1.jpg",
+          "alt": "André olhando de perto a folha de uma planta colorida"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "i36-020",
+        "i36-017"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Na loja, olhe contra a luz.",
+        "Dos dois lados da folha.",
+        "CUIDADO",
+        "Fuja de muda com folha murcha.",
+        "Ou com mato no vaso.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 127 FOLHA COLORIDA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da folha",
+        "06",
+        "CAPÍTULO 1",
+        "Folha pintada",
+        "08",
+        "CAPÍTULO 2",
+        "Begônia e peperômia",
+        "12",
+        "CAPÍTULO 3",
+        "Folha variegada",
+        "15",
+        "CAPÍTULO 4",
+        "Folha de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Folha manchada? Vá para a página 11.",
+        "Na próxima: a ficha da folha",
+        "→",
+        "TG 127 FOLHA COLORIDA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "b7-16",
+        "b24-191",
+        "q3-325",
+        "q3-305",
+        "t13-14"
+      ],
+      "textos": [
+        "FICHA DA FOLHA",
+        "Antes de agir",
+        "O que olhar",
+        "PEPERÔMIA",
+        "Luz forte, sem sol direto",
+        "TRAPOERABA",
+        "Sol ou meia-sombra",
+        "ABACAXI-ROXO",
+        "Luz indireta",
+        "ADUBO",
+        "A cada 3 ou 4 semanas",
+        "VASO",
+        "Novo a cada 2 anos",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Caládio é tóxico para cão e gato",
+        "Na próxima: folha pintada",
+        "→",
+        "TG 127 FOLHA COLORIDA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Folha pintada",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Folha de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 127 FOLHA COLORIDA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "begonia-A-1.jpg",
+          "alt": "André mostrando uma begônia de folhas coloridas"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "i36-020",
+        "i36-017",
+        "b3-03",
+        "q3-231",
+        "b24-311",
+        "p29-117"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Loja",
+        "Contra a luz",
+        "Só de frente",
+        "Muda",
+        "Folha firme",
+        "Murcha",
+        "Pedra",
+        "Da região",
+        "Colorida",
+        "Begônia-rex",
+        "Híbrida",
+        "Pura",
+        "Euphorbia: o colorido são brácteas.",
+        "DICA DO ANDRÉ",
+        "Pimenta escura fica linda com coleus.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 127 FOLHA COLORIDA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Begônia e peperômia",
+        "01",
+        "Passo a passo",
+        "02",
+        "Peperômia de perto",
+        "03",
+        "Folha manchada",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 127 FOLHA COLORIDA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "peperomia-A-1.jpg",
+          "alt": "André cuidando de uma peperômia no vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "q3-100",
+        "b24-233",
+        "i36-020"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Peperômia? Faça assim.",
+        "FOLHA",
+        "Com o cabinho",
+        "PEGA",
+        "Folha, estaca ou divisão",
+        "LUZ",
+        "Dos dois lados",
+        "1",
+        "CORTE",
+        "A folha com o cabinho.",
+        "2",
+        "PLANTE",
+        "O cabinho na terra.",
+        "3",
+        "OLHE",
+        "Contra a luz, dos dois lados.",
+        "DICA DO ANDRÉ",
+        "Mancha pode ser doença.",
+        "Na próxima: peperômia de perto",
+        "→",
+        "TG 127 FOLHA COLORIDA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "fcl-gesto-1.jpg",
+          "alt": "Mãos cortando uma folha de peperômia com o cabinho"
+        },
+        {
+          "src": "fcl-gesto-2.jpg",
+          "alt": "Mãos plantando o cabinho de uma folha de peperômia num vasinho de terra"
+        },
+        {
+          "src": "fcl-gesto-3.jpg",
+          "alt": "Mãos segurando uma folha contra a luz da janela para ver os dois lados"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "q3-303",
+        "q3-353",
+        "b24-235",
+        "b24-236",
+        "q3-305"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · BEGÔNIA E PEPERÔMIA",
+        "Peperômia de perto",
+        "Caperata tem folha em coração e enrugada.",
+        "Melancia: faixas prateadas e cabinho vermelho.",
+        "Tem folha de botãozinho, de 1 cm.",
+        "Em quase todas a flor não tem graça.",
+        "Adubo a cada 3 ou 4 semanas.",
+        "Na próxima: folha manchada",
+        "→",
+        "TG 127 FOLHA COLORIDA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "i36-020",
+        "i36-017"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Folha manchada?",
+        "1",
+        "O QUE PARECE",
+        "Manchas na folha da planta.",
+        "O QUE PODE SER",
+        "Falta de nutriente ou doença.",
+        "COMO RESOLVER",
+        "Olhe os dois lados contra a luz.",
+        "Na próxima: folha variegada",
+        "→",
+        "TG 127 FOLHA COLORIDA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "fcl-sintoma-1.jpg",
+          "alt": "Folha de begônia com manchas marrons e partes amareladas"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Folha variegada",
+        "01",
+        "Folha variegada",
+        "02",
+        "Atenção",
+        "03",
+        "Quatro folhas",
+        "Na próxima: folha variegada",
+        "→",
+        "TG 127 FOLHA COLORIDA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "maranta-C-1.jpg",
+          "alt": "André com uma maranta de folhas riscadas"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "q3-340",
+        "q3-321",
+        "q3-279",
+        "q3-224",
+        "q3-640",
+        "q3-684",
+        "g32-132",
+        "g32-180"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · VARIEGADAS",
+        "Listras e bordas",
+        "TRAPOERABA",
+        "Branco, amarelo ou rosa",
+        "PLECTRANTO",
+        "Verde-claro, borda branca",
+        "ONDE TEM LISTRA",
+        "Hera",
+        " centro prateado, borda branca",
+        "Aspidistra",
+        " listras creme",
+        "Abacaxi",
+        " verde, branca, amarela e rosa",
+        "Pteris",
+        " faixa branca no meio",
+        "Bom saber",
+        "Figo",
+        " listrado de verde e creme",
+        "Abobrinha",
+        " amarela, listrada ou disco",
+        "Na próxima: folha variegada",
+        "→",
+        "TG 127 FOLHA COLORIDA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "t13-14",
+        "b24-311",
+        "q3-383",
+        "i36-020",
+        "i36-017"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Caládio é tóxico para cão e gato.",
+        "Euphorbia: o colorido são brácteas.",
+        "No camarão, a flor quase some.",
+        "FAÇA ASSIM",
+        "Olhe a folha dos dois lados.",
+        "Fuja de muda murcha.",
+        "Na próxima: atenção",
+        "→",
+        "TG 127 FOLHA COLORIDA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "q3-233",
+        "q3-229",
+        "q3-258",
+        "b24-243"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · QUATRO FOLHAS",
+        "Quatro folhas",
+        "1",
+        "Calateia-pavão",
+        "Prateada, com vinho por baixo.",
+        "2",
+        "Begônia-cruz-de-ferro",
+        "Faixas cor de bronze, como cruz.",
+        "3",
+        "Ctenanthe",
+        "Prata por cima, roxa por baixo.",
+        "4",
+        "Fitônia",
+        "Veias coloridas na folha.",
+        "CHAVE",
+        "Planta",
+        "O que ela tem",
+        "Na próxima: quatro folhas",
+        "→",
+        "TG 127 FOLHA COLORIDA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "fcl-var-calateia.jpg",
+          "alt": "Calateia-pavão com folha prateada desenhada de verde-escuro"
+        },
+        {
+          "src": "fcl-var-cruz.jpg",
+          "alt": "Begônia-cruz-de-ferro com folha enrugada e faixas cor de bronze saindo do centro"
+        },
+        {
+          "src": "fcl-var-ctenanthe.jpg",
+          "alt": "Ctenanthe com folha verde riscada de prata"
+        },
+        {
+          "src": "fcl-var-fitonia.jpg",
+          "alt": "Fitônia com folhas de veias coloridas em rosa e branco"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "b24-061",
+        "q3-86",
+        "q3-288",
+        "q3-90",
+        "s28-163"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Folha de perto",
+        "CÍLIO",
+        "Pelinhos na borda da folha.",
+        "REX",
+        "As coloridas são híbridas.",
+        "MARANTA",
+        "Pé-de-coelho, pelas manchas.",
+        "NOME",
+        "Calateia-pavão virou Goeppertia.",
+        "DICA DO ANDRÉ",
+        "Beterraba dourada é fácil de semente.",
+        "Na próxima: folha de perto",
+        "→",
+        "TG 127 FOLHA COLORIDA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "q3-475",
+        "b24-235"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "5",
+        "CM",
+        "é a flor da begônia-elatior, no máximo.",
+        "Maior que a das begônias de inverno parecidas.",
+        "E MAIS UMA",
+        "Peperômia de folha de 1 cm serve para vaso pendurado.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 127 FOLHA COLORIDA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "i36-017",
+        "i36-020",
+        "b7-16",
+        "q3-305",
+        "b24-191",
+        "t13-14",
+        "q3-100",
+        "b3-03"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Muda firme, sem mancha",
+        "Folha vista contra a luz",
+        "Peperômia sem sol direto",
+        "Adubo a cada 3 ou 4 semanas",
+        "Trapoeraba no sol ou meia-sombra",
+        "Caládio longe de cão e gato",
+        "Peperômia nova de folha",
+        "Pedra da região no vaso",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 127 FOLHA COLORIDA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Folha pede olho atento e luz na medida. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "127",
+        "VOCÊ TEM",
+        "128",
+        "129",
+        "130",
+        "131",
+        "132",
+        "São 127 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 128 ERVAS DE COZINHA",
+        "Comente ERVAS no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 127 FOLHA COLORIDA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "maranta-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

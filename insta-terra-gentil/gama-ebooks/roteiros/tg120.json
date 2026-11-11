@@ -1,0 +1,560 @@
+{
+  "livro": "TG 120",
+  "titulo": "Estaca de Jardim",
+  "serie": "#3A5A3A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "120",
+        "COLEÇÃO TERRA GENTIL",
+        "ESTACA",
+        "Estaca de Jardim",
+        "Um galho vira planta nova.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "jade-A-1.jpg",
+          "alt": "André segurando uma estaca de jade com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "m33-001",
+        "m33-081",
+        "m33-115"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Lanterninha pega de estaca o ano todo.",
+        "Cróton enraíza em 4 a 6 semanas.",
+        "Aqui tem estaca, suculenta, arbusto e muda.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache um ramo sem flor para cortar.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 120 ESTACA DE JARDIM",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jade-B-1.jpg",
+          "alt": "André olhando um ramo de jade para escolher onde cortar"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "m33-134",
+        "m33-139",
+        "m33-008"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Seque o corte da suculenta.",
+        "Dois dias em lugar arejado.",
+        "SEM EXAGERO",
+        "Sem terra que escoe, apodrece.",
+        "Gazânia pede terra que escoe.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 120 ESTACA DE JARDIM",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da estaca",
+        "06",
+        "CAPÍTULO 1",
+        "Estaca de ramo",
+        "08",
+        "CAPÍTULO 2",
+        "Suculentas",
+        "12",
+        "CAPÍTULO 3",
+        "Arbustos e folhagem",
+        "15",
+        "CAPÍTULO 4",
+        "Outros jeitos",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Estaca apodreceu? Vá para a página 11.",
+        "Na próxima: a ficha da estaca",
+        "→",
+        "TG 120 ESTACA DE JARDIM",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "m33-088",
+        "m33-180",
+        "m33-231",
+        "m33-081",
+        "m33-282",
+        "m33-049"
+      ],
+      "textos": [
+        "FICHA DA ESTACA",
+        "Antes de agir",
+        "O que olhar",
+        "JADE",
+        "Tire algumas folhas",
+        "KALANCHOE",
+        "Corte depois de florir",
+        "RIPSÁLIS",
+        "10 a 15 cm na junta",
+        "CRÓTON",
+        "4 a 6 semanas",
+        "DRACENA",
+        "8 a 12 semanas",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Camélia no frio é difícil",
+        "Na próxima: estaca de ramo",
+        "→",
+        "TG 120 ESTACA DE JARDIM",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Estaca de ramo",
+        "01",
+        "Certo e errado",
+        "02",
+        "Estaca, passo a passo",
+        "03",
+        "Quanto demora",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 120 ESTACA DE JARDIM",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jade-C-1.jpg",
+          "alt": "André cortando um ramo de planta com tesoura limpa"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "m33-115",
+        "m33-139",
+        "m33-088",
+        "m33-008",
+        "m33-125",
+        "m33-050"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Ramo",
+        "Sem flor",
+        "Com flor",
+        "Botão",
+        "Tire da estaca",
+        "Deixe",
+        "Jade",
+        "Tire folhas",
+        "Deixe todas",
+        "Corte",
+        "Seque antes",
+        "Plante já",
+        "Estaca de figo pode ter até 90 cm.",
+        "DICA DO ANDRÉ",
+        "Estaca de ponta de camélia floresce em 3 a 4 anos.",
+        "Na próxima: estaca, passo a passo",
+        "→",
+        "TG 120 ESTACA DE JARDIM",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Suculentas",
+        "01",
+        "Estaca, passo a passo",
+        "02",
+        "Quanto demora",
+        "03",
+        "Estaca apodreceu",
+        "Na próxima: estaca, passo a passo",
+        "→",
+        "TG 120 ESTACA DE JARDIM",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "kalanchoe-A-1.jpg",
+          "alt": "André mostrando uma estaca de kalanchoe"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "m33-231",
+        "m33-134",
+        "m33-091"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Estaca? Faça assim.",
+        "RIPSÁLIS",
+        "Pedaços de 10 a 15 cm",
+        "GASTÉRIA",
+        "Dois dias arejada",
+        "PÉROLAS",
+        "Fio preso ao vaso",
+        "1",
+        "CORTE",
+        "Ripsális: pedaços de 10 a 15 cm.",
+        "2",
+        "SEQUE",
+        "Filhote de gastéria: dois dias.",
+        "3",
+        "PRENDA",
+        "O fio de pérolas na terra.",
+        "DICA DO ANDRÉ",
+        "Enraizou? Corte da mãe.",
+        "Na próxima: quanto demora",
+        "→",
+        "TG 120 ESTACA DE JARDIM",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "est-gesto-1.jpg",
+          "alt": "Mãos cortando um fio de ripsális na junta em pedaços de dez a quinze centímetros"
+        },
+        {
+          "src": "est-gesto-2.jpg",
+          "alt": "Mãos pondo um filhote de gastéria cortado para secar numa bandeja em lugar arejado"
+        },
+        {
+          "src": "est-gesto-3.jpg",
+          "alt": "Mãos prendendo um fio de colar-de-pérolas na terra de um vaso ao lado da planta mãe"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "m33-111",
+        "m33-122",
+        "m33-182",
+        "m33-147",
+        "m33-089"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · SUCULENTAS",
+        "Quanto demora",
+        "Flor-de-baile enraíza em 3 a 6 semanas.",
+        "Coroa-de-cristo: 1 a 6 meses para enraizar.",
+        "Mudinha de kalanchoe: 3 a 6 meses.",
+        "Haworthia de folha leva 1 a 2 anos.",
+        "Folha de jade pega, mas é bem mais lenta.",
+        "Na próxima: estaca apodreceu",
+        "→",
+        "TG 120 ESTACA DE JARDIM",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "m33-139"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Estaca apodreceu?",
+        "1",
+        "O QUE PARECE",
+        "Estaca de gazânia apodrecendo.",
+        "O QUE PODE SER",
+        "Terra que não escoa.",
+        "COMO RESOLVER",
+        "Tire o botão e use terra que escoe.",
+        "Na próxima: arbustos e folhagem",
+        "→",
+        "TG 120 ESTACA DE JARDIM",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "est-sintoma-1.jpg",
+          "alt": "Estaca de gazânia apodrecendo num vaso com terra encharcada e botão de flor"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Arbustos e folhagem",
+        "01",
+        "Cada planta, seu jeito",
+        "02",
+        "Avisos de estaca",
+        "03",
+        "Outros jeitos",
+        "Na próxima: arbustos e folhagem",
+        "→",
+        "TG 120 ESTACA DE JARDIM",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "kalanchoe-B-1.jpg",
+          "alt": "André olhando um arbusto com mudas de estaca no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "m33-235",
+        "m33-078",
+        "m33-049",
+        "m33-077",
+        "m33-280",
+        "m33-001",
+        "m33-080",
+        "m33-125"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · CUIDADO",
+        "Arbustos",
+        "AZALEIA",
+        "8 a 10 semanas",
+        "CLERODENDRO",
+        "3 a 6 semanas",
+        "O QUE ELAS PEDEM",
+        "Camélia",
+        " fácil em lugar quente",
+        "Limão",
+        " pega fácil de estaca",
+        "Dracena",
+        " variegada só por estaca",
+        "Lanterninha",
+        " qualquer época do ano",
+        "Bom saber",
+        "Cróton",
+        " alporquia dá planta em um ano",
+        "Figo",
+        " estaca de até 90 cm",
+        "Na próxima: cada planta, seu jeito",
+        "→",
+        "TG 120 ESTACA DE JARDIM",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "m33-133",
+        "m33-262",
+        "m33-032",
+        "m33-180",
+        "m33-263"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Gastéria em flor não se multiplica.",
+        "Tradescântia variegada de semente perde a mancha.",
+        "Cacto-estrela é difícil de multiplicar.",
+        "FAÇA ASSIM",
+        "Estaca de kalanchoe após a flor.",
+        "Tradescântia: estaca em qualquer época.",
+        "Na próxima: avisos de estaca",
+        "→",
+        "TG 120 ESTACA DE JARDIM",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "m33-137",
+        "m33-081",
+        "m33-181",
+        "m33-225"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · OUTROS JEITOS",
+        "Quatro plantas",
+        "1",
+        "Gazânia",
+        "Pega fácil, até na água.",
+        "2",
+        "Cróton",
+        "Planta adulta em dois anos.",
+        "3",
+        "Mãe-de-milhares",
+        "Mudinhas na borda da folha.",
+        "4",
+        "Petúnia pendente",
+        "Estaca de ponta.",
+        "CHAVE",
+        "Planta",
+        "O que ela faz",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 120 ESTACA DE JARDIM",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "est-var-gazania.jpg",
+          "alt": "Estacas de gazânia enraizando num copo com água"
+        },
+        {
+          "src": "est-var-croton.jpg",
+          "alt": "Muda de cróton com folhas coloridas em vaso"
+        },
+        {
+          "src": "est-var-milhares.jpg",
+          "alt": "Mãe-de-milhares com mudinhas na borda das folhas"
+        },
+        {
+          "src": "est-var-petunia.jpg",
+          "alt": "Petúnia pendente florida em vaso suspenso"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "m33-229",
+        "m33-131",
+        "m33-129",
+        "m33-201",
+        "m33-123"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Outros jeitos",
+        "ALPORQUIA",
+        "Dois cortes em anel, a 1 cm.",
+        "DIVISÃO",
+        "Morango sem estolão: divida a touceira.",
+        "ESTOLÃO",
+        "Tire as flores e prenda na terra.",
+        "FILHOTE",
+        "Bananeira: corte para baixo com faca.",
+        "DICA DO ANDRÉ",
+        "Alporquia serve para uma ou duas mudas.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 120 ESTACA DE JARDIM",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "m33-203",
+        "m33-200",
+        "m33-055"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "3",
+        "M",
+        "é quanto a bananeira nova cresce em um ano.",
+        "Ela parece árvore, mas é uma erva.",
+        "E MAIS UMA",
+        "O mamoeiro também é uma erva.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 120 ESTACA DE JARDIM",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "m33-008",
+        "m33-134",
+        "m33-088",
+        "m33-139",
+        "m33-115",
+        "m33-180",
+        "m33-091"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Corte da suculenta seco antes de plantar",
+        "Gastéria seca dois dias arejada",
+        "Folhas tiradas da estaca de jade",
+        "Botão tirado da estaca de gazânia",
+        "Ramo sem flor para a epíscia",
+        "Kalanchoe cortado depois da flor",
+        "Fio de pérolas preso ao vaso ao lado",
+        "Terra que escoa no vaso",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 120 ESTACA DE JARDIM",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Estaca pede paciência e terra que escoa. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "120",
+        "VOCÊ TEM",
+        "121",
+        "122",
+        "123",
+        "124",
+        "125",
+        "São 120 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 121 TREPADEIRAS DE FLOR",
+        "Comente TREPADEIRA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 120 ESTACA DE JARDIM",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jade-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+# TG 117 Agave e Companhia: 54 fatos (so estes)
+b1-06 [babosa|Você sabia?] Não se conhece babosa (Aloe vera) nascida sozinha na natureza: as que existem foram plantadas por alguém
+b1-08 [babosa|Você sabia?] Babosa é usada desde o tempo dos faraós; provavelmente é do norte da África
+b1-11 [outra|Mito ou verdade] Raiz de yucca (planta ornamental) não é a mandioca: a confusão vem do nome parecido (yuca)
+b2-59 [babosa|Socorro] Crescimento laranja e deformado perto do caule da babosa é ácaro: corte a parte doente e limpe a ferramenta
+b2-60 [babosa|Socorro] Mancha preta afundada na folha da babosa é bactéria; o livro usa spray de canela com álcool
+b5-02 [babosa|X ou Y?] Babosa é do Velho Mundo (África, Arábia, Madagascar); agave é das Américas
+b5-03 [babosa|X ou Y?] A babosa floresce todo ano; a maioria das agaves morre depois de florir
+b5-04 [babosa|Você sabia?] A folha da babosa tem formato de calha e leva a água da chuva para o centro da planta
+b5-06 [babosa|Dica do Andre] Haste da flor da babosa secou? Solte e use a ponta em colher para limpar sujeira entre as folhas
+b5-09 [babosa|Você sabia?] Aloe arborescens aguenta maresia e forma touceiras de 2 metros ou mais de largura; flor laranja cor de cone de trânsito (conferir nome popular)
+b5-10 [babosa|3 erros] Na Aloe ferox, não arranque as folhas secas que caem para baixo: protegem o tronco do sol e do frio
+b5-13 [babosa|Você sabia?] A babosa-espiral do Lesoto aguenta neve: as células têm anticongelante natural
+b5-31 [suculenta|Você sabia?] Suculentas para criança (aguentam mão e esquecimento): babosas anãs, colar-de-corações, orelha-de-gato (Kalanchoe tomentosa), haworthia-zebra, mãe-de-milhares, sempre-viva-teia-de-aranha
+b6-10 [outra|5 cuidados] Dracena-dragão: regue pouco e fundo, sem deixar a raiz encharcada
+b6-31 [suculenta|Você sabia?] Haworthia-janela tem a ponta da folha transparente, como gelatina verde
+b7-35 [outra|3 erros] Yucca não é para perto de casa: a base engrossa e quebra cano, empurra fundação e racha muro
+b7-36 [outra|Você sabia?] Yucca-baioneta: galho serrado e enterrado vira árvore pronta; aguenta areia e maresia
+t13-49 [espada|Você sabia?] A espada-de-são-jorge (ou espada-de-ogum) abre flor à noite, com perfume, e dá fruto laranja e carnudo
+g16-22 [outra|Você sabia?] Mais folhagens de casa em cautela para gato: ficus (benjamina, lira e falsa-seringueira), dracena, cheflera, café-de-salão (Aglaonema), iúca, tinhorão (Caladium) e orelha-de-elefante (Alocasia)
+r6-13 [suculenta|Você sabia?] Nas Américas, as suculentas nativas que mais aparecem são de três famílias: a das crássulas (como a echeveria, do México), a das agaves e a dos cactos
+k9-220 [outra|Você sabia?] O agave-dragão, o agave mais vendido no Brasil e sem espinhos, solta uma haste de flor de quase 3 m. Depois de florir, a planta-mãe seca e morre, mas deixa várias mudas em volta
+k9-230 [suculenta|Socorro] A Aloe aristata avisa a sede: as pontas das folhas afinam como pelos e, se a falta de água continua, a roseta quase se fecha
+k9-255 [outra|3 erros] Plantar iuca junto de muro e calçada: a raiz destrói piso e encanamento
+b24-169 [suculenta|5 cuidados] Babosas (Aloe) grandes e arbustivas querem sol pleno; as pequenas preferem meia-sombra
+b24-170 [suculenta|5 cuidados] Aloe precisa de terra que escoe muito bem e pega de semente, estaca ou filhote
+b24-171 [suculenta|Você sabia?] Tem aloe que vira arvorezinha de 2 a 4 m, cheia de galhos (A. arborescens)
+b24-172 [suculenta|Você sabia?] A folha de algumas aloes fica avermelhada quando falta água
+b24-173 [agave|Você sabia?] Agave pequena leva 5 a 10 anos para florir; a grande pode levar 20 a 40 anos
+b24-174 [agave|Você sabia?] Muitas agaves florescem uma vez só e depois morrem
+b24-175 [agave|5 cuidados] Agave quer sol pleno e terra que escoe; muda por semente ou filhote
+b24-176 [agave|Você sabia?] A haste de flor da agave-americana chega a 8 metros
+b24-177 [agave|Você sabia?] A agave-filifera solta da borda da folha uns fios brancos compridos
+b24-184 [dracena|5 cuidados] Dracena pega de estaca de ponta, de pedaço de caule ou por alporquia
+b24-592 [agave|3 erros] Cuidado ao plantar agave: a ponta da folha tem espinho afiado
+b24-593 [agave|Você sabia?] A agave que morre depois de florir deixa filhotes em volta e bulbinhos na haste de flor
+b24-594 [suculenta|X ou Y?] Aloe ou agave? A aloe não morre depois de florir e vai formando tronco; muitas agaves morrem
+b24-595 [suculenta|Você sabia?] O miolo da roseta da aloe costuma ser oco, como o de uma bromélia
+q3-329 [espada-de-são-jorge|Você sabia?] Existe espada-de-são-jorge anã, a Hahnii, de uns 15 cm, com folha em roseta
+q3-483 [agave|Você sabia?] A agave-filifera tem fios brancos soltando da borda das folhas
+q3-484 [agave|Passo a passo] Filhote de agave: tire, deixe secar uns dias e só então plante em vaso pequeno, com sombra leve até pegar
+q3-485 [agave|Você sabia?] A agave-rainha-vitória só floresce com 10 anos ou mais
+q3-486 [agave|5 cuidados] Agave em vaso: sol pleno, adubo líquido fraco a cada 2 ou 3 semanas quando cresce
+q3-487 [suculenta|Você sabia?] O aloe-tigre tem folha dura em triângulo, listrada de branco, encaixada em fileiras
+q3-488 [suculenta|5 cuidados] Aloe-tigre: no calor, mais água, mas deixe a terra secar um pouco entre as regas
+q3-531 [haworthia|Você sabia?] A haworthia-pérola tem folhas curvas cheias de verruguinhas brancas, como pérolas
+q3-532 [haworthia|5 cuidados] Haworthia: no calor, terra úmida mas secando entre regas; no frio, quase seca
+q3-533 [haworthia|Passo a passo] Filhote de haworthia: tire, deixe secar um pouco e plante em terra que escoe bem
+q3-570 [agave|Você sabia?] A agave-americana variegada, com faixas amarelas na borda, é a mais cultivada em vaso
+q3-658 [bromélia|Você sabia?] A vriésea-espada-de-fogo tem folhas listradas de roxo-escuro e uma espada de brácteas vermelhas
+g32-435 [agave|Você sabia?] Da agave se come o coração assado, a flor, a haste e a seiva
+g32-436 [agave|5 cuidados] Agave no vaso: metade substrato e metade areia grossa, sol pleno e pouca água
+g32-437 [agave|Você sabia?] Quando a agave solta a haste de flor, aquela roseta morre
+g32-438 [agave|Passo a passo] Muda de agave: corte os filhotes que nascem na base
+g32-439 [agave|3 erros] Agave tem espinho bravo: deixe longe das crianças

@@ -1,4 +1,11 @@
 # PROGRESSO Terra Gentil
+## LEVA 9 (TG 101 A 114): FECHADA E NO AR (11/11/2026) - PARADO ANTES DA INDEXACAO
+- **Feito:** 14 livros escritos, 112 fotos geradas na Pamela e fechadas em 2K, previas finais (19 paginas, sem estouro) e as 14 paginas do site no ar: solo-vivo, cerca-viva-e-vento, mato-teimoso, horta-companheira, hotel-de-bicho, clima-do-quintal, sementeira-caseira, sol-e-sombra, folhas-da-horta, rosas-antigas, pulgao-e-cochonilha, orquidea-de-pedra, pimenta-no-canteiro, arvore-e-raiz. PDF web no R2 (200), build ok, QA de contraste ok (14 de 14), IndexNow enviado (147 URLs).
+- **Indexacao NAO pedida (ordem do Andre):** os 14 slugs estao na fila `scripts/guias/fila-indexacao.json` (fila total 28, 10 por dia). Como pedir: ver secao "PAGINAS DE LIVRO: TG 071 A 100".
+- **Pendente do Andre:** (1) pedir indexacao no Search Console; (2) revisar titulos: TG 104 Horta Companheira, 106 Clima do Quintal, 107 Sementeira Caseira, 108 Sol e Sombra, 110 Rosas Antigas, e os novos 112 Orquidea de Pedra, 113 Pimenta no Canteiro, 114 Arvore e Raiz; (3) os 6 livros segurados (073, 076, 084, 086, 094, 098) esperam titulo.
+- **Proxima leva:** TG 115 Extratos e Chas de Planta (palavra EXTRATOS, reserva de 24 fatos), prometido na ultima pagina do TG 114.
+- **Licoes:** nao gerar lote novo enquanto o laco 2K do anterior roda (a galeria desloca as posicoes); o 2K da Pamela falhou uma vez (limite do dia) e voltou sozinho em poucas horas; aba da galeria em 2o plano deixa o laco lento (10 a 25 min); `conferir-publicado.mjs` aceita um slug por vez; `git push` rejeitado: `git pull --rebase` (a rotina do Instagram commita no main); build pode falhar uma vez por fonte do Google (repetir).
+
 ## LEVA 9 (TG 101 A 114): QUASE FECHADA (11/11/2026) - LER ESTA SECAO PARA RETOMAR
 - **ORDEM DO ANDRE:** fazer tudo na sequencia ate a indexacao e PARAR ANTES DE PEDIR INDEXACAO (Search Console so com o Andre).
 - **Feito:** os 14 roteiros escritos (TG 112 Orquidea de Pedra, 113 Pimenta no Canteiro, 114 Arvore e Raiz fechados hoje), 112 fotos geradas na Pamela (6 lotes `gama-ebooks/lote9-1..6.json`), 1K baixado de todas, **2K casado e previa final montada de TG 101 a 111 (8/8)**.

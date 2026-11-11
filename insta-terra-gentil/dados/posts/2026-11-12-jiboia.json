@@ -1,0 +1,212 @@
+{
+  "dia": "2026-11-12",
+  "palavra": "JIBOIA",
+  "especie": "Epipremnum aureum",
+  "nome": "Jiboia",
+  "tema": null,
+  "serie": "Socorro",
+  "gancho": "Folha amarela ou queimada na jiboia? Quase sempre é a luz, e dá para ajustar.",
+  "resumo": "Como ler os sinais de pouca luz e de sol demais na jiboia e achar o lugar certo, perto da janela e sem sol forte.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Luz",
+      "linha1": "Folha amarela",
+      "linha2": "ou queimada?",
+      "linha3": "Olhe a",
+      "destaque": "luz"
+    },
+    {
+      "tarja": "Sinal 1",
+      "linha1": "Folha amarela,",
+      "linha2": "pequena ou parada",
+      "destaque": "falta luz",
+      "texto": "Folhas amareladas, pequenas ou o crescimento parado podem indicar pouca luz. É uma pista, não uma sentença.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Sinal 2",
+      "linha1": "Mancha marrom",
+      "linha2": "seca e crocante",
+      "destaque": "sol demais",
+      "texto": "Manchas marrons, secas e crocantes nas bordas ou no centro mostram sol direto em excesso.",
+      "nota": "Quase todo mundo erra aqui."
+    },
+    {
+      "tarja": "Cuidado",
+      "linha1": "Sol forte do",
+      "linha2": "meio-dia",
+      "destaque": "queima",
+      "texto": "A jiboia não gosta de sol direto forte, principalmente o do meio-dia. Ele pode queimar as folhas.",
+      "nota": "Um gesto pequeno resolve."
+    },
+    {
+      "linha1": "Teste a luz",
+      "linha2": "do seu canto",
+      "destaque": "leia um livro",
+      "texto": "Observe o lugar por algumas horas. Dá para ler um livro ali com conforto? Então a luz já é razoável.",
+      "dica": "Em lugar com pouca luz ela aguenta, mas cresce mais devagar."
+    },
+    {
+      "linha1": "O lugar ideal",
+      "linha2": "é perto da janela,",
+      "destaque": "sem sol direto",
+      "texto": "Escolha um canto com muita luz, mas sem o sol batendo direto nas folhas. Gire o vaso de vez em quando.",
+      "dica": "Assim todos os lados recebem luz e ela cresce por igual."
+    },
+    {
+      "tarja": "Atenção",
+      "linha1": "Mudar de lugar",
+      "linha2": "tem que ser",
+      "destaque": "aos poucos",
+      "texto": "Viu os sinais? Ajuste a posição da planta devagar, até achar o ponto ideal. Sem pressa.",
+      "nota": "A jiboia perdoa."
+    },
+    {
+      "texto": "A luz certa é um cuidado simples. Salve este post para a próxima vez que a folha mudar.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "A jiboia não gosta de sol direto forte, principalmente o do meio-dia, que pode queimar as folhas.",
+      "pagina": 5,
+      "trecho": "A Jiboia NÃO gosta de sol direto forte, especialmente o do meio-dia",
+      "fonte": "Jiboia: A Planta que Perdoa Tudo, p. 5"
+    },
+    {
+      "texto": "Folhas amareladas, pequenas ou crescimento parado podem indicar que falta luz.",
+      "pagina": 5,
+      "trecho": "Folhas amareladas, pequenas ou o crescimento estagnado podem indicar pouca luz",
+      "fonte": "Jiboia: A Planta que Perdoa Tudo, p. 5"
+    },
+    {
+      "texto": "Manchas marrons, secas e crocantes nas folhas são sinal de sol direto demais.",
+      "pagina": 5,
+      "trecho": "folhas com manchas marrons, secas e crocantes nas bordas ou no centro",
+      "fonte": "Jiboia: A Planta que Perdoa Tudo, p. 5"
+    },
+    {
+      "texto": "O lugar perfeito é perto de uma janela com muita luz, mas sem sol direto.",
+      "pagina": 5,
+      "trecho": "Próximo a uma janela que recebe muita luz, mas sem sol direto",
+      "fonte": "Jiboia: A Planta que Perdoa Tudo, p. 5"
+    },
+    {
+      "texto": "Para saber como é a luz do lugar, observe por algumas horas e pergunte se dá para ler um livro ali com conforto.",
+      "pagina": 5,
+      "trecho": "a intensidade da luz é suficiente para ler um livro confortavelmente?",
+      "fonte": "Jiboia: A Planta que Perdoa Tudo, p. 5"
+    },
+    {
+      "texto": "Em lugar com pouca luz a jiboia aguenta, mas cresce mais devagar.",
+      "pagina": 5,
+      "trecho": "A Jiboia tolera, mas cresce mais lentamente",
+      "fonte": "Jiboia: A Planta que Perdoa Tudo, p. 5"
+    },
+    {
+      "texto": "Se aparecerem esses sinais, mude a planta de lugar aos poucos, até achar o ponto ideal.",
+      "pagina": 5,
+      "trecho": "ajuste a posição da planta gradualmente até encontrar o ponto ideal",
+      "fonte": "Jiboia: A Planta que Perdoa Tudo, p. 5"
+    },
+    {
+      "texto": "Gire o vaso de vez em quando para todos os lados receberem luz e a planta não entortar.",
+      "pagina": 5,
+      "trecho": "Gire sua Jiboia regularmente para que todos os lados recebam luz de forma uniforme",
+      "fonte": "Jiboia: A Planta que Perdoa Tudo, p. 5"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "fontes": [
+    "Jiboia: A Planta que Perdoa Tudo, p. 5"
+  ],
+  "materia": {
+    "slug": "jiboia-folha-amarela-ou-queimada-e-a-luz",
+    "titulo": "Jiboia: folha amarela ou queimada? Veja a luz",
+    "descricao": "Folha amarela ou com mancha marrom na jiboia? Quase sempre é a luz. Aprenda a ler os sinais e ache o lugar certo, perto da janela e sem sol forte, sem culpa.",
+    "introducao": "Se a sua jiboia está com folha amarela, pequena ou com mancha marrom, respire. Antes de culpar a rega ou a si mesmo, vale olhar para a luz do lugar onde ela mora. A jiboia é uma planta que perdoa muita coisa, mas ela também mostra, pelas folhas, quando a luz não está boa. Neste texto, a gente conversa sobre como ler esses sinais, como descobrir se o seu cantinho tem luz de verdade e o que fazer para ajustar, tudo com base no ebook da jiboia do André, sem complicação e sem culpa. Quem já perdeu planta sabe como dói, então vamos devagar, um passo de cada vez.",
+    "secoes": [
+      {
+        "titulo": "Folha amarela ou pequena: pode estar faltando luz",
+        "paragrafos": [
+          "Quando a jiboia fica com folhas amareladas, folhas pequenas ou simplesmente para de crescer, o livro diz que isso pode indicar pouca luz. Repare no verbo: pode indicar. Não é uma sentença, é uma pista para você investigar com calma.",
+          "A boa notícia é que a jiboia é uma planta que aguenta. Em lugar com pouca luz ela tolera, mas cresce mais devagar. Ou seja, se a sua planta está parada, ela não está necessariamente perdida. Muitas vezes ela só está esperando um lugar com mais claridade para voltar a crescer."
+        ],
+        "fatosUsados": [
+          1,
+          5
+        ]
+      },
+      {
+        "titulo": "Mancha marrom e crocante: sol demais",
+        "paragrafos": [
+          "O outro lado da moeda também existe. Folhas com manchas marrons, secas e crocantes, nas bordas ou no centro, são sinal de que a planta está recebendo sol direto demais. A jiboia não gosta de sol direto forte, principalmente o do meio-dia, que pode queimar as folhas.",
+          "Se você viu isso na sua planta, não se culpe. Muita gente coloca a jiboia perto da janela justamente por carinho, para ela ter luz, e acaba expondo a planta ao sol forte sem perceber. É um erro comum e tem solução simples."
+        ],
+        "fatosUsados": [
+          0,
+          2
+        ]
+      },
+      {
+        "titulo": "Como saber se o lugar tem luz boa",
+        "paragrafos": [
+          "O livro dá uma dica prática: observe o lugar por algumas horas e faça uma pergunta. A luz é suficiente para ler um livro ali com conforto? Se sim, a claridade já é razoável para a jiboia. Se você precisa se esforçar para ler, a luz é fraca.",
+          "Esse teste é bom porque não exige aparelho nem conhecimento técnico. Só a sua observação, que, aliás, é o que o André mais pede em todos os guias."
+        ],
+        "fatosUsados": [
+          4
+        ]
+      },
+      {
+        "titulo": "O lugar perfeito: perto da janela, sem sol direto",
+        "paragrafos": [
+          "Segundo o livro, o ambiente perfeito para a jiboia é próximo a uma janela que recebe muita luz, mas sem sol direto. Pense num cantinho claro da casa, onde a luz entra, mas os raios não batem diretamente nas folhas.",
+          "Para a planta crescer por igual, gire o vaso de vez em quando. Assim todos os lados recebem luz e ela não entorta para o lado da janela."
+        ],
+        "fatosUsados": [
+          3,
+          7
+        ]
+      },
+      {
+        "titulo": "Mudou os sinais? Mude de lugar aos poucos",
+        "paragrafos": [
+          "Se você notou esses sinais, o caminho é ajustar a posição da planta aos poucos, até encontrar o ponto ideal. O livro fala em ir gradualmente, sem pressa. Não precisa resolver tudo num dia só.",
+          "Faça uma mudança pequena, espere e observe como as folhas respondem. A jiboia vai mostrando, no tempo dela, se gostou do novo cantinho."
+        ],
+        "fatosUsados": [
+          6
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Folha amarela na jiboia é sempre falta de luz?",
+        "resposta": "Não necessariamente. O livro diz que folhas amareladas, pequenas ou o crescimento parado podem indicar pouca luz. É uma pista, então observe o conjunto da planta e o lugar onde ela está."
+      },
+      {
+        "pergunta": "Quantas horas de luz a jiboia precisa por dia?",
+        "resposta": "O livro não dá um número de horas. Ele sugere observar o lugar por algumas horas e ver se dá para ler um livro ali com conforto, e prefere um ponto perto de janela com muita luz, mas sem sol direto."
+      },
+      {
+        "pergunta": "Posso deixar a jiboia no sol da janela?",
+        "resposta": "O sol direto forte, principalmente o do meio-dia, pode queimar as folhas. O ideal é luz bem clara, mas sem o sol batendo direto nas folhas."
+      }
+    ],
+    "conclusao": "A luz é um dos cuidados mais simples que existem, porque quase não dá trabalho. É só olhar, entender os sinais e mudar a planta de lugar aos poucos. Se a jiboia estiver com folha amarela, pequena ou parada, pense em mais claridade. Se estiver com mancha marrom e crocante, pense em menos sol direto. Calma, você está aprendendo, e a jiboia perdoa. Salve este texto para a próxima vez que a dúvida bater e conte para quem também cuida de planta com medo de errar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

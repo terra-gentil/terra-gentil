@@ -16,13 +16,17 @@ const inicio = Date.now();
 // sem arquivo, a idade conta desde o inicio (Infinity encerrava o vigia na primeira volta)
 const idade = () => { try { return (Date.now() - statSync(arq).mtimeMs) / 1000; } catch { return (Date.now() - inicio) / 1000; } };
 const ler = () => { try { return JSON.parse(readFileSync(arq, "utf8")); } catch { return null; } };
-const vazio = (v) => v === "" || v === null || v === undefined || v === 0 || v === "0";
+// alerta.json: o receptor grava no aviso de limite ou atividade incomum (vem tambem do quadro de cima do Flow)
+const alerta = join(dirname(arq), "alerta.json");
+const alertaNovo = () => { try { return statSync(alerta).mtimeMs > inicio; } catch { return false; } };
+const vazio =(v) => v === "" || v === null || v === undefined || v === 0 || v === "0";
 
 while (true) {
   await new Promise((r) => setTimeout(r, 5000));
   const s = ler(), parado = idade(), total = (Date.now() - inicio) / 1000;
   const resumo = s ? JSON.stringify(s) : "sem arquivo";
-  if (s && (/limite/i.test(JSON.stringify(s)) || (/com_falhas/i.test(s.status || "") && vazio(s.gerando)))) { console.log("VIGIA limite " + resumo); break; }
+  if (alertaNovo()) { console.log("VIGIA limite " + readFileSync(alerta, "utf8")); break; }
+  if (s && (/limite|incomum/i.test(JSON.stringify(s)) || (/com_falhas/i.test(s.status || "") && vazio(s.gerando)))) { console.log("VIGIA limite " + resumo); break; }
   if (parado > semSinal) { console.log("VIGIA sem-sinal " + resumo); break; }
   if (total > maximo) { console.log("VIGIA demorou " + resumo); break; }
   if (s && vazio(s.gerando) && !vazio(s.prontas) && parado >= quieto) { console.log("VIGIA fim " + resumo); break; }

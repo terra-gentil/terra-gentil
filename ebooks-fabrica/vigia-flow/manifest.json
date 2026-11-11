@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "TG Vigia das Fotos",
-  "version": "1.1",
-  "description": "Le o estado da ferramenta Fotos Ebook TG (Flow) e o progresso do laco de 2K da galeria e entrega ao receptor local 127.0.0.1:47812. Nao clica, nao altera a pagina.",
+  "version": "1.2",
+  "description": "Le o estado da ferramenta Fotos Ebook TG (Flow) e roda o laco de 2K da galeria em ritmo humano, falando so com o receptor local 127.0.0.1:47812. Para ao primeiro aviso de limite ou atividade incomum.",
   "host_permissions": [
     "https://*.scf.usercontent.goog/*",
     "https://flow.google.com/*",
@@ -14,7 +14,7 @@
   "content_scripts": [
     {
       "matches": ["https://*.scf.usercontent.goog/*"],
-      "js": ["conteudo.js"],
+      "js": ["ritmo.js", "conteudo.js"],
       "all_frames": true,
       "run_at": "document_idle",
       "match_origin_as_fallback": true,
@@ -22,7 +22,7 @@
     },
     {
       "matches": ["https://flow.google.com/*"],
-      "js": ["conteudo-galeria.js"],
+      "js": ["ritmo.js", "laco2k.js", "conteudo-galeria.js"],
       "all_frames": false,
       "run_at": "document_idle"
     }

@@ -1,0 +1,134 @@
+{
+  "livro": "TG 115-116",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "ext-gesto-1",
+      "especie": "fermenting nettle bucket",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands stirring a thick plastic bucket of fermenting nettle extract with a wooden stick, thin foam on top",
+      "mascote": false
+    },
+    {
+      "id": "ext-gesto-2",
+      "especie": "straining plant extract",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands straining green plant extract through a cloth over a plastic bucket; the small mascot figurine sits on the wooden edge of the garden bench nearby",
+      "mascote": true
+    },
+    {
+      "id": "ext-gesto-3",
+      "especie": "extract jug",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pouring strained plant extract into a plastic jug filled up to the brim",
+      "mascote": false
+    },
+    {
+      "id": "ext-sintoma-1",
+      "especie": "swollen extract jug",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Plastic jug of fermented plant extract with a bulging swollen lid on a garden shelf",
+      "mascote": false
+    },
+    {
+      "id": "ext-var-urtiga",
+      "especie": "stinging nettle",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Stinging nettle with toothed green leaves in a neglected corner of a backyard",
+      "mascote": false
+    },
+    {
+      "id": "ext-var-confrei",
+      "especie": "comfrey",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Comfrey with broad leaves and drooping purple flowers in a garden bed; the small mascot figurine stands on the soil at the foot of the plant",
+      "mascote": true
+    },
+    {
+      "id": "ext-var-dente",
+      "especie": "dandelion",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Yellow dandelion flowering among other garden plants",
+      "mascote": false
+    },
+    {
+      "id": "ext-var-hortela",
+      "especie": "mint",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Lush green mint leaves growing in a garden bed",
+      "mascote": false
+    },
+    {
+      "id": "ara-gesto-1",
+      "especie": "ornamental taro tuber",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting a purple-leaf taro tuber in a small pot just the size of the tuber",
+      "mascote": false
+    },
+    {
+      "id": "ara-gesto-2",
+      "especie": "watering small pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pouring a little water from a small can into a pot with a freshly planted tuber; the small mascot figurine sits on the wooden edge of the windowsill beside the pot",
+      "mascote": true
+    },
+    {
+      "id": "ara-gesto-3",
+      "especie": "dry potting soil",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pressing a fingertip into the dry soil of a houseplant pot to feel the moisture",
+      "mascote": false
+    },
+    {
+      "id": "ara-sintoma-1",
+      "especie": "dormant tuber pot",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Pot of dormant aroid tuber with bare soil and no leaves on a windowsill",
+      "mascote": false
+    },
+    {
+      "id": "ara-var-anturio",
+      "especie": "anthurium",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Red waxy anthurium flower with glossy heart-shaped leaves indoors",
+      "mascote": false
+    },
+    {
+      "id": "ara-var-copo",
+      "especie": "calla lily",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "White calla lily flower with green leaves in a garden pot",
+      "mascote": false
+    },
+    {
+      "id": "ara-var-singonio",
+      "especie": "syngonium white butterfly",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Syngonium White Butterfly with pale leaves and white veins in a hanging pot",
+      "mascote": false
+    },
+    {
+      "id": "ara-var-zamioculca",
+      "especie": "zamioculca",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "ZZ plant with thick stems and glossy leaves in a living room; the small mascot figurine stands on the floor at the foot of the pot",
+      "mascote": true
+    }
+  ]
+}

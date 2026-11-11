@@ -1,0 +1,134 @@
+{
+  "livro": "TG 117-118",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "agv-gesto-1",
+      "especie": "agave offset",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pulling a small offset pup away from the base of a large agave",
+      "mascote": false
+    },
+    {
+      "id": "agv-gesto-2",
+      "especie": "agave offset",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands laying an agave offset on a wooden potting bench to dry; the small mascot figurine sits on the wooden edge of the bench",
+      "mascote": true
+    },
+    {
+      "id": "agv-gesto-3",
+      "especie": "agave offset",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting an agave offset in a small pot filled with coarse sand mix",
+      "mascote": false
+    },
+    {
+      "id": "agv-sintoma-1",
+      "especie": "aloe vera black spot",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Aloe vera leaf with a sunken black spot on the surface",
+      "mascote": false
+    },
+    {
+      "id": "agv-var-dragao",
+      "especie": "dragon tree agave",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Spineless dragon tree agave rosette with soft green leaves in a garden bed",
+      "mascote": false
+    },
+    {
+      "id": "agv-var-filifera",
+      "especie": "agave filifera",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Agave filifera with long white threads peeling from the leaf edges; the small mascot figurine stands on the gravel at the foot of the plant",
+      "mascote": true
+    },
+    {
+      "id": "agv-var-americana",
+      "especie": "variegated agave americana",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Variegated agave americana with yellow stripes on the leaf edges in a large pot",
+      "mascote": false
+    },
+    {
+      "id": "agv-var-tigre",
+      "especie": "tiger aloe",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tiger aloe with hard triangular leaves striped in white, set in neat rows",
+      "mascote": false
+    },
+    {
+      "id": "plm-gesto-1",
+      "especie": "bamboo seedling",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands planting a bamboo seedling in a large pot with a deep thick barrier around it",
+      "mascote": false
+    },
+    {
+      "id": "plm-gesto-2",
+      "especie": "bamboo leaf mulch",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands spreading fallen bamboo leaves as mulch on garden soil; the small mascot figurine sits on the wooden edge of the bed",
+      "mascote": true
+    },
+    {
+      "id": "plm-gesto-3",
+      "especie": "bamboo shoot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a young bamboo shoot just breaking through the soil",
+      "mascote": false
+    },
+    {
+      "id": "plm-sintoma-1",
+      "especie": "bamboo stake",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Open sharp tip of a bamboo stake in a garden bed capped with an old tennis ball",
+      "mascote": false
+    },
+    {
+      "id": "plm-var-tamareira",
+      "especie": "dwarf date palm",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dwarf date palm with feathery drooping leaves in a garden; the small mascot figurine stands on the ground at the base of the palm",
+      "mascote": true
+    },
+    {
+      "id": "plm-var-rabo",
+      "especie": "fishtail palm",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Fishtail palm with wedge-shaped leaflets and ragged tips",
+      "mascote": false
+    },
+    {
+      "id": "plm-var-kentia",
+      "especie": "kentia palm",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Kentia palm with gently arching fronds indoors near a window",
+      "mascote": false
+    },
+    {
+      "id": "plm-var-butia",
+      "especie": "butia palm",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Short butia palm with clusters of orange fruit",
+      "mascote": false
+    }
+  ]
+}

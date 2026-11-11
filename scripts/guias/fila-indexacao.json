@@ -1,241 +1,252 @@
 {
- "_leia": "Fila de pedidos de indexacao no Search Console (propriedade https://terragentil.com.br/, conta eng.andrehz). A rotina diaria pede ate 10 por dia (cota do Google), tira da fila e grava em 'feitos'. Livro novo: acrescentar o slug no fim da fila.",
- "fila": [
-  "lirios-de-jardim",
-  "jardim-de-borboleta",
-  "tomate-cereja",
-  "batata-e-inhame",
-  "beterraba-e-acelga",
-  "ervilha-e-feijao",
-  "pepino-e-berinjela",
-  "flores-cheirosas",
-  "flores-de-semente",
-  "comedouro-e-ninho",
-  "roseira-no-jardim",
-  "substrato-e-vaso",
-  "orquidea-no-dia-a-dia",
-  "jardim-gentil"
- ],
- "feitos": [
-  {
-   "url": "/guias",
-   "dia": "2026-11-01"
-  },
-  {
-   "url": "/guias/costela-de-adao",
-   "dia": "2026-11-01"
-  },
-  {
-   "url": "/guias/horta-em-vaso",
-   "dia": "2026-11-01"
-  },
-  {
-   "url": "/guias/jiboia-e-filodendro",
-   "dia": "2026-11-01"
-  },
-  {
-   "url": "/guias/lirio-da-paz",
-   "dia": "2026-11-01"
-  },
-  {
-   "url": "/guias/orquidea-florir-de-novo",
-   "dia": "2026-11-01"
-  },
-  {
-   "url": "/guias/rosa-do-deserto",
-   "dia": "2026-11-01"
-  },
-  {
-   "url": "/guias/suculentas-sem-afogar",
-   "dia": "2026-11-01"
-  },
-  {
-   "url": "/guias/tomate-no-vaso",
-   "dia": "2026-11-01"
-  },
-  {
-   "url": "/guias/anturio",
-   "dia": "2026-11-02"
-  },
-  {
-   "url": "/guias/samambaias",
-   "dia": "2026-11-03"
-  },
-  {
-   "url": "/guias/bromelias",
-   "dia": "2026-11-03"
-  },
-  {
-   "url": "/guias/morango-no-vaso",
-   "dia": "2026-11-03"
-  },
-  {
-   "url": "/guias/horta-na-varanda",
-   "dia": "2026-11-03"
-  },
-  {
-   "url": "/guias/temperos-da-janela",
-   "dia": "2026-11-03"
-  },
-  {
-   "url": "/guias/cactos-e-babosa",
-   "dia": "2026-11-03"
-  },
-  {
-   "url": "/guias/casa-com-pet",
-   "dia": "2026-11-03"
-  },
-  {
-   "url": "/guias/planta-sem-sol",
-   "dia": "2026-11-03"
-  },
-  {
-   "url": "/guias/orquidea-doente",
-   "dia": "2026-11-03"
-  },
-  {
-   "url": "/guias/cattleya-e-dendrobium",
-   "dia": "2026-11-03"
-  },
-  {
-   "url": "/guias/rega-sem-afogar",
-   "dia": "2026-11-04"
-  },
-  {
-   "url": "/guias/mato-que-ensina",
-   "dia": "2026-11-04"
-  },
-  {
-   "url": "/guias/mudas-de-graca",
-   "dia": "2026-11-04"
-  },
-  {
-   "url": "/guias/vaso-de-orquidea",
-   "dia": "2026-11-04"
-  },
-  {
-   "url": "/guias/agaves-e-kalanchoes",
-   "dia": "2026-11-04"
-  },
-  {
-   "url": "/guias/suculenta-pendente",
-   "dia": "2026-11-04"
-  },
-  {
-   "url": "/guias/rosa-do-deserto-enxerto-e-muda",
-   "dia": "2026-11-04"
-  },
-  {
-   "url": "/guias/composteira-em-casa",
-   "dia": "2026-11-04"
-  },
-  {
-   "url": "/guias/armadilhas-e-aliados",
-   "dia": "2026-11-04"
-  },
-  {
-   "url": "/guias/jardim-do-zero",
-   "dia": "2026-11-04"
-  },
-  {
-   "url": "/guias/horta-de-semente",
-   "dia": "2026-11-05"
-  },
-  {
-   "url": "/guias/abelha-e-passarinho",
-   "dia": "2026-11-05"
-  },
-  {
-   "url": "/guias/pimenta-no-vaso",
-   "dia": "2026-11-05"
-  },
-  {
-   "url": "/guias/arvore-no-quintal",
-   "dia": "2026-11-05"
-  },
-  {
-   "url": "/guias/roseira-no-vaso",
-   "dia": "2026-11-05"
-  },
-  {
-   "url": "/guias/roseira-doente",
-   "dia": "2026-11-05"
-  },
-  {
-   "url": "/guias/poda-de-roseira",
-   "dia": "2026-11-05"
-  },
-  {
-   "url": "/guias/muda-de-rosa",
-   "dia": "2026-11-05"
-  },
-  {
-   "url": "/guias/microverdes",
-   "dia": "2026-11-05"
-  },
-  {
-   "url": "/guias/mato-sem-veneno",
-   "dia": "2026-11-05"
-  },
-  {
-   "url": "/guias/canteiro-elevado",
-   "dia": "2026-11-06"
-  },
-  {
-   "url": "/guias/ervas-secas",
-   "dia": "2026-11-06"
-  },
-  {
-   "url": "/guias/guardar-semente",
-   "dia": "2026-11-06"
-  },
-  {
-   "url": "/guias/flores-de-varanda",
-   "dia": "2026-11-06"
-  },
-  {
-   "url": "/guias/begonia-e-geranio",
-   "dia": "2026-11-09"
-  },
-  {
-   "url": "/guias/hibisco-e-primavera",
-   "dia": "2026-11-10"
-  },
-  {
-   "url": "/guias/flores-comestiveis",
-   "dia": "2026-11-10"
-  },
-  {
-   "url": "/guias/espada-de-sao-jorge",
-   "dia": "2026-11-10"
-  },
-  {
-   "url": "/guias/minhocario-em-casa",
-   "dia": "2026-11-10"
-  },
-  {
-   "url": "/guias/cactos-de-colecao",
-   "dia": "2026-11-10"
-  },
-  {
-   "url": "/guias/suculentas-coloridas",
-   "dia": "2026-11-10"
-  },
-  {
-   "url": "/guias/pimentas-do-mundo",
-   "dia": "2026-11-10"
-  },
-  {
-   "url": "/guias/orquidea-na-arvore",
-   "dia": "2026-11-10"
-  },
-  {
-   "url": "/guias/rosas-perfumadas",
-   "dia": "2026-11-10"
-  },
-  {
-   "url": "/guias/alocasia-e-filodendro",
-   "dia": "2026-11-10"
-  }
- ]
+  "_leia": "Fila de pedidos de indexacao no Search Console (propriedade https://terragentil.com.br/, conta eng.andrehz). A rotina diaria pede ate 10 por dia (cota do Google), tira da fila e grava em 'feitos'. Livro novo: acrescentar o slug no fim da fila.",
+  "fila": [
+    "lirios-de-jardim",
+    "jardim-de-borboleta",
+    "tomate-cereja",
+    "batata-e-inhame",
+    "beterraba-e-acelga",
+    "ervilha-e-feijao",
+    "pepino-e-berinjela",
+    "flores-cheirosas",
+    "flores-de-semente",
+    "comedouro-e-ninho",
+    "roseira-no-jardim",
+    "substrato-e-vaso",
+    "orquidea-no-dia-a-dia",
+    "jardim-gentil",
+    "solo-vivo",
+    "cerca-viva-e-vento",
+    "mato-teimoso",
+    "horta-companheira",
+    "hotel-de-bicho",
+    "clima-do-quintal",
+    "sementeira-caseira",
+    "sol-e-sombra",
+    "folhas-da-horta",
+    "rosas-antigas",
+    "pulgao-e-cochonilha"
+  ],
+  "feitos": [
+    {
+      "url": "/guias",
+      "dia": "2026-11-01"
+    },
+    {
+      "url": "/guias/costela-de-adao",
+      "dia": "2026-11-01"
+    },
+    {
+      "url": "/guias/horta-em-vaso",
+      "dia": "2026-11-01"
+    },
+    {
+      "url": "/guias/jiboia-e-filodendro",
+      "dia": "2026-11-01"
+    },
+    {
+      "url": "/guias/lirio-da-paz",
+      "dia": "2026-11-01"
+    },
+    {
+      "url": "/guias/orquidea-florir-de-novo",
+      "dia": "2026-11-01"
+    },
+    {
+      "url": "/guias/rosa-do-deserto",
+      "dia": "2026-11-01"
+    },
+    {
+      "url": "/guias/suculentas-sem-afogar",
+      "dia": "2026-11-01"
+    },
+    {
+      "url": "/guias/tomate-no-vaso",
+      "dia": "2026-11-01"
+    },
+    {
+      "url": "/guias/anturio",
+      "dia": "2026-11-02"
+    },
+    {
+      "url": "/guias/samambaias",
+      "dia": "2026-11-03"
+    },
+    {
+      "url": "/guias/bromelias",
+      "dia": "2026-11-03"
+    },
+    {
+      "url": "/guias/morango-no-vaso",
+      "dia": "2026-11-03"
+    },
+    {
+      "url": "/guias/horta-na-varanda",
+      "dia": "2026-11-03"
+    },
+    {
+      "url": "/guias/temperos-da-janela",
+      "dia": "2026-11-03"
+    },
+    {
+      "url": "/guias/cactos-e-babosa",
+      "dia": "2026-11-03"
+    },
+    {
+      "url": "/guias/casa-com-pet",
+      "dia": "2026-11-03"
+    },
+    {
+      "url": "/guias/planta-sem-sol",
+      "dia": "2026-11-03"
+    },
+    {
+      "url": "/guias/orquidea-doente",
+      "dia": "2026-11-03"
+    },
+    {
+      "url": "/guias/cattleya-e-dendrobium",
+      "dia": "2026-11-03"
+    },
+    {
+      "url": "/guias/rega-sem-afogar",
+      "dia": "2026-11-04"
+    },
+    {
+      "url": "/guias/mato-que-ensina",
+      "dia": "2026-11-04"
+    },
+    {
+      "url": "/guias/mudas-de-graca",
+      "dia": "2026-11-04"
+    },
+    {
+      "url": "/guias/vaso-de-orquidea",
+      "dia": "2026-11-04"
+    },
+    {
+      "url": "/guias/agaves-e-kalanchoes",
+      "dia": "2026-11-04"
+    },
+    {
+      "url": "/guias/suculenta-pendente",
+      "dia": "2026-11-04"
+    },
+    {
+      "url": "/guias/rosa-do-deserto-enxerto-e-muda",
+      "dia": "2026-11-04"
+    },
+    {
+      "url": "/guias/composteira-em-casa",
+      "dia": "2026-11-04"
+    },
+    {
+      "url": "/guias/armadilhas-e-aliados",
+      "dia": "2026-11-04"
+    },
+    {
+      "url": "/guias/jardim-do-zero",
+      "dia": "2026-11-04"
+    },
+    {
+      "url": "/guias/horta-de-semente",
+      "dia": "2026-11-05"
+    },
+    {
+      "url": "/guias/abelha-e-passarinho",
+      "dia": "2026-11-05"
+    },
+    {
+      "url": "/guias/pimenta-no-vaso",
+      "dia": "2026-11-05"
+    },
+    {
+      "url": "/guias/arvore-no-quintal",
+      "dia": "2026-11-05"
+    },
+    {
+      "url": "/guias/roseira-no-vaso",
+      "dia": "2026-11-05"
+    },
+    {
+      "url": "/guias/roseira-doente",
+      "dia": "2026-11-05"
+    },
+    {
+      "url": "/guias/poda-de-roseira",
+      "dia": "2026-11-05"
+    },
+    {
+      "url": "/guias/muda-de-rosa",
+      "dia": "2026-11-05"
+    },
+    {
+      "url": "/guias/microverdes",
+      "dia": "2026-11-05"
+    },
+    {
+      "url": "/guias/mato-sem-veneno",
+      "dia": "2026-11-05"
+    },
+    {
+      "url": "/guias/canteiro-elevado",
+      "dia": "2026-11-06"
+    },
+    {
+      "url": "/guias/ervas-secas",
+      "dia": "2026-11-06"
+    },
+    {
+      "url": "/guias/guardar-semente",
+      "dia": "2026-11-06"
+    },
+    {
+      "url": "/guias/flores-de-varanda",
+      "dia": "2026-11-06"
+    },
+    {
+      "url": "/guias/begonia-e-geranio",
+      "dia": "2026-11-09"
+    },
+    {
+      "url": "/guias/hibisco-e-primavera",
+      "dia": "2026-11-10"
+    },
+    {
+      "url": "/guias/flores-comestiveis",
+      "dia": "2026-11-10"
+    },
+    {
+      "url": "/guias/espada-de-sao-jorge",
+      "dia": "2026-11-10"
+    },
+    {
+      "url": "/guias/minhocario-em-casa",
+      "dia": "2026-11-10"
+    },
+    {
+      "url": "/guias/cactos-de-colecao",
+      "dia": "2026-11-10"
+    },
+    {
+      "url": "/guias/suculentas-coloridas",
+      "dia": "2026-11-10"
+    },
+    {
+      "url": "/guias/pimentas-do-mundo",
+      "dia": "2026-11-10"
+    },
+    {
+      "url": "/guias/orquidea-na-arvore",
+      "dia": "2026-11-10"
+    },
+    {
+      "url": "/guias/rosas-perfumadas",
+      "dia": "2026-11-10"
+    },
+    {
+      "url": "/guias/alocasia-e-filodendro",
+      "dia": "2026-11-10"
+    }
+  ]
 }

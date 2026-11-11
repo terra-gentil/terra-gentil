@@ -7,6 +7,6 @@ for c in sys.argv[1:]:
     dst = os.path.join(E, "pdf-web", c + ".pdf")
     doc = fitz.open(src)
     doc.rewrite_images(dpi_target=110, quality=62)
-    doc.save(dst, garbage=4, deflate=True)
+    doc.save(dst, garbage=1, deflate=True)  # garbage>=2 embaralha as fontes Type3 (texto ilegivel)
     doc.close()
     print(c, round(os.path.getsize(src)/1048576, 1), "->", round(os.path.getsize(dst)/1048576, 1), "MB")

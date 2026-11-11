@@ -1,4 +1,8 @@
 # PROGRESSO Terra Gentil
+## REVISAO SITE x APP (11/11/2026)
+- Videos: YOUTUBE_CHANNEL_ID estava errado (UCX3...), o certo e UCfZn0uytIhsk30SMQtoKeLA. O feed RSS do canal agora alimenta Home e /videos. FALLBACK da home usa 3 videos reais. Removidos os youtubeId mortos dos 10 posts do blog (todos davam 404). Playlist PLo0P-... retorna feed vazio, o codigo ja cai para o feed do canal.
+- Ebooks /guias: os 19 PDFs antigos agora aparecem em 6 prateleiras por categoria (campo `categoria` em data/ebooks.ts, lista `ebookCategorias`), com barra de chips fixa. GuiasClient virou componente de servidor, sem filtro por JS.
+- Pendente: `pages` dos cards em /guias e o total de paginas do hero sao numeros inventados (24 + i*4 % 24), trocar por paginas reais.
 ## LEVA 10 (TG 115 A 128): ROTEIROS PRONTOS, FOTOS NO FLOW A FAZER (11/11/2026) - LER ESTA SECAO PARA RETOMAR
 - **ORDEM DO ANDRE (11/11):** "vai ate o final, nao precisa de autorizacao: escreve, produz as fotos". Fazer tudo ate as paginas no ar e PARAR ANTES DE PEDIR INDEXACAO (Search Console so com o Andre).
 - **Feito:** 14 roteiros escritos por 7 agentes (`ebooks-fabrica/curtos/tg115.mjs` a `tg128.mjs`), todos com `fazer.mjs` sem estouro e `validar.mjs` ok, filas de fotos geradas por `node ebooks-fabrica/filas10.mjs` em `insta-terra-gentil/gama-ebooks/fila-fotos-tg115.json` a `tg128.json` (112 fotos, 2 com mascote cada). Pools em `ebooks-fabrica/pools/pool10-*.txt`, plano em `pools/LEVA10-titulos.md`. Commit b49e1dc.

@@ -3,24 +3,24 @@ import Link from 'next/link';
 import { PlayIcon } from '@/components/ui/icons';
 import { fetchPlaylistVideos } from '@/lib/youtube';
 
-// Vídeos reais do canal Terra Gentil (UCX3xUnHpQrhSUJUGjqMAN2A) usados como
-// fallback quando o feed RSS do YouTube não responde. Sincronizados com a
-// listagem do app mobile (mobile/src/components/redesign/VideosScreen.tsx).
+// Vídeos reais do canal @TerraGentil (UCfZn0uytIhsk30SMQtoKeLA) usados como
+// fallback quando o feed RSS do YouTube não responde. Mesmos vídeos da aba
+// Vídeos do app (mobile/src/components/redesign/VideosScreen.tsx).
 const FALLBACK = [
   {
-    id: 'K1J5I9IcGIw',
-    title: 'Transformei De Graça O Jardim De Um Senhor Deficiente aos 87 anos',
+    id: 'Q9FzrwE7nBA',
+    title: 'JARDIM ABANDONADO da Senhora de 90 anos Invadiu a Calçada: Limpei Tudo de GRAÇA!',
     tag: 'Transformação',
   },
   {
-    id: 'pbQkbLbApw0',
-    title: 'VIZINHOS NÃO AGUENTAVAM MAIS ESSE JARDIM ABANDONADO',
+    id: 'ykCh1KKHcvg',
+    title: '17 HORAS Limpando de GRAÇA o JARDIM ABANDONADO dessa Senhora!',
     tag: 'Transformação',
   },
   {
-    id: 'w-L6Bk8i9zQ',
-    title: 'Transformação Completa do Jardim Abandonado de um Senhor',
-    tag: 'Live',
+    id: '5xIySYrszC4',
+    title: 'Viúvo aos 87, não dá mais conta do JARDIM ABANDONADO. Limpei tudo de GRAÇA!',
+    tag: 'Transformação',
   },
 ] as const;
 

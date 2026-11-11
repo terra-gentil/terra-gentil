@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { pageMetadata } from '@/lib/seo';
 import BreadcrumbJsonLd from '@/components/seo/BreadcrumbJsonLd';
-import { ebooks } from '@/data/ebooks';
+import { ebooks, ebookCategorias } from '@/data/ebooks';
 import GuiasClient from './GuiasClient';
 import StatNum from '@/components/ui/StatNum';
 import { INSTAGRAM_URL, SITE_URL } from '@/lib/constants';
@@ -21,28 +21,12 @@ export const metadata: Metadata = pageMetadata({
 
 const COLORS = ['#74C69D', '#4A8C4F', '#D8552B', '#E8A33D', '#74C69D', '#4A8C4F', '#E8A33D', '#D8552B', '#74C69D', '#E8A33D', '#4A8C4F', '#D8552B'] as const;
 
-const CATS = [
-  { id: 'all', label: 'Todos' },
-  { id: 'iniciante', label: 'Iniciante' },
-  { id: 'apartamento', label: 'Apartamento' },
-  { id: 'sustentavel', label: 'Sustentável' },
-  { id: 'doutor', label: 'Doutor' },
-] as const;
-
-function categorize(title: string): string {
-  const t = title.toLowerCase();
-  if (t.includes('compost') || t.includes('adubo') || t.includes('reciclag')) return 'sustentavel';
-  if (t.includes('apartamento') || t.includes('vertical') || t.includes('varanda') || t.includes('vaso')) return 'apartamento';
-  if (t.includes('praga') || t.includes('doenç') || t.includes('toxic') || t.includes('pets')) return 'doutor';
-  return 'iniciante';
-}
-
 export default function GuiasPage() {
   const books = ebooks.map((e, i) => ({
     id: String(i + 1).padStart(2, '0'),
     title: e.title.replace(/^[^a-zA-Z0-9]+/, '').trim(),
     pages: 24 + (i * 4) % 24,
-    cat: categorize(e.title),
+    cat: e.categoria,
     color: COLORS[i % COLORS.length],
     pdf: e.pdf,
     pagina: paginaDoEbookAntigo(e.pdf) ? `/guias/${paginaDoEbookAntigo(e.pdf)}` : undefined,
@@ -168,7 +152,7 @@ export default function GuiasPage() {
         </section>
       )}
 
-      <GuiasClient books={books} cats={CATS} />
+      <GuiasClient books={books} cats={ebookCategorias} />
 
       <section className="page-cta">
         <h2>

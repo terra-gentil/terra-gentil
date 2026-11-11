@@ -1,4 +1,25 @@
+export type EbookCategoriaId = 'comece' | 'horta' | 'espaco' | 'suculentas' | 'casa' | 'bolso';
+
+export interface EbookCategoria {
+  id: EbookCategoriaId;
+  nome: string;
+  emoji: string;
+  chamada: string;
+  cor: string;
+}
+
+// Ordem de exibicao na pagina /guias.
+export const ebookCategorias: readonly EbookCategoria[] = [
+  { id: 'comece', nome: 'Comece por aqui', emoji: '🌱', chamada: 'O básico que todo mundo devia saber antes de comprar a primeira muda.', cor: '#4A8C4F' },
+  { id: 'horta', nome: 'Horta e temperos', emoji: '🥬', chamada: 'Cebolinha, tomate, alface e hortelã crescendo do vaso pra mesa.', cor: '#D8552B' },
+  { id: 'espaco', nome: 'Pouco espaço, muito verde', emoji: '🏢', chamada: 'Apartamento, varanda e parede também viram jardim.', cor: '#E8A33D' },
+  { id: 'suculentas', nome: 'Suculentas e raridades', emoji: '🌵', chamada: 'Plantas que pedem pouca água e muito conhecimento.', cor: '#74C69D' },
+  { id: 'casa', nome: 'Casa, pets e bem-estar', emoji: '🐾', chamada: 'Plantas seguras pros bichos, que acalmam e protegem o lar.', cor: '#9B7BC8' },
+  { id: 'bolso', nome: 'Jardim que cabe no bolso', emoji: '💰', chamada: 'Adubo caseiro, reaproveitamento e gramado bonito sem gastar muito.', cor: '#C48226' },
+] as const;
+
 export interface Ebook {
+  categoria: EbookCategoriaId;
   keywords: string[];
   title: string;
   image: string;
@@ -17,114 +38,133 @@ export const ebooks: Ebook[] = [
     title: '📘 O Código Secreto das Plantas',
     image: '/ebooks/covers/O-Codigo-Secreto-das-Plantas.jpeg',
     pdf: '/ebooks/1-O-Codigo-Secreto-das-Plantas.pdf',
+    categoria: 'comece',
   },
   {
     keywords: ['espada', 'são jorge', 'sansevieria', 'zamioculca', 'zz plant', 'lírio da paz'],
     title: '🛡️ O Esquadrão Imortal: 6 Plantas Indestrutíveis',
     image: '/ebooks/covers/esquadraoimortal.jpeg',
     pdf: '/ebooks/2-O-Esquadrao-Imortal.pdf',
+    categoria: 'comece',
   },
   {
     keywords: ['arruda', 'pimenteira', 'comigo-ninguém-pode', 'guiné', 'energia', 'proteção'],
     title: '✨ Plantas da Gratidão: Proteção para o Lar',
     image: '/ebooks/covers/plantasdegratidao.jpeg',
     pdf: '/ebooks/3-Plantas-da-Gratidao.pdf',
+    categoria: 'casa',
   },
   {
     keywords: ['adubo caseiro', 'economizar', 'barato', 'reciclagem', 'garrafa pet'],
     title: '💰 Jardim Lindo com Pouco Dinheiro',
     image: '/ebooks/covers/jardimbonitoebarato.jpeg',
     pdf: '/ebooks/4-Jardim-Lindo-com-Pouco-Dinheiro.pdf',
+    categoria: 'bolso',
   },
   {
     keywords: ['samambaia', 'parede', 'vertical', 'treliça', 'pendente', 'véu de noiva'],
     title: '🧗 Jardim Vertical: Seu Novo Quintal na Parede',
     image: '/ebooks/covers/jardimvertical.jpeg',
     pdf: '/ebooks/5-O-Seu-Novo-Quintal-e-na-Parede.pdf',
+    categoria: 'espaco',
   },
   {
     keywords: ['lavanda', 'camomila', 'jasmim', 'ansiedade', 'calma', 'terapia', 'melissa'],
     title: '🧘 Jardim Terapêutico: Plantas que Curam',
     image: '/ebooks/covers/jardimterapeutico.jpeg',
     pdf: '/ebooks/6-Jardim-Terapeutico.pdf',
+    categoria: 'casa',
   },
   {
     keywords: ['apartamento', 'pequeno', 'sacada', 'antúrio', 'begônia', 'violeta', 'kalanchoe'],
     title: '🏢 Jardim Pequeno, Amor Gigante',
     image: '/ebooks/covers/pequenojardimgiganteamor.jpeg',
     pdf: '/ebooks/7-Jardim-Pequeno-Amor-Gigante.pdf',
+    categoria: 'espaco',
   },
   {
     keywords: ['salsinha', 'coentro', 'orégano', 'manjericão', 'tomilho', 'sálvia', 'alecrim'],
     title: '🥗 Horta na Varanda: Tenha Temperos Frescos',
     image: '/ebooks/covers/hortanavaranda.jpeg',
     pdf: '/ebooks/8-Horta-na-Varanda.pdf',
+    categoria: 'horta',
   },
   {
     keywords: ['sombra', 'meia-sombra', 'sol pleno', 'luz', 'varanda'],
     title: '☀️ Guia de Luz: Sol, Sombra ou Meia-Sombra?',
     image: '/ebooks/covers/guiadeluzesombra.jpeg',
     pdf: '/ebooks/9-Plantas-para-Varanda-Pequena-o-guia-gentil-de-sol-meia-sombra-e-sombra.pdf',
+    categoria: 'espaco',
   },
   {
     keywords: ['gato', 'cachorro', 'cão', 'pet', 'tóxica', 'venenosa', 'segura', 'azaleia'],
     title: '🐶 Pets e Plantas: Guia de Segurança',
     image: '/ebooks/covers/plantascaesegatos.jpeg',
     pdf: '/ebooks/10-Guia-Gentil-Plantas-Caes-e-Gatos.pdf',
+    categoria: 'casa',
   },
   {
     keywords: ['suculenta', 'echeveria', 'sedum', 'cacto', 'gordinha'],
     title: '🌵 Suculentas: O Guia para Não Matar Afogada',
     image: '/ebooks/covers/comoplantarsuculentas.jpeg',
     pdf: '/ebooks/11-Como-Plantar-Suculentas.pdf',
+    categoria: 'suculentas',
   },
   {
     keywords: ['rosa do deserto', 'adenium', 'caudex', 'batata da planta'],
     title: '🌸 Rosa do Deserto: Segredos do Caudex',
     image: '/ebooks/covers/comoplantarroadodeserto-2.jpeg',
     pdf: '/ebooks/12-Como-Plantar-Rosa-do-Deserto.pdf',
+    categoria: 'suculentas',
   },
   {
     keywords: ['morango', 'morangueiro', 'fruta', 'fruto vermelho'],
     title: '🍓 Morangos do Coração: Colha Doçura',
     image: '/ebooks/covers/comoplantarmorangos.jpeg',
     pdf: '/ebooks/13-Morangos-do-Coracao.pdf',
+    categoria: 'horta',
   },
   {
     keywords: ['hortelã', 'menta', 'chá'],
     title: '🍃 Hortelã: O Aroma da Infância',
     image: '/ebooks/covers/aromadamemoria.jpeg',
     pdf: '/ebooks/14-O-Cheirinho-que-Mora-na-Memoria.pdf',
+    categoria: 'horta',
   },
   {
     keywords: ['cebolinha', 'cheiro verde', 'cebolinho'],
     title: '🥣 Cebolinha Infinita: Adeus Mercado',
     image: '/ebooks/covers/complantarcebolinha.jpeg',
     pdf: '/ebooks/15-Como-Plantar-Cebolinha-em-Casa.pdf',
+    categoria: 'horta',
   },
   {
     keywords: ['jiboia', 'epipremnum', 'jibóia'],
     title: '🌿 Jiboia: A Planta que Perdoa Tudo',
     image: '/ebooks/covers/jibioianasala.jpeg',
     pdf: '/ebooks/16-Jiboia-na-Sala.pdf',
+    categoria: 'comece',
   },
   {
     keywords: ['alface', 'salada', 'lactuca'],
     title: '🥗 Alface em Casa: Salada Crocante',
     image: '/ebooks/covers/comoplantaralface.jpeg',
     pdf: '/ebooks/17-Alface-em-Casa.pdf',
+    categoria: 'horta',
   },
   {
     keywords: ['grama', 'gramado', 'relva', 'esmeralda', 'são carlos', 'batatais'],
     title: '🏡 Tapete Verde: O Gramado Perfeito',
     image: '/ebooks/covers/comocantargrama.jpeg',
     pdf: '/ebooks/18-O-TAPETE-VERDE-DA-BONDADE.pdf',
+    categoria: 'bolso',
   },
   {
     keywords: ['tomate', 'tomateiro', 'cereja', 'legume'],
     title: '🍅 Tomate em Vaso: Colheita Farta',
     image: '/ebooks/covers/comoplantartomate.jpeg',
     pdf: '/ebooks/19-Tomate-em-Vaso.pdf',
+    categoria: 'horta',
   },
 ];
 

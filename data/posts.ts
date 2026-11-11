@@ -13,7 +13,6 @@ export interface Post {
 export const posts: Post[] = [
   {
     slug: 'casa-que-ia-comecar-de-novo',
-    youtubeId: 'T8e8tix56tQ',
     title: 'A casa que ia começar de novo',
     date: '2026-05-09',
     excerpt:
@@ -33,7 +32,6 @@ export const posts: Post[] = [
   },
   {
     slug: 'vizinha-que-disse-sim',
-    youtubeId: 'kLEMv95GgE8',
     title: 'A vizinha que disse sim',
     date: '2026-05-02',
     excerpt:
@@ -53,7 +51,6 @@ export const posts: Post[] = [
   },
   {
     slug: '39-sacos-de-uma-mae-so',
-    youtubeId: 'hZPHuyr9Hd0',
     title: 'Os 39 sacos de uma mãe só',
     date: '2026-04-25',
     excerpt:
@@ -73,7 +70,6 @@ export const posts: Post[] = [
   },
   {
     slug: 'passaros-que-trabalharam-junto',
-    youtubeId: 'XZKmIw0kCeY',
     title: 'Os pássaros que trabalharam junto',
     date: '2026-04-18',
     excerpt:
@@ -91,7 +87,6 @@ export const posts: Post[] = [
   },
   {
     slug: 'chuva-nao-parou-andre-voltou',
-    youtubeId: '2b9AdMQKpXA',
     title: 'A chuva não parou, mas André voltou',
     date: '2026-04-11',
     excerpt:
@@ -112,7 +107,6 @@ export const posts: Post[] = [
   },
   {
     slug: 'vizinho-que-ja-conhecia-andre',
-    youtubeId: 'NTsomMdAeqc',
     title: 'O vizinho que já conhecia o André',
     date: '2026-04-04',
     excerpt:
@@ -131,7 +125,6 @@ export const posts: Post[] = [
   },
   {
     slug: 'o-susto-que-virou-obrigado',
-    youtubeId: 'OnWxa4NBwig',
     title: 'O susto que virou obrigado',
     date: '2026-03-28',
     excerpt:
@@ -151,7 +144,6 @@ export const posts: Post[] = [
   },
   {
     slug: 'jardim-de-quem-comeca-de-novo',
-    youtubeId: 'JbvzrBen5Mw',
     title: 'O jardim de quem está começando de novo',
     date: '2026-03-21',
     excerpt:
@@ -168,7 +160,6 @@ export const posts: Post[] = [
   },
   {
     slug: 'voce-veio-em-boa-hora',
-    youtubeId: 'yet7xYFvnBA',
     title: 'Você veio em boa hora',
     date: '2026-03-14',
     excerpt: '"Você veio em boa hora." Quatro palavras que valeram cada gota de suor naquele dia.',
@@ -187,7 +178,6 @@ export const posts: Post[] = [
   },
   {
     slug: 'calcada-ninguem-usava',
-    youtubeId: 'K3CNNyLP9Oo',
     title: 'A calçada que ninguém conseguia usar',
     date: '2026-03-07',
     excerpt:
@@ -205,7 +195,6 @@ export const posts: Post[] = [
   },
   {
     slug: 'dona-cristina-marciano-da-gentileza',
-    youtubeId: 'h91qQnbYnNM',
     title: 'Dona Cristina e o marciano da gentileza',
     date: '2026-02-28',
     excerpt:
@@ -223,7 +212,6 @@ export const posts: Post[] = [
   },
   {
     slug: 'senhor-87-anos-capela',
-    youtubeId: 'K1J5I9IcGIw',
     title: 'O senhor de 87 anos que construiu uma capela e perdeu tudo',
     date: '2026-02-21',
     excerpt:

@@ -2856,7 +2856,7 @@ a { color: inherit; text-decoration: none; }
 }
 .gu-chip:hover, .gu-chip:focus-visible { background: var(--c); color: #fff; transform: translateY(-2px); }
 .gu-chip-n { font-family: var(--font-mono, 'JetBrains Mono'); font-size: 11px; opacity: 0.65; }
-.gu-shelf { margin-top: 56px; scroll-margin-top: 140px; padding-top: 28px; border-top: 4px solid var(--c); }
+.gu-shelf { margin-top: 56px; scroll-margin-top: 64px; padding-top: 28px; border-top: 4px solid var(--c); }
 .gu-shelf-head { display: flex; align-items: center; gap: 18px; margin-bottom: 28px; }
 .gu-shelf-emoji {
   flex: 0 0 auto; width: 64px; height: 64px; display: grid; place-items: center;

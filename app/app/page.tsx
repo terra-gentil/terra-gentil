@@ -35,7 +35,7 @@ const FEATURES = [
   { icon: '🌿', badge: 'AsyncStorage', title: 'Meu Jardim', tone: 'green', desc: 'Cada diagnóstico vira ficha no histórico local. Grid 3 colunas com foto + emoji da planta. Salva offline. Buffer 20, mostra 5 no Home.' },
   { icon: '👥', badge: 'Local + cloud em breve', title: 'Comunidade', tone: 'coral', desc: 'Feed com 5 filtros (Populares, Meus posts, Seguindo, Pragas, Suculentas). Postagem com 5 paletas de cor, tags, preview ao vivo. Comentários, share nativo.' },
   { icon: '▶', badge: 'YouTube oficial', title: 'Vídeos do canal', tone: 'coral', desc: 'Transformações reais do canal. Miniaturas direto do YouTube. Cada vídeo abre o link individual no app do YouTube.' },
-  { icon: '📖', badge: 'PDF + download', title: '19 ebooks grátis', tone: 'amber', desc: 'Biblioteca completa do site dentro do app. WebView do PDF (iOS direto, Android via Google Docs). Botão baixar abre menu nativo "Salvar em Arquivos".' },
+  { icon: '📖', badge: 'PDF + download', title: 'Ebooks grátis', tone: 'amber', desc: 'Biblioteca completa do site dentro do app. WebView do PDF (iOS direto, Android via Google Docs). Botão baixar abre menu nativo "Salvar em Arquivos".' },
   { icon: '🎮', badge: 'WebView landscape', title: 'Jogo integrado', tone: 'green', desc: 'Resgate dos Jardins roda fullscreen via WebView do GitHub Pages. Lock landscape no mount, restore portrait no unmount. Nickname propagado via URL param.' },
   { icon: '🏆', badge: 'Semente → Doutor', title: 'Gamificação 5 níveis', tone: 'amber', desc: 'Semente, Broto, Jardineiro, Botânico, Doutor das Plantas. 5 conquistas que desbloqueiam por total de diagnósticos. Streak de dias cuidando.' },
 ] as const;

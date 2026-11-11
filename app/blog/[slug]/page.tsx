@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { PUBLISHER, dataIso } from '@/lib/seo';
+import { DEFAULT_IMAGE, PUBLISHER, dataIso } from '@/lib/seo';
 import Link from 'next/link';
 import Image from 'next/image';
 import { ArrowLeft, ArrowUpRight } from 'lucide-react';
@@ -53,7 +53,8 @@ export async function generateMetadata({
       locale: 'pt_BR',
       type: 'article',
       publishedTime: post.date,
-      images: ogImage ? [{ url: ogImage }] : undefined,
+      // Sem imagem propria, usa a imagem padrao (definir openGraph desliga a heranca do layout).
+      images: [ogImage ? { url: ogImage } : DEFAULT_IMAGE],
     },
   };
 }

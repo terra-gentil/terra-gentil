@@ -3,7 +3,7 @@ import { INSTAGRAM_URL, SITE_NAME, SITE_URL, TIKTOK_URL, YOUTUBE_URL } from '@/l
 
 // Imagem de previa padrao. Precisa ir explicita: quando a pagina define openGraph,
 // o Next deixa de herdar o app/opengraph-image.jpg da raiz.
-const DEFAULT_IMAGE = {
+export const DEFAULT_IMAGE = {
   url: '/opengraph-image.jpg',
   width: 1200,
   height: 630,

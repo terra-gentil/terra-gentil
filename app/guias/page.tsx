@@ -25,7 +25,6 @@ export default function GuiasPage() {
   const books = ebooks.map((e, i) => ({
     id: String(i + 1).padStart(2, '0'),
     title: e.title.replace(/^[^a-zA-Z0-9]+/, '').trim(),
-    pages: 24 + (i * 4) % 24,
     cat: e.categoria,
     color: COLORS[i % COLORS.length],
     pdf: e.pdf,
@@ -34,7 +33,7 @@ export default function GuiasPage() {
   }));
   const livros = listarGuias();
   const total = books.length + livros.length;
-  const totalPages = books.reduce((acc, b) => acc + b.pages, 0) + livros.reduce((acc, g) => acc + g.paginas.length, 0);
+  const totalPages = livros.reduce((acc, g) => acc + g.paginas.length, 0);
 
 
   return (

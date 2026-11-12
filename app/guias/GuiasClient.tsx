@@ -4,7 +4,6 @@ import type { EbookCategoria } from '@/data/ebooks';
 interface Book {
   id: string;
   title: string;
-  pages: number;
   cat: string;
   color: string;
   pdf: string;
@@ -74,7 +73,6 @@ export default function GuiasClient({
                     <div className="gu-cover-veil" />
                     <div className="gu-cover-foot">
                       <span>{b.id}</span>
-                      <span>{b.pages} pp</span>
                     </div>
                   </div>
                   <div className="gu-card-meta">

@@ -1,0 +1,207 @@
+{
+  "dia": "2026-11-13",
+  "palavra": "ALFACE",
+  "especie": "Lactuca sativa",
+  "nome": "Alface",
+  "tema": null,
+  "serie": "3 erros",
+  "gancho": "O erro de rega que faz muita alface apodrecer: regar por obrigação, no calendário.",
+  "resumo": "Três erros de rega e de vaso na alface, e dois gestos simples: o teste do dedo e regar até a água escorrer pelos furos.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Rega",
+      "linha1": "3 erros que",
+      "linha2": "afogam a",
+      "linha3": "sua alface",
+      "destaque": "sem querer"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Regar pelo",
+      "linha2": "calendário, sem",
+      "destaque": "olhar a terra",
+      "texto": "Segunda, quarta e sexta não funciona. Em dia quente ela bebe mais, em dia frio e úmido quase nada.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Dar só um",
+      "linha2": "golinho de",
+      "destaque": "água",
+      "texto": "A rega boa é gentil e profunda. Regue até a água escorrer pelos furos, onde as raízes bebem.",
+      "nota": "Quase todo mundo começa assim."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Vaso sem",
+      "linha2": "furo e sem",
+      "destaque": "drenagem",
+      "texto": "Se a água não tem por onde sair, as raízes apodrecem. Sem drenagem, vira um pântano.",
+      "nota": "Um gesto pequeno resolve."
+    },
+    {
+      "linha1": "Enfie o dedo",
+      "linha2": "na terra uns",
+      "destaque": "2 a 3 cm",
+      "texto": "Saiu sujo e úmido? Não regue. Saiu limpo e seco? Aí sim, a alface está com sede.",
+      "dica": "Na dúvida, espere mais um dia. Teste de novo antes de molhar."
+    },
+    {
+      "linha1": "Hora de regar?",
+      "linha2": "Regue até escorrer",
+      "destaque": "pelos furos",
+      "texto": "Molhe devagar e com calma, até a água sair pelo fundo do vaso. Depois espere a terra secar.",
+      "dica": "Depois de regar, espere a terra secar e teste de novo com o dedo."
+    },
+    {
+      "tarja": "Sinal",
+      "linha1": "Folha mole",
+      "linha2": "e amarela",
+      "destaque": "pede pausa",
+      "texto": "Geralmente é excesso de água. Pare de regar, veja se os furos estão livres e deixe a terra secar.",
+      "nota": "Ainda dá tempo de ajudar."
+    },
+    {
+      "texto": "Cuide com calma e ela devolve em folhas verdes. Salve este post para a próxima rega.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "O maior erro de quem começa é regar por obrigação, toda segunda, quarta e sexta, como se a planta lesse calendário.",
+      "pagina": 8,
+      "trecho": "Aqui está o maior erro de quem está começando: regar por obrigação, toda segunda, quarta e sexta",
+      "fonte": "Alface em Casa: Salada Crocante, p. 8"
+    },
+    {
+      "texto": "Em dia quente a planta transpira e sente sede. Em dia frio e úmido, ela bebe quase nada. Por isso a sede muda de um dia para o outro.",
+      "pagina": 8,
+      "trecho": "Em dias quentes, elas transpiram e sentem sede. Em dias frios e úmidos, elas bebem quase nada",
+      "fonte": "Alface em Casa: Salada Crocante, p. 8"
+    },
+    {
+      "texto": "Teste do dedo: enfie o dedo na terra, uns 2 a 3 cm. Saiu sujo e úmido, não regue. Saiu limpo e seco, aí sim a alface está com sede.",
+      "pagina": 8,
+      "trecho": "enfie o dedo na terra (cerca de 2 a 3 cm)",
+      "fonte": "Alface em Casa: Salada Crocante, p. 8"
+    },
+    {
+      "texto": "A rega deve ser gentil e profunda: nada de golinho. Regue até a água escorrer pelos furos do fundo do vaso, para chegar às pontas das raízes.",
+      "pagina": 8,
+      "trecho": "Regue até que a água comece a escorrer pelos furos do fundo do vaso",
+      "fonte": "Alface em Casa: Salada Crocante, p. 8"
+    },
+    {
+      "texto": "O vaso precisa ter furos no fundo. Se a água não tem por onde sair, as raízes apodrecem.",
+      "pagina": 5,
+      "trecho": "Se a água não tiver por onde sair, as raízes apodrecem",
+      "fonte": "Alface em Casa: Salada Crocante, p. 5"
+    },
+    {
+      "texto": "Sem uma camada de drenagem no fundo, a água vira um pântano e a planta morre afogada.",
+      "pagina": 6,
+      "trecho": "Sem drenagem, a água vira um pântano e a planta morre",
+      "fonte": "Alface em Casa: Salada Crocante, p. 6"
+    },
+    {
+      "texto": "Folhas moles e amarelas costumam ser sinal de excesso de água. Pare de regar, confira se os furos não estão entupidos e deixe a terra secar.",
+      "pagina": 12,
+      "trecho": "Pare de regar, verifique se os furos do vaso não estão entupidos e deixe a terra secar",
+      "fonte": "Alface em Casa: Salada Crocante, p. 12"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "fontes": [
+    "Alface em Casa: Salada Crocante, p. 8",
+    "Alface em Casa: Salada Crocante, p. 5",
+    "Alface em Casa: Salada Crocante, p. 6",
+    "Alface em Casa: Salada Crocante, p. 12"
+  ],
+  "materia": {
+    "slug": "alface-em-vaso-como-regar-sem-apodrecer",
+    "titulo": "Alface em vaso: como regar sem apodrecer",
+    "descricao": "Regar a alface por calendário é o erro mais comum de quem começa. Veja o teste do dedo, a rega profunda e por que o vaso precisa de furos no fundo, com calma.",
+    "introducao": "Se você já pensou que mata até alface, respire. Ela é uma planta generosa, e na maioria das vezes o problema não é falta de jeito, é a rega. Quem cuida com carinho tende a molhar demais, ou a molhar sempre no mesmo dia, sem olhar para a terra. Neste texto, a gente conversa sobre os erros de rega mais comuns, sobre o vaso certo e sobre um teste simples que você faz com o próprio dedo. Tudo com base no ebook da alface do André, sem receita complicada e sem culpa. Quem já perdeu planta sabe como dói, então vamos com calma, um passo de cada vez.",
+    "secoes": [
+      {
+        "titulo": "Por que regar no calendário atrapalha",
+        "paragrafos": [
+          "Muita gente define um dia fixo para regar, como toda segunda, quarta e sexta. Parece organizado, e dá uma sensação boa de dever cumprido. Só que o livro aponta justamente isso como o maior erro de quem está começando: regar por obrigação, sem olhar para a planta.",
+          "A razão é simples. A alface não sabe ler calendário. Em dia quente, ela transpira e sente sede. Em dia frio e úmido, ela bebe quase nada. Se a rega segue a agenda e não o tempo, num dia a planta fica com sede e no outro fica encharcada. Quem manda na hora de regar é a terra, e não o relógio."
+        ],
+        "fatosUsados": [
+          0,
+          1
+        ]
+      },
+      {
+        "titulo": "Como saber a hora certa de regar",
+        "paragrafos": [
+          "O livro chama de regra de ouro o teste do dedo. Antes de pegar o regador, enfie o dedo na terra, uns 2 a 3 centímetros. É rápido e não custa nada.",
+          "Se o dedo saiu sujo e úmido, pare. Não regue. A terra ainda tem água, e colocar mais agora pode causar fungos e apodrecer as raízes. Se o dedo saiu limpo e seco, aí sim, a alface está com sede. Faça esse teste sempre que bater a dúvida, e com o tempo você passa a conhecer o ritmo da sua planta."
+        ],
+        "fatosUsados": [
+          2
+        ]
+      },
+      {
+        "titulo": "Regar pouquinho não resolve: a rega gentil e profunda",
+        "paragrafos": [
+          "Quando chegou a hora, o livro pede uma rega gentil e profunda. Isso quer dizer que não adianta jogar apenas um golinho de água só para cumprir tabela. O jeito certo é regar devagar, até a água começar a escorrer pelos furos do fundo do vaso.",
+          "Assim você tem certeza de que a água chegou lá embaixo, onde ficam as pontas das raízes, que são as que mais bebem. Depois, é só esperar a terra secar de novo e repetir o teste do dedo."
+        ],
+        "fatosUsados": [
+          3
+        ]
+      },
+      {
+        "titulo": "O vaso precisa de furos e de drenagem",
+        "paragrafos": [
+          "Não adianta regar certo se a água não tem para onde ir. O livro diz que o requisito inegociável do recipiente é ter furos no fundo. Pode ser vaso ou balde, mas se a água não tiver por onde sair, as raízes apodrecem.",
+          "Outro cuidado é a camada de drenagem, com pedrinhas ou isopor no fundo do vaso. Sem drenagem, a água vira um pântano e a planta morre afogada. Por isso, vale conferir os furos de vez em quando."
+        ],
+        "fatosUsados": [
+          4,
+          5
+        ]
+      },
+      {
+        "titulo": "Folha mole e amarela: o que fazer",
+        "paragrafos": [
+          "Se as folhas estiverem moles e amarelas, o livro diz que geralmente é sinal de excesso de água. As raízes estão sufocando, e isso não é culpa sua. É um aviso da planta, e ainda dá tempo de ajudar.",
+          "Pare de regar, confira se os furos do vaso não estão entupidos e deixe a terra secar. Depois volte ao teste do dedo antes de molhar de novo."
+        ],
+        "fatosUsados": [
+          6
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Quantas vezes por semana devo regar a alface?",
+        "resposta": "O livro não dá um número fixo, e de propósito: ele pede para esquecer o calendário. Faça o teste do dedo e regue só quando o dedo sair limpo e seco, até a água escorrer pelos furos."
+      },
+      {
+        "pergunta": "O que fazer para a água não ficar parada no vaso?",
+        "resposta": "O vaso precisa ter furos no fundo e uma camada de drenagem com pedrinhas ou isopor. Se a água não tiver por onde sair, as raízes apodrecem."
+      },
+      {
+        "pergunta": "As folhas estão moles e amarelas. E agora?",
+        "resposta": "Costuma ser excesso de água. Pare de regar, veja se os furos do vaso não estão entupidos e deixe a terra secar antes de molhar de novo."
+      }
+    ],
+    "conclusao": "Regar a alface bem é menos sobre quantidade de carinho e mais sobre o momento certo. Enfie o dedo na terra, regue até a água escorrer pelos furos e espere a terra secar de novo. Na dúvida, espere. A planta agradece, e você ganha tranquilidade. Salve este texto para a próxima vez que a dúvida bater e conte para quem também cuida de planta com medo de errar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

@@ -1,0 +1,38 @@
+{
+ "livro": "TG L10 lote 22",
+ "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+ "fotos": [
+  {
+   "id": "dsj-var-pampas",
+   "especie": "dwarf pampas grass",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Dwarf pampas grass clump with pale feathery plumes in full sun",
+   "mascote": false
+  },
+  {
+   "id": "dsj-var-gramapreta",
+   "especie": "black mondo grass",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Black mondo grass with almost black leaves edging a garden bed; the small mascot figurine sits on a stone at the edge of the bed",
+   "mascote": true
+  },
+  {
+   "id": "dsj-var-lavanda",
+   "especie": "lavender hedge",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Low hedge of flowering lavender along a garden path",
+   "mascote": false
+  },
+  {
+   "id": "dsj-var-peixinho",
+   "especie": "lamb's ear",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Lamb's ear with thick silvery fuzzy leaves covering the ground",
+   "mascote": false
+  }
+ ]
+}

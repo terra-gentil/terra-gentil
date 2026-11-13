@@ -1,0 +1,38 @@
+{
+ "livro": "TG L10 lote 26",
+ "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+ "fotos": [
+  {
+   "id": "sec-var-manjericao",
+   "especie": "basil",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Green and purple basil varieties growing side by side in pots",
+   "mascote": false
+  },
+  {
+   "id": "sec-var-oregano",
+   "especie": "golden oregano",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Golden-leaf oregano in a herb bed; the small mascot figurine stands on the soil at the foot of the plant",
+   "mascote": true
+  },
+  {
+   "id": "sec-var-nira",
+   "especie": "garlic chives",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Garlic chives with flat leaves growing in a garden bed",
+   "mascote": false
+  },
+  {
+   "id": "sec-var-tomilho",
+   "especie": "thyme",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Thyme clump with tiny leaves in a herb garden",
+   "mascote": false
+  }
+ ]
+}

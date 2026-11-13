@@ -1,0 +1,38 @@
+{
+ "livro": "TG L10 lote 23",
+ "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+ "fotos": [
+  {
+   "id": "fcl-gesto-1",
+   "especie": "peperomia leaf cutting",
+   "proporcao": "9:16",
+   "elenco": true,
+   "cena": "Close-up of a man's hands cutting a peperomia leaf together with its small stalk from the mother plant",
+   "mascote": false
+  },
+  {
+   "id": "fcl-gesto-2",
+   "especie": "peperomia leaf cutting",
+   "proporcao": "9:16",
+   "elenco": true,
+   "cena": "Close-up of a man's hands planting the stalk of a peperomia leaf in a small pot of soil; the small mascot figurine sits on the wooden edge of the table next to the pot",
+   "mascote": true
+  },
+  {
+   "id": "fcl-gesto-3",
+   "especie": "leaf against light",
+   "proporcao": "9:16",
+   "elenco": true,
+   "cena": "Close-up of a man's hands holding a leaf up against the window light to check both sides",
+   "mascote": false
+  },
+  {
+   "id": "fcl-sintoma-1",
+   "especie": "spotted begonia leaf",
+   "proporcao": "9:16",
+   "elenco": false,
+   "cena": "Begonia leaf with brown spots and yellowing patches in a pot",
+   "mascote": false
+  }
+ ]
+}

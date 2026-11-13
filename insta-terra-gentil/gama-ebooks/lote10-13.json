@@ -1,0 +1,38 @@
+{
+ "livro": "TG L10 lote 13",
+ "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+ "fotos": [
+  {
+   "id": "blb-gesto-1",
+   "especie": "flower bulb",
+   "proporcao": "9:16",
+   "elenco": true,
+   "cena": "Close-up of a man's hands measuring the depth of a planting hole with a ruler next to a flower bulb with its tip pointing up",
+   "mascote": false
+  },
+  {
+   "id": "blb-gesto-2",
+   "especie": "gravel and potting mix",
+   "proporcao": "9:16",
+   "elenco": true,
+   "cena": "Close-up of a man's hands mixing gravel into the potting soil of a pot; the small mascot figurine sits on the rim of the pot",
+   "mascote": true
+  },
+  {
+   "id": "blb-gesto-3",
+   "especie": "chicken wire",
+   "proporcao": "9:16",
+   "elenco": true,
+   "cena": "Close-up of a man's hands laying a piece of chicken wire over the soil of a freshly planted pot of bulbs",
+   "mascote": false
+  },
+  {
+   "id": "blb-sintoma-1",
+   "especie": "dug up bulbs",
+   "proporcao": "9:16",
+   "elenco": false,
+   "cena": "Pot soil turned over by an animal with flower bulbs exposed on the surface",
+   "mascote": false
+  }
+ ]
+}

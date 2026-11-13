@@ -1,0 +1,38 @@
+{
+ "livro": "TG L10 lote 20",
+ "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+ "fotos": [
+  {
+   "id": "hpe-var-tomate",
+   "especie": "dwarf tomato",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Dwarf tomato plant in a pot full of small red tomatoes on a balcony",
+   "mascote": false
+  },
+  {
+   "id": "hpe-var-pimenta",
+   "especie": "dwarf chili pepper",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Dwarf chili pepper in a 15 cm pot on a sunny windowsill with small colorful fruits; the small mascot figurine stands on the windowsill next to the pot",
+   "mascote": true
+  },
+  {
+   "id": "hpe-var-cenoura",
+   "especie": "round carrot",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Short round carrots growing in a deep pot, orange tops showing above the soil",
+   "mascote": false
+  },
+  {
+   "id": "hpe-var-morango",
+   "especie": "wild strawberry",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Wild strawberry plant in a small pot with little red berries visible among the leaves",
+   "mascote": false
+  }
+ ]
+}

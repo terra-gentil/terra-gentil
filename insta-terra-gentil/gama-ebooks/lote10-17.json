@@ -1,0 +1,38 @@
+{
+ "livro": "TG L10 lote 17",
+ "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+ "fotos": [
+  {
+   "id": "hdi-gesto-1",
+   "especie": "horseradish root",
+   "proporcao": "9:16",
+   "elenco": true,
+   "cena": "Close-up of a man's hands planting a piece of horseradish root in garden soil",
+   "mascote": false
+  },
+  {
+   "id": "hdi-gesto-2",
+   "especie": "rhubarb stalk",
+   "proporcao": "9:16",
+   "elenco": true,
+   "cena": "Close-up of a man's hands sliding the fingers down a rhubarb stalk to its base and twisting it to harvest; the small mascot figurine sits on the wooden edge of the raised bed",
+   "mascote": true
+  },
+  {
+   "id": "hdi-gesto-3",
+   "especie": "amaranth seeds",
+   "proporcao": "9:16",
+   "elenco": true,
+   "cena": "Close-up of a man's hands scattering amaranth seeds on bare soil without covering them",
+   "mascote": false
+  },
+  {
+   "id": "hdi-sintoma-1",
+   "especie": "rhubarb flower stalk",
+   "proporcao": "9:16",
+   "elenco": false,
+   "cena": "Rhubarb clump with a flower stalk rising among large leaves",
+   "mascote": false
+  }
+ ]
+}

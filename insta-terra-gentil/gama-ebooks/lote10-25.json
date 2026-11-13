@@ -1,0 +1,38 @@
+{
+ "livro": "TG L10 lote 25",
+ "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+ "fotos": [
+  {
+   "id": "sec-gesto-1",
+   "especie": "bay laurel cutting",
+   "proporcao": "9:16",
+   "elenco": true,
+   "cena": "Close-up of a man's hands cutting a ten centimeter green cutting from a bay laurel branch",
+   "mascote": false
+  },
+  {
+   "id": "sec-gesto-2",
+   "especie": "oregano seedlings",
+   "proporcao": "9:16",
+   "elenco": true,
+   "cena": "Close-up of a man's hands thinning oregano seedlings in a garden bed to leave space between them; the small mascot figurine sits on the wooden edge of the raised bed",
+   "mascote": true
+  },
+  {
+   "id": "sec-gesto-3",
+   "especie": "marjoram sowing",
+   "proporcao": "9:16",
+   "elenco": true,
+   "cena": "Close-up of a man's hands sowing marjoram seeds in loose fluffy soil",
+   "mascote": false
+  },
+  {
+   "id": "sec-sintoma-1",
+   "especie": "flowering fennel",
+   "proporcao": "9:16",
+   "elenco": false,
+   "cena": "Sweet fennel plant with open yellow flowers in a herb bed",
+   "mascote": false
+  }
+ ]
+}

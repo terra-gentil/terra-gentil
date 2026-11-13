@@ -1,0 +1,38 @@
+{
+ "livro": "TG L10 lote 12",
+ "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+ "fotos": [
+  {
+   "id": "trp-var-tumbergia",
+   "especie": "black-eyed Susan vine",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Thunbergia alata with orange and yellow flowers with dark centers covering a fence",
+   "mascote": false
+  },
+  {
+   "id": "trp-var-mandevila",
+   "especie": "mandevilla",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Mandevilla with pink trumpet flowers in clusters on a trellis; the small mascot figurine stands on the ground at the foot of the trellis",
+   "mascote": true
+  },
+  {
+   "id": "trp-var-cobeia",
+   "especie": "cup and saucer vine",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Purple Cobaea scandens bell flowers climbing over a garden arch",
+   "mascote": false
+  },
+  {
+   "id": "trp-var-ipomeia",
+   "especie": "blue morning glory",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Blue morning glory flowers wide open in the morning sun on a fence",
+   "mascote": false
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "livro": "TG L10 lote 19",
+ "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+ "fotos": [
+  {
+   "id": "hpe-gesto-1",
+   "especie": "pot drainage hole",
+   "proporcao": "9:16",
+   "elenco": true,
+   "cena": "Close-up of a man's hands covering the drainage hole of an empty large pot with a broken pot shard before adding soil",
+   "mascote": false
+  },
+  {
+   "id": "hpe-gesto-2",
+   "especie": "seedling pot in bucket",
+   "proporcao": "9:16",
+   "elenco": true,
+   "cena": "Close-up of a man's hands dipping a small pot with a vegetable seedling into a bucket of water until the bubbles stop; the small mascot figurine sits on the rim of the bucket",
+   "mascote": true
+  },
+  {
+   "id": "hpe-gesto-3",
+   "especie": "soil finger test",
+   "proporcao": "9:16",
+   "elenco": true,
+   "cena": "Close-up of a man's hands pushing a finger five centimeters into the soil of a vegetable pot to feel if it is dry",
+   "mascote": false
+  },
+  {
+   "id": "hpe-sintoma-1",
+   "especie": "leaning tomato seedling",
+   "proporcao": "9:16",
+   "elenco": false,
+   "cena": "Tomato seedling in a pot on a windowsill, leaning to one side toward the window with a bent stem",
+   "mascote": false
+  }
+ ]
+}

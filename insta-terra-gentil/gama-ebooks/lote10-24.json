@@ -1,0 +1,38 @@
+{
+ "livro": "TG L10 lote 24",
+ "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+ "fotos": [
+  {
+   "id": "fcl-var-calateia",
+   "especie": "calathea makoyana",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Calathea makoyana peacock plant with silver leaves painted in dark green",
+   "mascote": false
+  },
+  {
+   "id": "fcl-var-cruz",
+   "especie": "begonia masoniana",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Iron-cross begonia with wrinkled leaves and bronze bands from the center; the small mascot figurine stands on the soil at the foot of the pot",
+   "mascote": true
+  },
+  {
+   "id": "fcl-var-ctenanthe",
+   "especie": "ctenanthe",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Ctenanthe with green leaves streaked with silver",
+   "mascote": false
+  },
+  {
+   "id": "fcl-var-fitonia",
+   "especie": "fittonia",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Fittonia with pink and white colored veins on the leaves",
+   "mascote": false
+  }
+ ]
+}

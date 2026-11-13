@@ -1,0 +1,38 @@
+{
+ "livro": "TG L10 lote 18",
+ "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+ "fotos": [
+  {
+   "id": "hdi-var-bertalha",
+   "especie": "malabar spinach",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Malabar spinach with soft green leaves climbing a string",
+   "mascote": false
+  },
+  {
+   "id": "hdi-var-caruru",
+   "especie": "amaranth",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Amaranth plant with red seed spikes in a vegetable garden",
+   "mascote": false
+  },
+  {
+   "id": "hdi-var-shungiku",
+   "especie": "garland chrysanthemum",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Edible garland chrysanthemum with cut leaves and yellow flowers",
+   "mascote": false
+  },
+  {
+   "id": "hdi-var-gengibre",
+   "especie": "ginger",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Ginger sprouting from a rhizome piece in a pot; the small mascot figurine stands on the ground beside the pot",
+   "mascote": true
+  }
+ ]
+}

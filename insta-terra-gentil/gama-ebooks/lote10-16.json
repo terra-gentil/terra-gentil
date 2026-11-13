@@ -1,0 +1,38 @@
+{
+ "livro": "TG L10 lote 16",
+ "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+ "fotos": [
+  {
+   "id": "arb-var-hortensia",
+   "especie": "hydrangea Hanabi",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Hydrangea with star-shaped flowers that look like fireworks",
+   "mascote": false
+  },
+  {
+   "id": "arb-var-azaleia",
+   "especie": "azalea",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Azalea in bloom with hose-in-hose flowers, one flower tube inside another; the small mascot figurine stands on the ground at the foot of the shrub",
+   "mascote": true
+  },
+  {
+   "id": "arb-var-abutilon",
+   "especie": "abutilon Golden Fleece",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Abutilon with yellow bell-shaped hanging flowers",
+   "mascote": false
+  },
+  {
+   "id": "arb-var-camelia",
+   "especie": "yellow camellia",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Yellow camellia flower among glossy green leaves",
+   "mascote": false
+  }
+ ]
+}

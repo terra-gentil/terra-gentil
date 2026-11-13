@@ -1,0 +1,38 @@
+{
+ "livro": "TG L10 lote 14",
+ "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+ "fotos": [
+  {
+   "id": "blb-var-amarilis",
+   "especie": "amaryllis",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Hippeastrum amaryllis with large red flowers in a pot",
+   "mascote": false
+  },
+  {
+   "id": "blb-var-abacaxi",
+   "especie": "pineapple lily",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Eucomis pineapple lily with a long spike full of green flowers",
+   "mascote": false
+  },
+  {
+   "id": "blb-var-agapanto",
+   "especie": "agapanthus",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Blue agapanthus clump in a flower bed; the small mascot figurine stands on the ground at the foot of the clump",
+   "mascote": true
+  },
+  {
+   "id": "blb-var-begonia",
+   "especie": "tuberous begonia",
+   "proporcao": "3:4",
+   "elenco": false,
+   "cena": "Tuberous begonia with a large rose-like flower",
+   "mascote": false
+  }
+ ]
+}

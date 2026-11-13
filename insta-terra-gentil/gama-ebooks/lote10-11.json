@@ -1,0 +1,38 @@
+{
+ "livro": "TG L10 lote 11",
+ "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+ "fotos": [
+  {
+   "id": "trp-gesto-1",
+   "especie": "garden trellis",
+   "proporcao": "9:16",
+   "elenco": true,
+   "cena": "Close-up of a man's hands fitting a small trellis into the bottom of an empty clay pot before adding soil",
+   "mascote": false
+  },
+  {
+   "id": "trp-gesto-2",
+   "especie": "climbing vine",
+   "proporcao": "9:16",
+   "elenco": true,
+   "cena": "Close-up of a man's hands tying a young vine stem to a wooden stake with twine in a figure eight; the small mascot figurine sits on the rim of the clay pot nearby",
+   "mascote": true
+  },
+  {
+   "id": "trp-gesto-3",
+   "especie": "vine seedling",
+   "proporcao": "9:16",
+   "elenco": true,
+   "cena": "Close-up of a man's hands planting a small vine seedling at the foot of a bamboo pole in a garden bed",
+   "mascote": false
+  },
+  {
+   "id": "trp-sintoma-1",
+   "especie": "bougainvillea leaf spots",
+   "proporcao": "9:16",
+   "elenco": false,
+   "cena": "Bougainvillea with sick spotted leaves next to pink bracts, from overwatering",
+   "mascote": false
+  }
+ ]
+}

@@ -217,3 +217,22 @@ test("receptor separa a galeria, manda recarregar so uma vez e esfria depois de 
     assert.ok(!existsSync(join(saida, "comando.txt")), "comando recusado nao pode ficar para depois");
   } finally { filho.kill(); }
 });
+
+test("receptor esfria quando o limite vem so no status da ferramenta (bloqueado_limite)", async () => {
+  const saida = mkdtempSync(join(tmpdir(), "vigia-"));
+  const porta = 47900 + Math.floor(Math.random() * 90);
+  const filho = spawn("node", [join(aqui, "receptor.mjs")], { env: { ...process.env, SAIDA: saida, PORTA: String(porta) } });
+  await new Promise((ok) => filho.stdout.once("data", ok));
+  const post = (o) => fetch(`http://127.0.0.1:${porta}/estado`, { method: "POST", body: JSON.stringify(o) });
+  try {
+    await post({ origem: "div", status: "gerando", prontas: "3", gerando: "x" });
+    assert.ok(!existsSync(join(saida, "alerta.json")), "status normal nao pode abrir resfriamento");
+    await post({ origem: "div", status: "bloqueado_limite", prontas: "4", falhas: "0", gerando: "" });
+    assert.ok(existsSync(join(saida, "alerta.json")), "bloqueado_limite sem campo alerta passou batido (12/11/2026)");
+  } finally { filho.kill(); }
+});
+
+test("quadro de cima da ferramenta nao da alarme de limite pela conversa do Criador", () => {
+  assert.match(ler("conteudo-galeria.js"), /naFerramenta\(\) && alerta === "limite"\) alerta = ""/,
+    "o texto 'Limite do Flow' do historico do Criador abriu resfriamento falso (13/11/2026)");
+});

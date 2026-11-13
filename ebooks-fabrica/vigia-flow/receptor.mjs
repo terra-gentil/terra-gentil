@@ -55,7 +55,9 @@ createServer((req, res) => {
         writeFileSync(join(pasta, arq), JSON.stringify(estado));
         appendFileSync(join(pasta, "historico.ndjson"), JSON.stringify(estado) + "\n");
         // nao renova o resfriamento enquanto o mesmo aviso continua na tela
-        if ((paradas.includes(estado.alerta) || paradas.includes(estado.parou)) && !esfriando()) {
+        // a ferramenta as vezes so avisa pelo status (bloqueado_limite), sem o campo alerta (12/11/2026)
+        const porStatus = /limite|incomum/i.test(String(estado.status || ""));
+        if ((paradas.includes(estado.alerta) || paradas.includes(estado.parou) || porStatus) && !esfriando()) {
           writeFileSync(join(pasta, "alerta.json"), JSON.stringify(estado));
         }
       }

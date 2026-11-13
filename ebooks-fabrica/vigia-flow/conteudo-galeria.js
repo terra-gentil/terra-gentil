@@ -51,7 +51,11 @@
     let laco = progresso;
     if (!laco) { try { laco = JSON.parse(document.documentElement.dataset.b2k || "null"); } catch (e) { laco = null; } }
     const t = texto();
-    const alerta = TG.sinalDeParada(t), toastFalha = TG.falha2k(t);
+    // na tela da ferramenta o quadro de cima guarda a conversa do Criador, que cita "Limite do Flow": alarme
+    // falso (13/11/2026). Ali o limite vem do quadro da ferramenta (conteudo.js); aqui so vale atividade incomum.
+    let alerta = TG.sinalDeParada(t);
+    if (naFerramenta() && alerta === "limite") alerta = "";
+    const toastFalha = TG.falha2k(t);
     if (!laco && !toastFalha && !alerta) return;
     const dados = { origem: "galeria", ...(laco || {}), toastFalha, alerta };
     const chave = JSON.stringify(dados);

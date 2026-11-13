@@ -26,7 +26,9 @@ while (true) {
   const fim = (motivo) => { console.log(`VIGIA2K ${motivo} ${novos()} ${s ? JSON.stringify(s) : "sem arquivo"}`); process.exit(0); };
   const recente = s && Date.now() - parado * 1000 > inicio; // hora do arquivo, o POST da pagina nao leva "quando"
   if (recente && s.alerta) fim("limite"); // Limite do Flow ou atividade incomum na tela: nao insistir
-  if (recente && s.parou) fim("limite"); // limite2k, limite, incomum, esfriando, cancelado, faixa-invalida
+  // limite2k, limite, incomum, esfriando, cancelado, faixa-invalida e (v1.3) sem-foco, menu-sumiu,
+  // extensao-velha, gerando, espacando: ler o "parou" antes de qualquer passo
+  if (recente && s.parou) fim("limite");
   if (recente && s.fim) fim("fim");
   if (total > semSinal && !recente) fim("sem-sinal");
   if (total > maximo) fim("demorou");

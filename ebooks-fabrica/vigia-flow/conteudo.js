@@ -1,5 +1,5 @@
 // TG Vigia das Fotos, leitor (roda DENTRO da moldura da ferramenta Fotos Ebook TG, no mundo isolado). Em
-// intervalos sorteados (2,5 a 5 s) le a div escondida #estado-fotos (data-status, data-prontas, data-falhas,
+// intervalos sorteados (4 a 8 s) le a div escondida #estado-fotos (data-status, data-prontas, data-falhas,
 // data-gerando; pedido da rodada 5) e, quando algo muda, manda {tipo: "estado"} ao fundo.js. Sem a div, le os
 // contadores do cabecalho como plano B. Junta "alerta" (limite ou atividade incomum) quando o texto aparece.
 // Nao altera a pagina nem fala com a internet. Unico clique: o botao "Parar" da propria ferramenta, uma vez,
@@ -41,8 +41,8 @@
     ultimo = chave;
     falar({ tipo: "estado", dados });
   };
-  const volta = () => { if (!vivo) return; olhar(); setTimeout(volta, TG.jitter(2500, 5000)); };
-  setTimeout(volta, TG.jitter(2500, 5000));
+  const volta = () => { if (!vivo) return; olhar(); setTimeout(volta, TG.jitter(4000, 8000)); };
+  setTimeout(volta, TG.jitter(4000, 8000));
 
   chrome.runtime.onMessage.addListener((msg) => {
     if (!msg || msg.tipo !== "comando" || msg.comando !== "parar-fila" || parei) return;

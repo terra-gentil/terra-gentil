@@ -5,9 +5,11 @@
 // Progresso em document.documentElement.dataset.b2k (JSON: i, ok, falhas, seguidas, fim, parou). Regras (cada
 // uma nasceu de um erro real): faixa maxima 38; try/catch por posicao; esperas sorteadas, nunca fixas; PARA na
 // primeira falha de 2K e no primeiro aviso de limite ou atividade incomum (insistir piora); blocos de retrato
-// tem so ~92 px de largura, entao o filtro de imagem usa altura (> 100) e nao largura.
+// tem so ~92 px de largura, entao o filtro de imagem usa altura (> 100) e nao largura. Ritmo v1.3: no maximo 4 por
+// rodada, 40 a 110 s entre fotos, 2 a 5 min a cada 2, so com a aba visivel.
 window.__baixar2k = async (a, b, passo = 2) => {
   if (b - a > 38) throw new Error('faixa grande demais: maximo 38 posicoes por rodada');
+  if (Math.floor((b - a) / passo) + 1 > 4) throw new Error('rodada grande demais: maximo 4 downloads (v1.3, aviso de atividade incomum 13/11)');
   const espera = (min, max) => new Promise(r => setTimeout(r, min + (max - min) * (Math.random() + Math.random()) / 2));
   const acha = (txt) => [...document.querySelectorAll('[role=menuitem],button,div,span')]
     .filter(e => e.offsetParent && e.textContent.trim().startsWith(txt))
@@ -32,6 +34,7 @@ window.__baixar2k = async (a, b, passo = 2) => {
     try {
       est.parou = aviso(); if (est.parou) break;
       if (falhou()) { est.parou = 'limite2k'; break; }
+      if (document.visibilityState !== 'visible') { est.parou = 'sem-foco'; break; }
       const img = [...document.querySelectorAll('img')].filter(x => x.width > 60 && x.height > 100)[i];
       if (!img) { log.push(i + ':sem imagem'); continue; }
       img.scrollIntoView({block: 'center', behavior: 'smooth'}); await espera(1500, 3200);
@@ -50,8 +53,7 @@ window.__baixar2k = async (a, b, passo = 2) => {
       if (ruim) { est.falhas++; est.seguidas++; est.parou = 'limite2k'; log.push(i + ':falha2k'); }
       else {
         est.ok++; est.seguidas = 0; log.push(i + ':ok');
-        await espera(12000, 20000);
-        if (Math.random() < 0.15) await espera(20000, 45000);
+        if (i + passo <= b) await (est.ok % 2 === 0 ? espera(120000, 300000) : espera(40000, 110000));
       }
     } catch (e) { log.push(i + ':erro ' + e); fecha(); }
   }

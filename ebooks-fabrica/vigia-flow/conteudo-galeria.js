@@ -5,6 +5,8 @@
 // 2) Fora da tela da ferramenta, manda um pulso a cada 15 a 25 s para buscar comando do receptor.
 // 3) Ao receber {tipo: "comando", comando: "2k a b [passo]"}, roda o laco de 2K (laco2k.js) nesta aba, em ritmo
 //    humano; "parar2k" ou "parar-fila" cancelam. So aqui a extensao clica, e so no menu de download.
+// Limite que nao some: os eventos (clique direito, passar, clique, Escape) sao sinteticos (isTrusted = false) e a
+// pagina pode ver isso. Por isso o laco e lento, curto e raro. Ver README, "O que continua detectavel".
 // Plano B antigo (../baixar2k.js colado no console) ainda e lido pelo data-b2k, mas deixa pegada na pagina.
 (() => {
   const TG = globalThis.TG;
@@ -33,7 +35,15 @@
     relatar: (est) => { progresso = { ...est }; olhar(); },
     // blocos de retrato tem ~92 px de largura: o filtro e por ALTURA, senao o indice nao bate com a grade
     imagens: () => [...document.querySelectorAll("img")].filter((x) => x.width > 60 && x.height > 100),
-    rolar: (img) => img.scrollIntoView({ block: "center", behavior: "smooth" }),
+    // aba escondida ou janela minimizada: gente nao clica ali, entao o laco para (v1.3)
+    visivel: () => document.visibilityState === "visible",
+    // rolagem sem roda do mouse e sinal de robo: so rola se a foto esta fora da tela; devolve se rolou
+    rolar: (img) => {
+      const r = img.getBoundingClientRect();
+      if (r.top >= 0 && r.bottom <= window.innerHeight) return false;
+      img.scrollIntoView({ block: "center", behavior: "smooth" });
+      return true;
+    },
     menu: (img) => {
       const o = ponto(img);
       passar(img, o);
@@ -57,7 +67,8 @@
     if (naFerramenta() && alerta === "limite") alerta = "";
     const toastFalha = TG.falha2k(t);
     if (!laco && !toastFalha && !alerta) return;
-    const dados = { origem: "galeria", ...(laco || {}), toastFalha, alerta };
+    // tela: em 13/11 o aviso chegou como "galeria", mas era o quadro de cima da aba da FERRAMENTA (mesmo ms)
+    const dados = { origem: "galeria", tela: naFerramenta() ? "ferramenta" : "galeria", ...(laco || {}), toastFalha, alerta };
     const chave = JSON.stringify(dados);
     if (chave === ultimo) return;
     ultimo = chave;
@@ -68,7 +79,7 @@
     const volta = () => { if (!vivo) return; fn(); setTimeout(volta, TG.jitter(min, max)); };
     setTimeout(volta, TG.jitter(min, max));
   };
-  repetir(olhar, 2500, 5000);
+  repetir(olhar, 5000, 10000); // durante o laco o relatar() ja chama olhar() a cada passo
   repetir(() => {
     if (!naFerramenta() && document.visibilityState === "visible") falar({ tipo: "estado", dados: { origem: "pulso" } });
   }, 15000, 25000);

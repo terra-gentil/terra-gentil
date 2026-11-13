@@ -14,7 +14,9 @@ chrome.runtime.onMessage.addListener((msg, quem) => {
   if (!msg || msg.tipo !== "estado" || !msg.dados) return;
   const aba = quem && quem.tab ? quem.tab.id : null;
   if (PARADAS.includes(msg.dados.alerta) || PARADAS.includes(msg.dados.parou)) mandar(aba, "parar-fila");
-  const corpo = JSON.stringify({ ...msg.dados, quando: new Date().toISOString() });
+  // versao: o receptor recusa 2K de extensao velha (a v1.1 ja ficou carregada sem ninguem ver, 13/11/2026)
+  const versao = chrome.runtime.getManifest().version;
+  const corpo = JSON.stringify({ ...msg.dados, versao, quando: new Date().toISOString() });
   fetch(RECEPTOR, { method: "POST", headers: { "Content-Type": "application/json" }, body: corpo })
     .then((r) => (r.status === 200 ? r.json() : null))
     .then((j) => {

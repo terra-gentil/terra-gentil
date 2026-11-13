@@ -1,0 +1,211 @@
+{
+  "dia": "2026-11-14",
+  "palavra": "GRAMA",
+  "especie": "Zoysia japonica",
+  "nome": "Grama-esmeralda",
+  "tema": "gramado",
+  "serie": "3 erros",
+  "gancho": "Os 3 erros que matam a grama nova nos primeiros 30 dias.",
+  "resumo": "Esquecer de regar, pisar cedo demais e cortar muito baixo: três erros dos primeiros dias do gramado e o jeito gentil de evitar cada um.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Gramado",
+      "linha1": "3 erros que matam",
+      "linha2": "a grama nova nos",
+      "linha3": "primeiros",
+      "destaque": "30 dias"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Esquecer de",
+      "linha2": "regar no",
+      "destaque": "começo",
+      "texto": "Grama nova ainda não tem raiz funda. Nos primeiros 15 dias, rega todo dia. Três dias de sol forte sem água podem matar.",
+      "nota": "Um lembrete no celular ajuda."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Pisar na grama",
+      "linha2": "recém",
+      "destaque": "plantada",
+      "texto": "A grama está criando raízes novas, bem fininhas. Pisar agora quebra tudo. Espere de 20 a 30 dias.",
+      "nota": "Dá vontade, a gente entende."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Cortar a grama",
+      "linha2": "rente",
+      "destaque": "demais",
+      "texto": "No primeiro corte, deixe de 3 a 5 centímetros. Cortar careca deixa o sol queimar a raiz jovem.",
+      "nota": "Sem pressa, ela cresce."
+    },
+    {
+      "linha1": "Enfie o dedo",
+      "linha2": "na terra e",
+      "destaque": "sinta",
+      "texto": "Saiu seco? A grama está com sede. Saiu com muito barro? Diminua a água.",
+      "dica": "Com muito calor, regue de manhã cedo e no fim da tarde."
+    },
+    {
+      "linha1": "Depois de um",
+      "linha2": "mês, puxe",
+      "destaque": "uma folhinha",
+      "texto": "Se ela oferecer resistência, a grama pegou. Aí o seu gramado está firme.",
+      "dica": "Pra começar, tente um cantinho pequeno do quintal."
+    },
+    {
+      "tarja": "Fique de olho",
+      "linha1": "Corte baixo",
+      "linha2": "deixa o gramado",
+      "destaque": "ralo",
+      "texto": "Gramado ralo é sinal de corte errado, não de falta de jeito seu. Ajuste a altura e siga.",
+      "nota": "Errar faz parte."
+    },
+    {
+      "texto": "Cuide com calma e a grama devolve em verde. Salve este post para os primeiros 30 dias.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "Grama recém-plantada ainda não tem raiz funda, então nos primeiros 15 dias a rega é todos os dias.",
+      "pagina": 9,
+      "trecho": "Nos primeiros 15 dias, você deve regar todos os dias",
+      "fonte": "Tapete Verde: O Gramado Perfeito, p. 9"
+    },
+    {
+      "texto": "Com muito calor, o livro manda regar duas vezes: de manhã cedo e no fim da tarde.",
+      "pagina": 9,
+      "trecho": "Se estiver muito calor, regue de manhã cedo e no final da tarde",
+      "fonte": "Tapete Verde: O Gramado Perfeito, p. 9"
+    },
+    {
+      "texto": "Esquecer de regar no começo é um erro fatal: três dias de sol forte sem água podem matar o gramado novo.",
+      "pagina": 10,
+      "trecho": "Três dias de sol forte sem água podem matar um gramado recém-plantado",
+      "fonte": "Tapete Verde: O Gramado Perfeito, p. 10"
+    },
+    {
+      "texto": "Teste do dedo: se o dedo sair seco, a grama está com sede. Se sair com muito barro, diminua a água.",
+      "pagina": 9,
+      "trecho": "Se sair seco, a grama está passando sede",
+      "fonte": "Tapete Verde: O Gramado Perfeito, p. 9"
+    },
+    {
+      "texto": "Pisar cedo quebra os fiozinhos de raiz que a grama está criando. Evite pisar por 20 a 30 dias.",
+      "pagina": 9,
+      "trecho": "Se você pisa nela agora, você quebra esses dedos",
+      "fonte": "Tapete Verde: O Gramado Perfeito, p. 9"
+    },
+    {
+      "texto": "O prazo para não pisar é de pelo menos 20 a 30 dias.",
+      "pagina": 9,
+      "trecho": "Evite pisar por pelo menos 20 a 30 dias",
+      "fonte": "Tapete Verde: O Gramado Perfeito, p. 9"
+    },
+    {
+      "texto": "No primeiro corte, a grama deve ficar com uns 3 a 5 centímetros de altura.",
+      "pagina": 10,
+      "trecho": "Deixe a grama com uns 3 a 5 cm de altura",
+      "fonte": "Tapete Verde: O Gramado Perfeito, p. 10"
+    },
+    {
+      "texto": "Cortar rente demais deixa a raiz jovem exposta, e o sol queima.",
+      "pagina": 10,
+      "trecho": "o sol vai queimar a raiz que ainda é jovem",
+      "fonte": "Tapete Verde: O Gramado Perfeito, p. 10"
+    },
+    {
+      "texto": "Para saber se a grama pegou, puxe uma folhinha: se ela resistir, a raiz já agarrou.",
+      "pagina": 10,
+      "trecho": "se ela oferecer resistência, é porque",
+      "fonte": "Tapete Verde: O Gramado Perfeito, p. 10"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "fontes": [
+    "Tapete Verde: O Gramado Perfeito, p. 9",
+    "Tapete Verde: O Gramado Perfeito, p. 10"
+  ],
+  "materia": {
+    "slug": "grama-nova-primeiros-30-dias-sem-perder-o-gramado",
+    "titulo": "Grama nova: os 3 erros dos primeiros 30 dias",
+    "descricao": "Plantou grama e tem medo de perder? Veja os 3 erros dos primeiros 30 dias (rega, pisoteio e primeiro corte) e como evitar cada um com calma e sem gastar.",
+    "introducao": "Você preparou a terra, plantou a grama e agora vem a parte que dá um frio na barriga: será que ela vai pegar? Respire. Os primeiros 30 dias são os mais delicados, mas também são simples quando a gente sabe o que olhar. Neste texto, a gente conversa sobre os três erros mais comuns dessa fase: esquecer de regar, pisar cedo demais e cortar baixo demais. Tudo vem do ebook O Tapete Verde da Bondade, do André, sem receita complicada e sem culpa. Quem já viu um gramado secar sabe como dói, e é por isso que vale ir com calma, um dia de cada vez.",
+    "secoes": [
+      {
+        "titulo": "Erro 1: esquecer de regar no começo",
+        "paragrafos": [
+          "A grama recém-plantada ainda não tem raízes profundas. Ela depende totalmente de você. Por isso, nos primeiros 15 dias, o livro pede rega todos os dias. Parece muito, e é mesmo, mas é a fase em que a grama mais precisa de ajuda para se firmar no chão.",
+          "Se estiver muito calor, a dica é dividir: regar de manhã cedo e no final da tarde. E o aviso é sério, mas dito com carinho: três dias de sol forte sem água podem matar um gramado recém-plantado. Não é para ficar com medo, é para pôr um lembrete no celular."
+        ],
+        "fatosUsados": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "titulo": "Como saber se está regando do jeito certo",
+        "paragrafos": [
+          "O livro ensina um teste simples, o teste do dedo. Enfie o dedo na terra. Se ele sair seco, a grama está passando sede. Se sair com muito barro, diminua um pouco a água. Assim você não precisa adivinhar, a terra mostra o que ela quer.",
+          "Esse teste serve para os dois lados do erro. Tem quem esqueça de regar, e tem quem regue demais por ansiedade. O dedo ajuda nas duas situações, e leva poucos segundos."
+        ],
+        "fatosUsados": [
+          3
+        ]
+      },
+      {
+        "titulo": "Erro 2: pisar na grama nova",
+        "paragrafos": [
+          "O André conta assim: imagine que a grama está tentando criar dedinhos, que são as raízes, para agarrar o chão. Se você pisa nela agora, você quebra esses dedinhos. O livro pede para evitar pisar por pelo menos 20 a 30 dias.",
+          "Sabemos que dá vontade de caminhar descalço no tapete novo, ainda mais com criança e cachorro por perto. Se puder, deixe um caminho de tábuas ou outro trajeto por perto, e deixe a grama em paz por esse tempo. Depois de um mês, o livro diz que dá para testar: puxe uma folhinha. Se ela oferecer resistência, é porque pegou."
+        ],
+        "fatosUsados": [
+          4,
+          5,
+          8
+        ]
+      },
+      {
+        "titulo": "Erro 3: cortar a grama muito baixo",
+        "paragrafos": [
+          "Chegou a hora do primeiro corte e a vontade é deixar tudo rente, bem limpinho. Só que o livro avisa: nunca corte muito baixo. Deixe a grama com uns 3 a 5 centímetros de altura. Se cortar careca, o sol vai queimar a raiz, que ainda é jovem.",
+          "Também não precisa ter pressa. O livro pede para esperar a grama crescer bem antes do primeiro corte. Um gramado ralo, aliás, costuma ser sinal de corte errado, e não de falta de jeito seu."
+        ],
+        "fatosUsados": [
+          6,
+          7
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Por quantos dias devo regar a grama nova todos os dias?",
+        "resposta": "O livro pede rega diária nos primeiros 15 dias. Depois disso, ele não dá um número fixo de vezes por semana. Use o teste do dedo e observe a terra."
+      },
+      {
+        "pergunta": "Quanto tempo preciso esperar para pisar no gramado?",
+        "resposta": "O livro pede para evitar pisar por pelo menos 20 a 30 dias, para as raízes novas não quebrarem."
+      },
+      {
+        "pergunta": "Qual a altura certa no primeiro corte?",
+        "resposta": "Deixe a grama com uns 3 a 5 centímetros de altura. Cortar rente demais deixa a raiz jovem sujeita a queimar no sol."
+      }
+    ],
+    "conclusao": "Os primeiros 30 dias pedem três gestos simples: regar todos os dias no começo, não pisar e cortar sem pressa e sem deixar a grama careca. Faça o teste do dedo, tenha paciência com as raízes novas e perdoe a si mesmo se algo falhar. Grama dá para replantar, e o aprendizado fica. Salve este texto para a próxima vez que bater a dúvida e conte para quem também está começando um gramado. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

@@ -1,0 +1,14 @@
+{
+ "livro": "TG L10 refaz arb-sintoma-1",
+ "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+ "fotos": [
+  {
+   "id": "arb-sintoma-1",
+   "especie": "abutilon leaf with whitefly",
+   "proporcao": "9:16",
+   "elenco": false,
+   "cena": "Abutilon shrub leaf turned over in a garden, its underside dotted with a few tiny white specks of whitefly, slightly yellowed leaf",
+   "mascote": false
+  }
+ ]
+}

@@ -1,0 +1,439 @@
+{
+ "codigo": "TG084",
+ "slug": "arvore-na-cidade",
+ "titulo": "Árvore na Cidade",
+ "capa": {
+  "src": "/guias/arvore-na-cidade/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Árvore na Cidade"
+ },
+ "meta": {
+  "titulo": "Árvore na cidade: guia grátis de poda",
+  "descricao": "Como plantar ipê, quaresmeira e outras árvores na terra, com buraco certo, poda de formação e cuidado com a espirradeira. Livro grátis com PDF para baixar.",
+  "pdf": "TG084.pdf",
+  "atualizado": "2026-11-14"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t084",
+    "COLEÇÃO TERRA GENTIL",
+    "IPÊ",
+    "Árvore na Cidade",
+    "Sombra e flor na frente de casa.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arvore-na-cidade/jabuticabeira-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 164,
+     "alt": "André ao lado de uma árvore jovem"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Na cidade, a árvore faz sombra.",
+    "E a raiz segura a água da chuva.",
+    "Aqui tem ipê, poda, cuidado e mais árvores.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Olhe as árvores que crescem na sua rua.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arvore-na-cidade/jabuticabeira-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 161,
+     "alt": "André olhando a copa de uma árvore"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Ipê na terra, não no vaso.",
+    "No vaso ele dificilmente floresce.",
+    "PACIÊNCIA",
+    "A flor vem perto dos 3 metros.",
+    "Luz plena e terra que escoe."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do ipê",
+    "06",
+    "CAPÍTULO 1",
+    "Luz e espaço",
+    "08",
+    "CAPÍTULO 2",
+    "Plantar e podar",
+    "12",
+    "CAPÍTULO 3",
+    "Flor e cuidado",
+    "15",
+    "CAPÍTULO 4",
+    "Árvores de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Pinhão que não nasceu? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO IPÊ",
+    "Antes de plantar",
+    "O que ele pede",
+    "LUZ",
+    "Plena",
+    "TERRA",
+    "Fértil, que escoe",
+    "REGA",
+    "Sem deixar secar",
+    "PODA",
+    "Só de formação",
+    "MUDA",
+    "Semente ou estaca",
+    "FLOR\tATENÇÃO",
+    "Só perto dos 3 metros"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Luz e espaço",
+    "01\tCerto e errado",
+    "02\tMuda na terra, passo a passo",
+    "03\tPinhão que não nasceu"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arvore-na-cidade/limoeiro-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André regando uma árvore jovem"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Ipê\tNa terra\tNo vaso",
+    "Caule da muda\tNo mesmo nível\tMais fundo",
+    "Árvore em vaso\tRegar com chuva\tSó esperar chuva",
+    "Raiz ao mudar\tLarga como a copa\tCurta",
+    "A raiz vai longe: da metade à altura toda da árvore.",
+    "DICA DO ANDRÉ",
+    "O que cresce bem na sua rua mostra o que o solo aguenta."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Plantar e podar",
+    "01\tMuda na terra, passo a passo",
+    "02\tPoda certa",
+    "03\tPinhão que não nasceu"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arvore-na-cidade/coringa-podar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André com a tesoura de poda na mão"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Muda na terra? Faça assim.",
+    "BURACO",
+    "Maior que o vaso",
+    "FUNDO",
+    "Com composto",
+    "CAULE",
+    "No mesmo nível",
+    "1",
+    "CAVE",
+    "Mais largo e fundo que o vaso.",
+    "2",
+    "MOLHE",
+    "Composto e água no buraco.",
+    "3",
+    "PLANTE",
+    "Sem enterrar o caule.",
+    "DICA DO ANDRÉ",
+    "Ipê novo só pede poda de formação."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arvore-na-cidade/ipe-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 298,
+     "alt": "Mãos cavando um buraco largo na terra"
+    },
+    {
+     "src": "/guias/arvore-na-cidade/ipe-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 273,
+     "alt": "Mãos pondo composto e água no fundo do buraco"
+    },
+    {
+     "src": "/guias/arvore-na-cidade/ipe-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 291,
+     "alt": "Mãos assentando a muda de ipê no buraco"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · PODA",
+    "Poda certa",
+    "Tecoma: uma poda por ano, depois da flor.",
+    "Quaresmeira: deixe 2 pares de gemas.",
+    "Resedá: corte o ramo do ano pela metade.",
+    "Cássia aguenta poda, mas fica linda livre.",
+    "Pata-de-vaca: desbaste os galhos embolados."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Pinhão que não nasceu?",
+    "1",
+    "O QUE PARECE",
+    "Semente ruim.",
+    "O QUE PODE SER",
+    "Pinhão que secou.",
+    "COMO RESOLVER",
+    "Plante o pinhão fresco."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arvore-na-cidade/ipe-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 289,
+     "alt": "Pinhões secos e enrugados num vaso de terra sem broto"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Flor e cuidado",
+    "01\tResedá",
+    "02\tEspirradeira",
+    "03\tÁrvores de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arvore-na-cidade/buganvilia-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 157,
+     "alt": "André perto de uma árvore florida"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · RESEDÁ",
+    "Resedá",
+    "LUZ",
+    "Plena",
+    "FLOR",
+    "No verão",
+    "O QUE ELE PEDE",
+    "Terra fértil, que escoe",
+    "No vaso rega farta quando cresce",
+    "Poda forte, uma vez por ano",
+    "Flor rosa, vermelha ou branca",
+    "Repare",
+    "Tronco descasca",
+    "Cápsulas ficam meses no galho"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · CUIDADO",
+    "ATENÇÃO",
+    "Toda a espirradeira é muito tóxica se comida.",
+    "A folha dela também irrita a pele.",
+    "Folha e flor intoxicam o cão solto no quintal.",
+    "FAÇA ASSIM",
+    "Nada de espirradeira na cerca do cão.",
+    "Grevílea pode piorar alergia de pele."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro árvores",
+    "1",
+    "Quaresmeira",
+    "Terra neutra a ácida.",
+    "2",
+    "Cássia",
+    "Cacho amarelo perfumado.",
+    "3",
+    "Pata-de-vaca",
+    "Flor que lembra orquídea.",
+    "4",
+    "Magnólia",
+    "Algumas florescem sem folha.",
+    "CHAVE\tLuz plena\tTerra que escoe"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arvore-na-cidade/ipe-var-quaresmeira.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 272,
+     "alt": "Quaresmeira florida de roxo"
+    },
+    {
+     "src": "/guias/arvore-na-cidade/ipe-var-cassia.webp",
+     "largura": 800,
+     "altura": 1071,
+     "kb": 253,
+     "alt": "Cássia-fístula com cachos de flor amarela"
+    },
+    {
+     "src": "/guias/arvore-na-cidade/ipe-var-pata-de-vaca.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 274,
+     "alt": "Flor rosa da pata-de-vaca"
+    },
+    {
+     "src": "/guias/arvore-na-cidade/ipe-var-magnolia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 287,
+     "alt": "Galho de magnólia só de flor"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "TECOMA COM PRAGA",
+    "Olhe se é ácaro.",
+    "MURTA COM PRAGA",
+    "Pode ser mosca-branca.",
+    "QUARESMEIRA RALA",
+    "Belisque a ponta.",
+    "TECOMA CRESCEU DEMAIS",
+    "Uma poda por ano.",
+    "DICA DO ANDRÉ",
+    "Magnólia cresce devagar: escolha bem o tipo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "60",
+    "CM",
+    "pode ter a vagem marrom da cássia-fístula.",
+    "E cachos de flor amarela perfumada.",
+    "E MAIS UMA",
+    "A magnólia é mais velha que as abelhas: quem poliniza é besouro."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Ipê na terra, não no vaso",
+    "Buraco maior que o vaso",
+    "Caule no mesmo nível",
+    "Árvore em vaso: regue com chuva",
+    "Resedá: poda forte uma vez por ano",
+    "Quaresmeira: 2 pares de gemas",
+    "Pinhão plantado fresco",
+    "Espirradeira longe do cão",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua muda de árvore pegar na terra, me conta. E divide uma semente com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "084\tVOCÊ TEM",
+    "085",
+    "086",
+    "087",
+    "088",
+    "089",
+    "São 84 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 085 JARDIM DE BORBOLETA",
+    "Comente BORBOLETA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arvore-na-cidade/jabuticabeira-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 116,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

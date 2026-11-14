@@ -1,0 +1,439 @@
+{
+ "codigo": "TG086",
+ "slug": "flores-no-frio",
+ "titulo": "Flores no Frio",
+ "capa": {
+  "src": "/guias/flores-no-frio/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Flores no Frio"
+ },
+ "meta": {
+  "titulo": "Flores no frio: guia grátis de rega e muda",
+  "descricao": "Como cuidar de kalanchoe, flor-de-maio, camélia e crisântemo no frio, com pouca água, luz, adubo e muda de estaca. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG086.pdf",
+  "atualizado": "2026-11-14"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t086",
+    "COLEÇÃO TERRA GENTIL",
+    "INVERNO",
+    "Flores no Frio",
+    "Camélia, kalanchoe e flor-de-maio.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-no-frio/kalanchoe-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 115,
+     "alt": "André com um vaso de kalanchoe florida"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Camélia, kalanchoe e flor-de-maio no vaso.",
+    "No frio, a kalanchoe quer pouca água.",
+    "Aqui tem rega, muda, cuidado e flores de perto.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Escolha uma planta com muito botão.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-no-frio/kalanchoe-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 141,
+     "alt": "André olhando os botões de uma planta de flor"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Pouca água no frio.",
+    "Kalanchoe e coroa-de-cristo agradecem.",
+    "BOTÃO",
+    "Compre a planta com botão por abrir.",
+    "Terra que escoe bem."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da kalanchoe",
+    "06",
+    "CAPÍTULO 1",
+    "Rega e luz",
+    "08",
+    "CAPÍTULO 2",
+    "Mudas de graça",
+    "12",
+    "CAPÍTULO 3",
+    "Cuidado no vaso",
+    "15",
+    "CAPÍTULO 4",
+    "Flores de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Camélia com bichinho? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA KALANCHOE",
+    "Antes de plantar",
+    "O que ela pede",
+    "LUZ",
+    "Sol ou meia-sombra",
+    "TERRA",
+    "Que escoe bem",
+    "REGA",
+    "Molhe e deixe secar",
+    "FRIO",
+    "Água pouca",
+    "ADUBO",
+    "Desde o botão com cor",
+    "DE FLORICULTURA\tATENÇÃO",
+    "Prefere meia-sombra"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Rega e luz",
+    "01\tCerto e errado",
+    "02\tMuda de flor-de-maio, passo a passo",
+    "03\tCamélia com bichinho"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-no-frio/coringa-regar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 182,
+     "alt": "André regando um vaso de flor"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Kalanchoe no frio\tPouca água\tRega farta",
+    "Bico-de-papagaio\tTerra úmida\tEncharcada",
+    "Coroa no frio\tQuase seca\tEncharcada",
+    "Cravo\tLugar aberto\tCanto fechado",
+    "Camélia vai bem abrigada, encostada no muro.",
+    "DICA DO ANDRÉ",
+    "Toda florida, a planta dura pouco."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Mudas de graça",
+    "01\tMuda de flor-de-maio, passo a passo",
+    "02\tKalanchoe e cia.",
+    "03\tCamélia com bichinho"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-no-frio/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André separando galhos para fazer muda"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Muda de flor-de-maio? Faça assim.",
+    "ESTACA",
+    "2 ou 3 gomos",
+    "TERRA",
+    "Turfa e areia grossa",
+    "FLOR",
+    "Em um ano",
+    "1",
+    "CORTE",
+    "Uma estaca de 2 ou 3 gomos.",
+    "2",
+    "SEQUE",
+    "Deixe o corte secar.",
+    "3",
+    "PLANTE",
+    "Na turfa com areia grossa.",
+    "DICA DO ANDRÉ",
+    "Duas estacas costas com costas: vaso cheio."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-no-frio/inv-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 153,
+     "alt": "Mãos separando uma estaca de 2 ou 3 gomos de flor-de-maio"
+    },
+    {
+     "src": "/guias/flores-no-frio/inv-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 108,
+     "alt": "Mãos deixando as estacas de flor-de-maio secarem sobre um papel"
+    },
+    {
+     "src": "/guias/flores-no-frio/inv-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 150,
+     "alt": "Mãos plantando duas estacas de flor-de-maio costas com costas num vaso"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MUDA",
+    "Kalanchoe e cia.",
+    "Kalanchoe: estaca seca 24 horas antes.",
+    "Aranto: aperte o filhotinho da folha na terra.",
+    "Coroa-de-cristo: deixe a ponta secar.",
+    "Eufórbia: corte na água, o leite para.",
+    "Crisântemo: broto de 5 a 8 cm da base."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Camélia com bichinho?",
+    "1",
+    "O QUE PARECE",
+    "Planta fraca.",
+    "O QUE PODE SER",
+    "Pulgão, tripes ou cochonilha.",
+    "COMO RESOLVER",
+    "Saia do lugar fechado; no pulgão, jato de água."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-no-frio/inv-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 113,
+     "alt": "Folhas de camélia com pulgão e cochonilha num canto fechado"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Cuidado no vaso",
+    "01\tFlor-de-maio",
+    "02\tLeite da eufórbia",
+    "03\tFlores de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-no-frio/kalanchoe-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 156,
+     "alt": "André olhando um vaso de flor de perto"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · VASO",
+    "Flor-de-maio",
+    "LUZ",
+    "Meia-sombra",
+    "TERRA",
+    "Rica, que escoe",
+    "O QUE ELA PEDE",
+    "Água pouca antes do botão",
+    "Botão apareceu, mais água",
+    "Adubo líquido fraco a cada 10 a 14 dias",
+    "Vaso novo todo ano, depois da flor",
+    "Cuidado",
+    "Depois da flor menos água de novo",
+    "Semente só cruzada com outra planta"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · LEITE",
+    "ATENÇÃO",
+    "O leite das eufórbias irrita a pele.",
+    "A planta faz muito mal se for comida.",
+    "Néctar de algumas azaleias também faz mal.",
+    "FAÇA ASSIM",
+    "Estaca de eufórbia: corte na água.",
+    "Coroa-de-cristo: deixe a ponta secar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro flores",
+    "1",
+    "Camélia",
+    "Pode virar árvore de 10 m.",
+    "2",
+    "Crisântemo-pompom",
+    "50 ou mais flores por pé.",
+    "3",
+    "Bico-de-papagaio",
+    "O vermelho são brácteas.",
+    "4",
+    "Coroa-de-cristo",
+    "Flor de vez em quando, o ano todo.",
+    "CHAVE\tMuito botão\tPor abrir"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-no-frio/inv-var-camelia.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 276,
+     "alt": "Camélia de flor dobrada vermelha"
+    },
+    {
+     "src": "/guias/flores-no-frio/inv-var-crisantemo.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 193,
+     "alt": "Crisântemo-pompom baixinho cheio de flores redondas"
+    },
+    {
+     "src": "/guias/flores-no-frio/inv-var-bico-de-papagaio.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 281,
+     "alt": "Bico-de-papagaio de brácteas vermelhas num vaso"
+    },
+    {
+     "src": "/guias/flores-no-frio/inv-var-coroa-de-cristo.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 223,
+     "alt": "Coroa-de-cristo com espinhos e flores vermelhas"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "CRAVO PAROU",
+    "Tire a flor murcha.",
+    "CRISÂNTEMO RALO",
+    "Belisque a ponta.",
+    "BICO CRESCEU",
+    "Acabou o produto do viveiro.",
+    "KALANCHOE ENORME",
+    "Troque por um filhote.",
+    "DICA DO ANDRÉ",
+    "Crisântemo alto pede tutor."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "6",
+    "TIPOS",
+    "de flor tem a camélia, da simples à dobrada formal.",
+    "No meio, semidobrada, anêmona, peônia e rosa.",
+    "E MAIS UMA",
+    "Chá verde e chá preto vêm da mesma camélia, a Camellia sinensis."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Kalanchoe com pouca água no frio",
+    "Planta com muito botão por abrir",
+    "Camélia abrigada junto ao muro",
+    "Estaca de flor-de-maio, 2 ou 3 gomos",
+    "Mais água quando vier o botão",
+    "Leite da eufórbia longe da pele",
+    "Flor murcha do cravo fora",
+    "Ponta do crisântemo beliscada",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua flor-de-maio encher de botão, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "086\tVOCÊ TEM",
+    "087",
+    "088",
+    "089",
+    "090",
+    "091",
+    "São 86 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 087 TOMATE CEREJA",
+    "Comente CEREJA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/flores-no-frio/kalanchoe-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 104,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

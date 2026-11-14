@@ -1,0 +1,439 @@
+{
+ "codigo": "TG094",
+ "slug": "alporquia-e-mergulhia",
+ "titulo": "Alporquia e Mergulhia",
+ "capa": {
+  "src": "/guias/alporquia-e-mergulhia/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Alporquia e Mergulhia"
+ },
+ "meta": {
+  "titulo": "Alporquia e mergulhia: guia grátis de muda",
+  "descricao": "Como fazer muda por alporquia, mergulhia e estaca, com anel de casca, musgo úmido e plástico preto, passo a passo. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG094.pdf",
+  "atualizado": "2026-11-14"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t094",
+    "COLEÇÃO TERRA GENTIL",
+    "ALPORQUIA",
+    "Alporquia e Mergulhia",
+    "Alporquia, mergulhia e estaca.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/alporquia-e-mergulhia/jabuticabeira-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 164,
+     "alt": "André junto de uma árvore no quintal"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Alporquia é a mergulhia feita no alto.",
+    "Galho de 1 a 2 anos solta raiz mais fácil.",
+    "Aqui tem alporquia, mergulhia, estaca e muda.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Escolha um galho reto para a alporquia.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/alporquia-e-mergulhia/jabuticabeira-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 161,
+     "alt": "André olhando os galhos de uma planta"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Anel de casca e musgo úmido.",
+    "Serve quando o galho não desce ao chão.",
+    "RAIZ",
+    "Abra o plástico de vez em quando para ver.",
+    "Paciência: até um ano."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da alporquia",
+    "06",
+    "CAPÍTULO 1",
+    "Galho e raiz",
+    "08",
+    "CAPÍTULO 2",
+    "Alporquia",
+    "12",
+    "CAPÍTULO 3",
+    "Muda que pega",
+    "15",
+    "CAPÍTULO 4",
+    "Outros jeitos",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Muda tombou? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA ALPORQUIA",
+    "Antes de cortar",
+    "O que ela pede",
+    "GALHO",
+    "De 1 a 2 anos",
+    "ANEL",
+    "0,5 a 1,2 cm",
+    "MUSGO",
+    "Úmido",
+    "PLÁSTICO",
+    "Preto, amarrado",
+    "RAIZ",
+    "Em até um ano",
+    "NO GALHO\tATENÇÃO",
+    "Plástico preto evita limo"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Galho e raiz",
+    "01\tCerto e errado",
+    "02\tAlporquia, passo a passo",
+    "03\tMuda que tomba"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/alporquia-e-mergulhia/coringa-podar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André escolhendo um galho na planta"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Capa da alporquia\tPreto ou alumínio\tCom limo",
+    "Raiz enrolada\tSolte com cuidado\tPlantar assim",
+    "Pegar a muda\tPela folha\tPelo caule",
+    "Muda para fora\tAclimatar antes\tDireto",
+    "Aclimatar leva de 2 a 3 semanas e não dá para apressar.",
+    "DICA DO ANDRÉ",
+    "Firme a terra de lado contra a raiz."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Alporquia",
+    "01\tAlporquia, passo a passo",
+    "02\tMergulhia no chão",
+    "03\tMuda que tomba"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/alporquia-e-mergulhia/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André preparando musgo e plástico para a muda"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Alporquia? Faça assim.",
+    "CAULE",
+    "30 cm limpo",
+    "ANEL",
+    "0,5 a 1,2 cm",
+    "MUSGO",
+    "Úmido, no plástico",
+    "1",
+    "LIMPE",
+    "Tire as folhas de 30 cm do galho.",
+    "2",
+    "ANEL",
+    "Tire um anel de casca em volta.",
+    "3",
+    "ENVOLVA",
+    "Musgo úmido e plástico preto.",
+    "DICA DO ANDRÉ",
+    "Com raiz, corte abaixo do anel e plante."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/alporquia-e-mergulhia/alp-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 233,
+     "alt": "Mãos tirando as folhas de um galho reto"
+    },
+    {
+     "src": "/guias/alporquia-e-mergulhia/alp-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 147,
+     "alt": "Mãos tirando um anel de casca em volta do galho"
+    },
+    {
+     "src": "/guias/alporquia-e-mergulhia/alp-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 203,
+     "alt": "Mãos amarrando o plástico preto com musgo em volta do corte"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MERGULHIA",
+    "Mergulhia no chão",
+    "Enterre um vaso com terra perto da planta.",
+    "Deite um ramo baixo por cima do vaso.",
+    "Corte embaixo do ramo, entre duas folhas.",
+    "Prenda no vaso com arame em U.",
+    "Pegou raiz? Corte o ramo perto da mãe."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Muda que tomba?",
+    "1",
+    "O QUE PARECE",
+    "Anel marrom no pé do caule.",
+    "O QUE PODE SER",
+    "Fungo do tombamento.",
+    "COMO RESOLVER",
+    "Substrato novo e sementeira arejada."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/alporquia-e-mergulhia/alp-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 236,
+     "alt": "Mudinhas tombadas com anel marrom no pé do caule"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Muda que pega",
+    "01\tEstaca abafada",
+    "02\tClone e doença",
+    "03\tOutros jeitos"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/alporquia-e-mergulhia/coringa-muda-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André olhando um vaso de estacas"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · ESTACA",
+    "Estaca abafada",
+    "SACO",
+    "Plástico, com elástico",
+    "FOLHAS",
+    "Sem encostar",
+    "O QUE ELA PEDE",
+    "Saco preso no vaso com elástico",
+    "Folha sem encostar no plástico",
+    "Enraizador um pouco numa tampinha",
+    "Sobra fora, para não sujar o vidro",
+    "Cuidado",
+    "Sálvia enraíza fácil de estaca",
+    "Hortelã e a família dela também"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · CLONE",
+    "ATENÇÃO",
+    "Planta toda igual pega a mesma doença.",
+    "O olmo inglês, de poucos clones, morreu em massa.",
+    "Muda de broto sai igualzinha à mãe.",
+    "FAÇA ASSIM",
+    "Virose? Arranque a planta doente.",
+    "Depois, desinfete a ferramenta."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Outros jeitos",
+    "1",
+    "Mergulhia em série",
+    "Vários cortes, várias mudas.",
+    "2",
+    "Divisão de touceira",
+    "Mais garantida que semente.",
+    "3",
+    "Violeta",
+    "A família dela pega de folha.",
+    "4",
+    "Saxífraga",
+    "Filhote preso no vaso ao lado.",
+    "CHAVE\tRaiz\tAntes de cortar"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/alporquia-e-mergulhia/alp-var-mergulhia.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 277,
+     "alt": "Ramo baixo preso na terra em vários pontos"
+    },
+    {
+     "src": "/guias/alporquia-e-mergulhia/alp-var-touceira.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 292,
+     "alt": "Touceira dividida em pedaços com raiz"
+    },
+    {
+     "src": "/guias/alporquia-e-mergulhia/alp-var-violeta.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 178,
+     "alt": "Folha de violeta enraizando num vasinho"
+    },
+    {
+     "src": "/guias/alporquia-e-mergulhia/alp-var-saxifraga.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 226,
+     "alt": "Filhote de saxífraga preso num vaso ao lado da mãe"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "MUDA ESPICHADA",
+    "Gire o vaso a cada poucos dias.",
+    "RAIZ ENROLADA",
+    "Desembarace antes de plantar.",
+    "MUDA NO VENTO",
+    "Quebra-vento do lado dele.",
+    "ÁGUA ESCORRE",
+    "Terra em volta como bacia.",
+    "DICA DO ANDRÉ",
+    "Papelão branco atrás da muda devolve a luz."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "80",
+    "CM",
+    "pode medir a rafflésia, a maior flor do mundo.",
+    "Ela não tem folha e nasce da raiz de outra planta.",
+    "E MAIS UMA",
+    "A palmeira talipot floresce uma vez só e depois morre."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Galho reto de 1 a 2 anos escolhido",
+    "Anel de casca de 0,5 a 1,2 cm",
+    "Musgo úmido no plástico preto",
+    "Plástico aberto de vez em quando",
+    "Ramo baixo preso no vaso com arame",
+    "Estacas abafadas no saco plástico",
+    "Muda aclimatada antes de ir para fora",
+    "Vaso girado a cada poucos dias",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua alporquia soltar raiz, me conta. E divide a muda com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "094\tVOCÊ TEM",
+    "095",
+    "096",
+    "097",
+    "098",
+    "099",
+    "São 94 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 095 COMEDOURO E NINHO",
+    "Comente NINHO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/alporquia-e-mergulhia/jabuticabeira-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 116,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

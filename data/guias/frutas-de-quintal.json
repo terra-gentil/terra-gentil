@@ -1,0 +1,439 @@
+{
+ "codigo": "TG076",
+ "slug": "frutas-de-quintal",
+ "titulo": "Frutas de Quintal",
+ "capa": {
+  "src": "/guias/frutas-de-quintal/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Frutas de Quintal"
+ },
+ "meta": {
+  "titulo": "Frutas de quintal: guia grátis de muda",
+  "descricao": "Como plantar maracujá, uva, amora e pitaia no quintal, com sol, suporte e muda de estaca ou de semente. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG076.pdf",
+  "atualizado": "2026-11-14"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t076",
+    "COLEÇÃO TERRA GENTIL",
+    "MARACUJÁ",
+    "Frutas de Quintal",
+    "Maracujá, uva, amora e pitaia.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/frutas-de-quintal/coringa-horta-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André ao lado de um pé de maracujá no muro"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Maracujá e uva sobem e dão fruta.",
+    "E o maracujá pega fácil de estaca.",
+    "Aqui tem suporte, muda e frutas de perto.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache um muro ou cerca com sol.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/frutas-de-quintal/coringa-horta-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 192,
+     "alt": "André olhando uma cerca no quintal"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Dê um suporte para subir.",
+    "A videira sobe por gavinha.",
+    "SOL",
+    "Maracujá no sol ou na meia-sombra.",
+    "Videira no sol, em lugar abrigado."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do maracujá",
+    "06",
+    "CAPÍTULO 1",
+    "Sol e suporte",
+    "08",
+    "CAPÍTULO 2",
+    "Mudas de graça",
+    "12",
+    "CAPÍTULO 3",
+    "Uva na parreira",
+    "15",
+    "CAPÍTULO 4",
+    "Frutas de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Maracujá novo sem fruta? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO MARACUJÁ",
+    "Antes de plantar",
+    "O que ele pede",
+    "LUZ",
+    "Sol ou meia-sombra",
+    "TERRA",
+    "Fértil, que escoe",
+    "REGA",
+    "Boa, quando cresce",
+    "SUPORTE",
+    "Sempre",
+    "MUDA",
+    "Estaca de ramo verde",
+    "FRUTO\tATENÇÃO",
+    "Fartura depois de 3 anos"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Sol e suporte",
+    "01\tCerto e errado",
+    "02\tSemente de maracujá, passo a passo",
+    "03\tMaracujá sem fruta"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/frutas-de-quintal/coringa-podar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André prendendo um ramo de trepadeira no suporte"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Ramos do maracujá\tDesbaste\tEmbolados",
+    "Terra\tQue escoe\tEncharcada",
+    "Videira\tAbrigada\tNo vento",
+    "Tutor\tCinco varas ou mais\tUma vara só",
+    "Folha nova de uva se come recheada, como charutinho.",
+    "DICA DO ANDRÉ",
+    "Guarda-sol velho sem pano vira caramanchão de parreira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Mudas de graça",
+    "01\tSemente de maracujá, passo a passo",
+    "02\tEstacas que pegam",
+    "03\tMaracujá sem fruta"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/frutas-de-quintal/coringa-muda-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 118,
+     "alt": "André separando sementes para fazer muda"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Semente de maracujá? Faça assim.",
+    "FRUTO",
+    "14 dias guardado",
+    "POLPA",
+    "3 dias fermentando",
+    "MOLHO",
+    "24 horas",
+    "1",
+    "GUARDE",
+    "O fruto maduro por 14 dias.",
+    "2",
+    "FERMENTE",
+    "A polpa amassada, por 3 dias.",
+    "3",
+    "AMOLEÇA",
+    "Lave, seque e deixe em água quente.",
+    "DICA DO ANDRÉ",
+    "A fermentação mata o fusário."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/frutas-de-quintal/mar-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 198,
+     "alt": "Mãos segurando um maracujá maduro e enrugado"
+    },
+    {
+     "src": "/guias/frutas-de-quintal/mar-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 238,
+     "alt": "Mãos amassando a polpa de maracujá num pote de vidro"
+    },
+    {
+     "src": "/guias/frutas-de-quintal/mar-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 153,
+     "alt": "Mãos pondo sementes de maracujá numa tigela de água quente"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MUDA",
+    "Estacas que pegam",
+    "Maracujá: ramo verde, raiz em 3 a 4 semanas.",
+    "Uva: 8 cm de ramo fino, com três nós.",
+    "Amora: até galho grosso, direto no chão.",
+    "Pitaia: 6 a 10 cm do caule.",
+    "Faça uma estaca de cada vez."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Maracujá novo sem fruta?",
+    "1",
+    "O QUE PARECE",
+    "Planta com defeito.",
+    "O QUE PODE SER",
+    "Pouca idade.",
+    "COMO RESOLVER",
+    "Paciência: a fartura vem depois de 3 anos."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/frutas-de-quintal/mar-sintoma-1.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 265,
+     "alt": "Pé novo de maracujá cheio de folha e sem nenhum fruto"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Uva na parreira",
+    "01\tA videira",
+    "02\tSemente ou estaca",
+    "03\tFrutas de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/frutas-de-quintal/coringa-podar-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 210,
+     "alt": "André olhando os ramos de uma parreira"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · UVA",
+    "A videira",
+    "LUZ",
+    "Sol",
+    "LUGAR",
+    "Abrigado",
+    "O QUE ELA PEDE",
+    "Gavinha para subir no suporte",
+    "Estaca\t8 cm, com três nós",
+    "Raiz em umas quatro semanas",
+    "Enxerto força e resistência a praga",
+    "Cuidado",
+    "Estaca lenhosa confira o meio verde",
+    "Pedra branca embaixo apressa a uva"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · SEMENTE",
+    "ATENÇÃO",
+    "Semente mistura os pais e pode sair diferente.",
+    "Estaca dá planta igual à mãe.",
+    "Pitaia de semente leva de 5 a 10 anos para florir.",
+    "FAÇA ASSIM",
+    "Quer igual à mãe? Faça estaca.",
+    "Abacate de caroço sai quase igual à mãe."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro frutas",
+    "1",
+    "Maracujá-azul",
+    "Flor branca com fios roxos e azuis.",
+    "2",
+    "Maracujá-doce",
+    "Caule quadrado e flor perfumada.",
+    "3",
+    "Amora-preta",
+    "Dá fruto no ramo de dois anos.",
+    "4",
+    "Pitaia",
+    "A flor grande é a rainha-da-noite.",
+    "CHAVE\tSol e suporte\tEstaca sai igual"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/frutas-de-quintal/mar-var-azul.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 251,
+     "alt": "Flor de maracujá-azul branca com fios roxos e azuis"
+    },
+    {
+     "src": "/guias/frutas-de-quintal/mar-var-doce.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 284,
+     "alt": "Maracujá-doce com flor perfumada no ramo"
+    },
+    {
+     "src": "/guias/frutas-de-quintal/mar-var-amora.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 295,
+     "alt": "Ramo de amora-preta com frutos maduros"
+    },
+    {
+     "src": "/guias/frutas-de-quintal/mar-var-pitaia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 200,
+     "alt": "Flor grande e branca de pitaia aberta"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "RAMO EMBOLADO",
+    "Maracujá: desbaste.",
+    "VARA QUE JÁ DEU",
+    "Amora: corte rente ao chão.",
+    "FOLHA VERMELHA",
+    "Abacaxi no sol forte: normal.",
+    "FRUTO SEM GRAÇA",
+    "Maracujá-azul é assim mesmo.",
+    "DICA DO ANDRÉ",
+    "Maracujá-azul vai bem em vaso, encostado no muro."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "7",
+    "ANOS",
+    "pode levar a amoreira-preta para começar a dar fruta.",
+    "Mas depois dá muito, por anos.",
+    "E MAIS UMA",
+    "O abacaxi é uma bromélia."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Maracujá no sol ou meia-sombra",
+    "Suporte para subir",
+    "Desbaste os ramos embolados",
+    "Polpa 3 dias fermentando",
+    "Semente em água quente",
+    "Estaca de uva com três nós",
+    "Paciência: fartura em 3 anos",
+    "Tutor de cinco varas ou mais",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a sua semente de maracujá brotar, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "076\tVOCÊ TEM",
+    "077",
+    "078",
+    "079",
+    "080",
+    "081",
+    "São 76 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 077 CACTOS DE COLEÇÃO",
+    "Comente MANDACARU no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/frutas-de-quintal/coringa-horta-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 137,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

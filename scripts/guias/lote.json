@@ -113,8 +113,14 @@
  ["TG122", "bulbos-e-dalias", "Bulbos e dálias: guia grátis de plantio", "Como plantar bulbo em vaso e canteiro, cuidar de dália, lírio e outros bulbos, e conhecer cada um de perto."],
  ["TG123", "arbustos-floridos", "Arbustos floridos: guia grátis de poda e flor", "Como podar e plantar arbusto em vaso, ajustar terra e cor, e cuidar de hortênsia, azaleia e camélia."],
  ["TG124", "horta-diferente", "Horta diferente: guia grátis de planta nova", "Como evitar erros comuns e plantar raiz, talo, folha, flor e fruta fora do comum, com ervas e frutinhas novas."],
- ["TG125", "horta-em-pouco-espaco", "Horta em pouco espaço: guia grátis", "Como fazer horta em pouco espaço, com vaso e terra certos, luz e rega, parede e palete, até a colheita."],
+ ["TG125", "horta-em-pouco-espaco", "Espaço para horta: guia grátis", "Como fazer horta em pouco espaço, com vaso e terra certos, luz e rega, parede e palete, até a colheita."],
  ["TG126", "desenho-do-jardim", "Desenho do jardim: guia grátis de projeto", "Como desenhar o jardim com canteiro e piso, ler sol e solo, planejar água e árvore e escolher as plantas."],
  ["TG127", "folha-colorida", "Folha colorida: guia grátis de folhagem", "Como cuidar de folha pintada, begônia, maranta, peperômia e folha variegada, e olhar cada folha de perto."],
- ["TG128", "ervas-de-cozinha", "Ervas de cozinha: guia grátis de plantio", "Como plantar erva de cozinha no lugar e na terra certos, passo a passo, colher sem machucar e fazer muda."]
+ ["TG128", "ervas-de-cozinha", "Ervas de cozinha: guia grátis de plantio", "Como plantar erva de cozinha no lugar e na terra certos, passo a passo, colher sem machucar e fazer muda."],
+ ["TG073", "folhagem-de-sombra", "Folhagem de sombra: guia grátis de ar úmido", "Como cuidar de avenca, maranta, peperômia e tilândsia, com sombra, ar úmido, rega certa e mudas de graça."],
+ ["TG076", "frutas-de-quintal", "Frutas de quintal: guia grátis de muda", "Como plantar maracujá, uva, amora e pitaia no quintal, com sol, suporte e muda de estaca ou de semente."],
+ ["TG084", "arvore-na-cidade", "Árvore na cidade: guia grátis de poda", "Como plantar ipê, quaresmeira e outras árvores na terra, com buraco certo, poda de formação e cuidado com a espirradeira."],
+ ["TG086", "flores-no-frio", "Flores no frio: guia grátis de rega e muda", "Como cuidar de kalanchoe, flor-de-maio, camélia e crisântemo no frio, com pouca água, luz, adubo e muda de estaca."],
+ ["TG094", "alporquia-e-mergulhia", "Alporquia e mergulhia: guia grátis de muda", "Como fazer muda por alporquia, mergulhia e estaca, com anel de casca, musgo úmido e plástico preto, passo a passo."],
+ ["TG098", "deserto-em-flor", "Deserto em flor: guia grátis de cultivo", "Como cuidar da rosa-do-deserto para florir, com sol, fibra de coco, troca de vaso, cáudice e cultivo duro."]
 ]

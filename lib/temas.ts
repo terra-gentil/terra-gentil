@@ -21,7 +21,7 @@ export const TEMAS: Tema[] = [
     id: 'suculentas',
     nome: 'Suculentas, cactos e rosa-do-deserto',
     chamada: 'Pouca água, muito sol e mudas que viram coleção.',
-    codigos: ['TG004', 'TG010', 'TG011', 'TG019', 'TG020', 'TG021', 'TG077', 'TG078', 'TG117'],
+    codigos: ['TG004', 'TG010', 'TG011', 'TG019', 'TG020', 'TG021', 'TG077', 'TG098', 'TG078', 'TG117'],
   },
   {
     id: 'rosas',
@@ -39,19 +39,19 @@ export const TEMAS: Tema[] = [
     id: 'dentro-de-casa',
     nome: 'Plantas dentro de casa',
     chamada: 'Folhagens e flores para pouca luz, com bicho em casa.',
-    codigos: ['TG008', 'TG009', 'TG033', 'TG034', 'TG035', 'TG036', 'TG037', 'TG038', 'TG051', 'TG052', 'TG053', 'TG066', 'TG069', 'TG070', 'TG074', 'TG082', 'TG100', 'TG116', 'TG118', 'TG127'],
+    codigos: ['TG008', 'TG009', 'TG033', 'TG034', 'TG035', 'TG036', 'TG037', 'TG038', 'TG051', 'TG052', 'TG053', 'TG066', 'TG069', 'TG070', 'TG074', 'TG073', 'TG082', 'TG100', 'TG116', 'TG118', 'TG127'],
   },
   {
     id: 'jardim',
     nome: 'Jardim e quintal',
     chamada: 'Começar do zero, chamar abelha e passarinho, árvore e flor.',
-    codigos: ['TG024', 'TG026', 'TG028', 'TG046', 'TG047', 'TG048', 'TG049', 'TG050', 'TG054', 'TG056', 'TG062', 'TG071', 'TG072', 'TG083', 'TG085', 'TG092', 'TG093', 'TG095', 'TG102', 'TG105', 'TG106', 'TG108', 'TG114', 'TG121', 'TG122', 'TG123', 'TG126'],
+    codigos: ['TG024', 'TG026', 'TG028', 'TG046', 'TG047', 'TG048', 'TG049', 'TG050', 'TG054', 'TG056', 'TG062', 'TG071', 'TG076', 'TG072', 'TG083', 'TG086', 'TG084', 'TG085', 'TG092', 'TG093', 'TG095', 'TG102', 'TG105', 'TG106', 'TG108', 'TG114', 'TG121', 'TG122', 'TG123', 'TG126'],
   },
   {
     id: 'cuidados',
     nome: 'Cuidados do dia a dia',
     chamada: 'Rega, terra, mudas de graça, praga e mato sem veneno.',
-    codigos: ['TG005', 'TG006', 'TG007', 'TG022', 'TG023', 'TG041', 'TG057', 'TG058', 'TG059', 'TG060', 'TG075', 'TG097', 'TG101', 'TG103', 'TG111', 'TG115', 'TG120'],
+    codigos: ['TG005', 'TG006', 'TG007', 'TG022', 'TG023', 'TG041', 'TG057', 'TG058', 'TG059', 'TG060', 'TG075', 'TG094', 'TG097', 'TG101', 'TG103', 'TG111', 'TG115', 'TG120'],
   },
 ];
 

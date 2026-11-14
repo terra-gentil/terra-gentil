@@ -1,0 +1,439 @@
+{
+ "codigo": "TG073",
+ "slug": "folhagem-de-sombra",
+ "titulo": "Folhagem de Sombra",
+ "capa": {
+  "src": "/guias/folhagem-de-sombra/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Folhagem de Sombra"
+ },
+ "meta": {
+  "titulo": "Folhagem de sombra: guia grátis de ar úmido",
+  "descricao": "Como cuidar de avenca, maranta, peperômia e tilândsia, com sombra, ar úmido, rega certa e mudas de graça. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG073.pdf",
+  "atualizado": "2026-11-14"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t073",
+    "COLEÇÃO TERRA GENTIL",
+    "AVENCA",
+    "Folhagem de Sombra",
+    "Avenca, maranta e ar úmido.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/folhagem-de-sombra/samambaia-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 224,
+     "alt": "André com um vaso de samambaia"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Fitônia e epíscia pedem ar úmido e sombra.",
+    "E a peperômia vira muda de uma folha.",
+    "Aqui tem avenca, samambaia e folhagens.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache o canto úmido e com sombra da casa.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/folhagem-de-sombra/samambaia-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 170,
+     "alt": "André olhando uma samambaia num canto de sombra"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Tire as folhas velhas da avenca.",
+    "Sempre que elas aparecerem.",
+    "SOMBRA",
+    "Fitônia em ar úmido e sombra.",
+    "Terra que escoe, sem encharcar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da avenca",
+    "06",
+    "CAPÍTULO 1",
+    "Ar úmido e sombra",
+    "08",
+    "CAPÍTULO 2",
+    "Mudas de graça",
+    "12",
+    "CAPÍTULO 3",
+    "Tilândsia e pet",
+    "15",
+    "CAPÍTULO 4",
+    "Folhagens de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Terra empoçada no vaso? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA AVENCA",
+    "Antes de plantar",
+    "O que ela pede",
+    "NO CALOR",
+    "Rega farta",
+    "NO FRIO",
+    "Terra levemente úmida",
+    "ADUBO",
+    "Líquido e fraco",
+    "QUANDO",
+    "A cada 2 ou 3 semanas",
+    "CABINHO",
+    "Preto e fino",
+    "FOLHA VELHA\tATENÇÃO",
+    "Tire sempre que aparecer"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Ar úmido e sombra",
+    "01\tCerto e errado",
+    "02\tMuda de maranta, passo a passo",
+    "03\tTerra empoçada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/folhagem-de-sombra/maranta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 144,
+     "alt": "André cuidando de uma folhagem num canto úmido"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Fitônia\tSombra\tEncharcada",
+    "Avenca no frio\tLevemente úmida\tÁgua empoçada",
+    "Pilea no frio\tQuase seca\tRega farta",
+    "Epíscia\tAr bem úmido\tAr seco",
+    "Samambaia em vaso grande: troque a terra velha.",
+    "DICA DO ANDRÉ",
+    "Tilândsia aérea: adubo fraco na água do borrifo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Mudas de graça",
+    "01\tMuda de maranta, passo a passo",
+    "02\tFolhas que viram muda",
+    "03\tTerra empoçada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/folhagem-de-sombra/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André separando brotos para fazer muda"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Muda de maranta? Faça assim.",
+    "BROTO",
+    "De 8 a 10 cm",
+    "RAIZ",
+    "Em umas 2 semanas",
+    "OUTRO JEITO",
+    "Dividir a touceira",
+    "1",
+    "CORTE",
+    "Um broto de 8 a 10 cm.",
+    "2",
+    "LIMPE",
+    "Tire as folhas de baixo.",
+    "3",
+    "ESPERE",
+    "Raiz em umas duas semanas.",
+    "DICA DO ANDRÉ",
+    "Maranta jovem troca de vaso todo ano: divida ali."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/folhagem-de-sombra/ban-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 219,
+     "alt": "Mãos cortando um broto de maranta"
+    },
+    {
+     "src": "/guias/folhagem-de-sombra/ban-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 146,
+     "alt": "Mãos tirando as folhas de baixo do broto de maranta"
+    },
+    {
+     "src": "/guias/folhagem-de-sombra/ban-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 255,
+     "alt": "Mãos pondo a estaca de maranta num vasinho"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · MUDA",
+    "Folhas que viram muda",
+    "Peperômia: a folha com o cabinho vira muda.",
+    "Com caule, vai de ponta; sem caule, de folha.",
+    "Fitônia: puxe a touceira em pedaços com raiz.",
+    "Estaca de ponta de fitônia pega em uns 14 dias.",
+    "Pilea: estaca de ponta com 8 a 10 cm."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Terra empoçada no vaso?",
+    "1",
+    "O QUE PARECE",
+    "Planta bem regada.",
+    "O QUE PODE SER",
+    "Raiz sem ar, apodrecendo.",
+    "COMO RESOLVER",
+    "Regue sempre, mas sem encharcar."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/folhagem-de-sombra/ban-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 298,
+     "alt": "Vaso de samambaia com água empoçada no prato e terra encharcada"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Tilândsia e pet",
+    "01\tTilândsia no ar",
+    "02\tPlanta e pet",
+    "03\tFolhagens de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/folhagem-de-sombra/samambaia-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 252,
+     "alt": "André pendurando um vaso de samambaia"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · NO AR",
+    "Tilândsia no ar",
+    "LUZ",
+    "Meia-sombra",
+    "ÁGUA",
+    "Mole",
+    "O QUE ELA PEDE",
+    "Adubo fraco, na água do borrifo",
+    "Quando a cada 3 ou 4 semanas no calor",
+    "Muda pelos filhotes",
+    "Ou por divisão",
+    "Cuidado",
+    "Tilândsia-rosa vai em vaso, não em madeira",
+    "Ionantha centro vermelho antes da flor"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · PET",
+    "ATENÇÃO",
+    "A cica é a única planta de casa na categoria Perigo.",
+    "Para o gato, doença grave ou morte.",
+    "Samambaia-americana está entre as não tóxicas da ASPCA.",
+    "FAÇA ASSIM",
+    "Com gato, prefira samambaia-americana.",
+    "Peperômia (P. obtusifolia) também é não tóxica."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Quatro folhagens",
+    "1",
+    "Avenca",
+    "Folhinha em cabinho preto.",
+    "2",
+    "Fitônia",
+    "Nervura como rede pintada.",
+    "3",
+    "Calathea-zebra",
+    "Listrada, roxa por baixo.",
+    "4",
+    "Chifre-de-veado",
+    "Folha em forma de chifre.",
+    "CHAVE\tAr úmido\tSombra"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/folhagem-de-sombra/ban-var-avenca.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 279,
+     "alt": "Avenca de folhinhas delicadas em cabinhos pretos"
+    },
+    {
+     "src": "/guias/folhagem-de-sombra/ban-var-fitonia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 212,
+     "alt": "Fitônia de folha verde-escura com nervuras desenhadas"
+    },
+    {
+     "src": "/guias/folhagem-de-sombra/ban-var-calathea.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 228,
+     "alt": "Calathea-zebra de folha verde com listras escuras"
+    },
+    {
+     "src": "/guias/folhagem-de-sombra/ban-var-chifre-de-veado.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 253,
+     "alt": "Chifre-de-veado com folhas compridas em forma de chifre"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "O que deu errado?",
+    "AVENCA FEIA",
+    "Tire as folhas velhas.",
+    "PILEA SEM BRONZE",
+    "Na sombra, fica mais verde.",
+    "SAMAMBAIA APERTADA",
+    "Troque a terra velha.",
+    "IONANTHA VERMELHA",
+    "Normal: vai florir.",
+    "DICA DO ANDRÉ",
+    "Ctenanthe gosta de terra úmida por igual no frio."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "2",
+    "M",
+    "de folha: o chifre-de-veado gigante chega até lá.",
+    "É a folha comprida, em forma de chifre.",
+    "E MAIS UMA",
+    "Em inglês, a maranta é a \"planta-que-reza\"."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Folha velha da avenca fora",
+    "Rega farta no calor",
+    "Fitônia na sombra",
+    "Broto de maranta de 8 cm",
+    "Folha de peperômia com cabinho",
+    "Tilândsia na meia-sombra",
+    "Samambaia-americana com gato",
+    "Terra nova na samambaia",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Se a folha da sua peperômia pegar, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "073\tVOCÊ TEM",
+    "074",
+    "075",
+    "076",
+    "077",
+    "078",
+    "São 73 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 074 ESPADA-DE-SÃO-JORGE",
+    "Comente ESPADA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/folhagem-de-sombra/samambaia-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 115,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

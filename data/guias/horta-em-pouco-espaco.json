@@ -1,15 +1,15 @@
 {
  "codigo": "TG125",
  "slug": "horta-em-pouco-espaco",
- "titulo": "Horta em Pouco Espaço",
+ "titulo": "Espaço para Horta",
  "capa": {
   "src": "/guias/horta-em-pouco-espaco/capa.webp",
   "largura": 520,
   "altura": 924,
-  "alt": "Capa do livro Horta em Pouco Espaço"
+  "alt": "Capa do livro Espaço para Horta"
  },
  "meta": {
-  "titulo": "Horta em pouco espaço: guia grátis",
+  "titulo": "Espaço para horta: guia grátis",
   "descricao": "Como fazer horta em pouco espaço, com vaso e terra certos, luz e rega, parede e palete, até a colheita. Livro grátis do André, com PDF para baixar.",
   "pdf": "TG125.pdf",
   "atualizado": "2026-11-14"
@@ -21,7 +21,7 @@
     "TG\t125",
     "COLEÇÃO TERRA GENTIL",
     "ESPACO",
-    "Horta em Pouco Espaço",
+    "Espaço para Horta",
     "Pouco chão, muita colheita.",
     "por André Zimermann",
     "100%",

@@ -87,7 +87,7 @@ export default {
     { t: ['ATÉ O PRÓXIMO LIVRO',
       'Se uma borboleta pousar na sua sálvia, me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.',
       'Com carinho, André', '085', 'VOCÊ TEM', '086', '087', '088', '089', '090',
-      'São 85 livros na coleção, todos de graça.', 'PRÓXIMO: TG 086 FLORES DE INVERNO',
+      'São 85 livros na coleção, todos de graça.', 'PRÓXIMO: TG 086 FLORES NO FRIO',
       'Comente INVERNO no @canalterragentil e ele chega no seu direct, de graça.'],
       p: [['lavanda-F-1.jpg', 'Retrato do André no jardim']] },
   ],

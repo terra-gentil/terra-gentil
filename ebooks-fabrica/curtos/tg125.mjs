@@ -1,12 +1,12 @@
-// Roteiro curto do TG 125 Horta em Pouco Espaço (leva 10). Fatos do pool10-125.txt.
+// Roteiro curto do TG 125 Espaço para Horta (leva 10). Fatos do pool10-125.txt.
 export default {
-  livro: 'TG 125', titulo: 'Horta em Pouco Espaço', serie: '#3F5A2E',
+  livro: 'TG 125', titulo: 'Espaço para Horta', serie: '#3F5A2E',
   provisorias: { 'hpe-gesto-1.jpg': 'coringa-trocar-vaso-A-1.jpg', 'hpe-gesto-2.jpg': 'coringa-regar-A-1.jpg',
     'hpe-gesto-3.jpg': 'coringa-solo-A-1.jpg', 'hpe-sintoma-1.jpg': 'tomate-G-1.jpg',
     'hpe-var-tomate.jpg': 'tomate-A-1.jpg', 'hpe-var-pimenta.jpg': 'pimenta-A-1.jpg',
     'hpe-var-cenoura.jpg': 'alface-A-1.jpg', 'hpe-var-morango.jpg': 'morango-A-1.jpg' },
   paginas: [
-    { t: ['COLEÇÃO TERRA GENTIL', 'ESPACO', 'Horta em Pouco Espaço', 'Pouco chão, muita colheita.',
+    { t: ['COLEÇÃO TERRA GENTIL', 'ESPACO', 'Espaço para Horta', 'Pouco chão, muita colheita.',
       'por André Zimermann', '100%', 'DE GRAÇA'], p: [['coringa-horta-A-1.jpg', 'André com vasos de horta numa varanda pequena']] },
     { f: ['h35-002', 'h35-138', 'h35-001'], n: 'o mapa do livro', t: ['UMA CARTA PARA VOCÊ',
       'Oi, eu sou o André.',

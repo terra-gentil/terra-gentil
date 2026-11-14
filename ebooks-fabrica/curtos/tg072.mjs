@@ -87,7 +87,7 @@ export default {
     { t: ['ATÉ O PRÓXIMO LIVRO',
       'Se a sua capuchinha florir, me conta. E divide umas sementes com quem estiver perto. Gentileza gera gentileza.',
       'Com carinho, André', '072', 'VOCÊ TEM', '073', '074', '075', '076', '077',
-      'São 72 livros na coleção, todos de graça.', 'PRÓXIMO: TG 073 PLANTAS DE BANHEIRO',
+      'São 72 livros na coleção, todos de graça.', 'PRÓXIMO: TG 073 FOLHAGEM DE SOMBRA',
       'Comente AVENCA no @canalterragentil e ele chega no seu direct, de graça.'],
       p: [['girassol-H-1.jpg', 'Retrato do André no jardim']] },
   ],

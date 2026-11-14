@@ -88,7 +88,7 @@ export default {
     { t: ['ATÉ O PRÓXIMO LIVRO',
       'Se o seu minhocário der o primeiro adubo, me conta. E divide um pouco com quem estiver perto. Gentileza gera gentileza.',
       'Com carinho, André', '075', 'VOCÊ TEM', '076', '077', '078', '079', '080',
-      'São 75 livros na coleção, todos de graça.', 'PRÓXIMO: TG 076 MARACUJÁ E UVA',
+      'São 75 livros na coleção, todos de graça.', 'PRÓXIMO: TG 076 FRUTAS DE QUINTAL',
       'Comente MARACUJÁ no @canalterragentil e ele chega no seu direct, de graça.'],
       p: [['coringa-compostagem-F-1.jpg', 'Retrato do André no jardim']] },
   ],

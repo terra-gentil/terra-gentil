@@ -1,12 +1,12 @@
-// Roteiro curto do TG 086 Flores de Inverno.
+// Roteiro curto do TG 086 Flores no Frio.
 export default {
-  livro: 'TG 086', titulo: 'Flores de Inverno', serie: '#1F3A4D',
+  livro: 'TG 086', titulo: 'Flores no Frio', serie: '#1F3A4D',
   provisorias: { 'inv-gesto-1.jpg': 'coringa-muda-B-1.jpg', 'inv-gesto-2.jpg': 'coringa-muda-C-1.jpg',
     'inv-gesto-3.jpg': 'coringa-trocar-vaso-B-1.jpg', 'inv-sintoma-1.jpg': 'coringa-praga-C-1.jpg',
     'inv-var-camelia.jpg': 'hibisco-C-1.jpg', 'inv-var-crisantemo.jpg': 'kalanchoe-C-1.jpg',
     'inv-var-bico-de-papagaio.jpg': 'kalanchoe-D-1.jpg', 'inv-var-coroa-de-cristo.jpg': 'cacto-C-1.jpg' },
   paginas: [
-    { t: ['COLEÇÃO TERRA GENTIL', 'INVERNO', 'Flores de Inverno', 'Camélia, kalanchoe e flor-de-maio.',
+    { t: ['COLEÇÃO TERRA GENTIL', 'INVERNO', 'Flores no Frio', 'Camélia, kalanchoe e flor-de-maio.',
       'por André Zimermann', '100%', 'DE GRAÇA'], p: [['kalanchoe-A-1.jpg', 'André com um vaso de kalanchoe florida']] },
     { f: ['b24-511', 'b24-151', 'q3-03'], n: 'o mapa do livro', t: ['UMA CARTA PARA VOCÊ',
       'Oi, eu sou o André.', 'Camélia, kalanchoe e flor-de-maio no vaso.',

@@ -1,12 +1,12 @@
-// Roteiro curto do TG 084 Árvore na Calçada.
+// Roteiro curto do TG 084 Árvore na Cidade.
 export default {
-  livro: 'TG 084', titulo: 'Árvore na Calçada', serie: '#1F3B4D',
+  livro: 'TG 084', titulo: 'Árvore na Cidade', serie: '#1F3B4D',
   provisorias: { 'ipe-gesto-1.jpg': 'coringa-solo-B-1.jpg', 'ipe-gesto-2.jpg': 'coringa-muda-C-1.jpg',
     'ipe-gesto-3.jpg': 'coringa-muda-F-1.jpg', 'ipe-sintoma-1.jpg': 'coringa-muda-G-1.jpg',
     'ipe-var-quaresmeira.jpg': 'buganvilia-C-1.jpg', 'ipe-var-cassia.jpg': 'jabuticabeira-C-1.jpg',
     'ipe-var-pata-de-vaca.jpg': 'limoeiro-C-1.jpg', 'ipe-var-magnolia.jpg': 'coringa-podar-B-1.jpg' },
   paginas: [
-    { t: ['COLEÇÃO TERRA GENTIL', 'IPÊ', 'Árvore na Calçada', 'Sombra e flor na frente de casa.',
+    { t: ['COLEÇÃO TERRA GENTIL', 'IPÊ', 'Árvore na Cidade', 'Sombra e flor na frente de casa.',
       'por André Zimermann', '100%', 'DE GRAÇA'],
       p: [['jabuticabeira-A-1.jpg', 'André ao lado de uma árvore jovem']] },
     { f: ['t37-033', 'b24-283', 'i36-001'], n: 'o mapa do livro', t: ['UMA CARTA PARA VOCÊ',

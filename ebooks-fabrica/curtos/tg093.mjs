@@ -88,7 +88,7 @@ export default {
     { t: ['ATÉ O PRÓXIMO LIVRO',
       'Se o seu cosmos encher de flor, me conta. E divide a semente com quem estiver perto. Gentileza gera gentileza.',
       'Com carinho, André', '093', 'VOCÊ TEM', '094', '095', '096', '097', '098',
-      'São 93 livros na coleção, todos de graça.', 'PRÓXIMO: TG 094 ALPORQUIA E ESTACA',
+      'São 93 livros na coleção, todos de graça.', 'PRÓXIMO: TG 094 ALPORQUIA E MERGULHIA',
       'Comente ALPORQUIA no @canalterragentil e ele chega no seu direct, de graça.'],
       p: [['girassol-F-1.jpg', 'Retrato do André no jardim']] },
   ],

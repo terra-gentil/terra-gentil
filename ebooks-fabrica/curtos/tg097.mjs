@@ -88,7 +88,7 @@ export default {
     { t: ['ATÉ O PRÓXIMO LIVRO',
       'Pegou no vaso novo? Me conta. E divide uma muda com quem estiver perto. Gentileza gera gentileza.',
       'Com carinho, André', '097', 'VOCÊ TEM', '098', '099', '100', '101', '102',
-      'São 97 livros na coleção, todos de graça.', 'PRÓXIMO: TG 098 ROSA-DO-DESERTO EM FLOR',
+      'São 97 livros na coleção, todos de graça.', 'PRÓXIMO: TG 098 DESERTO EM FLOR',
       'Comente FLORADA no @canalterragentil e ele chega no seu direct, de graça.'],
       p: [['coringa-regar-A-1.jpg', 'Retrato do André no jardim']] },
   ],

@@ -6,7 +6,7 @@ export default {
     'arb-var-hortensia.jpg': 'hibisco-G-1.jpg', 'arb-var-azaleia.jpg': 'hibisco-H-1.jpg',
     'arb-var-abutilon.jpg': 'coringa-podar-G-1.jpg', 'arb-var-camelia.jpg': 'coringa-muda-G-1.jpg' },
   paginas: [
-    { t: ['COLEÇÃO TERRA GENTIL', 'ARBUSTO', 'Arbustos Floridos', 'Flor o ano todo no jardim.',
+    { t: ['COLEÇÃO TERRA GENTIL', 'ARBUSTO', 'Arbustos Floridos', 'Hortênsia, azaleia e camélia.',
       'por André Zimermann', '100%', 'DE GRAÇA'], p: [['hibisco-A-1.jpg', 'André sorrindo ao lado de um arbusto florido no quintal']] },
     { f: ['t37-042', 'i36-104', 'b24-105'], n: 'o mapa do livro', t: ['UMA CARTA PARA VOCÊ',
       'Oi, eu sou o André.',

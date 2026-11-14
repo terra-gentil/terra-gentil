@@ -93,7 +93,7 @@ export default {
     { t: ['ATÉ O PRÓXIMO LIVRO',
       'Se a sua amarílis florir de novo, me conta. E divide um bulbinho com quem estiver perto. Gentileza gera gentileza.',
       'Com carinho, André', '083', 'VOCÊ TEM', '084', '085', '086', '087', '088',
-      'São 83 livros na coleção, todos de graça.', 'PRÓXIMO: TG 084 ÁRVORE NA CALÇADA',
+      'São 83 livros na coleção, todos de graça.', 'PRÓXIMO: TG 084 ÁRVORE NA CIDADE',
       'Comente IPÊ no @canalterragentil e ele chega no seu direct, de graça.'],
       p: [['lirio-H-1.jpg', 'Retrato do André no jardim']] },
   ],

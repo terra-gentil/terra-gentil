@@ -87,7 +87,7 @@ export default {
     { t: ['ATÉ O PRÓXIMO LIVRO',
       'Horta diferente pede curiosidade e vontade de provar. Tente e me conta. Gentileza gera gentileza.',
       'Com carinho, André', '124', 'VOCÊ TEM', '125', '126', '127', '128', '129',
-      'São 124 livros na coleção, todos de graça.', 'PRÓXIMO: TG 125 HORTA EM POUCO ESPAÇO',
+      'São 124 livros na coleção, todos de graça.', 'PRÓXIMO: TG 125 ESPAÇO PARA HORTA',
       'Comente ESPACO no @canalterragentil e ele chega no seu direct, de graça.'],
       p: [['coringa-horta-F-1.jpg', 'Retrato do André no jardim']] },
   ],

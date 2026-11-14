@@ -1,12 +1,12 @@
-// Roteiro curto do TG 076 Maracujá e Uva.
+// Roteiro curto do TG 076 Frutas de Quintal.
 export default {
-  livro: 'TG 076', titulo: 'Maracujá e Uva', serie: '#3A1F4F',
+  livro: 'TG 076', titulo: 'Frutas de Quintal', serie: '#3A1F4F',
   provisorias: { 'mar-gesto-1.jpg': 'coringa-muda-A-1.jpg', 'mar-gesto-2.jpg': 'coringa-muda-B-1.jpg',
     'mar-gesto-3.jpg': 'coringa-muda-C-1.jpg', 'mar-sintoma-1.jpg': 'coringa-jardim-vertical-A-1.jpg',
     'mar-var-azul.jpg': 'coringa-jardim-vertical-B-1.jpg', 'mar-var-doce.jpg': 'coringa-jardim-vertical-C-1.jpg',
     'mar-var-amora.jpg': 'morango-A-1.jpg', 'mar-var-pitaia.jpg': 'cacto-A-1.jpg' },
   paginas: [
-    { t: ['COLEÇÃO TERRA GENTIL', 'MARACUJÁ', 'Maracujá e Uva', 'Trepadeiras de fruta no quintal.',
+    { t: ['COLEÇÃO TERRA GENTIL', 'MARACUJÁ', 'Frutas de Quintal', 'Maracujá, uva, amora e pitaia.',
       'por André Zimermann', '100%', 'DE GRAÇA'], p: [['coringa-horta-B-1.jpg', 'André ao lado de um pé de maracujá no muro']] },
     { f: ['b24-476', 'q34-152', 'm33-210', 'b24-475'], n: 'o mapa do livro', t: ['UMA CARTA PARA VOCÊ',
       'Oi, eu sou o André.', 'Maracujá e uva sobem e dão fruta.',

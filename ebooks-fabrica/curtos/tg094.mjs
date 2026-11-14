@@ -1,12 +1,12 @@
-// Roteiro curto do TG 094 Alporquia e Estaca.
+// Roteiro curto do TG 094 Alporquia e Mergulhia.
 export default {
-  livro: 'TG 094', titulo: 'Alporquia e Estaca', serie: '#2E4A3A',
+  livro: 'TG 094', titulo: 'Alporquia e Mergulhia', serie: '#2E4A3A',
   provisorias: { 'alp-gesto-1.jpg': 'coringa-podar-B-1.jpg', 'alp-gesto-2.jpg': 'coringa-podar-C-1.jpg',
     'alp-gesto-3.jpg': 'coringa-muda-C-1.jpg', 'alp-sintoma-1.jpg': 'coringa-praga-A-1.jpg',
     'alp-var-mergulhia.jpg': 'coringa-muda-F-1.jpg', 'alp-var-touceira.jpg': 'coringa-muda-G-1.jpg',
     'alp-var-violeta.jpg': 'violeta-A-1.jpg', 'alp-var-saxifraga.jpg': 'coringa-muda-H-1.jpg' },
   paginas: [
-    { t: ['COLEÇÃO TERRA GENTIL', 'ALPORQUIA', 'Alporquia e Estaca', 'Alporquia, mergulhia e estaca.',
+    { t: ['COLEÇÃO TERRA GENTIL', 'ALPORQUIA', 'Alporquia e Mergulhia', 'Alporquia, mergulhia e estaca.',
       'por André Zimermann', '100%', 'DE GRAÇA'], p: [['jabuticabeira-A-1.jpg', 'André junto de uma árvore no quintal']] },
     { f: ['m33-369', 'm33-370', 'm33-371'], n: 'o mapa do livro', t: ['UMA CARTA PARA VOCÊ',
       'Oi, eu sou o André.', 'Alporquia é a mergulhia feita no alto.',

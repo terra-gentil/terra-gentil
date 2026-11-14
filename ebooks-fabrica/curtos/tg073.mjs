@@ -1,12 +1,12 @@
-// Roteiro curto do TG 073 Plantas de Banheiro.
+// Roteiro curto do TG 073 Folhagem de Sombra.
 export default {
-  livro: 'TG 073', titulo: 'Plantas de Banheiro', serie: '#1D4A52',
+  livro: 'TG 073', titulo: 'Folhagem de Sombra', serie: '#1D4A52',
   provisorias: { 'ban-gesto-1.jpg': 'maranta-B-1.jpg', 'ban-gesto-2.jpg': 'maranta-C-1.jpg',
     'ban-gesto-3.jpg': 'coringa-muda-B-1.jpg', 'ban-sintoma-1.jpg': 'coringa-regar-B-1.jpg',
     'ban-var-avenca.jpg': 'samambaia-E-1.jpg', 'ban-var-fitonia.jpg': 'peperomia-B-1.jpg',
     'ban-var-calathea.jpg': 'maranta-D-1.jpg', 'ban-var-chifre-de-veado.jpg': 'samambaia-G-1.jpg' },
   paginas: [
-    { t: ['COLEÇÃO TERRA GENTIL', 'AVENCA', 'Plantas de Banheiro', 'Folhagem que ama ar úmido.',
+    { t: ['COLEÇÃO TERRA GENTIL', 'AVENCA', 'Folhagem de Sombra', 'Avenca, maranta e ar úmido.',
       'por André Zimermann', '100%', 'DE GRAÇA'], p: [['samambaia-A-1.jpg', 'André com um vaso de samambaia']] },
     { f: ['b24-241', 'b24-260', 'q3-306'], n: 'o mapa do livro', t: ['UMA CARTA PARA VOCÊ',
       'Oi, eu sou o André.', 'Fitônia e epíscia pedem ar úmido e sombra.',

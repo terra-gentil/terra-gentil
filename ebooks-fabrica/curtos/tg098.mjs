@@ -1,12 +1,12 @@
-// Roteiro curto do TG 098 Rosa-do-deserto em Flor.
+// Roteiro curto do TG 098 Deserto em Flor.
 export default {
-  livro: 'TG 098', titulo: 'Rosa-do-deserto em Flor', serie: '#6A1F4A',
+  livro: 'TG 098', titulo: 'Deserto em Flor', serie: '#6A1F4A',
   provisorias: { 'rdf-gesto-1.jpg': 'coringa-trocar-vaso-A-1.jpg', 'rdf-gesto-2.jpg': 'coringa-trocar-vaso-B-1.jpg',
     'rdf-gesto-3.jpg': 'coringa-regar-B-1.jpg', 'rdf-sintoma-1.jpg': 'coringa-trocar-vaso-C-1.jpg',
     'rdf-var-crimson-star.jpg': 'rosa-do-deserto-G-1.jpg', 'rdf-var-obesum.jpg': 'rosa-do-deserto-H-1.jpg',
     'rdf-var-hibrida.jpg': 'coringa-podar-B-1.jpg', 'rdf-var-socotra.jpg': 'coringa-podar-C-1.jpg' },
   paginas: [
-    { t: ['COLEÇÃO TERRA GENTIL', 'FLORADA', 'Rosa-do-deserto', 'Em flor: raiz, vaso e cultivo.',
+    { t: ['COLEÇÃO TERRA GENTIL', 'FLORADA', 'Deserto em Flor', 'Rosa-do-deserto: raiz, vaso, flor.',
       'por André Zimermann', '100%', 'DE GRAÇA'], p: [['rosa-do-deserto-A-1.jpg', 'André com uma rosa-do-deserto florida']] },
     { f: ['d5-01', 'd5-107', 'd5-08'], n: 'o mapa do livro', t: ['UMA CARTA PARA VOCÊ',
       'Oi, eu sou o André.', 'A rosa-do-deserto é escultura e flor.',

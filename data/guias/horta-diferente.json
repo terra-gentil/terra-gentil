@@ -1,0 +1,439 @@
+{
+ "codigo": "TG124",
+ "slug": "horta-diferente",
+ "titulo": "Horta Diferente",
+ "capa": {
+  "src": "/guias/horta-diferente/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Horta Diferente"
+ },
+ "meta": {
+  "titulo": "Horta diferente: guia grátis de planta nova",
+  "descricao": "Como evitar erros comuns e plantar raiz, talo, folha, flor e fruta fora do comum, com ervas e frutinhas novas. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG124.pdf",
+  "atualizado": "2026-11-14"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t124",
+    "COLEÇÃO TERRA GENTIL",
+    "DIFERENTE",
+    "Horta Diferente",
+    "Folha, raiz e flor fora do comum.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-diferente/coringa-horta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André abraçando uma cesta de verduras diferentes na horta"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Tem planta que se come da folha, da flor ou da raiz.",
+    "Bertalha, shungiku e raiz-forte também são horta.",
+    "Aqui tem ervas e frutinhas fora do comum.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Compre um gengibre na feira para plantar.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-diferente/coringa-horta-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André olhando folhas diferentes num canteiro da horta"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Plante um pedaço de gengibre.",
+    "Pode ser um saudável da feira.",
+    "SEM EXAGERO",
+    "Adube toda semana enquanto cresce.",
+    "Quando ele dormir, regue menos."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da horta",
+    "06",
+    "CAPÍTULO 1",
+    "Erros comuns",
+    "08",
+    "CAPÍTULO 2",
+    "Raiz, talo e folha",
+    "12",
+    "CAPÍTULO 3",
+    "Flor e fruta",
+    "15",
+    "CAPÍTULO 4",
+    "Quatro novidades",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Ruibarbo sem vingar? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA HORTA",
+    "Antes de agir",
+    "O que olhar",
+    "BERTALHA",
+    "Vara de 2 m para subir",
+    "CARURU",
+    "Semeie sem cobrir",
+    "MIRTILO",
+    "Terra ácida e cobertura",
+    "RUIBARBO",
+    "Sem colher no 1º ano",
+    "RAIZ-FORTE",
+    "Vaso grande enterrado",
+    "NA PRÁTICA\tATENÇÃO",
+    "Fruta de sabugueiro, só cozida"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Erros comuns",
+    "01\tCerto e errado",
+    "02\tPasso a passo",
+    "03\tBertalha de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-diferente/coringa-horta-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 192,
+     "alt": "André colhendo folhas diferentes na horta"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Ruibarbo\tDeixa formar\tColhe já",
+    "Molho\tRale na hora\tLeva ao fogo",
+    "Sabugueiro\tFruta cozida\tFruta crua",
+    "Folha de caruru\tBelisca as pontas\tDeixa espigar",
+    "Chicória amarra menos com um tempo sem luz.",
+    "DICA DO ANDRÉ",
+    "Erva-doce espigou? Folha e flor se comem."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Raiz, talo e folha",
+    "01\tPasso a passo",
+    "02\tBertalha de perto",
+    "03\tRuibarbo fraco"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-diferente/coringa-solo-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 215,
+     "alt": "André olhando a terra de um canteiro de raízes"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Planta diferente? Faça assim.",
+    "RAIZ-FORTE",
+    "30 x 30 cm",
+    "CARURU",
+    "20 cm entre plantas",
+    "RUIBARBO",
+    "Torça na base",
+    "1",
+    "PLANTE",
+    "Um pedaço de raiz-forte.",
+    "2",
+    "TORÇA",
+    "O talo de ruibarbo, na base.",
+    "3",
+    "SEMEIE",
+    "Caruru, sem cobrir a semente.",
+    "DICA DO ANDRÉ",
+    "Na colheita, deixe parte da raiz."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-diferente/hdi-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 161,
+     "alt": "Mãos plantando um pedaço de raiz de raiz-forte na terra do canteiro"
+    },
+    {
+     "src": "/guias/horta-diferente/hdi-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 241,
+     "alt": "Mãos deslizando os dedos até a base de um talo de ruibarbo e torcendo para colher"
+    },
+    {
+     "src": "/guias/horta-diferente/hdi-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 274,
+     "alt": "Mãos espalhando sementes de caruru sobre a terra sem cobrir"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · RAIZ, TALO E FOLHA",
+    "Bertalha de perto",
+    "Tem de folha clara e flor branca.",
+    "Tem de talo e flor vermelhos.",
+    "Vem das matas úmidas da Ásia tropical.",
+    "Aguenta meia-sombra.",
+    "A folha fica macia mesmo velha."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Ruibarbo fraco?",
+    "1",
+    "O QUE PARECE",
+    "Haste de flor subindo na touceira.",
+    "O QUE FAZER",
+    "Tire a haste de flor.",
+    "COMO RESOLVER",
+    "Sem colher no primeiro ano."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-diferente/hdi-sintoma-1.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 294,
+     "alt": "Touceira de ruibarbo com uma haste de flor subindo no meio das folhas"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Flor e fruta",
+    "01\tFlor e fruta",
+    "02\tAtenção na cozinha",
+    "03\tHorta de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-diferente/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André diante de um sabugueiro florido"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CUIDADO",
+    "Flor e fruta",
+    "SABUGUEIRO",
+    "Quase indestrutível",
+    "MIRTILO",
+    "Drena e segura água",
+    "O QUE ELES PEDEM",
+    "Mirtilo cobertura grossa no chão",
+    "Terra calcária mirtilo em vaso ácido",
+    "Sabugueiro flor colhida e usada no dia",
+    "Erva-doce flor e folha se comem",
+    "Bom saber",
+    "Mirtilo tem de fruta cor-de-rosa",
+    "Sabugueiro flor vira bebida e geleia"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Fruta de sabugueiro é melhor cozida.",
+    "Molho de raiz-forte no fogo perde a ardência.",
+    "A folha da raiz-forte é ardida demais.",
+    "FAÇA ASSIM",
+    "Rale a raiz-forte e use na hora.",
+    "Flor de sabugueiro pede umas horas parada."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · FOLHA, GRÃO E RAIZ",
+    "Quatro novidades",
+    "1",
+    "Bertalha",
+    "Sobe numa vara de 2 metros.",
+    "2",
+    "Caruru",
+    "O grão dos astecas.",
+    "3",
+    "Shungiku",
+    "Flor amarela que chama abelha.",
+    "4",
+    "Gengibre",
+    "Da feira vira muda.",
+    "CHAVE\tPlanta\tO que ela dá"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-diferente/hdi-var-bertalha.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 238,
+     "alt": "Bertalha de folhas verdes e macias subindo num barbante"
+    },
+    {
+     "src": "/guias/horta-diferente/hdi-var-caruru.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 261,
+     "alt": "Caruru com espigas de amaranto na horta"
+    },
+    {
+     "src": "/guias/horta-diferente/hdi-var-shungiku.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 194,
+     "alt": "Shungiku com folhas recortadas e flores amarelas"
+    },
+    {
+     "src": "/guias/horta-diferente/hdi-var-gengibre.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 238,
+     "alt": "Gengibre brotando de um pedaço de raiz num vaso"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Horta de perto",
+    "CASA",
+    "Dá para plantar sem quintal.",
+    "MICROVERDE",
+    "Rúcula, mostarda, rabanete e mais.",
+    "FAMÍLIA",
+    "Gengibre, cúrcuma, galanga e cardamomo.",
+    "ÍNDIA",
+    "Todos vêm de lá.",
+    "DICA DO ANDRÉ",
+    "Caruru que ninguém colhe semeia sozinho."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "2",
+    "M",
+    "é a vara mínima para a bertalha subir.",
+    "Com composto farto e 30 cm entre plantas.",
+    "E MAIS UMA",
+    "Os astecas já comiam o grão de amaranto."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Gengibre da feira plantado",
+    "Bertalha com vara de 2 metros",
+    "Ruibarbo sem colher no 1º ano",
+    "Raiz-forte em vaso enterrado",
+    "Mirtilo em vaso ácido, se a terra é calcária",
+    "Grão de amaranto de molho",
+    "Microverde em casa",
+    "Flor de sabugueiro usada no dia",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Horta diferente pede curiosidade e vontade de provar. Tente e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "124\tVOCÊ TEM",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129",
+    "São 124 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 125 HORTA EM POUCO ESPAÇO",
+    "Comente ESPACO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/horta-diferente/coringa-horta-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 137,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

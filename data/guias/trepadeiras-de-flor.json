@@ -1,0 +1,439 @@
+{
+ "codigo": "TG121",
+ "slug": "trepadeiras-de-flor",
+ "titulo": "Trepadeiras de Flor",
+ "capa": {
+  "src": "/guias/trepadeiras-de-flor/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Trepadeiras de Flor"
+ },
+ "meta": {
+  "titulo": "Trepadeiras de flor: guia grátis de apoio",
+  "descricao": "Como dar apoio e amarra à trepadeira, saber a flor de cada uma, podar e colher semente, de perto. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG121.pdf",
+  "atualizado": "2026-11-14"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t121",
+    "COLEÇÃO TERRA GENTIL",
+    "TREPADEIRA",
+    "Trepadeiras de Flor",
+    "Quem sobe, floresce.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/trepadeiras-de-flor/coringa-jardim-vertical-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 200,
+     "alt": "André ao lado de um muro coberto de trepadeira florida"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Trepadeira dá sombra barata e ecológica.",
+    "Amarre no apoio com barbante em oito.",
+    "Aqui tem apoio, flor, poda e semente.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Olhe quem sobe no seu muro hoje.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/trepadeiras-de-flor/coringa-jardim-vertical-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 131,
+     "alt": "André olhando uma trepadeira florida subir pela cerca com carinho"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Amarre em oito no apoio.",
+    "Assim o caule não roça.",
+    "CUIDADO",
+    "A semente da ipomeia é tóxica.",
+    "Deixe longe de criança."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da trepadeira",
+    "06",
+    "CAPÍTULO 1",
+    "Apoio e amarra",
+    "08",
+    "CAPÍTULO 2",
+    "Flor de cada uma",
+    "12",
+    "CAPÍTULO 3",
+    "Poda e cuidado",
+    "15",
+    "CAPÍTULO 4",
+    "Trepadeira de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Folha manchada? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA TREPADEIRA",
+    "Antes de agir",
+    "O que olhar",
+    "APOIO",
+    "Ramos amarrados",
+    "LUZ",
+    "Luz plena",
+    "TERRA",
+    "Fértil, que escoe",
+    "MUDA",
+    "Estaca ou semente",
+    "VASO",
+    "Treliça no fundo",
+    "NA PRÁTICA\tATENÇÃO",
+    "Mosca-branca e ácaro incomodam"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Apoio e amarra",
+    "01\tCerto e errado",
+    "02\tAmarre, passo a passo",
+    "03\tTrepadeira de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/trepadeiras-de-flor/coringa-jardim-vertical-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 159,
+     "alt": "André amarrando o ramo de uma trepadeira num suporte"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Amarra\tEm oito\tRoça no apoio",
+    "Vaso\tTreliça antes\tTreliça depois",
+    "Rega\tSem excesso\tÁgua demais",
+    "Semente\tLonge de criança\tAo alcance",
+    "Mosca-branca e ácaro atacam a mandevila.",
+    "DICA DO ANDRÉ",
+    "Uma muda ao pé de cada vara."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Flor de cada uma",
+    "01\tAmarre, passo a passo",
+    "02\tTrepadeira de perto",
+    "03\tFolha manchada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/trepadeiras-de-flor/coringa-podar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 181,
+     "alt": "André podando uma trepadeira que cobre um arco"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Trepadeira? Faça assim.",
+    "VASO",
+    "Treliça primeiro",
+    "AMARRE",
+    "Barbante em oito",
+    "PLANTE",
+    "Muda ao pé da vara",
+    "1",
+    "PONHA",
+    "A treliça no fundo, antes da terra.",
+    "2",
+    "AMARRE",
+    "Em oito, sem roçar.",
+    "3",
+    "PLANTE",
+    "Uma muda ao pé de cada vara.",
+    "DICA DO ANDRÉ",
+    "Semente de papel: uma hora de molho."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/trepadeiras-de-flor/trp-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 158,
+     "alt": "Mãos encaixando uma treliça no fundo de um vaso vazio antes de colocar a terra"
+    },
+    {
+     "src": "/guias/trepadeiras-de-flor/trp-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 216,
+     "alt": "Mãos amarrando com barbante em oito o caule de uma trepadeira a uma vara de madeira"
+    },
+    {
+     "src": "/guias/trepadeiras-de-flor/trp-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 283,
+     "alt": "Mãos plantando uma muda de trepadeira ao pé de uma vara de bambu no canteiro"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · DE PERTO",
+    "Quem enrola, quem sobe",
+    "A corda-de-viola sobe enrolada, sem gavinha.",
+    "O balãozinho chega a 3 a 5 m.",
+    "O estefanótis tem flor de cera perfumada.",
+    "A bela-emília dá florzinha azul em estrela.",
+    "O cissus-canguru tem folha em coração."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Folha manchada?",
+    "1",
+    "O QUE PARECE",
+    "Primavera com folha doente e manchada.",
+    "O QUE PODE SER",
+    "Água demais.",
+    "COMO RESOLVER",
+    "Espace a rega, ela aguenta calor."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/trepadeiras-de-flor/trp-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 217,
+     "alt": "Primavera (buganvília) com folhas manchadas e doentes ao lado de flores rosa"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Poda e cuidado",
+    "01\tPoda e cuidado",
+    "02\tCuidado de cada uma",
+    "03\tTrepadeira de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/trepadeiras-de-flor/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André plantando uma muda de trepadeira ao pé de um muro"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CUIDADO",
+    "Poda e cuidado",
+    "ALAMANDA",
+    "Ramos amarrados no suporte",
+    "TUMBÉRGIA",
+    "Terra fértil que escoe",
+    "O QUE ELAS PEDEM",
+    "Cipó-de-são-joão luz plena e desbaste",
+    "Ipomeia luz plena e suporte",
+    "Tumbérgia adubo a cada 10 dias",
+    "Mandevila mosca-branca e ácaro",
+    "Bom saber",
+    "Cipó pega de estaca ou mergulhia",
+    "Glicínia faz vagens de feijão"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Mosca-branca e ácaro incomodam a alamanda.",
+    "Toda a glicínia faz mal se for comida.",
+    "A semente da ipomeia é muito tóxica.",
+    "FAÇA ASSIM",
+    "Amarre em oito no apoio.",
+    "Pode a glicínia dois meses após a flor."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · FLOR E COR",
+    "Quatro trepadeiras",
+    "1",
+    "Tumbérgia",
+    "Flor com olho preto, cortina viva.",
+    "2",
+    "Mandevila",
+    "Trombeta rosa em cachos.",
+    "3",
+    "Cobeia",
+    "Cobre cerca e arco depressa.",
+    "4",
+    "Ipomeia",
+    "Abre a flor com o sol da manhã.",
+    "CHAVE\tTrepadeira\tO que ela dá"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/trepadeiras-de-flor/trp-var-tumbergia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 279,
+     "alt": "Tumbérgia-alata amarela com olho preto cobrindo uma cerca"
+    },
+    {
+     "src": "/guias/trepadeiras-de-flor/trp-var-mandevila.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 272,
+     "alt": "Mandevila com flores rosa em forma de trombeta, em cachos"
+    },
+    {
+     "src": "/guias/trepadeiras-de-flor/trp-var-cobeia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 296,
+     "alt": "Cobeia roxa em forma de sino cobrindo um arco de jardim"
+    },
+    {
+     "src": "/guias/trepadeiras-de-flor/trp-var-ipomeia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 266,
+     "alt": "Ipomeia azul aberta pela manhã numa cerca"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Trepadeira de perto",
+    "GLICÍNIA",
+    "Depois da flor, vagens de feijão.",
+    "ALAMANDA",
+    "Flor laranja-amarela ou amarelo-clara.",
+    "TUMBÉRGIA",
+    "A amarelinha tem miolo marrom-escuro.",
+    "MANDEVILA",
+    "A boliviana tem miolo dourado.",
+    "DICA DO ANDRÉ",
+    "Ervilha com feijão de vara chama abelha."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "15",
+    "CM",
+    "é a flor-da-lua branca e perfumada.",
+    "O caule solta leite quando cortado.",
+    "E MAIS UMA",
+    "A ervilha-de-cheiro tem variedade de 300 anos."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Barbante em oito no apoio",
+    "Treliça no fundo do vaso",
+    "Uma muda ao pé de cada vara",
+    "Ramos amarrados no suporte",
+    "Semente de papel de molho",
+    "Glicínia podada depois da flor",
+    "Semente tóxica longe de criança",
+    "Ipomeia em luz plena com suporte",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Trepadeira pede apoio e paciência. Tente e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "121\tVOCÊ TEM",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "São 121 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 122 BULBOS E DÁLIAS",
+    "Comente BULBO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/trepadeiras-de-flor/coringa-jardim-vertical-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 149,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

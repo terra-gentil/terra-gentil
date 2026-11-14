@@ -1,0 +1,439 @@
+{
+ "codigo": "TG128",
+ "slug": "ervas-de-cozinha",
+ "titulo": "Ervas de Cozinha",
+ "capa": {
+  "src": "/guias/ervas-de-cozinha/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Ervas de Cozinha"
+ },
+ "meta": {
+  "titulo": "Ervas de cozinha: guia grátis de plantio",
+  "descricao": "Como plantar erva de cozinha no lugar e na terra certos, passo a passo, colher sem machucar e fazer muda. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG128.pdf",
+  "atualizado": "2026-11-14"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t128",
+    "COLEÇÃO TERRA GENTIL",
+    "ERVAS",
+    "Ervas de Cozinha",
+    "Quem planta erva, colhe sabor.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervas-de-cozinha/alecrim-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 164,
+     "alt": "André colhendo ramos de alecrim na horta"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Hortelã-d'água gosta de pé na água.",
+    "Alecrim quer terra que escorra bem.",
+    "Lavanda quer terra seca e sol pleno.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Escolha uma erva para o seu vaso.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervas-de-cozinha/alecrim-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 262,
+     "alt": "André cheirando um ramo de alecrim com carinho"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Lavanda quer terra seca e arenosa.",
+    "Que escorra bem, com sol pleno.",
+    "NO CALOR",
+    "Azedinha pede rega boa.",
+    "E aguenta meia-sombra."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da erva",
+    "06",
+    "CAPÍTULO 1",
+    "Terra e lugar",
+    "08",
+    "CAPÍTULO 2",
+    "Passo a passo",
+    "12",
+    "CAPÍTULO 3",
+    "Colheita e muda",
+    "15",
+    "CAPÍTULO 4",
+    "Ervas de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Quer colher raiz? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA ERVA",
+    "Antes de agir",
+    "O que olhar",
+    "ALECRIM",
+    "Protegido do vento",
+    "LAVANDA",
+    "Terra seca, sol pleno",
+    "CIDREIRA",
+    "Terra rica e úmida",
+    "ORÉGANO",
+    "Lugar quente",
+    "VIOLETA",
+    "Sombra e umidade",
+    "NA PRÁTICA\tATENÇÃO",
+    "Erva-doce não quer argila pesada"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Terra e lugar",
+    "01\tCerto e errado",
+    "02\tPasso a passo",
+    "03\tErvas de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervas-de-cozinha/hortela-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 158,
+     "alt": "André ao lado de um canteiro de hortelã"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Salsinha\tLisa no frio\tCrespa na seca",
+    "Loureiro\tEstaca verde\tSemente",
+    "Erva-doce\tTerra leve\tArgila pesada",
+    "Hortelã-d'água\tPé na água\tTerra seca",
+    "Segurelha gosta de terra pobre e calcária.",
+    "DICA DO ANDRÉ",
+    "Cebolinha faz bordinha no canteiro."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Passo a passo",
+    "01\tPasso a passo",
+    "02\tErvas de perto",
+    "03\tErva-doce"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervas-de-cozinha/manjericao-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 144,
+     "alt": "André plantando manjericão na horta"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Erva? Faça assim.",
+    "LOUREIRO",
+    "Estaca verde de 10 cm",
+    "ORÉGANO",
+    "30 cm entre as plantas",
+    "MANJERONA",
+    "25 cm entre as plantas",
+    "1",
+    "CORTE",
+    "Estaca verde de 10 cm do louro.",
+    "2",
+    "DESBASTE",
+    "Orégano a 30 cm uma da outra.",
+    "3",
+    "SEMEIE",
+    "Manjerona em terra bem fofa.",
+    "DICA DO ANDRÉ",
+    "Orégano: semeie em lugar quente."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervas-de-cozinha/sec-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 165,
+     "alt": "Mãos cortando uma estaca verde de dez centímetros de um loureiro"
+    },
+    {
+     "src": "/guias/ervas-de-cozinha/sec-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 273,
+     "alt": "Mãos desbastando mudinhas de orégano no canteiro para deixar espaço entre elas"
+    },
+    {
+     "src": "/guias/ervas-de-cozinha/sec-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 276,
+     "alt": "Mãos semeando manjerona em terra bem fofa"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · PASSO A PASSO",
+    "Ervas de perto",
+    "Alcachofra: plante o broto, a 75 cm.",
+    "Rende mais no 3º ano e sai no 5º.",
+    "Confrei se multiplica por divisão.",
+    "Endro nasce fácil de semente.",
+    "Cominho gosta de terra arenosa."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Não quer semente?",
+    "1",
+    "O QUE PARECE",
+    "Erva-doce com flores.",
+    "O QUE PODE SER",
+    "Flor que vira semente.",
+    "COMO RESOLVER",
+    "Tire as flores."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervas-de-cozinha/sec-sintoma-1.webp",
+     "largura": 700,
+     "altura": 1254,
+     "kb": 254,
+     "alt": "Erva-doce com flores amarelas abertas no canteiro"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Colheita e muda",
+    "01\tColher e plantar",
+    "02\tAtenção",
+    "03\tQuatro ervas"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervas-de-cozinha/salsinha-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 173,
+     "alt": "André colhendo salsinha da horta"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · COLHEITA",
+    "Colher e plantar",
+    "RAIZ",
+    "No fim do crescimento",
+    "ALCACHOFRA",
+    "Melhor no 3º ano",
+    "O QUE ELA PEDE",
+    "Amoreira-preta terra boa, lugar quente",
+    "Confrei rega regular em terra seca",
+    "Violeta sombra e terra rica",
+    "Cidreira sol e um pouco de sombra",
+    "Bom saber",
+    "Pimenta-do-reino dá por uns 10 anos",
+    "Caiena é pimenta seca e moída"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Alcachofra sai no quinto ano.",
+    "Erva-doce não vai em argila pesada.",
+    "Hortelã-d'água quer terra encharcada.",
+    "FAÇA ASSIM",
+    "Cominho: sem mato por perto.",
+    "Azedinha: tire as flores."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · QUATRO ERVAS",
+    "Quatro ervas",
+    "1",
+    "Manjericão",
+    "Cheiros diferentes.",
+    "2",
+    "Orégano dourado",
+    "Existe de folha dourada.",
+    "3",
+    "Nirá",
+    "Cebolinha-chinesa, folha chata.",
+    "4",
+    "Tomilho",
+    "Dezenas de tipos.",
+    "CHAVE\tErva\tO que ela tem"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervas-de-cozinha/sec-var-manjericao.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 226,
+     "alt": "Manjericão de folhas verdes e roxas em vasos"
+    },
+    {
+     "src": "/guias/ervas-de-cozinha/sec-var-oregano.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 298,
+     "alt": "Orégano de folha dourada no canteiro"
+    },
+    {
+     "src": "/guias/ervas-de-cozinha/sec-var-nira.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 281,
+     "alt": "Nirá, cebolinha-chinesa de folha chata"
+    },
+    {
+     "src": "/guias/ervas-de-cozinha/sec-var-tomilho.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 268,
+     "alt": "Tomilho em touceira com folhinhas miúdas"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Ervas de perto",
+    "ESTRAGÃO",
+    "O russo é rústico, aguenta qualquer terra.",
+    "COENTRO",
+    "Só existe cultivado.",
+    "NIRÁ",
+    "Maior que a cebolinha comum.",
+    "AMORA",
+    "Cresce devagar.",
+    "DICA DO ANDRÉ",
+    "Cebolinha faz bordinha bonita."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "75",
+    "CM",
+    "é a distância para plantar o broto da alcachofra.",
+    "Em terra rica e úmida, com muita água.",
+    "E MAIS UMA",
+    "A pimenta-do-reino produz por uns 10 anos."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Alecrim em terra que escorre",
+    "Lavanda em sol pleno",
+    "Louro de estaca verde",
+    "Orégano a 30 cm",
+    "Manjerona a 25 cm",
+    "Azedinha sem flores",
+    "Hortelã-d'água de pé na água",
+    "Cidreira com sol e sombra",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Erva pede o canto certo e paciência. Tente e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "128\tVOCÊ TEM",
+    "129",
+    "130",
+    "131",
+    "132",
+    "133",
+    "São 128 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 129 MATO QUE CONTA",
+    "Comente MATO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/ervas-de-cozinha/alecrim-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 117,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

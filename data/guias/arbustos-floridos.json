@@ -1,0 +1,439 @@
+{
+ "codigo": "TG123",
+ "slug": "arbustos-floridos",
+ "titulo": "Arbustos Floridos",
+ "capa": {
+  "src": "/guias/arbustos-floridos/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Arbustos Floridos"
+ },
+ "meta": {
+  "titulo": "Arbustos floridos: guia grátis de poda e flor",
+  "descricao": "Como podar e plantar arbusto em vaso, ajustar terra e cor, e cuidar de hortênsia, azaleia e camélia. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG123.pdf",
+  "atualizado": "2026-11-14"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t123",
+    "COLEÇÃO TERRA GENTIL",
+    "ARBUSTO",
+    "Arbustos Floridos",
+    "Flor o ano todo no jardim.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arbustos-floridos/hibisco-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 146,
+     "alt": "André sorrindo ao lado de um arbusto florido no quintal"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Arbusto tem vários caules e forma arredondada.",
+    "A poda decide se a planta vira arbusto ou árvore.",
+    "Aqui tem hortênsia, azaleia e camélia.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Veja qual lado do arbusto você mais olha.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arbustos-floridos/hibisco-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 195,
+     "alt": "André olhando as flores de um arbusto de perto"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Corte a flor seca da hortênsia.",
+    "Até o primeiro par de gemas boas.",
+    "SEM EXAGERO",
+    "Poda forte tira os botões prontos.",
+    "Eles já iam florir."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do arbusto",
+    "06",
+    "CAPÍTULO 1",
+    "Poda e vaso",
+    "08",
+    "CAPÍTULO 2",
+    "Terra e cor",
+    "12",
+    "CAPÍTULO 3",
+    "Arbustos de flor",
+    "15",
+    "CAPÍTULO 4",
+    "Arbusto de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Hortênsia sem flor depois da poda? Vá para a página 7."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO ARBUSTO",
+    "Antes de agir",
+    "O que olhar",
+    "LUZ",
+    "Duranta quer sol pleno",
+    "TERRA",
+    "Que escoe bem",
+    "PODA",
+    "Belisque a ponta nova",
+    "VASO",
+    "Maior a cada 2 anos",
+    "LADO",
+    "O mais bonito à vista",
+    "NA PRÁTICA\tATENÇÃO",
+    "Espirradeira é tóxica toda"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Poda e vaso",
+    "01\tCerto e errado",
+    "02\tArbusto no vaso",
+    "03\tTerra e cor"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arbustos-floridos/hibisco-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 177,
+     "alt": "André podando com cuidado um arbusto florido"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Poda\tFlor seca\tPoda forte",
+    "Vaso\tTroca a cada 2 anos\tNunca troca",
+    "Duranta\tPode ao crescer\tDeixa solto",
+    "Espirradeira\tLonge do pet\tPerto do pet",
+    "Duranta cresce rápido.",
+    "DICA DO ANDRÉ",
+    "Hortênsia de vaso passou a flor? Vai para o jardim."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Terra e cor",
+    "01\tArbusto no vaso",
+    "02\tA cor da hortênsia",
+    "03\tBicho na folha"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arbustos-floridos/hibisco-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 163,
+     "alt": "André olhando uma hortênsia de perto"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Arbusto no vaso? Faça assim.",
+    "MOLDE",
+    "Vasinho no vasão",
+    "VASO",
+    "Maior a cada dois anos",
+    "CORTE",
+    "Até o par de gemas",
+    "1",
+    "ENCHA",
+    "O vasão, com o vasinho dentro.",
+    "2",
+    "ENCAIXE",
+    "A planta no buraco do molde.",
+    "3",
+    "CORTE",
+    "A flor seca da hortênsia.",
+    "DICA DO ANDRÉ",
+    "Belisque a ponta do arbusto novo."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arbustos-floridos/arb-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 220,
+     "alt": "Mãos enchendo de terra um vaso grande com um vasinho dentro como molde"
+    },
+    {
+     "src": "/guias/arbustos-floridos/arb-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 258,
+     "alt": "Mãos encaixando um arbusto no buraco deixado pelo molde na terra do vaso grande"
+    },
+    {
+     "src": "/guias/arbustos-floridos/arb-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 194,
+     "alt": "Mãos cortando com tesoura uma flor seca de hortênsia acima de um par de gemas"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · TERRA E COR",
+    "A cor da hortênsia",
+    "Azul em solo ácido.",
+    "Lilás no solo neutro.",
+    "Rosa em solo alcalino.",
+    "A hortênsia branca fica branca.",
+    "Azaleia e mirtilo nascendo sozinhos? Terra ácida."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Bicho na folha?",
+    "1",
+    "O QUE PARECE",
+    "Insetinhos brancos na folha do abutilon.",
+    "O QUE PODE SER",
+    "Mosca-branca ou ácaro.",
+    "ONDE MAIS ACONTECE",
+    "Lantana e duranta também."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arbustos-floridos/arb-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 121,
+     "alt": "Folha de abutilon com mosquinhas brancas na parte de baixo"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Arbustos de flor",
+    "01\tArbustos de flor",
+    "02\tAtenção com pet",
+    "03\tArbusto de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arbustos-floridos/hibisco-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 166,
+     "alt": "André diante de um canteiro de arbustos floridos"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CUIDADO",
+    "Arbustos de flor",
+    "DURANTA",
+    "Pode quando precisar",
+    "MANACÁ",
+    "Meia-sombra, terra rica",
+    "O QUE ELES PEDEM",
+    "Espirradeira sol pleno, terra que escoe",
+    "Abutilon sol ou meia-sombra",
+    "Azaleia mergulhia ou estaca",
+    "Camélia estaca ou enxerto",
+    "Bom saber",
+    "Astrapeia cheiro de coco, ajuda abelha",
+    "Hibisco o Cooperi é anão"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Espirradeira é tóxica em toda a planta.",
+    "Azaleia e manacá-de-cheiro preocupam com pet.",
+    "Hortênsia comida faz mal.",
+    "FAÇA ASSIM",
+    "Para pet, escolha rosa, zínia e gérbera.",
+    "Girassol e hibisco-da-síria também servem."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · FLOR E COR",
+    "Quatro arbustos",
+    "1",
+    "Hortênsia",
+    "A Hanabi parece fogo de artifício.",
+    "2",
+    "Azaleia",
+    "Tem flor dentro da outra.",
+    "3",
+    "Abutilon",
+    "Golden Fleece: sininho amarelo.",
+    "4",
+    "Camélia",
+    "Existe a de flor amarela.",
+    "CHAVE\tArbusto\tO que ele tem"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arbustos-floridos/arb-var-hortensia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 268,
+     "alt": "Hortênsia com flores em forma de estrela, tipo Hanabi"
+    },
+    {
+     "src": "/guias/arbustos-floridos/arb-var-azaleia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 269,
+     "alt": "Azaleia florida com flores de tubo encaixado dentro de outro"
+    },
+    {
+     "src": "/guias/arbustos-floridos/arb-var-abutilon.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 299,
+     "alt": "Abutilon com flores amarelas pendentes em forma de sininho"
+    },
+    {
+     "src": "/guias/arbustos-floridos/arb-var-camelia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 184,
+     "alt": "Camélia de flor amarela entre folhas verdes brilhantes"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Arbusto de perto",
+    "BOLA",
+    "Hortênsia de bola ou de renda.",
+    "CONE",
+    "A de cone dá mais cachos com poda forte.",
+    "FOLHA",
+    "A brilhante prende a poeira.",
+    "FATSHEDERA",
+    "Cruza de hera com fatsia.",
+    "DICA DO ANDRÉ",
+    "Colhendo frutinha? Sente ao lado do pé."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "5",
+    "M",
+    "é o que a crássula alcança como arbusto.",
+    "Ela começa com só 2 cm.",
+    "E MAIS UMA",
+    "O bico-de-papagaio vira arbusto de 3 a 4 metros."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Flor seca da hortênsia cortada",
+    "Poda leve na hortênsia",
+    "Vaso maior a cada dois anos",
+    "Lado bonito virado para você",
+    "Ponta do arbusto novo beliscada",
+    "Pet longe da espirradeira",
+    "Terra que escoe bem",
+    "Olhar o pH da terra da hortênsia",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Arbusto de flor pede paciência e carinho. Tente e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "123\tVOCÊ TEM",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "São 123 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 124 HORTA DIFERENTE",
+    "Comente DIFERENTE no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/arbustos-floridos/hibisco-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 125,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

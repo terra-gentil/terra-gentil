@@ -102,5 +102,19 @@
  ["TG111", "pulgao-e-cochonilha", "Pulgão e cochonilha: guia grátis", "Como reconhecer e tratar pulgão, cochonilha, lagarta e fungo olhando de perto, sem veneno."],
  ["TG112", "orquidea-de-pedra", "Orquídea de pedra: guia grátis de touceira", "Como cuidar de orquídea de pedra e de touceira, com vaso, substrato, água de chuva, sol e flor de perto."],
  ["TG113", "pimenta-no-canteiro", "Pimenta no canteiro: guia grátis de plantio", "Como plantar pimenta da semente ao canteiro, com repique, desponte, pulgão, ácaro e o ardido de cada uma."],
- ["TG114", "arvore-e-raiz", "Árvore e raiz: guia grátis de plantio e rega", "Como plantar e regar árvore nova, entender raiz e fungo, cuidar de frutíferas e evitar cancro e fusariose."]
+ ["TG114", "arvore-e-raiz", "Árvore e raiz: guia grátis de plantio e rega", "Como plantar e regar árvore nova, entender raiz e fungo, cuidar de frutíferas e evitar cancro e fusariose."],
+ ["TG115", "extratos-e-chas", "Extratos e chás: guia grátis de planta", "Como preparar extrato e chá de planta no balde, coar, guardar e saber quando usar na horta e no jardim, com o teste certo."],
+ ["TG116", "araceas-de-casa", "Aráceas de casa: guia grátis de luz e rega", "Como cuidar de aráceas dentro de casa, com a luz e a rega certas, folhas e flores, e o jeito de cada planta."],
+ ["TG117", "agave-e-companhia", "Agave e companhia: guia grátis de suculenta", "Como cuidar de agave, babosa, aloe, haworthia e iuca, tirar filhote e conhecer cada uma de perto."],
+ ["TG118", "palmeiras-e-bambu", "Palmeiras e bambu: guia grátis de cuidado", "Como cuidar de palmeira em casa, plantar bambu, usar tutor de bambu e conhecer cada palmeira de perto."],
+ ["TG119", "rosa-pelo-mundo", "Rosa pelo mundo: guia grátis de cuidado", "Como cuidar de rosa, entender óleo e perfume, plantar rosa de semente e conhecer a história da rosa pelo mundo."],
+ ["TG120", "estaca-de-jardim", "Estaca de jardim: guia grátis de muda", "Como fazer muda por estaca de ramo, de suculenta, de arbusto e de folhagem, e outros jeitos de multiplicar planta."],
+ ["TG121", "trepadeiras-de-flor", "Trepadeiras de flor: guia grátis de apoio", "Como dar apoio e amarra à trepadeira, saber a flor de cada uma, podar e colher semente, de perto."],
+ ["TG122", "bulbos-e-dalias", "Bulbos e dálias: guia grátis de plantio", "Como plantar bulbo em vaso e canteiro, cuidar de dália, lírio e outros bulbos, e conhecer cada um de perto."],
+ ["TG123", "arbustos-floridos", "Arbustos floridos: guia grátis de poda e flor", "Como podar e plantar arbusto em vaso, ajustar terra e cor, e cuidar de hortênsia, azaleia e camélia."],
+ ["TG124", "horta-diferente", "Horta diferente: guia grátis de planta nova", "Como evitar erros comuns e plantar raiz, talo, folha, flor e fruta fora do comum, com ervas e frutinhas novas."],
+ ["TG125", "horta-em-pouco-espaco", "Horta em pouco espaço: guia grátis", "Como fazer horta em pouco espaço, com vaso e terra certos, luz e rega, parede e palete, até a colheita."],
+ ["TG126", "desenho-do-jardim", "Desenho do jardim: guia grátis de projeto", "Como desenhar o jardim com canteiro e piso, ler sol e solo, planejar água e árvore e escolher as plantas."],
+ ["TG127", "folha-colorida", "Folha colorida: guia grátis de folhagem", "Como cuidar de folha pintada, begônia, maranta, peperômia e folha variegada, e olhar cada folha de perto."],
+ ["TG128", "ervas-de-cozinha", "Ervas de cozinha: guia grátis de plantio", "Como plantar erva de cozinha no lugar e na terra certos, passo a passo, colher sem machucar e fazer muda."]
 ]

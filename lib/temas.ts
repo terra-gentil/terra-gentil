@@ -21,37 +21,37 @@ export const TEMAS: Tema[] = [
     id: 'suculentas',
     nome: 'Suculentas, cactos e rosa-do-deserto',
     chamada: 'Pouca água, muito sol e mudas que viram coleção.',
-    codigos: ['TG004', 'TG010', 'TG011', 'TG019', 'TG020', 'TG021', 'TG077', 'TG078'],
+    codigos: ['TG004', 'TG010', 'TG011', 'TG019', 'TG020', 'TG021', 'TG077', 'TG078', 'TG117'],
   },
   {
     id: 'rosas',
     nome: 'Roseiras',
     chamada: 'Rosa no vaso, poda, doença e muda de estaca.',
-    codigos: ['TG029', 'TG030', 'TG031', 'TG032', 'TG081', 'TG096', 'TG110'],
+    codigos: ['TG029', 'TG030', 'TG031', 'TG032', 'TG081', 'TG096', 'TG110', 'TG119'],
   },
   {
     id: 'horta',
     nome: 'Horta em casa',
     chamada: 'Da semente ao prato, no vaso, na varanda ou no canteiro.',
-    codigos: ['TG012', 'TG013', 'TG014', 'TG025', 'TG027', 'TG039', 'TG040', 'TG042', 'TG043', 'TG044', 'TG045', 'TG055', 'TG061', 'TG063', 'TG064', 'TG065', 'TG067', 'TG068', 'TG079', 'TG087', 'TG088', 'TG089', 'TG090', 'TG091', 'TG104', 'TG107', 'TG109', 'TG113'],
+    codigos: ['TG012', 'TG013', 'TG014', 'TG025', 'TG027', 'TG039', 'TG040', 'TG042', 'TG043', 'TG044', 'TG045', 'TG055', 'TG061', 'TG063', 'TG064', 'TG065', 'TG067', 'TG068', 'TG079', 'TG087', 'TG088', 'TG089', 'TG090', 'TG091', 'TG104', 'TG107', 'TG109', 'TG113', 'TG124', 'TG125', 'TG128'],
   },
   {
     id: 'dentro-de-casa',
     nome: 'Plantas dentro de casa',
     chamada: 'Folhagens e flores para pouca luz, com bicho em casa.',
-    codigos: ['TG008', 'TG009', 'TG033', 'TG034', 'TG035', 'TG036', 'TG037', 'TG038', 'TG051', 'TG052', 'TG053', 'TG066', 'TG069', 'TG070', 'TG074', 'TG082', 'TG100'],
+    codigos: ['TG008', 'TG009', 'TG033', 'TG034', 'TG035', 'TG036', 'TG037', 'TG038', 'TG051', 'TG052', 'TG053', 'TG066', 'TG069', 'TG070', 'TG074', 'TG082', 'TG100', 'TG116', 'TG118', 'TG127'],
   },
   {
     id: 'jardim',
     nome: 'Jardim e quintal',
     chamada: 'Começar do zero, chamar abelha e passarinho, árvore e flor.',
-    codigos: ['TG024', 'TG026', 'TG028', 'TG046', 'TG047', 'TG048', 'TG049', 'TG050', 'TG054', 'TG056', 'TG062', 'TG071', 'TG072', 'TG083', 'TG085', 'TG092', 'TG093', 'TG095', 'TG102', 'TG105', 'TG106', 'TG108', 'TG114'],
+    codigos: ['TG024', 'TG026', 'TG028', 'TG046', 'TG047', 'TG048', 'TG049', 'TG050', 'TG054', 'TG056', 'TG062', 'TG071', 'TG072', 'TG083', 'TG085', 'TG092', 'TG093', 'TG095', 'TG102', 'TG105', 'TG106', 'TG108', 'TG114', 'TG121', 'TG122', 'TG123', 'TG126'],
   },
   {
     id: 'cuidados',
     nome: 'Cuidados do dia a dia',
     chamada: 'Rega, terra, mudas de graça, praga e mato sem veneno.',
-    codigos: ['TG005', 'TG006', 'TG007', 'TG022', 'TG023', 'TG041', 'TG057', 'TG058', 'TG059', 'TG060', 'TG075', 'TG097', 'TG101', 'TG103', 'TG111'],
+    codigos: ['TG005', 'TG006', 'TG007', 'TG022', 'TG023', 'TG041', 'TG057', 'TG058', 'TG059', 'TG060', 'TG075', 'TG097', 'TG101', 'TG103', 'TG111', 'TG115', 'TG120'],
   },
 ];
 

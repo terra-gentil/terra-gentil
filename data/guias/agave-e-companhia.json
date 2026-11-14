@@ -1,0 +1,439 @@
+{
+ "codigo": "TG117",
+ "slug": "agave-e-companhia",
+ "titulo": "Agave e Companhia",
+ "capa": {
+  "src": "/guias/agave-e-companhia/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Agave e Companhia"
+ },
+ "meta": {
+  "titulo": "Agave e companhia: guia grátis de suculenta",
+  "descricao": "Como cuidar de agave, babosa, aloe, haworthia e iuca, tirar filhote e conhecer cada uma de perto. Livro grátis do André, com passo a passo e PDF para baixar.",
+  "pdf": "TG117.pdf",
+  "atualizado": "2026-11-14"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t117",
+    "COLEÇÃO TERRA GENTIL",
+    "AGAVE",
+    "Agave e Companhia",
+    "Sol, areia e pouca água.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/agave-e-companhia/agave-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 123,
+     "alt": "André ao lado de uma agave grande no quintal"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Agave é das Américas, babosa é do Velho Mundo.",
+    "Muitas agaves morrem depois de florir.",
+    "Aqui tem agave, aloe, haworthia e iuca.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Olhe a ponta da folha da sua agave.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/agave-e-companhia/agave-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 127,
+     "alt": "André olhando de perto a roseta de uma agave com carinho"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Dê sol pleno e terra que escoe.",
+    "Agave pede isso.",
+    "SEM EXAGERO",
+    "No vaso, pouca água.",
+    "Metade areia grossa."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da agave",
+    "06",
+    "CAPÍTULO 1",
+    "Agave e filhote",
+    "08",
+    "CAPÍTULO 2",
+    "Babosa e aloe",
+    "12",
+    "CAPÍTULO 3",
+    "Haworthia e iuca",
+    "15",
+    "CAPÍTULO 4",
+    "Agave de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Mancha preta na folha? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA AGAVE",
+    "Antes de agir",
+    "O que olhar",
+    "SOL",
+    "Pleno, sempre",
+    "TERRA",
+    "Que escoe muito bem",
+    "VASO",
+    "Metade areia grossa",
+    "MUDA",
+    "Filhote da base",
+    "LUGAR",
+    "Longe das crianças",
+    "NA PRÁTICA\tATENÇÃO",
+    "Espinho bravo na ponta"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Agave e filhote",
+    "01\tCerto e errado",
+    "02\tFilhote, passo a passo",
+    "03\tAgave de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/agave-e-companhia/agave-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 134,
+     "alt": "André separando um filhote da base de uma agave"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Sol\tPleno\tSombra",
+    "Rega\tPouca\tToda hora",
+    "Filhote\tSeca uns dias\tÚmido",
+    "Terra\tEscoa bem\tEncharcada",
+    "Aloe não morre ao florir, muitas agaves sim.",
+    "DICA DO ANDRÉ",
+    "Agave longe das crianças."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Babosa e aloe",
+    "01\tAloe de perto",
+    "02\tMancha preta",
+    "03\tHaworthia e iuca"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/agave-e-companhia/babosa-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 144,
+     "alt": "André olhando uma babosa com carinho"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Agave? Faça assim.",
+    "SOL",
+    "Pleno",
+    "AREIA",
+    "Metade e metade",
+    "ADUBO",
+    "Líquido fraco",
+    "1",
+    "TIRE",
+    "O filhote da base da agave.",
+    "2",
+    "SEQUE",
+    "Deixe uns dias ao ar.",
+    "3",
+    "PLANTE",
+    "Vaso pequeno, sombra leve.",
+    "DICA DO ANDRÉ",
+    "Corte os filhotes da base."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/agave-e-companhia/agv-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 206,
+     "alt": "Mãos tirando um filhote da base de uma agave"
+    },
+    {
+     "src": "/guias/agave-e-companhia/agv-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 238,
+     "alt": "Mãos deixando um filhote de agave secar sobre a bancada"
+    },
+    {
+     "src": "/guias/agave-e-companhia/agv-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 200,
+     "alt": "Mãos plantando um filhote de agave em vaso pequeno com areia grossa"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · BABOSA E ALOE",
+    "Aloe de perto",
+    "A folha em calha leva a chuva ao centro.",
+    "Pega de semente, estaca ou filhote.",
+    "Tem aloe que vira árvore de 2 a 4 m.",
+    "A folha avermelha quando falta água.",
+    "O miolo da roseta costuma ser oco."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Mancha preta?",
+    "1",
+    "O QUE PARECE",
+    "Mancha preta afundada na folha.",
+    "O QUE PODE SER",
+    "Bactéria na babosa.",
+    "COMO RESOLVER",
+    "Spray de canela com álcool."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/agave-e-companhia/agv-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 183,
+     "alt": "Folha de babosa com mancha preta afundada"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Haworthia e iuca",
+    "01\tHaworthia e iuca",
+    "02\tCuidado e perigo",
+    "03\tAgave de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/agave-e-companhia/haworthia-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 112,
+     "alt": "André com uma haworthia na mão"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CUIDADO",
+    "Haworthia e iuca",
+    "JANELA",
+    "Ponta transparente",
+    "PÉROLA",
+    "Verruguinhas brancas",
+    "O QUE ELA PEDE",
+    "Calor terra úmida, secando",
+    "Frio terra quase seca",
+    "Filhote tire, seque e plante",
+    "Iuca longe de muro e cano",
+    "Bom saber",
+    "Baioneta galho serrado vira árvore",
+    "Iuca não é mandioca"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Iuca engrossa e quebra cano.",
+    "Agave tem espinho afiado na ponta.",
+    "Ácaro deforma o caule da babosa.",
+    "FAÇA ASSIM",
+    "Corte a parte doente e limpe a ferramenta.",
+    "Iuca longe de muro e calçada."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · ESPINHO E FLOR",
+    "Quatro plantas",
+    "1",
+    "Agave-dragão",
+    "Sem espinhos, haste de quase 3 m.",
+    "2",
+    "Agave-filifera",
+    "Fios brancos na borda.",
+    "3",
+    "Agave-americana",
+    "Variegada, a mais de vaso.",
+    "4",
+    "Aloe-tigre",
+    "Folha dura listrada de branco.",
+    "CHAVE\tPlanta\tO que ela tem"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/agave-e-companhia/agv-var-dragao.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 242,
+     "alt": "Agave-dragão sem espinhos com folhas verdes em roseta"
+    },
+    {
+     "src": "/guias/agave-e-companhia/agv-var-filifera.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 222,
+     "alt": "Agave-filifera com fios brancos soltando da borda das folhas"
+    },
+    {
+     "src": "/guias/agave-e-companhia/agv-var-americana.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 275,
+     "alt": "Agave-americana variegada com faixas amarelas na borda"
+    },
+    {
+     "src": "/guias/agave-e-companhia/agv-var-tigre.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 235,
+     "alt": "Aloe-tigre com folhas duras listradas de branco em fileiras"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Agave de perto",
+    "FLOR",
+    "A haste da americana chega a 8 m.",
+    "ANOS",
+    "A pequena leva 5 a 10 para florir.",
+    "FIM",
+    "Com a haste, aquela roseta morre.",
+    "COMER",
+    "Come-se o coração assado e a flor.",
+    "DICA DO ANDRÉ",
+    "A mãe morre e deixa filhotes."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "8",
+    "M",
+    "chega a haste de flor da agave-americana.",
+    "Já a agave-dragão solta haste de quase 3 m.",
+    "E MAIS UMA",
+    "Agave pequena leva 5 a 10 anos para florir."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Sol pleno para a agave",
+    "Terra que escoe muito bem",
+    "Metade areia grossa no vaso",
+    "Filhote seco antes de plantar",
+    "Espinho longe das crianças",
+    "Iuca longe de muro e calçada",
+    "Ferramenta limpa no corte",
+    "Adubo líquido fraco quando cresce",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Agave pede sol e pouca água. Tente e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "117\tVOCÊ TEM",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "São 117 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 118 PALMEIRAS E BAMBU",
+    "Comente PALMEIRA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/agave-e-companhia/agave-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 113,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

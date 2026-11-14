@@ -1,0 +1,439 @@
+{
+ "codigo": "TG126",
+ "slug": "desenho-do-jardim",
+ "titulo": "Desenho do Jardim",
+ "capa": {
+  "src": "/guias/desenho-do-jardim/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Desenho do Jardim"
+ },
+ "meta": {
+  "titulo": "Desenho do jardim: guia grátis de projeto",
+  "descricao": "Como desenhar o jardim com canteiro e piso, ler sol e solo, planejar água e árvore e escolher as plantas. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG126.pdf",
+  "atualizado": "2026-11-14"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t126",
+    "COLEÇÃO TERRA GENTIL",
+    "DESENHO",
+    "Desenho do Jardim",
+    "Todo jardim bonito começa no papel.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/desenho-do-jardim/coringa-gramado-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 182,
+     "alt": "André desenhando a borda de um canteiro curvo no gramado"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Jardim bom começa no desenho.",
+    "Veja sol, solo e vento antes de plantar.",
+    "Aqui tem canteiro, piso, água e árvore.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Veja a sombra de manhã, meio-dia e tarde.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/desenho-do-jardim/coringa-gramado-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 189,
+     "alt": "André observando a sombra de uma árvore no quintal"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Espalhe os vasos no chão.",
+    "Mude de lugar até gostar.",
+    "SEM FORÇAR",
+    "Planta no lugar errado",
+    "gasta água, tempo e dinheiro."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha do jardim",
+    "06",
+    "CAPÍTULO 1",
+    "Canteiro e piso",
+    "08",
+    "CAPÍTULO 2",
+    "Sol e solo",
+    "12",
+    "CAPÍTULO 3",
+    "Água e árvore",
+    "15",
+    "CAPÍTULO 4",
+    "Plantas do desenho",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Mosca no composto? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DO JARDIM",
+    "Antes de agir",
+    "O que olhar",
+    "SOL",
+    "Mais de 6 horas é sol pleno",
+    "SOMBRA",
+    "Menos de 2 horas é fechada",
+    "SOLO",
+    "Cave um buraco de teste",
+    "VENTO",
+    "Muro fechado não resolve",
+    "PRAÇA",
+    "Veja o que vai bem lá",
+    "NA PRÁTICA\tATENÇÃO",
+    "Planta forçada no lugar errado"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Canteiro e piso",
+    "01\tCerto e errado",
+    "02\tDesenhar, passo a passo",
+    "03\tQuintal de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/desenho-do-jardim/coringa-gramado-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 220,
+     "alt": "André cortando a borda curva de um canteiro no gramado"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Planta\tVai bem na praça\tForçada no lugar",
+    "Vasos\tTestados no chão\tPlantados de cara",
+    "Madeira\tSem tratamento\tTratada",
+    "Piso\tCom vãos\tFechado",
+    "Composteira vai na terra, não no piso.",
+    "DICA DO ANDRÉ",
+    "Árvore dá sombra rendada."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Sol e solo",
+    "01\tDesenhar, passo a passo",
+    "02\tQuintal de perto",
+    "03\tMosca no composto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/desenho-do-jardim/coringa-gramado-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 122,
+     "alt": "André olhando o sol batendo num canteiro do quintal"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Desenhar? Faça assim.",
+    "BORDA",
+    "Mangueira no chão",
+    "VASOS",
+    "Espalhe antes",
+    "TESTE",
+    "Buraco no quintal",
+    "1",
+    "ESTICAR",
+    "A mangueira no chão e desenhe a borda curva.",
+    "2",
+    "ESPALHAR",
+    "Os vasos no chão, até gostar.",
+    "3",
+    "CAVAR",
+    "A parede do buraco mostra as camadas.",
+    "DICA DO ANDRÉ",
+    "Pense no tamanho adulto das plantas."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/desenho-do-jardim/dsj-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 289,
+     "alt": "Mãos esticando uma mangueira de jardim sobre a grama para desenhar a borda curva de um canteiro"
+    },
+    {
+     "src": "/guias/desenho-do-jardim/dsj-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 217,
+     "alt": "Mãos mudando vasos de planta de lugar no chão do quintal para testar a disposição"
+    },
+    {
+     "src": "/guias/desenho-do-jardim/dsj-gesto-3.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 269,
+     "alt": "Mãos apontando as camadas de terra na parede de um buraco de teste no quintal"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · SOL E SOLO",
+    "Quintal de perto",
+    "Microclima é o clima de um cantinho.",
+    "Cidade pode ser até 5 graus mais quente.",
+    "Terra de cima é escura; embaixo vem a pedra.",
+    "Barranco perde terra na chuva forte.",
+    "O poço de luz e o muro mudam tudo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Mosca no composto?",
+    "1",
+    "O QUE PARECE",
+    "Moscas em volta da composteira.",
+    "O QUE PODE SER",
+    "Resto de cozinha à mostra.",
+    "COMO RESOLVER",
+    "Cubra com folha ou poda."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/desenho-do-jardim/dsj-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 138,
+     "alt": "Composteira com moscas em volta e restos de cozinha à mostra"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Água e árvore",
+    "01\tÁgua e árvore",
+    "02\tCuidado com o peso",
+    "03\tDesenho de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/desenho-do-jardim/coringa-gramado-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 212,
+     "alt": "André plantando uma árvore pequena no jardim"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · ÁGUA E ÁRVORE",
+    "Água e árvore",
+    "JARDIM DE CHUVA",
+    "Valeta rasa que solta a água devagar",
+    "CAIXA DE CHUVA",
+    "O ladrão manda o excesso a um canteiro",
+    "O QUE PEDEM",
+    "Árvore buraco largo e só 30 cm de fundo",
+    "Tutor frouxo, a 45 cm do chão",
+    "Aspersor muita água evapora",
+    "Mangueira porosa solta água devagar no chão",
+    "Bom saber",
+    "Magnólia muita é compacta",
+    "Íris-amarela toma conta de laguinho"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Vaso pendurado molhado pesa muito.",
+    "Água de banho só sem detergente.",
+    "Telhado verde fundo pesa muito.",
+    "FAÇA ASSIM",
+    "Gancho forte e regue antes de pendurar.",
+    "Teste a água da pia numa planta só."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · PLANTAS DO DESENHO",
+    "Quatro de desenho",
+    "1",
+    "Capim-dos-pampas anão",
+    "Chega a 1,4 m, no sol.",
+    "2",
+    "Grama-preta",
+    "Borda moderna de folha escura.",
+    "3",
+    "Lavanda",
+    "Cerca com mudas a 30 ou 40 cm.",
+    "4",
+    "Peixinho",
+    "Folha peluda que forra o chão.",
+    "CHAVE\tPlanta\tO que ela faz"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/desenho-do-jardim/dsj-var-pampas.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 281,
+     "alt": "Capim-dos-pampas anão com plumas claras ao sol"
+    },
+    {
+     "src": "/guias/desenho-do-jardim/dsj-var-gramapreta.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 279,
+     "alt": "Grama-preta de folha quase negra formando borda de canteiro"
+    },
+    {
+     "src": "/guias/desenho-do-jardim/dsj-var-lavanda.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 267,
+     "alt": "Cerca baixa de lavanda florida ao longo de um caminho"
+    },
+    {
+     "src": "/guias/desenho-do-jardim/dsj-var-peixinho.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 261,
+     "alt": "Peixinho de folha grossa coberta de pelinho branco forrando o chão"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Desenho de perto",
+    "PEDRISCO",
+    "Imita lugar seco e pedregoso.",
+    "TOMILHO",
+    "Entre as pedras aguenta pisada.",
+    "VÃOS",
+    "A chuva entra e você planta neles.",
+    "ERVAS",
+    "Canteiro em cruz, louro no meio.",
+    "DICA DO ANDRÉ",
+    "Louro em vaso pode ser podado em formato."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "3",
+    "X",
+    "mais largo que o vaso deve ser o buraco da árvore.",
+    "Só 30 cm de fundo, porque a raiz vive em cima.",
+    "E MAIS UMA",
+    "Na cidade, grama e canteiro deixam a chuva entrar no chão."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Vasos espalhados no chão",
+    "Borda curva com mangueira",
+    "Sol visto de manhã à tarde",
+    "Buraco de teste no quintal",
+    "Vão no piso para plantar",
+    "Composteira sobre a terra",
+    "Árvore em buraco largo e raso",
+    "Planta que vai bem na praça",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Jardim bom nasce de olhar o quintal antes de plantar. Tente e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "126\tVOCÊ TEM",
+    "127",
+    "128",
+    "129",
+    "130",
+    "131",
+    "São 126 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 127 FOLHA COLORIDA",
+    "Comente COLORIDA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/desenho-do-jardim/coringa-gramado-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 163,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

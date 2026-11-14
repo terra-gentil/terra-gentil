@@ -1,0 +1,439 @@
+{
+ "codigo": "TG118",
+ "slug": "palmeiras-e-bambu",
+ "titulo": "Palmeiras e Bambu",
+ "capa": {
+  "src": "/guias/palmeiras-e-bambu/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Palmeiras e Bambu"
+ },
+ "meta": {
+  "titulo": "Palmeiras e bambu: guia grátis de cuidado",
+  "descricao": "Como cuidar de palmeira em casa, plantar bambu, usar tutor de bambu e conhecer cada palmeira de perto. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG118.pdf",
+  "atualizado": "2026-11-14"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t118",
+    "COLEÇÃO TERRA GENTIL",
+    "PALMEIRA",
+    "Palmeiras e Bambu",
+    "Verde que sobe e balança.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/palmeiras-e-bambu/coringa-luz-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 113,
+     "alt": "André ao lado de uma palmeira grande no quintal"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Pata-de-elefante não é palmeira.",
+    "Palmeira de verdade pede luz e terra que escoe.",
+    "Aqui tem palmeira, bambu e tutor.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Veja se a terra da palmeira secou.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/palmeiras-e-bambu/coringa-luz-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 115,
+     "alt": "André olhando as folhas de uma palmeira com carinho"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Na seca, não deixe a terra secar.",
+    "Palmeira precisa de água, sim.",
+    "SEM EXAGERO",
+    "No frio, terra quase seca.",
+    "Sem secar de vez."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da palmeira",
+    "06",
+    "CAPÍTULO 1",
+    "Palmeiras de casa",
+    "08",
+    "CAPÍTULO 2",
+    "Bambu",
+    "12",
+    "CAPÍTULO 3",
+    "Tutor de bambu",
+    "15",
+    "CAPÍTULO 4",
+    "Palmeira de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Ponta de vara furando? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA PALMEIRA",
+    "Antes de agir",
+    "O que olhar",
+    "LUZ",
+    "Plena ou meia-sombra",
+    "TERRA",
+    "Fértil e que escoe",
+    "REGA",
+    "Farta, sem encharcar",
+    "SEMENTE",
+    "Mais de 26 °C",
+    "MUDA",
+    "Um broto por vaso",
+    "NA PRÁTICA\tATENÇÃO",
+    "Na seca, terra não seca"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Palmeiras de casa",
+    "01\tCerto e errado",
+    "02\tMuda, passo a passo",
+    "03\tPalmeira de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/palmeiras-e-bambu/coringa-muda-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 151,
+     "alt": "André separando brotos da base de uma palmeira"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Água\tFarta\tNenhuma",
+    "Semente\tNo calor\tNo frio",
+    "Muda\tUm por vaso\tTudo junto",
+    "Bambu\tCom barreira\tSolto",
+    "Pata-de-elefante guarda a água no tronco.",
+    "DICA DO ANDRÉ",
+    "Camedórea é segura para cão e gato."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Bambu",
+    "01\tBambu, passo a passo",
+    "02\tBambu de perto",
+    "03\tPonta de vara"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/palmeiras-e-bambu/bambu-da-sorte-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 141,
+     "alt": "André ao lado de uma touceira de bambu"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Bambu? Faça assim.",
+    "TERRA",
+    "Quase toda",
+    "BARREIRA",
+    "Funda e grossa",
+    "COBERTURA",
+    "Folha caída",
+    "1",
+    "PLANTE",
+    "Em vaso grande ou com barreira.",
+    "2",
+    "COBRA",
+    "A terra com a folha caída.",
+    "3",
+    "COLHA",
+    "O broto que fura a terra.",
+    "DICA DO ANDRÉ",
+    "Deixe boa parte crescer."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/palmeiras-e-bambu/plm-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 172,
+     "alt": "Mãos plantando uma muda de bambu em vaso grande"
+    },
+    {
+     "src": "/guias/palmeiras-e-bambu/plm-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 296,
+     "alt": "Mãos espalhando folhas caídas de bambu como cobertura na terra"
+    },
+    {
+     "src": "/guias/palmeiras-e-bambu/plm-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 233,
+     "alt": "Mãos cortando um broto de bambu que acabou de furar a terra"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · BAMBU",
+    "Bambu de perto",
+    "Colha o broto quando a cana fura a terra.",
+    "A folha caída tem sílica que fortalece.",
+    "Galho de bambu vira tutor de graça.",
+    "Vai em quase toda terra, menos encharcada.",
+    "Se alastra: vaso grande ou barreira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Ponta de vara solta?",
+    "1",
+    "O QUE PARECE",
+    "Vara de tutor com a ponta aberta.",
+    "O QUE PODE SER",
+    "Perigo para o olho.",
+    "COMO RESOLVER",
+    "Tampe com potinho ou bola."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/palmeiras-e-bambu/plm-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 215,
+     "alt": "Ponta de vara de bambu no canteiro tampada com bola de tênis velha"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Tutor de bambu",
+    "01\tTutor de bambu",
+    "02\tCuidado e uso",
+    "03\tPalmeira de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/palmeiras-e-bambu/coringa-horta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André montando um tutor de bambu na horta"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · USO",
+    "Tutor de bambu",
+    "TENDA",
+    "5 a 7 varas em círculo",
+    "MURO",
+    "Planta a 30 cm da cerca",
+    "O QUE ELE PEDE",
+    "Ipomeia torre, uma muda por vara",
+    "Tumbérgia pirâmide em vaso ao sol",
+    "Arbusto vara atravessada mede a altura",
+    "Galho vira tutor de graça",
+    "Bom saber",
+    "Ponta tampe com potinho",
+    "Folha vira cobertura"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Galho morto em árvore de rua pode cair.",
+    "Ponta de bambu fura o olho.",
+    "Bambu solto se alastra.",
+    "FAÇA ASSIM",
+    "Poda de limpeza no galho morto.",
+    "Tampe a ponta da vara."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · FOLHA E LEQUE",
+    "Quatro palmeiras",
+    "1",
+    "Tamareira-anã",
+    "Uns 2 m, folha em pena.",
+    "2",
+    "Rabo-de-peixe",
+    "Folíolos em cunha, rasgados.",
+    "3",
+    "Kentia",
+    "Cresce rápido, haste menos arqueada.",
+    "4",
+    "Butiá",
+    "A palmeira da geleia.",
+    "CHAVE\tPalmeira\tO que ela tem"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/palmeiras-e-bambu/plm-var-tamareira.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 278,
+     "alt": "Tamareira-anã com folhas em pena pendendo na ponta"
+    },
+    {
+     "src": "/guias/palmeiras-e-bambu/plm-var-rabo.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 269,
+     "alt": "Palmeira rabo-de-peixe com folíolos em cunha de ponta rasgada"
+    },
+    {
+     "src": "/guias/palmeiras-e-bambu/plm-var-kentia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 231,
+     "alt": "Palmeira kentia com hastes pouco arqueadas dentro de casa"
+    },
+    {
+     "src": "/guias/palmeiras-e-bambu/plm-var-butia.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 287,
+     "alt": "Butiá, palmeira baixa com cachos de frutos alaranjados"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Palmeira de perto",
+    "LEQUE",
+    "A leque-anã chega a 9 m na mata.",
+    "CANÁRIAS",
+    "Chega a 15 m, folha de 5 m.",
+    "SALÃO",
+    "Vendida com uns 15 cm.",
+    "ARECA",
+    "Folha de até 90 cm que se curva.",
+    "DICA DO ANDRÉ",
+    "A palmeira-bambu faz touceira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "15",
+    "M",
+    "chega a tamareira-das-canárias.",
+    "A folha dela tem até 5 m.",
+    "E MAIS UMA",
+    "Palmeira-de-madagascar não é palmeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Água na seca, sem encharcar",
+    "Luz plena ou meia-sombra",
+    "Semente em lugar quente",
+    "Um broto por vaso",
+    "Barreira funda no bambu",
+    "Folha de bambu de cobertura",
+    "Ponta de vara tampada",
+    "Poda de limpeza no galho morto",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Palmeira e bambu pedem água na seca. Tente e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "118\tVOCÊ TEM",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "São 118 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 119 ROSA PELO MUNDO",
+    "Comente PETALA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/palmeiras-e-bambu/coringa-luz-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 106,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

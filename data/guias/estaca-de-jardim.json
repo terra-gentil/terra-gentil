@@ -1,0 +1,439 @@
+{
+ "codigo": "TG120",
+ "slug": "estaca-de-jardim",
+ "titulo": "Estaca de Jardim",
+ "capa": {
+  "src": "/guias/estaca-de-jardim/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Estaca de Jardim"
+ },
+ "meta": {
+  "titulo": "Estaca de jardim: guia grátis de muda",
+  "descricao": "Como fazer muda por estaca de ramo, de suculenta, de arbusto e de folhagem, e outros jeitos de multiplicar planta. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG120.pdf",
+  "atualizado": "2026-11-14"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t120",
+    "COLEÇÃO TERRA GENTIL",
+    "ESTACA",
+    "Estaca de Jardim",
+    "Um galho vira planta nova.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/estaca-de-jardim/jade-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 115,
+     "alt": "André segurando uma estaca de jade com carinho"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Lanterninha pega de estaca o ano todo.",
+    "Cróton enraíza em 4 a 6 semanas.",
+    "Aqui tem estaca, suculenta, arbusto e muda.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache um ramo sem flor para cortar.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/estaca-de-jardim/jade-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 104,
+     "alt": "André olhando um ramo de jade para escolher onde cortar"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Seque o corte da suculenta.",
+    "Dois dias em lugar arejado.",
+    "SEM EXAGERO",
+    "Sem terra que escoe, apodrece.",
+    "Gazânia pede terra que escoe."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da estaca",
+    "06",
+    "CAPÍTULO 1",
+    "Estaca de ramo",
+    "08",
+    "CAPÍTULO 2",
+    "Suculentas",
+    "12",
+    "CAPÍTULO 3",
+    "Arbustos e folhagem",
+    "15",
+    "CAPÍTULO 4",
+    "Outros jeitos",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Estaca apodreceu? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA ESTACA",
+    "Antes de agir",
+    "O que olhar",
+    "JADE",
+    "Tire algumas folhas",
+    "KALANCHOE",
+    "Corte depois de florir",
+    "RIPSÁLIS",
+    "10 a 15 cm na junta",
+    "CRÓTON",
+    "4 a 6 semanas",
+    "DRACENA",
+    "8 a 12 semanas",
+    "NA PRÁTICA\tATENÇÃO",
+    "Camélia no frio é difícil"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Estaca de ramo",
+    "01\tCerto e errado",
+    "02\tEstaca, passo a passo",
+    "03\tQuanto demora"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/estaca-de-jardim/jade-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 137,
+     "alt": "André cortando um ramo de planta com tesoura limpa"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Ramo\tSem flor\tCom flor",
+    "Botão\tTire da estaca\tDeixe",
+    "Jade\tTire folhas\tDeixe todas",
+    "Corte\tSeque antes\tPlante já",
+    "Estaca de figo pode ter até 90 cm.",
+    "DICA DO ANDRÉ",
+    "Estaca de ponta de camélia floresce em 3 a 4 anos."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Suculentas",
+    "01\tEstaca, passo a passo",
+    "02\tQuanto demora",
+    "03\tEstaca apodreceu"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/estaca-de-jardim/kalanchoe-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 115,
+     "alt": "André mostrando uma estaca de kalanchoe"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Estaca? Faça assim.",
+    "RIPSÁLIS",
+    "Pedaços de 10 a 15 cm",
+    "GASTÉRIA",
+    "Dois dias arejada",
+    "PÉROLAS",
+    "Fio preso ao vaso",
+    "1",
+    "CORTE",
+    "Ripsális: pedaços de 10 a 15 cm.",
+    "2",
+    "SEQUE",
+    "Filhote de gastéria: dois dias.",
+    "3",
+    "PRENDA",
+    "O fio de pérolas na terra.",
+    "DICA DO ANDRÉ",
+    "Enraizou? Corte da mãe."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/estaca-de-jardim/est-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 140,
+     "alt": "Mãos cortando um fio de ripsális na junta em pedaços de dez a quinze centímetros"
+    },
+    {
+     "src": "/guias/estaca-de-jardim/est-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 201,
+     "alt": "Mãos pondo um filhote de gastéria cortado para secar numa bandeja em lugar arejado"
+    },
+    {
+     "src": "/guias/estaca-de-jardim/est-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 208,
+     "alt": "Mãos prendendo um fio de colar-de-pérolas na terra de um vaso ao lado da planta mãe"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · SUCULENTAS",
+    "Quanto demora",
+    "Flor-de-baile enraíza em 3 a 6 semanas.",
+    "Coroa-de-cristo: 1 a 6 meses para enraizar.",
+    "Mudinha de kalanchoe: 3 a 6 meses.",
+    "Haworthia de folha leva 1 a 2 anos.",
+    "Folha de jade pega, mas é bem mais lenta."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Estaca apodreceu?",
+    "1",
+    "O QUE PARECE",
+    "Estaca de gazânia apodrecendo.",
+    "O QUE PODE SER",
+    "Terra que não escoa.",
+    "COMO RESOLVER",
+    "Tire o botão e use terra que escoe."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/estaca-de-jardim/est-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 245,
+     "alt": "Estaca de gazânia apodrecendo num vaso com terra encharcada e botão de flor"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Arbustos e folhagem",
+    "01\tCada planta, seu jeito",
+    "02\tAvisos de estaca",
+    "03\tOutros jeitos"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/estaca-de-jardim/kalanchoe-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 141,
+     "alt": "André olhando um arbusto com mudas de estaca no quintal"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · CUIDADO",
+    "Arbustos",
+    "AZALEIA",
+    "8 a 10 semanas",
+    "CLERODENDRO",
+    "3 a 6 semanas",
+    "O QUE ELAS PEDEM",
+    "Camélia fácil em lugar quente",
+    "Limão pega fácil de estaca",
+    "Dracena variegada só por estaca",
+    "Lanterninha qualquer época do ano",
+    "Bom saber",
+    "Cróton alporquia dá planta em um ano",
+    "Figo estaca de até 90 cm"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Gastéria em flor não se multiplica.",
+    "Tradescântia variegada de semente perde a mancha.",
+    "Cacto-estrela é difícil de multiplicar.",
+    "FAÇA ASSIM",
+    "Estaca de kalanchoe após a flor.",
+    "Tradescântia: estaca em qualquer época."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · OUTROS JEITOS",
+    "Quatro plantas",
+    "1",
+    "Gazânia",
+    "Pega fácil, até na água.",
+    "2",
+    "Cróton",
+    "Planta adulta em dois anos.",
+    "3",
+    "Mãe-de-milhares",
+    "Mudinhas na borda da folha.",
+    "4",
+    "Petúnia pendente",
+    "Estaca de ponta.",
+    "CHAVE\tPlanta\tO que ela faz"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/estaca-de-jardim/est-var-gazania.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 217,
+     "alt": "Estacas de gazânia enraizando num copo com água"
+    },
+    {
+     "src": "/guias/estaca-de-jardim/est-var-croton.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 214,
+     "alt": "Muda de cróton com folhas coloridas em vaso"
+    },
+    {
+     "src": "/guias/estaca-de-jardim/est-var-milhares.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 150,
+     "alt": "Mãe-de-milhares com mudinhas na borda das folhas"
+    },
+    {
+     "src": "/guias/estaca-de-jardim/est-var-petunia.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 263,
+     "alt": "Petúnia pendente florida em vaso suspenso"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Outros jeitos",
+    "ALPORQUIA",
+    "Dois cortes em anel, a 1 cm.",
+    "DIVISÃO",
+    "Morango sem estolão: divida a touceira.",
+    "ESTOLÃO",
+    "Tire as flores e prenda na terra.",
+    "FILHOTE",
+    "Bananeira: corte para baixo com faca.",
+    "DICA DO ANDRÉ",
+    "Alporquia serve para uma ou duas mudas."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "3",
+    "M",
+    "é quanto a bananeira nova cresce em um ano.",
+    "Ela parece árvore, mas é uma erva.",
+    "E MAIS UMA",
+    "O mamoeiro também é uma erva."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Corte da suculenta seco antes de plantar",
+    "Gastéria seca dois dias arejada",
+    "Folhas tiradas da estaca de jade",
+    "Botão tirado da estaca de gazânia",
+    "Ramo sem flor para a epíscia",
+    "Kalanchoe cortado depois da flor",
+    "Fio de pérolas preso ao vaso ao lado",
+    "Terra que escoa no vaso",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Estaca pede paciência e terra que escoa. Tente e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "120\tVOCÊ TEM",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "São 120 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 121 TREPADEIRAS DE FLOR",
+    "Comente TREPADEIRA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/estaca-de-jardim/jade-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 95,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

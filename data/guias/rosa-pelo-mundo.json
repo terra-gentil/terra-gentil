@@ -1,0 +1,439 @@
+{
+ "codigo": "TG119",
+ "slug": "rosa-pelo-mundo",
+ "titulo": "Rosa Pelo Mundo",
+ "capa": {
+  "src": "/guias/rosa-pelo-mundo/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Rosa Pelo Mundo"
+ },
+ "meta": {
+  "titulo": "Rosa pelo mundo: guia grátis de cuidado",
+  "descricao": "Como cuidar de rosa, entender óleo e perfume, plantar rosa de semente e conhecer a história da rosa pelo mundo. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG119.pdf",
+  "atualizado": "2026-11-14"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t119",
+    "COLEÇÃO TERRA GENTIL",
+    "PETALA",
+    "Rosa Pelo Mundo",
+    "Uma flor, muitas histórias.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosa-pelo-mundo/roseira-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 158,
+     "alt": "André cheirando uma rosa no jardim"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Na Pérsia, a rosa era símbolo de segredo.",
+    "A Bulgária é a grande produtora de óleo.",
+    "Aqui tem cuidado, óleo, semente e história.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ponha a rosa na água logo ao cortar.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosa-pelo-mundo/roseira-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 178,
+     "alt": "André olhando uma roseira florida com carinho"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Corte a rosa ainda em botão.",
+    "Com 1 ou 2 pétalas soltando.",
+    "DOIS ERROS",
+    "Fechada demais, ela não abre.",
+    "Aberta demais, murcha logo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da rosa",
+    "06",
+    "CAPÍTULO 1",
+    "Cuidado básico",
+    "08",
+    "CAPÍTULO 2",
+    "Óleo e perfume",
+    "12",
+    "CAPÍTULO 3",
+    "Rosa de semente",
+    "15",
+    "CAPÍTULO 4",
+    "Rosa na história",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Flor da rosa comida? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA ROSA",
+    "Antes de agir",
+    "O que olhar",
+    "ÁGUA",
+    "Bastante, sem encharcar",
+    "COBERTURA",
+    "Vira adubo com o tempo",
+    "ADUBO",
+    "Em três vezes no ano",
+    "CORTE",
+    "Botão com 1 ou 2 pétalas",
+    "CLIMA",
+    "Rende de 20 a 28 °C",
+    "NA PRÁTICA\tATENÇÃO",
+    "Troque a água do vaso"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Cuidado básico",
+    "01\tCerto e errado",
+    "02\tCorte, passo a passo",
+    "03\tO óleo de rosa"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosa-pelo-mundo/roseira-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 171,
+     "alt": "André cortando uma rosa em botão com tesoura"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Rosa azul\tDe laboratório\tNatural",
+    "Clima\tTropical serve\tSó no frio",
+    "Açúcar\tCom aditivo\tSozinho",
+    "Terra\tSem sal\tSalgada",
+    "Água da torneira boa serve no vaso.",
+    "DICA DO ANDRÉ",
+    "Cabo longo dura mais no vaso."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Óleo e perfume",
+    "01\tCorte, passo a passo",
+    "02\tO óleo de rosa",
+    "03\tFlor comida"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosa-pelo-mundo/roseira-D-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 207,
+     "alt": "André segurando rosas recém-cortadas"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Rosa? Faça assim.",
+    "CORTE",
+    "No botão",
+    "ÁGUA",
+    "Logo depois do corte",
+    "PERFUME",
+    "Pétalas secas",
+    "1",
+    "CORTE",
+    "Com 1 ou 2 pétalas soltando.",
+    "2",
+    "ÁGUA",
+    "Ponha logo no vaso.",
+    "3",
+    "GAVETA",
+    "Pétalas, cravo e alecrim.",
+    "DICA DO ANDRÉ",
+    "Troque a água do vaso."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosa-pelo-mundo/rpm-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 137,
+     "alt": "Mãos cortando com tesoura uma rosa em botão com uma ou duas pétalas soltando"
+    },
+    {
+     "src": "/guias/rosa-pelo-mundo/rpm-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 208,
+     "alt": "Mãos colocando uma rosa recém-cortada num vaso com água"
+    },
+    {
+     "src": "/guias/rosa-pelo-mundo/rpm-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 210,
+     "alt": "Mãos enchendo um saquinho de pano com pétalas secas de rosa, cravo e alecrim"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · ÓLEO E PERFUME",
+    "O óleo de rosa",
+    "A Bulgária é a grande produtora de óleo.",
+    "Do Vale das Rosas sai 70% a 80% do óleo.",
+    "Uma agulha molhada perfuma um lenço por um mês.",
+    "Saladino levou 500 camelos de água de rosas.",
+    "Para água de rosas, as vermelho-escuras."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Flor comida?",
+    "1",
+    "O QUE PARECE",
+    "Pétalas da rosa roídas.",
+    "O QUE PODE SER",
+    "Besouro na flor.",
+    "COMO RESOLVER",
+    "Cate com a mão, de dia."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosa-pelo-mundo/rpm-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 140,
+     "alt": "Rosa com pétalas roídas por um besouro que está sobre a flor"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Rosa de semente",
+    "01\tCruzar e semear",
+    "02\tRosas famosas",
+    "03\tRosa na história"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosa-pelo-mundo/roseira-E-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 172,
+     "alt": "André olhando o frutinho vermelho de uma roseira"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · SEMENTE",
+    "Rosa de semente",
+    "FRUTINHO",
+    "Rosado ou amarelo",
+    "SECAR",
+    "Dois dias, depois abra",
+    "O QUE ELA PEDE",
+    "Frio\t6 a 8 semanas na geladeira",
+    "Fundo\t1,5 a 2 cm",
+    "Nasce em umas 3 semanas",
+    "Vaso próprio, com 4 folhas",
+    "Bom saber",
+    "Botão belisque o primeiro",
+    "Rosa nova leva de 9 a 12 anos"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · CRUZAMENTO",
+    "ATENÇÃO",
+    "A semente tem casca dura.",
+    "Uma substância a deixa dormindo.",
+    "Ela germina melhor após o frio.",
+    "FAÇA ASSIM",
+    "Tire pétalas e anteras da mãe.",
+    "Passe o pólen do pai com pincel."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · ROSAS FAMOSAS",
+    "Quatro rosas",
+    "1",
+    "Peace",
+    "Amarela com borda rosada.",
+    "2",
+    "Super Star",
+    "Vermelho-alaranjada e perfumada.",
+    "3",
+    "Viridiflora",
+    "Só folhinhas verdes.",
+    "4",
+    "Seven Sisters",
+    "Um cacho mostra sete cores.",
+    "CHAVE\tRosa\tO que ela tem"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosa-pelo-mundo/rpm-var-peace.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 166,
+     "alt": "Rosa Peace amarela com borda rosada num arbusto de jardim"
+    },
+    {
+     "src": "/guias/rosa-pelo-mundo/rpm-var-superstar.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 292,
+     "alt": "Rosa Super Star vermelho-alaranjada em plena flor"
+    },
+    {
+     "src": "/guias/rosa-pelo-mundo/rpm-var-viridiflora.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 137,
+     "alt": "Rosa Viridiflora com folhinhas verdes no lugar das pétalas"
+    },
+    {
+     "src": "/guias/rosa-pelo-mundo/rpm-var-seven.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 270,
+     "alt": "Cacho da rosa Seven Sisters com flores de várias cores"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · NA HISTÓRIA",
+    "Rosa pelo mundo",
+    "PÉRSIA",
+    "Era símbolo de segredo.",
+    "INGLATERRA",
+    "A Guerra das Rosas acabou em casamento.",
+    "FRANÇA",
+    "Josefina juntou 250 variedades.",
+    "EGITO",
+    "Fazia rosa de pano e vendia a Roma.",
+    "DICA DO ANDRÉ",
+    "Rosa colhida no calor dura menos."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "4",
+    "M",
+    "de sestércios: o que Nero gastou em rosas num banquete.",
+    "Em festas romanas, a chuva de pétalas sufocava convidados.",
+    "E MAIS UMA",
+    "Heródoto conta que Midas tinha uma rosa de 60 pétalas."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Rosa na água logo ao cortar",
+    "Água do vaso trocada",
+    "Corte em botão com pétalas soltando",
+    "Cobertura no pé da roseira",
+    "Adubo dividido em três vezes",
+    "Rega sem encharcar",
+    "Pétalas secas na gaveta",
+    "Roseira longe de terra salgada",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Rosa pede boa água e curiosidade. Tente e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "119\tVOCÊ TEM",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "São 119 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 120 ESTACA DE JARDIM",
+    "Comente ESTACA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/rosa-pelo-mundo/roseira-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 124,
+     "alt": "Retrato do André no jardim de rosas"
+    }
+   ]
+  }
+ ]
+}

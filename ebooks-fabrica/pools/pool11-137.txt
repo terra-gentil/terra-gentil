@@ -1,0 +1,89 @@
+# TG 137 Carnivoras no Vaso: 88 fatos (so estes)
+q3-396 [carnívora|Você sabia?] Planta carnívora vive em terra pobre: em vez de tirar comida da raiz, pega e digere inseto
+q3-397 [carnívora|3 erros] Planta carnívora não é fácil dentro de casa: pede água de chuva e ar úmido
+q3-398 [carnívora|5 cuidados] Carnívora gosta de meia-sombra leve e terra só levemente úmida, sempre com água de chuva limpa
+q3-399 [carnívora|Dica do Andre] Casa de ar seco? Uma cúpula de plástico sobre a carnívora segura a umidade
+q3-400 [carnívora|Você sabia?] A dioneia fecha a "boca" na hora quando o inseto encosta nos pelinhos de gatilho, digere e abre de novo
+q3-401 [carnívora|Você sabia?] A drósera não tem boca: tem pelinhos grudentos que prendem e digerem o inseto
+q3-402 [carnívora|Você sabia?] A drósera-redonda solta gotinhas brilhantes nos pelos, que parecem orvalho
+q3-403 [carnívora|Você sabia?] A darlingtônia tem a "jarra" curvada como a cabeça de uma naja
+q3-404 [carnívora|5 cuidados] Nepentes fica melhor pendurada ou na prateleira, com as jarras soltas no ar
+q3-405 [carnívora|Você sabia?] A sarracênia-roxa tem jarras roxas e verdes que lembram carne crua e atraem moscas
+d38-001 [carnivora|Você sabia?] A maioria das carnívoras vive em lugar encharcado, de solo pobre em nutriente e com muito sol. Se você entende isso, já entende o cultivo de quase todas
+d38-002 [carnivora|Você sabia?] A água que escorre devagar pelo solo da turfeira leva embora os minerais. É por isso que o solo onde elas vivem é tão pobre
+d38-004 [carnivora|3 erros] Erro de solo: turfa tem que ser de esfagno. Se a embalagem não diz "sphagnum" (esfagno), não use
+d38-005 [carnivora|Você sabia?] A turfa de esfagno é muito ácida (pH de 3 a 5) e segura até dez vezes o próprio peso em água
+d38-007 [carnivora|3 erros] Musgo verde decorativo vendido como "esfagno" já matou muita carnívora. Esfagno de verdade vem em fios longos, não é o musgo de enfeite
+d38-008 [carnivora|Você sabia?] Na Europa acharam corpos humanos de séculos quase intactos no fundo de turfeiras: a turfa é tão estéril que quase nada apodrece
+d38-012 [carnivora|Você sabia?] A perlita (isopor de pedra) é levemente alcalina, então não passe de 20% da mistura para carnívoras que gostam de ácido
+d38-013 [carnivora|3 erros] O autor largou a vermiculita no solo de carnívoras: ela traz minerais e vira uma pasta mole com o tempo
+d38-015 [carnivora|Você sabia?] Para o autor, a água é provavelmente a questão mais importante no cultivo de carnívoras
+d38-020 [carnivora|5 cuidados] Enxágue a bandeja de vez em quando: o mineral se acumula nela também
+d38-026 [carnivora|Você sabia?] Medidor de sólidos dissolvidos (TDS) é um aparelho a pilha, fácil de achar em loja de aquário e de hidroponia: serve para testar a água da torneira antes de molhar a planta
+d38-027 [carnivora|Você sabia?] Um purificador de osmose reversa tira cerca de 99% dos sólidos da água e já cabe embaixo da pia
+d38-029 [carnivora|5 cuidados] Método da bandeja: vaso furado em pires ou bandeja que sempre tem cerca de 2,5 cm de água
+d38-030 [carnivora|5 cuidados] Pires fundo, quase do tamanho do vaso, deixa encher até em cima e secar aos poucos. Imita o brejo que encharca depois da chuva
+d38-031 [carnivora|3 erros] Vaso autoirrigável (de pavio, tipo violeta-africana) não serve: deixa a terra só úmida, e carnívora quer encharcada
+d38-032 [carnivora|3 erros] Pires de barro cru não é bom para carnívoras, a não ser que seja esmaltado e impermeável
+d38-033 [carnivora|5 cuidados] Para carnívoras, vaso de plástico costuma ser o melhor
+d38-034 [carnivora|Você sabia?] Vaso de barro é evitado: evapora muito, absorve sal que fica no solo e cria alga e limo na parede, porque o solo fica molhado
+d38-035 [carnivora|Você sabia?] Dá para usar vaso sem furo, se for impermeável (plástico, cerâmica esmaltada, vidro). O solo fica molhado o tempo todo
+d38-038 [carnivora|Você sabia?] Quase todas as carnívoras vivem em lugar aberto e ensolarado. Mato fechado e sombra densa é raro
+d38-039 [carnivora|5 cuidados] "Sol pleno" no parapeito de janela quer dizer sol direto por pelo menos cinco ou seis horas. "Meia-sombra" é pelo menos duas a quatro horas
+d38-051 [carnivora|5 cuidados] Com umidade da casa acima de 50%, muita carnívora aguenta luz de cultivo ao ar livre, sem aquário. Tropicais preferem a umidade extra do terrário
+d38-052 [carnivora|5 cuidados] Para luz artificial, o autor recomenda lâmpadas fluorescentes T5 de alta saída (T-5 High Output)
+d38-053 [carnivora|3 erros] A lâmpada de cultivo não deve ficar a mais de 30 cm acima dos vasos, senão a luz chega fraca
+d38-054 [carnivora|Você sabia?] Tenda de cultivo com luz forte transforma um porão numa "estufa subterrânea"
+d38-055 [carnivora|Você sabia?] Planta carnívora ao ar livre não precisa de alimento nenhum: ela atrai e pega insetos sozinha
+d38-056 [carnivora|Você sabia?] Formiga que se muda para o vaso e cria pulgão ou cochonilha para tirar a "melada" pode ser uma vingança contra quem a come
+d38-059 [carnivora|Mito ou verdade] Mito: dar hambúrguer, queijo ou chocolate às carnívoras. Elas até aceitam, mas faz mal e a folha pode embolorar dias depois
+d38-062 [carnivora|Mito ou verdade] Verdade em parte: carnívora sem inseto declina aos poucos, com menos flor e menos semente. As mais saudáveis são as que mais comeram
+d38-074 [carnivora|Mito ou verdade] Mito: carnívora não resolve praga de casa e jardim. Elas não acabam com mosquito no pátio nem comem as lesmas da horta
+d38-078 [carnivora|Você sabia?] Algumas carnívoras vivem só um ano. Outras duram décadas: o autor tem uma Sarracenia purpurea há quase 40 anos
+d38-079 [carnivora|5 cuidados] Planta nova: inspecione inteira antes de misturar com as outras, mesmo vindo de viveiro de confiança
+d38-080 [carnivora|Socorro] Mudar a planta de ambiente pode causar choque: ela para de crescer e depois de algumas semanas volta do pé com brotos novos
+d38-081 [carnivora|Você sabia?] Carnívoras parecem tanto com bicho (têm "rosto" e "boca" e podem ser alimentadas à mão) que o dono se apega como a um pet. Há criança que chorou a morte da Vênus que batizou
+d38-082 [carnivora|Você sabia?] Pulgão nasce grávido e se multiplica mais rápido que coelho. É a praga mais comum de carnívoras
+d38-083 [carnivora|Socorro] Sinal de pulgão: folha nova torcida e deformada
+d38-084 [carnivora|Você sabia?] O mosquito-do-fungo, quando vive no solo, raramente é praga para o autor: ele vive em quase todo solo úmido e ainda vira comida das carnívoras
+d38-086 [carnivora|Você sabia?] A cochonilha de casca (escama) fica parada debaixo de uma casquinha marrom. Se você cutuca, ela não se mexe
+d38-091 [carnivora|Socorro] Mofo-cinzento (botrytis) aparece em terrário úmido, com pouco ar e pouca luz: um mofo peludo cinza que ataca a base da planta
+d38-094 [carnivora|Você sabia?] A Primeira Guerra acabou com coleções inteiras de plantas exóticas: faltou combustível para aquecer as estufas
+d38-096 [carnivora|Você sabia?] A cultura de tecidos tornou comum e barata muita carnívora que antes era raríssima
+d38-097 [carnivora|Você sabia?] A primeira sociedade de plantas carnívoras do mundo foi fundada no Japão em 1948 e existe até hoje
+d38-098 [carnivora|Você sabia?] Fuligem preta (fumagina) nas jarros é inofensiva e sai com pano úmido, mas se aparecer demais pode ser aviso de cochonilha ou pulgão produzindo "melada"
+d38-100 [carnivora|Mito ou verdade] Mito: carnívora só vive em terrário úmido ou estufa quente. Hoje se cultiva em parapeito, varanda, escritório, brejo de jardim e até porão
+d38-120 [carnivora|Você sabia?] Um brejo de jardim para carnívoras é um buraco forrado de plástico, com mistura de turfa e areia no lugar de água
+d38-121 [carnivora|5 cuidados] Mistura do brejo de jardim: turfa e areia em partes iguais, misturadas com água antes de colocar e bem apertadas
+d38-122 [carnivora|5 cuidados] Brejo de jardim com pelo menos 25 a 30 cm de profundidade. Quanto mais fundo, menos precisa regar
+d38-123 [carnivora|3 erros] Forre o brejo com manta de lago ou piscina, não com plástico fino de estufa, que dura muito menos
+d38-124 [carnivora|3 erros] Não faça o brejo num ponto baixo do terreno que enche de chuva. Fure o forro um pouco abaixo da superfície para escoar o excesso
+d38-125 [carnivora|Você sabia?] Em vez de forro, serve piscina infantil ou tanque de lago de plástico enterrado, com alguns furos laterais
+d38-126 [carnivora|5 cuidados] Monte o brejo com montinhos bem drenados e partes baixas mais molhadas, para cada planta achar seu lugar
+d38-127 [carnivora|Você sabia?] Um fosso de água em volta do brejo barra lesma e caracol
+d38-130 [carnivora|Você sabia?] O brejo de turfa não serve para toda carnívora: a Drosophyllum, por exemplo, não cresce nele
+d38-133 [carnivora|5 cuidados] Carnívora num jardim misto: planta em vaso de plástico sem furo e enterre o vaso no chão, com a borda disfarçada por pedra ou musgo
+d38-135 [carnivora|Você sabia?] Mini-bog (mini brejo em vaso largo ou bacia) é uma das formas mais populares e fáceis de cultivar carnívoras
+d38-136 [carnivora|Você sabia?] Floreira de madeira forrada com plástico e plantada com jarro ou drosera chama mais atenção do que gerânio, e ainda pega mosca antes de ela entrar pela janela
+d38-137 [carnivora|Você sabia?] Mini-bog pode ser feito em vaso esmaltado sem furo, urna, vaso de bonsai, saladeira ou cinzeiro grande
+d38-138 [carnivora|5 cuidados] Mini-bog "ilha": vaso dentro de vaso maior com água. O fosso reduz estresse de rega e barra lesma e caracol
+d38-139 [carnivora|Você sabia?] Planta de casa comum tolera pouca luz e pode até queimar no sol direto. Carnívora é o contrário: ama sol
+d38-140 [carnivora|5 cuidados] Para carnívora dentro de casa, o lugar mais claro é o parapeito ou mesa colada no vidro
+d38-141 [carnivora|5 cuidados] A maioria das carnívoras precisa de sol direto por pelo menos duas a cinco horas por dia na época de crescimento
+d38-148 [carnivora|Mito ou verdade] Verdade em parte: umidade importa, mas para carnívora dentro de casa ela é menos importante do que luz boa
+d38-149 [carnivora|5 cuidados] Borrifar água purificada de manhã e à noite ajuda se a casa é seca
+d38-150 [carnivora|Você sabia?] Um terrário bem montado rivaliza com aquário na beleza, dá umas poucas horas de trabalho por mês e, diferente de peixe, não precisa ser alimentado todo dia
+d38-151 [carnivora|5 cuidados] O terrário preferido do autor é um aquário vazio com luz de cultivo na tampa de vidro e as plantas em vasos, cada um no seu pires com água
+d38-152 [carnivora|Você sabia?] No terrário com vasos individuais, se aparecer pulgão numa planta, dá para tirar só ela e tratar antes que a praga se espalhe
+d38-154 [carnivora|Você sabia?] Limpar o aquário de carnívoras fica muito mais fácil quando as plantas ficam em vasos com pires
+d38-158 [carnivora|Você sabia?] Musgo verde decorativo mata como solo, mas pode enfeitar a superfície do terrário sem problema, como cobertura
+d38-159 [carnivora|3 erros] Terrário clássico (terra no fundo do aquário) tem defeito: uma planta com praga ou doença pode levar o tanque inteiro junto
+d38-161 [carnivora|5 cuidados] Solo de terrário para carnívoras: metade turfa e metade areia, ou 80% turfa e 20% perlita
+d38-167 [carnivora|3 erros] Terrário abafado, sempre embaçado e sem ar parado, é convite para mofo e fungo. Deixe uma fresta de 2,5 a 5 cm no topo
+d38-168 [carnivora|5 cuidados] Forrar o fundo e os lados do tanque com algo refletivo (Mylar, cartolina branca ou espelho) reforça a luz e deixa as plantas bem mais coloridas
+d38-169 [carnivora|Você sabia?] Estufa de policarbonato (plástico leve e quase inquebrável) dura mais de 20 anos com boa passagem de luz. Fibra e vidro racham ou quebram
+d38-171 [carnivora|5 cuidados] Sombrite de 50% é o ideal para carnívoras na estufa. Mais denso, como 70%, escurece demais
+d38-685 [carnivora|Você sabia?] Pela definição mais estrita, carnívora produz as próprias enzimas. Heliamphora, Darlingtonia e Byblis liniflora contam com bactérias para ajudar a digerir
+d38-716 [carnivora|Você sabia?] Nos Estados Unidos, mais de 95% dos habitats originais de carnívoras na planície costeira do sudeste já foram destruídos
+d38-717 [carnivora|Você sabia?] Segundo um pesquisador citado no livro, no ritmo atual a dioneia pode se extinguir na natureza em cerca de um século
+d38-720 [carnivora|Você sabia?] Nome científico de planta muda toda hora, e o autor lembra que mudança de nome é opinião de botânico, e não lei da natureza

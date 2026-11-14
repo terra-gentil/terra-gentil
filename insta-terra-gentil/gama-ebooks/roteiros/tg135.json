@@ -1,0 +1,559 @@
+{
+  "livro": "TG 135",
+  "titulo": "Dioneia e Cia",
+  "serie": "#7A2E3A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "135",
+        "COLEÇÃO TERRA GENTIL",
+        "DIONEIA",
+        "Dioneia e Cia",
+        "A Vênus e a aldrovanda de perto.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-A-1.jpg",
+          "alt": "André com uma dioneia de armadilhas abertas ao sol"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "d38-212",
+        "d38-208",
+        "d38-207"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "A dioneia come mosca, formiga e aranha.",
+        "Ela quer sol e substrato úmido.",
+        "Aqui tem cuidado, erro e curiosidade.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Veja onde bate sol em casa.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 135 DIONEIA E CIA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-B-1.jpg",
+          "alt": "André olhando um vaso de dioneia numa janela de sol"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "d38-208",
+        "d38-207",
+        "d38-215"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Dê sol à dioneia.",
+        "Mantenha o substrato úmido.",
+        "NÃO FAÇA",
+        "Não puxe folha recém enegrecida.",
+        "Ela ainda está presa ao rizoma.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 135 DIONEIA E CIA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da dioneia",
+        "06",
+        "CAPÍTULO 1",
+        "Vaso e substrato",
+        "08",
+        "CAPÍTULO 2",
+        "Sol e rega",
+        "12",
+        "CAPÍTULO 3",
+        "Armadilha",
+        "15",
+        "CAPÍTULO 4",
+        "Variedades",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Armadilha fechada? Vá para a página 11.",
+        "Na próxima: a ficha da dioneia",
+        "→",
+        "TG 135 DIONEIA E CIA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "d38-206",
+        "d38-205",
+        "d38-208",
+        "d38-207",
+        "d38-212",
+        "d38-215"
+      ],
+      "textos": [
+        "FICHA DA DIONEIA",
+        "Antes de agir",
+        "O que olhar",
+        "VASO",
+        "Plástico ou esmaltado",
+        "MISTURA",
+        "Areia e turfa, meio a meio",
+        "SOL",
+        "Pleno a parcial",
+        "ÁGUA",
+        "Úmido, sem encharcar",
+        "COMIDA",
+        "Mosca ou formiga grande",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Não puxe folha recém enegrecida",
+        "Na próxima: vaso e substrato",
+        "→",
+        "TG 135 DIONEIA E CIA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Vaso e substrato",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Vaso de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 135 DIONEIA E CIA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-trocar-vaso-C-1.jpg",
+          "alt": "André arrumando um vaso furado de dioneia"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "d38-206",
+        "d38-037",
+        "d38-207",
+        "d38-215",
+        "d38-216",
+        "d38-057",
+        "d38-193"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Vaso",
+        "Plástico ou esmaltado",
+        "Sem furo",
+        "Água",
+        "Úmido, sem encharcar",
+        "Encharcado sempre",
+        "Folha preta",
+        "Tire com tesoura",
+        "Puxar a folha",
+        "Armadilha",
+        "Pinça no pelinho",
+        "Jogar o inseto",
+        "Armadilha preta é normal. Pode aparar.",
+        "DICA DO ANDRÉ",
+        "Cada armadilha pega de uma a três presas.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 135 DIONEIA E CIA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Sol e rega",
+        "01",
+        "Passo a passo",
+        "02",
+        "Armadilha de perto",
+        "03",
+        "Armadilha fechada",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 135 DIONEIA E CIA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-regar-F-1.jpg",
+          "alt": "André regando uma dioneia pela bandeja"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "d38-212",
+        "d38-057"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Alimentar a dioneia? Faça assim.",
+        "ISCA",
+        "Mosca ou formiga",
+        "SECO",
+        "Umedeça antes",
+        "PELINHO",
+        "Estimule com a pinça",
+        "1",
+        "ESCOLHER",
+        "Mosca, formiga grande, aranha ou tatuzinho.",
+        "2",
+        "UMEDECER",
+        "Inseto seco vale, se for umedecido.",
+        "3",
+        "ESTIMULAR",
+        "Estimule os pelinhos com a pinça.",
+        "DICA DO ANDRÉ",
+        "Só jogar o inseto não a faz fechar.",
+        "Na próxima: vaso de perto",
+        "→",
+        "TG 135 DIONEIA E CIA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "dio-gesto-1.jpg",
+          "alt": "Mãos segurando uma pinça com uma mosca pequena sobre a armadilha aberta de uma dioneia"
+        },
+        {
+          "src": "dio-gesto-2.jpg",
+          "alt": "Mãos umedecendo um inseto seco com uma gota de água antes de oferecer à dioneia"
+        },
+        {
+          "src": "dio-gesto-3.jpg",
+          "alt": "Mãos com uma pinça tocando os pelinhos dentro da armadilha aberta de uma dioneia"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "d38-206",
+        "d38-205",
+        "d38-037",
+        "d38-009"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · VASO E SUBSTRATO",
+        "Vaso de perto",
+        "Vaso de plástico ou esmaltado serve bem.",
+        "Substrato: metade areia, metade turfa.",
+        "Ou 4 partes de turfa para 1 de perlita.",
+        "Sem furo, só se for bem fundo.",
+        "Esfagno vivo pode cobrir a muda.",
+        "Na próxima: haste torta",
+        "→",
+        "TG 135 DIONEIA E CIA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "d38-192",
+        "d38-187"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Armadilha fechada?",
+        "1",
+        "O QUE PARECE",
+        "Armadilha fechada sem presa.",
+        "O QUE PODE SER",
+        "Folha caiu ou um dedo tocou.",
+        "COMO RESOLVER",
+        "Espere um ou dois dias. Não cutuque.",
+        "Na próxima: parede e palete",
+        "→",
+        "TG 135 DIONEIA E CIA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "dio-sintoma-1.jpg",
+          "alt": "Dioneia com uma armadilha fechada sem presa e as outras abertas"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Armadilha",
+        "01",
+        "Armadilha",
+        "02",
+        "Como ela fecha",
+        "03",
+        "Aldrovanda",
+        "Na próxima: parede e palete",
+        "→",
+        "TG 135 DIONEIA E CIA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-podar-G-1.jpg",
+          "alt": "André olhando de perto as armadilhas de uma dioneia"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "d38-187",
+        "d38-188",
+        "d38-190",
+        "d38-189",
+        "d38-191",
+        "d38-186",
+        "d38-192"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ARMADILHA",
+        "Como ela fecha",
+        "GATILHO",
+        "Dois toques em 20 s",
+        "VELOCIDADE",
+        "Menos de 1 segundo",
+        "COMO FUNCIONA",
+        "Digere",
+        " de 4 a 10 dias",
+        "Reabre",
+        " e sobra a casca seca",
+        "Escapa",
+        " inseto pequeno, diz Darwin",
+        "Aranha",
+        " visita a casca seca",
+        "Bom saber",
+        "Mistério",
+        " o jeito exato é debatido",
+        "Cuidado",
+        " fechou à toa? reabre em 1 a 2 dias",
+        "Na próxima: palete e cuidado",
+        "→",
+        "TG 135 DIONEIA E CIA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "d38-215",
+        "d38-009",
+        "d38-216",
+        "d38-183"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Não puxe folha recém enegrecida.",
+        "Você pode arrancar a planta inteira.",
+        "Esfagno vivo pode cobrir a muda.",
+        "FAÇA ASSIM",
+        "Tire a folha preta com tesoura.",
+        "Armadilha velha preta pode aparar.",
+        "Na próxima: horta de perto",
+        "→",
+        "TG 135 DIONEIA E CIA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "d38-198",
+        "d38-199",
+        "d38-200",
+        "d38-686"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · VARIEDADES",
+        "Quatro de perto",
+        "1",
+        "Akai Ryu",
+        "Todo vinho escuro, de cultura de tecidos.",
+        "2",
+        "Green Dragon",
+        "Não é verde: só uma faixa esverdeada.",
+        "3",
+        "Dioneia gigante",
+        "Um lado demora 2 ou 3 s para fechar.",
+        "4",
+        "Aldrovanda",
+        "Parente aquática, sem raiz.",
+        "CHAVE",
+        "Planta",
+        "O que ela tem",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 135 DIONEIA E CIA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "dio-var-akairyu.jpg",
+          "alt": "Dioneia Akai Ryu toda vinho escuro com armadilhas abertas"
+        },
+        {
+          "src": "dio-var-greendragon.jpg",
+          "alt": "Dioneia Green Dragon quase vinho com faixa esverdeada na base dos dentes"
+        },
+        {
+          "src": "dio-var-gigante.jpg",
+          "alt": "Dioneia gigante com armadilhas grandes abertas"
+        },
+        {
+          "src": "dio-var-aldrovanda.jpg",
+          "alt": "Aldrovanda flutuando sem raiz na água rasa"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "d38-687",
+        "d38-688",
+        "d38-693",
+        "d38-689",
+        "d38-691"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Aldrovanda de perto",
+        "TAMANHO",
+        "Armadilha de só 2 mm.",
+        "GATILHOS",
+        "Uns 40 pelos em cada uma.",
+        "ÁGUA",
+        "Rasa, uns 15 cm no máximo.",
+        "ISCA",
+        "Pulgas-d'água e vermes entram sozinhos.",
+        "DICA DO ANDRÉ",
+        "Alga é a ruína da aldrovanda.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 135 DIONEIA E CIA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "d38-179",
+        "d38-177",
+        "d38-095"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "160",
+        "KM",
+        "de raio em Cape Fear (EUA): o único lar natural da dioneia.",
+        "O nome muscipula quer dizer ratoeira.",
+        "E MAIS UMA",
+        "Até os anos 1960, era a única carnívora de loja comum.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 135 DIONEIA E CIA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "d38-206",
+        "d38-205",
+        "d38-208",
+        "d38-207",
+        "d38-212",
+        "d38-216",
+        "d38-182",
+        "d38-009"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Vaso de plástico ou esmaltado",
+        "Areia e turfa, meio a meio",
+        "Sol de pleno a parcial",
+        "Substrato úmido sem encharcar",
+        "Inseto seco umedecido antes",
+        "Folha preta tirada com tesoura",
+        "Haste da flor cortada, se não quiser semente",
+        "Esfagno vivo longe da muda",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 135 DIONEIA E CIA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Dioneia pede sol e água na medida. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "135",
+        "VOCÊ TEM",
+        "136",
+        "137",
+        "138",
+        "139",
+        "140",
+        "São 135 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 136 CEPHALOTUS E CIA",
+        "Comente CEPHALOTUS no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 135 DIONEIA E CIA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+# TG 141 Terrario: 195 fatos (so estes)
+t40-001 [terrário|Você sabia?] O terrário fechado cria um ambiente parecido com o de uma floresta tropical úmida, num ciclo quase autossuficiente
+t40-002 [terrário|Você sabia?] No terrário fechado a umidade que as plantas soltam fica presa na jarra, então quase não precisa regar
+t40-003 [terrário|Mito ou verdade] Mito: terrário aberto também se cuida sozinho. Sem tampa ele não segura a umidade e não é um ecossistema que se sustenta, então precisa de rega
+t40-004 [terrário|X ou Y?] Para terrário aberto, a escolha são cactos e suculentas, porque gastam muito pouca água. Plantas de mata úmida ficam no fechado
+t40-005 [musgo|3 erros] Erro: misturar musgo de mata com cacto no mesmo vidro. O musgo precisa de tanta umidade para ficar verde que estragaria o cacto
+t40-006 [terrário|5 cuidados] Monte o vidro com plantas que têm a mesma necessidade de umidade, luz e solo, para uma não atrapalhar a outra
+t40-007 [samambaia|Você sabia?] Aralia e samambaia combinam em terrário porque as duas gostam de solo ácido
+t40-008 [musgo|Você sabia?] Musgo em tapete lembra um gramado em miniatura; o musgo em almofada forma um montinho que parece uma colina
+t40-009 [terrário|Você sabia?] Se aparecer inseto que não faz mal, é melhor deixar: ele faz parte do ecossistema do terrário
+t40-011 [samambaia|Você sabia?] Nathaniel Ward descobriu o princípio ao fechar uma crisálida de mariposa num vidro com terra úmida e ver samambaias brotarem
+t40-012 [terrário|Você sabia?] No vidro de Ward a umidade condensava de dia nas paredes e escorria de noite para a terra, mantendo o ambiente sempre úmido
+t40-013 [terrário|Você sabia?] A caixa Wardian trouxe ao Ocidente muitas das plantas tropicais que hoje temos em casa e no jardim
+t40-014 [terrário|Você sabia?] A fotossíntese produz o oxigênio que a gente respira: água e gás carbônico viram açúcar e oxigênio com a luz
+t40-015 [terrário|Mito ou verdade] Mito: planta sufoca dentro do terrário fechado. Verdade: ela não precisa do oxigênio do ambiente, produz o próprio com a luz e adapta o crescimento ao espaço disponível
+t40-016 [terrário|X ou Y?] Planta de casa comum aguenta menos luz porque respira o ar do cômodo; a do terrário fechado precisa de boa luz para fazer o próprio oxigênio
+t40-017 [terrário|Você sabia?] À noite a fotossíntese para, mas a planta continua respirando: absorve oxigênio e solta gás carbônico e vapor de água
+t40-018 [terrário|Você sabia?] A autora tem terrários fechados que ficaram quatro anos sem rega, mas é caso de vidro bem vedado, não promessa
+t40-019 [terrário|Você sabia?] O ciclo da água no vidro: a planta solta vapor pelas folhas, ele condensa na parede, escorre para a terra e volta para a raiz
+t40-020 [terrário|5 cuidados] Como a água é pouca, qualquer impureza fica concentrada, por isso a qualidade da água importa mais no terrário
+t40-022 [terrário|3 erros] O calcário da água deixa resíduo branco no vidro e nas folhas, que pode sufocar a planta, e ainda reduz a acidez do solo
+t40-023 [terrário|5 cuidados] A melhor água para o terrário é a da chuva, bem macia; no campo é melhor que na cidade, onde a chuva tem poluentes
+t40-024 [terrário|5 cuidados] Quem mora em cidade pode usar filtro de jarra ou de osmose reversa em vez de chuva
+t40-026 [terrário|Você sabia?] A raiz precisa respirar: com a terra saturada de água ela sofre
+t40-027 [terrário|Você sabia?] Em terrário de vidro dá para ver, pela parede, as raízes crescendo em direção às zonas mais úmidas
+t40-028 [terrário|Você sabia?] As faixas de cascalho fino sobre a drenagem imitam as camadas de sedimento de um penhasco e também ajudam a espalhar a água
+t40-029 [cacto|Mito ou verdade] Mito: qualquer terra serve para qualquer planta. Cada solo tem química, densidade e nutrientes próprios, e por isso um cacto não cresce em floresta temperada
+t40-030 [terrário|5 cuidados] Como o volume de terra no terrário é pequeno, o certo é acertar o substrato logo de início; ficar adubando depois não é eficaz nem desejável
+t40-031 [terrário|5 cuidados] Alguns substratos comerciais precisam ser enriquecidos, por isso a autora costuma misturar mais de um tipo
+t40-032 [musgo|Você sabia?] O musgo cobre a terra, segura a umidade e diminui a condensação excessiva nas paredes do vidro
+t40-033 [musgo|5 cuidados] O musgo é um indicador: se ele está bem verde, o terrário não precisa de rega
+t40-034 [terrário|5 cuidados] Pedras e cascalho ficam sobre a terra, entre os musgos, e é nessa camada mineral que se joga a água
+t40-035 [terrário|5 cuidados] Os cuidados do terrário se resumem a verificar a umidade da terra, podar de vez em quando e ajustar a posição conforme a luz do cômodo
+t40-036 [terrário|5 cuidados] Deixe o terrário perto de uma janela, mas sem sol direto nas plantas
+t40-038 [terrário|5 cuidados] Gire o terrário meia volta a cada duas semanas para a luz chegar por igual
+t40-039 [terrário|5 cuidados] A regra de posição: a menos de 1 m da janela e sem sol direto
+t40-040 [terrário|Socorro] Sem luz natural boa, use lâmpada de espectro completo (6.200 a 6.500 K) por 8 horas por dia, a pelo menos 50 cm
+t40-041 [terrário|Socorro] Fiapos brancos parecendo mofo no terrário fechado indicam pouca luz ou umidade demais, e devem ser removidos logo
+t40-042 [terrário|Socorro] Pouca luz ou umidade em excesso: é o que o mofo no terrário avisa
+t40-043 [terrário|3 erros] Erro: deixar o terrário no sol direto. O vidro age como lupa e queima as folhas, deixando manchas pretas
+t40-044 [terrário|Você sabia?] A planta também transpira: solta vapor pelos poros (estômatos), e isso umedece o ar do terrário
+t40-045 [terrário|Você sabia?] A condensação se forma no lado mais frio do vidro, por isso é bom girar o terrário
+t40-046 [terrário|Socorro] Vidro tão embaçado que não dá para ver as plantas: abra a tampa uns 10 minutos para o calor sair e a umidade evaporar
+t40-047 [terrário|3 erros] Erro: abrir a tampa assim que aparece condensação. Isso atrapalha o ciclo autossuficiente do terrário
+t40-048 [terrário|5 cuidados] Deixe a terra avisar: quando ficar seca na base das plantas, é hora de regar, normalmente só uma vez por ano no fechado
+t40-049 [terrário|5 cuidados] Para regar o fechado, use borrifador ou esponja úmida na parede, no pé das plantas e no cascalho, evitando molhar o musgo
+t40-050 [terrário|5 cuidados] A quantidade de água por rega vai de 3 colheres de sopa a cerca de 300 ml, conforme o tamanho do vidro
+t40-051 [musgo|Socorro] Musgo perdendo a cor verde: tire do vidro, mergulhe em água filtrada, esprema com delicadeza e devolva
+t40-052 [musgo|Você sabia?] Musgo desbotado também é aviso de que o terrário todo precisa de mais água
+t40-053 [terrário|Você sabia?] Terrário aberto leva menos água que um vaso comum, porque a camada de cascalho ajuda a manter a umidade da terra
+t40-055 [terrário|5 cuidados] Para saber se o aberto precisa de água, olhe a terra sob a camada de cascalho: se está seca, regue
+t40-056 [terrário|3 erros] Erro: deixar o terrário ao ar livre. Temperaturas extremas e sol forte podem ser fatais
+t40-059 [terrário|3 erros] Erro: pôr o terrário perto de fonte de calor. A temperatura sobe, favorece o mofo e faz as folhas caírem
+t40-060 [terrário|5 cuidados] Plantas de terrário são escolhidas por crescer devagar; quando a folha encosta no vidro, apare em vez de trocar por um vaso maior
+t40-061 [terrário|5 cuidados] Poda no terrário: corte logo acima de um nó de folha
+t40-062 [terrário|5 cuidados] Depois da poda deixe o terrário aberto por 24 horas para a planta cicatrizar bem
+t40-063 [suculenta|Você sabia?] Os galhos cortados, principalmente de suculentas, podem ser plantados na terra para formar plantas novas
+t40-065 [terrário|Socorro] Nas primeiras semanas pode surgir mofo branco ou cinza, parecendo algodão, porque os elementos do terrário ainda não se aclimataram
+t40-066 [terrário|Socorro] Mofo no terrário: retire logo com um pano limpo para frear o avanço até o equilíbrio se formar
+t40-067 [terrário|Socorro] Se o mofo tomou uma folha grande, corte a folha; se tomou boa parte da planta, corte rente à base
+t40-068 [terrário|Socorro] A luz é um freio natural do mofo: respeitar a exposição à luz evita as condições para ele aparecer
+t40-069 [terrário|Socorro] Manchas pretas nas folhas podem ser fungo: retire as folhas atingidas e deixe o terrário aberto por 24 horas
+t40-070 [terrário|Socorro] Folha amarela pode ser água demais ou de menos dentro do terrário
+t40-071 [musgo|Socorro] Sinal de excesso de água: terra lamacenta e musgo verde-escuro que se espreme como esponja. Deixe aberto até a umidade sair
+t40-072 [terrário|Socorro] Folha amarelando com terra seca ao toque: o terrário pode estar sendo aberto demais e pedindo um pouco de água
+t40-073 [terrário|Socorro] Água calcária também amarela as folhas; use água filtrada ou de chuva
+t40-074 [terrário|Você sabia?] Queda de folhas verdes é natural: é a planta trocando folha velha por broto novo
+t40-075 [terrário|Você sabia?] Se muitas folhas caem nas primeiras semanas, a planta só precisa de tempo para firmar a raiz e se ajustar à nova umidade
+t40-076 [terrário|Socorro] Pontas e bordas secas ou enroladas indicam calor demais ou ar muito seco dentro do vidro
+t40-077 [terrário|Socorro] Terrário superaquecido: deixe aberto por algumas horas e feche de novo
+t40-079 [terrário|Socorro] Tronco mole junto com queda de folhas: o excesso de água apodreceu a raiz e a base
+t40-080 [terrário|Socorro] Se a terra do terrário tem cheiro de mofo, talvez seja preciso trocar plantas e terra
+t40-081 [terrário|Você sabia?] Minhoca, centopeia, caracol pequeno e inseto alado pequeno podem ficar no terrário
+t40-082 [terrário|Socorro] Lesma e caracol grande devem ser retirados, porque comem as plantas
+t40-083 [musgo|Você sabia?] Lesmas e caracóis chegam como ovos ou larvas escondidos no musgo desde a montagem
+t40-084 [terrário|Socorro] Pontinhos de algodão nas folhas são cochonilha; combata com controle biológico ou sabão inseticida, e o mesmo vale para ácaro e pulgão
+t40-085 [terrário|X ou Y?] Fechado ou aberto? Depende da planta: umas pedem ambiente úmido, outras seco, e isso define o tipo de vidro
+t40-086 [samambaia|X ou Y?] Plantas de ambiente úmido, como samambaia, fittonia e ficus, pertencem ao terrário fechado
+t40-087 [terrário|5 cuidados] A tampa deve segurar a umidade sem vedar de forma hermética; se o vidro tem borracha de vedação, ela pode ser retirada
+t40-088 [terrário|5 cuidados] Tampa transparente ou translúcida é melhor, porque deixa a luz de cima chegar às plantas e o crescimento fica parelho
+t40-089 [cacto|X ou Y?] Cactos e suculentas, de ambiente árido, entram em terrário aberto, que não mantém umidade
+t40-090 [terrário|5 cuidados] Vidro estreito e alto pede planta de crescimento vertical; vidro baixo e largo pede planta baixa ou espalhada
+t40-091 [terrário|3 erros] Erro: escolher garrafa de boca estreita para planta grande e frágil, que pode se machucar ao entrar
+t40-092 [terrário|5 cuidados] Pote de bala, pote de farmácia, vaso de vidro e tigela servem de terrário, desde que o vidro seja transparente e sem cor
+t40-093 [terrário|Você sabia?] Vidro colorido atrapalha: o vidro precisa deixar passar todo o espectro de luz para a planta fazer a fotossíntese completa
+t40-094 [terrário|5 cuidados] Pinça longa de 25 a 30 cm coloca a planta com precisão em garrafa de boca estreita, segurando pela base
+t40-095 [terrário|5 cuidados] Borrifador é a ferramenta mais prática para regar terrário, porque distribui a água por igual até a raiz
+t40-096 [terrário|5 cuidados] Esponja nova e úmida, espremida sobre a terra, faz chuva fina; molhe em água sem calcário
+t40-097 [terrário|5 cuidados] Funil de papel enrolado ajuda a colocar terra e pedra em vidro de boca estreita
+t40-099 [terrário|Você sabia?] Cascalho muito fino (menos de 3 mm) melhora a drenagem e também cobre a terra entre os musgos
+t40-100 [terrário|Você sabia?] Seixo escuro de granito muda de cor e ganha estrias azuladas quando molhado
+t40-101 [terrário|5 cuidados] Cada planta tem exigência de solo: umas querem terra ácida, outras básica ou neutra
+t40-102 [terrário|5 cuidados] O ideal é misturar mais de um tipo de substrato, para enriquecer a terra com propriedades diferentes
+t40-103 [musgo|Você sabia?] O musgo em almofada cresce em solo pobre e ácido de floresta, e a profundidade do verde indica a umidade
+t40-104 [musgo|Você sabia?] O musgo de tufo alto gosta de sombra e pode crescer bastante; dá até para aparar
+t40-105 [musgo|Socorro] Musgo de pedra deve ser hidratado com frequência no vidro, senão fica marrom
+t40-106 [musgo|5 cuidados] Musgo em lâmina deve ser umedecido sempre, sem encharcar, para manter o verde
+t40-107 [terrário|Você sabia?] Líquen é a união de um fungo com uma alga e só prospera em ambiente saudável e sem poluição
+t40-108 [terrário|Você sabia?] Nunca arranque casca de árvore viva, é a pele dela; use casca já caída no chão
+t40-109 [terrário|5 cuidados] Para decorar, escolha galhos caídos já cobertos de musgo ou líquen
+t40-110 [terrário|Você sabia?] Nem toda planta sobrevive em terrário fechado; as plantas do livro foram testadas para viver em ambiente úmido e fechado
+t40-111 [terrário|5 cuidados] A legenda do livro dá a luz pela distância da janela (no máximo 1 m) e avisa: o terrário nunca deve pegar sol direto
+t40-112 [terrário|5 cuidados] A rega das plantas do livro vai de uma vez por ano, só se a terra estiver seca, a uma vez por mês ou mais, conforme a espécie
+t40-113 [suculenta|Você sabia?] Suculenta vem do latim succulentus, que quer dizer cheio de suco, por causa das folhas e caules grossos e carnudos
+t40-114 [suculenta|Você sabia?] Nas suculentas as folhas que perderiam água demais viraram espinhos ou caules gordos, que perdem menos água
+t40-115 [cacto|Você sabia?] Os espinhos dos cactos também servem de defesa
+t40-118 [terrário|3 erros] Erro: coletar musgo, galho e pedra da natureza sem conferir a lei local. Até um pedaço de galho pode abrigar larvas de inseto ameaçado
+t40-119 [terrário|Você sabia?] Pegar muitas pedras numa praia pode acelerar a erosão da costa
+t40-120 [ficus|Você sabia?] O fícus ginseng tem o tronco formado por raízes aéreas; ginseng quer dizer raiz em chinês
+t40-121 [ficus|Você sabia?] O Ficus retusa é uma das plantas mais populares para bonsai
+t40-122 [ficus|Você sabia?] O gênero Ficus tem cerca de 900 espécies
+t40-123 [ficus|Você sabia?] O Ficus pumila é uma trepadeira
+t40-125 [tilandsia|Você sabia?] A tilandsia é epífita: cresce sem terra, num galho, numa pedra, numa casca e até em fio de telefone
+t40-126 [antúrio|Você sabia?] O antúrio faz parte de uma família de quase mil espécies, com formas de flor bem variadas
+t40-128 [sageretia|Você sabia?] A sageretia é chamada de chá do pobre, porque a folha lembra a da planta do chá
+t40-129 [serissa|Você sabia?] O cheiro desagradável da seiva da serissa pode atrair insetos
+t40-130 [polyscias|Você sabia?] O gênero Polyscias reúne mais de cem espécies, que se distinguem pela forma e cor das folhas
+t40-131 [radermachera|Você sabia?] A radermachera é uma planta de casa excelente, com cerca de quinze espécies
+t40-132 [fittonia|Você sabia?] A fittonia tem muitas variedades de folha e cor: verde, vermelha, rosa, laranja e branca
+t40-133 [fittonia|Você sabia?] A fittonia é da América do Sul (Colômbia, Equador, Peru, Bolívia e norte do Brasil)
+t40-134 [dizygotheca|Você sabia?] A folha da dizygotheca vai do verde-escuro ao quase preto, com nervuras avermelhadas
+t40-135 [palmeira|Você sabia?] A palmeira-camedórea fez sucesso na época vitoriana porque vive bem em cômodos frescos e de pouca luz
+t40-136 [monguba|Você sabia?] O tronco grosso da monguba (Pachira aquatica) guarda água e nutrientes para aguentar longas secas
+t40-138 [muehlenbeckia|Você sabia?] Algumas variedades de muehlenbeckia crescem rápido e adultas chegam a 6 m de comprimento
+t40-140 [pilea|Você sabia?] A pilea (planta-do-dinheiro-chinesa) é endêmica da província de Yunnan, no sudoeste da China
+t40-141 [samambaia|Você sabia?] A samambaia-pata-de-coelho (Davallia) vive principalmente em florestas de árvores de folha larga
+t40-143 [aspargo|Você sabia?] O Asparagus falcatus chega a 7 m na natureza e, de tão denso, é usado como cerca viva
+t40-144 [ophiopogon|Você sabia?] O nome ophiopogon vem do grego: ophis, serpente, e pogon, barba
+t40-145 [podocarpo|Você sabia?] O podocarpo é uma das coníferas mais antigas que ainda existem
+t40-147 [cipreste|Você sabia?] O cipreste tradicionalmente é plantado em cemitérios no Mediterrâneo
+t40-148 [oliveira|Você sabia?] Algumas oliveiras têm mais de dois mil anos
+t40-149 [tomilho|Você sabia?] O tomilho é usado principalmente como óleo essencial e na cozinha mediterrânea
+t40-151 [aeônio|Você sabia?] O aeônio é suculenta de regiões de pouca chuva, como partes do Mediterrâneo
+t40-152 [euphorbia|Você sabia?] A família das euforbiáceas é enorme e está em todos os continentes, menos a Antártica; algumas parecem cacto
+t40-153 [sedum|Você sabia?] O sedum se adapta a qualquer clima, desde que a terra seja bem drenada
+t40-154 [sedum|Você sabia?] O sedum é muito difundido pela rusticidade e pela tolerância à seca
+t40-155 [crassula|Você sabia?] Crassula vem do latim crassus, gordo, por causa das folhas grossas que guardam água
+t40-158 [cacto|Você sabia?] A rebutia floresce em abundância, produz muitos brotos e se espalha com facilidade por semente no vaso
+t40-161 [terrário|5 cuidados] Antes de plantar, mergulhe a base das mudas em água filtrada por 5 minutos para o torrão ficar bem úmido
+t40-162 [musgo|5 cuidados] Ponha o musgo úmido (não encharcado) sobre a terra e não sobre o cascalho, para não atrapalhar a rega futura
+t40-163 [terrário|5 cuidados] Depois de montar, só feche o vidro após 48 horas, dando tempo para a umidade assentar
+t40-164 [terrário|Socorro] Árvore frágil no vidro fechado: abra o terrário por algumas horas com regularidade e não regue demais, deixando a superfície da terra secar
+t40-165 [ophiopogon|Você sabia?] O ophiopogon se espalha e pode ser dividido em dois na hora de plantar
+t40-166 [pilea|Você sabia?] A pilea ficou popular na Europa entre quem cultivava plantas de casa antes de os botânicos a estudarem
+t40-167 [pilea|3 erros] Erro: encaixar pilea em vidro estreito. Ela cresce espalhando, e o recipiente precisa ser largo
+t40-168 [serissa|Você sabia?] A serissa dá florzinhas brancas em forma de estrela e é uma das poucas árvores miniatura floríferas boas para terrário
+t40-170 [serissa|Você sabia?] Serissa precisa de circulação regular de ar fresco para prosperar numa jarra
+t40-171 [radermachera|Você sabia?] Em ambiente certo a radermachera vira árvore e tem perfume doce de jasmim na floração
+t40-172 [terrário|Você sabia?] Dá para usar campânula de vidro sobre qualquer base, desde que a água que condensa no vidro possa escorrer para a base
+t40-173 [polyscias|Você sabia?] Samambaia e polyscias vivem bem no calor e na umidade de um terrário fechado, com terra ácida
+t40-174 [samambaia|X ou Y?] Pode trocar uma planta por samambaia, mas ela pede terra mais ácida na base
+t40-175 [ficus|Você sabia?] O Ficus retusa é fácil, resistente e se adapta bem à vida num terrário
+t40-176 [terrário|Você sabia?] O terrário alto do livro, de 76 cm de altura, usa uma cama de terra mais funda, de uns 10 cm
+t40-177 [monguba|3 erros] Erro: escolher monguba de tronco trançado para o terrário. O de tronco único é mais simples e se adapta melhor
+t40-178 [palmeira|5 cuidados] Palmeira no vidro: plante no centro para as folhas poderem se abrir para os lados
+t40-179 [terrário|Você sabia?] Na bacia do Orinoco crescem mais de 30 mil espécies de plantas
+t40-183 [terrário|Você sabia?] Para facilitar, dá para montar o terrário num pote de conserva de cozinha
+t40-184 [tilandsia|Você sabia?] A tilandsia é epífita: cresce nos galhos das árvores e não precisa de substrato
+t40-186 [tilandsia|Você sabia?] A base do recipiente da tilandsia deve ser mais larga que a boca do vidro, para a umidade escapar
+t40-188 [aspargo|Você sabia?] O aspargo-samambaia (Asparagus falcatus) ocupa todo o espaço do vidro com seus ramos finos
+t40-189 [terrário|5 cuidados] Em garrafa de boca estreita, use funil ligado a um tubo para fazer as camadas de cascalho rente ao vidro
+t40-190 [terrário|5 cuidados] Em garrafa, use a pinça longa para segurar a planta pela base e abrir a cova na terra
+t40-191 [terrário|5 cuidados] Ao regar, molhe também a borda interna do vidro para lavar a terra solta que ficou grudada
+t40-197 [terrário|Socorro] Planta coletada pode trazer tatuzinho, formiga, aranha e outros bichos: deixe o terrário fora de casa por alguns dias, protegido da chuva, para eles saírem
+t40-198 [terrário|3 erros] Erro: coletar planta na natureza sem permissão; a autora só usou plantas de propriedade privada, com autorização do dono
+t40-200 [terrário|5 cuidados] Em garrafa de boca estreita, deixe a água escorrer pelas paredes internas, o que ajuda a manter o vidro limpo
+t40-201 [terrário|5 cuidados] Prato de papel enrolado em cone ajuda a despejar a pedra vulcânica numa boca pequena
+t40-202 [cipreste|5 cuidados] O cipreste não quer umidade constante: se o vidro tem tampa, deixe aberto 3 horas por semana
+t40-203 [cipreste|Você sabia?] O terrário do cipreste foi feito numa campânula com abertura no topo, para o ar circular
+t40-204 [samambaia|5 cuidados] Plante as samambaias com espaço, para as folhas não se embolarem no começo
+t40-205 [terrário|5 cuidados] Um galho enterrado até a pedra vulcânica, junto à trepadeira, serve de apoio para ela
+t40-206 [musgo|5 cuidados] Na floresta úmida o musgo cobre só cerca de um terço da terra; o resto fica com cascalho, galho e casca
+t40-207 [terrário|5 cuidados] Depois de montar o terrário de samambaias, deixe-o em luz fraca por 48 horas
+t40-208 [muehlenbeckia|5 cuidados] A muehlenbeckia pode crescer solta ou ser podada de vez em quando para caber no vidro
+t40-210 [pinheiro|5 cuidados] No vidro do pinheiro, regue com frequência, ajustando à umidade do ambiente
+t40-212 [samambaia|X ou Y?] Samambaia pode substituir outra planta se você colocar um punhado de turfa em volta da raiz
+t40-213 [zelkova|Socorro] A zelkova é frágil no vidro: abra o terrário por algumas horas com frequência e só regue se a terra sob o musgo e o cascalho estiver seca
+t40-216 [suculenta|Você sabia?] Suculentas e cactos guardam água nas raras épocas de chuva e vivem dessa reserva no resto do ano
+t40-218 [cacto|Você sabia?] Cacto no terrário não pode ser podado e, depois de alguns anos, pode precisar de recipiente maior
+t40-219 [cacto|5 cuidados] Para tirar cacto do vaso sem se espetar, empurre o torrão com um lápis
+t40-220 [cacto|5 cuidados] Segure o cacto com luva de jardinagem ou enrolado em papel para evitar os espinhos
+t40-221 [cacto|5 cuidados] Terrário de cacto e suculenta fica em lugar claro, sem sol direto
+t40-222 [suculenta|3 erros] Erro: molhar a base das folhas da suculenta ao regar; isso pode apodrecer a planta
+t40-223 [suculenta|5 cuidados] Cubra toda a terra com cascalho grosso no terrário de suculentas
+t40-224 [suculenta|Você sabia?] Esse tipo de montagem serve para a maioria das suculentas e cactos, desde que o tamanho caiba
+t40-226 [suculenta|3 erros] Erro: molhar as folhas ao regar suculenta; molhe só a terra
+t40-227 [suculenta|Você sabia?] Três ou quatro suculentas pequenas convivem num vidro pequeno sem competir
+t40-228 [haworthia|3 erros] Erro: molhar as folhas da haworthia ao regar
+t40-229 [suculenta|5 cuidados] Cobrir toda a terra com areia e cascalho ajuda a reter a umidade no solo
+t40-230 [portulacária|Você sabia?] A portulacária é muito apreciada por herbívoros; os elefantes comem até 160 kg por dia
+t40-231 [oliveira|Você sabia?] Oliveira e tomilho combinam bem, e crescem juntos naturalmente em volta do Mediterrâneo
+t40-232 [oliveira|Você sabia?] Oliveira pequena é difícil de achar; uma saída é germinar um caroço de azeitona
+t40-233 [murta|Você sabia?] A murta é um símbolo de Vênus e de Júpiter na mitologia greco-romana
+t40-235 [aguapé|Você sabia?] Um jardim aquático desse tamanho cheio de água pode pesar mais de 30 kg
+t40-236 [aguapé|5 cuidados] Jardim aquático em vidro precisa de bomba de aquário para a água circular e não ficar parada
+t40-237 [aguapé|5 cuidados] No jardim aquático, troque um quarto da água a cada mês

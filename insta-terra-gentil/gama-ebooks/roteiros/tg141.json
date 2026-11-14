@@ -1,0 +1,568 @@
+{
+  "livro": "TG 141",
+  "titulo": "Terrário",
+  "serie": "#2E6B5E",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "141",
+        "COLEÇÃO TERRA GENTIL",
+        "TERRARIO",
+        "Terrário",
+        "Um mundo pequeno no vidro.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-A-1.jpg",
+          "alt": "André com um terrário de vidro fechado perto de uma janela"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "t40-001",
+        "t40-002",
+        "t40-092"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Terrário fechado quase não precisa regar.",
+        "A umidade das plantas fica presa no vidro.",
+        "Aqui tem vidro, luz e cuidado.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache um pote de vidro transparente.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 141 TERRÁRIO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-B-1.jpg",
+          "alt": "André olhando um pote de vidro transparente que vai virar terrário"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "t40-036",
+        "t40-039",
+        "t40-043"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Perto da janela.",
+        "Sem sol direto nas plantas.",
+        "NÃO FAÇA ISSO",
+        "Sol direto no vidro.",
+        "Ele vira lupa e queima a folha.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 141 TERRÁRIO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do terrário",
+        "06",
+        "CAPÍTULO 1",
+        "Vidro e luz",
+        "08",
+        "CAPÍTULO 2",
+        "Água e cuidado",
+        "12",
+        "CAPÍTULO 3",
+        "Musgo e pedra",
+        "15",
+        "CAPÍTULO 4",
+        "Plantas de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Mofo branco? Vá para a página 11.",
+        "Na próxima: a ficha do terrário",
+        "→",
+        "TG 141 TERRÁRIO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "t40-092",
+        "t40-093",
+        "t40-087",
+        "t40-039",
+        "t40-038",
+        "t40-048",
+        "t40-043"
+      ],
+      "textos": [
+        "FICHA DO TERRÁRIO",
+        "Antes de agir",
+        "O que olhar",
+        "VIDRO",
+        "Transparente e sem cor",
+        "TAMPA",
+        "Segura a umidade, sem vedar",
+        "LUZ",
+        "Até 1 m da janela",
+        "GIRO",
+        "Meia volta a cada 2 semanas",
+        "REGA",
+        "Fechado: cerca de 1 vez por ano",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Sol direto queima as folhas",
+        "Na próxima: vidro e luz",
+        "→",
+        "TG 141 TERRÁRIO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Vidro e luz",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Terrário de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 141 TERRÁRIO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-C-1.jpg",
+          "alt": "André escolhendo um vidro transparente para montar um terrário"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "t40-036",
+        "t40-043",
+        "t40-023",
+        "t40-022",
+        "t40-087",
+        "t40-047",
+        "t40-092",
+        "t40-093",
+        "t40-059",
+        "t40-038"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Luz",
+        "Perto da janela",
+        "Sol direto",
+        "Água",
+        "Chuva ou filtrada",
+        "Com calcário",
+        "Tampa",
+        "Segura sem vedar",
+        "Abrir ao ver condensação",
+        "Vidro",
+        "Sem cor",
+        "Colorido",
+        "Calor perto do terrário favorece o mofo.",
+        "DICA DO ANDRÉ",
+        "Gire meia volta a cada duas semanas.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 141 TERRÁRIO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Água e cuidado",
+        "01",
+        "Passo a passo",
+        "02",
+        "Terrário de perto",
+        "03",
+        "Mofo branco",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 141 TERRÁRIO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-regar-F-1.jpg",
+          "alt": "André borrifando água num terrário de vidro"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "t40-161",
+        "t40-162",
+        "t40-049",
+        "t40-163"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Montou? Faça assim.",
+        "MUDA",
+        "Mergulhe a base",
+        "MUSGO",
+        "Úmido, sobre a terra",
+        "REGA",
+        "Borrife o pé das plantas",
+        "1",
+        "MERGULHAR",
+        "A base das mudas em água filtrada por 5 minutos.",
+        "2",
+        "COBRIR",
+        "Musgo úmido sobre a terra, não sobre o cascalho.",
+        "3",
+        "BORRIFAR",
+        "No pé das plantas e no cascalho, sem molhar o musgo.",
+        "DICA DO ANDRÉ",
+        "Só feche o vidro depois de 48 horas.",
+        "Na próxima: terrário de perto",
+        "→",
+        "TG 141 TERRÁRIO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ter-gesto-1.jpg",
+          "alt": "Mãos mergulhando a base de uma muda em água filtrada antes de plantar no terrário"
+        },
+        {
+          "src": "ter-gesto-2.jpg",
+          "alt": "Mãos pondo musgo úmido sobre a terra de um terrário, sem cobrir o cascalho"
+        },
+        {
+          "src": "ter-gesto-3.jpg",
+          "alt": "Mãos borrifando água no pé das plantas de um terrário, sem molhar o musgo"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "t40-020",
+        "t40-023",
+        "t40-033",
+        "t40-060",
+        "t40-062"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · ÁGUA E CUIDADO",
+        "Terrário de perto",
+        "Como a água é pouca, a qualidade dela importa mais.",
+        "A melhor água é a da chuva, bem macia.",
+        "Musgo bem verde avisa que não precisa regar.",
+        "Folha encostou no vidro? Apare a planta.",
+        "Depois da poda, deixe aberto por 24 horas.",
+        "Na próxima: mofo branco",
+        "→",
+        "TG 141 TERRÁRIO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "t40-065",
+        "t40-066",
+        "t40-041",
+        "t40-042"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Mofo branco?",
+        "1",
+        "O QUE PARECE",
+        "Fiapos brancos, como algodão.",
+        "O QUE PODE SER",
+        "Pouca luz ou umidade demais.",
+        "COMO RESOLVER",
+        "Tire logo com um pano limpo.",
+        "Na próxima: musgo e pedra",
+        "→",
+        "TG 141 TERRÁRIO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ter-sintoma-1.jpg",
+          "alt": "Terrário fechado com fiapos brancos de mofo sobre a terra e o musgo"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Musgo e pedra",
+        "01",
+        "Musgo e pedra",
+        "02",
+        "Pinça e funil",
+        "03",
+        "Atenção",
+        "Na próxima: musgo e pedra",
+        "→",
+        "TG 141 TERRÁRIO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-jardim-vertical-G-1.jpg",
+          "alt": "André arrumando musgo e cascalho dentro de um terrário"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "t40-206",
+        "t40-099",
+        "t40-094",
+        "t40-097",
+        "t40-095",
+        "t40-096",
+        "t40-109",
+        "t40-108"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · MUSGO E PEDRA",
+        "Musgo e pedra",
+        "MUSGO",
+        "Cobre só um terço da terra",
+        "CASCALHO",
+        "Fino, cobre a terra entre os musgos",
+        "O QUE AJUDA",
+        "Pinça",
+        " longa põe a planta pela base",
+        "Funil",
+        " de papel ajuda com terra e pedra",
+        "Borrifador",
+        " rega por igual até a raiz",
+        "Esponja",
+        " úmida espremida faz chuva fina",
+        "Bom saber",
+        "Galho",
+        " caído, já com musgo ou líquen",
+        "Cuidado",
+        " casca só a que já caiu",
+        "Na próxima: pinça e funil",
+        "→",
+        "TG 141 TERRÁRIO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "t40-118",
+        "t40-197",
+        "t40-198"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Confira a lei antes de coletar.",
+        "Um galho pode abrigar larvas ameaçadas.",
+        "Planta coletada pode trazer bichos.",
+        "FAÇA ASSIM",
+        "Use só terreno com licença do dono.",
+        "Deixe fora de casa, longe da chuva.",
+        "Na próxima: plantas de perto",
+        "→",
+        "TG 141 TERRÁRIO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "t40-086",
+        "t40-132",
+        "t40-008",
+        "t40-004",
+        "t40-227"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · PLANTAS DE VIDRO",
+        "Quatro de vidro",
+        "1",
+        "Samambaia",
+        "Gosta de ambiente úmido.",
+        "2",
+        "Fittonia",
+        "Folha verde, vermelha, rosa ou branca.",
+        "3",
+        "Musgo",
+        "Em almofada, forma um montinho.",
+        "4",
+        "Suculenta",
+        "No aberto, cabem três ou quatro.",
+        "CHAVE",
+        "Planta",
+        "Como ela é",
+        "Na próxima: quatro plantas",
+        "→",
+        "TG 141 TERRÁRIO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ter-var-samambaia.jpg",
+          "alt": "Samambaia num terrário de vidro fechado com terra úmida"
+        },
+        {
+          "src": "ter-var-fittonia.jpg",
+          "alt": "Fittonia de folhas rosadas num terrário de vidro"
+        },
+        {
+          "src": "ter-var-musgo.jpg",
+          "alt": "Musgo em almofada formando um montinho verde dentro de um vidro"
+        },
+        {
+          "src": "ter-var-suculenta.jpg",
+          "alt": "Suculentas pequenas num terrário aberto coberto de cascalho"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "t40-086",
+        "t40-089",
+        "t40-102",
+        "t40-090",
+        "t40-178"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Plantas de perto",
+        "FECHADO",
+        "Samambaia, fittonia e fícus.",
+        "ABERTO",
+        "Cactos e suculentas.",
+        "SOLO",
+        "Misture mais de um tipo de substrato.",
+        "FORMA",
+        "Vidro alto pede planta que sobe.",
+        "DICA DO ANDRÉ",
+        "Plante a palmeira no centro.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 141 TERRÁRIO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "t40-040",
+        "t40-191"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "50",
+        "CM",
+        "de distância, no mínimo, para a lâmpada de espectro completo.",
+        "Ela fica ligada 8 horas por dia.",
+        "E MAIS UMA",
+        "Molhe também a borda interna do vidro ao regar.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 141 TERRÁRIO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "t40-092",
+        "t40-006",
+        "t40-161",
+        "t40-162",
+        "t40-163",
+        "t40-039",
+        "t40-023",
+        "t40-038"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Vidro transparente e sem cor",
+        "Plantas com a mesma necessidade",
+        "Mudas mergulhadas por 5 minutos",
+        "Musgo úmido sobre a terra",
+        "Fechar só depois de 48 horas",
+        "Perto da janela, sem sol direto",
+        "Água de chuva ou filtrada",
+        "Meia volta a cada duas semanas",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 141 TERRÁRIO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Um mundo pequeno pede vidro claro, luz boa e pouca água. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "141",
+        "VOCÊ TEM",
+        "142",
+        "143",
+        "144",
+        "145",
+        "146",
+        "São 141 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 142 PLANTAS JARRO RARAS",
+        "Comente RARAS no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 141 TERRÁRIO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

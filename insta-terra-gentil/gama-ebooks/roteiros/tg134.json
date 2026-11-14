@@ -1,0 +1,558 @@
+{
+  "livro": "TG 134",
+  "titulo": "Bexigas e Byblis",
+  "serie": "#2E4A5A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "134",
+        "COLEÇÃO TERRA GENTIL",
+        "BEXIGA",
+        "Bexigas e Byblis",
+        "Mais rápidas que um piscar.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-B-1.jpg",
+          "alt": "André diante de um vaso com utriculárias floridas"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "d38-568",
+        "d38-488",
+        "d38-500"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Utricularia é o maior gênero de carnívoras.",
+        "Byblis brilha como chuva no sol forte.",
+        "Aqui tem bexiga, água, terra e brilho.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Veja onde bate sol forte na sua casa.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 134 BEXIGAS E BYBLIS",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-C-1.jpg",
+          "alt": "André olhando de perto uma utricularia em flor"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "d38-620",
+        "d38-499"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Nunca use algicida na água.",
+        "Troque a água se tiver alga demais.",
+        "SEM EXAGERO",
+        "Não mexa na raiz da Byblis anual.",
+        "Isso pode dar choque e matar.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 134 BEXIGAS E BYBLIS",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da bexiga",
+        "06",
+        "CAPÍTULO 1",
+        "Terra e água",
+        "08",
+        "CAPÍTULO 2",
+        "Sol e adubo",
+        "12",
+        "CAPÍTULO 3",
+        "Espécies",
+        "15",
+        "CAPÍTULO 4",
+        "Bexiga de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Alga na água? Vá para a página 11.",
+        "Na próxima: a ficha da bexiga",
+        "→",
+        "TG 134 BEXIGAS E BYBLIS",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "d38-614",
+        "d38-615",
+        "d38-498",
+        "d38-618",
+        "d38-619",
+        "d38-620"
+      ],
+      "textos": [
+        "FICHA DA BEXIGA",
+        "Antes de agir",
+        "O que olhar",
+        "AQUÁTICA",
+        "Uma xícara de turfa por galão",
+        "CHÃO",
+        "Três de turfa, uma de areia",
+        "BYBLIS",
+        "Duas de areia, uma de turfa",
+        "SOL",
+        "Sol ou meia-sombra clara",
+        "ADUBO",
+        "Um quarto da força",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Algicida nunca, troque a água",
+        "Na próxima: terra e água",
+        "→",
+        "TG 134 BEXIGAS E BYBLIS",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Terra e água",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Terra de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 134 BEXIGAS E BYBLIS",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-F-1.jpg",
+          "alt": "André misturando turfa e areia numa bacia"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "d38-620",
+        "d38-605",
+        "d38-606",
+        "d38-499",
+        "d38-619",
+        "d38-603"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Alga",
+        "Trocar a água",
+        "Algicida",
+        "Ajudante",
+        "Pulga-d'água",
+        "Girino",
+        "Raiz",
+        "Byblis em paz",
+        "Mexer nela",
+        "Adubo",
+        "Um quarto da força",
+        "Mais forte",
+        "Aquática não é a mais fácil.",
+        "DICA DO ANDRÉ",
+        "Pulga-d'água segura a alga e vira comida.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 134 BEXIGAS E BYBLIS",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Sol e adubo",
+        "01",
+        "Passo a passo",
+        "02",
+        "Sol e adubo de perto",
+        "03",
+        "Alga na água",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 134 BEXIGAS E BYBLIS",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-G-1.jpg",
+          "alt": "André borrifando adubo leve numa utricularia ao sol"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "d38-615",
+        "d38-614",
+        "d38-619",
+        "d38-616"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Utriculária? Faça assim.",
+        "CHÃO",
+        "Turfa e areia",
+        "ÁGUA",
+        "Turfa na água",
+        "ADUBO",
+        "Um quarto da força",
+        "1",
+        "MISTURE",
+        "Três partes de turfa para uma de areia.",
+        "2",
+        "ENCHA",
+        "Uma xícara de turfa para cada galão de água.",
+        "3",
+        "BORRIFE",
+        "Adubo a um quarto da força, nas folhas.",
+        "DICA DO ANDRÉ",
+        "Pote de vidro com papel preto mostra as armadilhas.",
+        "Na próxima: sol e adubo de perto",
+        "→",
+        "TG 134 BEXIGAS E BYBLIS",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "utr-gesto-1.jpg",
+          "alt": "Mãos misturando turfa e areia numa bacia para uma utricularia de chão"
+        },
+        {
+          "src": "utr-gesto-2.jpg",
+          "alt": "Mãos mexendo uma xícara de turfa num recipiente grande de água para utricularia aquática"
+        },
+        {
+          "src": "utr-gesto-3.jpg",
+          "alt": "Mãos borrifando adubo bem diluído nas folhas de uma utricularia no vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "d38-617",
+        "d38-498"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · TERRA E ÁGUA",
+        "Terra de perto",
+        "Muitas de chão gostam de alagamento.",
+        "Elas vão melhor em vaso sem furo.",
+        "Assim o nível da água sobe e desce.",
+        "Para a Byblis, duas partes de areia e uma de turfa.",
+        "A bandeja fica só úmida, sem encharcar.",
+        "Na próxima: alga na água",
+        "→",
+        "TG 134 BEXIGAS E BYBLIS",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "d38-604",
+        "d38-620",
+        "d38-605"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Alga na água?",
+        "1",
+        "O QUE PARECE",
+        "Água verde tomada pela alga.",
+        "O QUE PODE SER",
+        "A alga, o maior problema das aquáticas.",
+        "COMO RESOLVER",
+        "Troque a água, sem algicida.",
+        "Na próxima: espécies",
+        "→",
+        "TG 134 BEXIGAS E BYBLIS",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "utr-sintoma-1.jpg",
+          "alt": "Recipiente de água verde cheio de alga com uma utricularia aquática dentro"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Espécies",
+        "01",
+        "Espécies",
+        "02",
+        "Flores e bexigas",
+        "03",
+        "Atenção",
+        "Na próxima: espécies",
+        "→",
+        "TG 134 BEXIGAS E BYBLIS",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-H-1.jpg",
+          "alt": "André olhando um vaso com várias utriculárias floridas"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "d38-587",
+        "d38-597",
+        "d38-610",
+        "d38-612",
+        "d38-613",
+        "d38-588",
+        "d38-596",
+        "d38-593"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ESPÉCIES",
+        "Utriculárias",
+        "SANDERSONII",
+        "Flor de coelho bravo",
+        "LONGIFOLIA",
+        "Bexigas saem pelos furos",
+        "FAMOSAS",
+        "Macrorhiza",
+        " bexiga verde, vermelha, preta",
+        "Purpurea",
+        " só rosetas de bexigas",
+        "Inflata",
+        " haste sobre tubos que boiam",
+        "Bisquamata",
+        " pula de vaso em vaso",
+        "Bom saber",
+        "Cornigera",
+        " arranca suspiros florida",
+        "Leptoplectra",
+        " flor de bumerangue",
+        "Na próxima: flores e bexigas",
+        "→",
+        "TG 134 BEXIGAS E BYBLIS",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "d38-604",
+        "d38-606",
+        "d38-590",
+        "d38-620"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Alga é o grande problema das aquáticas.",
+        "Girino come a planta quando a alga acaba.",
+        "Calycifida mistura semente de perto.",
+        "FAÇA ASSIM",
+        "Troque a água, sem algicida.",
+        "Plante as cultivares separadas.",
+        "Na próxima: bexiga de perto",
+        "→",
+        "TG 134 BEXIGAS E BYBLIS",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "d38-607",
+        "d38-600",
+        "d38-163",
+        "d38-500"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · QUATRO PLANTAS",
+        "Quatro plantas",
+        "1",
+        "Gibba",
+        "Vive anos num copo.",
+        "2",
+        "Humboldtii",
+        "As maiores flores do gênero.",
+        "3",
+        "Livida",
+        "Vira tapete de flores.",
+        "4",
+        "Byblis liniflora",
+        "Boa na janela com sol.",
+        "CHAVE",
+        "Planta",
+        "O que ela dá",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 134 BEXIGAS E BYBLIS",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "utr-var-gibba.jpg",
+          "alt": "Utricularia gibba flutuando numa tigela de água com pequenas flores amarelas"
+        },
+        {
+          "src": "utr-var-humboldtii.jpg",
+          "alt": "Utricularia humboldtii com grandes flores roxas"
+        },
+        {
+          "src": "utr-var-livida.jpg",
+          "alt": "Utricularia livida formando um tapete de flores num terrário"
+        },
+        {
+          "src": "utr-var-liniflora.jpg",
+          "alt": "Byblis liniflora com folhas finas cobertas de gotas brilhantes ao sol"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "d38-579",
+        "d38-580",
+        "d38-582",
+        "d38-583",
+        "d38-578"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Bexiga de perto",
+        "PORTA",
+        "Abre só para dentro, selada por muco.",
+        "GATILHO",
+        "Um toque no pelo e a presa é sugada.",
+        "REARME",
+        "Em vinte minutos, está pronta.",
+        "PRESA",
+        "Girino grande dispara de novo.",
+        "DICA DO ANDRÉ",
+        "Pulga-d'água some na bexiga em um dia.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 134 BEXIGAS E BYBLIS",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "d38-572",
+        "d38-575"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "25",
+        "%",
+        "das utriculárias são aquáticas e flutuam livres.",
+        "As outras vivem em areia, lama ou musgo.",
+        "E MAIS UMA",
+        "A armadilha pega a presa em dez a quinze milésimos de segundo.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 134 BEXIGAS E BYBLIS",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "d38-615",
+        "d38-620",
+        "d38-619",
+        "d38-500",
+        "d38-499",
+        "d38-605",
+        "d38-606",
+        "d38-617"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Turfa e areia na medida certa",
+        "Água trocada, nunca algicida",
+        "Adubo a um quarto da força",
+        "Sol pleno para a Byblis",
+        "Raiz da Byblis anual em paz",
+        "Pulga-d'água na aquática",
+        "Sem girino com a utriculária",
+        "Vaso sem furo para as de chão",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 134 BEXIGAS E BYBLIS",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Bexiga pede água limpa, sol e mão leve. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "134",
+        "VOCÊ TEM",
+        "135",
+        "136",
+        "137",
+        "138",
+        "139",
+        "São 134 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 135 DIONEIA E CIA",
+        "Comente DIONEIA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 134 BEXIGAS E BYBLIS",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-A-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

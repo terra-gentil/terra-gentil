@@ -1,0 +1,564 @@
+{
+  "livro": "TG 142",
+  "titulo": "Plantas Jarro Raras",
+  "serie": "#5A5A2A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "142",
+        "COLEÇÃO TERRA GENTIL",
+        "RARAS",
+        "Plantas Jarro Raras",
+        "Cobra-plant e Heliamphora.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-jardim-vertical-A-1.jpg",
+          "alt": "André com uma planta de jarro rara num vaso claro"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "d38-336",
+        "d38-352",
+        "d38-324"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "A cobra-plant tem fama de difícil.",
+        "A Heliamphora é a única jarra da América do Sul.",
+        "Aqui você conhece as duas.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Separe água fria e pura.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 142 PLANTAS JARRO RARAS",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-B-1.jpg",
+          "alt": "André olhando uma planta de jarro num vaso perto da janela"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "d38-324",
+        "d38-369",
+        "d38-339"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Água fria e pura.",
+        "As duas plantas gostam de água fria.",
+        "NÃO FAÇA ISSO",
+        "Vaso preto no sol.",
+        "Ele esquenta demais.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 142 PLANTAS JARRO RARAS",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha das jarras",
+        "06",
+        "CAPÍTULO 1",
+        "Vaso e mistura",
+        "08",
+        "CAPÍTULO 2",
+        "Cobra-plant",
+        "12",
+        "CAPÍTULO 3",
+        "Heliamphora",
+        "15",
+        "CAPÍTULO 4",
+        "Espécies raras",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Manchas roxas? Vá para a página 11.",
+        "Na próxima: a ficha das jarras",
+        "→",
+        "TG 142 PLANTAS JARRO RARAS",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "d38-338",
+        "d38-368",
+        "d38-339",
+        "d38-340",
+        "d38-369",
+        "d38-351",
+        "d38-372"
+      ],
+      "textos": [
+        "FICHA DAS JARRAS",
+        "Antes de agir",
+        "O que olhar",
+        "COBRA",
+        "4 de esfagno, 1 de perlita",
+        "HELIAMPHORA",
+        "3 esfagno, 1 rocha, 1 perlita",
+        "VASO",
+        "Claro e com furos",
+        "ÁGUA",
+        "Fria e pura",
+        "MUDA",
+        "Estolão com raiz, no esfagno",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Fungicida de cobre mata a Heliamphora",
+        "Na próxima: vaso e mistura",
+        "→",
+        "TG 142 PLANTAS JARRO RARAS",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Vaso e mistura",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Mistura de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 142 PLANTAS JARRO RARAS",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-C-1.jpg",
+          "alt": "André preparando esfagno e perlita para uma planta de jarro"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "d38-339",
+        "d38-340",
+        "d38-369",
+        "d38-367",
+        "d38-372",
+        "d38-338",
+        "d38-351"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Vaso",
+        "Claro, de cerâmica ou barro",
+        "Preto no sol",
+        "Furo",
+        "Grande e com furos",
+        "Pequeno e sem furo",
+        "Água",
+        "Fria, substrato molhado",
+        "Parada demais",
+        "Fungicida",
+        "Sem cobre",
+        "Com cobre",
+        "A mistura da cobra-plant tem que ser arejada.",
+        "DICA DO ANDRÉ",
+        "Estolão com raiz pequena, deitado no esfagno.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 142 PLANTAS JARRO RARAS",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Cobra-plant",
+        "01",
+        "Passo a passo",
+        "02",
+        "Cobra de perto",
+        "03",
+        "Manchas roxas",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 142 PLANTAS JARRO RARAS",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-regar-F-1.jpg",
+          "alt": "André cuidando de uma cobra-plant num vaso claro"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "d38-338",
+        "d38-339",
+        "d38-340",
+        "d38-351",
+        "d38-324"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Cobra-plant? Faça assim.",
+        "MISTURA",
+        "4 para 1",
+        "VASO",
+        "Claro e furado",
+        "ESTOLÃO",
+        "Deite no esfagno",
+        "1",
+        "MISTURAR",
+        "4 partes de esfagno de fibra longa para 1 de perlita.",
+        "2",
+        "ESCOLHER",
+        "Vaso claro, com furos e grande para os estolões.",
+        "3",
+        "DEITAR",
+        "Estolão com raízes pequenas sobre o esfagno.",
+        "DICA DO ANDRÉ",
+        "Água fria que corre devagar é a chave.",
+        "Na próxima: cobra de perto",
+        "→",
+        "TG 142 PLANTAS JARRO RARAS",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jar-gesto-1.jpg",
+          "alt": "Mãos misturando esfagno de fibra longa e perlita numa bacia"
+        },
+        {
+          "src": "jar-gesto-2.jpg",
+          "alt": "Mãos escolhendo um vaso claro de cerâmica com furos de drenagem"
+        },
+        {
+          "src": "jar-gesto-3.jpg",
+          "alt": "Mãos deitando um estolão com raízes pequenas sobre esfagno úmido"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "d38-323",
+        "d38-327",
+        "d38-328",
+        "d38-333",
+        "d38-334"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · COBRA-PLANT",
+        "Cobra de perto",
+        "Só existe no norte da Califórnia e no sul do Oregon.",
+        "A língua se chama apêndice em cauda de peixe.",
+        "Os insetos veem as janelas do capuz como saída.",
+        "A jarra chega a 1,2 m, em cultivo costuma ter metade.",
+        "Da semente, leva de 7 a 10 anos para o tamanho máximo.",
+        "Na próxima: manchas roxas",
+        "→",
+        "TG 142 PLANTAS JARRO RARAS",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "d38-349"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Manchas roxas?",
+        "1",
+        "O QUE PARECE",
+        "Manchas roxo-avermelhadas.",
+        "O QUE PODE SER",
+        "Fungo do tipo oídio.",
+        "COMO RESOLVER",
+        "Calma: até planta selvagem tem.",
+        "Na próxima: heliamphora",
+        "→",
+        "TG 142 PLANTAS JARRO RARAS",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jar-sintoma-1.jpg",
+          "alt": "Folha de cobra-plant com manchas roxo-avermelhadas"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Heliamphora",
+        "01",
+        "Heliamphora",
+        "02",
+        "Jarra de perto",
+        "03",
+        "Atenção",
+        "Na próxima: heliamphora",
+        "→",
+        "TG 142 PLANTAS JARRO RARAS",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-G-1.jpg",
+          "alt": "André olhando uma Heliamphora num vaso com esfagno"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "d38-368",
+        "d38-369",
+        "d38-359",
+        "d38-362",
+        "d38-374",
+        "d38-354",
+        "d38-356",
+        "d38-372"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · HELIAMPHORA",
+        "Heliamphora",
+        "SUBSTRATO",
+        "3 de esfagno, 1 de rocha, 1 de perlita",
+        "ÁGUA",
+        "Fria e pura, substrato sempre molhado",
+        "O QUE ELA TEM",
+        "Fenda",
+        " no meio da jarra deixa a chuva extra escorrer",
+        "Flor",
+        " sem pétalas, com tépalas",
+        "Semente",
+        " germina em semanas, úmida e com luz",
+        "Nome",
+        " vem de helos, pântano, e amphora, jarra",
+        "Bom saber",
+        "Tepui",
+        " não tem solo: ela cresce sobre restos de folhas",
+        "Cuidado",
+        " fungicida de cobre é letal",
+        "Na próxima: jarra de perto",
+        "→",
+        "TG 142 PLANTAS JARRO RARAS",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "d38-372",
+        "d38-367",
+        "d38-368",
+        "d38-369"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Fungicida de cobre é letal.",
+        "Água parada demais apodrece a planta.",
+        "O substrato é pobre em nutrientes.",
+        "FAÇA ASSIM",
+        "Regue com água fria e pura.",
+        "Mantenha o substrato sempre molhado.",
+        "Na próxima: espécies raras",
+        "→",
+        "TG 142 PLANTAS JARRO RARAS",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "d38-363",
+        "d38-364",
+        "d38-367",
+        "d38-348",
+        "d38-355"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · ESPÉCIES RARAS",
+        "Quatro raras",
+        "1",
+        "Nutans",
+        "Cultivada vem de terras baixas já extintas.",
+        "2",
+        "Tatei",
+        "Caules finos chegam a 1,8 m.",
+        "3",
+        "Pulchella",
+        "Na natureza aguenta inundação.",
+        "4",
+        "Cobra-plant",
+        "Chamada de lambedor de cervo.",
+        "CHAVE",
+        "Planta",
+        "O que ela tem",
+        "Na próxima: quatro espécies",
+        "→",
+        "TG 142 PLANTAS JARRO RARAS",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jar-var-nutans.jpg",
+          "alt": "Heliamphora nutans com jarras verdes e avermelhadas num vaso"
+        },
+        {
+          "src": "jar-var-tatei.jpg",
+          "alt": "Heliamphora tatei com caules finos apoiados na vegetação"
+        },
+        {
+          "src": "jar-var-pulchella.jpg",
+          "alt": "Heliamphora pulchella com jarras num vaso de esfagno bem úmido"
+        },
+        {
+          "src": "jar-var-cobra.jpg",
+          "alt": "Cobra-plant com jarras em forma de capuz num vaso claro"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "d38-352",
+        "d38-355",
+        "d38-353",
+        "d38-360",
+        "d38-329"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Raras de perto",
+        "ÚNICA",
+        "A única jarra da América do Sul.",
+        "ESPÉCIES",
+        "De umas seis para pelo menos 23.",
+        "TEPUI",
+        "Montanha de topo plano da Venezuela.",
+        "JARRA",
+        "A presa se afoga na água de chuva.",
+        "DICA DO ANDRÉ",
+        "Na cobra-plant, bactérias ajudam na digestão.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 142 PLANTAS JARRO RARAS",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "d38-365",
+        "d38-353"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "5,4",
+        "M",
+        "de largura nas touceiras da Heliamphora chimantensis.",
+        "Elas têm décadas ou séculos de idade.",
+        "E MAIS UMA",
+        "Os tepuis inspiraram O Mundo Perdido.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 142 PLANTAS JARRO RARAS",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "d38-369",
+        "d38-338",
+        "d38-368",
+        "d38-339",
+        "d38-340",
+        "d38-372",
+        "d38-351",
+        "d38-324"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Água fria e pura separada",
+        "Cobra-plant: 4 de esfagno, 1 de perlita",
+        "Heliamphora: 3, 1 e 1",
+        "Vaso claro, nunca preto",
+        "Vaso com furos e grande",
+        "Sem fungicida de cobre",
+        "Estolão deitado no esfagno",
+        "Água fria que corre devagar",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 142 PLANTAS JARRO RARAS",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Planta rara pede água fria e pura e paciência. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "142",
+        "VOCÊ TEM",
+        "143",
+        "144",
+        "145",
+        "146",
+        "147",
+        "São 142 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 143 EM BREVE",
+        "Comente NOVIDADE no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 142 PLANTAS JARRO RARAS",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-podar-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "livro": "TG 140",
+  "titulo": "Hortênsias",
+  "serie": "#5B4B8A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "140",
+        "COLEÇÃO TERRA GENTIL",
+        "HORTENSIA",
+        "Hortênsias",
+        "A flor que dura meses.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-adubar-A-1.jpg",
+          "alt": "André ao lado de uma hortênsia grande florida no jardim"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "h41-003",
+        "h41-168",
+        "h41-165"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "A hortênsia combina com tudo.",
+        "Ela perdoa erro e costuma voltar.",
+        "Aqui tem cor, vaso e flor de corte.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Veja onde bate o sol no seu jardim.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 140 HORTÊNSIAS",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-adubar-B-1.jpg",
+          "alt": "André olhando o sol batendo num canto do jardim"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "h41-171",
+        "h41-166",
+        "h41-205"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Dê meia sombra a ela.",
+        "Mais sol pede mais água na raiz.",
+        "NÃO ESQUEÇA",
+        "Regue sem deixar secar.",
+        "Seca atrapalha a floração.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 140 HORTÊNSIAS",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da hortênsia",
+        "06",
+        "CAPÍTULO 1",
+        "Cor e luz",
+        "08",
+        "CAPÍTULO 2",
+        "Plantio e vaso",
+        "12",
+        "CAPÍTULO 3",
+        "Flor de corte",
+        "15",
+        "CAPÍTULO 4",
+        "Hortênsia de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Flor murcha? Vá para a página 11.",
+        "Na próxima: a ficha da hortênsia",
+        "→",
+        "TG 140 HORTÊNSIAS",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "h41-171",
+        "h41-166",
+        "h41-047",
+        "h41-200",
+        "h41-202",
+        "h41-201"
+      ],
+      "textos": [
+        "FICHA DA HORTÊNSIA",
+        "Antes de agir",
+        "O que olhar",
+        "SOL",
+        "Meia sombra",
+        "ÁGUA",
+        "Constante",
+        "COR",
+        "Solo ácido, mais azul",
+        "PLANTIO",
+        "Torrão rente ao chão",
+        "MULCH",
+        "Cubra a terra",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Não enterre o caule ao plantar",
+        "Na próxima: cor e luz",
+        "→",
+        "TG 140 HORTÊNSIAS",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Cor e luz",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Plantio de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 140 HORTÊNSIAS",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-adubar-C-1.jpg",
+          "alt": "André diante de hortênsias azuis e rosas em meia sombra"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "h41-171",
+        "h41-172",
+        "h41-201",
+        "h41-050",
+        "h41-056",
+        "h41-204"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Sol",
+        "Meia sombra",
+        "Sombra total",
+        "Rega",
+        "Muita, no sol",
+        "Sol sem água",
+        "Caule",
+        "No nível do chão",
+        "Enterrado",
+        "Cor",
+        "Vaso com terra certa",
+        "Brigar com o solo",
+        "Hortênsia branca não muda de cor.",
+        "DICA DO ANDRÉ",
+        "Quer outra cor? Plante em vaso.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 140 HORTÊNSIAS",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Plantio e vaso",
+        "01",
+        "Passo a passo",
+        "02",
+        "Vaso de perto",
+        "03",
+        "Flor murcha",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 140 HORTÊNSIAS",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-adubar-F-1.jpg",
+          "alt": "André plantando uma hortênsia no jardim"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "h41-200",
+        "h41-202",
+        "h41-209",
+        "h41-201"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Vai plantar? Faça assim.",
+        "VASO",
+        "Mergulhe no balde",
+        "BURACO",
+        "Dobro do torrão",
+        "MULCH",
+        "Cubra em volta",
+        "1",
+        "MERGULHAR",
+        "O vaso no balde, antes de plantar.",
+        "2",
+        "CAVAR",
+        "Buraco com o dobro do tamanho do torrão.",
+        "3",
+        "COBRIR",
+        "Mulch em volta, sem encostar no caule.",
+        "DICA DO ANDRÉ",
+        "Torrão rente ao chão, terra firmada.",
+        "Na próxima: vaso de perto",
+        "→",
+        "TG 140 HORTÊNSIAS",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "hrt-gesto-1.jpg",
+          "alt": "Mãos mergulhando o vaso de uma hortênsia num balde de água antes de plantar"
+        },
+        {
+          "src": "hrt-gesto-2.jpg",
+          "alt": "Mãos cavando um buraco no jardim com o dobro do tamanho do torrão de uma hortênsia"
+        },
+        {
+          "src": "hrt-gesto-3.jpg",
+          "alt": "Mãos espalhando cobertura de composto em volta da base de uma hortênsia, longe do caule"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "h41-205",
+        "h41-206",
+        "h41-169",
+        "h41-197"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · EM VASO",
+        "Vaso de perto",
+        "Escolha uma variedade que não cresça demais.",
+        "Vaso grande, terra boa e boa drenagem.",
+        "Troque de vaso a cada ano ou dois.",
+        "Todo ano, troque a terra da superfície.",
+        "Adube e regue enquanto ela cresce.",
+        "Na próxima: flor murcha",
+        "→",
+        "TG 140 HORTÊNSIAS",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "h41-063",
+        "h41-064",
+        "h41-072"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Flor murcha?",
+        "1",
+        "O QUE PARECE",
+        "Cabeça pesada e caída.",
+        "O QUE PODE SER",
+        "Flor cortada nova demais.",
+        "COMO RESOLVER",
+        "Tire as folhas e mergulhe a flor.",
+        "Na próxima: flor de corte",
+        "→",
+        "TG 140 HORTÊNSIAS",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "hrt-sintoma-1.jpg",
+          "alt": "Hortênsias cortadas num vaso com as cabeças murchas e caídas"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Flor de corte",
+        "01",
+        "Flor de corte",
+        "02",
+        "Cuidado na colheita",
+        "03",
+        "Hortênsia de perto",
+        "Na próxima: flor de corte",
+        "→",
+        "TG 140 HORTÊNSIAS",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-adubar-G-1.jpg",
+          "alt": "André colhendo hortênsias cedo de manhã"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "h41-059",
+        "h41-060",
+        "h41-061",
+        "h41-062",
+        "h41-066",
+        "h41-071",
+        "h41-064"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · FLOR DE CORTE",
+        "Flor de corte",
+        "COLHEITA",
+        "Cedo, antes do sol esquentar",
+        "BALDE",
+        "Corte direto na água fria",
+        "O QUE ELA PEDE",
+        "Ponta",
+        " aparada embaixo d'água",
+        "Sombra",
+        " fresca, por duas horas",
+        "Folhas",
+        " tire, elas têm sede",
+        "Vaso",
+        " limpo e água trocada",
+        "Bom saber",
+        "Seca",
+        " firme, de textura de papel",
+        "Cuidado",
+        " flor nova demais murcha",
+        "Na próxima: cuidado na colheita",
+        "→",
+        "TG 140 HORTÊNSIAS",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "h41-064",
+        "h41-062",
+        "h41-060"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Flor mole e recém-aberta murcha.",
+        "Folha na haste rouba a água da flor.",
+        "Bolha de ar bloqueia a água.",
+        "FAÇA ASSIM",
+        "Escolha a flor aberta, de papel.",
+        "Apare a ponta embaixo d'água.",
+        "Na próxima: hortênsia de perto",
+        "→",
+        "TG 140 HORTÊNSIAS",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "h41-100",
+        "h41-123",
+        "h41-146",
+        "h41-131"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · QUATRO PARA CONHECER",
+        "Quatro hortênsias",
+        "1",
+        "Annabelle",
+        "Branca, seca vira esqueleto.",
+        "2",
+        "Limelight",
+        "Do verde-limão ao rosa, sem pH.",
+        "3",
+        "Hamburg",
+        "Do lilás ao azul, conforme o pH.",
+        "4",
+        "Preziosa",
+        "Do verde ao vinho, nunca azul.",
+        "CHAVE",
+        "Planta",
+        "O que ela dá",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 140 HORTÊNSIAS",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "hrt-var-annabelle.jpg",
+          "alt": "Hortênsia Annabelle com grandes flores brancas redondas"
+        },
+        {
+          "src": "hrt-var-limelight.jpg",
+          "alt": "Hortênsia Limelight com flores em cone, verde-limão e creme"
+        },
+        {
+          "src": "hrt-var-hamburg.jpg",
+          "alt": "Hortênsia Hamburg com flores azuis e lilás em meia sombra"
+        },
+        {
+          "src": "hrt-var-preziosa.jpg",
+          "alt": "Hortênsia Preziosa com flores brancas manchadas de cor framboesa"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "h41-234",
+        "h41-238",
+        "h41-240",
+        "h41-237",
+        "h41-233"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Hortênsia de perto",
+        "ÁCARO",
+        "Folha manchada e teia embaixo.",
+        "LESMA",
+        "Come a hortênsia nova e os botões.",
+        "PULGÃO",
+        "Lave com água e chame joaninhas.",
+        "COCHONILHA",
+        "Bolinhas nos caules e folhas.",
+        "DICA DO ANDRÉ",
+        "Planta saudável é a melhor defesa.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 140 HORTÊNSIAS",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "h41-080",
+        "h41-036",
+        "h41-025"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "45",
+        "CM",
+        "é o tamanho das flores em cone da Pee Gee.",
+        "A flor de hortênsia dura meses.",
+        "E MAIS UMA",
+        "O nome vem do grego: água e vaso.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 140 HORTÊNSIAS",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "h41-171",
+        "h41-166",
+        "h41-200",
+        "h41-201",
+        "h41-202",
+        "h41-059",
+        "h41-060",
+        "h41-205"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Meia sombra escolhida",
+        "Rega constante na raiz",
+        "Torrão rente ao chão",
+        "Caule sem enterrar",
+        "Mulch em volta da base",
+        "Colheita cedo de manhã",
+        "Ponta aparada na água",
+        "Vaso grande para hortênsia de vaso",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 140 HORTÊNSIAS",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Hortênsia pede meia sombra, água na raiz e paciência. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "140",
+        "VOCÊ TEM",
+        "141",
+        "142",
+        "143",
+        "144",
+        "145",
+        "São 140 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 141 TERRÁRIO",
+        "Comente TERRARIO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 140 HORTÊNSIAS",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-adubar-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

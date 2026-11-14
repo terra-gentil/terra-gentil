@@ -1,0 +1,566 @@
+{
+  "livro": "TG 137",
+  "titulo": "Carnívoras no Vaso",
+  "serie": "#6B2E3A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "137",
+        "COLEÇÃO TERRA GENTIL",
+        "CARNIVORA",
+        "Carnívoras no Vaso",
+        "Sol, água limpa e paciência.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-A-1.jpg",
+          "alt": "André com uma planta carnívora num vaso no parapeito da janela"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "q3-396",
+        "d38-001",
+        "d38-140"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Carnívora vive em terra pobre e pega inseto.",
+        "Quase todas amam sol e solo encharcado.",
+        "Aqui tem água, solo, luz e brejo.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache o lugar mais claro da sua casa.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 137 CARNÍVORAS NO VASO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-B-1.jpg",
+          "alt": "André olhando o parapeito de uma janela clara onde cabe um vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "q3-398",
+        "d38-015",
+        "d38-059"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Use água de chuva limpa.",
+        "Água é o ponto mais importante.",
+        "SEM EXAGERO",
+        "Hambúrguer e queijo fazem mal.",
+        "A folha pode embolorar.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 137 CARNÍVORAS NO VASO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da carnívora",
+        "06",
+        "CAPÍTULO 1",
+        "Água e solo",
+        "08",
+        "CAPÍTULO 2",
+        "Mãos na massa",
+        "12",
+        "CAPÍTULO 3",
+        "Brejo e terrário",
+        "15",
+        "CAPÍTULO 4",
+        "Carnívora de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Folha torcida? Vá para a página 11.",
+        "Na próxima: a ficha da carnívora",
+        "→",
+        "TG 137 CARNÍVORAS NO VASO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "q3-397",
+        "d38-004",
+        "d38-033",
+        "d38-029",
+        "d38-039",
+        "d38-007"
+      ],
+      "textos": [
+        "FICHA DA CARNÍVORA",
+        "Antes de agir",
+        "O que olhar",
+        "ÁGUA",
+        "Chuva, limpa",
+        "SOLO",
+        "Turfa de esfagno",
+        "VASO",
+        "De plástico",
+        "BANDEJA",
+        "Cerca de 2,5 cm de água",
+        "SOL",
+        "5 a 6 horas direto",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Esfagno vem em fios longos",
+        "Na próxima: água e solo",
+        "→",
+        "TG 137 CARNÍVORAS NO VASO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Água e solo",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Bandeja de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 137 CARNÍVORAS NO VASO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-C-1.jpg",
+          "alt": "André misturando turfa para o solo de uma carnívora"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "d38-004",
+        "d38-007",
+        "d38-033",
+        "d38-032",
+        "d38-029",
+        "d38-031",
+        "d38-012",
+        "d38-013",
+        "d38-020",
+        "d38-026"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Solo",
+        "Turfa de esfagno",
+        "Musgo de enfeite",
+        "Vaso",
+        "Plástico",
+        "Barro cru",
+        "Rega",
+        "Bandeja com água",
+        "Vaso de pavio",
+        "Mistura",
+        "Perlita até 20%",
+        "Vermiculita",
+        "Enxágue a bandeja de vez em quando.",
+        "DICA DO ANDRÉ",
+        "Meça a água da torneira com um TDS.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 137 CARNÍVORAS NO VASO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Mãos na massa",
+        "01",
+        "Passo a passo",
+        "02",
+        "Bandeja de perto",
+        "03",
+        "Folha torcida",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 137 CARNÍVORAS NO VASO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-regar-F-1.jpg",
+          "alt": "André enchendo a bandeja de uma carnívora com água limpa"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "d38-029",
+        "d38-026",
+        "d38-161",
+        "d38-033"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Carnívora? Faça assim.",
+        "BANDEJA",
+        "Cerca de 2,5 cm",
+        "ÁGUA",
+        "Meça no TDS",
+        "SOLO",
+        "80% turfa",
+        "1",
+        "ENCHA",
+        "A bandeja com cerca de 2,5 cm de água.",
+        "2",
+        "MEÇA",
+        "A água da torneira com o medidor TDS.",
+        "3",
+        "MISTURE",
+        "80% turfa e 20% perlita.",
+        "DICA DO ANDRÉ",
+        "Vaso de plástico costuma ser o melhor.",
+        "Na próxima: bandeja de perto",
+        "→",
+        "TG 137 CARNÍVORAS NO VASO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "crv-gesto-1.jpg",
+          "alt": "Mãos enchendo de água de chuva a bandeja sob um vaso de planta carnívora"
+        },
+        {
+          "src": "crv-gesto-2.jpg",
+          "alt": "Mãos segurando um medidor de sólidos dissolvidos dentro de um copo de água"
+        },
+        {
+          "src": "crv-gesto-3.jpg",
+          "alt": "Mãos misturando turfa e perlita numa vasilha para o solo de uma carnívora"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "d38-030",
+        "d38-034",
+        "d38-035",
+        "d38-005",
+        "d38-031"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · ÁGUA E SOLO",
+        "Bandeja de perto",
+        "Pires fundo imita o brejo depois da chuva.",
+        "Barro evapora e junta sal e limo.",
+        "Vaso sem furo vale, se for impermeável.",
+        "A turfa de esfagno é ácida e segura água.",
+        "Vaso de pavio deixa a terra só úmida.",
+        "Na próxima: folha torcida",
+        "→",
+        "TG 137 CARNÍVORAS NO VASO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "d38-083",
+        "d38-082",
+        "d38-152"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Folha torcida?",
+        "1",
+        "O QUE PARECE",
+        "Folha nova torcida e deformada.",
+        "O QUE PODE SER",
+        "Pulgão, a praga mais comum.",
+        "COMO RESOLVER",
+        "Separe a planta e trate só ela.",
+        "Na próxima: brejo e terrário",
+        "→",
+        "TG 137 CARNÍVORAS NO VASO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "crv-sintoma-1.jpg",
+          "alt": "Folha nova torcida e deformada numa planta carnívora com pulgões"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Brejo e terrário",
+        "01",
+        "Brejo e terrário",
+        "02",
+        "Mini-bog e cuidado",
+        "03",
+        "Carnívora de perto",
+        "Na próxima: brejo e terrário",
+        "→",
+        "TG 137 CARNÍVORAS NO VASO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-G-1.jpg",
+          "alt": "André montando um brejo de carnívoras no jardim"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "d38-135",
+        "d38-120",
+        "d38-122",
+        "d38-121",
+        "d38-123",
+        "d38-127",
+        "d38-137",
+        "d38-167"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · BREJO",
+        "Brejo e terrário",
+        "MINI-BOG",
+        "Brejo pequeno em vaso largo ou bacia",
+        "BREJO",
+        "Buraco forrado, com turfa e areia",
+        "O QUE ELE PEDE",
+        "Fundo",
+        " 25 a 30 cm ou mais",
+        "Mistura",
+        " turfa e areia em partes iguais",
+        "Forro",
+        " manta de lago ou piscina",
+        "Fosso",
+        " barra lesma e caracol",
+        "Bom saber",
+        "Mini-bog",
+        " cabe em saladeira ou urna",
+        "Terrário",
+        " fresta de 2,5 a 5 cm no topo",
+        "Na próxima: mini-bog e cuidado",
+        "→",
+        "TG 137 CARNÍVORAS NO VASO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "d38-007",
+        "d38-124",
+        "d38-167"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Musgo verde de enfeite já matou carnívora.",
+        "Brejo em ponto baixo enche de chuva.",
+        "Terrário sempre embaçado dá mofo.",
+        "FAÇA ASSIM",
+        "Fure o forro abaixo da superfície.",
+        "Deixe uma fresta no terrário.",
+        "Na próxima: carnívora de perto",
+        "→",
+        "TG 137 CARNÍVORAS NO VASO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "q3-405",
+        "q3-400",
+        "q3-402",
+        "q3-404"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · QUATRO CARNÍVORAS",
+        "Quatro de vaso",
+        "1",
+        "Sarracênia-roxa",
+        "Jarras roxas atraem moscas.",
+        "2",
+        "Dioneia",
+        "Fecha a boca ao toque dos pelinhos.",
+        "3",
+        "Drósera-redonda",
+        "Gotas parecem orvalho.",
+        "4",
+        "Nepentes",
+        "Melhor pendurada, jarras soltas.",
+        "CHAVE",
+        "Planta",
+        "O que ela faz",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 137 CARNÍVORAS NO VASO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "crv-var-sarracenia.jpg",
+          "alt": "Sarracênia-roxa com jarras altas roxas e verdes num vaso"
+        },
+        {
+          "src": "crv-var-dioneia.jpg",
+          "alt": "Dioneia com armadilhas abertas de bordas vermelhas num vaso"
+        },
+        {
+          "src": "crv-var-drosera.jpg",
+          "alt": "Drósera-redonda com folhas redondas cheias de gotinhas brilhantes nos pelos"
+        },
+        {
+          "src": "crv-var-nepentes.jpg",
+          "alt": "Nepentes pendurada com jarras soltas no ar"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "d38-140",
+        "d38-053",
+        "d38-148",
+        "d38-055",
+        "q3-399"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Carnívora de perto",
+        "SOL",
+        "Parapeito e vidro são o lugar mais claro.",
+        "LÂMPADA",
+        "A até 30 cm acima dos vasos.",
+        "UMIDADE",
+        "Importa menos que luz boa.",
+        "ALIMENTO",
+        "Ao ar livre, ela pega inseto sozinha.",
+        "DICA DO ANDRÉ",
+        "Casa seca? Cúpula de plástico segura a umidade.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 137 CARNÍVORAS NO VASO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "d38-716",
+        "d38-717",
+        "d38-078"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "95",
+        "%",
+        "ou mais dos habitats de carnívoras nos EUA já se perderam.",
+        "Um pesquisador diz que a dioneia pode sumir em um século.",
+        "E MAIS UMA",
+        "O autor tem uma sarracênia de quase 40 anos.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 137 CARNÍVORAS NO VASO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "q3-398",
+        "d38-004",
+        "d38-033",
+        "d38-039",
+        "d38-026",
+        "d38-079",
+        "d38-059",
+        "d38-020"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Água de chuva limpa na bandeja",
+        "Turfa de esfagno de verdade",
+        "Vaso de plástico com bandeja",
+        "Sol direto de 5 a 6 horas",
+        "Água da torneira medida no TDS",
+        "Planta nova inspecionada inteira",
+        "Nada de hambúrguer ou queijo",
+        "Bandeja enxaguada de vez em quando",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 137 CARNÍVORAS NO VASO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Carnívora pede água limpa e sol de verdade. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "137",
+        "VOCÊ TEM",
+        "138",
+        "139",
+        "140",
+        "141",
+        "142",
+        "São 137 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 138 PRIMEIRO BONSAI",
+        "Comente BONSAI no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 137 CARNÍVORAS NO VASO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "livro": "TG 131",
+  "titulo": "Drosera",
+  "serie": "#8A2F3A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "131",
+        "COLEÇÃO TERRA GENTIL",
+        "ORVALHO",
+        "Drosera",
+        "Pequena, pegajosa e caçadora.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-A-1.jpg",
+          "alt": "André com uma drosera de folhas pegajosas perto da luz"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "d38-375",
+        "d38-377",
+        "d38-075"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Existem cerca de 200 espécies de drosera.",
+        "Ela sente o que vale a pena prender.",
+        "Aqui tem cuidado, semente e espécies.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Veja se tem mosquito-do-fungo no vaso úmido.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 131 DROSERA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-B-1.jpg",
+          "alt": "André olhando uma drosera de perto na janela"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "d38-389",
+        "d38-174",
+        "d38-381",
+        "d38-383"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Dê muito sol ou luz forte.",
+        "Sem névoa na folha.",
+        "EVITE",
+        "Inseto forte como grilo.",
+        "Inseticida de sabão.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 131 DROSERA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da drosera",
+        "06",
+        "CAPÍTULO 1",
+        "Comida e luz",
+        "08",
+        "CAPÍTULO 2",
+        "Multiplicar",
+        "12",
+        "CAPÍTULO 3",
+        "Pigmeias e tuberosas",
+        "15",
+        "CAPÍTULO 4",
+        "Droseras de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Cor sumiu? Vá para a página 11.",
+        "Na próxima: a ficha da drosera",
+        "→",
+        "TG 131 DROSERA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "d38-381",
+        "d38-389",
+        "d38-174",
+        "d38-388",
+        "d38-436",
+        "d38-383"
+      ],
+      "textos": [
+        "FICHA DA DROSERA",
+        "Antes de agir",
+        "O que olhar",
+        "COMIDA",
+        "Mosquito e formiga pequena",
+        "LUZ",
+        "Muito sol ou luz intensa",
+        "NÉVOA",
+        "Não borrife a folha",
+        "HASTE",
+        "Corte a flor do cabo",
+        "SEMENTE",
+        "Guarde na geladeira",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Inseticida de sabão é erro na drosera",
+        "Na próxima: comida e luz",
+        "→",
+        "TG 131 DROSERA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Comida e luz",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Droseras de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 131 DROSERA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-C-1.jpg",
+          "alt": "André olhando uma drosera ao sol numa janela"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "d38-381",
+        "d38-437",
+        "d38-389",
+        "d38-388",
+        "d38-174",
+        "d38-075"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Comida",
+        "Mosquito ou formiga",
+        "Grilo",
+        "Semente",
+        "Solta na superfície",
+        "Coberta com terra",
+        "Luz",
+        "Muito sol ou lâmpada perto",
+        "Longe da lâmpada",
+        "Haste",
+        "Cortada ao aparecer",
+        "Deixada, vira praga",
+        "Névoa na folha não agrada droseras.",
+        "DICA DO ANDRÉ",
+        "Ela pega o mosquito-do-fungo.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 131 DROSERA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Multiplicar",
+        "01",
+        "Passo a passo",
+        "02",
+        "Droseras de perto",
+        "03",
+        "Cor desbotada",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 131 DROSERA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-F-1.jpg",
+          "alt": "André cuidando de uma drosera numa bandeja perto da luz"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "d38-437",
+        "d38-438",
+        "d38-435",
+        "d38-436"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Quer mais droseras? Faça assim.",
+        "SEMENTE",
+        "Sem cobrir",
+        "FOLHA",
+        "Deitada na turfa",
+        "FLOR",
+        "Palito de dente",
+        "1",
+        "ESPALHAR",
+        "Semente na superfície, sem cobrir com terra.",
+        "2",
+        "DEITAR",
+        "Folha com os tentáculos para cima, sobre turfa com areia.",
+        "3",
+        "CUTUCAR",
+        "Flor aberta com palito, para ter boa semente.",
+        "DICA DO ANDRÉ",
+        "Guarde a semente na geladeira.",
+        "Na próxima: droseras de perto",
+        "→",
+        "TG 131 DROSERA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "dro-gesto-1.jpg",
+          "alt": "Mãos espalhando sementes minúsculas de drosera na superfície de turfa com areia, sem cobrir"
+        },
+        {
+          "src": "dro-gesto-2.jpg",
+          "alt": "Mãos deitando uma folha de drosera sobre turfa com areia, com os tentáculos para cima"
+        },
+        {
+          "src": "dro-gesto-3.jpg",
+          "alt": "Mãos tocando as flores abertas de uma drosera com um palito de dente"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "d38-058",
+        "d38-406",
+        "d38-378",
+        "d38-384",
+        "d38-385"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · COMIDA E LUZ",
+        "Droseras de perto",
+        "Aceita até inseto seco de loja de pet.",
+        "O inseto preso deixa pernas e asas.",
+        "Queijo na folha é só curiosidade e embolora.",
+        "As gigantes ficam bem na janela, com sol direto.",
+        "No terrário, perto da lâmpada fica mais colorida.",
+        "Na próxima: cor desbotada",
+        "→",
+        "TG 131 DROSERA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "d38-389"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Cor sumiu?",
+        "1",
+        "O QUE PARECE",
+        "A drosera-do-cabo vermelha ficou pálida.",
+        "O QUE PODE SER",
+        "Inverno ou longe da lâmpada.",
+        "COMO RESOLVER",
+        "Dê muito sol ou luz intensa.",
+        "Na próxima: pigmeias e tuberosas",
+        "→",
+        "TG 131 DROSERA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "dro-sintoma-1.jpg",
+          "alt": "Drosera-do-cabo pálida e desbotada num vaso longe da lâmpada, quase sem vermelho"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Pigmeias e tuberosas",
+        "01",
+        "Pigmeias e tuberosas",
+        "02",
+        "Gemas e cuidado",
+        "03",
+        "Droseras de perto",
+        "Na próxima: pigmeias e tuberosas",
+        "→",
+        "TG 131 DROSERA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-G-1.jpg",
+          "alt": "André olhando uma drosera pigmeia minúscula de perto"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "d38-400",
+        "d38-412",
+        "d38-404",
+        "d38-402",
+        "d38-413",
+        "d38-405",
+        "d38-418",
+        "d38-417"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · PIGMEIAS",
+        "Pigmeias e tuberosas",
+        "PIGMEIA",
+        "Gemas que a chuva lança",
+        "TUBEROSA",
+        "Dorme de tubérculo no verão",
+        "O QUE ELAS PEDEM",
+        "Mistura",
+        " metade areia, metade turfa",
+        "Sol",
+        " muito sol direto",
+        "Gemas",
+        " método confiável em casa",
+        "Tubérculo",
+        " bainha de papel é um ano",
+        "Bom saber",
+        "Autoestéreis",
+        " pedem pólen de outro clone",
+        "Cuidado",
+        " sol direto resseca o tubérculo",
+        "Na próxima: gemas e cuidado",
+        "→",
+        "TG 131 DROSERA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "d38-417",
+        "d38-416",
+        "d38-432"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Vaso seco no sol direto.",
+        "Bandeja de água antes do estolão.",
+        "Rei multiplicada por folha.",
+        "FAÇA ASSIM",
+        "Só molhe por cima até o estolão.",
+        "Na rei, use pedaços de raiz.",
+        "Na próxima: droseras de perto",
+        "→",
+        "TG 131 DROSERA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "d38-386",
+        "d38-400",
+        "d38-430",
+        "d38-420"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · QUATRO DROSERAS",
+        "Quatro droseras",
+        "1",
+        "Drosera-do-cabo",
+        "A mais popular, boa para iniciante.",
+        "2",
+        "Pigmeia",
+        "Solta gemas que a chuva lança.",
+        "3",
+        "Drosera-rei",
+        "Só duas colônias na África do Sul.",
+        "4",
+        "Drosera gigantea",
+        "Cresce como árvore pequena.",
+        "CHAVE",
+        "Planta",
+        "O que ela tem",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 131 DROSERA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "dro-var-cabo.jpg",
+          "alt": "Drosera-do-cabo com folhas compridas e tentáculos vermelhos cheios de gotas"
+        },
+        {
+          "src": "dro-var-pigmeia.jpg",
+          "alt": "Drosera pigmeia minúscula em roseta cheia de gotas"
+        },
+        {
+          "src": "dro-var-rei.jpg",
+          "alt": "Drosera-rei com folhas compridas e estreitas cobertas de muco"
+        },
+        {
+          "src": "dro-var-gigantea.jpg",
+          "alt": "Drosera gigantea crescendo como uma pequena árvore com folhinhas em escudo"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "d38-421",
+        "d38-379",
+        "d38-380",
+        "d38-377",
+        "d38-441"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Droseras de perto",
+        "TREPADEIRA",
+        "A macrantha chega a 1,5 m e se prende nas vizinhas.",
+        "RÁPIDA",
+        "Algumas giram os tentáculos 180 graus em menos de 1 minuto.",
+        "NÓ",
+        "A Drosera regia chega a dar nó na folha.",
+        "ESPERTA",
+        "Ignora agulha de pinheiro, reage a palito.",
+        "DICA DO ANDRÉ",
+        "Vire o vaso da pigmeia sobre um papel e cutuque o centro.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 131 DROSERA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "d38-431",
+        "d38-375",
+        "d38-376"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "60",
+        "CM",
+        "nas folhas da drosera-rei, que pegam inseto grande.",
+        "Existem cerca de 200 espécies, em quase todos os continentes.",
+        "E MAIS UMA",
+        "Darwin se importava mais com as droseras do que com a origem das espécies.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 131 DROSERA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "d38-381",
+        "d38-383",
+        "d38-174",
+        "d38-389",
+        "d38-388",
+        "d38-437",
+        "d38-436",
+        "d38-438"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Mosquito ou formiga pequena",
+        "Sem inseticida de sabão",
+        "Sem névoa na folha",
+        "Muito sol ou luz intensa",
+        "Haste da flor cortada",
+        "Semente sem cobrir",
+        "Semente na geladeira",
+        "Folha deitada na turfa",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 131 DROSERA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Drosera pede olhar de perto e comida pequena. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "131",
+        "VOCÊ TEM",
+        "132",
+        "133",
+        "134",
+        "135",
+        "136",
+        "São 131 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 132 PINGUÍCULA",
+        "Comente PINGUICULA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 131 DROSERA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

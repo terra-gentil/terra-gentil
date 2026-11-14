@@ -1,0 +1,558 @@
+{
+  "livro": "TG 129",
+  "titulo": "Mato que Conta",
+  "serie": "#5B6B2A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "129",
+        "COLEÇÃO TERRA GENTIL",
+        "MATO",
+        "Mato que Conta",
+        "Nem todo mato é inimigo.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-mato-A-1.jpg",
+          "alt": "André olhando um canteiro com mato miúdo"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "e22-004",
+        "e22-003",
+        "e22-025",
+        "e22-008"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Nem todo mato é ruim.",
+        "Mato ocupa o espaço que a gente abre.",
+        "Aqui você aprende a ler o seu.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Pergunte: por que ele nasceu aqui?",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 129 MATO QUE CONTA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-mato-B-1.jpg",
+          "alt": "André agachado olhando um mato florido no canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "e22-008",
+        "e22-028",
+        "e22-007",
+        "e22-024"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Pergunte por que ele nasceu.",
+        "Deixe um cantinho em paz.",
+        "NÃO DEIXE VAZIO",
+        "Semeie adubo verde.",
+        "Não deixe soltar semente.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 129 MATO QUE CONTA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do mato",
+        "06",
+        "CAPÍTULO 1",
+        "Entenda o mato",
+        "08",
+        "CAPÍTULO 2",
+        "Manejo",
+        "12",
+        "CAPÍTULO 3",
+        "Mato e bichos",
+        "15",
+        "CAPÍTULO 4",
+        "Mato de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Mato arrancado? Vá para a página 11.",
+        "Na próxima: a ficha do mato",
+        "→",
+        "TG 129 MATO QUE CONTA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "e22-003",
+        "e22-010",
+        "e22-012",
+        "e22-021",
+        "e22-095"
+      ],
+      "textos": [
+        "FICHA DO MATO",
+        "Antes de agir",
+        "O que olhar",
+        "POR QUÊ",
+        "Ocupa o espaço aberto",
+        "SEMENTE",
+        "Muita só nasce com luz",
+        "COBERTURA",
+        "Segura semente pequena",
+        "ADUBO",
+        "Nitrogênio traz urtiga",
+        "ESTERCO",
+        "Fresco traz semente",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Composte o esterco antes.",
+        "Na próxima: entenda o mato",
+        "→",
+        "TG 129 MATO QUE CONTA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Entenda o mato",
+        "01",
+        "Certo e errado",
+        "02",
+        "Mato que chega",
+        "03",
+        "Mato e semente",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 129 MATO QUE CONTA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-mato-C-1.jpg",
+          "alt": "André com as mãos na terra de um canteiro com mato"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "e22-095",
+        "e22-040",
+        "e22-101",
+        "e22-007",
+        "e22-018",
+        "e22-070"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Esterco",
+        "Curtido",
+        "Fresco",
+        "Vaso novo",
+        "Tire a terra de cima",
+        "Leva o agrião-bravo",
+        "Mato invasor",
+        "Destrua no quintal",
+        "Jogue no baldio",
+        "Canteiro vazio",
+        "Adubo verde",
+        "Terra pelada",
+        "Muda de vaso costuma trazer trevinho.",
+        "DICA DO ANDRÉ",
+        "Confira a muda antes.",
+        "Na próxima: mato que chega",
+        "→",
+        "TG 129 MATO QUE CONTA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Manejo",
+        "01",
+        "Passo a passo",
+        "02",
+        "Semente de perto",
+        "03",
+        "Mato arrancado",
+        "Na próxima: manejo",
+        "→",
+        "TG 129 MATO QUE CONTA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-mato-F-1.jpg",
+          "alt": "André com enxada num canteiro de mato baixo"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "e22-155"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Canteiro falso? Faça assim.",
+        "TERRA",
+        "Deixe pronta",
+        "ESPERA",
+        "Deixe nascer",
+        "CORTE",
+        "Raso, sem revirar",
+        "1",
+        "PREPARAR",
+        "Prepare a terra e não semeie.",
+        "2",
+        "ESPERAR",
+        "Espere o mato nascer.",
+        "3",
+        "CORTAR",
+        "Corte raso com enxada, sem revirar.",
+        "DICA DO ANDRÉ",
+        "Só depois, semeie.",
+        "Na próxima: semente de perto",
+        "→",
+        "TG 129 MATO QUE CONTA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "mto-gesto-1.jpg",
+          "alt": "Mãos alisando com um rastelo a terra de um canteiro vazio, pronta para o canteiro falso"
+        },
+        {
+          "src": "mto-gesto-2.jpg",
+          "alt": "Mãos apontando mudinhas de mato que nasceram num canteiro de terra preparada e sem semear"
+        },
+        {
+          "src": "mto-gesto-3.jpg",
+          "alt": "Mãos segurando uma enxada para cortar o mato rente ao chão sem revirar a terra"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "e22-010",
+        "e22-012",
+        "e22-154",
+        "e22-046"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · MANEJO",
+        "Semente de perto",
+        "Muita semente só nasce com luz.",
+        "Semente pequena não nasce a mais de 5 cm.",
+        "Por isso a cobertura funciona.",
+        "O banco de sementes fica nos 25 cm de cima.",
+        "A buva não aguenta terra revirada.",
+        "Na próxima: mato arrancado",
+        "→",
+        "TG 129 MATO QUE CONTA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "e22-079",
+        "e22-024"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Mato arrancado?",
+        "1",
+        "O QUE PARECE",
+        "Tasneirinha arrancada e deixada na terra.",
+        "O QUE PODE SER",
+        "Ainda solta semente.",
+        "COMO RESOLVER",
+        "Não deixe soltar semente.",
+        "Na próxima: mato e bichos",
+        "→",
+        "TG 129 MATO QUE CONTA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "mto-sintoma-1.jpg",
+          "alt": "Tasneirinha arrancada e deixada sobre a terra, com as flores já virando penugem de semente"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Mato e bichos",
+        "01",
+        "Mato e bichos",
+        "02",
+        "Mato com cuidado",
+        "03",
+        "Mato de perto",
+        "Na próxima: mato e bichos",
+        "→",
+        "TG 129 MATO QUE CONTA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-mato-G-1.jpg",
+          "alt": "André vendo uma abelha numa flor de mato"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "e22-061",
+        "e22-030",
+        "e22-144",
+        "e22-083",
+        "e22-078",
+        "e22-047",
+        "e22-027",
+        "e22-081"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · BICHOS",
+        "Mato e bichos",
+        "ABELHA",
+        "Lâmio-roxo dá néctar cedo",
+        "BORBOLETA",
+        "Aliária alimenta a lagarta",
+        "QUEM GANHA",
+        "Dente-de-leão",
+        " flor valiosa para polinizadores",
+        "Serralha",
+        " atrai quem come pulgão",
+        "Tasneirinha",
+        " semente de passarinho",
+        "Buva",
+        " flor chama abelha e mariposa",
+        "Bom saber",
+        "Trevo",
+        " no gramado ajuda os bichos",
+        "Cuidado",
+        " maria-pretinha pode levar virose ao tomate",
+        "Na próxima: mato com cuidado",
+        "→",
+        "TG 129 MATO QUE CONTA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "e22-048",
+        "e22-051",
+        "e22-080"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Estramônio é tóxico e narcótico.",
+        "Leiteiro irrita pele, boca e olhos.",
+        "Não coma a maria-pretinha do mato.",
+        "FAÇA ASSIM",
+        "Arranque de luva.",
+        "Lave as mãos depois.",
+        "Na próxima: mato de perto",
+        "→",
+        "TG 129 MATO QUE CONTA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "e22-142",
+        "e22-125",
+        "e22-097",
+        "e22-104"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · QUATRO MATOS",
+        "Quatro matos",
+        "1",
+        "Dente-de-leão",
+        "Mais de 200 tipos quase iguais.",
+        "2",
+        "Tanchagem",
+        "Raiz forte quebra chão duro.",
+        "3",
+        "Mil-folhas",
+        "Aguenta muita seca.",
+        "4",
+        "Margarida",
+        "Flor e folha vão na salada.",
+        "CHAVE",
+        "Mato",
+        "O que ele tem",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 129 MATO QUE CONTA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "mto-var-dente.jpg",
+          "alt": "Dente-de-leão com flor amarela e relógio de sementes no gramado"
+        },
+        {
+          "src": "mto-var-tanchagem.jpg",
+          "alt": "Tanchagem nascendo em terra dura e pisada"
+        },
+        {
+          "src": "mto-var-milfolhas.jpg",
+          "alt": "Mil-folhas de flores brancas num gramado seco"
+        },
+        {
+          "src": "mto-var-margarida.jpg",
+          "alt": "Margaridinha do gramado com flores brancas e folhas em roseta"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "e22-119",
+        "e22-108",
+        "e22-041",
+        "e22-117",
+        "e22-109"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Mato de perto",
+        "CAVALINHA",
+        "Existe há 325 milhões de anos.",
+        "CORDA-DE-VIOLA",
+        "A semente dura 40 anos na terra.",
+        "ANÇARINHA",
+        "Um pé solta 20 mil sementes.",
+        "EPILÓBIO",
+        "Um pé solta 80 mil sementes.",
+        "DICA DO ANDRÉ",
+        "Cubra o canteiro um verão inteiro.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 129 MATO QUE CONTA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "e22-002",
+        "e22-025",
+        "e22-032"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "3",
+        "%",
+        "das 370 mil plantas do mundo se comportam como mato.",
+        "Quem decide o nível aceitável é você.",
+        "E MAIS UMA",
+        "A semente da ambrósia dorme 40 anos.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 129 MATO QUE CONTA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "e22-008",
+        "e22-012",
+        "e22-007",
+        "e22-115",
+        "e22-040",
+        "e22-028",
+        "e22-101",
+        "e22-118"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Perguntar por que nasceu aqui",
+        "Cobertura sobre a terra",
+        "Adubo verde no canteiro vazio",
+        "Esterco só curtido",
+        "Terra de cima do vaso descartada",
+        "Cantinho de mato em paz",
+        "Mato invasor destruído no quintal",
+        "Água bem quente no vão da calçada",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 129 MATO QUE CONTA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Todo mato tem o que contar. Olhe antes de arrancar. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "129",
+        "VOCÊ TEM",
+        "130",
+        "131",
+        "132",
+        "133",
+        "134",
+        "São 129 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 130 SARRACENIA",
+        "Comente SARRACENIA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 129 MATO QUE CONTA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-mato-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

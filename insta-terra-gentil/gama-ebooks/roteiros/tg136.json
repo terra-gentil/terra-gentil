@@ -1,0 +1,557 @@
+{
+  "livro": "TG 136",
+  "titulo": "Cephalotus e Cia",
+  "serie": "#4A2F5E",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "fatos": [
+        "d38-443",
+        "d38-465"
+      ],
+      "textos": [
+        "TG",
+        "136",
+        "COLEÇÃO TERRA GENTIL",
+        "CEPHALOTUS",
+        "Cephalotus e Cia",
+        "A jarra de Albany e o pega-moscas.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-C-1.jpg",
+          "alt": "André com uma Cephalotus de jarras avermelhadas ao sol"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "d38-443",
+        "d38-457",
+        "d38-455"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "A Cephalotus é a planta-jarro de Albany.",
+        "Ela quer sol e vaso com furo.",
+        "Aqui tem Cephalotus e Drosophyllum.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Veja onde bate sol forte em casa.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 136 CEPHALOTUS E CIA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-solo-F-1.jpg",
+          "alt": "André olhando uma Cephalotus numa janela de sol"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "d38-457",
+        "d38-456",
+        "d38-476"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Dê sol à Cephalotus.",
+        "Quanto mais sol, mais cor.",
+        "NÃO FAÇA",
+        "Não deixe o solo sempre encharcado.",
+        "Drosophyllum não vai na bandeja de água.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 136 CEPHALOTUS E CIA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da Cephalotus",
+        "06",
+        "CAPÍTULO 1",
+        "Vaso e solo",
+        "08",
+        "CAPÍTULO 2",
+        "Luz e rega",
+        "12",
+        "CAPÍTULO 3",
+        "Origem e cor",
+        "15",
+        "CAPÍTULO 4",
+        "Variedades",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Tampa dobrada? Vá para a página 11.",
+        "Na próxima: a ficha da cephalotus",
+        "→",
+        "TG 136 CEPHALOTUS E CIA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "d38-455",
+        "d38-457",
+        "d38-456",
+        "d38-460"
+      ],
+      "textos": [
+        "FICHA DA CEPHALOTUS",
+        "Antes de agir",
+        "O que olhar",
+        "VASO",
+        "Plástico, com furo",
+        "SOLO",
+        "1 de turfa, 2 de areia",
+        "SOL",
+        "Pleno a meia-sombra",
+        "ÁGUA",
+        "Sem solo saturado",
+        "PRAGA",
+        "A principal é a cochonilha",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Vaso raso sem dreno apodrece a raiz",
+        "Na próxima: vaso e solo",
+        "→",
+        "TG 136 CEPHALOTUS E CIA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Vaso e solo",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Jarra de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 136 CEPHALOTUS E CIA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-trocar-vaso-C-1.jpg",
+          "alt": "André arrumando um vaso de plástico furado para a Cephalotus"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "d38-455",
+        "d38-456",
+        "d38-452",
+        "d38-457",
+        "d38-476",
+        "d38-461",
+        "d38-462"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Vaso",
+        "Plástico, com furo",
+        "Raso, sem dreno",
+        "Solo",
+        "Úmido, sem saturar",
+        "Sempre encharcado",
+        "Luz",
+        "Sol: vermelha e roxa",
+        "Sombra: jarra esverdeada",
+        "Drosophyllum",
+        "Solo seco e drenado",
+        "Bandeja de água",
+        "Fungo e oídio: pouca luz e ar parado.",
+        "DICA DO ANDRÉ",
+        "Planta à venda vem de divisão ou estaca.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 136 CEPHALOTUS E CIA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Luz e rega",
+        "01",
+        "Passo a passo",
+        "02",
+        "Jarra de perto",
+        "03",
+        "Tampa dobrada",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 136 CEPHALOTUS E CIA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-regar-C-1.jpg",
+          "alt": "André regando uma Cephalotus"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "d38-464"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Estaca de folha? Faça assim.",
+        "FOLHA",
+        "Puxe pelo cabinho",
+        "BASE",
+        "Base branca",
+        "CAMA",
+        "Turfa e areia úmidas",
+        "1",
+        "PUXAR",
+        "Puxe a folha pelo cabinho.",
+        "2",
+        "LEVAR",
+        "Leve junto a base esbranquiçada.",
+        "3",
+        "DEITAR",
+        "Deite sobre turfa e areia úmidas.",
+        "DICA DO ANDRÉ",
+        "A planta adulta leva uns 2 a 3 anos.",
+        "Na próxima: vaso de perto",
+        "→",
+        "TG 136 CEPHALOTUS E CIA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cep-gesto-1.jpg",
+          "alt": "Mãos puxando uma folha de Cephalotus pelo cabinho, levando a base esbranquiçada"
+        },
+        {
+          "src": "cep-gesto-2.jpg",
+          "alt": "Mãos segurando uma folha de Cephalotus com a base esbranquiçada à mostra"
+        },
+        {
+          "src": "cep-gesto-3.jpg",
+          "alt": "Mãos deitando uma folha de Cephalotus sobre turfa e areia úmidas"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "d38-447",
+        "d38-448",
+        "d38-449",
+        "d38-451",
+        "d38-450"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · VASO E SOLO",
+        "Jarra de perto",
+        "A jarra começa como um botão peludo.",
+        "Os pelos são escadinhas para a formiga.",
+        "O néctar é mais forte na base dos dentes.",
+        "O colar branco é escorregadio e tem néctar.",
+        "As janelinhas da tampa deixam a luz entrar.",
+        "Na próxima: haste torta",
+        "→",
+        "TG 136 CEPHALOTUS E CIA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "d38-453"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Tampa dobrada?",
+        "1",
+        "O QUE PARECE",
+        "Tampa dobrada cobrindo a boca da jarra.",
+        "O QUE PODE SER",
+        "Reação ao ar seco.",
+        "POR QUÊ",
+        "Evita que o líquido evapore.",
+        "Na próxima: parede e palete",
+        "→",
+        "TG 136 CEPHALOTUS E CIA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cep-sintoma-1.jpg",
+          "alt": "Cephalotus com a tampa da jarra dobrada para baixo cobrindo a boca"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Origem e cor",
+        "01",
+        "Origem e cor",
+        "02",
+        "Cuidado",
+        "03",
+        "Drosophyllum",
+        "Na próxima: parede e palete",
+        "→",
+        "TG 136 CEPHALOTUS E CIA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-G-1.jpg",
+          "alt": "André olhando jarras de Cephalotus ao sol"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "d38-443",
+        "d38-445",
+        "d38-452",
+        "d38-454",
+        "d38-463",
+        "d38-462",
+        "d38-460"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ORIGEM",
+        "Origem e cor",
+        "ONDE",
+        "Sudoeste da Austrália",
+        "FOGO",
+        "Abre o mato, a semente dispensa",
+        "COR E CRESCIMENTO",
+        "Sol",
+        " vermelha e roxa",
+        "Sombra",
+        " jarra maior, mais verde",
+        "Eden Black",
+        " quase preto-arroxeado",
+        "Roseta",
+        " de semente, 2,5 cm por ano",
+        "Bom saber",
+        "Rara",
+        " e vem de divisão",
+        "Praga",
+        " a principal é a cochonilha",
+        "Na próxima: palete e cuidado",
+        "→",
+        "TG 136 CEPHALOTUS E CIA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "d38-456",
+        "d38-455",
+        "d38-476"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Não deixe o solo sempre encharcado.",
+        "Vaso raso sem dreno apodrece a raiz.",
+        "Drosophyllum não vai na bandeja de água.",
+        "FAÇA ASSIM",
+        "Vaso de plástico com furo.",
+        "Drosophyllum em solo seco e drenado.",
+        "Na próxima: horta de perto",
+        "→",
+        "TG 136 CEPHALOTUS E CIA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "d38-454",
+        "d38-452",
+        "d38-467"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · VARIEDADES",
+        "Quatro de perto",
+        "1",
+        "Eden Black",
+        "Quase preto-arroxeado, com muita luz.",
+        "2",
+        "Cephalotus no sol",
+        "Fica vermelha e roxa.",
+        "3",
+        "Cephalotus na sombra",
+        "Jarra maior, esverdeada.",
+        "4",
+        "Pega-moscas",
+        "Drosophyllum nasce em colina seca de cascalho.",
+        "CHAVE",
+        "Planta",
+        "O que ela tem",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 136 CEPHALOTUS E CIA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "cep-var-edenblack.jpg",
+          "alt": "Cephalotus Eden Black com jarras quase pretas e arroxeadas"
+        },
+        {
+          "src": "cep-var-sol.jpg",
+          "alt": "Cephalotus no sol com jarras vermelhas e roxas"
+        },
+        {
+          "src": "cep-var-sombra.jpg",
+          "alt": "Cephalotus na sombra com jarras maiores e esverdeadas"
+        },
+        {
+          "src": "cep-var-drosophyllum.jpg",
+          "alt": "Drosophyllum numa colina seca de cascalho com folhas cobertas de gotas"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "d38-468",
+        "d38-470",
+        "d38-475",
+        "d38-478"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Drosophyllum de perto",
+        "CHEIRO",
+        "Mel de abelha, chama voadores.",
+        "MUCO",
+        "Solta da glândula e gruda no inseto.",
+        "SOLO",
+        "Areia, perlita, pedra-pomes, lava, turfa.",
+        "SOL",
+        "Pleno a maior parte do dia.",
+        "DICA DO ANDRÉ",
+        "Vaso de barro de 30 cm ou mais.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 136 CEPHALOTUS E CIA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "d38-443",
+        "d38-483",
+        "d38-482"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "400",
+        "KM",
+        "de faixa litorânea no sudoeste da Austrália: o lar da Cephalotus.",
+        "Drosophyllum só se multiplica por semente.",
+        "E MAIS UMA",
+        "Drosophyllum em janela é muito duvidoso.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 136 CEPHALOTUS E CIA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "d38-455",
+        "d38-457",
+        "d38-456",
+        "d38-476",
+        "d38-478",
+        "d38-484",
+        "d38-486",
+        "d38-481"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Vaso de plástico com furo",
+        "Turfa e areia, 1 para 2",
+        "Sol de pleno a meia-sombra",
+        "Solo sem encharcar",
+        "Drosophyllum em solo seco",
+        "Drosophyllum ao sol pleno",
+        "Semente de Drosophyllum lixada",
+        "Botões cortados no 1º ano",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 136 CEPHALOTUS E CIA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Cephalotus e Drosophyllum pedem sol e água na medida. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "136",
+        "VOCÊ TEM",
+        "137",
+        "138",
+        "139",
+        "140",
+        "141",
+        "São 136 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 137 CARNÍVORAS NO VASO",
+        "Comente CARNIVORA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 136 CEPHALOTUS E CIA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-luz-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

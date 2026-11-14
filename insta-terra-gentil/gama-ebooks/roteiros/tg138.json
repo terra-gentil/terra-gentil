@@ -1,0 +1,565 @@
+{
+  "livro": "TG 138",
+  "titulo": "Primeiro Bonsai",
+  "serie": "#4F5B3A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "138",
+        "COLEÇÃO TERRA GENTIL",
+        "BONSAI",
+        "Primeiro Bonsai",
+        "Árvore pequena, vida longa.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-podar-A-1.jpg",
+          "alt": "André segurando um bonsai pequeno com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "b39-001",
+        "b39-004",
+        "b39-117"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Bonsai é árvore de verdade, só pequena.",
+        "Dá mais trabalho que planta de vaso.",
+        "Aqui tem escolha, semente, estaca e estilo.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Veja se tem tempo para olhar todo dia.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 138 PRIMEIRO BONSAI",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-podar-B-1.jpg",
+          "alt": "André olhando um bonsai de perto"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "b39-120",
+        "b39-101",
+        "b39-102"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Dê sol e água na medida.",
+        "O adubo vem depois.",
+        "SEM EXAGERO",
+        "Mais água não é sempre melhor.",
+        "Água demais afoga a semente.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 138 PRIMEIRO BONSAI",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do bonsai",
+        "06",
+        "CAPÍTULO 1",
+        "Escolha e vaso",
+        "08",
+        "CAPÍTULO 2",
+        "Semente e estaca",
+        "12",
+        "CAPÍTULO 3",
+        "Estilos",
+        "15",
+        "CAPÍTULO 4",
+        "Bonsai de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Muda murcha? Vá para a página 11.",
+        "Na próxima: a ficha do bonsai",
+        "→",
+        "TG 138 PRIMEIRO BONSAI",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "b39-079",
+        "b39-053",
+        "b39-054",
+        "b39-055",
+        "b39-062",
+        "b39-081"
+      ],
+      "textos": [
+        "FICHA DO BONSAI",
+        "Antes de agir",
+        "O que olhar",
+        "FURO",
+        "Um no fundo",
+        "FUNDO",
+        "Dobro do tronco",
+        "LARGURA",
+        "Igual à altura",
+        "FOLHA",
+        "Pequena",
+        "COMPRA",
+        "Viveiro ao ar livre",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Vaso grande demais não vale",
+        "Na próxima: escolha e vaso",
+        "→",
+        "TG 138 PRIMEIRO BONSAI",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Escolha e vaso",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Vaso de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 138 PRIMEIRO BONSAI",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-podar-C-1.jpg",
+          "alt": "André escolhendo um vaso para um bonsai"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "b39-055",
+        "b39-056",
+        "b39-081",
+        "b39-079",
+        "b39-062",
+        "b39-063",
+        "b39-059",
+        "b39-061"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Folha",
+        "Pequena",
+        "Grande",
+        "Vaso",
+        "Do tamanho da raiz",
+        "Grande demais",
+        "Furo",
+        "No fundo",
+        "Sem furo",
+        "Compra",
+        "Viveiro ao ar livre",
+        "Luz de loja",
+        "Barriga no meio do tronco é difícil de corrigir.",
+        "DICA DO ANDRÉ",
+        "Olhe muitos bonsais antes de comprar.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 138 PRIMEIRO BONSAI",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Semente e estaca",
+        "01",
+        "Passo a passo",
+        "02",
+        "Semente de perto",
+        "03",
+        "Muda murcha",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 138 PRIMEIRO BONSAI",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-C-1.jpg",
+          "alt": "André plantando uma semente num vaso pequeno"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "b39-094",
+        "b39-103",
+        "b39-105",
+        "b39-099"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Semente? Faça assim.",
+        "MOLHO",
+        "Um dia em água morna",
+        "COBERTURA",
+        "1 a 2 cm de terra",
+        "REGA",
+        "Pela bacia",
+        "1",
+        "MOLHE",
+        "A semente um dia em água morna.",
+        "2",
+        "COBRIR",
+        "Semente grande leva 1 a 2 cm de terra.",
+        "3",
+        "REGUE",
+        "O vaso na bacia, a terra bebe por baixo.",
+        "DICA DO ANDRÉ",
+        "Passe a terra numa peneira fina.",
+        "Na próxima: semente de perto",
+        "→",
+        "TG 138 PRIMEIRO BONSAI",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bon-gesto-1.jpg",
+          "alt": "Mãos pondo sementes numa tigela de água morna para ficar de molho"
+        },
+        {
+          "src": "bon-gesto-2.jpg",
+          "alt": "Mãos cobrindo uma semente grande com uma camada fina de terra num vaso pequeno"
+        },
+        {
+          "src": "bon-gesto-3.jpg",
+          "alt": "Mãos pondo um vaso pequeno de semeadura dentro de uma bacia com água"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "b39-086",
+        "b39-090",
+        "b39-104",
+        "b39-095",
+        "b39-097"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · SEMENTE",
+        "Semente de perto",
+        "Semente é o jeito mais natural, mas o mais lento.",
+        "Semente de loja já vem sem doença.",
+        "Semente minúscula não leva cobertura.",
+        "Algumas pedem frio, a estratificação.",
+        "Brotou antes de um mês na geladeira? Plante.",
+        "Na próxima: muda murcha",
+        "→",
+        "TG 138 PRIMEIRO BONSAI",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "b39-106",
+        "b39-107"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Muda murcha?",
+        "1",
+        "O QUE PARECE",
+        "Muda nova seca e sem força.",
+        "O QUE PODE SER",
+        "Sol direto no começo.",
+        "COMO RESOLVER",
+        "Poupe do sol e não encharque.",
+        "Na próxima: estilos",
+        "→",
+        "TG 138 PRIMEIRO BONSAI",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bon-sintoma-1.jpg",
+          "alt": "Muda nova de árvore com folhas secas e murchas num vaso pequeno ao sol forte"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Estilos",
+        "01",
+        "Estilos de bonsai",
+        "02",
+        "Mais estilos",
+        "03",
+        "Bonsai de perto",
+        "Na próxima: estilos",
+        "→",
+        "TG 138 PRIMEIRO BONSAI",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-podar-F-1.jpg",
+          "alt": "André olhando o tronco de um bonsai em curva"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "b39-020",
+        "b39-037",
+        "b39-034",
+        "b39-028",
+        "b39-032",
+        "b39-027",
+        "b39-022",
+        "b39-044"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ESTILOS",
+        "Estilos",
+        "MOYOGI",
+        "Curva, tronco em S",
+        "CHOKKAN",
+        "Vertical, galhos em intervalos",
+        "MAIS ESTILOS",
+        "Shakan",
+        " tronco inclinado",
+        "Kengai",
+        " cascata, cai abaixo do vaso",
+        "Bankan",
+        " tronco torcido, forte",
+        "Fukinagashi",
+        " galhos de um lado só",
+        "Bom saber",
+        "Ishizuki",
+        " sobre pedra, rega sempre",
+        "Sankan",
+        " três troncos de uma base",
+        "Na próxima: mais estilos",
+        "→",
+        "TG 138 PRIMEIRO BONSAI",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "b39-029",
+        "b39-059",
+        "b39-052",
+        "b39-042",
+        "b39-051"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Cascata é difícil: vai contra a natureza.",
+        "Barriga no tronco é difícil de corrigir.",
+        "Uma árvore fraca estraga a floresta.",
+        "FAÇA ASSIM",
+        "Prefira número ímpar de troncos.",
+        "Misture tamanhos na floresta.",
+        "Na próxima: bonsai de perto",
+        "→",
+        "TG 138 PRIMEIRO BONSAI",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "b39-067",
+        "b39-069",
+        "b39-095",
+        "b39-084"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · QUATRO ÁRVORES",
+        "Quatro bonsais",
+        "1",
+        "Zimbro",
+        "Perdoa erros do iniciante.",
+        "2",
+        "Bordo-japonês",
+        "Caducifólia muito cultivada.",
+        "3",
+        "Olmo",
+        "Também caducifólia, semente pede frio.",
+        "4",
+        "Romã-anã",
+        "Costuma ser vendida grande.",
+        "CHAVE",
+        "Árvore",
+        "O que ela tem",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 138 PRIMEIRO BONSAI",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "bon-var-zimbro.jpg",
+          "alt": "Bonsai de zimbro com copa em camadas num vaso baixo"
+        },
+        {
+          "src": "bon-var-bordo.jpg",
+          "alt": "Bonsai de bordo-japonês com folhas pequenas vermelhas num vaso"
+        },
+        {
+          "src": "bon-var-olmo.jpg",
+          "alt": "Bonsai de olmo com tronco reto e copa redonda de folhas pequenas"
+        },
+        {
+          "src": "bon-var-roma.jpg",
+          "alt": "Bonsai de romã-anã com folhas miúdas e uma pequena flor laranja"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "b39-006",
+        "b39-008",
+        "b39-042",
+        "b39-121",
+        "b39-082"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Bonsai de perto",
+        "ORIGEM",
+        "Dizem que nasceu na China.",
+        "JAPÃO",
+        "Cultivo desde 1185, no Kamakura.",
+        "ÍMPAR",
+        "Número ímpar prende o olhar.",
+        "ADUBO",
+        "Pouca terra pede adubo.",
+        "DICA DO ANDRÉ",
+        "Vaso simples agora, bonito depois.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 138 PRIMEIRO BONSAI",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "b39-074",
+        "b39-002",
+        "b39-015"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "90",
+        "CM",
+        "é a altura máxima de um bonsai, e o mínimo é 15 cm.",
+        "Um ficus de museu tem quase mil anos.",
+        "E MAIS UMA",
+        "O filme Karatê Kid espalhou a fama do bonsai.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 138 PRIMEIRO BONSAI",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "b39-117",
+        "b39-055",
+        "b39-079",
+        "b39-081",
+        "b39-062",
+        "b39-094",
+        "b39-106",
+        "b39-120"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Tempo para olhar todo dia",
+        "Espécie de folha pequena",
+        "Furo de drenagem no vaso",
+        "Vaso do tamanho das raízes",
+        "Compra em viveiro ao ar livre",
+        "Semente de molho por um dia",
+        "Muda longe do sol direto",
+        "Sol e água na medida",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 138 PRIMEIRO BONSAI",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Bonsai pede olhar todo dia e paciência. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "138",
+        "VOCÊ TEM",
+        "139",
+        "140",
+        "141",
+        "142",
+        "143",
+        "São 138 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 139 BONSAI PODA E ESTILO",
+        "Comente ESTILO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 138 PRIMEIRO BONSAI",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-podar-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

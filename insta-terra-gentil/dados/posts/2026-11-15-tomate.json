@@ -1,0 +1,226 @@
+{
+  "dia": "2026-11-15",
+  "palavra": "TOMATE",
+  "especie": "Solanum lycopersicum",
+  "nome": "Tomate",
+  "tema": null,
+  "serie": "3 erros",
+  "gancho": "O tomate cresceu lindo, mas cadê o fruto? Três erros comuns e como corrigir.",
+  "resumo": "Três motivos para o tomate em vaso não dar fruto: nitrogênio demais, pouco fósforo e potássio, e falta de polinização. Dois gestos simples resolvem.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Frutos",
+      "linha1": "O tomate cresceu",
+      "linha2": "lindo, mas",
+      "linha3": "cadê o fruto?",
+      "destaque": "calma"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Adubo de folha,",
+      "linha2": "nitrogênio",
+      "destaque": "demais",
+      "texto": "Com muito nitrogênio, como esterco fresco em excesso, a planta vira um matagal e esquece de dar fruto.",
+      "nota": "Foi cuidado demais, não descuido."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Faltou",
+      "linha2": "fósforo e",
+      "destaque": "potássio",
+      "texto": "Para dar fruto, o tomate precisa desses dois. Adubos ricos neles estimulam flores e frutos.",
+      "nota": "Quase todo mundo começa assim."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Varanda alta,",
+      "linha2": "sem",
+      "destaque": "abelhas",
+      "texto": "Em varandas altas, às vezes não há abelhas para levar o pólen de uma flor à outra.",
+      "nota": "Você pode fazer esse papel."
+    },
+    {
+      "linha1": "Adube com mais",
+      "linha2": "fósforo e",
+      "destaque": "potássio",
+      "texto": "Isso estimula as flores e os frutos. E evite o excesso de esterco fresco.",
+      "dica": "Adubo demais também faz mal: o excesso é tão ruim quanto a falta."
+    },
+    {
+      "linha1": "Poliniza à mão",
+      "linha2": "de manhã",
+      "destaque": "cedinho",
+      "texto": "Use um pincel macio de uma florzinha para outra, ou vibre a haste da flor com o dedo.",
+      "dica": "Repita a cada um ou dois dias, nas flores que já estão abertas."
+    },
+    {
+      "tarja": "Sinal",
+      "linha1": "A flor amarelou",
+      "linha2": "e",
+      "destaque": "caiu?",
+      "texto": "Flores sem polinização adequada podem amarelar e cair. Ajude a próxima com seu pincel.",
+      "nota": "Sem culpa, é só ajustar."
+    },
+    {
+      "texto": "Cuide com calma e ele devolve em tomates vermelhinhos. Salve este post para a próxima florada.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "Nitrogênio demais, como esterco fresco em excesso, faz o tomateiro crescer como um matagal e esquecer de dar fruto.",
+      "pagina": 10,
+      "trecho": "a planta entende que deve crescer como um matagal, mas esquece de produzir frutos",
+      "fonte": "Tomate em Vaso: Colheita Farta, p. 10"
+    },
+    {
+      "texto": "Correção: adubos ricos em fósforo e potássio estimulam flores e frutos, e o esterco fresco deve ser evitado em excesso.",
+      "pagina": 10,
+      "trecho": "Use adubos ricos em fósforo e potássio para estimular flores e frutos",
+      "fonte": "Tomate em Vaso: Colheita Farta, p. 10"
+    },
+    {
+      "texto": "Para ajudar as flores, o livro sugere farinha de ossos ou cinzas de madeira, uma colher de sopa por mês.",
+      "pagina": 10,
+      "trecho": "Use farinha de ossos ou cinzas de madeira (uma colher de sopa por mês)",
+      "fonte": "Tomate em Vaso: Colheita Farta, p. 10"
+    },
+    {
+      "texto": "Em varanda alta, às vezes não aparecem abelhas para polinizar as flores.",
+      "pagina": 10,
+      "trecho": "Em varandas altas, às vezes não há abelhas.",
+      "fonte": "Tomate em Vaso: Colheita Farta, p. 10"
+    },
+    {
+      "texto": "A polinização manual deve ser feita nas primeiras horas da manhã, quando as flores estão abertas.",
+      "pagina": 10,
+      "trecho": "Faça polinização manual nas primeiras horas da manhã",
+      "fonte": "Tomate em Vaso: Colheita Farta, p. 10"
+    },
+    {
+      "texto": "Um pincel macio leva o pólen de uma florzinha para outra.",
+      "pagina": 10,
+      "trecho": "use um pincel macio para passar de uma florzinha para outra",
+      "fonte": "Tomate em Vaso: Colheita Farta, p. 10"
+    },
+    {
+      "texto": "Outro jeito: com um dedo, toque suavemente e vibre a haste da flor, para soltar o pólen.",
+      "pagina": 11,
+      "trecho": "Com um dedo, toque suavemente e vibre a haste da flor",
+      "fonte": "Tomate em Vaso: Colheita Farta, p. 11"
+    },
+    {
+      "texto": "Repita a polinização a cada um ou dois dias, nas flores que já estão abertas.",
+      "pagina": 11,
+      "trecho": "Repita o processo a cada um ou dois dias, em flores que já estão abertas",
+      "fonte": "Tomate em Vaso: Colheita Farta, p. 11"
+    },
+    {
+      "texto": "Flores que não foram polinizadas direito podem amarelar e cair.",
+      "pagina": 11,
+      "trecho": "Flores que não foram polinizadas adequadamente podem amarelar e cair",
+      "fonte": "Tomate em Vaso: Colheita Farta, p. 11"
+    },
+    {
+      "texto": "Adubo demais também prejudica: o excesso faz tanto mal quanto a falta.",
+      "pagina": 6,
+      "trecho": "O excesso de adubo é tão prejudicial quanto a falta!",
+      "fonte": "Tomate em Vaso: Colheita Farta, p. 6"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8
+  ],
+  "fontes": [
+    "Tomate em Vaso: Colheita Farta, p. 10",
+    "Tomate em Vaso: Colheita Farta, p. 11"
+  ],
+  "materia": {
+    "slug": "tomate-cresce-e-nao-da-fruto-o-que-fazer",
+    "titulo": "Tomate que cresce e não dá fruto: o que fazer",
+    "descricao": "O tomate em vaso ficou lindo e verde, mas não dá fruto? Veja os três erros mais comuns, o adubo certo e como polinizar à mão, sem complicação nenhuma.",
+    "introducao": "Você cuidou, regou, deu sol, e o tomateiro cresceu bonito e verde. Só que os tomates não vieram. Respire, isso acontece com muita gente, e quase nunca é falta de jeito. Na maioria das vezes, a planta só está pedindo uma pequena correção. Neste texto, a gente conversa sobre os três motivos mais comuns para o tomate crescer e não dar fruto, e sobre os gestos simples que ajudam a planta a florescer e frutificar. Tudo com base no ebook do tomate em vaso do André, sem receita complicada e sem culpa. Um passo de cada vez, com calma, e a colheita aparece.",
+    "secoes": [
+      {
+        "titulo": "Por que o tomateiro cresce tanto e não dá fruto",
+        "paragrafos": [
+          "Quando o tomateiro recebe muito nitrogênio, como esterco fresco em excesso, ele entende que o trabalho dele é crescer. Aí a planta vira um matagal de folhas e esquece de produzir frutos. É o que o livro chama de erro do adubo de folha.",
+          "A boa notícia é que esse erro vem do carinho. Quem adubou demais queria o melhor para a planta. Não é falta de cuidado, é cuidado na direção errada, e dá para corrigir sem drama."
+        ],
+        "fatosUsados": [
+          0
+        ]
+      },
+      {
+        "titulo": "Que adubo ajuda o tomate a florescer",
+        "paragrafos": [
+          "A correção, segundo o livro, é usar adubos ricos em fósforo e potássio, que estimulam as flores e os frutos. E é bom evitar o excesso de esterco fresco.",
+          "Como ajuda extra, o ebook sugere farinha de ossos ou cinzas de madeira, uma colher de sopa por mês. O livro também lembra de um cuidado importante: o excesso de adubo é tão prejudicial quanto a falta. Então, mais não é melhor. Siga a medida e confie no tempo da planta."
+        ],
+        "fatosUsados": [
+          1,
+          2
+        ]
+      },
+      {
+        "titulo": "E se não houver abelhas na varanda",
+        "paragrafos": [
+          "Em varandas altas, às vezes não aparecem abelhas. Sem elas, as flores do tomateiro podem ficar sem ninguém para levar o pólen de um lugar a outro, e o fruto não se forma.",
+          "Se a sua planta tem flores, mas os tomates não vêm, essa pode ser a razão. A solução é simples e até divertida: você faz o papel da abelha."
+        ],
+        "fatosUsados": [
+          3
+        ]
+      },
+      {
+        "titulo": "Como polinizar à mão, passo a passo",
+        "paragrafos": [
+          "O livro recomenda fazer a polinização manual nas primeiras horas da manhã, quando as flores estão abertas. Você pode usar um pincel macio para passar o pólen de uma florzinha para outra.",
+          "Outro jeito é tocar suavemente a haste da flor com um dedo e vibrar, para soltar o pólen. Nada de força, só delicadeza. Repita a cada um ou dois dias, nas flores que já estão abertas, porque novas flores vão abrindo aos poucos."
+        ],
+        "fatosUsados": [
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "titulo": "O que acontece se a flor não for polinizada",
+        "paragrafos": [
+          "Flores que não foram polinizadas direito podem amarelar e cair. Se você viu isso na sua planta, não se culpe. É um sinal de que a flor ficou sem ajuda a tempo.",
+          "Com a polinização manual, a chance de o fruto se formar aumenta. É só ir observando as flores nos dias seguintes e repetir o gesto com paciência."
+        ],
+        "fatosUsados": [
+          8
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Posso usar esterco fresco no tomate para ele dar fruto?",
+        "resposta": "O livro pede cuidado. Esterco fresco em excesso dá nitrogênio demais, e a planta cresce em folhas sem produzir frutos. A correção é usar adubos ricos em fósforo e potássio e evitar o excesso de esterco fresco."
+      },
+      {
+        "pergunta": "Quantas flores preciso polinizar por dia?",
+        "resposta": "O livro não dá um número de flores. Ele diz para repetir o processo a cada um ou dois dias, nas flores que já estão abertas, nas primeiras horas da manhã."
+      },
+      {
+        "pergunta": "Vale usar bastante adubo para garantir os tomates?",
+        "resposta": "Não. O livro avisa que o excesso de adubo é tão prejudicial quanto a falta. Use adubo rico em fósforo e potássio com moderação e observe a planta."
+      }
+    ],
+    "conclusao": "Tomate que cresce e não dá fruto quase sempre pede só um ajuste: menos nitrogênio, mais fósforo e potássio, e uma ajudinha na polinização. Faça com calma, de manhã cedo, com um pincel macio ou a ponta do dedo. A planta agradece, e você ganha a alegria de colher o primeiro tomate. Salve este texto para a próxima vez que a dúvida bater e conte para quem também planta com medo de errar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

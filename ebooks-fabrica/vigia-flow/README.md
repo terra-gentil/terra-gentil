@@ -9,6 +9,17 @@ plano e so acorda no fim, na falha ou no limite.
 2. Manda ao `receptor.mjs` (127.0.0.1:47812), que grava `saida/estado.json` e `saida/historico.ndjson`.
 3. `node esperar-fim.mjs` le o arquivo e imprime `VIGIA fim|limite|sem-sinal|demorou`.
 
+## A extensao esta viva? (v1.4)
+O estado so vai ao receptor quando algo muda. Com a ferramenta parada (ocioso), antes da v1.4 nada chegava e a
+extensao parecia morta (13/11/2026, depois das 18:38). Agora:
+- a ferramenta repete o mesmo estado a cada 3 a 6 min com `eco: true` (sorteado, nunca fixo);
+- o receptor grava o ultimo sinal de cada origem em `saida/vivo.json` (`div`, `cabecalho`, `galeria`, `pulso`, cada
+  um com `versao` e `quando`). Eco e pulso so mexem no `vivo.json`: nao tocam em `estado.json`, historico nem alerta.
+- Prova de versao: `saida/vivo.json` com `"versao":"1.4"` e `quando` recente. O pulso da galeria so sai com a aba
+  da galeria visivel e fora da tela da ferramenta; aba escondida fica muda de proposito.
+- Aba aberta antes de recarregar a extensao fica com script orfao: ele percebe (`chrome.runtime.id` some) e para
+  de ler a tela. Por isso o F5 nas abas do Flow depois de recarregar continua obrigatorio.
+
 ## Instalar (uma vez)
 Chrome > chrome://extensions > ligar "Modo do desenvolvedor" > "Carregar sem compactacao" > escolher esta pasta
 (`C:\Gitlab_hz\terra-gentil-site\terra-gentil\ebooks-fabrica\vigia-flow`). Depois recarregar a aba da ferramenta (F5).
@@ -29,7 +40,8 @@ O laco de 2K saiu do console e mora na extensao (`laco2k.js` + `conteudo-galeria
   minuto, 40 a 110 s entre fotos e 2 a 5 min de descanso a cada 2 fotos. Uma rodada de 4 leva uns 6 a 10 min.
   Entre rodadas, 25 min no minimo (o receptor recusa com `parou: "espacando"`). E de proposito, nao acelerar.
 - O receptor tambem recusa o 2K com a ferramenta gerando (`gerando`) e com extensao abaixo da v1.3
-  (`extensao-velha`: o `versao` vem em todo POST, conferir em `saida/estado-2k.json`).
+  (`extensao-velha`: o `versao` vem em todo POST, conferir em `saida/vivo.json`). Passo com dois digitos
+  (`2k 0 20 10`) passou a valer no receptor (v1.4; antes o comando era apagado calado).
 - O laco so age com a aba da galeria visivel (`sem-foco` se ela sair da frente) e para se o menu sumir 2 vezes
   (`menu-sumiu`). Nao rola a pagina se a foto ja esta na tela.
 - `../baixar2k.js` (colar no console) virou plano B: funciona, mas deixa pegada na pagina.
@@ -64,6 +76,13 @@ Na proxima mensagem da extensao o receptor responde o comando e ela se recarrega
 versoes ja com esse mecanismo; mudar o manifest com permissao nova pode pedir um clique em chrome://extensions).
 Depois de recarregar, dar F5 nas abas do Flow (as abas abertas seguem com o script antigo) e reiniciar o
 `receptor.mjs` se ele mudou.
+- O `recarregar` so e entregue quando a extensao fala. Com a ferramenta parada e a galeria escondida, a v1.3 nao
+  falava nada: dar F5 na aba da ferramenta faz o primeiro POST e entrega o comando. Na v1.4 o eco entrega em ate 6 min.
+- Sequencia que funcionou em 13/11/2026 21:04: reiniciar o receptor, gravar `recarregar`, F5 na ferramenta (a v1.3
+  posta e se recarrega), F5 nas duas abas, conferir `saida/vivo.json` com a versao nova.
+- Cuidado: F5 na aba da ferramenta apaga Elenco e Gentileza montados.
+- Salvar arquivo com PowerShell 5.1 (`Set-Content -Encoding utf8`) poe BOM no comeco; no manifest.json isso pode
+  quebrar a carga. Editar pelo editor ou pelo node.
 
 ## Regra de ouro
 Erro novo no 2K ou na espera: antes de seguir, escrever o teste que o pega em `vigia.test.mjs` e, se couber, uma

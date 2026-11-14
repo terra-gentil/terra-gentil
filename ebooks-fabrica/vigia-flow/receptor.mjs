@@ -1,6 +1,6 @@
 // Receptor local do TG Vigia: escuta 127.0.0.1:47812 (PORTA), recebe o estado e grava em saida/ (SAIDA):
 // origem "galeria" vai para estado-2k.json, o resto para estado.json; todo POST entra no historico.ndjson.
-// Origem "pulso" nao grava nada, so busca comando. Alerta de limite ou atividade incomum grava alerta.json e
+// Origem "pulso" e estado com eco: true so marcam saida/vivo.json e buscam comando. Alerta de limite ou atividade incomum grava alerta.json e
 // abre um resfriamento (regras.mjs: 60 min para limite, 180 para atividade incomum).
 // Comandos de saida/comando.txt, respondidos UMA vez em 200 {"comando": ...} e apagados: "recarregar" (qualquer
 // POST), "2k a b [passo]" e "parar2k" (so em POST da galeria, para cair na aba certa). So aceita POST /estado.
@@ -17,7 +17,19 @@ import { restanteEsfriar, alertaAtual, restante2k, gerandoAgora, VERSAO_MINIMA }
 const pasta = process.env.SAIDA || join(dirname(fileURLToPath(import.meta.url)), "saida");
 const porta = Number(process.env.PORTA || 47812);
 const paradas = ["limite", "incomum"];
-const valido = (c) => c === "recarregar" || c === "parar2k" || /^2k \d+ \d+( \d)?$/.test(c);
+// passo com mais de um digito: a galeria aceita (\d+), o receptor so aceitava um digito e apagava o comando
+const valido = (c) => c === "recarregar" || c === "parar2k" || /^2k \d+ \d+( \d+)?$/.test(c);
+// vivo.json (v1.4): ultimo sinal de cada origem (div, cabecalho, galeria, pulso) com versao e hora. Prova que a
+// extensao esta no ar mesmo com a tela parada, sem mexer no estado.json (o esperar-fim.mjs mede o silencio dele).
+const marcarVivo = (estado) => {
+  const arq = join(pasta, "vivo.json");
+  let vivo = {};
+  try { vivo = JSON.parse(readFileSync(arq, "utf8")); } catch { /* primeiro sinal */ }
+  vivo[String(estado.origem || "?")] = {
+    versao: estado.versao || "", tela: estado.tela || "", eco: Boolean(estado.eco), quando: new Date().toISOString(),
+  };
+  writeFileSync(arq, JSON.stringify(vivo));
+};
 const daGaleria = (origem) => origem === "galeria" || origem === "pulso";
 const versaoOk = (v) => {
   const [maior, menor] = String(v || "0").split(".").map(Number);
@@ -69,7 +81,9 @@ createServer((req, res) => {
   req.on("end", () => {
     try {
       const estado = JSON.parse(corpo);
-      if (estado.origem !== "pulso") {
+      try { marcarVivo(estado); } catch { /* vivo.json e so diagnostico */ }
+      // eco = mesmo estado repetido so para dar sinal de vida: nao grava estado, historico nem alerta
+      if (estado.origem !== "pulso" && !estado.eco) {
         const arq = estado.origem === "galeria" ? "estado-2k.json" : "estado.json";
         writeFileSync(join(pasta, arq), JSON.stringify(estado));
         appendFileSync(join(pasta, "historico.ndjson"), JSON.stringify(estado) + "\n");

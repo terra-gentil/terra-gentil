@@ -2,7 +2,7 @@
 // Uso: node --test vigia.test.mjs (na pasta vigia-flow). Rode antes de mandar recarregar a extensao.
 import test from "node:test";
 import assert from "node:assert/strict";
-import { readFileSync, existsSync, mkdtempSync, writeFileSync, utimesSync } from "node:fs";
+import { readFileSync, existsSync, mkdtempSync, writeFileSync, utimesSync, statSync } from "node:fs";
 import { spawn } from "node:child_process";
 import vm from "node:vm";
 import { tmpdir } from "node:os";
@@ -310,7 +310,7 @@ test("galeria v1.3: nao rola se a foto ja esta na tela, marca a tela e le devaga
   assert.match(g, /repetir\(olhar, 5000, 10000\)/, "leitura da galeria rapida demais");
   assert.match(ler("conteudo.js"), /TG\.jitter\(4000, 8000\)/, "leitura da ferramenta rapida demais");
   assert.match(ler("fundo.js"), /getManifest\(\)\.version/, "estado sem versao: receptor nao sabe se a extensao e a nova");
-  assert.equal(JSON.parse(ler("manifest.json")).version, "1.3");
+  assert.ok(Number(JSON.parse(ler("manifest.json")).version) >= 1.3);
 });
 
 test("plano B baixar2k.js segue o mesmo ritmo lento", () => {
@@ -380,4 +380,93 @@ test("pode.mjs gerar: lotes com intervalo sorteado, nunca no mesmo compasso", as
   assert.equal(await rodarPode(saida, "gerar"), "PODE");
   const r3 = JSON.parse(readFileSync(join(saida, "ritmo.json"), "utf8"));
   assert.ok((r3.proximoGerar - Date.parse(r3.quando)) / 60000 >= 60, "faltou a pausa longa a cada 3 lotes");
+});
+// ---- v1.4: ferramenta parada nao mandava nada e a extensao parecia morta (13/11/2026, depois das 18:38) ----
+// roda o conteudo.js num quadro de mentira, com relogio e temporizadores proprios
+const simularFerramenta = () => {
+  const sim = { t: 0, timers: [], enviados: [], id: "x" };
+  const div = { getAttribute: (n) => ({ "data-status": "ocioso", "data-prontas": "0", "data-falhas": "0", "data-gerando": "" })[n] };
+  const ctx = vm.createContext({
+    Date: { now: () => sim.t },
+    setTimeout: (fn, ms) => sim.timers.push({ fn, quando: sim.t + ms }),
+    document: { getElementById: () => div, body: { innerText: "Prontas 0 Gerando 0" }, querySelectorAll: () => [] },
+    chrome: { runtime: {
+      get id() { return sim.id; },
+      sendMessage: (m) => { sim.enviados.push(m); return Promise.resolve(); },
+      onMessage: { addListener: () => {} },
+    } },
+  });
+  vm.runInContext(ler("ritmo.js") + "\n" + ler("conteudo.js"), ctx);
+  sim.andar = (ms) => {
+    const fim = sim.t + ms;
+    for (;;) {
+      sim.timers.sort((x, y) => x.quando - y.quando);
+      const p = sim.timers[0];
+      if (!p || p.quando > fim) break;
+      sim.timers.shift(); sim.t = p.quando; p.fn();
+    }
+    sim.t = fim;
+  };
+  return sim;
+};
+
+test("ferramenta v1.4: tela parada manda eco de 3 a 6 min, nunca a cada leitura", () => {
+  const sim = simularFerramenta();
+  sim.andar(20000);
+  assert.equal(sim.enviados.length, 1, "primeiro estado nao saiu");
+  assert.ok(!sim.enviados[0].dados.eco);
+  sim.andar(170000);
+  assert.equal(sim.enviados.length, 1, "eco cedo demais: barulho a cada leitura");
+  sim.andar(200000);
+  assert.ok(sim.enviados.length >= 2, "tela parada ficou muda por mais de 6 min");
+  assert.equal(sim.enviados[1].dados.eco, true, "repeticao sem marca de eco sobrescreve o estado.json");
+  sim.andar(3600000);
+  const n = sim.enviados.length;
+  assert.ok(n >= 11 && n <= 22, "eco fora do compasso de 3 a 6 min: " + n + " em 1 h");
+});
+
+test("ferramenta v1.4: script velho para de vez quando a extensao e recarregada", () => {
+  const sim = simularFerramenta();
+  sim.andar(20000);
+  sim.id = undefined; // contexto invalidado pelo chrome.runtime.reload()
+  sim.andar(400000);
+  const n = sim.enviados.length;
+  sim.andar(3600000);
+  assert.equal(sim.enviados.length, n, "script orfao seguiu tentando falar");
+  assert.equal(sim.timers.length, 0, "script orfao seguiu lendo a tela");
+});
+
+test("receptor v1.4: eco e pulso marcam vivo.json sem tocar no estado, e eco entrega recarregar", async () => {
+  const r = await subirReceptor();
+  try {
+    await r.post({ origem: "div", status: "ocioso", versao: "1.4" });
+    const arq = join(r.saida, "estado.json");
+    envelhecer(arq, 10);
+    const antes = readFileSync(join(r.saida, "historico.ndjson"), "utf8");
+    const mtime = statSync(arq).mtimeMs;
+    await r.post({ origem: "div", status: "ocioso", versao: "1.4", eco: true, alerta: "incomum" });
+    assert.equal(statSync(arq).mtimeMs, mtime, "eco mexeu no estado.json: o esperar-fim.mjs perde o silencio");
+    assert.equal(readFileSync(join(r.saida, "historico.ndjson"), "utf8"), antes, "eco encheu o historico");
+    assert.ok(!existsSync(join(r.saida, "alerta.json")), "eco de aviso velho reabriu resfriamento");
+    await r.post({ origem: "pulso", versao: "1.4", tela: "galeria" });
+    const vivo = JSON.parse(readFileSync(join(r.saida, "vivo.json"), "utf8"));
+    assert.equal(vivo.div.versao, "1.4");
+    assert.equal(vivo.div.eco, true);
+    assert.equal(vivo.pulso.versao, "1.4");
+    writeFileSync(join(r.saida, "comando.txt"), "recarregar");
+    assert.deepEqual(await (await r.post({ origem: "div", eco: true, versao: "1.4" })).json(), { comando: "recarregar" });
+  } finally { r.filho.kill(); }
+});
+
+test("receptor v1.4: passo de dois digitos nao apaga o comando de 2K", async () => {
+  const r = await subirReceptor();
+  try {
+    writeFileSync(join(r.saida, "comando.txt"), "2k 0 20 10");
+    assert.deepEqual(await (await r.post({ origem: "pulso", versao: "1.4" })).json(), { comando: "2k 0 20 10" });
+  } finally { r.filho.kill(); }
+});
+
+test("receptor v1.4: versao minima comparada como texto", async () => {
+  const { VERSAO_MINIMA } = await import("./regras.mjs");
+  assert.equal(typeof VERSAO_MINIMA, "string");
 });

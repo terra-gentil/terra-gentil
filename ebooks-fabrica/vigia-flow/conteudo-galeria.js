@@ -11,7 +11,14 @@
 (() => {
   const TG = globalThis.TG;
   let ultimo = "", vivo = true, rodando = false, cancelar = false, progresso = null;
-  const falar = (msg) => { try { chrome.runtime.sendMessage(msg); } catch (e) { vivo = false; /* recarregada */ } };
+  // extensao recarregada: o contexto morre (runtime.id some) e o script velho para de vez, sem erro na pagina
+  const falar = (msg) => {
+    try {
+      if (!chrome.runtime || !chrome.runtime.id) { vivo = false; cancelar = true; return; }
+      const p = chrome.runtime.sendMessage(msg);
+      if (p && p.catch) p.catch(() => {});
+    } catch (e) { vivo = false; cancelar = true; }
+  };
   const texto = () => document.body.innerText || "";
   const naFerramenta = () => /\/tool\//.test(location.pathname);
   const ponto = (el) => {

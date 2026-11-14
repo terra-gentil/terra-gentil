@@ -13,7 +13,7 @@ export const ESFRIAR_INCOMUM_MIN = num("ESFRIAR_INCOMUM_MIN", 180);
 export const INTERVALO_2K_MIN = num("INTERVALO_2K_MIN", 25);
 export const GERAR_MIN = num("GERAR_MIN", 18), GERAR_MAX = num("GERAR_MAX", 35);
 export const PAUSA_LONGA_MIN = 60, PAUSA_LONGA_MAX = 100, LOTES_ATE_PAUSA_LONGA = 3;
-export const VERSAO_MINIMA = 1.3;
+export const VERSAO_MINIMA = "1.3"; // texto: 1.10 como numero viraria 1.1
 
 const ler = (arq) => { try { return readFileSync(arq, "utf8"); } catch { return ""; } };
 const idadeMin = (arq, agora) => { try { return (agora - statSync(arq).mtimeMs) / 60000; } catch { return Infinity; } };

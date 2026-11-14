@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "TG Vigia das Fotos",
-  "version": "1.3",
+  "version": "1.4",
   "description": "Le o estado da ferramenta Fotos Ebook TG (Flow) e roda o laco de 2K da galeria em ritmo lento (1 por minuto, 4 por rodada), falando so com o receptor local 127.0.0.1:47812. Para ao primeiro aviso de limite ou atividade incomum.",
   "host_permissions": [
     "https://*.scf.usercontent.goog/*",

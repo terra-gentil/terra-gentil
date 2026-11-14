@@ -1,0 +1,70 @@
+{
+  "livro": "TG 142",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "jar-gesto-1",
+      "especie": "sphagnum and perlite",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands mixing long-fiber sphagnum moss and white perlite in a wide plastic basin",
+      "mascote": false
+    },
+    {
+      "id": "jar-gesto-2",
+      "especie": "pale glazed ceramic pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands holding a large pale glazed ceramic pot with drainage holes at the bottom; the small mascot figurine sits on the wooden edge of the potting table next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "jar-gesto-3",
+      "especie": "runner on sphagnum",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands laying a pale underground runner with small roots on a bed of damp sphagnum moss",
+      "mascote": false
+    },
+    {
+      "id": "jar-sintoma-1",
+      "especie": "cobra lily leaf spots",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Cobra lily (Darlingtonia) pitcher with purple-red blotches on the hood, in a pale ceramic pot",
+      "mascote": false
+    },
+    {
+      "id": "jar-var-nutans",
+      "especie": "Heliamphora nutans",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Heliamphora nutans sun pitcher plant with green and reddish pitchers in a pot of damp sphagnum moss",
+      "mascote": false
+    },
+    {
+      "id": "jar-var-tatei",
+      "especie": "Heliamphora tatei",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Heliamphora tatei with thin tall stems leaning on surrounding vegetation, pitchers at the tips",
+      "mascote": false
+    },
+    {
+      "id": "jar-var-pulchella",
+      "especie": "Heliamphora pulchella",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Heliamphora pulchella with green pitchers in a wide pot of very damp sphagnum moss; the small mascot figurine stands on the rim of the pot",
+      "mascote": true
+    },
+    {
+      "id": "jar-var-cobra",
+      "especie": "cobra lily",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cobra lily (Darlingtonia) with tall hooded green pitchers in a pale ceramic pot on cool damp moss",
+      "mascote": false
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 136",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "cep-gesto-1",
+      "especie": "Cephalotus follicularis",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pulling a single leaf from a Cephalotus follicularis plant by its stalk, with the whitish base attached",
+      "mascote": false
+    },
+    {
+      "id": "cep-gesto-2",
+      "especie": "Cephalotus follicularis",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands holding a Cephalotus leaf showing its whitish base",
+      "mascote": false
+    },
+    {
+      "id": "cep-gesto-3",
+      "especie": "Cephalotus follicularis",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands laying a Cephalotus leaf on damp peat and sand in a tray; the small mascot figurine sits on the wooden edge of the table next to the tray",
+      "mascote": true
+    },
+    {
+      "id": "cep-sintoma-1",
+      "especie": "Cephalotus follicularis",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Cephalotus follicularis pitcher on a windowsill with its lid folded down over the mouth of the pitcher",
+      "mascote": false
+    },
+    {
+      "id": "cep-var-edenblack",
+      "especie": "Cephalotus follicularis Eden Black",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cephalotus follicularis cultivar Eden Black with nearly black purple pitchers in a plastic pot in strong light",
+      "mascote": false
+    },
+    {
+      "id": "cep-var-sol",
+      "especie": "Cephalotus follicularis",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cephalotus follicularis in full sun with red and purple pitchers",
+      "mascote": false
+    },
+    {
+      "id": "cep-var-sombra",
+      "especie": "Cephalotus follicularis",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cephalotus follicularis in shade with larger greenish pitchers",
+      "mascote": false
+    },
+    {
+      "id": "cep-var-drosophyllum",
+      "especie": "Drosophyllum lusitanicum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Drosophyllum lusitanicum growing in dry gravel soil in a large clay pot, long leaves covered in dew-like droplets; the small mascot figurine stands on a flat stone next to the pot",
+      "mascote": true
+    }
+  ]
+}

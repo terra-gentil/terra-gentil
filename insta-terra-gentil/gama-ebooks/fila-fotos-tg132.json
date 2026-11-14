@@ -1,0 +1,70 @@
+{
+  "livro": "TG 132",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "pin-gesto-1",
+      "especie": "butterwort leaf cuttings",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands laying small dry winter butterwort leaves on top of moist soil without burying them",
+      "mascote": false
+    },
+    {
+      "id": "pin-gesto-2",
+      "especie": "butterwort flower",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pollinating a butterwort flower with a toothpick; the small mascot figurine sits on the wooden edge of the table next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "pin-gesto-3",
+      "especie": "butterwort misting",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands misting very diluted fertilizer only onto the leaves of a butterwort with a small spray bottle",
+      "mascote": false
+    },
+    {
+      "id": "pin-sintoma-1",
+      "especie": "lifted Mexican butterwort",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Mexican butterwort lifted out of the soil by its old leaves, roots exposed above the pot",
+      "mascote": false
+    },
+    {
+      "id": "pin-var-moranensis",
+      "especie": "Pinguicula moranensis",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Pinguicula moranensis in a pot with pink flowers on a bright windowsill; the small mascot figurine stands on the windowsill next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "pin-var-caerulea",
+      "especie": "Pinguicula caerulea",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Pinguicula caerulea with a blue-purple flower above sticky green leaves",
+      "mascote": false
+    },
+    {
+      "id": "pin-var-gigantea",
+      "especie": "Pinguicula gigantea",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Large Pinguicula gigantea with wide sticky leaves",
+      "mascote": false
+    },
+    {
+      "id": "pin-var-laueana",
+      "especie": "Pinguicula laueana",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Pinguicula laueana with an intense red-orange flower",
+      "mascote": false
+    }
+  ]
+}

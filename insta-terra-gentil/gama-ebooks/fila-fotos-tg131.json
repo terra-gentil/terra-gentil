@@ -1,0 +1,70 @@
+{
+  "livro": "TG 131",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "dro-gesto-1",
+      "especie": "sundew seeds on peat",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands scattering tiny seeds on the surface of wet peat and sand in a small pot, without covering them",
+      "mascote": false
+    },
+    {
+      "id": "dro-gesto-2",
+      "especie": "sundew leaf cutting",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands laying a sundew leaf flat on peat and sand with the tentacles facing up; the small mascot figurine sits on the wooden edge of the table next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "dro-gesto-3",
+      "especie": "Cape sundew flowers",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands touching the open flowers of a Cape sundew with a toothpick",
+      "mascote": false
+    },
+    {
+      "id": "dro-sintoma-1",
+      "especie": "pale Cape sundew",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Cape sundew in a pot far from the lamp, pale and faded, with almost no red color left in the leaves",
+      "mascote": false
+    },
+    {
+      "id": "dro-var-cabo",
+      "especie": "Drosera capensis",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cape sundew (Drosera capensis) with long leaves and red tentacles covered in dewdrops of glue",
+      "mascote": false
+    },
+    {
+      "id": "dro-var-pigmeia",
+      "especie": "pygmy sundew",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tiny pygmy sundew rosette with dewdrops in a small pot on a bright windowsill; the small mascot figurine stands on the windowsill next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "dro-var-rei",
+      "especie": "Drosera regia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "King sundew (Drosera regia) with long narrow leaves covered in thick mucus",
+      "mascote": false
+    },
+    {
+      "id": "dro-var-gigantea",
+      "especie": "Drosera gigantea",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Drosera gigantea growing like a small tree, branches full of little shield-shaped sticky leaves",
+      "mascote": false
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 141",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "ter-gesto-1",
+      "especie": "seedling in water",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands dipping the base of a small fern seedling into a glass bowl of filtered water; the small mascot figurine sits on the wooden table next to the bowl",
+      "mascote": true
+    },
+    {
+      "id": "ter-gesto-2",
+      "especie": "moss on soil",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing a patch of damp green moss on top of the soil inside a large clear glass jar, leaving the gravel uncovered",
+      "mascote": false
+    },
+    {
+      "id": "ter-gesto-3",
+      "especie": "spray bottle",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands misting water with a small spray bottle at the base of the plants inside an open glass terrarium, avoiding the moss",
+      "mascote": false
+    },
+    {
+      "id": "ter-sintoma-1",
+      "especie": "mold in terrarium",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Closed glass terrarium with fine white cotton-like mold threads on the soil near a small fern",
+      "mascote": false
+    },
+    {
+      "id": "ter-var-samambaia",
+      "especie": "fern",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Small fern growing in a closed glass jar terrarium with damp dark soil and gravel on a shelf near a window",
+      "mascote": false
+    },
+    {
+      "id": "ter-var-fittonia",
+      "especie": "fittonia",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Pink-veined fittonia plant inside a glass terrarium on a wooden shelf; the small mascot figurine stands on the wooden shelf next to the glass",
+      "mascote": true
+    },
+    {
+      "id": "ter-var-musgo",
+      "especie": "cushion moss",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cushion moss forming a small green mound like a hill inside a glass terrarium with small stones",
+      "mascote": false
+    },
+    {
+      "id": "ter-var-suculenta",
+      "especie": "succulent",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Three small succulents in an open glass bowl terrarium covered with coarse gravel",
+      "mascote": false
+    }
+  ]
+}

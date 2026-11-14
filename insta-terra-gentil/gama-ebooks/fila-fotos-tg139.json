@@ -1,0 +1,70 @@
+{
+  "livro": "TG 139",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "bps-gesto-1",
+      "especie": "pruning shears",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands wiping the blades of small bonsai pruning shears with a cloth soaked in isopropyl alcohol",
+      "mascote": false
+    },
+    {
+      "id": "bps-gesto-2",
+      "especie": "bonsai wire",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands wrapping copper wire in a spiral around a thin branch of a bonsai tree, from the base toward the tip; the small mascot figurine sits on the wooden edge of the work table",
+      "mascote": true
+    },
+    {
+      "id": "bps-gesto-3",
+      "especie": "bonsai new bud",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pinching a small new bud of a bonsai with a fingernail",
+      "mascote": false
+    },
+    {
+      "id": "bps-sintoma-1",
+      "especie": "bonsai branch with wire",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Bonsai branch with a copper wire wrapped too tightly, the wire pressing a visible mark into the bark",
+      "mascote": false
+    },
+    {
+      "id": "bps-var-cipreste",
+      "especie": "cypress bonsai",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cypress bonsai in a shallow pot with layered green foliage on a wooden stand",
+      "mascote": false
+    },
+    {
+      "id": "bps-var-zimbro",
+      "especie": "needle juniper bonsai",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Needle juniper bonsai with fine needle foliage in a ceramic pot; the small mascot figurine stands on the wooden shelf next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "bps-var-olmo",
+      "especie": "Chinese elm bonsai",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Chinese elm bonsai with small leaves and thin branches in a round pot",
+      "mascote": false
+    },
+    {
+      "id": "bps-var-pinheiro",
+      "especie": "pine bonsai",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Formal pine bonsai with a nearly straight tapered trunk in a rectangular earth-colored pot",
+      "mascote": false
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 133",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "nep-gesto-1",
+      "especie": "Nepenthes in wooden basket",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands checking the drainage holes in the bottom of a wooden orchid basket holding a Nepenthes pitcher plant",
+      "mascote": false
+    },
+    {
+      "id": "nep-gesto-2",
+      "especie": "Nepenthes watering",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands watering a Nepenthes from above with a small watering can, a saucer below with only a little water; the small mascot figurine sits on the wooden edge of the shelf next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "nep-gesto-3",
+      "especie": "Nepenthes pitcher",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands dropping a small cricket into an open green pitcher of a Nepenthes plant",
+      "mascote": false
+    },
+    {
+      "id": "nep-sintoma-1",
+      "especie": "wilting Nepenthes",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Nepenthes plant with withered brown shriveled pitchers and dry substrate in a hanging pot, leaves still green",
+      "mascote": false
+    },
+    {
+      "id": "nep-var-gracilis",
+      "especie": "Nepenthes gracilis",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Nepenthes gracilis with small slender green pitchers in a terrarium with soft light",
+      "mascote": false
+    },
+    {
+      "id": "nep-var-ventricosa",
+      "especie": "Nepenthes ventricosa",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Compact Nepenthes ventricosa with yellowish pitchers on a bright windowsill; the small mascot figurine stands on the windowsill next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "nep-var-maxima",
+      "especie": "Nepenthes maxima",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Nepenthes maxima with elongated pitchers hanging from a basket near a window",
+      "mascote": false
+    },
+    {
+      "id": "nep-var-ampullaria",
+      "especie": "Nepenthes ampullaria",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Nepenthes ampullaria with round clustered pitchers on the ground among dry fallen leaves",
+      "mascote": false
+    }
+  ]
+}

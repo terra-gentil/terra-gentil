@@ -1,0 +1,70 @@
+{
+  "livro": "TG 138",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "bon-gesto-1",
+      "especie": "seeds soaking in warm water",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing tree seeds into a small bowl of warm water to soak; the small mascot figurine sits on the wooden table next to the bowl",
+      "mascote": true
+    },
+    {
+      "id": "bon-gesto-2",
+      "especie": "seed covered with soil",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands covering one large tree seed with a thin layer of soil in a small nursery pot",
+      "mascote": false
+    },
+    {
+      "id": "bon-gesto-3",
+      "especie": "seed pot in basin",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands setting a small seed pot into a shallow basin of water so the soil absorbs water from below",
+      "mascote": false
+    },
+    {
+      "id": "bon-sintoma-1",
+      "especie": "wilted tree seedling",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Young tree seedling in a small pot in strong direct sun with dry, drooping, wilted leaves",
+      "mascote": false
+    },
+    {
+      "id": "bon-var-zimbro",
+      "especie": "juniper bonsai",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Juniper bonsai with layered foliage pads in a shallow ceramic pot on a wooden shelf",
+      "mascote": false
+    },
+    {
+      "id": "bon-var-bordo",
+      "especie": "Japanese maple bonsai",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Japanese maple bonsai with small red leaves in a shallow pot on a garden table; the small mascot figurine stands on the wooden table next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "bon-var-olmo",
+      "especie": "elm bonsai",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Elm bonsai with a straight trunk and a round crown of tiny leaves in a ceramic pot",
+      "mascote": false
+    },
+    {
+      "id": "bon-var-roma",
+      "especie": "dwarf pomegranate bonsai",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Dwarf pomegranate bonsai with tiny glossy leaves and one small orange flower in a shallow pot",
+      "mascote": false
+    }
+  ]
+}

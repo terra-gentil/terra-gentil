@@ -1,0 +1,70 @@
+{
+  "livro": "TG 137",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "crv-gesto-1",
+      "especie": "carnivorous plant tray",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pouring clean rainwater from a small jug into the saucer under a potted Venus flytrap until about 2.5 cm of water fills it; the small mascot figurine sits on the wooden table next to the saucer",
+      "mascote": true
+    },
+    {
+      "id": "crv-gesto-2",
+      "especie": "TDS meter",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands holding a small handheld TDS water meter dipped in a glass of water, next to a potted pitcher plant",
+      "mascote": false
+    },
+    {
+      "id": "crv-gesto-3",
+      "especie": "peat and perlite mix",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands mixing dark peat moss and white perlite in a plastic bowl for carnivorous plant soil",
+      "mascote": false
+    },
+    {
+      "id": "crv-sintoma-1",
+      "especie": "aphids on carnivorous plant",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Close-up of a sundew plant with a new twisted deformed leaf and small green aphids on it",
+      "mascote": false
+    },
+    {
+      "id": "crv-var-sarracenia",
+      "especie": "purple pitcher plant (Sarracenia purpurea)",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Purple and green Sarracenia purpurea pitchers in a plastic pot on a sunny windowsill; the small mascot figurine stands on the windowsill next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "crv-var-dioneia",
+      "especie": "Venus flytrap",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Venus flytrap with open red-edged traps in a pot on a bright windowsill",
+      "mascote": false
+    },
+    {
+      "id": "crv-var-drosera",
+      "especie": "round-leaf sundew",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Round-leaved sundew with shiny dewdrops on its sticky hairs in a small pot",
+      "mascote": false
+    },
+    {
+      "id": "crv-var-nepentes",
+      "especie": "Nepenthes pitcher plant",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Nepenthes in a hanging pot with several pitchers dangling freely in the air",
+      "mascote": false
+    }
+  ]
+}

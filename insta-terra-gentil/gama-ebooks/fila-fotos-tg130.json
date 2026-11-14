@@ -1,0 +1,70 @@
+{
+  "livro": "TG 130",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "sar-gesto-1",
+      "especie": "Sarracenia rhizome",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting off the brown dead parts of a Sarracenia rhizome that is white inside, on a work table",
+      "mascote": false
+    },
+    {
+      "id": "sar-gesto-2",
+      "especie": "Sarracenia rhizome piece",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands laying a piece of Sarracenia rhizome horizontally on peat moss in a pot with the roots pointing down; the small mascot figurine sits on the rim of the pot",
+      "mascote": true
+    },
+    {
+      "id": "sar-gesto-3",
+      "especie": "Sarracenia flower bud",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pinching off a flower bud from a freshly divided Sarracenia plant in a pot",
+      "mascote": false
+    },
+    {
+      "id": "sar-sintoma-1",
+      "especie": "faded dark red Sarracenia",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Dark red Sarracenia pitcher plant in a pot kept in shade, with pale washed-out pitchers that lost their deep red color",
+      "mascote": false
+    },
+    {
+      "id": "sar-var-leucophylla",
+      "especie": "Sarracenia leucophylla",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Sarracenia leucophylla, the white trumpet, tall pitchers with white tops and red veins in a sunny bog garden",
+      "mascote": false
+    },
+    {
+      "id": "sar-var-minor",
+      "especie": "Sarracenia minor",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Sarracenia minor with hooded pitchers and pale window spots behind the hood; the small mascot figurine stands on the peat moss next to the plant",
+      "mascote": true
+    },
+    {
+      "id": "sar-var-psittacina",
+      "especie": "Sarracenia psittacina",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Sarracenia psittacina, the parrot pitcher plant, low curved pitchers lying on wet peat moss",
+      "mascote": false
+    },
+    {
+      "id": "sar-var-flava",
+      "especie": "Sarracenia flava",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Sarracenia flava with tall upright yellow-green pitchers in a sunny bog pot",
+      "mascote": false
+    }
+  ]
+}

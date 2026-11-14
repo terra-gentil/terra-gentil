@@ -1,0 +1,70 @@
+{
+  "livro": "TG 134",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "utr-gesto-1",
+      "especie": "peat and sand mix",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands mixing dark peat and pale sand in a plastic basin, three parts peat to one part sand",
+      "mascote": false
+    },
+    {
+      "id": "utr-gesto-2",
+      "especie": "Utricularia aquatic container",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands stirring a cup of peat into a large container of water for an aquatic Utricularia; the small mascot figurine sits on the wooden edge of the table next to the container",
+      "mascote": true
+    },
+    {
+      "id": "utr-gesto-3",
+      "especie": "Utricularia in pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands misting very dilute fertilizer onto the leaves of a small Utricularia pot with a spray bottle",
+      "mascote": false
+    },
+    {
+      "id": "utr-sintoma-1",
+      "especie": "aquatic Utricularia with algae",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Clear container of green algae-filled water with thin floating Utricularia stems inside, on an outdoor table",
+      "mascote": false
+    },
+    {
+      "id": "utr-var-gibba",
+      "especie": "Utricularia gibba",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Utricularia gibba floating in a small glass bowl of clear water with tiny yellow flowers above the surface; the small mascot figurine stands on the wooden edge of the table next to the bowl",
+      "mascote": true
+    },
+    {
+      "id": "utr-var-humboldtii",
+      "especie": "Utricularia humboldtii",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Utricularia humboldtii with large purple flowers above a pot of wet sandy peat",
+      "mascote": false
+    },
+    {
+      "id": "utr-var-livida",
+      "especie": "Utricularia livida",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Utricularia livida forming a carpet of small pale flowers over wet peat in a terrarium",
+      "mascote": false
+    },
+    {
+      "id": "utr-var-liniflora",
+      "especie": "Byblis liniflora",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Byblis liniflora with thin leaves covered in glistening dewdrops, a pink flower, in a sunny window",
+      "mascote": false
+    }
+  ]
+}

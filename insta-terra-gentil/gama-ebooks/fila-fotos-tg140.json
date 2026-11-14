@@ -1,0 +1,70 @@
+{
+  "livro": "TG 140",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "hrt-gesto-1",
+      "especie": "hydrangea pot in bucket",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands dipping the pot of a hydrangea plant into a bucket of water before planting",
+      "mascote": false
+    },
+    {
+      "id": "hrt-gesto-2",
+      "especie": "planting hole",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands digging a planting hole in garden soil about twice the size of a hydrangea root ball; the small mascot figurine sits on the rim of the wheelbarrow next to the hole",
+      "mascote": true
+    },
+    {
+      "id": "hrt-gesto-3",
+      "especie": "mulch around hydrangea",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands spreading dark compost mulch around the base of a young hydrangea, keeping it away from the stem",
+      "mascote": false
+    },
+    {
+      "id": "hrt-sintoma-1",
+      "especie": "wilted hydrangea",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Cut hydrangea flowers in a glass vase with heavy drooping wilted heads on a kitchen table",
+      "mascote": false
+    },
+    {
+      "id": "hrt-var-annabelle",
+      "especie": "Annabelle hydrangea",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Hydrangea Annabelle shrub with large round white flower heads in a garden",
+      "mascote": false
+    },
+    {
+      "id": "hrt-var-limelight",
+      "especie": "Limelight hydrangea",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Hydrangea Limelight shrub with cone shaped flowers in lime green and cream",
+      "mascote": false
+    },
+    {
+      "id": "hrt-var-hamburg",
+      "especie": "Hamburg hydrangea",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Hydrangea Hamburg with blue and lilac mophead flowers in partial shade; the small mascot figurine stands on the grass next to the shrub",
+      "mascote": true
+    },
+    {
+      "id": "hrt-var-preziosa",
+      "especie": "Preziosa hydrangea",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Hydrangea Preziosa with white flower heads spotted with raspberry pink and wine red",
+      "mascote": false
+    }
+  ]
+}

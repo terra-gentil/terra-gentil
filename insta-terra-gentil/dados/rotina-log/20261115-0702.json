@@ -1,0 +1,10 @@
+{
+  "runAt": "2026-11-15T07:03:01Z",
+  "dia": "2026-11-16",
+  "palavra": "CODIGO",
+  "resultado": "gravado",
+  "tentativas": 3,
+  "erros": ["descrição da matéria com 145 e depois 149 caracteres (corrigido)"],
+  "post": "dados/posts/2026-11-16-codigo.json",
+  "noticia": null
+}

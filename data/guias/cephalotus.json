@@ -1,0 +1,439 @@
+{
+ "codigo": "TG136",
+ "slug": "cephalotus",
+ "titulo": "Cephalotus e Cia",
+ "capa": {
+  "src": "/guias/cephalotus/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Cephalotus e Cia"
+ },
+ "meta": {
+  "titulo": "Cephalotus: guia grátis de planta-jarro",
+  "descricao": "Como cuidar da cephalotus, a jarra de Albany, com sol, raiz fresca, água limpa, vaso fundo e o pega-moscas drosophyllum. Livro grátis com PDF para baixar.",
+  "pdf": "TG136.pdf",
+  "atualizado": "2026-11-15"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t136",
+    "COLEÇÃO TERRA GENTIL",
+    "CEPHALOTUS",
+    "Cephalotus e Cia",
+    "A jarra de Albany e o pega-moscas.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cephalotus/coringa-luz-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 139,
+     "alt": "André com uma Cephalotus de jarras avermelhadas ao sol"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "A Cephalotus é a planta-jarro de Albany.",
+    "Ela quer sol e vaso com furo.",
+    "Aqui tem Cephalotus e Drosophyllum.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Veja onde bate sol forte em casa.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cephalotus/coringa-solo-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 131,
+     "alt": "André olhando uma Cephalotus numa janela de sol"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Dê sol à Cephalotus.",
+    "Quanto mais sol, mais cor.",
+    "NÃO FAÇA",
+    "Não deixe o solo sempre encharcado.",
+    "Drosophyllum não vai na bandeja de água."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da Cephalotus",
+    "06",
+    "CAPÍTULO 1",
+    "Vaso e solo",
+    "08",
+    "CAPÍTULO 2",
+    "Luz e rega",
+    "12",
+    "CAPÍTULO 3",
+    "Origem e cor",
+    "15",
+    "CAPÍTULO 4",
+    "Variedades",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Tampa dobrada? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA CEPHALOTUS",
+    "Antes de agir",
+    "O que olhar",
+    "VASO",
+    "Plástico, com furo",
+    "SOLO",
+    "1 de turfa, 2 de areia",
+    "SOL",
+    "Pleno a meia-sombra",
+    "ÁGUA",
+    "Sem solo saturado",
+    "PRAGA",
+    "A principal é a cochonilha",
+    "NA PRÁTICA\tATENÇÃO",
+    "Vaso raso sem dreno apodrece a raiz"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Vaso e solo",
+    "01\tCerto e errado",
+    "02\tPasso a passo",
+    "03\tJarra de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cephalotus/coringa-trocar-vaso-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 196,
+     "alt": "André arrumando um vaso de plástico furado para a Cephalotus"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Vaso\tPlástico, com furo\tRaso, sem dreno",
+    "Solo\tÚmido, sem saturar\tSempre encharcado",
+    "Luz\tSol: vermelha e roxa\tSombra: jarra esverdeada",
+    "Drosophyllum\tSolo seco e drenado\tBandeja de água",
+    "Fungo e oídio: pouca luz e ar parado.",
+    "DICA DO ANDRÉ",
+    "Planta à venda vem de divisão ou estaca."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Luz e rega",
+    "01\tPasso a passo",
+    "02\tJarra de perto",
+    "03\tTampa dobrada"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cephalotus/coringa-regar-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 159,
+     "alt": "André regando uma Cephalotus"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Estaca de folha? Faça assim.",
+    "FOLHA",
+    "Puxe pelo cabinho",
+    "BASE",
+    "Base branca",
+    "CAMA",
+    "Turfa e areia úmidas",
+    "1",
+    "PUXAR",
+    "Puxe a folha pelo cabinho.",
+    "2",
+    "LEVAR",
+    "Leve junto a base esbranquiçada.",
+    "3",
+    "DEITAR",
+    "Deite sobre turfa e areia úmidas.",
+    "DICA DO ANDRÉ",
+    "A planta adulta leva uns 2 a 3 anos."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cephalotus/cep-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 158,
+     "alt": "Mãos puxando uma folha de Cephalotus pelo cabinho, levando a base esbranquiçada"
+    },
+    {
+     "src": "/guias/cephalotus/cep-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 225,
+     "alt": "Mãos segurando uma folha de Cephalotus com a base esbranquiçada à mostra"
+    },
+    {
+     "src": "/guias/cephalotus/cep-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 270,
+     "alt": "Mãos deitando uma folha de Cephalotus sobre turfa e areia úmidas"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 1 · VASO E SOLO",
+    "Jarra de perto",
+    "A jarra começa como um botão peludo.",
+    "Os pelos são escadinhas para a formiga.",
+    "O néctar é mais forte na base dos dentes.",
+    "O colar branco é escorregadio e tem néctar.",
+    "As janelinhas da tampa deixam a luz entrar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Tampa dobrada?",
+    "1",
+    "O QUE PARECE",
+    "Tampa dobrada cobrindo a boca da jarra.",
+    "O QUE PODE SER",
+    "Reação ao ar seco.",
+    "POR QUÊ",
+    "Evita que o líquido evapore."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cephalotus/cep-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 200,
+     "alt": "Cephalotus com a tampa da jarra dobrada para baixo cobrindo a boca"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Origem e cor",
+    "01\tOrigem e cor",
+    "02\tCuidado",
+    "03\tDrosophyllum"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cephalotus/coringa-luz-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 152,
+     "alt": "André olhando jarras de Cephalotus ao sol"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · ORIGEM",
+    "Origem e cor",
+    "ONDE",
+    "Sudoeste da Austrália",
+    "FOGO",
+    "Abre o mato, a semente dispensa",
+    "COR E CRESCIMENTO",
+    "Sol vermelha e roxa",
+    "Sombra jarra maior, mais verde",
+    "Eden Black quase preto-arroxeado",
+    "Roseta de semente, 2,5 cm por ano",
+    "Bom saber",
+    "Rara e vem de divisão",
+    "Praga a principal é a cochonilha"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Não deixe o solo sempre encharcado.",
+    "Vaso raso sem dreno apodrece a raiz.",
+    "Drosophyllum não vai na bandeja de água.",
+    "FAÇA ASSIM",
+    "Vaso de plástico com furo.",
+    "Drosophyllum em solo seco e drenado."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · VARIEDADES",
+    "Quatro de perto",
+    "1",
+    "Eden Black",
+    "Quase preto-arroxeado, com muita luz.",
+    "2",
+    "Cephalotus no sol",
+    "Fica vermelha e roxa.",
+    "3",
+    "Cephalotus na sombra",
+    "Jarra maior, esverdeada.",
+    "4",
+    "Pega-moscas",
+    "Drosophyllum nasce em colina seca de cascalho.",
+    "CHAVE\tPlanta\tO que ela tem"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cephalotus/cep-var-edenblack.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 203,
+     "alt": "Cephalotus Eden Black com jarras quase pretas e arroxeadas"
+    },
+    {
+     "src": "/guias/cephalotus/cep-var-sol.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 171,
+     "alt": "Cephalotus no sol com jarras vermelhas e roxas"
+    },
+    {
+     "src": "/guias/cephalotus/cep-var-sombra.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 300,
+     "alt": "Cephalotus na sombra com jarras maiores e esverdeadas"
+    },
+    {
+     "src": "/guias/cephalotus/cep-var-drosophyllum.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 284,
+     "alt": "Drosophyllum numa colina seca de cascalho com folhas cobertas de gotas"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Drosophyllum de perto",
+    "CHEIRO",
+    "Mel de abelha, chama voadores.",
+    "MUCO",
+    "Solta da glândula e gruda no inseto.",
+    "SOLO",
+    "Areia, perlita, pedra-pomes, lava, turfa.",
+    "SOL",
+    "Pleno a maior parte do dia.",
+    "DICA DO ANDRÉ",
+    "Vaso de barro de 30 cm ou mais."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "400",
+    "KM",
+    "de faixa litorânea no sudoeste da Austrália: o lar da Cephalotus.",
+    "Drosophyllum só se multiplica por semente.",
+    "E MAIS UMA",
+    "Drosophyllum em janela é muito duvidoso."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Vaso de plástico com furo",
+    "Turfa e areia, 1 para 2",
+    "Sol de pleno a meia-sombra",
+    "Solo sem encharcar",
+    "Drosophyllum em solo seco",
+    "Drosophyllum ao sol pleno",
+    "Semente de Drosophyllum lixada",
+    "Botões cortados no 1º ano",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Cephalotus e Drosophyllum pedem sol e água na medida. Tente e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "136\tVOCÊ TEM",
+    "137",
+    "138",
+    "139",
+    "140",
+    "141",
+    "São 136 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 137 CARNÍVORAS NO VASO",
+    "Comente CARNIVORA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/cephalotus/coringa-luz-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 128,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

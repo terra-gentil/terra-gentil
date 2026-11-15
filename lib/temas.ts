@@ -56,8 +56,8 @@ export const TEMAS: Tema[] = [
   {
     id: 'carnivoras',
     nome: 'Plantas carnívoras',
-    chamada: 'Sarracênia, drosera, pinguícula e nepentes: água limpa, luz e substrato pobre.',
-    codigos: ['TG130', 'TG131', 'TG132', 'TG133'],
+    chamada: 'Sarracênia, drosera, pinguícula, nepentes, utricularia, dioneia e cephalotus: água limpa, luz e substrato pobre.',
+    codigos: ['TG130', 'TG131', 'TG132', 'TG133', 'TG134', 'TG135', 'TG136'],
   },
 ];
 

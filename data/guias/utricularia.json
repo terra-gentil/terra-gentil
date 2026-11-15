@@ -1,0 +1,439 @@
+{
+ "codigo": "TG134",
+ "slug": "utricularia",
+ "titulo": "Bexigas e Byblis",
+ "capa": {
+  "src": "/guias/utricularia/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Bexigas e Byblis"
+ },
+ "meta": {
+  "titulo": "Utricularia: guia grátis de planta-bexiga",
+  "descricao": "Como cuidar da utricularia, a planta de bexigas que pega bichinhos na água, com luz, água limpa, solo molhado e as espécies mais fáceis. Livro grátis em PDF.",
+  "pdf": "TG134.pdf",
+  "atualizado": "2026-11-15"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t134",
+    "COLEÇÃO TERRA GENTIL",
+    "BEXIGA",
+    "Bexigas e Byblis",
+    "Mais rápidas que um piscar.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/utricularia/coringa-solo-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 148,
+     "alt": "André diante de um vaso com utriculárias floridas"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Utricularia é o maior gênero de carnívoras.",
+    "Byblis brilha como chuva no sol forte.",
+    "Aqui tem bexiga, água, terra e brilho.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Veja onde bate sol forte na sua casa.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/utricularia/coringa-solo-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 209,
+     "alt": "André olhando de perto uma utricularia em flor"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Nunca use algicida na água.",
+    "Troque a água se tiver alga demais.",
+    "SEM EXAGERO",
+    "Não mexa na raiz da Byblis anual.",
+    "Isso pode dar choque e matar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da bexiga",
+    "06",
+    "CAPÍTULO 1",
+    "Terra e água",
+    "08",
+    "CAPÍTULO 2",
+    "Sol e adubo",
+    "12",
+    "CAPÍTULO 3",
+    "Espécies",
+    "15",
+    "CAPÍTULO 4",
+    "Bexiga de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Alga na água? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA BEXIGA",
+    "Antes de agir",
+    "O que olhar",
+    "AQUÁTICA",
+    "Uma xícara de turfa por galão",
+    "CHÃO",
+    "Três de turfa, uma de areia",
+    "BYBLIS",
+    "Duas de areia, uma de turfa",
+    "SOL",
+    "Sol ou meia-sombra clara",
+    "ADUBO",
+    "Um quarto da força",
+    "NA PRÁTICA\tATENÇÃO",
+    "Algicida nunca, troque a água"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Terra e água",
+    "01\tCerto e errado",
+    "02\tPasso a passo",
+    "03\tTerra de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/utricularia/coringa-solo-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 131,
+     "alt": "André misturando turfa e areia numa bacia"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Alga\tTrocar a água\tAlgicida",
+    "Ajudante\tPulga-d'água\tGirino",
+    "Raiz\tByblis em paz\tMexer nela",
+    "Adubo\tUm quarto da força\tMais forte",
+    "Aquática não é a mais fácil.",
+    "DICA DO ANDRÉ",
+    "Pulga-d'água segura a alga e vira comida."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Sol e adubo",
+    "01\tPasso a passo",
+    "02\tSol e adubo de perto",
+    "03\tAlga na água"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/utricularia/coringa-solo-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "André borrifando adubo leve numa utricularia ao sol"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Utriculária? Faça assim.",
+    "CHÃO",
+    "Turfa e areia",
+    "ÁGUA",
+    "Turfa na água",
+    "ADUBO",
+    "Um quarto da força",
+    "1",
+    "MISTURE",
+    "Três partes de turfa para uma de areia.",
+    "2",
+    "ENCHA",
+    "Uma xícara de turfa para cada galão de água.",
+    "3",
+    "BORRIFE",
+    "Adubo a um quarto da força, nas folhas.",
+    "DICA DO ANDRÉ",
+    "Pote de vidro com papel preto mostra as armadilhas."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/utricularia/utr-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 291,
+     "alt": "Mãos misturando turfa e areia numa bacia para uma utricularia de chão"
+    },
+    {
+     "src": "/guias/utricularia/utr-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 262,
+     "alt": "Mãos mexendo uma xícara de turfa num recipiente grande de água para utricularia aquática"
+    },
+    {
+     "src": "/guias/utricularia/utr-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 162,
+     "alt": "Mãos borrifando adubo bem diluído nas folhas de uma utricularia no vaso"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 1 · TERRA E ÁGUA",
+    "Terra de perto",
+    "Muitas de chão gostam de alagamento.",
+    "Elas vão melhor em vaso sem furo.",
+    "Assim o nível da água sobe e desce.",
+    "Para a Byblis, duas partes de areia e uma de turfa.",
+    "A bandeja fica só úmida, sem encharcar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Alga na água?",
+    "1",
+    "O QUE PARECE",
+    "Água verde tomada pela alga.",
+    "O QUE PODE SER",
+    "A alga, o maior problema das aquáticas.",
+    "COMO RESOLVER",
+    "Troque a água, sem algicida."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/utricularia/utr-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 263,
+     "alt": "Recipiente de água verde cheio de alga com uma utricularia aquática dentro"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Espécies",
+    "01\tEspécies",
+    "02\tFlores e bexigas",
+    "03\tAtenção"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/utricularia/coringa-solo-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 235,
+     "alt": "André olhando um vaso com várias utriculárias floridas"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · ESPÉCIES",
+    "Utriculárias",
+    "SANDERSONII",
+    "Flor de coelho bravo",
+    "LONGIFOLIA",
+    "Bexigas saem pelos furos",
+    "FAMOSAS",
+    "Macrorhiza bexiga verde, vermelha, preta",
+    "Purpurea só rosetas de bexigas",
+    "Inflata haste sobre tubos que boiam",
+    "Bisquamata pula de vaso em vaso",
+    "Bom saber",
+    "Cornigera arranca suspiros florida",
+    "Leptoplectra flor de bumerangue"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Alga é o grande problema das aquáticas.",
+    "Girino come a planta quando a alga acaba.",
+    "Calycifida mistura semente de perto.",
+    "FAÇA ASSIM",
+    "Troque a água, sem algicida.",
+    "Plante as cultivares separadas."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · QUATRO PLANTAS",
+    "Quatro plantas",
+    "1",
+    "Gibba",
+    "Vive anos num copo.",
+    "2",
+    "Humboldtii",
+    "As maiores flores do gênero.",
+    "3",
+    "Livida",
+    "Vira tapete de flores.",
+    "4",
+    "Byblis liniflora",
+    "Boa na janela com sol.",
+    "CHAVE\tPlanta\tO que ela dá"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/utricularia/utr-var-gibba.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 153,
+     "alt": "Utricularia gibba flutuando numa tigela de água com pequenas flores amarelas"
+    },
+    {
+     "src": "/guias/utricularia/utr-var-humboldtii.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 249,
+     "alt": "Utricularia humboldtii com grandes flores roxas"
+    },
+    {
+     "src": "/guias/utricularia/utr-var-livida.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 209,
+     "alt": "Utricularia livida formando um tapete de flores num terrário"
+    },
+    {
+     "src": "/guias/utricularia/utr-var-liniflora.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 161,
+     "alt": "Byblis liniflora com folhas finas cobertas de gotas brilhantes ao sol"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Bexiga de perto",
+    "PORTA",
+    "Abre só para dentro, selada por muco.",
+    "GATILHO",
+    "Um toque no pelo e a presa é sugada.",
+    "REARME",
+    "Em vinte minutos, está pronta.",
+    "PRESA",
+    "Girino grande dispara de novo.",
+    "DICA DO ANDRÉ",
+    "Pulga-d'água some na bexiga em um dia."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "25",
+    "%",
+    "das utriculárias são aquáticas e flutuam livres.",
+    "As outras vivem em areia, lama ou musgo.",
+    "E MAIS UMA",
+    "A armadilha pega a presa em dez a quinze milésimos de segundo."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Turfa e areia na medida certa",
+    "Água trocada, nunca algicida",
+    "Adubo a um quarto da força",
+    "Sol pleno para a Byblis",
+    "Raiz da Byblis anual em paz",
+    "Pulga-d'água na aquática",
+    "Sem girino com a utriculária",
+    "Vaso sem furo para as de chão",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Bexiga pede água limpa, sol e mão leve. Tente e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "134\tVOCÊ TEM",
+    "135",
+    "136",
+    "137",
+    "138",
+    "139",
+    "São 134 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 135 DIONEIA E CIA",
+    "Comente DIONEIA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/utricularia/coringa-horta-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 155,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

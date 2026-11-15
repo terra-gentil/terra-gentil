@@ -1,0 +1,439 @@
+{
+ "codigo": "TG130",
+ "slug": "sarracenia",
+ "titulo": "Sarracenia",
+ "capa": {
+  "src": "/guias/sarracenia/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Sarracenia"
+ },
+ "meta": {
+  "titulo": "Sarracênia: guia grátis de carnívora",
+  "descricao": "Como cuidar da sarracênia, com sol pleno, substrato molhado, água limpa, divisão do rizoma e as espécies mais fáceis. Livro grátis com PDF para baixar.",
+  "pdf": "TG130.pdf",
+  "atualizado": "2026-11-15"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t130",
+    "COLEÇÃO TERRA GENTIL",
+    "SARRACENIA",
+    "Sarracenia",
+    "Carnívora fácil e divertida.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sarracenia/coringa-luz-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 113,
+     "alt": "André com uma sarracênia no sol"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Sarracênia é das carnívoras mais fáceis.",
+    "Ela quer sol pleno e substrato molhado.",
+    "Aqui tem cultivo, divisão e espécies.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Ache o lugar mais ensolarado.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sarracenia/coringa-regar-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 234,
+     "alt": "André olhando uma sarracênia numa bandeja com água"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Dê sol pleno ou quase.",
+    "Use turfa de esfagno.",
+    "NÃO DEIXE SECAR",
+    "Regue pela bandeja.",
+    "Substrato sempre úmido."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da sarracênia",
+    "06",
+    "CAPÍTULO 1",
+    "O básico",
+    "08",
+    "CAPÍTULO 2",
+    "Dividir",
+    "12",
+    "CAPÍTULO 3",
+    "Espécies",
+    "15",
+    "CAPÍTULO 4",
+    "De perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Perdeu a cor? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA SARRACÊNIA",
+    "Antes de agir",
+    "O que olhar",
+    "SOL",
+    "Pleno ou quase",
+    "SUBSTRATO",
+    "Turfa de esfagno",
+    "REGA",
+    "Sempre úmido, por bandeja",
+    "VASO",
+    "Plástico ou cerâmica esmaltada",
+    "DIVISÃO",
+    "A cada 3 a 5 anos",
+    "NA PRÁTICA\tATENÇÃO",
+    "Perlita em excesso, não."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "O básico",
+    "01\tCerto e errado",
+    "02\tSubstrato",
+    "03\tSol e rega"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sarracenia/coringa-solo-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 209,
+     "alt": "André misturando turfa e areia num vaso"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Substrato\tTurfa e areia\tMuita perlita",
+    "Divisão\tRizoma deitado\tRizoma de pé",
+    "Papagaio\tSem alagar\tAlagada",
+    "Adulta\tFora do terrário\tEm terrário",
+    "Na janela, só a mais ensolarada.",
+    "DICA DO ANDRÉ",
+    "70% turfa, 30% areia."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Dividir",
+    "01\tPasso a passo",
+    "02\tRizoma de perto",
+    "03\tPerdeu a cor"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sarracenia/coringa-luz-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 106,
+     "alt": "André com um vaso de sarracênia ao sol"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Dividir? Faça assim.",
+    "RIZOMA",
+    "Branco por dentro",
+    "DIVISÃO",
+    "Na horizontal",
+    "BOTÕES",
+    "Tire ao dividir",
+    "1",
+    "CORTAR",
+    "Corte as partes marrons e mortas.",
+    "2",
+    "DEITAR",
+    "Rizoma na horizontal, raízes para baixo.",
+    "3",
+    "TIRAR",
+    "Tire os botões de flor.",
+    "DICA DO ANDRÉ",
+    "Divida a cada 3 a 5 anos."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sarracenia/sar-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 204,
+     "alt": "Mãos cortando as partes marrons e mortas de um rizoma de sarracênia branco por dentro"
+    },
+    {
+     "src": "/guias/sarracenia/sar-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 201,
+     "alt": "Mãos deitando um pedaço de rizoma de sarracênia na horizontal sobre turfa, com as raízes para baixo"
+    },
+    {
+     "src": "/guias/sarracenia/sar-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 157,
+     "alt": "Mãos tirando um botão de flor de uma sarracênia recém dividida"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · DIVIDIR",
+    "Rizoma de perto",
+    "O rizoma saudável é branco por dentro.",
+    "Corte um rizoma velho até a metade para forçar brotos.",
+    "Pedaços de 5 a 7 cm também dão filhotes.",
+    "A rubra pode ir de 1 a mais de 50 brotos.",
+    "Divida quando os brotos lotarem o vaso."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Perdeu a cor?",
+    "1",
+    "O QUE PARECE",
+    "Vermelho-escura ficando pálida.",
+    "O QUE PODE SER",
+    "Falta sol o dia inteiro.",
+    "COMO RESOLVER",
+    "Dê sol na estação de crescimento."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sarracenia/sar-sintoma-1.webp",
+     "largura": 900,
+     "altura": 1613,
+     "kb": 273,
+     "alt": "Sarracênia vermelho-escura com jarras pálidas num vaso na sombra"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Espécies",
+    "01\tQuem é quem",
+    "02\tAtenção",
+    "03\tQuatro sarracênias"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sarracenia/coringa-muda-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 206,
+     "alt": "André cuidando de várias sarracênias num vaso grande"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · ESPÉCIES",
+    "Oito espécies",
+    "PURPÚREA",
+    "Jarra aberta, junta chuva",
+    "RUBRA",
+    "Dois tipos de jarra",
+    "MAIS UMAS",
+    "Alata flor quase branca",
+    "Oreophila quase extinta",
+    "Okefenokeensis chega a 90 cm",
+    "Híbridos cruzam fácil",
+    "Bom saber",
+    "Willissi cultivar do século 19",
+    "Cuidado rubricorpora perde cor ao replantar"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Pulgão deforma as jarras novas.",
+    "Semente pode apodrecer por fungo.",
+    "Híbrido purpúrea x flava tomba com chuva.",
+    "FAÇA ASSIM",
+    "Apare só a jarra velha e marrom.",
+    "Jarra saudável com insetos fica."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · QUATRO SARRACÊNIAS",
+    "Quatro sarracênias",
+    "1",
+    "Leucophylla",
+    "Muitos a acham a mais bonita.",
+    "2",
+    "Minor",
+    "Jarra com ar de monge sorridente.",
+    "3",
+    "Psittacina",
+    "A planta-papagaio.",
+    "4",
+    "Flava",
+    "Jarras eretas de 50 a 90 cm.",
+    "CHAVE\tPlanta\tO que ela tem"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sarracenia/sar-var-leucophylla.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 269,
+     "alt": "Sarracenia leucophylla, a trombeta branca, com jarras altas de topo claro"
+    },
+    {
+     "src": "/guias/sarracenia/sar-var-minor.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 177,
+     "alt": "Sarracenia minor com jarras de capuz e janelinhas claras"
+    },
+    {
+     "src": "/guias/sarracenia/sar-var-psittacina.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 286,
+     "alt": "Sarracenia psittacina, a planta-papagaio, com jarras baixas e curvas"
+    },
+    {
+     "src": "/guias/sarracenia/sar-var-flava.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 294,
+     "alt": "Sarracenia flava com jarras eretas verde-amareladas"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Sarracênia de perto",
+    "FLOR",
+    "Abre antes das jarras",
+    "DURA",
+    "De 1 a 2 semanas",
+    "ABELHA",
+    "Entra por cima e sai empurrando pétalas",
+    "SEMENTE",
+    "Guarde sempre na geladeira",
+    "DICA DO ANDRÉ",
+    "Depois das pétalas, é vagem."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "10",
+    "MIL",
+    "joaninhas foram soltas contra pulgão.",
+    "Em dois dias, as sarracênias comeram todas.",
+    "E MAIS UMA",
+    "Ela leva de 5 a 8 anos para amadurecer."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Sol pleno ou quase",
+    "Rega pela bandeja",
+    "Turfa de esfagno e areia",
+    "Sem perlita demais",
+    "Papagaio sem alagar",
+    "Divisão a cada 3 a 5 anos",
+    "Rizoma na horizontal",
+    "Semente na geladeira",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Sarracênia pede sol e água na medida. Tente e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "130\tVOCÊ TEM",
+    "131",
+    "132",
+    "133",
+    "134",
+    "135",
+    "São 130 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 131 DROSERA",
+    "Comente ORVALHO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/sarracenia/coringa-solo-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 235,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

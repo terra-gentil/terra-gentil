@@ -51,7 +51,13 @@ export const TEMAS: Tema[] = [
     id: 'cuidados',
     nome: 'Cuidados do dia a dia',
     chamada: 'Rega, terra, mudas de graça, praga e mato sem veneno.',
-    codigos: ['TG005', 'TG006', 'TG007', 'TG022', 'TG023', 'TG041', 'TG057', 'TG058', 'TG059', 'TG060', 'TG075', 'TG094', 'TG097', 'TG101', 'TG103', 'TG111', 'TG115', 'TG120'],
+    codigos: ['TG005', 'TG006', 'TG007', 'TG022', 'TG023', 'TG041', 'TG057', 'TG058', 'TG059', 'TG060', 'TG075', 'TG094', 'TG097', 'TG101', 'TG103', 'TG111', 'TG115', 'TG120', 'TG129'],
+  },
+  {
+    id: 'carnivoras',
+    nome: 'Plantas carnívoras',
+    chamada: 'Sarracênia, drosera, pinguícula e nepentes: água limpa, luz e substrato pobre.',
+    codigos: ['TG130', 'TG131', 'TG132', 'TG133'],
   },
 ];
 

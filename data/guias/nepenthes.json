@@ -1,0 +1,439 @@
+{
+ "codigo": "TG133",
+ "slug": "nepenthes",
+ "titulo": "Nepenthes",
+ "capa": {
+  "src": "/guias/nepenthes/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Nepenthes"
+ },
+ "meta": {
+  "titulo": "Nepenthes: guia grátis de planta-jarro",
+  "descricao": "Como cuidar da nepentes, a planta-jarro tropical, com ar úmido, luz, vaso e rega certos e as espécies mais famosas. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG133.pdf",
+  "atualizado": "2026-11-15"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t133",
+    "COLEÇÃO TERRA GENTIL",
+    "JARRO",
+    "Nepenthes",
+    "A realeza das plantas-jarro.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/nepenthes/coringa-luz-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 113,
+     "alt": "André diante de uma nepentes pendurada com jarros"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Nepentes é a planta-jarro tropical.",
+    "Mais de 150 criaturas vivem com ela.",
+    "Aqui tem vaso, rega, ar e espécies.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Veja se o seu vaso tem furos.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/nepenthes/coringa-luz-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 115,
+     "alt": "André olhando o jarro de uma nepentes com carinho"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Regue sempre por cima.",
+    "Sem pires com água funda.",
+    "SEM EXAGERO",
+    "Substrato seco murcha os jarros.",
+    "Eles escurecem bem depressa."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da nepentes",
+    "06",
+    "CAPÍTULO 1",
+    "Vaso e rega",
+    "08",
+    "CAPÍTULO 2",
+    "Luz e ar",
+    "12",
+    "CAPÍTULO 3",
+    "Espécies",
+    "15",
+    "CAPÍTULO 4",
+    "Jarro de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Jarro murcho? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA NEPENTES",
+    "Antes de agir",
+    "O que olhar",
+    "VASO",
+    "Com furos",
+    "CESTO",
+    "Madeira ou de orquídea",
+    "REGA",
+    "Sempre por cima",
+    "AR",
+    "Acima de 60%",
+    "SOLO",
+    "Molhado e drenado",
+    "NA PRÁTICA\tATENÇÃO",
+    "Zinco envenena a nepentes"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "Vaso e rega",
+    "01\tCerto e errado",
+    "02\tPasso a passo",
+    "03\tJarro de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/nepenthes/coringa-luz-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 139,
+     "alt": "André pendurando um cesto de madeira com uma nepentes"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Vaso\tCom furos\tSem furo",
+    "Água\tPor cima\tPires fundo",
+    "Cesto\tDe madeira\tDe zinco",
+    "Adubo\tFoliar diluído\tMiracid",
+    "Bog garden não serve para nepentes.",
+    "DICA DO ANDRÉ",
+    "Grilo do tamanho certo serve de comida."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Luz e ar",
+    "01\tPasso a passo",
+    "02\tAr e luz de perto",
+    "03\tJarro murcho"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/nepenthes/coringa-luz-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 106,
+     "alt": "André regando uma nepentes por cima numa janela clara"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Nepentes? Faça assim.",
+    "VASO",
+    "Com furos",
+    "ÁGUA",
+    "Sempre por cima",
+    "AR",
+    "Acima de 60%",
+    "1",
+    "FURE",
+    "Todo vaso de nepentes precisa de furos.",
+    "2",
+    "REGUE",
+    "Por cima, sem pires com água funda.",
+    "3",
+    "ALIMENTE",
+    "Um grilo do tamanho certo.",
+    "DICA DO ANDRÉ",
+    "Cesto de madeira é ainda melhor."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/nepenthes/nep-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 200,
+     "alt": "Mãos conferindo os furos no fundo de um cesto de madeira com uma nepentes"
+    },
+    {
+     "src": "/guias/nepenthes/nep-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 226,
+     "alt": "Mãos regando por cima uma nepentes sem deixar água funda no pires"
+    },
+    {
+     "src": "/guias/nepenthes/nep-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 133,
+     "alt": "Mãos soltando um grilo pequeno dentro de um jarro aberto de nepentes"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 2 · LUZ E AR",
+    "Luz e ar de perto",
+    "Nepentes de altitude vêm de perto do equador.",
+    "No terrário, a luz é de 12 a 14 horas.",
+    "Um aquecedor de aquário esquenta o tanque.",
+    "Ele fica num pote com água dentro do tanque.",
+    "A água ainda dá umidade."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Jarro murcho?",
+    "1",
+    "O QUE PARECE",
+    "Jarros murchos e escuros.",
+    "O QUE PODE SER",
+    "Substrato seco.",
+    "COMO RESOLVER",
+    "Regue por cima e mantenha úmido."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/nepenthes/nep-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 240,
+     "alt": "Nepentes com jarros murchos e escuros e substrato seco no vaso"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Espécies",
+    "01\tEspécies",
+    "02\tFamosas e raras",
+    "03\tAtenção"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/nepenthes/coringa-luz-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 152,
+     "alt": "André olhando nepentes penduradas numa estufa"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · ESPÉCIES",
+    "Espécies",
+    "CLIPEATA",
+    "Quase extinta, só no Monte Kelam",
+    "KHASIANA",
+    "A única nativa da Índia",
+    "FAMOSAS",
+    "Hamata borda de ganchos afiados",
+    "Inermis jarro sem borda",
+    "Lowii atrai musaranhos e aves",
+    "Bicalcarata duas presas sob a tampa",
+    "Bom saber",
+    "Attenboroughii achada em 2007",
+    "Jamban nome de vaso sanitário"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Zinco envenena a nepentes.",
+    "Bog garden não serve para ela.",
+    "Não corte o caule sem broto na base.",
+    "FAÇA ASSIM",
+    "Use cesto de madeira.",
+    "Espere o broto na base antes de cortar."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · QUATRO JARROS",
+    "Quatro jarros",
+    "1",
+    "Gracilis",
+    "Boa para iniciante e terrário.",
+    "2",
+    "Ventricosa",
+    "Compacta, boa para janela.",
+    "3",
+    "Maxima",
+    "Muito fácil de cultivar.",
+    "4",
+    "Ampullaria",
+    "Pega até folha seca.",
+    "CHAVE\tNepentes\tO que ela dá"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/nepenthes/nep-var-gracilis.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 177,
+     "alt": "Nepenthes gracilis com jarros pequenos e verdes"
+    },
+    {
+     "src": "/guias/nepenthes/nep-var-ventricosa.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 107,
+     "alt": "Nepenthes ventricosa compacta com jarros amarelados"
+    },
+    {
+     "src": "/guias/nepenthes/nep-var-maxima.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 236,
+     "alt": "Nepenthes maxima com jarros alongados"
+    },
+    {
+     "src": "/guias/nepenthes/nep-var-ampullaria.webp",
+     "largura": 900,
+     "altura": 1205,
+     "kb": 251,
+     "alt": "Nepenthes ampullaria com jarros redondos no chão cercados de folhas secas"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Jarro de perto",
+    "JARRO",
+    "Já abre com líquido dentro.",
+    "TAMPA",
+    "Depois de aberta, não mexe mais.",
+    "BORDA",
+    "Molhada de chuva, fica escorregadia.",
+    "PRESA",
+    "Ela se debate e o líquido engrossa.",
+    "DICA DO ANDRÉ",
+    "Uma mosca some em um par de dias."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "30",
+    "CM",
+    "e mais é o jarro da N. rajah.",
+    "Ele guarda meio galão, às vezes um inteiro.",
+    "E MAIS UMA",
+    "Foi a primeira a pegar ratos na natureza."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Vaso ou cesto com furos",
+    "Rega sempre por cima",
+    "Pires sem água funda",
+    "Ar acima de 60%",
+    "Cesto sem zinco",
+    "Adubo foliar bem diluído",
+    "Caule cortado só com broto",
+    "Inseto do tamanho certo",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Nepentes pede furo, rega por cima e ar úmido. Tente e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "133\tVOCÊ TEM",
+    "134",
+    "135",
+    "136",
+    "137",
+    "138",
+    "São 133 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 134 BEXIGAS E BYBLIS",
+    "Comente BEXIGA no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/nepenthes/coringa-luz-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 128,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

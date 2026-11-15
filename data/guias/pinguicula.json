@@ -1,0 +1,439 @@
+{
+ "codigo": "TG132",
+ "slug": "pinguicula",
+ "titulo": "Pinguícula",
+ "capa": {
+  "src": "/guias/pinguicula/capa.webp",
+  "largura": 520,
+  "altura": 924,
+  "alt": "Capa do livro Pinguícula"
+ },
+ "meta": {
+  "titulo": "Pinguícula: guia grátis de carnívora",
+  "descricao": "Como cuidar da pinguícula, a planta de folha pegajosa, com luz, solo leve, água limpa e as espécies mexicanas. Livro grátis do André, com PDF para baixar.",
+  "pdf": "TG132.pdf",
+  "atualizado": "2026-11-15"
+ },
+ "paginas": [
+  {
+   "n": 1,
+   "linhas": [
+    "TG\t132",
+    "COLEÇÃO TERRA GENTIL",
+    "PINGUICULA",
+    "Pinguícula",
+    "A pequena gordurosa.",
+    "por André Zimermann",
+    "100%",
+    "DE GRAÇA"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pinguicula/coringa-regar-A-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 182,
+     "alt": "André com uma pinguícula de folhas brilhantes numa janela"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "linhas": [
+    "UMA CARTA PARA VOCÊ",
+    "Oi, eu sou o André.",
+    "Existem cerca de cem espécies de pinguícula.",
+    "As flores tropicais competem com orquídeas.",
+    "Aqui tem solo, rega e multiplicação.",
+    "SUA MISSÃO ATÉ AMANHÃ",
+    "Veja se a sua janela tem sol parcial.",
+    "Com carinho, André",
+    "Terra Gentil"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pinguicula/coringa-regar-B-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 234,
+     "alt": "André olhando uma pinguícula num vaso na janela"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "linhas": [
+    "SE VOCÊ FIZER SÓ UMA COISA",
+    "Alterne fase úmida e seca.",
+    "Use vaso individual com pires.",
+    "NÃO FAÇA",
+    "Adubo na raiz.",
+    "Adubo ácido."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 4,
+   "linhas": [
+    "NESTE LIVRO",
+    "O mapa do livro",
+    "05",
+    "COMECE AQUI",
+    "A ficha da pinguícula",
+    "06",
+    "CAPÍTULO 1",
+    "A planta e a cola",
+    "08",
+    "CAPÍTULO 2",
+    "Multiplicar",
+    "12",
+    "CAPÍTULO 3",
+    "Mexicanas",
+    "15",
+    "CAPÍTULO 4",
+    "Pinguículas de perto",
+    "18",
+    "PARA FAZER",
+    "Comece essa semana",
+    "ATALHO",
+    "Planta saiu do solo? Vá para a página 11."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 5,
+   "linhas": [
+    "FICHA DA PINGUÍCULA",
+    "Antes de agir",
+    "O que olhar",
+    "VASO",
+    "De 7,5 a 10 cm, com pires",
+    "SOLO",
+    "Areia, perlita, pomes e turfa",
+    "REGA",
+    "Alterne fase úmida e seca",
+    "TROCA",
+    "Solo novo a cada 2 ou 3 anos",
+    "ADUBO",
+    "Só borrife na folha, bem diluído",
+    "NA PRÁTICA\tATENÇÃO",
+    "Adubo ácido machuca as mexicanas"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 6,
+   "linhas": [
+    "CAPÍTULO 1",
+    "A planta e a cola",
+    "01\tCerto e errado",
+    "02\tPasso a passo",
+    "03\tPinguículas de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pinguicula/coringa-regar-C-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 159,
+     "alt": "André regando uma pinguícula pelo pires"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "linhas": [
+    "CAPÍTULO 1 · O BÁSICO",
+    "Certo e errado",
+    "O QUE\tCERTO\tERRO",
+    "Adubo\tBorrifado na folha\tNa raiz",
+    "Flor\tSem adubo nela\tManchada de adubo",
+    "Gypsicola\tSeca na fase suculenta\tRega demais, apodrece",
+    "Solo\tTroca a cada 2 ou 3 anos\tMexer na raiz crescendo",
+    "As de clima frio não servem em casa.",
+    "DICA DO ANDRÉ",
+    "Mexicana na janela de sol parcial."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 8,
+   "linhas": [
+    "CAPÍTULO 2",
+    "Multiplicar",
+    "01\tPasso a passo",
+    "02\tPinguículas de perto",
+    "03\tPlanta fora do solo"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pinguicula/coringa-regar-F-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 148,
+     "alt": "André cuidando de pinguículas num pires"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "linhas": [
+    "PASSO A PASSO",
+    "Quer mais pinguículas? Faça assim.",
+    "FOLHINHA",
+    "Deite sem enterrar",
+    "FLOR",
+    "Palito ou pincel",
+    "ADUBO",
+    "Só na folha",
+    "1",
+    "DEITAR",
+    "Folhinha seca de inverno sobre o solo úmido e abafado.",
+    "2",
+    "POLINIZAR",
+    "Com um palito ou pincel, à mão.",
+    "3",
+    "BORRIFAR",
+    "Adubo bem diluído só nas folhas.",
+    "DICA DO ANDRÉ",
+    "Na folha em estaca, jogue fora logo as que apodrecerem."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pinguicula/pin-gesto-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 273,
+     "alt": "Mãos deitando folhinhas secas de pinguícula sobre o solo úmido, sem enterrar"
+    },
+    {
+     "src": "/guias/pinguicula/pin-gesto-2.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 147,
+     "alt": "Mãos polinizando a flor de uma pinguícula com um palito"
+    },
+    {
+     "src": "/guias/pinguicula/pin-gesto-3.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 138,
+     "alt": "Mãos borrifando adubo diluído só nas folhas de uma pinguícula"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "linhas": [
+    "CAPÍTULO 1 · A PLANTA E A COLA",
+    "Pinguículas de perto",
+    "Sob a lupa, milhares de pelinhos com uma gota de cola.",
+    "Ela pega mosquitinha, colêmbolo e drosófila.",
+    "Em poucas horas dissolve as partes moles do inseto.",
+    "A borda da folha pode curvar sobre a presa grande.",
+    "O inseto deixa pernas para trás ao fugir."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 11,
+   "linhas": [
+    "ERRO COMUM",
+    "Saiu do solo?",
+    "1",
+    "O QUE PARECE",
+    "A pinguícula mexicana saiu do solo.",
+    "O QUE PODE SER",
+    "Levantada pelas folhas velhas.",
+    "COMO RESOLVER",
+    "Arranque as velhas e recoloque as raízes na terra."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pinguicula/pin-sintoma-1.webp",
+     "largura": 1000,
+     "altura": 1792,
+     "kb": 273,
+     "alt": "Pinguícula mexicana levantada para fora do solo pelas folhas velhas, com as raízes à mostra"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "linhas": [
+    "CAPÍTULO 3",
+    "Mexicanas",
+    "01\tMexicanas",
+    "02\tSolo e cuidado",
+    "03\tPinguículas de perto"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pinguicula/coringa-regar-G-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 157,
+     "alt": "André olhando pinguículas mexicanas num vaso"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "linhas": [
+    "CAPÍTULO 3 · MEXICANAS",
+    "Mexicanas",
+    "CARNÍVORA",
+    "Só parte do ano, na seca viram suculentas",
+    "FLORES",
+    "Vêm na fase suculenta do inverno seco",
+    "O QUE ELAS PEDEM",
+    "Solo areia, perlita, pomes e turfa",
+    "Vaso raiz curta, de 7,5 a 10 cm",
+    "Cálcio o autor usa conchas de abalone",
+    "Troca solo novo a cada 2 ou 3 anos",
+    "Bom saber",
+    "Moranensis é a mais popular, com flor por meses",
+    "Cuidado algumas viram bulbo e ficam secas"
+   ],
+   "fotos": []
+  },
+  {
+   "n": 14,
+   "linhas": [
+    "CAPÍTULO 3 · ATENÇÃO",
+    "ATENÇÃO",
+    "Adubar na raiz.",
+    "Adubo ácido nas mexicanas.",
+    "Adubo borrifado nas flores.",
+    "FAÇA ASSIM",
+    "Só borrife nas folhas, bem diluído.",
+    "Muitas vivem em solo alcalino."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 15,
+   "linhas": [
+    "CAPÍTULO 4 · QUATRO PINGUÍCULAS",
+    "Quatro pinguículas",
+    "1",
+    "Moranensis",
+    "A mais popular, boa na janela.",
+    "2",
+    "Caerulea",
+    "Das mais fáceis, vive anos.",
+    "3",
+    "Gigantea",
+    "Chega a 30 cm.",
+    "4",
+    "Laueana",
+    "Única de flor vermelha.",
+    "CHAVE\tPlanta\tO que ela tem"
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pinguicula/pin-var-moranensis.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 111,
+     "alt": "Pinguícula moranensis em vaso com flores rosadas"
+    },
+    {
+     "src": "/guias/pinguicula/pin-var-caerulea.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 90,
+     "alt": "Pinguícula caerulea com flor azul arroxeada"
+    },
+    {
+     "src": "/guias/pinguicula/pin-var-gigantea.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 230,
+     "alt": "Pinguícula gigantea grande com folhas largas e pegajosas"
+    },
+    {
+     "src": "/guias/pinguicula/pin-var-laueana.webp",
+     "largura": 1000,
+     "altura": 1339,
+     "kb": 163,
+     "alt": "Pinguícula laueana com flor laranja avermelhada"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "linhas": [
+    "CAPÍTULO 4 · DE PERTO",
+    "Pinguículas de perto",
+    "EPÍFITA",
+    "A lignicola vive em galhos, em Cuba.",
+    "ÁRTICO",
+    "Uma espécie vive em musgo sobre geleiras.",
+    "GESSO",
+    "Coletores procuram penhascos de gesso secos.",
+    "ISCA",
+    "A cola brilha como arco-íris no sol.",
+    "DICA DO ANDRÉ",
+    "Lesma e caracol mordem uma ou duas vezes e vão embora."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 17,
+   "linhas": [
+    "VOCÊ SABIA?",
+    "3",
+    "X",
+    "mais pinguículas no mundo do que há 40 anos.",
+    "Existem cerca de cem espécies, e o auge está no México.",
+    "E MAIS UMA",
+    "Darwin descobriu por volta de 1870 que ela é carnívora."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 18,
+   "linhas": [
+    "PARA FAZER",
+    "Comece essa semana",
+    "Vaso individual com pires",
+    "Solo de areia, perlita e turfa",
+    "Fases úmida e seca alternadas",
+    "Sem adubo na raiz",
+    "Sem adubo ácido",
+    "Folhas velhas arrancadas",
+    "Solo novo a cada 2 ou 3 anos",
+    "Folhinhas secas deitadas",
+    "Tire um print e cole na geladeira."
+   ],
+   "fotos": []
+  },
+  {
+   "n": 19,
+   "linhas": [
+    "ATÉ O PRÓXIMO LIVRO",
+    "Pinguícula pede rega na medida e adubo leve. Tente e me conta. Gentileza gera gentileza.",
+    "Com carinho, André",
+    "132\tVOCÊ TEM",
+    "133",
+    "134",
+    "135",
+    "136",
+    "137",
+    "São 132 livros na coleção, todos de graça.",
+    "PRÓXIMO: TG 133 NEPENTHES",
+    "Comente JARRO no @canalterragentil e ele chega no seu direct, de graça."
+   ],
+   "fotos": [
+    {
+     "src": "/guias/pinguicula/coringa-regar-H-1.webp",
+     "largura": 1000,
+     "altura": 1250,
+     "kb": 188,
+     "alt": "Retrato do André no jardim"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,556 @@
+{
+  "livro": "TG 149",
+  "titulo": "Orquídea por Dentro",
+  "serie": "#5B3F7A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "149",
+        "COLEÇÃO TERRA GENTIL",
+        "DENTRO",
+        "Orquídea por Dentro",
+        "Raiz, fungo, flor e semente.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-A-1.jpg",
+          "alt": "André segurando um vaso de orquídea florida"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "c4-218",
+        "k9-342",
+        "c4-5"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Orquídea só nasce com ajuda de um fungo.",
+        "São mais de 35 mil espécies no mundo.",
+        "Aqui tem raiz, fungo, flor e semente.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Olhe a ponta verde das raízes.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 149 ORQUÍDEA POR DENTRO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-B-1.jpg",
+          "alt": "André olhando as raízes de uma orquídea com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "k9-343",
+        "k9-335"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Descubra o nome da sua orquídea.",
+        "Pesquise o habitat e imite em casa.",
+        "SEM EXAGERO",
+        "Substrato esterilizado atrapalha.",
+        "O fungo da raiz ajuda a planta.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 149 ORQUÍDEA POR DENTRO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da orquídea",
+        "06",
+        "CAPÍTULO 1",
+        "Raiz e vaso",
+        "08",
+        "CAPÍTULO 2",
+        "Fungo e semente",
+        "12",
+        "CAPÍTULO 3",
+        "Flor e inseto",
+        "15",
+        "CAPÍTULO 4",
+        "Orquídea de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Folha caindo? Vá para a página 11.",
+        "Na próxima: a ficha da orquídea",
+        "→",
+        "TG 149 ORQUÍDEA POR DENTRO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "c4-6",
+        "c4-5",
+        "k9-072",
+        "k9-335",
+        "k9-344"
+      ],
+      "textos": [
+        "FICHA DA ORQUÍDEA",
+        "Antes de agir",
+        "O que olhar",
+        "VASO",
+        "Firme, sem balançar",
+        "RAIZ",
+        "Ponta verde comprida",
+        "TROCA",
+        "Substrato desmanchando",
+        "FUNGO",
+        "Mora dentro da raiz",
+        "TERRESTRE",
+        "Areia, terra e composto",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Substrato esterilizado atrapalha",
+        "Na próxima: raiz e vaso",
+        "→",
+        "TG 149 ORQUÍDEA POR DENTRO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Raiz e vaso",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Fungo de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 149 ORQUÍDEA POR DENTRO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-C-1.jpg",
+          "alt": "André conferindo se uma orquídea está firme no vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "c4-6",
+        "k9-335",
+        "c4-38",
+        "c4-244",
+        "c4-36"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Vaso",
+        "Firme",
+        "Balançando",
+        "Substrato",
+        "Com fungo",
+        "Esterilizado",
+        "Calor",
+        "Muda à noite",
+        "Sempre igual",
+        "Híbrido",
+        "Clone premiado",
+        "Mula fraca",
+        "Luz acesa à noite zera o relógio.",
+        "DICA DO ANDRÉ",
+        "Na loja, tire a presilha e teste.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 149 ORQUÍDEA POR DENTRO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Fungo e semente",
+        "01",
+        "Passo a passo",
+        "02",
+        "Fungo de perto",
+        "03",
+        "Folha caindo",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 149 ORQUÍDEA POR DENTRO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-F-1.jpg",
+          "alt": "André olhando uma orquídea presa num tronco de árvore"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "k9-343",
+        "k9-072",
+        "k9-360",
+        "c4-6"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Orquídea? Faça assim.",
+        "NOME",
+        "Descubra a espécie",
+        "CASA",
+        "Imite o habitat",
+        "VASO",
+        "Firme no lugar",
+        "1",
+        "DESCUBRA",
+        "O nome da espécie da sua orquídea.",
+        "2",
+        "TROQUE",
+        "Quando o substrato desmanchar.",
+        "3",
+        "REGUE",
+        "Bem, logo depois da troca.",
+        "DICA DO ANDRÉ",
+        "Pesquise o habitat e imite em casa.",
+        "Na próxima: fungo de perto",
+        "→",
+        "TG 149 ORQUÍDEA POR DENTRO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "odn-gesto-1.jpg",
+          "alt": "Mãos lendo a etiqueta com o nome de uma orquídea florida"
+        },
+        {
+          "src": "odn-gesto-2.jpg",
+          "alt": "Mãos tirando uma orquídea do vaso com o substrato velho desmanchando"
+        },
+        {
+          "src": "odn-gesto-3.jpg",
+          "alt": "Mãos regando bem uma orquídea recém-trocada de vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "c4-218",
+        "c4-219",
+        "k9-335"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · FUNGO E SEMENTE",
+        "Fungo de perto",
+        "Semente de orquídea não tem comida guardada.",
+        "Ela só germina se um fungo certo entrar.",
+        "A mudinha come o fungo e não paga nada.",
+        "Na raiz adulta, o fungo ganha açúcar.",
+        "E a orquídea ganha água em troca.",
+        "Na próxima: folha caindo",
+        "→",
+        "TG 149 ORQUÍDEA POR DENTRO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "c4-41",
+        "c4-43"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Folha caindo?",
+        "1",
+        "O QUE PARECE",
+        "Folhas caindo no tempo seco.",
+        "O QUE PODE SER",
+        "Ar seco demais.",
+        "COMO RESOLVER",
+        "Bandeja de pedra só com ventilador.",
+        "Na próxima: flor e inseto",
+        "→",
+        "TG 149 ORQUÍDEA POR DENTRO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "odn-sintoma-1.jpg",
+          "alt": "Orquídea presa num tronco soltando folhas amarelas no tempo seco"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Flor e inseto",
+        "01",
+        "Flor e inseto",
+        "02",
+        "Truques da flor",
+        "03",
+        "Atenção",
+        "Na próxima: flor e inseto",
+        "→",
+        "TG 149 ORQUÍDEA POR DENTRO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-G-1.jpg",
+          "alt": "André olhando de perto o miolo de uma flor de orquídea"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "c4-216",
+        "c4-224",
+        "c4-215",
+        "c4-202",
+        "c4-225",
+        "c4-204",
+        "k9-345",
+        "c4-206"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · FLOR",
+        "Flor e inseto",
+        "STANHOPEA",
+        "Perfume para a abelha macho",
+        "CATASETUM",
+        "Dispara o pólen no dedo",
+        "TRUQUES",
+        "Vespa",
+        " a flor imita a fêmea",
+        "Galho",
+        " cada uma com seu inseto",
+        "Pólen",
+        " pacotinho amarelo-ouro",
+        "Parentes",
+        " aceitam pólen e viram híbrido",
+        "Bom saber",
+        "Baunilha",
+        " a orquídea do tempero",
+        "Equador",
+        " pasto onde havia raras",
+        "Na próxima: truques da flor",
+        "→",
+        "TG 149 ORQUÍDEA POR DENTRO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "c4-203",
+        "c4-222",
+        "c4-244",
+        "c4-223"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Sem o inseto, a orquídea pode sumir.",
+        "Planta fraca não deve ser polinizada.",
+        "Híbrido mula cresce fraco e não floresce.",
+        "FAÇA ASSIM",
+        "Polinize um ou dois dias após abrir.",
+        "Ovário inchou? Deu certo.",
+        "Na próxima: orquídea de perto",
+        "→",
+        "TG 149 ORQUÍDEA POR DENTRO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "c4-228",
+        "c4-240",
+        "c4-213",
+        "k9-361"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · QUATRO FLORES",
+        "Quatro orquídeas",
+        "1",
+        "Phalaenopsis",
+        "Pétalas como orelhas de elefante.",
+        "2",
+        "Cattleya",
+        "Botão guardado numa bainha.",
+        "3",
+        "Sapatinho",
+        "Inseto sai por trás com o pólen.",
+        "4",
+        "Chuva-de-ouro",
+        "Haste floral não rebrota.",
+        "CHAVE",
+        "Orquídea",
+        "O que ela mostra",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 149 ORQUÍDEA POR DENTRO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "odn-var-phalaenopsis.jpg",
+          "alt": "Phalaenopsis branca com as duas pétalas redondas levantadas"
+        },
+        {
+          "src": "odn-var-cattleya.jpg",
+          "alt": "Cattleya com o botão aparecendo dentro da bainha verde contra a luz"
+        },
+        {
+          "src": "odn-var-sapatinho.jpg",
+          "alt": "Orquídea sapatinho com o lábio em forma de chinelo"
+        },
+        {
+          "src": "odn-var-chuva-de-ouro.jpg",
+          "alt": "Chuva-de-ouro com hastes cheias de florzinhas amarelas"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "c4-5",
+        "c4-75",
+        "c4-36",
+        "c4-220",
+        "c4-114"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Orquídea de perto",
+        "RAIZ",
+        "Ponta verde comprida cresce rápido.",
+        "BROTO",
+        "Maior que o anterior, mais flor.",
+        "NOITE",
+        "Luz de 10 minutos zera o relógio.",
+        "MUDINHA",
+        "Até 5 anos escondida no musgo.",
+        "DICA DO ANDRÉ",
+        "Rega, vento, luz e água fazem a diferença.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 149 ORQUÍDEA POR DENTRO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "k9-342",
+        "c4-221"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "35",
+        "MIL",
+        "espécies de orquídea no mundo.",
+        "Em todo continente, menos a Antártida.",
+        "E MAIS UMA",
+        "Cattleya de semente leva até 7 anos para florir.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 149 ORQUÍDEA POR DENTRO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "c4-6",
+        "k9-343",
+        "k9-072",
+        "k9-360",
+        "k9-335",
+        "c4-36",
+        "c4-38",
+        "c4-5"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Vaso firme, sem balançar",
+        "Nome da espécie descoberto",
+        "Habitat imitado em casa",
+        "Troca quando o substrato desmancha",
+        "Rega boa depois da troca",
+        "Substrato sem esterilizar",
+        "Noite escura, sem luz acesa",
+        "Ponta verde da raiz olhada",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 149 ORQUÍDEA POR DENTRO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Orquídea vive de fungo, inseto e paciência. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "149",
+        "VOCÊ TEM",
+        "150",
+        "151",
+        "152",
+        "153",
+        "154",
+        "São 149 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 150 SEMENTE RARA",
+        "Comente GERMINAR no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 149 ORQUÍDEA POR DENTRO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "orquidea-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

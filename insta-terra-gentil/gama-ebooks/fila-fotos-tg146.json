@@ -1,0 +1,70 @@
+{
+  "livro": "TG 146",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "frz-gesto-1",
+      "especie": "blackberry",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands bending the tip of a long blackberry cane down until it touches the soil",
+      "mascote": false
+    },
+    {
+      "id": "frz-gesto-2",
+      "especie": "blackberry",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pressing soil over the rooted tip of a blackberry cane; the small mascot figurine sits on the wooden edge of the bed",
+      "mascote": true
+    },
+    {
+      "id": "frz-gesto-3",
+      "especie": "blackberry",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a rooted blackberry tip from the mother cane with pruning shears to replant it",
+      "mascote": false
+    },
+    {
+      "id": "frz-sintoma-1",
+      "especie": "raspberry",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Raspberry leaves yellowing between green veins from magnesium deficiency in alkaline soil",
+      "mascote": false
+    },
+    {
+      "id": "frz-var-yacon",
+      "especie": "yacon",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Freshly dug yacon with large crunchy tubers lying on the soil",
+      "mascote": false
+    },
+    {
+      "id": "frz-var-mashua",
+      "especie": "mashua",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Mashua vine with orange flowers and freshly dug tubers; the small mascot figurine stands on the soil beside the tubers",
+      "mascote": true
+    },
+    {
+      "id": "frz-var-salsifi",
+      "especie": "salsify",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Freshly pulled salsify with long thin roots on a wooden table",
+      "mascote": false
+    },
+    {
+      "id": "frz-var-stachys",
+      "especie": "Chinese artichoke",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Small white ridged Chinese artichoke tubers (Stachys) freshly dug from shaded soil",
+      "mascote": false
+    }
+  ]
+}

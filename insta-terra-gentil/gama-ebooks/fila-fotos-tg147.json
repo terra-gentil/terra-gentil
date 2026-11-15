@@ -1,0 +1,70 @@
+{
+  "livro": "TG 147",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "hqd-gesto-1",
+      "especie": "squash vine on trellis",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands tying a squash vine to a wooden trellis with soft garden string in a small backyard vegetable bed",
+      "mascote": false
+    },
+    {
+      "id": "hqd-gesto-2",
+      "especie": "tomato plant in pot",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pinching off a side shoot from the main stem of a single-stem tomato plant growing in a pot",
+      "mascote": false
+    },
+    {
+      "id": "hqd-gesto-3",
+      "especie": "radish seeds",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sowing radish seeds in the gap between other young vegetables in a small raised bed; the small mascot figurine sits on the wooden edge of the bed",
+      "mascote": true
+    },
+    {
+      "id": "hqd-sintoma-1",
+      "especie": "zucchini plant",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "One huge overgrown zucchini left on the plant next to small young zucchinis in a small vegetable bed",
+      "mascote": false
+    },
+    {
+      "id": "hqd-var-rabanete",
+      "especie": "radish",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Red radishes growing in the gap between other leafy vegetables in a small garden bed",
+      "mascote": false
+    },
+    {
+      "id": "hqd-var-pepino-melao",
+      "especie": "cucamelon",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cucamelon vine with tiny striped fruits the size of an egg, looking like miniature watermelons",
+      "mascote": false
+    },
+    {
+      "id": "hqd-var-couve-rabano",
+      "especie": "kohlrabi",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Small round kohlrabi the size of a tennis ball growing in a compact vegetable bed",
+      "mascote": false
+    },
+    {
+      "id": "hqd-var-ervilha-torta",
+      "especie": "snow pea",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Snow pea plant with flat green pods climbing a small support in a pot; the small mascot figurine stands on the rim of the pot",
+      "mascote": true
+    }
+  ]
+}

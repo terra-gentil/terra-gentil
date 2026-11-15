@@ -1,0 +1,563 @@
+{
+  "livro": "TG 156",
+  "titulo": "Vaso com Flor",
+  "serie": "#7A3A55",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "156",
+        "COLEÇÃO TERRA GENTIL",
+        "FLORZINHA",
+        "Vaso com Flor",
+        "Flor bonita dentro de casa.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "violeta-A-1.jpg",
+          "alt": "André segurando um vaso florido perto da janela"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "q3-458",
+        "q3-299",
+        "q3-395"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Tem violeta florindo o ano todo.",
+        "Tem gerânio com cheiro de limão.",
+        "Aqui tem vaso, rega, muda e espécies.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Veja se o seu vaso escoa bem.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 156 VASO COM FLOR",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "begonia-A-1.jpg",
+          "alt": "André olhando as flores de um vaso com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "q3-356",
+        "q3-386",
+        "q3-520",
+        "q3-613"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Adube a cada 2 semanas na flor.",
+        "Rabo-de-gato e epífilo pedem assim.",
+        "SEM EXAGERO",
+        "Jacinto em vaso não pede adubo.",
+        "Só terra úmida por igual.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 156 VASO COM FLOR",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do vaso com flor",
+        "06",
+        "CAPÍTULO 1",
+        "Vaso e rega",
+        "08",
+        "CAPÍTULO 2",
+        "Muda e semente",
+        "12",
+        "CAPÍTULO 3",
+        "Espécies",
+        "15",
+        "CAPÍTULO 4",
+        "Flor de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Coceira no braço? Vá para a página 11.",
+        "Na próxima: a ficha do vaso com flor",
+        "→",
+        "TG 156 VASO COM FLOR",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "q3-395",
+        "q3-356",
+        "q3-519",
+        "q3-386",
+        "q3-520",
+        "q3-557",
+        "q3-613",
+        "q3-521"
+      ],
+      "textos": [
+        "FICHA DO VASO COM FLOR",
+        "Antes de agir",
+        "O que olhar",
+        "VASO",
+        "Escoando bem",
+        "TROCA",
+        "A cada 2 ou 3 anos",
+        "ADUBO",
+        "A cada 2 semanas na flor",
+        "LUZ",
+        "Forte, sem sol direto",
+        "TERRA",
+        "Úmida sem encharcar",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Epífilo nunca seca de vez",
+        "Na próxima: vaso e rega",
+        "→",
+        "TG 156 VASO COM FLOR",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Vaso e rega",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Flor de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 156 VASO COM FLOR",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "kalanchoe-A-1.jpg",
+          "alt": "André regando um vaso de kalanchoe florido"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "q3-519",
+        "q3-557",
+        "q3-613",
+        "q3-395",
+        "q3-521",
+        "q3-606"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Epífilo",
+        "Vaso apertado",
+        "Vaso folgado",
+        "Botão",
+        "Mais água",
+        "Terra seca",
+        "Jacinto",
+        "Terra úmida",
+        "Adubo e troca",
+        "Luz",
+        "Forte, indireta",
+        "Sol direto",
+        "Epífilo não é cacto de deserto.",
+        "DICA DO ANDRÉ",
+        "Seque a frésia depois da flor.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 156 VASO COM FLOR",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Muda e semente",
+        "01",
+        "Passo a passo",
+        "02",
+        "Semente de perto",
+        "03",
+        "Coceira no braço",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 156 VASO COM FLOR",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-B-1.jpg",
+          "alt": "André preparando vasinhos para mudas de flor"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "q3-357",
+        "q3-604",
+        "q3-457",
+        "q3-394"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Muda nova? Faça assim.",
+        "ESTACA",
+        "10 a 13 cm",
+        "CORMO",
+        "5 por vaso",
+        "SEMENTE",
+        "Quase descoberta",
+        "1",
+        "CORTE",
+        "Estaca de ponta do rabo-de-gato.",
+        "2",
+        "PLANTE",
+        "5 cormos de frésia num vaso de 13 cm.",
+        "3",
+        "SEMEIE",
+        "Prímula, com só uma camadinha de terra.",
+        "DICA DO ANDRÉ",
+        "Estreptocarpo sai até de folha.",
+        "Na próxima: semente de perto",
+        "→",
+        "TG 156 VASO COM FLOR",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "vcf-gesto-1.jpg",
+          "alt": "Mãos cortando uma estaca de ponta de rabo-de-gato de 10 a 13 cm"
+        },
+        {
+          "src": "vcf-gesto-2.jpg",
+          "alt": "Mãos plantando 5 cormos de frésia num vaso de 13 cm, só cobrindo a ponta"
+        },
+        {
+          "src": "vcf-gesto-3.jpg",
+          "alt": "Mãos semeando prímula numa bandeja com só uma camadinha de terra por cima"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "q3-605",
+        "q3-474",
+        "q3-440",
+        "q3-394"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · MUDA E SEMENTE",
+        "Semente de perto",
+        "Frésia fica 24 horas de molho antes.",
+        "Ela brota em até 3 semanas.",
+        "Tumbérgia sai fácil em bandeja.",
+        "Ciclame leva de 12 a 15 meses.",
+        "Estreptocarpo também se divide.",
+        "Na próxima: coceira no braço",
+        "→",
+        "TG 156 VASO COM FLOR",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "q3-456"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Coceira no braço?",
+        "1",
+        "O QUE PARECE",
+        "Coceira dolorida no braço.",
+        "O QUE PODE SER",
+        "Folha da prímula-obcônica.",
+        "COMO RESOLVER",
+        "Não mexa nela molhada.",
+        "Na próxima: espécies",
+        "→",
+        "TG 156 VASO COM FLOR",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "vcf-sintoma-1.jpg",
+          "alt": "Prímula-obcônica num vaso ao lado de um braço com o pulso vermelho de coceira"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Espécies",
+        "01",
+        "Espécies",
+        "02",
+        "Flores famosas",
+        "03",
+        "Atenção",
+        "Na próxima: espécies",
+        "→",
+        "TG 156 VASO COM FLOR",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-A-1.jpg",
+          "alt": "André olhando vasos floridos numa prateleira"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "q3-295",
+        "q3-452",
+        "q3-299",
+        "q3-417",
+        "q3-477",
+        "q3-612",
+        "q3-425",
+        "q3-605"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ESPÉCIES",
+        "Espécies",
+        "GERÂNIO",
+        "Em vaso, o nome é pelargônio",
+        "KALANCHOE",
+        "Cada flor dura 6 semanas",
+        "FAMOSAS",
+        "Gerânio-limão",
+        " cheiro de limão na folha",
+        "Manacá",
+        " flor roxa e perfumada",
+        "Gérbera",
+        " miolo de disco amarelo",
+        "Jacinto",
+        " cachos com cara de cera",
+        "Bom saber",
+        "Azaleia",
+        " forçada a florir fora de época",
+        "Frésia",
+        " brota em até 3 semanas",
+        "Na próxima: flores famosas",
+        "→",
+        "TG 156 VASO COM FLOR",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "q3-456",
+        "q3-607",
+        "q3-556",
+        "q3-557",
+        "q3-606"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Prímula-obcônica pode dar coceira.",
+        "Amarílis de vaso é Hippeastrum.",
+        "Cacto-da-páscoa não é flor-de-maio.",
+        "FAÇA ASSIM",
+        "Regue mais quando vier o botão.",
+        "Seque a frésia depois da flor.",
+        "Na próxima: flor de perto",
+        "→",
+        "TG 156 VASO COM FLOR",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "q3-458",
+        "q3-563",
+        "q3-355",
+        "q3-477"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · QUATRO FLORES",
+        "Quatro flores",
+        "1",
+        "Violeta",
+        "Flor o ano todo, até estrela.",
+        "2",
+        "Flor-de-maio",
+        "Rosa, vermelha, roxa e branca.",
+        "3",
+        "Rabo-de-gato",
+        "Pendões vermelhos caídos.",
+        "4",
+        "Gérbera",
+        "Miolo de disco amarelo grande.",
+        "CHAVE",
+        "Flor de vaso",
+        "O que ela dá",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 156 VASO COM FLOR",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "vcf-var-violeta.jpg",
+          "alt": "Violeta-africana de flor estrela num vaso"
+        },
+        {
+          "src": "vcf-var-flor-de-maio.jpg",
+          "alt": "Flor-de-maio com flores rosa pendendo dos gomos"
+        },
+        {
+          "src": "vcf-var-rabo-de-gato.jpg",
+          "alt": "Rabo-de-gato com pendões vermelhos compridos e caídos"
+        },
+        {
+          "src": "vcf-var-gerbera.jpg",
+          "alt": "Gérbera num vaso com o miolo amarelo grande"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "q3-372",
+        "q3-518",
+        "q3-537",
+        "q3-300",
+        "q3-299"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Flor de perto",
+        "COROA-DE-CRISTO",
+        "O vermelho são duas folhinhas.",
+        "EPÍFILO",
+        "O amarelo e o branco abrem à noite.",
+        "ORELHA-DE-GATO",
+        "Kalanchoe de folha de feltro.",
+        "GERÂNIO",
+        "O hortelã tem folha peluda.",
+        "DICA DO ANDRÉ",
+        "Amasse a folha do gerânio-limão.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 156 VASO COM FLOR",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "q3-618",
+        "q3-452"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "10",
+        "CM",
+        "é a flor da tulipa dobrada.",
+        "Ela parece uma peônia.",
+        "E MAIS UMA",
+        "A flor do kalanchoe dura 6 semanas ou mais.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 156 VASO COM FLOR",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "q3-395",
+        "q3-356",
+        "q3-557",
+        "q3-521",
+        "q3-519",
+        "q3-613",
+        "q3-606",
+        "q3-456"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Vaso escoando bem",
+        "Adubo a cada 2 semanas na flor",
+        "Mais água quando vem o botão",
+        "Epífilo sem secar de vez",
+        "Vaso do epífilo meio apertado",
+        "Jacinto sem adubo",
+        "Frésia seca após a flor",
+        "Prímula sem mexer molhada",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 156 VASO COM FLOR",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Flor de vaso pede adubo na hora certa e água na medida. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "156",
+        "VOCÊ TEM",
+        "157",
+        "158",
+        "159",
+        "160",
+        "161",
+        "São 156 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 157 EM BREVE",
+        "Comente NOVIDADE no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 156 VASO COM FLOR",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "violeta-B-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

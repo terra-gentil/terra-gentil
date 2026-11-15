@@ -90,8 +90,8 @@ export default {
     { t: ['ATÉ O PRÓXIMO LIVRO',
       'Planta rara pede água fria e pura e paciência. Tente e me conta. Gentileza gera gentileza.',
       'Com carinho, André', '142', 'VOCÊ TEM', '143', '144', '145', '146', '147',
-      'São 142 livros na coleção, todos de graça.', 'PRÓXIMO: TG 143 EM BREVE',
-      'Comente NOVIDADE no @canalterragentil e ele chega no seu direct, de graça.'],
+      'São 142 livros na coleção, todos de graça.', 'PRÓXIMO: TG 143 ROSA CONTADA',
+      'Comente HISTORIA no @canalterragentil e ele chega no seu direct, de graça.'],
       p: [['coringa-podar-H-1.jpg', 'Retrato do André no jardim']] },
   ],
 };

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 156",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "vcf-gesto-1",
+      "especie": "chenille plant Acalypha hispida",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a 10 to 13 cm tip cutting from a potted chenille plant with red tassel flowers",
+      "mascote": false
+    },
+    {
+      "id": "vcf-gesto-2",
+      "especie": "freesia corms",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pressing 5 freesia corms into a 13 cm pot, with only the tips covered by soil; the small mascot figurine sits on the wooden workbench beside the pot",
+      "mascote": true
+    },
+    {
+      "id": "vcf-gesto-3",
+      "especie": "primula seeds",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sprinkling tiny primula seeds over a seed tray and covering them with only a very thin layer of soil",
+      "mascote": false
+    },
+    {
+      "id": "vcf-sintoma-1",
+      "especie": "Primula obconica",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A potted Primula obconica with wet leaves next to a forearm with a red itchy rash on the wrist",
+      "mascote": false
+    },
+    {
+      "id": "vcf-var-violeta",
+      "especie": "African violet",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Star-flowered African violet in full bloom in a small pot on a windowsill; the small mascot figurine stands on the windowsill next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "vcf-var-flor-de-maio",
+      "especie": "Christmas cactus Schlumbergera",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Christmas cactus Schlumbergera with pink flowers hanging from the tips of its stem segments in a pot",
+      "mascote": false
+    },
+    {
+      "id": "vcf-var-rabo-de-gato",
+      "especie": "chenille plant Acalypha hispida",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Chenille plant Acalypha hispida in a pot with long drooping red tassel flowers",
+      "mascote": false
+    },
+    {
+      "id": "vcf-var-gerbera",
+      "especie": "gerbera daisy",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Potted gerbera daisy with a big yellow central disc and leaves woolly underneath",
+      "mascote": false
+    }
+  ]
+}

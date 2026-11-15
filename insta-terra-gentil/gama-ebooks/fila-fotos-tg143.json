@@ -1,0 +1,70 @@
+{
+  "livro": "TG 143",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "rhi-gesto-1",
+      "especie": "sweet briar rose",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands gently rubbing the young shoot tip of a sweet briar rose to smell its scented leaves",
+      "mascote": false
+    },
+    {
+      "id": "rhi-gesto-2",
+      "especie": "rose hips",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands picking ripe red rose hips from a rose bush into a small bowl; the small mascot figurine sits on the rim of the bowl",
+      "mascote": true
+    },
+    {
+      "id": "rhi-gesto-3",
+      "especie": "rose bush sport",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pointing at one branch of a pink rose bush that carries flowers of a different color from the rest",
+      "mascote": false
+    },
+    {
+      "id": "rhi-sintoma-1",
+      "especie": "florist roses",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Perfect long-stemmed florist roses in a glass vase on a table, flawless but scentless looking",
+      "mascote": false
+    },
+    {
+      "id": "rhi-var-sericea",
+      "especie": "Rosa sericea",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Rosa sericea shrub with small white flowers of only four petals",
+      "mascote": false
+    },
+    {
+      "id": "rhi-var-glauca",
+      "especie": "Rosa glauca",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Rosa glauca with purple-gray foliage and simple pink flowers; the small mascot figurine stands on the ground at the foot of the shrub",
+      "mascote": true
+    },
+    {
+      "id": "rhi-var-moyesii",
+      "especie": "Rosa moyesii",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Rosa moyesii with red bottle-shaped hips crowned by five dried sepals",
+      "mascote": false
+    },
+    {
+      "id": "rhi-var-kazanlik",
+      "especie": "Kazanlik rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Kazanlik damask rose with fragrant double pink flowers in a rose field",
+      "mascote": false
+    }
+  ]
+}

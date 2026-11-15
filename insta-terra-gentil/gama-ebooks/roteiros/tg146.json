@@ -1,0 +1,553 @@
+{
+  "livro": "TG 146",
+  "titulo": "Frutinhas e Raízes",
+  "serie": "#6A2E4A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "146",
+        "COLEÇÃO TERRA GENTIL",
+        "FRUTINHA",
+        "Frutinhas e Raízes",
+        "Pequenas no pé, grandes no gosto.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "morango-A-1.jpg",
+          "alt": "André colhendo frutinhas vermelhas no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "g32-290",
+        "g32-211",
+        "g32-313"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Tem frutinha que vai até na sombra.",
+        "O yacon dá tubérculo crocante.",
+        "Aqui tem framboesa, amora e raízes.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache um canto de meia-sombra.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 146 FRUTINHAS E RAÍZES",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "morango-B-1.jpg",
+          "alt": "André olhando com carinho um pé de frutinhas na meia-sombra"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "g32-277",
+        "g32-357"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Colha framboesa todo dia.",
+        "Elas amadurecem uma de cada vez.",
+        "SEM PRESSA",
+        "Morango-silvestre demora a nascer.",
+        "Pode levar semanas.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 146 FRUTINHAS E RAÍZES",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da frutinha",
+        "06",
+        "CAPÍTULO 1",
+        "Muda e colheita",
+        "08",
+        "CAPÍTULO 2",
+        "Amora e framboesa",
+        "12",
+        "CAPÍTULO 3",
+        "Frutinhas do mundo",
+        "15",
+        "CAPÍTULO 4",
+        "Raiz de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Framboesa fraca? Vá para a página 11.",
+        "Na próxima: a ficha da frutinha",
+        "→",
+        "TG 146 FRUTINHAS E RAÍZES",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "g32-279",
+        "g32-313",
+        "g32-356",
+        "g32-310",
+        "g32-277",
+        "g32-367"
+      ],
+      "textos": [
+        "FICHA DA FRUTINHA",
+        "Antes de agir",
+        "O que olhar",
+        "TERRA",
+        "Ácida na framboesa",
+        "SOMBRA",
+        "Goji e aronia aguentam",
+        "SOL",
+        "Pouco para a groselha",
+        "COBERTURA",
+        "De 4 a 5 cm",
+        "COLHEITA",
+        "Todo dia",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Amora-japonesa chega a 6 m",
+        "Na próxima: muda e colheita",
+        "→",
+        "TG 146 FRUTINHAS E RAÍZES",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Muda e colheita",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Framboesa de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 146 FRUTINHAS E RAÍZES",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-A-1.jpg",
+          "alt": "André plantando uma muda de frutinha no canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "g32-117",
+        "g32-357",
+        "g32-322",
+        "g32-430",
+        "g32-278",
+        "g32-246"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Salsifi",
+        "No lugar",
+        "Transplante",
+        "Morango",
+        "Sem cobrir",
+        "Coberto",
+        "Groselha",
+        "Ramo novo",
+        "Ramo velho",
+        "Gengibre",
+        "Deixe um pedaço",
+        "Tudo colhido",
+        "Folha de framboesa vira chá.",
+        "DICA DO ANDRÉ",
+        "Estaca da poda vira muda de mirtilo.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 146 FRUTINHAS E RAÍZES",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Amora e framboesa",
+        "01",
+        "Passo a passo",
+        "02",
+        "Framboesa de perto",
+        "03",
+        "Framboesa fraca",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 146 FRUTINHAS E RAÍZES",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "morango-C-1.jpg",
+          "alt": "André olhando ramos de amora no quintal"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "g32-365",
+        "g32-382"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Muda de amora? Faça assim.",
+        "RAMO",
+        "Ponta encostada",
+        "TERRA",
+        "Enraíza ali",
+        "CUSTO",
+        "Nenhum",
+        "1",
+        "ENCOSTE",
+        "A ponta do ramo na terra.",
+        "2",
+        "ESPERE",
+        "Ela enraizar ali mesmo.",
+        "3",
+        "CORTE",
+        "Separe e replante a muda.",
+        "DICA DO ANDRÉ",
+        "Amora-preta aguenta sombra seca.",
+        "Na próxima: framboesa de perto",
+        "→",
+        "TG 146 FRUTINHAS E RAÍZES",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "frz-gesto-1.jpg",
+          "alt": "Mãos dobrando a ponta de um ramo de amora até encostar na terra"
+        },
+        {
+          "src": "frz-gesto-2.jpg",
+          "alt": "Mãos firmando a terra sobre a ponta enraizada de um ramo de amora"
+        },
+        {
+          "src": "frz-gesto-3.jpg",
+          "alt": "Mãos cortando com tesoura a ponta enraizada de amora para replantar"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "g32-276",
+        "g32-275",
+        "g32-274"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · AMORA E FRAMBOESA",
+        "Framboesa de perto",
+        "A de verão dá no ramo do ano anterior.",
+        "Depois de dar fruto, esse ramo morre.",
+        "A de outono dá no ramo do próprio ano.",
+        "Tem framboesa amarela também.",
+        "E tem anã, de 50 cm, para vaso.",
+        "Na próxima: framboesa fraca",
+        "→",
+        "TG 146 FRUTINHAS E RAÍZES",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "g32-279"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Framboesa fraca?",
+        "1",
+        "O QUE PARECE",
+        "Falta magnésio na folha.",
+        "O QUE PODE SER",
+        "Terra alcalina.",
+        "COMO RESOLVER",
+        "Ela gosta de terra ácida.",
+        "Na próxima: frutinhas do mundo",
+        "→",
+        "TG 146 FRUTINHAS E RAÍZES",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "frz-sintoma-1.jpg",
+          "alt": "Folhas de framboesa com falta de magnésio em terra alcalina"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Frutinhas do mundo",
+        "01",
+        "Frutinhas do mundo",
+        "02",
+        "Gostos diferentes",
+        "03",
+        "Atenção",
+        "Na próxima: frutinhas do mundo",
+        "→",
+        "TG 146 FRUTINHAS E RAÍZES",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-C-1.jpg",
+          "alt": "André provando uma frutinha diferente no pé"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "g32-107",
+        "g32-104",
+        "g32-290",
+        "g32-301",
+        "g32-304",
+        "g32-106",
+        "g32-366",
+        "g32-313"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · DO MUNDO",
+        "Frutinhas do mundo",
+        "PHYSALIS",
+        "Do Peru, dura semanas guardada",
+        "FEIJOA",
+        "Da América do Sul, aguenta vento",
+        "GOSTOS",
+        "Murta-do-chile",
+        " abacaxi com morango",
+        "Sichuan",
+        " casquinha que formiga",
+        "Brinco-de-princesa",
+        " fruto que se come",
+        "Tomatillo",
+        " base do molho verde",
+        "Bom saber",
+        "Amora-japonesa",
+        " ramo de pelinho vermelho",
+        "Goji",
+        " aguenta meia-sombra",
+        "Na próxima: gostos diferentes",
+        "→",
+        "TG 146 FRUTINHAS E RAÍZES",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "g32-367",
+        "g32-117",
+        "g32-279"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Amora-japonesa chega a 6 m.",
+        "Salsifi não gosta de ser mexido.",
+        "Framboesa sofre em terra alcalina.",
+        "FAÇA ASSIM",
+        "Reserve espaço para a amora.",
+        "Semeie o salsifi no lugar.",
+        "Na próxima: raiz de perto",
+        "→",
+        "TG 146 FRUTINHAS E RAÍZES",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "g32-211",
+        "g32-309",
+        "g32-118",
+        "g32-346"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · QUATRO RAÍZES",
+        "Quatro raízes",
+        "1",
+        "Yacon",
+        "Tubérculo grande e crocante.",
+        "2",
+        "Mashua",
+        "Tubérculo com muita proteína.",
+        "3",
+        "Salsifi",
+        "Dizem que lembra ostra.",
+        "4",
+        "Stachys",
+        "Tubérculo que aguenta sombra.",
+        "CHAVE",
+        "Raiz",
+        "O que ela dá",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 146 FRUTINHAS E RAÍZES",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "frz-var-yacon.jpg",
+          "alt": "Yacon recém-colhido com tubérculos grandes sobre a terra"
+        },
+        {
+          "src": "frz-var-mashua.jpg",
+          "alt": "Mashua trepadeira de flor laranja com tubérculos colhidos"
+        },
+        {
+          "src": "frz-var-salsifi.jpg",
+          "alt": "Raízes compridas e finas de salsifi recém-arrancadas"
+        },
+        {
+          "src": "frz-var-stachys.jpg",
+          "alt": "Tubérculos pequenos de alcachofra-chinesa colhidos na sombra"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "g32-211",
+        "g32-309",
+        "g32-346",
+        "g32-430"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Raiz de perto",
+        "YACON",
+        "Vem dos Andes.",
+        "MASHUA",
+        "Prima andina da capuchinha.",
+        "STACHYS",
+        "É a alcachofra-chinesa.",
+        "GENGIBRE",
+        "Deixe um pedaço para crescer.",
+        "DICA DO ANDRÉ",
+        "Com a cúrcuma, faça igual.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 146 FRUTINHAS E RAÍZES",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "g32-367",
+        "g32-107"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "6",
+        "M",
+        "de largura chega a amora-japonesa.",
+        "E 3 m de altura: reserve espaço.",
+        "E MAIS UMA",
+        "A physalis madura cai na casquinha.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 146 FRUTINHAS E RAÍZES",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "g32-277",
+        "g32-279",
+        "g32-322",
+        "g32-117",
+        "g32-357",
+        "g32-365",
+        "g32-430",
+        "g32-310"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Framboesa colhida todo dia",
+        "Terra ácida para framboesa",
+        "Ramo velho de groselha fora",
+        "Salsifi semeado no lugar",
+        "Morango-silvestre sem cobrir",
+        "Ponta de amora enraizando",
+        "Pedaço de gengibre na terra",
+        "Cobertura de 4 a 5 cm",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 146 FRUTINHAS E RAÍZES",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Frutinha pede paciência e colheita aos poucos. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "146",
+        "VOCÊ TEM",
+        "147",
+        "148",
+        "149",
+        "150",
+        "151",
+        "São 146 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 147 HORTA QUADRADINHA",
+        "Comente QUADRADO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 146 FRUTINHAS E RAÍZES",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "morango-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 144",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "rbt-gesto-1",
+      "especie": "rose bush",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands spraying foliar fertilizer on the young leaves of a rose bush in early morning light",
+      "mascote": false
+    },
+    {
+      "id": "rbt-gesto-2",
+      "especie": "rose bush",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pouring diluted liquid manure from a watering can onto moist soil at the base of a rose bush; the small mascot figurine sits on the wooden edge of the rose bed",
+      "mascote": true
+    },
+    {
+      "id": "rbt-gesto-3",
+      "especie": "rose bush",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands spraying the underside of rose leaves with the nozzle pointed upward on a calm morning",
+      "mascote": false
+    },
+    {
+      "id": "rbt-sintoma-1",
+      "especie": "neglected old rose",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Old neglected rose bush with few weak branches and sparse leaves in a dry weedy bed",
+      "mascote": false
+    },
+    {
+      "id": "rbt-var-iceberg",
+      "especie": "Iceberg rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Iceberg floribunda rose with clusters of white flowers in a terracotta pot",
+      "mascote": false
+    },
+    {
+      "id": "rbt-var-double-delight",
+      "especie": "Double Delight rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Double Delight rose with creamy white flowers edged in red in a large pot",
+      "mascote": false
+    },
+    {
+      "id": "rbt-var-fragrant-cloud",
+      "especie": "Fragrant Cloud rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Fragrant Cloud rose with coral red flowers in a pot on a sunny patio",
+      "mascote": false
+    },
+    {
+      "id": "rbt-var-minirrosa",
+      "especie": "miniature rose",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Miniature rose in full bloom in a small pot; the small mascot figurine stands on the table beside the pot",
+      "mascote": true
+    }
+  ]
+}

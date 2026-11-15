@@ -1,0 +1,70 @@
+{
+  "livro": "TG 150",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "smr-gesto-1",
+      "especie": "alstroemeria",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands tying a small cloth bag around a ripe alstroemeria seed capsule",
+      "mascote": false
+    },
+    {
+      "id": "smr-gesto-2",
+      "especie": "amaranth seeds",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands holding a bowl of amaranth seeds and blowing gently so the chaff flies up; the small mascot figurine sits on the wooden table next to the bowl",
+      "mascote": true
+    },
+    {
+      "id": "smr-gesto-3",
+      "especie": "papaya seeds",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands sowing fresh papaya seeds into a small cup of soil",
+      "mascote": false
+    },
+    {
+      "id": "smr-sintoma-1",
+      "especie": "camellia seeds",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A pot of bare soil with no sprouts and hard brown camellia seeds lying on the surface",
+      "mascote": false
+    },
+    {
+      "id": "smr-var-pimenta",
+      "especie": "chili pepper plant",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Chili pepper plant loaded with red fruits in a home garden",
+      "mascote": false
+    },
+    {
+      "id": "smr-var-capuchinha",
+      "especie": "nasturtium",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Nasturtium in bloom with orange flowers spreading over a garden bed; the small mascot figurine sits on the stone border of the bed",
+      "mascote": true
+    },
+    {
+      "id": "smr-var-limao",
+      "especie": "lemon seedlings",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Small lemon seedlings grown from seed in a pot",
+      "mascote": false
+    },
+    {
+      "id": "smr-var-gloria",
+      "especie": "morning glory",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Morning glory with blue flowers climbing a garden fence",
+      "mascote": false
+    }
+  ]
+}

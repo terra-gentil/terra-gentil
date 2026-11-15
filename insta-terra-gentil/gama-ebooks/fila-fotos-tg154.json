@@ -1,0 +1,70 @@
+{
+  "livro": "TG 154",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "gmb-gesto-1",
+      "especie": "potted rosemary",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands poking a hole in the cap of a plastic bottle next to a potted rosemary",
+      "mascote": false
+    },
+    {
+      "id": "gmb-gesto-2",
+      "especie": "potted rosemary",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands fitting a cut cotton swab into a small hole of a plastic bottle beside a potted rosemary",
+      "mascote": false
+    },
+    {
+      "id": "gmb-gesto-3",
+      "especie": "potted rosemary",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands adjusting the cotton swab in the bottle cap while the upside down bottle drips water into a potted rosemary; the small mascot figurine sits on the rim of the rosemary pot",
+      "mascote": true
+    },
+    {
+      "id": "gmb-sintoma-1",
+      "especie": "bindweed",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Bindweed shoots sprouting and twining out of a backyard compost heap",
+      "mascote": false
+    },
+    {
+      "id": "gmb-var-morango",
+      "especie": "strawberry",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Strawberry plants growing in fabric pockets of an upright wooden pallet with every other slat removed",
+      "mascote": false
+    },
+    {
+      "id": "gmb-var-batata",
+      "especie": "potato",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Potato tower made of a chicken wire cylinder with potato shoots growing out of the sides",
+      "mascote": false
+    },
+    {
+      "id": "gmb-var-pitaia",
+      "especie": "pitaya dragon fruit cactus",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Tiny pitaya dragon fruit cactus seedlings sprouting in a pot on a sunny windowsill; the small mascot figurine stands on the windowsill next to the pot",
+      "mascote": true
+    },
+    {
+      "id": "gmb-var-alecrim",
+      "especie": "rosemary",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Rosemary cutting rooting in a glass of water near a bright window",
+      "mascote": false
+    }
+  ]
+}

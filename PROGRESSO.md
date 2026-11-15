@@ -1115,3 +1115,6 @@ Depois: "le o PROGRESSO.md e continua a varredura mobile das paginas
 restantes".
 
 
+
+## 15/11/2026 - Leva 12 (TG 143 a 156) planejada e escrita
+14 roteiros (curtos/tg143 a tg156), 14 pools (pools/pool12-NNN.txt, montar12.mjs, livros12.mjs, LEVA12-titulos.md, BRIEF12.md) e 14 filas (filas12/NNN.mjs, filas12.mjs gera fila-fotos-tgNNN.json). Zero estouro, validar ok, zero fato repetido. TG 142 ajustado: promete TG 143 ROSA CONTADA (palavra HISTORIA). Falta: gerar fotos no Flow e publicar no site. Sobram ~870 fatos livres dispersos.

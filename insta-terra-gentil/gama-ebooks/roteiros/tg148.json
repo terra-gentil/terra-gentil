@@ -1,0 +1,557 @@
+{
+  "livro": "TG 148",
+  "titulo": "Suculenta Simples",
+  "serie": "#5A6A3A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "148",
+        "COLEÇÃO TERRA GENTIL",
+        "SIMPLES",
+        "Suculenta Simples",
+        "Suculenta sem complicar.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-A-1.jpg",
+          "alt": "André segurando um vaso de suculentas"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "b2-02",
+        "b6-21",
+        "b2-10"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Suculenta não é planta só de deserto.",
+        "Quanto mais gorda, menos água ela quer.",
+        "Aqui tem sol, rega, vaso e espécies.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache a etiqueta que veio no vaso.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 148 SUCULENTA SIMPLES",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-B-1.jpg",
+          "alt": "André olhando uma suculenta de perto com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "b6-21",
+        "b2-25"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Regue menos a mais gordinha.",
+        "Ela apodrece mais fácil.",
+        "SEM EXAGERO",
+        "Umidade constante traz mofo.",
+        "E também traz praga.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 148 SUCULENTA SIMPLES",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da suculenta",
+        "06",
+        "CAPÍTULO 1",
+        "Sol e rega",
+        "08",
+        "CAPÍTULO 2",
+        "Muda e vaso",
+        "12",
+        "CAPÍTULO 3",
+        "Espécies fáceis",
+        "15",
+        "CAPÍTULO 4",
+        "Quatro fáceis",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Roseta fechada? Vá para a página 11.",
+        "Na próxima: a ficha da suculenta",
+        "→",
+        "TG 148 SUCULENTA SIMPLES",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "b1-03",
+        "b2-02",
+        "b6-21",
+        "b1-04",
+        "b2-10",
+        "b1-16"
+      ],
+      "textos": [
+        "FICHA DA SUCULENTA",
+        "Antes de agir",
+        "O que olhar",
+        "SOL",
+        "Sombra acima de 32 graus",
+        "REGA",
+        "Gorda pede menos",
+        "AR",
+        "Seco, não úmido",
+        "VASO",
+        "Tira da chuva e do frio",
+        "ETIQUETA",
+        "Diz o que ela pede",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Cristada queima e encharca fácil",
+        "Na próxima: sol e rega",
+        "→",
+        "TG 148 SUCULENTA SIMPLES",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Sol e rega",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Muda de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 148 SUCULENTA SIMPLES",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-C-1.jpg",
+          "alt": "André regando pouco um vaso de suculentas"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "b2-08",
+        "b2-25",
+        "b2-46",
+        "b2-52",
+        "b3-04",
+        "b2-10"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Muda nova",
+        "Sol aos poucos",
+        "Sol de vez",
+        "Clima úmido",
+        "Regar menos",
+        "Regar igual",
+        "Raiz",
+        "Soltar",
+        "Enrolada",
+        "Lesma",
+        "Catar à mão",
+        "Deixar roer",
+        "Areia fina segura a terra na rega.",
+        "DICA DO ANDRÉ",
+        "Guarde a etiqueta que veio no vaso.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 148 SUCULENTA SIMPLES",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Muda e vaso",
+        "01",
+        "Passo a passo",
+        "02",
+        "Muda de perto",
+        "03",
+        "Roseta fechada",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 148 SUCULENTA SIMPLES",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-F-1.jpg",
+          "alt": "André trocando uma suculenta de vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "b2-46",
+        "b2-45",
+        "b6-26",
+        "b2-08"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Suculenta nova? Faça assim.",
+        "RAIZ",
+        "Solta e aparada",
+        "VASO",
+        "Em morrinho",
+        "FOLHA",
+        "Vira planta nova",
+        "1",
+        "SOLTE",
+        "As raízes enroladas, aparando as longas.",
+        "2",
+        "MONTE",
+        "Um morrinho: quem pede menos água no alto.",
+        "3",
+        "ENFIE",
+        "Folha de gasteria quebrada na terra.",
+        "DICA DO ANDRÉ",
+        "Muda nova: mais sol, meia hora por dia.",
+        "Na próxima: muda de perto",
+        "→",
+        "TG 148 SUCULENTA SIMPLES",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ssi-gesto-1.jpg",
+          "alt": "Mãos desembaraçando e aparando raízes enroladas de uma suculenta"
+        },
+        {
+          "src": "ssi-gesto-2.jpg",
+          "alt": "Mãos plantando suculentas num morrinho de terra num vaso largo"
+        },
+        {
+          "src": "ssi-gesto-3.jpg",
+          "alt": "Mãos enfiando na terra uma folha quebrada de gasteria"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "b6-05",
+        "b6-27",
+        "b5-23",
+        "b3-07",
+        "b3-08"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · MUDA E VASO",
+        "Muda de perto",
+        "O galho caído da jade cria raiz.",
+        "Planta-fantasma é das mais fáceis de muda.",
+        "Eônio de caule pelado? Replante a roseta.",
+        "Quadro vivo murcha um pouco antes da raiz.",
+        "Com raiz, regue só para umedecer.",
+        "Na próxima: roseta fechada",
+        "→",
+        "TG 148 SUCULENTA SIMPLES",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "b2-69"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Roseta fechada?",
+        "1",
+        "O QUE PARECE",
+        "Roseta fechada ou murcha.",
+        "O QUE PODE SER",
+        "Calor, seca, frio ou dormência.",
+        "COMO RESOLVER",
+        "Se for dormência, deixe quieta.",
+        "Na próxima: espécies fáceis",
+        "→",
+        "TG 148 SUCULENTA SIMPLES",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ssi-sintoma-1.jpg",
+          "alt": "Eônio com as rosetas fechadas e murchas num vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Espécies fáceis",
+        "01",
+        "Espécies fáceis",
+        "02",
+        "Para começar",
+        "03",
+        "Atenção",
+        "Na próxima: espécies fáceis",
+        "→",
+        "TG 148 SUCULENTA SIMPLES",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-G-1.jpg",
+          "alt": "André olhando vasos de suculentas numa prateleira"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "b6-04",
+        "b5-31",
+        "b6-24",
+        "b7-28",
+        "b5-03",
+        "b7-08"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ESPÉCIES",
+        "Espécies fáceis",
+        "JADE",
+        "Flor de estrelinhas",
+        "COTILÉDONE",
+        "Flor de sininhos laranja",
+        "PARA COMEÇAR",
+        "Orelha-de-gato",
+        " aguenta mão e esquecimento",
+        "Haworthia-zebra",
+        " boa para criança",
+        "Boca-de-tigre",
+        " vai bem na janela",
+        "Sedum",
+        " aguenta mais frio",
+        "Bom saber",
+        "Babosa",
+        " floresce todo ano",
+        "Pedra-viva",
+        " come as folhas velhas",
+        "Na próxima: para começar",
+        "→",
+        "TG 148 SUCULENTA SIMPLES",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "b1-16",
+        "b6-21",
+        "b1-03",
+        "b1-04"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Cristada queima no sol e sofre com água.",
+        "Uma chuva já matou uma obesa.",
+        "Sol de verão queima a maioria.",
+        "FAÇA ASSIM",
+        "No calor forte, dê sombra.",
+        "Na chuva, leve o vaso para dentro.",
+        "Na próxima: quatro fáceis",
+        "→",
+        "TG 148 SUCULENTA SIMPLES",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "b6-06",
+        "b6-05",
+        "b6-27",
+        "b6-25",
+        "b5-31"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · QUATRO FÁCEIS",
+        "Quatro fáceis",
+        "1",
+        "Jade",
+        "Vira bonsai e faz muda sozinha.",
+        "2",
+        "Planta-fantasma",
+        "Das mais fáceis de fazer muda.",
+        "3",
+        "Gasteria",
+        "Flor que parece um estômago.",
+        "4",
+        "Haworthia-zebra",
+        "Aguenta mão e esquecimento.",
+        "CHAVE",
+        "Suculenta",
+        "O que ela dá",
+        "Na próxima: suculenta de perto",
+        "→",
+        "TG 148 SUCULENTA SIMPLES",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "ssi-var-jade.jpg",
+          "alt": "Jade com tronquinho grosso podada como arvorezinha"
+        },
+        {
+          "src": "ssi-var-planta-fantasma.jpg",
+          "alt": "Planta-fantasma com rosetas acinzentadas"
+        },
+        {
+          "src": "ssi-var-gasteria.jpg",
+          "alt": "Gasteria com folhas grossas e haste de flores cor-de-rosa"
+        },
+        {
+          "src": "ssi-var-haworthia-zebra.jpg",
+          "alt": "Haworthia-zebra com listras brancas num vaso pequeno"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "b1-13",
+        "b2-16",
+        "b2-05",
+        "b7-07"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Suculenta de perto",
+        "COR",
+        "Com muito sol, algumas ficam vermelhas.",
+        "SOMBRA",
+        "A parte de baixo continua verde.",
+        "TAMANHO",
+        "No vaso ela fica pequena.",
+        "PEDRA-VIVA",
+        "Parece pedrinha para se esconder.",
+        "DICA DO ANDRÉ",
+        "No chão ela cresce até o tamanho real.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 148 SUCULENTA SIMPLES",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "b2-02",
+        "b6-22"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "32",
+        "°C",
+        "e mais pedem sombra para a suculenta pequena.",
+        "Ela não é bicho de deserto.",
+        "E MAIS UMA",
+        "Em 1925, uma obesa custava uma fortuna.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 148 SUCULENTA SIMPLES",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "b2-02",
+        "b6-21",
+        "b2-10",
+        "b2-08",
+        "b2-46",
+        "b1-04",
+        "b2-52",
+        "b2-69"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Sombra acima de 32 graus",
+        "Menos água para a mais gorda",
+        "Etiqueta do vaso guardada",
+        "Muda no sol aos poucos",
+        "Raiz enrolada desembaraçada",
+        "Vaso tirado da chuva",
+        "Lesma catada à mão",
+        "Roseta dormindo deixada quieta",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 148 SUCULENTA SIMPLES",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Suculenta pede terra que drena, pouca água e pouca chuva. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "148",
+        "VOCÊ TEM",
+        "149",
+        "150",
+        "151",
+        "152",
+        "153",
+        "São 148 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 149 ORQUÍDEA POR DENTRO",
+        "Comente DENTRO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 148 SUCULENTA SIMPLES",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

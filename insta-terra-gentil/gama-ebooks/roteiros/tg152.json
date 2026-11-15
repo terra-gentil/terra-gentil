@@ -1,0 +1,557 @@
+{
+  "livro": "TG 152",
+  "titulo": "Aráceas Raras",
+  "serie": "#2F6B4A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "152",
+        "COLEÇÃO TERRA GENTIL",
+        "ARUM",
+        "Aráceas Raras",
+        "A família estranha do antúrio.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "anturio-A-1.jpg",
+          "alt": "André diante de um antúrio florido"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "w18-137",
+        "w18-029",
+        "w18-127"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "O antúrio é de uma família enorme.",
+        "Um fóssil dela tem 45 milhões de anos.",
+        "Aqui tem flor, folha, raiz e raridade.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache a dobradiça da folha do antúrio.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 152 ARÁCEAS RARAS",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "anturio-B-1.jpg",
+          "alt": "André olhando a folha de um antúrio com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "w18-243",
+        "w18-052"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Dê sol filtrado à alface-d'água.",
+        "Ou meia-sombra, sem luz demais.",
+        "SEM EXAGERO",
+        "Um pé vira um tapete em pouco tempo.",
+        "Ela brota na ponta dos estolões.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 152 ARÁCEAS RARAS",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da arácea",
+        "06",
+        "CAPÍTULO 1",
+        "Arácea básica",
+        "08",
+        "CAPÍTULO 2",
+        "Folha e raiz",
+        "12",
+        "CAPÍTULO 3",
+        "Família grande",
+        "15",
+        "CAPÍTULO 4",
+        "Flor de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Alface-d'água amarela? Vá para a página 11.",
+        "Na próxima: a ficha da arácea",
+        "→",
+        "TG 152 ARÁCEAS RARAS",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "w18-019",
+        "w18-127",
+        "w18-117",
+        "w18-006",
+        "w18-243"
+      ],
+      "textos": [
+        "FICHA DA ARÁCEA",
+        "Antes de agir",
+        "O que olhar",
+        "FOLHA",
+        "Nasce da base da outra",
+        "CABO",
+        "Tem dobradiça",
+        "RAIZ",
+        "Gruda com cola seca",
+        "FLOR",
+        "Cerosa no antúrio",
+        "LUZ",
+        "Filtrada na alface",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Luz demais amarela a alface",
+        "Na próxima: arácea básica",
+        "→",
+        "TG 152 ARÁCEAS RARAS",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Arácea básica",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Flor de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 152 ARÁCEAS RARAS",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "costela-de-adao-A-1.jpg",
+          "alt": "André ao lado de uma costela-de-adão grande"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "w18-159",
+        "w18-106",
+        "w18-243",
+        "w18-125",
+        "w18-137",
+        "w18-127"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Flor-cadáver",
+        "Muitas flores",
+        "Maior flor",
+        "Taioba",
+        "Lugar molhado",
+        "Sombra funda",
+        "Alface-d'água",
+        "Sol filtrado",
+        "Luz demais",
+        "Jiboia-prateada",
+        "Outro gênero",
+        "É jiboia",
+        "Metade das aráceas daqui é antúrio.",
+        "DICA DO ANDRÉ",
+        "A dobradiça vira a folha para a luz.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 152 ARÁCEAS RARAS",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Folha e raiz",
+        "01",
+        "Passo a passo",
+        "02",
+        "Raiz de perto",
+        "03",
+        "Alface-d'água amarela",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 152 ARÁCEAS RARAS",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jiboia-A-1.jpg",
+          "alt": "André olhando as raízes aéreas de uma trepadeira"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "w18-127",
+        "w18-019",
+        "w18-063"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Arácea? Olhe assim.",
+        "CABO",
+        "Tem dobradiça",
+        "CAPINHA",
+        "Guarda a folha nova",
+        "LUZ",
+        "Mostra o cabo",
+        "1",
+        "ACHE",
+        "A dobradiça entre o cabo e a folha.",
+        "2",
+        "VEJA",
+        "A capinha da folha nova na base.",
+        "3",
+        "ERGA",
+        "A folha da alocasia contra a luz.",
+        "DICA DO ANDRÉ",
+        "No filodendro-rosado, a capinha é rosa.",
+        "Na próxima: raiz de perto",
+        "→",
+        "TG 152 ARÁCEAS RARAS",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "arr-gesto-1.jpg",
+          "alt": "Mãos apontando a dobradiça onde o cabo encontra a folha de um antúrio"
+        },
+        {
+          "src": "arr-gesto-2.jpg",
+          "alt": "Mãos mostrando a capinha rosa na base da folha nova de um filodendro"
+        },
+        {
+          "src": "arr-gesto-3.jpg",
+          "alt": "Mãos erguendo uma folha de alocasia contra a luz, com o cabo preso no meio"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "w18-117",
+        "w18-118",
+        "w18-082",
+        "w18-150",
+        "w18-185"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · FOLHA E RAIZ",
+        "Raiz de perto",
+        "A raiz do singônio gruda com cola seca.",
+        "Tem antúrio com raiz igual à de orquídea.",
+        "Um filodendro baiano bebe de bromélia.",
+        "Outro guarda água no cabo da folha.",
+        "Tem antúrio com raiz que vira prego.",
+        "Na próxima: alface-d'água amarela",
+        "→",
+        "TG 152 ARÁCEAS RARAS",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "w18-243"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Alface-d'água amarela?",
+        "1",
+        "O QUE PARECE",
+        "Alface-d'água amarelada.",
+        "O QUE PODE SER",
+        "Luz demais.",
+        "COMO RESOLVER",
+        "Sol filtrado ou meia-sombra.",
+        "Na próxima: família grande",
+        "→",
+        "TG 152 ARÁCEAS RARAS",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "arr-sintoma-1.jpg",
+          "alt": "Alface-d'água amarelada boiando num lago sob sol forte"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Família grande",
+        "01",
+        "Família grande",
+        "02",
+        "Primas e raras",
+        "03",
+        "Atenção",
+        "Na próxima: família grande",
+        "→",
+        "TG 152 ARÁCEAS RARAS",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "comigo-ninguem-pode-A-1.jpg",
+          "alt": "André olhando folhas pintadas numa coleção de vasos"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "w18-053",
+        "w18-049",
+        "w18-088",
+        "w18-060",
+        "w18-158",
+        "w18-078",
+        "w18-081",
+        "w18-167"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · FAMÍLIA",
+        "Família grande",
+        "ANÚBIA",
+        "Arácea de aquário",
+        "ALFACE-D'ÁGUA",
+        "Arácea que boia",
+        "RARAS",
+        "Antúrio lilás",
+        " perfume de menta",
+        "Aglaonema verde",
+        " a variegada é rara",
+        "Flor-cadáver",
+        " flor oficial do Bronx",
+        "Lírio-vodu",
+        " flore sem terra",
+        "Bom saber",
+        "Zamioculca",
+        " sobrevivente antiga",
+        "Taro",
+        " folha franzida e sã",
+        "Na próxima: primas e raras",
+        "→",
+        "TG 152 ARÁCEAS RARAS",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "w18-243",
+        "w18-052",
+        "w18-167",
+        "w18-112"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Luz demais amarela a alface-d'água.",
+        "Ela vira tapete bem depressa.",
+        "Taro franzido não está doente.",
+        "FAÇA ASSIM",
+        "Dê sol filtrado ou meia-sombra.",
+        "Comece pela alocasia-amazônica.",
+        "Na próxima: flor de perto",
+        "→",
+        "TG 152 ARÁCEAS RARAS",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "w18-142",
+        "w18-197",
+        "w18-111",
+        "w18-119"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · QUATRO RARAS",
+        "Quatro raras",
+        "1",
+        "Antúrio ninho",
+        "Faz vaso com as folhas.",
+        "2",
+        "Queen of Siam",
+        "Prateada e aguenta frio.",
+        "3",
+        "Black Velvet",
+        "Alocasia de nome de fantasia.",
+        "4",
+        "Costela-de-adão",
+        "A muda procura o escuro.",
+        "CHAVE",
+        "Arácea",
+        "O que ela tem",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 152 ARÁCEAS RARAS",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "arr-var-ninho.jpg",
+          "alt": "Antúrio ninho de passarinho com folhas em roseta formando um vaso"
+        },
+        {
+          "src": "arr-var-queen.jpg",
+          "alt": "Aglaonema Queen of Siam com o centro da folha prateado"
+        },
+        {
+          "src": "arr-var-black-velvet.jpg",
+          "alt": "Alocasia Black Velvet com folhas escuras e aveludadas"
+        },
+        {
+          "src": "arr-var-costela.jpg",
+          "alt": "Costela-de-adão subindo por um tronco"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "w18-035",
+        "w18-039",
+        "w18-036",
+        "w18-031",
+        "w18-006"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Flor de perto",
+        "BESOURO",
+        "Quase 200 numa flor de guaimbê.",
+        "NÉCTAR",
+        "O rabinho do antúrio pinga doce.",
+        "PRISÃO",
+        "Algumas prendem o inseto uma noite.",
+        "CHEIRO",
+        "A Alocasia odora cheira a violeta.",
+        "DICA DO ANDRÉ",
+        "Antúrio parece plástico, mas é flor.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 152 ARÁCEAS RARAS",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "w18-066",
+        "w18-134"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "1,5",
+        "M",
+        "é a folha de um antúrio da Costa Rica.",
+        "Ele vive pendurado nas árvores.",
+        "E MAIS UMA",
+        "Uma trepadeira anda até 22 m atrás de árvore.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 152 ARÁCEAS RARAS",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "w18-243",
+        "w18-052",
+        "w18-127",
+        "w18-019",
+        "w18-063",
+        "w18-117",
+        "w18-106",
+        "w18-112"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Alface-d'água no sol filtrado",
+        "Olho nos brotos dos estolões",
+        "Dobradiça da folha achada",
+        "Capinha da folha nova vista",
+        "Alocasia contra a luz",
+        "Raiz do singônio de perto",
+        "Taioba com luz e chão molhado",
+        "Alocasia-amazônica para começar",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 152 ARÁCEAS RARAS",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Arácea é flor estranha, folha esperta e raiz forte. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "152",
+        "VOCÊ TEM",
+        "153",
+        "154",
+        "155",
+        "156",
+        "157",
+        "São 152 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 153 JARDIM RESISTENTE",
+        "Comente RESISTENTE no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 152 ARÁCEAS RARAS",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-da-paz-A-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

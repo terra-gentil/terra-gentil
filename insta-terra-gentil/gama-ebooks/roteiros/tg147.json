@@ -1,0 +1,560 @@
+{
+  "livro": "TG 147",
+  "titulo": "Horta Quadradinha",
+  "serie": "#4A5A22",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "147",
+        "COLEÇÃO TERRA GENTIL",
+        "QUADRADO",
+        "Horta Quadradinha",
+        "Muita comida em pouco chão.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-A-1.jpg",
+          "alt": "André diante de um canteiro pequeno cheio de verduras"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "h35-116",
+        "h35-043",
+        "h35-041"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Horta cabe até em vaso pequeno.",
+        "Plantando para cima, ela rende mais.",
+        "Aqui tem vaso, subida, colheita e espécies.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Ache um canto para a primeira treliça.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 147 HORTA QUADRADINHA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-B-1.jpg",
+          "alt": "André olhando uma horta pequena com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "h35-116",
+        "h35-043",
+        "h35-054"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Plante para cima.",
+        "Trepadeira sobe e poupa chão.",
+        "SEM EXAGERO",
+        "Plantou mais junto? Regue mais.",
+        "Verdura colhida bebê pede água.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 147 HORTA QUADRADINHA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da horta",
+        "06",
+        "CAPÍTULO 1",
+        "Canteiro e vaso",
+        "08",
+        "CAPÍTULO 2",
+        "Para cima",
+        "12",
+        "CAPÍTULO 3",
+        "Vãos e colheita",
+        "15",
+        "CAPÍTULO 4",
+        "Quatro pequenas",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Abobrinha gigante? Vá para a página 11.",
+        "Na próxima: a ficha da horta",
+        "→",
+        "TG 147 HORTA QUADRADINHA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "h35-116",
+        "h35-153",
+        "h35-086",
+        "h35-154",
+        "h35-027",
+        "h35-080"
+      ],
+      "textos": [
+        "FICHA DA HORTA",
+        "Antes de agir",
+        "O que olhar",
+        "CHÃO",
+        "Pouco, plante para cima",
+        "VASO",
+        "Jardineira com pezinhos",
+        "REGA",
+        "No pé, sem molhar folha",
+        "SUBIDA",
+        "Treliça ou vara",
+        "TERRA",
+        "Composto por cima",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Não repita a planta no lugar",
+        "Na próxima: canteiro e vaso",
+        "→",
+        "TG 147 HORTA QUADRADINHA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Canteiro e vaso",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Para cima de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 147 HORTA QUADRADINHA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-C-1.jpg",
+          "alt": "André arrumando uma jardineira de madeira com verduras"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "h35-173",
+        "h35-086",
+        "h35-145",
+        "h35-080",
+        "h35-066",
+        "h35-051"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Tomate",
+        "Haste única",
+        "Cheio de broto",
+        "Rega",
+        "No pé",
+        "Nas folhas",
+        "Abobrinha",
+        "Pequena",
+        "Gigante",
+        "Lugar",
+        "Trocar",
+        "Repetir",
+        "Alface cresce embaixo do milho.",
+        "DICA DO ANDRÉ",
+        "Plante o que você mais gosta de comer.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 147 HORTA QUADRADINHA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Para cima",
+        "01",
+        "Passo a passo",
+        "02",
+        "Para cima de perto",
+        "03",
+        "Abobrinha gigante",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 147 HORTA QUADRADINHA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-jardim-vertical-A-1.jpg",
+          "alt": "André ao lado de uma treliça com plantas subindo"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "h35-154",
+        "h35-173",
+        "h35-238",
+        "h35-226"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Horta pequena? Faça assim.",
+        "SUBIDA",
+        "Treliça ou vara",
+        "TOMATE",
+        "Haste única",
+        "VÃO",
+        "Rabanete no meio",
+        "1",
+        "AMARRE",
+        "Ramos de abóbora com barbante macio.",
+        "2",
+        "DESBROTE",
+        "Os brotos do caule principal do tomate.",
+        "3",
+        "SEMEIE",
+        "Rabanete nos vãos de outras plantas.",
+        "DICA DO ANDRÉ",
+        "Fruto no alto não apodrece na terra.",
+        "Na próxima: para cima de perto",
+        "→",
+        "TG 147 HORTA QUADRADINHA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "hqd-gesto-1.jpg",
+          "alt": "Mãos amarrando com barbante macio o ramo de uma abóbora numa treliça"
+        },
+        {
+          "src": "hqd-gesto-2.jpg",
+          "alt": "Mãos tirando o broto lateral do caule de um tomateiro no vaso"
+        },
+        {
+          "src": "hqd-gesto-3.jpg",
+          "alt": "Mãos semeando rabanete no vão entre outras plantas de um canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "h35-043",
+        "h35-116",
+        "h35-226",
+        "h35-215",
+        "h35-187"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · PARA CIMA",
+        "Para cima de perto",
+        "Pepino e feijão sobem e poupam chão.",
+        "Para cima, o chão rende o dobro ou mais.",
+        "Abóbora na vara não encosta na terra.",
+        "Pimentão carregado pede uma vara.",
+        "No tomate, corte a ponta após 5 ou 6 cachos.",
+        "Na próxima: abobrinha gigante",
+        "→",
+        "TG 147 HORTA QUADRADINHA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "h35-145",
+        "h35-062"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Abobrinha gigante?",
+        "1",
+        "O QUE PARECE",
+        "Abobrinha enorme no pé.",
+        "O QUE PODE SER",
+        "Colheita atrasada.",
+        "COMO RESOLVER",
+        "Colha pequena, de casca fina.",
+        "Na próxima: vãos e colheita",
+        "→",
+        "TG 147 HORTA QUADRADINHA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "hqd-sintoma-1.jpg",
+          "alt": "Abobrinha enorme esquecida no pé ao lado de frutos pequenos"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Vãos e colheita",
+        "01",
+        "Colher sem parar",
+        "02",
+        "Cada um no seu vão",
+        "03",
+        "Atenção",
+        "Na próxima: vãos e colheita",
+        "→",
+        "TG 147 HORTA QUADRADINHA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-F-1.jpg",
+          "alt": "André colhendo verduras pequenas num canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "h35-237",
+        "h35-176",
+        "h35-082",
+        "h35-066",
+        "h35-248",
+        "h35-245",
+        "h35-157",
+        "h35-068"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · COLHEITA",
+        "Colher sem parar",
+        "RABANETE",
+        "Pronto em 2 a 8 semanas",
+        "BETERRABA",
+        "Pronta em até 8 semanas",
+        "NO VÃO",
+        "Rúcula",
+        " no vão do brócolis",
+        "Alface",
+        " embaixo do milho",
+        "Couve-rábano",
+        " bola de tênis",
+        "Nabo",
+        " bola de golfe",
+        "Bom saber",
+        "Folha nova",
+        " sabor mais forte",
+        "Colher",
+        " faz a planta repor",
+        "Na próxima: cada um no seu vão",
+        "→",
+        "TG 147 HORTA QUADRADINHA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "h35-080",
+        "h35-231",
+        "h35-311"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Repetir a planta no lugar gasta a terra.",
+        "Ervilha não gosta de mexer na raiz.",
+        "Besourinho que pula fura a folha.",
+        "FAÇA ASSIM",
+        "Semeie ervilha em rolinho de papelão.",
+        "Cubra a muda com tecido fino.",
+        "Na próxima: quatro pequenas",
+        "→",
+        "TG 147 HORTA QUADRADINHA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "h35-238",
+        "h35-230",
+        "h35-248",
+        "h35-169"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · POUCO CHÃO",
+        "Quatro pequenas",
+        "1",
+        "Rabanete",
+        "Cabe nos vãos de outras plantas.",
+        "2",
+        "Pepino-melão",
+        "Melancia em miniatura, azedinha.",
+        "3",
+        "Couve-rábano",
+        "Na versão mini, bola de golfe.",
+        "4",
+        "Ervilha-torta",
+        "Cara no mercado, fácil de plantar.",
+        "CHAVE",
+        "Horta",
+        "O que ela dá",
+        "Na próxima: vaso de perto",
+        "→",
+        "TG 147 HORTA QUADRADINHA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "hqd-var-rabanete.jpg",
+          "alt": "Rabanetes vermelhos crescendo no vão entre outras verduras"
+        },
+        {
+          "src": "hqd-var-pepino-melao.jpg",
+          "alt": "Pepino-melão com frutinhos rajados do tamanho de um ovo"
+        },
+        {
+          "src": "hqd-var-couve-rabano.jpg",
+          "alt": "Couve-rábano pequena e redonda num canteiro"
+        },
+        {
+          "src": "hqd-var-ervilha-torta.jpg",
+          "alt": "Ervilha-torta com vagens achatadas num vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "h35-173",
+        "h35-100",
+        "h35-161",
+        "h35-210",
+        "h35-162"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Vaso de perto",
+        "TOMATE",
+        "Haste única é o melhor para vaso.",
+        "ADUBO",
+        "Líquido toda semana com as flores.",
+        "ERVAS",
+        "Vão bem em vaso suspenso.",
+        "CORTE",
+        "Erva cortada não floresce cedo.",
+        "DICA DO ANDRÉ",
+        "Ervas: adube só uma vez por mês.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 147 HORTA QUADRADINHA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "h35-116",
+        "h35-222"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "3",
+        "X",
+        "pode render o chão plantado para cima.",
+        "Dobro ou triplo, no mesmo espaço pequeno.",
+        "E MAIS UMA",
+        "Abobrinha pede uns 90 cm de espaço.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 147 HORTA QUADRADINHA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "h35-154",
+        "h35-173",
+        "h35-238",
+        "h35-086",
+        "h35-027",
+        "h35-062",
+        "h35-080",
+        "h35-210"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Treliça para a abóbora",
+        "Tomate de haste única",
+        "Rabanete nos vãos",
+        "Rega no pé, sem molhar folha",
+        "Composto por cima da terra",
+        "Abobrinha colhida pequena",
+        "Planta trocada de lugar",
+        "Ervas cortadas sempre",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 147 HORTA QUADRADINHA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Horta pequena pede subida, vão ocupado e colheita miúda. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "147",
+        "VOCÊ TEM",
+        "148",
+        "149",
+        "150",
+        "151",
+        "152",
+        "São 147 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 148 SUCULENTA SIMPLES",
+        "Comente SIMPLES no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 147 HORTA QUADRADINHA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "livro": "TG 145",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "vde-gesto-1",
+      "especie": "mizuna",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting mizuna leaves with scissors at about 12 to 15 cm high in a garden bed",
+      "mascote": false
+    },
+    {
+      "id": "vde-gesto-2",
+      "especie": "mizuna",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands showing the small uncut heart left in the center of a freshly cut mizuna plant; the small mascot figurine sits on the wooden edge of the bed",
+      "mascote": true
+    },
+    {
+      "id": "vde-gesto-3",
+      "especie": "mizuna",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands watering a freshly cut mizuna bed with a small watering can",
+      "mascote": false
+    },
+    {
+      "id": "vde-sintoma-1",
+      "especie": "stinging nettle",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Old overgrown stinging nettle clump with tough fibrous dark leaves in a garden corner",
+      "mascote": false
+    },
+    {
+      "id": "vde-var-beldroega",
+      "especie": "purslane",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Purslane with small fleshy leaves spreading low over dry ground",
+      "mascote": false
+    },
+    {
+      "id": "vde-var-bertalha",
+      "especie": "Malabar spinach",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Malabar spinach vine with glossy leaves climbing a trellis in hot weather",
+      "mascote": false
+    },
+    {
+      "id": "vde-var-urtiga",
+      "especie": "stinging nettle",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Young stinging nettle plants with toothed leaves in a garden bed; the small mascot figurine stands on the soil beside them",
+      "mascote": true
+    },
+    {
+      "id": "vde-var-mizuna",
+      "especie": "mizuna",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Mizuna with feathery deeply cut green leaves in a garden bed",
+      "mascote": false
+    }
+  ]
+}

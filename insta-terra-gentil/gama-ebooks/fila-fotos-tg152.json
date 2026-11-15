@@ -1,0 +1,70 @@
+{
+  "livro": "TG 152",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "arr-gesto-1",
+      "especie": "anthurium",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands pointing at the swollen hinge where the leaf stalk meets the leaf blade of an anthurium",
+      "mascote": false
+    },
+    {
+      "id": "arr-gesto-2",
+      "especie": "philodendron",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands showing the pink papery sheath at the base of a new philodendron leaf; the small mascot figurine sits on the rim of the pot",
+      "mascote": true
+    },
+    {
+      "id": "arr-gesto-3",
+      "especie": "alocasia",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands holding an alocasia leaf up against bright window light, showing the stalk attached in the middle of the leaf underside",
+      "mascote": false
+    },
+    {
+      "id": "arr-sintoma-1",
+      "especie": "water lettuce",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Yellowed water lettuce rosettes floating on a small garden pond under harsh direct sun",
+      "mascote": false
+    },
+    {
+      "id": "arr-var-ninho",
+      "especie": "bird's nest anthurium",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Bird's nest anthurium with long leaves in a rosette forming a cup that holds dry leaves",
+      "mascote": false
+    },
+    {
+      "id": "arr-var-queen",
+      "especie": "Aglaonema 'Queen of Siam'",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Aglaonema 'Queen of Siam' with silver centers on the leaves in a pot",
+      "mascote": false
+    },
+    {
+      "id": "arr-var-black-velvet",
+      "especie": "Alocasia 'Black Velvet'",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Alocasia 'Black Velvet' with dark velvety leaves and silver veins in a pot; the small mascot figurine sits on the wooden shelf beside the pot",
+      "mascote": true
+    },
+    {
+      "id": "arr-var-costela",
+      "especie": "Monstera deliciosa",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Monstera deliciosa climbing up a tree trunk in a shady garden",
+      "mascote": false
+    }
+  ]
+}

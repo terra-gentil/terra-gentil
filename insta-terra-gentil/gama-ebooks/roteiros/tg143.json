@@ -1,0 +1,559 @@
+{
+  "livro": "TG 143",
+  "titulo": "Rosa Contada",
+  "serie": "#7A3A4A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "143",
+        "COLEÇÃO TERRA GENTIL",
+        "HISTORIA",
+        "Rosa Contada",
+        "Lendas, reis e rosas raras.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-A-1.jpg",
+          "alt": "André diante de uma roseira florida no jardim"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "r20-012",
+        "r20-013",
+        "r20-001"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Rosa tem fóssil, mas nunca de flor.",
+        "Confúcio contou 600 livros de rosa.",
+        "Aqui tem lenda, rei e rosa rara.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Cheire a folha da sua roseira.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 143 ROSA CONTADA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-B-1.jpg",
+          "alt": "André cheirando uma rosa com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "r20-001",
+        "r20-096"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Cheire a folha, não só a flor.",
+        "Em algumas rosas, ela tem perfume.",
+        "BOM SABER",
+        "Rosa de floricultura cheira menos.",
+        "As rosas antigas cheiram mais.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 143 ROSA CONTADA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da rosa",
+        "06",
+        "CAPÍTULO 1",
+        "Rosa antiga",
+        "08",
+        "CAPÍTULO 2",
+        "Rosa no tempo",
+        "12",
+        "CAPÍTULO 3",
+        "Reis e lendas",
+        "15",
+        "CAPÍTULO 4",
+        "Rosas raras",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Rosa sem cheiro? Vá para a página 11.",
+        "Na próxima: a ficha da rosa",
+        "→",
+        "TG 143 ROSA CONTADA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "r20-012",
+        "r20-001",
+        "r20-091",
+        "r20-089",
+        "r20-080",
+        "r20-037"
+      ],
+      "textos": [
+        "FICHA DA ROSA",
+        "Antes de agir",
+        "O que olhar",
+        "FÓSSIL",
+        "Folha e espinho, sem flor",
+        "CHEIRO",
+        "Folha e cabinho também",
+        "LARANJA",
+        "Só depois de 1930",
+        "FLORADA",
+        "O ano todo veio da China",
+        "ABELHA",
+        "Vem pela cor e cheiro",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "O amarelo veio de rosa fedida",
+        "Na próxima: rosa antiga",
+        "→",
+        "TG 143 ROSA CONTADA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Rosa antiga",
+        "01",
+        "Mito e verdade",
+        "02",
+        "Rosa no tempo",
+        "03",
+        "Rosa antiga de perto",
+        "Na próxima: mito e verdade",
+        "→",
+        "TG 143 ROSA CONTADA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-C-1.jpg",
+          "alt": "André olhando uma roseira antiga num canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "r20-012",
+        "r20-037",
+        "r20-091",
+        "r20-070",
+        "r20-021",
+        "r20-080"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Mito e verdade",
+        "O QUE",
+        "É ASSIM",
+        "NÃO É",
+        "Fóssil",
+        "Sem flor",
+        "Com flor",
+        "Amarelo",
+        "Da Ásia",
+        "Da Europa",
+        "Laranja",
+        "Após 1930",
+        "Desde sempre",
+        "Cherokee",
+        "Da China",
+        "Dos EUA",
+        "Plutarco punha alho perto da rosa.",
+        "DICA DO ANDRÉ",
+        "Cor e perfume atraem a abelha.",
+        "Na próxima: rosa no tempo",
+        "→",
+        "TG 143 ROSA CONTADA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Rosa no tempo",
+        "01",
+        "Faça assim",
+        "02",
+        "Rosa no tempo",
+        "03",
+        "Rosa sem cheiro",
+        "Na próxima: rosa no tempo",
+        "→",
+        "TG 143 ROSA CONTADA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-D-1.jpg",
+          "alt": "André segurando um livro antigo ao lado de uma roseira"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "r20-049",
+        "r20-303",
+        "r20-081"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Rosa? Conte assim.",
+        "FOLHA",
+        "Ponta nova",
+        "FRUTO",
+        "Vira xarope",
+        "GALHO",
+        "Diferente vira muda",
+        "1",
+        "CHEIRE",
+        "A ponta nova da eglantéria é a que mais cheira.",
+        "2",
+        "COLHA",
+        "Na guerra, o fruto virou xarope.",
+        "3",
+        "OLHE",
+        "Galho diferente pode virar rosa nova.",
+        "DICA DO ANDRÉ",
+        "A Chicago Peace nasceu assim.",
+        "Na próxima: rosa no tempo",
+        "→",
+        "TG 143 ROSA CONTADA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rhi-gesto-1.jpg",
+          "alt": "Mãos esfregando a ponta nova de uma eglantéria para sentir o perfume da folha"
+        },
+        {
+          "src": "rhi-gesto-2.jpg",
+          "alt": "Mãos colhendo frutos vermelhos de roseira numa tigela"
+        },
+        {
+          "src": "rhi-gesto-3.jpg",
+          "alt": "Mãos apontando um galho de roseira com flor de cor diferente das outras"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "r20-024",
+        "r20-014",
+        "r20-026",
+        "r20-032",
+        "r20-013"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · ROSA NO TEMPO",
+        "Rosa no tempo",
+        "Sêneca adiantava a flor com água morna.",
+        "A China fechou jardins para plantar comida.",
+        "Albion era a ilha das rosas brancas.",
+        "A rosa virou flor inglesa no século 15.",
+        "Confúcio contou 600 livros de rosa.",
+        "Na próxima: rosa sem cheiro",
+        "→",
+        "TG 143 ROSA CONTADA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "r20-096"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Rosa sem cheiro?",
+        "1",
+        "O QUE PARECE",
+        "Rosa linda, mas sem perfume.",
+        "O QUE PODE SER",
+        "Rosa moderna de floricultura.",
+        "COMO RESOLVER",
+        "Procure uma rosa antiga.",
+        "Na próxima: reis e lendas",
+        "→",
+        "TG 143 ROSA CONTADA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rhi-sintoma-1.jpg",
+          "alt": "Buquê de rosas de floricultura perfeitas num vaso, bonitas mas sem perfume"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Reis e lendas",
+        "01",
+        "Reis e lendas",
+        "02",
+        "Reis e rosas",
+        "03",
+        "Atenção",
+        "Na próxima: reis e lendas",
+        "→",
+        "TG 143 ROSA CONTADA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-E-1.jpg",
+          "alt": "André olhando um canteiro de rosas antigas"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "r20-035",
+        "r20-034",
+        "r20-013",
+        "r20-029",
+        "r20-016",
+        "r20-046",
+        "r20-042",
+        "r20-021"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · LENDAS",
+        "Reis e lendas",
+        "NUR JAHAN",
+        "Achou o óleo de rosas",
+        "BABUR",
+        "Deu nome de rosa às filhas",
+        "REIS",
+        "Confúcio",
+        " 600 livros de rosa",
+        "Josefina",
+        " a Malmaison em memória",
+        "Pérsia",
+        " rouxinol grita na colheita",
+        "Khayyam",
+        " roseira da semente do túmulo",
+        "Bom saber",
+        "Holanda",
+        " 200 centifólias até 1710",
+        "Plutarco",
+        " alho perto da roseira",
+        "Na próxima: reis e rosas",
+        "→",
+        "TG 143 ROSA CONTADA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "r20-070",
+        "r20-347",
+        "r20-037",
+        "r20-001",
+        "r20-049"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "A rosa Cherokee veio da China.",
+        "A Peace nasceu de uma muda fraca.",
+        "O amarelo veio de uma rosa fedida.",
+        "FAÇA ASSIM",
+        "Cheire também a folha da rosa.",
+        "Apare a eglantéria todo ano.",
+        "Na próxima: rosas raras",
+        "→",
+        "TG 143 ROSA CONTADA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "r20-039",
+        "r20-050",
+        "r20-052",
+        "r20-045"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · RARAS",
+        "Quatro rosas raras",
+        "1",
+        "Sericea",
+        "Só 4 pétalas, do Himalaia.",
+        "2",
+        "Glauca",
+        "Folha roxa para arranjo.",
+        "3",
+        "Moyesii",
+        "Fruto de garrafinha.",
+        "4",
+        "Kazanlik",
+        "Dá óleo e potpourri.",
+        "CHAVE",
+        "Rosa",
+        "O que ela dá",
+        "Na próxima: rosa de hoje",
+        "→",
+        "TG 143 ROSA CONTADA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rhi-var-sericea.jpg",
+          "alt": "Rosa sericea com flores brancas de quatro pétalas"
+        },
+        {
+          "src": "rhi-var-glauca.jpg",
+          "alt": "Rosa glauca com folhagem arroxeada e flores rosa simples"
+        },
+        {
+          "src": "rhi-var-moyesii.jpg",
+          "alt": "Rosa moyesii com frutos vermelhos em forma de garrafinha"
+        },
+        {
+          "src": "rhi-var-kazanlik.jpg",
+          "alt": "Rosa Kazanlik com flores rosa dobradas e perfumadas"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "r20-072",
+        "r20-074",
+        "r20-095",
+        "r20-005",
+        "r20-077"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Rosa de hoje",
+        "MINI",
+        "Veio de uma rosinha suíça.",
+        "CHÁ",
+        "Rosa-chá com híbrida perpétua.",
+        "LISTRA",
+        "Muitas vezes é mutação.",
+        "TESTE",
+        "Milhares de mudas por rosa nova.",
+        "DICA DO ANDRÉ",
+        "A Índia criou uma rosa chocolate.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 143 ROSA CONTADA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "r20-298",
+        "r20-345"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "5",
+        "X",
+        "o peso em ouro já valeu o óleo de rosa.",
+        "Nur Jahan viu o óleo boiando no banho.",
+        "E MAIS UMA",
+        "Em 1994, 127 patentes de planta eram rosas.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 143 ROSA CONTADA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "r20-001",
+        "r20-049",
+        "r20-096",
+        "r20-080",
+        "r20-081",
+        "r20-050",
+        "r20-095",
+        "r20-303"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Folha e cabinho cheirados",
+        "Eglantéria aparada todo ano",
+        "Uma rosa antiga procurada",
+        "Abelhas observadas na rosa",
+        "Galho diferente anotado",
+        "Rosa glauca para arranjo",
+        "Rosa listrada observada",
+        "Fruto da roseira reparado",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 143 ROSA CONTADA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Cada rosa carrega uma história. Tente cheirar uma e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "143",
+        "VOCÊ TEM",
+        "144",
+        "145",
+        "146",
+        "147",
+        "148",
+        "São 143 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 144 ROSEIRA BEM TRATADA",
+        "Comente TRATO no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 143 ROSA CONTADA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

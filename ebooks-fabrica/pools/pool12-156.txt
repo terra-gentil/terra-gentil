@@ -1,0 +1,52 @@
+# TG 156 Vaso com Flor: 51 fatos (so estes)
+q3-111 [violeta|Você sabia?] Hoje existe violeta florindo em qualquer época do ano, da microminiatura (menos de 7,5 cm de largura) à grande (mais de 38 cm)
+q3-225 [begônia|Você sabia?] A begônia-cílio tem folhinha verde pintada de marrom-chocolate e flor rosa-clara ou branca
+q3-295 [gerânio|Você sabia?] Gerânio de vaso não é o gerânio de canteiro inglês: o nome certo é pelargônio, parecem só na folha
+q3-298 [gerânio|Você sabia?] Tem gerânio de folha perfumada: de rosa, de limão, de maçã, de hortelã e de amêndoa
+q3-299 [gerânio|Você sabia?] O gerânio-limão solta cheiro de limão e melissa quando você amassa a folha
+q3-300 [gerânio|Você sabia?] O gerânio-hortelã tem folha macia e peluda com cheiro forte de hortelã-pimenta
+q3-355 [rabo-de-gato|Você sabia?] O rabo-de-gato (acalifa) solta flores vermelhas em pendões compridos e caídos
+q3-356 [rabo-de-gato|5 cuidados] Rabo-de-gato em vaso: adubo a cada 2 semanas na época de crescer e flor, e vaso novo a cada 2 ou 3 anos
+q3-357 [rabo-de-gato|Passo a passo] Muda de rabo-de-gato: estaca de ponta de 10 a 13 cm em turfa com areia grossa
+q3-359 [planta-batom|5 cuidados] Planta-batom pede pouco: adubo a cada 4 semanas e vaso novo a cada 3 anos
+q3-372 [coroa-de-cristo|Você sabia?] Na coroa-de-cristo, o "vermelho" da flor são duas folhinhas modificadas em forma de rim
+q3-384 [camarão|Você sabia?] O camarão-vermelho tem nome popular de "junta-de-cobra-pintada"
+q3-385 [camarão-amarelo|Você sabia?] O camarão-amarelo é chamado de "planta-pirulito" em inglês, pela espiga amarela
+q3-386 [camarão-amarelo|5 cuidados] Camarão-amarelo: adubo a cada 2 semanas na época de flor; vaso novo todo ano enquanto jovem
+q3-391 [jasmim-de-madagascar|5 cuidados] Jasmim-de-madagascar novo cresce num aro; depois precisa de suporte mais firme
+q3-393 [estreptocarpo|Você sabia?] O estreptocarpo tem folha comprida em colher, enrugada, e flor parecida com a da dedaleira
+q3-394 [estreptocarpo|Passo a passo] Estreptocarpo sai de muda de folha ou da divisão da touceira
+q3-395 [estreptocarpo|5 cuidados] Estreptocarpo: luz forte sem sol direto e vaso escoando bem
+q3-417 [manacá|Você sabia?] O manacá-de-cheiro é chamado em inglês de "ontem, hoje e amanhã": a flor roxa de garganta branca é perfumada
+q3-425 [azaleia|Você sabia?] A azaleia de vaso é forçada no viveiro para florir fora de época
+q3-435 [crisântemo|Você sabia?] Viveiro usa produto químico para o crisântemo de vaso ficar baixinho
+q3-440 [ciclame|Você sabia?] Ciclame de semente leva de 12 a 15 meses para virar planta grande
+q3-452 [kalanchoe|Você sabia?] O kalanchoe floresce o ano todo no viveiro porque controlam horas de luz e de escuro; cada flor dura 6 semanas ou mais
+q3-457 [prímula|Passo a passo] Semente de prímula vai quase descoberta: só uma camadinha de terra por cima
+q3-458 [violeta|Você sabia?] Hoje dá para ter violeta-africana florida em qualquer época, em flor simples, dobrada, franjada ou estrela
+q3-462 [violeta|Você sabia?] A violeta-africana fica com altura de uns dois terços da largura
+q3-466 [gloxínia|Você sabia?] A sinningia-cardinal tem flor vermelha em capuz e folha aveludada
+q3-474 [tumbérgia|Passo a passo] Tumbérgia-alata sai fácil de semente em bandeja
+q3-477 [gérbera|Você sabia?] A gérbera tem a folha lanosa por baixo e o miolo da flor é um disco amarelo grande
+q3-517 [flor-de-baile|Você sabia?] O cacto-orquídea (epífilo) é cacto de floresta: o caule tomba e pede apoio quando está florido
+q3-518 [flor-de-baile|Você sabia?] O epífilo de flor amarela ou branca abre à noite, e muitas são perfumadas
+q3-519 [flor-de-baile|5 cuidados] Epífilo floresce melhor com o vaso meio apertado: troque só a cada 3 anos, logo depois da flor
+q3-520 [flor-de-baile|5 cuidados] Epífilo: do botão até a última flor, adubo líquido fraco rico em potássio a cada 2 semanas
+q3-521 [flor-de-baile|3 erros] Epífilo não é cacto de deserto: nunca deixe a terra secar de vez
+q3-534 [kalanchoe|Você sabia?] O aranto (kalanchoe-daigremontiana) solta filhotinhos na borda das folhas
+q3-536 [kalanchoe|Você sabia?] O kalanchoe-tubiflora (mãe-de-milhares) tem folha em canudo com filhotes na ponta
+q3-537 [kalanchoe|Você sabia?] A orelha-de-gato (kalanchoe-tomentosa) tem folha coberta de pelinho branco, como feltro, com pontinha marrom
+q3-556 [flor-de-maio|Você sabia?] O cacto-da-páscoa é confundido com a flor-de-maio, mas fica bem maior e tem pétala pontuda
+q3-557 [flor-de-maio|5 cuidados] Cacto-da-páscoa: quando os botões aparecem, aumente a água e mantenha a terra úmida sem encharcar
+q3-562 [flor-de-maio|Você sabia?] A flor-de-maio-caranguejo tem gomos com dentes fundos na borda, que nascem verdes e depois ficam vermelhos
+q3-563 [flor-de-maio|Você sabia?] Tem flor-de-maio rosa, vermelha, roxa, carmim e até branca
+q3-604 [frésia|Passo a passo] Frésia em vaso: 5 cormos num vaso de 13 cm, só cobrindo a ponta
+q3-605 [frésia|Passo a passo] Semente de frésia: 24 horas de molho em água limpa antes de semear; brota em até 3 semanas
+q3-606 [frésia|Passo a passo] Frésia depois da flor: vá diminuindo a água até a terra e os cormos secarem de vez
+q3-607 [amarílis|3 erros] A amarílis de vaso (Hippeastrum) não é a mesma planta que a Amaryllis belladonna
+q3-612 [jacinto|Você sabia?] O jacinto tem cachos de flores perfumadas com cara de cera
+q3-613 [jacinto|5 cuidados] Jacinto em vaso não pede adubo nem troca de vaso: só terra úmida por igual
+q3-617 [narciso|Você sabia?] Para florir dentro de casa na Europa, o narciso passa semanas no escuro dentro de um saco preto
+q3-618 [tulipa|Você sabia?] A tulipa dobrada tem flor de até 10 cm, parecida com peônia
+q3-620 [lírio|Você sabia?] O lírio-de-scarborough (Cyrtanthus elatus) é ideal para janela de sol
+q3-456 [prímula|3 erros] A folha da prímula-obcônica pode dar coceira dolorida no braço e no pulso, pior se estiver molhada

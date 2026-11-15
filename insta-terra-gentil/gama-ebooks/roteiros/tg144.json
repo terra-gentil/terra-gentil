@@ -1,0 +1,553 @@
+{
+  "livro": "TG 144",
+  "titulo": "Roseira Bem Tratada",
+  "serie": "#6A2A3A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "144",
+        "COLEÇÃO TERRA GENTIL",
+        "TRATO",
+        "Roseira Bem Tratada",
+        "Adubo, calor, poda e vaso.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-A-1.jpg",
+          "alt": "André cuidando de uma roseira florida no canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "r20-252",
+        "r20-260"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Uma roseira perde 135 litros de água.",
+        "Mato solto derruba a colheita de rosas.",
+        "Aqui tem adubo, calor, poda e vaso.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Arranque na mão o mato do canteiro.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 144 ROSEIRA BEM TRATADA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-podar-A-1.jpg",
+          "alt": "André olhando uma roseira de perto com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "r20-197",
+        "r20-226"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Tire o fruto depois da flor.",
+        "Ele gasta a força das rosas novas.",
+        "SEM EXAGERO",
+        "Potássio demais tira o magnésio.",
+        "Pior ainda em terra arenosa.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 144 ROSEIRA BEM TRATADA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da roseira",
+        "06",
+        "CAPÍTULO 1",
+        "Adubo e terra",
+        "08",
+        "CAPÍTULO 2",
+        "Calor e água",
+        "12",
+        "CAPÍTULO 3",
+        "Poda e doença",
+        "15",
+        "CAPÍTULO 4",
+        "Vaso de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Roseira velha e fraca? Vá para a página 11.",
+        "Na próxima: a ficha da roseira",
+        "→",
+        "TG 144 ROSEIRA BEM TRATADA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "r20-245",
+        "r20-233",
+        "r20-238",
+        "r20-189",
+        "r20-260"
+      ],
+      "textos": [
+        "FICHA DA ROSEIRA",
+        "Antes de agir",
+        "O que olhar",
+        "ESTERCO",
+        "Sempre curtido",
+        "POTÁSSIO",
+        "Galho firme",
+        "FOLIAR",
+        "Só um reforço",
+        "REGA",
+        "A cada 2 ou 3 dias no calor",
+        "MATO",
+        "Capina na mão",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Esterco de galinha é o mais forte",
+        "Na próxima: adubo e terra",
+        "→",
+        "TG 144 ROSEIRA BEM TRATADA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Adubo e terra",
+        "01",
+        "Certo e errado",
+        "02",
+        "Adubo, passo a passo",
+        "03",
+        "Calor de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 144 ROSEIRA BEM TRATADA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-adubar-B-1.jpg",
+          "alt": "André espalhando esterco curtido em volta de uma roseira"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "r20-238",
+        "r20-245",
+        "r20-258",
+        "r20-259",
+        "r20-260",
+        "r20-246",
+        "r20-247"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Foliar",
+        "Reforço",
+        "No lugar do adubo",
+        "Galinha",
+        "Curtido",
+        "Fresco",
+        "Cobertura",
+        "Palha de arroz",
+        "Grama cortada",
+        "Mato",
+        "Capina na mão",
+        "Herbicida",
+        "Esterco de ovelha traz semente de mato.",
+        "DICA DO ANDRÉ",
+        "Farinha de osso dura anos na terra.",
+        "Na próxima: adubo, passo a passo",
+        "→",
+        "TG 144 ROSEIRA BEM TRATADA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Calor e água",
+        "01",
+        "Adubo, passo a passo",
+        "02",
+        "Calor de perto",
+        "03",
+        "Roseira velha",
+        "Na próxima: adubo, passo a passo",
+        "→",
+        "TG 144 ROSEIRA BEM TRATADA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-regar-B-1.jpg",
+          "alt": "André regando o canteiro de roseiras de manhã cedo"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "r20-236",
+        "r20-248",
+        "r20-309"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Roseira? Faça assim.",
+        "FOLIAR",
+        "Cedo de manhã",
+        "LÍQUIDO",
+        "Bem diluído",
+        "BICO",
+        "De baixo para cima",
+        "1",
+        "BORRIFE",
+        "Cedo, mirando as folhas novas.",
+        "2",
+        "DILUA",
+        "Esterco curtido na água, em terra molhada.",
+        "3",
+        "PULVERIZE",
+        "O avesso da folha, sem vento.",
+        "DICA DO ANDRÉ",
+        "No calor seco, o produto queima.",
+        "Na próxima: calor de perto",
+        "→",
+        "TG 144 ROSEIRA BEM TRATADA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rbt-gesto-1.jpg",
+          "alt": "Mãos borrifando adubo foliar nas folhas novas de uma roseira de manhã cedo"
+        },
+        {
+          "src": "rbt-gesto-2.jpg",
+          "alt": "Mãos despejando adubo líquido de esterco diluído na terra molhada ao pé de uma roseira"
+        },
+        {
+          "src": "rbt-gesto-3.jpg",
+          "alt": "Mãos pulverizando o avesso das folhas de uma roseira com o bico virado para cima"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "r20-152",
+        "r20-150",
+        "r20-189",
+        "r20-192",
+        "r20-145"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · CALOR E ÁGUA",
+        "Calor de perto",
+        "No calor, a roseira dá mais flor.",
+        "Mas a rosa sai pior e de cabo curto.",
+        "Proteja do sol da tarde e do vento.",
+        "No vaso, regue todo dia no calor.",
+        "Pouca chuva? Prefira as anãs.",
+        "Na próxima: roseira velha",
+        "→",
+        "TG 144 ROSEIRA BEM TRATADA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "r20-199"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Roseira velha e fraca?",
+        "1",
+        "O QUE PARECE",
+        "Roseira velha e abandonada.",
+        "O QUE PODE SER",
+        "Raiz cansada e terra pobre.",
+        "COMO RESOLVER",
+        "Valeta de 30 cm com esterco.",
+        "Na próxima: poda e doença",
+        "→",
+        "TG 144 ROSEIRA BEM TRATADA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rbt-sintoma-1.jpg",
+          "alt": "Roseira velha e abandonada com poucos galhos e poucas folhas num canteiro seco"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Poda e doença",
+        "01",
+        "Poda e doença",
+        "02",
+        "Poda por tipo",
+        "03",
+        "Atenção",
+        "Na próxima: poda e doença",
+        "→",
+        "TG 144 ROSEIRA BEM TRATADA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-podar-B-1.jpg",
+          "alt": "André podando uma roseira com tesoura"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "r20-182",
+        "r20-212",
+        "r20-214",
+        "r20-216",
+        "r20-197",
+        "r20-333",
+        "r20-327"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · PODA",
+        "Poda e doença",
+        "FLORIBUNDA",
+        "Tire o botão do meio",
+        "POLIANTA",
+        "Mesma altura, tire o velho",
+        "PODA",
+        "Rústica",
+        " de cacho aguenta poda forte",
+        "Flor grande",
+        " trepadeira, só poda leve",
+        "Antiga",
+        " deixe o máximo de galhos",
+        "Fruto",
+        " tire depois da flor",
+        "Bom saber",
+        "Oídio",
+        " a minirrosa resiste bem",
+        "Mancha-preta",
+        " pior no litoral úmido",
+        "Na próxima: poda por tipo",
+        "→",
+        "TG 144 ROSEIRA BEM TRATADA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "r20-226",
+        "r20-336",
+        "r20-235",
+        "r20-309",
+        "r20-189"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Potássio demais tira o magnésio.",
+        "Roseira velha sofre mais nos ponteiros.",
+        "Nitrogênio pode desbotar a flor.",
+        "FAÇA ASSIM",
+        "Pulverize cedo e sem vento.",
+        "Regue a cada 2 ou 3 dias.",
+        "Na próxima: vaso de perto",
+        "→",
+        "TG 144 ROSEIRA BEM TRATADA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "r20-267",
+        "r20-333"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · VASO",
+        "Quatro roseiras",
+        "1",
+        "Iceberg",
+        "Indicada para vaso.",
+        "2",
+        "Double Delight",
+        "Também vai em vaso.",
+        "3",
+        "Fragrant Cloud",
+        "Outra boa de vaso.",
+        "4",
+        "Minirrosa",
+        "Resiste bem ao oídio.",
+        "CHAVE",
+        "Roseira",
+        "O que ela dá",
+        "Na próxima: vaso de perto",
+        "→",
+        "TG 144 ROSEIRA BEM TRATADA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "rbt-var-iceberg.jpg",
+          "alt": "Roseira Iceberg com rosas brancas num vaso"
+        },
+        {
+          "src": "rbt-var-double-delight.jpg",
+          "alt": "Roseira Double Delight com rosas creme de borda vermelha num vaso"
+        },
+        {
+          "src": "rbt-var-fragrant-cloud.jpg",
+          "alt": "Roseira Fragrant Cloud com rosas vermelho-coral num vaso"
+        },
+        {
+          "src": "rbt-var-minirrosa.jpg",
+          "alt": "Minirrosa florida num vaso pequeno"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "r20-271",
+        "r20-195",
+        "r20-293"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Vaso de perto",
+        "MISTURA",
+        "Terra, turfa e perlita.",
+        "CHUVA",
+        "Leve o vaso para o sol.",
+        "FURO",
+        "Desentupa nas chuvas.",
+        "TOPO",
+        "Troque por esterco curtido.",
+        "DICA DO ANDRÉ",
+        "Açúcar na água abre a rosa cortada.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 144 ROSEIRA BEM TRATADA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "r20-260",
+        "r20-252"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "60",
+        "%",
+        "a menos de rosas com mato sem controle.",
+        "Capinar na mão foi melhor que herbicida.",
+        "E MAIS UMA",
+        "Uma trepadeira grande perde 450 litros de água.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 144 ROSEIRA BEM TRATADA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "r20-260",
+        "r20-197",
+        "r20-236",
+        "r20-245",
+        "r20-192",
+        "r20-189",
+        "r20-195",
+        "r20-258"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Mato capinado na mão",
+        "Fruto tirado após a flor",
+        "Foliar cedo, só de reforço",
+        "Esterco sempre curtido",
+        "Vaso regado todo dia no calor",
+        "Sol da tarde evitado",
+        "Furo do vaso desentupido",
+        "Palha de arroz por cima",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 144 ROSEIRA BEM TRATADA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Roseira pede adubo curtido, água na hora certa e poda do jeito dela. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "144",
+        "VOCÊ TEM",
+        "145",
+        "146",
+        "147",
+        "148",
+        "149",
+        "São 144 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 145 VERDURAS ESQUECIDAS",
+        "Comente ESQUECIDA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 144 ROSEIRA BEM TRATADA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "roseira-F-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

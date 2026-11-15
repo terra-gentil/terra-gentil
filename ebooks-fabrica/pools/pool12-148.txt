@@ -1,0 +1,60 @@
+# TG 148 Suculenta Simples: 59 fatos (so estes)
+b1-03 [suculenta|5 cuidados] A maioria precisa de proteção do sol que queima no verão e prefere ambiente seco a chuvoso ou úmido
+b1-04 [suculenta|5 cuidados] Vaso é a saída para quem mora em lugar chuvoso: dá para tirar a planta da chuva, do frio e do calor
+b1-06 [babosa|Você sabia?] Não se conhece babosa (Aloe vera) nascida sozinha na natureza: as que existem foram plantadas por alguém
+b1-08 [babosa|Você sabia?] Babosa é usada desde o tempo dos faraós; provavelmente é do norte da África
+b1-13 [suculenta|Você sabia?] Algumas ficam vermelhas de propósito com muito sol (ex.: crassula 'Campfire')
+b1-16 [suculenta|3 erros] Suculenta cristada (forma ondulada) queima fácil no sol e sofre com excesso de água
+b1-31 [suculenta|Você sabia?] Em barranco, suculenta rasteira que enraiza enquanto cresce segura a terra contra erosão
+b1-32 [suculenta|Você sabia?] Existe suculenta invasora: na Califórnia, o Carpobrotus edulis se espalhou pelo litoral e não deixa as plantas nativas crescerem (nome popular no Brasil a confirmar)
+b2-02 [suculenta|Mito ou verdade] Mito: toda suculenta gosta de deserto. Pequena, ela precisa de proteção do sol forte acima de 32 graus
+b2-05 [suculenta|Você sabia?] No vaso ela fica pequena, como peixe no aquário; no chão cresce até o tamanho real
+b2-08 [suculenta|5 cuidados] Muda nova: copie onde ela estava na loja (sol, meia-sombra ou estufa) e mude aos poucos, meia hora a mais por dia
+b2-10 [suculenta|Dica do Andre] Guarde a etiqueta que veio no vaso: é o jeito mais fácil de saber o que a planta pede
+b2-16 [suculenta|Você sabia?] Em algumas, como a Crassula pubescens, só a parte que pega sol fica vermelha, como papel fotográfico; a de baixo continua verde
+b2-25 [suculenta|5 cuidados] Clima úmido: plantada no chão, regue menos. Umidade constante traz praga e mofo
+b2-45 [suculenta|Dica do Andre] Misturou gorda com fina no mesmo vaso? Monte um morrinho: a que pede mais água embaixo, a que pede menos no alto
+b2-46 [suculenta|3 erros] Raiz enrolada no vaso novo: desembarace e apare as compridas antes de plantar
+b2-52 [suculenta|5 cuidados] Caracol e lesma: catar à mão é a saída mais limpa; folha roída fica feia por anos
+b2-69 [suculenta|Socorro] Roseta fechada ou murcha: calor, seca, frio ou só dormência. Se for dormência, deixe quieta
+b3-01 [suculenta|Você sabia?] Pedra por cima da terra esconde a terra, impede o mato de nascer e segura a erosão
+b3-02 [suculenta|Você sabia?] Pedra grande no jardim esquenta em volta e segura a umidade da terra
+b3-04 [suculenta|Dica do Andre] Areia fina entre a terra e o pedrisco evita que a terra suba quando você rega
+b3-07 [suculenta|5 cuidados] Quadro vivo de suculenta: depois de montar, deite em sombra clara; murchar um pouco antes de enraizar é normal
+b3-08 [suculenta|5 cuidados] Quadro vivo: espere uma semana, levante uma roseta; com raiz, regue só para umedecer. No dia seguinte ela está gordinha
+b3-10 [suculenta|Você sabia?] Companheiras de suculenta precisam do mesmo: terra que drena, pouca água, pouca chuva e umidade
+b5-03 [babosa|X ou Y?] A babosa floresce todo ano; a maioria das agaves morre depois de florir
+b5-06 [babosa|Dica do Andre] Haste da flor da babosa secou? Solte e use a ponta em colher para limpar sujeira entre as folhas
+b5-09 [babosa|Você sabia?] Aloe arborescens aguenta maresia e forma touceiras de 2 metros ou mais de largura; flor laranja cor de cone de trânsito (conferir nome popular)
+b5-10 [babosa|3 erros] Na Aloe ferox, não arranque as folhas secas que caem para baixo: protegem o tronco do sol e do frio
+b5-13 [babosa|Você sabia?] A babosa-espiral do Lesoto aguenta neve: as células têm anticongelante natural
+b5-23 [suculenta|Socorro] Eônio com caule pelado e roseta no alto é normal: decapite e replante a roseta
+b5-26 [cacto|5 cuidados] Cacto-rabo-de-rato (pendente, da América Latina) vive em árvore: terra úmida e bastante água no verão
+b5-30 [outra|Você sabia?] Pata-de-elefante é das poucas árvores suculentas que vivem bem dentro de casa
+b5-31 [suculenta|Você sabia?] Suculentas para criança (aguentam mão e esquecimento): babosas anãs, colar-de-corações, orelha-de-gato (Kalanchoe tomentosa), haworthia-zebra, mãe-de-milhares, sempre-viva-teia-de-aranha
+b6-04 [suculenta|X ou Y?] Jade x cotilédone (orelha-de-porco) se confundem; a flor entrega: jade tem estrelinhas, cotilédone tem sininhos laranja
+b6-05 [suculenta|Você sabia?] A jade se poda sozinha: o galho amolece, cai e o galho caído cria raiz
+b6-06 [suculenta|Você sabia?] Jade vira bonsai e pode ser podada em arvorezinha
+b6-09 [outra|Você sabia?] Dragoeiro (Dracaena draco): a resina vermelha que escorre do tronco é o "sangue de dragão" que deu o nome
+b6-10 [outra|5 cuidados] Dracena-dragão: regue pouco e fundo, sem deixar a raiz encharcada
+b6-12 [suculenta|Socorro] Echeveria escura com mancha de água: regue com água destilada ou limpe a folha com ela
+b6-19 [suculenta|Você sabia?] Bico-de-papagaio (poinsétia) é da mesma família das eufórbias suculentas
+b6-20 [suculenta|Você sabia?] Coroa-de-cristo: o que parece flor são brácteas, e ela quase nunca para de florir
+b6-21 [suculenta|Mito ou verdade] Obesa (eufórbia-bola) ensina a regra: quanto mais gorda, menos água e mais fácil apodrecer. Uma chuva matou a da autora
+b6-22 [suculenta|Você sabia?] Em 1925 uma obesa custava 27,50 dólares, uma fortuna para planta na época
+b6-24 [suculenta|Você sabia?] Boca-de-tigre (Faucaria) parece planta carnívora, mas não morde; vai bem na janela
+b6-25 [suculenta|Você sabia?] Gasteria tem esse nome porque a flor parece um estômago cor-de-rosa
+b6-26 [suculenta|Dica do Andre] Folha de gasteria quebrou? Enfie na terra que pode virar planta nova
+b6-27 [suculenta|Você sabia?] Planta-fantasma (Graptopetalum paraguayense) não é do Paraguai, é do México; é das mais fáceis de fazer muda
+b6-35 [suculenta|Você sabia?] Flor de "ice plant" (rasteira) abre no sol e fecha com pouca luz; nenhuma aguenta pisada
+b7-01 [suculenta|Você sabia?] Kalanchoe é planta nova no comércio: só entrou nos viveiros na segunda metade do século 20
+b7-07 [suculenta|Você sabia?] Pedra-viva (Lithops) parece pedrinha para se esconder dos animais que pastam
+b7-08 [suculenta|Mito ou verdade] A pedra-viva "come" as folhas velhas: o par novo cresce se alimentando do antigo
+b7-11 [cacto|Você sabia?] Mamilaria, o maior grupo de cacto-bola, tem esse nome por causa dos biquinhos debaixo dos espinhos
+b7-12 [cacto|Você sabia?] A palma 'Burbank', quase sem espinho, foi criada para alimentar gado, e o gado não quis
+b7-13 [cacto|Você sabia?] Em toda palma (Opuntia), a base da flor incha e vira um fruto em forma de ovo
+b7-14 [cacto|5 cuidados] O Pachycereus marginatus (nome popular a conferir) cresce até cerca de 1 metro por ano alternando rega funda com terra seca
+b7-17 [suculenta|X ou Y?] Jade x portulacaria (árvore-da-fortuna): parecidas, mas a portulacaria tem folha menor e caule duro de cortar
+b7-18 [cacto|Você sabia?] Ripsalis é cacto que vive em árvore, da América do Sul, principalmente do Brasil; espinho fino como cabelo ou nenhum
+b7-28 [suculenta|Você sabia?] Sedum de folha pequena aguenta mais frio e menos sol forte; é usado em telhado verde
+b7-30 [suculenta|Você sabia?] Sempre-viva (Sempervivum) quer dizer "sempre vivo"; na Inglaterra cresce em telhado

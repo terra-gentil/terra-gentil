@@ -1,0 +1,70 @@
+{
+  "livro": "TG 149",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "odn-gesto-1",
+      "especie": "flowering orchid",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands reading the plastic name tag stuck in the pot of a flowering orchid",
+      "mascote": false
+    },
+    {
+      "id": "odn-gesto-2",
+      "especie": "orchid",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands lifting an orchid out of its pot, showing old crumbling bark substrate around the roots; the small mascot figurine sits on the wooden edge of the potting bench",
+      "mascote": true
+    },
+    {
+      "id": "odn-gesto-3",
+      "especie": "orchid",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands watering a freshly repotted orchid thoroughly over a sink",
+      "mascote": false
+    },
+    {
+      "id": "odn-sintoma-1",
+      "especie": "tree orchid",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "An orchid growing attached to a tree trunk in dry weather, with yellow fallen leaves on the ground below",
+      "mascote": false
+    },
+    {
+      "id": "odn-var-phalaenopsis",
+      "especie": "white Phalaenopsis orchid",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "White Phalaenopsis orchid flowers with the two round petals raised like elephant ears",
+      "mascote": false
+    },
+    {
+      "id": "odn-var-cattleya",
+      "especie": "Cattleya orchid",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cattleya orchid with a flower bud visible inside its green sheath against the light; the small mascot figurine sits on the rim of the clay pot",
+      "mascote": true
+    },
+    {
+      "id": "odn-var-sapatinho",
+      "especie": "slipper orchid Paphiopedilum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Slipper orchid flower with its pouch-shaped lip, close-up",
+      "mascote": false
+    },
+    {
+      "id": "odn-var-chuva-de-ouro",
+      "especie": "Oncidium golden shower orchid",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Oncidium orchid with long sprays of small yellow flowers",
+      "mascote": false
+    }
+  ]
+}

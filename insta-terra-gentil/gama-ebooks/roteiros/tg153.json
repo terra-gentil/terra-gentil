@@ -1,0 +1,557 @@
+{
+  "livro": "TG 153",
+  "titulo": "Jardim Resistente",
+  "serie": "#2E4A4A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "153",
+        "COLEÇÃO TERRA GENTIL",
+        "RESISTENTE",
+        "Jardim Resistente",
+        "Aguenta seca, poeira e bicho.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-gramado-A-1.jpg",
+          "alt": "André num jardim de plantas de seca em pleno sol"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "q34-119",
+        "q34-048",
+        "q34-096"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Tem planta que aguenta muita seca.",
+        "E folha que segura a poeira da rua.",
+        "Aqui tem seca, solo, ar e bicho.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Veja se a folha é grossa ou peluda.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 153 JARDIM RESISTENTE",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-gramado-B-1.jpg",
+          "alt": "André tocando uma folha cinza e peluda com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "q34-119",
+        "q34-028"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Escolha folha grossa ou peluda.",
+        "E raiz funda, que aguenta seca.",
+        "SEM EXAGERO",
+        "Exótica pode virar praga invasora.",
+        "Misture com planta nativa.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 153 JARDIM RESISTENTE",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do jardim",
+        "06",
+        "CAPÍTULO 1",
+        "Seca e calor",
+        "08",
+        "CAPÍTULO 2",
+        "Solo vivo",
+        "12",
+        "CAPÍTULO 3",
+        "Plantas de seca",
+        "15",
+        "CAPÍTULO 4",
+        "Ar limpo",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Terra dura e água parada? Vá para a página 11.",
+        "Na próxima: a ficha do jardim",
+        "→",
+        "TG 153 JARDIM RESISTENTE",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "q34-119",
+        "q34-081",
+        "q34-089",
+        "q34-141",
+        "q34-010"
+      ],
+      "textos": [
+        "FICHA DO JARDIM",
+        "Antes de agir",
+        "O que olhar",
+        "FOLHA",
+        "Grossa ou peluda",
+        "RAIZ",
+        "Funda",
+        "SOLO",
+        "Bem cuidado",
+        "POEIRA",
+        "Folha áspera e cheia",
+        "CHUVA",
+        "Encharca e seca",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Argila pisada molhada compacta",
+        "Na próxima: seca e calor",
+        "→",
+        "TG 153 JARDIM RESISTENTE",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Seca e calor",
+        "01",
+        "Certo e errado",
+        "02",
+        "Monte que segura água",
+        "03",
+        "Solo de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 153 JARDIM RESISTENTE",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-gramado-C-1.jpg",
+          "alt": "André olhando um canteiro de plantas de folha cinza no sol"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "q34-139",
+        "q34-028",
+        "q34-097",
+        "q34-162",
+        "q34-010",
+        "q34-096"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Barreira",
+        "Alta e funda",
+        "Baixa e rala",
+        "Planta",
+        "Nativa e exótica",
+        "Só exótica",
+        "Lesma",
+        "Faz parte",
+        "Sempre praga",
+        "Telhado raso",
+        "Só sedum",
+        "De tudo",
+        "Argila drena devagar e compacta.",
+        "DICA DO ANDRÉ",
+        "Passarinho come lesma e lagarta.",
+        "Na próxima: monte que segura água",
+        "→",
+        "TG 153 JARDIM RESISTENTE",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Solo vivo",
+        "01",
+        "Monte que segura água",
+        "02",
+        "Solo de perto",
+        "03",
+        "Terra dura",
+        "Na próxima: monte que segura água",
+        "→",
+        "TG 153 JARDIM RESISTENTE",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-gramado-F-1.jpg",
+          "alt": "André ao lado de um monte de terra coberto de plantas"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "q34-101",
+        "q34-102",
+        "q34-103"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Hugelkultur? Faça assim.",
+        "TRONCO",
+        "Caído há 2 ou 3 anos",
+        "GRAMA",
+        "De cabeça para baixo",
+        "TOPO",
+        "Terra com composto",
+        "1",
+        "ENTERRE",
+        "O tronco velho no fundo do monte.",
+        "2",
+        "VIRE",
+        "A placa de grama de cabeça para baixo.",
+        "3",
+        "COBRA",
+        "Com terra e composto por cima.",
+        "DICA DO ANDRÉ",
+        "Galho e cavaco tapam os vãos.",
+        "Na próxima: solo de perto",
+        "→",
+        "TG 153 JARDIM RESISTENTE",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jre-gesto-1.jpg",
+          "alt": "Mãos ajeitando um tronco velho e podre no fundo de uma vala de terra"
+        },
+        {
+          "src": "jre-gesto-2.jpg",
+          "alt": "Mãos colocando uma placa de grama de cabeça para baixo sobre o tronco"
+        },
+        {
+          "src": "jre-gesto-3.jpg",
+          "alt": "Mãos espalhando terra com composto por cima do monte"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "q34-014",
+        "q34-081",
+        "q34-010",
+        "q34-021",
+        "q34-101"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · SOLO VIVO",
+        "Solo de perto",
+        "Fungo, alga e bactéria dão mineral à planta.",
+        "Solo bem cuidado leva o jardim junto.",
+        "Argila é fértil: o adubo gruda nela.",
+        "Abaixo de pH 4,7, a bactéria para.",
+        "O monte de tronco segura água por anos.",
+        "Na próxima: terra dura",
+        "→",
+        "TG 153 JARDIM RESISTENTE",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "q34-010"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Terra dura?",
+        "1",
+        "O QUE PARECE",
+        "Terra dura, água parada.",
+        "O QUE PODE SER",
+        "Argila pisada molhada.",
+        "COMO RESOLVER",
+        "Não pise o canteiro molhado.",
+        "Na próxima: plantas de seca",
+        "→",
+        "TG 153 JARDIM RESISTENTE",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jre-sintoma-1.jpg",
+          "alt": "Canteiro de argila dura e rachada com pegadas e água parada"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Plantas de seca",
+        "01",
+        "Plantas de seca",
+        "02",
+        "Atenção",
+        "03",
+        "Quatro guerreiras",
+        "Na próxima: plantas de seca",
+        "→",
+        "TG 153 JARDIM RESISTENTE",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-gramado-G-1.jpg",
+          "alt": "André regando pouco um canteiro de plantas de seca"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "q34-131",
+        "q34-129",
+        "q34-126",
+        "q34-133",
+        "q34-136",
+        "q34-132",
+        "q34-164",
+        "q34-141"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · PLANTAS DE SECA",
+        "Plantas de seca",
+        "SÁLVIA-GREGA",
+        "Aguenta muita seca depois que pega",
+        "ERVA-CARIL",
+        "Folha prata com cheiro de curry",
+        "FAMOSAS",
+        "Cabelo-de-anjo",
+        " tufos que dançam no vento",
+        "Papoula",
+        " nasce até em fresta de muro",
+        "Margaridinha",
+        " tapete branco que fica rosa",
+        "Sálvia-dos-bálcãs",
+        " querida das abelhas",
+        "Bom saber",
+        "Camomila-romana",
+        " tapete no telhado verde",
+        "Jardim de chuva",
+        " encharca e depois seca",
+        "Na próxima: atenção",
+        "→",
+        "TG 153 JARDIM RESISTENTE",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "q34-028",
+        "q34-021",
+        "q34-162",
+        "q34-080"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Exótica pode virar praga invasora.",
+        "Abaixo de pH 4,7, nada se decompõe.",
+        "Telhado raso só aguenta suculenta.",
+        "FAÇA ASSIM",
+        "Misture nativa e exótica.",
+        "Deixe a joaninha achar o pulgão.",
+        "Na próxima: quatro guerreiras",
+        "→",
+        "TG 153 JARDIM RESISTENTE",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "q34-122",
+        "q34-135",
+        "q34-161",
+        "q34-130"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · GUERREIRAS",
+        "Quatro guerreiras",
+        "1",
+        "Sálvia-de-outono",
+        "Flor vermelha, roxa ou rosa.",
+        "2",
+        "Équio",
+        "Espiga azul, ímã de abelha.",
+        "3",
+        "Sedum",
+        "Folha que guarda água.",
+        "4",
+        "Nepeta",
+        "Tapete lilás na borda.",
+        "CHAVE",
+        "Planta",
+        "O que ela dá",
+        "Na próxima: ar limpo",
+        "→",
+        "TG 153 JARDIM RESISTENTE",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "jre-var-salvia.jpg",
+          "alt": "Sálvia-de-outono florida em vermelho na beira de um caminho"
+        },
+        {
+          "src": "jre-var-equio.jpg",
+          "alt": "Équio com espigas de flor azul cheias de abelhas"
+        },
+        {
+          "src": "jre-var-sedum.jpg",
+          "alt": "Sedum de folhas suculentas cobrindo um telhado verde"
+        },
+        {
+          "src": "jre-var-nepeta.jpg",
+          "alt": "Nepeta formando tapete de flor lilás na borda do caminho"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "q34-048",
+        "q34-049",
+        "q34-139",
+        "q34-140",
+        "q34-047"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · AR LIMPO",
+        "Ar limpo de perto",
+        "FOLHA",
+        "Segura a poeira e filtra o ar.",
+        "PAREDE",
+        "Hera e capim cortam a poluição.",
+        "BARREIRA",
+        "Quanto mais alta e funda, melhor.",
+        "SOMBRA",
+        "Refresca e abafa o barulho.",
+        "DICA DO ANDRÉ",
+        "Fuligem preta é sinal de ar poluído.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 153 JARDIM RESISTENTE",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "q34-034",
+        "q34-085"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "5",
+        "BI",
+        "de pessoas podem ter falta de água até 2050.",
+        "Regar com água tratada já é luxo.",
+        "E MAIS UMA",
+        "Um pavio puxa água para a terra seca, sem bomba.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 153 JARDIM RESISTENTE",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "q34-119",
+        "q34-139",
+        "q34-101",
+        "q34-103",
+        "q34-010",
+        "q34-028",
+        "q34-080",
+        "q34-086"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Folha grossa ou peluda",
+        "Barreira alta de folha cheia",
+        "Monte de tronco velho",
+        "Grama de cabeça para baixo",
+        "Canteiro molhado sem pisar",
+        "Nativa junto da exótica",
+        "Joaninha cuidando do pulgão",
+        "Água de chuva guardada",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 153 JARDIM RESISTENTE",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Jardim resistente pede folha certa, solo vivo e paciência. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "153",
+        "VOCÊ TEM",
+        "154",
+        "155",
+        "156",
+        "157",
+        "158",
+        "São 153 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 154 JARDIM DE GAMBIARRA",
+        "Comente GAMBIARRA no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 153 JARDIM RESISTENTE",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-gramado-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

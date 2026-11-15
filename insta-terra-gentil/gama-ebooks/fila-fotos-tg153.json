@@ -1,0 +1,70 @@
+{
+  "livro": "TG 153",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "jre-gesto-1",
+      "especie": "hugelkultur rotten log",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands placing an old rotten fallen log at the bottom of a shallow trench to start a hugelkultur mound",
+      "mascote": false
+    },
+    {
+      "id": "jre-gesto-2",
+      "especie": "hugelkultur turf layer",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands laying a slab of grass turf upside down over the buried log of a hugelkultur mound; the small mascot figurine sits on the edge of the trench next to the log",
+      "mascote": true
+    },
+    {
+      "id": "jre-gesto-3",
+      "especie": "hugelkultur mound",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands spreading dark soil mixed with compost over the top of a hugelkultur mound",
+      "mascote": false
+    },
+    {
+      "id": "jre-sintoma-1",
+      "especie": "compacted clay soil",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Hard compacted clay garden bed with footprints and a puddle of standing water that does not drain",
+      "mascote": false
+    },
+    {
+      "id": "jre-var-salvia",
+      "especie": "Salvia greggii",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Autumn sage Salvia greggii blooming red beside a sunny garden path",
+      "mascote": false
+    },
+    {
+      "id": "jre-var-equio",
+      "especie": "Echium",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Echium with tall spikes of electric blue flowers covered with bees in a dry sunny garden",
+      "mascote": false
+    },
+    {
+      "id": "jre-var-sedum",
+      "especie": "Sedum",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Succulent Sedum plants covering a shallow green roof in full sun; the small mascot figurine sits on the edge of the green roof among the sedum",
+      "mascote": true
+    },
+    {
+      "id": "jre-var-nepeta",
+      "especie": "Nepeta catmint",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Nepeta catmint forming a fragrant carpet of lilac flowers along the border of a garden path",
+      "mascote": false
+    }
+  ]
+}

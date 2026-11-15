@@ -1,0 +1,561 @@
+{
+  "livro": "TG 151",
+  "titulo": "Filhote e Divisão",
+  "serie": "#4A3A2A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "151",
+        "COLEÇÃO TERRA GENTIL",
+        "FILHOTE",
+        "Filhote e Divisão",
+        "Uma planta vira muitas.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "agave-A-1.jpg",
+          "alt": "André diante de uma agave cercada de filhotes"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "m33-013",
+        "m33-141",
+        "m33-047"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Uma planta pode virar muitas.",
+        "Agave e gladíolo soltam filhotes.",
+        "Aqui tem filhote, bulbo, batata e estaca.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Procure um filhote na sua suculenta.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 151 FILHOTE E DIVISÃO",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "suculenta-A-1.jpg",
+          "alt": "André olhando os filhotes de uma suculenta com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "m33-014",
+        "m33-189"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Espere a roseta do filhote completar.",
+        "Aí ele já tem raiz própria.",
+        "SEM EXAGERO",
+        "Filhote de pedra-viva não vai molhado.",
+        "Só pedrisco levemente úmido.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 151 FILHOTE E DIVISÃO",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha do filhote",
+        "06",
+        "CAPÍTULO 1",
+        "Filhote e roseta",
+        "08",
+        "CAPÍTULO 2",
+        "Estaca e rama",
+        "12",
+        "CAPÍTULO 3",
+        "Bulbo e batata",
+        "15",
+        "CAPÍTULO 4",
+        "Muda de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Estaca sem flor? Vá para a página 11.",
+        "Na próxima: a ficha do filhote",
+        "→",
+        "TG 151 FILHOTE E DIVISÃO",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "m33-014",
+        "m33-047",
+        "m33-084",
+        "m33-109",
+        "m33-189",
+        "m33-015",
+        "m33-143"
+      ],
+      "textos": [
+        "FICHA DO FILHOTE",
+        "Antes de agir",
+        "O que olhar",
+        "ROSETA",
+        "Completa, com raiz",
+        "BATATA",
+        "Um olho por pedaço",
+        "ESTACA",
+        "De 15 a 23 cm",
+        "SOLO",
+        "Pedrisco úmido",
+        "MÃO",
+        "Cuidado na agave",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Batata cortada seca uns dias",
+        "Na próxima: filhote e roseta",
+        "→",
+        "TG 151 FILHOTE E DIVISÃO",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Filhote e roseta",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Muda de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 151 FILHOTE E DIVISÃO",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "haworthia-A-1.jpg",
+          "alt": "André separando um filhote de uma haworthia num vaso"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "m33-014",
+        "m33-084",
+        "m33-109",
+        "m33-110",
+        "m33-189",
+        "m33-142",
+        "m33-202"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Filhote",
+        "Roseta completa",
+        "Cedo demais",
+        "Batata",
+        "Com olho",
+        "Sem olho",
+        "Estaca",
+        "15 a 23 cm",
+        "Curta demais",
+        "Pedra-viva",
+        "Levemente úmida",
+        "Molhada",
+        "Gladíolo pega mofo e podridão fácil.",
+        "DICA DO ANDRÉ",
+        "Bananeira: tire folha grande do filhote.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 151 FILHOTE E DIVISÃO",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Estaca e rama",
+        "01",
+        "Passo a passo",
+        "02",
+        "Estaca de perto",
+        "03",
+        "Estaca sem flor",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 151 FILHOTE E DIVISÃO",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-A-1.jpg",
+          "alt": "André plantando mudas pequenas em vasinhos"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "m33-047",
+        "m33-084",
+        "m33-014",
+        "m33-015"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Divisão? Faça assim.",
+        "BATATA",
+        "Um olho por pedaço",
+        "SECA",
+        "Alguns dias",
+        "AGAVE",
+        "Com luva",
+        "1",
+        "CORTE",
+        "A batata em quatro ou mais pedaços.",
+        "2",
+        "SEQUE",
+        "Deixe os pedaços secar uns dias.",
+        "3",
+        "SEPARE",
+        "O filhote de agave já com roseta.",
+        "DICA DO ANDRÉ",
+        "Na agave, luva e manga comprida.",
+        "Na próxima: estaca de perto",
+        "→",
+        "TG 151 FILHOTE E DIVISÃO",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "fdv-gesto-1.jpg",
+          "alt": "Mãos cortando uma batata de caládio em pedaços, cada um com um olho"
+        },
+        {
+          "src": "fdv-gesto-2.jpg",
+          "alt": "Pedaços de batata de caládio secando numa bandeja antes do plantio"
+        },
+        {
+          "src": "fdv-gesto-3.jpg",
+          "alt": "Mãos de luva separando um filhote de agave com a roseta completa"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "m33-109",
+        "m33-064",
+        "m33-215",
+        "m33-114"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · ESTACA E RAMA",
+        "Estaca de perto",
+        "Flor-de-baile pega da estaca da folha.",
+        "Colar-de-corações: enrole a rama na terra.",
+        "Deixe 1 ou 2 bolinhas encostadas.",
+        "No frio, o gerânio passa de ano por estaca.",
+        "A epíscia solta filhote na ponta da rama.",
+        "Na próxima: estaca sem flor",
+        "→",
+        "TG 151 FILHOTE E DIVISÃO",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "m33-110",
+        "m33-109"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Estaca sem flor?",
+        "1",
+        "O QUE PARECE",
+        "Flor-de-baile que demora a florir.",
+        "O QUE PODE SER",
+        "Estaca curta demais.",
+        "COMO RESOLVER",
+        "Corte a estaca com 15 a 23 cm.",
+        "Na próxima: bulbo e batata",
+        "→",
+        "TG 151 FILHOTE E DIVISÃO",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "fdv-sintoma-1.jpg",
+          "alt": "Estaca curta de flor-de-baile num vaso, só com folhas chatas e sem flor"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Bulbo e batata",
+        "01",
+        "Bulbo e batata",
+        "02",
+        "Quem solta filhote",
+        "03",
+        "Atenção",
+        "Na próxima: bulbo e batata",
+        "→",
+        "TG 151 FILHOTE E DIVISÃO",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "lirio-A-1.jpg",
+          "alt": "André segurando bulbos para replantar no canteiro"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "m33-141",
+        "m33-145",
+        "m33-013",
+        "m33-102",
+        "m33-136",
+        "m33-084",
+        "m33-069",
+        "m33-176"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · BULBO E BATATA",
+        "Bulbo e batata",
+        "GLADÍOLO",
+        "Bulbinho flore no 2º ano",
+        "GLORIOSA",
+        "Batata rente à terra",
+        "SOLTAM FILHOTE",
+        "Agave",
+        " a roseta morre, o filhote fica",
+        "Echeveria",
+        " por rosetinha ou folha",
+        "Gastéria",
+        " vira planta em um ano",
+        "Inhame",
+        " um olho bom por pedaço",
+        "Bom saber",
+        "Crisântemo",
+        " dividido, flore mais forte",
+        "Batata-doce",
+        " da rama ou da batata",
+        "Na próxima: quem solta filhote",
+        "→",
+        "TG 151 FILHOTE E DIVISÃO",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "m33-143",
+        "m33-142",
+        "m33-187",
+        "m33-189"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "A batata da gloriosa irrita a pele.",
+        "Gladíolo pega mofo e podridão fácil.",
+        "Pedra-viva apodrece fácil.",
+        "FAÇA ASSIM",
+        "Mexa na gloriosa com cuidado.",
+        "Pedrisco só levemente úmido.",
+        "Na próxima: muda de perto",
+        "→",
+        "TG 151 FILHOTE E DIVISÃO",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "m33-013",
+        "m33-105",
+        "m33-141",
+        "m33-047"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · QUATRO MÃES",
+        "Quatro mães",
+        "1",
+        "Agave",
+        "A roseta morre, o filhote fica.",
+        "2",
+        "Echeveria agavoides",
+        "Vira um montinho de rosetas.",
+        "3",
+        "Gladíolo",
+        "Solta muitos bulbinhos.",
+        "4",
+        "Caládio",
+        "Batata cortada vira muda.",
+        "CHAVE",
+        "Mãe",
+        "O que ela solta",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 151 FILHOTE E DIVISÃO",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "fdv-var-agave.jpg",
+          "alt": "Agave com vários filhotes em volta da roseta mãe"
+        },
+        {
+          "src": "fdv-var-echeveria.jpg",
+          "alt": "Echeveria agavoides formando um montinho de rosetas"
+        },
+        {
+          "src": "fdv-var-gladiolo.jpg",
+          "alt": "Bulbo de gladíolo com muitos bulbinhos grudados"
+        },
+        {
+          "src": "fdv-var-caladio.jpg",
+          "alt": "Caládio com folhas coloridas brotando de pedaços de batata"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "m33-360",
+        "m33-366",
+        "m33-368",
+        "m33-361",
+        "m33-221"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Muda de perto",
+        "COCO",
+        "Vasinho de fibra deixa a raiz passar.",
+        "CERA",
+        "A folha muda para perder menos água.",
+        "REGA",
+        "Mangueira porosa ao pé, no calor.",
+        "VASO",
+        "O plástico preto se reusa todo ano.",
+        "DICA DO ANDRÉ",
+        "Abacate vai à terra com 30 a 40 cm.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 151 FILHOTE E DIVISÃO",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "m33-117",
+        "m33-245"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "8",
+        "CM",
+        "é o bulbo do lírio-do-amazonas antes da flor.",
+        "Até lá, tire a haste de flor do filhote.",
+        "E MAIS UMA",
+        "Flor-de-maio enxertada vira arvorezinha.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 151 FILHOTE E DIVISÃO",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "m33-014",
+        "m33-084",
+        "m33-047",
+        "m33-109",
+        "m33-015",
+        "m33-189",
+        "m33-202",
+        "m33-069"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Filhote só com roseta completa",
+        "Um olho em cada pedaço de batata",
+        "Batata seca uns dias antes",
+        "Estaca de 15 a 23 cm",
+        "Luva para dividir a agave",
+        "Pedrisco úmido, nunca molhado",
+        "Filhote de bananeira sem folhão",
+        "Crisântemo dividido em terra boa",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 151 FILHOTE E DIVISÃO",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Filhote, bulbo, batata e estaca: uma planta vira muitas. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "151",
+        "VOCÊ TEM",
+        "152",
+        "153",
+        "154",
+        "155",
+        "156",
+        "São 151 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 152 ARÁCEAS RARAS",
+        "Comente ARUM no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 151 FILHOTE E DIVISÃO",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-B-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

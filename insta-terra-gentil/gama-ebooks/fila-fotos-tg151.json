@@ -1,0 +1,70 @@
+{
+  "livro": "TG 151",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "fdv-gesto-1",
+      "especie": "caladium tuber",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands cutting a caladium tuber into four pieces on a wooden board, each piece with a visible bud eye",
+      "mascote": false
+    },
+    {
+      "id": "fdv-gesto-2",
+      "especie": "caladium tuber pieces",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands laying caladium tuber pieces on a tray to dry for a few days before planting; the small mascot figurine sits on the wooden edge of the tray",
+      "mascote": true
+    },
+    {
+      "id": "fdv-gesto-3",
+      "especie": "agave pup",
+      "proporcao": "9:16",
+      "elenco": true,
+      "cena": "Close-up of a man's hands wearing gardening gloves and long sleeves, separating an agave pup with a complete rosette and its own roots from the mother plant",
+      "mascote": false
+    },
+    {
+      "id": "fdv-sintoma-1",
+      "especie": "epiphyllum cutting",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "A very short epiphyllum cutting of a flat leaf-like stem in a small pot, only green and with no flowers",
+      "mascote": false
+    },
+    {
+      "id": "fdv-var-agave",
+      "especie": "agave",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Agave mother rosette surrounded by several small pups in a garden bed; the small mascot figurine stands on the soil beside the biggest pup",
+      "mascote": true
+    },
+    {
+      "id": "fdv-var-echeveria",
+      "especie": "Echeveria agavoides",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Echeveria agavoides forming a dense clump of many small rosettes in a clay pot",
+      "mascote": false
+    },
+    {
+      "id": "fdv-var-gladiolo",
+      "especie": "gladiolus corm",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "A gladiolus corm lifted from the soil with many small cormlets attached around it",
+      "mascote": false
+    },
+    {
+      "id": "fdv-var-caladio",
+      "especie": "caladium",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Caladium with colorful red and white leaves sprouting in a pot",
+      "mascote": false
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+# TG 154 Jardim de Gambiarra: 74 fatos (so estes)
+w31-001 [muda|Passo a passo] Vaso de papelão: molhe o papelão num balde, enrole num copo, amasse a ponta para fazer o fundo e deixe secar
+w31-005 [muda|Dica do Andre] Costas doendo? Semeie em pé: faça o buraco com um cabo e role a semente por um cano até ele
+w31-006 [muda|5 cuidados] Semente grande como de abóbora e melão vai de lado, em pé na terra: a água escorre e ela não apodrece
+w31-007 [muda|Dica do Andre] Bandeja de semear de madeira de palete segura mais a umidade que a de plástico
+w31-012 [muda|Você sabia?] Algumas sementes precisam de frio antes de germinar. Dá para fazer na geladeira, num saquinho com terra, por umas semanas
+w31-016 [muda|5 cuidados] Na estufinha de garrafa ou pote, abra a tampa nos dias quentes para a muda não cozinhar
+w31-017 [muda|Dica do Andre] Galão de leite sem fundo vira campânula para proteger muda do frio. Tire a tampinha nos dias quentes
+w31-018 [muda|Passo a passo] Rolo de papel higiênico vira vasinho: corte quatro abas no pé e dobre para dentro para fazer o fundo
+w31-021 [muda|Dica do Andre] Plaquinha escrita a lápis dá para apagar e usar de novo. Caneta permanente é para o que pega chuva
+w31-022 [muda|Dica do Andre] Plaquinha de graça: tiras de galão de leite, pedrinha, rolha no palito, pregador de roupa ou talher de madeira
+w31-024 [girassol|Você sabia?] Girassol jovem segue o sol pelo céu e de noite volta a cabeça para o nascente
+w31-026 [muda|Dica do Andre] Caixa organizadora de plástico de cabeça para baixo vira mini estufa. Calce um lado com tijolo para o ar circular
+w31-032 [alecrim|Passo a passo] Muda de alecrim: ramo reto sem flor de 15 cm, corte logo abaixo de um nó, 5 cm na água, perto da janela sem sol direto
+w31-036 [morango|Passo a passo] Morango no palete em pé: tire tábua sim, tábua não, grampeie manta de jardim atrás formando bolsos, encha e plante
+w31-041 [tomate|Dica do Andre] Pedrinha branca sobre a terra do vaso de tomate, berinjela e frutífera reflete luz e ainda segura a umidade
+w31-042 [pitaia|Passo a passo] Cacto de pitaia: tire sementes da fruta, deixe secar umas horas, espalhe no vaso com terra e ponha na janela de sol
+w31-043 [pitaia|Você sabia?] Pitaia é um cacto tropical e cresce devagar. Em poucas semanas a semente já brota
+w31-044 [cenoura|Você sabia?] Cenoura vive dois anos. Deixe umas no chão: no segundo ano dá flor em guarda-chuva que chama polinizador
+w31-045 [horta|Dica do Andre] Riscador de sulcos: enfie pedaços de mangueira nos dentes do rastelo e puxe. Saem várias linhas retas de uma vez
+w31-046 [outra|Dica do Andre] Palete na parede do galpão vira suporte para enxada, rastelo e vassoura
+w31-047 [batata|Passo a passo] Torre de batata: cilindro de tela de galinheiro, 25 cm de composto, quatro batatas, mais 25 cm, e repete até o topo
+w31-048 [batata|Você sabia?] Na torre de tela, os brotos da batata saem pelos lados buscando luz. Depois da flor já dá para colher
+w31-049 [outra|Dica do Andre] Cabo de pá quebrada vira chuço para abrir cova de alho e batata
+w31-051 [outra|Passo a passo] Ferramenta sem ferrugem: balde de areia com um fio de óleo. Enfie a parte de metal e guarde ali
+w31-067 [passarinho|Dica do Andre] Espantalho antigo: batata cheia de penas pendurada sobre a horta parece um pássaro grande e dança no vento
+w31-072 [horta|Você sabia?] Rotação de culturas: praga e doença ficam no solo. Sem a planta hospedeira no ano seguinte, elas somem
+w31-073 [horta|Passo a passo] Rotação em três canteiros: batata e raízes, depois feijão e ervilha, depois couve e repolho. Gira um por ano
+w31-075 [horta|Você sabia?] Aspargo e ruibarbo ficam anos no mesmo lugar e não entram na rotação
+w31-085 [outra|Dica do Andre] Para cortar arame com a tesoura de poda use o dentinho na base da lâmina, não o fio
+w31-086 [outra|Dica do Andre] Gato usando o canteiro de banheiro: plante erva-dos-gatos num canto esquecido. Vira ímã e ele larga o resto
+w31-090 [mato|Você sabia?] Mato é só planta no lugar errado. Muito mato bom serve à fauna
+w31-093 [adubar|Passo a passo] Chorume de urtiga: pique, cubra de água num balde, segure no fundo com um tijolo e espere umas semanas
+w31-105 [solo|Você sabia?] A terra do montinho de toupeira já vem esfarelada e serve de substrato de graça
+w31-110 [compostagem|Dica do Andre] Composteira sobre tela fina de galinheiro: rato não entra por baixo e minhoca entra
+w31-113 [compostagem|Dica do Andre] Quem quer começar a jardinar deve começar pela composteira
+w31-114 [compostagem|Passo a passo] Baia de composto: três paletes tratados a calor amarrados em U, um atrás e dois dos lados
+w31-118 [compostagem|5 cuidados] Revire o composto para entrar ar: decompõe mais rápido
+w31-123 [mato|Você sabia?] Corda-de-viola volta mais forte de qualquer pedacinho de raiz que fica na terra
+w31-124 [mato|3 erros] Erro comum: jogar raiz de corda-de-viola na composteira. Ela pega e brota de novo. Afogue num balde até apodrecer
+w31-126 [mato|5 cuidados] Cobertura no chão abafa o mato, segura a umidade e evita erosão
+w31-127 [solo|Você sabia?] Cobertura orgânica como casca e cavaco se desfaz na terra e precisa de reposição. Pedra e cascalho não
+w31-128 [mato|Dica do Andre] No calor, deixe o mato capinado no chão: seca no sol e vira matéria orgânica
+w31-130 [solo|Mito ou verdade] Mito ou verdade: cavar o canteiro todo ano é obrigatório? Mito. Cavar estraga a estrutura do solo
+w31-131 [mato|Você sabia?] Cavar traz semente de mato dormente para cima e picar raiz de dente-de-leão multiplica a planta
+w31-132 [solo|Passo a passo] Canteiro sem cavar: corte o mato rente, cubra de papelão, molhe e ponha 10 cm de composto curtido por cima
+w31-133 [solo|Você sabia?] No canteiro sem cavar o mato que nasce sai fácil com a mão, porque o composto é fofo
+w31-136 [regar|Dica do Andre] Na chuva, ponha as plantas de casa mais resistentes para fora tomar um banho. E traga de volta
+w31-137 [regar|Passo a passo] Tambor de chuva: torneira a 10 cm do fundo, tambor sobre tijolos para caber o regador e tela na boca contra folhas
+w31-141 [regar|Passo a passo] Rega de férias com barbante: balde acima dos vasos, barbante molhado de um até a terra de cada vaso
+w31-142 [regar|5 cuidados] Antes de viajar: vasos na sombra, sobre toalha úmida e bem regados
+w31-143 [regar|Dica do Andre] Gotejador de garrafa: dois furos com cotonete cortado, um na tampa e um embaixo. Mexer o da tampa muda a vazão
+w31-144 [regar|5 cuidados] 5 cm de cobertura no vaso ajuda a planta a aguentar a viagem do dono
+w31-145 [regar|Dica do Andre] Galão de leite com furinhos na tampa vira regador de chuveirinho para muda delicada
+w31-148 [jardim-vivo|Passo a passo] Dente-de-leão de propósito: pique a raiz em pedaços de 2 cm e plante a 15 cm um do outro
+w31-151 [regar|Dica do Andre] Sem crivo no regador? Prenda uma colher na ponta do bico: a água bate nela e espalha
+w31-153 [regar|3 erros] Erro comum: regar no meio do dia. Muita água evapora antes de chegar à raiz
+w31-155 [podar|Dica do Andre] Corte só metade das touceiras: o canteiro fica com a mesma planta em duas alturas e floresce por mais tempo
+w31-157 [podar|5 cuidados] Na tesoura de lâminas cruzadas, a lâmina que corta fica do lado da parte que vai ficar na planta
+w31-163 [outra|Dica do Andre] Meião velho sem a ponta vira manga protetora contra urtiga e folha que irrita a pele
+w31-166 [outra|Dica do Andre] Unha limpa no jardim: arranhe um sabonete antes. O sabão embaixo da unha não deixa a terra entrar
+w31-168 [trocar-vaso|Dica do Andre] Pedaço de meia-calça no fundo do vaso segura a terra e deixa a água sair. Filtro de café também serve
+w31-169 [outra|Dica do Andre] Nó de porco (volta do fiel) prende tutor e planta e afrouxa fácil
+w31-172 [regar|3 erros] Erro comum: usar vaso pintado ou esmaltado de olla. A água não atravessa
+w31-174 [outra|Você sabia?] Cores opostas no círculo cromático lado a lado dão o maior contraste no canteiro
+w31-175 [outra|Você sabia?] Vermelho, laranja e amarelo animam o jardim. Azul claro, creme e lilás acalmam
+w31-176 [grama|Dica do Andre] Para desenhar canteiro curvo, estique a mangueira no chão. Deixe no sol antes para ficar mole
+w31-178 [jardim-vivo|Você sabia?] Cerca morta de galhos não precisa de poda e atrai muita vida para o quintal
+w31-187 [hortelã|5 cuidados] Hortelã em bolso de sapateira precisa de rega frequente: não gosta de secar
+w31-188 [alecrim|3 erros] Erro comum: alecrim e sálvia na sapateira de ervas. Crescem demais para o bolso
+w31-189 [suculenta|Dica do Andre] Bota e sapato velho viram vaso. Lembre de furar o fundo para drenar
+w31-193 [horta|Você sabia?] Horta buraco de fechadura nasceu no Lesoto, na África, para plantar comida em solo pobre e seco
+w31-194 [horta|Passo a passo] Horta fechadura: canteiro redondo com cesto de tela no centro para o composto. Terra mais alta no meio que na borda
+w31-198 [cebolinha|Dica do Andre] Cebolinha na frente do canteiro de flor: tempero e florzinha azul ao mesmo tempo
+w31-199 [horta|Você sabia?] Na horta francesa, a potager, horta e jardim bonito sempre andaram juntos

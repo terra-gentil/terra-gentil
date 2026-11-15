@@ -1,0 +1,562 @@
+{
+  "livro": "TG 150",
+  "titulo": "Semente Rara",
+  "serie": "#3A5A2A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "150",
+        "COLEÇÃO TERRA GENTIL",
+        "GERMINAR",
+        "Semente Rara",
+        "Cada semente tem seu jeito.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-B-1.jpg",
+          "alt": "André segurando sementes na palma da mão"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "m33-354",
+        "m33-034",
+        "m33-002"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Semente sabe dormir e esperar a hora boa.",
+        "Tem semente boa que nem afunda na água.",
+        "Aqui tem colheita, plantio e espera.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Procure uma vagem seca no jardim.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 150 SEMENTE RARA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-C-1.jpg",
+          "alt": "André olhando uma vagem seca com carinho"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "m33-024",
+        "m33-057",
+        "m33-051",
+        "m33-004",
+        "m33-006"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Plante a semente bem fresca.",
+        "Amarílis, mamão e camélia pedem.",
+        "SEM EXAGERO",
+        "Semente pó vai misturada com areia.",
+        "Uma pitadinha já dá centenas.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 150 SEMENTE RARA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da semente",
+        "06",
+        "CAPÍTULO 1",
+        "Colher a semente",
+        "08",
+        "CAPÍTULO 2",
+        "Semear",
+        "12",
+        "CAPÍTULO 3",
+        "Tempo de cada uma",
+        "15",
+        "CAPÍTULO 4",
+        "Semente de perto",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Semente não nasce? Vá para a página 11.",
+        "Na próxima: a ficha da semente",
+        "→",
+        "TG 150 SEMENTE RARA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "m33-024",
+        "m33-006",
+        "m33-017",
+        "m33-051",
+        "m33-034",
+        "m33-057"
+      ],
+      "textos": [
+        "FICHA DA SEMENTE",
+        "Antes de agir",
+        "O que olhar",
+        "FRESCA",
+        "Plante logo",
+        "PÓ",
+        "Misture com areia",
+        "GRANDE",
+        "Pedrisco por cima",
+        "DURA",
+        "Molho em água quente",
+        "TESTE",
+        "Cacto-estrela boia",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Mamão vai em copinho",
+        "Na próxima: colher a semente",
+        "→",
+        "TG 150 SEMENTE RARA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "Colher a semente",
+        "01",
+        "Certo e errado",
+        "02",
+        "Passo a passo",
+        "03",
+        "Colheita de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 150 SEMENTE RARA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-horta-B-1.jpg",
+          "alt": "André colhendo sementes secas na horta"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "m33-021",
+        "m33-121",
+        "m33-024",
+        "m33-057",
+        "m33-232",
+        "m33-020",
+        "m33-345"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Cápsula",
+        "Com saquinho",
+        "Solta",
+        "Amarílis",
+        "Plante na hora",
+        "Deixe na haste",
+        "Mamão",
+        "Em copinho",
+        "Mexer na raiz",
+        "Ripsális",
+        "Lavada",
+        "Grudenta",
+        "Batatinha de alstroeméria quebra fácil.",
+        "DICA DO ANDRÉ",
+        "Amaranto se limpa com um sopro.",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 150 SEMENTE RARA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Semear",
+        "01",
+        "Passo a passo",
+        "02",
+        "Colheita de perto",
+        "03",
+        "Semente não nasce",
+        "Na próxima: passo a passo",
+        "→",
+        "TG 150 SEMENTE RARA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-F-1.jpg",
+          "alt": "André semeando em copinhos numa bancada"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "m33-021",
+        "m33-345",
+        "m33-057",
+        "m33-232"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Semente? Faça assim.",
+        "CÁPSULA",
+        "Saquinho em volta",
+        "LIMPE",
+        "Sopro na tigela",
+        "PLANTE",
+        "Logo, bem fresca",
+        "1",
+        "ENSAQUE",
+        "Saquinho de pano na cápsula.",
+        "2",
+        "SOPRE",
+        "A palha sobe, a semente fica.",
+        "3",
+        "PLANTE",
+        "Mamão no copinho, sem mexer depois.",
+        "DICA DO ANDRÉ",
+        "Ripsális: lave em água morna e plante.",
+        "Na próxima: colheita de perto",
+        "→",
+        "TG 150 SEMENTE RARA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "smr-gesto-1.jpg",
+          "alt": "Mãos amarrando um saquinho de pano em volta da cápsula de uma alstroeméria"
+        },
+        {
+          "src": "smr-gesto-2.jpg",
+          "alt": "Mãos soprando de leve sementes de amaranto numa tigela"
+        },
+        {
+          "src": "smr-gesto-3.jpg",
+          "alt": "Mãos plantando sementes frescas de mamão num copinho de terra"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "m33-344",
+        "m33-191",
+        "m33-108",
+        "m33-230"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · SEMEAR",
+        "Colheita de perto",
+        "O amaranto esconde a semente no pendão.",
+        "Dá para ordenhar o cacho e colher.",
+        "O fruto da mamilária leva até um ano.",
+        "O do equinopsis racha e mostra a semente.",
+        "O da ripsális fica grudento em seis meses.",
+        "Na próxima: semente não nasce",
+        "→",
+        "TG 150 SEMENTE RARA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "m33-051"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Semente não nasce?",
+        "1",
+        "O QUE PARECE",
+        "Vaso sem broto por semanas.",
+        "O QUE PODE SER",
+        "Casca dura, como a da camélia.",
+        "COMO RESOLVER",
+        "Molho em água quente antes.",
+        "Na próxima: tempo de cada uma",
+        "→",
+        "TG 150 SEMENTE RARA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "smr-sintoma-1.jpg",
+          "alt": "Vaso de terra sem nenhum broto com sementes duras de camélia na superfície"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Tempo de cada uma",
+        "01",
+        "Tempo de cada uma",
+        "02",
+        "Rápidas e lentas",
+        "03",
+        "Atenção",
+        "Na próxima: tempo de cada uma",
+        "→",
+        "TG 150 SEMENTE RARA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-G-1.jpg",
+          "alt": "André olhando mudinhas recém-nascidas numa bandeja"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "m33-035",
+        "m33-028",
+        "m33-301",
+        "m33-216",
+        "m33-224",
+        "m33-071",
+        "m33-016",
+        "m33-135"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · TEMPO",
+        "Tempo de cada uma",
+        "CACTO-ESTRELA",
+        "Germina em 4 a 5 dias",
+        "ANTÚRIO",
+        "Pode levar meses",
+        "RÁPIDAS",
+        "Pimenta",
+        " nasce em sete dias",
+        "Gerânio F1",
+        " de 7 a 10 dias",
+        "Petúnia",
+        " flor na mesma estação",
+        "Crisântemo",
+        " flor no mesmo ano",
+        "Bom saber",
+        "Agave",
+        " 2 a 3 anos para crescer",
+        "Gastéria",
+        " uns três anos",
+        "Na próxima: rápidas e lentas",
+        "→",
+        "TG 150 SEMENTE RARA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "m33-003",
+        "m33-086",
+        "m33-185",
+        "m33-303"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Lanterninha atrai mosca-branca e ácaro.",
+        "Crassula de semente é imprevisível.",
+        "Lavanda de semente varia a flor.",
+        "FAÇA ASSIM",
+        "Para crassula, prefira a estaca.",
+        "Pimenta longe de outros tipos.",
+        "Na próxima: semente de perto",
+        "→",
+        "TG 150 SEMENTE RARA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "m33-303",
+        "m33-264",
+        "m33-073",
+        "m33-175"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · QUATRO SEMENTES",
+        "Quatro sementes",
+        "1",
+        "Pimenta",
+        "Semente de casa sai parecida.",
+        "2",
+        "Capuchinha",
+        "Se espalha sozinha.",
+        "3",
+        "Limão",
+        "Vários embriões, alguns clones.",
+        "4",
+        "Glória-da-manhã",
+        "Floresce em 16 semanas.",
+        "CHAVE",
+        "Semente",
+        "O que ela dá",
+        "Na próxima: o que deu errado",
+        "→",
+        "TG 150 SEMENTE RARA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "smr-var-pimenta.jpg",
+          "alt": "Pé de pimenta carregado de frutos vermelhos"
+        },
+        {
+          "src": "smr-var-capuchinha.jpg",
+          "alt": "Capuchinha florida com flores laranja espalhada no canteiro"
+        },
+        {
+          "src": "smr-var-limao.jpg",
+          "alt": "Mudinhas de limão nascidas de semente num vaso"
+        },
+        {
+          "src": "smr-var-gloria.jpg",
+          "alt": "Glória-da-manhã com flores azuis subindo numa cerca"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "m33-354",
+        "m33-034",
+        "m33-121",
+        "m33-024",
+        "m33-278"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · DE PERTO",
+        "Semente de perto",
+        "DORME",
+        "Espera a seca passar.",
+        "BOIA",
+        "Cacto-estrela tem bolsinhas de ar.",
+        "EXPLODE",
+        "A cápsula da eufórbia estoura.",
+        "BROTA",
+        "Amarílis germina ainda na haste.",
+        "DICA DO ANDRÉ",
+        "Lírio-do-vento tem semente preta e chata.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 150 SEMENTE RARA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "m33-301",
+        "m33-190"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "7",
+        "DIAS",
+        "para a semente de pimenta germinar.",
+        "O fruto vem de 16 a 20 semanas depois.",
+        "E MAIS UMA",
+        "Semente de mamilária dura até 10 anos guardada.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 150 SEMENTE RARA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "m33-024",
+        "m33-006",
+        "m33-017",
+        "m33-051",
+        "m33-021",
+        "m33-057",
+        "m33-232",
+        "m33-345"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Semente plantada fresca",
+        "Pó misturado com areia",
+        "Pedrisco sobre a agave",
+        "Camélia de molho em água quente",
+        "Saquinho na cápsula que explode",
+        "Mamão direto no copinho",
+        "Ripsális lavada e plantada",
+        "Amaranto limpo no sopro",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 150 SEMENTE RARA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Semente pede frescor, jeito e paciência. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "150",
+        "VOCÊ TEM",
+        "151",
+        "152",
+        "153",
+        "154",
+        "155",
+        "São 150 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 151 FILHOTE E DIVISÃO",
+        "Comente FILHOTE no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 150 SEMENTE RARA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-muda-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

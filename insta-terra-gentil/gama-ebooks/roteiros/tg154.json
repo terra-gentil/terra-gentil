@@ -1,0 +1,558 @@
+{
+  "livro": "TG 154",
+  "titulo": "Jardim de Gambiarra",
+  "serie": "#5A4A2A",
+  "paginas": [
+    {
+      "molde": "Main.dc.html",
+      "textos": [
+        "TG",
+        "154",
+        "COLEÇÃO TERRA GENTIL",
+        "GAMBIARRA",
+        "Jardim de Gambiarra",
+        "Truque caseiro, planta feliz.",
+        "por André Zimermann",
+        "100%",
+        "DE GRAÇA"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-ferramentas-A-1.jpg",
+          "alt": "André no quintal com um galão de leite e uma garrafa nas mãos"
+        }
+      ]
+    },
+    {
+      "molde": "Carta.dc.html",
+      "fatos": [
+        "w31-022",
+        "w31-113",
+        "w31-145"
+      ],
+      "textos": [
+        "UMA CARTA PARA VOCÊ",
+        "Oi, eu sou o André.",
+        "Galão de leite vira plaquinha e regador.",
+        "E todo jardim começa na composteira.",
+        "Aqui tem muda, rega, horta e composto.",
+        "SUA MISSÃO ATÉ AMANHÃ",
+        "Guarde um galão de leite vazio.",
+        "Com carinho, André",
+        "Terra Gentil",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 154 JARDIM DE GAMBIARRA",
+        "2 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-ferramentas-B-1.jpg",
+          "alt": "André separando galões e garrafas para o jardim"
+        }
+      ]
+    },
+    {
+      "molde": "Rapido.dc.html",
+      "fatos": [
+        "w31-126",
+        "w31-153"
+      ],
+      "textos": [
+        "SE VOCÊ FIZER SÓ UMA COISA",
+        "Cubra a terra do canteiro.",
+        "Abafa o mato e segura a umidade.",
+        "SEM EXAGERO",
+        "Não regue no meio do dia.",
+        "A água evapora antes da raiz.",
+        "Na próxima: o mapa do livro",
+        "→",
+        "TG 154 JARDIM DE GAMBIARRA",
+        "3 DE 19"
+      ]
+    },
+    {
+      "molde": "Sumario.dc.html",
+      "textos": [
+        "NESTE LIVRO",
+        "O mapa do livro",
+        "05",
+        "COMECE AQUI",
+        "A ficha da gambiarra",
+        "06",
+        "CAPÍTULO 1",
+        "O básico",
+        "08",
+        "CAPÍTULO 2",
+        "Rega e composto",
+        "12",
+        "CAPÍTULO 3",
+        "Truques da horta",
+        "15",
+        "CAPÍTULO 4",
+        "Sem cavar",
+        "18",
+        "PARA FAZER",
+        "Comece essa semana",
+        "ATALHO",
+        "Mato brotando no composto? Vá para a página 11.",
+        "Na próxima: a ficha da gambiarra",
+        "→",
+        "TG 154 JARDIM DE GAMBIARRA",
+        "4 DE 19"
+      ]
+    },
+    {
+      "molde": "Ficha.dc.html",
+      "fatos": [
+        "w31-022",
+        "w31-145",
+        "w31-114",
+        "w31-001",
+        "w31-132",
+        "w31-143",
+        "w31-168"
+      ],
+      "textos": [
+        "FICHA DA GAMBIARRA",
+        "Antes de agir",
+        "O que olhar",
+        "GALÃO",
+        "Plaquinha e regador",
+        "PALETE",
+        "Baia de composto",
+        "PAPELÃO",
+        "Vasinho e canteiro",
+        "GARRAFA",
+        "Gotejador",
+        "MEIA",
+        "Filtro no vaso",
+        "NA PRÁTICA",
+        "ATENÇÃO",
+        "Palete tratado a calor",
+        "Na próxima: o básico",
+        "→",
+        "TG 154 JARDIM DE GAMBIARRA",
+        "5 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura1.dc.html",
+      "textos": [
+        "CAPÍTULO 1",
+        "O básico",
+        "01",
+        "Certo e errado",
+        "02",
+        "Gotejador de garrafa",
+        "03",
+        "Composto de perto",
+        "Na próxima: certo e errado",
+        "→",
+        "TG 154 JARDIM DE GAMBIARRA",
+        "6 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-ferramentas-C-1.jpg",
+          "alt": "André arrumando ferramentas e potes reaproveitados no galpão"
+        }
+      ]
+    },
+    {
+      "molde": "Tabela.dc.html",
+      "fatos": [
+        "w31-153",
+        "w31-110",
+        "w31-118",
+        "w31-168",
+        "w31-130",
+        "w31-113"
+      ],
+      "textos": [
+        "CAPÍTULO 1 · O BÁSICO",
+        "Certo e errado",
+        "O QUE",
+        "CERTO",
+        "ERRO",
+        "Rega",
+        "Fora do meio-dia",
+        "Meio do dia",
+        "Composteira",
+        "Sobre tela fina",
+        "Sem tela",
+        "Composto",
+        "Revirado",
+        "Parado",
+        "Vaso",
+        "Meia no fundo",
+        "Terra escapando",
+        "Cavar todo ano estraga o solo.",
+        "DICA DO ANDRÉ",
+        "Comece a jardinar pela composteira.",
+        "Na próxima: gotejador de garrafa",
+        "→",
+        "TG 154 JARDIM DE GAMBIARRA",
+        "7 DE 19"
+      ]
+    },
+    {
+      "molde": "Abertura.dc.html",
+      "textos": [
+        "CAPÍTULO 2",
+        "Rega e composto",
+        "01",
+        "Gotejador de garrafa",
+        "02",
+        "Composto de perto",
+        "03",
+        "Mato no composto",
+        "Na próxima: gotejador de garrafa",
+        "→",
+        "TG 154 JARDIM DE GAMBIARRA",
+        "8 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-ferramentas-F-1.jpg",
+          "alt": "André regando vasos com um galão de leite furado"
+        }
+      ]
+    },
+    {
+      "molde": "Passos.dc.html",
+      "fatos": [
+        "w31-143",
+        "w31-145"
+      ],
+      "textos": [
+        "PASSO A PASSO",
+        "Gotejador? Faça assim.",
+        "GARRAFA",
+        "Com tampa",
+        "FURO",
+        "Cotonete cortado",
+        "VAZÃO",
+        "Pelo furo da tampa",
+        "1",
+        "FURE",
+        "A tampa e o fundo da garrafa.",
+        "2",
+        "ENCAIXE",
+        "Um cotonete cortado em cada furo.",
+        "3",
+        "AJUSTE",
+        "Mexa o da tampa e mude a vazão.",
+        "DICA DO ANDRÉ",
+        "Galão com furinhos vira regador.",
+        "Na próxima: composto de perto",
+        "→",
+        "TG 154 JARDIM DE GAMBIARRA",
+        "9 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "gmb-gesto-1.jpg",
+          "alt": "Mãos furando a tampa de uma garrafa plástica ao lado de um vaso de alecrim"
+        },
+        {
+          "src": "gmb-gesto-2.jpg",
+          "alt": "Mãos encaixando um cotonete cortado no furo da garrafa"
+        },
+        {
+          "src": "gmb-gesto-3.jpg",
+          "alt": "Mãos ajustando o cotonete da tampa enquanto a garrafa goteja no vaso de alecrim"
+        }
+      ]
+    },
+    {
+      "molde": "Texto.dc.html",
+      "fatos": [
+        "w31-114",
+        "w31-110",
+        "w31-118",
+        "w31-093",
+        "w31-128"
+      ],
+      "textos": [
+        "CAPÍTULO 2 · REGA E COMPOSTO",
+        "Composto de perto",
+        "Baia: três paletes amarrados em U.",
+        "Tela fina embaixo: rato não entra.",
+        "Revire: com ar, decompõe mais rápido.",
+        "Urtiga no balde vira chorume em semanas.",
+        "Mato capinado seca e vira matéria orgânica.",
+        "Na próxima: mato no composto",
+        "→",
+        "TG 154 JARDIM DE GAMBIARRA",
+        "10 DE 19"
+      ]
+    },
+    {
+      "molde": "Erro.dc.html",
+      "fatos": [
+        "w31-124"
+      ],
+      "textos": [
+        "ERRO COMUM",
+        "Mato no composto?",
+        "1",
+        "O QUE PARECE",
+        "Corda-de-viola brotando.",
+        "O QUE PODE SER",
+        "Raiz jogada na composteira.",
+        "COMO RESOLVER",
+        "Afogue a raiz num balde.",
+        "Na próxima: truques da horta",
+        "→",
+        "TG 154 JARDIM DE GAMBIARRA",
+        "11 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "gmb-sintoma-1.jpg",
+          "alt": "Corda-de-viola brotando no meio de um monte de composto"
+        }
+      ]
+    },
+    {
+      "molde": "Abertura3.dc.html",
+      "textos": [
+        "CAPÍTULO 3",
+        "Truques da horta",
+        "01",
+        "Truques da horta",
+        "02",
+        "Atenção",
+        "03",
+        "Quatro plantios",
+        "Na próxima: truques da horta",
+        "→",
+        "TG 154 JARDIM DE GAMBIARRA",
+        "12 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-ferramentas-G-1.jpg",
+          "alt": "André puxando sulcos na horta com um rastelo"
+        }
+      ]
+    },
+    {
+      "molde": "Precisar.dc.html",
+      "fatos": [
+        "w31-045",
+        "w31-067",
+        "w31-021",
+        "w31-018",
+        "w31-017",
+        "w31-189",
+        "w31-168",
+        "w31-051"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · HORTA",
+        "Truques da horta",
+        "RISCADOR",
+        "Mangueira nos dentes do rastelo",
+        "ESPANTALHO",
+        "Batata com penas ao vento",
+        "DE GRAÇA",
+        "Plaquinha",
+        " a lápis, apaga e usa de novo",
+        "Rolo de papel",
+        " vasinho de quatro abas",
+        "Galão de leite",
+        " campânula contra o frio",
+        "Bota velha",
+        " vaso com furo no fundo",
+        "Bom saber",
+        "Meia-calça",
+        " no fundo segura a terra",
+        "Areia com óleo",
+        " ferramenta sem ferrugem",
+        "Na próxima: atenção",
+        "→",
+        "TG 154 JARDIM DE GAMBIARRA",
+        "13 DE 19"
+      ]
+    },
+    {
+      "molde": "Alerta.dc.html",
+      "fatos": [
+        "w31-188",
+        "w31-172",
+        "w31-016",
+        "w31-073",
+        "w31-128"
+      ],
+      "textos": [
+        "CAPÍTULO 3 · ATENÇÃO",
+        "ATENÇÃO",
+        "Alecrim cresce demais na sapateira.",
+        "Vaso esmaltado não serve de olla.",
+        "Estufinha fechada no calor cozinha.",
+        "FAÇA ASSIM",
+        "Gire batata, feijão e couve.",
+        "Deixe o mato capinado no chão.",
+        "Na próxima: quatro plantios",
+        "→",
+        "TG 154 JARDIM DE GAMBIARRA",
+        "14 DE 19"
+      ]
+    },
+    {
+      "molde": "Galeria.dc.html",
+      "fatos": [
+        "w31-036",
+        "w31-048",
+        "w31-043",
+        "w31-032"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · PLANTIOS",
+        "Quatro plantios",
+        "1",
+        "Morango",
+        "No palete em pé, em bolsos.",
+        "2",
+        "Batata",
+        "Brota pelos lados da torre.",
+        "3",
+        "Pitaia",
+        "Semente da fruta já brota.",
+        "4",
+        "Alecrim",
+        "Ramo de 15 cm pega na água.",
+        "CHAVE",
+        "Planta",
+        "A gambiarra",
+        "Na próxima: sem cavar",
+        "→",
+        "TG 154 JARDIM DE GAMBIARRA",
+        "15 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "gmb-var-morango.jpg",
+          "alt": "Morangos plantados em bolsos de manta num palete em pé"
+        },
+        {
+          "src": "gmb-var-batata.jpg",
+          "alt": "Torre de tela de galinheiro com brotos de batata saindo pelos lados"
+        },
+        {
+          "src": "gmb-var-pitaia.jpg",
+          "alt": "Mudinhas de pitaia brotando num vaso na janela de sol"
+        },
+        {
+          "src": "gmb-var-alecrim.jpg",
+          "alt": "Ramo de alecrim enraizando num copo de água perto da janela"
+        }
+      ]
+    },
+    {
+      "molde": "Sinais.dc.html",
+      "fatos": [
+        "w31-130",
+        "w31-131",
+        "w31-132",
+        "w31-133"
+      ],
+      "textos": [
+        "CAPÍTULO 4 · SEM CAVAR",
+        "Canteiro sem cavar",
+        "CAVAR",
+        "Estraga a estrutura do solo.",
+        "MATO",
+        "Cavar traz semente dormente para cima.",
+        "PAPELÃO",
+        "Mato cortado rente, papelão e água.",
+        "COMPOSTO",
+        "10 cm de composto curtido por cima.",
+        "DICA DO ANDRÉ",
+        "O mato que nasce sai com a mão.",
+        "Na próxima: um número que anima",
+        "→",
+        "TG 154 JARDIM DE GAMBIARRA",
+        "16 DE 19"
+      ]
+    },
+    {
+      "molde": "Sabia.dc.html",
+      "fatos": [
+        "w31-047",
+        "w31-193"
+      ],
+      "textos": [
+        "VOCÊ SABIA?",
+        "25",
+        "CM",
+        "de composto entre cada camada da torre de batata.",
+        "A torre de tela sobe assim até o topo.",
+        "E MAIS UMA",
+        "A horta fechadura nasceu no Lesoto, em solo seco.",
+        "Na próxima: comece essa semana",
+        "→",
+        "TG 154 JARDIM DE GAMBIARRA",
+        "17 DE 19"
+      ]
+    },
+    {
+      "molde": "Checklist.dc.html",
+      "fatos": [
+        "w31-022",
+        "w31-143",
+        "w31-132",
+        "w31-118",
+        "w31-153",
+        "w31-021",
+        "w31-126",
+        "w31-124"
+      ],
+      "textos": [
+        "PARA FAZER",
+        "Comece essa semana",
+        "Galão de leite guardado",
+        "Gotejador de garrafa",
+        "Papelão sobre o mato",
+        "Composto revirado",
+        "Rega fora do meio-dia",
+        "Plaquinha escrita a lápis",
+        "Terra coberta no canteiro",
+        "Corda-de-viola no balde",
+        "Tire um print e cole na geladeira.",
+        "Na próxima: um recado meu",
+        "→",
+        "TG 154 JARDIM DE GAMBIARRA",
+        "18 DE 19"
+      ]
+    },
+    {
+      "molde": "Fechamento.dc.html",
+      "textos": [
+        "ATÉ O PRÓXIMO LIVRO",
+        "Gambiarra boa salva a planta e aproveita o que ia para o lixo. Tente e me conta. Gentileza gera gentileza.",
+        "Com carinho, André",
+        "154",
+        "VOCÊ TEM",
+        "155",
+        "156",
+        "157",
+        "158",
+        "159",
+        "São 154 livros na coleção, todos de graça.",
+        "PRÓXIMO: TG 155 FOLHAGEM DE CASA",
+        "Comente FOLHAGEM no @canalterragentil e ele chega no seu direct, de graça.",
+        "TG 154 JARDIM DE GAMBIARRA",
+        "19 DE 19"
+      ],
+      "fotos": [
+        {
+          "src": "coringa-ferramentas-H-1.jpg",
+          "alt": "Retrato do André no jardim"
+        }
+      ]
+    }
+  ]
+}

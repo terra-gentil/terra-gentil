@@ -1,0 +1,222 @@
+{
+  "dia": "2026-11-16",
+  "palavra": "CODIGO",
+  "especie": "Epipremnum aureum",
+  "nome": "Jiboia",
+  "tema": "regar",
+  "serie": "3 erros",
+  "gancho": "O amor demais afoga: a rega em excesso é o maior assassino de plantas de interior.",
+  "resumo": "Três erros de rega por amor demais e dois gestos simples: o teste do dedo e regar até a água sair pelos furos.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Rega",
+      "linha1": "O erro que mais",
+      "linha2": "mata a jiboia",
+      "linha3": "é o excesso de",
+      "destaque": "amor"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Regar demais",
+      "linha2": "por",
+      "destaque": "carinho",
+      "texto": "A rega em excesso é o maior assassino de plantas de interior. Quase todo mundo mata por amor.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Raiz sem ar",
+      "linha2": "e folha",
+      "destaque": "murcha",
+      "texto": "Com água demais, a raiz sufoca e apodrece. Aí ela não bebe, e a planta parece com sede.",
+      "nota": "Murcha e molhada: desconfie."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Regar pelo",
+      "linha2": "calendário, não",
+      "destaque": "pela terra",
+      "texto": "Esqueça o toda semana. Regar em dias fixos é receita para o desastre. A terra diz a hora.",
+      "nota": "Quase todo mundo começa assim."
+    },
+    {
+      "linha1": "Enfie o dedo",
+      "linha2": "na terra até a",
+      "destaque": "segunda falange",
+      "texto": "Dedo limpo e seco? A planta está com sede, hora de regar. Sujo e úmido? Espere.",
+      "dica": "É de 3 a 5 cm de fundura. Na dúvida, espere mais um dia."
+    },
+    {
+      "linha1": "Hora de regar?",
+      "linha2": "Regue até sair",
+      "destaque": "por baixo",
+      "texto": "Despeje a água devagar até ela sair pelos furos. Deixe escorrer e jogue fora a água do prato.",
+      "dica": "Vaso no prato com água por mais de 30 minutos, nunca."
+    },
+    {
+      "tarja": "Sinal",
+      "linha1": "Folha amarela",
+      "linha2": "e mole é",
+      "destaque": "afogamento",
+      "texto": "Pare de regar na hora e olhe a drenagem. A planta não está pedindo mais água.",
+      "nota": "Entre em ação, sem pânico."
+    },
+    {
+      "texto": "Cuide com calma e a jiboia devolve em folhas verdes. Salve este post para a próxima rega.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "A rega em excesso é o maior assassino de plantas de interior, e a maioria das pessoas mata a planta por amor.",
+      "pagina": 9,
+      "trecho": "O maior assassino de plantas de interior: a rega em excesso",
+      "fonte": "O Código Secreto das Plantas, p. 9"
+    },
+    {
+      "texto": "Com água demais, a raiz fica submersa, sufoca e começa a apodrecer.",
+      "pagina": 10,
+      "trecho": "A raiz fica submersa, sufoca e começa a apodrecer.",
+      "fonte": "O Código Secreto das Plantas, p. 10"
+    },
+    {
+      "texto": "Raiz podre não consegue absorver água, e por isso a planta parece desidratada, com folhas murchas, mesmo encharcada.",
+      "pagina": 10,
+      "trecho": "Uma raiz podre não consegue absorver água, o que ironicamente faz a planta parecer desidratada",
+      "fonte": "O Código Secreto das Plantas, p. 10"
+    },
+    {
+      "texto": "Regar em dias fixos, como a cada 3 dias, é receita para o desastre. Esqueça o calendário.",
+      "pagina": 11,
+      "trecho": "é a receita para o desastre",
+      "fonte": "O Código Secreto das Plantas, p. 11"
+    },
+    {
+      "texto": "Teste do dedo: enfie o dedo na terra até a segunda falange, entre 3 e 5 cm de profundidade.",
+      "pagina": 11,
+      "trecho": "Até a segunda falange (cerca de 3 a 5 cm de profundidade)",
+      "fonte": "O Código Secreto das Plantas, p. 11"
+    },
+    {
+      "texto": "Dedo limpo e seco quer dizer que a planta está com sede e é hora de regar. Dedo sujo e úmido, espere.",
+      "pagina": 11,
+      "trecho": "A planta está com sede. É hora de regar",
+      "fonte": "O Código Secreto das Plantas, p. 11"
+    },
+    {
+      "texto": "Quando regar, despeje a água devagar até ela sair pelos furos de drenagem, para hidratar toda a terra e não só a superfície.",
+      "pagina": 15,
+      "trecho": "Despeje água lentamente sobre o solo até que ela comece a sair pelos furos de drenagem do vaso",
+      "fonte": "O Código Secreto das Plantas, p. 15"
+    },
+    {
+      "texto": "Deixe o excesso escorrer e nunca deixe o vaso submerso no prato por mais de 30 minutos. Prato cheio, jogue a água fora.",
+      "pagina": 15,
+      "trecho": "Nunca, jamais, deixe o vaso submerso em água no prato por mais de 30 minutos",
+      "fonte": "O Código Secreto das Plantas, p. 15"
+    },
+    {
+      "texto": "Folha amarela e mole é sinal de afogamento. A cura é parar de regar na hora e olhar a drenagem.",
+      "pagina": 26,
+      "trecho": "Pare de regar imediatamente. Verifique a drenagem.",
+      "fonte": "O Código Secreto das Plantas, p. 26"
+    },
+    {
+      "texto": "A jiboia é amiga de quem está começando: aguenta um pouco de esquecimento na rega e ambientes com menos luz.",
+      "pagina": 7,
+      "trecho": "aguenta bem tanto um pouco de esquecimento na rega quanto ambientes com menos luz",
+      "fonte": "O Código Secreto das Plantas, p. 7"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "fontes": [
+    "O Código Secreto das Plantas, p. 9",
+    "O Código Secreto das Plantas, p. 10",
+    "O Código Secreto das Plantas, p. 11",
+    "O Código Secreto das Plantas, p. 15",
+    "O Código Secreto das Plantas, p. 26"
+  ],
+  "materia": {
+    "slug": "jiboia-rega-em-excesso-e-o-teste-do-dedo",
+    "titulo": "Jiboia: rega em excesso e o teste do dedo",
+    "descricao": "Regar demais é o maior assassino de planta de interior. Veja por que a raiz sufoca, como fazer o teste do dedo e qual é o jeito certo de regar a sua jiboia.",
+    "introducao": "Se a sua jiboia está com a folha amarela e mole, respire fundo. Quase sempre o problema não é falta de carinho, é carinho demais. Muita gente mata a planta por amor, e isso não faz de você um péssimo jardineiro. Faz de você alguém que se importa. Neste texto, a gente conversa sobre o erro de rega mais comum, sobre o teste do dedo e sobre o jeito certo de molhar a terra. Tudo com base no ebook O Código Secreto das Plantas, do André, sem receita complicada e sem culpa. Vamos com calma, um passo de cada vez.",
+    "secoes": [
+      {
+        "titulo": "Por que regar demais mata a planta",
+        "paragrafos": [
+          "O livro do André não esconde: o maior assassino de plantas de interior é a rega em excesso. A maioria das pessoas mata a planta por amor. Dá aquele golinho de água todo dia, com a melhor das intenções, e a planta sofre.",
+          "O motivo é fácil de entender. A raiz precisa de ar para respirar, quase como um pulmão. Quando a água enche todos os espaços da terra, a raiz fica submersa, sufoca e começa a apodrecer. É um processo silencioso, que a gente nem vê, porque tudo acontece embaixo da terra.",
+          "E tem uma pegadinha cruel. Uma raiz podre não consegue mais absorver água, e por isso a planta pode parecer desidratada, com as folhas murchas. Aí a gente pensa que falta água e rega mais ainda. Se a sua jiboia está murcha e a terra está molhada, vale desconfiar do excesso."
+        ],
+        "fatosUsados": [
+          0,
+          1
+        ]
+      },
+      {
+        "titulo": "Regar pelo calendário é um erro comum",
+        "paragrafos": [
+          "Muita gente cria uma rotina: toda segunda e quinta, ou a cada poucos dias. Parece organizado, mas o livro é direto. Esqueça o calendário, porque regar em dias fixos, como a cada 3 dias, é a receita para o desastre.",
+          "A planta não sabe que dia é hoje. Quem manda é a terra. Em um período mais úmido ela demora para secar, em outro seca mais rápido. Por isso, em vez de olhar para o relógio, olhe para a terra antes de pegar o regador."
+        ],
+        "fatosUsados": [
+          3
+        ]
+      },
+      {
+        "titulo": "O teste do dedo, passo a passo",
+        "paragrafos": [
+          "O teste do dedo é a única regra que o André pede para guardar. Enfie o dedo na terra até a segunda falange. O livro explica que isso dá cerca de 3 a 5 centímetros de profundidade.",
+          "Agora olhe o dedo. Saiu limpo e seco? A planta está com sede, e é hora de regar. Saiu sujo e úmido? Espere, porque o solo ainda tem umidade suficiente. É simples, é rápido e não custa nada. Na dúvida, repita o teste no dia seguinte antes de decidir.",
+          "Com o tempo, você passa a conhecer o ritmo da sua jiboia. O teste vira um hábito, quase um cumprimento diário, e a insegurança vai embora."
+        ],
+        "fatosUsados": [
+          4,
+          5
+        ]
+      },
+      {
+        "titulo": "Como regar do jeito certo e o que fazer se ela estiver afogada",
+        "paragrafos": [
+          "Quando o teste do dedo disser que é hora, regue de verdade. Despeje a água devagar sobre a terra até ela começar a sair pelos furos de drenagem do vaso. Assim toda a terra é hidratada, e não apenas a superfície.",
+          "Depois, deixe o excesso escorrer por completo. O livro é firme neste ponto: nunca deixe o vaso submerso em água no prato por mais de 30 minutos. Se o prato estiver cheio, jogue a água fora.",
+          "E se a folha estiver amarela e mole? O livro traduz esse sinal como um pedido de socorro de quem está se afogando. A cura indicada é parar de regar imediatamente e verificar a drenagem. Respire, não precisa de pânico. Entre em ação com calma."
+        ],
+        "fatosUsados": [
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Quantas vezes por semana devo regar a jiboia?",
+        "resposta": "O livro não dá um número de vezes por semana, e de propósito: ele pede para esquecer o calendário. Use o teste do dedo e regue só quando o dedo sair limpo e seco."
+      },
+      {
+        "pergunta": "A folha da jiboia está murcha. Devo regar mais?",
+        "resposta": "Antes de regar, faça o teste do dedo. O livro explica que uma raiz podre não absorve água e a planta parece desidratada. Se a terra estiver úmida, espere e verifique a drenagem."
+      },
+      {
+        "pergunta": "Por quanto tempo o vaso pode ficar com água no prato?",
+        "resposta": "Segundo o livro, nunca deixe o vaso submerso em água no prato por mais de 30 minutos. Se o prato estiver cheio, jogue a água fora."
+      }
+    ],
+    "conclusao": "Cuidar da jiboia é mais sobre observar do que sobre molhar. Faça o teste do dedo, regue devagar até a água sair pelos furos, deixe escorrer e jogue fora a água do prato. Na dúvida, espere um pouco. A planta agradece, e você ganha tranquilidade. Errar faz parte, e agora você já sabe ler o primeiro sinal. Salve este texto para a próxima vez que a dúvida bater. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

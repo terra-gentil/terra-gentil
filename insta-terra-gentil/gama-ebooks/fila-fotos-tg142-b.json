@@ -1,0 +1,38 @@
+{
+  "livro": "TG 142",
+  "estilo": "Documentary photo, soft natural daylight, Brazilian home garden, realistic colors, sharp focus, no text, no logos",
+  "fotos": [
+    {
+      "id": "jar-sintoma-1",
+      "especie": "cobra lily leaf spots",
+      "proporcao": "9:16",
+      "elenco": false,
+      "cena": "Close-up of one green pitcher tube of a Darlingtonia californica with a few small reddish-brown marks on its surface, in a pale ceramic pot on a wooden table",
+      "mascote": false
+    },
+    {
+      "id": "jar-var-tatei",
+      "especie": "Heliamphora tatei",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Heliamphora tatei with thin tall stems leaning on surrounding vegetation, pitchers at the tips",
+      "mascote": false
+    },
+    {
+      "id": "jar-var-pulchella",
+      "especie": "Heliamphora pulchella",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Heliamphora pulchella with green pitchers in a wide pot of very damp sphagnum moss; the small mascot figurine stands on the rim of the pot",
+      "mascote": true
+    },
+    {
+      "id": "jar-var-cobra",
+      "especie": "cobra lily",
+      "proporcao": "3:4",
+      "elenco": false,
+      "cena": "Cobra lily (Darlingtonia) with tall hooded green pitchers in a pale ceramic pot on cool damp moss",
+      "mascote": false
+    }
+  ]
+}

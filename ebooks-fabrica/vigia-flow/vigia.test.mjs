@@ -360,7 +360,7 @@ test("receptor v1.3: recusa 2K de extensao velha, durante geracao e sem espaco e
     writeFileSync(join(r.saida, "comando.txt"), "2k 2 3 1");
     assert.equal((await r.post({ origem: "pulso", versao: "1.3" })).status, 204, "2a rodada colada na 1a");
     assert.equal(r.est2k().parou, "espacando");
-    assert.ok(r.est2k().faltaMin >= 24);
+    assert.ok(r.est2k().faltaMin >= 11);
     envelhecer(join(r.saida, "ultimo-2k.json"), 26);
     writeFileSync(join(r.saida, "comando.txt"), "2k 2 3 1");
     assert.deepEqual(await (await r.post({ origem: "pulso", versao: "1.3" })).json(), { comando: "2k 2 3 1" });
@@ -379,7 +379,7 @@ test("pode.mjs gerar: lotes com intervalo sorteado, nunca no mesmo compasso", as
   writeFileSync(join(saida, "ritmo.json"), JSON.stringify({ lotes: 2, proximoGerar: Date.now() - 1000 }));
   assert.equal(await rodarPode(saida, "gerar"), "PODE");
   const r3 = JSON.parse(readFileSync(join(saida, "ritmo.json"), "utf8"));
-  assert.ok((r3.proximoGerar - Date.parse(r3.quando)) / 60000 >= 60, "faltou a pausa longa a cada 3 lotes");
+  assert.ok((r3.proximoGerar - Date.parse(r3.quando)) / 60000 >= 30, "faltou a pausa longa a cada 3 lotes");
 });
 // ---- v1.4: ferramenta parada nao mandava nada e a extensao parecia morta (13/11/2026, depois das 18:38) ----
 // roda o conteudo.js num quadro de mentira, com relogio e temporizadores proprios

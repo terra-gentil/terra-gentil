@@ -1,7 +1,7 @@
 // Diz se da para gerar ou baixar agora. Imprime UMA linha: "PODE" ou "ESPERE <minutos> <motivo>".
 // Sempre: resfriamento do saida/alerta.json (regras.mjs: 60 min limite, 180 min atividade incomum).
 // "node pode.mjs gerar" (rodar ANTES de cada "Gerar selecionadas"): tambem respeita o ritmo entre lotes, sorteado
-// e guardado em saida/ritmo.json (18 a 35 min; a cada 3 lotes, 60 a 100 min). Ao imprimir PODE ele ja marca o
+// e guardado em saida/ritmo.json (9 a 17 min; a cada 3 lotes, 30 a 50 min). Ao imprimir PODE ele ja marca o
 // lote como feito e sorteia o proximo horario: so chamar quando for gerar de verdade. Ate 13/11 os lotes sairam
 // a cada 13 min cravados por 2 h 30, o que tem cara de robo.
 // "node pode.mjs 2k": resfriamento e espaco entre rodadas de 2K (o receptor aplica o mesmo).

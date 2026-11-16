@@ -372,7 +372,7 @@ test("pode.mjs gerar: lotes com intervalo sorteado, nunca no mesmo compasso", as
   assert.equal(await rodarPode(saida, "gerar"), "PODE");
   const r1 = JSON.parse(readFileSync(join(saida, "ritmo.json"), "utf8"));
   const gap = (r1.proximoGerar - Date.parse(r1.quando)) / 60000;
-  assert.ok(gap >= 18 && gap <= 35, "intervalo fora de 18 a 35 min: " + gap);
+  assert.ok(gap >= 9 && gap <= 17, "intervalo fora de 9 a 17 min: " + gap);
   assert.match(await rodarPode(saida, "gerar"), /^ESPERE \d+ ritmo-entre-lotes$/);
   assert.equal(await rodarPode(saida), "PODE", "sem argumento so olha o resfriamento (compatibilidade)");
   // 3o lote leva pausa longa

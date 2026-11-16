@@ -1,8 +1,8 @@
 // Regras de ritmo do vigia, usadas pelo receptor.mjs e pelo pode.mjs (sem DOM, sem rede, so arquivos de saida/).
 // Resfriamento depois de aviso: "Limite do Flow" = ESFRIAR_MIN (padrao 60); "atividade incomum" = ESFRIAR_INCOMUM_MIN
 // (padrao 180, nasceu do bloqueio de 13/11/2026 18:04: 60 min e pouco para quem ja foi marcado como robo).
-// Entre rodadas de 2K: INTERVALO_2K_MIN (padrao 25, contado da entrega do comando). Entre lotes de geracao:
-// sorteio de GERAR_MIN a GERAR_MAX min (padrao 18 a 35) e, a cada 3 lotes, pausa longa de 60 a 100 min.
+// Entre rodadas de 2K: INTERVALO_2K_MIN (padrao 12, contado da entrega do comando). Entre lotes de geracao:
+// sorteio de GERAR_MIN a GERAR_MAX min (padrao 9 a 17, metade do original por pedido do Andre em 15/11) e, a cada 3 lotes, pausa longa de 30 a 50 min.
 // Versao minima da extensao que pode receber comando de 2K: VERSAO_MINIMA (v1.1 velha ja ficou carregada antes).
 import { readFileSync, statSync } from "node:fs";
 import { join } from "node:path";
@@ -10,9 +10,9 @@ import { join } from "node:path";
 const num = (nome, padrao) => Number(process.env[nome] || padrao);
 export const ESFRIAR_MIN = num("ESFRIAR_MIN", 60);
 export const ESFRIAR_INCOMUM_MIN = num("ESFRIAR_INCOMUM_MIN", 180);
-export const INTERVALO_2K_MIN = num("INTERVALO_2K_MIN", 25);
-export const GERAR_MIN = num("GERAR_MIN", 18), GERAR_MAX = num("GERAR_MAX", 35);
-export const PAUSA_LONGA_MIN = 60, PAUSA_LONGA_MAX = 100, LOTES_ATE_PAUSA_LONGA = 3;
+export const INTERVALO_2K_MIN = num("INTERVALO_2K_MIN", 12);
+export const GERAR_MIN = num("GERAR_MIN", 9), GERAR_MAX = num("GERAR_MAX", 17);
+export const PAUSA_LONGA_MIN = 30, PAUSA_LONGA_MAX = 50, LOTES_ATE_PAUSA_LONGA = 3;
 export const VERSAO_MINIMA = "1.3"; // texto: 1.10 como numero viraria 1.1
 
 const ler = (arq) => { try { return readFileSync(arq, "utf8"); } catch { return ""; } };

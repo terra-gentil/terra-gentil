@@ -1,0 +1,207 @@
+{
+  "dia": "2026-11-17",
+  "palavra": "IMORTAL",
+  "especie": "Epipremnum aureum",
+  "nome": "Jiboia",
+  "tema": null,
+  "serie": "Socorro",
+  "gancho": "A jiboia enrolou a folha? Ela não está doente, está pedindo água.",
+  "resumo": "Como ler o pedido de sede da jiboia, fazer o teste do dedo, regar por imersão e não cair no excesso de cuidado.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Rega",
+      "linha1": "A jiboia enrolou",
+      "linha2": "a folha? Ela",
+      "linha3": "está pedindo",
+      "destaque": "água"
+    },
+    {
+      "tarja": "Sinal 1",
+      "linha1": "Folha enrolada",
+      "linha2": "ou murcha é",
+      "destaque": "sede",
+      "texto": "Quando as folhas enrolam levemente ou murcham, a jiboia está dizendo que precisa de água.",
+      "nota": "Calma, ela só está avisando."
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Regar por",
+      "linha2": "calendário, tipo",
+      "destaque": "a cada 3 dias",
+      "texto": "Regra de dias fixos é receita para o desastre. A terra é que diz a hora certa.",
+      "nota": "Quase todo mundo começa assim."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Querer cuidar",
+      "linha2": "com água",
+      "destaque": "demais",
+      "texto": "Suas plantas preferem ser esquecidas a ser afogadas. Na dúvida, espere um pouco.",
+      "nota": "Esperar também é cuidar."
+    },
+    {
+      "linha1": "Enfie o dedo",
+      "linha2": "na terra até a",
+      "destaque": "segunda falange",
+      "texto": "São uns 3 a 5 cm de fundura. Dedo limpo e seco: hora de regar. Sujo e úmido: espere.",
+      "dica": "Use o dedo em vez do calendário. É o teste do Esquadrão Imortal."
+    },
+    {
+      "linha1": "Folha enrolada?",
+      "linha2": "Faça a rega de",
+      "destaque": "imersão",
+      "texto": "É a cura indicada para a jiboia. Em poucas horas ela volta ao normal, firme e feliz.",
+      "dica": "Ver a folha esticar de novo dá muita confiança."
+    },
+    {
+      "tarja": "Bom sinal",
+      "linha1": "Folha nova",
+      "linha2": "quase toda",
+      "destaque": "semana",
+      "texto": "Quando está feliz, a jiboia solta folhas novas quase toda semana. É sinal de que você leva jeito.",
+      "nota": "Você leva jeito sim."
+    },
+    {
+      "texto": "Escute a sua jiboia e cuide com calma. Salve este post para a próxima vez que a folha enrolar.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "Se as folhas da jiboia começam a enrolar levemente ou ficam murchas, é um sinal claro de sede.",
+      "pagina": 9,
+      "trecho": "Se as folhas começarem a enrolar levemente ou ficarem murchas, é um sinal claro de sede",
+      "fonte": "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 9"
+    },
+    {
+      "texto": "A cura para folha enrolada é a rega de imersão, e a jiboia volta ao normal em poucas horas.",
+      "pagina": 17,
+      "trecho": "Cure com rega de imersão. Ela volta ao normal em horas",
+      "fonte": "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 17"
+    },
+    {
+      "texto": "Depois de regada, a jiboia fica firme e feliz de novo em poucas horas.",
+      "pagina": 9,
+      "trecho": "Em poucas horas ela volta a ficar turgida e feliz",
+      "fonte": "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 9"
+    },
+    {
+      "texto": "Regar a cada 3 dias, por calendário, é receita para o desastre. Quem manda é a terra.",
+      "pagina": 14,
+      "trecho": "é a receita para o desastre com qualquer membro do seu esquadrão",
+      "fonte": "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 14"
+    },
+    {
+      "texto": "Teste do dedo: enfie o dedo na terra até a segunda falange, uns 3 a 5 cm de fundura.",
+      "pagina": 14,
+      "trecho": "Até a segunda falange (cerca de 3 a 5 cm de profundidade)",
+      "fonte": "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 14"
+    },
+    {
+      "texto": "Seu esquadrão de plantas prefere ser esquecido a ser afogado.",
+      "pagina": 15,
+      "trecho": "Seu esquadrão prefere ser esquecido do que afogado",
+      "fonte": "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 15"
+    },
+    {
+      "texto": "A jiboia feliz solta folha nova quase toda semana.",
+      "pagina": 9,
+      "trecho": "quando feliz, solta folhas novas quase toda semana",
+      "fonte": "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 9"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "fontes": [
+    "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 9",
+    "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 17",
+    "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 14",
+    "O Esquadrão Imortal: 6 Plantas Indestrutíveis, p. 15"
+  ],
+  "materia": {
+    "slug": "jiboia-folha-enrolada-o-que-fazer",
+    "titulo": "Jiboia com folha enrolada: o que fazer",
+    "descricao": "Folha enrolada na jiboia é pedido de água, não motivo de desespero. Veja como ler o sinal, fazer o teste do dedo e regar com calma, sem medo de errar.",
+    "introducao": "Você olhou para a sua jiboia e as folhas estavam enroladas ou murchas. O coração apertou, não foi? Respire. Esse é um dos sinais mais fáceis de entender que uma planta pode dar. A jiboia é daquelas que falam com a gente, e o recado costuma ser simples. Neste texto, a gente conversa sobre o que esse sinal quer dizer, como confirmar antes de regar e como cuidar dela com calma, sem culpa. Tudo vem do ebook O Esquadrão Imortal, do André, escrito para quem já perdeu planta e quer recomeçar com confiança.",
+    "secoes": [
+      {
+        "titulo": "O que a folha enrolada quer dizer",
+        "paragrafos": [
+          "Segundo o livro, quando as folhas da jiboia começam a enrolar levemente ou ficam murchas, é um sinal claro de sede. Não é castigo, não é doença misteriosa e não é prova de que você tem o tal dedo podre. É só a planta pedindo água do jeito que ela sabe.",
+          "Por isso o André diz que a jiboia fala com você. Ela é uma planta que dá retorno visível. Em vez de sofrer calada, ela avisa. Quem aprende a ler esse aviso já está no caminho certo."
+        ],
+        "fatosUsados": [
+          0
+        ]
+      },
+      {
+        "titulo": "Como socorrer: a rega de imersão",
+        "paragrafos": [
+          "A cura indicada no livro para a jiboia de folhas enroladas é a rega de imersão. Depois dela, a planta volta ao normal em horas. O ebook não detalha minuto por minuto, então o mais importante é guardar a ideia: a jiboia responde rápido ao cuidado certo.",
+          "E isso é uma boa notícia. Em poucas horas ela volta a ficar firme e feliz. Quem vê a folha esticando de novo ganha confiança, e confiança é o que faz a gente continuar cuidando."
+        ],
+        "fatosUsados": [
+          1,
+          2
+        ]
+      },
+      {
+        "titulo": "Esqueça o calendário, use o dedo",
+        "paragrafos": [
+          "Muita gente rega a cada três dias porque alguém disse que era assim. O livro é direto: essa regra é receita para o desastre. A planta não sabe que dia é hoje, e quem decide a hora da rega é a terra.",
+          "Para saber, faça o teste do dedo. Enfie o dedo na terra até a segunda falange, mais ou menos 3 a 5 centímetros de profundidade. Se estiver limpo e seco, a planta está com sede e é hora de regar. Se sair sujo e úmido, espere, porque o solo ainda tem umidade suficiente."
+        ],
+        "fatosUsados": [
+          3,
+          4
+        ]
+      },
+      {
+        "titulo": "Na dúvida, prefira esquecer a afogar",
+        "paragrafos": [
+          "Uma frase do ebook vale ouro: o esquadrão prefere ser esquecido a ser afogado. Isso vale para quem cuida com amor demais. Regar por ansiedade, só porque bateu a vontade de fazer alguma coisa, pode fazer mais mal do que um esquecimento de um dia.",
+          "Então, antes de pegar o regador, confira a terra. Se ela ainda estiver úmida, respire e espere. Esperar também é cuidar."
+        ],
+        "fatosUsados": [
+          5
+        ]
+      },
+      {
+        "titulo": "O sinal de que deu certo",
+        "paragrafos": [
+          "Como saber que a jiboia está bem? O livro conta que, quando feliz, ela solta folhas novas quase toda semana. Ver uma folha nova nascendo é uma alegria genuína, e é a prova de que você leva jeito.",
+          "Não precisa de pressa nem de perfeição. Observe a planta, escute o que ela diz e ajuste aos poucos. A jiboia é gentil com quem está começando."
+        ],
+        "fatosUsados": [
+          6
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Folha enrolada na jiboia sempre é falta de água?",
+        "resposta": "Segundo o livro, folhas enrolando levemente ou murchas são um sinal claro de sede. Por garantia, faça o teste do dedo antes de regar: se o dedo sair limpo e seco, é hora."
+      },
+      {
+        "pergunta": "De quantos em quantos dias devo regar a jiboia?",
+        "resposta": "O livro não dá um número de dias. Ele diz que regar por calendário, como a cada 3 dias, é receita para o desastre. Use o teste do dedo e deixe a terra mostrar a hora."
+      },
+      {
+        "pergunta": "Em quanto tempo a jiboia melhora depois de regada?",
+        "resposta": "Segundo o ebook, em poucas horas ela volta a ficar firme e feliz. O livro não dá outros prazos."
+      }
+    ],
+    "conclusao": "A folha enrolada da jiboia não é fracasso seu, é conversa. Ela pede, você confere com o dedo, rega com calma e, em poucas horas, vê a resposta. Na dúvida, espere um pouco, porque ela prefere ser esquecida a ser afogada. Salve este texto para a próxima vez que a dúvida bater e compartilhe com quem tem medo de errar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

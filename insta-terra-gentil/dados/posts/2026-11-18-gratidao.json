@@ -1,0 +1,209 @@
+{
+  "dia": "2026-11-18",
+  "palavra": "GRATIDAO",
+  "especie": "Dracaena trifasciata",
+  "nome": "Espada-de-são-jorge",
+  "tema": null,
+  "serie": "Socorro",
+  "gancho": "Folha amarela e mole na espada-de-são-jorge? Quase sempre é excesso de cuidado.",
+  "resumo": "Os sinais de rega demais na espada-de-são-jorge e o gesto simples que resolve: o teste do dedo e esperar a terra secar.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Rega",
+      "linha1": "Folha amarela",
+      "linha2": "na espada-de-",
+      "linha3": "são-jorge?",
+      "destaque": "calma"
+    },
+    {
+      "tarja": "Socorro",
+      "linha1": "Amarela e",
+      "linha2": "mole é sinal de",
+      "destaque": "excesso",
+      "texto": "A planta pede menos amor sufocante. Não é falta de cuidado, é cuidado demais.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Socorro",
+      "linha1": "Água demais",
+      "linha2": "apodrece a",
+      "destaque": "raiz",
+      "texto": "Quando a gente protege demais, sufoca. Com a planta é igual: a raiz precisa respirar.",
+      "nota": "Quase todo mundo começa assim."
+    },
+    {
+      "tarja": "Socorro",
+      "linha1": "Regar sem a",
+      "linha2": "terra secar",
+      "destaque": "de novo",
+      "texto": "A espada-de-são-jorge gosta de regas esporádicas. A terra seca por completo entre uma e outra.",
+      "nota": "Esperar também é cuidar."
+    },
+    {
+      "linha1": "Pare, respire e",
+      "linha2": "faça o teste",
+      "destaque": "do dedo",
+      "texto": "Antes de regar, encoste o dedo na terra e sinta como ela está.",
+      "dica": "Na dúvida, espere mais um pouco. Ela aguenta."
+    },
+    {
+      "linha1": "Regue só",
+      "linha2": "quando a planta",
+      "destaque": "pedir",
+      "texto": "Ela vive bem com pouca luz e regas mínimas. Quando regar, regue com carinho.",
+      "dica": "Luz indireta já está ótimo para ela."
+    },
+    {
+      "tarja": "Lembrete",
+      "linha1": "Perdeu planta?",
+      "linha2": "Errar faz parte",
+      "destaque": "da jornada",
+      "texto": "Todo jardineiro experiente já perdeu planta. Folha amarela é curiosidade, não culpa.",
+      "nota": "Você está aprendendo."
+    },
+    {
+      "texto": "Cuide com calma e ela devolve em folhas verdes. Salve este post para a próxima rega.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "A espada-de-são-jorge pede luz indireta e regas esporádicas, deixando a terra secar completamente entre uma rega e outra.",
+      "pagina": 9,
+      "trecho": "um local com luz indireta e regas esporádicas, permitindo que a terra seque completamente entre uma e outra",
+      "fonte": "Plantas da Gratidão: Proteção para o Lar, p. 9"
+    },
+    {
+      "texto": "Ela vive bem em ambiente com pouca luz e precisa de regas mínimas.",
+      "pagina": 9,
+      "trecho": "prospera em ambientes com pouca luz e exige regas mínimas",
+      "fonte": "Plantas da Gratidão: Proteção para o Lar, p. 9"
+    },
+    {
+      "texto": "Folha amarela e mole é a planta pedindo menos amor sufocante: é excesso de cuidado.",
+      "pagina": 23,
+      "trecho": "Tradução: 'Socorro! Preciso de menos amor sufocante!' É excesso de cuidado.",
+      "fonte": "Plantas da Gratidão: Proteção para o Lar, p. 23"
+    },
+    {
+      "texto": "Água demais apodrece a raiz.",
+      "pagina": 6,
+      "trecho": "Água demais apodrece a raiz, como excesso de proteção",
+      "fonte": "Plantas da Gratidão: Proteção para o Lar, p. 6"
+    },
+    {
+      "texto": "Antes de regar, pare, respire e faça o teste do dedo.",
+      "pagina": 21,
+      "trecho": "Pare. Respire. Faça o Teste do Dedo enquanto visualiza",
+      "fonte": "Plantas da Gratidão: Proteção para o Lar, p. 21"
+    },
+    {
+      "texto": "Regue apenas quando a planta pedir.",
+      "pagina": 22,
+      "trecho": "Regue apenas quando a planta pedir, e quando regar, regue com amor.",
+      "fonte": "Plantas da Gratidão: Proteção para o Lar, p. 22"
+    },
+    {
+      "texto": "Errar faz parte da jornada. Quem cuida há muito tempo já perdeu planta, e a folha amarela vira curiosidade, não culpa.",
+      "pagina": 26,
+      "trecho": "Lembre-se: errar faz parte da jornada. Eu já perdi plantas.",
+      "fonte": "Plantas da Gratidão: Proteção para o Lar, p. 26"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "fontes": [
+    "Plantas da Gratidão: Proteção para o Lar, p. 9",
+    "Plantas da Gratidão: Proteção para o Lar, p. 23",
+    "Plantas da Gratidão: Proteção para o Lar, p. 6",
+    "Plantas da Gratidão: Proteção para o Lar, p. 21",
+    "Plantas da Gratidão: Proteção para o Lar, p. 22",
+    "Plantas da Gratidão: Proteção para o Lar, p. 26"
+  ],
+  "materia": {
+    "slug": "espada-de-sao-jorge-folha-amarela-e-mole-e-excesso-de-cuidado",
+    "titulo": "Espada-de-são-jorge: folha amarela e mole",
+    "descricao": "Folha amarela e mole na espada-de-são-jorge costuma ser excesso de cuidado. Veja o que o ebook ensina sobre rega, teste do dedo e como errar sem culpa.",
+    "introducao": "Se a sua espada-de-são-jorge amarelou e amoleceu, respire fundo. Quase sempre isso não quer dizer falta de carinho, quer dizer carinho demais. Quem ama planta tende a regar muito, e ela sofre justamente por isso. Neste texto, a gente conversa sobre o que a folha amarela e mole está tentando dizer, por que a água demais é a vilã, como o teste do dedo ajuda e por que errar faz parte do caminho. Tudo com base no ebook Plantas da Gratidão, do André, sem receita complicada e sem culpa. Quem já perdeu planta sabe como dói, e é por isso que vale ir com calma, um passo de cada vez.",
+    "secoes": [
+      {
+        "titulo": "O que a folha amarela e mole quer dizer",
+        "paragrafos": [
+          "O ebook traz uma tradução bem humana para esse sinal. Quando a folha fica amarela e mole, a planta está dizendo: Socorro, preciso de menos amor sufocante. Em outras palavras, é excesso de cuidado. Parece estranho, mas é uma boa notícia, porque o problema não é falta de dedicação sua.",
+          "Isso muda o jeito de agir. Em vez de correr para dar mais água ou mais alguma coisa, o caminho é fazer menos. Respirar, olhar a planta com calma e dar um tempo para ela. Muitas vezes, o melhor cuidado é esperar."
+        ],
+        "fatosUsados": [
+          2
+        ]
+      },
+      {
+        "titulo": "Por que água demais faz mal",
+        "paragrafos": [
+          "O livro resume numa frase simples: água demais apodrece a raiz, como excesso de proteção. A comparação ajuda a entender. Quando a gente protege demais, sufoca. Com a planta é igual: a raiz precisa respirar, e a terra encharcada não deixa.",
+          "O ebook não dá uma conta de quantos copos de água usar, e não vamos inventar uma. O que ele deixa claro é a ideia: o perigo está no exagero, não na falta de atenção. Por isso a espada-de-são-jorge perdoa o esquecimento muito mais do que a rega em excesso."
+        ],
+        "fatosUsados": [
+          3
+        ]
+      },
+      {
+        "titulo": "Como a espada-de-são-jorge gosta de ser regada",
+        "paragrafos": [
+          "Segundo o ebook, para cultivá-la basta um local com luz indireta e regas esporádicas, permitindo que a terra seque completamente entre uma rega e outra. Esporádica quer dizer de vez em quando, sem pressa e sem rotina apertada. O que manda é a terra: se ainda não secou, a planta ainda não precisa.",
+          "Outro ponto que o livro destaca é que ela vive bem em ambiente com pouca luz e precisa de regas mínimas. Ou seja, ela é uma planta que não pede muito. Se você sente vontade de fazer alguma coisa por ela, lembre que ficar quieto também é cuidar."
+        ],
+        "fatosUsados": [
+          0,
+          1
+        ]
+      },
+      {
+        "titulo": "O teste do dedo antes de regar",
+        "paragrafos": [
+          "Na parte dos rituais de cuidado, o ebook sugere uma pausa antes da rega: pare, respire e faça o teste do dedo. A ideia é transformar a rotina em um momento calmo, em vez de uma obrigação chata.",
+          "O teste do dedo é um gesto simples: você encosta o dedo na terra para sentir como ela está. O ebook não detalha a profundidade nem o tempo de espera, então use o bom senso e, na dúvida, espere mais um pouco. Regue apenas quando a planta pedir, como diz o livro, e quando regar, regue com carinho."
+        ],
+        "fatosUsados": [
+          4,
+          5
+        ]
+      },
+      {
+        "titulo": "Errar faz parte da jornada",
+        "paragrafos": [
+          "Talvez você já tenha perdido alguma planta, e tudo bem. O próprio André conta no ebook que já perdeu plantas, e que todo jardineiro experiente também já perdeu. Errar faz parte da jornada.",
+          "A diferença está em como a gente olha para o erro. Em vez de sentir culpa diante de uma folha amarela, o livro convida a sentir curiosidade e gratidão pela lição. A planta está conversando com você, e cada sinal ensina um pouco mais sobre o que ela precisa."
+        ],
+        "fatosUsados": [
+          6
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "De quanto em quanto tempo devo regar a espada-de-são-jorge?",
+        "resposta": "O ebook não dá um número de dias. Ele pede regas esporádicas, deixando a terra secar completamente entre uma e outra. Faça o teste do dedo e regue apenas quando a planta pedir."
+      },
+      {
+        "pergunta": "Folha amarela e mole é sempre excesso de água?",
+        "resposta": "Segundo o ebook, folhas amarelas e moles indicam excesso de cuidado. Antes de qualquer outra coisa, dê uma pausa na rega e observe a planta com calma."
+      },
+      {
+        "pergunta": "A espada-de-são-jorge precisa de muita luz?",
+        "resposta": "Não. O ebook diz que ela vive bem em ambiente com pouca luz e pede luz indireta. É uma planta que não exige condições perfeitas."
+      }
+    ],
+    "conclusao": "Cuidar da espada-de-são-jorge é mais sobre esperar do que sobre fazer. Quando a folha amarelar e amolecer, lembre que pode ser carinho demais, não falta dele. Pare, respire, faça o teste do dedo e regue só quando a planta pedir. Se errar, tudo bem, porque errar faz parte da jornada e cada folha ensina alguma coisa. Salve este texto para a próxima vez que a dúvida bater e conte para quem também cuida de planta com medo de errar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

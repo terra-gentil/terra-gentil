@@ -1,0 +1,204 @@
+{
+  "dia": "2026-11-19",
+  "palavra": "ECONOMIA",
+  "especie": "Epipremnum aureum",
+  "nome": "Jiboia",
+  "tema": "regar",
+  "serie": "3 erros",
+  "gancho": "O excesso de amor também afoga a planta: 3 erros de rega que gastam seu dinheiro.",
+  "resumo": "Três erros de rega (calendário, copinho no centro, excesso de água) e dois gestos simples: o teste do dedo e regar até a água sair por baixo.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Rega",
+      "linha1": "Regar demais",
+      "linha2": "afoga a raiz",
+      "linha3": "da sua",
+      "destaque": "jiboia"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Regar pelo",
+      "linha2": "calendário",
+      "destaque": "toda semana",
+      "texto": "A planta não sabe que dia é hoje. Ela reage à temperatura e à umidade do ar, então deixe a terra dizer a hora.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Um copinho de",
+      "linha2": "água só no",
+      "destaque": "centro",
+      "texto": "Jogar um copinho de água no meio do vaso é ineficiente. A água cria caminhos e não molha todas as raízes.",
+      "nota": "Quase todo mundo começa assim."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Regar demais",
+      "linha2": "por",
+      "destaque": "carinho",
+      "texto": "O excesso de amor é a maior causa de morte de planta. Vaso encharcado vira pântano, e a raiz apodrece.",
+      "nota": "Um gesto pequeno resolve."
+    },
+    {
+      "linha1": "Enfie o dedo",
+      "linha2": "na terra, uns",
+      "destaque": "3 a 5 cm",
+      "texto": "Use o dedo indicador, cerca de duas falanges para dentro da terra. Faça esse teste antes de abrir a torneira.",
+      "dica": "Não tenha nojo. É o teste mais simples e de graça."
+    },
+    {
+      "linha1": "Dedo limpo?",
+      "linha2": "Regue até sair",
+      "destaque": "por baixo",
+      "texto": "Saiu limpo e seco? Regue devagar toda a superfície, até a água sair pelos furos. Deixe escorrer bem.",
+      "dica": "Se der, leve a planta para a pia, o tanque ou o box."
+    },
+    {
+      "tarja": "Sinal",
+      "linha1": "Terra grudou",
+      "linha2": "no dedo?",
+      "destaque": "não regue",
+      "texto": "Saiu sujo e úmido? A planta ainda tem reserva de água. É hora de esperar um pouco.",
+      "nota": "Esperar também é cuidar."
+    },
+    {
+      "texto": "Cuidar é esperar a hora certa. Salve este post e volte nele na próxima rega.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "Vaso encharcado vira pântano: a raiz apodrece e a planta morre. A raiz precisa de oxigênio tanto quanto de água.",
+      "pagina": 8,
+      "trecho": "Se o vaso fica encharcado, vira um pântano, a raiz apodrece e a planta morre.",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 8"
+    },
+    {
+      "texto": "Esqueça o calendário fixo. A planta não sabe que dia é hoje e reage à temperatura e à umidade do ar.",
+      "pagina": 8,
+      "trecho": "Esqueça o calendário! A planta não sabe que dia é hoje.",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 8"
+    },
+    {
+      "texto": "Teste do dedo: enfie o dedo indicador na terra, de 3 a 5 cm, duas falanges.",
+      "pagina": 9,
+      "trecho": "Coloque o dedo indicador cerca de 3 a 5 cm para dentro da terra (duas falanges do dedo).",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 9"
+    },
+    {
+      "texto": "Dedo saiu sujo e úmido, com terra grudada? Não regue. A planta ainda tem reserva de água.",
+      "pagina": 9,
+      "trecho": "Saiu sujo e úmido? A terra grudou no dedo? NÃO REGUE! A planta ainda tem reserva de água.",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 9"
+    },
+    {
+      "texto": "Regar devagar toda a superfície, até a água sair pelos furos de baixo, e deixar escorrer bem. Se der, leve a planta à pia, ao tanque ou ao box.",
+      "pagina": 9,
+      "trecho": "Quando for regar, leve a planta para uma pia, tanque ou box (se possível). Regue devagar toda a superfície da terra até a água começar a sair pelos furos de baixo do vaso.",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 9"
+    },
+    {
+      "texto": "Um copinho de água jogado no centro do vaso é ineficiente: a água cria caminhos e não molha todas as raízes.",
+      "pagina": 9,
+      "trecho": "Jogar um copinho de água correndo no centro do vaso é ineficiente.",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 9"
+    },
+    {
+      "texto": "A maior causa de morte de planta nos lares brasileiros é o excesso de amor, ou melhor, o excesso de água.",
+      "pagina": 8,
+      "trecho": "O excesso de amor. Ou melhor, o excesso de água.",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 8"
+    },
+    {
+      "texto": "Dedo limpo e seco, terra arenosa ou seca: a planta está com sede e pode ser regada com abundância.",
+      "pagina": 9,
+      "trecho": "Saiu limpo e seco? Você sentiu a terra arenosa ou seca? A planta está com sede.",
+      "fonte": "Jardim Lindo com Pouco Dinheiro, p. 9"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "fontes": [
+    "Jardim Lindo com Pouco Dinheiro, p. 8",
+    "Jardim Lindo com Pouco Dinheiro, p. 9"
+  ],
+  "materia": {
+    "slug": "jiboia-rega-pelo-dedo-sem-calendario",
+    "titulo": "Jiboia: rega pelo dedo, sem calendário",
+    "descricao": "Regar por calendário e por excesso de carinho afoga a raiz. Aprenda o teste do dedo e o jeito de regar que protege a sua jiboia, a sua calma e o seu bolso.",
+    "introducao": "Se você já viu uma planta murchar depois de tanto cuidado, respire fundo. Na maioria das vezes o problema não foi falta de amor. Foi excesso, e esse excesso quase sempre vem em forma de água. Neste texto, a gente conversa sobre três erros de rega bem comuns, sobre um teste simples que usa só o seu dedo e sobre o jeito de molhar a terra que ajuda de verdade. Tudo vem do ebook Jardim Lindo com Pouco Dinheiro, do André, e não pede nenhum produto caro. Quem entende a planta gasta menos, e isso vale para a jiboia e para qualquer outra que more na sua casa.",
+    "secoes": [
+      {
+        "titulo": "Por que o excesso de amor machuca a planta",
+        "paragrafos": [
+          "Muita gente acha que planta morre de sede. O ebook conta outra história: a maior causa de morte de planta nos lares brasileiros é o excesso de amor, ou melhor, o excesso de água. Quem cuida com carinho tende a regar demais, e a planta paga a conta.",
+          "Pense na raiz. Ela precisa de oxigênio tanto quanto de água. Quando o vaso fica encharcado, ele vira uma espécie de pântano, a raiz apodrece e a planta morre. Ou seja, a água demais tira o ar de quem estava só querendo viver. Se isso já aconteceu com você, calma. Não é culpa sua, é um erro que quase todo mundo comete no começo."
+        ],
+        "fatosUsados": [
+          0,
+          6
+        ]
+      },
+      {
+        "titulo": "Erro 1: regar pelo calendário",
+        "paragrafos": [
+          "É comum ouvir regras do tipo toda segunda, quarta e sexta. O livro pede para esquecer o calendário, porque a planta não sabe que dia é hoje. Ela reage à temperatura e à umidade do ar, e isso muda de um dia para o outro.",
+          "Em vez de olhar a folhinha da parede, olhe para a terra. É ela que diz se está na hora de regar ou de esperar mais um pouco. A gente mostra como na próxima parte, e é um teste que qualquer pessoa consegue fazer."
+        ],
+        "fatosUsados": [
+          1
+        ]
+      },
+      {
+        "titulo": "O teste do dedo: simples e de graça",
+        "paragrafos": [
+          "Antes de abrir a torneira, faça o teste do dedo. Coloque o dedo indicador na terra, de 3 a 5 cm para dentro, mais ou menos duas falanges. Se você tem nojinho de terra, tudo bem, mas vale a pena passar por cima disso.",
+          "Agora olhe o dedo. Saiu sujo e úmido, com a terra grudada? Não regue. A planta ainda tem reserva de água, então espere. Saiu limpo e seco, com sensação de terra arenosa ou seca? Aí a planta está com sede e pode ser regada com abundância. É um teste de poucos segundos, não custa nada e evita muita planta perdida."
+        ],
+        "fatosUsados": [
+          2,
+          3,
+          7
+        ]
+      },
+      {
+        "titulo": "Erro 2: o copinho de água no centro do vaso",
+        "paragrafos": [
+          "Outro hábito comum é jogar um copinho de água no meio do vaso e dar o assunto por encerrado. Segundo o ebook, isso é ineficiente. A água cria caminhos e não molha todas as raízes, então parte da planta fica sem beber, enquanto outra parte pode ficar encharcada.",
+          "O jeito melhor é regar devagar, molhando toda a superfície da terra, até a água começar a sair pelos furos de baixo do vaso. Depois, deixe escorrer bem. Se for possível, leve a planta para a pia, o tanque ou o box na hora de regar. Assim você não faz bagunça e a água escorre à vontade."
+        ],
+        "fatosUsados": [
+          4,
+          5
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "De quantos em quantos dias devo regar a jiboia?",
+        "resposta": "O livro não dá um número de dias, e de propósito: ele pede para esquecer o calendário. Faça o teste do dedo e regue só quando o dedo sair limpo e seco."
+      },
+      {
+        "pergunta": "O dedo saiu úmido. E agora?",
+        "resposta": "Não regue. Se o dedo saiu sujo e úmido, com terra grudada, a planta ainda tem reserva de água. Esperar também é cuidar."
+      },
+      {
+        "pergunta": "Como saber que regar já foi o bastante?",
+        "resposta": "Regue devagar toda a superfície da terra até a água começar a sair pelos furos de baixo do vaso. Depois, deixe escorrer bem."
+      }
+    ],
+    "conclusao": "Regar bem não é regar muito, é regar na hora certa. Use o dedo no lugar do calendário, molhe a terra toda devagar e deixe a água escorrer. Quando o dedo sair úmido, espere sem culpa. Cuidar também é saber esperar. Salve este texto para a próxima rega e conte para quem também tem medo de errar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

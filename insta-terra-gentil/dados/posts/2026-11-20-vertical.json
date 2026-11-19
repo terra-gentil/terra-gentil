@@ -1,0 +1,213 @@
+{
+  "dia": "2026-11-20",
+  "palavra": "VERTICAL",
+  "especie": "Epipremnum aureum",
+  "nome": "Jiboia",
+  "tema": "regar",
+  "serie": "Socorro",
+  "gancho": "Medo de molhar o sofá ao regar a planta na parede? Tem jeito.",
+  "resumo": "Quatro jeitos de regar o jardim vertical sem bagunça: tirar o vaso, mirar na terra, vaso autoirrigável e o gole lento.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Rega",
+      "linha1": "Regar na parede",
+      "linha2": "sem molhar",
+      "linha3": "o sofá é",
+      "destaque": "possível"
+    },
+    {
+      "tarja": "O medo",
+      "linha1": "Medo de molhar",
+      "linha2": "o chão e o",
+      "destaque": "sofá",
+      "texto": "Todo mundo que tem planta na parede sente isso. O medo é real, mas tem solução.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Erro comum",
+      "linha1": "Jogar água",
+      "linha2": "de uma",
+      "destaque": "vez só",
+      "texto": "Terra bem seca cria canais e a água passa direto. Ela escorre pelo vaso e não chega à raiz.",
+      "nota": "Quase todo mundo começa assim."
+    },
+    {
+      "tarja": "Cuidado",
+      "linha1": "Vaso sem",
+      "linha2": "furo de",
+      "destaque": "drenagem",
+      "texto": "Sem furos a água fica acumulada e a raiz pode apodrecer. Todo vaso precisa deixar a água sair.",
+      "nota": "Um gesto pequeno resolve."
+    },
+    {
+      "linha1": "Tire o vaso",
+      "linha2": "e regue na",
+      "destaque": "pia ou tanque",
+      "texto": "Regue bastante, até sair pelos furos. Deixe escorrer bem e só então volte para a parede.",
+      "dica": "Pode ser no fim de semana, com calma. A água cai na pia, não no tapete."
+    },
+    {
+      "linha1": "Na parede,",
+      "linha2": "regue o",
+      "destaque": "gole lento",
+      "texto": "Regue como quem toma chá quente: um pouquinho, espere absorver, mais um pouquinho.",
+      "dica": "Com borrifador de pressão, mire na terra e não na parede."
+    },
+    {
+      "tarja": "Sossego",
+      "linha1": "Vaso que não",
+      "linha2": "pinga existe",
+      "destaque": "mesmo",
+      "texto": "O autoirrigável é fechado embaixo e tem reservatório interno. A água não pinga.",
+      "nota": "Paciência e técnica resolvem."
+    },
+    {
+      "texto": "Em algumas semanas você pega o jeito. Salve este post para a próxima rega.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "O maior medo de quem tem jardim vertical dentro de casa é molhar o chão, o tapete ou o sofá. O livro diz que o medo é real, mas tem solução.",
+      "pagina": 14,
+      "trecho": "Vou molhar meu chão de taco, meu tapete ou meu sofá",
+      "fonte": "Jardim Vertical: Seu Novo Quintal na Parede, p. 14"
+    },
+    {
+      "texto": "Jeito da retirada: tire os vasos da parede, leve para a pia ou o tanque, regue bastante até sair pelos furos, deixe escorrer e só então volte para a parede.",
+      "pagina": 14,
+      "trecho": "regue abundantemente até sair pelos furos, deixe escorrer 15 minutos, volte para parede",
+      "fonte": "Jardim Vertical: Seu Novo Quintal na Parede, p. 14"
+    },
+    {
+      "texto": "Se usar borrifador de pressão, o jato fica sob controle. Mire na terra, não na parede.",
+      "pagina": 14,
+      "trecho": "Controla o jato, mire na terra, não na parede.",
+      "fonte": "Jardim Vertical: Seu Novo Quintal na Parede, p. 14"
+    },
+    {
+      "texto": "Vaso autoirrigável é fechado embaixo e tem reservatório interno. A água não pinga e não faz sujeira.",
+      "pagina": 14,
+      "trecho": "São fechados embaixo, têm reservatório interno. Zero sujeira, a água nunca pinga.",
+      "fonte": "Jardim Vertical: Seu Novo Quintal na Parede, p. 14"
+    },
+    {
+      "texto": "Quando a terra está bem seca, ela cria canais e a água passa direto. Por isso não jogue água de uma vez.",
+      "pagina": 14,
+      "trecho": "Terra seca cria canais, água passa direto.",
+      "fonte": "Jardim Vertical: Seu Novo Quintal na Parede, p. 14"
+    },
+    {
+      "texto": "O gole lento: regue como quem toma chá quente. Um pouquinho, espere absorver, e mais um pouquinho.",
+      "pagina": 14,
+      "trecho": "Regue como chá quente: pouquinho, espera absorver, mais pouquinho.",
+      "fonte": "Jardim Vertical: Seu Novo Quintal na Parede, p. 14"
+    },
+    {
+      "texto": "Todo vaso precisa de furos de drenagem, para a água não ficar acumulada e a raiz não apodrecer.",
+      "pagina": 11,
+      "trecho": "tenha furos de drenagem adequados para evitar o acúmulo de água e o apodrecimento das raízes",
+      "fonte": "Jardim Vertical: Seu Novo Quintal na Parede, p. 11"
+    },
+    {
+      "texto": "Em algumas semanas ou meses você pega o jeito da rega vertical. A chave é paciência e técnica.",
+      "pagina": 14,
+      "trecho": "Em algumas semanas ou meses, você terá domínio total da irrigação vertical.",
+      "fonte": "Jardim Vertical: Seu Novo Quintal na Parede, p. 14"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "fontes": [
+    "Jardim Vertical: Seu Novo Quintal na Parede, p. 14",
+    "Jardim Vertical: Seu Novo Quintal na Parede, p. 11"
+  ],
+  "materia": {
+    "slug": "jardim-vertical-como-regar-sem-molhar-o-sofa",
+    "titulo": "Jardim vertical: como regar sem molhar o sofá",
+    "descricao": "Tem medo de molhar o sofá ao regar o jardim vertical? Veja quatro jeitos simples de regar a jiboia na parede, sem bagunça, sem pressa e sem apodrecer a raiz.",
+    "introducao": "Se você tem uma planta na parede da sala e morre de medo de molhar o chão, o tapete ou o sofá, respire. Esse medo é comum e faz todo sentido. Muita gente deixa de regar ou rega com pressa, e a planta sofre. Neste texto, a gente conversa sobre quatro jeitos de regar o jardim vertical sem fazer bagunça, tudo com base no ebook do André sobre jardim vertical. Sem culpa e sem receita complicada. Um passo de cada vez, do jeito que a gente aprende na varanda.",
+    "secoes": [
+      {
+        "titulo": "O medo de molhar o sofá é real",
+        "paragrafos": [
+          "O livro do André diz que o maior medo de quem tem jardim vertical dentro de casa é molhar o chão de taco, o tapete ou o sofá. E ele não trata isso como bobagem. O medo é real. A boa notícia é que a solução é técnica e pede paciência, não sorte.",
+          "Então, se você já deixou de regar a sua jiboia por receio de pingar na sala, não é falta de carinho. É só falta de um método. E método a gente aprende."
+        ],
+        "fatosUsados": [
+          0
+        ]
+      },
+      {
+        "titulo": "Jeito 1: tirar o vaso da parede",
+        "paragrafos": [
+          "O primeiro jeito é o mais seguro para a sala. Tire os vasos da parede e leve para a pia ou para o tanque. Lá, regue bastante, até a água sair pelos furos. Depois deixe escorrer bem e só então volte o vaso para a parede.",
+          "Pode parecer trabalhoso, mas tem uma vantagem grande: a água que escorre cai na pia, e não no seu tapete. O livro lembra que isso funciona bem para fazer com calma, por exemplo no fim de semana."
+        ],
+        "fatosUsados": [
+          1
+        ]
+      },
+      {
+        "titulo": "Jeito 2 e 3: borrifador de pressão e vaso autoirrigável",
+        "paragrafos": [
+          "Se tirar o vaso da parede não é para você, o livro sugere um borrifador de pressão, daqueles que a gente bombeia. Ele deixa o jato sob controle. A regra é simples: mire na terra, não na parede. Assim a água vai para onde a raiz precisa.",
+          "Outra opção é o vaso autoirrigável. Ele é fechado embaixo e tem um reservatório interno, então a água não pinga e não faz sujeira. O livro fala em um investimento pequeno para quem quer sossego na hora de regar."
+        ],
+        "fatosUsados": [
+          2,
+          3
+        ]
+      },
+      {
+        "titulo": "Jeito 4: o gole lento",
+        "paragrafos": [
+          "Se você vai regar na própria parede, o segredo é não jogar água de uma vez. Quando a terra está bem seca, ela cria canais, e a água passa direto sem molhar a raiz. Ela escorre pelo vaso e pode acabar no chão.",
+          "O livro pede para regar como quem toma chá quente: um pouquinho, espera absorver, e mais um pouquinho. É um ritual calmo. A terra vai aceitando a água aos poucos e nada escorre para o sofá."
+        ],
+        "fatosUsados": [
+          4,
+          5
+        ]
+      },
+      {
+        "titulo": "Não esqueça dos furos e da paciência",
+        "paragrafos": [
+          "Qualquer que seja o jeito escolhido, o vaso precisa ter furos de drenagem. Sem eles, a água fica acumulada e a raiz pode apodrecer. Regar bem não é regar muito: é dar a água e deixar o excesso sair.",
+          "E não se cobre perfeição. Segundo o livro, em algumas semanas ou meses você terá domínio total da irrigação vertical. A chave é paciência e técnica. Errar no começo faz parte."
+        ],
+        "fatosUsados": [
+          6,
+          7
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Quantas vezes por semana devo regar o jardim vertical?",
+        "resposta": "O trecho do livro sobre rega vertical não traz um número fixo de vezes. O que ele ensina é o jeito: regar com calma, mirando na terra, e deixar o excesso escorrer pelos furos."
+      },
+      {
+        "pergunta": "Posso regar direto na parede sem tirar o vaso?",
+        "resposta": "Pode, usando o gole lento: um pouquinho de água, espera absorver, e mais um pouquinho. Assim a água não passa direto pelos canais da terra seca."
+      },
+      {
+        "pergunta": "Vaso autoirrigável evita bagunça mesmo?",
+        "resposta": "Segundo o livro, ele é fechado embaixo e tem reservatório interno, então a água não pinga e não faz sujeira."
+      }
+    ],
+    "conclusao": "Regar a planta na parede sem molhar o sofá é questão de escolher o jeito que cabe na sua rotina. Tire o vaso e regue na pia, mire na terra com o borrifador, use um vaso autoirrigável ou faça o gole lento. Garanta os furos de drenagem e tenha paciência com você. Salve este texto para a próxima rega e conte para quem também tem medo de molhar a sala. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

@@ -1,0 +1,203 @@
+{
+  "dia": "2026-11-21",
+  "palavra": "TERAPIA",
+  "especie": "Spathiphyllum wallisii",
+  "nome": "Lírio da Paz",
+  "tema": null,
+  "serie": "Socorro",
+  "gancho": "O lírio da paz desmaiou? Calma, ele só está pedindo água.",
+  "resumo": "O lírio da paz murcha quando tem sede e se levanta depois da rega. Veja como ler o sinal, quando regar e que luz ele prefere.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Rega",
+      "linha1": "Seu lírio da paz",
+      "linha2": "desmaiou? Calma,",
+      "linha3": "ele só pediu",
+      "destaque": "água"
+    },
+    {
+      "tarja": "Susto 1",
+      "linha1": "Achar que",
+      "linha2": "é o fim da",
+      "destaque": "planta",
+      "texto": "Com sede, o lírio da paz desmaia de forma dramática. É o jeito dele de avisar que precisa de algo.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Susto 2",
+      "linha1": "Achar que",
+      "linha2": "ele não vai",
+      "destaque": "voltar",
+      "texto": "Depois de receber água, ele se levanta. Momentos de fragilidade passam e a recuperação é possível.",
+      "nota": "Quase todo mundo se assusta."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Regar sem",
+      "linha2": "olhar a",
+      "destaque": "terra",
+      "texto": "Terra encharcada também não ajuda. Ele gosta do solo úmido, mas nunca encharcado.",
+      "nota": "Um gesto pequeno resolve."
+    },
+    {
+      "linha1": "Toque a terra",
+      "linha2": "e regue só se",
+      "destaque": "estiver seca",
+      "texto": "Camada de cima seca ao toque? Regue com atenção e acompanhe a recuperação dele.",
+      "dica": "Mantenha a terra úmida, mas nunca encharcada."
+    },
+    {
+      "linha1": "Olhe as folhas",
+      "linha2": "todo dia, sem",
+      "destaque": "pressa",
+      "texto": "Ao notar o menor sinal de cansaço, é hora de checar a planta e a terra.",
+      "dica": "Confie nos sinais que o seu lírio da paz envia."
+    },
+    {
+      "tarja": "Luz",
+      "linha1": "Sol direto",
+      "linha2": "nas folhas",
+      "destaque": "queima",
+      "texto": "Ele prefere luz indireta brilhante. Em lugar escuro até vive, mas floresce melhor com mais claridade.",
+      "nota": "Claro, mas sem sol batendo."
+    },
+    {
+      "texto": "Ele avisa quando precisa de você. Salve este post para o próximo susto.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "Quando está com sede, o lírio da paz desmaia de forma dramática. É o jeito dele de dizer que precisa de algo.",
+      "pagina": 7,
+      "trecho": "Quando está com sede, ele desmaia dramaticamente",
+      "fonte": "Jardim Terapêutico: Plantas que Curam, p. 7"
+    },
+    {
+      "texto": "Depois de receber água, ele se levanta. A fragilidade passa e a recuperação é possível.",
+      "pagina": 7,
+      "trecho": "Após receber água, ele se levanta majestosamente",
+      "fonte": "Jardim Terapêutico: Plantas que Curam, p. 7"
+    },
+    {
+      "texto": "A hora de regar é quando a camada de cima da terra estiver seca ao toque.",
+      "pagina": 7,
+      "trecho": "Regue quando a camada superior do solo estiver seca ao toque",
+      "fonte": "Jardim Terapêutico: Plantas que Curam, p. 7"
+    },
+    {
+      "texto": "A terra deve ficar úmida, mas nunca encharcada.",
+      "pagina": 7,
+      "trecho": "Mantenha o solo úmido, mas nunca encharcado",
+      "fonte": "Jardim Terapêutico: Plantas que Curam, p. 7"
+    },
+    {
+      "texto": "Ele gosta de luz indireta brilhante. Sol direto pode queimar as folhas.",
+      "pagina": 7,
+      "trecho": "Evite a exposição direta ao sol, que pode queimar suas folhas",
+      "fonte": "Jardim Terapêutico: Plantas que Curam, p. 7"
+    },
+    {
+      "texto": "Vale olhar as folhas todos os dias. Ao notar o menor sinal de cansaço, é hora de checar a planta.",
+      "pagina": 7,
+      "trecho": "Observe diariamente suas folhas",
+      "fonte": "Jardim Terapêutico: Plantas que Curam, p. 7"
+    },
+    {
+      "texto": "Ele aguenta lugar com pouca luz, mas floresce melhor onde tem mais claridade.",
+      "pagina": 7,
+      "trecho": "mas floresce melhor com mais claridade",
+      "fonte": "Jardim Terapêutico: Plantas que Curam, p. 7"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "fontes": [
+    "Jardim Terapêutico: Plantas que Curam, p. 7"
+  ],
+  "materia": {
+    "slug": "lirio-da-paz-desmaiou-o-que-fazer",
+    "titulo": "Lírio da Paz desmaiou: o que fazer",
+    "descricao": "O lírio da paz desmaiou e você ficou com medo? Veja por que ele murcha, como regar do jeito certo e que luz ele prefere, sem culpa, sem bronca e sem susto.",
+    "introducao": "Você olhou para o seu lírio da paz e ele estava caído, com as folhas pendendo, como se tivesse desistido. Respire. Na maioria das vezes, isso não é o fim da planta. É um aviso, e dos mais claros que existem. Neste texto, a gente conversa sobre o que esse desmaio quer dizer, como regar na hora certa e que tipo de luz ele prefere. Tudo com base no ebook Jardim Terapêutico, do André, sem receita complicada e sem bronca. Quem já perdeu planta sabe o aperto no peito, e por isso vale ir com calma, um passo de cada vez.",
+    "secoes": [
+      {
+        "titulo": "Por que o lírio da paz desmaia",
+        "paragrafos": [
+          "Muita gente se assusta ao ver o lírio da paz todo caído. Parece grave, parece o fim. Só que o livro conta outra história: quando está com sede, ele desmaia de um jeito dramático. É a maneira dele de falar. Ele não esconde o que sente, e quando precisa de algo, mostra com clareza.",
+          "Isso muda tudo. O desmaio não é sinal de que você falhou. É a planta avisando que a terra pede água. Em vez de culpa, o melhor a fazer é agradecer o aviso e agir com atenção."
+        ],
+        "fatosUsados": [
+          0
+        ]
+      },
+      {
+        "titulo": "O que acontece depois da rega",
+        "paragrafos": [
+          "A parte boa é que a recuperação costuma ser bonita de ver. Depois de receber água, o lírio da paz se levanta, e o livro diz que ele faz isso de forma majestosa. As folhas voltam a ficar firmes e a planta retoma o jeito de antes.",
+          "O André usa isso como uma lembrança gentil: momentos de fragilidade não são permanentes, e a recuperação é possível. Vale para a planta e também para a gente. Se o seu lírio desmaiou e você demorou um pouco para perceber, não se cobre. Regue com atenção e dê a ele a chance de se levantar."
+        ],
+        "fatosUsados": [
+          1
+        ]
+      },
+      {
+        "titulo": "Como saber a hora certa de regar",
+        "paragrafos": [
+          "O livro dá um sinal simples para a rega: regue quando a camada de cima da terra estiver seca ao toque. Então o gesto é tocar a terra com o dedo. Se a parte de cima está seca, é hora. Se ainda está úmida, espere.",
+          "Também é importante não exagerar. A terra deve ficar úmida, mas nunca encharcada. Ou seja, o objetivo não é deixar a planta nadando em água, e sim manter a terra com uma umidade agradável. O livro não traz um número de regas por semana, e isso é de propósito: quem manda é a terra, não o calendário."
+        ],
+        "fatosUsados": [
+          2,
+          3
+        ]
+      },
+      {
+        "titulo": "Olhar as folhas todo dia ajuda",
+        "paragrafos": [
+          "O ebook sugere um ritual bem simples: observar as folhas todos os dias. Ao notar o menor sinal de cansaço, use isso como um lembrete para checar a planta e a terra. Assim você percebe o pedido de água cedo, antes de a planta chegar no desmaio.",
+          "Esse olhar diário também faz bem para quem cuida. É um momento de pausa, de presença, de conversa silenciosa com a planta. O André diz que aprender a confiar nos sinais do lírio ajuda a decifrar os sinais do nosso próprio corpo e da nossa mente."
+        ],
+        "fatosUsados": [
+          5
+        ]
+      },
+      {
+        "titulo": "Que luz o lírio da paz prefere",
+        "paragrafos": [
+          "Sobre a luz, o livro diz que ele prefere luz indireta brilhante. Isso quer dizer um lugar claro, mas sem o sol batendo direto nas folhas, porque a exposição direta ao sol pode queimar as folhas.",
+          "A boa notícia é que ele se adapta bem a ambientes com pouca luz. Só que, segundo o livro, floresce melhor onde tem mais claridade. Então, se o seu lírio nunca dá flor, vale pensar em um cantinho mais claro, ainda sem sol direto."
+        ],
+        "fatosUsados": [
+          4,
+          6
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Meu lírio da paz desmaiou, ele vai morrer?",
+        "resposta": "O livro conta que ele desmaia quando está com sede e que, depois de receber água, se levanta. Verifique a terra e regue com atenção, se a camada de cima estiver seca ao toque."
+      },
+      {
+        "pergunta": "Quantas vezes por semana devo regar o lírio da paz?",
+        "resposta": "O livro não dá um número fixo. Ele pede para regar quando a camada de cima da terra estiver seca ao toque, mantendo o solo úmido, mas nunca encharcado."
+      },
+      {
+        "pergunta": "Posso deixar o lírio da paz no sol?",
+        "resposta": "O livro recomenda luz indireta brilhante e pede para evitar o sol direto, que pode queimar as folhas. Ele aguenta pouca luz, mas floresce melhor com mais claridade."
+      }
+    ],
+    "conclusao": "O desmaio do lírio da paz assusta, mas é só uma conversa. Ele pede água, você responde com atenção, e ele se levanta. Toque a terra, regue quando a camada de cima estiver seca, não deixe encharcar e escolha um lugar claro sem sol direto. Olhe as folhas todo dia e confie nos sinais. Salve este texto para a próxima vez que o susto bater e conte para quem também cuida de planta com medo de errar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

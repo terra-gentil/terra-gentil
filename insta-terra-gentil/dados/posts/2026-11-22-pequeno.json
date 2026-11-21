@@ -1,0 +1,215 @@
+{
+  "dia": "2026-11-22",
+  "palavra": "PEQUENO",
+  "especie": "Epipremnum aureum",
+  "nome": "Jiboia",
+  "tema": null,
+  "serie": "3 erros",
+  "gancho": "O vaso bonito sem furo pode afogar a raiz da sua jiboia.",
+  "resumo": "Três erros de vaso e rega no apartamento, e dois passos simples: a rega de pia e o teste do dedo.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Rega",
+      "linha1": "O cachepô sem furo",
+      "linha2": "pode afogar a",
+      "linha3": "raiz da",
+      "destaque": "jiboia"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Esquecer que a",
+      "linha2": "raiz precisa",
+      "destaque": "respirar",
+      "texto": "Sem saída para a água, a terra vira lama, o ar sai e a raiz apodrece. Não é falta de carinho.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Plantar direto",
+      "linha2": "no vaso",
+      "destaque": "sem furo",
+      "texto": "O cachepô é lindo, mas perigoso se usado do jeito errado. Ele não deixa a água sair.",
+      "nota": "Quase todo mundo começa assim."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Ter medo de",
+      "linha2": "molhar a",
+      "destaque": "sala",
+      "texto": "Muita gente rega pouco por medo de molhar o tapete ou o móvel. Tem um jeito simples de resolver.",
+      "nota": "Um gesto pequeno resolve."
+    },
+    {
+      "linha1": "Leve a planta",
+      "linha2": "até a pia e",
+      "destaque": "regue bem",
+      "texto": "Molhe a terra toda, até a água sair pelos furos de baixo. Depois deixe escorrer, seque o fundo e devolva.",
+      "dica": "Leve a planta até a água, não a água até a planta."
+    },
+    {
+      "linha1": "Antes de regar,",
+      "linha2": "faça o teste",
+      "destaque": "do dedo",
+      "texto": "Afunde o dedo indicador na terra. Saiu sujo ou úmido? Não regue. Espere mais um ou dois dias.",
+      "dica": "Esqueça o calendário. Quem manda é a terra."
+    },
+    {
+      "tarja": "Sinal",
+      "linha1": "Folhas tristes",
+      "linha2": "e caídas?",
+      "destaque": "É sede",
+      "texto": "A jiboia avisa quando tem sede. Ela fica murcha e, depois da rega, volta firme em poucas horas.",
+      "nota": "Ela sabe pedir ajuda."
+    },
+    {
+      "texto": "Vaso com furo, rega de pia e dedo na terra. Salve este post para a próxima rega.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "A raiz precisa respirar. Com rega demais e sem saída para a água, a terra vira lama, o ar sai e a raiz apodrece.",
+      "pagina": 7,
+      "trecho": "a terra vira uma lama compacta, o ar é expulso e a raiz",
+      "fonte": "Jardim Pequeno, Amor Gigante, p. 7"
+    },
+    {
+      "texto": "Nunca plante direto no cachepô sem furos, aquele vaso decorativo que é lindo, mas perigoso se usado do jeito errado.",
+      "pagina": 7,
+      "trecho": "Nunca plante diretamente no cachepô sem furos.",
+      "fonte": "Jardim Pequeno, Amor Gigante, p. 7"
+    },
+    {
+      "texto": "Deixe a planta no vaso de plástico e coloque o conjunto dentro do cachepô. Ele serve só como uma roupa para o vaso.",
+      "pagina": 7,
+      "trecho": "e coloque esse conjunto dentro do cachepô lindo",
+      "fonte": "Jardim Pequeno, Amor Gigante, p. 7"
+    },
+    {
+      "texto": "Na rega de pia, você leva a planta até a água, e não a água até a planta. Assim não molha o tapete nem o móvel.",
+      "pagina": 8,
+      "trecho": "leve a planta até a água, não a água até a planta",
+      "fonte": "Jardim Pequeno, Amor Gigante, p. 8"
+    },
+    {
+      "texto": "Molhe a terra toda, até a água sair pelos furos de baixo.",
+      "pagina": 8,
+      "trecho": "Molhe com vontade, até ver a água saindo abundantemente pelos furos de baixo",
+      "fonte": "Jardim Pequeno, Amor Gigante, p. 8"
+    },
+    {
+      "texto": "No teste do dedo, afunde a ponta do dedo indicador na terra do vaso.",
+      "pagina": 16,
+      "trecho": "Afunde o dedo indicador na terra do vaso",
+      "fonte": "Jardim Pequeno, Amor Gigante, p. 16"
+    },
+    {
+      "texto": "Se o dedo saiu sujo ou úmido e a terra grudou, não regue. Espere mais um ou dois dias.",
+      "pagina": 16,
+      "trecho": "Saiu sujo/úmido? A terra grudou no dedo? Não regue.",
+      "fonte": "Jardim Pequeno, Amor Gigante, p. 16"
+    },
+    {
+      "texto": "A jiboia avisa quando tem sede: as folhas ficam tristes, murchas e caídas, e voltam firmes depois da rega.",
+      "pagina": 6,
+      "trecho": "a Jiboia avisa quando tem sede",
+      "fonte": "Jardim Pequeno, Amor Gigante, p. 6"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "fontes": [
+    "Jardim Pequeno, Amor Gigante, p. 7",
+    "Jardim Pequeno, Amor Gigante, p. 8",
+    "Jardim Pequeno, Amor Gigante, p. 16",
+    "Jardim Pequeno, Amor Gigante, p. 6"
+  ],
+  "materia": {
+    "slug": "jiboia-vaso-sem-furo-e-rega-de-pia",
+    "titulo": "Jiboia: vaso sem furo e rega de pia",
+    "descricao": "O vaso bonito sem furo pode afogar a raiz da jiboia. Veja como usar o cachepô do jeito certo, a rega de pia e o teste do dedo, sem medo nenhum de errar.",
+    "introducao": "Você comprou um vaso lindo para a sua jiboia e agora fica com o coração apertado, sem saber se fez a coisa certa. Respire, isso acontece com muita gente. Neste texto, a gente conversa sobre o que o André conta no ebook Jardim Pequeno, Amor Gigante: por que a raiz precisa respirar, como usar o cachepô sem prejudicar a planta, como funciona a rega de pia e como o teste do dedo ajuda a decidir a hora de regar. Tudo em passos pequenos, sem culpa, para quem mora em apartamento e quer ver a jiboia firme e verde.",
+    "secoes": [
+      {
+        "titulo": "Por que a raiz precisa respirar",
+        "paragrafos": [
+          "Muita gente pensa que a raiz só serve para beber água. O livro explica que não é bem assim: a raiz também precisa respirar. Quando a gente rega demais e a água não tem para onde sair, a terra vira uma lama compacta, o ar sai de dentro dela e a raiz acaba sem fôlego e apodrece.",
+          "Por isso o vaso importa tanto quanto a água. Não é falta de carinho, é só um detalhe de espaço e de saída. Quando você entende isso, fica mais fácil cuidar sem medo, porque o problema deixa de ser um mistério."
+        ],
+        "fatosUsados": [
+          0
+        ]
+      },
+      {
+        "titulo": "O cachepô sem furo é o vilão?",
+        "paragrafos": [
+          "O cachepô é aquele vaso decorativo, de cerâmica, cimento ou cestaria, que não tem furos. O André diz que ele é lindo, mas perigoso se usado do jeito errado. A regra do livro é clara: nunca plante diretamente no cachepô sem furos.",
+          "A solução é simples e não custa nada. Mantenha a jiboia no vaso de plástico, que é mais feio, mas tem furinhos embaixo. Depois coloque esse conjunto dentro do cachepô bonito. Assim o cachepô serve só como uma roupa para o vaso, e você não abre mão da beleza da sala."
+        ],
+        "fatosUsados": [
+          1,
+          2
+        ]
+      },
+      {
+        "titulo": "Como fazer a rega de pia",
+        "paragrafos": [
+          "Muita gente tem medo de regar na sala e molhar o tapete ou o móvel de madeira. A ideia do livro resolve isso: leve a planta até a água, e não a água até a planta. Leve o vaso para a pia da cozinha ou para o tanque.",
+          "Lá, molhe a terra com vontade, até ver a água saindo pelos furos de baixo. Isso mostra que a terra toda ficou úmida, e não só a superfície. Depois deixe o vaso escorrer bem, seque o fundo com um pano e devolva a planta ao lugar de sempre. O livro sugere deixar escorrer por uns 15 minutos."
+        ],
+        "fatosUsados": [
+          3,
+          4
+        ]
+      },
+      {
+        "titulo": "O teste do dedo para saber a hora de regar",
+        "paragrafos": [
+          "Esqueça o calendário. Quem manda é a terra, e o jeito de ouvir a terra é o dedo. Afunde o dedo indicador na terra do vaso e olhe o resultado.",
+          "Se o dedo saiu sujo ou úmido e a terra grudou nele, não regue. Espere mais um ou dois dias e teste de novo. Se saiu limpo e seco, aí sim é hora de regar, e de regar com vontade, do jeito que a gente viu na rega de pia."
+        ],
+        "fatosUsados": [
+          5,
+          6
+        ]
+      },
+      {
+        "titulo": "A jiboia sabe pedir ajuda",
+        "paragrafos": [
+          "Uma boa notícia para quem tem medo de errar: segundo o André, a jiboia avisa quando tem sede. As folhas, que normalmente são firmes, ficam tristes, murchas e caídas. Depois da rega, em poucas horas, ela costuma estar firme de novo.",
+          "Então você não está sozinho nessa conversa. A planta mostra o que sente, e o dedo na terra confirma. Com um vaso que deixa a água sair, a jiboia tem tudo para perdoar um erro ou outro e seguir crescendo."
+        ],
+        "fatosUsados": [
+          7
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Posso plantar a jiboia direto no cachepô?",
+        "resposta": "O livro pede que não: nunca plante diretamente no cachepô sem furos. Deixe a planta no vaso de plástico com furos e coloque o conjunto dentro do cachepô."
+      },
+      {
+        "pergunta": "Quantas vezes por semana devo regar a jiboia?",
+        "resposta": "O livro não dá um número fixo. Ele pede para esquecer o calendário e usar o teste do dedo: se o dedo sair sujo ou úmido, não regue; se sair limpo e seco, regue com vontade."
+      },
+      {
+        "pergunta": "Como regar sem molhar o tapete e o móvel?",
+        "resposta": "Faça a rega de pia: leve o vaso até a pia ou o tanque, molhe a terra até a água sair pelos furos, deixe escorrer, seque o fundo do vaso com um pano e devolva ao lugar."
+      }
+    ],
+    "conclusao": "Cuidar bem da jiboia começa por coisas simples: um vaso com furos, uma rega de pia generosa e o dedo na terra antes de decidir. Se um dia você errar, calma, faz parte de aprender a linguagem das plantas. Vá com paciência, um vaso de cada vez, e a sua jiboia agradece em folhas firmes e verdes. Salve este texto para a próxima vez que a dúvida bater. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

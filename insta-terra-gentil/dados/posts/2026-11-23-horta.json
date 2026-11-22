@@ -1,0 +1,214 @@
+{
+  "dia": "2026-11-23",
+  "palavra": "HORTA",
+  "especie": "Petroselinum crispum",
+  "nome": "Salsinha",
+  "tema": "horta",
+  "serie": "Mito ou verdade",
+  "gancho": "Três mitos que seguram quem sonha com uma horta de temperos na varanda.",
+  "resumo": "Os mitos do espaço, do trabalho e do custo, mais três gestos simples para começar: usar a altura, vaso com furo e teste do dedo.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Horta",
+      "linha1": "Horta na varanda",
+      "linha2": "dá menos",
+      "linha3": "trabalho",
+      "destaque": "do que parece"
+    },
+    {
+      "tarja": "Mito 1",
+      "linha1": "Preciso de",
+      "linha2": "muito",
+      "destaque": "espaço?",
+      "texto": "Um vaso de salsinha saudável precisa de só 15 cm de diâmetro. Se cabe um prato, cabem temperos.",
+      "nota": "Cabe mais do que você pensa."
+    },
+    {
+      "tarja": "Mito 2",
+      "linha1": "Dá muito",
+      "linha2": "mesmo",
+      "destaque": "trabalho?",
+      "texto": "Temperos são plantas rústicas. A horta pede uns cinco minutos por dia, o tempo do seu café.",
+      "nota": "Dá para caber na rotina."
+    },
+    {
+      "tarja": "Mito 3",
+      "linha1": "Vai ficar",
+      "linha2": "mesmo",
+      "destaque": "caro?",
+      "texto": "Um vasinho que dá folhas por meses custa muito menos do que comprar tempero toda semana.",
+      "nota": "Faça a conta com carinho."
+    },
+    {
+      "linha1": "Olhe para",
+      "linha2": "cima e use a",
+      "destaque": "altura",
+      "texto": "No apartamento, o chão é valioso. Traga a horta para a altura dos seus olhos e das suas mãos.",
+      "dica": "Vasos suspensos também valem. Pense na altura dos olhos, do nariz e das mãos."
+    },
+    {
+      "linha1": "Todo vaso",
+      "linha2": "com furo",
+      "destaque": "embaixo",
+      "texto": "Pode ser vaso comprado ou reaproveitado, desde que tenha furo. Sem furo, a raiz apodrece.",
+      "dica": "Comece com mudas já formadas. Semente pede uma paciência que pode desanimar."
+    },
+    {
+      "tarja": "Sinal",
+      "linha1": "Dúvida na",
+      "linha2": "hora de",
+      "destaque": "regar?",
+      "texto": "Enfie o dedo na terra até a segunda falange. Limpo e seco, em geral é hora. Sujo e úmido, espere.",
+      "nota": "A vida tem seus tempos."
+    },
+    {
+      "texto": "Escolha dois temperos e comece com calma. Salve este post para o dia de plantar.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "Mito do espaço: um vaso de salsinha saudável precisa de apenas 15 cm de diâmetro. Quem tem lugar para um prato na varanda tem lugar para temperos.",
+      "pagina": 4,
+      "trecho": "Um vaso de salsinha saudável precisa de apenas 15 cm de diâmetro",
+      "fonte": "Horta na Varanda: Tenha Temperos Frescos, p. 4"
+    },
+    {
+      "texto": "Mito do trabalho: temperos são plantas rústicas e a horta pede só cinco minutos por dia, o tempo de um café.",
+      "pagina": 4,
+      "trecho": "Cinco minutos por dia - o tempo do seu café - é tudo que sua horta pede",
+      "fonte": "Horta na Varanda: Tenha Temperos Frescos, p. 4"
+    },
+    {
+      "texto": "Mito do custo: um vasinho que dá folhas por meses custa bem menos do que comprar tempero toda semana.",
+      "pagina": 4,
+      "trecho": "Um vasinho que te dá folhas por meses custa muito menos",
+      "fonte": "Horta na Varanda: Tenha Temperos Frescos, p. 4"
+    },
+    {
+      "texto": "O segredo da horta de varanda é olhar para cima e trazer as plantas para a altura dos olhos, do nariz e das mãos.",
+      "pagina": 5,
+      "trecho": "o grande segredo da horta em varanda é: olhe para cima",
+      "fonte": "Horta na Varanda: Tenha Temperos Frescos, p. 5"
+    },
+    {
+      "texto": "Todo vaso precisa de furos embaixo. Sem furo, a raiz apodrece.",
+      "pagina": 16,
+      "trecho": "A regra de ouro: TEM que ter furos embaixo",
+      "fonte": "Horta na Varanda: Tenha Temperos Frescos, p. 16"
+    },
+    {
+      "texto": "Teste do dedo: enfie o dedo na terra até a segunda falange. Limpo e seco, em geral é hora de regar. Sujo e úmido, espere.",
+      "pagina": 19,
+      "trecho": "Enfie o dedo na terra até a segunda falange",
+      "fonte": "Horta na Varanda: Tenha Temperos Frescos, p. 19"
+    },
+    {
+      "texto": "Para começar, prefira mudas já formadas. Semente pede uma paciência que pode desanimar no início.",
+      "pagina": 16,
+      "trecho": "Comece com mudas já formadas",
+      "fonte": "Horta na Varanda: Tenha Temperos Frescos, p. 16"
+    },
+    {
+      "texto": "Não tente plantar tudo de uma vez. Escolha dois companheiros e cuide deles.",
+      "pagina": 26,
+      "trecho": "Não tente começar com todos os temperos de uma vez",
+      "fonte": "Horta na Varanda: Tenha Temperos Frescos, p. 26"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "fontes": [
+    "Horta na Varanda: Tenha Temperos Frescos, p. 4",
+    "Horta na Varanda: Tenha Temperos Frescos, p. 5",
+    "Horta na Varanda: Tenha Temperos Frescos, p. 16",
+    "Horta na Varanda: Tenha Temperos Frescos, p. 19"
+  ],
+  "materia": {
+    "slug": "horta-na-varanda-tres-mitos-que-seguram-voce",
+    "titulo": "Horta na varanda: 3 mitos que seguram você",
+    "descricao": "Pouco espaço, pouco tempo e medo de gastar demais? Veja a verdade sobre os mitos da horta de temperos na varanda e três gestos simples para começar hoje.",
+    "introducao": "Se você já olhou para aquele cantinho da varanda e pensou que horta não é para você, respire. Muita gente trava antes mesmo de começar, e quase sempre por causa de mitos. Neste texto, a gente conversa com calma sobre os três mais comuns: o do espaço, o do trabalho e o do custo. Depois, vem o que fazer na prática, com base no ebook Horta na Varanda, do André. Sem termo difícil e sem culpa. Quem já viu planta secar sabe como dói, e é por isso que vale começar pequeno, um passo de cada vez.",
+    "secoes": [
+      {
+        "titulo": "Mito 1: preciso de muito espaço",
+        "paragrafos": [
+          "Parece que horta pede quintal inteiro, mas na varanda a conta é outra. Segundo o livro, um vaso de salsinha saudável precisa de apenas 15 centímetros de diâmetro. É um espaço pequeno, do tamanho de um prato.",
+          "Então, se você tem lugar para um prato na varanda, tem lugar para temperos. O espaço do chão pode ser curto, e tudo bem. Logo abaixo, a gente vê como usar a altura para ganhar lugar."
+        ],
+        "fatosUsados": [
+          0
+        ]
+      },
+      {
+        "titulo": "Mito 2: dá muito trabalho",
+        "paragrafos": [
+          "Esse mito assusta quem tem a rotina cheia. A boa notícia é que temperos são plantas rústicas. O livro diz que cinco minutos por dia, o tempo do seu café, é tudo que a horta pede.",
+          "Isso quer dizer que dá para cuidar enquanto o café esfria. Olhar as folhas, sentir a terra, colher o que for usar na cozinha. Se algum dia você esquecer, respire: o carinho que importa é o de todo dia, sem peso."
+        ],
+        "fatosUsados": [
+          1
+        ]
+      },
+      {
+        "titulo": "Mito 3: vai ficar caro",
+        "paragrafos": [
+          "O livro faz uma pergunta que vale parar para pensar: quanto você gasta comprando temperos toda semana? Um vasinho que dá folhas por meses custa muito menos.",
+          "O ebook não traz valores em reais, então não dá para prometer quanto você vai economizar. Mas a ideia é clara: o vaso fica, e as folhas continuam vindo. Para começar, o André sugere mudas já formadas, porque semente exige uma paciência que pode desanimar no início."
+        ],
+        "fatosUsados": [
+          2,
+          6
+        ]
+      },
+      {
+        "titulo": "Como começar: use a altura e o furo",
+        "paragrafos": [
+          "O grande segredo da horta em varanda, segundo o livro, é olhar para cima. Em apartamento, o chão é valioso. A ideia é trazer a horta para a altura dos seus olhos, do seu nariz e das suas mãos.",
+          "Sobre o vaso, a regra de ouro é simples: tem que ter furos embaixo. Sem furo, a raiz apodrece. Pode ser vaso comprado ou reaproveitado, desde que a água tenha por onde sair. E não tente plantar tudo de uma vez: escolha dois companheiros e cuide deles."
+        ],
+        "fatosUsados": [
+          3,
+          4,
+          7
+        ]
+      },
+      {
+        "titulo": "Na dúvida de regar, use o dedo",
+        "paragrafos": [
+          "O teste do dedo é o gesto mais gentil da horta. Enfie o dedo na terra até a segunda falange. Se ele sair limpo e seco, para a maioria dos temperos é hora de regar. Se sair sujo e úmido, espere.",
+          "O livro lembra que cada tempero tem seu jeito, e que o alecrim, por exemplo, pede mais espera. Por isso, o dedo vale mais do que qualquer calendário."
+        ],
+        "fatosUsados": [
+          5
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Qual o tamanho do vaso para a salsinha?",
+        "resposta": "Segundo o livro, um vaso de salsinha saudável precisa de apenas 15 cm de diâmetro. Lembre de ter furos embaixo, porque sem furo a raiz apodrece."
+      },
+      {
+        "pergunta": "Quanto tempo por dia a horta pede?",
+        "resposta": "O livro fala em cinco minutos por dia, o tempo do seu café. Ele não pede mais do que isso para começar."
+      },
+      {
+        "pergunta": "Quanto vou gastar para montar a horta?",
+        "resposta": "O livro não dá um valor fechado. Ele diz que um vasinho que dá folhas por meses custa muito menos do que comprar temperos toda semana."
+      }
+    ],
+    "conclusao": "Horta na varanda cabe no seu espaço, no seu tempo e no seu bolso. Comece pequeno, com um vaso de furo embaixo, uma muda já formada e o dedo na terra para tirar a dúvida da rega. Escolha dois companheiros, cuide deles com calma e vá aprendendo no seu ritmo. Salve este texto para o dia de plantar e conte para quem também tem medo de começar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

@@ -1,0 +1,239 @@
+{
+  "dia": "2026-11-24",
+  "palavra": "LUZ",
+  "especie": "Zamioculcas zamiifolia",
+  "nome": "Zamioculca",
+  "tema": "luz",
+  "serie": "3 erros",
+  "gancho": "Varanda sem sol direto também dá planta, e o perigo da sombra é o excesso de água.",
+  "resumo": "Três erros de luz e rega na sombra, o teste da claridade e o teste do dedo.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Luz",
+      "linha1": "Sem sol direto",
+      "linha2": "também dá",
+      "linha3": "para ter",
+      "destaque": "planta"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Planta de sol",
+      "linha2": "num canto",
+      "destaque": "escuro",
+      "texto": "Pôr uma planta que ama o deserto num canto escuro, só porque combina com o sofá, deixa ela com fome de luz.",
+      "nota": "Não é culpa sua."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Regar toda semana",
+      "linha2": "por",
+      "destaque": "hábito",
+      "texto": "Na sombra, a terra demora mais para secar. Regar sem olhar vira lama e as raízes sufocam.",
+      "nota": "Quase todo mundo começa assim."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Achar que sem",
+      "linha2": "sol não dá",
+      "destaque": "planta",
+      "texto": "Muita gente desiste porque a varanda não tem sol direto. Mentira gentil: o que conta é a claridade.",
+      "nota": "Respire, tem solução."
+    },
+    {
+      "linha1": "Faça o teste",
+      "linha2": "da",
+      "destaque": "claridade",
+      "texto": "Dá para ler um livro sem acender a lâmpada, mas o sol nunca encosta na planta? É sombra iluminada.",
+      "dica": "A Zamioculca detesta sol direto e não se importa se você esquecer dela."
+    },
+    {
+      "linha1": "Regue só pelo",
+      "linha2": "teste do dedo, até a",
+      "destaque": "segunda falange",
+      "texto": "Saiu limpo e seco? Pode regar. Saiu sujo e úmido? Espere mais um pouco.",
+      "dica": "Folha amarela e mole? Pare de regar na hora."
+    },
+    {
+      "tarja": "Sinal",
+      "linha1": "Folha amarela",
+      "linha2": "e mole",
+      "destaque": "afogamento",
+      "texto": "Na Zamioculca ou na Espada, folha amarela e mole pede pausa na rega. A terra precisa secar.",
+      "nota": "Pare e observe com calma."
+    },
+    {
+      "texto": "Olhe a luz do seu cantinho e regue só quando a terra pedir. Salve este post para a próxima dúvida.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "A luz é a comida da planta e a água é a bebida. Luz demais ou de menos faz a planta passar fome ou sofrer.",
+      "pagina": 2,
+      "trecho": "A luz é a comida delas. A água é a bebida.",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 2"
+    },
+    {
+      "texto": "O problema costuma ser colocar uma planta que ama o deserto, como o cacto, num canto escuro da sala só porque combina com o sofá.",
+      "pagina": 2,
+      "trecho": "colocar uma planta que ama o deserto (como um cacto) num canto escuro da sala",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 2"
+    },
+    {
+      "texto": "Na sombra não tem sol quente batendo no vaso, então a terra demora bem mais para secar.",
+      "pagina": 7,
+      "trecho": "como não tem sol quente batendo no vaso, a terra demora muito mais para secar",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 7"
+    },
+    {
+      "texto": "Regar toda semana por hábito faz a terra virar lama, e as raízes sufocam e apodrecem.",
+      "pagina": 7,
+      "trecho": "Se você regar toda semana por hábito, a terra vai virar uma lama",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 7"
+    },
+    {
+      "texto": "Se a folha da Zamioculca ou da Espada ficar amarela e mole, pare de regar na hora: é sinal de afogamento.",
+      "pagina": 7,
+      "trecho": "Se a folha da Zamioculca ou da Espada ficar amarela e mole (gelatinosa), pare de regar na hora",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 7"
+    },
+    {
+      "texto": "Muita gente acha que não pode ter planta porque a varanda não tem sol direto. O livro chama isso de mentira gentil.",
+      "pagina": 7,
+      "trecho": "Muita gente acha que não pode ter planta porque a varanda não tem sol direto",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 7"
+    },
+    {
+      "texto": "Na sombra iluminada, o que importa não é o sol, é a claridade.",
+      "pagina": 7,
+      "trecho": "O segredo aqui não é o sol, é a claridade",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 7"
+    },
+    {
+      "texto": "Teste da sombra iluminada: dá para ler um livro sem acender a lâmpada, mas o sol nunca encosta na planta.",
+      "pagina": 3,
+      "trecho": "dá para ler um livro tranquilamente sem acender a lâmpada",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 3"
+    },
+    {
+      "texto": "A Zamioculca não liga se você esquecer dela, e é boa para quem trabalha fora e viaja.",
+      "pagina": 7,
+      "trecho": "Ela não se importa se você esquecer dela",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 7"
+    },
+    {
+      "texto": "A Zamioculca detesta sol direto, porque ele queima a folha. O lugar dela tem luz, mas não tem sol.",
+      "pagina": 7,
+      "trecho": "Ela detesta sol direto (queima a folha)",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 7"
+    },
+    {
+      "texto": "Teste do dedo: enfie o dedo na terra até a segunda falange. Limpo e seco, pode regar. Sujo e úmido, espere mais um pouco.",
+      "pagina": 5,
+      "trecho": "Enfie o dedo na terra até a segunda falange",
+      "fonte": "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 5"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "fontes": [
+    "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 2",
+    "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 7",
+    "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 3",
+    "Guia de Luz: Sol, Sombra ou Meia-Sombra?, p. 5"
+  ],
+  "materia": {
+    "slug": "zamioculca-sombra-iluminada-luz-e-rega",
+    "titulo": "Zamioculca na sombra: luz e rega sem erro",
+    "descricao": "Varanda sem sol direto também dá planta. Veja como achar a sombra iluminada, por que a zamioculca gosta dela e como regar sem afogar as raízes dela, com calma.",
+    "introducao": "Se a sua varanda não recebe sol direto e você já desistiu de ter planta, respire. A sua mão não é ruim. Quase sempre o que pesa é a luz, e a luz a gente aprende a ler. Neste texto, a conversa é sobre a sombra iluminada, a zamioculca que combina com ela e o cuidado mais importante nesse cantinho: a rega. Tudo vem do guia de luz do André, sem receita complicada e sem culpa. Quem já perdeu planta sabe como isso dói, então vamos devagar, um passo de cada vez.",
+    "secoes": [
+      {
+        "titulo": "Por que a luz é a comida da planta",
+        "paragrafos": [
+          "O guia começa com uma ideia simples: a luz é a comida da planta, e a água é a bebida. Quando a luz vem demais ou de menos, a planta passa fome ou sofre, como a gente sofre com uma refeição errada.",
+          "Por isso o erro mais comum não é falta de carinho. É colocar uma planta que ama o deserto, como o cacto, num canto escuro da sala só porque combina com o sofá. A planta não está sendo difícil. Ela só está no lugar que não é o dela. Antes de comprar qualquer vaso, vale olhar para a luz do seu cantinho."
+        ],
+        "fatosUsados": [
+          0,
+          1
+        ]
+      },
+      {
+        "titulo": "Sem sol direto também dá para ter planta",
+        "paragrafos": [
+          "Muita gente acha que não pode ter planta porque a varanda não tem sol direto. O André chama isso de mentira gentil, porque o segredo da sombra iluminada não é o sol. É a claridade.",
+          "Como saber se é o seu caso? O livro dá um teste fácil: se dá para ler um livro sem acender a lâmpada, mas o sol nunca encosta na planta, a sua varanda é de sombra iluminada. É uma luz fresca e constante, e muitas plantas gostam dela. Se o seu canto é escuro de verdade, o livro sugere, em outro ponto, escolher uma planta de sombra em vez de insistir numa que pede mais luz."
+        ],
+        "fatosUsados": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "titulo": "A zamioculca e a sombra",
+        "paragrafos": [
+          "Entre as plantas que o guia indica para a sombra iluminada, a zamioculca é a mais perdoadora. Ela não se importa se você esquecer dela, o que ajuda muito quem trabalha fora e viaja.",
+          "Só tem um cuidado com a luz: ela detesta sol direto, porque ele queima a folha. O lugar dela é aquele cantinho que tem luz, mas não tem sol. Ou seja, a varanda que você achava ruim pode ser exatamente o que ela pede."
+        ],
+        "fatosUsados": [
+          8,
+          9
+        ]
+      },
+      {
+        "titulo": "O perigo da sombra é o excesso de água",
+        "paragrafos": [
+          "Na sombra, o cuidado maior é com a rega. Como não tem sol quente batendo no vaso, a terra demora bem mais para secar. Se você regar toda semana por hábito, a terra vira lama, e as raízes sufocam e apodrecem.",
+          "O sinal de socorro é claro: se a folha da zamioculca ou da espada-de-são-jorge ficar amarela e mole, pare de regar na hora. É sinal de afogamento. Pausar a rega, nesse caso, é o cuidado mais gentil que existe."
+        ],
+        "fatosUsados": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "titulo": "Como saber a hora certa de regar",
+        "paragrafos": [
+          "Em vez de seguir o calendário, use o teste do dedo. Enfie o dedo na terra até a segunda falange. Se sair limpo e seco, pode regar. Se sair sujo e úmido, espere mais um pouco.",
+          "É um gesto de dez segundos que evita muita dor de cabeça. Faça sempre que a dúvida bater, e com o tempo você passa a conhecer o ritmo da sua planta."
+        ],
+        "fatosUsados": [
+          10
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Quantas vezes devo regar a zamioculca na sombra?",
+        "resposta": "O livro não dá um número fixo. Ele avisa que, na sombra, a terra demora mais para secar e que regar toda semana por hábito é um risco. Use o teste do dedo e regue só quando a terra estiver limpa e seca."
+      },
+      {
+        "pergunta": "Como sei se a minha varanda é de sombra iluminada?",
+        "resposta": "Se dá para ler um livro sem acender a lâmpada, mas o sol nunca encosta na planta, é sombra iluminada. A luz é clara, só que sem sol direto."
+      },
+      {
+        "pergunta": "A folha da minha zamioculca ficou amarela e mole. E agora?",
+        "resposta": "Pare de regar na hora. Segundo o livro, folha amarela e mole é sinal de afogamento. Deixe a terra secar e volte a regar só depois do teste do dedo."
+      }
+    ],
+    "conclusao": "Ter planta na sombra é possível, e fica mais fácil quando a gente entende que a luz é a comida e a água é a bebida. Olhe a claridade do seu cantinho, escolha uma planta que goste dela, como a zamioculca, e regue só quando a terra pedir. Na dúvida, espere mais um dia. Salve este texto para a próxima vez que bater a insegurança e conte para quem também cuida de planta com medo de errar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

@@ -1,0 +1,214 @@
+{
+  "dia": "2026-11-26",
+  "palavra": "SUCULENTA",
+  "especie": "Echeveria elegans",
+  "nome": "Echeveria",
+  "tema": null,
+  "serie": "3 erros",
+  "gancho": "Calma, não é falta de dedo verde: três erros comuns matam suculenta sem ninguém perceber.",
+  "resumo": "Três erros que apodrecem suculentas (regar todo dia um pouquinho, vaso sem furo, terra pesada) e dois gestos simples: o teste do dedo e regar até a água sair pelos furos.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Rega",
+      "linha1": "O que mais",
+      "linha2": "apodrece a",
+      "linha3": "suculenta é",
+      "destaque": "cuidar demais"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Regar todo dia",
+      "linha2": "só um",
+      "destaque": "pouquinho",
+      "texto": "Molhar só a superfície engana. A raiz não bebe e a umidade constante apodrece a planta.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Vaso bonito",
+      "linha2": "sem",
+      "destaque": "furo",
+      "texto": "A água vira uma piscina no fundo, as raízes apodrecem e a planta morre.",
+      "nota": "Muita gente passa por isso."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Terra pesada",
+      "linha2": "que vira",
+      "destaque": "pedra",
+      "texto": "A raiz da suculenta é fina e sensível. Terra dura sufoca, e a terra precisa ser solta.",
+      "nota": "Um gesto pequeno resolve."
+    },
+    {
+      "linha1": "Enfie o dedo",
+      "linha2": "na terra e",
+      "destaque": "olhe o que saiu",
+      "texto": "Saiu sujo de terra úmida? Não regue. Vá fazer outra coisa.",
+      "dica": "Na dúvida, não regue hoje. Espere até amanhã."
+    },
+    {
+      "linha1": "Hora de regar?",
+      "linha2": "Regue até sair",
+      "destaque": "por baixo",
+      "texto": "Molhe bastante, até a água sair pelos furos, e só repita quando a terra secar de novo.",
+      "dica": "É melhor um banho bom de vez em quando do que goles todo dia."
+    },
+    {
+      "tarja": "Sinal de alerta",
+      "linha1": "Folha mole e",
+      "linha2": "transparente",
+      "destaque": "é água demais",
+      "texto": "Pare de regar e espere a terra secar. E nada de borrifar a folha: a água acumula e cria fungos.",
+      "nota": "Molhe a terra, não a planta."
+    },
+    {
+      "texto": "Cuide com calma e ela devolve em folhas gordinhas. Salve este post para a próxima rega.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "Regar todo dia só um pouquinho é fatal: molha só a superfície, não chega à raiz profunda, e a umidade constante apodrece o colo da planta.",
+      "pagina": 7,
+      "trecho": "Molhar só a superfície engana você e não hidrata a raiz profunda",
+      "fonte": "Suculentas: O Guia para Não Matar Afogada, p. 7"
+    },
+    {
+      "texto": "Vaso sem furo vira uma piscina no fundo: as raízes apodrecem e a planta morre.",
+      "pagina": 4,
+      "trecho": "Sem furo, a água vira uma piscina lá no fundo, as raízes apodrecem e a planta morre",
+      "fonte": "Suculentas: O Guia para Não Matar Afogada, p. 4"
+    },
+    {
+      "texto": "Terra pesada de jardim, que endurece como pedra quando seca, sufoca a raiz fina e sensível da suculenta. A terra precisa ser solta.",
+      "pagina": 7,
+      "trecho": "A raiz da suculenta é fina e sensível",
+      "fonte": "Suculentas: O Guia para Não Matar Afogada, p. 7"
+    },
+    {
+      "texto": "Teste do dedo: enfie o dedo na terra. Saiu sujo de terra úmida, não regue.",
+      "pagina": 6,
+      "trecho": "Saiu sujo de terra úmida? NÃO REGUE",
+      "fonte": "Suculentas: O Guia para Não Matar Afogada, p. 6"
+    },
+    {
+      "texto": "Na hora de regar, regue bastante, até a água sair pelos furos, mas poucas vezes, só quando a terra secar.",
+      "pagina": 7,
+      "trecho": "Regue bastante, até a água sair pelos furos, mas faça isso poucas vezes",
+      "fonte": "Suculentas: O Guia para Não Matar Afogada, p. 7"
+    },
+    {
+      "texto": "Borrifar água nas folhas não ajuda a suculenta: a água acumula no meio das folhas e cria fungos. Molhe a terra.",
+      "pagina": 7,
+      "trecho": "A água acumula no meio das folhas e cria fungos",
+      "fonte": "Suculentas: O Guia para Não Matar Afogada, p. 7"
+    },
+    {
+      "texto": "Folhas moles, amareladas e transparentes são sinal de excesso de água. Pare de regar.",
+      "pagina": 6,
+      "trecho": "Folhas moles, amareladas e transparentes: S.O.S! Excesso de água",
+      "fonte": "Suculentas: O Guia para Não Matar Afogada, p. 6"
+    },
+    {
+      "texto": "Na dúvida, não regue hoje. Espere até amanhã.",
+      "pagina": 6,
+      "trecho": "Na dúvida, não regue hoje. Espere amanhã.",
+      "fonte": "Suculentas: O Guia para Não Matar Afogada, p. 6"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "fontes": [
+    "Suculentas: O Guia para Não Matar Afogada, p. 7",
+    "Suculentas: O Guia para Não Matar Afogada, p. 4",
+    "Suculentas: O Guia para Não Matar Afogada, p. 6"
+  ],
+  "materia": {
+    "slug": "suculenta-3-erros-que-apodrecem-a-planta",
+    "titulo": "Suculenta: 3 erros que apodrecem a planta",
+    "descricao": "Regar todo dia um pouquinho, vaso sem furo e terra pesada matam suculentas. Veja o que fazer no lugar de cada um, com o teste do dedo e sem culpa nenhuma.",
+    "introducao": "Se uma suculenta sua já apodreceu, respire fundo. A culpa não é sua. Quase sempre o que faltou foi uma explicação simples, e não jeito com planta. O curioso é que o erro mais comum não é esquecer de regar, é cuidar demais. Neste texto, a gente conversa sobre os erros que mais derrubam as suculentas, o que fazer no lugar de cada um e como saber a hora certa de regar. Tudo com base no ebook de suculentas do André, sem receita complicada e sem bronca. Vamos com calma, um passo de cada vez.",
+    "secoes": [
+      {
+        "titulo": "Por que regar todo dia só um pouquinho faz mal",
+        "paragrafos": [
+          "Parece o gesto mais carinhoso do mundo: um golinho de água todo dia. Só que o livro é direto e diz que isso é fatal. Molhar só a superfície engana você, porque a terra de cima fica úmida e parece que está tudo bem, mas a água não chega até a raiz profunda.",
+          "Além disso, a umidade constante apodrece o colo da planta, que é a base, perto da terra. A suculenta guarda água dentro das folhas e prefere esperar a terra secar. Quando a terra nunca seca, ela sofre mesmo recebendo todo o seu carinho."
+        ],
+        "fatosUsados": [
+          0
+        ]
+      },
+      {
+        "titulo": "O vaso sem furo e a água parada",
+        "paragrafos": [
+          "O livro chama de regra de ouro: o vaso precisa ter furo embaixo. Sem furo, a água vira uma piscina no fundo, as raízes apodrecem e a planta morre. É um erro tão comum que muita gente nem desconfia dele, porque por cima o vaso parece normal.",
+          "Se você gosta de vasos bonitos, tudo bem. A ideia é que o furo exista. Sem furo, a água não tem para onde ir, e a raiz fica molhada demais sem que você veja."
+        ],
+        "fatosUsados": [
+          1
+        ]
+      },
+      {
+        "titulo": "Terra pesada sufoca a raiz",
+        "paragrafos": [
+          "Aquela terra de jardim que fica dura igual pedra quando seca não é boa para suculenta. A raiz da suculenta é fina e sensível, e a terra pesada acaba sufocando. O que o livro pede é uma terra solta.",
+          "Se a sua terra está compactada, vale pensar em trocá-la por uma mais fofinha. É um gesto pequeno que muda a vida da planta, porque a raiz precisa de espaço e de ar."
+        ],
+        "fatosUsados": [
+          2
+        ]
+      },
+      {
+        "titulo": "Como saber a hora certa de regar",
+        "paragrafos": [
+          "No lugar do calendário, use o dedo. Enfie o dedo na terra e olhe o que saiu. Se saiu sujo de terra úmida, não regue. Vá fazer outra coisa. A planta não sabe que dia é hoje, quem manda é a terra.",
+          "Na hora de regar, regue bastante, até a água sair pelos furos, mas poucas vezes, só quando a terra secar. É melhor um banho bom de vez em quando do que goles todo dia. E na dúvida, o livro dá o conselho mais gentil de todos: não regue hoje, espere até amanhã."
+        ],
+        "fatosUsados": [
+          3,
+          4,
+          7
+        ]
+      },
+      {
+        "titulo": "Borrifar a folha e os sinais de excesso de água",
+        "paragrafos": [
+          "Muita gente acha chique borrifar a folha, mas para suculenta isso não ajuda. A água acumula no meio das folhas e cria fungos. Molhe a terra, não a cabeça da planta.",
+          "E fique de olho nos sinais. Folhas moles, amareladas e transparentes indicam excesso de água. Nesse caso, pare de regar. É um aviso que a planta dá, e perceber cedo já é meio caminho andado."
+        ],
+        "fatosUsados": [
+          5,
+          6
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Quantas vezes por semana devo regar a suculenta?",
+        "resposta": "O livro pede para esquecer o calendário fixo. Use o teste do dedo e regue só quando a terra estiver seca, até a água sair pelos furos."
+      },
+      {
+        "pergunta": "Como sei se estou regando demais?",
+        "resposta": "Folhas moles, amareladas e transparentes são sinal de excesso de água. Nesse caso, pare de regar e espere a terra secar."
+      },
+      {
+        "pergunta": "Posso borrifar água nas folhas da suculenta?",
+        "resposta": "O livro diz que não ajuda: a água acumula no meio das folhas e cria fungos. O melhor é molhar a terra."
+      }
+    ],
+    "conclusao": "Cuidar bem de suculenta é menos sobre fazer muito e mais sobre fazer na hora certa. Confira se o vaso tem furo, solte a terra, faça o teste do dedo e regue bastante só quando a terra secar. Na dúvida, espere até amanhã. Se uma planta sua já se foi, considere águas passadas, porque o recomeço é gentil. Salve este texto para a próxima vez que a dúvida bater. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

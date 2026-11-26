@@ -1,0 +1,223 @@
+{
+  "dia": "2026-11-27",
+  "palavra": "DESERTO",
+  "especie": "Adenium obesum",
+  "nome": "Rosa do deserto",
+  "tema": null,
+  "serie": "3 erros",
+  "gancho": "Três erros de rega que afogam a rosa do deserto, e nenhum é culpa sua.",
+  "resumo": "Regar um pouquinho todo dia, deixar água parada no prato e usar terra pesada. O teste do dedo e a rega funda resolvem.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Rega",
+      "linha1": "3 erros que matam",
+      "linha2": "a rosa do deserto",
+      "linha3": "sem você notar",
+      "destaque": "afogada"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Um copinho",
+      "linha2": "de água",
+      "destaque": "todo dia",
+      "texto": "A terra fica sempre úmida, mas a raiz funda não bebe. Regue muito, mas poucas vezes.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Água parada",
+      "linha2": "no",
+      "destaque": "pratinho",
+      "texto": "Raiz de rosa do deserto não foi feita para ficar de molho. Esvazie o prato 10 minutos depois de regar.",
+      "nota": "Um gesto pequeno resolve."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Terra pesada",
+      "linha2": "que não deixa a",
+      "destaque": "água descer",
+      "texto": "Se a água empoça e demora a descer, a terra sufoca a raiz. Troque por uma mistura com areia.",
+      "nota": "Quase todo mundo começa assim."
+    },
+    {
+      "linha1": "Enfie o dedo",
+      "linha2": "na terra e",
+      "destaque": "espere secar",
+      "texto": "Saiu sujo ou úmido? Não regue. Saiu limpo e seco? Pode regar.",
+      "dica": "Esqueça o calendário. Quem manda é a terra."
+    },
+    {
+      "linha1": "Terra seca?",
+      "linha2": "Regue até sair",
+      "destaque": "pelos furos",
+      "texto": "Regue com vontade, até a água sair pelo fundo. Depois esqueça a planta por vários dias.",
+      "dica": "Ela ama a secura total seguida de chuva abundante."
+    },
+    {
+      "tarja": "Sinal",
+      "linha1": "Tronco mole",
+      "linha2": "e folha caindo?",
+      "destaque": "afogamento",
+      "texto": "A planta não morre de sede, morre afogada. Sem ar na terra, a raiz apodrece.",
+      "nota": "Menos água, mais calma."
+    },
+    {
+      "texto": "Cuide com calma e ela devolve em flores. Salve este post para a próxima rega.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "Regar um copinho de água todo dia deixa a terra sempre úmida, mas não molha a raiz funda. O certo é regar muito, poucas vezes.",
+      "pagina": 6,
+      "trecho": "Jogar um copinho de água todo dia mantém a terra sempre úmida, mas nunca molha as raízes profundas",
+      "fonte": "Rosa do Deserto: Segredos do Caudex, p. 6"
+    },
+    {
+      "texto": "Pratinho com água embaixo do vaso é perigoso. Esvazie dez minutos depois de regar.",
+      "pagina": 6,
+      "trecho": "esvazie-o 10 minutos depois de regar. Água parada no prato é sentença de morte",
+      "fonte": "Rosa do Deserto: Segredos do Caudex, p. 6"
+    },
+    {
+      "texto": "Se a água empoça na terra e demora a descer, a terra está sufocando a raiz. Troque por uma mistura com areia.",
+      "pagina": 6,
+      "trecho": "Se a água empoça em cima da terra quando você rega e demora a descer, sua terra está errada. Ela está sufocando a raiz. Troque urgentemente por uma mistura com areia.",
+      "fonte": "Rosa do Deserto: Segredos do Caudex, p. 6"
+    },
+    {
+      "texto": "Esqueça o calendário. Enfie o dedo na terra: saiu sujo ou úmido, não regue. Saiu limpo e seco, pode regar.",
+      "pagina": 5,
+      "trecho": "Enfie o dedo indicador na terra. Saiu sujo/úmido? NÃO REGUE.",
+      "fonte": "Rosa do Deserto: Segredos do Caudex, p. 5"
+    },
+    {
+      "texto": "Com a terra seca, regue com vontade até a água sair pelos furos do fundo. Depois esqueça a planta por vários dias até secar tudo de novo.",
+      "pagina": 5,
+      "trecho": "regue com vontade! Jogue água até ver ela saindo pelos furos do fundo",
+      "fonte": "Rosa do Deserto: Segredos do Caudex, p. 5"
+    },
+    {
+      "texto": "O excesso de água expulsa o ar da terra e as raízes, sem ar, apodrecem. A planta não morre de sede, morre afogada.",
+      "pagina": 2,
+      "trecho": "O excesso de água expulsa o oxigênio da terra. As raízes, sem ar, morrem e apodrecem.",
+      "fonte": "Rosa do Deserto: Segredos do Caudex, p. 2"
+    },
+    {
+      "texto": "Uma mistura boa é metade terra vegetal ou substrato comum e metade areia grossa de construção. A água molha a raiz e escorre rápido.",
+      "pagina": 3,
+      "trecho": "Misture 50% de terra vegetal (ou substrato comum) com 50% de areia grossa de construção",
+      "fonte": "Rosa do Deserto: Segredos do Caudex, p. 3"
+    },
+    {
+      "texto": "Se a sua rosa do deserto morreu antes, a falta foi de explicação, não de carinho. Não é culpa sua.",
+      "pagina": 2,
+      "trecho": "não é culpa sua. É falta de explicação.",
+      "fonte": "Rosa do Deserto: Segredos do Caudex, p. 2"
+    },
+    {
+      "texto": "Vaso bonito sem furo serve só como capa. A rosa do deserto vai plantada num vaso de plástico furado que caiba dentro dele.",
+      "pagina": 3,
+      "trecho": "mas plante a rosa em um vaso plástico furado que caiba dentro dele",
+      "fonte": "Rosa do Deserto: Segredos do Caudex, p. 3"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "fontes": [
+    "Rosa do Deserto: Segredos do Caudex, p. 6",
+    "Rosa do Deserto: Segredos do Caudex, p. 5",
+    "Rosa do Deserto: Segredos do Caudex, p. 2",
+    "Rosa do Deserto: Segredos do Caudex, p. 3"
+  ],
+  "materia": {
+    "slug": "rosa-do-deserto-3-erros-de-rega-que-afogam-a-planta",
+    "titulo": "Rosa do deserto: 3 erros de rega que afogam",
+    "descricao": "Seu tronco amoleceu e as folhas caíram? Veja os 3 erros de rega que afogam a rosa do deserto, o teste do dedo e como regar do jeito certo, sem culpa nenhuma.",
+    "introducao": "Se a sua rosa do deserto amoleceu, perdeu as folhas e morreu, respire fundo. Isso acontece com muita gente, e quase nunca é falta de carinho. É carinho demais no lugar errado. Quando a gente gosta de uma planta, quer dar água, proteger, cuidar todo dia. Só que a rosa do deserto fala outra língua. Neste texto, a gente conversa sobre os três erros de rega mais comuns, sobre como acertar a mão sem complicação e sobre o que fazer na dúvida. Tudo baseado no ebook da rosa do deserto do André, sem bronca e sem receita difícil. Quem já perdeu planta sabe como dói, e é por isso que vale ir com calma, um passo de cada vez, junto com ela.",
+    "secoes": [
+      {
+        "titulo": "Erro 1: um copinho de água todo dia",
+        "paragrafos": [
+          "Esse é o erro clássico, e o mais fácil de cometer, porque parece o cuidado mais gentil do mundo. Um golinho de água todo dia, para a planta nunca passar sede. Só que jogar um copinho de água todo dia mantém a terra sempre úmida, mas nunca molha as raízes profundas. Ou seja, por fora parece tudo certo, e por dentro a planta não está sendo bem cuidada.",
+          "O jeito certo é o contrário do que o coração pede: regar muito, mas poucas vezes. Uma rega generosa de vez em quando vale mais do que muitos golinhos. E se você já fazia o golinho diário, calma. A maioria das pessoas começa assim, e a planta costuma dar um sinal antes de ser tarde demais."
+        ],
+        "fatosUsados": [
+          0,
+          7
+        ]
+      },
+      {
+        "titulo": "Erro 2: água parada no pratinho",
+        "paragrafos": [
+          "Muita gente coloca um pratinho embaixo do vaso para não molhar o móvel. É uma ideia boa, mas tem um porém. A raiz da rosa do deserto não foi feita para ficar de molho. Se o prato fica cheio, a raiz fica com os pés na água, e a água parada no prato é perigosa para a planta. O ebook ainda lembra que ela vira criadouro de mosquito.",
+          "A solução é simples: depois de regar, espere dez minutos e esvazie o prato. Também vale lembrar do vaso. Se ele é lindo mas não tem furo embaixo, use só como capa, o chamado cachepot, e plante a rosa em um vaso de plástico furado que caiba dentro dele. A água precisa entrar e sair com liberdade."
+        ],
+        "fatosUsados": [
+          1,
+          8
+        ]
+      },
+      {
+        "titulo": "Erro 3: terra pesada que não deixa a água descer",
+        "paragrafos": [
+          "Faça um teste na próxima rega. Se a água empoça em cima da terra e demora a descer, a terra está errada. Ela está sufocando a raiz. Isso acontece muito com a terra preta comum, que fica compactada quando seca.",
+          "O livro pede para trocar por uma mistura com areia. Uma receita simples é misturar metade de terra vegetal, ou substrato comum, com metade de areia grossa de construção. Assim a água molha as raízes e escorre rápido, sem deixar a raiz encharcada."
+        ],
+        "fatosUsados": [
+          2,
+          6
+        ]
+      },
+      {
+        "titulo": "O que acontece quando a água passa do ponto",
+        "paragrafos": [
+          "Os três erros têm o mesmo fim. O excesso de água expulsa o oxigênio da terra, e as raízes, sem ar, morrem e apodrecem. Por isso o André costuma dizer que a planta não morre de sede, ela morre afogada.",
+          "Entender isso muda tudo. Você deixa de pensar em dar mais e passa a pensar em dar na hora certa. A rosa do deserto foi feita para ficar um tempo sem água, e é isso que a deixa forte."
+        ],
+        "fatosUsados": [
+          5
+        ]
+      },
+      {
+        "titulo": "Como acertar: teste do dedo e rega funda",
+        "paragrafos": [
+          "Esqueça o calendário fixo, essa história de regar toda segunda e quarta. Quem manda é a terra. Para saber a hora, enfie o dedo indicador na terra. Saiu sujo ou úmido? Não regue. Saiu limpo e seco? Pode regar.",
+          "Na hora de regar, faça com vontade: jogue água até ver ela saindo pelos furos do fundo. Depois disso, esqueça a planta por vários dias, até a terra secar tudo de novo. A rosa do deserto ama esse ciclo de secura total seguido de chuva abundante."
+        ],
+        "fatosUsados": [
+          3,
+          4
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Quantas vezes por semana devo regar a rosa do deserto?",
+        "resposta": "O ebook não dá um número fixo, e de propósito: ele pede para esquecer o calendário. Use o teste do dedo e regue só quando o dedo sair limpo e seco, até a água sair pelos furos."
+      },
+      {
+        "pergunta": "Posso usar um vaso bonito sem furo?",
+        "resposta": "Só como capa. Plante a rosa do deserto em um vaso de plástico furado que caiba dentro dele, assim a água entra e sai livremente."
+      },
+      {
+        "pergunta": "Posso deixar o pratinho embaixo do vaso?",
+        "resposta": "Pode, desde que esvazie o prato dez minutos depois de regar. Água parada no prato faz mal para a raiz."
+      }
+    ],
+    "conclusao": "Regar a rosa do deserto bem é menos sobre quantidade de carinho e mais sobre o momento certo. Faça o teste do dedo, regue até a água sair pelos furos, esvazie o prato e espere a terra secar de novo. Se ela já morreu uma vez, lembre que foi falta de explicação, não falta de amor. Salve este texto para a próxima vez que bater a dúvida e conte para quem também cuida de planta com medo de errar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}

@@ -1,0 +1,10 @@
+{
+  "runAt": "2026-11-27T07:05:00Z",
+  "dia": "2026-11-28",
+  "palavra": "MORANGO",
+  "resultado": "gravado",
+  "tentativas": 2,
+  "erros": ["materia: descrição de 150 a 160 (tem 146)"],
+  "post": "dados/posts/2026-11-28-morango.json",
+  "noticia": "https://www.gardeningknowhow.com/edible/strawberry/what-your-strawberry-plants-need-in-october"
+}

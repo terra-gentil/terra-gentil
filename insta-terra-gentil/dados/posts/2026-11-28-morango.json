@@ -1,0 +1,217 @@
+{
+  "dia": "2026-11-28",
+  "palavra": "MORANGO",
+  "especie": "Fragaria ananassa",
+  "nome": "Morango",
+  "tema": null,
+  "serie": "3 erros",
+  "gancho": "O erro que mais apodrece o morango em vaso: enterrar a coroa.",
+  "resumo": "Três erros do morango em vaso (coroa enterrada, vaso sem furo, rega pelo calendário) e dois gestos simples para acertar.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Morango",
+      "linha1": "3 erros que",
+      "linha2": "apodrecem o morango",
+      "linha3": "no vaso, a começar",
+      "destaque": "pela coroa"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Enterrar o",
+      "linha2": "miolo da muda, a",
+      "destaque": "coroa",
+      "texto": "Se a terra cobrir o nózinho de onde saem as folhas, ele apodrece. Raízes dentro, coroa para fora.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Vaso bonito",
+      "linha2": "sem",
+      "destaque": "furo",
+      "texto": "As raízes precisam respirar. Faça muitos furos no fundo, mesmo numa lata ou xícara antiga.",
+      "nota": "Sem furo, sem jogo."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Regar pelo",
+      "linha2": "calendário e não",
+      "destaque": "pelo dedo",
+      "texto": "Enfie o dedo na terra. Saiu sujo de terra úmida? Não regue. A terra diz a hora, não o dia da semana.",
+      "nota": "Quase todo mundo começa assim."
+    },
+    {
+      "linha1": "Plante com a",
+      "linha2": "coroa para",
+      "destaque": "fora",
+      "texto": "Faça um espaço no centro da terra, coloque a muda e aperte de leve ao redor. Raízes embaixo, miolinho fora.",
+      "dica": "Antes da terra, ponha 2 cm de pedrinhas ou cacos de telha no fundo."
+    },
+    {
+      "linha1": "Primeiro banho",
+      "linha2": "devagar, até sair",
+      "destaque": "por baixo",
+      "texto": "Regue com um copinho, bem devagar, até as primeiras gotas saírem pelo fundo do vaso. Na terra, não nas folhas.",
+      "dica": "Folha molhada com umidade constante pode atrair fungos."
+    },
+    {
+      "tarja": "Mito",
+      "linha1": "Morango precisa",
+      "linha2": "de quintal",
+      "destaque": "grande?",
+      "texto": "Não. Se couber um par de sapatos, cabe um vaso de morango. Só não esqueça de 6 a 8 horas de sol.",
+      "nota": "Até no décimo andar dá."
+    },
+    {
+      "texto": "Cuide com calma e o morango devolve em doçura. Salve este post para a hora de plantar.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "Nunca enterre o nózinho central da muda, a coroa. Se a terra cobrir o miolo, ele apodrece.",
+      "pagina": 5,
+      "trecho": "Nunca enterre esse nó! Se você cobrir o miolo com terra, ele vai apodrecer",
+      "fonte": "Morangos do Coração: Colha Doçura, p. 5"
+    },
+    {
+      "texto": "A regra do plantio: raízes embaixo da terra e a coroa para fora.",
+      "pagina": 5,
+      "trecho": "raízes embaixo da terra, miolinho (coroa) para fora",
+      "fonte": "Morangos do Coração: Colha Doçura, p. 5"
+    },
+    {
+      "texto": "As raízes precisam respirar. Por isso o recipiente precisa de muitos furos no fundo, mesmo que seja uma lata ou uma xícara bonita.",
+      "pagina": 4,
+      "trecho": "Furos: Faça muitos furos no fundo do seu recipiente",
+      "fonte": "Morangos do Coração: Colha Doçura, p. 4"
+    },
+    {
+      "texto": "Antes da terra, vai uma camada de 2 cm de pedrinhas, brita, cacos de telha ou tampinhas. A água passa e vai embora, e a terra fica úmida, nunca encharcada.",
+      "pagina": 4,
+      "trecho": "coloque 2 cm de pedrinhas, brita, cacos de telha ou até tampinhas de garrafa plástica",
+      "fonte": "Morangos do Coração: Colha Doçura, p. 4"
+    },
+    {
+      "texto": "Esqueça o calendário. Enfie o dedo (ou um palito) na terra: saiu sujo de terra úmida, não regue.",
+      "pagina": 6,
+      "trecho": "Saiu sujo de terra úmida? NÃO REGUE",
+      "fonte": "Morangos do Coração: Colha Doçura, p. 6"
+    },
+    {
+      "texto": "Regue sempre na terra. Molhar folhas e frutos, com a umidade constante, pode atrair fungos.",
+      "pagina": 6,
+      "trecho": "Evite molhar as folhas e os frutos, pois a umidade constante nas folhas pode atrair fungos",
+      "fonte": "Morangos do Coração: Colha Doçura, p. 6"
+    },
+    {
+      "texto": "No primeiro banho, regue devagar até as primeiras gotas saírem por baixo do vaso.",
+      "pagina": 5,
+      "trecho": "até ver as primeiras gotas saindo por baixo do vaso",
+      "fonte": "Morangos do Coração: Colha Doçura, p. 5"
+    },
+    {
+      "texto": "Mesmo quem tem pouco espaço consegue: se cabe um par de sapatos, cabe um vaso de morango.",
+      "pagina": 3,
+      "trecho": "Se couber um par de sapatos, cabe um vaso de morango",
+      "fonte": "Morangos do Coração: Colha Doçura, p. 3"
+    },
+    {
+      "texto": "O morango precisa de pelo menos 6 a 8 horas de sol direto por dia, de preferência o da manhã.",
+      "pagina": 6,
+      "trecho": "Ele precisa de pelo menos 6 a 8 horas de sol direto por dia",
+      "fonte": "Morangos do Coração: Colha Doçura, p. 6"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "fontes": [
+    "Morangos do Coração: Colha Doçura, p. 5",
+    "Morangos do Coração: Colha Doçura, p. 4",
+    "Morangos do Coração: Colha Doçura, p. 6",
+    "Morangos do Coração: Colha Doçura, p. 3"
+  ],
+  "materia": {
+    "slug": "morango-em-vaso-3-erros-que-apodrecem-a-planta",
+    "titulo": "Morango em vaso: 3 erros que apodrecem a planta",
+    "descricao": "Morango em vaso apodrece por três erros comuns: coroa enterrada, vaso sem furo e rega pelo calendário. Veja como acertar sem culpa, com passo a passo simples.",
+    "introducao": "Se um morangueiro seu já amarelou, amoleceu ou apodreceu, respire fundo: a culpa não é sua. Quase sempre o problema é um detalhe pequeno que ninguém conta para a gente, e que se corrige com gestos simples. Neste texto, a gente conversa sobre os três erros mais comuns de quem planta morango em vaso e o que fazer no lugar de cada um. Tudo vem do ebook Morangos do Coração, do André, sem receita complicada e sem bronca. Vamos com calma, um passo de cada vez, que o morango é uma planta generosa e perdoa bastante quando a gente acerta o básico.",
+    "secoes": [
+      {
+        "titulo": "Erro 1: enterrar a coroa do morango",
+        "paragrafos": [
+          "Quando você olha para a muda de morango, repare que existe um ponto central de onde saem todas as folhas. Parece um nózinho. É a coroa, e ela é o coração da planta. O livro é bem claro: nunca enterre esse nó. Se a terra cobrir o miolo, ele apodrece.",
+          "Na prática, a regra é fácil de lembrar. As raízes ficam embaixo da terra e a coroa fica para fora. Ao plantar, faça um espaço no centro da terra com os dedos, coloque a muda e complete com terra ao redor, apertando de leve, como num abraço. Só tome cuidado para o miolo continuar de fora, respirando."
+        ],
+        "fatosUsados": [
+          0,
+          1
+        ]
+      },
+      {
+        "titulo": "Erro 2: usar um vaso sem furo",
+        "paragrafos": [
+          "Muita gente tem uma xícara linda ou uma lata antiga que quer aproveitar, e pode! A condição é fazer furos no fundo. As raízes das plantas precisam respirar, e a água parada no fundo é o que mais atrapalha esse respirar. O livro pede muitos furos no fundo do recipiente. Se você não tem ferramenta, peça para alguém ajudar com uma furadeira ou com prego e martelo.",
+          "Antes de colocar a terra, o livro sugere uma camada de 2 cm de pedrinhas, brita, cacos de telha ou até tampinhas de garrafa plástica. Assim a água passa e vai embora, e a terra fica úmida, mas nunca encharcada. É um jeito simples de aproveitar o que já existe na casa, sem gastar com vaso caro."
+        ],
+        "fatosUsados": [
+          2,
+          3
+        ]
+      },
+      {
+        "titulo": "Erro 3: regar pelo calendário",
+        "paragrafos": [
+          "Regar toda segunda e quinta parece organizado, mas a planta não sabe que dia é hoje. Quem manda é a terra. O jeito do livro é o teste do dedo: enfie o dedo na terra, ou um palito de churrasco. Saiu sujo de terra úmida? Não regue, vá fazer outra coisa. Saiu seco e limpo? Aí pode regar.",
+          "Na hora de regar, molhe sempre a terra. O livro pede para evitar molhar as folhas e os frutos, porque a umidade constante nas folhas pode atrair fungos. E no primeiro banho da muda, regue devagar, com um copinho ou borrifador, até ver as primeiras gotas saindo por baixo do vaso. Aí você sabe que a água passou por tudo."
+        ],
+        "fatosUsados": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "titulo": "Não tenho espaço: e agora?",
+        "paragrafos": [
+          "Essa é uma dúvida bonita, e a resposta do livro é acolhedora: se couber um par de sapatos, cabe um vaso de morango. Ele é uma das plantas mais adaptáveis para quem tem pouco espaço, porque não precisa de raízes profundas. Precisa de carinho e de observação.",
+          "O que não dá para negociar é a luz. O livro diz que o morango precisa de pelo menos 6 a 8 horas de sol direto por dia. Se a sua varanda é pequena mas pega sol, ela serve. Comece por aí, e o resto a gente vai ajustando com o tempo."
+        ],
+        "fatosUsados": [
+          7,
+          8
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Quantas vezes por semana devo regar o morango?",
+        "resposta": "O livro não dá um número fixo, de propósito: ele pede para esquecer o calendário. Use o teste do dedo. Se saiu sujo de terra úmida, não regue. Se saiu seco e limpo, pode regar."
+      },
+      {
+        "pergunta": "Posso usar um pote bonito sem furo?",
+        "resposta": "O livro é direto: sem furo, sem jogo. Peça para alguém fazer furos no fundo com furadeira ou com prego e martelo, e coloque uma camada de pedrinhas antes da terra."
+      },
+      {
+        "pergunta": "Qual lado da muda fica para fora da terra?",
+        "resposta": "A coroa, aquele nózinho central de onde saem as folhas. As raízes ficam embaixo da terra e a coroa fica para fora."
+      }
+    ],
+    "conclusao": "Morango em vaso não é difícil, é detalhe. Deixe a coroa para fora, fure o fundo do vaso, ponha pedrinhas antes da terra e regue só quando o dedo disser que a terra secou. Se uma planta já apodreceu na sua mão, considere águas passadas: o livro chama isso de recomeço gentil. Salve este texto para a hora do plantio e conte para quem também tem medo de errar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": {
+    "nome": "Gardening Know How",
+    "titulo": "What Your Strawberry Plants Need in October – 5 Ways to Overwinter Strawberries and Ensure Juicy Bumper Crops",
+    "url": "https://www.gardeningknowhow.com/edible/strawberry/what-your-strawberry-plants-need-in-october"
+  }
+}

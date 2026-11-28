@@ -1,0 +1,214 @@
+{
+  "dia": "2026-11-29",
+  "palavra": "HORTELA",
+  "especie": "Mentha spicata",
+  "nome": "Hortelã",
+  "tema": null,
+  "serie": "3 erros",
+  "gancho": "3 erros que fazem a hortelã do supermercado morrer em poucos dias.",
+  "resumo": "Três erros que matam a hortelã (deixar secar, vaso sem furo, plantar junto) e dois gestos simples: o teste do dedo e a poda.",
+  "slides": [
+    {
+      "tarja": "Jardinagem ✺ Rega",
+      "linha1": "3 erros que matam",
+      "linha2": "a sua hortelã",
+      "linha3": "em poucos",
+      "destaque": "dias"
+    },
+    {
+      "tarja": "Erro 1",
+      "linha1": "Deixar a terra",
+      "linha2": "secar de",
+      "destaque": "vez",
+      "texto": "Diferente das suculentas, a hortelã não perdoa a seca total. Folha crocante pode ser sinal de que é tarde.",
+      "nota": "Calma, não é culpa sua."
+    },
+    {
+      "tarja": "Erro 2",
+      "linha1": "Vaso bonito",
+      "linha2": "sem",
+      "destaque": "furo",
+      "texto": "Sem furinhos no fundo, a planta fica encharcada e morre. Pote reaproveitado serve, desde que furado.",
+      "nota": "Um gesto pequeno resolve."
+    },
+    {
+      "tarja": "Erro 3",
+      "linha1": "Plantar junto",
+      "linha2": "com outras",
+      "destaque": "plantas",
+      "texto": "A hortelã é invasora e pode atrapalhar as vizinhas de vaso. Um vaso, uma hortelã.",
+      "nota": "Ela gosta de ter seu espaço."
+    },
+    {
+      "linha1": "Teste a terra",
+      "linha2": "com o",
+      "destaque": "dedo",
+      "texto": "Regue quando a camada de cima estiver seca ao toque. Saiu um pouco úmido? Espere um dia.",
+      "dica": "Ela quer terra úmida, mas nunca alagada."
+    },
+    {
+      "linha1": "Corte a",
+      "linha2": "pontinha do",
+      "destaque": "galho",
+      "texto": "Ao cortar a pontinha, a planta solta dois novos galhos nas laterais e fica mais cheia.",
+      "dica": "Pode sem dó: a poda é um jeito de cuidar."
+    },
+    {
+      "tarja": "Sinal",
+      "linha1": "Folha mole",
+      "linha2": "e",
+      "destaque": "amarelada",
+      "texto": "Pode ser excesso de água ou falta de nutrientes. Confira a terra com o dedo antes de mudar algo.",
+      "nota": "Observar já é cuidar."
+    },
+    {
+      "texto": "Cuide com calma e a hortelã devolve o cheirinho da infância. Salve este post para a próxima rega.",
+      "tarja": "Para levar",
+      "linha1": "Gentileza",
+      "destaque": "gera",
+      "linha2": "gentileza"
+    }
+  ],
+  "fatos": [
+    {
+      "texto": "A hortelã não perdoa a seca total. Se as folhas murcharam e ficaram crocantes, pode ser tarde demais.",
+      "pagina": 7,
+      "trecho": "Diferente das suculentas, a hortelã não perdoa a seca total",
+      "fonte": "Hortelã: O Aroma da Infância, p. 7"
+    },
+    {
+      "texto": "O vaso precisa de furinhos no fundo, para a planta não ficar encharcada e morrer.",
+      "pagina": 7,
+      "trecho": "furinhos no fundo, para que a planta não fique encharcada e morra",
+      "fonte": "Hortelã: O Aroma da Infância, p. 7"
+    },
+    {
+      "texto": "Hortelã deve ficar sozinha no vaso, porque é invasora e pode prejudicar as outras plantas.",
+      "pagina": 7,
+      "trecho": "plantar a hortelã sozinha no vaso, pois como é uma erva invasora",
+      "fonte": "Hortelã: O Aroma da Infância, p. 7"
+    },
+    {
+      "texto": "Regue quando a camada de cima da terra estiver seca ao toque, sem esperar a terra rachar.",
+      "pagina": 7,
+      "trecho": "Regue quando a camada superficial estiver seca ao toque",
+      "fonte": "Hortelã: O Aroma da Infância, p. 7"
+    },
+    {
+      "texto": "Testou com o dedo e saiu um pouco úmido? Espere um dia. Saiu seco? Pode regar.",
+      "pagina": 6,
+      "trecho": "Se saiu um pouquinho úmido, aguarde um dia",
+      "fonte": "Hortelã: O Aroma da Infância, p. 6"
+    },
+    {
+      "texto": "Folhas moles e amareladas podem ser excesso de água ou falta de nutrientes.",
+      "pagina": 6,
+      "trecho": "Folhas moles e amareladas: Pode ser excesso de água ou falta de nutrientes",
+      "fonte": "Hortelã: O Aroma da Infância, p. 6"
+    },
+    {
+      "texto": "Ao cortar a pontinha de um galho, a planta solta dois novos galhos nas laterais.",
+      "pagina": 6,
+      "trecho": "Quando você corta a pontinha de um galho, a planta entende que precisa soltar dois novos galhos nas laterais",
+      "fonte": "Hortelã: O Aroma da Infância, p. 6"
+    },
+    {
+      "texto": "A hortelã quer terra úmida, mas nunca alagada.",
+      "pagina": 6,
+      "trecho": "ela quer terra úmida, mas nunca alagada",
+      "fonte": "Hortelã: O Aroma da Infância, p. 6"
+    }
+  ],
+  "fatosUsados": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "fontes": [
+    "Hortelã: O Aroma da Infância, p. 7",
+    "Hortelã: O Aroma da Infância, p. 6"
+  ],
+  "materia": {
+    "slug": "hortela-3-erros-que-fazem-a-planta-morrer",
+    "titulo": "Hortelã: 3 erros que fazem ela morrer",
+    "descricao": "A hortelã do supermercado morreu em poucos dias? Veja os três erros mais comuns, o teste do dedo e a poda que deixa a planta cheinha, tudo sem culpa nenhuma.",
+    "introducao": "Se a sua hortelã derreteu em menos de uma semana, respire. Isso acontece com muita gente, e quase nunca é falta de jeito. A hortelã é uma planta que pede atenção no dia a dia, e três erros bem comuns costumam fazer ela desistir. Neste texto, a gente conversa sobre cada um deles, sobre o teste do dedo para saber a hora de regar e sobre a poda que mantém a planta bonita. Tudo vem do ebook da hortelã do André, sem receita complicada e sem bronca. Aqui a ideia é só trazer luz, e o cheirinho da infância de volta para a sua casa.",
+    "secoes": [
+      {
+        "titulo": "Erro 1: deixar a terra secar de vez",
+        "paragrafos": [
+          "Muita gente aprende a cuidar de suculenta e leva o mesmo jeito para a hortelã. Só que a hortelã é diferente: ela não perdoa a seca total. Se as folhas murcharam e ficaram crocantes, pode ser tarde demais para salvar aquele pé.",
+          "A correção é manter sempre um pouquinho de umidade. A hortelã gosta de terra úmida, mas nunca alagada. Parece um equilíbrio difícil, mas o teste do dedo, que a gente vê mais adiante, ajuda muito."
+        ],
+        "fatosUsados": [
+          0,
+          7
+        ]
+      },
+      {
+        "titulo": "Erro 2: usar vaso sem furo",
+        "paragrafos": [
+          "O vaso bonito, sem furinho no fundo, é uma armadilha. O livro é claro: o vaso precisa ter furinhos no fundo, para que a planta não fique encharcada e morra. Mesmo amando água, a hortelã não pode ficar com os pés molhados o tempo todo.",
+          "Se você quer usar um pote reaproveitado, tudo bem. Basta garantir que ele tenha furos de drenagem. É um gesto pequeno que muda tudo para a raiz."
+        ],
+        "fatosUsados": [
+          1
+        ]
+      },
+      {
+        "titulo": "Erro 3: plantar junto com outras plantas",
+        "paragrafos": [
+          "A hortelã é uma erva invasora. Se ela dividir o vaso com outras plantas, pode prejudicar o desenvolvimento delas. Por isso o ebook pede para plantar a hortelã sozinha no vaso.",
+          "A regra é simples: um vaso, uma hortelã. Ela gosta de ter o próprio espaço para se espalhar, e você ganha uma planta mais feliz."
+        ],
+        "fatosUsados": [
+          2
+        ]
+      },
+      {
+        "titulo": "Como saber a hora de regar",
+        "paragrafos": [
+          "Regue quando a camada de cima da terra estiver seca ao toque. Não precisa esperar a terra rachar, e esse é justamente o ponto: o objetivo é manter o solo levemente úmido.",
+          "Use o dedo como aliado. Se ele saiu um pouquinho úmido, aguarde um dia. Se saiu seco, pode regar. O livro não dá um calendário fixo para isso, porque quem manda é a terra.",
+          "E fique de olho nas folhas. Folhas moles e amareladas podem ser excesso de água ou falta de nutrientes. Se aparecerem, vale conferir a terra com o dedo antes de fazer qualquer mudança."
+        ],
+        "fatosUsados": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "titulo": "A poda que deixa a hortelã cheinha",
+        "paragrafos": [
+          "Muita gente tem dó de cortar. O André pede que você não tenha. Quando você corta a pontinha de um galho, a planta entende que precisa soltar dois novos galhos nas laterais. Ou seja, podar faz a hortelã ficar mais cheia.",
+          "Faça isso com calma e sem medo. Cada corte é um jeito de cuidar, e a colheita para o chá fica ainda mais perto."
+        ],
+        "fatosUsados": [
+          6
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "pergunta": "Quantas vezes por semana devo regar a hortelã?",
+        "resposta": "O livro não dá um número fixo de vezes por semana. Ele pede para regar quando a camada de cima da terra estiver seca ao toque, usando o dedo para conferir."
+      },
+      {
+        "pergunta": "Posso plantar a hortelã junto com outras plantas?",
+        "resposta": "O ebook recomenda plantar a hortelã sozinha no vaso, porque ela é invasora e pode prejudicar as outras plantas. Um vaso, uma hortelã."
+      },
+      {
+        "pergunta": "As folhas estão moles e amareladas. O que pode ser?",
+        "resposta": "Pode ser excesso de água ou falta de nutrientes. Confira a terra com o dedo e veja se o vaso tem furos no fundo."
+      }
+    ],
+    "conclusao": "Errar com planta faz parte, e a hortelã costuma dar outra chance para quem cuida com calma. Mantenha a terra úmida, mas nunca alagada, confira o furo do vaso, deixe a hortelã sozinha e pode sem dó. Salve este texto para a próxima vez que a dúvida bater e conte para quem também tem medo de errar. Gentileza gera gentileza."
+  },
+  "fonteNoticia": null
+}
